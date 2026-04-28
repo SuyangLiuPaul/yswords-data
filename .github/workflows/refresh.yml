@@ -39,7 +39,13 @@ jobs:
       - name: Refresh news data
         if: steps.schedule.outputs.should_run == 'true'
         env:
+          # The refresh script accepts the key under any of these
+          # variable names (preferring GEMINI_API_KEYS > GEMINI_API_KEY
+          # > OPENAI_API_KEY). Wiring all three so renaming the secret
+          # in GitHub Actions doesn't break AI enrichment.
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           NEWS_MIN_ITEMS_PER_SECTION: 10
