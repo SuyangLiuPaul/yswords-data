@@ -1,0 +1,35 @@
+name: Validate datasets
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Validate datasets against schemas
+        run: npm run validate
+
+      - name: Verify manifest is up to date
+        run: |
+          npm run manifest
+          if ! git diff --quiet data/_manifest.json; then
+            echo "::error::data/_manifest.json is stale. Run 'npm run manifest' locally and commit."
+            git --no-pager diff data/_manifest.json
+            exit 1
+          fi
+
+      - name: Run unit tests
+        run: npm test

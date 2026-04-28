@@ -1,0 +1,19 @@
+{
+  "name": "yswords-data",
+  "private": true,
+  "type": "module",
+  "description": "Central data source for YsWords (yswords.netlify.app) and any future consumers. Hosts JSON datasets at https://yswords-data.netlify.app/data/.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "manifest": "node scripts/manifest.mjs",
+    "refresh": "node scripts/refresh-news.mjs",
+    "build": "npm run validate && npm run manifest",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "rss-parser": "^3.13.0"
+  }
+}

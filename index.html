@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>yswords-data — central data source</title>
+  <meta name="robots" content="noindex">
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+           max-width: 720px; margin: 8vh auto; padding: 0 1.25rem;
+           color: #222; line-height: 1.55; }
+    code { background: #f4f4f7; padding: 2px 6px; border-radius: 4px; }
+    a { color: #1a5fb4; }
+    .grid { display: grid; gap: 0.5rem; margin: 1rem 0 2rem; }
+    .grid a { padding: 0.6rem 0.9rem; border: 1px solid #ddd; border-radius: 8px;
+              text-decoration: none; }
+    .grid a:hover { background: #f4f4f7; }
+    .meta { color: #666; font-size: 0.875rem; }
+  </style>
+</head>
+<body>
+  <h1>yswords-data</h1>
+  <p>Central data source for the <a href="https://yswords.netlify.app">YsWords</a>
+  Bible study app. JSON files here are fetched at runtime; the app
+  always falls back to its bundled snapshot if this site is down.</p>
+
+  <h2>Datasets</h2>
+  <div class="grid">
+    <a href="/data/bible_evidence.json">/data/bible_evidence.json
+      <div class="meta">209 archaeological / manuscript / scientific entries · curated</div></a>
+    <a href="/data/daily_news.json">/data/daily_news.json
+      <div class="meta">Bilingual world / china / australia headlines · refreshed 4×/day</div></a>
+    <a href="/data/daily_verses.json">/data/daily_verses.json
+      <div class="meta">3,650 daily Bible verse references · 10-year cycle</div></a>
+    <a href="/data/_manifest.json">/data/_manifest.json
+      <div class="meta">Versions + sha256 checksums per dataset</div></a>
+  </div>
+
+  <h2>Schemas</h2>
+  <div class="grid">
+    <a href="/schemas/bible_evidence.schema.json">/schemas/bible_evidence.schema.json</a>
+    <a href="/schemas/daily_news.schema.json">/schemas/daily_news.schema.json</a>
+    <a href="/schemas/daily_verses.schema.json">/schemas/daily_verses.schema.json</a>
+  </div>
+
+  <h2>Use from your own app</h2>
+  <pre><code>fetch('https://yswords-data.netlify.app/data/bible_evidence.json')
+  .then(r =&gt; r.json())
+  .then(data =&gt; …)</code></pre>
+  <p class="meta">All endpoints return <code>Access-Control-Allow-Origin: *</code>.
+  No API key, no authentication, free to read.</p>
+
+  <p class="meta"><a href="https://github.com/SuyangLiuPaul/yswords-data">Source on GitHub</a></p>
+</body>
+</html>

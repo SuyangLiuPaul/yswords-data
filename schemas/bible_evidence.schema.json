@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://yswords-data.netlify.app/schemas/bible_evidence.schema.json",
+  "title": "Bible Evidence Bundle",
+  "description": "Curated archaeological, manuscript, scientific, and historical evidence entries that intersect with biblical accounts.",
+  "type": "object",
+  "required": ["evidences"],
+  "properties": {
+    "_meta": {
+      "type": "object",
+      "properties": {
+        "version": { "type": ["string", "number"] },
+        "count": { "type": "integer", "minimum": 0 },
+        "generatedAt": { "type": "string" }
+      }
+    },
+    "evidences": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/evidence" }
+    }
+  },
+  "definitions": {
+    "localizedText": {
+      "type": "object",
+      "properties": {
+        "en": { "$ref": "#/definitions/stringOrParagraphs" },
+        "zh-Hans": { "$ref": "#/definitions/stringOrParagraphs" },
+        "zh-Hant": { "$ref": "#/definitions/stringOrParagraphs" }
+      },
+      "required": ["en"]
+    },
+    "stringOrParagraphs": {
+      "oneOf": [
+        { "type": "string" },
+        { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+      ]
+    },
+    "evidence": {
+      "type": "object",
+      "required": ["id", "category", "confidenceLevel", "title"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1, "pattern": "^[a-z0-9_-]+$" },
+        "category": {
+          "type": "string",
+          "enum": ["Archaeology", "History", "Manuscripts", "Science"]
+        },
+        "bibleBooks": { "type": "array", "items": { "type": "string" } },
+        "timeline": { "type": "string" },
+        "discoveryDate": { "type": "string" },
+        "location": { "type": "string" },
+        "scriptureReference": { "type": "string" },
+        "images": { "type": "array", "items": { "type": "string", "format": "uri" } },
+        "academicSources": { "type": "array", "items": { "type": "string" } },
+        "confidenceLevel": {
+          "type": "string",
+          "enum": ["Definitive", "Strong", "Circumstantial"]
+        },
+        "icon": { "type": "string" },
+        "title": { "$ref": "#/definitions/localizedText" },
+        "summary": { "$ref": "#/definitions/localizedText" },
+        "description": { "$ref": "#/definitions/localizedText" },
+        "scripturalCorrelation": { "$ref": "#/definitions/localizedText" }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://yswords-data.netlify.app/schemas/daily_verses.schema.json",
+  "title": "Daily Verses",
+  "description": "Bible verse references rotated by day-of-year (10-year unique cycle when length ≥ 3650).",
+  "type": "object",
+  "required": ["verses"],
+  "properties": {
+    "_meta": {
+      "type": "object",
+      "properties": {
+        "version": { "type": ["string", "number"] },
+        "count": { "type": "integer", "minimum": 1 },
+        "generatedAt": { "type": "string" }
+      }
+    },
+    "verses": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          { "type": "string" },
+          {
+            "type": "object",
+            "properties": {
+              "ref": { "type": "string" },
+              "reference": { "type": "string" }
+            }
+          }
+        ]
+      },
+      "minItems": 1
+    }
+  }
+}

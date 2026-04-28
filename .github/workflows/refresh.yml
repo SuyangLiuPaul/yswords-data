@@ -1,0 +1,68 @@
+name: Refresh daily news
+
+# Cron runs hourly. The schedule-window check below gates the actual
+# refresh + commit to four Sydney times: 06 / 11 / 16 / 19. All other
+# hours just log "not a publishing window" and exit cleanly.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Check Sydney publishing window
+        id: schedule
+        run: node scripts/schedule-window.mjs >> "$GITHUB_OUTPUT"
+
+      - name: Skip outside publishing window
+        if: steps.schedule.outputs.should_run != 'true'
+        run: echo "Not a Sydney publishing hour. Local stamp was ${{ steps.schedule.outputs.local_stamp }}."
+
+      - name: Install dependencies
+        if: steps.schedule.outputs.should_run == 'true'
+        run: npm ci
+
+      - name: Refresh news data
+        if: steps.schedule.outputs.should_run == 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          NEWS_MIN_ITEMS_PER_SECTION: 10
+          NEWS_MAX_ITEMS_PER_SECTION: 18
+        run: npm run refresh
+
+      - name: Validate refreshed data
+        if: steps.schedule.outputs.should_run == 'true'
+        run: npm run validate
+
+      - name: Regenerate manifest
+        if: steps.schedule.outputs.should_run == 'true'
+        run: npm run manifest
+
+      - name: Commit + push
+        if: steps.schedule.outputs.should_run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/daily_news.json data/_manifest.json
+          if git diff --cached --quiet; then
+            echo "No data changes; skipping commit."
+            exit 0
+          fi
+          git commit -m "chore: refresh daily news"
+          git push

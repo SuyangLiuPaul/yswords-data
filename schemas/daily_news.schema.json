@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://yswords-data.netlify.app/schemas/daily_news.schema.json",
+  "title": "Daily News Bundle",
+  "description": "Bilingual daily-news digest with thematic Bible verses. Refreshed 4× daily by GitHub Actions.",
+  "type": "object",
+  "required": ["sections"],
+  "properties": {
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "editionDate": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "url": { "type": "string", "format": "uri" },
+          "category": { "type": "string", "enum": ["world", "china", "australia"] }
+        }
+      }
+    },
+    "sections": {
+      "type": "object",
+      "patternProperties": {
+        "^(world|china|australia)$": { "$ref": "#/definitions/section" }
+      }
+    }
+  },
+  "definitions": {
+    "localized": {
+      "type": "object",
+      "properties": {
+        "en": { "type": "string" },
+        "zh": { "type": ["string", "null"] }
+      }
+    },
+    "section": {
+      "type": "object",
+      "required": ["id", "title", "items"],
+      "properties": {
+        "id": { "type": "string", "enum": ["world", "china", "australia"] },
+        "title": { "$ref": "#/definitions/localized" },
+        "strap": { "$ref": "#/definitions/localized" },
+        "sourceNotes": { "type": "array", "items": { "type": "string" } },
+        "items": { "type": "array", "items": { "$ref": "#/definitions/article" } }
+      }
+    },
+    "article": {
+      "type": "object",
+      "required": ["id", "section", "source", "link", "title", "verse"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "section": { "type": "string", "enum": ["world", "china", "australia"] },
+        "source": { "type": "string" },
+        "sourceUrl": { "type": "string" },
+        "link": { "type": "string", "format": "uri" },
+        "image": { "type": ["string", "null"] },
+        "publishedAt": { "type": "string" },
+        "title": { "$ref": "#/definitions/localized" },
+        "summary": { "$ref": "#/definitions/localized" },
+        "reflection": {
+          "type": "object",
+          "properties": {
+            "en": { "type": "string" },
+            "zh": { "type": "string" }
+          }
+        },
+        "verse": {
+          "type": "object",
+          "required": ["reference", "textEn", "themeEn"],
+          "properties": {
+            "reference": { "type": "string" },
+            "textEn": { "type": "string" },
+            "textZh": { "type": "string" },
+            "themeEn": { "type": "string" },
+            "themeZh": { "type": "string" }
+          }
+        },
+        "translationState": { "type": "string", "enum": ["localized", "fallback"] }
+      }
+    }
+  }
+}

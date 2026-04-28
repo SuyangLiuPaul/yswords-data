@@ -1,0 +1,38 @@
+# yswords-data — central data source for YsWords and friends.
+#
+# Static deploy of `data/`. Consumers (yswords.netlify.app) read each
+# dataset URL with permissive CORS so any Flutter / web client can
+# fetch them.
+
+[build]
+  publish = "."
+  # Build pre-flight: validate schemas, regenerate manifest. If
+  # validate.mjs exits non-zero, Netlify aborts the deploy.
+  command = "npm install && npm run build"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# All JSON datasets — wide-open CORS, 5-minute browser cache.
+# Edge cache is short so a fresh GitHub Actions push propagates
+# within minutes; clients still cache 5 min to avoid refetch storms.
+[[headers]]
+  for = "/data/*.json"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=300"
+    Content-Type = "application/json; charset=utf-8"
+
+# Schemas are also public so external integrators can validate.
+[[headers]]
+  for = "/schemas/*.json"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=3600"
+    Content-Type = "application/json; charset=utf-8"
+
+# Friendly landing page if anyone hits the root.
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200
