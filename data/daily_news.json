@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T20:16:40.475Z",
+  "generatedAt": "2026-04-28T23:06:44.617Z",
   "editionDate": "2026-04-29",
   "sources": [
     {
@@ -105,26 +105,200 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "The Guardian World",
         "BBC News World",
+        "The Guardian World",
         "SBS News World",
         "DW World"
       ],
       "items": [
+        {
+          "id": "www-bbc-com-news-articles-cvgz4rvlem5o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/36ac/live/c284d420-4347-11f1-bd52-e755d604ece4.png",
+          "publishedAt": "2026-04-28T22:51:58.000Z",
+          "title": {
+            "en": "Comey charged with threatening Trump's life in Instagram post",
+            "zh": "科米被控在Instagram帖子中威胁特朗普生命"
+          },
+          "summary": {
+            "en": "Former FBI Director Comey has been charged with threatening Trump's life. The charge relates to a 2025 Instagram post featuring a seashell photo, which the justice department alleges constitutes a call for violence against Trump.",
+            "zh": "前联邦调查局局长科米被控威胁特朗普生命。这项指控源于他2025年发布的一张贝壳照片，司法部称该照片煽动对特朗普的暴力。"
+          },
+          "reflection": {
+            "en": "This case highlights the complexities of interpreting public communications and the legal boundaries of free expression, particularly when allegations of threats arise. It underscores the importance of upholding principles of justice and accountability in legal proceedings,...",
+            "zh": "此案凸显了公共言论解读的复杂性以及言论自由的法律界限，尤其是在涉及威胁指控时。它强调了在法律程序中坚持正义和问责原则的重要性，确保在彻底审查事实的同时，所有当事人都受到尊重。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的，无非是行公义，好怜悯，存谦卑的心与你的神同行。",
+            "themeEn": "Justice",
+            "themeZh": "公义"
+          },
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-live-2026-apr-29-australia-news-live-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/ccd3a62614ae2eae2df55033b5b0e879cefdb90e/480_0_6138_4911/master/6138.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=28f1dd5c302b68839990aa65b6c06a99",
+          "publishedAt": "2026-04-28T22:47:20.000Z",
+          "title": {
+            "en": "Australia news live: $1.5m boost for EV network; markets braced for inflation shock",
+            "zh": "澳大利亚新闻：查尔斯国王赞扬Aukus；电动汽车网络获150万澳元资助"
+          },
+          "summary": {
+            "en": "King Charles III praised the 'ambitious' Aukus security pact and expressed pride in Australia during a speech to the US Congress. Concurrently, Australia's electric vehicle network is set to receive a $1.5 million boost.",
+            "zh": "查尔斯三世国王在美国国会演讲时，赞扬了“雄心勃勃”的Aukus安全协议，并表达了对澳大利亚的自豪。与此同时，澳大利亚的电动汽车网络将获得150万澳元的资金支持。"
+          },
+          "reflection": {
+            "en": "The news highlights various aspects of leadership, from King Charles's diplomatic engagement to governmental decisions on infrastructure like the EV network. These actions reflect a nation's ongoing efforts to navigate global alliances and domestic development, underscoring the...",
+            "zh": "这则新闻突显了领导力的各个方面，从查尔斯国王的外交参与到政府对电动汽车网络等基础设施的决策。这些行动反映了一个国家在驾驭全球联盟和国内发展方面的持续努力，强调了引导国家未来所固有的公共责任。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Leadership",
+            "themeZh": "领导"
+          },
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-apr-28-deaths-projected-to-outnumber-birt",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/apr/28/deaths-projected-to-outnumber-births-in-uk-every-year-from-2026",
+          "image": "https://i.guim.co.uk/img/media/505aa03fa80c5b5fed76dfe2d6a1de2c35f56ea2/331_402_3257_2605/master/3257.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb4d32751a94afe0f1c744dd2c404b2c",
+          "publishedAt": "2026-04-28T22:42:13.000Z",
+          "title": {
+            "en": "Deaths projected to outnumber births in UK every year from 2026",
+            "zh": "英国预计从2026年起每年死亡人数将超过出生人数"
+          },
+          "summary": {
+            "en": "The UK is projected to experience more deaths than births annually starting from 2026, according to the latest ONS figures. This trend indicates a slower population growth rate over the coming decades than previously anticipated.",
+            "zh": "根据英国国家统计局的最新数据，预计从2026年起，英国每年的死亡人数将超过出生人数。这一趋势表明，未来几十年的人口增长率将低于此前预期。"
+          },
+          "reflection": {
+            "en": "The demographic shift towards an aging population and slower growth presents challenges for societal planning. It calls for careful stewardship of resources, ensuring adequate provision for all generations, and fostering policies that promote the common good, reflecting a...",
+            "zh": "人口老龄化和增长放缓的趋势对社会规划提出了挑战。这要求我们谨慎管理资源，确保为所有世代提供充足的保障，并制定促进共同利益的政策，体现出适应和支持社区福祉的集体责任。"
+          },
+          "verse": {
+            "reference": "1 Peter 4:10",
+            "textEn": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace.",
+            "textZh": "各人要照所得的恩赐彼此服事，作神百般恩赐的好管家。",
+            "themeEn": "Stewardship",
+            "themeZh": "管家"
+          },
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-politics-2026-apr-28-starmer-sees-off-tory-calls-for",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/politics/2026/apr/28/starmer-sees-off-tory-calls-for-inquiry-into-mandelson-role-after-no-10-flexes-muscle",
+          "image": "https://i.guim.co.uk/img/media/6b0b6883246aacfbb62949680c1c2501874ba1a6/459_0_4044_3235/master/4044.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfde62af526a0cfecb3c6487e98f00fa",
+          "publishedAt": "2026-04-28T22:40:01.000Z",
+          "title": {
+            "en": "Starmer sees off major Labour rebellion over call for Mandelson inquiry",
+            "zh": "斯塔默阻止了工党因呼吁曼德尔森调查而发生的重大叛乱"
+          },
+          "summary": {
+            "en": "No 10 deploys full weight to block parliamentary inquiry bid as MPs warn PM running out of political capital Keir Starmer has seen off a major Labour rebellion over a bid to force a parliamentary investigation into his appointment of Peter Mandelson, but many of his own MPs...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peace",
+            "themeZh": "和平"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-us-news-live-2026-apr-28-donald-trump-king-charles-m",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/us-news/live/2026/apr/28/donald-trump-king-charles-melania-camilla-white-house-congress-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/c5d490da3b5713b0f3e83fea1d0308a4f0ea8b95/329_0_2690_2152/master/2690.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f882409a925a59b68c3e5a9ba94e9889",
-          "publishedAt": "2026-04-28T20:03:47.000Z",
+          "image": "https://i.guim.co.uk/img/media/9e1662f27bbd6b845883cd6a6dcbd698892f28ee/210_0_4499_3597/master/4499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=310d141962c40b201f1d2bf852a08f35",
+          "publishedAt": "2026-04-28T22:37:50.000Z",
           "title": {
-            "en": "King Charles hails ‘unbreakable’ US-UK bond despite ‘disagreements’ as he addresses joint session of Congress – live",
-            "zh": "查尔斯国王在国会联席会议上发表讲话时赞扬“牢不可破”的美英关系，尽管存在“分歧”"
+            "en": "Justice department claims Comey made ‘threat to kill’ Trump as it announces charges against former FBI director – live",
+            "zh": "司法部声称科米在宣布对前联邦调查局局长的指控时“威胁要杀死”特朗普 - 直播"
           },
           "summary": {
-            "en": "King’s speech to Congress underlines that ‘time and again our two countries have always found ways to come together’ Sign up for the Breaking News US email Donald Trump has reportedly signaled to his top advisers that he is dissatisfied with and unlikely to accept Iran’s latest...",
+            "en": "Charges appear to stem from photo posted on Comey’s Instagram account last year; former FBI director expresses faith that he will be exonerated at trial Sign up for the Breaking News US email Donald Trump has reportedly signaled to his top advisers that he is dissatisfied with...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right ... think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的......这些事你们都要思念。",
+            "themeEn": "Discernment",
+            "themeZh": "分辨"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-uk-news-2026-apr-28-king-charles-speech-congress",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/apr/28/king-charles-speech-congress",
+          "image": "https://i.guim.co.uk/img/media/2795a59d3ec2b2e08f16bf39fb92379a2e9a5910/225_0_2243_1795/master/2243.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=049ec726562c71981c7587e5102b8d02",
+          "publishedAt": "2026-04-28T22:26:06.000Z",
+          "title": {
+            "en": "King Charles praises Nato and urges defence of Ukraine in key speech during Trump visit",
+            "zh": "查尔斯国王在特朗普访问期间的重要讲话中赞扬北约并敦促捍卫乌克兰"
+          },
+          "summary": {
+            "en": "Remarks marking 250th anniversary of American independence tell US lawmakers: ‘The actions of this great nation matter’ King Charles has extolled the importance of Britain’s “special relationship” with the US in a speech to Congress that made pointed reference to the importance...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的，无非是行公义，好怜悯，存谦卑的心与你的神同行。",
+            "themeEn": "Justice",
+            "themeZh": "公义"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-trump-hales-two-kings-in-speech-with-charles",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/trump-hales-two-kings-in-speech-with-charles-as-the-british-monarch-gets-political/khv3v64wq",
+          "image": "https://assets.sbs.com.au/dims4/default/04dfdee/2147483647/strip/false/crop/910x418+0+303/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F73%2F30%2Fdf846cc64c459de37e0522953548%2Fgettyimages-2273463719.jpg",
+          "publishedAt": "2026-04-28T22:17:05.000Z",
+          "title": {
+            "en": "Trump hails 'Two Kings' after meeting Charles, as the British monarch gets political",
+            "zh": "特朗普在会见查尔斯后称赞“两位国王”，因为英国君主变得政治化"
+          },
+          "summary": {
+            "en": "The US president has called King Charles \"a fantastic person\" though he has repeatedly criticised UK Prime Minister Sir Keir Starmer.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "reflection": {
@@ -141,31 +315,60 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-com-news-articles-cvgz4rvlem5o-at-medium-rss-at-campaign-rss",
+          "id": "www-bbc-com-news-videos-cpqpjw1zdvjo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/64ae/live/904016d0-432b-11f1-b55a-69833a1ab7a9.jpg",
-          "publishedAt": "2026-04-28T19:54:14.000Z",
+          "link": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1ba9/live/21274a60-434a-11f1-b55d-0f258dce1735.jpg",
+          "publishedAt": "2026-04-28T21:58:17.000Z",
           "title": {
-            "en": "Former FBI director James Comey indicted for second time",
-            "zh": "前联邦调查局局长詹姆斯·科米第二次被起诉"
+            "en": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
+            "zh": "观看：乌克兰前线机器人救出老妇"
           },
           "summary": {
-            "en": "The indictment stems from a 2025 photo of seashells posted by Comey that critics have said encouraged violence against the US president.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "The Ukrainian army spotted the woman using a drone and sent the machine to her rescue as she was trying to leave her war-torn village.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Leadership",
-            "themeZh": "领导"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peace",
+            "themeZh": "和平"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-uae-leaves-opec-wwhy-this-is-a-blow-to-the-g",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/uae-leaves-opec-wwhy-this-is-a-blow-to-the-group-but-may-benefit-consumers/wpgh5wyts",
+          "image": "https://assets.sbs.com.au/dims4/default/4eb815a/2147483647/strip/false/crop/1024x471+0+106/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F0f%2F5b%2F3b2feaa54773a17fe5c04cc127ed%2Fgettyimages-141180281.jpg",
+          "publishedAt": "2026-04-28T20:53:16.000Z",
+          "title": {
+            "en": "UAE leaves OPEC: Why this is a blow to the oil producing group but may benefit consumers",
+            "zh": "阿联酋退出欧佩克：为什么这对石油生产集团是一个打击，但可能使消费者受益"
+          },
+          "summary": {
+            "en": "The United Arab Emirates' withdraw from the oil cartels has caused fresh shockwaves as energy prices soar.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "1 Peter 4:10",
+            "textEn": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace.",
+            "textZh": "各人要照所得的恩赐彼此服事，作神百般恩赐的好管家。",
+            "themeEn": "Stewardship",
+            "themeZh": "管家"
           },
           "translationState": "fallback"
         },
@@ -175,7 +378,7 @@
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c8c9/live/5962f9c0-431c-11f1-89cc-ff708b4a3776.jpg",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e841/live/16698870-4347-11f1-bd52-e755d604ece4.jpg",
           "publishedAt": "2026-04-28T19:48:49.000Z",
           "title": {
             "en": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
@@ -195,6 +398,35 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peace",
             "themeZh": "和平"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-eu-parliament-approves-common-definition-of-rape-a-7697274",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/eu-parliament-approves-common-definition-of-rape/a-76972748?maca=en-rss-en-world-4025-rdf",
+          "image": null,
+          "publishedAt": "2026-04-28T19:46:00.000Z",
+          "title": {
+            "en": "EU Parliament approves common definition of rape",
+            "zh": "欧盟议会批准强奸的共同定义"
+          },
+          "summary": {
+            "en": "Until now, definitions of what constitutes rape under criminal law had varied significantly across the EU, ranging from \"only yes means yes\" to \"only no means no.\"",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Leadership",
+            "themeZh": "领导"
           },
           "translationState": "fallback"
         },
@@ -257,93 +489,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-apr-28-donald-trump-passports",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/apr/28/donald-trump-passports",
-          "image": "https://i.guim.co.uk/img/media/3ed187b450b2ca9cb64940ff379cc3252675aa22/230_0_2019_1616/master/2019.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=731886064fe428c720e7ae2469ea90d9",
-          "publishedAt": "2026-04-28T19:34:39.000Z",
-          "title": {
-            "en": "US to issue ‘America250’ passports featuring Donald Trump’s image",
-            "zh": "美国将发行印有唐纳德·特朗普形象的“America250”护照"
-          },
-          "summary": {
-            "en": "The limited-edition versions will place the US president’s portrait inside cover alongside declaration text and flag motifs US politics live – latest updates The United States government, marking 250 years of independence from a monarchy, will this summer issue passports...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Leadership",
-            "themeZh": "领导"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-world-live-2026-apr-28-middle-east-crisis-live-iran-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/live/2026/apr/28/middle-east-crisis-live-iran-us-israel-lebanon-hormuz-nuclear-oil-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/5b73add81022dc3da3a58a186a97e6d872a24fb7/480_0_4801_3841/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=89a909b76b6a5bae3629761e2e11aeb4",
-          "publishedAt": "2026-04-28T19:34:18.000Z",
-          "title": {
-            "en": "Middle East crisis live: Trump hits back at German chancellor after Merz said Iran was ‘humiliating’ US",
-            "zh": "中东危机直播：默茨称伊朗“羞辱”美国后，特朗普回击德国总理"
-          },
-          "summary": {
-            "en": "US president claims Friedrich Merz ‘doesn’t know what he’s talking about’ after German leader criticised US strategy in Iran US is being ‘humiliated’ by Iran’s leadership, says Friedrich Merz Hezbollah drone strikes target Israeli soldiers in southern Lebanon Saudi Arabia is to...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Galatians 6:2",
-            "textEn": "Carry each other's burdens, and in this way you will fulfill the law of Christ.",
-            "textZh": "你们各人的重担要互相担当，如此就完全了基督的律法。",
-            "themeEn": "Compassion",
-            "themeZh": "怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-apr-28-david-morens-covid-fauci",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/apr/28/david-morens-covid-fauci",
-          "image": "https://i.guim.co.uk/img/media/30004bf800ed70629918451e1f2e0a1d84b5cca7/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bc0526f2b60fb90295b42613528a3f2",
-          "publishedAt": "2026-04-28T19:33:37.000Z",
-          "title": {
-            "en": "Former Fauci aide charged with concealing Covid records",
-            "zh": "前福奇助手被控隐瞒新冠病毒记录"
-          },
-          "summary": {
-            "en": "Ex-NIAID employee David Morens accused of trying to shield correspondence related to outbreak of pandemic An ex-adviser to former top public US health official Anthony Fauci has been indicted by Trump administration prosecutors on accusations that he illicitly concealed federal...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Galatians 6:2",
-            "textEn": "Carry each other's burdens, and in this way you will fulfill the law of Christ.",
-            "textZh": "你们各人的重担要互相担当，如此就完全了基督的律法。",
-            "themeEn": "Compassion",
-            "themeZh": "怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-dw-com-en-how-a-controversial-gas-pipeline-deal-could-further-stall-",
           "section": "world",
           "source": "DW World",
@@ -357,35 +502,6 @@
           },
           "summary": {
             "en": "A US backed gas pipeline could help Bosnia cut reliance on Russian energy. But Brussels warns that a deal with a company linked to Trump allies could put the country's EU hopes at risk.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peace",
-            "themeZh": "和平"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-apr-28-fcc-abc-jimmy-kimmel",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/apr/28/fcc-abc-jimmy-kimmel",
-          "image": "https://i.guim.co.uk/img/media/b11cc9e1c44dd74e6aa8cf702969dd41f626d70d/375_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ca3cf6f4d00c8ea281a39ac4aad65d2",
-          "publishedAt": "2026-04-28T19:07:27.000Z",
-          "title": {
-            "en": "FCC orders review of ABC licenses after Jimmy Kimmel’s Melania Trump joke",
-            "zh": "吉米·金梅尔 (Jimmy Kimmel) 开梅拉尼娅·特朗普 (Melania Trump) 玩笑后，美国联邦通信委员会 (FCC) 下令审查美国广播公司 (ABC) 的许可证"
-          },
-          "summary": {
-            "en": "Eight local broadcasting licenses under review after White House launched attack on late-night host over comment Sign up for the Breaking News US email to get newsletter alerts in your inbox The US’s top media watchdog announced on Tuesday that it is accelerating the review of...",
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "reflection": {
@@ -427,35 +543,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peace",
             "themeZh": "和平"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cd9pdkeekkzo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e9eb/live/399fbb60-4320-11f1-89cc-ff708b4a3776.jpg",
-          "publishedAt": "2026-04-28T16:59:49.000Z",
-          "title": {
-            "en": "Ex-TV showgirl's pardon at centre of widening Italian scandal",
-            "zh": "前电视女歌星的赦免是意大利丑闻不断扩大的中心"
-          },
-          "summary": {
-            "en": "Nicole Minetti was convicted of facilitating prostitution in connection with the notorious \"bunga bunga\" parties at Silvio Berlusconi's villa.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的，无非是行公义，好怜悯，存谦卑的心与你的神同行。",
-            "themeEn": "Justice",
-            "themeZh": "公义"
           },
           "translationState": "fallback"
         },
@@ -518,35 +605,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-dw-com-en-uae-quits-opec-in-shock-move-amid-energy-turmoil-a-7696857",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/uae-quits-opec-in-shock-move-amid-energy-turmoil/a-76968579?maca=en-rss-en-world-4025-rdf",
-          "image": null,
-          "publishedAt": "2026-04-28T12:58:00.000Z",
-          "title": {
-            "en": "UAE quits OPEC in shock move amid energy turmoil",
-            "zh": "阿联酋在能源动荡中退出欧佩克，此举令人震惊"
-          },
-          "summary": {
-            "en": "The United Arab Emirates is withdrawing from the OPEC and OPEC+ oil cartels as the Iran war drives a historic energy shock and rattles the global economy.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "1 Peter 4:10",
-            "textEn": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace.",
-            "textZh": "各人要照所得的恩赐彼此服事，作神百般恩赐的好管家。",
-            "themeEn": "Stewardship",
-            "themeZh": "管家"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-ukraine-president-slams-israel-over-grain-sh",
           "section": "world",
           "source": "SBS News World",
@@ -572,64 +630,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peace",
             "themeZh": "和平"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-socceroo-slams-trump-peace-prize-as-a-mocker",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/socceroo-slams-trump-peace-prize-as-a-mockery-of-fifa-human-rights-policy/26wn0x4cs",
-          "image": "https://assets.sbs.com.au/dims4/default/354eb8a/2147483647/strip/false/crop/1800x827+0+222/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fed%2F15%2Feb334ac840679c39265c8998a2c9%2Ffifa-president-gianni-infantino-presents-peace-prize-to-president-donald-trump-during-the-2026-fifa-world-cup-draw-aap.jpg",
-          "publishedAt": "2026-04-28T08:54:07.000Z",
-          "title": {
-            "en": "Socceroo slams Trump peace prize as a mockery of FIFA Human Rights Policy",
-            "zh": "足球俱乐部抨击特朗普和平奖是对国际足联人权政策的嘲弄"
-          },
-          "summary": {
-            "en": "FIFA's Human Rights Framework allows hosts to protect freedom of expression and prohibit discrimination during the 2026 FIFA World Cup.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的，无非是行公义，好怜悯，存谦卑的心与你的神同行。",
-            "themeEn": "Justice",
-            "themeZh": "公义"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-king-charles-us-state-visit-trump-itijg9ptk",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/king-charles-us-state-visit-trump/itijg9ptk",
-          "image": "https://assets.sbs.com.au/dims4/default/74ab67d/2147483647/strip/false/crop/1920x882+0+99/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fa1%2Fc1%2F01750f2b44a592a03581df81b710%2Fgfx-280426-king-charles-us-header.png",
-          "publishedAt": "2026-04-28T06:05:45.000Z",
-          "title": {
-            "en": "King Charles, Donald Trump and the test of a strained 'special relationship'",
-            "zh": "查尔斯国王、唐纳德特朗普以及紧张的“特殊关系”的考验"
-          },
-          "summary": {
-            "en": "King Charles must stay above politics, but his US tour might be the UK government's attempt to play a \"trump card\".",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Leadership",
-            "themeZh": "领导"
           },
           "translationState": "fallback"
         }
@@ -687,6 +687,7 @@
           "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
           "link": "https://www.dw.com/en/china-blocks-meta-s-2b-acquisition-of-ai-startup-manus/a-76957480?maca=en-rss-en-asia-5133-rdf",
           "image": null,
+          "imageQuery": "China blocking Meta AI startup acquisition",
           "publishedAt": "2026-04-27T18:35:00.000Z",
           "title": {
             "en": "China blocks Meta's $2B acquisition of AI startup Manus",
@@ -719,24 +720,24 @@
           "publishedAt": "2026-04-27T16:08:33.000Z",
           "title": {
             "en": "EU faces ‘China shock’ as EV imports drive Beijing’s record surplus with bloc",
-            "zh": "欧盟面临“中国冲击”，电动汽车进口推动中国与欧盟创纪录顺差"
+            "zh": "欧盟面临“中国冲击”，电动汽车进口推动北京对欧盟贸易顺差创纪录"
           },
           "summary": {
-            "en": "China sold goods worth about $148bn to EU in first quarter of year, but imported just $65bn The EU is experiencing a prolonged “China shock” as a flood of Chinese EVs into Europe helped push Beijing to a record surplus with the bloc. New data showed China’s trade surplus – where...",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+            "en": "The European Union is experiencing a prolonged “China shock” as a surge in Chinese electric vehicle imports has contributed to Beijing's record trade surplus with the bloc. In the first quarter, China's exports to the EU were approximately $148 billion, while imports from the EU...",
+            "zh": "欧盟正经历一场长期的“中国冲击”，中国电动汽车进口激增，推动北京对欧盟的贸易顺差创下历史新高。第一季度，中国对欧盟出口额约为1480亿美元，而从欧盟进口额仅为650亿美元。"
           },
           "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "Economic interactions, such as international trade, highlight the importance of thoughtful stewardship of resources and the pursuit of provision that genuinely serves the common good for all parties involved. Balancing trade flows can be seen as an aspect of ensuring sustainable...",
+            "zh": "经济互动，如国际贸易，突显了深思熟虑地管理资源的重要性，以及追求真正服务于所有参与方共同利益的供应。平衡贸易流动可以被视为确保可持续供应和互惠互利的一个方面。"
           },
           "verse": {
-            "reference": "Galatians 6:2",
-            "textEn": "Carry each other's burdens, and in this way you will fulfill the law of Christ.",
-            "textZh": "你们各人的重担要互相担当，如此就完全了基督的律法。",
-            "themeEn": "Compassion",
-            "themeZh": "怜悯"
+            "reference": "1 Peter 4:10",
+            "textEn": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace.",
+            "textZh": "各人要照所得的恩赐彼此服事，作神百般恩赐的好管家。",
+            "themeEn": "Stewardship",
+            "themeZh": "管家"
           },
-          "translationState": "fallback"
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-world-2026-apr-27-china-blocks-meta-takeover-manus-a",
@@ -752,18 +753,18 @@
           },
           "summary": {
             "en": "Beijing says domestic tech companies must seek explicit government approval for accepting US investment Business live – latest updates China has blocked Meta’s $2bn (£1.5bn) acquisition of an AI startup as it cracks down on US investments in domestic tech companies. Mark...",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "zh": "这是一则来自中国栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Leadership",
-            "themeZh": "领导"
+            "reference": "1 Peter 4:10",
+            "textEn": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace.",
+            "textZh": "各人要照所得的恩赐彼此服事，作神百般恩赐的好管家。",
+            "themeEn": "Stewardship",
+            "themeZh": "管家"
           },
           "translationState": "fallback"
         },
@@ -835,15 +836,15 @@
           "publishedAt": "2026-04-27T06:24:42.000Z",
           "title": {
             "en": "Where did Australia rank as global military spending hit a record $4 trillion?",
-            "zh": "全球军费开支达到创纪录的 4 万亿美元，澳大利亚排名第几？"
+            "zh": "全球军事开支创纪录达4万亿美元，澳大利亚排名如何？"
           },
           "summary": {
-            "en": "The United States, China and Russia accounted for more than half of global defence expenditure, new research reveals.",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "New research indicates that global military spending reached a record $4 trillion, with the United States, China, and Russia collectively responsible for over half of this expenditure.",
+            "zh": "最新研究显示，全球军事开支达到创纪录的4万亿美元，其中美国、中国和俄罗斯三国合计占了总开支的一半以上。"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The significant increase in global military spending by leading nations prompts reflection on the pursuit of peace. While defense is often cited, the scale of expenditure raises questions about the balance between security through arms and the active practice of restraint and...",
+            "zh": "主要国家全球军事开支的显著增长，促使我们反思和平的追求。尽管国防常被提及，但如此庞大的开支引发了关于通过军备实现安全与积极实践克制和外交之间平衡的疑问，而后者是促进国家间持久和平的基础。"
           },
           "verse": {
             "reference": "Matthew 5:9",
@@ -852,7 +853,7 @@
             "themeEn": "Peace",
             "themeZh": "和平"
           },
-          "translationState": "fallback"
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-news-audio-2026-apr-27-inside-chinas-robotics-revolu",
@@ -959,6 +960,64 @@
       ],
       "items": [
         {
+          "id": "www-theguardian-com-australia-news-live-2026-apr-29-australia-news-live-",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/ccd3a62614ae2eae2df55033b5b0e879cefdb90e/480_0_6138_4911/master/6138.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=28f1dd5c302b68839990aa65b6c06a99",
+          "publishedAt": "2026-04-28T22:53:58.000Z",
+          "title": {
+            "en": "Australia news live: $1.5m boost for EV network; markets braced for inflation shock",
+            "zh": "澳大利亚新闻直播：电动汽车网络增加 150 万美元；市场已做好应对通胀冲击的准备"
+          },
+          "summary": {
+            "en": "Meanwhile King Charles praises ‘ambitious’ Aukus and expresses pride in Australia in speech to US Congress. Follow today’s news live Get our breaking news email, free app or daily news podcast Queensland health minister still has major concerns about Thriving Kids Tim Nicholls,...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "1 Peter 4:10",
+            "textEn": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace.",
+            "textZh": "各人要照所得的恩赐彼此服事，作神百般恩赐的好管家。",
+            "themeEn": "Stewardship",
+            "themeZh": "管家"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-apr-29-morning-mail-wednesday-nt",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/apr/29/morning-mail-wednesday-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/92cd120ad4ee3820d782f1557b281b83a5c6a85b/352_0_2917_2334/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f8ea4121a3a916bbf7f50ede85c2d56",
+          "publishedAt": "2026-04-28T21:11:44.000Z",
+          "title": {
+            "en": "Morning Mail: UAE quits Opec oil cartel, Pauline Hanson tops political leader approval ratings, King Charles addresses Congress",
+            "zh": "早间邮报：阿联酋退出欧佩克石油卡特尔，宝琳·汉森（Pauline Hanson）位居政治领导人支持率榜首，查尔斯国王在国会发表讲话"
+          },
+          "summary": {
+            "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here, and finish your day with our Afternoon Update newsletter Morning everyone. The tumult in the global energy market has taken an unexpected turn after the United Arab Emirates quit the Opec oil cartel...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Leadership",
+            "themeZh": "领导"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-theguardian-com-australia-news-ng-interactive-2026-apr-28-fuel-crisi",
           "section": "australia",
           "source": "The Guardian Australia",
@@ -988,35 +1047,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-apr-29-evacuees-from-flooded-rem",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/apr/29/evacuees-from-flooded-remote-indigenous-areas-in-nt-housed-in-compound-likened-to-a-prison-camp-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/90be23d93baab26701bcf14fa14c35010bc786e6/741_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8926b1371422904e1e8c0b90455a1435",
-          "publishedAt": "2026-04-28T15:00:14.000Z",
-          "title": {
-            "en": "Evacuees from flooded remote Indigenous areas in NT housed in compound likened to ‘a prison camp’",
-            "zh": "从北领地被洪水淹没的偏远原住民地区撤离的人被安置在被比作“战俘营”的大院里"
-          },
-          "summary": {
-            "en": "Residents must sign in and out at a security gate, and vehicles and bags are routinely searched Get our breaking news email, free app or daily news podcast Hundreds of evacuees from remote Indigenous communities in the Northern Territory have been housed behind temporary fences...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Galatians 6:2",
-            "textEn": "Carry each other's burdens, and in this way you will fulfill the law of Christ.",
-            "textZh": "你们各人的重担要互相担当，如此就完全了基督的律法。",
-            "themeEn": "Compassion",
-            "themeZh": "怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-theguardian-com-australia-news-2026-apr-28-lebanese-citizens-denied-",
           "section": "australia",
           "source": "The Guardian Australia",
@@ -1029,7 +1059,7 @@
             "zh": "由于担心非官方“黑名单”，与澳大利亚伴侣的黎巴嫩公民被拒绝发放访客签证"
           },
           "summary": {
-            "en": "Rejection letters for those applying to enter Australia while they wait for their partner visas read like ‘cut-and-paste’ refusals, migration agents say Get our breaking news email, free app or daily news podcast Every night Maram cries for her father. “‘Dad, Dad, Dad’, all the...",
+            "en": "Rejection letters for those applying to enter Australia while they wait for their partner visas read like ‘cut-and-paste’ refusals, migration agents say Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Every night...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "reflection": {
@@ -1046,60 +1076,31 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-film-2026-apr-28-actor-deborah-mailman-interview-peo",
+          "id": "www-theguardian-com-australia-news-2026-apr-29-evacuees-from-flooded-rem",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/film/2026/apr/28/actor-deborah-mailman-interview-people-permission-cruel-racist-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/55008a1ac676098b4bd5790f15365600d2cd6ead/470_0_2393_1914/master/2393.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09ce8883a47cf1c0f3f783ecd180379a",
-          "publishedAt": "2026-04-28T15:00:13.000Z",
+          "link": "https://www.theguardian.com/australia-news/2026/apr/29/evacuees-from-flooded-remote-indigenous-areas-in-nt-housed-in-compound-likened-to-a-prison-camp-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/90be23d93baab26701bcf14fa14c35010bc786e6/741_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8926b1371422904e1e8c0b90455a1435",
+          "publishedAt": "2026-04-28T15:00:14.000Z",
           "title": {
-            "en": "Deborah Mailman: ‘There’s almost a permission now – people can just be incredibly cruel and racist’",
-            "zh": "黛博拉·梅尔曼：“现在几乎得到了许可——人们可能会变得极其残忍和种族主义”"
+            "en": "Evacuees from flooded remote Indigenous areas in NT housed in compound likened to ‘a prison camp’",
+            "zh": "从北领地被洪水淹没的偏远原住民地区撤离的人被安置在被比作“战俘营”的大院里"
           },
           "summary": {
-            "en": "The actor, who reunites with Warwick Thornton in his frontier western Wolfram, reflects on her late parents, the failed voice referendum and her obsession with space Get our weekend culture and lifestyle email Deborah Mailman sat in rusty red sand on Arrernte Country in Central...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Exclusive: Residents must sign in and out at a security gate, and vehicles and bags are routinely searched Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Hundreds of evacuees from remote Indigenous communities...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peace",
-            "themeZh": "和平"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-apr-28-pauline-hanson-one-nation",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/apr/28/pauline-hanson-one-nation-leadership-guardian-essential-poll-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/ca024354efc32907a9761fe15d313a53716f9541/1860_0_3357_2687/master/3357.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1568830707b801d222cea7285dc945e4",
-          "publishedAt": "2026-04-28T15:00:13.000Z",
-          "title": {
-            "en": "Guardian Essential poll: more Australians approve of Hanson’s party leadership than Albanese or Taylor’s",
-            "zh": "《卫报》基本民意调查：支持汉森政党领导的澳大利亚人多于阿尔巴尼斯或泰勒"
-          },
-          "summary": {
-            "en": "One Nation outperforms the Coalition for the first time, while the rightwing populist party’s leader has a positive rating among all age groups Get our breaking news email, free app or daily news podcast A majority of surveyed Australians approve of Pauline Hanson’s leadership...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Leadership",
-            "themeZh": "领导"
+            "reference": "Galatians 6:2",
+            "textEn": "Carry each other's burdens, and in this way you will fulfill the law of Christ.",
+            "textZh": "你们各人的重担要互相担当，如此就完全了基督的律法。",
+            "themeEn": "Compassion",
+            "themeZh": "怜悯"
           },
           "translationState": "fallback"
         },
