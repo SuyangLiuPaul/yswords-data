@@ -56,13 +56,32 @@ jobs:
 
       - name: Commit + push
         if: steps.schedule.outputs.should_run == 'true'
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/daily_news.json data/_manifest.json
           if git diff --cached --quiet; then
             echo "No data changes; skipping commit."
+            echo "did_commit=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "chore: refresh daily news"
           git push
+          echo "did_commit=true" >> "$GITHUB_OUTPUT"
+
+      # Netlify's GitHub-app webhook integration is finicky to set up
+      # via API. Use a build hook (a private POST URL) that Netlify
+      # always honours. The hook URL itself is a secret: leaking it
+      # only lets someone trigger redeploys, no data exposure.
+      - name: Trigger Netlify deploy
+        if: steps.commit.outputs.did_commit == 'true'
+        run: |
+          if [ -z "$NETLIFY_BUILD_HOOK" ]; then
+            echo "NETLIFY_BUILD_HOOK secret not set; skipping deploy trigger."
+            exit 0
+          fi
+          curl -fsS -X POST "$NETLIFY_BUILD_HOOK" -d '{}'
+          echo "Triggered Netlify build."
+        env:
+          NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
