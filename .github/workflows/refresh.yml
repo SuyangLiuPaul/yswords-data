@@ -71,17 +71,30 @@ jobs:
           echo "did_commit=true" >> "$GITHUB_OUTPUT"
 
       # Netlify's GitHub-app webhook integration is finicky to set up
-      # via API. Use a build hook (a private POST URL) that Netlify
-      # always honours. The hook URL itself is a secret: leaking it
-      # only lets someone trigger redeploys, no data exposure.
-      - name: Trigger Netlify deploy
+      # via API. Use build hooks (private POST URLs) that Netlify
+      # always honours. Hook URLs are secrets: leaking only lets
+      # someone trigger redeploys, no data exposure.
+      #
+      # Two consumers rebuild from the same JSON:
+      #   1. yswords-data.netlify.app  — this repo's static deploy.
+      #   2. newsbible.netlify.app     — Astro UI; build script
+      #      pulls daily_news.json from yswords-data via
+      #      `scripts/sync-data.mjs` then runs `astro build`.
+      - name: Trigger Netlify builds
         if: steps.commit.outputs.did_commit == 'true'
         run: |
-          if [ -z "$NETLIFY_BUILD_HOOK" ]; then
-            echo "NETLIFY_BUILD_HOOK secret not set; skipping deploy trigger."
-            exit 0
+          if [ -n "$NETLIFY_BUILD_HOOK" ]; then
+            curl -fsS -X POST "$NETLIFY_BUILD_HOOK" -d '{}' || true
+            echo "Triggered yswords-data build."
+          else
+            echo "NETLIFY_BUILD_HOOK not set; skipping yswords-data trigger."
           fi
-          curl -fsS -X POST "$NETLIFY_BUILD_HOOK" -d '{}'
-          echo "Triggered Netlify build."
+          if [ -n "$DAILYNEWS_BUILD_HOOK" ]; then
+            curl -fsS -X POST "$DAILYNEWS_BUILD_HOOK" -d '{}' || true
+            echo "Triggered DailyNews build."
+          else
+            echo "DAILYNEWS_BUILD_HOOK not set; skipping DailyNews trigger."
+          fi
         env:
           NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+          DAILYNEWS_BUILD_HOOK: ${{ secrets.DAILYNEWS_BUILD_HOOK }}
