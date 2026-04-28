@@ -1,23 +1,23 @@
 {
-  "version": "2026-04-28T02:59:01.129Z",
+  "version": "2026-04-28T03:17:14.758Z",
   "datasets": {
     "bible_evidence": {
       "url": "/data/bible_evidence.json",
       "sha256": "3e15058bfdb423046e6d5e5fcc05b2d57c06b83b3fe5859c334962c465d8df76",
       "bytes": 1578760,
-      "updatedAt": "2026-04-28T02:55:47.062Z"
+      "updatedAt": "2026-04-28T03:16:11.447Z"
     },
     "daily_news": {
       "url": "/data/daily_news.json",
-      "sha256": "c32e997de8871c720547ef5fb264f3b2be9d2412c76d2319b6d581c019857ecc",
-      "bytes": 86313,
-      "updatedAt": "2026-04-28T02:55:47.068Z"
+      "sha256": "44e6311e2bb535886063b1e9943d257fcf0d29b2c112d9e436cb6862d4556777",
+      "bytes": 90701,
+      "updatedAt": "2026-04-28T03:17:14.321Z"
     },
     "daily_verses": {
       "url": "/data/daily_verses.json",
       "sha256": "1a6fa9af779b764b3f409d6c16a8e1ec9227b3bb79af37489bbb6eee523deb43",
       "bytes": 74414,
-      "updatedAt": "2026-04-28T02:55:47.076Z"
+      "updatedAt": "2026-04-28T03:16:11.447Z"
     }
   }
 }
