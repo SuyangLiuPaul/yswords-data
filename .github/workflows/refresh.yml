@@ -24,6 +24,13 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
 
+    # Promote NETLIFY_AUTH_TOKEN to job-level env so step `if:` blocks
+    # can branch on its presence. Neither `secrets.X` nor a step-level
+    # `env.X` is readable from `if:`; only job-level / workflow-level
+    # env vars are.
+    env:
+      NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+
     steps:
       - uses: actions/checkout@v4
 
@@ -96,14 +103,12 @@ jobs:
       #   2. newsbible.netlify.app     — Astro UI; build script pulls
       #      daily_news.json from yswords-data via sync-data.mjs then
       #      runs astro build.
-      # GH Actions gotcha: `if: env.NETLIFY_AUTH_TOKEN != ''` doesn't
-      # work because `env:` set on a step isn't visible to that step's
-      # own `if:` (it's evaluated before the env is materialised).
-      # Use the secrets context directly — `secrets.X != ''` is safe
-      # for existence checks even though the value itself can't be
-      # printed.
+      # NETLIFY_AUTH_TOKEN is promoted to job-level env (see top of
+      # this job), which is the only env scope readable from step
+      # `if:` expressions. `secrets.X` and step-level `env.X` are
+      # both invisible to the conditional evaluator.
       - name: Deploy yswords-data via Netlify CLI
-        if: steps.commit.outputs.did_commit == 'true' && secrets.NETLIFY_AUTH_TOKEN != ''
+        if: steps.commit.outputs.did_commit == 'true' && env.NETLIFY_AUTH_TOKEN != ''
         run: |
           npx --yes netlify-cli@latest deploy \
             --prod \
@@ -112,11 +117,10 @@ jobs:
             --auth="${NETLIFY_AUTH_TOKEN}" \
             --message="cron refresh @ $(date -u +%FT%TZ)"
         env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID_YSWORDS_DATA: e1252e5a-a37e-4ba4-94ab-046ee9e6da9b
 
       - name: Trigger Netlify build hooks (legacy fallback)
-        if: steps.commit.outputs.did_commit == 'true' && secrets.NETLIFY_AUTH_TOKEN == ''
+        if: steps.commit.outputs.did_commit == 'true' && env.NETLIFY_AUTH_TOKEN == ''
         run: |
           if [ -n "$NETLIFY_BUILD_HOOK" ]; then
             curl -fsS -X POST "$NETLIFY_BUILD_HOOK" -d '{}' || true
