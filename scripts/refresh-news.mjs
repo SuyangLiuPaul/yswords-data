@@ -870,6 +870,57 @@ export function reuseDeepMatchFromCache(item, cachedItem, verseCorpus) {
 // ---------------------------------------------------------------------------
 // AI-powered image search query suggestion
 // ---------------------------------------------------------------------------
+// Body-only translator. Used when a cache hit gives us a verse + the
+// short reflection but lacks body.zh — typically the first run after
+// the body field shipped. Doesn't disturb the verse pick (we keep
+// the cached one) so users don't see "today's verse" change between
+// edition windows.
+//
+// Uses the same model as deep-match (gemini-2.5-pro by default) so
+// the editorial voice matches what aiDeepMatch produces; can be
+// pointed at flash via OPENAI_MODEL_FAST if cost becomes a concern.
+async function aiTranslateBodyToZh(bodyEn) {
+	if (!GEMINI_KEYS.length || !bodyEn || bodyEn.length < 60) {
+		return null;
+	}
+	const systemPrompt = [
+		'You are a careful bilingual translator working for a Christian news desk.',
+		'Translate the supplied article body from English to Simplified Chinese.',
+		'',
+		'Rules:',
+		'- Stay faithful to facts; do not summarise or invent.',
+		'- Preserve paragraph breaks (use blank lines between paragraphs).',
+		'- Render YHWH as 雅伟 if it appears (the runtime will normalise either way).',
+		'- Output ONLY the translation as a JSON object: { "zh": "..." }.',
+	].join('\n');
+
+	const userPrompt = `Translate this article body to Simplified Chinese:\n\n${bodyEn.slice(0, 2800)}`;
+
+	try {
+		const raw = await callGeminiChat(
+			systemPrompt,
+			userPrompt,
+			{
+				name: 'body_translate',
+				schema: {
+					type: 'object',
+					properties: { zh: { type: 'string' } },
+					required: ['zh'],
+					additionalProperties: false,
+				},
+			},
+			60000,
+		);
+		const parsed = extractJson(raw);
+		const zh = cleanText(parsed?.zh || '');
+		if (!zh || !containsCjk(zh)) return null;
+		return trimText(applyPreferredDivineName(zh), 2800) || null;
+	} catch (error) {
+		console.warn(`Body translation failed: ${error.message?.slice(0, 100)}`);
+		return null;
+	}
+}
+
 async function aiSuggestImageQuery(item) {
 	const systemPrompt =
 		'You are a news image researcher. Given a news story title and summary, suggest a concise image search query (5-10 words) that would find a relevant editorial photograph. ' +
@@ -1292,6 +1343,21 @@ async function buildStory(item, index, ctx = {}) {
 	if (!deep) {
 		const used = sectionUsedVerseIds?.get(item.section) || [];
 		deep = await aiDeepMatch(item, verseCorpus, used);
+		await delay(AI_CALL_DELAY_MS);
+	}
+
+	// 2b. Body-translation top-up: cache hits made before body.zh
+	//     existed return without it; rather than re-roll the verse
+	//     pick we just translate the body in a separate small call
+	//     and persist it via aiVerseId for future runs. Skipped when
+	//     the body is already present, missing entirely, or the AI
+	//     is unavailable (returns null, leaves bodyZh empty so the
+	//     detail-page falls back to summary.zh).
+	if (deep && !deep.bodyZh && item.body && item.body.length >= 60) {
+		const translated = await aiTranslateBodyToZh(item.body);
+		if (translated) {
+			deep = { ...deep, bodyZh: translated };
+		}
 		await delay(AI_CALL_DELAY_MS);
 	}
 
