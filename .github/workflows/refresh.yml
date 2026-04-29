@@ -76,31 +76,64 @@ jobs:
           git push
           echo "did_commit=true" >> "$GITHUB_OUTPUT"
 
-      # Netlify's GitHub-app webhook integration is finicky to set up
-      # via API. Use build hooks (private POST URLs) that Netlify
-      # always honours. Hook URLs are secrets: leaking only lets
-      # someone trigger redeploys, no data exposure.
+      # Two ways to deploy after a commit:
+      #
+      #   A. Direct CLI deploy (preferred — bypasses Netlify's git
+      #      clone, which has been broken with "Host key verification
+      #      failed" errors). Requires NETLIFY_AUTH_TOKEN secret.
+      #      Deploys the local checkout straight to the CDN, so the
+      #      JSON the bot just committed is on yswords-data.netlify.app
+      #      within ~10 seconds.
+      #
+      #   B. Build-hook POST (fallback — only fires when the auth
+      #      token isn't configured). Requires Netlify's git
+      #      integration to be healthy, which it currently is not.
+      #      Kept around so users who prefer hook-based deploys can
+      #      still wire those in.
       #
       # Two consumers rebuild from the same JSON:
       #   1. yswords-data.netlify.app  — this repo's static deploy.
-      #   2. newsbible.netlify.app     — Astro UI; build script
-      #      pulls daily_news.json from yswords-data via
-      #      `scripts/sync-data.mjs` then runs `astro build`.
-      - name: Trigger Netlify builds
-        if: steps.commit.outputs.did_commit == 'true'
+      #   2. newsbible.netlify.app     — Astro UI; build script pulls
+      #      daily_news.json from yswords-data via sync-data.mjs then
+      #      runs astro build.
+      - name: Deploy yswords-data via Netlify CLI
+        if: steps.commit.outputs.did_commit == 'true' && env.NETLIFY_AUTH_TOKEN != ''
+        run: |
+          npx --yes netlify-cli@latest deploy \
+            --prod \
+            --dir=. \
+            --site="${NETLIFY_SITE_ID_YSWORDS_DATA}" \
+            --auth="${NETLIFY_AUTH_TOKEN}" \
+            --message="cron refresh @ $(date -u +%FT%TZ)"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID_YSWORDS_DATA: e1252e5a-a37e-4ba4-94ab-046ee9e6da9b
+
+      - name: Trigger Netlify build hooks (legacy fallback)
+        if: steps.commit.outputs.did_commit == 'true' && env.NETLIFY_AUTH_TOKEN == ''
         run: |
           if [ -n "$NETLIFY_BUILD_HOOK" ]; then
             curl -fsS -X POST "$NETLIFY_BUILD_HOOK" -d '{}' || true
-            echo "Triggered yswords-data build."
+            echo "Triggered yswords-data build via hook."
           else
-            echo "NETLIFY_BUILD_HOOK not set; skipping yswords-data trigger."
-          fi
-          if [ -n "$DAILYNEWS_BUILD_HOOK" ]; then
-            curl -fsS -X POST "$DAILYNEWS_BUILD_HOOK" -d '{}' || true
-            echo "Triggered DailyNews build."
-          else
-            echo "DAILYNEWS_BUILD_HOOK not set; skipping DailyNews trigger."
+            echo "Neither NETLIFY_AUTH_TOKEN nor NETLIFY_BUILD_HOOK set; new commit will sit unpublished."
           fi
         env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+
+      # newsbible.netlify.app rebuild — build hooks still work for it
+      # because the broken-link issue is on the yswords-data site,
+      # not the DailyNews site. Fires regardless of which yswords-data
+      # path was used above.
+      - name: Trigger DailyNews (newsbible) rebuild
+        if: steps.commit.outputs.did_commit == 'true'
+        run: |
+          if [ -n "$DAILYNEWS_BUILD_HOOK" ]; then
+            curl -fsS -X POST "$DAILYNEWS_BUILD_HOOK" -d '{}' || true
+            echo "Triggered DailyNews build via hook."
+          else
+            echo "DAILYNEWS_BUILD_HOOK not set; newsbible.netlify.app will not auto-rebuild."
+          fi
+        env:
           DAILYNEWS_BUILD_HOOK: ${{ secrets.DAILYNEWS_BUILD_HOOK }}
