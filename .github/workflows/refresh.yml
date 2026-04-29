@@ -80,7 +80,16 @@ jobs:
             exit 0
           fi
           git commit -m "chore: refresh daily news"
-          git push
+          # Race-proof push: a human or another concurrent cron run
+          # may have pushed in the time between checkout and now, so
+          # the first push can be rejected with non-fast-forward. Pull
+          # --rebase and retry. If THAT fails we let the step fail
+          # loudly — better than silently dropping a refresh.
+          if ! git push 2>&1; then
+            echo "Push rejected (likely concurrent commit). Pulling --rebase and retrying."
+            git pull --rebase --autostash origin main
+            git push
+          fi
           echo "did_commit=true" >> "$GITHUB_OUTPUT"
 
       # Two ways to deploy after a commit:
