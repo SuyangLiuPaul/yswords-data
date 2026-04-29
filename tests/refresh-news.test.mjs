@@ -14,6 +14,7 @@ import {
 	formatVerseFromCorpus,
 	reuseDeepMatchFromCache,
 	KEYWORD_THEME_FALLBACK_VERSE_ID,
+	DEEP_MATCH_FEW_SHOT_EXAMPLES,
 } from '../scripts/refresh-news.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -225,6 +226,21 @@ test('reuseDeepMatchFromCache rejects legacy cache items without aiVerseId', () 
 		[],
 	);
 	assert.equal(result, null);
+});
+
+test('every few-shot example references a verseId that exists in the corpus', async () => {
+	const corpus = await loadVerseCorpus();
+	const ids = new Set(corpus.map((v) => v.id));
+	assert.ok(DEEP_MATCH_FEW_SHOT_EXAMPLES.length >= 2, 'expected at least 2 few-shot examples');
+	for (const ex of DEEP_MATCH_FEW_SHOT_EXAMPLES) {
+		assert.ok(ex.title, 'few-shot example missing title');
+		assert.ok(ex.summary, 'few-shot example missing summary');
+		assert.ok(ex.reasoning, 'few-shot example missing reasoning');
+		assert.ok(
+			ids.has(ex.verseId),
+			`few-shot verseId "${ex.verseId}" must exist in the corpus`,
+		);
+	}
 });
 
 test('reuseDeepMatchFromCache rejects when reflections are missing', () => {

@@ -315,8 +315,40 @@ function delay(ms) {
 }
 
 // ---------------------------------------------------------------------------
-// Low-level Gemini chat completion call
+// Low-level Gemini chat completion call (with bounded retry)
 // ---------------------------------------------------------------------------
+//
+// Retries on transient failures (HTTP 429 rate-limit, HTTP 5xx server-side,
+// network/timeout/abort) with exponential backoff. Does NOT retry on 4xx
+// other than 429 — those are usually our prompt being malformed and won't
+// fix themselves on retry.
+//
+// Each retry rotates to the NEXT round-robin key, so a single rate-limited
+// key doesn't block progress when GEMINI_API_KEYS holds multiple.
+//
+// Total worst-case latency: timeoutMs + 1s + timeoutMs + 3s + timeoutMs.
+// At 90s timeout that's 273s = 4.5min per story before giving up. The
+// pipeline currently processes <60 stories/run, so even pathological
+// conditions stay well under the 6-hour Actions step limit.
+const RETRY_BACKOFF_MS = [1000, 3000];
+
+function isTransientHttpStatus(status) {
+	return status === 429 || (status >= 500 && status < 600);
+}
+
+function isTransientNetworkError(error) {
+	if (!error) return false;
+	if (error.name === 'AbortError' || error.name === 'TimeoutError') return true;
+	const msg = String(error.message || '').toLowerCase();
+	return (
+		msg.includes('fetch failed') ||
+		msg.includes('network') ||
+		msg.includes('econnreset') ||
+		msg.includes('etimedout') ||
+		msg.includes('socket')
+	);
+}
+
 async function callGeminiChat(systemPrompt, userPrompt, jsonSchema = null, timeoutMs = 45000) {
 	const messages = [
 		{ role: 'system', content: systemPrompt },
@@ -340,35 +372,56 @@ async function callGeminiChat(systemPrompt, userPrompt, jsonSchema = null, timeo
 		};
 	}
 
-	const response = await fetch(`${AI_BASE_URL}/chat/completions`, {
-		method: 'POST',
-		headers: {
-			Authorization: `Bearer ${getNextApiKey()}`,
-			'Content-Type': 'application/json',
-		},
-		body: JSON.stringify(body),
-		signal: AbortSignal.timeout(timeoutMs),
-	});
+	let lastError = null;
+	for (let attempt = 0; attempt <= RETRY_BACKOFF_MS.length; attempt++) {
+		try {
+			const response = await fetch(`${AI_BASE_URL}/chat/completions`, {
+				method: 'POST',
+				headers: {
+					Authorization: `Bearer ${getNextApiKey()}`,
+					'Content-Type': 'application/json',
+				},
+				body: JSON.stringify(body),
+				signal: AbortSignal.timeout(timeoutMs),
+			});
 
-	if (!response.ok) {
-		const errorText = await response.text().catch(() => '');
-		throw new Error(`Gemini API returned HTTP ${response.status}: ${errorText.slice(0, 200)}`);
+			if (!response.ok) {
+				const errorText = await response.text().catch(() => '');
+				const err = new Error(`Gemini API returned HTTP ${response.status}: ${errorText.slice(0, 200)}`);
+				err.status = response.status;
+				throw err;
+			}
+
+			const payload = await response.json();
+
+			const choice = payload.choices?.[0];
+			if (!choice) {
+				throw new Error('No choices returned from Gemini API');
+			}
+
+			const content = choice.message?.content;
+			if (!content) {
+				throw new Error('Empty content from Gemini API');
+			}
+
+			return content;
+		} catch (error) {
+			lastError = error;
+			const transient =
+				isTransientHttpStatus(error.status) || isTransientNetworkError(error);
+			const haveAnotherAttempt = attempt < RETRY_BACKOFF_MS.length;
+			if (!transient || !haveAnotherAttempt) {
+				throw error;
+			}
+			const wait = RETRY_BACKOFF_MS[attempt];
+			console.warn(
+				`Gemini call transient failure (attempt ${attempt + 1}/${RETRY_BACKOFF_MS.length + 1}): ${error.message?.slice(0, 120)}. Retrying in ${wait}ms.`,
+			);
+			await delay(wait);
+		}
 	}
 
-	const payload = await response.json();
-
-	// Standard chat completions response format
-	const choice = payload.choices?.[0];
-	if (!choice) {
-		throw new Error('No choices returned from Gemini API');
-	}
-
-	const content = choice.message?.content;
-	if (!content) {
-		throw new Error('Empty content from Gemini API');
-	}
-
-	return content;
+	throw lastError || new Error('Gemini call exhausted retries');
 }
 
 // ---------------------------------------------------------------------------
@@ -527,17 +580,70 @@ export const KEYWORD_THEME_FALLBACK_VERSE_ID = {
 	unity: 'gal_3_28',
 };
 
+// Few-shot examples baked into the prompt. These anchor the model on the
+// editorial voice we want — substantive resonance over surface keyword
+// overlap, sober/pastoral tone, and reflection prose that connects verse
+// to story without preaching. The examples are deliberately varied
+// (war/violence, economic hardship, science breakthrough) to cover the
+// stylistic range without locking the model into one mode.
+export const DEEP_MATCH_FEW_SHOT_EXAMPLES = [
+	{
+		title: 'Civilian convoy hit during overnight strikes; aid groups call for restraint',
+		summary: 'Officials say at least 30 were killed when shells struck a column of vehicles fleeing the city, the latest in weeks of rising civilian casualties.',
+		reasoning:
+			'The surface topic is a strike on civilians, but the deeper question is the cycle of retaliation that traps both sides — Romans 12:21 names that cycle directly: "do not be overcome by evil, but overcome evil with good." A pure peacemaking verse like matt_5_9 would feel premature when the story is grief, not negotiation. rom_12_21 fits the moral question civilians are forced to live with.',
+		verseId: 'rom_12_21',
+	},
+	{
+		title: 'Working families feel squeezed as rate hike pushes mortgage costs to decade high',
+		summary: 'Housing analysts warn that further rises will push thousands of households into hardship, with food-bank queues already lengthening in major cities.',
+		reasoning:
+			'Surface: interest rates. Deeper: the burden of debt on ordinary households — exactly what Proverbs 22:7 captures: "the borrower is slave to the lender." This says more than a generic stewardship verse; it names the power asymmetry the story is really about.',
+		verseId: 'prov_22_7',
+	},
+	{
+		title: 'University team announces breakthrough in early cancer detection',
+		summary: 'After a decade of laboratory work, researchers report a blood test that flags multiple cancers at stage one with high accuracy.',
+		reasoning:
+			'Surface: medical breakthrough. Deeper: human longing for healing and the dignity of patient, faithful work. ps_147_3 ("he heals the brokenhearted") evokes the relief the news offers patients; jas_1_5 (wisdom) is too abstract here. Pick the verse that meets the human moment.',
+		verseId: 'ps_147_3',
+	},
+];
+
+function formatFewShotExamples() {
+	return DEEP_MATCH_FEW_SHOT_EXAMPLES.map((ex, i) =>
+		[
+			`Example ${i + 1}:`,
+			`title: ${ex.title}`,
+			`summary: ${ex.summary}`,
+			`reasoning: ${ex.reasoning}`,
+			`chosen verseId: ${ex.verseId}`,
+		].join('\n'),
+	).join('\n\n');
+}
+
 // The single-call "deep match". Asks gemini-2.5-pro to:
 //   1. infer the story's underlying spiritual / human question,
 //   2. pick the best-fitting verseId from the catalog,
 //   3. write bilingual summary + reflection that connect verse to story.
 // Returns null on any failure so the caller can fall back gracefully.
-async function aiDeepMatch(item, verseCorpus) {
+//
+// `recentlyUsedVerseIds` is a soft-diversity hint: if other stories in the
+// same section have already chosen these verses, prefer a different verse
+// when one fits comparably well. The model can still pick a "used" verse
+// if it's truly the best match — we don't want to force an inferior
+// choice for the sake of variety.
+async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 	if (!GEMINI_KEYS.length || !verseCorpus.length) {
 		return null;
 	}
 
 	const catalogText = formatCorpusForPrompt(verseCorpus);
+	const fewShotText = formatFewShotExamples();
+	const diversityNote =
+		recentlyUsedVerseIds.length > 0
+			? `Other stories in this same section already chose: ${recentlyUsedVerseIds.join(', ')}. Prefer a different verse when one fits comparably well; the goal is editorial variety so readers don't see the same Scripture three times in a row. Only repeat a "used" verse when it is unambiguously the best match for THIS story.`
+			: '';
 
 	const systemPrompt = [
 		'You are a thoughtful bilingual Christian editor preparing a daily-news devotional.',
@@ -558,6 +664,9 @@ async function aiDeepMatch(item, verseCorpus) {
 		'- Do not invent facts about the story; restrict yourself to what the title and summary say.',
 		'- Use 雅伟 (not 耶和华) when the chosen verse mentions YHWH; the runtime applies a final divine-name pass either way.',
 		'',
+		'Worked examples of the editorial voice (not part of the answer):',
+		fewShotText,
+		'',
 		'Return ONLY valid JSON matching the schema.',
 	].join('\n');
 
@@ -568,11 +677,12 @@ async function aiDeepMatch(item, verseCorpus) {
 		`title: ${item.title}`,
 		`summary: ${item.summary}`,
 		'',
+		diversityNote ? `EDITORIAL CONSTRAINT\n${diversityNote}\n` : '',
 		'VERSE CATALOG (verseId | reference | themeEn | tags | applies)',
 		catalogText,
 		'',
 		'Reason carefully, then return JSON: { verseId, titleZh, summaryEn, summaryZh, reflectionEn, reflectionZh }.',
-	].join('\n');
+	].filter(Boolean).join('\n');
 
 	try {
 		const raw = await callGeminiChat(
@@ -782,7 +892,11 @@ async function main() {
 		throw new Error('No feed items were fetched and there is no cached data to fall back to.');
 	}
 
-	const buildCtx = { verseCorpus, existingById };
+	// sectionId → ordered list of aiVerseIds chosen so far. Mutated by
+	// buildStories as each story commits its pick, then read by the next
+	// aiDeepMatch call as a soft-diversity hint.
+	const sectionUsedVerseIds = new Map();
+	const buildCtx = { verseCorpus, existingById, sectionUsedVerseIds };
 	const builtSections = {};
 
 	for (const sectionId of Object.keys(sectionMeta)) {
@@ -830,13 +944,49 @@ async function main() {
 	await fs.mkdir(path.dirname(outputPath), { recursive: true });
 	await fs.writeFile(outputPath, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
 
-	const localizedCount = Object.values(payload.sections)
-		.flatMap((section) => section.items)
-		.filter((item) => item.translationState === 'localized').length;
+	logRunSummary(payload);
+}
 
-	console.log(
-		`Daily news refreshed: ${Object.values(payload.sections).reduce((sum, section) => sum + section.items.length, 0)} stories, ${localizedCount} localized with Gemini AI.`,
-	);
+// Structured run summary. Printed at the end of every refresh so the
+// GitHub Actions log gives a glanceable snapshot of:
+//   - story count per section,
+//   - how many got the deep-match path vs keyword fallback,
+//   - which verses are over-represented (signals weak corpus coverage),
+//   - which categories of source dominated.
+// Anyone debugging a "why is the news shallow today?" complaint can scan
+// this summary without parsing daily_news.json by hand.
+function logRunSummary(payload) {
+	const allItems = Object.values(payload.sections).flatMap((s) => s.items);
+	const total = allItems.length;
+	const localized = allItems.filter((it) => it.translationState === 'localized').length;
+	const fallback = total - localized;
+	const verseCounts = new Map();
+	for (const it of allItems) {
+		const id = it.aiVerseId || `[fallback]${it.verse?.reference || 'unknown'}`;
+		verseCounts.set(id, (verseCounts.get(id) || 0) + 1);
+	}
+	const overUsed = [...verseCounts.entries()]
+		.filter(([, n]) => n >= 3)
+		.sort((a, b) => b[1] - a[1])
+		.map(([id, n]) => `${id}:${n}`);
+
+	console.log('');
+	console.log('━━━ Refresh summary ━━━');
+	console.log(`Edition date: ${payload.editionDate}`);
+	console.log(`Total stories: ${total}`);
+	console.log(`  Deep-match / cache (translationState=localized): ${localized}`);
+	console.log(`  Keyword fallback                                 : ${fallback}`);
+	for (const [sid, section] of Object.entries(payload.sections)) {
+		const sLocalized = section.items.filter((it) => it.translationState === 'localized').length;
+		console.log(`  ${sid.padEnd(10)}: ${section.items.length} stories (${sLocalized} localized)`);
+	}
+	console.log(`Unique verses in this edition: ${verseCounts.size}`);
+	if (overUsed.length) {
+		console.log(`Verses used 3+ times (consider expanding corpus / improving prompt): ${overUsed.join(' ')}`);
+	} else {
+		console.log('No verse used 3+ times — diversity is healthy.');
+	}
+	console.log('━━━━━━━━━━━━━━━━━━━━━━━');
 }
 
 async function readExistingData() {
@@ -1042,7 +1192,11 @@ async function fetchOgImage(url) {
 }
 
 async function buildStory(item, index, ctx = {}) {
-	const { verseCorpus = [], existingById = null } = ctx;
+	const {
+		verseCorpus = [],
+		existingById = null,
+		sectionUsedVerseIds = null,
+	} = ctx;
 
 	// 1. Cache hit? Reuse the AI's previous verse + reflection so a story
 	//    keeps the same Scripture across the day's four publishing windows.
@@ -1055,9 +1209,12 @@ async function buildStory(item, index, ctx = {}) {
 		}
 	}
 
-	// 2. No cache → run the deep-think AI call.
+	// 2. No cache → run the deep-think AI call. Pass the verses already
+	//    used by previous stories in this same section as a soft-diversity
+	//    hint so a section doesn't end up with five "Romans 12:21" entries.
 	if (!deep) {
-		deep = await aiDeepMatch(item, verseCorpus);
+		const used = sectionUsedVerseIds?.get(item.section) || [];
+		deep = await aiDeepMatch(item, verseCorpus, used);
 		await delay(AI_CALL_DELAY_MS);
 	}
 
@@ -1121,10 +1278,22 @@ async function buildStory(item, index, ctx = {}) {
 
 async function buildStories(items, ctx = {}) {
 	const builtItems = [];
+	const sectionUsedVerseIds = ctx.sectionUsedVerseIds;
 
 	for (let i = 0; i < items.length; i++) {
 		console.log(`Building story ${i + 1}/${items.length}: ${items[i].title.slice(0, 60)}`);
-		builtItems.push(await buildStory(items[i], i, ctx));
+		const built = await buildStory(items[i], i, ctx);
+		builtItems.push(built);
+
+		// Record the chosen verse so subsequent stories in this same section
+		// see it in their soft-diversity hint. Only record AI / cache-resolved
+		// picks (those have aiVerseId); pure keyword fallbacks aren't worth
+		// avoiding because they're already a degraded path.
+		if (built.aiVerseId && sectionUsedVerseIds) {
+			const used = sectionUsedVerseIds.get(built.section) || [];
+			used.push(built.aiVerseId);
+			sectionUsedVerseIds.set(built.section, used);
+		}
 	}
 
 	return builtItems;
