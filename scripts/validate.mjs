@@ -24,6 +24,7 @@ const datasets = [
 	{ data: 'bible_evidence.json', schema: 'bible_evidence.schema.json' },
 	{ data: 'daily_news.json', schema: 'daily_news.schema.json' },
 	{ data: 'daily_verses.json', schema: 'daily_verses.schema.json' },
+	{ data: 'news_verse_corpus.json', schema: 'news_verse_corpus.schema.json' },
 ];
 
 let failed = 0;

@@ -38,8 +38,23 @@ function getNextApiKey() {
 	return key;
 }
 const AI_BASE_URL = (process.env.OPENAI_BASE_URL || 'https://generativelanguage.googleapis.com/v1beta/openai').replace(/\/$/, '');
-const AI_MODEL = process.env.OPENAI_MODEL || 'gemini-2.5-flash';
+// Default model bumped to gemini-2.5-pro because the daily-news pipeline now
+// runs a single-call "deep match" that asks the model to reason from a news
+// story to the best-fitting verse in a 96-entry catalog, then write a
+// bilingual reflection. The thinking-capable model gives substantially better
+// resonance than 2.5-flash, which previously produced shallow keyword-style
+// matches the user complained about ("not related and not in deep think").
+// Override via env var OPENAI_MODEL if you need to revert / experiment.
+const AI_MODEL = process.env.OPENAI_MODEL || 'gemini-2.5-pro';
+// Lower temperature than before (0.3 -> 0.2): we want stable verse picks
+// across runs so a story doesn't bounce between verses on every refresh,
+// while leaving room for natural-sounding reflection prose.
+const AI_TEMPERATURE = Number(process.env.OPENAI_TEMPERATURE || 0.2);
 const AI_CALL_DELAY_MS = 500;
+// Path to the curated verse corpus. Authored by hand in
+// `data/news_verse_corpus.json` — 96 verses across 20 topical categories.
+// Loaded once per pipeline run and passed to the deep-match call.
+const VERSE_CORPUS_PATH = path.join(projectRoot, 'data', 'news_verse_corpus.json');
 
 const sectionMeta = {
 	world: {
@@ -311,7 +326,7 @@ async function callGeminiChat(systemPrompt, userPrompt, jsonSchema = null, timeo
 	const body = {
 		model: AI_MODEL,
 		messages,
-		temperature: 0.3,
+		temperature: AI_TEMPERATURE,
 	};
 
 	if (jsonSchema) {
@@ -409,6 +424,284 @@ async function aiSelectTheme(item, allThemes) {
 }
 
 // ---------------------------------------------------------------------------
+// Verse corpus loader + deep-think AI matcher
+// ---------------------------------------------------------------------------
+//
+// `news_verse_corpus.json` holds 96 hand-curated verses across 20 topical
+// categories (war_and_peace, justice_and_oppression, compassion_and_the_poor,
+// etc.). Each entry has structured fields the AI can reason over:
+//
+//   id, reference, textEn, textZh-Hans, textZh-Hant, themeEn, themeZh,
+//   tags[], applies (one-line "use this verse when...")
+//
+// The point of the catalog is to give the thinking-capable model a finite,
+// editorially vetted choice set so it cannot drift into:
+//   - obscure verses no general reader would recognise,
+//   - lyrical-but-unrelated proof-texting,
+//   - politically charged uses of Scripture.
+//
+// The matcher does a single deep call per story that picks one verseId AND
+// writes the bilingual summary + reflection in one structured response,
+// replacing the previous two-call (theme-pick → enrich) pipeline.
+// ---------------------------------------------------------------------------
+
+let verseCorpusCache = null;
+
+export async function loadVerseCorpus() {
+	if (verseCorpusCache) {
+		return verseCorpusCache;
+	}
+
+	try {
+		const raw = await fs.readFile(VERSE_CORPUS_PATH, 'utf8');
+		const parsed = JSON.parse(raw);
+		const verses = Array.isArray(parsed?.verses) ? parsed.verses : [];
+		if (!verses.length) {
+			console.warn(`Verse corpus at ${VERSE_CORPUS_PATH} loaded but contains no verses.`);
+		}
+		verseCorpusCache = verses;
+		return verses;
+	} catch (error) {
+		console.warn(`Failed to load verse corpus from ${VERSE_CORPUS_PATH}: ${error.message}. Falling back to legacy theme-list verses.`);
+		verseCorpusCache = [];
+		return [];
+	}
+}
+
+// Compact the corpus into a plain-text catalog the model can scan in one shot.
+// Each line: `verseId | reference | themeEn | tags: a,b,c | applies: ...`
+// ~150 chars per verse × 96 verses ≈ 14KB → comfortably under any context limit.
+export function formatCorpusForPrompt(verseCorpus) {
+	return verseCorpus
+		.map((v) => {
+			const tags = Array.isArray(v.tags) ? v.tags.join(',') : '';
+			const applies = String(v.applies || '').slice(0, 220);
+			return `${v.id} | ${v.reference} | ${v.themeEn} | tags: ${tags} | applies: ${applies}`;
+		})
+		.join('\n');
+}
+
+// Convert a corpus verse into the article output's `verse` shape, applying
+// the editorial divine-name preference (Yahweh / 雅伟). Output schema:
+//   { reference, textEn, textZh, themeEn, themeZh }
+export function formatVerseFromCorpus(corpusVerse) {
+	if (!corpusVerse) return null;
+	const textZh = corpusVerse['textZh-Hans'] || corpusVerse.textZh || '';
+	return {
+		reference: corpusVerse.reference,
+		textEn: applyPreferredDivineName(corpusVerse.textEn || ''),
+		textZh: applyPreferredDivineName(textZh),
+		themeEn: corpusVerse.themeEn || '',
+		themeZh: corpusVerse.themeZh || '',
+	};
+}
+
+// Convert a legacy `themes[]` entry into the same output shape. Used as the
+// last-resort fallback when both deep-match AND keyword-pick-from-corpus fail.
+function formatVerseFromLegacyTheme(theme) {
+	const verse = theme?.verse || {};
+	return {
+		reference: verse.reference || '',
+		textEn: applyPreferredDivineName(verse.textEn || ''),
+		textZh: applyPreferredDivineName(verse.textZh || ''),
+		themeEn: verse.themeEn || '',
+		themeZh: verse.themeZh || '',
+	};
+}
+
+// Map the legacy keyword-classifier theme id → a corpus verse id. When the AI
+// fails (no key, network error, malformed JSON, missing verseId, etc.) we
+// still want a thoughtful verse from the curated corpus rather than dropping
+// to the 11-verse legacy hardcode. These ids exist in the corpus.
+export const KEYWORD_THEME_FALLBACK_VERSE_ID = {
+	peace: 'matt_5_9',
+	justice: 'micah_6_8',
+	leadership: 'prov_11_14',
+	compassion: 'matt_25_40',
+	stewardship: 'col_3_23',
+	truth: 'phil_4_8',
+	hope: 'rom_5_3',
+	faithfulness: 'matt_5_10',
+	wisdom: 'jas_1_5',
+	creation: 'gen_2_15',
+	unity: 'gal_3_28',
+};
+
+// The single-call "deep match". Asks gemini-2.5-pro to:
+//   1. infer the story's underlying spiritual / human question,
+//   2. pick the best-fitting verseId from the catalog,
+//   3. write bilingual summary + reflection that connect verse to story.
+// Returns null on any failure so the caller can fall back gracefully.
+async function aiDeepMatch(item, verseCorpus) {
+	if (!GEMINI_KEYS.length || !verseCorpus.length) {
+		return null;
+	}
+
+	const catalogText = formatCorpusForPrompt(verseCorpus);
+
+	const systemPrompt = [
+		'You are a thoughtful bilingual Christian editor preparing a daily-news devotional.',
+		'You receive ONE news story and a curated catalog of biblical verses.',
+		'',
+		'Reason carefully step by step before answering:',
+		'1. Identify the underlying human or spiritual question the story raises (not just the surface topic — e.g. a war story may really be about cycles of retaliation, refugee suffering, or leadership accountability).',
+		'2. Consider which biblical principles speak to that underlying question.',
+		'3. Pick the SINGLE verseId from the catalog whose theme most directly applies — substantive resonance, not just keyword overlap.',
+		'4. Write a brief bilingual reflection that connects the chosen verse to the story without preaching, partisanship, or invented facts.',
+		'',
+		'Output rules:',
+		'- verseId MUST come exactly from the catalog (case-sensitive).',
+		'- Reflection: 2-3 sentences each in English and Simplified Chinese.',
+		'- Summary: 1 short paragraph each in English and Simplified Chinese, factual, no opinion.',
+		'- titleZh: a faithful Simplified-Chinese rendering of the headline.',
+		'- Stay sober, hopeful, pastoral — no political slogans, no triumphalism, no fear-mongering.',
+		'- Do not invent facts about the story; restrict yourself to what the title and summary say.',
+		'- Use 雅伟 (not 耶和华) when the chosen verse mentions YHWH; the runtime applies a final divine-name pass either way.',
+		'',
+		'Return ONLY valid JSON matching the schema.',
+	].join('\n');
+
+	const userPrompt = [
+		'STORY',
+		`section: ${item.section}`,
+		`source: ${item.source}`,
+		`title: ${item.title}`,
+		`summary: ${item.summary}`,
+		'',
+		'VERSE CATALOG (verseId | reference | themeEn | tags | applies)',
+		catalogText,
+		'',
+		'Reason carefully, then return JSON: { verseId, titleZh, summaryEn, summaryZh, reflectionEn, reflectionZh }.',
+	].join('\n');
+
+	try {
+		const raw = await callGeminiChat(
+			systemPrompt,
+			userPrompt,
+			{
+				name: 'news_deep_match',
+				schema: {
+					type: 'object',
+					properties: {
+						verseId: { type: 'string' },
+						titleZh: { type: 'string' },
+						summaryEn: { type: 'string' },
+						summaryZh: { type: 'string' },
+						reflectionEn: { type: 'string' },
+						reflectionZh: { type: 'string' },
+					},
+					required: [
+						'verseId',
+						'titleZh',
+						'summaryEn',
+						'summaryZh',
+						'reflectionEn',
+						'reflectionZh',
+					],
+					additionalProperties: false,
+				},
+			},
+			// 90s — gemini-2.5-pro thinking calls are slower than flash.
+			90000,
+		);
+
+		const parsed = extractJson(raw);
+		if (!parsed) {
+			console.warn(`Deep-match returned unparseable JSON for "${item.title.slice(0, 60)}".`);
+			return null;
+		}
+
+		const verse = verseCorpus.find((v) => v.id === parsed.verseId);
+		if (!verse) {
+			console.warn(`Deep-match returned unknown verseId "${parsed.verseId}" for "${item.title.slice(0, 60)}".`);
+			return null;
+		}
+
+		const titleZh = cleanText(parsed.titleZh || '') || null;
+		const summaryEn = trimText(applyPreferredDivineName(cleanText(parsed.summaryEn || '')), 320) || null;
+		const summaryZh = trimText(applyPreferredDivineName(cleanText(parsed.summaryZh || '')), 160) || null;
+		const reflectionEn = trimText(applyPreferredDivineName(cleanText(parsed.reflectionEn || '')), 360) || null;
+		const reflectionZh = trimText(applyPreferredDivineName(cleanText(parsed.reflectionZh || '')), 180) || null;
+
+		// Require at least both reflections + verse — partial answers are
+		// weaker than a clean keyword fallback.
+		if (!reflectionEn || !reflectionZh) {
+			console.warn(`Deep-match returned empty reflections for "${item.title.slice(0, 60)}".`);
+			return null;
+		}
+
+		console.log(`Deep-match for "${item.title.slice(0, 60)}": ${verse.id} (${verse.reference})`);
+
+		return {
+			verseId: verse.id,
+			verse: formatVerseFromCorpus(verse),
+			titleZh,
+			summaryEn,
+			summaryZh,
+			reflectionEn,
+			reflectionZh,
+		};
+	} catch (error) {
+		console.warn(`Deep-match failed for "${item.title.slice(0, 60)}": ${error.message}`);
+		return null;
+	}
+}
+
+// Reuse the AI verse + reflection from a previous run when the same story
+// (same id) reappears. Keeps verse choices stable across cron windows so a
+// returning visitor isn't surprised by their morning headline suddenly
+// pairing with a different verse at the evening edition.
+export function reuseDeepMatchFromCache(item, cachedItem, verseCorpus) {
+	if (!cachedItem || cachedItem.translationState !== 'localized') {
+		return null;
+	}
+	if (!cachedItem.verse?.reference) {
+		return null;
+	}
+	if (cachedItem.link && item.link && cachedItem.link !== item.link) {
+		return null;
+	}
+
+	// Prefer the corpus-canonical version of the verse so any catalog edits
+	// (typo fixes, divine-name rendering tweaks) propagate forward instead
+	// of being frozen in cached runs.
+	let verse;
+	let verseId = cachedItem.aiVerseId || null;
+	if (verseId) {
+		const corpusVerse = verseCorpus.find((v) => v.id === verseId);
+		if (corpusVerse) {
+			verse = formatVerseFromCorpus(corpusVerse);
+		}
+	}
+	if (!verse) {
+		verse = {
+			reference: cachedItem.verse.reference,
+			textEn: applyPreferredDivineName(cachedItem.verse.textEn || ''),
+			textZh: applyPreferredDivineName(cachedItem.verse.textZh || ''),
+			themeEn: cachedItem.verse.themeEn || '',
+			themeZh: cachedItem.verse.themeZh || '',
+		};
+	}
+
+	const reflectionEn = cachedItem.reflection?.en;
+	const reflectionZh = cachedItem.reflection?.zh;
+	if (!reflectionEn || !reflectionZh) {
+		return null;
+	}
+
+	return {
+		verseId,
+		verse,
+		titleZh: cachedItem.title?.zh || null,
+		summaryEn: cachedItem.summary?.en || null,
+		summaryZh: cachedItem.summary?.zh || null,
+		reflectionEn,
+		reflectionZh,
+		fromCache: true,
+	};
+}
+
+// ---------------------------------------------------------------------------
 // AI-powered image search query suggestion
 // ---------------------------------------------------------------------------
 async function aiSuggestImageQuery(item) {
@@ -444,6 +737,21 @@ async function aiSuggestImageQuery(item) {
 // ---------------------------------------------------------------------------
 async function main() {
 	const existingData = await readExistingData();
+	const verseCorpus = await loadVerseCorpus();
+	console.log(`Loaded ${verseCorpus.length} curated verses for AI deep-match.`);
+
+	// Build a flat id → item map across all cached sections so cache lookup
+	// is O(1) and survives a story moving between sections (rare but possible
+	// for cross-tagged feeds like the BBC China-focus filter).
+	const existingById = new Map();
+	for (const section of Object.values(existingData?.sections ?? {})) {
+		for (const cachedItem of section?.items ?? []) {
+			if (cachedItem?.id) {
+				existingById.set(cachedItem.id, cachedItem);
+			}
+		}
+	}
+
 	const now = new Date();
 	const editionDate = getSydneyDateString(now);
 	const fetchedGroups = await Promise.all(sourceCatalog.map(fetchFeed));
@@ -453,6 +761,7 @@ async function main() {
 		throw new Error('No feed items were fetched and there is no cached data to fall back to.');
 	}
 
+	const buildCtx = { verseCorpus, existingById };
 	const builtSections = {};
 
 	for (const sectionId of Object.keys(sectionMeta)) {
@@ -470,7 +779,7 @@ async function main() {
 			throw new Error(`Section "${sectionId}" ended up empty and no cached content was available.`);
 		}
 
-		const freshStories = shouldUseCache ? [] : await buildStories(selectedItems);
+		const freshStories = shouldUseCache ? [] : await buildStories(selectedItems, buildCtx);
 		const mergedStories = shouldUseCache
 			? fallbackSection.items
 			: topUpWithCachedStories(freshStories, fallbackSection?.items ?? [], minItemsPerSection);
@@ -711,18 +1020,43 @@ async function fetchOgImage(url) {
 	}
 }
 
-async function buildStory(item, index) {
-	// AI-powered theme selection (with keyword fallback)
-	const theme = await aiSelectTheme(item, themes);
-	await delay(AI_CALL_DELAY_MS);
+async function buildStory(item, index, ctx = {}) {
+	const { verseCorpus = [], existingById = null } = ctx;
 
-	const fallback = createFallbackCopy(item, theme);
-	const enriched = await maybeEnrichWithAI(item, theme);
-	await delay(AI_CALL_DELAY_MS);
+	// 1. Cache hit? Reuse the AI's previous verse + reflection so a story
+	//    keeps the same Scripture across the day's four publishing windows.
+	let deep = null;
+	const cachedItem = existingById?.get(item.id) || null;
+	if (cachedItem) {
+		deep = reuseDeepMatchFromCache(item, cachedItem, verseCorpus);
+		if (deep) {
+			console.log(`Reusing cached deep-match for "${item.title.slice(0, 60)}": ${deep.verse.reference}`);
+		}
+	}
 
-	const fallbackTitleZh = enriched?.titleZh ? null : await maybeTranslateTitleToChinese(item.title);
+	// 2. No cache → run the deep-think AI call.
+	if (!deep) {
+		deep = await aiDeepMatch(item, verseCorpus);
+		await delay(AI_CALL_DELAY_MS);
+	}
 
-	// Image resolution: enclosure -> OG -> AI image query
+	// 3. Last-resort fallback: keyword-classify into the legacy theme list
+	//    and pick the corpus verse mapped to that theme. If the corpus is
+	//    missing for some reason, fall through to the legacy theme verse.
+	const keywordTheme = selectTheme(item);
+	const verseForFallback = (() => {
+		const fallbackId = KEYWORD_THEME_FALLBACK_VERSE_ID[keywordTheme.id];
+		const corpusVerse = fallbackId ? verseCorpus.find((v) => v.id === fallbackId) : null;
+		return corpusVerse ? formatVerseFromCorpus(corpusVerse) : formatVerseFromLegacyTheme(keywordTheme);
+	})();
+
+	const verse = deep?.verse || verseForFallback;
+	const fallbackCopy = createFallbackCopy(item, keywordTheme);
+
+	// Translate the headline to zh only when the AI didn't already provide one.
+	const fallbackTitleZh = deep?.titleZh ? null : await maybeTranslateTitleToChinese(item.title);
+
+	// Image resolution: enclosure → OG meta → AI search-query suggestion.
 	let imageUrl = item.enclosureUrl || null;
 	let imageQuery = null;
 
@@ -746,31 +1080,30 @@ async function buildStory(item, index) {
 		publishedAt: item.publishedAt,
 		title: {
 			en: item.title,
-			zh: enriched?.titleZh || fallbackTitleZh || null,
+			zh: deep?.titleZh || fallbackTitleZh || null,
 		},
 		summary: {
-			en: applyPreferredDivineName(enriched?.summaryEn ?? fallback.summary.en),
-			zh: applyPreferredDivineName(enriched?.summaryZh ?? fallback.summary.zh),
+			en: applyPreferredDivineName(deep?.summaryEn ?? fallbackCopy.summary.en),
+			zh: applyPreferredDivineName(deep?.summaryZh ?? fallbackCopy.summary.zh),
 		},
 		reflection: {
-			en: applyPreferredDivineName(enriched?.reflectionEn ?? fallback.reflection.en),
-			zh: applyPreferredDivineName(enriched?.reflectionZh ?? fallback.reflection.zh),
+			en: applyPreferredDivineName(deep?.reflectionEn ?? fallbackCopy.reflection.en),
+			zh: applyPreferredDivineName(deep?.reflectionZh ?? fallbackCopy.reflection.zh),
 		},
-		verse: {
-			...theme.verse,
-			textEn: applyPreferredDivineName(theme.verse.textEn),
-			textZh: applyPreferredDivineName(theme.verse.textZh),
-		},
-		translationState: enriched ? 'localized' : 'fallback',
+		verse,
+		// Stable cache key. Lets the next run reuse this exact verse pick
+		// without having to re-derive it from the verse.reference string.
+		aiVerseId: deep?.verseId || undefined,
+		translationState: deep ? 'localized' : 'fallback',
 	};
 }
 
-async function buildStories(items) {
+async function buildStories(items, ctx = {}) {
 	const builtItems = [];
 
 	for (let i = 0; i < items.length; i++) {
 		console.log(`Building story ${i + 1}/${items.length}: ${items[i].title.slice(0, 60)}`);
-		builtItems.push(await buildStory(items[i], i));
+		builtItems.push(await buildStory(items[i], i, ctx));
 	}
 
 	return builtItems;

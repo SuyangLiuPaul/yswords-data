@@ -46,7 +46,12 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
-          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          # Default to gemini-2.5-pro (thinking-capable) for the deep-match
+          # pipeline. Override via the OPENAI_MODEL secret only if you need
+          # to revert to flash for cost/throughput reasons. The script
+          # script itself also defaults to gemini-2.5-pro, but pinning
+          # here makes it explicit at the workflow level too.
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL || 'gemini-2.5-pro' }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           NEWS_MIN_ITEMS_PER_SECTION: 10
           NEWS_MAX_ITEMS_PER_SECTION: 18

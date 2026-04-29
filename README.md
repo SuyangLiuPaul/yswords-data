@@ -9,9 +9,10 @@ Bible study app.
 
 | Path | What | Refresh |
 |---|---|---|
-| `data/bible_evidence.json` | 209 archaeological / manuscript / scientific / historical entries | Manual edits |
+| `data/bible_evidence.json` | Archaeological / manuscript / scientific / historical entries | Manual edits |
 | `data/daily_news.json` | Bilingual world / china / australia headlines + Bible reflections | GitHub Actions, 4× / day Sydney time |
 | `data/daily_verses.json` | 3,650 daily Bible verse references (10-year cycle) | Manual edits |
+| `data/news_verse_corpus.json` | 99 curated verses + tags the daily-news AI matches against | Manual edits |
 | `data/_manifest.json` | Index with sha256 checksums + sizes | Auto-regenerated on every push |
 | `schemas/*.schema.json` | JSON Schema definitions for each dataset | Hand-maintained |
 
@@ -62,24 +63,39 @@ TTL on the YsWords side).
 ## Refresh pipeline (`scripts/refresh-news.mjs`)
 
 GitHub Actions runs hourly but only writes/commits at four Sydney
-hours. See `.github/workflows/refresh.yml`. The script:
+hours (06:00 / 11:00 / 16:00 / 19:00). See
+`.github/workflows/refresh.yml`. The script:
 
 1. Pulls 10 RSS feeds (Guardian / BBC / SBS / DW)
 2. Dedupes + balances per section (10–18 items each)
-3. Calls Gemini via OpenAI-compatible endpoint for bilingual
-   translations + reflection
-4. Writes `data/daily_news.json`
-5. Validates against the schema
-6. Regenerates `data/_manifest.json`
-7. Commits with message `chore: refresh daily news`
+3. Loads `data/news_verse_corpus.json` (99 curated verses across 20
+   topical categories — war/peace, justice, compassion, leadership,
+   creation, hope, persecution, etc.)
+4. For each story, runs **one deep-reasoning Gemini call** that:
+   - reasons about the story's underlying spiritual / human question,
+   - picks the SINGLE best-fitting verse from the catalog,
+   - writes a bilingual summary + reflection in one structured response.
+5. Caches the AI's verse choice per story id so the same headline keeps
+   the same Scripture across the day's four publishing windows.
+6. Writes `data/daily_news.json`, validates against schema, regenerates
+   `data/_manifest.json`, commits, triggers Netlify rebuilds.
+
+If the AI is unavailable (no key, network error, malformed JSON), the
+pipeline falls back to a keyword classifier that maps the story to one
+of 11 themes and picks a corpus verse mapped to that theme. The output
+schema is identical either way; consumers can't tell which path ran.
 
 ### Required GitHub secrets
 
 - `OPENAI_API_KEY` — the Gemini key. Without it the refresh still
-  runs but ships English-only summaries (graceful degrade).
+  runs but ships English-only summaries from the keyword fallback.
 - `OPENAI_BASE_URL` — defaults to
   `https://generativelanguage.googleapis.com/v1beta/openai`
-- `OPENAI_MODEL` — defaults to `gemini-2.5-flash`
+- `OPENAI_MODEL` — defaults to `gemini-2.5-pro` (thinking-capable;
+  override to `gemini-2.5-flash` if you want cheaper/faster but
+  shallower verse matching).
+- `OPENAI_TEMPERATURE` — defaults to `0.2` for stable verse picks
+  across consecutive runs.
 
 ## Consumers
 
