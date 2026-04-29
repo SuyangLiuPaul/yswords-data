@@ -10,7 +10,7 @@ Bible study app.
 | Path | What | Refresh |
 |---|---|---|
 | `data/bible_evidence.json` | Archaeological / manuscript / scientific / historical entries | Manual edits |
-| `data/daily_news.json` | Bilingual world / china / australia headlines + Bible reflections | GitHub Actions, every 30 minutes |
+| `data/daily_news.json` | Bilingual world / china / australia headlines + Bible reflections | GitHub Actions, hourly |
 | `data/daily_verses.json` | 3,650 daily Bible verse references (10-year cycle) | Manual edits |
 | `data/news_verse_corpus.json` | 99 curated verses + tags the daily-news AI matches against | Manual edits |
 | `data/_manifest.json` | Index with sha256 checksums + sizes | Auto-regenerated on every push |
@@ -62,11 +62,14 @@ TTL on the YsWords side).
 
 ## Refresh pipeline (`scripts/refresh-news.mjs`)
 
-GitHub Actions runs every 30 minutes (`*/30 * * * *`). Each run pulls
-RSS, hits the per-story deep-match cache for headlines already seen,
-and only commits if `data/daily_news.json` actually changed. So
-~24-48 cron fires/day, but typically ~12 commits/day plus one
-Netlify rebuild per commit. See `.github/workflows/refresh.yml`.
+GitHub Actions runs hourly (`0 * * * *`). Each run pulls RSS, hits
+the per-story deep-match cache for headlines already seen, and only
+commits if `data/daily_news.json` actually changed. So ~24 cron
+fires/day, typically ~6–12 commits/day plus one Netlify rebuild per
+commit. The hourly cadence matches how often the source RSS feeds
+update; cold-cache runs take ~10–16 min with the Gemini free-tier
+5 RPM throttle, so a tighter schedule risked the next run queuing
+behind a slow predecessor. See `.github/workflows/refresh.yml`.
 The script:
 
 1. Pulls 10 RSS feeds (Guardian / BBC / SBS / DW)

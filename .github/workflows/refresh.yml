@@ -1,21 +1,26 @@
 name: Refresh daily news
 
-# Cron fires every 30 minutes. Each run pulls RSS, hits the deep-match
+# Cron fires every hour. Each run pulls RSS, hits the deep-match
 # cache for stories already seen, and only commits if data/daily_news.json
-# actually changes (the `git diff --cached --quiet` guard below). Cost
-# stays bounded:
-#   • most 30-min fires find no new RSS items -> no commit, no rebuild
-#   • new stories use ~1 Gemini call each (well under 1500 RPD free tier)
-#   • Netlify only rebuilds on push, so empty cron fires are free
+# actually changes (the `git diff --cached --quiet` guard below).
 #
-# Previous setup gated to four Sydney hours (06/11/16/19) via
-# scripts/schedule-window.mjs. That file is still in the repo but
-# unused — kept around in case we want to revert.
+# Why hourly and not every 30 minutes:
+#   • Source RSS feeds (Guardian, BBC, SBS, DW) update on a 1–3 hour
+#     rhythm anyway — sub-hourly polling mostly finds nothing new.
+#   • Cold-cache runs take 10–16 min with the Gemini free-tier 5 RPM
+#     throttle (13s between deep-match calls × ~38 stories + body
+#     translation). At */30 a slow run could still be finishing as
+#     the next one queues, causing visible lag during heavy news.
+#   • Hourly halves AI calls + Netlify rebuilds with no perceptible
+#     freshness loss for a Bible-news devotional.
+#
+# Previous setup before that was four Sydney hours (06/11/16/19)
+# gated by scripts/schedule-window.mjs (file still present, unused).
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *'
 
 permissions:
   contents: write
