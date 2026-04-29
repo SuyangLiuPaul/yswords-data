@@ -1,8 +1,16 @@
 name: Refresh daily news
 
-# Cron runs hourly. The schedule-window check below gates the actual
-# refresh + commit to four Sydney times: 06 / 11 / 16 / 19. All other
-# hours just log "not a publishing window" and exit cleanly.
+# Cron fires every 30 minutes. Each run pulls RSS, hits the deep-match
+# cache for stories already seen, and only commits if data/daily_news.json
+# actually changes (the `git diff --cached --quiet` guard below). Cost
+# stays bounded:
+#   • most 30-min fires find no new RSS items -> no commit, no rebuild
+#   • new stories use ~1 Gemini call each (well under 1500 RPD free tier)
+#   • Netlify only rebuilds on push, so empty cron fires are free
+#
+# Previous setup gated to four Sydney hours (06/11/16/19) via
+# scripts/schedule-window.mjs. That file is still in the repo but
+# unused — kept around in case we want to revert.
 
 on:
   workflow_dispatch:
@@ -24,20 +32,10 @@ jobs:
           node-version: 20
           cache: npm
 
-      - name: Check Sydney publishing window
-        id: schedule
-        run: node scripts/schedule-window.mjs >> "$GITHUB_OUTPUT"
-
-      - name: Skip outside publishing window
-        if: steps.schedule.outputs.should_run != 'true'
-        run: echo "Not a Sydney publishing hour. Local stamp was ${{ steps.schedule.outputs.local_stamp }}."
-
       - name: Install dependencies
-        if: steps.schedule.outputs.should_run == 'true'
         run: npm ci
 
       - name: Refresh news data
-        if: steps.schedule.outputs.should_run == 'true'
         env:
           # The refresh script accepts the key under any of these
           # variable names (preferring GEMINI_API_KEYS > GEMINI_API_KEY
@@ -58,15 +56,12 @@ jobs:
         run: npm run refresh
 
       - name: Validate refreshed data
-        if: steps.schedule.outputs.should_run == 'true'
         run: npm run validate
 
       - name: Regenerate manifest
-        if: steps.schedule.outputs.should_run == 'true'
         run: npm run manifest
 
       - name: Commit + push
-        if: steps.schedule.outputs.should_run == 'true'
         id: commit
         run: |
           git config user.name "github-actions[bot]"

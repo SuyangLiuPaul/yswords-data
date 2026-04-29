@@ -10,7 +10,7 @@ Bible study app.
 | Path | What | Refresh |
 |---|---|---|
 | `data/bible_evidence.json` | Archaeological / manuscript / scientific / historical entries | Manual edits |
-| `data/daily_news.json` | Bilingual world / china / australia headlines + Bible reflections | GitHub Actions, 4× / day Sydney time |
+| `data/daily_news.json` | Bilingual world / china / australia headlines + Bible reflections | GitHub Actions, every 30 minutes |
 | `data/daily_verses.json` | 3,650 daily Bible verse references (10-year cycle) | Manual edits |
 | `data/news_verse_corpus.json` | 99 curated verses + tags the daily-news AI matches against | Manual edits |
 | `data/_manifest.json` | Index with sha256 checksums + sizes | Auto-regenerated on every push |
@@ -62,9 +62,12 @@ TTL on the YsWords side).
 
 ## Refresh pipeline (`scripts/refresh-news.mjs`)
 
-GitHub Actions runs hourly but only writes/commits at four Sydney
-hours (06:00 / 11:00 / 16:00 / 19:00). See
-`.github/workflows/refresh.yml`. The script:
+GitHub Actions runs every 30 minutes (`*/30 * * * *`). Each run pulls
+RSS, hits the per-story deep-match cache for headlines already seen,
+and only commits if `data/daily_news.json` actually changed. So
+~24-48 cron fires/day, but typically ~12 commits/day plus one
+Netlify rebuild per commit. See `.github/workflows/refresh.yml`.
+The script:
 
 1. Pulls 10 RSS feeds (Guardian / BBC / SBS / DW)
 2. Dedupes + balances per section (10–18 items each)
