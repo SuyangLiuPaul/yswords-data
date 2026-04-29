@@ -611,9 +611,12 @@ async function aiDeepMatch(item, verseCorpus) {
 			return null;
 		}
 
-		const verse = verseCorpus.find((v) => v.id === parsed.verseId);
+		// Trim whitespace defensively — even with strict JSON schema, models
+		// occasionally produce ids like " matt_5_9\n" which would never match.
+		const requestedId = String(parsed.verseId || '').trim();
+		const verse = verseCorpus.find((v) => v.id === requestedId);
 		if (!verse) {
-			console.warn(`Deep-match returned unknown verseId "${parsed.verseId}" for "${item.title.slice(0, 60)}".`);
+			console.warn(`Deep-match returned unknown verseId "${requestedId}" for "${item.title.slice(0, 60)}".`);
 			return null;
 		}
 
@@ -627,6 +630,18 @@ async function aiDeepMatch(item, verseCorpus) {
 		// weaker than a clean keyword fallback.
 		if (!reflectionEn || !reflectionZh) {
 			console.warn(`Deep-match returned empty reflections for "${item.title.slice(0, 60)}".`);
+			return null;
+		}
+
+		// Sanity check: zh fields must actually contain Chinese characters.
+		// If the model returned English-in-the-zh-slot (rare model regression),
+		// we'd otherwise ship English content under the zh locale. We let
+		// titleZh slip through here — short headlines like "AI summit" can
+		// legitimately be all-Latin in branded contexts — but enforce CJK on
+		// the longer reflection/summary text where translation failure is
+		// unambiguous.
+		if (!containsCjk(reflectionZh) || !containsCjk(summaryZh)) {
+			console.warn(`Deep-match returned non-CJK zh fields for "${item.title.slice(0, 60)}"; treating as failure.`);
 			return null;
 		}
 
@@ -651,8 +666,19 @@ async function aiDeepMatch(item, verseCorpus) {
 // (same id) reappears. Keeps verse choices stable across cron windows so a
 // returning visitor isn't surprised by their morning headline suddenly
 // pairing with a different verse at the evening edition.
+//
+// CRITICAL: we ONLY reuse cache items that carry the new pipeline's
+// `aiVerseId` marker. This forces a one-time re-AI pass on legacy cache
+// items produced by the pre-deep-match pipeline (whose verse picks were the
+// shallow keyword matches the user complained about). Without this guard
+// we'd happily keep serving the bad old verses forever.
 export function reuseDeepMatchFromCache(item, cachedItem, verseCorpus) {
 	if (!cachedItem || cachedItem.translationState !== 'localized') {
+		return null;
+	}
+	// Pipeline-version marker: legacy items don't have it → force re-AI.
+	const verseId = cachedItem.aiVerseId;
+	if (!verseId || typeof verseId !== 'string') {
 		return null;
 	}
 	if (!cachedItem.verse?.reference) {
@@ -664,24 +690,19 @@ export function reuseDeepMatchFromCache(item, cachedItem, verseCorpus) {
 
 	// Prefer the corpus-canonical version of the verse so any catalog edits
 	// (typo fixes, divine-name rendering tweaks) propagate forward instead
-	// of being frozen in cached runs.
-	let verse;
-	let verseId = cachedItem.aiVerseId || null;
-	if (verseId) {
-		const corpusVerse = verseCorpus.find((v) => v.id === verseId);
-		if (corpusVerse) {
-			verse = formatVerseFromCorpus(corpusVerse);
-		}
-	}
-	if (!verse) {
-		verse = {
-			reference: cachedItem.verse.reference,
-			textEn: applyPreferredDivineName(cachedItem.verse.textEn || ''),
-			textZh: applyPreferredDivineName(cachedItem.verse.textZh || ''),
-			themeEn: cachedItem.verse.themeEn || '',
-			themeZh: cachedItem.verse.themeZh || '',
-		};
-	}
+	// of being frozen in cached runs. If the cached verseId no longer exists
+	// in the corpus (e.g. we removed it during editorial review), fall back
+	// to the cached verse text — better to keep continuity than to crash.
+	const corpusVerse = verseCorpus.find((v) => v.id === verseId);
+	const verse = corpusVerse
+		? formatVerseFromCorpus(corpusVerse)
+		: {
+				reference: cachedItem.verse.reference,
+				textEn: applyPreferredDivineName(cachedItem.verse.textEn || ''),
+				textZh: applyPreferredDivineName(cachedItem.verse.textZh || ''),
+				themeEn: cachedItem.verse.themeEn || '',
+				themeZh: cachedItem.verse.themeZh || '',
+			};
 
 	const reflectionEn = cachedItem.reflection?.en;
 	const reflectionZh = cachedItem.reflection?.zh;

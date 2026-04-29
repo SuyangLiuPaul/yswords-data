@@ -206,6 +206,27 @@ test('reuseDeepMatchFromCache falls back to cached verse when aiVerseId not in c
 	assert.equal(result.fromCache, true);
 });
 
+test('reuseDeepMatchFromCache rejects legacy cache items without aiVerseId', () => {
+	// Items produced by the OLD pipeline have no aiVerseId marker. Reusing
+	// them would freeze the shallow verse picks the user complained about.
+	// We require the marker so legacy items force a one-time re-AI pass.
+	const result = reuseDeepMatchFromCache(
+		{ id: 'a', link: 'l' },
+		{
+			id: 'a',
+			link: 'l',
+			translationState: 'localized',
+			// no aiVerseId — was created by pre-deep-match pipeline
+			verse: { reference: 'Old 1:1', textEn: 'shallow', textZh: 'shallow zh', themeEn: 'X', themeZh: 'Y' },
+			reflection: { en: 're en', zh: 're zh' },
+			summary: { en: 's en', zh: 's zh' },
+			title: { en: 't', zh: 't zh' },
+		},
+		[],
+	);
+	assert.equal(result, null);
+});
+
 test('reuseDeepMatchFromCache rejects when reflections are missing', () => {
 	const result = reuseDeepMatchFromCache(
 		{ id: 'a', link: 'l' },
