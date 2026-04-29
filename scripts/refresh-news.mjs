@@ -686,6 +686,20 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 		'',
 		'Reason carefully, then return JSON: { verseId, titleZh, summaryEn, summaryZh, reflectionEn, reflectionZh }.',
 	];
+	// Article body (long form) handed to the model so it can produce
+	// a faithful Simplified-Chinese translation alongside the verse
+	// pick. Capped to keep the prompt reasonable; the AI sees the
+	// English exactly and only renders bodyZh.
+	const articleBody = (item.body || '').slice(0, 2800);
+	if (articleBody && articleBody.length > 60) {
+		promptLines.splice(
+			6,
+			0,
+			'',
+			'ARTICLE BODY (English — translate faithfully into Simplified Chinese as bodyZh):',
+			articleBody,
+		);
+	}
 	const userPrompt = promptLines.join('\n');
 
 	try {
@@ -703,6 +717,13 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 						summaryZh: { type: 'string' },
 						reflectionEn: { type: 'string' },
 						reflectionZh: { type: 'string' },
+						// Optional — only filled when the article body
+						// was non-trivial. The AI returns the EN body
+						// roughly preserved (we discard and use our
+						// raw text for accuracy) plus a faithful zh
+						// translation. Treat empty string as "no body
+						// translation available".
+						bodyZh: { type: 'string' },
 					},
 					required: [
 						'verseId',
@@ -715,8 +736,9 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 					additionalProperties: false,
 				},
 			},
-			// 90s — gemini-2.5-pro thinking calls are slower than flash.
-			90000,
+			// 120s — body translation adds output tokens; thinking-
+			// model latency creeps up with the longer prompt.
+			120000,
 		);
 
 		const parsed = extractJson(raw);
@@ -739,6 +761,13 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 		const summaryZh = trimText(applyPreferredDivineName(cleanText(parsed.summaryZh || '')), 160) || null;
 		const reflectionEn = trimText(applyPreferredDivineName(cleanText(parsed.reflectionEn || '')), 360) || null;
 		const reflectionZh = trimText(applyPreferredDivineName(cleanText(parsed.reflectionZh || '')), 180) || null;
+		// Body translation — null when no body was supplied OR when the
+		// AI declined to translate. trimText caps at the same ~2800-char
+		// budget as the EN body so neither side dominates the payload.
+		const bodyZhRaw = cleanText(parsed.bodyZh || '');
+		const bodyZh = bodyZhRaw && containsCjk(bodyZhRaw)
+			? trimText(applyPreferredDivineName(bodyZhRaw), 2800) || null
+			: null;
 
 		// Require at least both reflections + verse — partial answers are
 		// weaker than a clean keyword fallback.
@@ -769,6 +798,7 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 			summaryZh,
 			reflectionEn,
 			reflectionZh,
+			bodyZh,
 		};
 	} catch (error) {
 		console.warn(`Deep-match failed for "${item.title.slice(0, 60)}": ${error.message}`);
@@ -832,6 +862,7 @@ export function reuseDeepMatchFromCache(item, cachedItem, verseCorpus) {
 		summaryZh: cachedItem.summary?.zh || null,
 		reflectionEn,
 		reflectionZh,
+		bodyZh: cachedItem.body?.zh || null,
 		fromCache: true,
 	};
 }
@@ -1023,6 +1054,7 @@ async function fetchFeed(source) {
 			.map((item) => {
 				const title = cleanText(item.title || 'Untitled story');
 				const summary = deriveSummary(item);
+				const body = deriveBody(item);
 				const enclosureUrl = extractEnclosureImage(item);
 
 				return {
@@ -1033,6 +1065,7 @@ async function fetchFeed(source) {
 					link: item.link || source.url,
 					title,
 					summary,
+					body,
 					enclosureUrl,
 					publishedAt: normalizeDate(item.isoDate || item.pubDate),
 				};
@@ -1044,10 +1077,33 @@ async function fetchFeed(source) {
 	}
 }
 
+// Image source priority — RSS feeds can carry artwork in any of
+// these slots, so try them in turn. Final fallback is `null`, which
+// the OG-meta scraper picks up downstream in buildStory().
 function extractEnclosureImage(item) {
+	// 1. Standard RSS <enclosure>.
 	if (item.enclosure?.url && /^https?:\/\//i.test(item.enclosure.url)) {
 		return item.enclosure.url;
 	}
+	// 2. Media RSS <media:content url="..." medium="image">.
+	const mediaContent = item['media:content'];
+	const mc = Array.isArray(mediaContent) ? mediaContent[0] : mediaContent;
+	const mcUrl = mc?.$?.url || mc?.url;
+	if (mcUrl && /^https?:\/\//i.test(mcUrl)) return mcUrl;
+	// 3. Media RSS <media:thumbnail url="...">.
+	const mediaThumb = item['media:thumbnail'];
+	const mt = Array.isArray(mediaThumb) ? mediaThumb[0] : mediaThumb;
+	const mtUrl = mt?.$?.url || mt?.url;
+	if (mtUrl && /^https?:\/\//i.test(mtUrl)) return mtUrl;
+	// 4. First <img src="…"> embedded in content:encoded HTML —
+	// catches the Guardian, BBC blogs, and most commercial feeds
+	// that don't fill in the enclosure tag.
+	const html =
+		item['content:encoded'] || item.content || item.description || '';
+	const imgMatch = String(html).match(
+		/<img[^>]+src=["']([^"']+)["']/i,
+	);
+	if (imgMatch && /^https?:\/\//i.test(imgMatch[1])) return imgMatch[1];
 	return null;
 }
 
@@ -1062,6 +1118,23 @@ function deriveSummary(item) {
 		'';
 
 	return trimText(cleanText(raw), 280) || 'Open the source article for the full report.';
+}
+
+// Long-form article body for the detail-page view. Pulls the full
+// `content:encoded` (HTML) when present and falls back to the
+// snippet/description. Trimmed to ~2800 chars so the per-story
+// payload stays modest while still giving the reader meaningful
+// substance beyond the 280-char summary.
+function deriveBody(item) {
+	const raw =
+		item['content:encoded'] ||
+		item.content ||
+		item['content:encodedSnippet'] ||
+		item.contentSnippet ||
+		item.summary ||
+		item.description ||
+		'';
+	return trimText(cleanText(raw), 2800);
 }
 
 export function dedupeStories(items) {
@@ -1275,6 +1348,15 @@ async function buildStory(item, index, ctx = {}) {
 		summary: {
 			en: applyPreferredDivineName(deep?.summaryEn ?? fallbackCopy.summary.en),
 			zh: applyPreferredDivineName(deep?.summaryZh ?? fallbackCopy.summary.zh),
+		},
+		// Long-form article body for the in-app detail-page reader.
+		// `en` is the cleaned RSS content:encoded text (~2800 chars
+		// max). `zh` is null when no body was available OR the AI
+		// declined to translate; the Flutter side then falls back to
+		// summary.zh so the zh reader still gets meaningful content.
+		body: {
+			en: item.body || null,
+			zh: deep?.bodyZh ?? null,
 		},
 		reflection: {
 			en: applyPreferredDivineName(deep?.reflectionEn ?? fallbackCopy.reflection.en),

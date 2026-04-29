@@ -58,6 +58,14 @@
         "publishedAt": { "type": "string" },
         "title": { "$ref": "#/definitions/localized" },
         "summary": { "$ref": "#/definitions/localized" },
+        "body": {
+          "type": "object",
+          "description": "Long-form article body (~2800 chars max) for the in-app detail-page reader. en is the cleaned RSS content:encoded; zh is an AI translation. Either side may be null when unavailable.",
+          "properties": {
+            "en": { "type": ["string", "null"] },
+            "zh": { "type": ["string", "null"] }
+          }
+        },
         "reflection": {
           "type": "object",
           "properties": {
