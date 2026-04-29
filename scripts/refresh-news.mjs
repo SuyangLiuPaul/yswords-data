@@ -1238,7 +1238,15 @@ async function buildStory(item, index, ctx = {}) {
 	// Translate the headline to zh only when the AI didn't already provide one.
 	const fallbackTitleZh = deep?.titleZh ? null : await maybeTranslateTitleToChinese(item.title);
 
-	// Image resolution: enclosure → OG meta → AI search-query suggestion.
+	// Image resolution: enclosure → OG meta → (optional) AI search-query.
+	//
+	// The AI search-query suggestion was originally meant to power a future
+	// image picker, but no consumer ever read the resulting `imageQuery`
+	// field — it was just stored in daily_news.json and ignored. At ~half
+	// the stories lacking an OG image, that's ~15 wasted AI calls per cron
+	// × 4 runs/day = 60+/day. Now opt-in via NEWS_GENERATE_IMAGE_QUERY=1
+	// so the cost stays off by default. The function is kept defined for
+	// when the image-picker feature ships.
 	let imageUrl = item.enclosureUrl || null;
 	let imageQuery = null;
 
@@ -1246,7 +1254,7 @@ async function buildStory(item, index, ctx = {}) {
 		imageUrl = await fetchOgImage(item.link);
 	}
 
-	if (!imageUrl) {
+	if (!imageUrl && process.env.NEWS_GENERATE_IMAGE_QUERY === '1') {
 		imageQuery = await aiSuggestImageQuery(item);
 		await delay(AI_CALL_DELAY_MS);
 	}
