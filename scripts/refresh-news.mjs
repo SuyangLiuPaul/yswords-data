@@ -1184,21 +1184,24 @@ function deriveSummary(item) {
 	return trimText(cleanText(raw), 280) || 'Open the source article for the full report.';
 }
 
-// Long-form article body for the detail-page view. Pulls the full
-// `content:encoded` (HTML) when present and falls back to the
-// snippet/description. Trimmed to ~2800 chars so the per-story
-// payload stays modest while still giving the reader meaningful
-// substance beyond the 280-char summary.
+// Long-form article body for the detail-page view. Only returns text
+// when content:encoded (the standard slot for the full article HTML)
+// is meaningfully longer than the summary — otherwise we'd just be
+// duplicating the 280-char lede on the detail page, which user
+// feedback flagged as "one news not full". Many feeds (BBC, SBS,
+// DW headline ticker) genuinely lack the full body in their RSS;
+// the detail page now hides the body block in that case and the
+// "Read original at…" button is the entry point for the full text.
 function deriveBody(item) {
-	const raw =
-		item['content:encoded'] ||
-		item.content ||
-		item['content:encodedSnippet'] ||
-		item.contentSnippet ||
-		item.summary ||
-		item.description ||
-		'';
-	return trimText(cleanText(raw), 2800);
+	const encoded = cleanText(item['content:encoded'] || item.content || '');
+	if (!encoded) return '';
+	const summary = cleanText(deriveSummary(item) || '');
+	// Require the full body to be at least 50% longer than the summary
+	// AND beyond 320 chars; otherwise it's essentially the same text
+	// the lede already shows.
+	if (encoded.length < 320) return '';
+	if (encoded.length < summary.length * 1.5) return '';
+	return trimText(encoded, 2800);
 }
 
 export function dedupeStories(items) {
