@@ -46,11 +46,23 @@ const AI_BASE_URL = (process.env.OPENAI_BASE_URL || 'https://generativelanguage.
 // matches the user complained about ("not related and not in deep think").
 // Override via env var OPENAI_MODEL if you need to revert / experiment.
 const AI_MODEL = process.env.OPENAI_MODEL || 'gemini-2.5-pro';
+// Cheaper / higher-quota model for mechanical translation passes.
+// gemini-2.5-flash has 10 RPM and 1500 RPD on the free tier vs
+// 2.5-pro's 5 RPM / 250 RPD, so using flash for body translation
+// stops the deep-match pipeline from starving the quota pool.
+const AI_TRANSLATE_MODEL =
+	process.env.OPENAI_TRANSLATE_MODEL || 'gemini-2.5-flash';
 // Lower temperature than before (0.3 -> 0.2): we want stable verse picks
 // across runs so a story doesn't bounce between verses on every refresh,
 // while leaving room for natural-sounding reflection prose.
 const AI_TEMPERATURE = Number(process.env.OPENAI_TEMPERATURE || 0.2);
-const AI_CALL_DELAY_MS = 500;
+// Inter-call delay. Gemini 2.5 Pro free tier allows 5 requests/minute,
+// so 13s between calls keeps us within budget when the cron processes
+// dozens of stories. The previous 500ms slammed 120 RPM and triggered
+// HTTP 429 across the whole batch, dropping every deep-match to the
+// keyword fallback. Override via env when you have a paid key with
+// higher limits.
+const AI_CALL_DELAY_MS = Number(process.env.AI_CALL_DELAY_MS || 13000);
 // Path to the curated verse corpus. Authored by hand in
 // `data/news_verse_corpus.json` — 96 verses across 20 topical categories.
 // Loaded once per pipeline run and passed to the deep-match call.
@@ -326,11 +338,11 @@ function delay(ms) {
 // Each retry rotates to the NEXT round-robin key, so a single rate-limited
 // key doesn't block progress when GEMINI_API_KEYS holds multiple.
 //
-// Total worst-case latency: timeoutMs + 1s + timeoutMs + 3s + timeoutMs.
-// At 90s timeout that's 273s = 4.5min per story before giving up. The
-// pipeline currently processes <60 stories/run, so even pathological
-// conditions stay well under the 6-hour Actions step limit.
-const RETRY_BACKOFF_MS = [1000, 3000];
+// Total worst-case latency: timeoutMs + sum(backoffs) + extra. Backoff
+// values are sized for Gemini's 5 RPM / 1500 TPM free tier so a 429
+// caused by quota exhaustion gets enough time for the next minute's
+// budget to refill. Bumped from [1s, 3s] which was too short.
+const RETRY_BACKOFF_MS = [12000, 30000];
 
 function isTransientHttpStatus(status) {
 	return status === 429 || (status >= 500 && status < 600);
@@ -349,14 +361,14 @@ function isTransientNetworkError(error) {
 	);
 }
 
-async function callGeminiChat(systemPrompt, userPrompt, jsonSchema = null, timeoutMs = 45000) {
+async function callGeminiChat(systemPrompt, userPrompt, jsonSchema = null, timeoutMs = 45000, modelOverride = null) {
 	const messages = [
 		{ role: 'system', content: systemPrompt },
 		{ role: 'user', content: userPrompt },
 	];
 
 	const body = {
-		model: AI_MODEL,
+		model: modelOverride || AI_MODEL,
 		messages,
 		temperature: AI_TEMPERATURE,
 	};
@@ -910,6 +922,7 @@ async function aiTranslateBodyToZh(bodyEn) {
 				},
 			},
 			60000,
+			AI_TRANSLATE_MODEL, // gemini-2.5-flash by default — separate quota pool from deep-match
 		);
 		const parsed = extractJson(raw);
 		const zh = cleanText(parsed?.zh || '');
