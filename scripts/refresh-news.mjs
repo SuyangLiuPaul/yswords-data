@@ -670,19 +670,23 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 		'Return ONLY valid JSON matching the schema.',
 	].join('\n');
 
-	const userPrompt = [
+	// Build the prompt with explicit nullable sections so we can skip the
+	// EDITORIAL CONSTRAINT block cleanly without nuking the blank-line
+	// spacers between sections (using filter(Boolean) would do both).
+	const promptLines = [
 		'STORY',
 		`section: ${item.section}`,
 		`source: ${item.source}`,
 		`title: ${item.title}`,
 		`summary: ${item.summary}`,
 		'',
-		diversityNote ? `EDITORIAL CONSTRAINT\n${diversityNote}\n` : '',
+		...(diversityNote ? ['EDITORIAL CONSTRAINT', diversityNote, ''] : []),
 		'VERSE CATALOG (verseId | reference | themeEn | tags | applies)',
 		catalogText,
 		'',
 		'Reason carefully, then return JSON: { verseId, titleZh, summaryEn, summaryZh, reflectionEn, reflectionZh }.',
-	].filter(Boolean).join('\n');
+	];
+	const userPrompt = promptLines.join('\n');
 
 	try {
 		const raw = await callGeminiChat(
