@@ -1454,17 +1454,17 @@ async function buildStory(item, index, ctx = {}) {
 	}
 
 	// 2b. Body translation via the free Google Translate web endpoint
-	//     (no API key, no quota). We keep Gemini for the substantive
-	//     work — picking the right verse, writing the bilingual
-	//     reflection — and use the free translator for mechanical
-	//     long-form translation. This stops daily-Gemini-quota
-	//     exhaustion from breaking the bilingual body experience.
+	//     (no API key, no quota). DECOUPLED from `deep`: even when
+	//     Gemini's quota is exhausted and the deep-match falls
+	//     through to the keyword classifier (deep === null), we
+	//     still want body translation to fire — it's free.
 	//
 	//     Override:
 	//       NEWS_TRANSLATE_BODY=ai  → use Gemini (paid key required)
 	//       NEWS_TRANSLATE_BODY=off → skip translation entirely
 	//       (default)               → use the free Google endpoint
-	if (deep && !deep.bodyZh && item.body && item.body.length >= 60) {
+	let bodyZhResolved = deep?.bodyZh || null;
+	if (!bodyZhResolved && item.body && item.body.length >= 60) {
 		const mode = (process.env.NEWS_TRANSLATE_BODY || 'free').toLowerCase();
 		if (mode !== 'off') {
 			let translated = null;
@@ -1472,16 +1472,14 @@ async function buildStory(item, index, ctx = {}) {
 				translated = await aiTranslateBodyToZh(item.body);
 				await delay(AI_CALL_DELAY_MS);
 			} else {
-				// Free Google Translate path. No throttle needed —
-				// no per-key quota, just polite-citizen pacing.
+				// Free Google Translate path. No quota; small polite
+				// delay between calls so we don't hammer.
 				translated = await freeTranslateToZh(item.body, 'body');
 				await delay(300);
 			}
 			if (translated) {
-				deep = {
-					...deep,
-					bodyZh: applyPreferredDivineName(translated).slice(0, 2800),
-				};
+				bodyZhResolved =
+					applyPreferredDivineName(translated).slice(0, 2800);
 			}
 		}
 	}
@@ -1541,13 +1539,14 @@ async function buildStory(item, index, ctx = {}) {
 			zh: applyPreferredDivineName(deep?.summaryZh ?? fallbackCopy.summary.zh),
 		},
 		// Long-form article body for the in-app detail-page reader.
-		// `en` is the cleaned RSS content:encoded text (~2800 chars
-		// max). `zh` is null when no body was available OR the AI
-		// declined to translate; the Flutter side then falls back to
-		// summary.zh so the zh reader still gets meaningful content.
+		// `en` is either the cleaned RSS content:encoded text or the
+		// HTML-fetched fallback (~2800 chars max). `zh` comes from
+		// the free Google Translate pass — independent of Gemini
+		// quota so the bilingual body holds even on a quota-exhausted
+		// day.
 		body: {
 			en: item.body || null,
-			zh: deep?.bodyZh ?? null,
+			zh: bodyZhResolved,
 		},
 		reflection: {
 			en: applyPreferredDivineName(deep?.reflectionEn ?? fallbackCopy.reflection.en),
