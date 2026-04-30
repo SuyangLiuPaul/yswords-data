@@ -45,7 +45,14 @@ const AI_BASE_URL = (process.env.OPENAI_BASE_URL || 'https://generativelanguage.
 // resonance than 2.5-flash, which previously produced shallow keyword-style
 // matches the user complained about ("not related and not in deep think").
 // Override via env var OPENAI_MODEL if you need to revert / experiment.
-const AI_MODEL = process.env.OPENAI_MODEL || 'gemini-2.5-pro';
+// Default to gemini-2.5-flash for the deep-match. We tried 2.5-pro
+// earlier for its thinking-mode reasoning, but the free tier's
+// 250 RPD quota gets exhausted within a single rough day (~30
+// stories × 30 retries from 429s = 900+ requests/day in worst case).
+// 2.5-flash gives us 1500 RPD and is still very capable for the
+// pick-a-verse-and-write-a-reflection task. Override via env when
+// you have a paid pro key.
+const AI_MODEL = process.env.OPENAI_MODEL || 'gemini-2.5-flash';
 // Cheaper / higher-quota model for mechanical translation passes.
 // gemini-2.5-flash has 10 RPM and 1500 RPD on the free tier vs
 // 2.5-pro's 5 RPM / 250 RPD, so using flash for body translation
@@ -56,13 +63,12 @@ const AI_TRANSLATE_MODEL =
 // across runs so a story doesn't bounce between verses on every refresh,
 // while leaving room for natural-sounding reflection prose.
 const AI_TEMPERATURE = Number(process.env.OPENAI_TEMPERATURE || 0.2);
-// Inter-call delay. Gemini 2.5 Pro free tier allows 5 requests/minute,
-// so 13s between calls keeps us within budget when the cron processes
-// dozens of stories. The previous 500ms slammed 120 RPM and triggered
-// HTTP 429 across the whole batch, dropping every deep-match to the
-// keyword fallback. Override via env when you have a paid key with
-// higher limits.
-const AI_CALL_DELAY_MS = Number(process.env.AI_CALL_DELAY_MS || 13000);
+// Inter-call delay. gemini-2.5-flash free tier allows 10 RPM, so 7s
+// between calls leaves headroom for occasional retries without
+// spilling over. (gemini-2.5-pro was 5 RPM = 13s; if you flip back
+// to pro, also bump this to 13000.) The original 500ms slammed
+// 120 RPM and triggered HTTP 429 across the whole batch.
+const AI_CALL_DELAY_MS = Number(process.env.AI_CALL_DELAY_MS || 7000);
 // Path to the curated verse corpus. Authored by hand in
 // `data/news_verse_corpus.json` — 96 verses across 20 topical categories.
 // Loaded once per pipeline run and passed to the deep-match call.
