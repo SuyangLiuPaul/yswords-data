@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T18:12:42.339Z",
+  "generatedAt": "2026-04-30T20:11:42.580Z",
   "editionDate": "2026-05-01",
   "sources": [
     {
@@ -107,8 +107,8 @@
       "sourceNotes": [
         "BBC News World",
         "The Guardian World",
-        "DW World",
-        "SBS News World"
+        "SBS News World",
+        "DW World"
       ],
       "items": [
         {
@@ -118,7 +118,7 @@
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2242/live/23bce810-44b8-11f1-9caf-0fcd4fb68138.jpg",
-          "publishedAt": "2026-04-30T18:09:32.000Z",
+          "publishedAt": "2026-04-30T20:03:36.000Z",
           "title": {
             "en": "US House votes to end government shutdown over immigration operations",
             "zh": "美国众议院投票结束政府因移民事务停摆"
@@ -144,6 +144,307 @@
           },
           "aiVerseId": "rom_12_18",
           "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-live-2026-apr-30-supreme-court-voting-rights",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/live/2026/apr/30/supreme-court-voting-rights-act-ruling-louisiana-primary-election-live",
+          "image": "https://i.guim.co.uk/img/media/3782563224e5a7a0e34a1b3ab3f9063f8d60ac29/177_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f4644a5a32e52fe77d3221e894cfda29",
+          "publishedAt": "2026-04-30T19:50:56.000Z",
+          "title": {
+            "en": "Louisiana primaries will proceed with US House races on ballot but votes ‘will not be counted’, secretary of state says – live",
+            "zh": "特朗普称田纳西州州长正努力“给我们多争取一个席位”，各州竞相重划国会选区——实时报道"
+          },
+          "summary": {
+            "en": "President’s social post comes after Louisiana postpones primaries to redraw maps just a day after supreme court ruling guts Voting Rights Act Louisiana postpones primaries as states rush to redraw districts after supreme court ruling Voting rights advocates vow to ‘relocate’ fight after supreme court gutting The...",
+            "zh": "在最高法院裁决削弱《投票权法案》仅一天后，路易斯安那州推迟初选以重划选区，总统在社交媒体上发布了相关帖子。各州正争相重划选区。投票权倡导者誓言在最高法院削弱该法案后将“转移”斗争阵地。法律民权律师委员会谴责最高法院严重削弱《投票权法案》第二条的决定。律师委员会主席兼执行董事达蒙·T·休伊特发表声明称：“非裔美国人从未在..."
+          },
+          "body": {
+            "en": "Decision from state’s top election official comes after US supreme court’s ruled Louisiana must redraw its congressional maps Louisiana postpones primaries as states rush to redraw districts after supreme court ruling Voting rights advocates vow to ‘relocate’ fight after supreme court gutting The Lawyers’ Committee for Civil Rights Under Law decried the decision by the supreme court to severely weaken Section 2 of the Voting Rights Act. Damon T Hewitt, president and executive director of the Lawyers’ Committee, issued this statement: “ Black Americans have never been fully represented in the electoral process. This ruling makes it less likely that we ever will. The impact of this ruling cannot be understated. The consequences will be seen both immediately and far into the future. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "The prophet Habakkuk lamented when justice seemed paralyzed and the wicked hemmed in the righteous. Today's news of a ruling that weakens voting rights for marginalized communities echoes this ancient cry, highlighting the ongoing struggle for fair representation. It reminds us that the pursuit of justice is a persistent, often challenging, endeavor that...",
+            "zh": "先知哈巴谷曾哀叹公义似乎瘫痪，恶人围困义人。今天关于一项削弱边缘化社区投票权的裁决的新闻，呼应了这古老的呼声，凸显了争取公平代表权的持续斗争。这提醒我们，追求公义是一项持久且常具挑战性的事业，需要警惕和倡导。"
+          },
+          "verse": {
+            "reference": "Habakkuk 1:4",
+            "textEn": "The law is paralyzed, and justice never prevails. The wicked hem in the righteous, so that justice is perverted.",
+            "textZh": "因此律法放松，公理也不显明；恶人围困义人，所以公理显然颠倒。",
+            "themeEn": "Lament for broken justice",
+            "themeZh": "对不公的哀诉"
+          },
+          "aiVerseId": "hab_1_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-com-news-articles-c4g05jg87wko-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5427/live/51640690-44c2-11f1-a7c1-511beb587867.jpg",
+          "publishedAt": "2026-04-30T19:50:29.000Z",
+          "title": {
+            "en": "Belgium plans to nationalise nuclear power plants",
+            "zh": "比利时计划将核电站国有化"
+          },
+          "summary": {
+            "en": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
+            "zh": "首相巴特·德·韦弗表示，此举将使比利时“减少对化石燃料进口的依赖，并更好地掌控自身供应”。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "Belgium's decision to nationalize nuclear power plants reflects a strategic effort to secure its energy future and reduce external dependencies. This move aligns with the wisdom of foreseeing potential challenges and taking proactive steps to safeguard national interests. Such foresight in governance helps a nation navigate complex global landscapes with...",
+            "zh": "比利时决定将核电站国有化，体现了其保障能源未来、减少外部依赖的战略考量。这与预见潜在风险并采取积极措施维护国家利益的智慧不谋而合。在治理中展现这种远见，有助于国家在复杂的全球环境中保持更大的稳定。"
+          },
+          "verse": {
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
+          },
+          "aiVerseId": "prov_27_12",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-live-2026-apr-30-donald-trump-pete-hegseth-i",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/8c617201b281c0a35afeda5dcc60ccdfef543cf3/0_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8a83f5f060eb52f7af320436d81c3ff5",
+          "publishedAt": "2026-04-30T19:48:06.000Z",
+          "title": {
+            "en": "Republicans again block war powers resolution after Democrats grill Hegseth on Trump’s ‘unauthorized war’ in Iran – live",
+            "zh": "赫格塞斯就战争成本面临进一步质询，伊朗最高领袖发布对美新威胁——美国政治直播"
+          },
+          "summary": {
+            "en": "Defense secretary to be quizzed in Senate as Khamenei says foreigners have no place in Gulf ‘except at bottom of its waters’. The global oil price has soared above $126 a barrel, its highest level since 2022, after Donald Trump warned the US blockade of Iranian ports could last for months and peace talks remained...",
+            "zh": "国防部长将在参议院接受质询，与此同时，伊朗最高领袖哈梅内伊表示，外国人在海湾地区没有立足之地，“除了在海底”。在全球油价飙升至每桶126美元以上，创下2022年以来新高之际，此前唐纳德·特朗普警告称，美国对伊朗港口的封锁可能持续数月，和平谈判仍陷僵局。"
+          },
+          "body": {
+            "en": "Republican senators blocked a sixth attempt to limit US military action in Iran; Democrats criticize Trump’s defense secretary and strategy in the Middle East Sign up for the Breaking News US email Louisiana governor Jeff Landry yesterday told GOP candidates that he plans to suspend next month’s primary elections so that state lawmakers can pass a new congressional map first, the Washington Post (paywall) reported last night . It came hours after the US supreme court decided that Louisiana’s creation of a second majority black congressional district to satisfy previously rulings relied too heavily on race and was “an unconstitutional racial gerrymander”, as opposed to a required effort to comply with the Voting Rights Act . Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "The news of stalled peace talks and escalating threats reminds us of the constant challenge to live peacefully in a complex world. Romans 12:18 calls us to pursue peace as much as lies within our power, acknowledging that while perfect peace may not always be fully attainable, the effort to foster understanding and de-escalate tensions remains a vital...",
+            "zh": "关于和谈停滞和威胁升级的消息，提醒我们生活在一个复杂世界中，和平共处面临着持续的挑战。罗马书12:18呼吁我们，只要力所能及，就与众人和睦，这承认了虽然完美的和平并非总能完全实现，但促进理解和缓和紧张局势的努力仍然是一项重要的呼召。在全球局势日益紧张的时刻，这节经文鼓励我们尽可能寻求和解与对话的途径。"
+          },
+          "verse": {
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
+          },
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-apr-30-camp-mystic-closes-summer-reopen",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/apr/30/camp-mystic-closes-summer-reopening-flood",
+          "image": "https://i.guim.co.uk/img/media/1ae86f1dcd9fc6df091ffbcf8c9ac908c2d03b3d/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=958a0623bc82023133f12236342da44d",
+          "publishedAt": "2026-04-30T19:47:30.000Z",
+          "title": {
+            "en": "Camp Mystic halts summer reopening after Texas flood deaths",
+            "zh": "德克萨斯州洪水造成死亡后，神秘营停止夏季重新开放"
+          },
+          "summary": {
+            "en": "Decision follows pressure from lawmakers and families as investigations continue into response to deadly disaster Camp Mystic, the Christian summer camp in Texas where 27 campers and counselors died in a catastrophic flood last year, has halted plans to reopen this summer, after...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Decision follows pressure from lawmakers and families as investigations continue into response to deadly disaster Camp Mystic, the Christian summer camp in Texas where 27 campers and counselors died in a catastrophic flood last year, has halted plans to reopen this summer , after months of intensifying pressure and outrage by state leaders and victims’ families. In a statement on Thursday, the camp said: “No administrative process or summer season should move forward while families continue to grieve, while investigations continue and while so many Texans still carry the pain of last July’s tragedy.” Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-media-2026-apr-30-bari-weiss-cbs-shayndi-raice",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/media/2026/apr/30/bari-weiss-cbs-shayndi-raice",
+          "image": "https://i.guim.co.uk/img/media/da01062295f604f6703d2f82baada587ca9760e8/83_0_1358_1086/master/1358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1edb1cdd412b3b519363690dd6f7f12",
+          "publishedAt": "2026-04-30T19:39:53.000Z",
+          "title": {
+            "en": "Bari Weiss appoints editor viewed as pro-Israel in latest CBS News shakeup",
+            "zh": "哥伦比亚广播公司新闻部最新人事变动：巴里·韦斯任命被视为亲以色列的编辑"
+          },
+          "summary": {
+            "en": "Bari Weiss, the head of CBS News, has removed a veteran bureau chief due to reported tensions over Middle East coverage. She has appointed Shayndi Raice, an editor viewed as pro-Israel, to lead the network's international coverage from a newly created London-based position.",
+            "zh": "哥伦比亚广播公司新闻部负责人巴里·韦斯因中东报道方面的紧张关系，解除了资深部门主管的职务。她任命了被视为亲以色列的编辑沙因迪·赖斯，负责该新闻网在伦敦新设立的国际报道职位。"
+          },
+          "body": {
+            "en": "Shayndi Raice to lead CBS’s foreign coverage after Weiss ousts bureau chief over reported tensions Sign up for the Breaking News US email to get newsletter alerts in your inbox Bari Weiss , the CBS News boss, has ousted a veteran bureau chief following tensions over coverage of the Middle East and brought in a new foreign editor who, according to sources, is more aligned with Weiss’s pro-Israel agenda. Paramount, which owns CBS, announced on Wednesday that it had hired Shayndi Raice, a Wall Street Journal editor who most recently served as the paper’s deputy bureau chief for the Middle East and north Africa , based in Israel. Raice will move to London, where she’ll oversee the network’s international coverage in a newly created position, the company said. In a social media post , Weiss called Raice “a scoophound reporter, a brilliant editor, and a clear-eyed leader”. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "In a world grappling with complex narratives, the pursuit of balanced and fair reporting is vital. Proverbs 18:17 reminds us that initial accounts can seem convincing until other perspectives are heard and examined. This principle encourages us to seek out diverse viewpoints, especially when sensitive topics are at stake, fostering a more complete...",
+            "zh": "在一个充斥着复杂叙事的时代，追求平衡和公正的报道至关重要。箴言18:17提醒我们，最初的陈述听起来似乎有理，直到有其他人前来查问。这一原则鼓励我们，尤其是在涉及敏感话题时，要寻求多元的观点，以促进更全面的理解。"
+          },
+          "verse": {
+            "reference": "Proverbs 18:17",
+            "textEn": "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.",
+            "textZh": "先诉情由的，似乎有理；但邻舍来到，就察出实情。",
+            "themeEn": "Hearing both sides",
+            "themeZh": "兼听则明"
+          },
+          "aiVerseId": "prov_18_17",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-andrie-yunus-acid-attack-rocks-indonesia-o7g",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/andrie-yunus-acid-attack-rocks-indonesia/o7g16rh5l",
+          "image": "https://assets.sbs.com.au/dims4/default/cc5511d/2147483647/strip/false/crop/1920x882+0+99/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F48%2F99%2F6f9112f44ecea53424c6cb16c471%2Findonesia-rights-header-v4.png",
+          "publishedAt": "2026-04-30T19:38:09.000Z",
+          "title": {
+            "en": "'Personal revenge' or 'premeditated murder': How an acid attack rocked Indonesia",
+            "zh": "“个人报复”或“有预谋的谋杀”：硫酸袭击如何震撼印度尼西亚"
+          },
+          "summary": {
+            "en": "In Indonesia, an acid attack on a prominent activist has pushed concerns over military power and justice to centre stage.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-apr-30-us-venezuela-first-direct-commerci",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
+          "image": "https://i.guim.co.uk/img/media/f77e886402b773f3c8f992ebf4a5aff7559839e7/455_0_4241_3393/master/4241.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed131f3d0517b94113996f2c23c3e4e8",
+          "publishedAt": "2026-04-30T19:12:56.000Z",
+          "title": {
+            "en": "‘A new chapter’: first commercial fight from US since 2019 lands in Venezuela",
+            "zh": "“新篇​​章”：2019年以来美国首场商业斗争登陆委内瑞拉"
+          },
+          "summary": {
+            "en": "Four months after US capture of Nicolás Maduro, officials hail repairing of ties as airliner touches down in Caracas US and Venezuelan officials have hailed a new era in diplomatic relations as the first direct commercial flight between the two countries in more than seven years...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Four months after US capture of Nicolás Maduro, officials hail repairing of ties as airliner touches down in Caracas US and Venezuelan officials have hailed a new era in diplomatic relations as the first direct commercial flight between the two countries in more than seven years landed in Caracas. Nearly four months ago, US special forces attack helicopters and planes swept into the skies over Venezuela’s capital after Donald Trump ordered the capture of its president, Nicolás Maduro . Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-kosovo-to-hold-snap-elections-in-june-a-77003278-maca-en-r",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-world-4025-rdf",
+          "image": null,
+          "publishedAt": "2026-04-30T19:01:00.000Z",
+          "title": {
+            "en": "Kosovo to hold snap elections in June",
+            "zh": "科索沃将于六月提前举行选举"
+          },
+          "summary": {
+            "en": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but now there's a political deadlock over who shoud be elected president.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-how-serbia-s-government-dominates-the-country-s-media-a-77",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-world-4025-rdf",
+          "image": null,
+          "publishedAt": "2026-04-30T18:33:00.000Z",
+          "title": {
+            "en": "How Serbia's government dominates the country's media",
+            "zh": "塞尔维亚政府如何主导该国媒体"
+          },
+          "summary": {
+            "en": "Since Serbia's ruling SNS party came to power, it has tightened its grip on the media. With an election expected soon, experts fear that authorities will try to eliminate the last pockets of independent reporting.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-bbc-com-news-articles-cx21m88rd14o-at-medium-rss-at-campaign-rss",
@@ -175,174 +476,6 @@
             "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
             "themeEn": "Mind discipline",
             "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-live-2026-apr-30-supreme-court-voting-rights",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/apr/30/supreme-court-voting-rights-act-ruling-louisiana-primary-election-live",
-          "image": "https://i.guim.co.uk/img/media/3782563224e5a7a0e34a1b3ab3f9063f8d60ac29/177_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f4644a5a32e52fe77d3221e894cfda29",
-          "publishedAt": "2026-04-30T18:02:55.000Z",
-          "title": {
-            "en": "Trump says Tennessee governor working to ‘give us one extra seat’ as states race to redraw congressional maps – live",
-            "zh": "特朗普称田纳西州州长正努力“给我们多争取一个席位”，各州竞相重划国会选区——实时报道"
-          },
-          "summary": {
-            "en": "President’s social post comes after Louisiana postpones primaries to redraw maps just a day after supreme court ruling guts Voting Rights Act Louisiana postpones primaries as states rush to redraw districts after supreme court ruling Voting rights advocates vow to ‘relocate’ fight after supreme court gutting The...",
-            "zh": "在最高法院裁决削弱《投票权法案》仅一天后，路易斯安那州推迟初选以重划选区，总统在社交媒体上发布了相关帖子。各州正争相重划选区。投票权倡导者誓言在最高法院削弱该法案后将“转移”斗争阵地。法律民权律师委员会谴责最高法院严重削弱《投票权法案》第二条的决定。律师委员会主席兼执行董事达蒙·T·休伊特发表声明称：“非裔美国人从未在..."
-          },
-          "body": {
-            "en": "President’s social post comes after Louisiana postpones primaries to redraw maps just a day after supreme court ruling guts Voting Rights Act Louisiana postpones primaries as states rush to redraw districts after supreme court ruling Voting rights advocates vow to ‘relocate’ fight after supreme court gutting The Lawyers’ Committee for Civil Rights Under Law decried the decision by the supreme court to severely weaken Section 2 of the Voting Rights Act. Damon T Hewitt, president and executive director of the Lawyers’ Committee, issued this statement: “ Black Americans have never been fully represented in the electoral process. This ruling makes it less likely that we ever will. The impact of this ruling cannot be understated. The consequences will be seen both immediately and far into the future. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "The prophet Habakkuk lamented when justice seemed paralyzed and the wicked hemmed in the righteous. Today's news of a ruling that weakens voting rights for marginalized communities echoes this ancient cry, highlighting the ongoing struggle for fair representation. It reminds us that the pursuit of justice is a persistent, often challenging, endeavor that...",
-            "zh": "先知哈巴谷曾哀叹公义似乎瘫痪，恶人围困义人。今天关于一项削弱边缘化社区投票权的裁决的新闻，呼应了这古老的呼声，凸显了争取公平代表权的持续斗争。这提醒我们，追求公义是一项持久且常具挑战性的事业，需要警惕和倡导。"
-          },
-          "verse": {
-            "reference": "Habakkuk 1:4",
-            "textEn": "The law is paralyzed, and justice never prevails. The wicked hem in the righteous, so that justice is perverted.",
-            "textZh": "因此律法放松，公理也不显明；恶人围困义人，所以公理显然颠倒。",
-            "themeEn": "Lament for broken justice",
-            "themeZh": "对不公的哀诉"
-          },
-          "aiVerseId": "hab_1_4",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-technology-2026-apr-30-ai-outperforms-doctors-in-har",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-          "image": "https://i.guim.co.uk/img/media/7f4b1062db43fb053f4d68c08b8e92dd39f49107/0_62_4362_3487/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb8f56ddb65e715896d86461e95819f",
-          "publishedAt": "2026-04-30T18:00:23.000Z",
-          "title": {
-            "en": "AI outperforms doctors in Harvard trial of emergency triage diagnoses",
-            "zh": "人工智能在哈佛紧急分诊诊断试验中胜过医生"
-          },
-          "summary": {
-            "en": "Researchers say results mark a ‘profound change in technology that will reshape medicine’ From George Clooney in ER to Noah Wyle in The Pitt, emergency department doctors have long been popular heroes. But will it soon be time to hang up the scrubs? A groundbreaking Harvard...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Researchers say results mark a ‘profound change in technology that will reshape medicine’ From George Clooney in ER to Noah Wyle in The Pitt, emergency department doctors have long been popular heroes. But will it soon be time to hang up the scrubs? A groundbreaking Harvard study has found that AI systems outperformed human doctors in high-pressure emergency medicine triage, diagnosing more accurately in the potentially life and death moments when people are first rushed to hospital. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-live-2026-apr-30-donald-trump-pete-hegseth-i",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/2fef405bdaa1dc6a871f0a3760b640928a2e42c0/0_1852_2644_2115/master/2644.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c6fb4dabc403025ad09ae46b64d59a6b",
-          "publishedAt": "2026-04-30T17:58:02.000Z",
-          "title": {
-            "en": "‘An unauthorized war’: Democratic senators grill Pete Hegseth on US war with Iran – live",
-            "zh": "赫格塞斯就战争成本面临进一步质询，伊朗最高领袖发布对美新威胁——美国政治直播"
-          },
-          "summary": {
-            "en": "Defense secretary to be quizzed in Senate as Khamenei says foreigners have no place in Gulf ‘except at bottom of its waters’. The global oil price has soared above $126 a barrel, its highest level since 2022, after Donald Trump warned the US blockade of Iranian ports could last for months and peace talks remained...",
-            "zh": "国防部长将在参议院接受质询，与此同时，伊朗最高领袖哈梅内伊表示，外国人在海湾地区没有立足之地，“除了在海底”。在全球油价飙升至每桶126美元以上，创下2022年以来新高之际，此前唐纳德·特朗普警告称，美国对伊朗港口的封锁可能持续数月，和平谈判仍陷僵局。"
-          },
-          "body": {
-            "en": "Questions for Trump’s defense secretary fall along partisan lines – Democrats make critical points as Republicans give Hegseth the chance to flaunt war successes Sign up for the Breaking News US email Louisiana governor Jeff Landry yesterday told GOP candidates that he plans to suspend next month’s primary elections so that state lawmakers can pass a new congressional map first, the Washington Post (paywall) reported last night . It came hours after the US supreme court decided that Louisiana’s creation of a second majority black congressional district to satisfy previously rulings relied too heavily on race and was “an unconstitutional racial gerrymander”, as opposed to a required effort to comply with the Voting Rights Act . Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "The news of stalled peace talks and escalating threats reminds us of the constant challenge to live peacefully in a complex world. Romans 12:18 calls us to pursue peace as much as lies within our power, acknowledging that while perfect peace may not always be fully attainable, the effort to foster understanding and de-escalate tensions remains a vital...",
-            "zh": "关于和谈停滞和威胁升级的消息，提醒我们生活在一个复杂世界中，和平共处面临着持续的挑战。罗马书12:18呼吁我们，只要力所能及，就与众人和睦，这承认了虽然完美的和平并非总能完全实现，但促进理解和缓和紧张局势的努力仍然是一项重要的呼召。在全球局势日益紧张的时刻，这节经文鼓励我们尽可能寻求和解与对话的途径。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-uk-news-2026-apr-30-golders-green-attack-suspect-ref",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/uk-news/2026/apr/30/golders-green-attack-suspect-referred-prevent-scheme",
-          "image": "https://i.guim.co.uk/img/media/786d858f069b22534a413878eee00ff8ed4f0f0c/632_0_4919_3935/master/4919.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfd5cc4053cdb3a68d3334cfe8458bcd",
-          "publishedAt": "2026-04-30T17:57:27.000Z",
-          "title": {
-            "en": "Golders Green attack suspect named as Essa Suleiman, 45",
-            "zh": "戈尔德斯格林袭击案嫌疑人被确认为45岁的埃萨·苏莱曼"
-          },
-          "summary": {
-            "en": "The suspect in the Golders Green attack, arrested on suspicion of attempted murder, was previously known to the Prevent anti-radicalisation scheme. He was referred to the scheme in 2020 and cleared within six weeks, six years before allegedly stabbing two Jewish men. The Prevent scheme has faced criticism for its...",
-            "zh": "戈尔德斯格林袭击案的嫌疑人因涉嫌谋杀未遂被捕，他曾被反激进化计划“预防”（Prevent）所知。他于2020年被转介至该计划，并在六周内被清除为恐怖主义危险，而这发生在两名犹太男子被刺伤的六年前。该计划此前曾因无效而受到批评。"
-          },
-          "body": {
-            "en": "Suspect, who has been arrested on suspicion of attempted murder, was known to the Prevent anti-radicalisation scheme Golders Green attack – latest updates The suspect in the Golders Green attack was referred to Prevent, the official counter-terrorism scheme, and cleared of being a terrorist danger six years before two Jewish men were stabbed. His case was referred to Prevent in 2020 and closed within six weeks by the deradicalisation scheme, which has faced previous criticism for being ineffective. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This news highlights the persistent challenge of extremism and the difficulty of preventing violence rooted in harmful ideologies. When any ideology or cause demands ultimate loyalty, it can become an 'other god' that distorts human dignity and leads to destructive acts. We are reminded to examine where our ultimate allegiances lie and to seek true peace.",
-            "zh": "这则新闻凸显了极端主义的持续挑战，以及预防源于有害意识形态的暴力行为的难度。当任何意识形态或事业要求绝对忠诚时，它就可能成为“别的神”，扭曲人性尊严并导致破坏性行为。这提醒我们审视自己的最终效忠对象，并寻求真正的平安。"
-          },
-          "verse": {
-            "reference": "Exodus 20:3",
-            "textEn": "You shall have no other gods before me.",
-            "textZh": "除了我以外，你不可有别的神。",
-            "themeEn": "No other gods",
-            "themeZh": "独一真神"
-          },
-          "aiVerseId": "ex_20_3",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-apr-30-pete-hegseth-iran-war-hearing",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/apr/30/pete-hegseth-iran-war-hearing",
-          "image": "https://i.guim.co.uk/img/media/b69af007fd435a6e1ca0e81d815410466de61aad/66_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fac2c89f8d2db239b355ca0e538026c",
-          "publishedAt": "2026-04-30T17:38:49.000Z",
-          "title": {
-            "en": "Hegseth ‘dangerously exaggerated’ US military triumph in Iran, Senate hears",
-            "zh": "参议院获悉，赫格斯“危险地夸大了”美国在伊朗的军事胜利"
-          },
-          "summary": {
-            "en": "Senator Jack Reed says at hearing that defense secretary failed to give Trump accurate picture of war in Iran US politics live – latest updates Sign up for the Breaking News US newsletter email Pete Hegseth has failed to give Donald Trump an accurate picture of the war on Iran...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Senator Jack Reed says at hearing that defense secretary failed to give Trump accurate picture of war in Iran US politics live – latest updates Sign up for the Breaking News US newsletter email Pete Hegseth has failed to give Donald Trump an accurate picture of the war on Iran while resorting to “dangerously exaggerated” statements to create an inaccurate picture of a US military triumph, a senior Democrat told a Capitol Hill hearing on Thursday. Jack Reed, the ranking Democrat on the Senate armed services committee, told Hegseth, the defense secretary, that far from victory, US citizens were having to bear the cost of a war they did not support in the form of increased fuel prices. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -412,39 +545,6 @@
           },
           "aiVerseId": "isa_58_7",
           "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c3d2vzmgekjo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c3d2vzmgekjo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/577b/live/53a1f200-44a9-11f1-9b4f-919a6264e39f.jpg",
-          "publishedAt": "2026-04-30T15:56:04.000Z",
-          "title": {
-            "en": "Man sentenced to death for murder of toddlers at Ugandan nursery",
-            "zh": "男子因在乌干达托儿所谋杀幼儿而被判处死刑"
-          },
-          "summary": {
-            "en": "Christopher Okello Onyum had pleaded insanity but this was dismissed by the judge.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": null,
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-dw-com-en-uae-oil-exit-from-opec-signals-focus-on-domestic-prioritie",
@@ -608,106 +708,6 @@
             "textZh": "无智谋，民就败落；谋士多，人便安居。",
             "themeEn": "Wise counsel",
             "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-dw-com-en-why-uae-s-opec-exit-is-a-blow-to-saudi-arabia-a-76975354-m",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-world-4025-rdf",
-          "image": null,
-          "publishedAt": "2026-04-30T07:02:00.000Z",
-          "title": {
-            "en": "Why UAE's OPEC exit is a blow to Saudi Arabia",
-            "zh": "阿联酋退出欧佩克为何对沙特阿拉伯造成打击"
-          },
-          "summary": {
-            "en": "The United Arab Emirates is leaving OPEC to pump more oil on its own terms. The break strips Saudi Arabia of a key partner and adds to growing uncertainty over the cartel's future.",
-            "zh": "阿拉伯联合酋长国正退出欧佩克，以便按自己的条件开采更多石油。此举使沙特阿拉伯失去了一个关键伙伴，并增加了该卡特尔未来日益增长的不确定性。"
-          },
-          "body": {
-            "en": null,
-            "zh": null
-          },
-          "reflection": {
-            "en": "The UAE's decision to leave OPEC to pursue its own oil production goals highlights the tension between individual gain and collective stability. This move, while perhaps economically advantageous for one party, creates uncertainty and weakens a long-standing partnership. Proverbs 15:17 reminds us that the value of harmonious relationships often outweighs...",
-            "zh": "阿联酋退出欧佩克以追求自身石油生产目标，这凸显了个人利益与集体稳定之间的张力。此举可能对一方有利，却给长期伙伴关系带来不确定性并削弱了它。箴言15:17提醒我们，和谐关系的价值往往超越对更多物质财富的追求。"
-          },
-          "verse": {
-            "reference": "Proverbs 15:17",
-            "textEn": "Better a small serving of vegetables with love than a fattened calf with hatred.",
-            "textZh": "吃素菜，彼此相爱，强如吃肥牛，彼此相恨。",
-            "themeEn": "Love over plenty",
-            "themeZh": "爱胜过丰盛"
-          },
-          "aiVerseId": "prov_15_17",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-women-journalists-in-ghana-encounter-and-overcome-gender-b",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/women-journalists-in-ghana-encounter-and-overcome-gender-barriers/a-76977637?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/70917595_6.jpg",
-          "publishedAt": "2026-04-30T06:52:00.000Z",
-          "title": {
-            "en": "Women journalists in Ghana encounter – and overcome – gender barriers",
-            "zh": "加纳女记者遇到并克服性别障碍"
-          },
-          "summary": {
-            "en": "In Ghana, DW Akademie works with women journalists as they try to advance in their careers despite gender barriers.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": null,
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-new-zealand-mosque-shooter-failed-appeal-f64",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/new-zealand-mosque-shooter-failed-appeal/f64sp9mc7",
-          "image": "https://assets.sbs.com.au/dims4/default/e07644a/2147483647/strip/false/crop/4708x2163+0+488/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F10%2F0f%2Fb50568c94acfb4b12d00b337d8a2%2Fgettyimages-1268951726.jpg",
-          "publishedAt": "2026-04-30T03:02:10.000Z",
-          "title": {
-            "en": "New Zealand mosque shooter loses bid to overturn convictions",
-            "zh": "新西兰清真寺枪击案凶手推翻定罪失败"
-          },
-          "summary": {
-            "en": "A New Zealand court said the proposed appeal was \"utterly devoid of merit\".",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": null,
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         }
@@ -1075,10 +1075,43 @@
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
       },
       "sourceNotes": [
-        "The Guardian Australia",
-        "SBS News Australia"
+        "SBS News Australia",
+        "The Guardian Australia"
       ],
       "items": [
+        {
+          "id": "www-sbs-com-au-news-article-australia-rental-affordability-crisis-2026-a",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/australia-rental-affordability-crisis-2026-anglicare-survey/yc7jjceek",
+          "image": "https://assets.sbs.com.au/dims4/default/2da53df/2147483647/strip/false/crop/2121x975+0+220/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F52%2F4c%2Fa12cf1cd4da686c145e3090993c6%2Fgettyimages-2168070763.jpg",
+          "publishedAt": "2026-04-30T19:36:37.000Z",
+          "title": {
+            "en": "Why one house in Adelaide speaks volumes about Australia's rental crisis",
+            "zh": "为什么阿德莱德的一所房子足以说明澳大利亚的租金危机"
+          },
+          "summary": {
+            "en": "The single room is the nation's only rental that someone receiving JobSeeker payments can afford.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-technology-2026-apr-30-palantir-manifesto-australia-",
           "section": "australia",
@@ -1373,39 +1406,6 @@
             "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
             "themeEn": "Mind discipline",
             "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-angus-taylor-attempts-to-clarify-bad-country",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/angus-taylor-attempts-to-clarify-bad-country-remark-as-iranians-respond/d4j355dc6",
-          "image": "https://assets.sbs.com.au/dims4/default/6b55107/2147483647/strip/false/crop/5613x2579+0+581/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F99%2Fd4%2F4fc25a4b445b98dbd1afdca89592%2F20260303152061717951-original.jpg",
-          "publishedAt": "2026-04-30T00:33:26.000Z",
-          "title": {
-            "en": "Angus Taylor attempts to clarify 'bad country' remark as Iranian Australians respond",
-            "zh": "安格斯·泰勒试图澄清伊朗澳大利亚人回应的“坏国家”言论"
-          },
-          "summary": {
-            "en": "The Opposition leader has told SBS News that under the Iranian regime, the country \"is not a safe, fair or free country\".",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": null,
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
           },
           "translationState": "fallback"
         }
