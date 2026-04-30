@@ -705,20 +705,10 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 		'',
 		'Reason carefully, then return JSON: { verseId, titleZh, summaryEn, summaryZh, reflectionEn, reflectionZh }.',
 	];
-	// Article body (long form) handed to the model so it can produce
-	// a faithful Simplified-Chinese translation alongside the verse
-	// pick. Capped to keep the prompt reasonable; the AI sees the
-	// English exactly and only renders bodyZh.
-	const articleBody = (item.body || '').slice(0, 2800);
-	if (articleBody && articleBody.length > 60) {
-		promptLines.splice(
-			6,
-			0,
-			'',
-			'ARTICLE BODY (English — translate faithfully into Simplified Chinese as bodyZh):',
-			articleBody,
-		);
-	}
+	// Body translation is handled by a separate free Google Translate
+	// call after this — Gemini doesn't need to see the long body for
+	// its pick-a-verse-and-reflect job, and skipping it keeps the
+	// prompt small (~25% smaller -> faster + uses less daily quota).
 	const userPrompt = promptLines.join('\n');
 
 	try {
@@ -736,13 +726,6 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 						summaryZh: { type: 'string' },
 						reflectionEn: { type: 'string' },
 						reflectionZh: { type: 'string' },
-						// Optional — only filled when the article body
-						// was non-trivial. The AI returns the EN body
-						// roughly preserved (we discard and use our
-						// raw text for accuracy) plus a faithful zh
-						// translation. Treat empty string as "no body
-						// translation available".
-						bodyZh: { type: 'string' },
 					},
 					required: [
 						'verseId',
@@ -755,9 +738,10 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 					additionalProperties: false,
 				},
 			},
-			// 120s — body translation adds output tokens; thinking-
-			// model latency creeps up with the longer prompt.
-			120000,
+			// 90s — Gemini is doing the slim verse-pick + summarise
+			// + reflect job now; body translation is handled by a
+			// separate free Google Translate call.
+			90000,
 		);
 
 		const parsed = extractJson(raw);
@@ -780,13 +764,9 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 		const summaryZh = trimText(applyPreferredDivineName(cleanText(parsed.summaryZh || '')), 160) || null;
 		const reflectionEn = trimText(applyPreferredDivineName(cleanText(parsed.reflectionEn || '')), 360) || null;
 		const reflectionZh = trimText(applyPreferredDivineName(cleanText(parsed.reflectionZh || '')), 180) || null;
-		// Body translation — null when no body was supplied OR when the
-		// AI declined to translate. trimText caps at the same ~2800-char
-		// budget as the EN body so neither side dominates the payload.
-		const bodyZhRaw = cleanText(parsed.bodyZh || '');
-		const bodyZh = bodyZhRaw && containsCjk(bodyZhRaw)
-			? trimText(applyPreferredDivineName(bodyZhRaw), 2800) || null
-			: null;
+		// Body translation is filled by the free Google Translate
+		// pass downstream, not by Gemini. Always null here.
+		const bodyZh = null;
 
 		// Require at least both reflections + verse — partial answers are
 		// weaker than a clean keyword fallback.
@@ -1369,30 +1349,37 @@ async function buildStory(item, index, ctx = {}) {
 		await delay(AI_CALL_DELAY_MS);
 	}
 
-	// 2b. Body-translation top-up: cache hits made before body.zh
-	//     existed return without it; rather than re-roll the verse
-	//     pick we just translate the body in a separate small call.
+	// 2b. Body translation via the free Google Translate web endpoint
+	//     (no API key, no quota). We keep Gemini for the substantive
+	//     work — picking the right verse, writing the bilingual
+	//     reflection — and use the free translator for mechanical
+	//     long-form translation. This stops daily-Gemini-quota
+	//     exhaustion from breaking the bilingual body experience.
 	//
-	//     OFF BY DEFAULT — set NEWS_TRANSLATE_BODY=1 to enable.
-	//     Body translation roughly doubles AI calls per story
-	//     (deep-match + translate), and the daily Gemini free-tier
-	//     quotas (250 RPD pro, 1500 RPD flash) get exhausted within
-	//     a single busy day even with throttling. The detail page
-	//     falls back to summary.zh when bodyZh is empty, so users
-	//     still get bilingual headlines + lede + reflection. We
-	//     can flip this on once a paid key is in place.
-	if (
-		process.env.NEWS_TRANSLATE_BODY === '1' &&
-		deep &&
-		!deep.bodyZh &&
-		item.body &&
-		item.body.length >= 60
-	) {
-		const translated = await aiTranslateBodyToZh(item.body);
-		if (translated) {
-			deep = { ...deep, bodyZh: translated };
+	//     Override:
+	//       NEWS_TRANSLATE_BODY=ai  → use Gemini (paid key required)
+	//       NEWS_TRANSLATE_BODY=off → skip translation entirely
+	//       (default)               → use the free Google endpoint
+	if (deep && !deep.bodyZh && item.body && item.body.length >= 60) {
+		const mode = (process.env.NEWS_TRANSLATE_BODY || 'free').toLowerCase();
+		if (mode !== 'off') {
+			let translated = null;
+			if (mode === 'ai') {
+				translated = await aiTranslateBodyToZh(item.body);
+				await delay(AI_CALL_DELAY_MS);
+			} else {
+				// Free Google Translate path. No throttle needed —
+				// no per-key quota, just polite-citizen pacing.
+				translated = await freeTranslateToZh(item.body, 'body');
+				await delay(300);
+			}
+			if (translated) {
+				deep = {
+					...deep,
+					bodyZh: applyPreferredDivineName(translated).slice(0, 2800),
+				};
+			}
 		}
-		await delay(AI_CALL_DELAY_MS);
 	}
 
 	// 3. Last-resort fallback: keyword-classify into the legacy theme list
@@ -1615,6 +1602,23 @@ async function maybeTranslateTitleToChinese(value) {
 	if (!value || containsCjk(value)) {
 		return cleanText(value || '') || null;
 	}
+	return freeTranslateToZh(value, 'title');
+}
+
+/// Free Google Translate via the public web endpoint
+/// `translate.googleapis.com/translate_a/single`. No API key, no
+/// quota — same path the title translator already uses, just
+/// extracted so the body translator (long form) can share it.
+///
+/// Length: the endpoint accepts ~5000 chars per request. Body texts
+/// are capped at 2800 chars upstream so a single call covers them.
+/// On failure (rate-limited, network, malformed response) we return
+/// null and the caller falls back gracefully.
+async function freeTranslateToZh(text, label = 'text') {
+	if (!text) return null;
+	const trimmed = String(text).trim();
+	if (!trimmed) return null;
+	if (containsCjk(trimmed)) return cleanText(trimmed) || null;
 
 	try {
 		const url = new URL('https://translate.googleapis.com/translate_a/single');
@@ -1622,14 +1626,14 @@ async function maybeTranslateTitleToChinese(value) {
 		url.searchParams.set('sl', 'en');
 		url.searchParams.set('tl', 'zh-CN');
 		url.searchParams.set('dt', 't');
-		url.searchParams.set('q', value);
+		url.searchParams.set('q', trimmed.slice(0, 4900));
 
 		const response = await fetch(url, {
 			headers: {
 				'User-Agent': 'DailyMannaDispatchBot/1.0',
 				Accept: 'application/json, text/plain, */*',
 			},
-			signal: AbortSignal.timeout(30000),
+			signal: AbortSignal.timeout(45000),
 		});
 
 		if (!response.ok) {
@@ -1638,9 +1642,10 @@ async function maybeTranslateTitleToChinese(value) {
 
 		const payload = await response.json();
 		const translated = extractTranslatedText(payload);
-		return translated ? cleanText(translated) : null;
+		if (!translated) return null;
+		return cleanText(translated) || null;
 	} catch (error) {
-		console.warn(`Title translation skipped for "${value}": ${error.message}`);
+		console.warn(`Free translate skipped for ${label}: ${error.message}`);
 		return null;
 	}
 }
