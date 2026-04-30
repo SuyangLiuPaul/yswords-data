@@ -37,11 +37,11 @@ jobs:
       NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
 
       - name: Install dependencies
@@ -85,14 +85,33 @@ jobs:
             exit 0
           fi
           git commit -m "chore: refresh daily news"
-          # Race-proof push: a human or another concurrent cron run
-          # may have pushed in the time between checkout and now, so
-          # the first push can be rejected with non-fast-forward. Pull
-          # --rebase and retry. If THAT fails we let the step fail
-          # loudly — better than silently dropping a refresh.
+          # Race-proof push.  A human or another concurrent cron run
+          # can push between this run's checkout and our push, which
+          # rejects with non-fast-forward.  A plain rebase fails when
+          # both sides modified data/daily_news.json (different RSS
+          # snapshots) — they're auto-generated, so trying to merge
+          # the JSON line-by-line is meaningless.
+          #
+          # Strategy: stash our generated files, hard-reset to remote,
+          # restore our files on top, recommit, push.  This is always
+          # equivalent to "use this run's JSON, drop whatever the
+          # racing cron produced" — which is what we want because
+          # this run is by definition the freshest.
           if ! git push 2>&1; then
-            echo "Push rejected (likely concurrent commit). Pulling --rebase and retrying."
-            git pull --rebase --autostash origin main
+            echo "Push rejected — stashing & replaying on fresh remote."
+            cp data/daily_news.json /tmp/daily_news.json.fresh
+            cp data/_manifest.json /tmp/_manifest.json.fresh
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/daily_news.json.fresh data/daily_news.json
+            cp /tmp/_manifest.json.fresh data/_manifest.json
+            git add data/daily_news.json data/_manifest.json
+            if git diff --cached --quiet; then
+              echo "Remote already had this exact content; nothing to push."
+              echo "did_commit=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git commit -m "chore: refresh daily news"
             git push
           fi
           echo "did_commit=true" >> "$GITHUB_OUTPUT"
