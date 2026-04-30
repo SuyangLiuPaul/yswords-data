@@ -1298,6 +1298,90 @@ function matchesSourceFilter(source, item) {
 	return source.matchKeywords.some((keyword) => haystack.includes(keyword));
 }
 
+/// Fetch the article HTML and extract the readable body. Used as a
+/// fallback for RSS feeds that don't carry <content:encoded> (BBC,
+/// DW, SBS headline tickers).
+///
+/// Heuristic, in order:
+///   1. Look for <article>...</article> — most modern news sites
+///      wrap their body in one. Use its inner HTML.
+///   2. Else look for <main>...</main>.
+///   3. Else fall back to the whole HTML with structural nav/aside
+///      stripped.
+/// Then extract <p> tags from that container, filter out paragraphs
+/// shorter than 80 chars (caption / nav-link / CTA), and concatenate
+/// up to 2800 chars total. Returns null when nothing usable extracted.
+async function fetchArticleBody(url) {
+	if (!url) return null;
+	try {
+		const response = await fetch(url, {
+			headers: {
+				'User-Agent':
+					'Mozilla/5.0 (compatible; DailyMannaDispatchBot/1.0; +https://yswords.netlify.app)',
+				Accept:
+					'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+				'Accept-Language': 'en-US,en;q=0.9',
+			},
+			signal: AbortSignal.timeout(20000),
+		});
+		if (!response.ok) return null;
+		const html = await response.text();
+
+		// Drop genuinely-noisy elements that pollute even the article
+		// container on most news sites.
+		const stripped = html
+			.replace(/<script[\s\S]*?<\/script>/gi, ' ')
+			.replace(/<style[\s\S]*?<\/style>/gi, ' ')
+			.replace(/<noscript[\s\S]*?<\/noscript>/gi, ' ')
+			.replace(/<svg[\s\S]*?<\/svg>/gi, ' ')
+			.replace(/<form[\s\S]*?<\/form>/gi, ' ')
+			.replace(/<figure[\s\S]*?<\/figure>/gi, ' ')
+			.replace(/<figcaption[\s\S]*?<\/figcaption>/gi, ' ');
+
+		// Narrow to the article container.
+		let scope = '';
+		const article = stripped.match(/<article[\s\S]*?<\/article>/i);
+		if (article) {
+			scope = article[0];
+		} else {
+			const main = stripped.match(/<main[\s\S]*?<\/main>/i);
+			if (main) {
+				scope = main[0];
+			} else {
+				// No article/main tag — strip nav/header/footer/aside
+				// from the whole page and use the rest.
+				scope = stripped
+					.replace(/<nav[\s\S]*?<\/nav>/gi, ' ')
+					.replace(/<header[\s\S]*?<\/header>/gi, ' ')
+					.replace(/<footer[\s\S]*?<\/footer>/gi, ' ')
+					.replace(/<aside[\s\S]*?<\/aside>/gi, ' ');
+			}
+		}
+
+		const paragraphRe = /<p[^>]*>([\s\S]*?)<\/p>/gi;
+		const paragraphs = [];
+		let m;
+		while ((m = paragraphRe.exec(scope)) !== null) {
+			const para = cleanText(m[1] || '');
+			// Real article paragraphs are almost always 80+ chars.
+			// Below that we get captions, social-share buttons,
+			// "Sign up to our newsletter" CTAs, "Read also:" stubs.
+			if (para.length < 80) continue;
+			// Reject paragraphs that look like nav menu joins
+			// (lots of capitalised words, no sentence punctuation).
+			const punctRatio =
+				(para.match(/[.!?。！？]/g) || []).length / Math.max(para.length / 80, 1);
+			if (punctRatio < 0.4 && para.length < 200) continue;
+			paragraphs.push(para);
+		}
+		if (paragraphs.length === 0) return null;
+		const joined = paragraphs.join('\n\n');
+		return trimText(joined, 2800) || null;
+	} catch (error) {
+		return null;
+	}
+}
+
 async function fetchOgImage(url) {
 	try {
 		const response = await fetch(url, {
@@ -1347,6 +1431,26 @@ async function buildStory(item, index, ctx = {}) {
 		const used = sectionUsedVerseIds?.get(item.section) || [];
 		deep = await aiDeepMatch(item, verseCorpus, used);
 		await delay(AI_CALL_DELAY_MS);
+	}
+
+	// 2a. Body backfill from article HTML.  Many feeds (BBC, DW, SBS
+	//     headline tickers) ship a short summary in their RSS but no
+	//     <content:encoded> long form. For those we hit the article
+	//     URL and extract paragraphs via fetchArticleBody. Only runs
+	//     when the RSS body is absent — Guardian feeds already carry
+	//     the long form so we don't waste a request on them.
+	if (
+		(!item.body || item.body.length < 60) &&
+		item.link &&
+		process.env.NEWS_FETCH_ARTICLE_BODY !== 'off'
+	) {
+		const fetched = await fetchArticleBody(item.link);
+		if (fetched && fetched.length >= 200) {
+			item.body = fetched;
+			console.log(
+				`Fetched body for "${item.title.slice(0, 60)}" (${fetched.length} chars)`,
+			);
+		}
 	}
 
 	// 2b. Body translation via the free Google Translate web endpoint
