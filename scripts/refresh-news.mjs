@@ -344,11 +344,12 @@ function delay(ms) {
 // Each retry rotates to the NEXT round-robin key, so a single rate-limited
 // key doesn't block progress when GEMINI_API_KEYS holds multiple.
 //
-// Total worst-case latency: timeoutMs + sum(backoffs) + extra. Backoff
-// values are sized for Gemini's 5 RPM / 1500 TPM free tier so a 429
-// caused by quota exhaustion gets enough time for the next minute's
-// budget to refill. Bumped from [1s, 3s] which was too short.
-const RETRY_BACKOFF_MS = [12000, 30000];
+// Single retry only. Two retries × 30s backoff per call × 80+ calls
+// per cron meant a quota-exhausted run could stall for an hour;
+// better to fail fast and let the keyword fallback run. The next
+// cron will pick the same stories back up cheaply via cache once
+// quota refills.
+const RETRY_BACKOFF_MS = [10000];
 
 function isTransientHttpStatus(status) {
 	return status === 429 || (status >= 500 && status < 600);
@@ -1370,12 +1371,23 @@ async function buildStory(item, index, ctx = {}) {
 
 	// 2b. Body-translation top-up: cache hits made before body.zh
 	//     existed return without it; rather than re-roll the verse
-	//     pick we just translate the body in a separate small call
-	//     and persist it via aiVerseId for future runs. Skipped when
-	//     the body is already present, missing entirely, or the AI
-	//     is unavailable (returns null, leaves bodyZh empty so the
-	//     detail-page falls back to summary.zh).
-	if (deep && !deep.bodyZh && item.body && item.body.length >= 60) {
+	//     pick we just translate the body in a separate small call.
+	//
+	//     OFF BY DEFAULT — set NEWS_TRANSLATE_BODY=1 to enable.
+	//     Body translation roughly doubles AI calls per story
+	//     (deep-match + translate), and the daily Gemini free-tier
+	//     quotas (250 RPD pro, 1500 RPD flash) get exhausted within
+	//     a single busy day even with throttling. The detail page
+	//     falls back to summary.zh when bodyZh is empty, so users
+	//     still get bilingual headlines + lede + reflection. We
+	//     can flip this on once a paid key is in place.
+	if (
+		process.env.NEWS_TRANSLATE_BODY === '1' &&
+		deep &&
+		!deep.bodyZh &&
+		item.body &&
+		item.body.length >= 60
+	) {
 		const translated = await aiTranslateBodyToZh(item.body);
 		if (translated) {
 			deep = { ...deep, bodyZh: translated };
