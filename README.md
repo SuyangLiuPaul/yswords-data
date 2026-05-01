@@ -12,7 +12,7 @@ Bible study app.
 | `data/bible_evidence.json` | Archaeological / manuscript / scientific / historical entries | Manual edits |
 | `data/daily_news.json` | Bilingual world / china / australia headlines + Bible reflections | GitHub Actions, hourly |
 | `data/daily_verses.json` | 3,650 daily Bible verse references (10-year cycle) | Manual edits |
-| `data/news_verse_corpus.json` | 99 curated verses + tags the daily-news AI matches against | Manual edits |
+| `data/news_verse_corpus.json` | 149 curated verses + tags the daily-news AI matches against | Manual edits |
 | `data/_manifest.json` | Index with sha256 checksums + sizes | Auto-regenerated on every push |
 | `schemas/*.schema.json` | JSON Schema definitions for each dataset | Hand-maintained |
 
@@ -67,41 +67,76 @@ the per-story deep-match cache for headlines already seen, and only
 commits if `data/daily_news.json` actually changed. So ~24 cron
 fires/day, typically ~6–12 commits/day plus one Netlify rebuild per
 commit. The hourly cadence matches how often the source RSS feeds
-update; cold-cache runs take ~10–16 min with the Gemini free-tier
-5 RPM throttle, so a tighter schedule risked the next run queuing
-behind a slow predecessor. See `.github/workflows/refresh.yml`.
-The script:
+update; cold-cache runs take ~10–15 min with the Gemini free-tier
+throttle (~7 s between deep-match calls × 38 stories) plus the free
+Google Translate pass for body text. See `.github/workflows/refresh.yml`.
 
-1. Pulls 10 RSS feeds (Guardian / BBC / SBS / DW)
-2. Dedupes + balances per section (10–18 items each)
-3. Loads `data/news_verse_corpus.json` (99 curated verses across 20
-   topical categories — war/peace, justice, compassion, leadership,
-   creation, hope, persecution, etc.)
-4. For each story, runs **one deep-reasoning Gemini call** that:
-   - reasons about the story's underlying spiritual / human question,
-   - picks the SINGLE best-fitting verse from the catalog,
-   - writes a bilingual summary + reflection in one structured response.
-5. Caches the AI's verse choice per story id so the same headline keeps
-   the same Scripture across the day's four publishing windows.
-6. Writes `data/daily_news.json`, validates against schema, regenerates
-   `data/_manifest.json`, commits, triggers Netlify rebuilds.
+What each run does:
 
-If the AI is unavailable (no key, network error, malformed JSON), the
-pipeline falls back to a keyword classifier that maps the story to one
-of 11 themes and picks a corpus verse mapped to that theme. The output
+1. **Pulls 10 RSS feeds** (Guardian / BBC / SBS / DW × world / china /
+   australia desks).
+2. **Dedupes + balances** per section (10–18 items each).
+3. **Body extraction.** RSS gives us a short summary; for the
+   long-form body we try in order:
+   - the feed's `<content:encoded>` (Guardian feeds always have this);
+   - else fetch the article URL and extract paragraphs from the
+     page's `<article>` (or `<main>`) container via a readability
+     heuristic. Catches BBC / SBS / DW which don't ship full bodies
+     in their RSS. Capped at ~2800 chars per story.
+4. **Deep-match (Gemini).** Loads `data/news_verse_corpus.json` (149
+   curated verses across 24 topical categories) and asks
+   `gemini-2.5-flash` to:
+   - reason about the story's underlying spiritual / human question,
+   - pick the single best-fitting verse from the catalog,
+   - write a bilingual summary + reflection in one structured call.
+   Per-story cache keyed by story id makes repeat headlines free.
+   Few-shot examples baked into the prompt anchor editorial voice;
+   per-section diversity hint stops one section ending up with five
+   identical verse picks.
+5. **Body translation.** The long-form body is translated to
+   Simplified Chinese via the **free** Google Translate web endpoint
+   (`translate.googleapis.com/translate_a/single`). No API key, no
+   quota, ~750 ms / story. Runs independently of Gemini state — even
+   when Gemini's daily quota is exhausted, body translation still
+   succeeds. Override via `NEWS_TRANSLATE_BODY`:
+   - `free` (default) — free Google Translate.
+   - `ai` — use Gemini for body translation (paid key recommended).
+   - `off` — skip body translation; the detail page falls back to
+     `summary.zh`.
+6. **Image fallback chain.** RSS feeds carry photos in different
+   slots; the pipeline tries `<enclosure>` → `<media:content>` →
+   `<media:thumbnail>` → first `<img>` in `content:encoded`. The
+   Flutter detail page renders a section-tinted gradient
+   placeholder when all four come up empty.
+7. **Validates** against `schemas/daily_news.schema.json`,
+   regenerates `data/_manifest.json`, commits, **CLI-deploys** to
+   Netlify (bypasses the broken Netlify ↔ GitHub clone link), and
+   pings the DailyNews build hook so newsbible.netlify.app refreshes.
+
+If Gemini is unavailable (no key, daily quota hit, network error,
+malformed JSON), the pipeline falls back to a keyword classifier
+that picks a corpus verse mapped to one of 11 themes. The output
 schema is identical either way; consumers can't tell which path ran.
+Body translation still runs because it's quota-independent.
 
 ### Required GitHub secrets
 
-- `OPENAI_API_KEY` — the Gemini key. Without it the refresh still
-  runs but ships English-only summaries from the keyword fallback.
+- `OPENAI_API_KEY` (or `GEMINI_API_KEY` / `GEMINI_API_KEYS`) — the
+  Gemini key. Without it the refresh still runs but ships keyword-
+  picked verses + free-translated body.
 - `OPENAI_BASE_URL` — defaults to
-  `https://generativelanguage.googleapis.com/v1beta/openai`
-- `OPENAI_MODEL` — defaults to `gemini-2.5-pro` (thinking-capable;
-  override to `gemini-2.5-flash` if you want cheaper/faster but
-  shallower verse matching).
-- `OPENAI_TEMPERATURE` — defaults to `0.2` for stable verse picks
-  across consecutive runs.
+  `https://generativelanguage.googleapis.com/v1beta/openai`.
+- `OPENAI_MODEL` — defaults to `gemini-2.5-flash` (1500 RPD free
+  tier, fast, capable enough for pick-a-verse + reflect). Override
+  to `gemini-2.5-pro` if you have a paid key.
+- `OPENAI_TRANSLATE_MODEL` — defaults to `gemini-2.5-flash` for the
+  paid-AI body-translation path. Only consulted when
+  `NEWS_TRANSLATE_BODY=ai`.
+- `OPENAI_TEMPERATURE` — defaults to `0.2` for stable verse picks.
+- `NETLIFY_AUTH_TOKEN` — required for the CLI-deploy step. Without
+  it the workflow falls back to the legacy build-hook trigger, which
+  is currently broken because Netlify can't clone the repo
+  (`Host key verification failed`).
 
 ## Consumers
 
