@@ -47,7 +47,30 @@ for (const { data, schema } of datasets) {
 		console.log('FAILED');
 		const errs = validate.errors || [];
 		for (const e of errs.slice(0, 10)) {
-			console.log(`  ${e.instancePath || '/'} ${e.message}`);
+			// 2026-05-11: include the actual offending value alongside
+			// the path + message. Pre-this-fix the log only said
+			// `/sections/world/items/14/link must match format "uri"`
+			// without revealing WHAT the bad string was — required
+			// re-running the workflow with a manual log dump to
+			// diagnose. Showing the value (truncated to 120 chars)
+			// makes the root cause visible directly.
+			let actual = '';
+			try {
+				const segs = (e.instancePath || '').split('/').filter(Boolean);
+				let cur = payload;
+				for (const seg of segs) {
+					const k = /^\d+$/.test(seg) ? Number(seg) : seg;
+					cur = cur?.[k];
+					if (cur === undefined) break;
+				}
+				if (cur !== undefined && cur !== null) {
+					const s = typeof cur === 'string'
+						? cur
+						: JSON.stringify(cur);
+					actual = ` — got: ${JSON.stringify(s.slice(0, 120))}`;
+				}
+			} catch {/* ignore — diagnostic best-effort */}
+			console.log(`  ${e.instancePath || '/'} ${e.message}${actual}`);
 		}
 		if (errs.length > 10) console.log(`  …and ${errs.length - 10} more`);
 		failed++;

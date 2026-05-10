@@ -1015,6 +1015,36 @@ async function main() {
 		};
 	}
 
+	// 2026-05-11: defensive pre-write pass. Even with sanitizeLink()
+	// at scrape time, a downstream transform (deep-match merge with
+	// stale cache, body re-fetch, image scrape, …) could
+	// theoretically resurrect a bad link from a previous snapshot.
+	// Run a final `format: uri`-equivalent check on every story's
+	// `link` field; drop any that fail rather than letting one bad
+	// item kill the whole hourly refresh via downstream schema
+	// validation. Logs the drop so the failure is visible in CI.
+	let prewriteDrops = 0;
+	for (const sectionId of Object.keys(builtSections)) {
+		const before = builtSections[sectionId].items.length;
+		builtSections[sectionId].items = builtSections[sectionId].items.filter(
+			(story) => {
+				if (sanitizeLink(story.link) != null) return true;
+				console.warn(
+					`Pre-write drop: ${sectionId}/${story.id} ` +
+					`has unrecoverable link: ${JSON.stringify(story.link)}`,
+				);
+				return false;
+			},
+		);
+		const dropped = before - builtSections[sectionId].items.length;
+		prewriteDrops += dropped;
+	}
+	if (prewriteDrops > 0) {
+		console.warn(
+			`Pre-write filter dropped ${prewriteDrops} story(ies) with bad links.`,
+		);
+	}
+
 	const payload = {
 		generatedAt: now.toISOString(),
 		editionDate,
@@ -1101,27 +1131,44 @@ async function fetchFeed(source) {
 		const xml = await response.text();
 		const feed = await parser.parseString(xml);
 
-		return (feed.items ?? [])
-			.map((item) => {
-				const title = cleanText(item.title || 'Untitled story');
-				const summary = deriveSummary(item);
-				const body = deriveBody(item);
-				const enclosureUrl = extractEnclosureImage(item);
+		// 2026-05-11: sanitise the article link FIRST so a single
+		// malformed `<link>` from the source can't poison the
+		// downstream schema validation. Stories with no salvageable
+		// link are dropped — falling back to the feed URL would mis-
+		// lead readers (the feed URL isn't an article URL). Most
+		// feeds are clean; this defends against the long tail.
+		const cleanItems = [];
+		let droppedBadLinks = 0;
+		for (const item of feed.items ?? []) {
+			const link = sanitizeLink(item.link, source.url);
+			if (!link) {
+				droppedBadLinks++;
+				continue;
+			}
+			const title = cleanText(item.title || 'Untitled story');
+			const summary = deriveSummary(item);
+			const body = deriveBody(item);
+			const enclosureUrl = extractEnclosureImage(item);
 
-				return {
-					id: slugify(item.link || item.guid || item.title || `${source.section}-${Math.random()}`),
-					section: source.section,
-					source: source.name,
-					sourceUrl: source.url,
-					link: item.link || source.url,
-					title,
-					summary,
-					body,
-					enclosureUrl,
-					publishedAt: normalizeDate(item.isoDate || item.pubDate),
-				};
-			})
-			.filter((item) => matchesSourceFilter(source, item));
+			cleanItems.push({
+				id: slugify(link || item.guid || item.title || `${source.section}-${Math.random()}`),
+				section: source.section,
+				source: source.name,
+				sourceUrl: source.url,
+				link,
+				title,
+				summary,
+				body,
+				enclosureUrl,
+				publishedAt: normalizeDate(item.isoDate || item.pubDate),
+			});
+		}
+		if (droppedBadLinks > 0) {
+			console.warn(
+				`Feed ${source.name}: dropped ${droppedBadLinks} item(s) with unparseable links.`,
+			);
+		}
+		return cleanItems.filter((item) => matchesSourceFilter(source, item));
 	} catch (error) {
 		console.warn(`Feed failed for ${source.name}: ${error.message}`);
 		return [];
@@ -1864,6 +1911,60 @@ function normalizeLink(value) {
 	} catch {
 		return String(value || '').trim().toLowerCase();
 	}
+}
+
+/**
+ * 2026-05-11: defensive URL sanitiser. RSS feeds occasionally
+ * publish stories whose `<link>` tag is malformed (whitespace,
+ * relative path, missing scheme, custom scheme like `feed:`,
+ * etc.). The downstream JSON Schema validation requires
+ * `format: uri` which ajv-formats clamps to RFC 3986 absolute
+ * http(s) URIs — anything else fails validation and the entire
+ * hourly refresh aborts (one bad story poisons the file). This
+ * helper:
+ *
+ *   1. Trims whitespace and rejects empty input.
+ *   2. Tries `new URL(raw)`; if that fails AND a `baseUrl` is
+ *      given, retries `new URL(raw, baseUrl)` so relative paths
+ *      resolve against the feed origin (e.g. `/news/foo` →
+ *      `https://feed-host.com/news/foo`).
+ *   3. Requires an `http:` or `https:` scheme on the result —
+ *      `mailto:`, `feed:`, `javascript:` etc. are dropped because
+ *      they're not useful as article links anyway.
+ *   4. Returns the canonical `url.href` (which is RFC-3986-clean,
+ *      with proper percent-encoding) on success, or `null` on
+ *      failure.
+ *
+ * Callers should DROP items whose `sanitizeLink(...)` returns
+ * `null` rather than substitute the feed URL — the feed URL
+ * isn't the article URL, so a fallback would mislead readers.
+ *
+ * Exported for unit testing.
+ */
+export function sanitizeLink(value, baseUrl = null) {
+	if (value == null) return null;
+	const raw = String(value).trim();
+	if (!raw) return null;
+	let parsed;
+	try {
+		parsed = new URL(raw);
+	} catch {
+		if (baseUrl) {
+			try {
+				parsed = new URL(raw, baseUrl);
+			} catch {
+				return null;
+			}
+		} else {
+			return null;
+		}
+	}
+	if (parsed.protocol !== 'http:' && parsed.protocol !== 'https:') {
+		return null;
+	}
+	// `new URL(...).href` produces a normalised, percent-encoded
+	// absolute URL that satisfies ajv-formats' `format: uri`.
+	return parsed.href;
 }
 
 function normalizeDate(value) {
