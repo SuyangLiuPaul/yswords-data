@@ -1,5 +1,5 @@
 {
-  "version": "5f596cced60556e3",
+  "version": "0eb83666aa96c59c",
   "datasets": {
     "bible_evidence": {
       "url": "/data/bible_evidence.json",
@@ -8,8 +8,8 @@
     },
     "daily_news": {
       "url": "/data/daily_news.json",
-      "sha256": "9d564ba5d0677bad128030009ea70b5eb20aa11bd4cc3102ab54abf326676e59",
-      "bytes": 247246
+      "sha256": "6dfa6f83279c2521656159fd0cc2cbef6249ba67013a43c1ffb7eb4ba1bdfac5",
+      "bytes": 247444
     },
     "daily_verses": {
       "url": "/data/daily_verses.json",
