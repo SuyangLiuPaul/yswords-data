@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T11:42:26.382Z",
+  "generatedAt": "2026-05-16T12:56:54.204Z",
   "editionDate": "2026-05-16",
   "sources": [
     {
@@ -105,12 +105,80 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "The Guardian World",
         "BBC News World",
+        "The Guardian World",
         "SBS News World",
         "DW World"
       ],
       "items": [
+        {
+          "id": "www-bbc-com-news-articles-c1w2gv1gdnjo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6c7d/live/b63ca910-5123-11f1-a5d4-1388da3b9f7b.jpg",
+          "publishedAt": "2026-05-16T12:41:26.000Z",
+          "title": {
+            "en": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+            "zh": "救援潜水员在马尔代夫洞穴搜寻意大利溺水者遗体时殉职"
+          },
+          "summary": {
+            "en": "A rescue diver, Staff Sergeant Mohamed Mahdhee, died during a search and rescue operation in Maldives caves for the bodies of Italians who had drowned.",
+            "zh": "马尔代夫政府表示，一名救援潜水员穆罕默德·马赫迪中士在马尔代夫洞穴搜寻溺水意大利人遗体的救援行动中不幸殉职。"
+          },
+          "body": {
+            "en": "A rescue diver has died while searching for the bodies of four Italians who died in a scuba diving accident in the Maldives.\n\nStaff Sergeant Mohamed Mahdhee was taken to hospital in critical condition after diving as part of the search and rescue operation, and later succumbed to his injuries, a government spokesman told the BBC on Saturday.\n\nThe accident saw five Italians die while attempting to explore caves at a depth of around 50m (164ft).\n\nSo far, just one of their bodies is thought to have been recovered, in a cave at a depth of around 60m (197ft).\n\nThis breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\n\nYou can receive Breaking News on a smartphone or tablet via the BBC News App . You can also follow @BBCBreaking on X to get the latest alerts.",
+            "zh": "一名救援潜水员在马尔代夫搜寻在水肺潜水事故中丧生的四名意大利人的尸体时死亡。 政府发言人周六告诉 BBC，上士穆罕默德·马赫迪 (Mohamed Mahdhee) 在搜救行动中潜水后被送往医院，情况危急，后来因伤重不治身亡。 此次事故导致 5 名意大利人在尝试探索深度约 50 m（164 英尺）的洞穴时死亡。 到目前为止，据信只在一个深度约 60 m（197 英尺）的洞穴中发现了他们的一具尸体。 此突发新闻报道正在更新，更多详细信息将很快发布。请刷新页面以获得完整版本。 您可以通过 BBC 新闻应用程序在智能手机或平板电脑上接收突发新闻。您还可以在 X 上关注 @BBCBreaking 以获取最新警报。"
+          },
+          "reflection": {
+            "en": "The tragic loss of a rescue diver in the line of duty reminds us of the profound risks some take to serve others, even in the face of sorrow. In moments of such deep grief, we recall that Jesus himself wept at the loss of a friend, validating the pain and sorrow that accompany death.",
+            "zh": "一名救援潜水员在执行任务时不幸殉职，这提醒我们有些人为了服务他人，即使面对悲伤，也会承担巨大的风险。在如此深切的悲痛时刻，我们想起耶稣也曾为朋友的离世而哭泣，这肯定了死亡所带来的痛苦和悲伤。"
+          },
+          "verse": {
+            "reference": "John 11:35",
+            "textEn": "Jesus wept.",
+            "textZh": "耶稣哭了。",
+            "themeEn": "Jesus wept",
+            "themeZh": "耶稣哭了"
+          },
+          "aiVerseId": "jn_11_35",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-may-16-new-york-long-island-rail-road-s",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/may/16/new-york-long-island-rail-road-strike",
+          "image": "https://i.guim.co.uk/img/media/ee9bfc5f76aaf3b8ed0fb369bb6cc0c5365bde1f/243_0_4017_3214/master/4017.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9852b17235206526301e66702412c096",
+          "publishedAt": "2026-05-16T12:41:19.000Z",
+          "title": {
+            "en": "New York commuter rail system shuts down as workers strike",
+            "zh": "纽约通勤铁路系统因工人罢工而关闭"
+          },
+          "summary": {
+            "en": "North America's largest commuter rail system, the Long Island Rail Road, shut down on Saturday after unionized workers in the New York City area went on strike. The action halted service for commuters in the eastern New York metropolitan area.",
+            "zh": "北美最大的通勤铁路系统——长岛铁路公司于周六关闭，此前纽约市地区的工会工人举行了罢工。此次行动导致纽约大都市区东部的通勤服务中断。"
+          },
+          "body": {
+            "en": "Worker at the Long Island Rail Road, serving the eastern New York metropolitan area, walked off the job on Saturday North America’s largest commuter rail system was shut down on Saturday after unionized workers in the New York City area went on strike . The Long Island Rail Road that serves the city’s eastern suburbs ceased operations on early Saturday morning after five unions representing about half its workforce walked off the job. Continue reading...",
+            "zh": "为纽约东部都会区提供服务的长岛铁路工人周六罢工 纽约市地区的工会工人举行罢工后，北美最大的通勤铁路系统于周六关闭。服务于该市东郊的长岛铁路于周六凌晨停止运营，原因是代表该市约一半劳动力的五个工会罢工。继续阅读..."
+          },
+          "reflection": {
+            "en": "A labor strike highlights the essential role of workers and the dignity of their contributions to society. Colossians 3:23 reminds us to approach all our tasks with dedication, working heartily as for Yahweh, not for human masters. This perspective can guide both employees and employers to seek solutions that honor the value of work and serve the common...",
+            "zh": "劳工罢工凸显了工人对社会贡献的重要性和尊严。歌罗西书3:23提醒我们，要以奉献精神对待所有工作，甘心乐意地做，如同是为雅伟而做，而不是为人而做。这种视角可以引导雇员和雇主寻求既尊重工作价值又服务于共同利益的解决方案。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "aiVerseId": "col_3_23",
+          "translationState": "localized"
+        },
         {
           "id": "www-theguardian-com-uk-news-live-2026-may-16-far-right-unite-the-kingdom",
           "section": "world",
@@ -118,9 +186,9 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/uk-news/live/2026/may/16/far-right-unite-the-kingdom-rally-tommy-robinson-london-nakba-day-march-latest-news-updates",
           "image": "https://i.guim.co.uk/img/media/dba98acadeb689bf69c4ebc98fc0d9a647707409/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=93c0076715373a59c9947c03d351ba47",
-          "publishedAt": "2026-05-16T11:29:01.000Z",
+          "publishedAt": "2026-05-16T12:38:11.000Z",
           "title": {
-            "en": "Tens of thousands descend on London for far-right and pro-Palestine marches – live",
+            "en": "Tens of thousands march through London for far-right and pro-Palestine protests – live",
             "zh": "伦敦增派4000名警员，应对极右翼和亲巴勒斯坦游行"
           },
           "summary": {
@@ -146,24 +214,24 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-com-news-articles-c98rez3x0nwo-at-medium-rss-at-campaign-rss",
+          "id": "www-theguardian-com-world-2026-may-16-mohammad-baqer-saad-dawood-al-saad",
           "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/693e/live/f397fab0-5116-11f1-8108-5b7f076d1ee7.jpg",
-          "publishedAt": "2026-05-16T11:21:21.000Z",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/may/16/mohammad-baqer-saad-dawood-al-saadi-iran-guards-hayi",
+          "image": "https://i.guim.co.uk/img/media/fc50503af9c954c2533d5493f5c267730b8c51fd/65_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d71f5135c629c4dce179382d147b0da1",
+          "publishedAt": "2026-05-16T12:18:24.000Z",
           "title": {
-            "en": "Freight train and bus crash kills at least eight in Bangkok",
-            "zh": "曼谷货运火车和巴士相撞事故造成至少八人死亡"
+            "en": "Arrest of Iraqi terror suspect with alleged links to Iran’s Quds Force is astonishing but not surprising",
+            "zh": "涉嫌与伊朗圣城军有联系的伊拉克恐怖嫌疑人被捕令人震惊，但并不令人意外"
           },
           "summary": {
-            "en": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
+            "en": "It has long been suspected the Revolutionary Guards – specifically its Quds Force – was responsible for recent terror attacks in London, Canada and across Europe The arrest by US authorities of an alleged Iraqi commander of an Iranian-backed militia group now accused of...",
             "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "A collision between a freight train and a public bus has killed at least eight people and injured 25 others in Bangkok, emergency services have said.\n\nPolice and rescue officials said the collision triggered a fire that engulfed the public bus on Saturday.\n\nFlames also spread to nearby vehicles, prompting firefighters and rescue crews to be dispatched. Teams worked to pull injured victims from the wreckage as fire crews contained the blaze.\n\nThe fire has been brought under control, with crews now working to cool the area, vent gas and continue to search for victims. The cause of the accident is under investigation.\n\nThis breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\n\nYou can receive Breaking News on a smartphone or tablet via the BBC News App . You can also follow @BBCBreaking on X to get the latest alerts.",
-            "zh": "紧急服务部门表示，曼谷一列货运列车与一辆公共巴士相撞，已造成至少 8 人死亡、25 人受伤。 警方和救援官员表示，周六，这次碰撞引发了大火，吞没了公共巴士。 火焰还蔓延到附近的车辆，促使消防员和救援人员出动。消防人员控制住了火势，工作人员努力从残骸中救出受伤的受害者。 火势已得到控制，工作人员正在努力冷却该地区、排出气体并继续寻找受害者。事故原因正在调查中。 此突发新闻报道正在更新，更多详细信息将很快发布。请刷新页面以获得完整版本。 您可以通过 BBC 新闻应用程序在智能手机或平板电脑上接收突发新闻。您还可以在 X 上关注 @BBCBreaking 以获取最新警报。"
+            "en": "It has long been suspected the Revolutionary Guards – specifically its Quds Force – was responsible for recent terror attacks in London, Canada and across Europe The arrest by US authorities of an alleged Iraqi commander of an Iranian-backed militia group now accused of responsibility for 18 terrorist attacks in the UK, Europe and Canada since the beginning of the Iran war is an astonishing development – yet not the least bit surprising. According to a complaint unsealed on Friday in a federal court in Manhattan, Mohammad Baqer Saad Dawood al-Saadi is allegedly responsible for organising – among other operations – a string of recent firebombings of banks and other targets in France, Belgium, Germany and the Netherlands, an arson attack against a synagogue and a shooting at the US consulate in Toronto in March, as well as – most recently – a wave of attacks on mainly Jewish targets in the UK including places of worship and charities. Continue reading...",
+            "zh": "长期以来，人们一直怀疑革命卫队——特别是其圣城军——对最近在伦敦、加拿大和整个欧洲发生的恐怖袭击负责。美国当局逮捕了一名据称是伊朗支持的民兵组织的伊拉克指挥官，现在被指控对伊朗战争开始以来在英国、欧洲和加拿大发生的 18 起恐怖袭击负责，这是一个令人震惊的事态发展 — — 但一点也不令人惊讶。根据曼哈顿联邦法院周五公布的一份起诉书，穆罕默德·巴克尔·萨阿德·达乌德·萨阿迪据称负责组织近期对法国、比利时、德国和荷兰的银行和其他目标进行的一系列燃烧弹袭击，三月份对一座犹太教堂的纵火袭击和对美国驻多伦多领事馆的枪击事件，以及最近对英国主要犹太人目标（包括礼拜场所和慈善机构）的一波袭击。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -179,13 +247,112 @@
           "translationState": "fallback"
         },
         {
+          "id": "www-theguardian-com-film-2026-may-16-harlem-renaissance-documentary-once",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/film/2026/may/16/harlem-renaissance-documentary-once-upon-time-william-greaves",
+          "image": "https://i.guim.co.uk/img/media/0719ce9c2e3efb2d94c996114d8af48a901e3f7d/654_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf1e01f5926f34a251e8bc57f8464370",
+          "publishedAt": "2026-05-16T12:00:09.000Z",
+          "title": {
+            "en": "Harlem Renaissance documentary finally gets global premiere 50 years after cameras rolled",
+            "zh": "哈莱姆文艺复兴纪录片在开拍 50 年后终于全球首映"
+          },
+          "summary": {
+            "en": "Once Upon a Time in Harlem, completed by relatives of William Greaves after his death, showcased at Cannes In 1969, the pioneering documentarian William Greaves wrote of his fury over the racially degrading stereotypes that white film producers threw up on American screens. “It...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Once Upon a Time in Harlem, completed by relatives of William Greaves after his death, showcased at Cannes In 1969, the pioneering documentarian William Greaves wrote of his fury over the racially degrading stereotypes that white film producers threw up on American screens. “It became clear to me that unless we black people began to produce information for screen and television there would always be a distortion of the ‘black image,’” he said. Three years later, Greaves began work on what he considered the most important footage he ever shot: a feature documentary gathering surviving figures of the Harlem Renaissance to reflect on the movement they had built half a century earlier. Continue reading...",
+            "zh": "1969 年，纪录片先驱威廉·格里夫斯 (William Greaves) 在戛纳电影节上放映了威廉·格里夫斯 (William Greaves) 去世后由其亲属完成的《哈莱姆往事》，他表达了他对白人电影制片人在美国银幕上投下的种族歧视刻板印象的愤怒。 “我清楚地意识到，除非我们黑人开始为屏幕和电视制作信息，否则‘黑人形象’总是会被扭曲，”他说。三年后，格里夫斯开始拍摄他认为是他拍摄过的最重要的镜头：一部收集哈莱姆文艺复兴时期幸存人物的专题纪录片，以反思他们在半个世纪前建立的运动。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-may-16-peacock-italy-punta-marina-tension",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/may/16/peacock-italy-punta-marina-tensions",
+          "image": "https://i.guim.co.uk/img/media/77cc4d3fafd7461bdf0da9ae1d9c5bc9d37d54ca/1019_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bde9e8606d5fa0cc33c6f8c2a378d9c5",
+          "publishedAt": "2026-05-16T12:00:08.000Z",
+          "title": {
+            "en": "Peacock ‘invasion’ of Italian seaside town ruffles feathers",
+            "zh": "孔雀“入侵”意大利海滨小镇惹怒羽毛"
+          },
+          "summary": {
+            "en": "With Punta Marina residents loving or loathing the incomers, ‘peacock rangers’ have been appointed to defuse tensions Federico Bruni was sitting on a bench, eating a piadina romagnola (flatbread sandwich) and minding his own business, when a peacock strutted up in the hope of a...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "With Punta Marina residents loving or loathing the incomers, ‘peacock rangers’ have been appointed to defuse tensions Federico Bruni was sitting on a bench, eating a piadina romagnola (flatbread sandwich) and minding his own business, when a peacock strutted up in the hope of a few crumbs. High-pitched squeals emanated from the direction of a disused military barracks across the road. “That would be the call to love,” Bruni said. “The male peacocks are courting the female ones – we’re in peak mating season.” As another couple of peacocks wandered by, their iridescent trains sweeping the pavement behind them, this could be mistaken for a wildlife park. But the scene is Punta Marina, a seaside town on the Adriatic coast of Italy’s Emilia-Romagna region that has been colonised by the birds, to the delight – or despair – of its approximately 1,000 residents. Continue reading...",
+            "zh": "随着蓬塔码头居民对外来者的喜爱或厌恶，“孔雀护林员”被任命来缓解紧张局势。费德里科·布鲁尼坐在长凳上，一边吃着 piadina romagnola（面包三明治），一边忙着自己的事，这时一只孔雀大摇大摆地走过来，希望能得到一些面包屑。马路对面一座废弃军营的方向传来尖锐的尖叫声。 “这就是对爱的呼唤，”布鲁尼说。 “雄性孔雀正在向雌性孔雀求爱——我们正处于交配高峰期。”当另一对孔雀漫步经过时，它们彩虹色的尾翼扫过身后的人行道，这可能会被误认为是野生动物园。但场景是蓬塔马里纳，这是意大利艾米利亚-罗马涅地区亚得里亚海沿岸的一个海滨小镇，这里已经成为鸟类的栖息地，令当地大约 1000 名居民感到高兴或绝望。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-live-blog-eurovision-2026-grand-final-live-updates-d",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/live-blog/eurovision-2026-grand-final-live-updates/d03hye4ou",
+          "image": "https://assets.sbs.com.au/dims4/default/d869035/2147483647/strip/false/crop/5488x2522+0+57/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fd5%2F05%2Fcb3819bd46daacfe72fd5456e85c%2Fgettyimages-2276286061.jpg",
+          "publishedAt": "2026-05-16T12:00:00.000Z",
+          "title": {
+            "en": "Eurovision live updates: Grand final to begin soon in Austria",
+            "zh": "欧洲电视网实时更新：总决赛即将在奥地利开始"
+          },
+          "summary": {
+            "en": "Australia is among 25 countries competing to be crowned Eurovision 2026 champion. Follow our live coverage of the grand final.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "No, not Christmas. Better than Christmas. It's Eurovision time &#x2014; and we're going to be live-blogging the whole thing from 5am AEST this Sunday.\n\nThat means every performance, every questionable staging decision, every pyrotechnic, every inexplicable scooter (you'll see), covered in real time as it happens in Vienna.\n\nThis year's grand final features 25 acts spanning everything from operatic bangers to full medieval hexing, and we genuinely cannot wait to walk you through all of it.\n\nAustralia's own Delta Goodrem is flying the flag for us &#x2014; and based on what we saw in the semis, she's got a pretty good shot of taking home the title.",
+            "zh": "不，不是圣诞节。比圣诞节还好。现在是欧洲歌唱大赛时间——我们将从本周日澳大利亚东部标准时间早上 5 点开始在博客上直播整个赛事。 这意味着每场表演、每一个有问题的舞台决策、每一个烟火、每一个莫名其妙的摩托车（你会看到的），都会被实时报道，就像在维也纳发生的那样。 今年的总决赛有 25 场表演，内容涵盖从歌剧重奏到完整的中世纪咒语，我们真的迫不及待地想带您完成所有这一切。 澳大利亚选手达塔·古德莱姆 (Delta Goodrem) 正在为我们举旗——根据我们在半决赛中看到的情况，她很有可能夺得冠军。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-bbc-com-news-articles-cy72p2kpd03o-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a680/live/14280950-50ef-11f1-a68e-c34d4e405829.jpg",
-          "publishedAt": "2026-05-16T11:04:36.000Z",
+          "publishedAt": "2026-05-16T11:44:54.000Z",
           "title": {
             "en": "Senior IS leader killed in joint operation, US and Nigeria say",
             "zh": "特朗普称美国和尼日利亚军队击毙高级IS头目"
@@ -213,101 +380,35 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-world-2026-may-16-andalucia-regional-election-spain-",
+          "id": "www-bbc-com-news-articles-c98rez3x0nwo-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/may/16/andalucia-regional-election-spain-politics-moreno-montero-sanchez",
-          "image": "https://i.guim.co.uk/img/media/816d032ab4180c5dbebd25fc3ba94d72a28a1897/1084_41_3840_3071/master/3840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b386e8f62e92665e82fff2e07eb6f70b",
-          "publishedAt": "2026-05-16T11:01:07.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a4b3/live/3d19e7e0-511f-11f1-8b8c-6d33e1d5abb6.jpg",
+          "publishedAt": "2026-05-16T11:21:21.000Z",
           "title": {
-            "en": "Andalucíans to vote in election seen as gauge of Spain’s wider political change",
-            "zh": "安达卢西亚人将在选举中投票被视为西班牙更广泛政治变革的衡量标准"
+            "en": "Freight train and bus crash kills at least eight in Bangkok",
+            "zh": "曼谷货运火车和巴士相撞事故造成至少八人死亡"
           },
           "summary": {
-            "en": "Conservatives expected to keep majority as socialists face drubbing and ballot tests trajectory of far-right Vox party Voters in the southern Spanish region of Andalucía will cast their ballots in an election this weekend that is likely to deliver an absolute majority to the...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Conservatives expected to keep majority as socialists face drubbing and ballot tests trajectory of far-right Vox party Voters in the southern Spanish region of Andalucía will cast their ballots in an election this weekend that is likely to deliver an absolute majority to the conservative People’s party (PP) and inflict another debilitating defeat on Pedro Sánchez’s embattled socialists in what was previously one of their proudest strongholds. Sunday’s election in Spain’s most populous region – the last big poll before next year’s general election – will serve as a barometer of wider electoral opinion and could also reveal whether the popularity of the far-right Vox party is beginning to peak. Continue reading...",
-            "zh": "西班牙南部安达卢西亚地区的选民将在本周末的选举中投票，保守党将在本周末的选举中投票，这可能会让保守派人民党（PP）获得绝对多数席位，并让佩德罗·桑切斯（Pedro Sánchez）四面楚歌的社会主义者在他们曾经最自豪的据点之一遭受又一次惨败。周日在西班牙人口最多的地区举行的选举——明年大选前的最后一次大型民意调查——将成为更广泛选举民意的晴雨表，也可能揭示极右翼 Vox 党的受欢迎程度是否已开始达到顶峰。继续阅读..."
+            "en": "A collision between a freight train and a public bus has killed at least eight people and injured 25 others in Bangkok, emergency services have said.\n\nPolice and rescue officials said the collision triggered a fire that engulfed the public bus on Saturday.\n\nFlames also spread to nearby vehicles, prompting firefighters and rescue crews to be dispatched. Teams worked to pull injured victims from the wreckage as fire crews contained the blaze.\n\nThe fire has been brought under control, with crews now working to cool the area, vent gas and continue to search for victims. The cause of the accident is under investigation.",
+            "zh": "紧急服务部门表示，曼谷一列货运列车与一辆公共巴士相撞，已造成至少 8 人死亡、25 人受伤。 警方和救援官员表示，周六，这次碰撞引发了大火，吞没了公共巴士。 火焰还蔓延到附近的车辆，促使消防员和救援人员出动。消防人员控制住了火势，工作人员努力从残骸中救出受伤的受害者。 火势已得到控制，工作人员正在努力冷却该地区、排出气体并继续寻找受害者。事故原因正在调查中。"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-business-2026-may-16-steve-jobs-son-reed-jobs-invest",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/business/2026/may/16/steve-jobs-son-reed-jobs-invest-uk-cancer-care-yosemite",
-          "image": "https://i.guim.co.uk/img/media/0bb804936fc9adab7687d698dcfab9846626ea84/2665_1830_1249_999/master/1249.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87ef13c659c2bf03560d2b0a01d4fd00",
-          "publishedAt": "2026-05-16T11:00:09.000Z",
-          "title": {
-            "en": "‘Research here is world class’: son of Steve Jobs looks to invest in UK cancer care",
-            "zh": "“这里的研究是世界一流的”：史蒂夫·乔布斯的儿子希望投资英国癌症治疗"
-          },
-          "summary": {
-            "en": "After death of his father, Reed Jobs is keen for his $1bn venture capital fund Yosemite to make a difference “I saw my dad have cancer when I was a kid, and unfortunately that happens far too often. And that really motivated me to try to transform outcomes for other people out...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "After death of his father, Reed Jobs is keen for his $1bn venture capital fund Yosemite to make a difference “I saw my dad have cancer when I was a kid, and unfortunately that happens far too often. And that really motivated me to try to transform outcomes for other people out there.” Reed Jobs is talking about the death of his father, the Apple co-founder Steve Jobs, to a rare form of pancreatic cancer in 2011 at the age of 56, the experience that underlines his mission to make cancer a non-lethal, treatable disease. Continue reading...",
-            "zh": "父亲去世后，里德·乔布斯 (Reed Jobs) 热切希望他的 10 亿美元风险投资基金优胜美地 (Yosemite) 能够发挥作用，“我小时候看到我父亲患了癌症，不幸的是这种情况经常发生。这确实激励我尝试改变其他人的结果。”里德·乔布斯 (Reed Jobs) 正在谈论他的父亲、苹果联合创始人史蒂夫·乔布斯 (Steve Jobs) 于 2011 年因一种罕见的胰腺癌去世，享年 56 岁，这段经历强调了他让癌症成为一种非致命、可治疗的疾病的使命。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "James 1:5",
-            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
-            "themeEn": "Ask God for wisdom",
-            "themeZh": "求神赐智慧"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-may-16-trump-bill-cassidy-louisiana-sen",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/16/trump-bill-cassidy-louisiana-senate-race",
-          "image": "https://i.guim.co.uk/img/media/727cac8f78633bafa7152ec6481ab9179e55260c/353_0_3528_2823/master/3528.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e66ca40a62ba612c35f6e7bd88e3912",
-          "publishedAt": "2026-05-16T11:00:09.000Z",
-          "title": {
-            "en": "Republican Louisiana senator in tough primary after Trump backs opponent",
-            "zh": "特朗普支持对手后，路易斯安那州共和党参议员面临艰难的初选"
-          },
-          "summary": {
-            "en": "Bill Cassidy raised ire of US president for voting to impeach after January 6 – so Trump is backing Julia Letlow The power of Donald Trump’s endorsement will be put to its latest test on Saturday, when Louisiana holds primary elections in which the US senator Bill Cassidy, who...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Bill Cassidy raised ire of US president for voting to impeach after January 6 – so Trump is backing Julia Letlow The power of Donald Trump ’s endorsement will be put to its latest test on Saturday, when Louisiana holds primary elections in which the US senator Bill Cassidy, who voted to impeach the president following the January 6 insurrection, then tried to make amends by casting the pivotal vote to confirm Robert F Kennedy Jr as health secretary, stands a chance of losing his party’s nomination. An incumbent Republican running for a third term representing a deeply Republican state, Cassidy would normally be a shoo-in for re-election. But in January, Trump abruptly said that the US representative Julia Letlow should run against Cassidy and offered his endorsement, underscoring his continued willingness to seek revenge against anyone in the Republican party who has crossed him. Continue reading...",
-            "zh": "比尔·卡西迪对美国总统在 1 月 6 日后投票弹劾总统表示愤怒，因此特朗普支持朱莉娅·莱特洛。周六，路易斯安那州举行初选，唐纳德·特朗普的支持力量将受到最新考验，美国参议员比尔·卡西迪在 1 月 6 日叛乱后投票弹劾总统，随后试图通过投关键一票确认小罗伯特·F·肯尼迪为卫生部长来弥补这一缺陷，他有可能失去自己的位置。党的提名。卡西迪是现任共和党人，正在竞选第三个任期，代表着一个共和党深厚的州，通常情况下，卡西迪将稳操胜券地连任。但今年一月，特朗普突然表示，美国众议员朱莉娅·莱特洛(Julia Letlow)应该与卡西迪竞选，并表示支持，这突显出他仍然愿意对共和党内任何冒犯他的人进行报复。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
@@ -379,39 +480,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-may-16-florida-giant-manta-rays-capture",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/16/florida-giant-manta-rays-capture-rules",
-          "image": "https://i.guim.co.uk/img/media/e7562ae64d4095c87453363eed77e22fde16eb1d/1039_0_4922_3938/master/4922.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50e23cfd7cd8084affd274af82b4f249",
-          "publishedAt": "2026-05-16T10:00:07.000Z",
-          "title": {
-            "en": "Florida tightens rules on capturing giant manta rays but stops short of full ban",
-            "zh": "佛罗里达州收紧了捕获巨型蝠鲼的规定，但并未全面禁止"
-          },
-          "summary": {
-            "en": "Move follows upsetting viral video of ray being manhandled into unmarked boat in Florida waters last year Wildlife officials in Florida will continue to allow threatened giant manta rays to be taken from the ocean, but have tightened their policies after a viral video showed a...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Move follows upsetting viral video of ray being manhandled into unmarked boat in Florida waters last year Wildlife officials in Florida will continue to allow threatened giant manta rays to be taken from the ocean, but have tightened their policies after a viral video showed a captured ray in severe distress, and a bipartisan group of politicians called for an end to the controversial practice. Members of the Florida fish and wildlife conservation commission (FWC) voted on Wednesday to adopt an amended final rule reserving the right to say when and where rays can be captured for “responsible exhibition” in the US. Continue reading...",
-            "zh": "去年，佛罗里达州海域的鳐鱼被粗暴地拖入没有标记的船上的视频在网上疯传，佛罗里达州的野生动物官员将继续允许从海洋中捕获受威胁的巨型蝠鲼，但在一段病毒视频显示捕获的鳐鱼处于严重困境后，他们收紧了政策，两党政治家团体呼吁结束这种有争议的做法。佛罗里达州鱼类和野生动物保护委员会（FWC）成员周三投票通过了修订后的最终规则，保留决定在美国何时何地捕捉鳐鱼以进行“负责任的展览”的权利。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Genesis 2:15",
-            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
-            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
-            "themeEn": "Creation care",
-            "themeZh": "看守受造界"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-israels-eurovision-voting-campaign-is-in-the",
           "section": "world",
           "source": "SBS News World",
@@ -429,7 +497,7 @@
           },
           "body": {
             "en": "It's loud, chaotic and never short of drama &#x2014; and this year, Israel&#x2019;s televote campaign has once again put Eurovision's voting system in the spotlight.\n\nAhead of Saturday's grand final in Austria, Israeli public broadcaster KAN was formally warned by the organiser last week over videos instructing the public to vote \"10 times for Israel\". KAN responded by saying it had played by the rules, and also removed the videos.\n\nThe controversy comes a year after Israel's 2025 contestant finished second after winning the global public televote by an overwhelming margin, sparking debates over whether coordinated online campaigns can influence the result.\n\nThe competition has already faced political tension over Israel's participation following the war in Gaza.\n\nEurovision's final winner is decided by professional juries and public voting &#x2014; the latter has been the reason behind the recent controversy.\n\nEach country in the competition also has a jury that chooses the 10 best songs and ranks them in the same way.\n\nAbout two weeks ago, Israel's participant in the competition, Noam Bettan pulished videos asking fans to use all 10 of their votes for the Israeli song.\n\nBased on the 2026 changes to the rules, \"participating broadcasters and artists are not permitted to actively engage in, facilitate or contribute to promotional campaigns by third parties that could influence the voting outcome\".\n\n\"It was brought to our attention that videos with an on-screen instruction to 'vote 10 times for Israel' had been published and released by the artist representing KAN,\" Martin Green, director of the Eurovision Song Contest, said in a statement.\n\n\"The Voting Instructions of the Eurovision Song Contest that cover promotion are predominantly directed at discouraging large scale funded third-party campaigns, and we are satisfied that this video did not form part of such a campaign. However, employing a direct call to action to vote 10 times for one artist or song is also not in line with our rules nor the spirit of the competition.\"\n\nWhen contacted by the Eurovision Song Contest organisers, KAN immediately removed the videos.\n\n\"The matter in question concerns an independent initiative carried out by the artist's close personal team, without any prohibited financing, similar to activities conducted by other contestants as well,\" it said.\n\nIsrael is among the 25 grand finalists of the competition. All the details on voting and points will be shared after the grand final.\n\nGreen has said the instruction to \"vote 10 times for Israel\" shared by KAN \"cannot affect the overall result and 50 per cent of all votes this year are supplied through professional juries\".\n\n\"Nevertheless, we have issued a formal warning letter to KAN and will continue to monitor any...",
-            "zh": "喧闹、混乱且充满戏剧性——今年，以色列的电视投票活动再次将欧洲电视网的投票系统置于聚光灯下。 在周六于奥地利举行的总决赛之前，以色列公共广播公司 KAN 上周因视频指导公众“为以色列投票 10 次”而受到组织者的正式警告。 KAN 回应称其已遵守规则，并删除了这些视频。 这一争议发生一年前，以色列 2025 年参赛者以压倒性优势赢得全球公众电视投票，获得第二名，引发了关于协调一致的在线活动是否会影响结果的争论。 加沙战争后，由于以色列的参与，该竞赛已经面临政治紧张局势。 欧洲电视网的最终获胜者是由专业评审团和公众投票决定的——后者是最近争议背后的原因。 参加比赛的每个国家还有一个评审团，选出 10 首最佳歌曲，并以同样的方式进行排名。 大约两周前，以色列参赛者诺姆·贝坦 (Noam Bettan) 发布了视频，要求粉丝为这首以色列歌曲投出全部 10 票。 根据 2026 年规则的变更，“参与的广播公司和艺术家不得积极参与、促进或参与可能影响投票结果的第三方促销活动”。 欧洲歌唱大赛总监马丁·格林在一份声明中表示：“我们注意到，代表 KAN 的艺术家发布并发布了屏幕上显示‘为以色列投票 10 次’指令的视频。” “欧洲歌唱大赛封面宣传的投票说明主要是为了阻止大规模资助的第三方活动，我们很满意这段视频不属于此类活动的一部分。但是，直接号召大家为一位艺术家或歌曲投票 10 次也不符合我们的规则，也不符合比赛的精神。” 当欧洲歌唱大赛组织者联系上时，KAN 立即删除了这些视频。 声明称：“所涉问题涉及艺术家亲密个人团队开展的一项独立举措，没有任何禁止的融资，与其他参赛者开展的活动类似。” 以色列是本次比赛的 25 个决赛入围者之一。所有投票和积分的详细信息将在总决赛后公布。 格林表示，KAN 分享的“为以色列投票 10 次”的指示“不会影响总体结果，今年所有选票的 50% 是由专业评审团提供的”。 “尽管如此，我们已向 KAN 发出正式警告信，并将继续监控任何......"
+            "zh": "喧闹、混乱且充满戏剧性——今年，以色列的电视投票活动再次将欧洲电视网的投票系统置于聚光灯下。 在周六于奥地利举行的总决赛之前，以色列公共广播公司 KAN 上周因视频指导公众“为以色列投票 10 次”而受到组织者的正式警告。 KAN 回应称其已遵守规则，并删除了这些视频。 这一争议发生一年前，以色列 2025 年参赛者以压倒性优势赢得全球公众电视投票，获得第二名，引发了关于协调一致的在线活动是否会影响结果的争论。 加沙战争后，由于以色列的参与，这项竞赛已经面临政治紧张局势。 欧洲电视网的最终获胜者是由专业评审团和公众投票决定的——后者是最近争议背后的原因。 参加比赛的每个国家还有一个评审团，选出 10 首最佳歌曲，并以同样的方式进行排名。 大约两周前，以色列参赛者诺姆·贝坦 (Noam Bettan) 发布了视频，要求粉丝为这首以色列歌曲投出全部 10 票。 根据 2026 年规则的变更，“参与的广播公司和艺术家不得积极参与、促进或参与可能影响投票结果的第三方促销活动”。 欧洲歌唱大赛总监马丁·格林在一份声明中表示：“我们注意到，代表 KAN 的艺术家发布并发布了屏幕上显示‘为以色列投票 10 次’指令的视频。” “欧洲歌唱大赛封面宣传的投票说明主要是为了阻止大规模资助的第三方活动，我们很满意这段视频不属于此类活动的一部分。但是，直接号召大家为一位艺术家或歌曲投票 10 次也不符合我们的规则，也不符合比赛的精神。” 当欧洲歌唱大赛组织者联系上时，KAN 立即删除了这些视频。 声明称：“所涉问题涉及艺术家亲密个人团队开展的一项独立举措，没有任何禁止的融资，与其他参赛者开展的活动类似。” 以色列是本次比赛的 25 个决赛入围者之一。所有投票和积分的详细信息将在总决赛后公布。 格林表示，KAN 分享的“为以色列投票 10 次”的指示“不会影响总体结果，今年所有选票的 50% 是由专业评审团提供的”。 “尽管如此，我们已向 KAN 发出正式警告信，并将继续监控任何......"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -512,40 +580,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-com-news-articles-ce8p61v7l68o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg",
-          "publishedAt": "2026-05-16T05:53:41.000Z",
-          "title": {
-            "en": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-            "zh": "特朗普警告台湾不要宣布独立，此前数小时他刚与中国国家主席习近平举行峰会"
-          },
-          "summary": {
-            "en": "US President Trump has cautioned Taiwan against declaring independence, following a summit with China's President Xi. He urged both Beijing and Taipei to de-escalate tensions regarding the self-governing island.",
-            "zh": "美国总统特朗普在与中国国家主席习近平举行峰会后，警告台湾不要宣布独立。他敦促北京和台北双方就这个自治岛屿的紧张局势“降温”。"
-          },
-          "body": {
-            "en": "US President Donald Trump has cautioned Taiwan against formally declaring independence from China.\n\n\"I'm not looking to have somebody go independent,\" the US president told Fox News on Friday, at the end of his two-day summit with his Chinese counterpart Xi Jinping in Beijing.\n\nTaiwanese President Lai Ching-te has previously stated that Taiwan does not need to declare formal independence because it already sees itself as a sovereign nation.\n\nThe US has long supported Taiwan, including being bound by law to provide it with a means of self-defence, but has frequently had to square this alliance with maintaining a diplomatic relationship with China.\n\nTrump earlier said he had \"made no commitment either way\" about the self-governing island - which China claims as part of its territory and has not ruled out taking by force.\n\nWashington's established position is that it does not support Taiwanese independence, with continued ties with Beijing being contingent on its acceptance that there is only one Chinese government.\n\nBeijing has been vocal in its dislike of Taiwan's president, who it has previously described as a \"troublemaker\" and a \"destroyer of cross-strait peace\".\n\nMany Taiwanese consider themselves to be part of a separate nation - though most are in favour of maintaining the status quo in which Taiwan neither declares independence from China nor unites with it.\n\nIn his interview with Fox News, Trump reiterated that US policy on the matter had not changed.\n\n\"You know, we're supposed to travel 9,500 miles (15,289km) to fight a war. I'm not looking for that. I want them to cool down. I want China to cool down.\"\n\nOn the flight back to Washington, the US president had told reporters that he and Xi had spoken \"a lot\" about the island, but said he had declined to discuss whether the US would defend it.\n\nXi \"feels very strongly\" about the island and \"doesn't want to see a movement for independence\", Trump said.\n\n\"The Taiwan question is the most important issue in China-US relations,\" Xi warned during the talks, according to Chinese state media, adding: \"If mishandled, the two nations could collide or even come into conflict.\"\n\nAsked if he foresaw a conflict with China over Taiwan, Trump had said: \"No, I don't think so. I think we'll be fine. [Xi] doesn't want to see a war.\"\n\nChina has ramped up military drills around the island in recent years, raising tensions in the region and testing the balance that Washington has struck.\n\nLate last year, the Trump administration announced an $11bn ($8bn) package of weapons to be sold to Taiwan , including advanced rocket launchers and a variety of missiles, which Beijing condemned.\n\nTrump said he would soon decide whether that sale could go ahead, adding that he and Xi had discussed it \"in great detail\".\n\nHe added:...",
-            "zh": "美国总统唐纳德·特朗普警告台湾不要正式宣布从中国独立。 “我不希望有人独立，”美国总统周五在北京与中国国家主席习近平为期两天的峰会结束时告诉福克斯新闻。 台湾总统赖清德此前曾表示，台湾不需要宣布正式独立，因为它已经将自己视为一个主权国家。 美国长期以来一直支持台湾，包括受法律约束为其提供自卫手段，但经常不得不将这一联盟与维持与中国的外交关系结合起来。 特朗普早些时候表示，他对这个自治岛屿“没有做出任何承诺”——中国声称该岛是其领土的一部分，并且不排除以武力夺取该岛的可能性。 华盛顿的既定立场是，它不支持台湾独立，与北京继续保持关系取决于它是否接受只有一个中国政府。 北京一直直言不喜欢台湾总统，此前曾将台湾总统称为“麻烦制造者”和“两岸和平破坏者”。 许多台湾人认为自己是一个独立国家的一部分，尽管大多数人赞成维持现状，即台湾既不宣布从中国独立，也不与中国统一。 特朗普在接受福克斯新闻采访时重申，美国在此事上的政策没有改变。 “你知道，我们应该行驶 9,500 英里（15,289 公里）去打一场战争。我不是在寻找那个。我希望他们冷静下来。我希望中国冷静下来。” 在返回华盛顿的航班上，美国总统告诉记者，他和习近平就该岛“谈了很多”，但表示他拒绝讨论美国是否会保卫该岛。 特朗普表示，习近平对该岛“感情非常强烈”，并且“不希望看到独立运动”。 据中国官方媒体报道，习近平在会谈中警告称，“台湾问题是中美关系中最重要的问题”，并补充说：“如果处理不当，两国可能发生冲突甚至冲突。” 当被问及是否预见到与中国在台湾问题上发生冲突时，特朗普表示：“不，我不这么认为。我认为我们会没事的。[习近平]不想看到战争。” 近年来，中国加大了在该岛周围的军事演习力度，加剧了该地区的紧张局势，并考验着华盛顿所达成的平衡。 去年年底，特朗普政府宣布向台湾出售价值 110 亿美元（约合 80 亿美元）的一揽子武器，其中包括先进火箭发射器和各种导弹，北京对此予以谴责。 特朗普表示，他将很快决定是否继续进行这项出售，并补充说他和习近平已经“非常详细”地讨论了此事。 他补充道：..."
-          },
-          "reflection": {
-            "en": "In a world often marked by escalating rhetoric, the call for parties to \"cool down\" tensions echoes the spirit of peacemaking. Such efforts, whether on a global stage or in daily interactions, remind us of the blessing promised to those who actively work for peace.",
-            "zh": "在一个言辞常常升级的世界里，呼吁各方“降温”紧张局势，与缔造和平的精神不谋而合。无论是在国际舞台上还是在日常互动中，这样的努力都提醒我们，那些积极为和平工作的人将蒙受祝福。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "aiVerseId": "matt_5_9",
-          "translationState": "localized"
-        },
-        {
           "id": "www-sbs-com-au-news-article-hopes-for-lasting-peace-israel-and-lebanon-e",
           "section": "world",
           "source": "SBS News World",
@@ -578,39 +612,6 @@
           },
           "aiVerseId": "matt_5_9",
           "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-in-the-eurovision-press-room-delta-goodrem-p",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/in-the-eurovision-press-room-delta-goodrem-passed-the-vibe-check/e9eau85cw",
-          "image": "https://assets.sbs.com.au/dims4/default/17d6bb6/2147483647/strip/false/crop/6405x2943+0+664/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F70%2F48%2F2314a67949a0b3bf4be46d6fbb5c%2F20260516180392285020-original.jpg",
-          "publishedAt": "2026-05-15T22:40:20.000Z",
-          "title": {
-            "en": "In the Eurovision press room, Delta Goodrem passed the vibe check",
-            "zh": "在欧洲歌唱大赛新闻发布室，黛尔塔·古德莱姆通过了氛围检查"
-          },
-          "summary": {
-            "en": "Finland remains a finals favourite, but Delta has serious momentum. Could it be enough to carry her to a win?",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Reporting on Eurovision is an odd experience. You don&#x2019;t sit in the arena itself; organisers aren&#x2019;t keen to hand free seats to journalists when they can be sold for hundreds of Euros each.\n\nInstead, you sit in a nearby press centre, watching the broadcast on a big screen. Unlike most press centres, people dress up, dance along to the songs they like and cheer as if they were in the front row.\n\nOften, it&#x2019;s a useful barometer to judge how an act is going to go. These people know their Eurovision.\n\nFor most of the week, Delta had been fourth or fifth most likely to win according to bookies. After her semi-final, she rocketed up to second.\n\nOver the last decade, the bookies do normally get it right. Last year was an exception, Austria&#x2019;s operatic JJ took the title with Wasted Love , despite Sweden&#x2019;s jaunty ditty about the joy of Saunas, Bara Bada Bastu being the clear favourite beforehand.\n\n&#x201C;It&#x2019;s a nice feeling, we&#x2019;ve still got a mission to go,&#x201D; she said after qualifying for the final.\n\nIn the event of an Australian win, she wants to host next year&#x2019;s competition at the Rooty Hill RSL.\n\n&#x201C;Of all the performances that I have seen on this stage there has only been one that came with a level of effortless, professionalism, joy, hair flicks, piano playing and elevation into the sky,&#x201D; she tells me.\n\nDanny Estrin, lead singer of Voyager (Australia, 2023) and now Courtney&#x2019;s co-commentator, thinks that &#x2018;effortlessness&#x2019; is a result of experience and preparation.\n\n&#x201C;By the time you get to performing it, having rehearsed it, it becomes second nature to you,&#x201D; he explains.\n\n&#x201C;If you approach it with an element of fun, it translates. She had a cheeky smile, like &#x2018;this is what I do every single day.&#x2019;\n\nBut so, it seems, will the UK&#x2019;s legendary commentator Graham Norton, who has not always been a fan of Australia&#x2019;s involvement in the contest.\n\n&#x201C;Australia have kind of knocked it out of the park this year,&#x201D; he told the BBC.\n\n&#x201C;It is just brilliant. I know it's pathetic, but I was gasping. It was so good. So I think they might be the ones to beat now.\"\n\nThis is my eighth Eurovision Song Contest (if you include the one I went to as a backpacker in Dusseldorf with a ticket bought from a scalper.)\n\nMy track record of predicting the winner is not bad; if you tip the favourite, you generally end up being right.\n\nFinland&#x2019;s Liekinheitin has all the ingredients of a Eurovision winner, yet it just doesn&#x2019;t feel like a Eurovision winner to me.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "报道欧洲电视网是一种奇怪的经历。你不是坐在竞技场里，而是坐在竞技场里。当记者的免费座位可以卖到数百欧元时，组织者并不热衷于向记者提供免费座位。 相反，你坐在附近的新闻中心，在大屏幕上观看广播。与大多数新闻中心不同的是，人们盛装打扮，随着自己喜欢的歌曲跳舞并欢呼，就像坐在前排一样。 通常，它是判断行为进展情况的有用晴雨表。这些人了解他们的欧洲歌唱大赛。 据博彩公司称，在本周的大部分时间里，达美航空在获胜的可能性中排名第四或第五。半决赛后，她飙升至第二位。 在过去的十年里，博彩公司通常都会做对的。去年是个例外，奥地利的歌剧 JJ 凭借《浪费的爱》夺得了冠军，尽管瑞典的欢快小曲讲述了桑拿的乐趣，《巴拉巴达巴斯图》显然是之前最受欢迎的。 “这种感觉很好，我们还有任务要做，”她在晋级决赛后说道。 如果澳大利亚队获胜，她希望在 Rooty Hill RSL 举办明年的比赛。 “在我在这个舞台上看过的所有表演中，只有一场是毫不费力、专业、欢乐、头发轻拂、钢琴演奏和升空的，”她告诉我。 《Voyager》（澳大利亚，2023 年）的主唱、现任考特尼的共同解说员丹尼·埃斯特林 (Danny Estrin) 认为，“轻松”是经验和准备的结果。 “当你开始表演、排练之后，它就会成为你的第二天性，”他解释道。 “如果你带着一种有趣的元素来对待它，它就会转化。她脸上挂着厚颜无耻的微笑，就像‘这就是我每天都会做的事情’。” 但英国传奇评论员格雷厄姆·诺顿似乎也会如此，他并不总是支持澳大利亚参与这场比赛。 “澳大利亚今年已经成功了，”他告诉英国广播公司。 “这真是太棒了。我知道这很可悲，但我却喘不过气来。真是太好了。所以我认为他们现在可能是要击败的人。” 这是我的第八届欧洲歌唱大赛（如果你把我作为背包客在杜塞尔多夫用从黄牛那里买的票去参加的比赛算在内。） 我预测获胜者的记录还不错；如果你给最喜欢的人小费，那么你通常都是对的。 芬兰的 Liekinheitin 拥有欧洲歌唱大赛冠军的所有要素，但对我来说，它感觉不像欧洲歌唱大赛的冠军。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-dw-com-en-islamic-feminism-more-widespread-in-bosnia-and-herzegovina",
@@ -698,7 +699,7 @@
           },
           "body": {
             "en": "With Pakistan stepping in the middle of a major geopolitical conflict, Islamabad is forced to balance between Washington, Tehran, Beijing and key Gulf allies. A recent US media report places it under even more scrutiny.\n\nPakistan has taken on a leading role in the peace efforts between the US and Iran , hosting talks and serving as an intermediary for backchannel diplomacy between the warring parties .\n\nFor Islamabad, the stakes are high. Officials view stability in the Gulf as closely tied to the country's own economic and security interests. A broader confrontation between the US and Iran could disrupt trade routes, deepen energy pressures, inflame sectarian tensions&#160;and further destabilize Pakistan's sensitive border regions with Iran.\n\nInternational prestige is also at play for the Pakistani government as they&#160;work to end a conflict affecting the entire world . But this also means a risk of reputational damage.\n\n\"Pakistan risks growing criticism if its efforts to revive US-Iran talks fail, especially after publicly taking a leading mediation role,\" Michael Kugelman, a senior fellow for&#160;South Asia at the Washington-based Atlantic Council, told DW.&#160;\n\n\"With talks stalled, Pakistan's options are limited because a mediator cannot force two deeply distrustful sides to negotiate,\" he added.\n\n\"Pakistan is trying its best to engage both parties and views the escalating tensions between Washington and Tehran with grave concern,\" a senior government official involved in the negotiation process told DW.&#160;\n\n\"We are committed to playing a constructive diplomatic role to support immediate de-escalation and a peaceful resolution in the interest of regional and global security,\" the official added.&#160;\n\nEarlier this week, a report in US media raised doubt over Pakistan's neutrality in&#160;the Iran conflict. Citing unnamed US officials, CBS News reported that Pakistan had allowed Iran to park its aircraft on Pakistani airbases , effectively shielding them from US strikes.\n\nPakistan's Foreign Office immediately responded by calling the report \"misleading\" and \"speculative.\" In an official statement, Islamabad said the aircraft activity was linked to diplomatic and logistical arrangements connected to ongoing peace efforts and involved personnel from multiple sides.\n\nThe Foreign Office also warned that \"unverified and sensationalized reporting\" risked undermining sensitive diplomatic initiatives.\n\nUS Senator Lindsey Graham, an outspoken supporter of the US war in Iran, publicly criticized Pakistan following the CBS report. His remarks reflect broader concerns among some US policymakers who fear Pakistan may be appearing too accommodating toward Tehran while still seeking to preserve strategic ties with Washington.\n\nAt the same time, US...",
-            "zh": "随着巴基斯坦陷入重大地缘政治冲突，伊斯兰堡被迫在华盛顿、德黑兰、北京和主要海湾盟友之间保持平衡。美国媒体最近的一篇报道对其进行了更严格的审查。 巴基斯坦在美国和伊朗之间的和平努力中发挥了主导作用，主办了会谈并充当交战双方之间秘密外交的调解人。 对于伊斯兰堡来说，风险很高。官员们认为海湾地区的稳定与该国自身的经济和安全利益密切相关。美国和伊朗之间更广泛的对抗可能会扰乱贸易路线，加深能源压力，加剧宗派紧张局势，并进一步破坏巴基斯坦与伊朗敏感边境地区的稳定。 巴基斯坦政府在努力结束影响全世界的冲突时，国际声誉也发挥着重要作用。但这也意味着声誉受损的风险。 华盛顿大西洋理事会南亚高级研究员迈克尔·库格曼（Michael Kugelman）告诉德国之声：“如果巴基斯坦恢复美伊谈判的努力失败，特别是在公开发挥主导调解作用之后，巴基斯坦将面临越来越多的批评。” 他补充说：“随着谈判陷入僵局，巴基斯坦的选择受到限制，因为调解人无法迫使两个极度不信任的双方进行谈判。” 一位参与谈判进程的高级政府官员告诉德国之声：“巴基斯坦正在尽最大努力与双方接触，并对华盛顿和德黑兰之间不断升级的紧张局势表示严重关切。” 这位官员补充道：“我们致力于发挥建设性的外交作用，支持立即缓和局势并和平解决问题，以维护地区和全球安全。” 本周早些时候，美国媒体的一篇报道对巴基斯坦在伊朗冲突中的中立性提出了质疑。哥伦比亚广播公司新闻援引未透露姓名的美国官员的话说，巴基斯坦允许伊朗将其飞机停放在巴基斯坦空军基地，从而有效地保护它们免受美国的袭击。 巴基斯坦外交部立即回应称该报告“具有误导性”和“推测性”。伊斯兰堡在一份官方声明中表示，飞机活动与正在进行的和平努力相关的外交和后勤安排有关，涉及多方人员。 英国外交部还警告说，“未经证实和耸人听闻的报道”可能会破坏敏感的外交举措。 美国参议员林赛·格雷厄姆是美国对伊朗战争的直言不讳的支持者，在哥伦比亚广播公司的报道后公开批评巴基斯坦。他的言论反映了一些美国政策制定者更广泛的担忧，他们担心巴基斯坦可能对德黑兰过于宽容，同时仍寻求维持与华盛顿的战略关系。 与此同时，美国..."
+            "zh": "随着巴基斯坦陷入重大地缘政治冲突，伊斯兰堡被迫在华盛顿、德黑兰、北京和主要海湾盟友之间保持平衡。美国媒体最近的一篇报道对其进行了更严格的审查。 巴基斯坦在美国和伊朗之间的和平努力中发挥了主导作用，主办了会谈并充当交战双方之间秘密外交的调解人。 对于伊斯兰堡来说，赌注很高。官员们认为海湾地区的稳定与该国自身的经济和安全利益密切相关。美国和伊朗之间更广泛的对抗可能会扰乱贸易路线，加深能源压力，加剧宗派紧张局势，并进一步破坏巴基斯坦与伊朗敏感边境地区的稳定。 巴基斯坦政府在努力结束影响全世界的冲突时，国际声誉也发挥着重要作用。但这也意味着声誉受损的风险。 华盛顿大西洋理事会南亚高级研究员迈克尔·库格曼（Michael Kugelman）告诉德国之声：“如果巴基斯坦恢复美伊谈判的努力失败，特别是在公开发挥主导调解作用之后，巴基斯坦将面临越来越多的批评。” 他补充说：“随着谈判陷入僵局，巴基斯坦的选择受到限制，因为调解人无法迫使两个极度不信任的双方进行谈判。” 一位参与谈判进程的高级政府官员告诉德国之声：“巴基斯坦正在尽最大努力与双方接触，并对华盛顿和德黑兰之间不断升级的紧张局势表示严重关切。” 这位官员补充道：“我们致力于发挥建设性的外交作用，支持立即缓和局势并和平解决问题，以维护地区和全球安全。” 本周早些时候，美国媒体的一篇报道对巴基斯坦在伊朗冲突中的中立性提出了质疑。哥伦比亚广播公司新闻援引未透露姓名的美国官员的话说，巴基斯坦允许伊朗将其飞机停放在巴基斯坦空军基地，从而有效地保护它们免受美国的袭击。 巴基斯坦外交部立即回应称该报告“具有误导性”和“推测性”。伊斯兰堡在一份官方声明中表示，飞机活动与正在进行的和平努力相关的外交和后勤安排有关，涉及多方人员。 英国外交部还警告说，“未经证实和耸人听闻的报道”可能会破坏敏感的外交举措。 美国参议员林赛·格雷厄姆是美国对伊朗战争的直言不讳的支持者，在哥伦比亚广播公司的报道后公开批评巴基斯坦。他的言论反映了一些美国政策制定者更广泛的担忧，他们担心巴基斯坦可能对德黑兰过于宽容，同时仍寻求维持与华盛顿的战略关系。 与此同时，美国..."
           },
           "reflection": {
             "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
@@ -732,6 +733,39 @@
         "SBS News China Focus"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-us-news-2026-may-16-donald-trump-xi-jinping-summit-c",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/us-news/2026/may/16/donald-trump-xi-jinping-summit-china",
+          "image": "https://i.guim.co.uk/img/media/1a777377215fd169caee5c9a7a8663f30e8870e0/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75b0a08a8179f1f24820451da96c95fc",
+          "publishedAt": "2026-05-16T11:57:58.000Z",
+          "title": {
+            "en": "Pomp, pageantry but precious little to show for Trump’s Beijing excursion",
+            "zh": "特朗普的北京之行盛况空前，但几乎没有什么亮点"
+          },
+          "summary": {
+            "en": "No swift end to the Iran war, uncertainty over Taiwan and only vague outlines of commercial deals … but the US president did get to bask in the company of Xi Jinping It was historic, to be sure, but not as anyone had predicted. First there was Donald Trump, a self-declared...",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "No swift end to the Iran war, uncertainty over Taiwan and only vague outlines of commercial deals … but the US president did get to bask in the company of Xi Jinping It was historic, to be sure, but not as anyone had predicted . First there was Donald Trump , a self-declared teetotaler, apparently drinking champagne after Xi Jinping assured him that China’s “great rejuvenation” could go hand in hand with “Make America great again”. Then there was a Chinese military band playing a rendition of the US president’s signature campaign song, YMCA. Beneath giant chandeliers, blue and gold balconies and a big orange backdrop with pagoda-style roofs, Thursday’s state banquet in Beijing featured characters whose presence would have been unthinkable here a decade ago: Elon Musk , the eccentric tech billionaire, Pete Hegseth , the Fox News host turned “secretary of war”, and of course Trump himself, a former reality TV star now leading the world’s biggest superpower. Continue reading...",
+            "zh": "伊朗战争没有迅速结束，台湾问题存在不确定性，商业协议也只有模糊的轮廓……但美国总统确实享受到了习近平的陪伴。可以肯定的是，这是历史性的，但并不像任何人预测的那样。首先是自称禁酒的唐纳德·特朗普，在习近平向他保证中国的“伟大复兴”可以与“让美国再次伟大”齐头并进后，他显然正在喝香槟。随后，中国军乐队演奏了美国总统的标志性竞选歌曲《基督教青年会》。在巨大的吊灯、蓝色和金色的阳台以及带有宝塔式屋顶的橙色大背景下，周四在北京举行的国宴上出现的人物在十年前是不可想象的：古怪的科技亿万富翁埃隆·马斯克、福克斯新闻主持人变身“战争部长”皮特·赫格斯，当然还有特朗普本人，他是一位前电视真人秀明星，现在领导着世界上最大的超级大国。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-lifeandstyle-2026-may-16-fake-lawyers-scientists-che",
           "section": "china",
@@ -1164,28 +1198,29 @@
           "publishedAt": "2026-05-16T06:08:06.000Z",
           "title": {
             "en": "Teenager Isla Bell’s body was found in a Melbourne tip 18 months ago. Today friends and family demanded ‘justice’",
-            "zh": "18 个月前，青少年艾拉·贝尔 (Isla Bell) 的尸体在墨尔本的一个小巷中被发现。今天，朋友和家人要求“正义”"
+            "zh": "18个月前，少女伊斯拉·贝尔的尸体在墨尔本垃圾场被发现。今天，亲友们要求“正义”"
           },
           "summary": {
-            "en": "Supporters at the Victorian state library protested against prosecutors dropping a manslaughter charge against the man accused of killing her Get our breaking news email, free app or daily news podcast Isla Bell, the 19-year-old whose body was found in a Melbourne tip 18 months...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "Supporters of Isla Bell, a 19-year-old whose body was found in a Melbourne tip 18 months ago, protested at the Victorian state library after prosecutors dropped a manslaughter charge against the accused man. Friends and family demanded \"justice\" for Bell.",
+            "zh": "18个月前，19岁的伊斯拉·贝尔的尸体在墨尔本的一个垃圾场被发现。在检察官撤销了对被控杀害她的男子的过失杀人指控后，贝尔的支持者在维多利亚州立图书馆举行了抗议活动。亲友们为贝尔要求“正义”。"
           },
           "body": {
             "en": "Supporters at the Victorian state library protested against prosecutors dropping a manslaughter charge against the man accused of killing her Get our breaking news email , free app or daily news podcast Isla Bell, the 19-year-old whose body was found in a Melbourne tip 18 months ago, has been remembered as a loving, courageous and open-hearted young woman with a green thumb and an “exquisitely beautiful soul”. Friends, family and supporters gathered outside the Victorian state library on Saturday to honour the teenager and protest against prosecutors dropping a manslaughter charge against the man who had been accused of killing her. Continue reading...",
             "zh": "维多利亚州州立图书馆的支持者抗议检察官撤销对被指控杀害她的男子的过失杀人指控。 19 岁的艾拉·贝尔 (Isla Bell) 的尸体于 18 个月前在墨尔本的一处小报中被发现，她被认为是一位充满爱心、勇敢、心胸开阔的年轻女性，拥有园艺天赋和“精致美丽的灵魂”。周六，朋友、家人和支持者聚集在维多利亚州立图书馆外，向这名少女致敬，并抗议检察官撤销对被指控杀害她的男子的过失杀人指控。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The public outcry for justice in this tragic case echoes a deep human longing for fairness and accountability when the legal system faces scrutiny. Even when paths to justice seem obstructed, the call for righteousness to prevail remains a powerful expression of hope for a better world.",
+            "zh": "在这起悲剧中，公众对正义的呼吁，反映了当法律体系面临审视时，人类对公平和问责制的深切渴望。即使通往正义的道路似乎受阻，对公义得以伸张的呼唤，仍然是渴望一个更美好世界的有力表达。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Amos 5:24",
+            "textEn": "Let justice roll on like a river, righteousness like a never-failing stream!",
+            "textZh": "惟愿公平如大水滚滚，使公义如江河滔滔。",
+            "themeEn": "Demand for justice",
+            "themeZh": "伸张公义"
           },
-          "translationState": "fallback"
+          "aiVerseId": "amos_5_24",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-failed-auction-home-sale-price-loss-r79jf70t",
@@ -1197,28 +1232,29 @@
           "publishedAt": "2026-05-16T05:02:33.000Z",
           "title": {
             "en": "'It's as if failure isn't an option': The hidden sting when your home flops at auction",
-            "zh": "“就好像失败不是一种选择”：当你的房子在拍卖中失败时隐藏的刺痛"
+            "zh": "“仿佛失败不是一个选项”：房屋拍卖失败时隐藏的刺痛"
           },
           "summary": {
             "en": "Auction clearance rates are slipping — and for sellers, a failed auction can leave more than just disappointment.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "zh": "拍卖清盘率正在下滑——对于卖家而言，拍卖失败带来的不仅仅是失望。"
           },
           "body": {
             "en": "Australians who fail to sell their homes at auction could miss out on up to $10,000, according to new research.\n\nA study by the University of New South Wales (UNSW) Business School found homes that aren't purchased at auction eventually sell for 1.3 per cent less than comparable properties sold via private treaty &#x2014; which, based on the average home price in NSW and Victoria, is a loss of up to $10,000.\n\nThe research, published in the university's Review of Finance journal, set the premium for a successful auction at 0.7 per cent, between $2,000 and $2,500, compared to private treaty sales.\n\nFor those homeowners who prepared for the risk of auction failure, the monetary loss narrowed to 0.3 per cent.\n\nThe research analysed data from over 480,000 residential property transactions in NSW and Victoria, between January 2007 and December 2019.\n\nResearchers studied properties that had been sold more than once and found the most common reason for auction failure was an inconsistency between what a seller would accept and what a buyer would pay.\n\nAuctions are popular sale method, according to Domain's chief of research and economics Nicola Powell, who describes them as a \"marketing campaign on steroids\".\n\n\"People now embark on an auction campaign because they want to get that real sugar hit, they want their home to get exposed to as many buyers,\" she told SBS News.\n\n\"The longer a home is on the market, the deeper the discount becomes over time,\" Powell said.\n\n\"Then if the home has been on the market for 90 days, and a buyer has been looking in the area, they become aware that the home is still lingering on the market,\" she said.\n\nThis is what UNSW Business School associate professor Kristle Cort&#xE9;s calls 'buyer's stigma' &#x2014; one of two psychological mechanisms identified in the research.\n\n\"A failed auction is a very public signal. Even though the reasons for failure are often ambiguous, buyers may infer that there is 'something wrong with the property', creating stigma,\" Cort&#xE9;s said.\n\n\"At the same time, sellers may feel discouraged after a visible failure and be more willing to concede in subsequent negotiations.\n\nProperties that failed multiple auctions sold for 1.8 per cent less than those that failed once, while those that attracted no bids at all received prices 1.7 per cent lower than single-failure cases.\n\nProperties that failed auction in a high-demand market suffered large discounts because the surprise outcome further intensified buyer's stigma.\n\nCort&#xE9;s said the financial loss of a failed auction diminished for a property six months after the said auction.\n\n\"The fact that the discount fades suggests that stigma plays a key role,\" Cort&#xE9;s said.\n\n\"As time passes, new buyers enter the market who are less aware of the failed...",
             "zh": "最新研究显示，未能在拍卖会上出售房屋的澳大利亚人可能会损失高达 10,000 美元的损失。 新南威尔士大学 (UNSW) 商学院的一项研究发现，未通过拍卖购买的房屋最终售价比通过私人协议出售的同类房产低 1.3%——根据新南威尔士州和维多利亚州的平均房价计算，这意味着损失高达 10,000 澳元。 这项研究发表在该大学的《金融评论》杂志上，该研究将成功拍卖的溢价设定为 0.7%，与私人协议销售相比，在 2,000 美元至 2,500 美元之间。 对于那些做好了拍卖失败风险准备的房主来说，金钱损失收窄至 0.3%。 该研究分析了 2007 年 1 月至 2019 年 12 月期间新南威尔士州和维多利亚州超过 48 万笔住宅房产交易的数据。 研究人员研究了多次出售的房产，发现拍卖失败的最常见原因是卖方接受的价格与买方愿意支付的价格不一致。 Domain 的研究和经济主管尼古拉·鲍威尔 (Nicola Powell) 表示，拍卖是一种流行的销售方式，他将拍卖描述为“类固醇营销活动”。 她告诉 SBS 新闻：“人们现在开始拍卖活动，因为他们想要得到真正的糖分，他们希望他们的房子能接触到尽可能多的买家。” 鲍威尔说：“房屋在市场上的时间越长，随着时间的推移，折扣就越大。” 她说：“如果该房屋已在市场上挂牌 90 天，并且买家一直在该地区寻找房产，他们就会意识到该房屋仍在市场上徘徊。” 这就是新南威尔士大学商学院副教授 Kristle Cortés 所说的“买家的耻辱”——研究中发现的两种心理机制之一。 “拍卖失败是一个非常公开的信号。尽管失败的原因往往含糊不清，但买家可能会推断‘房产有问题’，从而造成耻辱，”科尔特斯说。 “与此同时，卖家可能会在明显的失败后感到沮丧，并更愿意在随后的谈判中让步。 多次拍卖失败的房产比一次失败的房产售价低 1.8%，而那些完全没有吸引投标的房产价格比单次失败的房产低 1.7%。 在高需求市场上拍卖失败的房产遭受了大幅折扣，因为意外的结果进一步加剧了买家的耻辱。 科尔特斯表示，拍卖失败六个月后，该房产的财务损失有所减少。 “折扣逐渐消失的事实表明，耻辱起着关键作用，”科尔特斯说。 “随着时间的推移，新买家进入市场，他们对失败的事情不太了解......"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The disappointment of a failed home auction highlights how deeply our sense of security and success can be tied to earthly possessions. This news reminds us that while homes are significant, their value and our control over them are ultimately temporary. It invites us to consider where our true, lasting treasures lie.",
+            "zh": "房屋拍卖失败带来的失望，凸显了我们对安全感和成功的认知，可能与世俗财产紧密相连。这则新闻提醒我们，尽管房屋意义重大，但其价值和我们对其的掌控终究是暂时的。它邀请我们思考，我们真正持久的财宝究竟在哪里。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Matthew 6:19",
+            "textEn": "Do not store up for yourselves treasures on earth, where moths and vermin destroy.",
+            "textZh": "不要为自己积攒财宝在地上；地上有虫子咬，能锈坏。",
+            "themeEn": "Earthly treasures",
+            "themeZh": "地上财宝"
           },
-          "translationState": "fallback"
+          "aiVerseId": "matt_6_19",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-australia-news-2026-may-16-stafford-byelection-tippe",
@@ -1238,7 +1274,7 @@
           },
           "body": {
             "en": "Voters in northern Brisbane electorate go to polls after sudden death of former independent MP Jimmy Sullivan Get our breaking news email , free app or daily news podcast A byelection in the Brisbane seat of Stafford is expected to swing towards the sitting LNP Queensland government in a result experts say would likely be fatal to former premier Steven Miles’ leadership of the Labor party. Voters in the northern Brisbane electorate of Stafford have gone to the polls after the sudden death of former independent MP Jimmy Sullivan in April. Continue reading...",
-            "zh": "前独立议员吉米·沙利文突然去世后，布里斯班北部选民前往民意调查 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 布里斯班斯塔福德选区的补选预计将向现任昆士兰自由国家党政府倾斜，专家表示，这一结果可能对前总理史蒂文·迈尔斯对工党的领导造成致命影响。前独立议员吉米·沙利文四月份突然去世后，布里斯班北部斯塔福德选区的选民开始投票。继续阅读..."
+            "zh": "前独立议员吉米·沙利文突然去世后，布里斯班北部选民前往民意调查 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 布里斯班斯塔福德选区的补选预计将向现任昆士兰自由国家党政府倾斜，专家表示，这一结果可能对前总理史蒂文·迈尔斯对工党的领导产生致命影响。前独立议员吉米·沙利文四月份突然去世后，布里斯班北部斯塔福德选区的选民开始投票。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -1263,28 +1299,29 @@
           "publishedAt": "2026-05-16T04:06:08.000Z",
           "title": {
             "en": "Man dead after shark attack off WA’s Rottnest Island",
-            "zh": "西澳罗特内斯特岛附近鲨鱼袭击一名男子死亡"
+            "zh": "西澳罗特内斯特岛附近发生鲨鱼袭击事件，一人死亡"
           },
           "summary": {
-            "en": "The incident happened near Perth about 10am on Saturday, a St John WA ambulance service spokesperson says Get our breaking news email, free app or daily news podcast A man has died after being attacked by a shark at a popular Australian holiday island off Western Australia. The...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "A man has died after being attacked by a shark near Perth, off Western Australia's popular Rottnest Island, on Saturday morning.",
+            "zh": "周六上午，一名男子在西澳大利亚州珀斯附近的著名度假岛屿罗特内斯特岛附近遭到鲨鱼袭击后死亡。"
           },
           "body": {
             "en": "The incident happened near Perth about 10am on Saturday, a St John WA ambulance service spokesperson says Get our breaking news email , free app or daily news podcast A man has died after being attacked by a shark at a popular Australian holiday island off Western Australia. The incident happened at Rottnest Island, near Perth, about 10am on Saturday, a St John WA ambulance service spokesperson said. Continue reading...",
             "zh": "周六上午 10 点左右，这起事件发生在珀斯附近，西澳大利亚州圣约翰救护车服务发言人表示，获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客，一名男子在西澳大利亚州附近一个受欢迎的澳大利亚度假岛上被鲨鱼袭击后死亡。西澳圣约翰救护车服务发言人表示，这起事件于周六上午 10 点左右发生在珀斯附近的罗特尼斯岛。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "News of a sudden, tragic death like this reminds us of the fragility of life and the universal truth that our days are appointed. It prompts a moment of sober reflection on our mortality and the preciousness of each day.",
+            "zh": "这样突如其来的悲剧性死亡新闻提醒我们生命的脆弱，以及每个人都有定数这一普遍真理。它促使我们对自己的必死性以及每一天的宝贵进行一番清醒的反思。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Hebrews 9:27",
+            "textEn": "Just as people are destined to die once, and after that to face judgment.",
+            "textZh": "按着定命，人人都有一死，死后且有审判。",
+            "themeEn": "Mortality",
+            "themeZh": "必有一死"
           },
-          "translationState": "fallback"
+          "aiVerseId": "heb_9_27",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-man-dead-after-shark-attack-in-was-rottnest-",
@@ -1304,7 +1341,7 @@
           },
           "body": {
             "en": "A 38-year-old man has been killed by a shark on Rottnest Island in Western Australia on Saturday.\n\nPolice Sergeant Michael Wear at Rottnest Island Police Station said the fatal attack happened just before 10am at Horseshoe Reef, north of Marjorie Bay on the western end of the island.\n\nWear said the man's injuries were horrific. The victim was bitten on the lower legs.\n\nA five-metre white shark was spotted 80 metres offshore about the time of the attack, according to Surf Life Saving WA.\n\nTelevision news footage showed paramedics and police treating the wounded man on the jetty.\n\nIt also showed a Water Police boat tethered to a smaller boat equipped with spearfishing gear.\n\nThe Department of Primary Industries and Regional Development urged people to take extra caution.\n\nRottnest Island is one of Western Australia's most popular tourist destinations.\n\nThe most recent fatality was a 12-year-old boy who died after being attacked by a shark in Sydney Harbour in January.\n\nThat attack was one of four recorded in the span of two days, which prompted officials to close dozens of the city's beaches.\n\nAustralian scientists believe increasingly crowded waters and rising ocean temperatures are swaying sharks' migratory patterns, which may be contributing to a rise in attacks.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "周六，一名 38 岁男子在西澳大利亚罗特尼斯岛被鲨鱼杀死。 罗特内斯特岛警察局的警长迈克尔·威尔 (Michael Wear) 表示，这起致命袭击发生在上午 10 点左右，地点是该岛西端马乔里湾 (Marjorie Bay) 以北的马蹄礁 (Horseshoe Reef)。 威尔说，这名男子的伤势非常严重。受害者的小腿被咬伤。 据西澳冲浪救生组织称，袭击发生时，在离岸 80 米处发现了一条 5 米长的白鲨。 电视新闻画面显示，医护人员和警察在码头上治疗受伤男子。 它还显示了一艘水警船拴在一艘配备鱼叉捕鱼装备的小船上。 第一产业和区域发展部敦促人们格外小心。 罗特尼斯岛是西澳大利亚州最受欢迎的旅游目的地之一。 最近的死亡事件是一名 12 岁男孩，他于 1 月份在悉尼港遭到鲨鱼袭击后死亡。 这次袭击是两天内记录的四起袭击之一，这促使官员关闭了该市的数十个海滩。 澳大利亚科学家认为，日益拥挤的水域和不断上升的海洋温度正在改变鲨鱼的迁徙模式，这可能导致鲨鱼袭击事件增加。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+            "zh": "周六，一名 38 岁男子在西澳大利亚罗特尼斯岛被鲨鱼杀死。 罗特内斯特岛警察局的警长迈克尔·威尔 (Michael Wear) 表示，这起致命袭击发生在上午 10 点左右，地点是该岛西端马乔里湾 (Marjorie Bay) 以北的马蹄礁 (Horseshoe Reef)。 威尔说，这名男子的伤势非常严重。受害者的小腿被咬。 据西澳冲浪救生组织称，袭击发生时，在离岸 80 米处发现了一条 5 米长的白鲨。 电视新闻画面显示，医护人员和警察在码头上治疗受伤男子。 它还显示了一艘水警船拴在一艘配备鱼叉捕鱼装备的小船上。 第一产业和区域发展部敦促人们格外小心。 罗特尼斯岛是西澳大利亚州最受欢迎的旅游目的地之一。 最近的死亡事件是一名 12 岁男孩，他于 1 月份在悉尼港遭到鲨鱼袭击后死亡。 这次袭击是两天内记录的四起袭击之一，这促使官员关闭了该市的数十个海滩。 澳大利亚科学家认为，日益拥挤的水域和不断上升的海洋温度正在改变鲨鱼的迁徙模式，这可能导致鲨鱼袭击事件增加。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1337,7 +1374,7 @@
           },
           "body": {
             "en": "The door has been left ajar for an extension to petrol pump excise relief despite the prime minister reporting healthier supplies of liquid fuels than before the Iran war began.\n\nProviding the weekly update on Australia's fuel security situation since the conflict started disrupting oil supplies, Anthony Albanese did not rule out a tax relief extension.\n\nThe federal government has halved the excise charged per litre at the bowser to lower prices for motorists in a temporary move due to expire at the end of June.\n\n\"We'll make an assessment in the lead up to 1 July,\" Albanese told reporters in Sydney on Saturday, before spruiking other forms of tax relief kicking in at the start of the new financial year that may cushion the blow were the excise cut to lapse.\n\n\"On 1 July, of course, we've got our first tax cuts, one of the five instalments of tax cuts that have been put in place by my government,\" referencing rejigged income tax cuts and other announced relief packages.\n\nAustralia now has 44 days' worth of petrol, two days more than last week's update and eight days more than the day the Iran bombing began.\n\nThe prime minister said Australia had more petrol, jet fuel and diesel than on 28 February, when the United States and Israel attacked Iran. It's not the first time he's used that line, first deployed in a fuel report in April.\n\n\"We are in a better position than anyone was predicting prior to Easter, when we did the national address,\" he said.\n\nAustralia remains at level two of its fuel plan that requests users only buy what they need and take voluntary steps to use less.\n\nThe 2026 federal budget, handed down on Tuesday, included a multi-billion-dollar fuel resilience package, including a $7.5 billion fuel and fertiliser security facility and $3.2 billion Australian fuel security reserve.\n\nThe package is designed to facilitate at least 50 days of onshore fuel supply and storage of diesel and aviation fuel.\n\nAustralia has also been ramping up its efforts to secure fuel supplies, with an additional three spot-market diesel cargoes secured on Friday.\n\nThe federal opposition, led by Angus Taylor, has been calling for the minimum stock-holding obligation to meet the 90-day requirement under the international energy treaty and advocating for more domestic oil and gas mining.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "尽管总理报告液体燃料供应比伊朗战争开始前更健康，但延长汽油泵消费税减免的大门仍然半开。 自冲突开始扰乱石油供应以来，安东尼·艾博尼斯每周提供澳大利亚燃料安全状况的最新情况，他不排除延长税收减免的可能性。 联邦政府已将每升汽油的消费税减半，以降低驾车者的价格，这是一项临时举措，将于 6 月底到期。 周六，Albanese 在悉尼对记者表示：“我们将在 7 月 1 日之前进行评估。”随后，他又鼓吹在新财政年度开始时实施其他形式的税收减免，以缓解消费税削减失效带来的冲击。 “当然，我们在 7 月 1 日实施了首次减税，这是我国政府实施的五期减税之一”，他指的是调整后的所得税减免和其他宣布的减税计划。 澳大利亚目前拥有可供 44 天使用的汽油，比上周的更新多了两天，比伊朗爆炸开始之日多了八天。 总理表示，澳大利亚的汽油、航空燃油和柴油数量比 2 月 28 日美国和以色列袭击伊朗时还要多。这并不是他第一次使用这条线，第一次部署是在四月份的一份燃油报告中。 他说：“我们的处境比复活节前发表全国讲话时任何人的预测都要好。” 澳大利亚仍保持其燃料计划的二级水平，要求用户只购买他们需要的东西，并采取自愿措施减少使用。 周二公布的 2026 年联邦预算包括数十亿美元的燃料弹性一揽子计划，其中包括 75 亿美元的燃料和化肥安全设施以及 32 亿美元的澳大利亚燃料安全储备。 该计划旨在促进至少 50 天的陆上燃料供应以及柴油和航空燃料的储存。 澳大利亚也一直在加大力度确保燃料供应，周五又获得了三批现货市场柴油货物。 以安格斯·泰勒为首的联邦反对派一直呼吁实行最低持股义务，以满足国际能源条约下的 90 天要求，并倡导更多的国内石油和天然气开采。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+            "zh": "尽管总理报告液体燃料供应比伊朗战争开始前更健康，但延长汽油泵消费税减免的大门仍然半开。 自冲突开始扰乱石油供应以来，安东尼·艾博尼斯每周提供澳大利亚燃料安全状况的最新情况，他不排除延长税收减免的可能性。 联邦政府已将每升汽油的消费税减半，以降低驾车者的价格，这是一项临时举措，将于 6 月底到期。 周六，Albanese 在悉尼对记者表示：“我们将在 7 月 1 日之前进行评估。”随后，他又鼓吹在新财政年度开始时实施其他形式的税收减免，以缓解消费税削减失效带来的冲击。 “当然，我们在 7 月 1 日实施了首次减税，这是我国政府实施的五期减税之一”，他指的是调整后的所得税减免和其他宣布的减税计划。 澳大利亚目前拥有可供 44 天使用的汽油，比上周的更新多了两天，比伊朗爆炸开始之日多了八天。 总理表示，澳大利亚的汽油、航空燃油和柴油数量比 2 月 28 日美国和以色列袭击伊朗时还要多。这并不是他第一次使用这条线，第一次部署是在四月份的一份燃油报告中。 他说：“我们的处境比复活节前发表全国讲话时任何人的预测都要好。” 澳大利亚仍保持其燃料计划的二级水平，要求用户只购买他们需要的东西，并采取自愿措施减少使用。 周二公布的 2026 年联邦预算包括数十亿美元的燃料弹性一揽子计划，其中包括 75 亿美元的燃料和化肥安全设施以及 32 亿美元的澳大利亚燃料安全储备。 该计划旨在促进至少 50 天的陆上燃料供应以及柴油和航空燃料的储存。 澳大利亚也一直在加大力度确保燃料供应，周五现货市场上又获得了三批柴油货物。 以安格斯·泰勒为首的联邦反对派一直呼吁实行最低持股义务，以满足国际能源条约下的 90 天要求，并倡导更多的国内石油和天然气开采。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -1437,7 +1474,7 @@
           },
           "body": {
             "en": "Criticism of budget funding comes amid warnings the Australian National Audit Office will struggle to meet its targets for independent reviews Get our breaking news email , free app or daily news podcast Labor has been accused inadequately funding one of the central institutions safeguarding public administration, with transparency advocates and independent David Pocock criticising commitments for the Australian National Audit Office (ANAO) in this week’s budget. Parliament’s Joint Committee of Public Accounts and Audit has previously warned the Albanese government that the auditor general’s financial position is unsustainable and of “serious concern” – even as the number of government agencies and functions subject to oversight expands significantly. Continue reading...",
-            "zh": "对预算资金的批评之际，有人警告澳大利亚国家审计署将难以实现其独立审查的目标。工党被指控为维护公共行政的中央机构之一提供的资金不足，透明度倡导者和独立人士戴维·波科克批评澳大利亚国家审计署（ANAO）在本周的预算中的承诺。议会公共账目和审计联合委员会此前曾警告阿尔巴尼亚政府，审计长的财务状况不可持续，值得“严重关注”——尽管受到监督的政府机构和职能的数量大幅增加。继续阅读..."
+            "zh": "对预算资金的批评之际，有人警告澳大利亚国家审计署将难以实现其独立审查的目标。工党被指责为维护公共行政的中央机构之一提供的资金不足，透明倡导者和独立人士大卫·波科克批评澳大利亚国家审计署（ANAO）在本周的预算中的承诺。议会公共账目和审计联合委员会此前曾警告阿尔巴尼亚政府，审计长的财务状况不可持续，值得“严重关注”——尽管受到监督的政府机构和职能的数量大幅增加。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
@@ -1495,28 +1532,29 @@
           "publishedAt": "2026-05-16T00:00:54.000Z",
           "title": {
             "en": "From bottles to bars: easy swaps to cut plastic from your personal care routine",
-            "zh": "从瓶子到酒吧：轻松更换，减少个人护理用品中的塑料制品"
+            "zh": "从瓶装到块状：轻松替换，减少个人护理中的塑料使用"
           },
           "summary": {
-            "en": "Almost all cosmetic packaging is thrown away. But with a bit of forethought, it’s not hard to keep both your skin and your conscience squeaky clean Change by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprint Got...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+            "en": "Almost all cosmetic packaging is thrown away. But with a bit of forethought, it’s not hard to keep both your skin and your conscience squeaky clean. Change by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprint.",
+            "zh": "几乎所有的化妆品包装最终都被丢弃。但只要稍加思虑，就能轻松地在保持皮肤清洁的同时，也让良心清爽。每周六的“循序渐进的改变”栏目提供生活小窍门和可持续生活建议，帮助家庭减少碳足迹。"
           },
           "body": {
             "en": "Almost all cosmetic packaging is thrown away. But with a bit of forethought, it’s not hard to keep both your skin and your conscience squeaky clean Change by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprint Got a question or tip for reducing household emissions? Email us at changebydegrees@theguardian.com Who hasn’t opened a bathroom cupboard on a cleaning spree, scanned the shelves of half-full volumiser, long-forgotten eye shadow palettes and blunt razors and tossed them in the bin – one guilty, satisfying clunk at a time? Very few of us, since 95% of cosmetic packaging is thrown away . Given the Australian cosmetics and beauty industry was valued at $17.25b in 2025 , this amounts to an incredible volume of waste. To add insult to injury, almost 60% of beauty packaging is made from plastic , with the complicated makeup of spray bottles, pumps and tubes meaning they are difficult to recycle. Continue reading...",
             "zh": "几乎所有的化妆品包装都被扔掉了。但只要深思熟虑，保持皮肤和良心干净并不难。《逐级改变》每周六都会提供生活窍门和可持续生活技巧，帮助减少家庭的碳足迹。有减少家庭排放的问题或建议吗？给我们发电子邮件：changeby Degrees@theguardian.com 谁没有在疯狂清洁时打开浴室柜子，扫描货架上的半满的丰盈剂、长期被遗忘的眼影调色板和钝的剃须刀，然后将它们扔进垃圾箱 - 一次有罪，令人满意的沉闷声？我们中很少有人这样做，因为 95% 的化妆品包装都被扔掉了。鉴于 2025 年澳大利亚化妆品和美容行业的估值为 17.25b 美元，这相当于令人难以置信的浪费量。雪上加霜的是，近 60% 的美容包装由塑料制成，喷雾瓶、泵和管子的结构复杂，意味着它们很难回收。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story reminds us that our daily choices, even in personal care, have an impact on the world around us. Genesis 2:15 calls humanity to \"work it and take care of it,\" reflecting our ongoing responsibility to be good stewards of the earth God has entrusted to us. Small, intentional changes can contribute to a larger effort to protect creation.",
+            "zh": "这个故事提醒我们，即使是个人护理中的日常选择，也会对我们周围的世界产生影响。创世记2:15呼召人类“去耕种看守”，这反映了我们持续的责任，要作雅伟所托付给我们的地球的好管家。微小而有意的改变，可以为保护受造物做出更大的贡献。"
           },
           "verse": {
-            "reference": "James 1:5",
-            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
-            "themeEn": "Ask God for wisdom",
-            "themeZh": "求神赐智慧"
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
           },
-          "translationState": "fallback"
+          "aiVerseId": "gen_2_15",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-how-australian-housing-became-a-generational",
@@ -1668,7 +1706,7 @@
           },
           "body": {
             "en": "More ways to listen Apple podcasts Spotify RSS Feed Download Presented by Barrie Cassidy and Tony Barry ; produced by Daniel Semo and Karishma Luthria ; executive producer Hannah Parkes Fri 15 May 2026 11.00 EDT Last modified on Fri 15 May 2026 18.23 EDT Share 00:00:00 00:00:00 Barrie Cassidy and Tony Barry deliver their verdict on the federal budget – including opposition leader Angus Taylor’s targeting of migrants in an effort to solve the housing crisis. They also discuss Pauline Hanson’s soon-to-be released energy policy and why dissatisfaction with Labor isn’t translating into more votes for the Greens",
-            "zh": "收听 Apple 播客的更多方式 Spotify RSS Feed 下载 由 Barrie Cassidy 和 Tony Barry 提供；由 Daniel Semo 和 Karishma Luthria 制作；执行制片人汉娜·帕克斯 (Hannah Parkes) 周五 2026 年 5 月 15 日美国东部时间 11.00 最后修改于 2026 年 5 月 15 日周五 18.23 美国东部时间 分享 00:00:00 00:00:00 巴里·卡西迪 (Barrie Cassidy) 和托尼·巴里 (Tony Barry) 就联邦预算做出裁决，其中包括反对党领袖安格斯·泰勒 (Angus Taylor) 针对移民以解决住房危机的做法。他们还讨论了宝琳·汉森（Pauline Hanson）即将发布的能源政策，以及为什么对工党的不满没有转化为绿党的更多选票"
+            "zh": "收听 Apple 播客的更多方式 Spotify RSS Feed 下载 由 Barrie Cassidy 和 Tony Barry 提供；由 Daniel Semo 和 Karishma Luthria 制作；执行制片人汉娜·帕克斯 (Hannah Parkes) 周五 2026 年 5 月 15 日美国东部时间 11.00 最后修改于 2026 年 5 月 15 日周五 18.23 美国东部时间 分享 00:00:00 00:00:00 巴里·卡西迪 (Barrie Cassidy) 和托尼·巴里 (Tony Barry) 就联邦预算做出了裁决，其中包括反对派领袖安格斯·泰勒 (Angus Taylor) 为了解决住房危机而针对移民的做法。他们还讨论了宝琳·汉森（Pauline Hanson）即将发布的能源政策，以及为什么对工党的不满没有转化为绿党的更多选票"
           },
           "reflection": {
             "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
@@ -1734,7 +1772,7 @@
           },
           "body": {
             "en": "Migrants are generally younger than the average Australian, are skilled and more educated. And they typically pay more tax than they receive in benefits Get our breaking news email , free app or daily news podcast Angus Taylor’s thinly veiled attempt to paint migrants as bludgers is not supported by the facts. The typical migrant over their lifetime pays more in taxes than they receive in government services. Far from lobbing up on our shores and demanding welfare , most migrants arrive hungry for work and motivated to make a life for themselves and their family. Continue reading...",
-            "zh": "移民通常比澳大利亚普通人更年轻、技术精湛、受教育程度更高。他们缴纳的税款通常比收到的福利还要多。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客安格斯·泰勒几乎不加掩饰地将移民描绘成游走者的企图并没有得到事实的支持。典型的移民一生缴纳的税款比他们获得的政府服务还要多。大多数移民来到我们这里，并不是为了谋取福利，而是渴望工作，并积极为自己和家人谋生。继续阅读..."
+            "zh": "移民通常比澳大利亚普通人更年轻、技术精湛、受教育程度更高。他们缴纳的税款通常比收到的福利还要多。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客安格斯·泰勒几乎不加掩饰地将移民描绘成游走者的企图并没有得到事实的支持。典型的移民一生缴纳的税款比他们获得的政府服务还要多。大多数移民来到我们这里，并不是为了谋求福利，而是渴望工作，并积极为自己和家人谋生。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
