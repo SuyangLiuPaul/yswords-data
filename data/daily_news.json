@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T22:42:39.507Z",
+  "generatedAt": "2026-05-17T23:47:00.790Z",
   "editionDate": "2026-05-18",
   "sources": [
     {
@@ -106,8 +106,8 @@
       },
       "sourceNotes": [
         "The Guardian World",
-        "SBS News World",
         "BBC News World",
+        "SBS News World",
         "DW World"
       ],
       "items": [
@@ -118,18 +118,249 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
           "image": "https://i.guim.co.uk/img/media/a562c788893539d057f75675f149ec3edc0f061e/295_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d5c50e914f1d9161f2b70f33878b4aca",
-          "publishedAt": "2026-05-17T22:23:33.000Z",
+          "publishedAt": "2026-05-17T23:27:52.000Z",
           "title": {
             "en": "News live: Australian health officials to work on ebola outbreak response, minister says; NSW police arrest 993 in domestic violence sweep",
             "zh": "新闻直播：部长表示，澳大利亚卫生官员将致力于埃博拉疫情应对工作；新南威尔士州警方在家庭暴力扫荡中逮捕了993人"
           },
           "summary": {
-            "en": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news live Get our breaking news email, free app or daily news podcast Sacked pianist’s case against orchestra heads to court The opening strains of a...",
+            "en": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news live Get our breaking news email, free app or daily news podcast Federal government announces $2bn effort to build 50,000 new homes in Queensland The...",
             "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news live Get our breaking news email , free app or daily news podcast Sacked pianist’s case against orchestra heads to court The opening strains of a concert pianist’s discrimination case against the Melbourne Symphony Orchestra are about to be heard in the Federal Court, AAP reports. Continue reading...",
-            "zh": "世界卫生组织宣布非洲疫情为“国际关注的突发公共卫生事件”。关注今日新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 被解雇的钢琴家针对乐团的案件将进入法庭 据 AAP 报道，一位音乐会钢琴家针对墨尔本交响乐团的歧视案件即将在联邦法院审理。继续阅读..."
+            "en": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news live Get our breaking news email , free app or daily news podcast Federal government announces $2bn effort to build 50,000 new homes in Queensland The federal government just announced a major housing investment in Queensland, a deal between the Albanese government and the state government to build 50,000 homes for Queenslanders. This is a budget which makes hard decisions to get more Australians into homes. It is a budget for workers, a budget for first home buyers and a budget for future generations who would otherwise be locked out of the housing market. Domestic and family violence is a stain on our society. These offenders rely on fear and control, and [Operation] Amarok is about turning that pressure back onto them. If you use violence, intimidation or coercive control, police will come for you. Continue reading...",
+            "zh": "世界卫生组织宣布非洲疫情为“国际关注的突发公共卫生事件”。关注今日新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 联邦政府宣布斥资 20 亿美元在昆士兰州建造 50,000 套新住房 联邦政府刚刚宣布在昆士兰州进行一项重大住房投资，这是阿尔巴尼亚政府与州政府之间达成的一项协议，将为昆士兰人建造 50,000 套住房。这份预算做出了艰难的决定，让更多的澳大利亚人住进了家。这是针对工人的预算，针对首次购房者的预算，也是针对否则将被排除在房地产市场之外的子孙后代的预算。家庭暴力是我们社会的污点。这些罪犯依赖恐惧和控制，而[阿玛洛克行动]就是要把这种压力转回到他们身上。如果您使用暴力、恐吓或强制控制，警察就会来抓捕您。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cn8p392nl7yo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b138/live/6fba9b00-5042-11f1-acce-79302838e29f.jpg",
+          "publishedAt": "2026-05-17T23:02:56.000Z",
+          "title": {
+            "en": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+            "zh": "“这可能是你最后一次听到我的声音”：自战争开始以来伊朗政治处决激增"
+          },
+          "summary": {
+            "en": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The line is crackly. But the voice of Mehrab Abdollahzadeh is clear and, given the circumstances, surprisingly steady.\n\nHe's on death row in western Iran. He speaks quickly - as if time is running out. And his message is desperate.\n\n\"You are hearing my voice from Oromiyeh Central Prison, and this may be the last time you hear it,\" he says in a voice note obtained by the Kurdistan Human Rights Network.\n\n\"From the very first day of my arrest, they forced confessions out of me through torture and threats, confessions that were entirely false. None of the charges against me are true. They know it, and God knows it. I am innocent.\"\n\nMehrab was arrested back in 2022, during nationwide protests that followed the death in police custody of a young woman, Mahsa Amini, who had been detained for not wearing her veil properly. He was accused of involvement in the killing of a member of Iran's Basij militia force.\n\nAfter 42 months of fear and sleepless nights, he was put to death earlier this month - part of a surge in executions of people on political and security charges.\n\nSince the US and Israel attacked Iran on 28 February, the UN says it's verified the execution of at least 32 political prisoners.\n\nThis marks a sharp year-on-year increase, with 45 executions on politically-motivated charges taking place across the whole of 2025, according to Amnesty International.\n\nThe UN's Human Rights Office has warned the death penalty is increasingly being used to silence political dissent.\n\nSeveral of those killed this year were accused of spying for Israel or the CIA, while some were accused of being affiliated with an exiled opposition group. Fourteen of them were arrested in relation to the uprising in January this year, which was crushed with lethal force - leading to thousands of deaths.\n\n\"In Iran, the authorities carry out executions by hanging. They carry them out at dawn,\" says Nassim Papayianni of Amnesty International. \"People in Iran have been waking up to near-daily announcements of executions.\"\n\n\"They weaponise the death penalty as a tool of political repression, to instil fear among the population, and essentially crush and stifle any dissent that there might be.\"\n\nWhile some executions are announced publicly, a spokesperson for the UN Human Rights Office told the BBC it was concerned others were happening in secret.\n\nLast year, Iran carried out 2,159 executions, according to Amnesty International - the highest number since 1989. It says that the vast majority are for drugs-related offences or murder.\n\nWith its increased use of the death penalty, the regime is attempting to restore authority after its image was damaged by the January uprising and the war, according to Kaveh Kermanshahi of the Kurdistan Human Rights Network.\n\n\"At a time when it is...",
+            "zh": "线路有裂纹。但迈赫拉布·阿卜杜拉扎德的声音很清晰，而且考虑到当时的情况，他的声音出人意料地稳定。 他在伊朗西部的死囚牢房里。他说得很快——好像时间已经不多了。他的信息是绝望的。 “你正在奥罗米耶中央监狱听到我的声音，这可能是你最后一次听到它，”他在库尔德斯坦人权网络获得的语音记录中说道。 “从我被捕的第一天起，他们就通过酷刑和威胁逼迫我招供，但这些招供完全是虚假的。对我的指控没有一个是真实的。他们知道，上帝也知道。我是无辜的。” 梅赫拉布于 2022 年被捕，当时一名年轻女子玛莎·阿米尼 (Mahsa Amini) 因未正确戴面纱而被拘留，在警方拘留期间死亡，引发全国性抗议活动。他被指控参与杀害伊朗巴斯基民兵组织的一名成员。 经过 42 个月的恐惧和不眠之夜后，他于本月初被处决——这是因政治和安全指控而处决人数激增的一部分。 自2月28日美国和以色列袭击伊朗以来，联合国表示已核实至少有32名政治犯被处决。 据国际特赦组织称，这一数字同比大幅增加，2025 年全年因政治动机指控而被处决的人数达到 45 人。 联合国人权办公室警告说，死刑越来越多地被用来压制政治异议。 今年被杀的人中有几人被指控为以色列或中央情报局从事间谍活动，还有一些人被指控与流亡反对派组织有联系。其中 14 人因与今年 1 月的起义有关而被捕，该起义遭到致命武力镇压，导致数千人死亡。 国际特赦组织的纳西姆·帕帕亚尼 (Nassim Papayianni) 表示：“在伊朗，当局采用绞刑方式执行死刑。他们在黎明时分执行死刑。” “伊朗人民几乎每天都会听到处决的消息。” “他们将死刑作为政治镇压的武器，向民众灌输恐惧，并从根本上镇压和压制任何可能存在的异议。” 虽然有些处决是公开宣布的，但联合国人权高专办发言人告诉英国广播公司，它担心其他处决是秘密进行的。 据国际特赦组织称，去年伊朗处决了 2,159 人，这是自 1989 年以来的最高数字。该组织称，其中绝大多数是因与毒品有关的犯罪或谋杀。 库尔德斯坦人权网络的卡维·克曼沙希 (Kaveh Kermanshahi) 表示，随着死刑的使用增加，该政权正试图在其形象因一月起义和战争而受损后恢复权威。 “在这个时候，当..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-c3w2xqj9x13o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/84a2/live/6e06efa0-4af4-11f1-9c75-d37955007435.jpg",
+          "publishedAt": "2026-05-17T23:02:15.000Z",
+          "title": {
+            "en": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
+            "zh": "在乌克兰前线的“杀伤区”内，新武器改变了战争"
+          },
+          "summary": {
+            "en": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "After 225 days stuck in a front-line foxhole, the Ukrainian infantryman's muscles were so weak he could barely walk.\n\nHis commanders had tried five times to swap him with another soldier - but they could never reach him. Rotating soldiers on the front line in eastern Ukraine is extremely difficult because of the constant threat of drones.\n\nThis area near Kostyantynivka is currently one of the most dangerous hotspots and the Ukrainian military admits that Russian forces have reached its outskirts.\n\nKnown as Kenya, the infantryman took two days to walk 11km (6.8 miles) to get back to his brigade, avoiding mines and hiding from drones to get out.\n\nUkraine's 93rd brigade has the job of defending Kostyantynivka and its surrounding towns and villages from Russia's advance.\n\nIf this highly strategic city falls, Moscow will be able to push towards the last remaining Ukrainian strongholds in the Donbas region – Kramatorsk and Sloviansk – from the north, east and south.\n\nVladimir Putin sees the capture of the Donbas as Russia's \"priority goal\", and Ukrainian intelligence says he wants it done this year. President Volodymyr Zelensky believes the Kremlin is planning another major offensive in the summer.\n\nMoscow gained half as much territory in the Donbas in April than in March, and a sixth of what it captured in December 2025, according to Ukrainian monitoring website DeepState.\n\nKenya's task was to maintain his position and listen for any movement outside. He and his comrade would engage only if Russian troops tried to move against them.\n\n\"Most fighting was done by drones,\" he said. And these weapons have transformed how wars are fought.\n\nKenya and his brigade are living through what appears to be the paradox of modern warfare. As machines increasingly replace humans on the front line, the greater the role of troops becomes in either seizing land or defending it.\n\nGone are the battles where a column of tanks and waves of soldiers charge enemy positions.\n\nInstead, assaults often involve two or three soldiers walking across a field or riding motorbikes, sometimes even on horseback or on bicycles.\n\nSpeed has become more important than armour if you want to survive inside the \"kill-zone\" - a wide and desolate area dominated by drones that hunt down anything that moves.\n\nThis is a grey zone along the front line within the range of drones piloted remotely from both sides.\n\n\"Every time when we had to come out of our positions, we prayed we would come back alive,\" said Kenya. \"At night, we had to put on anti-drone cloaks to protect us against thermal cameras, but they would last for 20 minutes at the most.\"\n\nSo, even in the age of robots and remotely operated weapons, the old rule of war is still true: without boots on the ground, an army cannot hold territory.\n\nThat...",
+            "zh": "在前线散兵坑里呆了 225 天后，这名乌克兰步兵的肌肉变得非常虚弱，几乎无法行走。 他的指挥官曾五次尝试将他与另一名士兵交换，但他们始终无法联系到他。由于无人机的持续威胁，乌克兰东部前线的士兵轮换极其困难。 Kostyantynivka附近的这一地区目前是最危险的热点地区之一，乌克兰军方承认俄罗斯军队已经到达其郊区。 这位被称为“肯尼亚”的步兵花了两天时间步行 11 公里（6.8 英里）才回到自己的旅，同时避开地雷并躲避无人机。 乌克兰第93旅的任务是保卫科斯蒂安蒂尼夫卡及其周边城镇和村庄，抵御俄罗斯的进攻。 如果这座高度战略性的城市陷落，莫斯科将能够从北部、东部和南部向顿巴斯地区仅存的乌克兰据点——克拉马托尔斯克和斯洛维安斯克推进。 弗拉基米尔·普京将夺取顿巴斯视为俄罗斯的“优先目标”，乌克兰情报部门表示他希望在今年完成这一任务。总统弗拉基米尔·泽伦斯基认为，克里姆林宫正计划在夏季发动另一场大规模攻势。 据乌克兰监测网站 DeepState 称，莫斯科 4 月份在顿巴斯获得的领土是 3 月份的一半，是 2025 年 12 月占领领土的六分之一。 肯尼亚的任务是坚守阵地并监听外界的动静。只有当俄罗斯军队试图对抗他们时，他和他的战友才会交战。 “大多数战斗是由无人机完成的，”他说。这些武器改变了战争的方式。 肯尼亚和他的旅正在经历现代战争的悖论。随着机器越来越多地在前线取代人类，军队在夺取土地或保卫土地方面的作用变得越来越大。 一队坦克和一波又一波的士兵冲锋陷阵的战斗已经一去不复返了。 相反，袭击通常涉及两到三名士兵步行穿过田野或骑摩托车，有时甚至骑马或骑自行车。 如果你想在“杀戮区”内生存，速度就变得比装甲更重要。“杀戮区”是一个广阔而荒凉的区域，由无人机控制，追捕任何移动的东西。 这是沿着前线的灰色地带，位于双方远程驾驶的无人机范围内。 “每次当我们不得不离开阵地时，我们都会祈祷自己能活着回来，”肯尼亚说。 “晚上，我们必须穿上防无人机斗篷来保护我们免受热像仪的伤害，但它们最多只能持续20分钟。” 因此，即使在机器人和遥控武器时代，古老的战争规则仍然成立：没有地面部队，军队就无法占领领土。 那..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-society-2026-may-18-campaigners-threaten-legal-actio",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/society/2026/may/18/campaigners-threaten-legal-action-over-uk-us-deal-on-prices-nhs-pays-for-drugs",
+          "image": "https://i.guim.co.uk/img/media/882fb103cf7b13488a8e91ae9d24c2bd7e5b93fb/778_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72f847fbd6f145612e23f0e3f0b99d7d",
+          "publishedAt": "2026-05-17T23:01:52.000Z",
+          "title": {
+            "en": "Campaigners threaten legal action over UK-US deal on prices NHS pays for drugs",
+            "zh": "活动人士威胁对英美关于 NHS 药品价格协议采取法律行动"
+          },
+          "summary": {
+            "en": "Two campaign groups claim that change to how NHS treatments are approved amounts to ‘unlawful power grab’ Campaigners against the UK’s controversial drug pricing deal with Donald Trump are threatening the government with legal action unless it scraps a key element of the plan....",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Two campaign groups claim that change to how NHS treatments are approved amounts to ‘unlawful power grab’ Campaigners against the UK’s controversial drug pricing deal with Donald Trump are threatening the government with legal action unless it scraps a key element of the plan. They claim that a change to how drug treatments are approved for use by the NHS, which could lead to it paying even higher prices for them, amounts to an “unlawful power grab”. Continue reading...",
+            "zh": "两个竞选团体声称，改变 NHS 治疗的批准方式相当于“非法夺权”。反对英国与唐纳德·特朗普达成的有争议的药品定价协议的活动人士威胁政府，除非废除该计划的一个关键要素，否则将采取法律行动。他们声称，NHS 批准使用药物治疗的方式发生变化，这可能导致 NHS 为这些药物支付更高的价格，这相当于“非法夺权”。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-business-2026-may-18-uk-firms-halt-investments-and-h",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/business/2026/may/18/uk-firms-halt-investments-and-hiring-as-iran-war-pushes-up-costs-bosses-warn",
+          "image": "https://i.guim.co.uk/img/media/0646a80e9fe385ac054e18903fde96056aeccce0/656_69_4484_3590/master/4484.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=456b969c2e57dd7a0b150ed0ee66d13b",
+          "publishedAt": "2026-05-17T23:01:52.000Z",
+          "title": {
+            "en": "UK firms halt investments and hiring as Iran war pushes up costs, bosses warn",
+            "zh": "老板警告说，由于伊朗战争推高了成本，英国公司停止了投资和招聘"
+          },
+          "summary": {
+            "en": "Survey shows businesses ‘struggling to absorb latest economic shock’, while data says April vacancies down 7.7% The worsening fallout from the Iran war is forcing businesses to halt their UK investment and hiring plans, bosses have warned, as Britain enters a renewed period of...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Survey shows businesses ‘struggling to absorb latest economic shock’, while data says April vacancies down 7.7% The worsening fallout from the Iran war is forcing businesses to halt their UK investment and hiring plans, bosses have warned, as Britain enters a renewed period of political and economic instability. More than two months into the US-Israeli war on Iran, leading surveys of UK employers showed companies were increasingly prioritising cost management over growth as rising costs and global uncertainty weigh on confidence. Continue reading...",
+            "zh": "调查显示企业“正在努力应对最新的经济冲击”，而数据显示4月份职位空缺下降7.7% 老板们警告说，随着英国进入新的政治和经济不稳定时期，伊朗战争日益恶化的影响迫使企业停止在英国的投资和招聘计划。美国与以色列对伊朗的战争已经过去两个多月了，对英国雇主的主要调查显示，随着成本上升和全球不确定性影响信心，企业越来越将成本管理置于增长之上。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cvgzpz7zyd4o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cvgzpz7zyd4o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7b44/live/f6937f10-4eb3-11f1-bd52-e755d604ece4.jpg",
+          "publishedAt": "2026-05-17T23:01:51.000Z",
+          "title": {
+            "en": "From escaping child marriage 'to an old pervert' to becoming Sierra Leone's first lady",
+            "zh": "从逃避童婚的“老变态”到成为塞拉利昂第一夫人"
+          },
+          "summary": {
+            "en": "BBC World Service exclusive: the private world of one of Africa's most powerful political women.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "It takes Fatima Bio only a moment to respond when we ask what it was like to be an asylum seeker in London.\n\n\"Better than being married to an old pervert,\" she says deadpan, before laughing - a reference to her father's plans to marry her off as a teenager.\n\nA lot has changed since then. In the years that followed, she became an actress, then met a man in London when she was interviewing him about influential Sierra Leoneans in the diaspora and married him. He was Julius Bio - and he is now Sierra Leone's president.\n\nAs the country's first lady, Fatima Bio is seen as a compelling yet divisive figure - some young people see her as a refreshing voice in politics, who speaks up for women and girls, while others say she has overstepped her remit and that she is too vocal and too involved in the running of her husband's party.\n\nShe has been booed and jeered at by MPs and criticised over a video that she shared on her social media channels featuring a notorious drugs dealer, whom she denies knowing.\n\nShe quickly stops laughing and composes herself to tell us the story that inspired her to champion a law banning child marriage in Sierra Leone, which came into effect in 2024.\n\nShe was almost a child bride herself. By the time she turned 13, her father, a diamond miner from Kano district, had arranged her marriage to a man in his 30s, whom she had known as an uncle figure since she was a little girl.\n\nBut just before the wedding, when she turned 16 in 1996, Sierra Leone's civil war caused enough distraction to allow her to escape with the help of relatives and seek asylum in the UK.\n\nFatima Bio landed in London on Christmas Eve at Gatwick Airport wearing a T-shirt, she says, shocked by the cold, but relieved to have the opportunity of a new life. She moved in with a distant relative.\n\n\"England was my amazing grace. I went to England, I got my voice,\" the first lady adds. \"I got my independence, and then I was able to fight for myself. And now I can fight for as many young people as possible.\"\n\nSomething else she gained in the UK was a council flat in Southwark in central London, a home she still keeps today where her children live.\n\nAs a form of social housing, council homes are usually cheaper to rent than private accommodation and applicants have to meet certain criteria.\n\nThe fact that a sitting first lady, who lives in a presidential mansion in the capital, Freetown, retains a tenancy has drawn criticism in both the British and Sierra Leonean press.\n\nWith more than 18,000 people on the borough's waiting list for housing, the council's website says that \"even people in the greatest need can face several years' wait\".\n\nBut it is a situation she defends. \"My children are all British citizens,\" she says. \"I'm paying for my council house myself. I have not...",
+            "zh": "当我们问起在伦敦寻求庇护的感受时，法蒂玛·比奥只用了一会儿就做出了回应。 “总比嫁给一个老色狼好。”她面无表情地说，然后笑了——指的是她父亲计划在她十几岁的时候把她嫁出去。 从那时起，发生了很多变化。在接下来的几年里，她成为一名演员，然后在伦敦采访一位男子，了解海外塞拉利昂有影响力的人，并与他结婚。他是朱利叶斯·比奥（Julius Bio），现在是塞拉利昂总统。 作为该国的第一夫人，法蒂玛·比奥被视为一个引人注目但又引起争议的人物——一些年轻人认为她是政治上令人耳目一新的声音，为妇女和女孩发声，而另一些人则认为她越权了，她过于直言不讳，过多参与丈夫政党的运作。 她因在社交媒体频道上分享的一段视频而受到国会议员的嘘声和嘲笑，该视频的主角是一名臭名昭著的毒贩，但她否认认识该人。 她很快停止了笑声，镇定下来，向我们讲述了一个激励她支持塞拉利昂禁止童婚法律的故事，该法律于 2024 年生效。 她自己几乎就是一个童养媳。当她 13 岁时，她的父亲（卡诺区的一名钻石矿工）安排她嫁给了一名 30 多岁的男子，她从小就将他视为叔叔。 但就在 1996 年她 16 岁结婚前夕，塞拉利昂内战造成了足够的干扰，让她在亲戚的帮助下逃离并前往英国寻求庇护。 法蒂玛·比奥 (Fatima Bio) 身穿 T 恤于圣诞节前夕抵达伦敦盖特威克机场，她说，她对寒冷感到震惊，但为有机会获得新生活而松了一口气。她搬去和一位远房亲戚住在一起。 “英格兰是我的神奇恩典。我去了英格兰，我得到了我的声音，”第一夫人补充道。 “我获得了独立，然后我能够为自己而战。现在我可以为尽可能多的年轻人而战。” 她在英国获得的其他东西是伦敦市中心南华克区的一套政府公寓，至今她仍然保留着她的孩子们居住的房子。 作为社会住房的一种形式，议会住房的租金通常比私人住房便宜，并且申请人必须满足某些标准。 住在首都弗里敦总统府的现任第一夫人保留租约的事实引起了英国和塞拉利昂媒体的批评。 该行政区的住房等候名单上有超过 18,000 人，该委员会的网站称，“即使是最需要住房的人也可能面临数年的等待”。 但这是她所捍卫的情况。 “我的孩子都是英国公民，”她说。 “我自己支付议会大厦的费用。我没有......"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-money-2026-may-18-pensions-commission-warns-retireme",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/money/2026/may/18/pensions-commission-warns-retirement-savings-gender-gap-uk",
+          "image": "https://i.guim.co.uk/img/media/b89d2c5241fa46025528e4e229cfd3e8caa07327/247_31_4775_3820/master/4775.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fc3160ae2bc0b4b4dd816413f6cb775",
+          "publishedAt": "2026-05-17T23:01:51.000Z",
+          "title": {
+            "en": "Government-backed Pensions Commission calls for action on gender savings gap",
+            "zh": "政府支持的养老金委员会呼吁采取行动缩小性别储蓄差距"
+          },
+          "summary": {
+            "en": "Body says, on average, British women approaching retirement have half private pension savings of men – £81,000 versus £156,000 A shake-up of pensions in Britain must involve measures to close the gap in retirement savings between men and women, the revived Pensions Commission is...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Body says, on average, British women approaching retirement have half private pension savings of men – £81,000 versus £156,000 A shake-up of pensions in Britain must involve measures to close the gap in retirement savings between men and women, the revived Pensions Commission is to tell ministers. According to the government-backed body, women approaching retirement have on average half the private pension savings of men, with a median pension wealth of £81,000 versus £156,000. Continue reading...",
+            "zh": "Body表示，平均而言，即将退休的英国女性的私人养老金储蓄只有男性的一半——分别为81,000英镑和156,000英镑。恢复后的养老金委员会将告诉部长们，英国养老金的重组必须采取措施缩小男女退休储蓄的差距。根据政府支持的机构的数据，即将退休的女性平均拥有私人养老金储蓄的一半，养老金财富中位数为 81,000 英镑，而男性为 156,000 英镑。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-law-2026-may-18-david-lammy-promises-cut-in-children",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/law/2026/may/18/david-lammy-promises-cut-in-children-jailed-awaiting-trial",
+          "image": "https://i.guim.co.uk/img/media/0a6662f1e215d50754ad7c350a91916ea98130d7/427_0_4267_3414/master/4267.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f479efe09ed469f2ed8ff532824445d",
+          "publishedAt": "2026-05-17T23:01:51.000Z",
+          "title": {
+            "en": "David Lammy promises 25% cut in number of children jailed while they await trial",
+            "zh": "大卫·拉米 (David Lammy) 承诺将候审期间入狱儿童人数减少 25%"
+          },
+          "summary": {
+            "en": "Justice secretary’s white paper will overhaul youth justice rules and could end lifelong criminal records for under-18s David Lammy has promised to cut the number of children kept in jail while they await trial by a quarter as part of an overhaul of youth justice rules that...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Justice secretary’s white paper will overhaul youth justice rules and could end lifelong criminal records for under-18s David Lammy has promised to cut the number of children kept in jail while they await trial by a quarter as part of an overhaul of youth justice rules that could also end lifelong criminal records for under-18s. The justice secretary is publishing a white paper on Monday that he says will reduce the number of children ending up in jail – something he admits was his greatest fear growing up in Tottenham in the 1980s. Continue reading...",
+            "zh": "司法部长的白皮书将彻底改革青少年司法规则，并可能终结 18 岁以下青少年的终身犯罪记录 大卫·拉米 (David Lammy) 承诺，将在监狱等待审判的儿童人数减少四分之一，作为青少年司法规则改革的一部分，该规则也可能终结 18 岁以下青少年的终身犯罪记录。司法部长周一发布了一份白皮书，他表示该白皮书将减少最终入狱的儿童数量——他承认这是 20 世纪 80 年代在托特纳姆热刺长大的他最担心的事情。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -211,72 +442,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-uk-news-2026-may-17-crime-serious-barrier-uk-growth-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/uk-news/2026/may/17/crime-serious-barrier-uk-growth-business-leaders",
-          "image": "https://i.guim.co.uk/img/media/fa374aa499252ac9dedb9c151006ac34eb0aafc7/1281_925_1959_1567/master/1959.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75edf8aaca10cae9073096707e93c6d4",
-          "publishedAt": "2026-05-17T21:30:49.000Z",
-          "title": {
-            "en": "Crime increasingly a ‘serious barrier’ to UK growth, say business leaders",
-            "zh": "商界领袖表示，犯罪日益成为英国经济增长的“严重障碍”"
-          },
-          "summary": {
-            "en": "British Chambers of Commerce survey shows firms ‘are dealing with rising levels of theft, fraud and cyber-attacks’ UK business leaders have warned that crime is becoming an increasingly “serious barrier” to growing Britain’s economy amid a rise in shoplifting, fraud and...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "British Chambers of Commerce survey shows firms ‘are dealing with rising levels of theft, fraud and cyber-attacks’ UK business leaders have warned that crime is becoming an increasingly “serious barrier” to growing Britain’s economy amid a rise in shoplifting, fraud and cyber-attacks against companies. The British Chambers of Commerce (BCC), which represents tens of thousands of businesses across the country, called on the government to provide “a step change in the support businesses can count on” as it said two-fifths of companies had experienced some form of crime in the past year. Continue reading...",
-            "zh": "英国商会的调查显示，企业“正在应对日益严重的盗窃、欺诈和网络攻击”。英国商界领袖警告称，随着针对企业的入店行窃、欺诈和网络攻击不断增加，犯罪正日益成为英国经济增长的“严重障碍”。代表全国数万家企业的英国商会（BCC）呼吁政府“在企业可以信赖的支持方面做出重大改变”，因为它表示，五分之二的公司在过去一年中经历过某种形式的犯罪​​。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-may-17-people-killed-in-russia-ukraine-re",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
-          "image": "https://i.guim.co.uk/img/media/14fbe1994795d16e7c284bcaeeef7c258aa09728/30_0_1201_960/master/1201.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=602150cefd58d2e77b0b9957f36151a8",
-          "publishedAt": "2026-05-17T21:19:55.000Z",
-          "title": {
-            "en": "At least four people killed in Russia as Ukraine launches retaliatory strikes",
-            "zh": "乌克兰发动报复性袭击 俄罗斯至少四人死亡"
-          },
-          "summary": {
-            "en": "Wave of almost 600 drones launched across 14 regions, after Moscow’s deadly three-day attack on Ukraine last week One of Ukraine’s largest ever drone strikes against Russia’s regions, including Moscow, has killed at least four people and wounded a dozen more, the Russian...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Wave of almost 600 drones launched across 14 regions, after Moscow’s deadly three-day attack on Ukraine last week One of Ukraine’s largest ever drone strikes against Russia’s regions, including Moscow, has killed at least four people and wounded a dozen more, the Russian authorities have said. The wave of almost 600 Ukrainian drones struck overnight across 14 Russian regions, as well as the Crimean peninsula and the Black and Azov seas, the Russian defence ministry said on Sunday, with the area around the capital among the worst-hit. Continue reading...",
-            "zh": "莫斯科上周对乌克兰发动为期三天的致命袭击后，近 600 架无人机在 14 个地区发射。俄罗斯当局表示，这是乌克兰有史以来对包括莫斯科在内的俄罗斯地区最大规模的无人机袭击之一，已造成至少 4 人死亡、十几人受伤。俄罗斯国防部周日表示，近 600 架乌克兰无人机一夜之间袭击了俄罗斯 14 个地区以及克里米亚半岛、黑海和亚速海，其中首都周边地区受灾最严重。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-bbc-com-news-articles-c2l2p0wwzzdo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
@@ -294,40 +459,7 @@
           },
           "body": {
             "en": "The World Health Organization (WHO) has declared an Ebola outbreak in the Democratic Republic of Congo a public health emergency of international concern.\n\nThe agency said the outbreak in DR Congo's eastern Ituri province, which has seen around 246 suspected cases and 80 deaths reported, does not meet the criteria of a pandemic emergency.\n\nBut it warned it could potentially be \"a much larger outbreak\" than what is currently being detected and reported, with significant risk of local and regional spread.\n\nThe current strain of Ebola is caused by the Bundibugyo virus, the health agency said, for which there are no approved drugs or vaccines.\n\nEarly symptoms include fever, muscle pain, fatigue, headache and sore throat, and are followed by vomiting, diarrhoea, a rash and bleeding.\n\nThe WHO said there are now eight laboratory-confirmed cases of the virus, with other suspected cases and deaths across three health zones including Bunia the capital of Ituri province, and the gold-mining towns of Mongwalu and Rwampara.\n\nOne case of the virus has been confirmed in the capital Kinshasa, believed to be in a patient returning from Ituri.\n\nThe WHO said that the virus has spread beyond DR Congo, with two confirmed cases reported in neighbouring Uganda. Ugandan officials said a 59-year-old man who died on Thursday had tested positive.\n\nIn a statement, the Ugandan government said the patient who died was a Congolese citizen whose body has already been returned to DR Congo.\n\nA laboratory has also confirmed an Ebola case in the eastern city of Goma, currently controlled by the M23 rebels, the AFP news agency reported on Sunday.\n\nThe WHO said the ongoing security situation and humanitarian crisis in DR Congo, combined with high population mobility, the urban location of the hotspot, and the large number of informal healthcare facilities in the region increased the risk of spread.\n\nCountries bordering the DR Congo are considered high risk due to trade and travel.\n\nRwanda said it would be tightening screening along the country's border with DR Congo as a \"precautionary measure\".\n\nIts health ministry said surveillance systems had been strengthened and health teams were on alert to \"ensure early detection and rapid response if needed\".\n\nThe WHO advised that DR Congo and Uganda establish emergency operation centres to monitor, trace, and implement infection-prevention measures.\n\nTo minimise spread, it said confirmed cases should be immediately isolated and treated until two Bundibugyo virus-specific tests conducted at least 48 hours apart are negative.\n\nFor countries bordering regions with confirmed cases, governments should enhance surveillance and health reporting.\n\nThe WHO added that countries outside the affected region should not close their borders or restrict travel...",
-            "zh": "世界卫生组织（WHO）宣布刚果民主共和国爆发的埃博拉疫情为国际关注的突发公共卫生事件。 该机构表示，刚果民主共和国东部伊图里省的疫情不符合大流行紧急情况的标准，该省已报告约 246 例疑似病例和 80 例死亡。 但它警告说，这可能是比目前发现和报告的“规模大得多的疫情”，局部和区域传播的风险很大。 卫生机构表示，目前的埃博拉病毒株是由本迪布焦病毒引起的，目前还没有批准用于该病毒的药物或疫苗。 早期症状包括发烧、肌肉疼痛、疲劳、头痛和喉咙痛，随后出现呕吐、腹泻、皮疹和出血。 世界卫生组织表示，目前有八例实验室确诊病例，三个卫生区还有其他疑似病例和死亡病例，其中包括伊图里省首府布尼亚以及金矿小镇蒙瓦卢和鲁万帕拉。 首都金沙萨已确诊一例病毒病例，据信是一名从伊图里返回的患者。 世界卫生组织表示，该病毒已蔓延至刚果民主共和国以外地区，邻国乌干达报告了两例确诊病例。乌干达官员表示，周四死亡的一名 59 岁男子的检测结果呈阳性。 乌干达政府在一份声明中表示，死亡患者是一名刚果公民，其遗体已运回刚果民主共和国。 据法新社周日报道，东部城市戈马目前由“3·23”运动叛军控制，一个实验室也证实了埃博拉病例。 世界卫生组织表示，刚果民主共和国持续的安全局势和人道主义危机，加上人口流动性大、热点地区位于城市以及该地区大量非正规医疗设施，增加了传播风险。 由于贸易和旅行，与刚果民主共和国接壤的国家被认为是高风险国家。 卢旺达表示，作为“预防措施”，将加强该国与刚果民主共和国边境的筛查。 其卫生部表示，监测系统已得到加强，卫生团队保持警惕，以“确保及早发现并在需要时迅速做出反应”。 世界卫生组织建议刚果民主共和国和乌干达建立紧急行动中心，以监测、追踪和实施感染预防措施。 为了最大限度地减少传播，确诊病例应立即隔离和治疗，直到至少相隔 48 小时进行的两次本迪布焦病毒特异性检测呈阴性。 对于与确诊病例地区接壤的国家，政府应加强监测和健康报告。 世界卫生组织补充说，受影响地区以外的国家不应关闭边境或限制旅行......"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-may-17-minnesota-national-guard-wildfir",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/17/minnesota-national-guard-wildfires",
-          "image": "https://i.guim.co.uk/img/media/a0df37993fc787fc2239a94671bd8da3e80d5e09/0_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e0611445c4a705164befe05922cb91a",
-          "publishedAt": "2026-05-17T21:10:28.000Z",
-          "title": {
-            "en": "Minnesota deploys national guard to help fight wildfires in northern region",
-            "zh": "明尼苏达州部署国民警卫队帮助扑灭北部地区的野火"
-          },
-          "summary": {
-            "en": "Tim Walz, the state’s governor, calls blazes ‘unpredictable and fast-moving’ as dry, windy weather fuels them Minnesota’s national guard has been activated to help battle wildfires burning in the northern part of the state after the department of natural resources requested...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Tim Walz, the state’s governor, calls blazes ‘unpredictable and fast-moving’ as dry, windy weather fuels them Minnesota ’s national guard has been activated to help battle wildfires burning in the northern part of the state after the department of natural resources requested additional support. Governor Tim Walz authorized the deployment by issuing an executive order that declared a peacetime emergency. Continue reading...",
-            "zh": "该州州长蒂姆·沃尔兹(Tim Walz)称，干燥多风的天气助长了大火，火灾“不可预测且蔓延迅速”。在自然资源部请求额外支持后，明尼苏达州国民警卫队已出动，帮助扑灭该州北部燃烧的野火。州长蒂姆·沃尔兹通过发布一项宣布和平时期紧急状态的行政命令来授权部署。继续阅读..."
+            "zh": "世界卫生组织（WHO）宣布刚果民主共和国爆发的埃博拉疫情为国际关注的突发公共卫生事件。 该机构表示，刚果民主共和国东部伊图里省的疫情不符合大流行紧急情况的标准，该省已报告约 246 例疑似病例和 80 例死亡。 但它警告说，这可能是比目前发现和报告的“规模大得多的疫情”，局部和区域传播的风险很大。 卫生机构表示，目前的埃博拉病毒株是由本迪布焦病毒引起的，目前还没有批准用于该病毒的药物或疫苗。 早期症状包括发烧、肌肉疼痛、疲劳、头痛和喉咙痛，随后出现呕吐、腹泻、皮疹和出血。 世界卫生组织表示，目前有八例实验室确诊病例，三个卫生区还有其他疑似病例和死亡病例，其中包括伊图里省首府布尼亚以及金矿小镇蒙瓦卢和鲁万帕拉。 首都金沙萨已确诊一例病毒病例，据信是一名从伊图里返回的患者。 世界卫生组织表示，该病毒已蔓延至刚果民主共和国以外地区，邻国乌干达报告了两例确诊病例。乌干达官员表示，周四死亡的一名 59 岁男子的检测结果呈阳性。 乌干达政府在一份声明中表示，死亡患者是一名刚果公民，其遗体已运回刚果民主共和国。 据法新社周日报道，东部城市戈马目前由“3·23”运动叛军控制，一个实验室也证实了埃博拉病例。 世界卫生组织表示，刚果民主共和国持续的安全局势和人道主义危机，加上人口流动性大、热点地区位于城市以及该地区大量非正规医疗设施，增加了传播风险。 由于贸易和旅行，与刚果民主共和国接壤的国家被认为是高风险国家。 卢旺达表示，作为“预防措施”，它将加强该国与刚果民主共和国边境的筛查。 其卫生部表示，监测系统已得到加强，卫生团队保持警惕，以“确保及早发现并在需要时迅速做出反应”。 世界卫生组织建议刚果民主共和国和乌干达建立紧急行动中心，以监测、追踪和实施感染预防措施。 为了最大限度地减少传播，确诊病例应立即隔离和治疗，直到至少相隔 48 小时进行的两次本迪布焦病毒特异性检测呈阴性。 对于与确诊病例地区接壤的国家，政府应加强监测和健康报告。 世界卫生组织补充说，受影响地区以外的国家不应关闭边境或限制旅行......"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -372,105 +504,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-may-17-air-force-base-idaho-incident",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/17/air-force-base-idaho-incident",
-          "image": "https://i.guim.co.uk/img/media/923249bd8dac6dc8243090b82ff70ea345d98ace/45_0_833_666/master/833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0890240554974a791b1d0cd9c5b67310",
-          "publishedAt": "2026-05-17T20:45:54.000Z",
-          "title": {
-            "en": "Air force base in Idaho locked down after air show incident, officials say",
-            "zh": "官员称，爱达荷州空军基地在航展事件后被封锁"
-          },
-          "summary": {
-            "en": "Four crew members are safe after incident involving aircraft during weekend air show at military base in western Idaho Four crew members are safe after two navy jets collided and crashed to the ground on Sunday at an air show at Mountain Home air force base in western Idaho,...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Four crew members are safe after incident involving aircraft during weekend air show at military base in western Idaho Four crew members are safe after two navy jets collided and crashed to the ground on Sunday at an air show at Mountain Home air force base in western Idaho , officials said. The collision involved two US navy EA-18G Growlers from the Electronic Attack Squadron 129 in Whidbey Island, Washington , said Cmdr Amelia Umayam, a spokesperson for Naval Air Forces, US Pacific Fleet. Continue reading...",
-            "zh": "官员称，周日在爱达荷州西部的芒廷霍姆空军基地举行的航展上，两架海军飞机相撞并坠毁，四名机组人员目前安全。美国太平洋舰队海军航空兵发言人阿米莉亚·乌马亚姆中校表示，此次碰撞事故涉及华盛顿州惠德比岛第 129 电子攻击中队的两架美国海军 EA-18G 咆哮者飞机。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-videos-c2k2p8qkk58o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/videos/c2k2p8qkk58o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2f0c/live/6c3abf20-521b-11f1-b682-cf91850925ea.jpg",
-          "publishedAt": "2026-05-17T18:10:32.000Z",
-          "title": {
-            "en": "Eurovision winner Dara arrives to screaming fans in Bulgaria",
-            "zh": "欧洲歌唱大赛冠军达拉抵达保加利亚，迎接尖叫的粉丝"
-          },
-          "summary": {
-            "en": "The 27-year-old's tune Bangaranga won Bulgaria its first ever title in the song contest.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Bulgarian pop star Dara was met by a crowd of fans in Sofia airport on Sunday, celebrating her historic Eurovision win.\n\nThe 27-year-old's tune Bangaranga won Bulgaria its first ever title in the song contest.\n\n\"Thank you for being here,\" she told fans as she arrived in the Bulgarian capital, Sofia, before adding \"I cannot wait to dip my toes in this atmosphere\".\n\nRussia launched one of the biggest air strikes on Kyiv since the start of the war with several apartment blocks hit.\n\nThe Princess of Wales received an enthusiastic welcome from Italian crowds, on her return to overseas visits following her treatment for cancer.\n\nThe BBC's Russia editor reports from Moscow, where the annual Victory Day display was quieter than usual.\n\nThe BBC's Guy Hedgecoe reports from Tenerife, where some locals fear the ship's arrival could bring health risks.\n\nPeople on Tenerife in the Canary Islands have told the BBC they are concerned about the arrival of MV Hondius.\n\nThe Ukrainian army spotted the woman using a drone and sent the machine to her rescue as she was trying to leave her war-torn village.\n\nOne of the charity draw organisers tells BBC Radio 4's Front Row about calling the painting's new owner.\n\nRajini Vaidyanathan broadcasts from outside Hungary's parliament as crowds hear about the prime minister's concession.\n\nThe BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orbán's home town of Felscút.\n\nThe mother of a 16 year old girl who was killed by a scrambler has said life has been a \"living nightmare\" since.\n\nA commercial flight from Dubai arrived in Dublin on Wednesday night - the first in a number of days after the United States-Israeli attacks on Iran.\n\nThe men, who are on the run, told of the horrors they witnessed on the Russian side of the front lines in Ukraine.\n\nA town in northern Italy has started celebrating carnival with its annual Battle of the Oranges where people hurl the fruit at each other for fun.\n\nMs Pelicot reveals it is \"inconceivable\" that the man she shared her life with \"could have committed these horrors\".\n\nStorms Marta and Leonardo have caused widespread flooding in Spain as thousands have been displaced.\n\nNazar Daletskyi's relatives were told he had been killed in 2022, the first year of Russia’s full-scale invasion.\n\nRussia editor Steve Rosenberg reports from the outskirts of the Russian capital, where Lt Gen Vladimir Alexeyev was shot and wounded.\n\nItaly's capital city has introduced a €2 fee to access the viewing area of its iconic fountain, which had previously been free to visit.\n\nResidents in the Ukrainian capital are finding joy in unusual places, despite power cuts caused by Russian attacks and freezing winter temperatures.",
-            "zh": "周日，保加利亚流行歌星达拉在索非亚机场受到了一群歌迷的欢迎，庆祝她历史性的欧洲歌唱大赛冠军。 这位 27 岁的歌手的歌曲《Bangaranga》为保加利亚赢得了歌曲比赛中的第一个冠军。 “谢谢你们来到这里，”她抵达保加利亚首都索非亚时对粉丝们说，然后又补充道，“我迫不及待地想沉浸在这种氛围中”。 俄罗斯对基辅发动了自战争开始以来最大规模的空袭之一，数栋公寓楼遭到袭击。 威尔士王妃在癌症治疗后返回海外访问时受到了意大利民众的热烈欢迎。 BBC 俄罗斯编辑从莫斯科报道，那里一年一度的胜利日展览比平时安静。 英国广播公司 (BBC) 的盖伊·赫奇科 (Guy Hedgecoe) 从特内里费岛报道，当地一些当地人担心这艘船的抵达可能会带来健康风险。 加那利群岛特内里费岛的人们告诉 BBC，他们对 MV Hondius 的到来感到担忧。 乌克兰军队发现了这名使用无人机的妇女，并在她试图离开饱受战争蹂躏的村庄时派出无人机来营救她。 一位慈善抽奖组织者告诉 BBC 广播四台的 Front Row，他给这幅画的新主人打电话。 当人群听到总理的让步时，拉吉尼·瓦伊迪亚纳坦 (Rajini Vaidyanathan) 在匈牙利议会外进行广播。 BBC 欧洲编辑卡蒂亚·阿德勒 (Katya Adler) 从总理维克多·欧尔班 (Victor Orbán) 的家乡费尔斯库特 (Felscút) 进行报道。 一名被扰频器杀死的 16 岁女孩的母亲表示，从那以后她的生活就变成了“活生生的噩梦”。 周三晚上，一架从迪拜出发的商业航班抵达都柏林，这是美国和以色列袭击伊朗后几天来的第一架航班。 这些正在逃亡的男子讲述了他们在乌克兰前线俄罗斯一侧亲眼目睹的恐怖事件。 意大利北部的一个小镇开始庆祝狂欢节，举办一年一度的橙子大战，人们互相投掷水果取乐。 佩利科特女士透露，与她共同生活的男人“可能犯下了这些恐怖行为”，这“令人难以置信”。 风暴玛塔和莱昂纳多在西班牙造成大范围洪水，导致数千人流离失所。 纳扎尔·达列茨基 (Nazar Daletskyi) 的亲属被告知，他于 2022 年被杀，即俄罗斯全面入侵的第一年。 俄罗斯编辑史蒂夫·罗森伯格从俄罗斯首都郊区报道，弗拉基米尔·阿列克谢耶夫中将在那里遭到枪击受伤。 意大利首都现在开始收取 2 欧元的费用才能进入其标志性喷泉的观景区，而此前该喷泉是免费参观的。 尽管俄罗斯袭击导致停电和冬季严寒，但乌克兰首都的居民却在不寻常的地方找到了欢乐。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c9q311nj5r3o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0fab/live/4cc2b0d0-51ee-11f1-86f6-35d8fdccc492.jpg",
-          "publishedAt": "2026-05-17T18:06:31.000Z",
-          "title": {
-            "en": "How worrying is the Ebola outbreak in DR Congo?",
-            "zh": "刚果民主共和国的埃博拉疫情有多令人担忧？"
-          },
-          "summary": {
-            "en": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "It has been spreading for weeks undetected in a part of the world where civil war makes getting on top of the virus difficult, and the species of Ebola involved is rare, so there are fewer tools to stop a virus that kills around a third of people infected.\n\nThis is a critical moment in an outbreak where there is uncertainty about how far it has spread, but there are already almost 250 suspected cases and 80 deaths.\n\nMost Ebola outbreaks tend to be small, but specialists are haunted by the 2014-16 outbreak. Then, 28,600 people in West Africa were infected in the largest ever outbreak of the disease.\n\nThe declaration of a public health emergency of international concern by the World Health Organization (WHO) does not mean we are in the early stages of a Covid-style pandemic.\n\nThe risk Ebola poses to the whole world remains tiny. Even in the 2014-16 outbreak, there were only three cases in the UK and all were healthcare workers who had volunteered to help.\n\n\"But it does reflect that the situation is complex enough to require international coordination,\" says Dr Amanda Rojek, from the Pandemic Sciences Institute at the University of Oxford.\n\nAfter all, there is still a significant threat to neighbouring countries like Uganda, South Sudan and Rwanda, considered high risk because of close trade and travel links.\n\nTwo people have already been confirmed to have the virus in Uganda, of whom one has died.\n\nEbola is a severe and deadly disease, although it is thankfully rare. Ebola viruses naturally infect animals – mainly fruit bats – but people can become infected if they come into close contact.\n\nThis outbreak is being caused by the Bundibugyo species of Ebola – it is one of three species known to cause outbreaks but is relatively unfamiliar.\n\nBundibugyo has caused only two outbreaks before – in 2007 and 2012 – where it killed around 30% of people infected .\n\nBundibugyo poses a series of challenges. There are no approved vaccines or drug treatments for Bundibugyo, although there are some experimental ones, unlike other species of Ebola virus.\n\nAnd tests to determine whether somebody has the infection do not appear to work well. Initial results in the outbreak were negative for Ebola virus, and more sophisticated laboratory tools were required to confirm Bundibugyo was involved.\n\nDealing with Bundibugyo is \"one of the most significant concerns\" in this outbreak, says Prof Trudie Lang from the University of Oxford.\n\nSymptoms are thought to appear between two and 21 days after somebody is infected.\n\nInitially they are like developing the flu - fever, headache and tiredness. But as Ebola progresses, it leads to vomiting, diarrhoea, and the body's organs not working. Some patients develop internal and external bleeding.\n\nWith no approved drugs designed to target...",
-            "zh": "它已经在世界上一些地区传播了数周而未被发现，那里的内战使得控制病毒变得困难，而且涉及的埃博拉病毒种类也很罕见，因此阻止这种导致约三分之一感染者死亡的病毒的工具较少。 这是疫情爆发的关键时刻，疫情蔓延程度尚不确定，但目前已有近 250 例疑似病例和 80 例死亡。 大多数埃博拉疫情的规模往往较小，但 2014-16 年的疫情却让专家们心神不宁。随后，西非有 28,600 人被感染，这是有史以来最大规模的一次疾病爆发。 世界卫生组织（WHO）宣布国际关注的突发公共卫生事件并不意味着我们正处于新冠病毒大流行的早期阶段。 埃博拉病毒对全世界构成的风险仍然很小。即使在2014-16年的疫情爆发中，英国也只有三例病例，而且都是自愿提供帮助的医护人员。 牛津大学流行病科学研究所的阿曼达·罗杰克博士说：“但这确实反映出情况非常复杂，需要国际协调。” 毕竟，乌干达、南苏丹和卢旺达等邻国仍然面临重大威胁，这些国家因密切的贸易和旅行联系而被视为高风险。 乌干达已确认有两人感染该病毒，其中一人死亡。 埃博拉病毒是一种严重且致命的疾病，但幸运的是这种疾病很少见。埃博拉病毒自然会感染动物（主要是果蝠），但如果人与人密切接触，也可能被感染。 这次疫情是由埃博拉病毒本迪布焦物种引起的——它是已知会导致疫情爆发的三种物种之一，但相对来说比较陌生。 本迪布焦此前仅在 2007 年和 2012 年爆发过两次疫情，导致约 30% 的感染者死亡。 本迪布焦提出了一系列挑战。尽管有一些实验疫苗或药物治疗本迪布焦，但与其他埃博拉病毒不同，目前还没有批准的疫苗或药物治疗。 确定某人是否感染的测试似乎效果不佳。疫情爆发的初步结果对埃博拉病毒呈阴性，需要更先进的实验室工具来确认本迪布焦是否参与其中。 牛津大学教授特鲁迪·朗 (Trudie Lang) 表示，处理本迪布焦问题是此次疫情中“最重要的问题之一”。 据认为，症状会在感染后 2 至 21 天之间出现。 最初，他们就像得了流感一样——发烧、头痛和疲倦。但随着埃博拉病毒的进展，它会导致呕吐、腹泻和身体器官无法工作。有些患者出现内出血和外出血。 由于没有批准的药物旨在针对..."
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
           },
           "translationState": "fallback"
         },
@@ -642,39 +675,6 @@
           },
           "aiVerseId": "ps_75_7",
           "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-eurovision-2026-who-is-dara-u7rtr07i7",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/eurovision-2026-who-is-dara/u7rtr07i7",
-          "image": "https://assets.sbs.com.au/dims4/default/7cb5392/2147483647/strip/false/crop/2351x1080+0+243/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F47%2F90%2F30cb58124a9da19b78913e040c88%2F20260517137450788000-original.jpg",
-          "publishedAt": "2026-05-17T01:26:32.000Z",
-          "title": {
-            "en": "Who is DARA, the Bulgarian singer who won Eurovision 2026?",
-            "zh": "荣获 2026 年欧洲歌唱大赛冠军的保加利亚歌手 DARA 是谁？"
-          },
-          "summary": {
-            "en": "DARA's song Bangaranga swept voting at the famed song competition, beating out Israel, Romania and Australia.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Already a household name in her native Bulgaria, pop singer DARA secured her place on the international stage by winning Eurovision with her infectious song Bangaranga, which aims to show \"everything is possible\".\n\nThe 27-year-old upset the odds to secure her country's first-ever victory at the Eurovision Song Contest, proving herself a winner once the votes came in from around the continent.\n\nShe gained traction during Eurovision week with her intense and ultra-choreographed dancing on the catchy Bangaranga.\n\n\"I don't expect anything. And when presents come for me, I just hug them. And yeah, I'm really grateful,\" she told Bulgarian national TV after Thursday's semi-final.\n\n\"I love being on stage and I love what I felt during the performance ... I'm so grateful for that, for the support that I get,\" she said.\n\nSinging in English, her song's title is a Jamaican Patois slang term that means \"riot\".\n\n\"Bangaranga, it's a feeling that everybody got in themselves. It's the moment that you choose to lead through love and not fear and this is a special energy,\" she said.\n\n\"Once you feel at one with the nature and the universe you will feel the harmony that you can be whatever you want to be and everything is possible.\"\n\nDarina Yotova was born in the Black Sea port city of Varna, where she graduated from the National School of Arts.\n\nShe began singing traditional Bulgarian folklore music at the age of seven before later shifting her focus toward contemporary pop.\n\nShe became known to the general public thanks to her participation in X Factor Bulgaria in 2015.\n\nHer debut single, K'vo ne chu (What Didn't You Hear) released in 2016 catapulted her to the top of the music charts.\n\nHer career has since been marked by numerous awards, sold-out concerts and a massive fan base, with her songs and videos amassing millions of views.\n\nThree years later, she became the youngest-ever coach on The Voice of Bulgaria, and in 2024, she took part in Dancing Stars.\n\nLast year, DARA was selected to open for Robbie Williams at his concert in Sofia.\n\nAsked ahead of the final what it meant to represent Bulgaria, DARA said \"it means a lot because we as Bulgarians should have a bigger platform for all of our artists, songwriters, everybody in the creative community. And Eurovision is just a platform for this\".\n\nBulgaria returned to Eurovision this year after missing the contest since 2022 due to financial reasons. It first joined in 2005.\n\n\"This syndrome and all these things I'm trying to fight against are part of me,\" DARA told Bulgarian television station bTV in September.\n\nVideos on social media \"rarely hold people's attention for more than six seconds,\" said the singer, adding that she has to keep up with this fast pace to stay in touch with her fans.\n\nDARA's success has given...",
-            "zh": "流行歌手 DARA 在她的祖国保加利亚已经是家喻户晓的名字，她凭借富有感染力的歌曲《Bangaranga》赢得了欧洲歌唱大赛，从而确保了自己在国际舞台上的地位，这首歌旨在展示“一切皆有可能”。 这位 27 岁的歌手打破了困境，为她的国家赢得了欧洲歌唱大赛的首场胜利，在欧洲大陆各地的投票结果出来后，她证明了自己是获胜者。 在欧洲歌唱大赛周期间，她凭借朗朗上口的班加兰加舞曲中激烈而精心编排的舞蹈而受到关注。 “我不期待任何事情。当礼物送给我时，我只是拥抱它们。是的，我真的很感激，”她在周四的半决赛后告诉保加利亚国家电视台。 “我喜欢在舞台上，也喜欢表演时的感受……我对此非常感激，感谢我得到的支持，”她说。 她用英语演唱，歌名是牙买加方言俚语，意思是“暴乱”。 “班加兰加，这是每个人内心都有的感觉。这是你选择通过爱而不是恐惧来引导的那一刻，这是一种特殊的能量，”她说。 “一旦你感受到与自然和宇宙合一，你就会感受到和谐，你可以成为任何你想成为的人，一切皆有可能。” 达琳娜·约托娃出生于黑海港口城市瓦尔纳，毕业于国立艺术学院。 她七岁时开始演唱传统的保加利亚民间音乐，后来将注意力转向当代流行音乐。 她因参加2015年X Factor保加利亚而被公众所熟知。 她于 2016 年发行的首张单曲 K'vo ne chu（What Did You Hear）使她登上了音乐排行榜的榜首。 从那以后，她的职业生涯获得了无数奖项、门票全部售罄的音乐会和庞大的粉丝群，她的歌曲和视频积累了数百万次观看次数。 三年后，她成为《保加利亚之声》有史以来最年轻的教练，并于 2024 年参加了《舞动之星》。 去年，DARA 被选中为罗比·威廉姆斯在索非亚举行的音乐会开场。 在决赛前被问及代表保加利亚意味着什么时，DARA 表示“这意义重大，因为我们作为保加利亚人应该为我们所有的艺术家、歌曲作者和创意界的每个人提供一个更大的平台。而欧洲歌唱大赛只是一个平台”。 保加利亚自2022年因财政原因缺席比赛后，今年重返欧洲电视网。它于 2005 年首次加入。 “这种综合症和我试图对抗的所有这些事情都是我的一部分，”DARA 九月告诉保加利亚电视台 bTV。 这位歌手说，社交媒体上的视频“很少能吸引人们的注意力超过六秒钟”，并补充说她必须跟上这种快节奏才能与粉丝保持联系。 DARA 的成功给..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-dw-com-en-germany-gets-ahead-in-the-new-space-race-a-77177359-maca-e",
@@ -1091,18 +1091,51 @@
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
           "image": "https://i.guim.co.uk/img/media/a562c788893539d057f75675f149ec3edc0f061e/295_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d5c50e914f1d9161f2b70f33878b4aca",
-          "publishedAt": "2026-05-17T22:23:33.000Z",
+          "publishedAt": "2026-05-17T23:27:52.000Z",
           "title": {
             "en": "News live: Australian health officials to work on ebola outbreak response, minister says; NSW police arrest 993 in domestic violence sweep",
             "zh": "新闻直播：部长表示，澳大利亚卫生官员将致力于埃博拉疫情应对工作；新南威尔士州警方在家庭暴力扫荡中逮捕了993人"
           },
           "summary": {
-            "en": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news live Get our breaking news email, free app or daily news podcast Sacked pianist’s case against orchestra heads to court The opening strains of a...",
+            "en": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news live Get our breaking news email, free app or daily news podcast Federal government announces $2bn effort to build 50,000 new homes in Queensland The...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news live Get our breaking news email , free app or daily news podcast Sacked pianist’s case against orchestra heads to court The opening strains of a concert pianist’s discrimination case against the Melbourne Symphony Orchestra are about to be heard in the Federal Court, AAP reports. Continue reading...",
-            "zh": "世界卫生组织宣布非洲疫情为“国际关注的突发公共卫生事件”。关注今日新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 被解雇的钢琴家针对乐团的案件将进入法庭 据 AAP 报道，一位音乐会钢琴家针对墨尔本交响乐团的歧视案件即将在联邦法院审理。继续阅读..."
+            "en": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news live Get our breaking news email , free app or daily news podcast Federal government announces $2bn effort to build 50,000 new homes in Queensland The federal government just announced a major housing investment in Queensland, a deal between the Albanese government and the state government to build 50,000 homes for Queenslanders. This is a budget which makes hard decisions to get more Australians into homes. It is a budget for workers, a budget for first home buyers and a budget for future generations who would otherwise be locked out of the housing market. Domestic and family violence is a stain on our society. These offenders rely on fear and control, and [Operation] Amarok is about turning that pressure back onto them. If you use violence, intimidation or coercive control, police will come for you. Continue reading...",
+            "zh": "世界卫生组织宣布非洲疫情为“国际关注的突发公共卫生事件”。关注今日新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 联邦政府宣布斥资 20 亿美元在昆士兰州建造 50,000 套新住房 联邦政府刚刚宣布在昆士兰州进行一项重大住房投资，这是阿尔巴尼亚政府与州政府之间达成的一项协议，将为昆士兰人建造 50,000 套住房。这份预算做出了艰难的决定，让更多的澳大利亚人住进了家。这是针对工人的预算，针对首次购房者的预算，也是针对否则将被排除在房地产市场之外的子孙后代的预算。家庭暴力是我们社会的污点。这些罪犯依赖恐惧和控制，而[阿玛洛克行动]就是要把这种压力转回到他们身上。如果您使用暴力、恐吓或强制控制，警察就会来抓捕您。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-audio-2026-may-18-coles-caught-red-ha",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/audio/2026/may/18/coles-caught-red-handed-so-what-next-full-story-podcast",
+          "image": "https://i.guim.co.uk/img/media/63ecf71c8f2aa656f3b7d960206f6e6177beca0e/313_0_1875_1500/master/1875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c07000ad28bfee2e1c443d66d911460d",
+          "publishedAt": "2026-05-17T23:19:52.000Z",
+          "title": {
+            "en": "Coles caught red handed, so what next? – podcast",
+            "zh": "Coles被抓了，接下来怎么办？ - 播客"
+          },
+          "summary": {
+            "en": "Australian retailers are on notice after the federal court handed down a landmark judgment against the nation’s second-largest supermarket chain. Coles was found to have misled shoppers by promoting discounts that were not real after the Australian consumer watchdog launched...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Australian retailers are on notice after the federal court handed down a landmark judgment against the nation’s second-largest supermarket chain. Coles was found to have misled shoppers by promoting discounts that were not real after the Australian consumer watchdog launched legal action in 2024. Business editor Jonathan Barrett tells Nour Haydar why the court found Coles misled consumers, what the ruling means for the retailer’s reputation and whether it will mean cheaper prices at the checkout Read more: Continue reading...",
+            "zh": "在联邦法院对澳大利亚第二大连锁超市做出具有里程碑意义的判决后，澳大利亚零售商引起了注意。澳大利亚消费者监管机构于 2024 年发起法律诉讼后，Coles 被发现通过宣传不真实的折扣误导了购物者。商业编辑 Jonathan Barrett 告诉 Nour Haydar 法院为何认定 Coles 误导消费者，该裁决对零售商的声誉意味着什么，以及这是否意味着结账时的价格更便宜阅读更多：继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -1135,7 +1168,7 @@
           },
           "body": {
             "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Afternoon Update newsletter Good morning. Health experts say big tobacco companies are scaremongering around illicit tobacco in order to erode Australia’s health policies – and secure big cuts to taxes on their products. We reveal new analysis of supermarket pricing, showing the prices of some products were switched on and off promotion at Coles and Woolworths largely in sync over the past two years. Plus we look at the problem of underquoting as hopeful homebuyers waste time, money, and emotions looking at properties they can’t afford. Chain reaction | Analysis has revealed how in some cases the switch from promotional to full price happens almost simultaneously in Australia’s two biggest supermarkets, Coles and Woolworths. Tobacco warning | Big tobacco is exploiting fears of the illicit market to unwind longstanding health policies, experts warn, after an MPs’ inquiry took secret evidence from Philip Morris. Underquoting rife | As Australian states attempt to tackle underquoting, new data has revealed that fewer than 4% of real estate agents are listing homes within 3% of the final sale price . ‘Deeply regrettable’ | Farmers, environmentalists and communities have expressed shock and dismay over laws that will open up South Australia’s Limestone Coast for fracking and unconventional gas development. Analysis | The government has announced $3.2bn to store a billion more litres of diesel and jet fuel. But could powering trucks with electricity be a smarter way to reduce Australia’s risk of fuel shocks ? Continue reading...",
-            "zh": "想每个工作日将其发送到您的收件箱吗？在这里注册《早间邮报》，并通过我们的下午更新时事通讯早上好结束您的一天。健康专家表示，大型烟草公司围绕非法烟草散布危言耸听，目的是削弱澳大利亚的健康政策，并确保大幅削减其产品的税收。我们公布了对超市定价的新分析，显示过去两年 Coles 和 Woolworths 的某些产品的促销和促销价格基本同步。此外，我们还研究了报价过低的问题，因为满怀希望的购房者浪费时间、金钱和情感来寻找他们买不起的房产。连锁反应|分析显示，在某些情况下，澳大利亚最大的两家超市 Coles 和 Woolworths 几乎同时从促销转向全价。烟草警告|在国会议员的调查获取了菲利普莫里斯公司的秘密证据后，专家警告说，大型烟草公司正在利用对非法市场的恐惧来放松长期的健康政策。低报价盛行 |随着澳大利亚各州试图解决报价过低问题，新数据显示，只有不到 4% 的房地产经纪人将房屋挂牌价格与最终售价相差 3% 以内。 “深感遗憾”|农民、环保人士和社区对将开放南澳大利亚石灰岩海岸进行水力压裂和非常规天然气开发的法律表示震惊和沮丧。分析|政府已宣布拨款 32 亿美元，用于再储存 10 亿升柴油和航空燃油。但用电力为卡车提供动力是否是降低澳大利亚燃油冲击风险的更明智方法呢？继续阅读..."
+            "zh": "想每个工作日将其发送到您的收件箱吗？在这里注册《早间邮报》，并通过我们的下午更新时事通讯早上好结束您的一天。健康专家表示，大型烟草公司围绕非法烟草散布危言耸听，目的是削弱澳大利亚的健康政策，并确保大幅削减其产品的税收。我们公布了对超市定价的新分析，显示过去两年 Coles 和 Woolworths 的某些产品的促销和促销价格基本同步。此外，我们还研究了报价过低的问题，因为满怀希望的购房者浪费时间、金钱和情感来寻找他们买不起的房产。连锁反应 |分析显示，在某些情况下，澳大利亚最大的两家超市 Coles 和 Woolworths 几乎同时从促销转向全价。烟草警告|在国会议员的调查获取了菲利普莫里斯公司的秘密证据后，专家警告说，大型烟草公司正在利用对非法市场的恐惧来放松长期的健康政策。低报价盛行 |随着澳大利亚各州试图解决报价过低问题，新数据显示，只有不到 4% 的房地产经纪人将房屋挂牌价格与最终售价相差 3% 以内。 “深感遗憾”|农民、环保主义者和社区对将开放南澳大利亚石灰岩海岸进行水力压裂和非常规天然气开发的法律表示震惊和沮丧。分析|政府已宣布拨款 32 亿美元，用于再储存 10 亿升柴油和航空燃油。但用电力为卡车提供动力是否是降低澳大利亚燃油冲击风险的更明智方法呢？继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
@@ -1226,7 +1259,7 @@
           "publishedAt": "2026-05-17T19:33:43.000Z",
           "title": {
             "en": "Migrant Ronil thinks Pauline Hanson is 'fantastic', Neha disagrees. Exploring the One Nation divide",
-            "zh": "移民罗尼尔认为波琳·汉森“棒极了”，内哈不同意。探索一国分歧"
+            "zh": "移民罗尼尔认为宝琳·汉森“棒极了”，内哈不同意。探索一国分歧"
           },
           "summary": {
             "en": "Australians from across the political spectrum give their views on One Nation following the party's recent by-election victory.",
@@ -1246,39 +1279,6 @@
             "textZh": "无智谋，民就败落；谋士多，人便安居。",
             "themeEn": "Wise counsel",
             "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-may-18-big-tobacco-is-exploiting",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/18/big-tobacco-is-exploiting-fears-of-the-illicit-market-to-unwind-health-gains-australian-experts-warn",
-          "image": "https://i.guim.co.uk/img/media/a69ac5a7306840be447df19fc0784d02588b8244/48_0_4280_3425/master/4280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5858463c260c5f136e5dfe0408b884ac",
-          "publishedAt": "2026-05-17T15:00:44.000Z",
-          "title": {
-            "en": "Big tobacco is exploiting fears of the illicit market to unwind health gains, Australian experts warn",
-            "zh": "澳大利亚专家警告称，大型烟草公司正在利用对非法市场的担忧来消除健康收益"
-          },
-          "summary": {
-            "en": "Cigarettes kill 66 Australians every day, health groups say, criticising MPs who heard evidence from Philip Morris in secret Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Big tobacco is exploiting fears of the...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Cigarettes kill 66 Australians every day, health groups say, criticising MPs who heard evidence from Philip Morris in secret Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Big tobacco is exploiting fears of the illicit market to unwind longstanding health policies, leading health campaigners have warned, amid a parliamentary inquiry which took secret evidence from the cigarette manufacturer Philip Morris. A coalition of 15 health organisations including the Cancer Council and the Heart Foundation, as well as health experts and researchers, have accused the industry of trying to reshape public debate to push for major cuts to government excise. Continue reading...",
-            "zh": "健康组织称，香烟每天导致 66 名澳大利亚人死亡，并批评那些秘密听取菲利普莫里斯公司证据的国会议员。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 领先的健康活动人士警告说，在议会调查期间，大型烟草公司正在利用对非法市场的恐惧来放松长期的健康政策，该调查从香烟制造商菲利普莫里斯公司获取了秘密证据。由包括癌症委员会和心脏基金会在内的 15 个健康组织以及健康专家和研究人员组成的联盟指责该行业试图重塑公众辩论，以推动大幅削减政府消费税。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
           },
           "translationState": "fallback"
         },
@@ -1316,35 +1316,35 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-may-18-richard-denis-meagher-nsw",
+          "id": "www-theguardian-com-australia-news-2026-may-18-big-tobacco-is-exploiting",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/18/richard-denis-meagher-nsw-solicitor-politician-the-stained-man-book",
-          "image": "https://i.guim.co.uk/img/media/0a547b0131a94885a870b8555fd777d7b894feb3/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cc16c0d2cc15d1db3af446d1e0e7182",
-          "publishedAt": "2026-05-17T15:00:43.000Z",
+          "link": "https://www.theguardian.com/australia-news/2026/may/18/big-tobacco-is-exploiting-fears-of-the-illicit-market-to-unwind-health-gains-australian-experts-warn",
+          "image": "https://i.guim.co.uk/img/media/a69ac5a7306840be447df19fc0784d02588b8244/48_0_4280_3425/master/4280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5858463c260c5f136e5dfe0408b884ac",
+          "publishedAt": "2026-05-17T15:00:44.000Z",
           "title": {
-            "en": "Sway a crowd, wear a martyr’s crown: how one NSW politician went from scandal to political success – and wrote a playbook still used today",
-            "zh": "影响人群，戴上烈士王冠：一位新南威尔士州政客如何从丑闻走向政治成功，并写下了至今仍在使用的剧本"
+            "en": "Big tobacco is exploiting fears of the illicit market to unwind health gains, experts warn",
+            "zh": "专家警告说，大型烟草公司正在利用对非法市场的恐惧来减少健康收益"
           },
           "summary": {
-            "en": "At the turn of last century, an ambitious young solicitor caused a scandal in a high-profile murder case. Years later he was a political leader in a new nation. How did he do it? In June 1896, a tall, well-dressed man arrived at the supreme court of New South Wales in Sydney....",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及在压力下的忠信与属灵勇气。如需完整细节，请阅读英文原始报道。"
+            "en": "Cigarettes kill 66 Australians every day, health groups say, criticising MPs who heard evidence from Philip Morris in secret Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Big tobacco is exploiting fears of the...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "At the turn of last century, an ambitious young solicitor caused a scandal in a high-profile murder case. Years later he was a political leader in a new nation. How did he do it? In June 1896, a tall, well-dressed man arrived at the supreme court of New South Wales in Sydney. Flanked by his barristers, Richard Meagher was coming to play his part in the final scenes of a criminal and political scandal that had transfixed the Australian colonies for the past year – the Dean case. The outcome of this hearing was all but pre-determined. Meagher was about to be exiled from the profession he had spent years toiling to enter, that had given him fame and wealth – a profession that he had lately brought into disgrace. Continue reading...",
-            "zh": "上世纪之交，一位雄心勃勃的年轻律师在一桩备受瞩目的谋杀案中引发了丑闻。多年后，他成为一个新国家的政治领袖。他是怎么做到的？ 1896年6月，一位身材高大、衣着考究的男子来到位于悉尼的新南威尔士州最高法院。在律师的陪伴下，理查德·米格即将在过去一年震惊澳大利亚殖民地的刑事和政治丑闻——迪恩案——的最后一幕中扮演自己的角色。这次听证会的结果几乎是预先确定的。梅格尔即将被驱逐出他多年来辛辛苦苦进入的职业，这个职业给他带来了名声和财富——但他最近却让这个职业蒙羞。继续阅读..."
+            "en": "Cigarettes kill 66 Australians every day, health groups say, criticising MPs who heard evidence from Philip Morris in secret Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Big tobacco is exploiting fears of the illicit market to unwind longstanding health policies, leading health campaigners have warned, amid a parliamentary inquiry which took secret evidence from the cigarette manufacturer Philip Morris. A coalition of 15 health organisations including the Cancer Council and the Heart Foundation, as well as health experts and researchers, have accused the industry of trying to reshape public debate to push for major cuts to government excise. Continue reading...",
+            "zh": "健康组织称，香烟每天导致 66 名澳大利亚人死亡，批评议员们秘密听取了菲利普莫里斯公司的证据。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 领先的健康活动人士警告说，在议会调查期间，大型烟草公司正在利用对非法市场的恐惧来放松长期的健康政策，该调查从香烟制造商菲利普莫里斯公司获取了秘密证据。由包括癌症委员会和心脏基金会在内的 15 个健康组织以及健康专家和研究人员组成的联盟指责该行业试图重塑公众辩论，以推动大幅削减政府消费税。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to faithfulness under pressure and spiritual courage. Hebrews 10:23 reminds us to meet sharp headlines with steadfast faith and prayerful witness, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到在压力下的忠信与属灵勇气。Hebrews 10:23提醒我们，在快速变化的新闻里，仍要以坚定的信心与祷告见证来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Matthew 5:10",
-            "textEn": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
-            "textZh": "为义受逼迫的人有福了，因为天国是他们的。",
-            "themeEn": "Blessed persecution",
-            "themeZh": "为义受迫"
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
           },
           "translationState": "fallback"
         },
