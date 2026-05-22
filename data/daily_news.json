@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T10:15:52.457Z",
+  "generatedAt": "2026-05-22T13:22:45.793Z",
   "editionDate": "2026-05-22",
   "sources": [
     {
@@ -112,15 +112,116 @@
       ],
       "items": [
         {
+          "id": "www-theguardian-com-uk-news-2026-may-22-jury-discharged-ian-watkins-murd",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/may/22/jury-discharged-ian-watkins-murder-trial-lostprophets-singer",
+          "image": "https://i.guim.co.uk/img/media/d3d7ca9f045c5dda909a0ee60dc265d7547cba8a/97_655_2043_1633/master/2043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8786b744434e8f1f1353d6a5ee3a68e",
+          "publishedAt": "2026-05-22T13:12:47.000Z",
+          "title": {
+            "en": "Jury discharged at trial of men accused of murdering child abuser Ian Watkins",
+            "zh": "审理被控谋杀虐童者伊恩·沃特金斯案的陪审团被解散"
+          },
+          "summary": {
+            "en": "A jury in the trial of two prisoners accused of murdering disgraced former Lostprophets singer Ian Watkins has been discharged for legal reasons, meaning a retrial will be necessary. The judge expressed disappointment at the need for a new trial.",
+            "zh": "审理两名囚犯被控谋杀声名狼藉的前“失落先知”乐队主唱伊恩·沃特金斯一案的陪审团因法律原因被解散，这意味着需要重新审判。法官对需要重审表示失望。"
+          },
+          "body": {
+            "en": "Judge says it is ‘disappointing’ there will have to be retrial of prisoners accused over Lostprophets singer’s death The jury in the trial of two prisoners accused of murdering the disgraced former Lostprophets singer Ian Watkins has been discharged for legal reasons. The judge at Leeds crown court told jurors on Friday that there would be a retrial. “Very reluctantly, I’m going to discharge you and the case will have to be retried,” said Mr Justice Hilliard. Continue reading...",
+            "zh": "法官表示，必须对因 Lostprophets 歌手之死而被指控的囚犯进行重审，这“令人失望”。 两名被指控谋杀名誉扫地的前 Lostprophets 歌手伊恩·沃特金斯 (Ian Watkins) 的囚犯的审判陪审团已因法律原因被释放。利兹刑事法庭的法官周五告诉陪审员，将会进行重审。希利亚德法官表示：“我非常不情愿地将你开除，此案将不得不重审。”继续阅读..."
+          },
+          "reflection": {
+            "en": "When legal processes falter and justice is delayed, it can evoke a deep sense of frustration, much like the prophet Habakkuk's lament over the paralysis of the law. The discharge of a jury and the need for a retrial highlight the complexities and imperfections inherent in the human pursuit of justice. In such moments, we are reminded of our longing for...",
+            "zh": "当法律程序受阻、公义迟迟未能伸张时，会引发一种深深的挫败感，正如先知哈巴谷对律法瘫痪的哀叹。陪审团的解散和需要重审，凸显了人类追求公义过程中固有的复杂性和不完美。在这样的时刻，我们被提醒对清晰及时解决的渴望，以及对最终公义真正得胜的盼望。"
+          },
+          "verse": {
+            "reference": "Habakkuk 1:4",
+            "textEn": "The law is paralyzed, and justice never prevails. The wicked hem in the righteous, so that justice is perverted.",
+            "textZh": "因此律法放松，公理也不显明；恶人围困义人，所以公理显然颠倒。",
+            "themeEn": "Lament for broken justice",
+            "themeZh": "对不公的哀诉"
+          },
+          "aiVerseId": "hab_1_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-live-2026-may-22-donald-trump-ai-china-iran-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/19a5a69a3d7ad5913f8b34aa5af83c29d8bb1963/77_0_3320_2657/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9669fa8dc46878a383b42f1cb5b98b06",
+          "publishedAt": "2026-05-22T13:02:11.000Z",
+          "title": {
+            "en": "Trump postpones executive order on AI over China concerns – US politics live",
+            "zh": "特朗普因对中国的担忧推迟人工智能行政命令——美国政治直播"
+          },
+          "summary": {
+            "en": "The US president said he doesn’t ‘want to do anything to get in the way’ of tech firms competing with China Sign up for the Breaking News US email Ken Martin, the Democratic National Committee’s party chair, delayed releasing the DNC autopsy report, a 192-page analysis on the...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The US president said he doesn’t ‘want to do anything to get in the way’ of tech firms competing with China Sign up for the Breaking News US email Ken Martin, the Democratic National Committee’s party chair, delayed releasing the DNC autopsy report, a 192-page analysis on the party’s 2024 election loss, for months – now that he has released the controversial report, he is facing mounting questions and a lack of confidence in his leadership. David Hogg , the former DNC vice-chair, called on Martin to resign on Thursday. In a statement, Hogg wrote: “This autopsy and the months-long debate about even releasing the report, is a demoralizing joke … Ken Martin should resign, and the DNC should select a new leader who demonstrates competence, creativity, moral clarity, and a relentless commitment to actually changing the broken Democratic Party brand.” “Colbert is finally finished at CBS. Amazing that he lasted so long! No talent, no ratings, no life. He was like a dead person. You could take any person off of the street and they would be better than this total jerk. Thank goodness he’s finally gone!” Continue reading...",
+            "zh": "美国总统表示，他“不想做任何事来阻碍”科技公司与中国竞争。民主党全国委员会党主席肯·马丁(Ken Martin)推迟了数月发布民主党全国委员会的尸检报告，该报告是一份针对该党2024年大选失利的长达192页的分析报告——现在他已经发布了这份有争议的报告，但他面临着越来越多的质疑和对其领导力缺乏信心。民主党全国委员会前副主席戴维·霍格周四呼吁马丁辞职。霍格在一份声明中写道：“这次尸检和长达数月的甚至关于发布报告的辩论，都是一个令人泄气的笑话……肯·马丁应该辞职，民主党全国委员会应该选择一位新领导人，他必须表现出能力、创造力、道德清晰度，并坚定地致力于真正改变破碎的民主党品牌。” “科尔伯特终于在哥伦比亚广播公司结束了。令人惊讶的是他坚持了这么久！没有才华，没有收视率，没有生活。他就像一个死人。你可以把任何人从街上带走，他们都会比这个彻底的混蛋更好。谢天谢地，他终于走了！”继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cy82gkr7xzlo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/61c5/live/41f2fd20-55d3-11f1-9a5f-8f70d4bfa4fc.jpg",
+          "publishedAt": "2026-05-22T12:56:06.000Z",
+          "title": {
+            "en": "UK scientists developing new Ebola vaccine that could be ready in months",
+            "zh": "英国科学家正在开发新的埃博拉疫苗，有望在数月内问世"
+          },
+          "summary": {
+            "en": "UK scientists are developing a new Ebola vaccine that could be ready in months. The rare species of Ebola involved, known as Bundibugyo, kills around a third of those infected and has no proven vaccine yet.",
+            "zh": "英国科学家正在开发一种新的埃博拉疫苗，有望在数月内问世。这种罕见的邦迪布焦型埃博拉病毒，感染者中约有三分之一会死亡，目前尚无获批疫苗。"
+          },
+          "body": {
+            "en": "Scientists at Oxford University are developing a new vaccine that could be used within months to help tackle the Ebola emergency.\n\nThe outbreak, centred on the Democratic Republic of Congo, has resulted in 750 suspected cases and 177 deaths.\n\nThe rare species of Ebola, known as Bundibugyo, for which there is no proven vaccine, kills around a third of those infected.\n\nThere are no guarantees the vaccine will prove effective and it will take animal research and trials on people to know if it will be.\n\nBut scientists say they are working urgently in case the outbreak spirals and their experimental vaccine is needed.\n\nThe risk from the current Ebola outbreak has now been upgraded from \"high\" to \"very high\" in the Democratic Republic of Congo, by the World Health Organization (WHO).\n\nIn the wider region the risk is also now considered to be high but it remains low internationally, it added.\n\nThis comes after the WHO declared a public health emergency of international concern on Sunday, when it stressed that the outbreak was not a pandemic.\n\nThe vaccine uses the same technology the team developed during the Covid pandemic.\n\nIt is a highly adjustable technology - known as ChAdOx1 - that can be quickly tweaked so it works against different infections.\n\nThis time it has been prepared with genetic code from the Bundibugyo species of Ebola.\n\nIt uses a common cold virus that normally infects chimpanzees but has been genetically engineered to make it safe for people.\n\nResearchers use this modified cold virus to carry and deliver important genetic material about the Bundibugyo Ebola virus to cells, instructing them to recognise and fight off the actual disease.\n\nThe vaccine does not cause an infection or Ebola symptoms, but trains the immune system to give protection.\n\nThe Serum Institute of India is lined up to mass produce the Ebola vaccine once Oxford can supply medical-grade material.\n\nProf Lambe, the Calleva Head of Vaccine Immunology at the Oxford Vaccine Group, told BBC News: \"Once we get starting material to them they can go fast and they can go big.\"\n\nThe WHO says the vaccine could be available for use in clinical trials in two to three months.\n\nLambe says speed is a priority: \"People are worried about this outbreak, generally, you prepare for the worst case scenario - hopefully contact tracing and quarantine is all that's needed, but we can't take our foot off the gas.\"\n\nThis current Ebola outbreak is challenging because it is caused by a rare species of the virus.\n\nThere are six species of Ebola virus, but only three cause large outbreaks in people.\n\nBundibugyo has only caused two previous outbreaks - in Uganda in 2007 and DR Congo in 2012 - and has not been seen for over a decade.\n\nThere is an Ebola vaccine for the more common Zaire species of Ebola,...",
+            "zh": "牛津大学的科学家正在开发一种新疫苗，可在几个月内用于帮助应对埃博拉紧急情况。 此次疫情以刚果民主共和国为中心，已导致 750 例疑似病例和 177 人死亡。 埃博拉病毒被称为本迪布焦（Bundibugyo），目前还没有经过验证的疫苗，它会杀死大约三分之一的感染者。 无法保证疫苗会有效，需要进行动物研究和人体试验才能知道它是否有效。 但科学家表示，他们正在紧急开展工作，以防疫情加剧，并且需要他们的实验疫苗。 世界卫生组织（WHO）现已将刚果民主共和国当前埃博拉疫情的风险从“高”升级为“非常高”。 它补充说，在更广泛的地区，目前风险也被认为很高，但在国际上仍然较低。 此前，世卫组织周日宣布国际关注的突发公共卫生事件，并强调此次疫情不是大流行。 该疫苗使用了该团队在新冠大流行期间开发的相同技术。 这是一种高度可调节的技术 - 被称为 ChAdOx1 - 可以快速调整，以对抗不同的感染。 这次它是用埃博拉病毒本迪布焦物种的遗传密码制备的。 它使用一种通常感染黑猩猩的普通感冒病毒，但经过基因改造，对人类来说是安全的。 研究人员利用这种改良的感冒病毒将有关本迪布焦埃博拉病毒的重要遗传物质携带并传递到细胞中，指导它们识别并抵抗实际的疾病。 该疫苗不会引起感染或埃博拉症状，而是训练免疫系统提供保护。 一旦牛津大学能够提供医用级材料，印度血清研究所就准备大规模生产埃博拉疫苗。 牛津疫苗组疫苗免疫学负责人兰贝教授告诉英国广播公司新闻：“一旦我们获得了起始材料，它们就可以发展得更快、规模更大。” 世界卫生组织表示，该疫苗可能会在两到三个月内用于临床试验。 兰贝说，速度是首要任务：“人们担心这次疫情的爆发，一般来说，你会为最坏的情况做好准备——希望接触者追踪和隔离就足够了，但我们不能放松警惕。” 目前的埃博拉疫情爆发具有挑战性，因为它是由一种稀有病毒引起的。 埃博拉病毒有六种，但只有三种会在人类中引起大规模爆发。 本迪布焦此前仅爆发过两次疫情——2007 年在乌干达和 2012 年在刚果民主共和国——并且已经十多年没有出现过。 有一种针对更常见的扎伊尔埃博拉病毒的埃博拉疫苗，..."
+          },
+          "reflection": {
+            "en": "The tireless work of scientists to develop a vaccine for a deadly disease reflects humanity's persistent quest for understanding and healing. Even the natural world, in its intricate workings, can reveal wisdom that helps us combat suffering. This reminds us that knowledge, when applied with care, can be a profound gift.",
+            "zh": "科学家们为致命疾病开发疫苗的不懈努力，反映了人类对理解和治愈的持续追求。即使是自然界，在其错综复杂的运作中，也能揭示帮助我们对抗苦难的智慧。这提醒我们，知识若能用心运用，便是一份深厚的恩赐。"
+          },
+          "verse": {
+            "reference": "Job 12:7-9",
+            "textEn": "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you.",
+            "textZh": "你且问走兽，走兽必指教你；又问空中的飞鸟，飞鸟必告诉你。或与地说话，地必指教你；海中的鱼也必向你说明。",
+            "themeEn": "Wisdom from creation",
+            "themeZh": "受造之物的教导"
+          },
+          "aiVerseId": "job_12_7",
+          "translationState": "localized"
+        },
+        {
           "id": "www-theguardian-com-politics-live-2026-may-22-andy-burnham-makerfield-by",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/politics/live/2026/may/22/andy-burnham-makerfield-byelection-green-labour-starmer-latest-news-updates",
           "image": "https://i.guim.co.uk/img/media/59c1baa386f1482647163cb04dae0f8affd7165b/997_571_3967_3174/master/3967.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=66e6e6600de3bdf572db49e91ffe5a88",
-          "publishedAt": "2026-05-22T09:59:40.000Z",
+          "publishedAt": "2026-05-22T12:54:33.000Z",
           "title": {
-            "en": "Burnham says politics ‘needs new script’ as he launches Makerfield byelection campaign – UK politics live",
+            "en": "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – UK politics live",
             "zh": "伯纳姆将启动补选竞选活动，绿党候选人仅九小时后退出——英国政治直播"
           },
           "summary": {
@@ -128,7 +229,7 @@
             "zh": "安迪·伯纳姆即将启动竞选活动，争取成为梅克菲尔德工党候选人。此前，一名绿党候选人仅九小时后便退出竞选。与此同时，由于高通胀推高了养老金和福利成本，英国四月份的借贷超出预期，伊朗战争和政治不确定性也引发了广泛担忧。"
           },
           "body": {
-            "en": "Andy Burnham talks up his local credentials and says: ‘This is not business as usual, this is not more of the same’ Burnham has spoken about his connections to the local area, saying his home is just 2 miles from where he is speaking. “I love it so much that I brought my own family up here, I live here, I have lived here for 25 years,’ he said. “My home is two miles over there. I could walk to this campaign centre.” We’ve had 40 years of policies that have hurt the high streets of this constituency, 40 years of policies that have left people struggling to afford the everyday basics of their lives. Policies that took away the good jobs that were once in these communities and have not done anything to replace them or put them back. Continue reading...",
+            "en": "Andy Burnham talks up his local credentials and says: ‘This is not business as usual, this is not more of the same’ On transport, Burnham says “I like my buses” (they were taken back under public control in Greater Manchester in 2023) but he was woeful about the cost of rail journeys. £364 is the cost of an anytime return from Wigan North Western to London Euston. So how can people here connect with the capital and all of the opportunities it’s got, if they cannot afford those train fares? We need to use rail re-nationalisation to reduce those train fares and make them affordable to people again. Change to the economy, change to education, change to housing, change to transport, change to care, and yes, to make it all possible. Change to politics. Continue reading...",
             "zh": "安迪·伯纳姆 (Andy Burnham) 将在正式启动马克菲尔德工党候选人竞选活动时向支持者发表讲话。由于高通胀推高了养老金和福利成本，加上对伊朗战争的担忧和政治不确定性增加了债务成本，英国 4 月份的借贷超出预期。英国国家统计局 (ONS) 表示，2026 年 4 月公共部门净借款（政府支出与收入之间的差额）为 243 亿英镑，比 2025 年 4 月增加 49 亿英镑。继续阅读..."
           },
           "reflection": {
@@ -146,114 +247,13 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-com-news-articles-cedpz9669deo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb4f/live/0b4bb9f0-55c0-11f1-99e4-4d92e48ba181.jpg",
-          "publishedAt": "2026-05-22T09:43:39.000Z",
-          "title": {
-            "en": "Nato chief welcomes US sending 5,000 troops to Poland",
-            "zh": "北约秘书长欢迎美国向波兰增派5000名士兵"
-          },
-          "summary": {
-            "en": "The Nato chief welcomed the US decision to send 5,000 troops to Poland, following a previous cancellation of a smaller deployment.",
-            "zh": "北约秘书长对美国决定向波兰增派5000名士兵表示欢迎，此前五角大楼曾取消了向该国部署4000名士兵的计划。"
-          },
-          "body": {
-            "en": "President Donald Trump says the US will send an extra 5,000 troops to Poland, a week after the Pentagon cancelled a planned deployment of 4,000 troops to the country.\n\nNato Secretary General Mark Rutte welcomed the move ahead of a meeting of foreign ministers in Sweden - adding the trajectory towards Europe becoming less reliant on the US \"will continue\".\n\nWriting on his Truth Social platform on Thursday, Trump said the decision was based on the US's relationship with Polish President Karol Nawrocki, whom he backed during presidential elections last year.\n\nHe did not give further details on whether the additional troops were part of the previous planned deployment or a different operation.\n\nThe White House has signalled in recent weeks that it intends to reduce its overall troop levels in Europe as part of its \"America First\" agenda.\n\nRubio is expected to call for increased burden sharing from Washington's Nato partners at Friday's talks in Helsingborg.\n\nSpeaking to reporters on Friday morning, he said: \"The president's views are frankly disappointment at some of our Nato allies and their response to our operations in the Middle East.\n\n\"In the meantime there are other areas where we continue with cooperation,\" he added - citing the Poland announcement.\n\n\"That said obviously the United States continues to have global commitments that it needs to meet in terms of our force deployment and that constantly requires us to re-examine where we put troops - this is not a punitive thing.\"\n\nAhead of the meeting, the BBC asked Rubio about unconfirmed reports the US could shrink its total troop numbers available in the event of an attack on a Nato country.\n\nHe said \"some of those issues\" will be discussed at the summit, adding Trump remained very upset and disappointed with Nato allies.\n\nEarlier this month, the US announced it would withdraw 5,000 troops from Germany after a row between Trump and German Chancellor Friedrich Merz over the war with Iran.\n\nTrump previously criticised Merz over his suggestion that the US had been \"humiliated\" by Iranian negotiators.\n\nIt is unclear whether the additional troops for Poland were part of those withdrawing from Germany or a separate group.\n\nHe has also been critical of Washington's Nato allies for their unwillingness to join the US in pressuring Iran over the Strait of Hormuz.\n\nRubio said on Friday there had been \"slight progress\" in negotiations on Iran, but did not expand with any details.\n\n\"We await word on those conversations that are ongoing [...] I don't want to exaggerate it, but there's been a little bit of movement,\" he said.\n\nTrump's announcement comes a week after the defence department abruptly said it was cancelling the deployment of 4,000 troops to Poland.\n\nUS Defence Secretary Pete Hegseth later said the...",
-            "zh": "唐纳德·特朗普总统表示，在五角大楼取消向波兰部署 4,000 名士兵的计划一周后，美国将向波兰增派 5,000 名士兵。 北约秘书长马克·吕特对瑞典外长会议之前的举动表示欢迎，并补充说欧洲减少对美国依赖的趋势“将继续”。 特朗普周四在其“真相社交”平台上写道，这一决定是基于美国与波兰总统卡罗尔·纳罗基的关系，他在去年的总统选举中支持了后者。 他没有透露增派部队是之前计划部署的一部分还是不同行动的更多细节。 白宫最近几周表示，作为“美国优先”议程的一部分，它打算减少在欧洲的总体驻军人数。 预计卢比奥将在周五赫尔辛堡的会谈中呼吁华盛顿的北约伙伴加强分担责任。 他周五早上对记者说：“坦率地说，总统的观点对我们的一些北约盟友及其对我们在中东行动的反应感到失望。 “与此同时，我们在其他领域继续合作，”他援引波兰的声明补充道。 “这显然表明，美国在部队部署方面继续履行需要履行的全球承诺，并且不断要求我们重新审查我们在哪里部署部队——这不是惩罚性的事情。” 在会议之前，英国广播公司向卢比奥询问了未经证实的报道，即如果北约国家遭受袭击，美国可能会缩减可用部队总数。 他表示，“其中一些问题”将在峰会上讨论，并补充说特朗普仍然对北约盟友感到非常不安和失望。 本月早些时候，在特朗普与德国总理弗里德里希·梅尔茨就伊朗战争问题发生争执后，美国宣布将从德国撤军 5000 名士兵。 特朗普此前批评梅尔茨称美国被伊朗谈判代表“羞辱”。 目前还不清楚向波兰增派的部队是从德国撤军的一部分还是一个单独的部队。 他还批评华盛顿的北约盟友不愿与美国一起在霍尔木兹海峡问题上向伊朗施压。 卢比奥周五表示，伊朗问题谈判取得了“轻微进展”，但没有透露任何细节。 “我们正在等待有关正在进行的对话的消息……我不想夸大其词，但已经有了一些进展，”他说。 特朗普宣布这一消息的一周前，国防部突然表示将取消向波兰部署 4000 名士兵。 美国国防部长皮特·赫格斯后来表示..."
-          },
-          "reflection": {
-            "en": "The deployment of troops often reflects a nation's search for security and strength in times of perceived trouble. While earthly measures are taken, Psalm 46:1 reminds us that ultimate refuge and strength are found in God, an ever-present help. This perspective encourages us to seek divine wisdom and peace even amidst geopolitical uncertainties.",
-            "zh": "军队的部署常反映一个国家在感知到困境时对安全和力量的寻求。虽然会采取地上的措施，但诗篇46:1提醒我们，最终的避难所和力量来自雅伟，祂是我们在患难中随时的帮助。这视角鼓励我们在地缘政治的不确定性中，仍寻求神的智慧与平安。"
-          },
-          "verse": {
-            "reference": "Psalm 46:1",
-            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
-            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
-            "themeEn": "Refuge in trouble",
-            "themeZh": "患难中的避难所"
-          },
-          "aiVerseId": "ps_46_1",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c3e2w43lkvzo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b06e/live/97877430-5599-11f1-8b8c-6d33e1d5abb6.jpg",
-          "publishedAt": "2026-05-22T09:32:42.000Z",
-          "title": {
-            "en": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
-            "zh": "随着美国加大压力，古巴人努力解决燃料短缺和停电问题"
-          },
-          "summary": {
-            "en": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The incident at the centre of a murder charge against Cuba's former president, Raúl Castro, is burned into the collective memory of both Havana and Miami.\n\nThe US case, unveiled on Wednesday, accuses Castro and five others in the shooting down of two planes belonging to Cuban-American group Brothers to the Rescue in 1966 - killing four people, including three Americans.\n\nCuban President Miguel Díaz-Canel has called this and other charges levelled at Castro \"a political manoeuvre, devoid of any legal foundation\".\n\nUS Secretary of State Marco Rubio has since said Cuba poses a \"national security threat\" and the likelihood of a peaceful agreement between the two countries is \"not high\".\n\nAs the charges against Raúl Castro were announced, many Cubans were unaware and incommunicado due to the 20-hour blackouts continuing to grip the island. The US has imposed a near-total fuel blockade that has affected almost every facet of daily life.\n\nUS President Donald Trump has repeatedly sought to exert pressure on Cuba and has openly discussed toppling its communist regime.\n\nThe US has demanded political and economic reforms but the specifics are unclear beyond a leadership change. They could include a pledge to open up the economy to more foreign investment and a commitment to end the presence of Russian or Chinese intelligence agencies on the island.\n\nAna Rosa Romero lives on the 11th floor of the Granma Dos building, an imposing modernist social housing block in the Cuban capital, Havana. A widow in her 70s, she said that when her husband died recently, a blackout in her neighbourhood meant she had to sit with his body for hours before it could be moved.\n\nThese days, with the lift so often not working, she says she barely leaves her apartment.\n\n\"You can hardly go out,\" said the former philosophy teacher, a framed picture of Fidel Castro on her wall.\n\n\"If you do venture out, it's with the uncertainty of not knowing what's coming next. When is the power due to go out? When is it coming back? How many hours are we going to be without electricity?\"\n\nIt is a risk to find herself at the bottom of the stairs at her age with eleven flights to climb with bags of shopping, Ana Rosa says. But others in the building are worse off.\n\nThe building's superintendent, Juana Garcia, says nine residents have pacemakers and simply can't take the chance of being caught without the lift. Others have been trapped inside the elevator mid-blackout for hours.\n\nJuana has spent almost six months trying to pump water to more than 100 residents with no electricity. Some elderly residents are bedridden and get no water unless a neighbour carries it up several flights in the dark.\n\n\"It's dangerous to go up and down these stairs without lights. This is a such a difficult situation. We know...",
-            "zh": "古巴前总统劳尔·卡斯特罗被控谋杀的核心事件已铭刻在哈瓦那和迈阿密的集体记忆中。 周三公布的美国案件指控卡斯特罗和其他五人在 1966 年击落了属于古巴裔美国人救援兄弟组织的两架飞机，造成四人死亡，其中包括三名美国人。 古巴总统米格尔·迪亚斯-卡内尔称这一指控以及对卡斯特罗的其他指控是“一种政治策略，缺乏任何法律基础”。 美国国务卿卢比奥此后表示，古巴构成“国家安全威胁”，两国达成和平协议的可能性“不高”。 当对劳尔·卡斯特罗的指控宣布时，由于该岛持续 20 小时停电，许多古巴人对此一无所知，并且与世隔绝。美国实施了近乎全面的燃料封锁，几乎影响了日常生活的方方面面。 美国总统唐纳德·特朗普多次寻求对古巴施加压力，并公开讨论推翻其共产主义政权。 美国要求进行政治和经济改革，但除了领导层更迭之外，具体细节尚不清楚。其中可能包括承诺向更多外国投资开放经济，以及承诺结束俄罗斯或中国情报机构在岛上的存在。 安娜·罗莎·罗梅罗 (Ana Rosa Romero) 住在格拉玛多斯大楼 (Granma Dos Building) 的 11 层，这是古巴首都哈瓦那一座宏伟的现代主义社会住房大楼。她是一位 70 多岁的寡妇，她说，当她的丈夫最近去世时，她家附近停电了，这意味着她必须在他的尸体旁边坐上几个小时，然后才能将其移动。 如今，由于电梯经常不工作，她说她几乎不离开公寓。 “你几乎不能出去，”这位前哲学老师说道，墙上挂着菲德尔·卡斯特罗的镶框照片。 “如果你真的冒险外出，你会面临着不知道接下来会发生什么的不确定性。停电什么时候？什么时候恢复？我们会停电几个小时？” 安娜·罗莎说，在她这个年纪，带着购物袋要爬 11 趟航班，才发现自己处于楼梯底部，这是一种风险。但大楼里的其他人情况更糟。 该大楼的负责人胡安娜·加西亚 (Juana Garcia) 表示，九名居民都装有心脏起搏器，如果没有电梯，他们就不能冒被抓住的风险。其他人则在停电期间被困在电梯里好几个小时。 胡安娜花了近六个月的时间试图为 100 多名没有电的居民抽水。一些老年居民卧床不起，得不到水，除非邻居在黑暗中把水抬上几架飞机。 “在没有灯的情况下上下楼梯是很危险的。这是一个非常困难的情况。我们知道......"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-may-22-marco-rubio-doubtful-diplomacy-c",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action",
-          "image": "https://i.guim.co.uk/img/media/4a73690e482704d3858150bf304b42dc074301bf/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78cd2e3a8a7db5b82e50e0385481b360",
-          "publishedAt": "2026-05-22T09:29:02.000Z",
-          "title": {
-            "en": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
-            "zh": "鲁比奥对与古巴的外交持怀疑态度，特朗普再次威胁采取军事行动"
-          },
-          "summary": {
-            "en": "US Secretary of State Marco Rubio expressed doubt about the likelihood of a negotiated agreement with Havana, while President Donald Trump renewed threats of military intervention in Cuba.",
-            "zh": "美国国务卿马可·鲁比奥对与哈瓦那达成谈判协议的可能性表示怀疑，而唐纳德·特朗普总统再次威胁对古巴采取军事干预。"
-          },
-          "body": {
-            "en": "US secretary of state says president would like a negotiated agreement with Havana but likelihood ‘is not high’ The US president, Donald Trump, and the secretary of state, Marco Rubio, on Thursday again raised the spectre of military intervention in Cuba, a renewed threat that takes on greater weight a day after the administration announced criminal charges against Raúl Castro, the island’s former leader. “Other presidents have looked at this for 50, 60 years, doing something,” Trump told reporters when asked about Cuba during an event in the Oval Office. “And it looks like I’ll be the one that does it. So I would be happy to do it.” Continue reading...",
-            "zh": "美国国务卿表示，总统希望与哈瓦那通过谈判达成协议，但可能性“不高” 美国总统唐纳德·特朗普和国务卿马可·卢比奥周四再次提出对古巴进行军事干预的担忧，在政府宣布对古巴前领导人劳尔·卡斯特罗提出刑事指控的第二天，这一新的威胁变得更加严重。 “其他总统已经关注这个问题 50 年、60 年了，并做了一些事情，”特朗普在椭圆形办公室的一次活动中被问及古巴时告诉记者。 “看起来我会做这件事。所以我很乐意做这件事。”继续阅读..."
-          },
-          "reflection": {
-            "en": "In a world where diplomatic solutions often seem elusive, the call to \"live at peace with everyone, if it is possible, as far as it depends on you\" remains a profound challenge. This news reminds us of the constant human struggle to find common ground and avoid the path of conflict, even when hope for resolution wanes.",
-            "zh": "在一个外交解决方案常常难以捉摸的世界里，“若是能行，总要尽力与众人和睦”的呼召仍然是一个深刻的挑战。这则新闻提醒我们，即使解决的希望渺茫，人类仍在不断努力寻找共同点，避免冲突之路。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
-        },
-        {
           "id": "www-theguardian-com-world-live-2026-may-22-nato-mark-rutte-us-donald-tru",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/ff44bf110473d4e2929f33476f94ca5fa882b446/604_0_3288_2632/master/3288.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b4c2e4f0b3a30e50f94785ee17ef60c3",
-          "publishedAt": "2026-05-22T09:25:22.000Z",
+          "image": "https://i.guim.co.uk/img/media/86d9a95c96ad57cb10cad60508889d65e7d5328e/602_1240_3450_2760/master/3450.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=50d5097d6a557da2b77130ed5f2e0f8e",
+          "publishedAt": "2026-05-22T12:51:49.000Z",
           "title": {
             "en": "Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live",
             "zh": "鲁比奥称，特朗普对北约的“失望”为“有史以来最重要的”峰会之一奠定了基础——欧洲直播"
@@ -281,72 +281,37 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-world-2026-may-22-us-arms-sales-taiwan-pause-iran-wa",
+          "id": "www-theguardian-com-uk-news-2026-may-22-heat-health-alerts-bank-holiday-",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/may/22/us-arms-sales-taiwan-pause-iran-war-says-acting-navy-chief",
-          "image": "https://i.guim.co.uk/img/media/d4f859707494ed265e82a2921dd4fe051a5cf51c/80_0_3752_3002/master/3752.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78cddf20ffd68b152574e2bd66886899",
-          "publishedAt": "2026-05-22T09:08:29.000Z",
+          "link": "https://www.theguardian.com/uk-news/2026/may/22/heat-health-alerts-bank-holiday-weekend-forecast-record-may-temperature-uk",
+          "image": "https://i.guim.co.uk/img/media/e60421490d59badabe006263d852c58f89de7f90/1561_1229_5176_4140/master/5176.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5476bd9712a419715288f583e77b7c74",
+          "publishedAt": "2026-05-22T12:35:47.000Z",
           "title": {
-            "en": "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief",
-            "zh": "美国代理海军部长称，对台湾的军售因伊朗战争而“暂停”"
+            "en": "Health alerts for bank holiday weekend as record May heat forecast in UK",
+            "zh": "英国五月高温预报创纪录 银行假日周末健康警报"
           },
           "summary": {
-            "en": "Washington's acting navy secretary stated that US arms sales to Taiwan have been temporarily halted. This pause is to ensure sufficient munitions are available for ongoing US military operations in Iran, adding to recent doubts about sustained US support for Taipei.",
-            "zh": "华盛顿代理海军部长表示，美国对台湾的军售已暂停。此举是为了确保美国军方有足够的弹药用于其在伊朗的军事行动，这进一步加剧了近期对美国能否持续支持台北的疑虑。"
+            "en": "Temperatures expected to reach as high as 33C in southern England or Midlands on Monday Britain braces for long, hot traffic queues amid extra border checks Amber heat health alerts have been issued for the bank holiday weekend as record-breaking May temperatures as high as 33C...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Hung Cao’s comments are latest blow to Taipei after Donald Trump recently cast doubt over US’s enduring support US arms sales to Taiwan have been “paused” to ensure the US military has enough munitions for its Iran operations, according to Washington’s acting navy secretary, in the latest blow to Taipei after a series of comments by Donald Trump. When asked at a congressional hearing on Thursday about a $14bn (£10.4bn) weapons packageawaiting Trump’s signoff for months, Hung Cao said: “Right now we’re doing a pause in order to make sure we have the munitions we need for Epic Fury [the Iran war] – which we have plenty.” Continue reading...",
-            "zh": "华盛顿代理海军部长表示，唐纳德·特朗普最近对美国的持久支持表示怀疑，美国已“暂停”对台军售，以确保美军有足够的弹药用于其伊朗行动，曹洪的言论是对台北的最新打击。这是唐纳德·特朗普发表一系列言论后对台北的最新打击。在周四的国会听证会上，当被问及等待特朗普签署数月之久的价值 140 亿美元（104 亿英镑）的武器计划时，曹洪表示：“现在我们正在暂停，以确保我们拥有史诗般的愤怒（伊朗战争）所需的弹药——我们有足够的弹药。”继续阅读..."
+            "en": "Temperatures expected to reach as high as 33C in southern England or Midlands on Monday Britain braces for long, hot traffic queues amid extra border checks Amber heat health alerts have been issued for the bank holiday weekend as record-breaking May temperatures as high as 33C (91F) are expected in parts of the UK. The alerts – which indicate a possible risk to life as well as potential damage to properties, significant travel delays and power cuts – were announced for the East Midlands, West Midlands, the east of England, London and the south-east, and will be in effect from 2pm on Friday until 5pm on Wednesday. Continue reading...",
+            "zh": "周一英格兰南部或中部地区气温预计将高达 33 摄氏度。英国在额外的边境检查中面临着漫长而炎热的交通队列。英国部分地区 5 月份气温预计将高达 33 摄氏度（91 华氏度），创下破纪录的银行假日周末高温健康警报。这些警报表明东米德兰兹、西米德兰兹、英格兰东部、伦敦和东南部可能存在生命危险、财产潜在损失、严重的旅行延误和断电，警报将于周五下午 2 点至周三下午 5 点生效。继续阅读..."
           },
           "reflection": {
-            "en": "News of arms sales being paused due to another conflict highlights the constant demand for military resources in a world marked by tension. The prophet Isaiah envisioned a future where nations would transform instruments of war into tools for peace, no longer training for battle. This vision calls us to hope for a day when global resources are dedicated to...",
-            "zh": "军售因另一场冲突而暂停的消息，凸显了在一个充满紧张的世界中对军事资源的持续需求。先知以赛亚曾预见一个未来，各国将把战争工具转化为和平工具，不再为战争训练。这一愿景呼唤我们盼望有一天，全球资源将致力于建设生命，而非备战。"
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Isaiah 2:4",
-            "textEn": "They will beat their swords into plowshares and their spears into pruning hooks.",
-            "textZh": "他们要将刀打成犁头，把枪打成镰刀。",
-            "themeEn": "Disarmament",
-            "themeZh": "化干戈为玉帛"
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
           },
-          "aiVerseId": "isa_2_4",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-may-22-tennessee-school-board-charged-c",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/22/tennessee-school-board-charged-comments-teenager",
-          "image": "https://i.guim.co.uk/img/media/4bb04761a3926af66f391ab017946e8dd1a8cb42/357_0_1430_1144/master/1430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b25ff2f4b08e80fdc35254883cf98dec",
-          "publishedAt": "2026-05-22T09:00:54.000Z",
-          "title": {
-            "en": "Tennessee school board member charged after calling teenage girl ‘hot’",
-            "zh": "田纳西州学区委员因称少女“火辣”被控罪"
-          },
-          "summary": {
-            "en": "A 59-year-old Tennessee school board member, Keith Ervin, has been charged with assault after he was recorded telling a teenage girl, \"God – you’re hot,\" at a public meeting in April.",
-            "zh": "田纳西州一名59岁的学区委员基思·埃尔文因在四月份的一次公开会议上对一名少女说“天哪——你真火辣”而被控袭击罪。"
-          },
-          "body": {
-            "en": "Keith Ervin, 59, was charged with assault after he told a student ‘God – you’re hot’ at a public meeting in April An east Tennessee school board member who told a teenage girl, “God – you’re hot,” on video at a public meeting in April has been charged with assault. State prosecutors on 18 May charged 59-year-old Keith Ervin under a Tennessee statute that outlaws “intentionally or knowingly [causing] physical contact with another [that] a reasonable person would regard … as extremely offensive or provocative”. Continue reading...",
-            "zh": "59 岁的基思·欧文 (Keith Ervin) 在 4 月的一次公开会议上对一名学生说“天哪，你真性感”，后被指控犯有袭击罪。田纳西州东部的一名学校董事会成员在 4 月份的一次公开会议上，在视频中对一名十几岁的女孩说“天啊，你真性感”，被指控犯有袭击罪。 5 月 18 日，州检察官根据田纳西州一项法规对 59 岁的基思·欧文 (Keith Ervin) 提出指控，该法规规定“故意或故意[造成]与他人的身体接触，而合理的人会认为……极具冒犯性或挑衅性”。继续阅读..."
-          },
-          "reflection": {
-            "en": "Those in positions of authority, especially over young people, bear a profound responsibility to protect and uplift, not to exploit or objectify. This incident reminds us of the vulnerability of children and the serious consequences when trust is broken by inappropriate words or actions.",
-            "zh": "那些身居要职，尤其是在青少年群体中拥有权力的人，肩负着保护和提升他们的重任，而非利用或物化他们。这起事件提醒我们儿童的脆弱性，以及当信任因不当言行而遭到破坏时所带来的严重后果。"
-          },
-          "verse": {
-            "reference": "Matthew 18:6",
-            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
-            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
-            "themeEn": "Woe to those who harm children",
-            "themeZh": "使小子跌倒的祸"
-          },
-          "aiVerseId": "matt_18_6",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
           "id": "www-bbc-com-news-articles-cp8p2g8yp8do-at-medium-rss-at-campaign-rss",
@@ -355,7 +320,7 @@
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7fb5/live/d6df4d30-554c-11f1-89a3-d1f559421220.jpg",
-          "publishedAt": "2026-05-22T08:21:13.000Z",
+          "publishedAt": "2026-05-22T11:45:38.000Z",
           "title": {
             "en": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
             "zh": "刚果民主共和国，愤怒人群点燃埃博拉医院帐篷"
@@ -365,7 +330,7 @@
             "zh": "刚果民主共和国，一名疑似埃博拉病毒感染者的亲友因被阻止带走遗体进行安葬，愤怒的人群点燃了埃博拉医院的帐篷。"
           },
           "body": {
-            "en": "An angry crowd set alight a section of a hospital at the epicentre of the Ebola outbreak in the eastern Democratic Republic of Congo after family and friends of a young man thought to have died from the virus were prevented from taking his body away for burial.\n\n\"They started throwing projectiles at the hospital. They even set fire to tents that were being used as isolation wards,\" local politician Luc Malembe Malembe told the BBC about the scene he witnessed at Rwampara General Hospital.\n\nThe body of a dead Ebola victim is highly infectious and the authorities need to ensure safe burial to stop the spread of the virus.\n\nMedical workers at the Rwampara hospital, located near the city of Bunia in Ituri province, where almost all of the cases have been reported, were placed under military protection as the police moved in to restore order.\n\nA healthcare worker was injured by stone-throwing protesters before law enforcement agents intervened, a hospital worker told the AFP news agency.\n\nThe man who died was a popular figure in the local community and those upset by his death did not \"grasp the reality of the disease,\" Jean Claude Mukendi, who is co-ordinating the security response to Ebola in Ituri, told the Associated Press.\n\nWitnesses told Reuters the young man was a footballer who had played with several local teams. His mother told the news agency she believed her son had died of typhoid fever, not Ebola.\n\nMalembe said the crowd did not believe the virus, which has so far killed more than 130 in eastern DR Congo, was real.\n\n\"People are not properly informed or sensitised about what is happening. For a certain segment of the population, especially in remote areas, Ebola is an invention by outsiders - it does not exist,\" the politician said.\n\n\"They believe it is the NGOs and hospitals creating this to make money, and this is tragic.\"\n\nHe said two tents had been burned down, along with a body that had been due to be buried.\n\nCongolese Foreign Minister Thérèse Kayikwamba Wagner called it a \"very frightening situation\" for communities to be in.\n\n\"I think it is normal and it would be normal in any setting that all sorts of reactions are triggered, including challenging or questioning narratives that they might not feel comfortable with,\" she told the BBC's Newsday programme.\n\nShe went on to say that the authorities were \"ramping up\" their activity in affected areas to ensure communities feel safe, understood and heard.\n\nThe World Health Organization (WHO) recommends \"safe and dignified burials\" for Ebola victims, with trained teams using protective equipment to handle bodies.\n\nSix patients had been receiving treatment in the tents on the grounds of the hospital - and it was reported they may have fled in the mayhem.\n\nBut according to the medical charity...",
+            "en": "An angry crowd set alight a section of a hospital at the epicentre of the Ebola outbreak in the eastern Democratic Republic of Congo after family and friends of a young man thought to have died from the virus were prevented from taking his body away for burial.\n\n\"They started throwing projectiles at the hospital. They even set fire to tents that were being used as isolation wards,\" local politician Luc Malembe Malembe told the BBC about the scene he witnessed at Rwampara General Hospital.\n\nThe body of a dead Ebola victim is highly infectious and the authorities need to ensure safe burial to stop the spread of the virus.\n\nMedical workers at the Rwampara hospital, located near the city of Bunia in Ituri province, where almost all of the cases have been reported, were placed under military protection as the police moved in to restore order.\n\nA healthcare worker was injured by stone-throwing protesters before law enforcement agents intervened, a hospital worker told the AFP news agency.\n\nThe man who died was a popular figure in the local community and those upset by his death did not \"grasp the reality of the disease,\" Jean Claude Mukendi, who is co-ordinating the security response to Ebola in Ituri, told the Associated Press.\n\nWitnesses told Reuters the young man was a footballer who had played with several local teams. His mother told the news agency she believed her son had died of typhoid fever, not Ebola.\n\nMalembe said the crowd did not believe the virus, which so far is thought to have killed more than 170 in eastern DR Congo, was real.\n\n\"People are not properly informed or sensitised about what is happening. For a certain segment of the population, especially in remote areas, Ebola is an invention by outsiders - it does not exist,\" the politician said.\n\n\"They believe it is the NGOs and hospitals creating this to make money, and this is tragic.\"\n\nHe said two tents had been burned down, along with a body that had been due to be buried.\n\nCongolese Foreign Minister Thérèse Kayikwamba Wagner called it a \"very frightening situation\" for communities to be in.\n\n\"I think it is normal and it would be normal in any setting that all sorts of reactions are triggered, including challenging or questioning narratives that they might not feel comfortable with,\" she told the BBC's Newsday programme.\n\nShe went on to say that the authorities were \"ramping up\" their activity in affected areas to ensure communities feel safe, understood and heard.\n\nThe World Health Organization (WHO) recommends \"safe and dignified burials\" for Ebola victims, with trained teams using protective equipment to handle bodies.\n\nSix patients had been receiving treatment in the tents on the grounds of the hospital - and it was reported they may have fled in the mayhem.\n\nBut according to the...",
             "zh": "一名被认为死于埃博拉病毒的年轻人的家人和朋友被阻止将他的尸体运走埋葬，愤怒的人群点燃了刚果民主共和国东部埃博拉疫情中心一家医院的一个区域。 当地政治家卢克·马伦贝·马伦贝 (Luc Malembe Malembe) 向 BBC 讲述了他在鲁万帕拉总医院亲眼目睹的场景：“他们开始向医院投掷炮弹。他们甚至放火焚烧用作隔离病房的帐篷。” 埃博拉死者的尸体具有高度传染性，当局需要确保安全埋葬以阻止病毒传播。 位于伊图里省布尼亚市附近的鲁万帕拉医院几乎所有病例都是在该医院报告的，当警察介入恢复秩序时，该医院的医务人员受到军事保护。 一名医院工作人员告诉法新社，在执法人员介入之前，一名医护人员被抗议者投掷石块打伤。 负责协调伊图里埃博拉安全应对工作的让·克洛德·穆肯迪 (Jean Claude Mukendi) 告诉美联社，死者是当地社区的知名人物，那些对他的死感到不安的人并没有“了解这种疾病的现实”。 目击者告诉路透社，这名年轻人是一名足球运动员，曾效力于几支当地球队。他的母亲告诉新闻社，她相信儿子死于伤寒，而不是埃博拉病毒。 马伦贝表示，人们不相信这种病毒是真实存在的，迄今为止，该病毒已在刚果民主共和国东部造成 130 多人死亡。 “人们对正在发生的事情没有适当的了解或敏感。对于某些人群，特别是在偏远地区，埃博拉病毒是局外人的发明 - 它并不存在，”这位政客说。 “他们认为非政府组织和医院创造这个是为了赚钱，这是悲剧。” 他说，两顶帐篷和一具原本要埋葬的尸体被烧毁。 刚果外交部长泰雷兹·卡伊克万巴·瓦格纳称，这对社区来说是一个“非常可怕的局面”。 “我认为这是正常的，在任何情况下都会引发各种反应，包括挑战或质疑他们可能感到不舒服的叙述，”她告诉英国广播公司的新闻日节目。 她接着说，当局正在“加强”受影响地区的活动，以确保社区感到安全、被理解和被倾听。 世界卫生组织（WHO）建议为埃博拉受害者进行“安全、有尊严的埋葬”，并由训练有素的团队使用防护设备处理尸体。 六名患者一直在医院的帐篷里接受治疗，据报道他们可能在混乱中逃离。 但根据医疗慈善机构的说法..."
           },
           "reflection": {
@@ -383,140 +348,236 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-com-news-articles-cn4p8m3r1glo-at-medium-rss-at-campaign-rss",
+          "id": "www-bbc-com-news-articles-czd2q140my1o-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cn4p8m3r1glo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c672/live/a284a8c0-559f-11f1-bc1a-218b29fb18c2.jpg",
-          "publishedAt": "2026-05-22T08:15:21.000Z",
+          "link": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/deba/live/7bac0ea0-533d-11f1-bbfe-9d39384b3a85.jpg",
+          "publishedAt": "2026-05-22T11:41:23.000Z",
           "title": {
-            "en": "US sanctions Tanzanian police official over 'torture' of rights activists",
-            "zh": "美国制裁坦桑尼亚一名涉嫌“酷刑折磨”人权活动家的警官"
+            "en": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
+            "zh": "一名印度新娘去世。谋杀和自杀的相互指控引发了媒体的狂热"
           },
           "summary": {
-            "en": "The sanctions come amid growing scrutiny of Tanzania’s human rights record in recent years.",
-            "zh": "此次制裁是在坦桑尼亚近年来人权记录日益受到审视的背景下进行的。"
+            "en": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "The US has sanctioned a senior Tanzanian police official over allegations linked to the \"torture and sexual assault\" of East African rights activists Boniface Mwangi and Agather Atuhaire last year.\n\nIn a statement, US Secretary of State Marco Rubio said the State Department had designated Faustine Jackson Mafwele based on \"credible information that he was involved in gross violations of human rights\".\n\nTanzania's Foreign Affairs Minister Mahmoud Thabit Kombo told the BBC that the government was yet to receive the formal designation, which bars Mafwele from entering the US.\n\nThe sanctions come amid growing scrutiny of Tanzania's human rights record, with US lawmakers calling for tougher action.\n\nThe two activists had travelled to Tanzania to observe the trial of opposition leader Tundu Lissu last May when they were detained and later released, with Kenyan Mwangi saying he was held for several days alongside Uganda's Atuhaire.\n\nMwangi alleged that he was stripped naked, hung upside down, beaten on his feet and sexually assaulted in detention, while Atuhaire also said she was raped during her detention in Tanzania.\n\nTanzanian police at the time dismissed the torture allegations, describing the activists' accounts as \"opinions\" and \"hearsay\".\n\nBut Rubio in his statement late on Thursday said members of the Tanzanian Police Force (TPF) had \"detained, tortured, and sexually assaulted\" the two activists.\n\nIt did not explicitly state Mafwele's alleged role, but Assistant Secretary of State for Democracy, Human Rights, and Labor Riley Barnes said the US was \"taking action to promote accountability for this heinous act\".\n\nIn February, BBC Africa Eye released a documentary, Tanzania's State of Fear , on a wave of kidnappings in Tanzania. In it, survivors including Atuhaire and Mwangi named Mafwele as the main perpetrator. He did not comment on the allegations.\n\nMafwele, who serves as Tanzania's senior assistant commissioner of police, is the first senior government official under President Samia Suluhu Hassan's administration to face foreign sanctions.\n\nAmnesty International had previously called for an urgent investigation into what it described as the arbitrary arrest, torture, incommunicado detention and forcible deportation of the two activists.\n\nHuman Rights Watch also cited the case in this year's report on Tanzania, pointing to a broader crackdown on opposition figures, activists and free expression.\n\nThe sanctions come as Tanzania continues to investigate reports of political repression and abuses surrounding the general election held last October.\n\nA total of 518 people died, including 197 who were shot dead, in the widespread protests that followed the disputed election, the commission of inquiry set up to investigate the violence announced last...",
-            "zh": "美国因涉嫌去年对东非人权活动人士博尼法斯·姆旺吉和阿加瑟·阿图海尔实施“酷刑和性侵犯”而对一名坦桑尼亚高级警官实施制裁。 美国国务卿马可·卢比奥在一份声明中表示，国务院根据“可靠信息表明福斯坦·杰克逊·马夫韦勒参与严重侵犯人权行为”对他进行了指认。 坦桑尼亚外交部长马哈茂德·塔比特·孔博 (Mahmoud Thabit Kombo) 告诉 BBC，政府尚未收到正式指定，这将禁止马夫韦勒进入美国。 此次制裁是在坦桑尼亚人权记录受到越来越多的审查之际进行的，美国立法者呼吁采取更严厉的行动。 这两名活动人士去年五月前往坦桑尼亚旁听反对派领导人通杜·利苏的审判，当时他们被拘留，后来被释放，肯尼亚人姆旺吉表示，他与乌干达的阿图海尔一起被关押了几天。 姆旺吉声称，他在拘留期间被剥光衣服、倒挂、殴打和性侵犯，而阿图海尔也表示，她在坦桑尼亚拘留期间遭到强奸。 坦桑尼亚警方当时驳回了酷刑指控，称活动人士的说法为“观点”和“道听途说”。 但卢比奥在周四晚间的声明中表示，坦桑尼亚警察部队（TPF）成员“拘留、折磨和性侵犯了”这两名活动人士。 它没有明确说明马夫韦勒所扮演的角色，但负责民主、人权和劳工事务的助理国务卿莱利·巴恩斯表示，美国正在“采取行动，追究这一令人发指的行为的责任”。 今年二月，BBC 非洲之眼发布了一部关于坦桑尼亚绑架浪潮的纪录片《坦桑尼亚的恐惧状态》。在其中，包括阿图海尔和姆旺吉在内的幸存者将马夫韦勒列为主要肇事者。他没有对这些指控发表评论。 马夫韦勒担任坦桑尼亚警察高级助理专员，是萨米亚·苏鲁胡·哈桑总统领导下第一位面临外国制裁的高级政府官员。 国际特赦组织此前曾呼吁对其所称的任意逮捕、酷刑、单独拘留和强行驱逐两名活动人士的行为进行紧急调查。 人权观察在今年关于坦桑尼亚的报告中也引用了这一案例，指出对反对派人士、活动人士和言论自由的更广泛镇压。 此次制裁实施之际，坦桑尼亚正在继续调查有关去年十月大选的政治镇压和侵权行为的报道。 为调查暴力事件而成立的调查委员会去年宣布，在有争议的选举后的广泛抗议活动中，共有 518 人死亡，其中 197 人被枪杀。"
+            "en": "In India, where thousands of young women are murdered every year for bringing in insufficient dowries, a dowry death rarely makes news.\n\nBut the death of Twisha Sharma in the central city of Bhopal on 12 May has sparked a huge media frenzy, with the case making headlines every day.\n\nThe 33-year-old model and actor had been married for just five months to lawyer Samarth Singh when she was found dead in her matrimonial home.\n\nTwisha's parents and siblings have alleged that she was tortured by Singh and his mother - retired judge Giribala Singh - over dowry demands and that she was murdered.\n\nGiribala Singh has called the accusations \"baseless\" and alleged that Twisha had mental health issues and that she killed herself.\n\nPolice official Rajnish Kashyap Kaul told BBC Hindi that they have lodged a case of dowry death against the Singhs and are investigating whether Twisha's death was murder or suicide.\n\nPolice say they are also trying to find Samarth who is absconding - a cash reward has been announced for any information on him and a lookout notice has been issued to ensure he does not leave the country.\n\nA court in Bhopal has given anticipatory bail to Giribala Singh but rejected Samarth's bail application. He's been asked to surrender by 23 May.\n\nGiribala Singh has said she doesn't know where her son is, but added that he will seek bail in the high court and will surrender if it's rejected.\n\n\"Our lawyer advised him to stay away. He told him you'll be lynched if you came out. There's a tirade against him, people are calling for his hanging,\" she told video platform Mojo Story.\n\n\"You must remember that my son has lost a deeply loved one, he's lost his companion in life. And we can't even grieve… Everyone is against us,\" she said.\n\nTwisha's family, meanwhile, have refused to cremate her body and sought a second post-mortem - the first autopsy report, which the BBC has seen, said she died by hanging, but it also spoke of injuries sustained before her death. On Friday, the high court accepted their request.\n\nWith Samarth still absconding, Twisha's family making grave allegations against the Singhs and the former judge giving interviews about the deceased's alleged mental health issues, there has been relentless media coverage of the case. A \"justice for Twisha Sharma\" page has come up on Instagram and has found its way into the media coverage.\n\nThe extraordinary interest in the case is because of who Twisha was and the reputation of the family she married into - in public perception, members of India's powerful judiciary are meant to lead by example.\n\nA model and actor, Twisha was crowned Miss Pune in 2012 after winning a beauty pageant in the western Indian city. She had featured in a number of advertising campaigns and acted in a Telugu-language film....",
+            "zh": "在印度，每年都有数以千计的年轻女性因嫁妆不足而被谋杀，嫁妆不足的死亡事件很少成为新闻。 但特威莎·夏尔马 (Twisha Sharma) 于 5 月 12 日在中部城市博帕尔去世，引发了媒体的巨大关注，此案每天都成为头条新闻。 这位 33 岁的模特兼演员被发现死在自己的婚姻住宅中，当时她与律师萨马斯·辛格 (Samarth Singh) 结婚仅五个月。 特维莎的父母和兄弟姐妹声称，辛格和他的母亲——退休法官吉里巴拉·辛格——因索取嫁妆而对她施以酷刑，并被谋杀。 吉里巴拉·辛格称这些指控“毫无根据”，并声称特维莎有精神健康问题，并且她自杀了。 警官拉杰尼什·卡什亚普·考尔 (Rajnish Kashyap Kaul) 告诉 BBC 印地语，他们已对辛格一家提起嫁妆死亡案件，并正在调查特维莎的死亡是谋杀还是自杀。 警方表示，他们还在努力寻找潜逃的萨马斯——已经宣布对任何有关他的信息悬赏现金，并发出了监视通知，以确保他不会离开该国。 博帕尔一家法院已向吉里巴拉·辛格提供预期保释，但拒绝了萨玛斯的保释申请。他被要求在 5 月 23 日之前投降。 吉里巴拉·辛格表示，她不知道儿子在哪里，但补充说，他将向高等法院寻求保释，如果被拒绝，他将自首。 “我们的律师建议他远离。他告诉他，如果你出来，你会被私刑处死。人们对他进行了长篇大论，人们要求绞死他，”她告诉视频平台Mojo Story。 “你必须记住，我的儿子失去了一位深爱的人，他失去了生活中的伴侣。我们甚至不能悲伤……每个人都反对我们，”她说。 与此同时，特维莎的家人拒绝火化她的尸体，并要求进行第二次尸检——英国广播公司看到的第一份尸检报告称她是上吊死亡的，但也提到了她死前所受的伤害。周五，高等法院接受了他们的请求。 由于萨马斯仍在潜逃，特维莎的家人对辛格夫妇提出严重指控，前法官就死者所谓的精神健康问题接受采访，媒体对此案进行了无情的报道。 Instagram 上出现了“为 Twisha Sharma 伸张正义”的页面，并引起了媒体报道。 此案之所以引起人们的极大关注，是因为特维莎的身份以及她所嫁家庭的声誉——在公众看来，印度强大的司法机构成员应该以身作则。 Twisha 是一名模特兼演员，2012 年在印度西部城市举行的选美比赛中获胜后，荣获浦那小姐称号。她曾在许多广告活动中担任主角，并在一部泰卢固语电影中出演......"
           },
           "reflection": {
-            "en": "The prophet Jeremiah reminds those in power of their solemn duty to uphold justice and protect the vulnerable, especially from oppression and violence. News of sanctions against an official for alleged torture highlights a profound failure to honor this mandate. It underscores the ongoing global call for accountability and the protection of human dignity.",
-            "zh": "先知耶利米提醒掌权者，他们负有秉持公义、保护弱者免受压迫和暴力的庄严职责。一名官员因涉嫌酷刑而受到制裁的消息，凸显了未能履行这一使命的严重失职。这强调了全球对问责制和保护人类尊严的持续呼吁。"
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Jeremiah 22:3",
-            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
-            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
-            "themeEn": "Royal justice mandate",
-            "themeZh": "王者的公义责任"
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
           },
-          "aiVerseId": "jer_22_3",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
-          "id": "www-bbc-com-news-articles-ckgpzwkn5jko-at-medium-rss-at-campaign-rss",
+          "id": "www-bbc-com-news-articles-cedpz9669deo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/93de/live/41fbbf70-55c2-11f1-b682-cf91850925ea.jpg",
-          "publishedAt": "2026-05-22T08:13:13.000Z",
+          "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb4f/live/0b4bb9f0-55c0-11f1-99e4-4d92e48ba181.jpg",
+          "publishedAt": "2026-05-22T11:39:14.000Z",
           "title": {
-            "en": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-            "zh": "卢比奥称古巴对美国构成威胁，哈瓦那反驳其“谎言”"
+            "en": "Nato chief welcomes US sending 5,000 troops to Poland",
+            "zh": "北约秘书长欢迎美国向波兰增派5000名士兵"
           },
           "summary": {
-            "en": "Senator Rubio stated that Cuba poses a threat to the United States, while Cuba's foreign minister accused Rubio of attempting to \"instigate a military aggression\" and spreading \"lies.\"",
-            "zh": "参议员卢比奥表示古巴对美国构成威胁，而古巴外交部长则指责卢比奥试图“煽动军事侵略”并散布“谎言”。"
+            "en": "The Nato chief welcomed the US decision to send 5,000 troops to Poland, following a previous cancellation of a smaller deployment.",
+            "zh": "北约秘书长对美国决定向波兰增派5000名士兵表示欢迎，此前五角大楼曾取消了向该国部署4000名士兵的计划。"
           },
           "body": {
-            "en": "Cuba poses a \"national security threat\" to the US and the likelihood of a peaceful agreement is \"not high\", US Secretary of State Marco Rubio has said.\n\nHis comments come just a day after the US charged Cuba's former president Raúl Castro with murder over the 1996 downing of two planes resulting in the killing of US nationals.\n\nRubio said Washington's preference was \"a diplomatic solution\" but warned that President Donald Trump had the right and obligation to protect his country against any threat.\n\nCuba's Foreign Minister Bruno Rodríguez accused Rubio of \"lies\" and said the island had never posed a threat to the US.\n\nSpeaking to reporters on Thursday, Rubio said diplomacy \"remains our preference with Cuba\", but added: \"I'm just being honest with you, you know, the likelihood of that happening, given who we're dealing with right now, is not high.\"\n\nHe also accused Cuba of being \"one of the leading sponsors of terrorism in the entire region\", which Rodríguez vehemently denied in a post on X.\n\nThe Cuban foreign minister criticised Rubio for trying to \"instigate a military aggression\" and accused the US government of \"ruthlessly and systematically\" attacking his country.\n\nCuba is suffering from a fuel crisis exacerbated by an effective US oil blockade, while under pressure from the Trump administration to make a deal.\n\nIts citizens have experienced extended blackouts and food shortages over the last few months.\n\nRubio said the country had accepted a US offer of $100m (£74.4m) in humanitarian aid.\n\nTrump has repeatedly sought to exert pressure on Cuba and has openly discussed toppling its communist regime.\n\nThe US has demanded political and economic reforms but the specifics are unclear beyond a leadership change. They could include a pledge to open up the economy to more foreign investment and a commitment to end the presence of Russian or Chinese intelligence agencies on the island.\n\nWednesday's indictment of the former Cuban president is seen by some as reminiscent of Trump's seizure of Venezuelan President Nicolás Maduro in January.\n\nAsked by reporters whether - and how - his government would get Castro to the US to face the charges, Rubio replied: \"I'm not going to talk about how we're going to get him here, if we were trying to get him here, why would I say to the media what our plans are about that?\"\n\nActing Attorney General Todd Blanche, who announced the charges in Miami on Wednesday, said the US \"expect he will show up here, by his own will or another way\".\n\nOn Thursday, Rubio also announced on X that the US had arrested Adys Lastres Morera, the sister of one of the top officials of a Cuban military-run conglomerate that controls most of the lucrative parts of the country's economy.\n\nMorera was living in Florida \"while also aiding Havana's...",
-            "zh": "美国国务卿卢比奥表示，古巴对美国构成“国家安全威胁”，达成和平协议的可能性“不高”。 就在他发表上述言论的前一天，美国指控古巴前总统劳尔·卡斯特罗因 1996 年击落两架飞机并导致美国公民丧生而犯有谋杀罪。 卢比奥表示，华盛顿倾向于“外交解决方案”，但警告说，唐纳德·特朗普总统有权利和义务保护他的国家免受任何威胁。 古巴外交部长布鲁诺·罗德里格斯指责卢比奥“撒谎”，并表示古巴从未对美国构成威胁。 卢比奥周四对记者表示，外交“仍然是我们对古巴的偏好”，但他补充道：“我只是对你说实话，你知道，考虑到我们现在正在与谁打交道，发生这种情况的可能性并不高。” 他还指责古巴是“整个地区恐怖主义的主要支持者之一”，罗德里格斯在 X 上的一篇帖子中强烈否认了这一点。 古巴外长批评卢比奥试图“煽动军事侵略”，并指责美国政府“无情、系统地”攻击古巴。 古巴正遭受着因美国有效石油封锁而加剧的燃料危机，同时又面临着特朗普政府要求达成协议的压力。 在过去的几个月里，其公民经历了长时间的停电和食品短缺。 卢比奥表示，该国已接受美国提出的 1 亿美元（7440 万英镑）人道主义援助提议。 特朗普多次寻求对古巴施加压力，并公开讨论推翻其共产主义政权。 美国要求进行政治和经济改革，但除了领导层更迭之外，具体细节尚不清楚。其中可能包括承诺向更多外国投资开放经济，以及承诺结束俄罗斯或中国情报机构在岛上的存在。 一些人认为周三对古巴前总统的起诉让人想起特朗普在一月份逮捕委内瑞拉总统尼古拉斯·马杜罗。 当被记者问及他的​​政府是否以及如何将卡斯特罗带到美国接受指控时，卢比奥回答说：“我不会谈论我们将如何让他来这里，如果我们试图让他来这里，我为什么要向媒体透露我们对此的计划是什么？” 代理司法部长托德·布兰奇周三在迈阿密宣布了这些指控，他表示，美国“预计他会以自己的意愿或其他方式出现在这里”。 周四，卢比奥还在 X 上宣布，美国逮捕了阿迪斯·拉斯特雷斯·莫雷拉 (Adys Lastres Morera)，她是一家古巴军营企业集团高级官员之一的妹妹，该企业控制着该国经济中大部分利润丰厚的部分。 莫雷拉住在佛罗里达州“同时也帮助哈瓦那......"
+            "en": "President Donald Trump says the US will send an extra 5,000 troops to Poland, a week after the Pentagon cancelled a planned deployment of 4,000 troops to the country.\n\nWriting on his Truth Social platform on Thursday, Trump said the decision was based on the US's relationship with Polish President Karol Nawrocki, whom he backed during presidential elections last year and who is a long-time supporter of his.\n\nTrump did not elaborate on whether the additional troops were part of the previous planned deployment or a different operation.\n\nThe Nato Secretary General welcomed the move ahead of a meeting of foreign ministers in Sweden.\n\nMark Rutte told reporters the trajectory towards Europe becoming less reliant on the US \"will continue\".\n\nPolish Prime Minister Donald Tusk called the announcement \"good news\" for both countries, adding in a post on X: \"I thank all those involved in this matter—President Nawrocki, the ministers, congressmen, and friends of Poland in the USA—for their effectiveness and unity of action.\"\n\nThe defence department abruptly said last week it was cancelling the deployment of 4,000 troops to Poland, but US Defence Secretary Pete Hegseth later said it was \"a temporary delay\" and Washington would continue to ensure it \"retains a strong military presence\" in the country.\n\nThe White House has also signalled in recent weeks that it intends to reduce its overall troop levels in Europe as part of its \"America First\" agenda.\n\nRubio is expected to call for increased burden sharing from Washington's Nato partners at Friday's talks in Helsingborg.\n\nSpeaking to reporters ahead of them, he said: \"The president's views are frankly disappointment at some of our Nato allies and their response to our operations in the Middle East.\n\n\"In the meantime there are other areas where we continue with cooperation,\" he added - citing the Poland announcement.\n\n\"That said, obviously the United States continues to have global commitments that it needs to meet in terms of our force deployment and that constantly requires us to re-examine where we put troops - this is not a punitive thing.\"\n\nEarlier, the BBC asked Rubio about unconfirmed reports the US could shrink its total troop numbers available in the event of an attack on a Nato country.\n\nHe said \"some of those issues\" would be discussed at the summit, adding Trump remained very upset and disappointed with Nato allies.\n\nGerman Foreign Minister Johann Wadephul has also welcomed the US decision to deploy additional troops to Poland, telling reporters: \"It serves not only for Poland's security, but for the security of the whole alliance and so also for us. So, this is absolutely in our interest\".\n\nEarlier this month, the US announced it would withdraw 5,000 troops from Germany after a row between Trump and...",
+            "zh": "唐纳德·特朗普总统表示，在五角大楼取消向波兰部署 4,000 名士兵的计划一周后，美国将向波兰增派 5,000 名士兵。 北约秘书长马克·吕特对瑞典外长会议之前的举动表示欢迎，并补充说欧洲减少对美国依赖的趋势“将继续”。 特朗普周四在其“真相社交”平台上写道，这一决定是基于美国与波兰总统卡罗尔·纳罗基的关系，他在去年的总统选举中支持了后者。 他没有透露增派部队是之前计划部署的一部分还是不同行动的更多细节。 白宫最近几周表示，作为“美国优先”议程的一部分，它打算减少在欧洲的总体驻军人数。 预计卢比奥将在周五赫尔辛堡的会谈中呼吁华盛顿的北约伙伴加强分担责任。 他周五早上对记者说：“坦率地说，总统的观点对我们的一些北约盟友及其对我们在中东行动的反应感到失望。 “与此同时，我们在其他领域继续合作，”他援引波兰的声明补充道。 “这显然表明，美国在部队部署方面继续履行需要履行的全球承诺，并且不断要求我们重新审查我们在哪里部署部队——这不是惩罚性的事情。” 在会议之前，英国广播公司向卢比奥询问了未经证实的报道，即如果北约国家遭受袭击，美国可能会缩减可用部队总数。 他表示，“其中一些问题”将在峰会上讨论，并补充说特朗普仍然对北约盟友感到非常不安和失望。 本月早些时候，在特朗普与德国总理弗里德里希·梅尔茨就伊朗战争问题发生争执后，美国宣布将从德国撤军 5000 名士兵。 特朗普此前批评梅尔茨称美国被伊朗谈判代表“羞辱”。 目前还不清楚向波兰增派的部队是从德国撤军的一部分还是一个单独的部队。 他还批评华盛顿的北约盟友不愿与美国一起在霍尔木兹海峡问题上向伊朗施压。 卢比奥周五表示，伊朗问题谈判取得了“轻微进展”，但没有透露任何细节。 “我们正在等待有关正在进行的对话的消息……我不想夸大其词，但已经有了一些进展，”他说。 特朗普宣布这一消息的一周前，国防部突然表示将取消向波兰部署 4000 名士兵。 美国国防部长皮特·赫格斯后来表示..."
           },
           "reflection": {
-            "en": "In international relations, words carry significant weight, and accusations of \"lies\" can escalate tensions. This story reminds us of the challenge of discerning truth amidst conflicting claims between nations. Ephesians 4:25 calls us to \"put off falsehood and speak truthfully to your neighbor,\" a principle vital for fostering trust and understanding, even...",
-            "zh": "在国际关系中，言语举足轻重，而“谎言”的指控可能加剧紧张局势。这个故事提醒我们，在国家之间相互矛盾的主张中辨别真相是一项挑战。以弗所书4:25呼吁我们“脱去谎言，与邻舍说实话”，这一原则对于在政治分歧中建立信任和理解至关重要。"
+            "en": "The deployment of troops often reflects a nation's search for security and strength in times of perceived trouble. While earthly measures are taken, Psalm 46:1 reminds us that ultimate refuge and strength are found in God, an ever-present help. This perspective encourages us to seek divine wisdom and peace even amidst geopolitical uncertainties.",
+            "zh": "军队的部署常反映一个国家在感知到困境时对安全和力量的寻求。虽然会采取地上的措施，但诗篇46:1提醒我们，最终的避难所和力量来自雅伟，祂是我们在患难中随时的帮助。这视角鼓励我们在地缘政治的不确定性中，仍寻求神的智慧与平安。"
           },
           "verse": {
-            "reference": "Ephesians 4:25",
-            "textEn": "Therefore each of you must put off falsehood and speak truthfully to your neighbor.",
-            "textZh": "所以你们要弃绝谎言，各人与邻舍说实话。",
-            "themeEn": "Truth-telling",
-            "themeZh": "说诚实话"
+            "reference": "Psalm 46:1",
+            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
+            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
+            "themeEn": "Refuge in trouble",
+            "themeZh": "患难中的避难所"
           },
-          "aiVerseId": "eph_4_25",
+          "aiVerseId": "ps_46_1",
           "translationState": "localized"
         },
         {
-          "id": "www-dw-com-en-us-trump-hints-at-action-against-cuba-amid-intensifying-st",
+          "id": "www-bbc-com-news-articles-c62egj12026o-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/us-trump-hints-at-action-against-cuba-amid-intensifying-standoff/a-77257021?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77255971_6.jpg",
-          "publishedAt": "2026-05-22T05:20:00.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1b68/live/1f2e9b70-55d1-11f1-9a5f-8f70d4bfa4fc.jpg",
+          "publishedAt": "2026-05-22T11:34:48.000Z",
           "title": {
-            "en": "US: Trump hints at action against Cuba amid intensifying standoff",
-            "zh": "美国：特朗普暗示将对古巴采取行动，僵局日益加剧"
+            "en": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
+            "zh": "土耳其反对派反对法院罢免领导人，以支持埃尔多安的裁决"
           },
           "summary": {
-            "en": "The US escalated pressure on Cuba after charging former president Raul Castro. A US official indicated that while Washington is open to talks, a negotiated solution appears unlikely in the intensifying standoff.",
-            "zh": "美国对古巴施加了更大压力，其中包括起诉前总统劳尔·卡斯特罗。一位美国官员表示，尽管华盛顿对谈判持开放态度，但在日益紧张的僵局中，通过谈判达成解决方案的可能性很小。"
+            "en": "The appeal court declared Özgür Özel's party leadership victory void, further cementing the president's grip on power.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "The US escalated pressure on Cuba after charging former president Raul Castro, with Marco Rubio saying Washington remains open to talks but sees little chance of a negotiated solution.\n\nThe US renewed threats of possible action against Cuba on Thursday, signaling a focus on changing the Caribbean island's communist system.\n\nBoth President Donald Trump and Secretary of State Marco Rubio weighed in on the issue.\n\nTrump told reporters that past US presidents had considered intervening in Cuba but \"it looks like I'll be the one that does it.\"\n\nTrump, however, denied that the deployment of the USS Nimitz and its escort warships to the Caribbean for maritime exercises was intended to intimidate Cuba.\n\nToeing the same line, Rubio said Washington preferred a diplomatic solution but warned the chances of a negotiated settlement with Cuba's communist government were \"not high.\"\n\n\"They're not going to be able to wait us out or buy time. We're very serious, we're very focused,\" he said.\n\nHe added that Trump \"always has the option to do whatever it takes to support and protect the national interest.\"\n\nRubio, the son of Cuban immigrants, has long taken a hard line against Cuba's communist leadership.\n\nThe secretary of state described Cuba as a national security threat because of its security and intelligence ties with China and Russia .\n\nOn Wednesday, US Department of Justice announced the indictment of former Cuban President Raul Castro .\n\nThe 94-year-old Castro has been charged for his alleged role&#160;in the downing of two civilian US planes by Cuban air force fighter jets in 1996 when he served as defense minister.\n\nCuban President Miguel Diaz-Canel condemned the indictment as a political stunt aimed at justifying aggression against the island.\n\nMeanwhile, Rubio also said the US had detained Adys Lastres Morera, the sister of a senior executive at military-run conglomerate GAESA, after revoking her US green card.\n\nRubio had earlier accused GAESA of being guilty of enriching the country's elites while ordinary citizens suffer, calling it a \"state within a state.\"\n\nMany experts see the recent US steps against Cuba a replay of the same playbook the Trump administration followed when it captured then-Venezuelan President Nicolas Maduro in a military operation in early January.\n\nAmid crippling US sanctions, Cubans are facing daily blackouts lasting up to 20 hours and severe water shortages. Runaway inflation also caused prices for basic goods to soar, while trash has piled up across Havana.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button , so you’ll always see our verified news first.",
-            "zh": "在指控前总统劳尔·卡斯特罗后，美国加大了对古巴的压力，卢比奥表示，华盛顿仍对谈判持开放态度，但认为通过谈判解决问题的可能性很小。 周四，美国再次威胁可能对古巴采取行动，这表明美国将重点关注改变这个加勒比岛国的共产主义制度。 唐纳德·特朗普总统和国务卿马可·卢比奥都对这个问题发表了看法。 特朗普告诉记者，过去的美国总统曾考虑过干预古巴，但“看来我会这么做。” 不过，特朗普否认将尼米兹号及其护航军舰部署到加勒比海进行海上演习是为了恐吓古巴。 卢比奥也遵循同样的路线，表示华盛顿更倾向于通过外交解决方案，但他警告说，与古巴共产党政府通过谈判达成解决方案的可能性“不高”。 “他们无法等我们出去或争取时间。我们非常认真，我们非常专注，”他说。 他补充说，特朗普“总是可以选择不惜一切代价支持和保护国家利益。” 卢比奥是古巴移民的儿子，长期以来一直对古巴共产党领导层采取强硬立场。 国务卿将古巴描述为国家安全威胁，因为古巴与中国和俄罗斯的安全和情报关系。 周三，美国司法部宣布对古巴前总统劳尔·卡斯特罗提起起诉。 94 岁的卡斯特罗因涉嫌 1996 年担任国防部长期间古巴空军战斗机击落两架美国民用飞机而受到指控。 古巴总统米格尔·迪亚斯-卡内尔谴责该起诉书是一种政治噱头，旨在为对该岛的侵略辩护。 与此同时，卢比奥还表示，美国在吊销军营企业集团 GAESA 高级管理人员的妹妹阿迪斯·拉斯特雷斯·莫雷拉 (Adys Lastres Morera) 的美国绿卡后拘留了她。 卢比奥早些时候指责 GAESA 犯有让国家精英致富而普通公民受苦的罪行，称其为“国中之国”。 许多专家认为，美国最近针对古巴的举措是特朗普政府在一月初在军事行动中抓获时任委内瑞拉总统尼古拉斯·马杜罗时所遵循的同一剧本的重演。 在美国严厉的制裁下，古巴人每天面临长达 20 小时的停电和严重的缺水。失控的通货膨胀还导致基本商品价格飙升，而哈瓦那各地的垃圾堆积如山。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
+            "en": "Turkish opposition leader Özgür Özel has vowed to fight a court ruling removing him and fellow party leaders, in the latest legal move that helps cement President Recep Tayyip Erdoğan's grip on power.\n\nThe appeal court declared the 2023 leadership election in Özel's Republican People's Party (CHP) null and void, prompting thousands of demonstrators to gather outside party headquarters in Ankara.\n\n\"We are experiencing a dark day for Turkish democracy,\" said Özel, who vowed to challenge the ruling in the courts and with Turkey's supreme election council (YSK).\n\nJustice Minister Akin Gürlek insisted the ruling \"reinforces our citizens' trust in democracy\".\n\nUntil Gürlek was appointed justice minister by President Erdoğan earlier this year, he was the chief prosecutor in Istanbul who spearheaded investigations targeting the opposition, and the city's highly popular mayor Ekrem Imamoğlu in particular.\n\nImamoğlu, who is still considered Erdoğan's biggest political rival, has been in jail for over a year and it was Gürlek who accused him of corruption offences which command more than 2,000 years behind bars.\n\nThe supreme election council was meeting on Friday to hear the opposition party's objection to the court's decision.\n\nIn its ruling on Thursday, the appeals court in Ankara overturned a 2025 ruling by a lower court that threw out allegations of vote buying during the CHP primary which made Özgür Özel opposition leader.\n\nThe appeals court decided that Özel should be replaced by Kemal Kilicdaroğlu, a 77-year-old party veteran who was defeated by Erdoğan in the 2023 presidential election and then voted out as party leader.\n\nThe ruling also means the party's entire executive is replaced and it is thought the decisions it has made are no longer recognised.\n\nBBC Turkish correspondent Ayşe Sayin said the ruling came as a shock at CHP headquarters, with some members moved to tears. She described tense moments when some party members removed a photo of Kilicdaroğlu from the wall, while others chanted the former leader was a \"traitor\".\n\nTurkey's stock market plummeted 6% late on Thursday before recovering some of that ground on Friday morning.\n\nErdoğan has led Turkey since 2003, as prime minister and then as president, and Özel has accused Erdoğan's AK party of pursuing a strategy to \"eliminate its rivals\". The 72-year-old leader can only run for president again if he calls early elections before 2028 or changes the constitution.\n\nThe CHP leader bitterly condemned Thursday's court ruling as a \"judicial coup\" and the party's executive rejected the court's authority.\n\n\"These coup plotters don't come with tanks, cannons, rifles or camouflage; these coup plotters come in judges' and prosecutors' robes,\" Özel complained.\n\nHe also rejected speculation that the party...",
+            "zh": "土耳其反对派领导人厄兹古尔·奥泽尔发誓要反对法院将他和其他党派领导人罢免的裁决，这是有助于巩固总统雷杰普·塔伊普·埃尔多安对权力的最新法律举措。 上诉法院宣布奥泽尔领导的共和人民党 (CHP) 2023 年领导人选举无效，促使数千名示威者聚集在安卡拉党总部外。 奥泽尔说：“我们正在经历土耳其民主的黑暗一天。”他发誓要向法院和土耳其最高选举委员会（YSK）挑战这一裁决。 司法部长阿金·居勒克坚称这一裁决“增强了我们公民对民主的信任”。 在居尔莱克今年早些时候被埃尔多安总统任命为司法部长之前，他一直是伊斯坦布尔的首席检察官，带头针对反对派，特别是该市极受欢迎的市长埃克雷姆·伊玛莫格鲁进行调查。 伊玛莫鲁仍然被认为是埃尔多安最大的政治对手，他已经入狱一年多了，古尔莱克指控他犯有腐败罪，并被判入狱 2000 多年。 最高选举委员会于周五召开会议，听取反对党对法院裁决的反对意见。 安卡拉上诉法院在周四的裁决中推翻了下级法院 2025 年的一项裁决，该裁决驳回了 CHP 初选期间收买选票的指控，该指控使 Özgür Özel 成为反对党领袖。 上诉法院裁定，厄泽尔应由77岁的党内资深人士凯末尔·基利奇达罗格鲁(Kemal Kilicdaroğlu)接替，后者在2023年总统选举中被埃尔多安击败，随后被选为党魁。 这项裁决还意味着该党的整个行政部门都被更换，并且人们认为该党做出的决定将不再得到认可。 BBC 土耳其记者 Ayşe Sayin 表示，这一裁决令 CHP 总部感到震惊，一些成员感动得流下了眼泪。她描述了当时的紧张时刻，一些党员从墙上取下了基利奇达罗奥卢的照片，而另一些人则高喊这位前领导人是“叛徒”。 土耳其股市周四晚间暴跌 6%，周五上午收复部分失地。 埃尔多安自 2003 年以来一直领导土耳其，先后担任总理和总统，厄泽尔指责埃尔多安的正义与发展党奉行“消灭竞争对手”的战略。这位72岁的领导人只有在2028年之前呼吁提前选举或修改宪法才能再次竞选总统。 这位共和人民党领导人严厉谴责周四法院的裁决是一场“司法政变”，该党的执行官拒绝接受法院的权威。 “这些政变策划者没有携带坦克、大炮、步枪或迷彩服；这些政变策划者穿着法官和检察官的长袍，”奥泽尔抱怨道。 他还否认了该党..."
           },
           "reflection": {
-            "en": "In moments of intensifying international standoff, the path to peace can seem distant and difficult. Yet, the call to be peacemakers remains, reminding us of the divine blessing on those who strive to bridge divides and seek reconciliation. Even when solutions appear unlikely, the pursuit of peace reflects a profound commitment to human flourishing.",
-            "zh": "在国际僵局日益紧张的时刻，通往和平的道路可能显得遥远而艰难。然而，成为和平缔造者的呼召依然存在，提醒我们那些努力弥合分歧、寻求和解的人所蒙受的神圣祝福。即使解决方案看似渺茫，对和平的追求也反映了对人类福祉的深刻承诺。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
-          "aiVerseId": "matt_5_9",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
-          "id": "www-dw-com-en-what-s-behind-bolivia-s-ongoing-protests-a-77254642-maca-e",
+          "id": "www-dw-com-en-can-the-quad-stay-relevant-to-boost-indo-pacific-security-",
           "section": "world",
           "source": "DW World",
           "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/what-s-behind-bolivia-s-ongoing-protests/a-77254642?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77228437_6.jpg",
-          "publishedAt": "2026-05-22T05:12:00.000Z",
+          "link": "https://www.dw.com/en/can-the-quad-stay-relevant-to-boost-indo-pacific-security/a-77261939?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/71602744_6.jpg",
+          "publishedAt": "2026-05-22T11:29:00.000Z",
           "title": {
-            "en": "What's behind Bolivia's ongoing protests?",
-            "zh": "玻利维亚持续抗议的背后是什么？"
+            "en": "Can the Quad stay relevant to boost Indo-Pacific security?",
+            "zh": "四方机制能否保持影响力以促进印太安全？"
           },
           "summary": {
-            "en": "Months after center-right President Rodrigo Paz took office in the South American nation, anti-government protests have escalated into riots. DW looks at the root causes and what's at stake.",
-            "zh": "在中右翼总统罗德里戈·帕斯就任这个南美国家总统数月后，反政府抗议活动已升级为骚乱。《德国之声》探讨了其根本原因以及利害关系。"
+            "en": "Foreign ministers from the US, India, Japan and Australia — collectively known as the Quad — need to put past differences behind them if the alliance is to remain an effective means of countering China.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Months after center-right President Rodrigo Paz took office in the South American nation, anti-government protests have escalated into riots. DW looks at the root causes and what's at stake.\n\nHighways have been blocked for weeks, and now the situation is growing ever more tense in the city of La Paz, where Bolivia's government is based.&#160;Local journalists reported that demonstrators have begun detonating small charges of dynamite to express their discontent.\n\nProtesters have stormed public buildings and set up dozens of blockades, leading to fuel and food shortages and&#160;causing hospitals to run out of oxygen cylinders.\n\nBanks have closed as a precaution. Economists warn that the protests are plunging Bolivia ever deeper into crisis. The US State Department has even called the ongoing protests an \"attempted coup.\"\n\nBolivia's economy has been struggling for some time. As a result of a weak export sector, the Bolivian state lacks foreign currency, which it urgently needs for fuel imports, among other things.\n\nAfter almost 20 years of socialist governance with strong state control over economic affairs under Presidents Evo Morales and&#160;Luis Arce, Bolivians voted for change in 2025.\n\nAhead of the runoff election in&#160;October, the two right-leaning candidates promised economic reforms and greater market freedoms.\n\nJorge Quiroga, who enjoyed considerable public support, wanted to put Bolivia back on track with a cash injection from the International Monetary Fund. Yet in the end, center-right lawmaker Rodrigo Paz, who had campaigned on a platform of state reform without outside help, won the presidential election.\n\nWhile his Christian Democratic PDC party won the necessary parliamentary majority to implement his reforms, experts predicted a challenging presidency before he even took office.\n\nIn October, Christina Stolte of the Konrad Adenauer Foundation in La Paz warned that the PDC lacked ideological unity and allegiance to the new president.\n\n\"The PDC does not guarantee the newly elected president any coherent party support in parliament, let alone disciplined voting along the lines he has set,\" she said.\n\nYears of foreign currency shortages and a pronounced import dependency have driven up Bolivia's debt ratio to 95% of gross domestic product.\n\nIn late 2025, President Paz abolished petrol subsidies, causing fuel prices to almost double. While this first measure to consolidate the state budget was considered reasonable by observers, it proved painful for ordinary Bolivians. The president's subsidy cut caused a price spike which, in combination with other domestic factors, accelerated&#160;inflation.\n\nPrices were driven up further by outside factors like the war in Iran . In April, Bolivian purchasing power had dropped 14% lower than what...",
-            "zh": "中右翼总统罗德里戈·帕斯在这个南美国家就职几个月后，反政府抗议活动升级为骚乱。德国之声着眼于根本原因和利害关系。 高速公路已被封锁数周，现在玻利维亚政府所在地拉巴斯市的局势变得越来越紧张。 当地记者报道称，示威者已开始引爆少量炸药以表达他们的不满。 抗议者袭击了公共建筑，并设置了数十道封锁线，导致燃料和食品短缺，并导致医院氧气瓶耗尽。 作为预防措施，银行已关闭。经济学家警告说，抗议活动正在使玻利维亚陷入更深的危机。美国国务院甚至称正在进行的抗议活动是“未遂政变”。 一段时间以来，玻利维亚的经济一直陷入困境。由于出口部门疲软，玻利维亚国家缺乏外汇，而该国急需外汇来进口燃料等。 在埃沃·莫拉莱斯总统和路易斯·阿尔塞总统的领导下，经过近 20 年的社会主义治理以及国家对经济事务的强有力控制后，玻利维亚人在 2025 年投票支持变革。 在十月的决选之前，两位右倾候选人承诺进行经济改革和更大的市场自由。 享有相当大公众支持的豪尔赫·基罗加希望通过国际货币基金组织的现金注入让玻利维亚重回正轨。但最终，在没有外界帮助的情况下以国家改革为竞选纲领的中右翼议员罗德里戈·帕斯赢得了总统选举。 尽管他的基督教民主党赢得了实施改革所需的议会多数席位，但专家们在他上任之前就预测，总统任期将充满挑战。 十月，拉巴斯康拉德·阿登纳基金会的克里斯蒂娜·斯托尔特警告说，民主党缺乏意识形态团结和对新总统的忠诚。 她说：“民主党不保证新当选的总统在议会中获得一致的党派支持，更不用说按照他设定的路线进行严格的投票了。” 多年的外汇短缺和明显的进口依赖导致玻利维亚的债务比率达到国内生产总值的95%。 2025 年末，帕斯总统取消了汽油补贴，导致燃油价格几乎翻倍。虽然观察人士认为，这第一项巩固国家预算的措施是合理的，但事实证明，这对普通玻利维亚人来说是痛苦的。总统的补贴削减导致价格飙升，再加上其他国内因素，加速了通货膨胀。 伊朗战争等外部因素进一步推高了价格。 4 月份，玻利维亚的购买力比去年同期下降了 14%..."
+            "en": "Foreign ministers from the US, India, Japan and Australia — collectively known as the Quad — need to put past differences behind them if the alliance is to remain an effective means of countering China.\n\nForeign ministers from the US , India, Japan and Australia — the four nations that make up the Quadrilateral Security Dialogue, better known as the Quad — are set to meet in New Delhi over three days from Sunday to discuss Indo-Pacific security, energy supplies and emerging technologies.\n\nThe meeting comes as China continues to test geopolitical and security boundaries in the region.\n\nBut it's another issue, which is not on the agenda, that looms large over the gathering: how to keep the alliance alive and relevant in an ever more challenging geopolitical landscape and an increasingly assertive China .\n\nThe Quad, which unites the four nations&#160;in seeking a Free and Open Indo-Pacific (FOIP), has not had a meeting of national leaders since 2024, when then-President Joe Biden hosted his counterparts in Wilmington, Delaware.\n\nIndia was meant to host the next annual meeting in the latter part of 2025, but that never materialized amid tensions between India and the new administration of President Donald Trump .\n\nTrump has imposed tariffs and punitive duties on Indian imports to the US, straining ties with Indian Prime Minister Narendra Modi. The US president further antagonized New Delhi by claiming to have mediated a settlement to border clashes between India and Pakistan in May last year . The US president was also critical of India purchasing Russian military equipment .\n\nOne year on, Secretary of State Marco Rubio, who is heading the US delegation to India, is tasked with smoothing ruffled diplomatic feathers. With Trump's attention apparently focused on the war in the Middle East and, potentially, Cuba , Rubio's mission could be a challenging one.\n\n\"The US, Japan and Australia already had an important and effective trilateral security arrangement, but the whole purpose of the Quad was to bring India in as another power to give it more influence and reach,\" said James Brown, a professor of international relations at the Tokyo campus of Temple University.\n\n\"Unfortunately, this US administration does not seem to have grasped that or valued India's presence as an ally, which has badly alienated Modi,\" he told DW.\n\nJapan and Australia have made efforts to keep the four-way alliance intact and functioning, with Brown suggesting that the Quad might actually benefit from the US being represented by Rubio, rather than Trump, in India.\n\nWriting in the Foreign Policy magazine, Derek Grossman, a professor at the University of Southern California, cautioned that should Trump decline to take part in the next leaders' meeting, likely to be held in Australia...",
+            "zh": "如果该联盟要继续成为对抗中国的有效手段，美国、印度、日本和澳大利亚（统称为“四方”）的外交部长就需要将过去的分歧抛在脑后。 美国、印度、日本和澳大利亚这四个国家的外交部长将于周日起在新德里举行为期三天的会议，讨论印太安全、能源供应和新兴技术。 这次会议召开之际，中国正在继续测试该地区的地缘政治和安全边界。 但另一个未列入议程的问题在这次会议上显得尤为突出：如何在日益具有挑战性的地缘政治格局和日益自信的中国中保持联盟的活力和相关性。 四方联盟将四个国家团结起来，寻求自由开放的印度太平洋地区 (FOIP)，自 2024 年时任总统乔·拜登在特拉华州威尔明顿接待各国领导人以来，该组织就没有举行过国家领导人会议。 印度原定于 2025 年下半年主办下一次年度会议，但由于印度与唐纳德·特朗普总统新政府之间的紧张关系，这一目标从未实现。 特朗普对印度输美产品征收关税和惩罚性关税，导致与印度总理纳伦德拉·莫迪的关系紧张。这位美国总统去年五月声称已通过调解解决了印度和巴基斯坦之间的边境冲突，这进一步激怒了新德里。美国总统还批评印度购买俄罗斯军事装备。 一年后，率领美国代表团访问印度的国务卿马可·卢比奥肩负着平息外交争端的任务。由于特朗普的注意力显然集中在中东战争以及可能的古巴战争上，卢比奥的任务可能是一项具有挑战性的任务。 天普大学东京校区国际关系学教授詹姆斯·布朗表示：“美国、日本和澳大利亚已经达成了重要且有效的三边安全安排，但四方机制的全部目的是让印度成为另一个大国，以赋予其更大的影响力和影响力。” 他告诉德国之声：“不幸的是，本届美国政府似乎没有认识到这一点，也没有重视印度作为盟友的存在，这严重疏远了莫迪。” 日本和澳大利亚一直在努力保持四方联盟的完整和运作，布朗表示，四方联盟实际上可能会受益于卢比奥而不是特朗普在印度代表美国。 南加州大学教授德里克·格罗斯曼在《外交政策》杂志上撰文警告说，如果特朗普拒绝参加可能在澳大利亚举行的下一次领导人会议……"
           },
           "reflection": {
-            "en": "The ongoing protests in Bolivia highlight the deep connection between governance and public sentiment. When leaders are perceived as failing to serve the common good, societal unrest can emerge as people express their grievances. This reminds us of the biblical wisdom that the character of leadership profoundly impacts the well-being and peace of a nation.",
-            "zh": "玻利维亚持续的抗议活动，凸显了治理与民意之间的深刻联系。当领导者被认为未能服务公共利益时，社会动荡就会出现，因为人们表达了他们的不满。这提醒我们，圣经的智慧指出，领导者的品格深刻影响着一个国家的福祉与和平。"
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 29:2",
-            "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
-            "textZh": "义人增多，民就喜乐；恶人掌权，民就叹息。",
-            "themeEn": "Righteous vs wicked rulers",
-            "themeZh": "义人执政与恶人当道"
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
           },
-          "aiVerseId": "prov_29_2",
-          "translationState": "localized"
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-new-alliances-emerge-in-middle-east-which-one-will-win-a-7",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/76385150_6.jpg",
+          "publishedAt": "2026-05-22T11:00:00.000Z",
+          "title": {
+            "en": "New alliances emerge in Middle East — which one will 'win'?",
+            "zh": "中东出现新联盟——哪一个会“获胜”？"
+          },
+          "summary": {
+            "en": "The UAE and Israel are getting closer, while Saudi Arabia is enhancing cooperation with Egypt, Turkey and Pakistan. The new alliances represent a rift in the Gulf, as approaches to the Iran war and the region diverge.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及合一、和好与弥合分歧。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The UAE and Israel are getting closer, while Saudi Arabia is enhancing cooperation with Egypt, Turkey and Pakistan. The new alliances represent a rift in the Gulf, as approaches to the Iran war and the region diverge.\n\nTo all appearances, it really looks as if&#160;the United Arab Emirates &#160;has picked a side as a result of the US and Israel's&#160; war with Iran , a side that could isolate it from much of the rest of the Arab world.\n\nEarlier this week, it was reported that Israel and the UAE&#160;were establishing a joint defense fund, which would see the two countries buying weapons together. The report, first published by the media outlet Middle East Eye , cited two unnamed US officials and has not been confirmed by either government.\n\nThe fund was apparently agreed to during a secret visit Israeli Prime Minister Benjamin Netanyahu made to the UAE, which he made public on the evening of May 13. A&#160;few hours later, the UAE denied the visit&#160;ever happened.\n\nThe day before, at an event in Tel Aviv, US Ambassador to Israel&#160;Mike Huckabee&#160;confirmed that Israel had loaned the UAE aerial defense weaponry in order to help defend against air attacks from Iran.&#160;\n\nAll&#160;that — combined with the UAE's late-April announcement that it was leaving the oil producers' syndicate OPEC , to which it had belonged for 59 years — caused a rash of analyses stating that the Middle East was changing radically.\n\n\"A decades-old Gulf order is fading, and another is taking&#160;shape,\" Cinzia Bianco, a visiting fellow at the European Council on Foreign Relations, wrote in a mid-May commentary .\n\n\"The geopolitical earthquake sparked by the UAE is more than a temporary regional conflict,\" Ma Young-sam, a former Korean ambassador to Israel, recently said in the English-language daily&#160; The Korea Times . \"It signals the emergence of a new Middle Eastern order.\"\n\nMarcus Schneider, who heads the Friedrich Ebert Foundation's regional project for peace and security in the Middle East in Lebanon, described&#160;the two&#160;emerging blocs like this: One is a hexagon, he said,&#160;made up of the UAE and Israel, and the second is a diamond shape, consisting of Saudi Arabia , Pakistan , Turkey and Egypt . The latter countries, which have Sunni-majority populations, have also been called \"the Quartet.\"\n\nSchneider said what connects Israel and the UAE is that both are currently practicing policies of \"disruption\" to try to \"reshape the Middle East and beyond.\"\n\nNetanyahu has frequently boasted that Israel is \"changing the face of the Middle East,\" something he repeated in early March &#160;after Israel's joint attack on Iran with the US.&#160;The UAE also \"seeks to redraw the map of the Middle East and build new networks of geopolitical and geoeconomic...",
+            "zh": "阿联酋和以色列关系日益密切，沙特则加强与埃及、土耳其和巴基斯坦的合作。随着伊朗战争和该地区的态度出现分歧，新的联盟代表了海湾地区的裂痕。 从表面上看，由于美国和以色列与伊朗的战争，阿拉伯联合酋长国确实已经选择了一边，这一边可能会将其与阿拉伯世界的其他大部分地区隔离。 本周早些时候，有报道称以色列和阿联酋正在建立联合防务基金，两国将共同购买武器。这份由媒体《中东之眼》首先发表的报告援引了两名未透露姓名的美国官员的话，但尚未得到两国政府的证实。 该基金显然是在以色列总理本杰明·内塔尼亚胡对阿联酋进行秘密访问期间同意的，他于 5 月 13 日晚将访问公开。几个小时后，阿联酋否认曾进行过这次访问。 前一天，在特拉维夫举行的一次活动中，美国驻以色列大使迈克·哈卡比证实，以色列已向阿联酋借出防空武器，以帮助抵御伊朗的空袭。 所有这一切，加上阿联酋 4 月底宣布退出已加入该组织 59 年的石油生产国欧佩克 (OPEC)，引发了大量分析，认为中东正在发生根本性变化。 欧洲外交关系委员会客座研究员辛齐亚·比安科 (Cinzia Bianco) 在 5 月中旬的评论中写道：“已有数十年历史的海湾秩序正在衰落，另一种秩序正在形成。” “阿联酋引发的地缘政治地震不仅仅是暂时的地区冲突，”前韩国驻以色列大使马泳三最近在英文日报《韩国时报》上表示。 “这标志着中东新秩序的出现。” 弗里德里希·艾伯特基金会黎巴嫩中东和平与安全区域项目负责人马库斯·施奈德这样描述这两个新兴集团：他说，一个是六边形，由阿联酋和以色列组成，第二个是菱形，由沙特阿拉伯、巴基斯坦、土耳其和埃及组成。后者的人口以逊尼派为主，也被称为“四方”。 施奈德表示，以色列和阿联酋的共同之处在于，两国目前都在实行“颠覆”政策，试图“重塑中东及其他地区”。 内塔尼亚胡经常吹嘘以色列正在“改变中东的面貌”，三月初，在以色列与美国联合攻击伊朗后，他又重复了这一点。 阿联酋还“寻求重新绘制中东地图并建立新的地缘政治和地缘经济网络......"
+          },
+          "reflection": {
+            "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到合一、和好与弥合分歧。Ephesians 4:3提醒我们，在快速变化的新闻里，仍要以缔造和平与搭建桥梁来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Galatians 3:28",
+            "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
+            "textZh": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
+            "themeEn": "One in Christ",
+            "themeZh": "基督里合一"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-what-happened-to-jailed-belarus-dissident-raman-pratasevic",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/what-happened-to-jailed-belarus-dissident-raman-pratasevich/a-77250853?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/58043540_6.jpg",
+          "publishedAt": "2026-05-22T10:41:00.000Z",
+          "title": {
+            "en": "What happened to jailed Belarus dissident Raman Pratasevich?",
+            "zh": "被监禁的白俄罗斯持不同政见者拉曼·普拉塔塞维奇（Raman Pratasevich）怎么样了？"
+          },
+          "summary": {
+            "en": "In 2021, Belarus diverted a Ryanair plane to seize opposition journalist Raman Pratasevich. What has happened to him since, and why is he now seemingly supporting the Belarusian regime?",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及盼望、忍耐与重建。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "In 2021, Belarus diverted a Ryanair plane to seize opposition journalist Raman Pratasevich. What has happened to him since, and why is he now seemingly supporting the Belarusian regime?\n\nAlexander Lukashenko's regime went to great lengths to arrest Raman Pratasevich. On May 23, 2021, Belarusian authorities forced a Ryanair plane &#160;on its way from&#160;Athens to Vilnius, in Lithuania, to land in the Belarusian capital, Minsk, sparking&#160;global outrage.\n\nAs soon as&#160;the plane touched down, Pratasevich, the former&#160;editor-in-chief of&#160; Nexta, a Belarusian media network that was largely distributed via the Telegram platform and had&#160;been classified as \"extremist\" by the Belarusian&#160;regime, was escorted off and arrested along with his girlfriend, Sofia Sapega.\n\nNexta, which operated from Poland, was the most important news source on the anti-government protests that erupted in August 2020 after the&#160; rigged Belarus presidential election . Lukashenko said he had won a landslide victory,&#160;but the opposition disputed his claim. Nexta, where Pratasevich worked until September 2020, played a key role in coordinating the anti-government protests and sharing the locations and&#160;times of upcoming demonstrations.\n\nIn May 2021, Pratasevich — who by this time had already moved to Vilnius with Sapega — traveled to the Delphi Economic Forum in Greece , where exiled Belarusian opposition leader Sviatlana Tsikhanouskaya&#160;was due to meet with European politicians.\n\nAfterwards, Pratasevich and Sapega&#160;stayed on in Greece for a vacation. Before their scheduled flight on May 23, Pratasevich noticed that he was being followed at the airport and was able to inform his colleagues&#160;before boarding. Greek authorities later confirmed that three men with Russian passports had also boarded the flight from Athens to Vilnius.\n\nAs the plane passed over Belarus ,&#160;Belarusian air traffic controllers, claiming that there was a bomb on board, instructed the pilots to&#160;change course and land in Minsk. The real reason for the diversion, however, was to allow Belarusian authorities to arrest Pratasevich and Sapega.\n\nThe incident led to the European Union Aviation Safety Agency to&#160;ban&#160;European airlines from flying over Belarus altogether. The US Federal Aviation Administration&#160;imposed a similar restriction for US airlines. Belarusian airlines, such as state-owned carrier Belavia, have also been banned from landing at and taking&#160;off from EU airports since June 2021.\n\nOne year after Pratasevich's arrest at Minsk airport, the International Civil Aviation Organization concluded in a report that the claim&#160;of a bomb threat had been deliberately false.\n\nJust one day after Pratasevich was arrested, a video was...",
+            "zh": "2021年，白俄罗斯让一架瑞安航空飞机改道，抓捕反对派记者拉曼·普拉塔塞维奇(Raman Pratasevich)。此后他发生了什么？为什么他现在似乎支持白俄罗斯政权？ 亚历山大·卢卡申科政权竭尽全力逮捕拉曼·普拉塔塞维奇。 2021 年 5 月 23 日，白俄罗斯当局强迫一架从雅典飞往立陶宛维尔纽斯的瑞安航空飞机降落在白俄罗斯首都明斯克，引发全球愤怒。 飞机一落地，主要通过 Telegram 平台传播的白俄罗斯媒体网络 Nexta 的前主编普拉塔塞维奇 (Pratasevich) 就被护送下飞机，并与女友索菲亚·萨佩加 (Sofia Sapega) 一起被捕，该网络主要通过 Telegram 平台进行传播，并被白俄罗斯政权列为“极端分子”。 Nexta 总部位于波兰，是 2020 年 8 月白俄罗斯总统选举被操纵后爆发的反政府抗议活动的最重要新闻来源。卢卡申科表示他赢得了压倒性胜利，但反对派对他的说法提出异议。普拉塔塞维奇在 Nexta 工作到 2020 年 9 月，该公司在协调反政府抗议活动以及分享即将举行的示威活动的地点和时间方面发挥了关键作用。 2021 年 5 月，普拉塔塞维奇（当时已经与 Sapega 一起搬到维尔纽斯）前往希腊的德尔斐经济论坛，流亡的白俄罗斯反对派领导人斯维亚特兰娜·齐哈努斯卡娅 (Sviatlana Tsikhanouskaya) 计划在那里与欧洲政界人士会面。 随后，普拉塔塞维奇和萨佩加留在希腊度假。 Before their scheduled flight on May 23, Pratasevich noticed that he was being followed at the airport and was able to inform his colleagues before boarding.希腊当局后来证实，三名持有俄罗斯护照的男子也登上了从雅典飞往维尔纽斯的航班。 当飞机经过白俄罗斯上空时，白俄罗斯空中交通管制员声称机上装有炸弹，指示飞行员改变航线并降落在明斯克。然而，转移的真正原因是为了让白俄罗斯当局逮捕普拉塔塞维奇和萨佩加。 该事件导致欧盟航空安全局完全禁止欧洲航空公司飞越白俄罗斯上空。美国联邦航空管理局对美国航空公司也实施了类似的限制。自 2021 年 6 月起，白俄罗斯航空公司（例如国有航空公司白拉维亚航空公司）也被禁止在欧盟机场起降。 普拉塔塞维奇在明斯克机场被捕一年后，国际民航组织在一份报告中得出结论，称炸弹威胁的说法是故意虚假的。 普拉塔塞维奇被捕一天后，一段视频......"
+          },
+          "reflection": {
+            "en": "This story draws attention to hope, endurance, and faithful rebuilding. Romans 12:12 reminds us to meet sharp headlines with steady hope and perseverance, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到盼望、忍耐与重建。Romans 12:12提醒我们，在快速变化的新闻里，仍要以坚定盼望与忍耐来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Romans 5:3-4",
+            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
+            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
+            "themeEn": "Suffering produces hope",
+            "themeZh": "患难中的盼望"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-cyprus-election-expected-to-shake-up-national-politics-a-7",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/69317762_6.jpg",
+          "publishedAt": "2026-05-22T10:33:00.000Z",
+          "title": {
+            "en": "Cyprus election expected to shake up national politics",
+            "zh": "塞浦路斯选举预计将撼动国家政治"
+          },
+          "summary": {
+            "en": "Cyprus goes to the polls to elect a new parliament on May 24. The vote is expected to reshape the country's political landscape, weaken traditional parties and accelerate the rise of new anti-establishment movements.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Cyprus goes to the polls to elect a new parliament on May 24. The vote is expected to reshape the country's political landscape, weaken traditional parties and accelerate the rise of new anti-establishment movements.\n\nVoters in Cyprus will head to the polls on May 24 for what is shaping up to be one of the most significant parliamentary elections in decades.\n\nAlthough the parliament holds limited powers within the presidential system of the Republic of Cyprus, the outcome of the election is expected to shake up the country's political landscape.\n\nCiting recent opinion polls, journalist and political analyst Sotiris Paroutis says that Cyprus is heading toward \"a profound transformation of its political scene,\" characterized&#160;by the weakening of the country's two dominant parties and by the collapse of traditional centrist forces. Meanwhile, new political forces are gaining support.\n\nPolls suggest that the race for first place will once again be decided between Cyprus's two traditional political heavyweights: the conservative Democratic Rally (DISY) and the left-wing Progressive Party of Working People (AKEL).\n\nFor DISY, the election will be a major test of political resilience following the loss of the presidency and the internal tensions that followed the election of independent candidate and former DISY member Nikos Christodoulides as president in 2023 .\n\nAKEL, meanwhile, hopes to win the general election for the first time since 2006 by capitalizing on the political momentum it has built in recent years.\n\nBut even if the two major parties remain dominant, opinion polls indicate that they are unlikely to repeat the high vote shares they obtained in recent decades.\n\nCorruption scandals, growing public frustration and declining trust in the political establishment appear to be steadily eroding Cyprus's long-standing bipartisan model.\n\nIn Cyprus , the president, who is elected directly by the people, is both head of state and head of government and appoints the cabinet ministers. This means that while the parliamentary election has no direct influence on the makeup of the government, it will have a bearing on the alliances that the parties will have to form in the hope of getting their candidate elected in the next presidential election , which is scheduled for 2028.\n\nAccording to opinion polls, the far-right National Popular Front (ELAM) is expected to emerge as the country's third-largest political force, securing around 10% of the vote.\n\nThe party first entered parliament in 2016 at a time when it was widely viewed as politically aligned with Greece's now-defunct neo-Nazi Golden Dawn party.\n\nA decade later — and after the conviction of Golden Dawn's leadership by Greek courts — ELAM has not only tripled its electoral strength but has also...",
+            "zh": "塞浦路斯将于5月24日举行投票选举新一届议会。此次投票预计将重塑该国的政治格局，削弱传统政党，并加速新的反建制运动的崛起。 塞浦路斯选民将于 5 月 24 日前往投票站，这将是数十年来最重要的议会选举之一。 尽管议会在塞浦路斯共和国总统制内拥有有限的权力，但选举结果预计将撼动该国的政治格局。 记者兼政治分析家索蒂里斯·帕鲁蒂斯援引最近的民意调查表示，塞浦路斯正在走向“政治格局的深刻转变”，其特点是该国两个主导政党的衰弱和传统中间派势力的崩溃。与此同时，新的政治力量正在获得支持。 民意调查显示，第一名的争夺将再次在塞浦路斯的两个传统政治重量级人物之间决定：保守的民主联盟党(DISY)和左翼劳动人民进步党(AKEL)。 对于 DISY 来说，在失去总统职位以及独立候选人、前 DISY 成员 Nikos Christodoulides 于 2023 年当选总统后出现的内部紧张局势之后，这次选举将是对政治弹性的重大考验。 与此同时，AKEL 希望利用近年来建立的政治势头赢得自 2006 年以来的首次大选。 但即使两大政党仍保持主导地位，民意调查显示，他们也不太可能重复近几十年来获得的高选票率。 腐败丑闻、公众日益不满以及对政治机构信任度的下降似乎正在稳步侵蚀塞浦路斯长期以来的两党合作模式。 在塞浦路斯，总统由人民直接选举产生，既是国家元首又是政府首脑，并任命内阁部长。这意味着，虽然议会选举对政府的组成没有直接影响，但它将对各政党为在定于 2028 年举行的下一次总统选举中当选而必须组成的联盟产生影响。 根据民意调查，极右翼的全国人民阵线 (ELAM) 预计将成为该国第三大政治力量，获得约 10% 的选票。 该党于 2016 年首次进入议会，当时人们普遍认为该党在政治上与希腊现已解散的新纳粹金色黎明党保持一致。 十年后，在希腊法院判定金色黎明党的领导地位之后，ELAM 不仅将其选举实力增加了两倍，而且还……"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-sbs-com-au-news-article-second-group-isis-brides-returning-to-austra",
@@ -620,74 +681,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-dw-com-en-saudi-arabia-1-5-million-join-hajj-pilgrimage-despite-war-",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/saudi-arabia-1-5-million-join-hajj-pilgrimage-despite-war/a-77213872?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77214222_6.jpg",
-          "publishedAt": "2026-05-21T17:50:00.000Z",
-          "title": {
-            "en": "Saudi Arabia: 1.5 million join Hajj pilgrimage despite war",
-            "zh": "沙特阿拉伯：尽管战火纷飞，150万人仍参加朝觐"
-          },
-          "summary": {
-            "en": "Despite being directly impacted by missile and drone attacks during the Iran war, Saudi Arabia is proceeding with the annual Hajj pilgrimage, hosting 1.5 million worshippers.",
-            "zh": "尽管在伊朗战争期间受到导弹和无人机袭击的直接影响，沙特阿拉伯仍在举行一年一度的朝觐活动，接待了150万朝圣者。"
-          },
-          "body": {
-            "en": "Saudi Arabia has been directly hit by missiles and drones during the Iran war, but the country is hosting the all-important Muslim pilgrimage anyway.\n\nThis year is the first time that Saudi Arabia has chosen to go ahead with the annual Hajj pilgrimage while it is also in the middle of a war that has seen direct strikes on Saudi territory.\n\nThe Hajj is a once-a-year event that draws millions of Muslims to Mecca in Saudi Arabia to perform rituals that every believer is supposed to carry out at least once in their lives, if they are able to. It is one of the largest gatherings of humans worldwide, and this year's Hajj runs between&#160;May 25 and May 29 with around 1.5 million pilgrims&#160;expected in Saudi Arabia. Over the past three years, between 1.7 and 1.8 million have attended.\n\nHistorians say that over 14 centuries, the Hajj has only ever been canceled or restricted about 40 times; the last time that happened&#160;was during the COVID-19 pandemic in 2020.\n\nHaving more than a million pilgrims descend upon one place to perform the same ritual in under a week has always been a complex logistical exercise . It has involved Saudi Arabia restricting crowds with a ticket lottery &#160;system for international pilgrims, tight security at pilgrimage sites, flights, accommodation, food and water and medical care, and all that amid&#160; high temperatures that have proven deadly in the past.\n\nThis year that exercise is being complicated by the Iran war , which began in late February when the US and Israel attacked Iran. Iran has responded by targeting the Gulf states, along with Israel.\n\nThere is a ceasefire in effect at the moment but it remains unclear how steady that is. Last weekend, Saudi Arabia intercepted three drones it says were likely launched by pro-Iran militias in Iraq.\n\n2026 also marks the first time the US government has urged its own citizens to reconsider participating in the pilgrimage, noting that \"non-emergency US government employees were ordered to leave Saudi Arabia\" in early March.\n\nGermany, the United Kingdom and other European nations have also issued travel warnings for Saudi Arabia, strongly advising citizens against going there during the current conflict or if they do, then to monitor the situation closely. Several travel agencies in Germany that specialize in Hajj travel did not reply to DW's inquiries about how would-be pilgrims were reacting to those sorts of warnings.\n\nBut as Germany's Central Council&#160;of&#160;Muslims pointed out, in their experience pilgrims are often unaffected by current events.\n\n\"They are motivated by fulfilling a religious duty,\" a spokesperson for the council told DW. \"For them, this is much more than a normal trip. And since planning for the journey usually takes over a year and is often...",
-            "zh": "沙特阿拉伯在伊朗战争期间直接受到导弹和无人机的袭击，但该国无论如何都在举办最重要的穆斯林朝圣活动。 今年是沙特首次选择继续进行一年一度的朝觐活动，同时该国也正处于战争之中，沙特领土遭到直接袭击。 朝觐是一年一度的活动，吸引了数百万穆斯林前往沙特阿拉伯的麦加举行仪式，如果有能力的话，每个信徒一生中至少应该进行一次。这是全球最大的人类聚会之一，今年的朝觐时间为 5 月 25 日至 29 日，沙特阿拉伯预计将有约 150 万名朝觐者。过去三年，参加人数在 170 万人到 180 万人之间。 历史学家称，14个世纪以来，朝觐被取消或限制的次数大约只有40次；上一次发生这种情况是在 2020 年 COVID-19 大流行期间。 让超过一百万的朝圣者在不到一周的时间内来到一个地方进行同样的仪式一直是一项复杂的后勤工作。其中包括沙特阿拉伯通过针对国际朝圣者的门票抽签系统限制人群，朝圣地点、航班、住宿、食物和水以及医疗保健的严格安全，以及在过去被证明致命的高温下采取的所有措施。 今年的演习因伊朗战争而变得更加复杂，伊朗战争始于二月底，当时美国和以色列袭击了伊朗。伊朗的回应是针对海湾国家和以色列。 目前停火已生效，但尚不清楚停火有多稳定。上周末，沙特阿拉伯拦截了三架无人机，称这三架无人机可能是亲伊朗民兵在伊拉克发射的。 2026年也标志着美国政府首次敦促本国公民重新考虑参加朝圣活动，并指出3月初“非紧急美国政府雇员被勒令离开沙特阿拉伯”。 德国、英国和其他欧洲国家也对沙特阿拉伯发出了旅行警告，强烈建议公民不要在当前冲突期间前往该国，如果前往，请密切关注事态发展。德国几家专门从事朝觐旅行的旅行社没有回复德国之声关于潜在朝圣者对此类警告有何反应的询问。 但正如德国穆斯林中央委员会指出的那样，根据他们的经验，朝圣者通常不会受到时事的影响。 该委员会发言人告诉德国之声：“他们的动机是履行宗教义务。” “对他们来说，这不仅仅是一次正常的旅行。而且由于计划旅行通常需要一年多的时间，而且经常......"
-          },
-          "reflection": {
-            "en": "In the midst of ongoing conflict and direct threats, the continuation of the Hajj pilgrimage highlights a profound human commitment to faith and sacred duties. It reminds us that even when devastation surrounds us, the steadfastness of divine mercy can inspire perseverance and hope, renewed with each new day.",
-            "zh": "在持续的冲突和直接威胁中，朝觐活动的继续凸显了人类对信仰和神圣职责的深刻承诺。它提醒我们，即使身处毁灭之中，雅伟坚定的慈爱也能激发我们持守和盼望，每日更新。"
-          },
-          "verse": {
-            "reference": "Lamentations 3:22-23",
-            "textEn": "Because of Yahweh's great love we are not consumed, for his compassions never fail. They are new every morning.",
-            "textZh": "我们不至消灭，是出于雅伟诸般的慈爱；是因他的怜悯不至断绝。每早晨这都是新的。",
-            "themeEn": "Mercy every morning",
-            "themeZh": "清晨的怜悯"
-          },
-          "aiVerseId": "lam_3_22",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-czechia-uproar-over-sudeten-german-gathering-in-brno-a-772",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77171363_6.jpg",
-          "publishedAt": "2026-05-21T14:32:00.000Z",
-          "title": {
-            "en": "Czechia: Uproar over Sudeten German gathering in Brno",
-            "zh": "捷克：苏台德德国人在布尔诺集会引发骚动"
-          },
-          "summary": {
-            "en": "The first gathering of Sudeten Germans in Czechia since World War II is proceeding this weekend, despite significant political backlash. This event has highlighted deep-seated tensions related to one of Central Europe's most painful historical legacies.",
-            "zh": "二战以来，苏台德德国人首次在捷克举行集会，尽管遭到政治强烈反对，但仍将按计划于本周末举行。此次事件暴露了中欧最痛苦的历史遗留问题之一所引发的紧张局势。"
-          },
-          "body": {
-            "en": "The first gathering of Sudeten Germans in Czechia since World War II is set to go ahead this weekend despite a political backlash that has exposed tensions over one of Central Europe's most painful historical legacies.\n\nThe annual Sudetendeutscher Tag, a meeting of ethnic Germans expelled from Czechoslovakia after the Second World War and their descendants, will take place in the Czech city of Brno from May 22 to 25 as part of the Meeting Brno festival of reconciliation.\n\nBut the event has triggered protests and a parliamentary declaration warning against what some Czech lawmakers called \"historical revisionism\" and the \"relativization of Nazi crimes.\"\n\n\"The Chamber of Deputies expresses its opposition to the holding of the 76th convention of the Sudetendeutsche Landsmannschaft [Sudeten German Association] on the territory of the Czech Republic , in view of the historical context and the fact that attitudes questioning the postwar settlement have long appeared within parts of this movement,\" read the declaration passed in the lower house of the Czech parliament on Friday.\n\nThe motion, which was symbolic and non-binding, passed by 73 votes to none, with four abstentions.\n\nCenter-right opposition parties boycotted the debate, accusing the governing coalition — which includes the far-right SPD party — of exploiting the issue for political gain.\n\nPrime Minister Andrej Babis has apparently changed his stance on the event. He recently said that the gathering in Brno is \"not a fortunate development\" despite having previously referred to it in neutral terms as a civic initiative that the Czech government was not dealing with.\n\nThe event has also drawn protests in Brno itself. Around 500 people joined a demonstration in April organized by the SPD.\n\nThe SPD is firmly opposed to the gathering and accuses Sudeten German organizations of seeking to overturn the postwar Benes decrees that confiscated German property and stripped ethnic Germans of citizenship.\n\nThis accusation is rejected by Bernd Posselt, chairman of the Sudeten German Association, the main organization representing Sudeten German expellees. Posselt has stressed that the Sudeten German Association no longer seeks to challenge the postwar order and described the event as an effort at reconciliation.\n\nIn 2015, the association made some key changes to its charter , among other things removing references to reparations and the reclamation of land.\n\nPosselt, a former MEP for Bavaria's conservative Christian Social Union, told DW that the organization wanted an honest discussion of the past. He has since criticized the parliamentary declaration and insisted the gathering would go ahead.\n\nThe organizers of the Meeting Brno festival also issued a statement saying that the gathering will proceed as...",
-            "zh": "尽管政治上的强烈反对暴露了中欧最痛苦的历史遗产之一的紧张局势，但二战以来苏台德德国人在捷克的首次集会仍将在本周末举行。 一年一度的苏台德意志大会（Sudetendeutscher Tag）是二战后被驱逐出捷克斯洛伐克的德意志人及其后裔的一次聚会，将于 5 月 22 日至 25 日在捷克布尔诺市举行，作为布尔诺和解节的一部分。 但这一事件引发了抗议活动，议会发表声明警告一些捷克议员所谓的“历史修正主义”和“纳粹罪行的相对化”。 捷克议会下院周五通过的声明中写道：“考虑到历史背景以及该运动部分地区长期以来存在质疑战后解决方案的态度，众议院表示反对在捷克共和国境内举行苏台德德国协会第76届代表大会。” 该动议具有象征性，不具约束力，以 73 票对零票、四票弃权获得通过。 中右翼反对党抵制这场辩论，指责包括极右翼社会民主党在内的执政联盟利用这一问题谋取政治利益。 总理安德烈·巴比斯显然改变了对这一事件的立场。他最近表示，布尔诺的集会“并不是一个幸运的事态发展”，尽管他之前曾用中性的措辞将其称为捷克政府没有处理的公民倡议。 该事件还引起了布尔诺本身的抗议。大约 500 人参加了社民党 4 月份组织的示威活动。 社会民主党坚决反对这次集会，并指责苏台德德国组织试图推翻战后没收德国财产并剥夺德国人公民身份的贝奈斯法令。 代表苏台德德国被驱逐者的主要组织苏台德德国协会主席伯恩德·波塞尔特驳斥了这一指控。波塞尔特强调，苏台德德国协会不再寻求挑战战后秩序，并将此次活动描述为和解的努力。 2015年，该协会对其章程进行了一些重大修改，其中删除了有关赔偿和开垦土地的内容。 巴伐利亚保守基督教社会联盟前欧洲议会议员波塞尔特告诉德国之声，该组织希望对过去进行诚实的讨论。此后他批评了议会的声明，并坚称集会将继续进行。 布尔诺会议节的组织者还发表声明称，聚会将按以下方式进行："
-          },
-          "reflection": {
-            "en": "The uproar surrounding this gathering reveals how deeply historical wounds can persist, making the pursuit of peace a continuous challenge. Romans 12:18 reminds us to strive for peaceful coexistence with all people, as far as it depends on us. This calls for intentional effort to bridge divides and foster understanding, even when past grievances are...",
-            "zh": "围绕此次集会引发的骚动，揭示了历史创伤的深远影响，使得追求和平成为一项持续的挑战。罗马书12:18提醒我们，若能行，总要尽力与众人和睦。这呼吁我们在深刻的历史积怨面前，仍要刻意努力弥合分歧，促进理解。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
-        },
-        {
           "id": "www-sbs-com-au-news-article-australian-activists-detained-by-israel-set-",
           "section": "world",
           "source": "SBS News World",
@@ -734,12 +727,45 @@
         "zh": "聚焦中国内部政策走向、社会变化与国家动态。"
       },
       "sourceNotes": [
+        "DW Asia China Focus",
         "The Guardian China",
         "BBC News China Focus",
-        "DW Asia China Focus",
         "SBS News China Focus"
       ],
       "items": [
+        {
+          "id": "www-dw-com-en-can-the-quad-stay-relevant-to-boost-indo-pacific-security-",
+          "section": "china",
+          "source": "DW Asia China Focus",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
+          "link": "https://www.dw.com/en/can-the-quad-stay-relevant-to-boost-indo-pacific-security/a-77261939?maca=en-rss-en-asia-5133-rdf",
+          "image": "https://static.dw.com/image/71602744_6.jpg",
+          "publishedAt": "2026-05-22T11:29:00.000Z",
+          "title": {
+            "en": "Can the Quad stay relevant to boost Indo-Pacific security?",
+            "zh": "四方机制能否保持影响力以促进印太安全？"
+          },
+          "summary": {
+            "en": "Foreign ministers from the US, India, Japan and Australia — collectively known as the Quad — need to put past differences behind them if the alliance is to remain an effective means of countering China.",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Foreign ministers from the US, India, Japan and Australia — collectively known as the Quad — need to put past differences behind them if the alliance is to remain an effective means of countering China.\n\nForeign ministers from the US , India, Japan and Australia — the four nations that make up the Quadrilateral Security Dialogue, better known as the Quad — are set to meet in New Delhi over three days from Sunday to discuss Indo-Pacific security, energy supplies and emerging technologies.\n\nThe meeting comes as China continues to test geopolitical and security boundaries in the region.\n\nBut it's another issue, which is not on the agenda, that looms large over the gathering: how to keep the alliance alive and relevant in an ever more challenging geopolitical landscape and an increasingly assertive China .\n\nThe Quad, which unites the four nations&#160;in seeking a Free and Open Indo-Pacific (FOIP), has not had a meeting of national leaders since 2024, when then-President Joe Biden hosted his counterparts in Wilmington, Delaware.\n\nIndia was meant to host the next annual meeting in the latter part of 2025, but that never materialized amid tensions between India and the new administration of President Donald Trump .\n\nTrump has imposed tariffs and punitive duties on Indian imports to the US, straining ties with Indian Prime Minister Narendra Modi. The US president further antagonized New Delhi by claiming to have mediated a settlement to border clashes between India and Pakistan in May last year . The US president was also critical of India purchasing Russian military equipment .\n\nOne year on, Secretary of State Marco Rubio, who is heading the US delegation to India, is tasked with smoothing ruffled diplomatic feathers. With Trump's attention apparently focused on the war in the Middle East and, potentially, Cuba , Rubio's mission could be a challenging one.\n\n\"The US, Japan and Australia already had an important and effective trilateral security arrangement, but the whole purpose of the Quad was to bring India in as another power to give it more influence and reach,\" said James Brown, a professor of international relations at the Tokyo campus of Temple University.\n\n\"Unfortunately, this US administration does not seem to have grasped that or valued India's presence as an ally, which has badly alienated Modi,\" he told DW.\n\nJapan and Australia have made efforts to keep the four-way alliance intact and functioning, with Brown suggesting that the Quad might actually benefit from the US being represented by Rubio, rather than Trump, in India.\n\nWriting in the Foreign Policy magazine, Derek Grossman, a professor at the University of Southern California, cautioned that should Trump decline to take part in the next leaders' meeting, likely to be held in Australia...",
+            "zh": "如果该联盟要继续成为对抗中国的有效手段，美国、印度、日本和澳大利亚（统称为“四方”）的外交部长就需要将过去的分歧抛在脑后。 美国、印度、日本和澳大利亚这四个国家的外交部长将于周日起在新德里举行为期三天的会议，讨论印太安全、能源供应和新兴技术。 这次会议召开之际，中国正在继续测试该地区的地缘政治和安全边界。 但另一个未列入议程的问题在这次会议上显得尤为突出：如何在日益具有挑战性的地缘政治格局和日益自信的中国中保持联盟的活力和相关性。 四方联盟将四个国家团结起来，寻求自由开放的印度太平洋地区 (FOIP)，自 2024 年时任总统乔·拜登在特拉华州威尔明顿接待各国领导人以来，该组织就没有举行过国家领导人会议。 印度原定于 2025 年下半年主办下一次年度会议，但由于印度与唐纳德·特朗普总统新政府之间的紧张关系，这一目标从未实现。 特朗普对印度输美产品征收关税和惩罚性关税，导致与印度总理纳伦德拉·莫迪的关系紧张。这位美国总统去年五月声称已通过调解解决了印度和巴基斯坦之间的边境冲突，这进一步激怒了新德里。美国总统还批评印度购买俄罗斯军事装备。 一年后，率领美国代表团访问印度的国务卿马可·卢比奥肩负着平息外交争端的任务。由于特朗普的注意力显然集中在中东战争以及可能的古巴战争上，卢比奥的任务可能是一项具有挑战性的任务。 天普大学东京校区国际关系学教授詹姆斯·布朗表示：“美国、日本和澳大利亚已经达成了重要且有效的三边安全安排，但四方机制的全部目的是让印度成为另一个大国，以赋予其更大的影响力和影响力。” 他告诉德国之声：“不幸的是，本届美国政府似乎没有认识到这一点，也没有重视印度作为盟友的存在，这严重疏远了莫迪。” 日本和澳大利亚一直在努力保持四方联盟的完整和运作，布朗表示，四方联盟实际上可能会受益于卢比奥而不是特朗普在印度代表美国。 南加州大学教授德里克·格罗斯曼在《外交政策》杂志上撰文警告说，如果特朗普拒绝参加可能在澳大利亚举行的下一次领导人会议……"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-world-2026-may-22-us-arms-sales-taiwan-pause-iran-wa",
           "section": "china",
@@ -757,7 +783,7 @@
             "zh": "华盛顿代理海军部长表示，美国对台湾的军售已暂停。此举是为了确保美国军方有足够的弹药用于其在伊朗的军事行动，这进一步加剧了近期对美国能否持续支持台北的疑虑。"
           },
           "body": {
-            "en": "Hung Cao’s comments are latest blow to Taipei after Donald Trump recently cast doubt over US’s enduring support US arms sales to Taiwan have been “paused” to ensure the US military has enough munitions for its Iran operations, according to Washington’s acting navy secretary, in the latest blow to Taipei after a series of comments by Donald Trump. When asked at a congressional hearing on Thursday about a $14bn (£10.4bn) weapons packageawaiting Trump’s signoff for months, Hung Cao said: “Right now we’re doing a pause in order to make sure we have the munitions we need for Epic Fury [the Iran war] – which we have plenty.” Continue reading...",
+            "en": "Hung Cao’s comments are latest blow to Taipei after Donald Trump recently cast doubt over US’s enduring support US arms sales to Taiwan have been “paused” to ensure the US military has enough munitions for its Iran operations, according to Washington’s acting navy secretary, in the latest blow to Taipei after a series of comments by Donald Trump. When asked at a congressional hearing on Thursday about a $14bn (£10.4bn) weapons package awaiting Trump’s signoff for months, Hung Cao said: “Right now we’re doing a pause in order to make sure we have the munitions we need for Epic Fury [the Iran war] – which we have plenty.” Continue reading...",
             "zh": "华盛顿代理海军部长表示，唐纳德·特朗普最近对美国的持久支持表示怀疑，美国已“暂停”对台军售，以确保美军有足够的弹药用于其伊朗行动，曹洪的言论是对台北的最新打击。这是唐纳德·特朗普发表一系列言论后对台北的最新打击。在周四的国会听证会上，当被问及等待特朗普签署数月之久的价值 140 亿美元（104 亿英镑）的武器计划时，曹洪表示：“现在我们正在暂停，以确保我们拥有史诗般的愤怒（伊朗战争）所需的弹药——我们有足够的弹药。”继续阅读..."
           },
           "reflection": {
@@ -974,40 +1000,6 @@
             "themeZh": "和睦"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-dw-com-en-german-authorities-arrest-2-on-china-high-tech-espionage-a",
-          "section": "china",
-          "source": "DW Asia China Focus",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
-          "link": "https://www.dw.com/en/german-authorities-arrest-2-on-china-high-tech-espionage-allegations/a-77228979?maca=en-rss-en-asia-5133-rdf",
-          "image": "https://static.dw.com/image/77229772_6.jpg",
-          "publishedAt": "2026-05-20T13:30:00.000Z",
-          "title": {
-            "en": "German authorities arrest 2 on China high-tech espionage allegations",
-            "zh": "德国当局逮捕两名涉嫌为中国从事高科技间谍活动的人员"
-          },
-          "summary": {
-            "en": "Two individuals have been arrested in Munich, Germany, on suspicion of espionage for a Chinese intelligence service. They are accused of attempting to obtain and transmit high-tech information with potential military applications.",
-            "zh": "两名慕尼黑居民因涉嫌为中国情报机构从事间谍活动而被捕。他们被指控试图获取并传递具有“军事用途”的高科技信息。"
-          },
-          "body": {
-            "en": "Two Munich residents have been arrested on suspicion of working for a Chinese intelligence service, seeking to obtain and pass on high-tech information with \"military applications.\"\n\nInvestigators on Wednesday arrested two Munich residents on suspicion of spying for China , the Office of the Federal Prosecutor (Generalbundesanwaltschaft) said .&#160;\n\nThe suspects are a married couple with German citizenship, identified as Xuejun C. and Hua S..\n\nProsecutors said the pair were suspected of working for a Chinese secret intelligence agency.&#160;\n\n\"In order to obtain access to scientific information about high-tech technologies&#160;with military applications, they built up contacts with numerous scientists at German universities and research institutes,\" prosecutors wrote.&#160;\n\nIn particular, they focused on fostering contacts with \"university professors in the areas of aerospace and space travel, IT and artificial intelligence.\"\n\nAmong other roles, they are said to have posed&#160;as translators and employees of a German car parts supplier to gain access.\n\n\"Some scientists were lured to China on the premise of delivering lectures to the civilian audiences&#160;for remuneration,\" prosecutors alleged. \"In reality, these presentations then took place in front of associates&#160;of state-run weapons&#160;companies.\"&#160;\n\nThe two individuals were arrested on Wednesday on the authority of a warrant issued a week earlier;&#160;federal prosecutors worked in conjunction with authorities in Bavaria.&#160;\n\nThe couple&#160;were taken to the Federal Court of Justice (Bundesgerichtshof) in Karlsruhe later on Wednesday&#160;for a decision on their being held in&#160;investigative detention.&#160;\n\nFurther operations in connection with the arrests also took place across the states of Bavaria, Baden-Württemberg, Berlin, Brandenburg, Lower Saxony and North Rhine-Westphalia.\n\nThese were aimed at establishing contact with witnesses who are not under suspicion of criminal activity.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred source on Google by clicking here and hitting&#160;the \"star\"&#160;or \"preferred\"&#160;button, so you'll always see our verified news first.",
-            "zh": "两名慕尼黑居民因涉嫌为中国情报部门工作、试图获取并传递具有“军事应用”的高科技信息而被捕。 联邦检察官办公室 (Generalbundesanwaltschaft) 表示，调查人员周三逮捕了两名慕尼黑居民，罪名是涉嫌为中国从事间谍活动。 犯罪嫌疑人是一对德国公民夫妇，分别为Xuejun C.和Hua S.。 检察官称，这两人涉嫌为中国秘密情报机构工作。 检察官写道：“为了获得有关军事应用高科技技术的科学信息，他们与德国大学和研究机构的众多科学家建立了联系。” 他们特别注重与“航空航天和太空旅行、信息技术和人工智能领域的大学教授”建立联系。 据称，他们还冒充翻译员和一家德国汽车零部件供应商的员工以获得访问权限。 检察官称，“一些科学家被引诱到中国，是为了向平民听众提供讲座以获取报酬”。 “实际上，这些演示是在国营武器公司的员工面前进行的。” 这两个人于周三根据一周前发出的逮捕令被捕。 联邦检察官与巴伐利亚当局合作。 周三晚些时候，这对夫妇被带到卡尔斯鲁厄联邦法院 (Bundesgerichtshof)，以就调查拘留做出决定。 巴伐利亚州、巴登-符腾堡州、柏林、勃兰登堡州、下萨克森州和北莱茵-威斯特法伦州也开展了与逮捕有关的进一步行动。 这些旨在与没有犯罪嫌疑的证人建立联系。 不要让算法隐藏新闻。如果您信赖我们团队提供的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，以便您始终能够首先看到我们经过验证的新闻。"
-          },
-          "reflection": {
-            "en": "This news highlights the complex ethical dimensions of knowledge and technology, especially when it involves national security and military applications. While knowledge itself is powerful, the Bible reminds us that \"knowledge puffs up, but love builds up.\" This suggests that the true value of advanced information lies in how it serves humanity and fosters...",
-            "zh": "这则新闻凸显了知识和技术复杂的伦理层面，尤其当它涉及国家安全和军事用途时。虽然知识本身具有强大的力量，但圣经提醒我们：“知识叫人自高自大，唯有爱心能造就人。” 这表明先进信息的真正价值在于它如何服务人类并促进和平，而不是被用于竞争优势或潜在的伤害。"
-          },
-          "verse": {
-            "reference": "1 Corinthians 8:1",
-            "textEn": "Knowledge puffs up while love builds up.",
-            "textZh": "知识是叫人自高自大，惟有爱心能造就人。",
-            "themeEn": "Knowledge vs love",
-            "themeZh": "知识与爱"
-          },
-          "aiVerseId": "1cor_8_1",
-          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-my-dear-friend-putin-and-xi-praise-partnersh",
@@ -1309,8 +1301,8 @@
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Consumer Affairs Victoria has confirmed disgraced wellness influencer Belle Gibson's unpaid $410,000 court penalty has not been written off, with the state consumer watchdog saying it will continue to pursue the debt nearly a decade after the Federal Court ruling.\n\nThe clarification came during a parliamentary estimates hearing on Friday, after Victorian Nationals MP Jade Benham questioned officials about the status of the long-outstanding penalty and whether it had effectively been abandoned as bad debt.\n\nBenham referenced comments made by Victorian Premier Jacinta Allan earlier this year that Consumer Affairs Victoria was \"constantly and consistently\" pursuing Gibson over the fine, imposed in 2017 after she admitted lying about having terminal brain cancer and misleading consumers.\n\n\"I don't have any information that says that has been written off,\" Victoria's Consumer Affairs Minister Paul Edbrooke told the hearing before referring the question to Consumer Affairs Victoria director Nicole Rich.\n\n\"Ms Benham, we will continue to pursue that. It's a court penalty, so it will continue to be owed.\"\n\nA Consumer Affairs Victoria spokesperson told SBS News the watchdog \"has continued to undertake actions\" to enforce the debt owed by Gibson under court order.\n\nGibson was ordered by the Federal Court in 2017 to pay $410,000 after Consumer Affairs Victoria successfully sued her for misleading and deceptive conduct over false claims she had terminal brain cancer and other cancers and had cured them through diet and alternative therapies.\n\nShe had also falsely claimed profits from her wellness brand, app and cookbook business would be donated to charity.\n\nInterest and penalties later pushed the amount owed beyond $500,000, while authorities previously raided Gibson's Northcote home in attempts to seize assets.\n\nThe case returned to public attention last year, following the release of Netflix drama Apple Cider Vinegar, which dramatised Gibson's rise and fall and renewed scrutiny on whether the debt would ever be recovered.\n\nAllan said in February that Consumer Affairs Victoria \"won&#x2019;t let up\" in pursuing the outstanding penalty.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "维多利亚州消费者事务部已证实，名誉扫地的健康影响者贝尔·吉布森 (Belle Gibson) 未付的 41 万澳元法庭罚款尚未被注销，该州消费者监管机构表示，在联邦法院裁决近十年后，将继续追究这笔债务。 这一澄清是在周五的议会预算听证会上做出的，此前维多利亚州国民议员杰德·贝纳姆 (Jade Benham) 向官员询问了长期未清罚金的状况，以及该罚金是否实际上已被视为坏账而被放弃。 本纳姆引用了维多利亚州州长杰辛塔·艾伦今年早些时候发表的评论，称维多利亚州消费者事务部正在“持续不断地”追究吉布森的罚款，该罚款是在吉布森承认谎称患有晚期脑癌并误导消费者后于 2017 年处以的。 维多利亚州消费者事务部长保罗·埃德布鲁克（Paul Edbrooke）在听证会上表示：“我没有任何信息表明该费用已被注销，”然后将该问题转交给维多利亚州消费者事务部主任妮可·里奇（Nicole Rich）。 “贝纳姆女士，我们将继续追究这一点。这是法庭的处罚，所以将继续被欠。” 维多利亚州消费者事务部发言人告诉 SBS 新闻，监管机构“继续采取行动”，根据法院命令强制执行吉布森所欠的债务。 2017年，维多利亚州消费者事务部成功起诉吉布森，称她患有晚期脑癌和其他癌症，并通过饮食和替代疗法治愈了这些癌症，该事实具有误导性和欺骗性行为，联邦法院命令吉布森支付41万澳元。 她还谎称其健康品牌、应用程序和食谱业务的利润将捐赠给慈善机构。 后来利息和罚款使所欠金额超过了 50 万美元，而当局此前突击搜查了吉布森在诺斯科特的家，试图没收资产。 去年，Netflix 电视剧《苹果醋》上映后，该案重新受到公众关注，该剧戏剧化地讲述了吉布森的兴衰，并重新审视了债务能否收回的问题。 艾伦二月份表示，维州消费者事务部“不会放松”追究未缴罚款的责任。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+            "en": "Consumer Affairs Victoria has confirmed disgraced wellness influencer Belle Gibson's unpaid $410,000 court penalty has not been written off, with the state consumer watchdog saying it will continue to pursue the debt nearly a decade after the Federal Court ruling.\n\nThe clarification came during a parliamentary estimates hearing on Friday, after Victorian Nationals MP Jade Benham questioned officials about the status of the long-outstanding penalty and whether it had effectively been abandoned as bad debt.\n\nBenham referenced comments made by Victorian Premier Jacinta Allan last year that Consumer Affairs Victoria was \"constantly and consistently\" pursuing Gibson over the fine, imposed in 2017 after she admitted lying about having terminal brain cancer and misleading consumers.\n\n\"I don't have any information that says that has been written off,\" Victoria's Consumer Affairs Minister Paul Edbrooke told the hearing before referring the question to Consumer Affairs Victoria director Nicole Rich.\n\n\"Ms Benham, we will continue to pursue that. It's a court penalty, so it will continue to be owed.\"\n\nA Consumer Affairs Victoria spokesperson told SBS News the watchdog \"has continued to undertake actions\" to enforce the debt owed by Gibson under court order.\n\nGibson was ordered by the Federal Court in 2017 to pay $410,000 after Consumer Affairs Victoria successfully sued her for misleading and deceptive conduct over false claims she had terminal brain cancer and other cancers and had cured them through diet and alternative therapies.\n\nShe had also falsely claimed profits from her wellness brand, app and cookbook business would be donated to charity.\n\nInterest and penalties later pushed the amount owed beyond $500,000, while authorities previously raided Gibson's Northcote home in attempts to seize assets.\n\nThe case returned to public attention last year, following the release of Netflix drama Apple Cider Vinegar, which dramatised Gibson's rise and fall and renewed scrutiny on whether the debt would ever be recovered.\n\nAllan said in February that Consumer Affairs Victoria \"won&#x2019;t let up\" in pursuing the outstanding penalty.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "维多利亚州消费者事务部已证实，名誉扫地的健康影响者贝尔·吉布森 (Belle Gibson) 未付的 41 万澳元法庭罚款尚未被注销，该州消费者监管机构表示，在联邦法院裁决近十年后，将继续追究这笔债务。 这一澄清是在周五的议会预算听证会上做出的，此前维多利亚州国民议员杰德·贝纳姆 (Jade Benham) 向官员询问了长期未清罚金的状况，以及该罚金是否实际上已被视为坏账而被放弃。 Benham 引用了维多利亚州州长杰辛塔·艾伦 (Jacinta Allan) 去年发表的评论，称维多利亚州消费者事务部正在“持续不断地”追究吉布森的罚款，该罚款是在吉布森承认谎称患有晚期脑癌并误导消费者后于 2017 年处以的。 维多利亚州消费者事务部长保罗·埃德布鲁克（Paul Edbrooke）在听证会上表示：“我没有任何信息表明该费用已被注销，”然后将该问题转交给维多利亚州消费者事务部主任妮可·里奇（Nicole Rich）。 “贝纳姆女士，我们将继续追究这一点。这是法庭的处罚，所以将继续被欠。” 维多利亚州消费者事务部发言人告诉 SBS 新闻，监管机构“继续采取行动”，根据法院命令强制执行吉布森所欠的债务。 2017年，维多利亚州消费者事务部成功起诉吉布森，称她患有晚期脑癌和其他癌症，并通过饮食和替代疗法治愈了这些癌症，该事实具有误导性和欺骗性行为，联邦法院命令吉布森支付41万澳元。 她还谎称其健康品牌、应用程序和食谱业务的利润将捐赠给慈善机构。 后来利息和罚款使所欠金额超过了 50 万美元，而当局此前突击搜查了吉布森在诺斯科特的家，试图没收资产。 去年，Netflix 电视剧《苹果醋》上映后，该案重新受到公众关注，该剧戏剧化地讲述了吉布森的兴衰，并重新审视了债务能否收回的问题。 艾伦二月份表示，维州消费者事务部“不会放松”追究未缴罚款的责任。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
             "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
