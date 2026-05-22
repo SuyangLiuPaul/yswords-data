@@ -36,3 +36,14 @@
   from = "/"
   to = "/index.html"
   status = 200
+
+# Bible Evidence images mirrored from Wikimedia (~65 MB across 716
+# files). Wide-open CORS so the YsWords web app can decode them in
+# canvaskit + img-tag modes alike. Long edge cache because the files
+# never change once a release is mirrored — content is keyed by
+# evidence_id + index.
+[[headers]]
+  for = "/images/evidence/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=31536000, immutable"
