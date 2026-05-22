@@ -1444,10 +1444,36 @@ async function fetchOgImage(url) {
 		}
 
 		const html = await response.text();
-		const match = html.match(/<meta\s+(?:property|name)=["']og:image["']\s+content=["']([^"']+)["']/i)
-			|| html.match(/<meta\s+content=["']([^"']+)["']\s+(?:property|name)=["']og:image["']/i);
-
-		return match ? match[1] : null;
+		// Tolerant extractor: find every <meta ...> tag whose attributes
+		// reference og:image (or twitter:image as a fallback), then pull
+		// the `content` attribute regardless of its position relative to
+		// `property`/`name`. The naive "property X, then content Y"
+		// regex misses any feed that interleaves extra attributes — DW
+		// emits `<meta data-rh="true" content="…" property="og:image"/>`,
+		// which broke both legacy patterns and left every DW article
+		// imageless.
+		const metaTagRe = /<meta\b[^>]*>/gi;
+		const tags = html.match(metaTagRe) || [];
+		const pickContent = (tag) => {
+			const m = tag.match(/\bcontent\s*=\s*["']([^"']+)["']/i);
+			return m ? m[1] : null;
+		};
+		const matchesTarget = (tag, target) => {
+			const m = tag.match(/\b(?:property|name)\s*=\s*["']([^"']+)["']/i);
+			return m && m[1].toLowerCase() === target;
+		};
+		// 1st choice: og:image. 2nd: twitter:image (twitter:image:src).
+		for (const target of ['og:image', 'twitter:image', 'twitter:image:src']) {
+			for (const tag of tags) {
+				if (matchesTarget(tag, target)) {
+					const content = pickContent(tag);
+					if (content && /^https?:\/\//i.test(content)) {
+						return content;
+					}
+				}
+			}
+		}
+		return null;
 	} catch {
 		return null;
 	}
