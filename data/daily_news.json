@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T00:53:11.689Z",
+  "generatedAt": "2026-05-23T02:47:22.818Z",
   "editionDate": "2026-05-23",
   "sources": [
     {
@@ -106,11 +106,79 @@
       },
       "sourceNotes": [
         "The Guardian World",
-        "SBS News World",
         "BBC News World",
+        "SBS News World",
         "DW World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-us-news-2026-may-23-trump-mobile-investigating-poten",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information",
+          "image": "https://i.guim.co.uk/img/media/70c74c12869e42640c3f680d891be8faf25a8ee3/6_26_580_464/master/580.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8af9d2fb4f0332b19a1e6793c718135c",
+          "publishedAt": "2026-05-23T02:35:20.000Z",
+          "title": {
+            "en": "Trump Mobile investigating potential exposure of would-be customers’ personal information",
+            "zh": "特朗普移动公司调查潜在客户个人信息泄露事件"
+          },
+          "summary": {
+            "en": "A phone company launched by Donald Trump's family business is investigating a potential security flaw on its website. The flaw appears to have affected customers' names and contact details, though not credit card or banking information.",
+            "zh": "由唐纳德·特朗普家族企业推出的一家电话公司正在调查其网站上可能存在的安全漏洞。该漏洞似乎影响了客户的姓名和联系方式，但未涉及信用卡或银行信息。"
+          },
+          "body": {
+            "en": "Phone company launched by Donald Trump’s family says names and contact details appear to be affected, but not credit card or banking information A phone company launched by Donald Trump’s family business is investigating a potential security flaw on its website that appears to have exposed the personal details of an estimated 27,000 people who sought to buy a gold-coloured smartphone. Trump Mobile said in a statement that it was investigating the issue – “with the assistance of independent cybersecurity professionals” – in which the full names, addresses and phone numbers of people who filled out preorder forms appeared to be exposed. Continue reading...",
+            "zh": "唐纳德·特朗普家族创办的电话公司表示，姓名和联系方式似乎受到影响，但信用卡或银行信息不受影响唐纳德·特朗普家族企业创办的一家电话公司正在调查其网站上的潜在安全漏洞，该漏洞似乎暴露了约 27,000 名寻求购买金色智能手机的人的个人详细信息。特朗普移动公司在一份声明中表示，它正在“在独立网络安全专业人士的协助下”调查这一问题，其中填写预购表格的人的全名、地址和电话号码似乎被暴露。继续阅读..."
+          },
+          "reflection": {
+            "en": "A company's investigation into a potential security flaw highlights the critical importance of faithfulness in handling sensitive information. Even seemingly small vulnerabilities can lead to significant breaches of trust. This reminds us that integrity in all our responsibilities, big or small, builds confidence and protects those we serve.",
+            "zh": "一家公司调查潜在的安全漏洞，凸显了处理敏感信息时忠实的重要性。即使是看似微小的漏洞，也可能导致信任的重大破裂。这提醒我们，在所有大大小小的责任中保持正直，才能建立信任并保护我们所服务的人。"
+          },
+          "verse": {
+            "reference": "Luke 16:10",
+            "textEn": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.",
+            "textZh": "人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。",
+            "themeEn": "Faithful in little",
+            "themeZh": "小事上忠心"
+          },
+          "aiVerseId": "luke_16_10",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-com-news-articles-c3w2l249j8go-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg",
+          "publishedAt": "2026-05-23T01:59:08.000Z",
+          "title": {
+            "en": "More than 40,000 Californians evacuated due to chemical tank leak",
+            "zh": "逾4万加州居民因化学品储罐泄漏被疏散"
+          },
+          "summary": {
+            "en": "Over 40,000 residents in California were evacuated following a chemical tank leak. Officials issued warnings about the \"highly volatile\" substance, which poses a risk of explosion.",
+            "zh": "加利福尼亚州超过4万人因化学品储罐泄漏而被疏散。官员警告称，该储罐含有“高度挥发性”物质，可能导致爆炸。"
+          },
+          "body": {
+            "en": "More than 40,000 people have been evacuated after a toxic chemical started to leak from a tank at an aerospace manufacturing facility in the US.\n\nThe tank in southern California contains an estimated 7,000 gallons of methyl methacrylate, a highly volatile and flammable substance used in the production of plastic.\n\nThe Orange County Fire Authority (OCFA) issued initial evacuation orders for the area surrounding the Garden Grove facility on Thursday afternoon, after reports of a tank temperature increase.\n\nThe evacuation zone has been expanded and the cause of the leak is being investigated.\n\nOCFA officials say there are three tanks at the facility, one of which has a compromised cooling system.\n\nIn a press conference on Friday afternoon, OCFA Chief Craig Covey said there were two potential outcomes from the leak, the first being that the tank fails and spills \"very bad chemicals\" into the area surrounding the facility.\n\n\"Or two, the tank goes into a thermal runaway and blows up, affecting the tanks that are around it that have fuel or chemicals in them as well.\"\n\n\"This is not precautionary,\" he said. \"This thing is going to fail, and we don't know when... We're doing our best to figure out when or how we can prevent it.\"\n\nA hazmat team is working with experts to find a way to depressurise the affected tank and limit exposure.\n\nThe fire chief said that evacuation orders will remain in place as authorities try to mitigate the leak. He added that his team had been able to successfully prevent further temperature increases of the compromised tanks.\n\nEvacuation centres have been set up by the OCFA, along with an information hotline.\n\nOfficials have asked people to \"refrain from calling to offer suggestions\" as to how to respond to the incident.",
+            "zh": "美国一家航空航天制造工厂的储罐中有毒化学物质开始泄漏，已有超过 40,000 人被疏散。 位于加利福尼亚州南部的储罐估计含有 7,000 加仑甲基丙烯酸甲酯，这是一种用于生产塑料的高度挥发性易燃物质。 周四下午，在接到水箱温度升高的报告后，奥兰治县消防局 (OCFA) 向加登格罗夫工厂周围地区发出了初步疏散命令。 疏散区域已扩大，泄漏原因正在调查中。 OCFA 官员表示，该设施内有 3 个储罐，其中一个的冷却系统受损。 在周五下午的新闻发布会上，OCFA 负责人克雷格·科维 (Craig Covey) 表示，泄漏有两个潜在后果，第一个是储罐发生故障，并将“非常有害的化学物质”泄漏到设施周围区域。 “或者两次，储罐发生热失控并爆炸，影响其周围含有燃料或化学品的储罐。” “这不是预防措施，”他说。 “这件事将会失败，我们不知道什么时候......我们正在尽最大努力找出何时或如何阻止它。” 危险品小组正在与专家合作，寻找一种方法来对受影响的储罐进行减压并限制暴露。 消防队长表示，当局将继续执行疏散命令，以缓解泄漏情况。他补充说，他的团队已经能够成功阻止受损储罐的温度进一步升高。 OCFA 已设立疏散中心以及信息热线。 官员们要求人们“不要打电话提出建议”，以了解如何应对这一事件。"
+          },
+          "reflection": {
+            "en": "The evacuation of thousands due to a chemical leak reminds us of the importance of foresight and caution in managing volatile substances. Proverbs 27:12 speaks to the wisdom of discerning danger and taking refuge, a principle evident in the swift response to protect lives. In moments of crisis, prudence guides us to safety and calls for diligent care in our...",
+            "zh": "加州化学品泄漏导致数万人疏散，这提醒我们管理危险物质时预见性和谨慎的重要性。箴言27:12谈到辨别危险并寻求避难的智慧，这在迅速采取行动保护生命中显而易见。在危机时刻，审慎引导我们走向安全，并呼吁我们对共同的环境给予勤勉的照护。"
+          },
+          "verse": {
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
+          },
+          "aiVerseId": "prov_27_12",
+          "translationState": "localized"
+        },
         {
           "id": "www-theguardian-com-us-news-live-2026-may-22-donald-trump-ai-china-iran-",
           "section": "world",
@@ -118,9 +186,9 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates",
           "image": "https://i.guim.co.uk/img/media/a7a99e83e5c00a28ac1bdd38fe2f5bd462ecc9b8/625_0_6246_4996/master/6246.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=08685ce292a2ff134f3e8a095b3ecca9",
-          "publishedAt": "2026-05-23T00:43:50.000Z",
+          "publishedAt": "2026-05-23T01:58:52.000Z",
           "title": {
-            "en": "Sunrise Movement takes credit for disrupting Trump’s New York state rally – US politics live",
+            "en": "Sunrise Movement takes credit for disrupting Trump’s New York state rally – as it happened",
             "zh": "特朗普将任命新的美联储主席凯文·沃什——美国政治直播"
           },
           "summary": {
@@ -128,7 +196,7 @@
             "zh": "特朗普总统将在白宫举行仪式，任命凯文·沃什为新的美联储主席，接替杰罗姆·鲍威尔。鲍威尔在任期间曾多次受到特朗普的攻击，一项最新民意调查显示，大多数美国人认为特朗普对经济的关注不足。"
           },
           "body": {
-            "en": "Activists arrested at rally in Rockland county belong to youth-led climate justice group, spokesperson says US intelligence director Tulsi Gabbard leaving post after rocky tenure Sign up for the Breaking News US email “There’s broad recognition there are going to be eventually less US troops in Europe than historically,” Rubio says Rubio said he didn’t set the timeline for reducing the number of US troops in Europe , but “it has been an ongoing process that started from the first day of this administration.” Continue reading...",
+            "en": "This blog has now closed. US intelligence director Tulsi Gabbard leaving post after rocky tenure Sign up for the Breaking News US email “There’s broad recognition there are going to be eventually less US troops in Europe than historically,” Rubio says Rubio said he didn’t set the timeline for reducing the number of US troops in Europe , but “it has been an ongoing process that started from the first day of this administration.” Continue reading...",
             "zh": "总统将主持结束杰罗姆·鲍威尔任期的白宫仪式，鲍威尔面临特朗普的多次攻击。大多数美国人认为特朗普对经济不够重视——民意调查继续阅读..."
           },
           "reflection": {
@@ -146,24 +214,58 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-may-23-police-drop-case-against-",
+          "id": "www-bbc-com-news-articles-c62d65y16nno-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a4cd/live/cd3cbe60-563d-11f1-b682-cf91850925ea.jpg",
+          "publishedAt": "2026-05-23T01:32:46.000Z",
+          "title": {
+            "en": "SpaceX launches massive Starship V3 rocket on test flight",
+            "zh": "SpaceX发射巨型星舰V3火箭进行试飞"
+          },
+          "summary": {
+            "en": "SpaceX launched its massive Starship V3 rocket on a test flight, following a postponement of the initial attempt due to a hydraulic pin malfunction in the launch tower.",
+            "zh": "SpaceX发射了其巨大的星舰V3火箭进行试飞，此前由于发射塔液压销故障，首次发射尝试被推迟。"
+          },
+          "body": {
+            "en": "Elon Musk's SpaceX has launched the biggest-ever Starship rocket a day after its highly anticipated test flight was delayed.\n\nThe uncrewed Starship V3 rocket blasted off from its launchpad in Texas just after 17:30 (2230 GMT) on Friday, days after SpaceX revealed plans for a record-breaking stock market debut .\n\nThe test flight ended after about an hour later when Starship splashed down into the Indian Ocean and exploded as planned. \"Congratulations @SpaceX team on an epic first Starship V3 launch & landing!\" Musk posted on his X platform. \"You scored a goal for humanity.\"\n\nThe first attempted launch on Thursday was postponed due to a malfunctioning hydraulic pin in the launch tower.\n\nThe SpaceX team celebrated after the launch of the most powerful and tallest rocket ever, and while the mission achieved most of its major objectives, it did not go exactly to plan.\n\nSpaceX spokesperson Dan Huot said the booster failed to complete its so-called boost-back burn after launch.\n\nOne of Starship's engines also malfunctioned, which forced a slightly longer burn from the remaining five to compensate. While it did not fly into exactly the correct orbit, Huot said it was travelling along a trajectory that was \"within bounds\".\n\nDuring its suborbital cruise phase, Starship successfully released its payload of 20 mock Starlink satellites, along with two satellites that scanned its heat shield and sent data back to the ground during the its descent.\n\nIt was the 12th flight of a SpaceX rocket, and this time featured its latest design which stands 124 meters (407 feet) high.\n\nThe debut of the Starship V3 comes ahead of SpaceX's initial public offering (IPO), which is set to be the largest in Wall Street history. It could start next month.\n\nBecause of the shares Musk will own in SpaceX, which values itself at $1.25tn, the listing could make him the first-ever trillionaire.\n\nSpaceX not only makes rockets, but has a satellite internet service called Starlink, and owns the controversial artificial intelligence (AI) firm xAI.",
+            "zh": "埃隆·马斯克 (Elon Musk) 的 SpaceX 在备受期待的试飞推迟一天后发射了有史以来最大的星舰火箭。 周五 17:30（格林尼治标准时间 2230）刚过，无人驾驶的 Starship V3 火箭从德克萨斯州的发射台发射升空，几天前 SpaceX 公布了破纪录的股票上市计划。 大约一个小时后，试飞结束，星舰按计划落入印度洋并爆炸。 “祝贺@SpaceX 团队完成了史诗般的首艘 Starship V3 发射和着陆！”马斯克在他的 X 平台上发帖。 “你为人类打进了一球。” 由于发射塔中的液压销故障，周四的首次发射尝试被推迟。 SpaceX 团队在发射有史以来最强大、最高的火箭后进行了庆祝，虽然这次任务实现了大部分主要目标，但并没有完全按计划进行。 SpaceX 发言人 Dan Huot 表示，助推器在发射后未能完成所谓的助推燃烧。 星舰的其中一个引擎也发生故障，迫使其余五个引擎的燃烧时间稍长一些，以弥补损失。虽然它没有飞入完全正确的轨道，但霍特表示它正在沿着“在范围内”的轨道行驶。 在亚轨道巡航阶段，Starship 成功释放了 20 颗模拟星链卫星的有效载荷，以及在下降过程中扫描其隔热罩并将数据发送回地面的两颗卫星。 这是 SpaceX 火箭的第 12 次飞行，这次采用了其最新设计，高度为 124 米（407 英尺）。 Starship V3 的首次亮相是在 SpaceX 首次公开募股 (IPO) 之前进行的，这将是华尔街历史上规模最大的一次。可能会在下个月开始。 由于马斯克将持有 SpaceX 的股票（该公司的估值为 1.25 万亿美元），此次上市可能使他成为有史以来第一位万亿富翁。 SpaceX 不仅制造火箭，还拥有名为 Starlink 的卫星互联网服务，并拥有备受争议的人工智能 (AI) 公司 xAI。"
+          },
+          "reflection": {
+            "en": "The launch of such a massive rocket highlights humanity's relentless pursuit of knowledge and technological advancement. Even with setbacks like a malfunctioning part, the drive to explore and innovate continues to push the boundaries of what is possible. This echoes the biblical observation that knowledge will increase, reflecting our capacity for...",
+            "zh": "如此巨大的火箭发射，彰显了人类对知识和技术进步的不懈追求。即使遇到液压销故障等挫折，探索和创新的动力仍不断突破可能的界限。这与圣经中知识将不断增长的观察相呼应，反映了我们发现的能力。"
+          },
+          "verse": {
+            "reference": "Daniel 12:4",
+            "textEn": "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.",
+            "textZh": "但以理啊，你要隐藏这话，封闭这书，直到末时。必有多人来往奔跑，知识就必增长。",
+            "themeEn": "Knowledge increasing",
+            "themeZh": "知识增长"
+          },
+          "aiVerseId": "dan_12_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-may-23-three-die-in-horrific-sou",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/23/police-drop-case-against-artist-who-depicted-prominent-australians-in-uniforms-with-nazi-symbols-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/9c83e6114449fce254d6b4f76785aba9460a67e3/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f484db08c716329c47e938152acf9d71",
-          "publishedAt": "2026-05-22T23:57:23.000Z",
+          "link": "https://www.theguardian.com/australia-news/2026/may/23/three-die-in-horrific-south-sydney-vehicle-crash-after-police-welfare-check",
+          "image": "https://i.guim.co.uk/img/media/1ab5f0d098aa37e95f380f95b767116d96bfd515/786_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ef2db31be29dbdfb01eae51a615e2ba",
+          "publishedAt": "2026-05-23T01:24:01.000Z",
           "title": {
-            "en": "Police drop case against artist who depicted high-profile Australians in uniforms with Nazi symbols",
-            "zh": "警方撤销对艺术家的指控，该艺术家描绘了穿着带有纳粹标志的制服的知名澳大利亚人"
+            "en": "Three die in ‘horrific’ south Sydney vehicle crash after police welfare check",
+            "zh": "警方福利检查后，三人在悉尼南部“可怕”的车祸中死亡"
           },
           "summary": {
-            "en": "Michael Agzarian was charged despite internal legal advice that the images were ‘political satire’, court hears Get our breaking news email, free app or daily news podcast Police charged an artist who depicted prominent Australians in military uniforms emblazoned with Nazi...",
+            "en": "A 42-year-old fled from police before being involved in a two-vehicle crash in Sans Souci, police say Get our breaking news email, free app or daily news podcast Three people have died in a crash in Sydney after a man fled police who had been attempting to carry out a welfare...",
             "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Michael Agzarian was charged despite internal legal advice that the images were ‘political satire’, court hears Get our breaking news email , free app or daily news podcast Police charged an artist who depicted prominent Australians in military uniforms emblazoned with Nazi symbols despite internal legal advice the images were “political satire”, a court has heard. Police dropped the case against Michael Agzarian before the Downing Centre local court on Friday, almost a year after he had been charged with one count of displaying Nazi symbols by a public act without lawful excuse. Continue reading...",
-            "zh": "法院获悉，尽管内部法律建议这些图像是“政治讽刺”，迈克尔·阿格扎里安仍被指控 法庭获悉，警方指控一名艺术家，尽管内部法律建议这些图像是“政治讽刺”，但仍描绘了穿着印有纳粹标志的军装的著名澳大利亚人。周五，警方在唐宁中心地方法院撤销了对迈克尔·阿扎里安的指控，距离他被指控在无合法理由的情况下在公共场合展示纳粹标志的罪名已近一年。继续阅读..."
+            "en": "A 42-year-old fled from police before being involved in a two-vehicle crash in Sans Souci, police say Get our breaking news email , free app or daily news podcast Three people have died in a crash in Sydney after a man fled police who had been attempting to carry out a welfare check. A 42-year-old man fled in a white Audi after officers were called to a welfare check at a property in Gymea Bay, southern Sydney, at 12.25am on Saturday. Continue reading...",
+            "zh": "警方称，一名 42 岁的男子在无忧宫发生两车相撞事故后逃离警方 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 悉尼发生一起车祸，一名男子试图进行福利检查时逃离了警方，导致三人死亡。周六凌晨 12 点 25 分，一名 42 岁男子驾驶一辆白色奥迪逃离悉尼南部吉米亚湾 (Gymea Bay) 的一处房产，警察被叫去进行福利检查。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -179,57 +281,90 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-science-2026-may-22-spacex-launch-texas-test-flight",
+          "id": "www-theguardian-com-world-2026-may-22-uranium-strait-of-hormuz-us-iran-w",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/science/2026/may/22/spacex-launch-texas-test-flight",
-          "image": "https://i.guim.co.uk/img/media/cf9e3f9111d9bf213a3072176653842f0913c9b5/556_0_5561_4449/master/5561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e2059bb70c5c34a8ff869337c9c9c5e",
-          "publishedAt": "2026-05-22T22:52:07.000Z",
+          "link": "https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
+          "image": "https://i.guim.co.uk/img/media/bd213e7091c3c8292d3e5a7a7eabd22abd1a4da1/188_0_2185_1748/master/2185.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=edc9d8c2754a79dd5868e52d524b7c30",
+          "publishedAt": "2026-05-23T01:14:00.000Z",
           "title": {
-            "en": "SpaceX launches its biggest rocket yet in test flight from Texas",
-            "zh": "SpaceX 从德克萨斯州试飞迄今为止最大的火箭"
+            "en": "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax",
+            "zh": "卡塔尔派遣调解员前往德黑兰，标志着重新开放霍尔木兹海峡的谈判即将达到高潮"
           },
           "summary": {
-            "en": "The launch is the 12th test flight of the mega-rocket that CEO Elon Musk is building to get people to Mars one day SpaceX launched its biggest, most powerful Starship yet on a test flight Friday, an upgraded version that Nasa is counting on to land astronauts on the moon. The...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+            "en": "Iran has threatened to impose tolls on shipping, while US demands that Iran hand over its highly enriched uranium may be deferred. Is there an end in sight? Qatar has rushed a team of mediators to Tehran in a sign that talks to open the strait of Hormuz, in return for the...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "The launch is the 12th test flight of the mega-rocket that CEO Elon Musk is building to get people to Mars one day SpaceX launched its biggest, most powerful Starship yet on a test flight Friday, an upgraded version that Nasa is counting on to land astronauts on the moon. The redesigned mega-rocket made its debut two days after SpaceX CEO Elon Musk announced he’s taking the company public . It blasted off from the southern tip of Texas, carrying 20 mock Starlink satellites for release halfway around the world. Continue reading...",
-            "zh": "这次发射是首席执行官埃隆·马斯克(Elon Musk)正在建造的巨型火箭的第12次试飞，有一天SpaceX在周五的试飞中发射了迄今为止最大、最强大的星际飞船，这是美国宇航局(NASA)指望将宇航员送上月球的升级版。 SpaceX 首席执行官埃隆·马斯克 (Elon Musk) 宣布公司上市两天后，重新设计的巨型火箭首次亮相。它从德克萨斯州南端发射升空，携带 20 颗模拟星链卫星，准备绕地球一周发射。继续阅读..."
+            "en": "Iran has threatened to impose tolls on shipping, while US demands that Iran hand over its highly enriched uranium may be deferred. Is there an end in sight? Qatar has rushed a team of mediators to Tehran in a sign that talks to open the strait of Hormuz, in return for the lifting of US sanctions and asset freezes, are reaching a climax. The aim would be to sign a memorandum of understanding on the strait that would lead to 30 days of talks on Iran’s nuclear programme – so deferring discussion of the US demand that Iran hand over its stockpile of highly enriched uranium. Continue reading...",
+            "zh": "伊朗威胁要对航运征收通行费，而美国要求伊朗交出高浓缩铀的要求可能会被推迟。有尽头吗？卡塔尔已派遣调解小组前往德黑兰，这表明开放霍尔木兹海峡以换取美国解除制裁和资产冻结的谈判正在达到高潮。目的是签署一份有关该海峡的谅解备忘录，从而就伊朗核计划进行为期 30 天的谈判 — — 从而推迟对美国要求伊朗交出高浓缩铀库存的讨论。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "James 1:5",
-            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
-            "themeEn": "Ask God for wisdom",
-            "themeZh": "求神赐智慧"
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-may-22-tulsi-gabbard-intelligence-direc",
+          "id": "www-theguardian-com-us-news-2026-may-22-california-orange-county-chemica",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/22/tulsi-gabbard-intelligence-director",
-          "image": "https://i.guim.co.uk/img/media/5e76083dd5e18811dce5cdbf5acb442708508209/214_0_3479_2783/master/3479.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6dd6ca0edde43cc4d43c9ac0ffdaf256",
-          "publishedAt": "2026-05-22T22:23:32.000Z",
+          "link": "https://www.theguardian.com/us-news/2026/may/22/california-orange-county-chemical-tank",
+          "image": "https://i.guim.co.uk/img/media/c04e56794abe6c55ef54d366d91a7087e7be753f/27_0_3161_2530/master/3161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8aaeee5d0553b7f9c8ed1b58aeb61e0",
+          "publishedAt": "2026-05-23T01:12:17.000Z",
           "title": {
-            "en": "The turbulent 15 months of Trump’s unlikely US intelligence director",
-            "zh": "特朗普出人意料的美国情报总监的动荡 15 个月"
+            "en": "California: 40,000 people ordered to evacuate over chemical leak fears",
+            "zh": "加州：担心化学品泄漏 4 万人被勒令撤离"
           },
           "summary": {
-            "en": "Over 15 months, the ex-Democrat without an intelligence background took actions seemingly meant to flatter Trump Tulsi Gabbard’s tumultuous 15-month tenure as the nation’s top intelligence official ended Friday, when she submitted her resignation as director of national...",
+            "en": "Authorities in Orange county say tank holding methyl methacrylate ‘actively in crisis’ and urge residents to leave Authorities in Orange county, California have ordered the evacuation of 40,000 people over concerns about a chemical leak that threatened to spill or explode. The...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Authorities in Orange county say tank holding methyl methacrylate ‘actively in crisis’ and urge residents to leave Authorities in Orange county, California have ordered the evacuation of 40,000 people over concerns about a chemical leak that threatened to spill or explode. The problem arose on Thursday at a facility owned by GKN Aerospace in the town of Garden Grove, where a storage tank holding methyl methacrylate began off-gassing and threatened to fail. The chemical, which is highly flammable , is used to fabricate resins and plastics. Continue reading...",
+            "zh": "奥兰治县当局表示，装有甲基丙烯酸甲酯的储罐“正处于危机之中”，并敦促居民离开。由于担心化学品泄漏，可能导致溢出或爆炸，加利福尼亚州奥兰治县当局已下令疏散 4 万人。周四，吉凯恩航空航天公司位于加登格罗夫镇的一家工厂出现了这一问题，该工厂的一个装有甲基丙烯酸甲酯的储罐开始放气，并有可能发生故障。这种化学品高度易燃，用于制造树脂和塑料。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cj3p2rdx0l8o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/68b3/live/8445c700-55d0-11f1-8b8c-6d33e1d5abb6.jpg",
+          "publishedAt": "2026-05-22T23:07:41.000Z",
+          "title": {
+            "en": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
+            "zh": "“速度、金钱和同情心”——埃博拉幸存者和其他专家的经验教训"
+          },
+          "summary": {
+            "en": "Those caught up in West Africa's Ebola outbreak a decade ago on how best to tackle the current epidemic.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Over 15 months, the ex-Democrat without an intelligence background took actions seemingly meant to flatter Trump Tulsi Gabbard’s tumultuous 15-month tenure as the nation’s top intelligence official ended Friday, when she submitted her resignation as director of national intelligence. Gabbard was an unconventional choice for the role: the former Democrat lacked an intelligence background and her foreign policy views at times diverged with Donald Trump, particularly on questions of overseas military intervention. And yet she also took unusual measures to ingratiate herself to the president by vowing to root out politicization across US spy agencies and embracing his agenda of election denial. Continue reading...",
-            "zh": "在 15 个多月的时间里，这位没有情报背景的前民主党人采取的行动似乎是为了奉承特朗普·图尔西·加巴德 (Tulsi Gabbard) 作为国家最高情报官员的 15 个月的混乱任期，她于周五递交了国家情报总监的辞呈。加巴德是这个角色的非传统选择：这位前民主党人缺乏情报背景，她的外交政策观点有时与唐纳德·特朗普存在分歧，特别是在海外军事干预问题上。然而，她也采取了不同寻常的措施来讨好总统，发誓要根除美国间谍机构的政治化行为，并支持他拒绝选举的议程。继续阅读..."
+            "en": "\"I saw the burial team taking eight of them,\" recalls Ebola survivor Patrick Faley. \"They put them into a bag and carried them to the burial. I made new friends although they ended up dying. I was the only person that was left there.\"\n\nThis week's scenes from the Democratic Republic of Congo, where medics are scrambling to respond to an outbreak of Ebola, have brought back haunting memories for those who have lived through similar crises.\n\nA decade ago Faley found himself on the front line of a similar situation in West Africa - the worst recorded outbreak of the disease, which killed more than 11,000 people in two years mostly in Guinea, Liberia and Sierra Leone.\n\nFor Faley, the memories of what he lived through, including the death of so many of his friends, raise questions about lessons that can be learned for how to handle the latest outbreak in eastern DR Congo in which the World Health Organization (WHO) says more than 170 people have died.\n\nFaley was recruited as a community volunteer by Liberia's Ministry of Health to spread awareness about Ebola. He went from village to village to explain how the virus was spread by contact with bodily fluids and encourage people to stop things like greeting one another by shaking hands .\n\nIt also involved dispelling rumours and explaining why traditional mourning practices - such as washing the bodies of the deceased - had to be banned.\n\nHe worked within communities near his home in the north of the country - and says it was attending the funeral of a colleague who had died of the disease that changed his life as he himself forgot the advice.\n\n\"You have to shake hands; you have to hug people,\" he tells the BBC. \"Forgetting to know that we have a crisis, an emergency crisis in our country.\"\n\nThree days after the funeral, he fell sick with Ebola, finding himself turning from healthcare worker to patient and ending up in the capital, Monrovia, in an overcrowded ward, filled with the bodies of those who had died.\n\n\"We sat in the ambulance,\" he remembers, \"and people were just dying at the front of the hospital.\"\n\nFaley recovered from the infection but his wife and son later caught the virus as well. His wife got better and made it home. Tragically their four-year-old son Momo did not survive.\n\nThe lessons from the West African outbreak a decade ago are helping to shape the response this week to the new surge of cases in DR Congo, with funerals banned for those suspected to have been infected.\n\nThis has sparked tension in some communities, with a crowd angrily setting fire to part of a hospital on Thursday near the epicentre in the city of Bunia after being told a body would not be released for burial.\n\nBut it is essential to learn lessons from the past and to ensure affected communities are on board, says Dr...",
+            "zh": "“我看到埋葬队带走了八个人，”埃博拉幸存者帕特里克·费利回忆道。 “他们把它们装进袋子里，带到墓地。虽然他们最终都死了，但我结识了新朋友。我是唯一留在那里的人。” 本周，刚果民主共和国的医护人员正忙于应对埃博拉疫情的爆发，这让那些经历过类似危机的人们回想起了难以忘怀的回忆。 十年前，Faley 发现自己身处西非类似情况的前线——有记录以来最严重的疾病爆发，两年内导致 11,000 多人死亡，主要发生在几内亚、利比里亚和塞拉利昂。 对于 Faley 来说，他所经历的经历，包括许多朋友的去世，让他对如何应对刚果民主共和国东部最近的疫情爆发提出了疑问，世界卫生组织 (WHO) 称该疫情已造成 170 多人死亡。 法利被利比里亚卫生部招募为社区志愿者，以传播对埃博拉病毒的认识。他挨家挨户地解释病毒是如何通过体液接触传播的，并鼓励人们停止通过握手等方式互相打招呼。 它还涉及消除谣言并解释为什么必须禁止传统的哀悼做法（例如清洗死者的尸体）。 他在该国北部家附近的社区工作，并表示正在参加一位因这种疾病去世的同事的葬礼，这种疾病改变了他的生活，因为他自己忘记了这个建议。 “你必须握手；你必须拥抱别人，”他告诉英国广播公司。 “忘记了我们国家正面临一场危机，一场紧急危机。” 葬礼三天后，他感染了埃博拉病毒，发现自己从医护人员变成了病人，最后来到首都蒙罗维亚，病房里挤满了死者的尸体。 “我们坐在救护车里，”他回忆道，“医院门口有人快要死了。” 费利从感染中康复，但他的妻子和儿子后来也感染了病毒。他的妻子病情好转并回家了。不幸的是，他们四岁的儿子莫莫没能活下来。 十年前西非疫情的教训正在帮助制定本周对刚果民主共和国新增病例激增的应对措施，禁止为疑似感染者举行葬礼。 这在一些社区引发了紧张局势，周四，一群人群在被告知不会将尸体运走埋葬后，愤怒地纵火焚烧了布尼亚市震中附近的一家医院的一部分。 但博士说，必须吸取过去的教训并确保受影响的社区参与其中。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -241,39 +376,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-may-22-green-card-applicants-trump-admi",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/22/green-card-applicants-trump-administration",
-          "image": "https://i.guim.co.uk/img/media/9e372b42aa32fa31168eefc0ac3f50e9c8b1db47/511_0_3886_3110/master/3886.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3841e78e2dc4a30ede09f67dd77ff523",
-          "publishedAt": "2026-05-22T22:19:37.000Z",
-          "title": {
-            "en": "US green card applicants will now have to return to home countries to apply, DHS says",
-            "zh": "国土安全部表示，美国绿卡申请人现在必须返回本国申请"
-          },
-          "summary": {
-            "en": "Change criticized by advocates marks the latest significant move by the Trump administration on immigration policy Foreigners seeking to adjust their immigration status in the United States to secure green cards will have to do so from outside the country via the state...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Change criticized by advocates marks the latest significant move by the Trump administration on immigration policy Foreigners seeking to adjust their immigration status in the United States to secure green cards will have to do so from outside the country via the state department, the US Citizenship and Immigration Services (USCIS) said on Friday, in a move criticized by aid groups, policy analysts and immigration attorneys. USCIS announced the move in a policy memo, which directed officers to consider relevant factors and information on a case-by-case basis when determining whether extraordinary relief is warranted. Continue reading...",
-            "zh": "受到支持者批评的改变标志着特朗普政府在移民政策上的最新重大举措美国公民及移民服务局(USCIS)周五表示，寻求调整在美国的移民身份以获得绿卡的外国人必须通过国务院从国外这样做，此举遭到援助组织、政策分析师和移民律师的批评。美国移民局在一份政策备忘录中宣布了这一举措，该备忘录指示官员在确定是否需要特别救济时，根据具体情况考虑相关因素和信息。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
           },
           "translationState": "fallback"
         },
@@ -377,73 +479,6 @@
             "themeZh": "和睦"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cglp5z63k9no-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5af2/live/cb0e0810-55fc-11f1-8b8c-6d33e1d5abb6.jpg",
-          "publishedAt": "2026-05-22T20:52:35.000Z",
-          "title": {
-            "en": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-            "zh": "加沙船队活动人士声称以色列军队在被拘留期间实施虐待行为"
-          },
-          "summary": {
-            "en": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Pro-Palestinian activists who were deported after their Gaza-bound aid flotilla was intercepted in international waters by Israeli forces have alleged they were subjected to abuse while held in detention.\n\nCanada said it had received information detailing \"appalling abuse\" of its citizens, while Germany and Spain confirmed that a number of their citizens had injuries.\n\nThe flotilla's organisers alleged there were \"at least 15 cases of sexual assaults\" while other people who were detained said they were beaten and mistreated.\n\nThe BBC has not been able to independently verify the allegations. Israel's prison service has dismissed them as false, saying all detainees were \"held in accordance with the law\".\n\nMore than 50 boats in the Global Sumud Flotilla (GSF) set sail from Turkey last week, planning to breach Israel's maritime blockade of Gaza and deliver food and medical aid.\n\nIsrael's government dismissed the action as a \"PR stunt\" serving the Palestinian armed group Hamas, and ordered commandos to board the boats west of Cyprus on Monday and Tuesday.\n\nThe detained activists were transferred to Israeli vessels and taken to an Israeli prison after arriving at the port of Ashdod.\n\nOn Thursday, 422 people from 41 countries were deported by Israel. Many have since arrived home.\n\nCanadian Foreign Minister Anita Anand said on Friday that she had \"received information from my officials which details the appalling abuse of Canadians who were detained in Israel\", without giving further details.\n\nShe added: \"Canada unequivocally condemns the grave mistreatment of Canadians in Israel. Those responsible for this egregious abuse must be held accountable.\"\n\nA spokesperson for Germany's foreign ministry said its consular officials had met German activists on arrival in Istanbul on Thursday and reported that a number were injured.\n\nHumane treatment of German nationals was an \"absolute priority\", they added. \"We naturally expect a full explanation, as some of the allegations that have been made are serious.\"\n\nSpanish Foreign Minister José Manuel Albares told reporters that four of the 44 Spanish activists had received medical treatment for injuries.\n\nOrganisers of the Global Sumud Flotilla also said on Friday: \"At least 15 cases of sexual assaults, including rape. Shot with rubber bullets at close range. Tens of people's bones broken.\"\n\nIn a statement, Israel's prison service said various allegations were \"false and entirely without factual basis\".\n\n\"All prisoners and detainees are held in accordance with the law, with full regard for their basic rights and under the supervision of professional and trained prison staff,\" it said.\n\n\"Medical care is provided according to professional medical judgment and in accordance with ministry of health guidelines.\"\n\nA number of...",
-            "zh": "前往加沙的援助船队在国际水域被以色列军队拦截后被驱逐出境的亲巴勒斯坦活动人士声称，他们在拘留期间受到虐待。 加拿大表示，已收到详细描述其公民遭受“令人震惊的虐待”的信息，而德国和西班牙则证实，一些公民受伤。 该船队的组织者声称存在“至少 15 起性侵犯案件”，而其他被拘留的人则表示他们遭到殴打和虐待。 BBC 尚未能够独立核实这些指控。以色列监狱部门认为这些内容是虚假的，并称所有被拘留者都是“依法关押的”。 全球苏姆德船队 (GSF) 的 50 多艘船只上周从土耳其起航，计划突破以色列对加沙的海上封锁，运送食品和医疗援助。 以色列政府驳斥了这一行动，称其为为巴勒斯坦武装组织哈马斯服务的“公关噱头”，并命令突击队于周一和周二登上塞浦路斯西部的船只。 被拘留的活动人士抵达阿什杜德港后被转移到以色列船只上并被带到以色列监狱。 周四，来自 41 个国家的 422 人被以色列驱逐出境。许多人已经回到家中。 加拿大外交部长安妮塔·阿南德周五表示，她“从我的官员那里收到了信息，其中详细描述了在以色列被拘留的加拿大人遭受的令人震惊的虐待”，但没有提供更多细节。 她补充说：“加拿大明确谴责在以色列严重虐待加拿大人的行为。必须追究那些对这种严重虐待行为负责的人的责任。” 德国外交部发言人表示，其领事官员周四抵达伊斯坦布尔时会见了德国活动人士，并报告称有一些人受伤。 他们补充说，对德国国民的人道待遇是“绝对优先事项”。 “我们自然期望得到完整的解释，因为一些指控是严重的。” 西班牙外交部长若泽·曼努埃尔·阿尔瓦雷斯告诉记者，44 名西班牙活动人士中，有 4 人因受伤接受了治疗。 Global Sumud Flotilla 的组织者周五还表示：“至少有 15 起性侵犯案件，其中包括强奸。用橡皮子弹近距离射击。数十人骨折。” 以色列监狱部门在一份声明中表示，各种指控“都是虚假的，完全没有事实依据”。 声明称：“所有囚犯和被拘留者均依法关押，充分尊重他们的基本权利，并受到专业和训练有素的监狱工作人员的监督。” “医疗护理是根据专业医疗判断并按照卫生部的指导方针提供的。” 一些..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cvgj2gkv1x1o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/db89/live/999c35e0-5606-11f1-b1da-2de1b3f74b08.jpg",
-          "publishedAt": "2026-05-22T20:30:26.000Z",
-          "title": {
-            "en": "Tulsi Gabbard to resign as US director of national intelligence",
-            "zh": "塔尔西·加巴德将辞去美国国家情报总监一职"
-          },
-          "summary": {
-            "en": "Tulsi Gabbard announced her resignation as the US director of national intelligence, stating that she is stepping down from her role due to her husband's illness. She had maintained a low public profile during recent US operations.",
-            "zh": "塔尔西·加巴德宣布辞去美国国家情报总监一职，她表示辞职是由于丈夫生病。在近期美国行动期间，她一直很少公开露面。"
-          },
-          "body": {
-            "en": "Tulsi Gabbard will resign from her position as the US director of national intelligence in the Trump administration, citing her husband's recent bone cancer diagnosis.\n\n\"His strength and love have sustained me through every challenge,\" she wrote in her resignation letter on Friday. \"I cannot in good conscience ask him to face this fight alone while I continue in this demanding and time-consuming position.\"\n\nPresident Donald Trump said in a social media post that Gabbard \"has done an incredible job, and we will miss her\".\n\nHer resignation is effective 30 June. Aaron Lukas, the principal deputy director, will step in as acting director, Trump said.\n\nGabbard, a loyal supporter of Trump during his 2024 presidential campaign, was confirmed as one of the most powerful figures in US intelligence-gathering weeks after he returned to the White House in 2025. But this year, she has largely been out of public view even as the US took military action against Iran, put pressure on Cuba, and notably removed Venezuela's president.\n\nGabbard is the fourth Cabinet member to depart the Trump administration after Lori Chavez-DeRemer left her position as labor secretary in April. Homeland Security Secretary Kristi Noem and Attorney General Pam Bondi both left the administration earlier this year.\n\nIn her resignation letter, Gabbard said her husband, Abraham, \"faces major challenges in the coming weeks and months.\"\n\nTrump posted on social media that Gabbard \"rightfully, wants to be with him, bringing him back to good health as they currently fight a tough battle together. I have no doubt he will soon be better than ever.\"\n\nDuring her political career, she had positioned herself as an anti-interventionalist in foreign wars, creating tension after Trump decided to attack Iran. Following US-Israel strikes, she avoided endorsing the decision, carefully evading questions during a congressional hearing in March about whether the administration knew of the conflict's potential fallout.\n\nShe also faced scrutiny during questioning over what Democrats perceived as discrepancies between White House and intelligence community claims about Iran's nuclear enrichment capabilities.\n\nLast year, Trump appeared to dismiss Gabbard's declaration before Congress that Iran was not seeking to build a nuclear weapon.\n\n\"I don't care what she said,\" Trump told reporters at the time. \"I think they were very close to having a weapon.\" He has repeatedly cited Iran's nuclear capability as a reason for the US war with Iran.\n\nGabbard's departure comes two months after her top aide, former National Counterterrorism Center Director Joe Kent, left the administration over the war in Iran, urging the president to \"reverse course\".\n\nFollowing Kent's resignation, Gabbard publicly backed Trump's decision in...",
-            "zh": "图尔西·加巴德将辞去特朗普政府美国国家情报总监的职务，理由是她丈夫最近被诊断出骨癌。 “他的力量和爱支撑着我度过每一次挑战，”她在英国广播公司美国合作伙伴哥伦比亚广播公司新闻获得的辞职信中写道。 “出于良心，我不能要求他独自面对这场战斗，同时我继续担任这个要求高且耗时的职位。” 唐纳德·特朗普总统在社交媒体帖子中表示，加巴德“做了令人难以置信的工作，我们会想念她”。 她的辞职于 6 月 30 日生效。特朗普表示，首席副主任亚伦·卢卡斯将担任代理主任。 加巴德是特朗普在 2024 年总统竞选期间的忠实支持者，在 2025 年重返白宫几周后，她被确认为美国情报收集领域最有权势的人物之一。但今年，随着美国对伊朗采取军事行动、向古巴施压，尤其是罢免委内瑞拉总统，她基本上淡出了公众视野。 加巴德是洛里·查韦斯-德雷默四月份辞去劳工部长职务后第四位离开特朗普政府的内阁成员。国土安全部部长克里斯蒂·诺姆和司法部长帕姆·邦迪今年早些时候双双离开政府。 加巴德在辞职信中表示，她的丈夫亚伯拉罕“在未来几周和几个月内面临重大挑战”。 特朗普在社交媒体上发帖称，加巴德“理所当然地希望和他在一起，让他恢复健康，因为他们目前正在共同打一场硬仗。我毫不怀疑他很快就会比以往任何时候都更好。” 在她的政治生涯中，她将自己定位为对外战争中的反干涉主义者，在特朗普决定与伊朗开战后制造了紧张局势。在美国和以色列对伊朗发动袭击后，她避免支持这一决定，并在三月份的国会听证会上小心翼翼地回避了有关政府是否了解冲突潜在后果的问题。 在民主党人认为白宫和情报界关于伊朗核浓缩能力的说法之间存在差异的问题上，她还面临着审查。 去年，特朗普似乎驳回了加巴德在国会发表的关于伊朗不寻求制造核武器的声明。 “我不在乎她说什么，”特朗普当时对记者说。 “我认为他们非常接近拥有武器。”他多次将伊朗的核能力作为美国与伊朗开战的原因。 加巴德离职两个月前，她的高级助手、前国家反恐中心主任乔·肯特因伊朗战争而离开政府，敦促总统“改变方向”。 继肯特之后..."
-          },
-          "reflection": {
-            "en": "Life often presents us with seasons where personal responsibilities call for a shift in focus, even from demanding public roles. This reminds us that there is a time for every activity, and sometimes, the most important work lies within the quiet confines of family and care. Prioritizing the well-being of loved ones is a profound act of commitment.",
-            "zh": "生活常会带来一些季节，个人责任要求我们转移重心，即使是从要求很高的公共职务中。这提醒我们凡事都有定期，有时最重要的工作在于家庭和照护的安静范围之内。优先考虑所爱之人的福祉是一种深刻的承诺行为。"
-          },
-          "verse": {
-            "reference": "Ecclesiastes 3:1",
-            "textEn": "There is a time for everything, and a season for every activity under the heavens.",
-            "textZh": "凡事都有定期，天下万务都有定时。",
-            "themeEn": "A time for everything",
-            "themeZh": "凡事有定时"
-          },
-          "aiVerseId": "ecc_3_1",
-          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-new-alliances-emerge-in-middle-east-which-one-will-win-a-7",
@@ -623,19 +658,19 @@
           "publishedAt": "2026-05-21T20:46:53.000Z",
           "title": {
             "en": "Democrats release long-withheld 'autopsy' on Kamala Harris' 2024 US election loss",
-            "zh": "民主党公布长期隐瞒的卡玛拉·哈里斯 2024 年美国大选失利的“尸检”"
+            "zh": "民主党公布拖延已久的关于卡玛拉·哈里斯2024年美国大选失利的“验尸报告”"
           },
           "summary": {
-            "en": "The secrecy surrounding the report, which exposes divisions over why the party lost to Donald Trump, had angered some Democrats.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "Democrats have released a long-awaited internal report, described as an \"autopsy,\" detailing the reasons for Kamala Harris's 2024 US election loss. The report's previous secrecy had caused anger among some party members, and it exposes existing divisions within the party regarding the defeat by Donald Trump.",
+            "zh": "民主党公布了一份期待已久的内部报告，这份被称为“验尸报告”的文件详细阐述了卡玛拉·哈里斯在2024年美国大选中失利的原因。此前该报告的保密性曾引起一些民主党人的不满，它也揭示了党内就败给唐纳德·特朗普一事存在的分歧。"
           },
           "body": {
             "en": "Bowing to pressure from within its ranks, the United States' Democratic &#x200C;National Committee (DNC) has released its long-withheld \"autopsy\" of Kamala Harris' loss to Donald Trump in the 2024 presidential race &#x2014; only to quickly disavow it.\n\nThe &#x200C;report concluded that Democrats have ceded ground to Trump's Republicans through under-funding of state parties and a \"persistent inability or unwillingness to listen &#x200C;to all voters\".\n\nIn particular, Democrats underperformed among male voters, non-college voters, irregular voters and rural voters, it said.\n\nThe report was released less than six months before November's midterm congressional elections .\n\nIn a statement accompanying the release, DNC chairman Ken Martin said it \"does not meet my standards and it won't meet your standards\", but he said it was being published to restore trust in the party.\n\nAlthough the autopsy criticises Democrats' focus on \"identity politics,\" it sidesteps some of the most controversial elements of the 2024 campaign.\n\nThe report does not address former president Joe Biden's decision to seek re-election, the rushed selection of Harris to replace him on the ticket when he stepped aside, or the party's acrimonious divide over the war in the Gaza Strip.\n\nThe 192-page document includes &#x200C;a disclaimer at &#x200C;the top of each &#x2060;page stating that it \"reflects the views of the author, not the DNC\", and notes appended throughout highlight inaccuracies as well as conclusions offered without evidence.\n\nThe report was written by Paul Rivera, a Democratic consultant, who could not immediately be reached for comment.\n\nIt was completed late last year, and some Democrats were angry it was being kept secret.\n\nWhile Democrats appear well-positioned to make gains in Congress in the November vote given polls indicating a decline in Trump's popularity, they are still searching for a unifying message ahead of the &#x2060;2028 presidential campaign.\n\nA New York Times/Siena College poll this week found widespread &#x200C;frustration among Democratic voters of all stripes, even as the party appears to have a sizeable advantage over Republicans heading into the election, the newspaper reported.\n\nMartin had &#x200C;initially promised to release the report but changed his mind in December, saying he did not want to encourage Democrats to engage in finger-pointing about 2024 rather than focusing on the future.\n\nHe wrote that he had withheld the report after last November's Democratic victories in Virginia and New Jersey to avoid distraction but acknowledged the decision only created a larger one.\n\nBoth major parties have in &#x200C;the past commissioned autopsies following losses to explore what lessons should be learned, including interviewing party leaders,...",
             "zh": "迫于内部压力，美国民主党全国委员会 (DNC) 公布了其长期隐瞒的关于卡玛拉·哈里斯 (Kamala Harris) 在 2024 年总统竞选中输给唐纳德·特朗普 (Donald Trump) 的“尸检报告”，但很快又否认了这一说法。 报告的结论是，由于各州政党资金不足以及“始终无法或不愿意倾听所有选民的意见”，民主党已向特朗普领导的共和党让步。 报告称，民主党在男性选民、非大学选民、非正规选民和农村选民中的表现尤其不佳。 该报告是在 11 月国会中期选举前不到六个月发布的。 民主党全国委员会主席肯·马丁在新闻稿随附的一份声明中表示，该报告“不符合我的标准，也不会符合你们的标准”，但他表示，发布该报告是为了恢复对该党的信任。 尽管尸检批评了民主党对“身份政治”的关注，但它回避了 2024 年竞选中一些最具争议的内容。 该报告没有提及前总统乔·拜登寻求连任的决定、在他下台时​​匆忙选择哈里斯接替他的候选人，也没有提及该党在加沙地带战争问题上的激烈分歧。 这份 192 页的文件在每页顶部都有免责声明，指出它“反映了作者的观点，而不是民主党全国委员会的观点”，并在全文中附有注释，强调了不准确之处以及在没有证据的情况下得出的结论。 该报告由民主党顾问保罗·里维拉撰写，记者无法立即联系到他置评。 它于去年年底完成，一些民主党人对它被保密感到愤怒。 尽管民意调查显示特朗普的支持率下降，民主党似乎有能力在 11 月的国会投票中取得进展，但他们仍在 2028 年总统竞选之前寻找统一的信息。 据该报报道，《纽约时报》/锡耶纳学院本周进行的一项民意调查发现，各派民主党选民普遍感到沮丧，尽管该党在选举中似乎比共和党人拥有相当大的优势。 马丁最初承诺发布该报告，但在 12 月改变了主意，称他不想鼓励民主党人对 2024 年问题相互指责，而不是关注未来。 他写道，去年 11 月民主党在弗吉尼亚州和新泽西州获胜后，他保留了这份报告，以避免分散注意力，但他承认这一决定只会造成更大的影响。 两个主要政党过去都在损失后委托进行尸检，以探讨应该吸取哪些教训，包括采访政党领导人，……"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "A political party's internal report on an election loss, revealing divisions and anger over secrecy, highlights the challenges of navigating setbacks. Proverbs reminds us that without wise guidance, a group can falter, but safety is found in a multitude of counselors. This suggests the importance of transparent leadership and unified strategy, especially in...",
+            "zh": "一份关于选举失利的内部报告，揭示了政治党派内部的分歧和对保密的愤怒，凸显了应对挫折的挑战。箴言提醒我们，没有明智的指导，一个群体就会衰败，但在众多的谋士中才有安全。这表明在反思和重建时期，透明的领导和统一的策略至关重要。"
           },
           "verse": {
             "reference": "Proverbs 11:14",
@@ -644,7 +679,8 @@
             "themeEn": "Wise counsel",
             "themeZh": "智谋的价值"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_11_14",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-donald-trump-primaries-results-explained-iea",
@@ -678,40 +714,6 @@
             "themeZh": "义人执政与恶人当道"
           },
           "aiVerseId": "prov_29_2",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-australian-activists-detained-by-israel-set-",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/australian-activists-detained-by-israel-set-to-be-released/1wm41i9kc",
-          "image": "https://assets.sbs.com.au/dims4/default/9cb43b4/2147483647/strip/false/crop/8640x3970+0+0/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F9e%2Ffd%2Ff2c0ff1e47df96b94b28d7080fe6%2F20260522130503315551-original.jpg",
-          "publishedAt": "2026-05-21T10:33:39.000Z",
-          "title": {
-            "en": "Deported Australians on Gaza-bound flotilla allege abuse while detained by Israel",
-            "zh": "以色列拘留的澳大利亚活动人士将获释"
-          },
-          "summary": {
-            "en": "Australian activists who were detained by Israel are now scheduled for release and deportation. This development follows a period of global controversy sparked by a video posted on X by Israel's police minister.",
-            "zh": "被以色列拘留的澳大利亚活动人士即将获释并被驱逐出境。此前数小时，以色列警方部长在X平台发布的一段视频引发了全球争议。"
-          },
-          "body": {
-            "en": "Australians detained by Israel while trying to deliver aid to Gaza have said they were subjected to physical, psychological, and sexual abuse before being released from prison and deported to T&#xFC;rkiye.\n\nEleven Australians were among some 400 people taking part in the Global Sumud Flotilla to Gaza before being intercepted by Israeli forces at gunpoint in international waters on Tuesday.\n\nThe activists were all deported from Israel on Thursday, the Israeli foreign ministry said.\n\nAfter arriving in Istanbul, Australian flotilla participant Juliet Lamont said \"at least 40 of our comrades on the prison boat had broken bones, there was about 15 sexual assaults\".\n\nAnother Australian participant, Zack Schofield, said: \"We were taken to prison and treated really poorly. Many of us haven't eaten for days. We were denied water for two days.\"\n\n\"I have friends that were shocked with Tasers, stun guns for extended periods of time just on entry to prison, were beaten. But it is nothing compared to what happens to Palestinians in the occupied territories every single day,\" he said.\n\nThe Israel Prison Service has said prisoners were held \"in accordance with the law, with full regard for their basic rights and under the supervision of professional and trained prison staff\".\n\nA spokesperson for the Department of Foreign Affairs and Trade said 11 Australians were met in T&#xFC;rkiye by Australian consular officials.\n\n\"We are pleased that the Australians involved in the global flotilla have now been released by Israel,\" the spokesperson told SBS News.\n\n\"No Australians required immediate medical attention, beyond the provision of basic first aid supplies. Access to medical treatment remains available.\n\n\"Along with other countries, Australia has raised our concerns with Israeli authorities about the treatment of detainees and delays in providing consular access in line with international obligations.\n\n\"We continue to urge Australians not to attempt to break the Israeli naval blockade as they will be putting the safety of themselves and others at risk.\"\n\nImages posted by T&#xFC;rkiye's foreign ministry showed members of the group arriving in Istanbul, wearing grey tracksuits and keffiyehs .\n\nIt said 422 people who had been part of the flotilla were brought to T&#xFC;rkiye.\n\nEarlier, Israel's ambassador to Australia Hillel Newman said the activists were \"certainly safe\", had access to consular officials and would be deported following due process.\n\n\"No one is in harm's way ... the dealing with them was very sensitive,\" he told reporters in Canberra on Thursday.\n\nThe treatment of the activists by police officers under the direction of Israeli national security minister Itamar Ben-Gvir drew international outcry and a rebuke from Prime Minister Benjamin...",
-            "zh": "一群在试图向加沙运送援助时被以色列抓获的澳大利亚人将被释放。 周二，参加全球 Sumud 船队前往加沙的 400 人中，有 11 名澳大利亚人在国际水域被以色列军队持枪拦截。 澳大利亚全球苏姆德船队代表团在周四晚的一份声明中表示，澳大利亚人将乘坐巴士前往以色列拉蒙机场，预计他们将在那里登上飞往土耳其伊斯坦布尔的航班。 早些时候，以色列驻澳大利亚大使希勒尔·纽曼表示，这些活动人士“肯定安全”，可以接触领事官员，并将在经过正当程序后被驱逐出境。 “没有人受到伤害……与他们打交道非常敏感，”他周四在堪培拉告诉记者。 在以色列警察部长伊塔马尔·本-格维尔的指导下，警察对待活动人士的方式引起了国际社会的强烈抗议和总理本杰明·内塔尼亚胡的谴责。 本-格维尔和内塔尼亚胡政府中至少另一位部长、交通部长米里·雷格夫（Miri Regev）发布了自己访问港口并痛斥抗议者的竞选风格视频，这些滑稽的动作在以色列可能提前举行的选举之前引人注目。 船队组织者表示，他们的目标是通过提供人道主义援助来打破以色列对加沙的封锁，援助机构表示，尽管自 2025 年 10 月以来在美国斡旋下以色列和哈马斯之间实现了停火，并保证增加援助，但人道主义援助仍然短缺。 这支船队本周从土耳其南部出发，周三被拦截。 过去的船队——包括一艘载有瑞典活动家格蕾塔·通伯格的船队——也被以色列拦截，参与者后来被驱逐出境。 以色列人权组织阿达拉在一份声明中表示，估计有 430 名活动人士已从以色列南部的监狱释放，并将于周四通过红海埃拉特附近的拉蒙机场被驱逐出境。 土耳其外交部长哈坎·菲丹表示，土耳其正在安排特殊航班，将土耳其公民和第三国参与者带到土耳其。 船队上的人员包括西班牙、韩国和爱尔兰的公民。 菲丹说：“我们将继续维护公民的权利，履行对加沙平民的人道主义责任。” 西班牙外交部长表示，其驻以色列外交官已获悉，约44名西班牙船队成员将于下午三点左右离开以色列。 本-格维尔的视频显示，一名活动人士高呼“自由，自由的巴勒斯坦”后，警察将她按倒在地。 该视频还显示数十名被拘留的活动人士跪在......"
-          },
-          "reflection": {
-            "en": "The detention and deportation of foreign activists, alongside a minister's controversial public statement, highlight the complex dynamics of national sovereignty and the treatment of those from other lands. Deuteronomy 10:19 reminds us of a foundational principle: to love the foreigner, remembering our shared human experience of being outsiders at some...",
-            "zh": "澳大利亚活动人士被拘留和驱逐出境，以及一位部长引发争议的公开言论，凸显了国家主权与对待他国公民之间复杂的动态。申命记10:19提醒我们一个基本原则：要爱护寄居的，因为你们自己在埃及地也作过寄居的。这呼吁我们深思，无论他人的出身或观点如何，我们如何向所有人施以款待和公义。"
-          },
-          "verse": {
-            "reference": "Deuteronomy 10:19",
-            "textEn": "And you are to love those who are foreigners, for you yourselves were foreigners in Egypt.",
-            "textZh": "所以你们要怜爱寄居的，因为你们在埃及地也作过寄居的。",
-            "themeEn": "Welcome the foreigner",
-            "themeZh": "善待寄居者"
-          },
-          "aiVerseId": "deut_10_19",
           "translationState": "localized"
         }
       ]
@@ -1080,10 +1082,109 @@
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
       },
       "sourceNotes": [
-        "The Guardian Australia",
-        "SBS News Australia"
+        "SBS News Australia",
+        "The Guardian Australia"
       ],
       "items": [
+        {
+          "id": "www-sbs-com-au-news-article-melbourne-teenager-becomes-youngest-australi",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/melbourne-teenager-becomes-youngest-australian-to-summit-mount-everest/33k5ouefz",
+          "image": "https://assets.sbs.com.au/dims4/default/2d43d3b/2147483647/strip/false/crop/768x353+0+336/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F79%2Fcf%2F343f010049328eec895f74ee81c2%2Fbianca-adler.jpg",
+          "publishedAt": "2026-05-23T01:39:45.000Z",
+          "title": {
+            "en": "Melbourne teenager becomes youngest Australian to summit Mount Everest",
+            "zh": "墨尔本少年成为登顶珠穆朗玛峰最年轻的澳大利亚人"
+          },
+          "summary": {
+            "en": "Bianca Adler's success at summiting Mount Everest comes as the daily number of climbers arriving at the peak hit a record high.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "An 18-year-old from Melbourne has become the youngest Australian to summit Mount Everest, reaching the peak of the world&#x2019;s tallest mountain on her second attempt.\n\nBianca Adler completed the ascent of the 8,849-metre summit alongside two Nepali guides, surpassing the previous Australian record holders Alyssa Azar and Gabby Kanizay.\n\nHer ascent comes as the daily number of climbers summiting Everest from the Nepal side hits a record high of 274. Concerns over overcrowding, congestion in the 'death zone' at the top of the world's tallest mountain and threats to climber safety have been going on for years.\n\nSpeaking to SBS News after returning to Kathmandu, Adler described the physical exhaustion of the climb and the relief of finally turning back down the mountain.\n\n\"It&#x2019;s a mix of emotions because it feels amazing to reach the top and on the other hand, just to stop going up because it is quite tiring,\" she said.\n\n\"It&#x2019;s really exhausting being at those altitudes because there is a really little amount of oxygen.\"\n\nAdler said the descent was among the toughest parts of the expedition, after completing a gruelling 23-hour push from Camp Four to the summit and back to Camp Two.\n\n\"We arrived at base camp in the morning, ate a little bit and then had to pack up all our gear that we had spread out over the past few months,\" she said.\n\nDespite the physical strain, Adler said her previous mountaineering experience helped her body adapt to the extreme conditions.\n\n\"With experience on other mountains, my body has sort of learned how to adapt a little bit better to those higher altitudes and how to function better on less food and water.\"\n\nAdler spent about 20 minutes at the summit, reaching the top around 2:20am local time.\n\n\"It&#x2019;s a really amazing moment knowing you have reached the top of the world,\" she said.\n\n\"But we also have to go down and we are only halfway at the top and most of the accidents happen on the way down, so you also have to stay focused.\"\n\nShe said overcrowding near the summit meant climbers had to briefly wait their turn at the peak.\n\n\"We were the second group at the summit that day so you need to let everyone have their moment at the top of the world,\" she said.\n\n\"We also have to be super mindful not to take our big gloves off for too long because that is how you get frostbite.\"\n\nAdler praised fellow Australian climbers Alyssa Azar and Gabby Kanizay, and said they had inspired her own mountaineering ambitions.\n\n\"Ever since a few years ago when I was training for other mountains, I had just looked up to those women,\" she said.\n\nOn Wednesday, 274 climbers reached the summit from the Nepali side, according to local officials, renewing concerns about congestion in Everest&#x2019;s so-called &#x201C;death...",
+            "zh": "一名来自墨尔本的 18 岁女孩成为登顶珠穆朗玛峰的最年轻的澳大利亚人，这是她第二次尝试登顶世界最高峰。 比安卡·阿德勒 (Bianca Adler) 与两名尼泊尔向导一起完成了 8,849 米顶峰的登顶，超越了之前的澳大利亚纪录保持者阿丽莎·阿扎 (Alyssa Azar) 和加比·卡尼泽 (Gabby Kanizay)。 她的登顶正值每日从尼泊尔一侧登顶珠穆朗玛峰的登山者人数达到创纪录的274人之际。多年来，人们对这座世界最高峰“死亡区”过度拥挤、拥堵以及登山者安全受到威胁的担忧一直存在。 返回加德满都后，阿德勒在接受 SBS 新闻采访时描述了攀登过程中的体力消耗以及最终返回下山时的轻松感。 “这是一种复杂的情绪，因为到达顶峰的感觉很棒，但另一方面，只是停止上升，因为它很累，”她说。 “在这些海拔高度真的很累，因为氧气含量非常少。” 阿德勒表示，在完成了从四号营地到顶峰再返回二号营地长达 23 小时的艰苦跋涉后，下撤是此次探险中最艰难的部分之一。 “我们早上到达大本营，吃了一点东西，然后不得不收拾好过去几个月我们分散的所有装备，”她说。 尽管身体紧张，阿德勒说她之前的登山经历帮助她的身体适应了极端条件。 “凭借在其他山上的经验，我的身体已经学会了如何更好地适应那些更高的海拔，以及如何在更少的食物和水的情况下更好地发挥作用。” 阿德勒在山顶花了大约 20 分钟，于当地时间凌晨 2 点 20 分左右到达山顶。 “知道自己已经到达世界之巅，这真是一个令人惊奇的时刻，”她说。 “但我们也必须往下走，我们才到了山顶的一半，大多数事故都发生在下山的路上，所以你也必须保持专注。” 她说，山顶附近人满为患，意味着登山者必须在山顶短暂等待。 “我们是那天登顶的第二组，所以你需要让每个人都在世界之巅享受属于自己的时刻，”她说。 “我们还必须非常小心，不要长时间脱下大手套，因为这就是冻伤的原因。” 阿德勒赞扬了澳大利亚登山者阿莉莎·阿扎尔和加比·卡尼泽，并表示他们激发了她自己的登山雄心。 “自从几年前我在其他山峰训练时，我就一直尊敬那些女性，”她说。 据当地官员称，周三，274 名登山者从尼泊尔一侧登顶，这再次引发了人们对珠穆朗玛峰所谓“死亡峰”拥堵的担忧。"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-may-23-three-die-in-horrific-sou",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/may/23/three-die-in-horrific-south-sydney-vehicle-crash-after-police-welfare-check",
+          "image": "https://i.guim.co.uk/img/media/1ab5f0d098aa37e95f380f95b767116d96bfd515/786_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ef2db31be29dbdfb01eae51a615e2ba",
+          "publishedAt": "2026-05-23T01:24:01.000Z",
+          "title": {
+            "en": "Three die in ‘horrific’ south Sydney vehicle crash after police welfare check",
+            "zh": "警方福利检查后，三人在悉尼南部“可怕”的车祸中死亡"
+          },
+          "summary": {
+            "en": "A 42-year-old fled from police before being involved in a two-vehicle crash in Sans Souci, police say Get our breaking news email, free app or daily news podcast Three people have died in a crash in Sydney after a man fled police who had been attempting to carry out a welfare...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A 42-year-old fled from police before being involved in a two-vehicle crash in Sans Souci, police say Get our breaking news email , free app or daily news podcast Three people have died in a crash in Sydney after a man fled police who had been attempting to carry out a welfare check. A 42-year-old man fled in a white Audi after officers were called to a welfare check at a property in Gymea Bay, southern Sydney, at 12.25am on Saturday. Continue reading...",
+            "zh": "警方称，一名 42 岁的男子在无忧宫发生两车相撞事故后逃离警方 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 悉尼发生一起车祸，一名男子试图进行福利检查时逃离了警方，导致三人死亡。周六凌晨 12 点 25 分，一名 42 岁男子驾驶一辆白色奥迪逃离悉尼南部吉米亚湾 (Gymea Bay) 的一处房产，警察被叫去进行福利检查。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-small-business-secrets-article-are-second-hand-evs-a",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/small-business-secrets/article/are-second-hand-evs-australias-new-renewables-trend/eay79se28",
+          "image": "https://assets.sbs.com.au/dims4/default/aa45b3d/2147483647/strip/false/crop/2666x1225+0+0/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F1d%2F72%2Fb503d3d94e33a1ff6e3d13cb2d30%2Fsmallbic-classic-ev-08292.jpg",
+          "publishedAt": "2026-05-23T01:01:43.000Z",
+          "title": {
+            "en": "Inside the costly trend charging up Australia's classic car scene",
+            "zh": "澳大利亚老爷车行业的昂贵趋势"
+          },
+          "summary": {
+            "en": "A niche group of classic car owners are giving used vehicles an electric second life — but is it worth it?",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "In a suburban garage in Sydney, Dr Adrian Cohen is polishing his pride and joy &#x2014; a restored cross-country wagon now running silently on electric power.\n\nA vehicle once built for war in Germany has found an unlikely second life in the clean-energy transition.\n\n\"When it was in military service, it was known as the wolf. It was designed to take the tough stuff.\"\n\nHis rebuilt military wagon is a part of a growing trend in Australia, with some classic car owners converting ageing petrol vehicles into electric cars amid rising fuel costs and growing interest in electric vehicles (EVs).\n\nAs an emergency medical expert, he travels the globe with some of the world's biggest reality TV shows.\n\nBut he says this project, which was carried out in a Sydney-based workshop, tested his patience.\n\n\"From start to finish, this project took just over a year, and the cost was about $200,000. Now that's a lot, but then we needed to replace every hose, every piece of electrical wiring, every conduit, every piece of rubber.\"\n\nBusinesses specialising in EV conversions remain niche in Australia, partly because of the cost, engineering complexity and evolving vehicle regulations.\n\nBut industry operators say interest is growing as more Australians look for alternatives to rising fuel costs and ageing petrol engines.\n\nNick Cummins, founder of a vehicle conversion workshop in western Sydney where Cohen's car was rebuilt, says the growing interest reflects \"a new trend that is renewables in vehicles\".\n\n\"People who convert classic cars to electric come from all walks of life,\" Cummins tells SBS News.\n\n\"Most owners have a passion for their vehicle. Many feel very nostalgic about a particular car. It may have been their dad's car or their grandfather's.\n\n\"As replacement parts get harder to find, conversion to an EV also 'future proofs' the vehicle for later generations,\" he says.\n\nOn the workshop floor, engineers are working on a range of EV conversion projects, from everyday classics to high-value collector cars, including a blue Porsche.\n\n\"The whole process of converting it was very expensive, as it is with a lot of car restoration. We had to replace a lot of mechanical parts.\n\n\"It can take six to eight months, repairing rust, spray painting, adding new interiors. So, the bills do add up.\"\n\nWhile supporters of the trend argue EV conversion extends the life of classic vehicles and reduces tailpipe emissions, critics within the community say removing original engines can reduce a vehicle's heritage value and authenticity. It may also complicate insurance and warranty considerations for modified cars.\n\nSellers of used EVs say demand is surging, amid concerns about fuel prices, cost of living pressures and uncertainty about long-term fuel supply.\n\nBrendon Green, general manager...",
+            "zh": "在悉尼郊区的一个车库里，阿德里安·科恩博士正在打磨他的骄傲和喜悦——一辆经过修复的越野马车现在靠电力安静地行驶。 德国曾经为战争而制造的一辆汽车在清洁能源转型中获得了不可思议的第二次生命。 “当它服兵役时，它被称为狼。它的设计初衷是用来对付坚硬的东西。” 他改造的军用马车是澳大利亚日益增长的趋势的一部分，由于燃料成本不断上涨以及人们对电动汽车 (EV) 的兴趣日益浓厚，一些老爷车车主将老化的汽油车改造成电动汽车。 作为一名紧急医疗专家，他随一些世界上最大的电视真人秀节目环游世界。 但他表示，这个在悉尼研讨会上进行的项目考验了他的耐心。 “从开始到完成，这个项目只花了一年多的时间，成本约为 20 万美元。现在已经很多了，但我们需要更换每根软管、每根电线、每根导管、每块橡胶。” 专门从事电动汽车改装的企业在澳大利亚仍然是利基市场，部分原因是成本、工程复杂性和不断变化的车辆法规。 但行业运营商表示，随着越来越多的澳大利亚人寻找燃料成本上涨和老化汽油发动机的替代品，人们的兴趣正在增长。 尼克·康明斯 (Nick Cummins) 是悉尼西部一家汽车改装车间的创始人，科恩的汽车就是在这里改装的。他表示，人们日益增长的兴趣反映了“汽车可再生能源的新趋势”。 “将经典汽车改装为电动汽车的人来自各行各业，”康明斯告诉 SBS 新闻。 “大多数车主都对自己的车辆充满热情。许多人对某辆车非常怀念。它可能是他们父亲的车或祖父的车。 他说：“随着替换零件越来越难找到，转换为电动汽车也可以为后代提供‘面向未来的车辆’。” 在车间里，工程师们正在研究一系列电动汽车改装项目，从日常经典车到高价值收藏车，其中包括一辆蓝色保时捷。 “整个改装过程非常昂贵，因为需要进行大量的汽车修复。我们不得不更换很多机械零件。 “修复锈迹、喷漆、添加新的内饰可能需要六到八个月的时间。所以，账单确实会增加。” 尽管这一趋势的支持者认为电动汽车改装可以延长经典车辆的使用寿命并减少尾气排放，但社区内的批评者表示，拆除原装发动机可能会降低车辆的遗产价值和真实性。它还可能使改装汽车的保险和保修考虑变得复杂。 二手电动汽车卖家表示，由于担心燃料价格、生活成本压力以及长期燃料供应的不确定性，需求正在激增。 布伦登·格林，总经理..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-australia-news-2026-may-23-melbourne-bars-nightclubs",
           "section": "australia",
@@ -1118,39 +1219,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-may-23-australia-economy-budget-",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/23/australia-economy-budget-myths-cgt-capital-gains-tax-reform-business-investment-explained",
-          "image": "https://i.guim.co.uk/img/media/f48ea13f481c337cef991bd169466c9a1aafc89d/643_0_6776_5421/master/6776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e87600832b1008cc47eede209d5c4626",
-          "publishedAt": "2026-05-23T00:00:12.000Z",
-          "title": {
-            "en": "The biggest budget myths: why claims of ‘massive tax bills’ and an investor exodus fall short",
-            "zh": "最大的预算神话：为何“巨额税单”和投资者外流的说法不成立"
-          },
-          "summary": {
-            "en": "In the backlash to changes to capital gains tax, many claims have been made and not all of them stack up Get our breaking news email, free app or daily news podcast The budget announced some of the most consequential tax reform measures in a decades. Among them were changes to...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The budget announced some of the most consequential tax reform measures in a decades.\n\nAmong them were changes to the capital gains tax – the tax you pay on the profit from the sale of an investment.\n\nThe budget measures are yet to be legislated – they may well look different by the time they pass parliament.\n\nInvestors in new home builds can choose whether to stick with the old 50% discount or go with the new inflation-linked approach (they can also keep negative gearing).\n\nThe budget also included a 30% minimum tax on the after-inflation capital gains, with an exception for people on income support payments, like the age pension or jobseeker.\n\nIf you hold an asset before that date, your eventual capital gains on the investment will get the 50% discount up to 30 June 2027, and profits after will be taxed under the inflation-linked regime.\n\nWhether you pay more or less than the current 50% CGT discount – on any asset – depends primarily on the relative rates of inflation and return over the holding period.\n\nFor example, if after one year your shares went up 5% in value and inflation was 2.5%, then you will pay tax on half of the capital gain. Sound familiar? That’s the same as the existing 50% discount.\n\nBut say you instead earned 10%. Then your discount would only be 25% (the 2.5% inflation as a share of the 10% return).\n\nIn contrast, if you earn 4% and sell after one year, you only pay tax on the 1.5% real gain. In this case your CGT discount is 62.5%.\n\nAs mentioned, the capital gains made before mid-2027 on existing investments held on budget day will still get the 50% discount, while the returns made after that date will get the inflation-adjusted capital gains discount.\n\nThat changes the simple equation from above, as it depends how long you held the assets under one regime versus the other.\n\nAndrew Lilley, an economist at investment bank Barrenjoey, helpfully crunched some numbers .\n\nIf you bought in 2023, made 10% a year, and sold in 2030, he calculates 55% of your capital gains will be taxable.\n\nAny business with annual turnover below $2m, or below $6m in assets, will remain eligible for CGT concessions.\n\nThe treasurer’s office has highlighted tax data showing that nine out of ten small businesses get these concessions, “meaning they can pay reduced or zero CGT when they sell their business”.\n\nBut many small business owners hope to one day be a big business-owner. For them, they may well end up paying more tax on the eventual sale of their business.\n\nThere is an issue for entrepreneurs who start their business on a shoestring – a laptop and hours and hours of work. The initial cost base is close to zero, so how do you account for inflation on a zero base?\n\nHere’s where we get the AI-generated meme campaign about Anthony Albanese as an...",
-            "zh": "该预算宣布了几十年来一些最重要的税收改革措施。 其中包括资本利得税的变化，即您对出售投资的利润缴纳的税款。 预算措施尚未立法——当它们通过议会时，它们看起来可能会有所不同。 新住宅建设的投资者可以选择是否坚持旧的 50% 折扣或采用新的通胀挂钩方法（他们也可以保留负扣税）。 预算还包括对通货膨胀后的资本利得征收 30% 的最低税，但领取养老金或求职者等收入支持金的人除外。 如果您在此日期之前持有资产，您的最终投资资本收益将在 2027 年 6 月 30 日之前获得 50% 的折扣，之后的利润将根据通货膨胀挂钩制度纳税。 对于任何资产，您支付的资本利得税折扣是否高于或低于当前 50% 的资本利得税折扣，主要取决于持有期内的相对通胀率和回报率。 例如，如果一年后您的股票价值上涨 5%，而通货膨胀率为 2.5%，那么您将缴纳一半的资本利得税。听起来很熟悉吗？这与现有的 50% 折扣相同。 但假设您赚取了 10%。那么你的折扣只有 25%（2.5% 的通货膨胀占 10% 回报的一部分）。 相比之下，如果您赚取 4% 的收益并在一年后出售，您只需为 1.5% 的实际收益缴税。在这种情况下，您的 CGT 折扣为 62.5%。 如前所述，在预算日持有的现有投资在 2027 年中期之前获得的资本收益仍将获得 50% 的折扣，而该日期之后获得的回报将获得通货膨胀调整后的资本收益折扣。 这改变了上面的简单方程，因为这取决于您在一种制度下与另一种制度下持有资产的时间。 投资银行巴伦乔伊 (Barrenjoey) 的经济学家安德鲁·利利 (Andrew Lilley) 帮助分析了一些数据。 如果你在 2023 年购买，每年赚取 10%，并在 2030 年出售，他计算出你的资本收益的 55% 将被征税。 任何年营业额低于 200 万美元或资产低于 600 万美元的企业仍将有资格获得资本利得税优惠。 财务主管办公室强调的税务数据显示，十分之九的小企业获得了这些优惠，“这意味着他们在出售业务时可以支付减少或零的资本利得税”。 但许多小企业主希望有一天成为一名大企业主。对于他们来说，他们很可能最终会在最终出售业务时缴纳更多税款。 对于小本经营的企业家来说，他们面临着一个问题——一台笔记本电脑和大量的工作时间。初始成本基数接近于零，那么如何在零基数上考虑通货膨胀呢？ 在这里，我们可以看到人工智能生成的关于安东尼·阿尔巴内塞 (Anthony Albanese) 的模因活动……"
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-theguardian-com-australia-news-2026-may-23-australia-diphtheria-outb",
           "section": "australia",
           "source": "The Guardian Australia",
@@ -1180,6 +1248,39 @@
             "textZh": "无智谋，民就败落；谋士多，人便安居。",
             "themeEn": "Wise counsel",
             "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-may-23-australia-economy-budget-",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/may/23/australia-economy-budget-myths-cgt-capital-gains-tax-reform-business-investment-explained",
+          "image": "https://i.guim.co.uk/img/media/f48ea13f481c337cef991bd169466c9a1aafc89d/643_0_6776_5421/master/6776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e87600832b1008cc47eede209d5c4626",
+          "publishedAt": "2026-05-23T00:00:12.000Z",
+          "title": {
+            "en": "The biggest budget myths: why claims of ‘massive tax bills’ and an investor exodus fall short",
+            "zh": "最大的预算神话：为何“巨额税单”和投资者外流的说法不成立"
+          },
+          "summary": {
+            "en": "In the backlash to changes to capital gains tax, many claims have been made and not all of them stack up Get our breaking news email, free app or daily news podcast The budget announced some of the most consequential tax reform measures in a decades. Among them were changes to...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The budget announced some of the most consequential tax reform measures in a decades.\n\nAmong them were changes to the capital gains tax – the tax you pay on the profit from the sale of an investment.\n\nThe budget measures are yet to be legislated – they may well look different by the time they pass parliament.\n\nInvestors in new home builds can choose whether to stick with the old 50% discount or go with the new inflation-linked approach (they can also keep negative gearing).\n\nThe budget also included a 30% minimum tax on the after-inflation capital gains, with an exception for people on income support payments, like the age pension or jobseeker.\n\nIf you hold an asset before that date, your eventual capital gains on the investment will get the 50% discount up to 30 June 2027, and profits after will be taxed under the inflation-linked regime.\n\nWhether you pay more or less than the current 50% CGT discount – on any asset – depends primarily on the relative rates of inflation and return over the holding period.\n\nFor example, if after one year your shares went up 5% in value and inflation was 2.5%, then you will pay tax on half of the capital gain. Sound familiar? That’s the same as the existing 50% discount.\n\nBut say you instead earned 10%. Then your discount would only be 25% (the 2.5% inflation as a share of the 10% return).\n\nIn contrast, if you earn 4% and sell after one year, you only pay tax on the 1.5% real gain. In this case your CGT discount is 62.5%.\n\nAs mentioned, the capital gains made before mid-2027 on existing investments held on budget day will still get the 50% discount, while the returns made after that date will get the inflation-adjusted capital gains discount.\n\nThat changes the simple equation from above, as it depends how long you held the assets under one regime versus the other.\n\nAndrew Lilley, an economist at investment bank Barrenjoey, helpfully crunched some numbers .\n\nIf you bought in 2023, made 10% a year, and sold in 2030, he calculates 55% of your capital gains will be taxable.\n\nAny business with annual turnover below $2m, or below $6m in assets, will remain eligible for CGT concessions.\n\nThe treasurer’s office has highlighted tax data showing that nine out of ten small businesses get these concessions, “meaning they can pay reduced or zero CGT when they sell their business”.\n\nBut many small business owners hope to one day be a big business-owner. For them, they may well end up paying more tax on the eventual sale of their business.\n\nThere is an issue for entrepreneurs who start their business on a shoestring – a laptop and hours and hours of work. The initial cost base is close to zero, so how do you account for inflation on a zero base?\n\nHere’s where we get the AI-generated meme campaign about Anthony Albanese as an...",
+            "zh": "该预算宣布了几十年来一些最重要的税收改革措施。 其中包括资本利得税的变化，即您对出售投资的利润缴纳的税款。 预算措施尚未立法——当它们通过议会时，它们看起来可能会有所不同。 新住宅建设的投资者可以选择是否坚持旧的 50% 折扣或采用新的通胀挂钩方法（他们也可以保留负扣税）。 预算还包括对通货膨胀后的资本利得征收 30% 的最低税，但领取养老金或求职者等收入支持金的人除外。 如果您在此日期之前持有资产，您的最终投资资本收益将在 2027 年 6 月 30 日之前获得 50% 的折扣，之后的利润将根据通货膨胀挂钩制度纳税。 对于任何资产，您支付的资本利得税折扣是否高于或低于当前 50% 的资本利得税折扣，主要取决于持有期内的相对通胀率和回报率。 例如，如果一年后您的股票价值上涨 5%，而通货膨胀率为 2.5%，那么您将缴纳一半的资本利得税。听起来很熟悉吗？这与现有的 50% 折扣相同。 但假设您赚取了 10%。那么你的折扣只有 25%（2.5% 的通货膨胀占 10% 回报的一部分）。 相比之下，如果您赚取 4% 的收益并在一年后出售，您只需为 1.5% 的实际收益缴税。在这种情况下，您的 CGT 折扣为 62.5%。 如前所述，在预算日持有的现有投资在 2027 年中期之前获得的资本收益仍将获得 50% 的折扣，而该日期之后获得的回报将获得通货膨胀调整后的资本收益折扣。 这改变了上面的简单方程，因为这取决于您在一种制度下与另一种制度下持有资产的时间。 投资银行巴伦乔伊 (Barrenjoey) 的经济学家安德鲁·利利 (Andrew Lilley) 帮助分析了一些数据。 如果你在 2023 年购买，每年赚取 10%，并在 2030 年出售，他计算出你的资本收益的 55% 将被征税。 任何年营业额低于 200 万美元或资产低于 600 万美元的企业仍将有资格获得资本利得税优惠。 财务主管办公室强调的税务数据显示，十分之九的小企业获得了这些优惠，“这意味着他们在出售业务时可以支付减少或零的资本利得税”。 但许多小企业主希望有一天成为一名大企业主。对于他们来说，他们很可能最终会在最终出售业务时缴纳更多税款。 对于小本经营的企业家来说，他们面临着一个问题——一台笔记本电脑和大量的工作时间。初始成本基数接近于零，那么如何在零基数上考虑通货膨胀呢？ 在这里，我们可以看到人工智能生成的关于安东尼·阿尔巴内塞 (Anthony Albanese) 的模因活动……"
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
           },
           "translationState": "fallback"
         },
