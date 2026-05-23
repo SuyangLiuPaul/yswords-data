@@ -78,6 +78,17 @@ jobs:
 
       - name: Commit + push
         id: commit
+        env:
+          # 2026-05-24: piped through explicitly so the recovery path
+          # below can re-embed the token into the remote URL after
+          # `git reset --hard`. actions/checkout's extraheader auth
+          # works for the FIRST push, but on long-running jobs (~6+ min)
+          # combined with a `reset --hard` that follows a rejected
+          # push, the second push sometimes fails with
+          # "could not read Username for 'https://github.com'" —
+          # the credential cache state gets dropped. Embedding the
+          # token in the remote URL is the standard fix.
+          GH_PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -115,7 +126,13 @@ jobs:
               exit 0
             fi
             git commit -m "chore: refresh daily news"
-            git push
+            # 2026-05-24: explicit token in URL for the recovery
+            # push. Bypasses the dropped-credential-cache class of
+            # failure that surfaced in run 26331964618 (Refresh
+            # daily news on 0d42b51, 11:53 UTC).
+            git remote set-url origin \
+              "https://x-access-token:${GH_PUSH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+            git push origin HEAD:main
           fi
           echo "did_commit=true" >> "$GITHUB_OUTPUT"
 
