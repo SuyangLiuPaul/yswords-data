@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T08:17:40.511Z",
+  "generatedAt": "2026-05-23T08:37:12.605Z",
   "editionDate": "2026-05-23",
   "sources": [
     {
@@ -112,6 +112,39 @@
       ],
       "items": [
         {
+          "id": "www-bbc-com-news-articles-c202jwpd24go-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a632/live/7be53410-567f-11f1-8b8c-6d33e1d5abb6.jpg",
+          "publishedAt": "2026-05-23T08:34:46.000Z",
+          "title": {
+            "en": "Senegal's president sacks prime minister Sonko after months of tensions",
+            "zh": "紧张局势数月后塞内加尔总统解雇总理桑科"
+          },
+          "summary": {
+            "en": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Senegalese President Bassirou Diomaye Faye has sacked Prime Minister Ousmane Sonko and dissolved the nation's government after months of tensions between the two men.\n\nA shock decree, read out on TV by a presidential aide, said Faye had \"ended the duties of Ousmane Sonko... and consequently those of the ministers and secretaries of state who are members of the government\".\n\nSonko, a popular figure among Senegal's youth, said on social media that he would \"sleep with a light heart\".\n\nThe split comes as the country faces mounting economic pressure, with its public debt having reached the equivalent of 132% of its GDP, according to the International Monetary Fund (IMF).\n\nSonko's dismissal followed a parliamentary session on Tuesday, during which the prime minister openly criticised Faye.\n\nFaye was in the unusual situation of owing his position, in large part, to his prime minister's popularity.\n\nSonko would almost certainly have taken the top job had he not been barred from running in 2024's elections due to a defamation conviction .\n\nHowever, Sonko backed Faye's bid for presidency and the pair went on to win - an extraordinary victory given they were both in prison until 10 days before the election .\n\nLate on Tuesday night, several hundred students demonstrated on the streets of capital city, Dakar, declaring their support for Sonko.\n\nFaye had reportedly criticised Sonko's \"excessive personalisation\" within the ruling party Pastef, while Sonko accused the president of a \"failure of leadership\" for not defending him against his critics.",
+            "zh": "塞内加尔总统巴西鲁·迪奥马耶·法耶解雇了总理奥斯曼·松科，并解散了该国政府，两人之间的紧张关系持续了数月。 总统助手在电视上宣读了一项令人震惊的法令，称费耶“终止了奥斯曼·桑科的职责……以及政府成员中的部长和国务卿的职责”。 塞内加尔年轻人中颇受欢迎的人物松科在社交媒体上表示，他会“轻松地睡觉”。 根据国际货币基金组织 (IMF) 的数据，该国面临着越来越大的经济压力，其公共债务已达到相当于 GDP 的 132%。 松科在周二的议会会议后被解职，会上总理公开批评了费耶。 费耶的处境很不寻常，他的地位在很大程度上要归功于他的总理的声望。 如果桑科没有因诽谤罪被禁止参加 2024 年选举，他几乎肯定会担任最高职务。 然而，桑科支持费耶竞选总统，两人最终获胜——这是一次非凡的胜利，因为他们直到选举前 10 天都在监狱里。 周二深夜，数百名学生在首都达喀尔街头示威，宣布支持桑科。 据报道，费耶批评桑科在执政党巴斯夫内部“过度个人化”，而桑科则指责总统“领导失败”，因为他没有为他的批评者辩护。"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-bbc-com-news-articles-cglp5z63k9no-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
@@ -213,40 +246,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-uk-news-2026-may-23-fraudster-trying-to-sell-fake-an",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/uk-news/2026/may/23/fraudster-trying-to-sell-fake-ancient-statues-to-sothebys-foiled-over-bogus-invoices",
-          "image": "https://i.guim.co.uk/img/media/4ae3ceecc4b77b303516d6d07d42ec1a0b9b9d9a/0_334_4252_3401/master/4252.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=859946622e7527bac8d046ffd54be396",
-          "publishedAt": "2026-05-23T07:00:23.000Z",
-          "title": {
-            "en": "Fraudster trying to sell fake ancient statues to Sotheby’s foiled over bogus invoices",
-            "zh": "欺诈者因伪造发票试图向苏富比出售假古董雕像而败露"
-          },
-          "summary": {
-            "en": "Andrew Crowley, 46, attempted to sell fake ancient statues to Sotheby's. His fraud was uncovered when accompanying paperwork, intended to authenticate the items, was found to have been produced using printing methods that were 25 years too modern for the supposed age of the documents.",
-            "zh": "46岁的安德鲁·克劳利试图将伪造的古代雕像出售给苏富比拍卖行。他的欺诈行为被识破，因为随附的旨在证明物品真实性的文件，被发现使用了比文件声称的年代晚25年的印刷技术。"
-          },
-          "body": {
-            "en": "Paperwork supplied by Andrew Crowley, 46, found to be made using printing methods 25 years too modern A fraudster who tried to sell fake ancient statues to Sotheby’s was foiled when his bogus accompanying paperwork was found to be written with printing methods that were 25 years too modern, a court has heard. Andrew Crowley, 46, asked the auctioneers to value three Cycladic figures and one Anatolian stargazer statuette that he had inherited from his grandfather, Southwark crown court in London was told on Friday. Continue reading...",
-            "zh": "46 岁的安德鲁·克劳利 (Andrew Crowley) 提供的文件被发现使用了比现代 25 年前的印刷方法制作法庭获悉，一名试图向苏富比拍卖行出售假古代雕像的欺诈者因发现他的伪造随附文件是用比现代 25 年的印刷方法书写的印刷方法而被挫败。周五，伦敦南华克皇家法院获悉，46 岁的安德鲁·克劳利 (Andrew Crowley) 要求拍卖师对他从祖父那里继承的三件基克拉迪雕像和一尊安纳托利亚观星者小雕像进行估价。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story highlights how deception, even when meticulously planned, often contains flaws that lead to its exposure. The attempt to pass off fakes with false documentation underscores the enduring truth that dishonesty, like a false balance, ultimately cannot stand.",
-            "zh": "这个故事揭示了欺骗，即使经过精心策划，也常因破绽而最终败露。试图用虚假文件蒙混过关的行为，强调了一个持久的真理：不诚实，就像不准的秤一样，最终无法立足。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:1",
-            "textEn": "Yahweh detests dishonest scales, but accurate weights find favor with him.",
-            "textZh": "诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。",
-            "themeEn": "Yahweh hates fraud",
-            "themeZh": "雅伟厌恶诡诈"
-          },
-          "aiVerseId": "prov_11_1",
-          "translationState": "localized"
-        },
-        {
           "id": "www-theguardian-com-politics-2026-may-23-rachel-reeves-makes-case-chance",
           "section": "world",
           "source": "The Guardian World",
@@ -278,6 +277,40 @@
             "themeZh": "神升降"
           },
           "aiVerseId": "ps_75_7",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-uk-news-2026-may-23-fraudster-trying-to-sell-fake-an",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/may/23/fraudster-trying-to-sell-fake-ancient-statues-to-sothebys-foiled-over-bogus-invoices",
+          "image": "https://i.guim.co.uk/img/media/4ae3ceecc4b77b303516d6d07d42ec1a0b9b9d9a/0_334_4252_3401/master/4252.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=859946622e7527bac8d046ffd54be396",
+          "publishedAt": "2026-05-23T07:00:23.000Z",
+          "title": {
+            "en": "Fraudster trying to sell fake ancient statues to Sotheby’s foiled over bogus invoices",
+            "zh": "欺诈者因伪造发票试图向苏富比出售假古董雕像而败露"
+          },
+          "summary": {
+            "en": "Andrew Crowley, 46, attempted to sell fake ancient statues to Sotheby's. His fraud was uncovered when accompanying paperwork, intended to authenticate the items, was found to have been produced using printing methods that were 25 years too modern for the supposed age of the documents.",
+            "zh": "46岁的安德鲁·克劳利试图将伪造的古代雕像出售给苏富比拍卖行。他的欺诈行为被识破，因为随附的旨在证明物品真实性的文件，被发现使用了比文件声称的年代晚25年的印刷技术。"
+          },
+          "body": {
+            "en": "Paperwork supplied by Andrew Crowley, 46, found to be made using printing methods 25 years too modern A fraudster who tried to sell fake ancient statues to Sotheby’s was foiled when his bogus accompanying paperwork was found to be written with printing methods that were 25 years too modern, a court has heard. Andrew Crowley, 46, asked the auctioneers to value three Cycladic figures and one Anatolian stargazer statuette that he had inherited from his grandfather, Southwark crown court in London was told on Friday. Continue reading...",
+            "zh": "46 岁的安德鲁·克劳利 (Andrew Crowley) 提供的文件被发现使用了比现代 25 年前的印刷方法制作法庭获悉，一名试图向苏富比拍卖行出售假古代雕像的欺诈者因发现他的伪造随附文件是用比现代 25 年的印刷方法书写的印刷方法而被挫败。周五，伦敦南华克皇家法院获悉，46 岁的安德鲁·克劳利 (Andrew Crowley) 要求拍卖师对他从祖父那里继承的三件基克拉迪雕像和一尊安纳托利亚观星者小雕像进行估价。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story highlights how deception, even when meticulously planned, often contains flaws that lead to its exposure. The attempt to pass off fakes with false documentation underscores the enduring truth that dishonesty, like a false balance, ultimately cannot stand.",
+            "zh": "这个故事揭示了欺骗，即使经过精心策划，也常因破绽而最终败露。试图用虚假文件蒙混过关的行为，强调了一个持久的真理：不诚实，就像不准的秤一样，最终无法立足。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:1",
+            "textEn": "Yahweh detests dishonest scales, but accurate weights find favor with him.",
+            "textZh": "诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。",
+            "themeEn": "Yahweh hates fraud",
+            "themeZh": "雅伟厌恶诡诈"
+          },
+          "aiVerseId": "prov_11_1",
           "translationState": "localized"
         },
         {
@@ -482,40 +515,6 @@
             "themeZh": "智谋的价值"
           },
           "aiVerseId": "prov_11_14",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c62d65y16nno-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/98ff/live/9fa417a0-565b-11f1-b682-cf91850925ea.jpg",
-          "publishedAt": "2026-05-23T03:53:20.000Z",
-          "title": {
-            "en": "SpaceX launches massive Starship V3 rocket on test flight",
-            "zh": "SpaceX发射巨型星舰V3火箭进行试飞"
-          },
-          "summary": {
-            "en": "SpaceX launched its massive Starship V3 rocket on a test flight, following a postponement of the initial attempt due to a hydraulic pin malfunction in the launch tower.",
-            "zh": "SpaceX发射了其巨大的星舰V3火箭进行试飞，此前由于发射塔液压销故障，首次发射尝试被推迟。"
-          },
-          "body": {
-            "en": "Elon Musk's SpaceX has launched the largest and most powerful rocket in history after its highly anticipated test flight was delayed.\n\nThe uncrewed Starship V3 rocket blasted off from Texas just after 17:30 (22:30 GMT) on Friday, days after SpaceX revealed plans for a record-breaking stock market debut .\n\nOnce in space, Starship deployed 20 dummy satellites before making re-entry and about an hour after launch it splashed down in the Indian Ocean, where it exploded as planned.\n\n\"Congratulations @SpaceX team on an epic first Starship V3 launch & landing!\" Musk wrote on X. \"You scored a goal for humanity.\"\n\nThe first attempted launch on Thursday was postponed due to a launch-tower malfunction.\n\nThe SpaceX team celebrated after the launch, and while the mission achieved most of its major objectives, it did not go exactly to plan.\n\nBoth stages of the rocket suffered engine failures but the test flight was largely successful – a result that will likely boost confidence both for investors and for Nasa, which intends to use the Starship vehicle in future missions to the moon.\n\nIt was the 12th flight of a SpaceX rocket, and featured the latest design which stands 124m (407ft) high – more than 40 storeys.\n\nThe debut of the Starship V3 comes ahead of SpaceX's initial public offering (IPO), which is set to be the largest in Wall Street history. It could start next month.\n\nBecause of the shares Musk will own in SpaceX, which values itself at $1.25tn, the listing could make him the first-ever trillionaire.\n\nSpaceX not only makes rockets, but has a satellite internet service called Starlink, and owns the controversial artificial intelligence (AI) firm xAI.",
-            "zh": "埃隆·马斯克 (Elon Musk) 的 SpaceX 在备受期待的试飞推迟一天后发射了有史以来最大的星舰火箭。 周五 17:30（格林尼治标准时间 2230）刚过，无人驾驶的 Starship V3 火箭从德克萨斯州的发射台发射升空，几天前 SpaceX 公布了破纪录的股票上市计划。 大约一个小时后，试飞结束，星舰按计划落入印度洋并爆炸。 “祝贺@SpaceX 团队完成了史诗般的首艘 Starship V3 发射和着陆！”马斯克在他的 X 平台上发帖。 “你为人类打进了一球。” 由于发射塔中的液压销故障，周四的首次发射尝试被推迟。 SpaceX 团队在发射有史以来最强大、最高的火箭后进行了庆祝，虽然这次任务实现了大部分主要目标，但并没有完全按计划进行。 SpaceX 发言人 Dan Huot 表示，助推器在发射后未能完成所谓的助推燃烧。 星舰的其中一个引擎也发生故障，迫使其余五个引擎的燃烧时间稍长一些，以弥补损失。虽然它没有飞入完全正确的轨道，但霍特表示它正在沿着“在范围内”的轨道行驶。 在亚轨道巡航阶段，Starship 成功释放了 20 颗模拟星链卫星的有效载荷，以及在下降过程中扫描其隔热罩并将数据发送回地面的两颗卫星。 这是 SpaceX 火箭的第 12 次飞行，这次采用了其最新设计，高度为 124 米（407 英尺）。 Starship V3 的首次亮相是在 SpaceX 首次公开募股 (IPO) 之前进行的，这将是华尔街历史上规模最大的一次。可能会在下个月开始。 由于马斯克将持有 SpaceX 的股票（该公司的估值为 1.25 万亿美元），此次上市可能使他成为有史以来第一位万亿富翁。 SpaceX 不仅制造火箭，还拥有名为 Starlink 的卫星互联网服务，并拥有备受争议的人工智能 (AI) 公司 xAI。"
-          },
-          "reflection": {
-            "en": "The launch of such a massive rocket highlights humanity's relentless pursuit of knowledge and technological advancement. Even with setbacks like a malfunctioning part, the drive to explore and innovate continues to push the boundaries of what is possible. This echoes the biblical observation that knowledge will increase, reflecting our capacity for...",
-            "zh": "如此巨大的火箭发射，彰显了人类对知识和技术进步的不懈追求。即使遇到液压销故障等挫折，探索和创新的动力仍不断突破可能的界限。这与圣经中知识将不断增长的观察相呼应，反映了我们发现的能力。"
-          },
-          "verse": {
-            "reference": "Daniel 12:4",
-            "textEn": "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.",
-            "textZh": "但以理啊，你要隐藏这话，封闭这书，直到末时。必有多人来往奔跑，知识就必增长。",
-            "themeEn": "Knowledge increasing",
-            "themeZh": "知识增长"
-          },
-          "aiVerseId": "dan_12_4",
           "translationState": "localized"
         },
         {
@@ -853,28 +852,29 @@
           "publishedAt": "2026-05-23T03:17:00.000Z",
           "title": {
             "en": "China: Dozens dead in coal mine blast — state media",
-            "zh": "中国：煤矿爆炸造成数十人死亡——官方媒体"
+            "zh": "中国：国家媒体称煤矿爆炸导致数十人死亡"
           },
           "summary": {
-            "en": "An explosion in a coal mine in northern China has killed at least 82 people, with some still unaccounted for, state media say. President Xi Jinping has demanded an \"all-out\" effort to search for and rescue those missing.",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "An explosion in a coal mine in northern China has resulted in the deaths of at least 82 people, with some individuals still missing. President Xi Jinping has called for comprehensive efforts to search for and rescue those unaccounted for.",
+            "zh": "中国北方一座煤矿发生爆炸，造成至少82人死亡，仍有部分人员失踪。国家主席习近平已要求“全力以赴”搜寻和营救失踪人员。"
           },
           "body": {
             "en": "An explosion in a coal mine in northern China has killed at least 82 people, with some still unaccounted for, state media say. President Xi Jinping has demanded an \"all-out\" effort to search for and rescue those missing.\n\nAt least 82&#160;people have died after a gas explosion at a coal mine in northern China , state media reported on Saturday.\n\nRescuers were still searching \"intensively\" for nine people who remained unaccounted for,&#160;according to state news agency Xinhua.\n\nThe blast took place at 7:29 pm (1129 GMT/UTC) on Friday at the Liushenyu coal mine in Qinyuan county in Shanxi, one of China's poorer provinces,&#160;with 247 ⁠workers ​on duty ​underground, Xinhua said\n\nXinhua reported that most had been brought safely to ​the surface by early Saturday.&#160;\n\nEarlier, Xinhua said that levels of carbon monoxide had \"exceeded limits\" at the mine. Some of those trapped underground were in \"critical condition,\" it said.\n\nChinese President Xi Jinping urged authorities to \"spare no ‌effort\" in treating&#160;the injured and conducting ‌search ​and rescue operations, according to Xinhua.\n\nXi also ordered&#160;a thorough investigation into the cause of the accident and strict ​accountability in accordance with the law.\n\nHe stressed that \"all regions and departments must draw lessons from this accident, remain constantly vigilant regarding workplace safety ... and resolutely prevent and curb the occurrence of major and catastrophic accidents.\"\n\nIn recent decades, mine safety in China has improved, but accidents are still frequent in an industry where safety protocols are often lax.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button , so you'll always see our verified news first.",
             "zh": "官方媒体称，中国北方一座煤矿发生爆炸，已造成至少 82 人死亡，其中一些人仍下落不明。习近平主席要求“全力以赴”搜寻和营救失踪人员。 据官方媒体周六报道，中国北方一处煤矿瓦斯爆炸已造成至少 82 人死亡。 据官方通讯社新华社报道，救援人员仍在“密集”搜寻九名下落不明的人。 新华社称，爆炸发生在周五晚上 7 点 29 分（格林尼治标准时间/世界标准时间 1129 点），发生在中国较贫困的省份之一山西省沁源县的六神峪煤矿，当时有 247 名工人在井下执勤。 新华社报道说，到周六早些时候，大多数人已被安全地带到地面。 早些时候，新华社称该矿的一氧化碳含量“超出了限制”。报告称，一些被困地下的人“情况危急”。 据新华社报道，中国国家主席习近平敦促当局“不遗余力”救治伤者并开展搜救行动。 习近平还责令彻查事故原因，依法严肃问责。 他强调，“各地区、各部门要深刻汲取这次事故的教训，时刻保持安全生产意识……坚决预防和遏制重特大事故发生。” 近几十年来，中国的矿山安全有所改善，但安全规程往往不严的行业事故仍然频发。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The tragic loss of life in the coal mine explosion leaves many families brokenhearted and crushed in spirit. In such moments of profound grief and uncertainty, we are reminded that 雅伟 is near to those who suffer. May comfort and strength be found by all affected, especially those awaiting news of their loved ones.",
+            "zh": "煤矿爆炸造成的生命悲剧性逝去，让许多家庭心碎神伤。在这样深切的悲痛和不确定时刻，我们被提醒雅伟亲近伤心的人。愿所有受影响的人，特别是那些等待亲人消息的人，都能找到安慰和力量。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Psalm 34:18",
+            "textEn": "Yahweh is close to the brokenhearted and saves those who are crushed in spirit.",
+            "textZh": "雅伟靠近伤心的人，拯救灵性痛悔的人。",
+            "themeEn": "Near to the broken",
+            "themeZh": "靠近伤心人"
           },
-          "translationState": "fallback"
+          "aiVerseId": "ps_34_18",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-world-2026-may-22-us-arms-sales-taiwan-pause-iran-wa",
@@ -1336,35 +1336,35 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-may-23-australia-diphtheria-outb",
+          "id": "www-theguardian-com-australia-news-2026-may-23-australia-economy-budget-",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/32c2fa95d585da707205f84c6fe8128be3eb53c4/1872_1193_2966_2373/master/2966.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3cb7aa1c7855900ff6a593afca70fda",
+          "link": "https://www.theguardian.com/australia-news/2026/may/23/australia-economy-budget-myths-cgt-capital-gains-tax-reform-business-investment-explained",
+          "image": "https://i.guim.co.uk/img/media/f48ea13f481c337cef991bd169466c9a1aafc89d/643_0_6776_5421/master/6776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e87600832b1008cc47eede209d5c4626",
           "publishedAt": "2026-05-23T00:00:12.000Z",
           "title": {
-            "en": "Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities",
-            "zh": "澳大利亚有记录以来最大规模的白喉疫情正在偏远土著社区蔓延"
+            "en": "The biggest budget myths: why claims of ‘massive tax bills’ and an investor exodus fall short",
+            "zh": "最大的预算神话：为何“巨额税单”和投资者外流的说法不成立"
           },
           "summary": {
-            "en": "By the time a national vaccine blitz was announced this week, unlinked cases had already been reported in four states. Why did it take so long for governments to act? Get our breaking news email, free app or daily news podcast The first time the Northern Territory GP and public...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "In the backlash to changes to capital gains tax, many claims have been made and not all of them stack up Get our breaking news email, free app or daily news podcast The budget announced some of the most consequential tax reform measures in a decades. Among them were changes to...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "By the time a national vaccine blitz was announced this week, unlinked cases had already been reported in four states. Why did it take so long for governments to act? Get our breaking news email , free app or daily news podcast The first time the Northern Territory GP and public health medical officer Dr John Boffa learned that the highly contagious bacterial infection diphtheria was spreading in his community was in late March – several months after the outbreak first began. “By the time we became aware of it, it had been grumbling along for some time,” says Boffa, who is chief medical officer with the Central Australian Aboriginal Congress Aboriginal Corporation, a community-controlled primary healthcare service in Alice Springs. Continue reading...",
-            "zh": "到本周宣布全国疫苗闪电战时，四个州已经报告了未关联的病例。为什么政府花了这么长时间才采取行动？获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 北领地全科医生和公共卫生医疗官员约翰·博法 (John Boffa) 博士第一次获悉高度传染性细菌感染白喉正在他的社区传播是在 3 月底，即疫情爆发几个月后。 “当我们意识到这一点时，它已经抱怨了一段时间了，”博法说，他是澳大利亚中部原住民大会原住民公司的首席医疗官，该公司是爱丽丝泉社区控制的初级医疗服务机构。继续阅读..."
+            "en": "The budget announced some of the most consequential tax reform measures in a decades.\n\nAmong them were changes to the capital gains tax – the tax you pay on the profit from the sale of an investment.\n\nThe budget measures are yet to be legislated – they may well look different by the time they pass parliament.\n\nInvestors in new home builds can choose whether to stick with the old 50% discount or go with the new inflation-linked approach (they can also keep negative gearing).\n\nThe budget also included a 30% minimum tax on the after-inflation capital gains, with an exception for people on income support payments, like the age pension or jobseeker.\n\nIf you hold an asset before that date, your eventual capital gains on the investment will get the 50% discount up to 30 June 2027, and profits after will be taxed under the inflation-linked regime.\n\nWhether you pay more or less than the current 50% CGT discount – on any asset – depends primarily on the relative rates of inflation and return over the holding period.\n\nFor example, if after one year your shares went up 5% in value and inflation was 2.5%, then you will pay tax on half of the capital gain. Sound familiar? That’s the same as the existing 50% discount.\n\nBut say you instead earned 10%. Then your discount would only be 25% (the 2.5% inflation as a share of the 10% return).\n\nIn contrast, if you earn 4% and sell after one year, you only pay tax on the 1.5% real gain. In this case your CGT discount is 62.5%.\n\nAs mentioned, the capital gains made before mid-2027 on existing investments held on budget day will still get the 50% discount, while the returns made after that date will get the inflation-adjusted capital gains discount.\n\nThat changes the simple equation from above, as it depends how long you held the assets under one regime versus the other.\n\nAndrew Lilley, an economist at investment bank Barrenjoey, helpfully crunched some numbers .\n\nIf you bought in 2023, made 10% a year, and sold in 2030, he calculates 55% of your capital gains will be taxable.\n\nAny business with annual turnover below $2m, or below $6m in assets, will remain eligible for CGT concessions.\n\nThe treasurer’s office has highlighted tax data showing that nine out of ten small businesses get these concessions, “meaning they can pay reduced or zero CGT when they sell their business”.\n\nBut many small business owners hope to one day be a big business-owner. For them, they may well end up paying more tax on the eventual sale of their business.\n\nThere is an issue for entrepreneurs who start their business on a shoestring – a laptop and hours and hours of work. The initial cost base is close to zero, so how do you account for inflation on a zero base?\n\nHere’s where we get the AI-generated meme campaign about Anthony Albanese as an...",
+            "zh": "该预算宣布了几十年来一些最重要的税收改革措施。 其中包括资本利得税的变化，即您对出售投资的利润缴纳的税款。 预算措施尚未立法——当它们通过议会时，它们看起来可能会有所不同。 新住宅建设的投资者可以选择是否坚持旧的 50% 折扣或采用新的通胀挂钩方法（他们也可以保留负扣税）。 预算还包括对通货膨胀后的资本利得征收 30% 的最低税，但领取养老金或求职者等收入支持金的人除外。 如果您在此日期之前持有资产，您的最终投资资本收益将在 2027 年 6 月 30 日之前获得 50% 的折扣，之后的利润将根据通货膨胀挂钩制度纳税。 对于任何资产，您支付的资本利得税折扣是否高于或低于当前 50% 的资本利得税折扣，主要取决于持有期内的相对通胀率和回报率。 例如，如果一年后您的股票价值上涨 5%，而通货膨胀率为 2.5%，那么您将缴纳一半的资本利得税。听起来很熟悉吗？这与现有的 50% 折扣相同。 但假设您赚取了 10%。那么你的折扣只有 25%（2.5% 的通货膨胀占 10% 回报的一部分）。 相比之下，如果您赚取 4% 的收益并在一年后出售，您只需为 1.5% 的实际收益缴税。在这种情况下，您的 CGT 折扣为 62.5%。 如前所述，在预算日持有的现有投资在 2027 年中期之前获得的资本收益仍将获得 50% 的折扣，而该日期之后获得的回报将获得通货膨胀调整后的资本收益折扣。 这改变了上面的简单方程，因为这取决于您在一种制度下与另一种制度下持有资产的时间。 投资银行巴伦乔伊 (Barrenjoey) 的经济学家安德鲁·利利 (Andrew Lilley) 帮助分析了一些数据。 如果你在 2023 年购买，每年赚取 10%，并在 2030 年出售，他计算出你的资本收益的 55% 将被征税。 任何年营业额低于 200 万美元或资产低于 600 万美元的企业仍将有资格获得资本利得税优惠。 财务主管办公室强调的税务数据显示，十分之九的小企业获得了这些优惠，“这意味着他们在出售业务时可以支付减少或零的资本利得税”。 但许多小企业主希望有一天成为一名大企业主。对于他们来说，他们很可能最终会在最终出售业务时缴纳更多税款。 对于小本经营的企业家来说，他们面临着一个问题——一台笔记本电脑和大量的工作时间。初始成本基数接近于零，那么如何在零基数上考虑通货膨胀呢？ 在这里，我们可以看到人工智能生成的关于安东尼·阿尔巴内塞 (Anthony Albanese) 的模因活动……"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
           },
           "translationState": "fallback"
         },
