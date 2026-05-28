@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T23:10:48.337Z",
+  "generatedAt": "2026-05-28T01:59:42.051Z",
   "editionDate": "2026-05-28",
   "sources": [
     {
@@ -112,69 +112,136 @@
       ],
       "items": [
         {
+          "id": "www-theguardian-com-us-news-2026-may-27-trump-doj-investigation-e-jean-c",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/may/27/trump-doj-investigation-e-jean-carroll",
+          "image": "https://i.guim.co.uk/img/media/ca1dfd4f9fcb728e91fc230edca6e8e724e281d8/133_0_2870_2296/master/2870.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5402594d1137ae2ba2e946ed79700f8f",
+          "publishedAt": "2026-05-28T01:45:02.000Z",
+          "title": {
+            "en": "US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll",
+            "zh": "据报道，美国司法部对特朗普指控者E·琼·卡罗尔展开刑事调查"
+          },
+          "summary": {
+            "en": "The US Justice Department has reportedly opened a criminal inquiry into E Jean Carroll, who accused former President Trump of sexual assault. Officials are said to be investigating whether Carroll committed perjury during a 2022 deposition related to lawsuits against the president.",
+            "zh": "据报道，美国司法部已对指控前总统特朗普性侵的作家E·琼·卡罗尔展开刑事调查。据称，官员们正在审查卡罗尔是否在2022年与针对总统的诉讼相关的证词中犯有伪证罪。"
+          },
+          "body": {
+            "en": "Officials said to be examining whether Carroll committed perjury in 2022 deposition tied to lawsuits against president The Trump administration has opened a criminal investigation into E Jean Carroll, the writer who accused the president of sexual assault, according to news reports . Prosecutors, the New York Times and CNN reported on Wednesday, are looking into whether Carroll, 82, committed perjury in a 2022 deposition during her civil lawsuits against Trump, in which she said she did not accept outside financial support for her legal battles. Continue reading...",
+            "zh": "据称，官员们正在调查卡罗尔在 2022 年与针对总统的诉讼有关的证词中是否犯有伪证 据新闻报道，特朗普政府已对指控总统性侵犯的作家 E·让·卡罗尔 (E Jean Carroll) 展开刑事调查。据《纽约时报》和 CNN 周三报道，检察官正在调查 82 岁的卡罗尔在 2022 年针对特朗普的民事诉讼期间的证词中是否犯有伪证罪，她在诉讼中表示，她在法律斗争中不接受外部经济支持。继续阅读..."
+          },
+          "reflection": {
+            "en": "In any legal inquiry, the pursuit of truth is paramount, especially when allegations of perjury arise. Proverbs reminds us that while falsehoods may gain temporary traction, truth ultimately endures and reveals what is genuine. This ongoing investigation underscores the enduring importance of integrity in testimony and the eventual exposure of deceit.",
+            "zh": "在任何法律调查中，对真相的追求都至关重要，尤其当出现伪证指控时。箴言提醒我们，谎言或许能一时得势，但真相终将持久，并揭示事物的本相。这项正在进行的调查强调了证词诚信的持久重要性以及欺骗最终会被揭露的道理。"
+          },
+          "verse": {
+            "reference": "Proverbs 12:19",
+            "textEn": "Truthful lips endure forever, but a lying tongue lasts only a moment.",
+            "textZh": "口吐真言，永远坚立；舌说谎话，只存片时。",
+            "themeEn": "Truth's longevity",
+            "themeZh": "真理永存"
+          },
+          "aiVerseId": "prov_12_19",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-may-27-newsom-tax-trump-fund",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/may/27/newsom-tax-trump-fund",
+          "image": "https://i.guim.co.uk/img/media/c5a667ad78c8e88edfcc85bf7a2648191dd1eb7f/364_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3da511ff7e70cf849a6a24bcef7d7b76",
+          "publishedAt": "2026-05-28T01:35:13.000Z",
+          "title": {
+            "en": "Newsom to impose 100% tax on California payees of Trump’s $1.8bn fund",
+            "zh": "纽森将对特朗普18亿美元基金的加州收款人征收100%税款"
+          },
+          "summary": {
+            "en": "California Governor Gavin Newsom plans to impose a 100% tax on state residents who receive payouts from former President Donald Trump’s $1.776 billion \"anti-weaponization fund.\" This move aims to counteract Trump’s strategy to allocate money to political allies, including individuals involved in the January 6 Capitol...",
+            "zh": "加利福尼亚州州长加文·纽森计划对从前总统唐纳德·特朗普的17.76亿美元“反武器化基金”中获得款项的州居民征收100%的税。此举旨在阻止特朗普将资金分配给政治盟友，包括参与1月6日国会骚乱的人员。"
+          },
+          "body": {
+            "en": "State’s governor looks to thwart US president’s plan to divert money to allies, including January 6 rioters California governor Gavin Newsom is looking to thwart Donald Trump ’s $1.776bn “anti-weaponization fund ” by imposing a 100% tax on any payout received by state residents. In May, the Department of Justice (DoJ) announced a fund to compensate alleged “victims of lawfare and weaponization”. It’s unclear who qualifies under this category. Continue reading...",
+            "zh": "该州州长希望阻止美国总统将资金转移给包括1月6日骚乱者在内的盟友的计划加州州长加文·纽瑟姆(Gavin Newsom)希望通过对该州居民收到的任何支出征收100%的税来阻止唐纳德·特朗普(Donald Trump)的17.76亿美元“反武器化基金”。 5 月，司法部 (DoJ) 宣布设立一项基金，以补偿所谓的“法律和武器化受害者”。目前尚不清楚谁符合这一类别的资格。继续阅读..."
+          },
+          "reflection": {
+            "en": "This news highlights the tension surrounding the ethical use of power and resources in governance. Jeremiah 22:3 reminds leaders of their divine mandate to \"do what is just and right\" and protect against wrongdoing. In a complex political landscape, the call to ensure justice and prevent harm remains a foundational duty for those in authority.",
+            "zh": "这则新闻突显了治理中权力与资源伦理使用方面的紧张关系。耶利米书22:3提醒执政者，他们有神圣的使命去“施行公平和公义”，并防止不法行为。在复杂的政治格局中，确保公义和防止伤害的呼吁，仍然是掌权者的基本职责。"
+          },
+          "verse": {
+            "reference": "Jeremiah 22:3",
+            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
+            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
+            "themeEn": "Royal justice mandate",
+            "themeZh": "王者的公义责任"
+          },
+          "aiVerseId": "jer_22_3",
+          "translationState": "localized"
+        },
+        {
           "id": "www-theguardian-com-australia-news-live-2026-may-28-australia-politics-l",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/7b6a7b6671e84480b7e5d8d5b48f6ed474910b95/411_0_2915_2332/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f8890fdf29be2334097965490423d452",
-          "publishedAt": "2026-05-27T23:00:46.000Z",
+          "image": "https://i.guim.co.uk/img/media/e4e846e47b182885c7bdd1082bbe9c5e20bbf322/563_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=aa61e9edfd6eab165d8473bdd3e845df",
+          "publishedAt": "2026-05-28T01:34:52.000Z",
           "title": {
-            "en": "Australia politics live: Labor spruiks plan for automatic $3,000 compensation payment to scam victims",
-            "zh": "澳大利亚政治直播：工党推行诈骗受害者自动获得3000澳元赔偿金的计划"
+            "en": "Australia politics live: government sues manufacturer 3M over defence base Pfas contamination in ‘largest ever’ $2bn legal claim",
+            "zh": "澳大利亚政治直播：政府因国防基地 Pfas 污染起诉制造商 3M，提出“有史以来最大”的 20 亿美元法律索赔"
           },
           "summary": {
-            "en": "Australia's financial services minister announced a plan for automatic $3,000 compensation payments to scam victims, aiming to encourage banks and telecommunications companies to focus their dispute resolution processes on larger scams. This initiative seeks to address the widespread issue of financial scams affecting...",
-            "zh": "澳大利亚金融服务部长宣布了一项计划，将向诈骗受害者自动支付3000澳元的赔偿金，旨在促使银行和电信公司将争议解决流程集中于更大的诈骗案件。这项举措旨在解决影响个人的普遍金融诈骗问题。"
+            "en": "Attorney general says government seeking $2bn in damages to recover costs relating to firefighting foam at 28 defence bases. Follow updates live Get our breaking news email, free app or daily news podcast Scams come in all shapes and sizes (and none of them are nice), and the...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Financial services minister says it would mean banks and telcos would focus dispute resolution processes on bigger scams. Follow updates live Get our breaking news email , free app or daily news podcast Scams come in all shapes and sizes (and none of them are nice), and the government is considering creating rules that would force banks, telcos and digital platforms to automatically reimburse victims of smaller scams of up to $3,000. Labor is considering a range of options as part of a scam protection framework. For smaller losses, $3,000 and under, what we’re proposing is that there should be automatic payment to consumers where they can verify that there has been a scam. Scams that get into the six figures: some investment scams, some romance scams. And that’s where dispute resolution processes would come into play. What we want to do is to make sure that we don’t have the wrong incentives for perpetrators to see Australia as a soft target. But the balance is that with very small claims we don’t want to have processes that are completely disproportionate to the value of the sum in dispute. Taxpayer funds should never be used for private business, nor were they in this case. When we’re undertaking whether it be community engagement, media engagement, stakeholder meetings, you know, assisting colleagues, there are arrangements in place to assist us to do that work that is right and appropriate, and it is not right and appropriate to bill the taxpayer, as you say, for personal activities. And I did not do that. Yep. Continue reading...",
-            "zh": "金融服务部长表示，这意味着银行和电信公司将把争议解决程序的重点放在更大的骗局上。关注实时更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 诈骗的形式和规模多种多样（而且没有一个是好的），政府正在考虑制定规则，迫使银行、电信公司和数字平台自动向小型诈骗的受害者赔偿最多 3,000 美元。工党正在考虑一系列选择作为诈骗保护框架的一部分。对于 3,000 美元及以下的较小损失，我们建议应该向消费者自动付款，以便他们可以验证是否存在诈骗。金额达到六位数的诈骗：一些是投资诈骗，一些是爱情诈骗。这就是争议解决程序发挥作用的地方。我们想要做的是确保我们不会有错误的动机让肇事者将澳大利亚视为软目标。但平衡点是，对于非常小的索赔，我们不希望程序与争议金额的价值完全不成比例。纳税人的资金决不应该用于私人企业，在本案中也不应如此。当我们进行社区参与、媒体参与、利益相关者会议时，你知道，协助同事时，会有适当的安排来帮助我们做正确和适当的工作，而正如你所说，向纳税人收取个人活动的费用是不正确和适当的。而我并没有那么做。是的。继续阅读..."
+            "en": "Attorney general says government seeking $2bn in damages to recover costs relating to firefighting foam at 28 defence bases. Follow updates live Get our breaking news email , free app or daily news podcast Scams come in all shapes and sizes (and none of them are nice), and the government is considering creating rules that would force banks, telcos and digital platforms to automatically reimburse victims of smaller scams of up to $3,000. Labor is considering a range of options as part of a scam protection framework. For smaller losses, $3,000 and under, what we’re proposing is that there should be automatic payment to consumers where they can verify that there has been a scam. Scams that get into the six figures: some investment scams, some romance scams. And that’s where dispute resolution processes would come into play. What we want to do is to make sure that we don’t have the wrong incentives for perpetrators to see Australia as a soft target. But the balance is that with very small claims we don’t want to have processes that are completely disproportionate to the value of the sum in dispute. Taxpayer funds should never be used for private business, nor were they in this case. When we’re undertaking whether it be community engagement, media engagement, stakeholder meetings, you know, assisting colleagues, there are arrangements in place to assist us to do that work that is right and appropriate, and it is not right and appropriate to bill the taxpayer, as you say, for personal activities. And I did not do that. Yep. Continue reading...",
+            "zh": "总检察长表示，政府寻求 20 亿美元的损失赔偿，以弥补与 28 个国防基地的消防泡沫相关的费用。关注实时更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 诈骗的形式和规模多种多样（而且没有一个是好的），政府正在考虑制定规则，迫使银行、电信公司和数字平台自动向小型诈骗的受害者赔偿最多 3,000 美元。工党正在考虑一系列选择作为诈骗保护框架的一部分。对于 3,000 美元及以下的较小损失，我们建议应该向消费者自动付款，以便他们可以验证是否存在诈骗。金额达到六位数的诈骗：一些是投资诈骗，一些是爱情诈骗。这就是争议解决程序发挥作用的地方。我们想要做的是确保我们不会有错误的动机让肇事者将澳大利亚视为软目标。但平衡点是，对于非常小的索赔，我们不希望程序与争议金额的价值完全不成比例。纳税人的资金决不应该用于私人企业，在本案中也不应如此。当我们进行社区参与、媒体参与、利益相关者会议时，你知道，协助同事时，会有适当的安排来帮助我们做正确和适当的工作，而正如你所说，向纳税人收取个人活动的费用是不正确和适当的。而我并没有那么做。是的。继续阅读..."
           },
           "reflection": {
-            "en": "The proposed plan to compensate scam victims highlights society's ongoing struggle against financial deception. Proverbs reminds us that integrity in financial dealings is not merely a legal requirement but a moral principle, as \"a false balance is an abomination to 雅伟, but a just weight is his delight.\" This pursuit of justice seeks to restore fairness...",
-            "zh": "这项为诈骗受害者提供赔偿的计划，凸显了社会在打击金融欺诈方面的持续努力。箴言提醒我们，金融交易中的诚信不仅是法律要求，更是一种道德原则，因为“诡诈的天平为雅伟所憎恶，公平的法码为他所喜悦。”这种对公义的追求旨在弥补欺诈造成的伤害，恢复公平。"
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 11:1",
-            "textEn": "Yahweh detests dishonest scales, but accurate weights find favor with him.",
-            "textZh": "诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。",
-            "themeEn": "Yahweh hates fraud",
-            "themeZh": "雅伟厌恶诡诈"
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
           },
-          "aiVerseId": "prov_11_1",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-may-27-anthony-odiong-priest-texas",
+          "id": "www-bbc-com-news-articles-c98r2qy5809o-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/27/anthony-odiong-priest-texas",
-          "image": "https://i.guim.co.uk/img/media/1bdea9f752f7cf4c449f60f39075d2b0956a9b8b/354_0_1187_950/master/1187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=870fde65a6be7d09ba759b1216bba267",
-          "publishedAt": "2026-05-27T22:38:00.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/099b/live/cb654ab0-5a2c-11f1-b118-2f2910cff054.jpg",
+          "publishedAt": "2026-05-28T01:20:12.000Z",
           "title": {
-            "en": "Catholic priest said ‘we are but men’ when challenged over sex with spiritual directee, court hears",
-            "zh": "法庭获悉，当天主教神父因与精神导师发生性关系而受到质疑时，他说“我们只是男人”"
+            "en": "US carries out new strikes on Iran military site",
+            "zh": "美国对伊朗军事基地发动新一轮袭击"
           },
           "summary": {
-            "en": "Anthony Odiong, 57, charged in Texas with exploiting status to pursue sex with vulnerable female congregants A Roman Catholic priest replied “we are but men” when confronted after the son of a woman to whom he was providing spiritual guidance caught the clergyman having sex with...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "The US military said it targeted a military site in Bandar Abbas - a strategic port city - and shot down four Iranian attack drones.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Anthony Odiong, 57, charged in Texas with exploiting status to pursue sex with vulnerable female congregants A Roman Catholic priest replied “we are but men” when confronted after the son of a woman to whom he was providing spiritual guidance caught the clergyman having sex with his mother, according to court testimony in Texas on Wednesday. That version of events emerged at the second day of the trial of Anthony Odiong, who has been criminally charged with illicitly abusing his status as a clergyman to pursue sex with spiritually vulnerable female congregants. Continue reading...",
-            "zh": "57 岁的安东尼·奥迪昂 (Anthony Odiong) 在得克萨斯州被指控利用身份与弱势女性会众发生性关系。周三，得克萨斯州的法庭证词显示，一位罗马天主教神父为其提供精神指导，一名妇女的儿子发现这名神职人员与母亲发生性关系，一名罗马天主教神父在面对他时回答说，“我们只是男人”。这一版本的事件出现在安东尼·奥迪昂 (Anthony Odiong) 受审的第二天，他被刑事指控非法滥用牧师身份，与精神上脆弱的女性会众发生性关系。继续阅读..."
+            "en": "The US military has carried out new strikes on Iran, targeting a military site in Bandar Abbas, a strategic port city.\n\nUS Central Command (Centcom) confirmed its forces also shot down four Iranian one-way attack drones \"that posed a threat around the Strait of Hormuz\".\n\nIt said they targeted the Iranian ground control station in Bandar Abbas as it was about to launch a fifth drone. Iranian media reported that explosions were heard to the east of the city.\n\nThe strikes come amid a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war that has choked traffic in the Strait of Hormuz and shot up global energy prices.\n\nCentcom described its actions as \"measured, purely defensive, and intended to maintain the ceasefire\".\n\nDuring a cabinet meeting on Wednesday, US President Donald Trump said that Iran is \"negotiating on fumes\", insisting that his war strategy will not be impacted by November's US midterm elections.\n\nDuring that meeting, the president also urged Gulf nations to sign on to the Abraham Accords to normalise relations with Israel, which launched the war with the US on 28 February and is also embroiled in a war with Iranian-backed Hezbollah in Lebanon.\n\nThe president has threatened to resume a large-scale bombing campaign if Iran does not agree to his terms.\n\nWhile Trump struck an optimistic note over the weekend, saying that a peace deal with Iran had been \"largely negotiated\", by Wednesday's cabinet meeting, he said that the US is \"not satisfied\".\n\nEarlier this week, Centcom confirmed a previous round of \"self-defence\" strikes on southern Iran on Monday in which they targeted Iranian missile sites and boats attempting to lay mines.\n\nCentcom said those strikes were designed \"to protect our troops from threats posed by Iranian forces\".\n\nIran condemned the strikes as \"a grave violation of the ceasefire\" and vowed that the Iranian government \"will not leave any act of hostility unanswered.\"\n\nIran's Islamic Revolutionary Guard Corps (IRGC) also said on Tuesday that it had downed a US drone and fired at a fighter jet and another drone that entered Iranian airspace, but did not specify when.\n\nIt added that Iran had the \"legitimate and definite\" right to retaliate against any US ceasefire violations.",
+            "zh": "美军对伊朗实施新的打击，目标是战略港口城市阿巴斯港的一处军事基地。 美国中央司令部（Centcom）证实，其部队还击落了四架“对霍尔木兹海峡周围构成威胁”的伊朗单向攻击无人机。 据称，他们瞄准了阿巴斯港的伊朗地面控制站，因为该站即将发射第五架无人机。伊朗媒体报道称，该市东部听到爆炸声。 此次袭击发生之际，美国和伊朗之间的停火协议脆弱，并且为结束三个月的战争而进行了旷日持久的谈判，这场战争导致霍尔木兹海峡的交通堵塞，并推高了全球能源价格。 中央司令部将其行动描述为“谨慎的、纯粹的防御性的、旨在维持停火”。 美国总统唐纳德·特朗普在周三的内阁会议上表示，伊朗正在进行“烟雾谈判”，并坚称他的战争战略不会受到11月美国中期选举的影响。 在那次会议上，总统还敦促海湾国家签署《亚伯拉罕协议》，以实现与以色列关系正常化。以色列于 2 月 28 日发动了与美国的战争，并卷入了与伊朗支持的黎巴嫩真主党的战争。 总统威胁称，如果伊朗不同意他的条件，他将恢复大规模轰炸行动。 尽管特朗普在周末发表了乐观的言论，称与伊朗的和平协议已经“基本通过谈判”，但在周三的内阁会议上，他表示美国“不满意”。 本周早些时候，中央司令部证实周一对伊朗南部进行了上一轮“自卫”袭击，目标是伊朗导弹基地和试图布雷的船只。 中央司令部表示，这些袭击的目的是“保护我们的军队免受伊朗军队的威胁”。 伊朗谴责此次袭击“严重违反停火协议”，并誓言伊朗政府“不会对任何敌对行为置之不理”。 伊朗伊斯兰革命卫队（IRGC）周二也表示，击落了一架美国无人机，并向一架战斗机和另一架进入伊朗领空的无人机开火，但没有具体说明具体时间。 它补充说，伊朗拥有“合法且明确”的权利对美国任何违反停火的行为进行报复。"
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -184,10 +251,10 @@
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/us-news/live/2026/may/27/donald-trump-republicans-texas-primary-midterms-iran-redistricting-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/b8b71ad7c6baa478cfedf24d533444552778345e/290_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5a442dcb8361f1d40c122b4ac6ea1a3c",
-          "publishedAt": "2026-05-27T22:29:57.000Z",
+          "image": "https://i.guim.co.uk/img/media/b8db839dbe6afdf73eb30f3ea4f6bde5d8544a32/190_0_3776_3021/master/3776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=69e98a401bfbe3fe96dba3a3f176ea04",
+          "publishedAt": "2026-05-28T01:18:17.000Z",
           "title": {
-            "en": "House Democrats to introduce bill aimed at blocking construction of Trump’s ‘triumphal arch’ – live",
+            "en": "Trump’s justice department reportedly opens criminal investigation into E Jean Carroll – US politics live",
             "zh": "帕克斯顿在德州决选中获胜后，称特朗普的背书是“政坛最强大的力量”——美国政治直播"
           },
           "summary": {
@@ -195,7 +262,7 @@
             "zh": "德克萨斯州总检察长肯·帕克斯顿在赢得共和党参议员提名后，击败了现任参议员约翰·科宁。他将自己的胜利归功于特朗普总统的背书，称其为“政坛最强大的力量”。"
           },
           "body": {
-            "en": "Don Beyer, representative from Virginia, said proposed project outside Arlington National Cemetery would ‘desecrate this hallowed space to build a monument to Donald Trump’s ego’ Sign up to the Breaking News US email President Trump is set to hold the 12th cabinet meeting of his second term at 11am EST on Wednesday. Three Democratic state attorneys general said their deputies were turned away from a roundtable hosted by JD Vance on Tuesday, sowing confusion about what the White House has billed as a bipartisan crackdown on fraud. Continue reading...",
+            "en": "Sources tell CNN and New York Times that the investigation centers on whether Carroll committed perjury in civil lawsuits against Trump, who a federal jury found had sexually abused her in the 1990s Sign up to the Breaking News US email President Trump is set to hold the 12th cabinet meeting of his second term at 11am EST on Wednesday. Three Democratic state attorneys general said their deputies were turned away from a roundtable hosted by JD Vance on Tuesday, sowing confusion about what the White House has billed as a bipartisan crackdown on fraud. Continue reading...",
             "zh": "获得共和党参议院席位提名的得克萨斯州总检察长在击败现任约翰·科宁后对总统表示赞扬 特朗普总统定于美国东部时间周三上午 11 点召开第二任期第 12 次内阁会议。三名民主党州检察长表示，他们的副手被拒绝参加周二由 JD Vance 主办的圆桌会议，这让人们对白宫所宣称的两党打击欺诈行动感到困惑。继续阅读..."
           },
           "reflection": {
@@ -213,105 +280,170 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-may-27-jill-biden-joe-biden-stroke-trum",
+          "id": "www-theguardian-com-us-news-2026-may-27-washington-paper-mill-implosion",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/27/jill-biden-joe-biden-stroke-trump-debate",
-          "image": "https://i.guim.co.uk/img/media/2f5293ff14a1db2023ca98d029d29ad73625af7a/248_0_2535_2027/master/2535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac4ee7173c3dab763722fbcdbfaac0b8",
-          "publishedAt": "2026-05-27T22:11:19.000Z",
+          "link": "https://www.theguardian.com/us-news/2026/may/27/washington-paper-mill-implosion",
+          "image": "https://i.guim.co.uk/img/media/cabf24f93a48106533cf3f1eaca030f7589e0dff/723_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02f188c8216e0d5608658b9eb3539ea5",
+          "publishedAt": "2026-05-28T00:47:19.000Z",
           "title": {
-            "en": "Jill Biden says she thought Joe Biden was having a stroke during 2024 debate",
-            "zh": "吉尔·拜登称她在2024年辩论中以为乔·拜登中风了"
+            "en": "Tank-rupture tragedy may be deadliest in Washington history, governor says",
+            "zh": "州长称，罐体破裂悲剧可能是华盛顿州史上最致命事件"
           },
           "summary": {
-            "en": "In a CBS interview, former first lady Jill Biden stated she was 'frightened' during Joe Biden's 2024 presidential debate performance, believing her husband might have been having a stroke.",
-            "zh": "在前第一夫人吉尔·拜登接受哥伦比亚广播公司采访时表示，她在乔·拜登2024年总统辩论表现期间感到“害怕”，以为她的丈夫可能中风了。"
+            "en": "Two people are confirmed dead and nine others are missing and presumed dead after a chemical-holding tank at a paper mill in Washington state imploded. The incident is being investigated as potentially the deadliest in the state's history.",
+            "zh": "华盛顿州一家造纸厂的一个化学品储罐发生内爆，导致两人死亡，另有九人失踪并被推定死亡。州长表示，这起罐体破裂悲剧可能是该州历史上最致命的事件。"
           },
           "body": {
-            "en": "In CBS interview set to air Sunday, former first lady says she was ‘frightened’ during husband’s debate with Trump Jill Biden said she had been “frightened” as she watched Joe Biden ’s faltering performance during his 2024 presidential debate, and thought her husband might have suffered a stroke. “I was frightened, because I had never, ever seen Joe like that before or since. Never,” the former first lady said in an interview with CBS set to air on Sunday. Continue reading...",
-            "zh": "在哥伦比亚广播公司周日播出的采访中，前第一夫人表示，她在丈夫与特朗普的辩论中感到“害怕”。吉尔·拜登表示，当她看到乔·拜登在 2024 年总统辩论中表现不佳时，她感到“害怕”，并认为她的丈夫可能中风了。 “我很害怕，因为我以前从未见过乔这样。从来没有，”这位前第一夫人在周日播出的哥伦比亚广播公司采访中说道。继续阅读..."
+            "en": "Two people dead and another nine missing and presumed dead after paper mill tank holding chemicals imploded The death toll from the tank-rupture incident at a Washington state paper mill on Tuesday rose to two, with nine people still missing and presumed dead, authorities said. The Longview fire department said in a statement on Wednesday afternoon that one person who was transported to the hospital following the disaster at Nippon Dynawave Packaging Co on Tuesday morning had died. Continue reading...",
+            "zh": "造纸厂储存化学物质的储罐发生内爆，造成两人死亡，另有九人失踪并被推定死亡 当局表示，华盛顿州一家造纸厂周二发生的储罐破裂事件造成的死亡人数上升至两人，仍有九人失踪并被推定死亡。朗维尤消防局在周三下午的一份声明中表示，周二上午日本动力包装公司发生灾难后，一名被送往医院的人死亡。继续阅读..."
           },
           "reflection": {
-            "en": "In moments of public scrutiny and personal vulnerability, such as when a loved one's health is a concern, fear can be a natural human response. The biblical promise reminds us that even when we feel frightened or dismayed, we are not alone, and strength is available beyond our own.",
-            "zh": "在公众审视和个人脆弱的时刻，例如当亲人的健康令人担忧时，恐惧是一种自然的人类反应。圣经的应许提醒我们，即使我们感到害怕或沮丧，我们也不是孤单的，并且有超越我们自身的力量可供依靠。"
+            "en": "The sudden loss of life in this industrial tragedy brings immense sorrow to many families and a community. In moments of profound grief, we hold onto the promise that one day, all tears will be wiped away, and death and pain will be no more. This hope reminds us that suffering is not the final word.",
+            "zh": "这起工业悲剧造成的生命骤逝，给许多家庭和社区带来了巨大的悲痛。在极度悲伤的时刻，我们紧紧抓住一个应许：有一天，所有的眼泪都将被擦去，死亡和痛苦将不复存在。这个盼望提醒我们，苦难并非最终的结局。"
           },
           "verse": {
-            "reference": "Isaiah 41:10",
-            "textEn": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
-            "textZh": "你不要害怕，因为我与你同在；不要惊惶，因为我是你的神。",
-            "themeEn": "God is with us",
-            "themeZh": "神与你同在"
+            "reference": "Revelation 21:4",
+            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+            "themeEn": "End of suffering",
+            "themeZh": "苦难的终结"
           },
-          "aiVerseId": "isa_41_10",
+          "aiVerseId": "rev_21_4",
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-com-news-articles-c4g8vg72z43o-at-medium-rss-at-campaign-rss",
+          "id": "www-bbc-com-news-articles-c99l270vy3no-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7c73/live/3f32dc60-58ec-11f1-8409-e1d7d8df4ed8.jpg",
-          "publishedAt": "2026-05-27T22:00:38.000Z",
+          "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4f04/live/8d909940-5a0b-11f1-8958-3b1169652509.jpg",
+          "publishedAt": "2026-05-28T00:28:45.000Z",
           "title": {
-            "en": "The world's carmakers are struggling to compete with China",
-            "zh": "世界汽车制造商正在努力与中国竞争"
+            "en": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+            "zh": "吉尔·拜登表示，她认为丈夫在 2024 年辩论中“中风”"
           },
           "summary": {
-            "en": "The BBC visited China’s EV factories and found they are dominating the ecosystems shaping the global auto industry.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+            "en": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Global carmakers are facing a reckoning as US, European and Japanese brands lose ground to Chinese rivals setting the pace not only in electric vehicles, but also in batteries, design and software.\n\nThe BBC visited factory floors in Beijing and Hefei on the sidelines of Auto China 2026 - the world's largest car show - and found striking levels of automation and software development speed, leaving foreign brands that once dominated the Chinese market struggling to keep up.\n\n\"We have no chance against this,\" Honda chief executive Toshihiro Mibe told Japanese media after visiting a highly automated factory in Shanghai.\n\nFord chief executive Jim Farley has also warned that Western carmakers, are \"in a fight for our lives\" as Chinese rivals expand globally.\n\nAfter decades spent investing in joint ventures with Chinese partners to build vehicles, foreign carmakers are now changing the nature of those partnerships to stay competitive.\n\n\"The biggest mistake that the developed world is making is believing that the transition is only about electric cars,\" says Shanghai-based auto analyst Bill Russo. \"It's about who will lead the next generation of mobility technology.\"\n\nIt makes the most exports in more than 315 product categories, up from 163 in 2016, according to a report by Rhodium Group. Many of these are linked to electric vehicle (EV) supply chains, including batteries, components and manufacturing machinery.\n\nThe International Energy Agency estimates it is at least 30% cheaper to produce a small electric SUV in China than in more advanced economies, largely because of lower battery costs and elaborate supply chains.\n\nThat advantage was built through years of state support. Rhodium estimates China has channelled tens of billions of dollars into EV and battery manufacturing in recent years alone.\n\nThose subsidies, heavily criticised in the EU and US for distorting markets, have helped companies expand rapidly and cut prices.\n\nCompetition inside China has also sped up innovation. Tech giants like Xiaomi, Huawei and Alibaba are now making EVs, bringing consumer technology into the car industry.\n\nAs cars increasingly rely on software, from driver assistance to entertainment systems, these companies are giving Chinese carmakers yet another edge.\n\nThe shift is most visible inside Xiaomi's EV factory outside Beijing, where a car rolls off the production line roughly every 76 seconds.\n\nXiaomi only launched its first EV in 2024 but it is already one of China's top-selling brands. Its strategy is to connect cars with phones, apps and smart-home devices to create a single system.\n\nBYD has developed ultra-fast charging systems capable of adding 400km (249 miles) of range in around five minutes, close to the time it takes to refuel a car with petrol.\n\nXPeng's...",
-            "zh": "随着美国、欧洲和日本品牌在电动汽车、电池、设计和软件方面的领先地位被中国竞争对手夺走，全球汽车制造商正面临一场清算。 BBC 在全球最大的车展 2026 年中国国际车展期间参观了北京和合肥的工厂车间，发现自动化水平和软件开发速度惊人，使得曾经主导中国市场的外国品牌难以跟上。 本田首席执行官三部敏博在参观上海一家高度自动化的工厂后对日本媒体表示：“我们没有机会阻止这一点。” 福特首席执行官吉姆·法利还警告说，随着中国竞争对手向全球扩张，西方汽车制造商正在“为我们的生命而战”。 经过数十年投资与中国合作伙伴合资生产汽车后，外国汽车制造商现在正在改变这些合作伙伴关系的性质，以保持竞争力。 上海汽车分析师比尔·拉索（Bill Russo）表示：“发达国家所犯的最大错误是认为转型只与电动汽车有关。” “这关系到谁将引领下一代移动技术。” 根据荣鼎集团 (Rhodium Group) 的报告，该国在超过 315 个产品类别中出口最多，而 2016 年为 163 个。其中许多都与电动汽车 (EV) 供应链相关，包括电池、零部件和制造机械。 国际能源署估计，在中国生产小型电动 SUV 的成本比更发达经济体至少便宜 30%，这主要是因为较低的电池成本和完善的供应链。 这一优势是通过多年的国家支持建立起来的。荣鼎估计，仅近年来，中国就在电动汽车和电池制造领域投入了数百亿美元。 这些补贴因扭曲市场而受到欧盟和美国的严厉批评，但它们却帮助企业迅速扩张并降低价格。 中国内部的竞争也加速了创新。小米、华为和阿里巴巴等科技巨头现在正在生产电动汽车，将消费技术带入汽车行业。 随着汽车越来越依赖软件，从驾驶辅助到娱乐系统，这些公司为中国汽车制造商带来了另一个优势。 这种转变在北京郊外的小米电动汽车工厂内最为明显，那里大约每 76 秒就有一辆汽车下线。 小米在 2024 年才推出了首款电动汽车，但它已经是中国最畅销的品牌之一。其战略是将汽车与手机、应用程序和智能家居设备连接起来，创建一个单一系统。 比亚迪开发了超快速充电系统，能够在大约 5 分钟内增加 400 公里（249 英里）的续航里程，接近为汽车加油所需的时间。 小鹏的..."
+            "en": "Former US First Lady Jill Biden says she thought her husband, President Joe Biden, was having a stroke during his infamously faltering presidential debate in 2024.\n\n\"I was frightened, because I had never ever seen Joe like that before or since. Never,\" Jill Biden told CBS News, the BBC's US partner.\n\n\"I don't know what happened,\" she said. \"As I watched it, I thought, 'Oh, my God, he's having a stroke.' And it scared me to death.\"\n\nPresident Biden faced intense pressure from fellow Democrats to step down as their candidate after a poor debate performance against then-Republican candidate Donald Trump. Biden ultimately dropped out of the race and endorsed then-Vice-President Kamala Harris.\n\nThe former first lady's interview with CBS News Sunday Morning's Rita Braver will air on Sunday.\n\nJill Biden has stood beside her husband throughout his decades-long career, from his time as a Delaware senator to his years as president.\n\nShe was considered to be one of his most influential advisers during his presidency, and among those who ultimately encouraged him to step out of the 2024 race.\n\nFollowing the June 2024 debate, months ahead of the presidential election, Democrats expressed unease at the president's shaky debate performance.\n\nBiden's campaign at the time insisted the president would not step down as the Democratic candidate and that he would debate Donald Trump again.\n\nDuring the debate in which both men sought a second term, Biden and Trump sparred on major topics including immigration, the economy and abortion rights.\n\nBut Biden's \"slow start\" (as his own Vice-President Kamala Harris called it) left some Democratic leaders worried.\n\nBiden had a raspy voice, which his team said was because he was ill, and a moment where he seemed to lose his train of thought.\n\nVoters' concerns about Biden's health, mental acuity and age - 81 at the time - already weighed heavily on the debate.\n\nAnalysts piled on the president across most major US media outlets, with concerns raised about Biden's ability to do the job of president as well as his chances in the November 2024 election.\n\nIt was thought unlikely that Biden, the incumbent president, would be replaced as the Democratic Party's nominee just a few months before the election. The difficult process of choosing another nominee was seen as having the potential to derail the party's White House bid.\n\nBut his debate performance - along with gaffes during a Nato summit in the following weeks and a frail demeanour after a Covid diagnosis - ultimately led to him ending his candidacy.\n\nHarris assumed the Democratic nomination about three months before the election and ultimately lost her bid to Trump.\n\nIn the aftermath of her election loss, Harris criticised her former boss, calling Biden's decision to seek a second...",
+            "zh": "美国前第一夫人吉尔·拜登表示，她认为她的丈夫、总统乔·拜登在 2024 年的总统辩论中中风了。 “我很害怕，因为我以前从未见过乔这样。从来没有，”吉尔·拜登告诉英国广播公司美国合作伙伴哥伦比亚广播公司新闻。 “我不知道发生了什么事，”她说。 “当我看着它时，我想，‘哦，天哪，他中风了。’”这把我吓死了。” 拜登总统在与当时的共和党候选人唐纳德·特朗普的辩论中表现不佳后，面临着来自民主党同僚的巨大压力，要求他辞去自己的候选人职务。拜登最终退出竞选并支持时任副总统卡马拉·哈里斯。 这位前第一夫人接受哥伦比亚广播公司周日早间新闻节目《丽塔·布拉弗》的采访将于周日播出。 从担任特拉华州参议员到担任总统，吉尔·拜登在丈夫数十年的职业生涯中一直站在他身边。 她被认为是他担任总统期间最有影响力的顾问之一，也是最终鼓励他退出 2024 年竞选的人之一。 2024 年 6 月的辩论结束后，距离总统选举还有几个月，民主党人对总统不稳定的辩论表现表示不安。 拜登的竞选团队当时坚称总统不会辞去民主党候选人的职务，并表示他将再次与唐纳德·特朗普进行辩论。 在两人寻求连任的辩论中，拜登和特朗普在移民、经济和堕胎权等重大话题上发生了争执。 但拜登的“缓慢起步”（正如他自己的副总统卡马拉·哈里斯所说）让一些民主党领导人感到担忧。 拜登的声音沙哑，他的团队称这是因为他生病了，那一刻他似乎失去了思路。 选民对拜登健康、精神敏锐度和年龄（当时 81 岁）的担忧已经在辩论中产生了重大影响。 美国大多数主要媒体的分析师纷纷对总统进行攻击，对拜登履行总统职责的能力以及他在 2024 年 11 月大选中的机会表示担忧。 人们认为，在大选前几个月，现任总统拜登不太可能被取代成为民主党提名人。选择另一位提名人的艰难过程被认为有可能破坏该党入主白宫的努力。 但他的辩论表现——加上接下来几周的北约峰会上的失态，以及新冠诊断后的虚弱举止——最终导致他终止了候选资格。 哈里斯在大选前大约三个月获得了民主党提名，但最终输给了特朗普。 在选举失败后，哈里斯批评了她的前任老板，称拜登寻求第二任总统的决定......"
           },
           "reflection": {
-            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Genesis 2:15",
-            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
-            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
-            "themeEn": "Creation care",
-            "themeZh": "看守受造界"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-may-27-dhs-international-flights-sanctu",
+          "id": "www-bbc-com-news-videos-cpvp30gpd0ko-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/may/27/dhs-international-flights-sanctuary-cities",
-          "image": "https://i.guim.co.uk/img/media/e70e30d1b6e1acd5c5748ab1018e32a7712dd045/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb3bc0881dc79dd443118ffdc02f4b00",
-          "publishedAt": "2026-05-27T21:44:50.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/videos/cpvp30gpd0ko?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6a12/live/a82caa90-5a02-11f1-8b8c-6d33e1d5abb6.png",
+          "publishedAt": "2026-05-27T23:21:41.000Z",
           "title": {
-            "en": "Trump administration ‘drawing up plans’ to stop processing international flights in sanctuary cities",
-            "zh": "特朗普政府“正在制定计划”停止在庇护城市处理国际航班"
+            "en": "We analysed thousands of Trump's posts - here's what we found",
+            "zh": "我们分析了数千条特朗普的帖子 - 这是我们的发现"
           },
           "summary": {
-            "en": "The Trump administration is reportedly planning to halt the processing of international flights in major cities designated as \"sanctuary cities.\" This move is described by the DHS secretary as a response to protests against immigration policies, particularly outside an ICE facility in New Jersey.",
-            "zh": "据报道，特朗普政府正计划停止在被指定为“庇护城市”的主要城市处理国际航班。国土安全部部长表示，此举是对针对移民政策的抗议活动（尤其是在新泽西州ICE设施外发生的抗议）的回应。"
+            "en": "The BBC's Ros Atkins and BBC Verify sifted through thousands of the president's posts.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Markwayne Mullin, DHS secretary, said move would come in response to protests outside ICE facility in New Jersey The Trump administration has threatened to stop processing international flights in major cities around the country as a reaction to protests against immigration enforcement. Markwayne Mullin, the homeland security secretary, said during an interview with Fox News on Tuesday that the administration is “drawing up plans” to take the action, in response to days of clashes at an Immigration and Customs Enforcement ( ICE ) detention center in New Jersey. Continue reading...",
-            "zh": "国土安全部部长马克韦恩·穆林 (Markwayne Mullin) 表示，此举是为了回应新泽西州 ICE 设施外的抗议活动。特朗普政府威胁要停止在全国主要城市处理国际航班，作为对移民执法抗议活动的回应。美国国土安全部部长马克韦恩·穆林周二在接受福克斯新闻采访时表示，政府正在“制定计划”采取行动，以应对新泽西州移民和海关执法局 (ICE) 拘留中心发生数天的冲突。继续阅读..."
+            "en": "In 2026, Donald Trump's use of social media has escalated. The BBC sifted through thousands of posts on his platform Truth Social to analyse what the President has been saying and when.\n\nWhat was the busiest day? When are the busiest hours? What type of content does President Trump share? Ros Atkins explains what he's found. Want to learn more about Trump's posts?\n\nA longer version of this video is available here as part of a series on YouTube.\n\nNew York and New Jersey are looking into the association after fans have reportedly been \"misled\" over ticket sales and seat locations.\n\nBBC's Carl Nasman was at the event, where he asked enthusiasts about World Cup ticket prices and what the sport means to the US.\n\nThe plans include permanent human habitation on the Earth's only natural satellite by 2032.\n\nElon Musk's SpaceX has successfully launched its Starship V3 rocket, which landed in a planned fiery explosion on Friday.\n\nActress Anya Taylor-Joy and designer Donatella Versace delivered tributes to the singer during the ceremony.\n\nThe late-night host will appear behind his CBS desk for the final time after the network announced last summer that the show would end after 11 seasons.\n\nAs part of the ongoing investigation into the crash that killed 14 people, officials released footage showing the engine detaching during takeoff.\n\nBody cam footage shows the moment a baby was thrown from a window and caught by an officer during a house fire.\n\nThe president, who claims the building is a ‘gift’ to the US, says it will include a hospital and research facilities.\n\nThe Sandy Fire ignited in the city of Simi Valley and spread across 1,364 acres (550 hectares) with minimal containment as of Tuesday, officials said.\n\nThomas Massie, the Republican congressman from Kentucky who led the release of the Epstein files, is running against a Trump-backed primary challenger.\n\nTwo teenage attackers fatally shot three men at a mosque in San Diego, California, in a suspected hate crime, before taking their own lives, say police.\n\nBBC's Lily Jamali was at court during the trial, as Musk accused Altman of breaching a non-profit contract by shifting the ChatGPT-maker to a for-profit company.\n\nSakshi Venkatraman reports from an eerily quiet rail station as a strike by Long Island Rail Road workers caused delays for thousands of commuters.\n\nFour crew members safely ejected from US Navy jets and are in a stable condition after the collision.\n\nThe company said the vehicles, which use AI to drive, had encountered \"a routing problem\" that kept taking them to the same cul-de-sac.\n\nA moped had been used in the deadly stray-bullet shooting of a 7-month-old in Brooklyn last month, officials said.\n\nStephen Colbert met with Seth Meyers, John Oliver, Jimmy Kimmel and Jimmy Fallon to talk about...",
+            "zh": "2026 年，唐纳德·特朗普对社交媒体的使用有所升级。英国广播公司（BBC）筛选了其平台“真相社会”上的数千条帖子，以分析总统在何时说过什么。 最忙的一天是哪一天？最忙的时间是什么时候？特朗普总统分享什么类型的内容？罗斯·阿特金斯解释了他的发现。想了解更多有关特朗普的帖子吗？ 作为 YouTube 系列的一部分，您可以在此处获取该视频的较长版本。 据报道，球迷在门票销售和座位位置上被“误导”，纽约和新泽西州正在调查该协会。 BBC 的卡尔·纳斯曼 (Carl Nasman) 出席了此次活动，他向球迷询问了世界杯的票价以及这项运动对美国的意义。 该计划包括到 2032 年在地球唯一的天然卫星上实现人类永久居住。 埃隆·马斯克 (Elon Musk) 的 SpaceX 已成功发射其 Starship V3 火箭，并于周五按计划发生剧烈爆炸。 女演员安雅·泰勒-乔伊和设计师多纳泰拉·范思哲在颁奖典礼上向这位歌手致敬。 去年夏天，哥伦比亚广播公司宣布该节目将在 11 季结束后结束，这位深夜节目主持人将最后一次出现在他的办公桌后面。 作为对造成 14 人死亡的坠机事件正在进行的调查的一部分，官员们公布了显示发动机在起飞过程中分离的镜头。 随身摄像机的镜头显示了一名婴儿在房屋火灾中被从窗户扔出并被一名警察抓住的那一刻。 总统声称这座建筑是送给美国的“礼物”，并表示它将包括一家医院和研究设施。 官员称，桑迪大火在西米谷市起火，截至周二，火势蔓延至 1,364 英亩（550 公顷），且控制措施有限。 领导公布爱泼斯坦文件的肯塔基州共和党国会议员托马斯·马西正在与特朗普支持的初选挑战者竞选。 警方称，两名青少年袭击者在加利福尼亚州圣地亚哥的一座清真寺开枪打死三名男子，涉嫌仇恨犯罪，然后自杀。 BBC 的 Lily Jamali 在审判期间出庭，马斯克指控 Altman 将 ChatGPT 制造商转为营利性公司，违反了非营利合同。 萨克希·文卡特拉曼 (Sakshi Venkatraman) 在一个异常安静的火车站报道称，长岛铁路工人的罢工导致数千名通勤者延误。 碰撞后，四名机组人员从美国海军飞机上安全弹射，目前情况稳定。 该公司表示，这些使用人工智能驾驶的车辆遇到了“路线问题”，导致它们不断驶向同一个死胡同。 官员称，上个月在布鲁克林，一辆轻便摩托车导致一名 7 个月大婴儿被流弹射杀。 斯蒂芬·科尔伯特会见了塞斯·迈耶斯、约翰·奥利弗、吉米·金梅尔和吉米·法伦，讨论了……"
           },
           "reflection": {
-            "en": "This news highlights the ongoing tensions surrounding immigration and how governments respond to cities that offer sanctuary. Scripture reminds us of a profound call to hospitality, urging us to treat foreigners among us as native-born. This principle encourages compassion and fair treatment for all, reflecting a divine command rooted in shared human...",
-            "zh": "这则新闻突显了围绕移民问题以及政府如何回应提供庇护的城市所存在的持续紧张关系。圣经提醒我们一个深刻的款待呼召，敦促我们将居住在我们中间的外国人视同本地人。这一原则鼓励对所有人抱有同情心和公平待遇，反映了根植于共同人类经验的神圣命令。"
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Leviticus 19:33-34",
-            "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
-            "textZh": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
-            "themeEn": "Foreigner as native-born",
-            "themeZh": "待寄居者如本族"
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
           },
-          "aiVerseId": "lev_19_33",
-          "translationState": "localized"
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cj6p0wrkpj8o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7b48/live/fcd95050-5770-11f1-907e-c389fdeeba6e.jpg",
+          "publishedAt": "2026-05-27T23:14:43.000Z",
+          "title": {
+            "en": "Is 'out of control' US tipping culture spreading overseas?",
+            "zh": "美国“失控”的小费文化是否正在海外蔓延？"
+          },
+          "summary": {
+            "en": "With US waiting staff getting cross at receiving less than 20%, tips are also on the rise elsewhere.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The debate about tipping culture in the US has reignited in recent years, with social media posts about waiting staff angry that they haven't been left enough money going viral. Is this increased pressure to tip, and to do so generously, now spreading around the world?\n\nLillian Price thinks that tipping in the US is \"out of control\". \"It's too much,\" she says.\n\n\"You might just be grabbing something to go, and you are expected to tip,\" says the animal care worker who lives in Philadelphia.\n\nPrice, who says she tips 15% in table-service restaurants, adds: \"If somewhere is providing a service, that's fine, but I don't see why you need to tip in other places, or worse still, that they expect one. It's for any little thing… when do we stop giving tips?\"\n\nPrice's policy of tipping 15% in a restaurant might seem generous to many people, but in certain cities in the US it could very well result in a frosty response from a waiter or waitress. In places like New York, Boston, Los Angeles and Chicago 20% is now more often expected.\n\nFor Kate Santos, a waitress who works at Sanger Hall, a bar in Queens, New York, tips are an essential part of her income.\n\n\"Servers in New York make $11 (£8.18) an hour, so basically I make my salary off tips,\" she says. \"If people don't tip, it's a bad day for me. In New York, there's an unspoken rule that you tip 20% minimum and if the tip is less, then people think it's terrible.\"\n\nWhile tipping culture is ingrained in the US, 2,000 miles (3,220km) away in Iceland it was historically unheard of. But things have now changed, led by a big increase in American visitor numbers.\n\nIn 2010, 50,810 Americans went to Iceland, according to official Icelandic data. By last year this had soared to 660,114, and many simply wish to tip.\n\nA spokeswoman for Efling Union, the second-largest union in Iceland, says this has led to a number of restaurants in the country asking customers if they want to add a gratuity when they pay. She adds that this is antagonising local people.\n\n\"Tipping is not customary in Iceland because there has long been a broad social consensus that employers are responsible for paying their staff decent wages.\n\n\"However, tourists from the United States expect tipping to be customary and often do so to some extent, as do tourists from elsewhere. In addition, some payment terminals are now programmed to prompt customers for tips.\"\n\nThe spokeswoman adds: \"Generally speaking, Icelanders themselves tend to become irritated when this happens, as they do not consider it reasonable to pay an additional surcharge on top of already high prices when, for example, buying a drink at a bar.\"\n\nIt is a similar situation in Mexico City where I am currently based - local people blame American tourists for the growth in tipping culture.\n\nIn...",
+            "zh": "近年来，关于美国小费文化的争论重新燃起，社交媒体上有关服务员因没有留下足够的钱而感到愤怒的帖子在网上疯传。这种日益增加的给小费和慷慨小费的压力现在正在世界范围内蔓延吗？ 莉莲·普莱斯 (Lillian Price) 认为在美国给小费的情况“失控”。 “这太多了，”她说。 住在费城的动物护理人员说：“你可能只是想拿点东西带走，所以你应该给小费。” 普赖斯说，她在餐桌服务餐厅要给 15% 的小费，她补充道：“如果某个地方提供服务，那很好，但我不明白为什么你需要在其他地方给小费，或者更糟糕的是，他们希望给小费。这是为了任何小事……我们什么时候停止给小费？” 普赖斯在餐厅给小费 15% 的政策对很多人来说似乎很慷慨，但在美国的某些城市，这很可能会导致服务员反应冷淡。在纽约、波士顿、洛杉矶和芝加哥等地，现在人们通常预计 20% 的比例。 对于在纽约皇后区桑格大厅酒吧工作的女服务员凯特·桑托斯来说，小费是她收入的重要组成部分。 “纽约的服务员每小时赚 11 美元（8.18 英镑），所以基本上我的薪水都是靠小费，”她说。 “如果人们不给小费，这对我来说是糟糕的一天。在纽约，有一条不成文的规定，小费最少要给 20%，如果小费少了，人们就会认为这很糟糕。” 虽然小费文化在美国根深蒂固，但在 2,000 英里（3,220 公里）外的冰岛，这种文化却闻所未闻。但现在情况发生了变化，美国游客人数大幅增加。 根据冰岛官方数据，2010年，有50,810名美国人前往冰岛。到去年，这一数字已飙升至 660,114 人，许多人只是想给小费。 冰岛第二大工会埃夫林联盟的发言人表示，这导致该国许多餐馆询问顾客是否愿意在付款时添加小费。她补充说，这引起了当地人的不满。 “冰岛没有给小费的习惯，因为长期以来社会普遍认为雇主有责任向员工支付体面的工资。 “然而，来自美国的游客希望给小费成为一种习惯，并且经常在某种程度上这样做，就像来自其他地方的游客一样。此外，一些支付终端现在已被编程为提示顾客支付小费。” 这位发言人补充道：“一般来说，冰岛人自己在这种情况发生时往往会感到恼火，因为他们认为在已经很高的价格基础上支付额外的附加费是不合理的，例如在酒吧购买饮料时。” 我目前所在的墨西哥城也有类似的情况——当地人将小费文化的增长归咎于美国游客。 在..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cjwppxwxpg1o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cjwppxwxpg1o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fc85/live/1ef139d0-59ee-11f1-8b8c-6d33e1d5abb6.jpg",
+          "publishedAt": "2026-05-27T23:14:30.000Z",
+          "title": {
+            "en": "How my brother went from liberal Hollywood actor to manosphere 'messiah'",
+            "zh": "我的兄弟如何从自由派好莱坞演员变成马诺圈“弥赛亚”"
+          },
+          "summary": {
+            "en": "The sister of Mexican influencer El Temach tells the BBC she does not recognise him any more.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Ten years ago Luis Castilleja was a free-wheeling creative, seeking his fortune as an actor in Hollywood, and enjoying the liberal Los Angeles lifestyle. Now he is better known as El Temach, Latin America's biggest manosphere influencer, whose misogynistic and hyper-masculine content has gained him more than 11 million social media followers.\n\n\"I don't like saying El Temach because for me he's a completely different person. So I'm sister with the human that he was,\" she says.\n\nAlex, a design engineer from Mexico, says her brother's metamorphosis shows how even the most unlikely people can be tempted into making manosphere content, once they realise the money and fame to be made.\n\nThe impact of Western influencers such as Andrew Tate has been well documented. But a BBC World Service investigation has scrutinised the content and followings of 15 other influencers - based in South and East Asia, Latin America and Africa - and found that, on average, their followings have tripled in the past three years. These regions have seen relatively recent gains in gender equality, and experts say this environment is fuelling men's hunger for manosphere content.\n\nAs well as El Temach, our investigation also focused on Andrew Kibe - a household name in Kenya who promotes male self-empowerment and misogyny on social media. Both have repeatedly attacked single mothers, and regularly accuse women of being \"gold diggers\" who manipulate men.\n\nBoth influencers, we found, are earning large sums of money from their platforms.\n\nEl Temach and Kibe both strongly deny their content is misogynistic, with Kibe - in an interview with the BBC - even disputing the existence of the concept.\n\nWe wanted to see the impact this content has on consumers. Two Gen Z followers - one in Kenya and one in Mexico - gave the BBC uncensored access to several years of their social media activity, allowing us to see thousands of their posts, views, likes, comments and shares.\n\nMexican Julián first started using Instagram aged 16, liking and commenting on content about cars, fitness and self-development. His history shows that he first liked a video from El Temach a few months later, after it appeared in his recommended feeds.\n\nNow 19, he has so far liked more than 3,000 videos from dozens of manosphere creators. Julián told the BBC he felt \"feminism has made men's problems invisible\".\n\nThat sentiment is a key tenet of El Temach's messaging - but he did not always hold these views, according to his sister Alex.\n\nHe grew up wanting to be a performer, she says, and after studying theatre in Mexico City, moved to LA to pursue his dream of becoming an actor.\n\nBut he returned home a couple of years later, she says, after a break-up and failure to book regular work. These setbacks motivated him to help...",
+            "zh": "十年前，路易斯·卡斯蒂利亚 (Luis Castilleja) 是一位随心所欲的创意人士，在好莱坞寻求作为演员的财富，享受自由的洛杉矶生活方式。现在，他更广为人知的名字是 El Temach，他是拉丁美洲最大的男性圈影响者，其厌恶女性和过度男性化的内容为他赢得了超过 1100 万社交媒体粉丝。 “我不喜欢说埃尔·特马赫，因为对我来说他是一个完全不同的人。所以我和他是一个姐妹，”她说。 来自墨西哥的设计工程师亚历克斯表示，她哥哥的转变表明，即使是最不可能的人，一旦意识到可以赚到钱和名誉，也会被诱惑去制作马诺圈内容。 安德鲁·泰特（Andrew Tate）等西方影响者的影响已有充分记录。但 BBC 国际频道的一项调查仔细审查了来自南亚、东亚、拉丁美洲和非洲的其他 15 位影响者的内容和关注者，发现他们的关注者在过去三年中平均增加了两倍。这些地区最近在性别平等方面取得了进展，专家表示，这种环境加剧了男性对马诺圈内容的渴望。 除了埃尔·特马赫，我们的调查还集中在安德鲁·基贝（Andrew Kibe）——肯尼亚家喻户晓的名字，他在社交媒体上宣扬男性自强和厌女症。两人都多次攻击单身母亲，并经常指责女性是操纵男性的“拜金者”。 我们发现，这两位有影响力的人都从他们的平台上赚取了大量资金。 El Temach 和 Kibe 都强烈否认他们的内容是厌恶女性的，Kibe 在接受 BBC 采访时甚至质疑这一概念的存在。 我们希望了解该内容对消费者的影响。两名 Z 世代追随者（一名在肯尼亚，一名在墨西哥）向 BBC 提供了未经审查的访问权限，他们多年来的社交媒体活动，使我们能够看到他们的数千条帖子、观点、点赞、评论和分享。 墨西哥人 Julián 16 岁时首次使用 Instagram，对有关汽车、健身和自我发展的内容进行点赞和评论。他的历史记录显示，几个月后，当 El Temach 的视频出现在他的推荐源中时，他第一次点赞了该视频。 现年 19 岁的他迄今为止已点赞了数十位 Manosphere 创作者的 3000 多个视频。朱利安告诉英国广播公司，他觉得“女权主义让男性的问题变得不可见”。 这种观点是埃尔·特马赫传达信息的一个关键原则，但据他的妹妹亚历克斯说，他并不总是持有这些观点。 她说，他从小就想成为一名表演者，在墨西哥城学习戏剧后，搬到洛杉矶追求成为演员的梦想。 但她说，几年后，在分手和未能安排正常工作后，他回到了家。这些挫折促使他去帮助..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-sbs-com-au-news-article-israel-lebanon-combat-zones-iran-deal-trump-",
@@ -330,7 +462,7 @@
             "zh": "以色列军方命令黎巴嫩南部所有居民撤离，这表明尽管存在停火协议，局势仍将进一步升级。"
           },
           "body": {
-            "en": "United States President Donald Trump appeared to threaten to attack US ally Oman if it sides with Iran over reopening the Strait of Hormuz.\n\nTrump said Oman must \"behave\" or he would \"blow them up,\" when he was asked on Thursday AEST if he would accept a short-term deal to allow Iran and the Gulf state to control the waterway.\n\n\"No, the strait is going to be open to everybody,\" Trump told reporters during a cabinet meeting at the White House.\n\n\"It's international waters and Oman will behave just like everybody else or we'll have to blow them up. They understand that, they'll be fine.\"\n\nThe White House did not immediately respond when asked by the Agence France-Presse news agency if Trump had misspoken and had intended to refer to Iran rather than Oman.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nOman is a key US ally which has tried to mediate the Middle East war and has itself come under attack from Tehran.\n\nThe US State Department later posted a clip and transcript of Trump's comments about Oman, without any correction or clarification.\n\nThe 79-year-old did earlier appear to mix up Iran and Venezuela, saying that the South American nation &#x2014; whose leader Nicolas Maduro was toppled by US forces in January &#x2014; \"no longer has a navy, no longer has an air force\".\n\nTrump has repeatedly used such phrasing to refer to Iran, which the US and Israel attacked on 28 February.\n\nIran has indicated that it seeks to impose a new reality in the Strait of Hormuz, through which one fifth of the world's oil normally passes, exacting tolls on transiting ships and sharing the revenues with Oman.\n\nTrump has grown increasingly frustrated as talks to end the Middle East war and reopen the strait appear to have stalled once more, just days after he said a deal was near.\n\nEarlier, Iran said that a return to war with the US was unlikely as the two sides inched towards a deal, though Trump said he was not happy with Iran's latest offer.\n\nThe US leader warned he might be compelled to \"finish the job\" if a better arrangement was not reached, even as optimism for a peace deal that would reopen the crucial Strait of Hormuz trade route sent oil prices tumbling.\n\nWith fighting paused since an 8 April ceasefire, negotiations to bring an end to the conflict and resume trade through the blockaded waterway have hit repeated roadblocks, leaving the global economy shaken by the tumult.\n\nBut senior Iranian Revolutionary Guards official Mohammad Akbarzadeh said the likelihood of a return to \"war is low because of the enemy's weakness\", but warned the military was \"lying in wait with full magazines\" in the event of an attack, Tasnim news agency reported.\n\nTrump, meanwhile, said in a...",
+            "en": "United States President Donald Trump appeared to threaten to attack US ally Oman if it sides with Iran over reopening the Strait of Hormuz.\n\nTrump said Oman must \"behave\" or he would \"blow them up\" when he was asked on Thursday AEST if he would accept a short-term deal to allow Iran and the Gulf state to control the waterway.\n\n\"No, the Strait is going to be open to everybody,\" Trump told reporters during a cabinet meeting at the White House.\n\n\"It's international waters and Oman will behave just like everybody else or we'll have to blow them up. They understand that, they'll be fine.\"\n\nThe White House did not immediately respond when asked by the Agence France-Presse news agency if Trump had misspoken and had intended to refer to Iran rather than Oman.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nOman is a key US ally that has tried to mediate the war in the Middle East and has itself come under attack from Iran's government.\n\nThe US state department later posted a clip and transcript of Trump's comments about Oman, without any correction or clarification.\n\nThe 79-year-old did earlier appear to mix up Iran and Venezuela, saying that the South American nation &#x2014; whose leader Nicol&#xE1;s Maduro was toppled by US forces in January &#x2014; \"no longer has a navy, no longer has an air force\".\n\nTrump has repeatedly used such phrasing to refer to Iran, which the US and Israel attacked on 28 February.\n\nIran has indicated that it seeks to impose a new reality in the Strait of Hormuz, through which one-fifth of the world's oil normally passes, exacting tolls on transiting ships and sharing the revenues with Oman.\n\nTrump has grown increasingly frustrated as talks to end the Middle East war and reopen the strait appear to have stalled once more, just days after he said a deal was near.\n\nEarlier, Iran said that a return to war with the US was unlikely as the two sides inched towards a deal, though Trump said he was not happy with Iran's latest offer.\n\nThe US leader warned he might be compelled to \"finish the job\" if a better arrangement was not reached, even as optimism for a peace deal that would reopen the crucial Strait of Hormuz trade route sent oil prices tumbling.\n\nWith fighting paused since an 8 April ceasefire, negotiations to end the conflict and resume trade through the blockaded waterway have hit repeated roadblocks, leaving the global economy shaken.\n\nBut senior Iranian Revolutionary Guards official Mohammad Akbarzadeh said the likelihood of a return to \"war is low because of the enemy's weakness\", but warned the military was \"lying in wait with full magazines\" in the event of an attack, Tasnim news agency reported.\n\nTrump, meanwhile, said in a cabinet...",
             "zh": "美国总统唐纳德·特朗普似乎威胁称，如果美国盟友阿曼在重新开放霍尔木兹海峡问题上支持伊朗，他将对其进行攻击。 周四，当特朗普被问到是否会接受允许伊朗和海湾国家控制该水道的短期协议时，特朗普表示阿曼必须“守规矩”，否则他将“炸毁它们”。 “不，海峡将对所有人开放，”特朗普在白宫举行的内阁会议上对记者表示。 “这是国际水域，阿曼会像其他国家一样行事，否则我们将不得不炸毁它们。他们明白这一点，他们会没事的。” 当法新社询问特朗普是否说错并且有意提及伊朗而不是阿曼时，白宫没有立即回应。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 阿曼是美国的重要盟友，曾试图调解中东战争，但其自身却受到德黑兰的攻击。 美国国务院随后发布了特朗普有关阿曼评论的片段和文字记录，但没有任何更正或澄清。 这位79岁的老人早些时候似乎确实把伊朗和委内瑞拉混为一谈，他说这个南美国家——其领导人尼古拉斯·马杜罗在一月份被美军推翻——“不再拥有海军，不再拥有空军”。 特朗普多次使用这样的措辞来指代美国和以色列于 2 月 28 日袭击的伊朗。 伊朗表示，它试图在霍尔木兹海峡强加新的现实，世界上五分之一的石油通常通过该海峡，对过境船只征收通行费，并与阿曼分享收入。 就在特朗普表示即将达成协议几天后，结束中东战争和重新开放海峡的谈判似乎再次陷入僵局，特朗普变得越来越沮丧。 早些时候，伊朗表示，随着双方逐步达成协议，伊朗不太可能与美国重新开战，但特朗普表示，他对伊朗的最新提议并不满意。 这位美国领导人警告说，如果没有达成更好的安排，他可能被迫“完成工作”，尽管对重新开放重要的霍尔木兹海峡贸易路线的和平协议的乐观情绪导致油价暴跌。 自 4 月 8 日停火以来，战斗已暂停，旨在结束冲突并恢复通过被封锁水道的贸易的谈判屡屡遇到障碍，导致全球经济因骚乱而动摇。 但据塔斯尼姆通讯社报道，伊朗革命卫队高级官员穆罕默德·阿克巴尔扎德表示，“由于敌人虚弱”，重新爆发战争的可能性很低，但他警告说，如果发生袭击，军方将“装满弹药等待”。 与此同时，特朗普在一份..."
           },
           "reflection": {
@@ -345,73 +477,6 @@
             "themeZh": "追求和睦"
           },
           "aiVerseId": "rom_12_18",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cj3pgrpmlklo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg",
-          "publishedAt": "2026-05-27T20:26:03.000Z",
-          "title": {
-            "en": "Israel issues evacuation order for swathes of southern Lebanon",
-            "zh": "以色列向黎巴嫩南部大片地区发出撤离令"
-          },
-          "summary": {
-            "en": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The Israeli military has issued evacuation orders for large parts of southern Lebanon, declaring the areas \"combat zones\" ahead of fresh strikes against Hezbollah.\n\nThe Israel Defense Forces (IDF) urged residents to move north of the Zahrani River, about 40km (25 miles) from the border. The IDF said it would act \"with extreme force\", accusing Hezbollah of repeated ceasefire violations.\n\nIt is the largest evacuation order since the ceasefire took effect on 17 April, covering about 14% of Lebanese territory.\n\nEarlier on Wednesday, Israel carried out strikes on the southern city of Tyre. Hezbollah, which itself accused Israel of violating the ceasefire, said its fighters had clashed with Israeli troops.\n\nWednesday's strikes came after Israeli Prime Minister Benjamin Netanyahu announced an expansion of its ground operation following Hezbollah drone attacks on troops occupying part of southern Lebanon and on civilians in northern Israel.\n\nThe IDF has issued nine evacuation warnings in the past 24 hours, fuelling fears of a major escalation along the Israel-Lebanon border and the prospect of renewed mass displacement.\n\nWednesday's order for Tyre, one of the biggest cities in southern Lebanon, was swiftly followed by air strikes. Residents watched with horror from balconies, filming on their phones, as Israeli forces hit the city.\n\nRida, 52, owned a cafe near the beach that was destroyed alongside his home in an air strike minutes before the ceasefire started last month. He previously told the BBC he would never leave Tyre.\n\nNow, the feeling is different. \"I went to the port next to the beach and a lot of people are there,\" Rida said over the phone on Wednesday. \"People packed up their stuff. Everyone is scared.\"\n\nThe later evacuation order for areas south of the Zahrani River covers about 300 towns and villages. Many residents, including those already displaced from other parts of southern Lebanon, have nowhere obvious to go.\n\nOfficials and humanitarian workers said Sidon, a coastal city south of the capital Beirut, could no longer absorb the growing influx of displaced families. They urged civilians to relocate to the Beqaa Valley and Mount Lebanon further east.\n\nAlso on Wednesday, Lebanese media reported a wave of Israeli strikes across the south and the eastern Bekaa Valley, with four people killed in the towns of Choukine and Nabatieh.\n\nThe latest bombardment followed a devastating 24-hour period that saw more than 150 Israeli air strikes tear through some 50 towns and villages across southern Lebanon and the Bekaa Valley.\n\nLebanon's health ministry said at least 31 people were killed on Tuesday, including 15 in the town of Burj al-Shamali, east of Tyre.\n\nHezbollah said on Wednesday that its fighters had clashed with Israeli forces \"at point-blank...",
-            "zh": "以色列军方已向黎巴嫩南部大部分地区发出疏散命令，并在对真主党发动新一轮袭击之前宣布这些地区为“战斗区”。 以色列国防军 (IDF) 敦促居民迁移至距离边境约 40 公里（25 英里）的扎赫拉尼河以北。以色列国防军表示将“以极端武力”采取行动，并指责真主党一再违反停火协议。 这是自4月17日停火生效以来最大规模的疏散令，覆盖黎巴嫩约14%的领土。 周三早些时候，以色列对南部城市提尔进行了袭击。真主党本身指责以色列违反停火协议，并表示其武装分子与以色列军队发生了冲突。 周三的袭击发生之前，以色列总理本杰明·内塔尼亚胡宣布扩大地面行动，此前真主党无人机袭击了占领黎巴嫩南部部分地区的部队和以色列北部的平民。 以色列国防军在过去 24 小时内发布了 9 次疏散警告，加剧了人们对以色列和黎巴嫩边境局势严重升级以及可能再次出现大规模流离失所的担忧。 周三对黎巴嫩南部最大城市之一提尔下达命令后，立即进行了空袭。当以色列军队袭击这座城市时，居民们在阳台上惊恐地用手机拍摄。 52 岁的里达在海滩附近拥有一家咖啡馆，在上个月停火开始前几分钟的一次空袭中，这家咖啡馆在他家旁边被摧毁。他此前曾告诉 BBC，他永远不会离开提尔。 现在，感觉不一样了。 “我去了海滩旁边的港口，那里有很多人，”里达周三在电话中说。 “人们收拾好东西。每个人都很害怕。” 随后扎赫拉尼河以南地区的疏散令涵盖约 300 个城镇和村庄。许多居民，包括那些已经从黎巴嫩南部其他地区流离失所的人，无处可去。 官员和人道主义工作者表示，首都贝鲁特以南的沿海城市西顿无法再容纳不断涌入的流离失所家庭。他们敦促平民搬迁到更东的贝卡谷地和黎巴嫩山。 同样在周三，黎巴嫩媒体报道称，以色列对贝卡谷地南部和东部发动了一波袭击，造成乔金镇和纳巴蒂耶镇四人死亡。 在最近的轰炸之前，以色列对黎巴嫩南部和贝卡谷地的约 50 个城镇和村庄进行了 24 小时毁灭性的空袭，超过 150 次。 黎巴嫩卫生部表示，周二至少有 31 人死亡，其中 15 人死于提尔以东的 Burj al-Shamali 镇。 真主党周三表示，其武装分子与以色列军队“近距离发生冲突......"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cdxpdex062yo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6c52/live/87bd2cd0-59e9-11f1-b682-cf91850925ea.jpg",
-          "publishedAt": "2026-05-27T18:50:50.000Z",
-          "title": {
-            "en": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-            "zh": "刚果民主共和国面临疾病与冲突的“灾难性碰撞”，世卫组织警告"
-          },
-          "summary": {
-            "en": "The World Health Organization (WHO) has warned that the Democratic Republic of Congo is facing a \"catastrophic collision\" of disease and conflict. WHO Director-General Tedros Adhanom Ghebreyesus stated that ongoing fighting in the country is hindering efforts to control the spread of Ebola.",
-            "zh": "世界卫生组织（WHO）警告称，刚果民主共和国正面临疾病与冲突的“灾难性碰撞”。世卫组织总干事谭德塞表示，该国持续的战火阻碍了遏制埃博拉疫情蔓延的努力。"
-          },
-          "body": {
-            "en": "Ongoing conflict in the Democratic Republic of Congo is hampering the Ebola outbreak response, the head of the World Health Organization (WHO) has warned.\n\nDr Tedros Adhanom Ghebreyesus said Ituri province in the east of the country was at the centre of a \"catastrophic collision of disease and conflict\".\n\nIn a statement posted on X, Tedros said the WHO could not \"build community trust or isolate the sick while bombs are falling\". He is due to travel to DR Congo this week to spearhead efforts to contain the virus.\n\nMeanwhile Uganda has announced it is temporarily closing its border with DR Congo. There have been 220 suspected deaths since the outbreak was declared.\n\nAid workers have been struggling as travel is difficult because of poor road conditions while conflict and mass displacement have also weakened the health system - as have international aid cuts.\n\nIturi, where most of the cases have been reported, has been under military rule since 2021, when the civilian authority was replaced by a military general in an attempt to neutralise dozens of armed groups that operate there.\n\nTedros said stopping transmission in the region \"depends entirely on humanitarian access\".\n\n\"Yet ongoing clashes are driving mass displacement, pushing exposed contacts into overcrowded camps and severing critical containment corridors,\" he added.\n\n\"Frontline workers are risking everything, while attacks on health facilities make tracking cases and their contacts nearly impossible.\"\n\nHe called on all parties to agree to an immediate ceasefire to allow medical teams safe access.\n\nConcerns over the possible spread of the Ebola outbreak have spurred more countries into imposing strict travel restrictions.\n\nOn Wednesday, Uganda said its border closure would take effect immediately. Only essential workers - including medical and humanitarian workers, food transporters and security personnel - would be allowed to cross under strict conditions.\n\nCanada has announced a 90-day entry ban for residents from DR Congo and neighbouring Uganda and South Sudan. The Bahamas also imposed strict rules meaning foreign nationals from those countries face quarantine or isolation measures.\n\nLast week the US banned non-citizens who had travelled to any of the three countries from entering.\n\nThe Congolese health authorities say around 1,000 people are currently showing symptoms consistent with Ebola.\n\nThe DR Congo country director for the medical charity Médecins Sans Frontières (MSF) has told the BBC it will take several weeks to get proper infrastructure in place to contain the outbreak.\n\nThis outbreak is a rare strain of Ebola, known as Bundibugyo, for which there are no vaccines or medicines.\n\nDR Congo health authorities have been struggling to confirm cases of the 220 deaths. Only 17 people...",
-            "zh": "世界卫生组织（WHO）负责人警告称，刚果民主共和国持续不断的冲突正在阻碍埃博拉疫情应对工作。 谭德塞博士表示，该国东部的伊图里省正处于“疾病与冲突灾难性碰撞”的中心。 谭德塞在 X 上发布的一份声明中表示，世卫组织无法“在炸弹落下时建立社区信任或隔离病人”。他将于本周前往刚果民主共和国，带头努力遏制该病毒。 与此同时，乌干达宣布暂时关闭与刚果民主共和国的边境。自宣布疫情爆发以来，已有 220 人疑似死亡。 由于路况不佳，出行困难，援助人员一直在苦苦挣扎，而冲突和大规模流离失所也削弱了卫生系统——国际援助削减也是如此。 报告大多数病例的伊图里自 2021 年以来一直处于军事统治之下，当时一名军事将领取代了文职当局，试图消灭在那里活动的数十个武装团体。 谭德塞表示，阻止该地区的传播“完全取决于人道主义准入”。 他补充说：“然而，持续不断的冲突正在导致大规模流离失所，将暴露的接触者推入过度拥挤的营地，并切断关键的隔离走廊。” “前线工作人员冒着一切风险，而对医疗设施的袭击使得追踪病例及其接触者几乎不可能。” 他呼吁各方同意立即停火，以便医疗队安全进入。 对埃博拉疫情可能蔓延的担忧促使更多国家实施严格的旅行限制。 乌干达周三表示，其边境关闭将立即生效。只有必要的工作人员——包括医疗和人道主义工作者、食品运输人员和安全人员——才能在严格的条件下被允许过境。 加拿大宣布对刚果民主共和国以及邻国乌干达和南苏丹的居民实施为期 90 天的入境禁令。巴哈马还实施了严格的规定，这意味着来自这些国家的外国人面临检疫或隔离措施。 上周，美国禁止曾去过这三个国家中任何一个国家的非公民入境。 刚果卫生当局表示，目前约有 1,000 人出现与埃博拉病毒相符的症状。 医疗慈善机构无国界医生组织（MSF）刚果民主共和国国家主任告诉英国广播公司，需要几周的时间才能建立适当的基础设施来遏制疫情。 此次爆发的是一种罕见的埃博拉病毒株，称为本迪布焦（Bundibugyo），目前尚无疫苗或药物。 刚果民主共和国卫生当局一直在努力确认 220 例死亡病例。只有17个人..."
-          },
-          "reflection": {
-            "en": "The tragic situation in DR Congo, where conflict prevents aid from reaching those suffering from Ebola, highlights a profound human struggle. It reminds us that sometimes the forces driving division and suffering are deeper than mere human disagreement, hindering even the most basic acts of compassion.",
-            "zh": "刚果民主共和国的悲剧性局势——冲突阻碍了埃博拉患者获得援助——凸显了人类深刻的挣扎。它提醒我们，有时驱动分裂和苦难的力量，远超人类简单的分歧，甚至阻碍了最基本的怜悯行动。"
-          },
-          "verse": {
-            "reference": "Ephesians 6:12",
-            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
-            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
-            "themeEn": "Not against flesh and blood",
-            "themeZh": "并非与血气争战"
-          },
-          "aiVerseId": "eph_6_12",
           "translationState": "localized"
         },
         {
@@ -477,72 +542,6 @@
             "textZh": "无智谋，民就败落；谋士多，人便安居。",
             "themeEn": "Wise counsel",
             "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c74dy9jw1q9o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b406/live/4cceef20-59ec-11f1-8b8c-6d33e1d5abb6.jpg",
-          "publishedAt": "2026-05-27T17:37:33.000Z",
-          "title": {
-            "en": "Trump says US 'not satisfied' with Iran deal yet",
-            "zh": "特朗普称美国对伊朗协议“不满意”"
-          },
-          "summary": {
-            "en": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "US President Donald Trump has said he is \"not satisfied\" yet with the terms of the deal being negotiated with Iran.\n\nHe said Tehran was \"very much intent\" on reaching an agreement to end the conflict, but added \"so far they haven't gotten there\", repeating Washington's willingness to resume strikes if one is not reached.\n\nHis remarks came after Iranian state TV reported what it said were details of a draft agreement, which included reopening the Strait of Hormuz and the withdrawal of US forces from the region.\n\nBoth sides signalled progress had been made towards a deal late last week, prompting speculation an announcement was close.\n\nHowever, Tehran soon cautioned a deal was \"not imminent\" while Trump said he had instructed his negotiators \"not to rush into\" one.\n\nSpeaking to reporters at a cabinet meeting on Wednesday, the US president said: \"They just want to make a deal - I don't think they have a choice.\"\n\n\"So far, they haven't gotten there and we're not satisfied with it, but we will be. Either that or we'll have to just finish the job.\"\n\nSecretary of State Marco Rubio said there had been \"some progress and some interest\" in negotiations, adding: \"We'll see over the next few hours and days whether progress could be made.\"\n\nWhile both Trump and Rubio continued to express optimism that talks were progressing well, neither gave any details of which specific disagreements continued between the two sides.\n\nTrump did not directly address the purported draft agreement reported by Iranian media earlier on Wednesday, which included a claim that the US would lift its naval blockade of Iran's ports.\n\nIt also claimed that in return, Iran would restore commercial traffic through the Strait of Hormuz to pre-war levels within a month, with the management and routing of vessels to be handled by Iran and Oman.\n\nThe report did not mention Iran giving up its nuclear ambitions or handing over its stockpile of highly enriched uranium.\n\nAsked whether he would accept such terms, Trump told reporters \"nobody\" would exercise control over the Strait of Hormuz and that it would open \"immediately\".\n\nThe president also denied reports that he was considering easing American sanctions on Tehran, or was willing to allow Russia and China to remove Iran's highly enriched uranium - both of which would likely draw political criticism in the US.\n\nThe US and Israel launched wide-ranging strikes against Iran on 28 February, sparking conflict across the Middle East.\n\nIran responded by attacking Israel and US-allied states in the Gulf, and effectively closed the Strait of Hormuz shipping channel, which sent global oil prices soaring.\n\nA ceasefire was agreed on 8 April which has largely been observed by both sides, but talks to resolve the conflict has stalled in recent weeks.\n\nBy...",
-            "zh": "美国总统唐纳德·特朗普表示，他对与伊朗谈判的协议条款“不满意”。 他表示，德黑兰“非常愿意”达成一项结束冲突的协议，但补充说，“到目前为止，他们还没有实现这一目标”，并重申，如果达不成协议，华盛顿愿意恢复打击。 在他发表上述言论之前，伊朗国家电视台报道了一份协议草案的细节，其中包括重新开放霍尔木兹海峡以及美军从该地区撤军。 双方上周晚些时候均表示已在达成协议方面取得进展，引发外界猜测宣布协议已接近完成。 然而，德黑兰很快警告称，“不会立即达成”协议，而特朗普则表示，他已指示谈判代表“不要仓促达成”协议。 美国总统在周三的内阁会议上对记者表示：“他们只是想达成协议——我认为他们别无选择。” “到目前为止，他们还没有做到这一点，我们对此并不满意，但我们会的。要么那样，要么我们就必须完成工作。” 国务卿马可·卢比奥表示，谈判取得了“一些进展和一些兴趣”，并补充道：“我们将在接下来的几小时和几天内看看是否能够取得进展。” 尽管特朗普和卢比奥都继续对谈判进展顺利表示乐观，但两人都没有透露双方之间仍存在哪些具体分歧的细节。 特朗普没有直接回应伊朗媒体周三早些时候报道的所谓协议草案，其中包括美国将解除对伊朗港口的海上封锁的说法。 它还声称，作为回报，伊朗将在一个月内将霍尔木兹海峡的商业交通恢复到战前水平，船只的管理和路线将由伊朗和阿曼负责。 该报告没有提到伊朗放弃其核野心或移交其高浓缩铀库存。 当被问及是否会接受此类条款时，特朗普告诉记者，“没有人”会控制霍尔木兹海峡，该海峡将“立即”开放。 总统还否认了有关他正在考虑放松美国对德黑兰制裁，或愿意允许俄罗斯和中国移除伊朗高浓缩铀的报道——这两者都可能会引起美国的政治批评。 2月28日，美国和以色列对伊朗发动大范围打击，引发中东冲突。 伊朗的回应是攻击以色列和美国在海湾的盟国，并有效关闭霍尔木兹海峡航运通道，导致全球油价飙升。 4 月 8 日达成停火协议，双方基本上都遵守了停火协议，但解决冲突的谈判最近几周陷入僵局。 经过..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-videos-cewpqy948ero-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/videos/cewpqy948ero?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5038/live/01c9b0c0-59f9-11f1-b682-cf91850925ea.jpg",
-          "publishedAt": "2026-05-27T17:07:37.000Z",
-          "title": {
-            "en": "Watch: Moment rescuers find five people trapped in Laos cave",
-            "zh": "观看：救援人员在老挝洞穴中找到被困五人的瞬间"
-          },
-          "summary": {
-            "en": "Rescuers in Laos have found five villagers alive inside a flooded cave after they were trapped for a week.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Rescuers in Laos have found five villagers alive inside a flooded cave after they were trapped for a week following heavy rain and landslides.\n\nFootage shared by the rescuers showed cave divers crawling through narrow, muddy passageways.\n\nThe seven people were part of a group of villagers who had gone into the cave in search of gold deposits and wildlife, but could not get out as the cave's entrance was blocked.\n\nA North Korean women's football team played in South Korea marking the first time athletes from the North have crossed the border in nearly 8 years.\n\nPakistan says it hit 'military and terrorist infrastructure' - but the UN and victims' families reject this claim.\n\nOfficials said the group had been hiking up the active volcano despite a climbing ban.\n\nA glamping facility was destroyed by the raging torrent in Bogor, West Java on 4 May.\n\nAs the US-Iran has sent the world scrambling for fuel, China is positioned to benefit from its rapid shift into electric vehicles.\n\nThe BBC’s Laura Bicker explains the economic costs and possible political wins for China brought on by the war.\n\nThousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.\n\nRobots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.\n\nThe escape of Neukgu, a two-year-old wolf, from a zoo in the city of Daejon captured national attention.\n\nThe Philippine President challenged anyone questioning his fitness to join him in the gym.\n\nK-pop stars BTS kicked off their marathon world tour in South Korea, with a heavy nod to their new album Arirang.\n\nThe megastars kick off their grandest tour, the largest in K-pop history, in Seoul on Thursday after a nearly four-year hiatus.\n\nBBC News Asia Business Correspondent Suranajana Tewari spoke to people taking to the streets of Manila.\n\nSome 260,000 fans are expected to watch BTS perform together on Saturday for the first time since 2022.\n\nA young Japanese macaque at the Ichikawa City Zoo in Japan went viral, after videos showed him playing with a soft toy that zookeepers gave him for comfort.\n\nA court is due to deliver its verdict in the insurrection trial of Yoon Suk Yeol.\n\nThe BBC's Arunoday Mukharji explains why India needs to capitalise on the momentum.\n\nA Lakshmi goddess shrine at Bangkok shopping mall has become a place where young people come to pray for love.\n\nBBC South Asia correspondent Azadeh Moshiri visited Sheikh Hasina's former residence which is now a memorial for the student protesters killed in the 2024 uprising.\n\nIt's the first election since the 2024 Gen Z uprising that toppled Bangladesh's long-serving prime minister Sheikh Hasina.",
-            "zh": "老挝的救援人员在一个被洪水淹没的洞穴里发现了五名幸存者，他们在大雨和山体滑坡后被困一周。 救援人员分享的视频显示，洞穴潜水员爬过狭窄、泥泞的通道。 这七人是一群村民的一部分，他们进入山洞寻找金矿和野生动物，但由于山洞入口被封锁而无法出去。 朝鲜女子足球队在韩国比赛，这是近八年来朝鲜运动员首次跨越边境。 巴基斯坦称其袭击了“军事和恐怖主义基础设施”，但联合国和受害者家属否认了这一说法。 官员们表示，尽管有攀登禁令，该组织仍在攀登活火山。 5 月 4 日，西爪哇省茂物市的一处豪华露营设施被汹涌的洪流摧毁。 随着美国和伊朗的冲突导致世界争夺燃料，中国有望从其向电动汽车的快速转变中受益。 英国广播公司 (BBC) 的劳拉·比克 (Laura Bicker) 解释了战争给中国带来的经济成本和可能的政治胜利。 马来西亚沙巴州发生火灾，烧毁了约 1,000 所房屋，导致数千人流离失所。 周日，机器人在北京参加了一场半程马拉松比赛，获胜的机器将人类对手远远甩在身后。 两岁大的狼 Neukgu 从大田市动物园逃跑引起了全国关注。 菲律宾总统要求任何质疑他健康状况的人都和他一起去健身房。 韩国流行歌星防弹少年团 (BTS) 在韩国拉开了马拉松世界巡演的序幕，向他们的新专辑《阿里郎》致敬。 经过近四年的中断后，这些巨星将于周四在首尔开始他们最盛大的巡演，这也是韩国流行音乐历史上规模最大的巡演。 BBC 新闻亚洲商业记者 Suranajana Tewari 向走上马尼拉街头的人们发表讲话。 周六，预计将有约 26 万粉丝观看 BTS 自 2022 年以来的首次共同表演。 日本市川市动物园的一只年轻日本猕猴在网上疯传，视频显示它正在玩动物园管理员为了安慰它而送给它的毛绒玩具。 法院即将对尹锡烈叛乱案作出判决。 BBC 的阿鲁诺迪·穆克哈吉 (Arunoday Mukharji) 解释了为什么印度需要利用这一势头。 曼谷购物中心的一座拉克希米女神神社已成为年轻人前来祈求爱情的地方。 BBC 南亚记者阿扎德·莫希里 (Azadeh Moshiri) 参观了谢赫·哈西娜 (Sheikh Hasina) 的故居，这里现在是纪念 2024 年起义中遇害的学生抗议者的纪念碑。 这是自 2024 年 Z 世代起义推翻孟加拉国长期任职的总理谢赫·哈西娜以来的首次选举。"
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
           },
           "translationState": "fallback"
         },
@@ -626,12 +625,12 @@
             "zh": "老挝洞穴中被困的五人被发现还活着，但救援人员表示救援将很复杂"
           },
           "summary": {
-            "en": "Rescue teams are still searching for two remaining people from the group.",
+            "en": "Rescue teams are still searching for the two remaining people from the group.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Specialist divers have found five of seven people trapped for a week in a flooded cave in Laos alive, with one rescuer saying their extraction from its terminal chamber was the next challenge.\n\nThe seven Laotians entered the cave in central Xaysomboun province, northeast of the capital Vientiane, on 20 May, according to state media.\n\nThey were searching for gold but got trapped inside the cave after heavy rain triggered flash flooding, blocking their exit, it said.\n\nFive men with their clothes, hands and faces covered in mud huddled in a tight passage of the cave, while two rescuers in dive gear and standing in stomach-deep water filmed them, a video posted by Thai rescuer Chakkit Taengtan showed.\n\n\"We found five Laotians. Everybody is safe. We'll continue to provide help,\" Thai rescue diver Norrased Palasing said in the video.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nFinnish diver Mikko Paasi, also seen in the cave footage, said he and Norrased needed to \"dive straight back\" and bring the men more supplies to gain strength and prepare to exit the cave.\n\n\"This is only a brief relief as the five survivors are still in the terminal chamber, all healthy and in good spirits, but the extraction is still ahead and it ain't going to be easy,\" said Paasi in a social media post.\n\nState-run Lao Security News said rescuers would now bring food and medicine to the five survivors and continue searching for the two others who are missing.\n\nOther Laotian and Thai rescue groups also posted saying five people were found alive.\n\nPaasi said earlier on Wednesday that rescuers were \"racing against time\" to extract the seven from the cave, which he called an \"abandoned gold mine\".\n\nRescuers needed to \"navigate hundreds of meters of constant restrictions, flood waters, collapse hazards and high risk of contaminated air quality\" inside the cave, he said in a Facebook post.\n\nThe terminal chamber, where the five were found, was around 300 metres from the exit, he said.\n\nThe seven had entered the cave \"with resources to stay sub-terrain for several days\", the diver added.\n\nNorrased and Paasi, who arrived at the Laos cave on Monday, were among the rescuers who aided the dramatic 2018 retrieval of a youth football team from a flooded cave in neighbouring Thailand.\n\nThe \"Wild Boars\" team spent nearly three weeks trapped by flash floods in the Tham Luang cave complex in Thailand's north.\n\nThe Laos cave system, located in a remote area, extends deep underground, with multiple levels and narrow passages.\n\nAuthorities and villagers have worked to pump water out, but rescue teams had not been able to reach the group earlier this week, according to state media.\n\nBy Wednesday morning, the...",
-            "zh": "专业潜水员发现，在老挝一个被洪水淹没的洞穴中被困一周的七人中，有五人还活着，一名救援人员表示，他们从洞穴终端室中撤离是下一个挑战。 据官方媒体报道，7 名老挝人于 5 月 20 日进入首都万象东北部赛宋本省中部的洞穴。 据称，他们当时正在寻找黄金，但由于大雨引发山洪，封锁了他们的出口，他们被困在山洞里。 泰国救援人员 Chakkit Taengtan 发布的一段视频显示，五名男子的衣服、手和脸都沾满了泥，挤在洞穴狭窄的通道里，两名身穿潜水装备的救援人员站在齐腹深的水中拍摄了他们的视频。 “我们找到了五名老挝人。每个人都很安全。我们将继续提供帮助，”泰国救援潜水员诺拉塞德·帕拉辛在视频中说。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 芬兰潜水员米科·帕西（Mikko Paasi）也在洞穴镜头中出现，他说他和诺拉塞德需要“直接潜回去”，并为队员们带来更多补给品，以增强体力并准备离开洞穴。 帕西在社交媒体上发帖称：“这只是短暂的缓解，因为五名幸存者仍在临终室，身体健康，精神状态良好，但救援仍在进行中，这并不容易。” 国营老挝安全新闻称，救援人员现在将为五名幸存者提供食物和药品，并继续寻找另外两人失踪。 其他老挝和泰国救援组织也发帖称，已发现五人生还。 帕西周三早些时候表示，救援人员正在“与时间赛跑”，从他称之为“废弃金矿”的洞穴中救出七人。 他在脸书上发帖称，救援人员需要在洞穴内“穿越数百米的持续限制、洪水、崩塌危险和空气质量污染的高风险”。 他说，发现五人的候机室距离出口约 300 米。 潜水员补充说，七人已进入洞穴，“拥有在地下停留数天的资源”。 Norrased 和 Paasi 于周一抵达老挝洞穴，他们是 2018 年戏剧性地帮助从邻国泰国的一个被洪水淹没的洞穴中救出一支青年足球队的救援人员之一。 “野猪”队在泰国北部的 Tham Luang 洞穴群中被山洪困住了近三个星期。 老挝的洞穴系统地处偏远，深入地下，层次多，通道狭窄。 据官方媒体报道，当局和村民已努力将水抽出，但救援队本周早些时候未能到达该组织。 到周三早上，..."
+            "en": "Specialist divers have found five of seven people trapped for a week in a flooded cave in Laos alive, with one rescuer saying their extraction from its terminal chamber was the next challenge.\n\nThe seven Laotians entered the cave in central Xaysomboun province, northeast of the capital Vientiane, on 20 May, according to state media.\n\nThey were searching for gold but got trapped inside the cave after heavy rain triggered flash flooding, blocking their exit, it said.\n\nFive men with their clothes, hands and faces covered in mud huddled in a tight passage of the cave, while two rescuers in dive gear and standing in stomach-deep water filmed them, a video posted by Thai rescuer Chakkit Taengtan showed.\n\n\"We found five Laotians. Everybody is safe. We'll continue to provide help,\" Thai rescue diver Norrased Palasing said in the video.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nFinnish diver Mikko Paasi, also seen in the cave footage, said he and Norrased needed to \"dive straight back\" and bring the men more supplies to gain strength and prepare to exit the cave.\n\n\"This is only a brief relief as the five survivors are still in the terminal chamber, all healthy and in good spirits, but the extraction is still ahead and it ain't going to be easy,\" said Paasi in a social media post.\n\nState-run Lao Security News said rescuers would now bring food and medicine to the five survivors and continue searching for the two others who are missing.\n\nOther Laotian and Thai rescue groups also posted saying five people were found alive.\n\nPaasi said earlier on Wednesday that rescuers were \"racing against time\" to extract the seven from the cave, which he called an \"abandoned gold mine\".\n\nRescuers needed to \"navigate hundreds of meters of constant restrictions, flood waters, collapse hazards and high risk of contaminated air quality\" inside the cave, he said in a Facebook post.\n\nThe terminal chamber, where the five were found, was around 300m from the exit, he said.\n\nThe seven had entered the cave \"with resources to stay sub-terrain for several days\", the diver added.\n\nNorrased and Paasi, who arrived at the Laos cave on Monday, were among the rescuers who aided the dramatic 2018 retrieval of a youth football team from a flooded cave in neighbouring Thailand.\n\nThe \"Wild Boars\" team spent nearly three weeks trapped by flash floods in the Tham Luang cave complex in Thailand's north.\n\nThe Laos cave system, located in a remote area, extends deep underground, with multiple levels and narrow passages.\n\nAuthorities and villagers have worked to pump water out, but rescue teams were unable to reach the group earlier this week, according to state media.\n\nBy Wednesday morning, the water level...",
+            "zh": "专业潜水员发现，在老挝一个被洪水淹没的洞穴中被困一周的七人中，有五人还活着，一名救援人员表示，他们从洞穴终端室中撤离是下一个挑战。 据官方媒体报道，7 名老挝人于 5 月 20 日进入首都万象东北部赛宋本省中部的洞穴。 据称，他们当时正在寻找黄金，但由于大雨引发山洪，封锁了他们的出口，他们被困在山洞里。 泰国救援人员 Chakkit Taengtan 发布的一段视频显示，五名男子的衣服、手和脸都沾满了泥，挤在洞穴狭窄的通道里，两名身穿潜水装备的救援人员站在齐腹深的水中拍摄了他们的视频。 “我们找到了五名老挝人。每个人都很安全。我们将继续提供帮助，”泰国救援潜水员诺拉塞德·帕拉辛在视频中说。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 芬兰潜水员米科·帕西（Mikko Paasi）也在洞穴镜头中出现，他说他和诺拉塞德需要“直接潜回去”，并为队员们带来更多补给品，以增强体力并准备离开洞穴。 帕西在社交媒体上发帖称：“这只是短暂的缓解，因为五名幸存者仍在临终室，身体健康，精神状态良好，但救援仍在进行中，这并不容易。” 国营老挝安全新闻称，救援人员现在将为五名幸存者提供食物和药品，并继续寻找另外两人失踪。 其他老挝和泰国救援组织也发帖称，已发现五人生还。 帕西周三早些时候表示，救援人员正在“与时间赛跑”，从他称之为“废弃金矿”的洞穴中救出七人。 他在脸书上发帖称，救援人员需要在洞穴内“穿越数百米的持续限制、洪水、崩塌危险和空气质量污染的高风险”。 他说，发现五人的终点站距离出口约 300m。 潜水员补充说，七人已进入洞穴，“拥有在地下停留数天的资源”。 Norrased 和 Paasi 于周一抵达老挝洞穴，他们是 2018 年戏剧性地帮助从邻国泰国的一个被洪水淹没的洞穴中救出一支青年足球队的救援人员之一。 “野猪”队在泰国北部的 Tham Luang 洞穴群中被山洪困住了近三个星期。 老挝的洞穴系统地处偏远，深入地下，层次多，通道狭窄。 据官方媒体报道，当局和村民已努力将水抽出，但救援队本周早些时候无法到达该组织。 到周三早上，水位..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -647,72 +646,70 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-sbs-com-au-news-article-israel-says-it-killed-new-chief-of-hamas-arm",
+          "id": "www-sbs-com-au-news-article-outrage-as-new-zealand-scraps-its-standalone",
           "section": "world",
           "source": "SBS News World",
           "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/israel-says-it-killed-new-chief-of-hamas-armed-wing-dead-in-strikes-on-gaza/1jz9rqlng",
-          "image": "https://assets.sbs.com.au/dims4/default/4dc4f92/2147483647/strip/false/crop/6720x3088+0+696/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F63%2F0c%2F0702f097495c81128e946214018e%2F20260526130489871440-original.jpg",
-          "publishedAt": "2026-05-27T08:20:15.000Z",
+          "link": "https://www.sbs.com.au/news/article/outrage-as-new-zealand-scraps-its-standalone-environment-department/0ma4q4mz0",
+          "image": "https://assets.sbs.com.au/dims4/default/3310dcf/2147483647/strip/false/crop/5388x2476+0+277/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F34%2Fc2%2Fbed7103447b78f02f0f7b40f8b5c%2Fgettyimages-2237266184.jpg",
+          "publishedAt": "2026-05-27T08:32:44.000Z",
           "title": {
-            "en": "Reported chief of Hamas' armed wing killed in strikes on Gaza, Israel says",
-            "zh": "以色列称哈马斯武装派别据报有领导人在加沙袭击中丧生"
+            "en": "'Shameful': Outrage as New Zealand scraps its standalone environment department",
+            "zh": "“可耻”：新西兰废除独立环境部门引发愤怒"
           },
           "summary": {
-            "en": "Officials say Mohammed Odeh reportedly became the second leader of Hamas' armed wing to die in Israeli strikes this month.",
-            "zh": "官员称，据报穆罕默德·奥德成为本月第二位在以色列袭击中丧生的哈马斯武装派别领导人。"
+            "en": "Legal changes will now see the environment managed under a \"mega-ministry\" covering housing, urban development, and transport.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Israel said on Wednesday it had killed the new head of Hamas's armed wing in Gaza, Mohammed Odeh, after killing his predecessor earlier this month despite an ongoing ceasefire.\n\nIsraeli defence minister Israel Katz said the \"commander of the armed wing of the Hamas terrorist organisation in Gaza was eliminated yesterday and sent to meet his associates in the depths of hell\".\n\nIn a joint statement, the Israeli military and the Shin Bet domestic security agency said Odeh had been appointed head of the Ezzedine Al-Qassam Brigades after the 15 May killing of Ezzedine al-Haddad.\n\nA Hamas source told the Agence France-Presse (AFP) news agency that Odeh's funeral had started in Gaza. The group has never officially announced him as head of the Ezzedine Al-Qassam Brigades.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"We committed ourselves to eliminating everyone who led the 7 October massacre, and that is what we will do: they are all marked for death, wherever they may be,\" Katz said in his post on X.\n\nHe also repeated Israel's goal of ending Hamas's rule over the Palestinian territory and alluded to a plan for the forced displacement of its residents.\n\n\"The plan for voluntary migration from Gaza will also be implemented &#x2014; everything will be done at the right time and in the right way,\" he said.\n\nThe displacement of Gazans is a project backed by far-right Israeli finance minister Bezalel Smotrich. United States President Donald Trump previously expressed support for the idea before ditching it.\n\nIn February, the United Nations High Commissioner for Human Rights, Volker Turk, denounced plans \"aimed at making a permanent demographic change in Gaza\".\n\nIn the aftermath of Hamas's 7 October 2023 attack on Israel, Israeli Prime Minister Benjamin Netanyahu pledged to target and eliminate the leaders behind it.\n\nThe attack resulted in the deaths of 1,221 people, according to an AFP tally based on official Israeli figures.\n\nIsrael's retaliatory response in Gaza has killed at least 72,803 people, according to the territory's health ministry.\n\nIsrael has previously killed Hamas's former political chief Ismail Haniyeh and Yahya Sinwar, its Gaza chief who was widely regarded as the mastermind of the October 7 attack.\n\nIt also killed Mohammed Deif, the longtime commander of Hamas's armed wing, known as the Ezzedine Al-Qassam Brigades, as well as Mohammed Sinwar, who succeeded his brother Yahya Sinwar, as Gaza chief.\n\nIsraeli strikes have also targeted Hamas operatives in Lebanon and senior Iran-backed Hezbollah commanders allied with the group, including former Hezbollah chief Hassan Nasrallah.\n\nFor the latest from SBS News, download our app and subscribe to our...",
-            "zh": "以色列周三表示，在本月初杀死哈马斯加沙武装派别新任领导人穆罕默德·奥德之后，以色列又杀死了他的前任，尽管停火仍在进行中。 以色列国防部长伊斯雷尔·卡茨表示，“加沙哈马斯恐怖组织武装部队的指挥官昨天被消灭，并被派往地狱深处与他的同伙会面”。 以色列军方和辛贝特国内安全机构在一份联合声明中表示，在 5 月 15 日埃泽丁·哈达德被杀后，奥德被任命为埃泽丁·卡萨姆旅的负责人。 法新社联系哈马斯时，哈马斯没有立即回应这一消息。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 卡茨在 X 上的帖子中表示：“我们致力于消灭所有领导 10 月 7 日大屠杀的人，这就是我们要做的：无论他们身在何处，他们都已被标记为死亡。” 他还重申了以色列结束哈马斯对巴勒斯坦领土统治的目标，并提到了一项强迫其居民流离失所的计划。 他说：“加沙自愿移民计划也将得到实施——一切都将在正确的时间以正确的方式完成。” 加沙人流离失所是以色列极右翼财政部长贝扎雷尔·斯莫特里奇支持的一个项目。美国总统唐纳德·特朗普此前曾表示支持这一想法，但随后又放弃了这一想法。 今年二月，联合国人权事务高级专员沃尔克·特克谴责了“旨在永久改变加沙人口结构”的计划。 哈马斯 2023 年 10 月 7 日袭击以色列后，以色列总理本杰明·内塔尼亚胡承诺瞄准并消灭其背后的领导人。 根据法新社根据以色列官方数据统计，此次袭击导致 1,221 人死亡。 据该地区卫生部称，以色列在加沙的报复行动已造成至少 72,803 人死亡。 以色列此前已击毙哈马斯前政治领导人伊斯梅尔·哈尼亚 (Ismail Haniyeh) 和加沙地带领导人叶海亚·辛瓦尔 (Yahya Sinwar)，后者被广泛认为是 10 月 7 日袭击的策划者。 它还杀死了哈马斯武装派别“埃泽丁·卡萨姆旅”的长期指挥官穆罕默德·德伊夫，以及接替其兄弟叶海亚·辛瓦尔担任加沙酋长的穆罕默德·辛瓦尔。 以色列的袭击还针对黎巴嫩的哈马斯特工以及与该组织结盟的伊朗支持的真主党高级指挥官，其中包括前真主党领导人哈桑·纳斯鲁拉。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+            "en": "New Zealand's Ministry for the Environment is set to be scrapped entirely under new legislation passed on Wednesday.\n\nThe bill to dismantle the agency was introduced by the centre-right National Party in February and incorporated a public submission as part of the procedure.\n\nThe ministry for the environment will now be folded into a new \"mega-ministry\" for cities, environment, regions, and transport, known as MCERT.\n\nThe changes have been condemned by the NZ Greens Party and the Labour Party, which both voted against the bill.\n\n\"The track record of this government is just bad for our environment,\" Labour MP Rachel Brooking, former minister for oceans, said. \"We know their track record is to cut, cut, cut, and to make things into culture wars , and it is deplorable.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"This government is cementing their place as the most anti-environment government in New Zealand's history. This is a shameful end of an era,\" said Green Party environment spokesperson Lan Pham.\n\nNZ environment minister Nicola Grigg, speaking in the country's parliament, argued that the legal change is purely functional.\n\n\"The Environment Act of 1986, with the requirement to advise the minister for the environment on all of the aspects of environmental administration continues as it is today &#x2014; it does not go away,\" she said.\n\n\"The act's requirement to resolve conflicts with environmental policies does not go away. The role of the secretary of the environment does not go away.\n\nPublic submissions from New Zealanders on the proposed changes were almost entirely against the idea. The bill was given legal consideration by the Environmental Select Committee for just 40 minutes.\n\n\"At a time when all our environmental outcomes across freshwater, air, biodiversity and oceans are going backwards, climate change is flooding communities week after week, costing billions of dollars, lives, and livelihoods, this Government's response is to dismantle the ministry responsible for environmental protection,\" Pham said.\n\n\"This is yet another callous blow to the environment, where this Government is demonstrating their only intention for the environment is to exploit it for a quick buck. New Zealanders deserve so much better.\"\n\nThe National government has argued the issues the new ministry will manage are fundamentally intertwined but have been difficult to address in a siloed system. They say joining the departments will improve efficiency.\n\nGrigg argues that other countries like France, T&#xFC;rkiye, Switzerland, and Finland all have similarly combined departments to administer their environmental laws.\n\nSince taking office in 2023, Christopher Luxon's...",
+            "zh": "根据周三通过的新立法，新西兰环境部将被完全废除。 解散该机构的法案由中右翼国家党于二月提出，并纳入了公众提交意见作为程序的一部分。 环境部现在将并入一个负责城市、环境、地区和交通的新“大型部委”，即 MCERT。 这些变化遭到了新西兰绿党和工党的谴责，他们都投票反对该法案。 “本届政府的以往记录对我们的环境不利，”前海洋部长、工党议员雷切尔·布鲁金(Rachel Brooking)说。 “我们知道他们的记录是削减、削减、削减，并将事情变成文化战争，这是令人遗憾的。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “本届政府正在巩固其作为新西兰历史上最反环境政府的地位。这是一个时代的可耻终结，”绿党环境发言人范兰说。 新西兰环境部长尼古拉·格里格（Nicola Grigg）在该国议会发表讲话时表示，法律变更纯粹是功能性的。 她说：“1986 年《环境法》要求就环境管理的所有方面向环境部长提供建议，这一规定一直沿用至今，并没有消失。” “该法案解决与环境政策冲突的要求不会消失。环境部长的角色不会消失。 新西兰人对拟议的修改提出的公开意见几乎完全反对这一想法。环境特别委员会仅用了 40 分钟就对该法案进行了法律审议。 范说：“当我们在淡水、空气、生物多样性和海洋方面的所有环境成果都在倒退，气候变化一周又一周地淹没社区，造成数十亿美元、生命和生计损失时，本届政府的反应是解散负责环境保护的部门。” “这是对环境的又一次无情打击，本届政府表明他们对环境的唯一意图就是利用环境来快速赚钱。新西兰人应该得到更好的待遇。” 国家党政府辩称，新部门将管理的问题从根本上来说是相互交织的，但很难在孤立的系统中解决。他们表示，加入这些部门将提高效率。 格里格认为，法国、土耳其、瑞士和芬兰等其他国家都拥有类似的联合部门来管理其环境法。 自 2023 年上任以来，克里斯托弗·卢克森 (Christopher Luxon) 的..."
           },
           "reflection": {
-            "en": "The ongoing cycle of violence, where leaders are targeted, often deepens conflict rather than resolving it. In such moments, the call to overcome evil with good reminds us that true peace requires breaking patterns of retaliation. It challenges all involved to seek paths that transcend the immediate urge for retribution.",
-            "zh": "持续的暴力循环，领导人成为目标，往往会加深冲突而非解决冲突。在这样的时刻，以善胜恶的呼召提醒我们，真正的和平需要打破报复的模式。它挑战所有相关方去寻求超越即时报复冲动的道路。"
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Romans 12:21",
-            "textEn": "Do not be overcome by evil, but overcome evil with good.",
-            "textZh": "你不可为恶所胜，反要以善胜恶。",
-            "themeEn": "Overcoming evil with good",
-            "themeZh": "以善胜恶"
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
           },
-          "aiVerseId": "rom_12_21",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
-          "id": "www-sbs-com-au-news-article-as-the-uk-faces-unprecedented-heatwaves-how-",
+          "id": "www-sbs-com-au-news-article-new-chief-of-hamas-armed-wing-dead-israel-st",
           "section": "world",
           "source": "SBS News World",
           "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/as-the-uk-faces-unprecedented-heatwaves-how-did-the-worlds-biggest-cities-cope-in-the-past/f5au72oua",
-          "image": "https://assets.sbs.com.au/dims4/default/0507b02/2147483647/strip/false/crop/3000x1378+0+312/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F75%2F01%2F3247f6d14287be33e3e0cec17fbe%2F20260527150618790465-original.jpg",
-          "publishedAt": "2026-05-27T06:07:42.000Z",
+          "link": "https://www.sbs.com.au/news/article/new-chief-of-hamas-armed-wing-dead-israel-strikes-on-gaza/1jz9rqlng",
+          "image": "https://assets.sbs.com.au/dims4/default/9653a08/2147483647/strip/false/crop/5760x2647+0+597/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F51%2F85%2F40ac2698499e9c440c4208dcbfca%2Fgettyimages-2278334930.jpg",
+          "publishedAt": "2026-05-27T08:20:15.000Z",
           "title": {
-            "en": "As the UK faces unprecedented heatwaves, how did the world's biggest cities cope in the past?",
-            "zh": "英国面临前所未有的热浪，世界各大城市过去如何应对？"
+            "en": "Hamas confirms Israeli strikes killed its new military leader in Gaza",
+            "zh": "哈马斯证实以色列空袭杀死了加沙新任军事领导人"
           },
           "summary": {
-            "en": "As the UK experiences extreme heat, cities globally have historically adopted diverse strategies, from using fire hydrants to modifying rooftops, to keep their populations cool during heatwaves.",
-            "zh": "随着英国面临极端热浪，世界各地的城市在历史上采取了各种不同的策略，从使用消防栓到改造屋顶，以在热浪中保持居民凉爽。"
+            "en": "Thousands of people gathered in Gaza City for the joint funeral of Mohammed Odeh and members of his family.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Paris, London and New York are more often associated with culture, finance and history than with dangerous heat. Yet each summer all three are increasingly exposed to extreme temperatures they were never designed to withstand.\n\nLike many dense urban areas, they amplify heat through what is known as the 'urban heat island effect'. This reflects the way that warmth is trapped in concrete, asphalt and glass, turning hot days into hazardous ones.\n\nWith skyscrapers made of glass and steel, roadways encased in cement and blocks of residential apartments, New York traps heat like few other metropolitan centres. In fact, the city has one of the highest urban heat island effects in the United States, a measurement of thermal difference between urban and rural areas. Heat kills more than 500 New Yorkers every year, a grim statistic that exacerbates inequalities along the lines of race and class .\n\nWhile many people escape to the seaside or countryside to find relief, others remain in cities where the heat can be harder to avoid and more difficult to endure. Yet these uneven experiences of urban heat are not new. In cities such as London, Paris and New York, coping with hot summers has long been shaped by inequality.\n\nAcross the 19th and 20th centuries, urban residents developed a range of strategies to manage extreme heat in densely built environments. Our research for the Melting Metropolis project examines everyday experiences of heat. Here are some of the ways people have coped with these conditions in the past and what they reveal about living with heat in the city.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nFor most historic urbanites, escaping the confines of their home provided the greatest relief from the heat. In the mid-20th century, some Londoners escaped to the roof of their apartment building to catch the cooling breezes that swirled above the city&#x2019;s streets.\n\nFor many others, since the 19th century, public spaces have provided the greatest respite from heat in their homes. Londoners turned to the shade provided by trees in nearby parks, paddled in water fountains or went for cooling dips in lidos and ponds.\n\nHistoric urbanites have also tried to cope with the heat at home. In contrast to those who sought relief from the heat in public spaces, wealthier Londoners used money and technology to keep cool. In the 19th century they purchased imported ice from Norway or employed servants to operate fans.\n\nIn the heatwaves of the 19th century, Parisians also headed out in search of relief. Like Londoners, they made extensive use of the parks that urban planners embedded into the fabric of the city during the late 19th-century Haussmann-era redesign. But...",
-            "zh": "巴黎、伦敦和纽约更多地与文化、金融和历史联系在一起，而不是与危险的炎热联系在一起。然而，每年夏天，这三个国家都越来越多地暴露在它们无法承受的极端温度下。 与许多人口稠密的城市地区一样，它们通过所谓的“城市热岛效应”放大热量。这反映了热量被困在混凝土、沥青和玻璃中的方式，使炎热的日子变得危险。 纽约拥有玻璃和钢铁制成的摩天大楼、水泥覆盖的道路和住宅公寓楼，与其他大都市中心相比，它能吸收热量。事实上，这座城市是美国热岛​​效应最严重的城市之一，热岛效应是衡量城乡地区热差异的指标。每年，高温会导致 500 多名纽约人死亡，这一严峻的统计数据加剧了种族和阶级方面的不平等。 虽然许多人逃到海边或乡村寻求缓解，但其他人仍然留在城市，那里的炎热天气更难以避免，也更难以忍受。然而，城市炎热的这些不均匀经历并不新鲜。在伦敦、巴黎和纽约等城市，应对炎热的夏季长期以来一直受到不平等的影响。 在 19 世纪和 20 世纪，城市居民制定了一系列策略来应对密集建筑环境中的极端高温。我们对“融化大都市”项目的研究考察了日常的热体验。以下是人们过去应对这些情况的一些方法，以及他们对城市炎热生活的看法。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 对于大多数历史悠久的城市居民来说，逃离家园的限制可以最大程度地缓解炎热的天气。 20 世纪中叶，一些伦敦人逃到公寓楼的屋顶，享受城市街道上空盘旋的凉爽微风。 对于许多其他人来说，自 19 世纪以来，公共空间为他们的家中炎热的天气提供了最好的休息场所。伦敦人转向附近公园的树木提供的阴凉处，在喷泉中划船，或者去利多和池塘里泡凉水。 历史悠久的城市居民也试图应对家里的炎热天气。与那些在公共场所寻求避暑的人相反，富裕的伦敦人利用金钱和技术来保持凉爽。在 19 世纪，他们从挪威购买进口冰块或雇用仆人来操作风扇。 在19世纪的热浪中，巴黎人也外出寻求缓解。和伦敦人一样，他们广泛利用了城市规划者在 19 世纪末奥斯曼时代重新设计期间融入城市结构的公园。但..."
+            "en": "Hamas has confirmed that Israeli airstrikes killed the new leader of its military wing, less than two weeks after his predecessor was killed.\n\nIn a statement, the Palestinian group said Mohammed Odeh died in an airstrike on Tuesday local time, along with his wife and two of his children. It came after Israeli defence minister Israel Katz announced that the Israeli military had targeted and killed Odeh.\n\nAt least five people &#x2014; including Odeh and his family members &#x2014; were killed and 12 were injured in the strike on a market in Gaza City, local hospitals said.\n\nMore strikes in the city on Thursday killed at least seven people, including two children and a woman. More than 20 people were wounded, including several children, according to Shifa hospital.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nVideo from the scene showed flames pouring from an upper-floor window of a building and bystanders rushing to carry injured people, including some children, to waiting ambulances.\n\nThe Israeli military said on Thursday it had launched strikes in the northern Gaza Strip, targeting two Hamas militants.\n\nThousands of people gathered for the joint funeral of Odeh's family in Gaza City. Mourners covered the four bodies with green Hamas flags and marched from a mosque through the city, chanting and firing shots in the air.\n\nSome carried posters with Odeh's photo, emblazoned with the words \"one of the chiefs of staffs of the Qassam Brigades\", referring to Hamas' military wing.\n\nHamas condemned the strike. It said Odeh had been active with the group for more than three decades and was part of the first generation that helped establish the movement&#x2019;s military wing.\n\nKatz called Odeh \"one of the architects\" of Hamas' October 7 attack on southern Israel in 2023 that triggered the more than two-year war in Gaza. He said it was the fourth time Israel has killed the head of Hamas' military wing since the start of the war. Izz al-Din al-Haddad, the previous head, was killed on 16 May.\n\nKatz said that Israel would continue to target Hamas leaders involved in the October 7 attack.\n\n\"We pledged that Hamas will not hold civilian or military rule,\" he said in a post on X.\n\nIsraeli Prime Minister Benjamin Netanyahu, who is preparing for elections in the fall, also warned that Israel will target everyone involved in the 2023 attack.\n\nA ceasefire reached between Israel and Hamas in October remains fragile. Israeli attacks have killed more than 900 Palestinians since the ceasefire took effect. Israel says its attacks are in response to violations by Hamas or threats to its soldiers, but Palestinian health officials say scores of civilians have been among the dead. Four...",
+            "zh": "哈马斯证实，以色列空袭杀死了其军事部门的新领导人，距离他的前任被杀不到两周。 该巴勒斯坦组织在一份声明中表示，穆罕默德·奥德在当地时间周二的一次空袭中身亡，他的妻子和两个孩子也身亡。此前，以色列国防部长以色列·卡茨宣布以色列军方瞄准并杀死了奥德。 当地医院称，在加沙市一个市场的袭击中，至少有 5 人死亡，其中包括奥德及其家人，另有 12 人受伤。 周四，该市发生更多罢工，造成至少七人死亡，其中包括两名儿童和一名妇女。据希法医院称，有 20 多人受伤，其中包括几名儿童。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 现场视频显示，火焰从一栋大楼楼上的窗户喷涌而出，旁观者急忙将受伤人员（包括一些儿童）送往等候的救护车。 以色列军方周四表示，已对加沙地带北部发动袭击，目标是两名哈马斯武装分子。 数千人聚集在加沙城参加奥德家人的联合葬礼。哀悼者用绿色的哈马斯旗帜覆盖四具尸体，从一座清真寺出发穿过城市，高呼口号，并向空中鸣枪。 一些人举着贴有奥德照片的海报，上面印有“卡萨姆旅参谋长之一”的字样，指的是哈马斯的军事部门。 哈马斯谴责这次袭击。据称，奥德在该组织中活跃了三十多年，是帮助建立该运动军事派别的第一代人之一。 卡茨称奥德是哈马斯 2023 年 10 月 7 日袭击以色列南部的“策划者之一”，该袭击引发了加沙两年多的战争。他说，这是自战争开始以来以色列第四次杀害哈马斯军事部门负责人。前任领导人伊兹·丁·哈达德 (Izz al-Din al-Haddad) 于 5 月 16 日被杀。 卡茨表示，以色列将继续针对参与 10 月 7 日袭击的哈马斯领导人。 “我们保证哈马斯不会实行文官或军事统治，”他在 X 上的一篇帖子中说。 正在准备秋季选举的以色列总理本杰明·内塔尼亚胡也警告称，以色列将针对参与 2023 年袭击的所有人。 以色列和哈马斯十月份达成的停火协议仍然脆弱。自停火生效以来，以色列的袭击已造成 900 多名巴勒斯坦人死亡。以色列表示，袭击是为了回应哈马斯的侵犯行为或对其士兵的威胁，但巴勒斯坦卫生官员表示，死者中有数十名平民。四..."
           },
           "reflection": {
-            "en": "Facing unprecedented heatwaves, cities worldwide demonstrate remarkable ingenuity in finding ways to cope. This collective effort to adapt and protect communities reflects a practical wisdom in responding to environmental challenges. When we encounter difficult circumstances, we can seek divine wisdom to guide our efforts in finding creative and effective...",
-            "zh": "面对前所未有的热浪，世界各地的城市展现出非凡的智慧来寻找应对之策。这种适应和保护社区的集体努力，反映了应对环境挑战的实用智慧。当我们遇到困难时，可以寻求雅伟的智慧来指导我们，找到富有创意和有效的解决方案。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "James 1:5",
-            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
-            "themeEn": "Ask God for wisdom",
-            "themeZh": "求神赐智慧"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
-          "aiVerseId": "jas_1_5",
-          "translationState": "localized"
+          "translationState": "fallback"
         }
       ]
     },
@@ -817,7 +814,7 @@
           },
           "body": {
             "en": "A Chinese dissident who fled his country on a rubber boat has been detained in South Korea after spending hours at sea.\n\nDong Guangping, a former police officer and human rights activist, was found in Korean waters on Monday night.\n\nSouth Korea's coast guard told the BBC that Dong is under investigation for suspected immigration violations and his case will be referred to prosecutors.\n\nThe 68-year-old had been jailed in China several times for his activism, such as taking part in events to commemorate the Tiananmen Square crackdown . Dong had escaped China at least three times previously, but was sent back each time.\n\nWhen asked about Monday's incident China's foreign affairs ministry spokesperson Mao Ning said she had not aware of the case.\n\nDong had set out from Weifang, a city in the central Shandong province, in a rubber boat with an engine, according to Canada-based activist Sheng Xue who posted on X saying she had spoken to Dong after he reached South Korea.\n\nHe had told her that he had spent more than 30 hours at sea, and was \"fainting\" from exhaustion by the time he reached the waters off Taean, a county on South Korea's western coast.\n\nSouth Korea's coast guard said they rescued him after receiving a report from a fishing boat that had spotted Dong.\n\nDong had previously discussed his escape plan with Sheng Xue, she said, but she had told him it would be too dangerous.\n\n\"He ended up really doing it... Dong Guangping is too tenacious, too brave,\" she said, adding that he had planned his escape with \"meticulous checks and preparation\".\n\nHuman Rights in China (HRIC), an NGO based in New York, has urged Seoul to \"uphold humanitarian principles and international human rights obligations\" by not handing Dong over to China, where he \"faces a grave risk of persecution and torture\".\n\nIt also called on Korean authorities to allow Dong to seek political asylum, or help facilitate his safe passage to Canada where his family members live.\n\n\"That a man nearing seventy years old was driven to cross open seas in a small inflatable boat is itself a devastating indictment of China's human rights situation,\" HRIC said.\n\nIn 1999, Dong was fired from the police force after he signed a petition to commemorate the 10th anniversary of the brutal Tiananmen crackdown on pro-democracy protesters.\n\nThen in 2001, he was imprisoned for three years for \"inciting subversion of state power\". He was jailed again in 2014 for participating in another Tiananmen commemoration event, according to Amnesty International.\n\nHe first escaped China in October 2015 when he travelled to Bangkok with his wife and daughter, where they were granted refugee status by the United Nations and approved for resettlement in Canada.\n\nBut days before they were scheduled to leave for Canada, Thai...",
-            "zh": "一名乘坐橡皮艇逃离祖国的中国异见人士在海上漂流数小时后在韩国被拘留。 周一晚上，前警察兼人权活动家董光平在韩国水域被发现。 韩国海岸警卫队告诉英国广播公司，董因涉嫌违反移民法正在接受调查，他的案件将移交给检察官。 这位 68 岁的老人曾多次因参加纪念天安门广场镇压活动等活动而在中国入狱。董此前至少三次逃离中国，但每次都被遣返。 当被问及周一的事件时，中国外交部发言人毛宁表示，她不了解此案。 加拿大活动家盛雪在 X 上发帖说，董抵达韩国后曾与董谈过话，她说，董乘坐一艘有发动机的橡皮艇从山东省中部城市潍坊出发。 他告诉她，他在海上度过了30多个小时，当他到达韩国西海岸泰安郡附近海域时，他已经因精疲力尽而“晕倒”了。 韩国海岸警卫队表示，他们在收到一艘渔船发现董的报告后将他救起。 她说，董此前曾与盛雪讨论过他的逃跑计划，但她告诉他这太危险了。 “他最终真的做到了……董广平太顽强了，太勇敢了，”她说，并补充说他已经通过“精心的检查和准备”计划了他的逃跑。 总部位于纽约的非政府组织中国人权（HRIC）敦促首尔“维护人道主义原则和国际人权义务”，不要将董移交给中国，因为他在中国“面临着遭受迫害和酷刑的严重风险”。 它还呼吁韩国当局允许董寻求政治庇护，或帮助他安全前往其家人居住的加拿大。 中国人权表示：“一名年近七十的老人被赶着乘坐小橡皮艇横渡公海，这本身就是对中国人权状况的毁灭性控诉。” 1999年，董在签署一份纪念天安门镇压民主抗议者十周年的请愿书后被警察开除。 2001年，他因“煽动颠覆国家政权罪”被判入狱三年。据国际特赦组织称，2014 年，他因参加另一场天安门纪念活动而再次入狱。 2015年10月，他首次逃离中国，与妻子和女儿一起前往曼谷，在那里他们获得了联合国的难民身份，并获准在加拿大重新定居。 但在他们计划前往加拿大的前几天，泰国......"
+            "zh": "一名乘坐橡皮艇逃离祖国的中国异见人士在海上漂流数小时后在韩国被拘留。 周一晚上，前警察兼人权活动人士董广平在韩国水域被发现。 韩国海岸警卫队告诉英国广播公司，董因涉嫌违反移民法正在接受调查，他的案件将移交给检察官。 这位 68 岁的老人曾多次因参加纪念天安门广场镇压活动等活动而在中国入狱。董此前至少三次逃离中国，但每次都被遣返回国。 当被问及周一的事件时，中国外交部发言人毛宁表示，她不了解此案。 加拿大活动家盛雪在 X 上发帖说，董抵达韩国后曾与董谈过话，她说，董乘坐一艘有发动机的橡皮艇从山东省中部城市潍坊出发。 他告诉她，他在海上度过了30多个小时，当他到达韩国西海岸泰安郡附近海域时，他已经因精疲力尽而“晕倒”了。 韩国海岸警卫队表示，他们在接到一艘渔船发现董的报告后将他救起。 她说，董此前曾与盛雪讨论过他的逃跑计划，但她告诉他这太危险了。 “他最终真的做到了……董广平太顽强了，太勇敢了，”她说，并补充说他已经通过“精心的检查和准备”计划了他的逃跑。 总部位于纽约的非政府组织中国人权（HRIC）敦促首尔“维护人道主义原则和国际人权义务”，不要将董移交给中国，因为他在中国“面临着遭受迫害和酷刑的严重风险”。 它还呼吁韩国当局允许董寻求政治庇护，或帮助他安全前往其家人居住的加拿大。 中国人权表示：“一名年近七十的老人被赶着乘坐小橡皮艇横渡公海，这本身就是对中国人权状况的毁灭性控诉。” 1999年，董在签署一份纪念天安门镇压民主抗议者十周年的请愿书后被警察开除。 2001年，他因“煽动颠覆国家政权罪”被判入狱三年。据国际特赦组织称，2014 年，他因参加另一场天安门纪念活动而再次入狱。 2015年10月，他首次逃离中国，与妻子和女儿一起前往曼谷，在那里他们获得了联合国的难民身份，并获准在加拿大重新定居。 但在他们计划前往加拿大的前几天，泰国......"
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -1083,29 +1080,29 @@
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
       },
       "sourceNotes": [
-        "The Guardian Australia",
-        "SBS News Australia"
+        "SBS News Australia",
+        "The Guardian Australia"
       ],
       "items": [
         {
-          "id": "www-theguardian-com-australia-news-live-2026-may-28-australia-politics-l",
+          "id": "www-sbs-com-au-news-article-scam-victims-3000-automatic-reimbursement-u0",
           "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/7b6a7b6671e84480b7e5d8d5b48f6ed474910b95/411_0_2915_2332/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f8890fdf29be2334097965490423d452",
-          "publishedAt": "2026-05-27T23:00:46.000Z",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/scam-victims-3000-automatic-reimbursement/u0lfm6qc5",
+          "image": "https://assets.sbs.com.au/dims4/default/d81afee/2147483647/strip/false/crop/6720x3088+0+696/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F1a%2Fb2%2Fcbc64cad491b95ca0b176f47785e%2Fgettyimages-2231858944.jpg",
+          "publishedAt": "2026-05-28T01:55:21.000Z",
           "title": {
-            "en": "Australia politics live: Labor spruiks plan for automatic $3,000 compensation payment to scam victims",
-            "zh": "澳大利亚政治直播：工党鼓吹计划向诈骗受害者自动支付 3,000 美元赔偿"
+            "en": "New plan to get up to $3,000 back in pockets of scam-hit Australians",
+            "zh": "新计划将高达 3,000 澳元返还给遭受诈骗的澳大利亚人"
           },
           "summary": {
-            "en": "Financial services minister says it would mean banks and telcos would focus dispute resolution processes on bigger scams. Follow updates live Get our breaking news email, free app or daily news podcast Scams come in all shapes and sizes (and none of them are nice), and the...",
+            "en": "Critics have said such a move could embolden scammers but the government insists its proposal is a \"balanced approach\".",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Financial services minister says it would mean banks and telcos would focus dispute resolution processes on bigger scams. Follow updates live Get our breaking news email , free app or daily news podcast Scams come in all shapes and sizes (and none of them are nice), and the government is considering creating rules that would force banks, telcos and digital platforms to automatically reimburse victims of smaller scams of up to $3,000. Labor is considering a range of options as part of a scam protection framework. For smaller losses, $3,000 and under, what we’re proposing is that there should be automatic payment to consumers where they can verify that there has been a scam. Scams that get into the six figures: some investment scams, some romance scams. And that’s where dispute resolution processes would come into play. What we want to do is to make sure that we don’t have the wrong incentives for perpetrators to see Australia as a soft target. But the balance is that with very small claims we don’t want to have processes that are completely disproportionate to the value of the sum in dispute. Taxpayer funds should never be used for private business, nor were they in this case. When we’re undertaking whether it be community engagement, media engagement, stakeholder meetings, you know, assisting colleagues, there are arrangements in place to assist us to do that work that is right and appropriate, and it is not right and appropriate to bill the taxpayer, as you say, for personal activities. And I did not do that. Yep. Continue reading...",
-            "zh": "金融服务部长表示，这意味着银行和电信公司将把争议解决程序的重点放在更大的骗局上。关注实时更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 诈骗的形式和规模多种多样（而且没有一个是好的），政府正在考虑制定规则，迫使银行、电信公司和数字平台自动向小型诈骗的受害者赔偿最多 3,000 美元。工党正在考虑一系列选择作为诈骗保护框架的一部分。对于 3,000 美元及以下的较小损失，我们建议应该向消费者自动付款，以便他们可以验证是否存在诈骗。金额达到六位数的诈骗：一些是投资诈骗，一些是爱情诈骗。这就是争议解决程序发挥作用的地方。我们想要做的是确保我们不会有错误的动机让肇事者将澳大利亚视为软目标。但平衡点是，对于非常小的索赔，我们不希望程序与争议金额的价值完全不成比例。纳税人的资金决不应该用于私人企业，在本案中也不应如此。当我们进行社区参与、媒体参与、利益相关者会议时，你知道，协助同事时，会有适当的安排来帮助我们做正确和适当的工作，而正如你所说，向纳税人收取个人活动的费用是不正确和适当的。而我并没有那么做。是的。继续阅读..."
+            "en": "Australians who have lost up to $3,000 to scams could be entitled to automatic reimbursement under a new federal government proposal.&#xA0;\n\nThe plan, put forward on Thursday by the Treasury as part of its broader Scams Prevention Framework, would require banks, telecommunications companies, and digital platforms to reimburse victims who have been scammed via through their services.\n\nAssistant Treasurer Daniel Mulino told ABC radio the automatic payment system \"makes sense\" as scams under $3,000 represented a high proportion of the total number of claims, but a relatively small proportion of losses.\n\nWhile more Australians are being targeted by scammers, they're slightly less out of pocket than in previous years.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIn 2025, the median amount victims lost to scams was $400, according to data published in the latest Targeting Scams report produced by the National Anti-Scam Centre.\n\nThat's a decrease from the year before, when the median victim lost $500. At the same time, the total amount lost to scams has increased by 8 per cent to $2.18 billion.\n\nMulino said that \"six-figure\" scams like investment and romance scams would be dealt with by separate dispute resolution processes.\n\nOlder Australians, who make up 17.1 per cent of the population, are most vulnerable to scams. They make up 26.5 per cent of losses. First Nations and culturally and linguistically diverse communities (CALD) often lose the most to scams.\n\nIn the United Kingdom, scam losses of up to $48,000 have been automatically compensated since 2024.\n\nHowever, the UK doesn't include digital platforms in the scheme &#x2014; only banks and other service providers for scams where a victim is tricked into sending money to a criminal via a bank payment.\n\nMulino said Australia's threshold would be lower to avoid sending \"the wrong incentives for perpetrators to see Australia as a soft target\".\n\nThe Treasury's inclusion of digital platforms puts some of the biggest tech companies on notice.\n\nMulino said it would apply to \"any digital platform with a certain number of users and more than a billion dollars turnover, so that's going to capture pretty much all of them\".\n\nIn a January submission, Meta argued that including tech platforms in the Scam Prevention Framework discouraged \"consumer vigilance in avoiding scams\".\n\n\"And in doing so, will result in industry subsidising and emboldening criminal scam syndicates,\" it read.\n\nThe assistant treasurer said they were monitoring potential risks of the reimbursement scheme.\n\n\"I'm confident a balanced approach to small transactions will see a reasonable outcome.\"\n\nFor the latest from SBS News, download our app and subscribe...",
+            "zh": "根据一项新的联邦政府提案，因诈骗而损失高达 3,000 澳元的澳大利亚人可能有权获得自动赔偿。 该计划由财政部于周四提出，作为其更广泛的诈骗预防框架的一部分，将要求银行、电信公司和数字平台向通过其服务遭受诈骗的受害者进行补偿。 助理财务主管 Daniel Mulino 告诉 ABC 广播电台，自动支付系统“很有意义”，因为 3,000 美元以下的诈骗在索赔总数中所占比例很高，但损失所占比例相对较小。 虽然越来越多的澳大利亚人成为诈骗者的目标，但他们的自掏腰包程度比前几年略有减少。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 根据国家反诈骗中心最新发布的目标诈骗报告中公布的数据，到 2025 年，诈骗受害者损失的中位数为 400 美元。 这比前一年有所下降，当时受害者损失的中位数为 500 美元。与此同时，诈骗损失总额增加了 8%，达到 21.8 亿美元。 穆利诺表示，投资诈骗和爱情诈骗等“六位数”诈骗将通过单独的争议解决程序进行处理。 占总人口 17.1% 的澳大利亚老年人最容易受到诈骗。它们占损失的26.5%。原住民以及文化和语言多元化社区 (CALD) 往往因诈骗而蒙受最大损失。 在英国，自 2024 年以来，高达 48,000 美元的诈骗损失已自动获得赔偿。 然而，英国的计划中不包括数字平台——仅包括银行和其他诈骗服务提供商，受害者被诱骗通过银行付款向犯罪分子汇款。 穆利诺表示，澳大利亚的门槛将较低，以避免“向犯罪者发出错误的激励，将澳大利亚视为软目标”。 财政部将数字平台纳入其中，引起了一些最大的科技公司的注意。 Mulino 表示，它将适用于“任何拥有一定数量用户且营业额超过 10 亿美元的数字平台，因此几乎可以捕获所有用户”。 在 1 月份提交的文件中，Meta 认为，将技术平台纳入诈骗预防框架会降低“消费者避免诈骗的警惕性”。 “这样做，将导致行业补贴和鼓励犯罪诈骗集团，”它写道。 助理财务主管表示，他们正在监控报销计划的潜在风险。 “我相信对小额交易采取平衡的方法将会带来合理的结果。” 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅..."
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -1121,6 +1118,270 @@
           "translationState": "fallback"
         },
         {
+          "id": "www-theguardian-com-australia-news-live-2026-may-28-australia-politics-l",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/e4e846e47b182885c7bdd1082bbe9c5e20bbf322/563_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=aa61e9edfd6eab165d8473bdd3e845df",
+          "publishedAt": "2026-05-28T01:49:07.000Z",
+          "title": {
+            "en": "Australia politics live: government sues manufacturer 3M over defence base Pfas contamination in ‘largest ever’ $2bn legal claim",
+            "zh": "澳大利亚政治直播：政府因国防基地 Pfas 污染起诉制造商 3M，提出“有史以来最大”的 20 亿美元法律索赔"
+          },
+          "summary": {
+            "en": "Attorney general says government seeking $2bn in damages to recover costs relating to firefighting foam at 28 defence bases. Follow updates live Get our breaking news email, free app or daily news podcast Scams come in all shapes and sizes (and none of them are nice), and the...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Attorney general says government seeking $2bn in damages to recover costs relating to firefighting foam at 28 defence bases. Follow updates live Get our breaking news email , free app or daily news podcast Scams come in all shapes and sizes (and none of them are nice), and the government is considering creating rules that would force banks, telcos and digital platforms to automatically reimburse victims of smaller scams of up to $3,000. Labor is considering a range of options as part of a scam protection framework. For smaller losses, $3,000 and under, what we’re proposing is that there should be automatic payment to consumers where they can verify that there has been a scam. Scams that get into the six figures: some investment scams, some romance scams. And that’s where dispute resolution processes would come into play. What we want to do is to make sure that we don’t have the wrong incentives for perpetrators to see Australia as a soft target. But the balance is that with very small claims we don’t want to have processes that are completely disproportionate to the value of the sum in dispute. Taxpayer funds should never be used for private business, nor were they in this case. When we’re undertaking whether it be community engagement, media engagement, stakeholder meetings, you know, assisting colleagues, there are arrangements in place to assist us to do that work that is right and appropriate, and it is not right and appropriate to bill the taxpayer, as you say, for personal activities. And I did not do that. Yep. Continue reading...",
+            "zh": "总检察长表示，政府寻求 20 亿美元的损失赔偿，以弥补与 28 个国防基地的消防泡沫相关的费用。关注实时更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 诈骗的形式和规模多种多样（而且没有一个是好的），政府正在考虑制定规则，迫使银行、电信公司和数字平台自动向小型诈骗的受害者赔偿最多 3,000 美元。工党正在考虑一系列选择作为诈骗保护框架的一部分。对于 3,000 美元及以下的较小损失，我们建议应该向消费者自动付款，以便他们可以验证是否存在诈骗。金额达到六位数的诈骗：一些是投资诈骗，一些是爱情诈骗。这就是争议解决程序发挥作用的地方。我们想要做的是确保我们不会有错误的动机让肇事者将澳大利亚视为软目标。但平衡点是，对于非常小的索赔，我们不希望程序与争议金额的价值完全不成比例。纳税人的资金决不应该用于私人企业，在本案中也不应如此。当我们进行社区参与、媒体参与、利益相关者会议时，你知道，协助同事时，会有适当的安排来帮助我们做正确和适当的工作，而正如你所说，向纳税人收取个人活动的费用是不正确和适当的。而我并没有那么做。是的。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-best-time-to-watch-blue-micromoon-australia-",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/best-time-to-watch-blue-micromoon-australia/v4xfaxbp6",
+          "image": "https://assets.sbs.com.au/dims4/default/22edc74/2147483647/strip/false/crop/1783x819+0+431/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F8d%2F44%2F47f902db4316bb4bf0c027d07829%2Fgettyimages-1785016629.jpg",
+          "publishedAt": "2026-05-28T01:37:19.000Z",
+          "title": {
+            "en": "When Australians can get the best view of the rare blue 'micromoon'",
+            "zh": "当澳大利亚人能够以最佳视角观赏罕见的蓝色“微月亮”时"
+          },
+          "summary": {
+            "en": "It's called a blue moon — but this month's full moon comes with a rare twist.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The phrase \"once in a blue moon\" is about to feel a little more literal, with a rare lunar event set to light up the sky this week.\n\nAustralians will be able to spot a rare blue micromoon on Sunday night &#x2014; and you can see it quite easily.\n\n\"It is incredibly bright. It's like natural light pollution,\" Laura Driessen, a postdoctoral researcher at the Sydney Institute for Astronomy, told SBS News.\n\n\"It's tens of thousands of times brighter than the brightest star in the night sky.\"\n\nThe event is considered uncommon because it combines two separate astronomical phenomena at the same time: the blue moon and the micromoon, something skywatchers do not get to see very often.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe first thing you need to know is that the moon will not be blue, and it has nothing to do with the phrase \"once in a blue moon\".\n\n\"There are two different types of blue moon: a seasonal blue moon and a calendar blue moon. This one is a calendar blue moon,\" Driessen said.\n\n\"It's not blue. It's just a name. And then the definitions that we have of a blue moon are actually really recent, less than 100 years old.\n\n\"The first written record of someone describing a seasonal blue moon was from 1937, and the calendar blue moon ... is even more recent than that.\"\n\nA calendar blue moon is the second full moon in a month &#x2014; there was another full moon earlier in May. A seasonal blue moon is the third full moon in an astronomical season with four full moons.\n\nAccording to Driessen, \"every couple of years we get an extra full moon in a year\".\n\nWhat makes this event even rarer is that the blue moon will also be what astronomers call a \"micromoon\".\n\n\"At one point in its orbit, the moon is closer to the Earth, and that closest point is called the perigee. And another point in its orbit, it's a little bit further away from Earth, and that's called the apogee,\" Driessen said.\n\n\"A micromoon is when the full moon happens close to that apogee point. So the moon is just a touch farther away than it is in other parts of its orbit, so it looks a little bit smaller.\"\n\nHowever, don't expect to see a tiny moon in the sky on Sunday night, you might not even be able to tell the difference.\n\n\"Human eyes won't be able to tell the difference. You can only tell the difference if you have a photo of an average moon next to a photo of a micromoon,\" Driessen said.\n\nAustralians will be able to see the blue micromoon in the evening sky on Sunday 31 May, and it will be visible for the whole evening.\n\n\"A full moon happens when the moon is on the opposite side of the Earth to the sun. So that means that the moon is gonna be big and bright, and it's gonna be up all night,\"...",
+            "zh": "“千载难逢”这句话感觉更加字面化，本周罕见的月球事件将照亮天空。 澳大利亚人将能够在周日晚上看到罕见的蓝色微月亮——而且你可以很容易地看到它。 悉尼天文研究所博士后研究员劳拉·德里森（Laura Driessen）告诉 SBS 新闻：“它非常明亮，就像自然光污染一样。” “它比夜空中最亮的星星还要亮数万倍。” 这一事件被认为是不常见的，因为它同时结合了两种独立的天文现象：蓝月亮和微月亮，这是天文观测者不经常看到的。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 首先你需要知道的是，月亮不会是蓝色的，这与“once in a blue Moon”这句话无关。 “蓝月亮有两种不同类型：季节性蓝月亮和日历蓝月亮。这一种是日历蓝月亮，”德里森说。 “它不是蓝色的。这只是一个名字。我们对蓝月亮的定义实际上是最近才出现的，还不到 100 年。 “第一个描述季节性蓝月亮的书面记录是在 1937 年，而日历上的蓝月亮……甚至比这更近。” 日历蓝月是一个月中的第二次满月——五月初还有一次满月。季节性蓝月是一个有四个满月的天文季节中的第三个满月。 根据德里森的说法，“每隔几年我们就会在一年中出现一次额外的满月”。 使这一事件更加罕见的是，蓝月亮也将是天文学家所说的“微月亮”。 “在其轨道上的某一点，月球距离地球更近，最近的点称为近地点。它轨道上的另一个点距离地球稍远一点，这就是所谓的远地点，”德里森说。 “微月是指满月发生在接近远地点的时候。因此，月球距离其轨道其他部分仅远一点，所以它看起来要小一些。” 然而，不要指望在周日晚上看到天空中的小月亮，您甚至可能无法分辨出其中的区别。 “人眼无法区分。只有当你将普通月亮的照片与微月亮的照片放在一起时，你才能看出区别，”德里森说。 5 月 31 日（星期日），澳大利亚人将能够在夜空中看到蓝色的微月亮，并且整个晚上都可见。 “当月球位于地球与太阳相反的一侧时，就会发生满月。所以这意味着月亮会又大又亮，而且会整晚都在，”......"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-commentisfree-picture-2026-may-28-can-albanese-navig",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/may/28/can-albanese-navigate-the-perilous-road-to-reform",
+          "image": "https://i.guim.co.uk/img/media/f8ce54d6a489271388c36f68e71e66c356c30c7d/0_0_1180_944/master/1180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=389741a621731ad85189260fdfe6cd2e",
+          "publishedAt": "2026-05-28T01:13:59.000Z",
+          "title": {
+            "en": "Can Albanese navigate the perilous road to reform? | Fiona Katauskas",
+            "zh": "阿尔巴尼斯能否走上危险的改革之路？ |菲奥娜·卡陶斯卡斯"
+          },
+          "summary": {
+            "en": "He’s certainly facing some obstacles See more of Fiona Katauskas’s cartoons here Continue reading...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-media-2026-may-28-simon-robinson-expected-abc-news-d",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director",
+          "image": "https://i.guim.co.uk/img/media/f09b0954eba21b1a614df01dee501ab1142d3ad4/0_20_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a2638f73077a09f8c9ba506eef14f07",
+          "publishedAt": "2026-05-28T00:40:06.000Z",
+          "title": {
+            "en": "Reuters executive Simon Robinson expected to replace Justin Stevens as ABC news director",
+            "zh": "路透社高管西蒙·罗宾逊预计将接替贾斯汀·史蒂文斯担任美国广播公司新闻总监"
+          },
+          "summary": {
+            "en": "Exclusive: Robinson, who has been at Reuters for 16 years, will be responsible for about 2,000 staff across the ABC’s news division A top news executive from Reuters, Simon Robinson, is expected to be appointed as news director of the ABC in coming days, Guardian Australia can...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Exclusive: Robinson, who has been at Reuters for 16 years, will be responsible for about 2,000 staff across the ABC’s news division A top news executive from Reuters, Simon Robinson, is expected to be appointed as news director of the ABC in coming days, Guardian Australia can reveal. He will be the external replacement for Justin Stevens who resigned on Wednesday after four years in the role, citing personal and professional reasons. Continue reading...",
+            "zh": "独家报道：罗宾逊在路透社工作了 16 年，将负责 ABC 新闻部门约 2,000 名员工 据澳大利亚卫报透露，路透社的一位高级新闻主管西蒙·罗宾逊预计将在未来几天被任命为 ABC 的新闻总监。他将成为贾斯汀·史蒂文斯的外部替代者，贾斯汀·史蒂文斯在任职四年后于周三因个人和职业原因辞职。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-may-28-anti-abortion-activist-jo",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/may/28/anti-abortion-activist-joanna-howe-says-using-hoax-twin-foetuses-doesnt-matter-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/af496da250dcc48d4ebc7c7553661130caf75b44/749_0_5858_4689/master/5858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53b38f7a6ccffca113538da4aa421cfe",
+          "publishedAt": "2026-05-28T00:28:13.000Z",
+          "title": {
+            "en": "Anti-abortion activist concedes pictures of human foetuses may have been sugar glider joeys",
+            "zh": "反堕胎活动家承认人类胎儿的照片可能是蜜袋鼯幼崽"
+          },
+          "summary": {
+            "en": "Joanna Howe posts on social media that if purported images of human foetuses are in fact sugar gliders, ‘it doesn’t actually matter’ Get our breaking news email, free app or daily news podcast The anti-abortion activist Joanna Howe has conceded she may have used a “scam” email...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Joanna Howe posts on social media that if purported images of human foetuses are in fact sugar gliders, ‘it doesn’t actually matter’ Get our breaking news email , free app or daily news podcast The anti-abortion activist Joanna Howe has conceded she may have used a “scam” email featuring a picture of sugar glider joeys, referring to them as human foetuses, to promote her views – but it “was an insignificant detail”. In a video posted to Facebook on Wednesday afternoon, Howe said it appeared she had been “scammed” when someone emailed her claiming to give details about their medical abortion, including an image that Howe referred to as twin girls she called Ruth and Emma. Continue reading...",
+            "zh": "乔安娜·豪 (Joanna Howe) 在社交媒体上发帖称，如果所谓的人类胎儿图像实际上是蜜袋鼯，“实际上并不重要” 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 反堕胎活动家乔安娜·豪 (Joanna Howe) 承认，她可能使用了一封带有蜜袋鼯幼崽照片的“诈骗”电子邮件，将它们称为人类胎儿，以宣传她的观点 - 但这“只是一个无关紧要的细节”。在周三下午发布到 Facebook 的一段视频中，豪表示，有人给她发电子邮件，声称提供有关药物堕胎的详细信息，其中包括一张她称之为双胞胎女孩的照片，她称之为露丝和艾玛，她似乎被“骗了”。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-australia-response-ebola-travel-restrictions",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/australia-response-ebola-travel-restrictions-drc-uganda/fmtmcm7e0",
+          "image": "https://assets.sbs.com.au/dims4/default/f21cbfe/2147483647/strip/false/crop/6280x2886+0+651/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc4%2F9c%2F0e44e92f49f19a697a5bf2b2d170%2F20260302188633920675-original.jpg",
+          "publishedAt": "2026-05-27T23:59:28.000Z",
+          "title": {
+            "en": "Will Australia follow the US and Canada on Ebola travel restrictions?",
+            "zh": "澳大利亚会效仿美国和加拿大的埃博拉旅行限制吗？"
+          },
+          "summary": {
+            "en": "The Department of Health says it is \"closely monitoring\" the situation.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Countries around the world are starting to impose travel restrictions on those coming from Uganda and the Democratic Republic of the Congo (DRC) as the Ebola outbreak in Africa worsens.\n\nThe Australian Department of Health has told SBS News, however, that \"what other countries do is not necessarily the right approach for Australia\", as it flags no changes to current management strategies.\n\n\"Australia is closely monitoring developments in the DRC and Uganda and is aware of measures taken by other countries,\" a spokesperson for the department said.\n\nOn Wednesday, the US said it must prevent anyone with Ebola from reaching it, following Canada's ban on residents of the DRC, Uganda, and South Sudan from entering for 90 days.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"We cannot and will not allow any cases of Ebola to enter the United States,\" US secretary of state Marco Rubio said.\n\nThe US imposed a travel ban on non-citizens from affected regions last week and extended that ban to green card holders on Friday.\n\nCanada is imposing 21-day quarantine measures for citizens and permanent residents returning from affected areas.\n\nThe Bahamas, Jordan, and Bahrain have also imposed travel bans, while Thailand, Kenya, the Cayman Islands, and India have launched screening and surveillance procedures.\n\nThe European Union's Health Secretary Committee said last week that screenings were not necessary for passengers from the DRC or Uganda and that the risk to the European population is low.\n\nThe World Health Organization (WHO) has declared the outbreak of the rare Bundibugyo strain of &#x2060;Ebola the third-largest such outbreak on record, and a public health emergency of international concern .\n\nThe latest figures from the DRC's health ministry show 1,077 suspected cases, 121 confirmed cases, 246 suspected deaths, and 17 confirmed deaths.\n\nThe Ugandan health ministry has confirmed seven cases and one death. On Wednesday, Uganda ordered a temporary closure of its border with the DRC.\n\nThe WHO has discouraged border closures with the DRC, despite acknowledging concerns that the outbreak could spread to neighbouring countries.\n\nThe disease can only be spread through contact with bodily fluids &#x2014; it is not thought to travel via airborne particles &#x2014; but has a significant mortality rate.\n\nThe Bundibugyo variant of the disease has no specific treatments or vaccines, but is thought to be less fatal than the Zaire or Sudan strains.\n\nEbola causes sudden flu-like symptoms before progressing to vomiting and diarrhoea, internal and external bleeding, and multi-organ failure.\n\nThe Department of Health has said that the disease represents a low risk to...",
+            "zh": "随着非洲埃博拉疫情恶化，世界各国开始对来自乌干达和刚果民主共和国的旅客实施旅行限制。 然而，澳大利亚卫生部告诉 SBS 新闻，“其他国家的做法不一定适合澳大利亚”，因为它没有对当前的管理策略进行任何改变。 该部门发言人表示：“澳大利亚正在密切关注刚果民主共和国和乌干达的事态发展，并了解其他国家采取的措施。” 周三，在加拿大禁止刚果民主共和国、乌干达和南苏丹居民入境 90 天后，美国表示必须阻止任何感染埃博拉病毒的人接触美国。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 美国国务卿卢比奥表示：“我们不能也不会允许任何埃博拉病例进入美国。” 美国上周对受影响地区的非公民实施了旅行禁令，并于周五将该禁令扩大到绿卡持有者。 加拿大对从受影响地区返回的公民和永久居民实施 21 天的隔离措施。 巴哈马、约旦和巴林也实施了旅行禁令，而泰国、肯尼亚、开曼群岛和印度则启动了筛查和监视程序。 欧盟卫生部长委员会上周表示，没有必要对来自刚果民主共和国或乌干达的乘客进行检查，并且欧洲人口面临的风险很低。 世界卫生组织 (WHO) 宣布罕见的本迪布焦埃博拉病毒株的爆发是有记录以来的第三大此类疫情，并且是国际关注的突发公共卫生事件。 刚果民主共和国卫生部的最新数据显示，疑似病例1,077例，确诊病例121例，疑似死亡246例，确诊死亡17例。 乌干达卫生部已确认七例病例和一例死亡。周三，乌干达下令暂时关闭与刚果民主共和国的边境。 尽管世界卫生组织承认疫情可能蔓延到邻国，但仍不鼓励关闭与刚果民主共和国的边境。 这种疾病只能通过体液接触传播——据信它不会通过空气中的颗粒传播——但死亡率很高。 这种疾病的本迪布焦变种没有具体的治疗方法或疫苗，但被认为比扎伊尔或苏丹变种的致命性要低。 埃博拉病毒会引起突然的流感样症状，然后发展为呕吐和腹泻、内出血和外出血以及多器官衰竭。 卫生部表示，这种疾病的风险较低......"
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-commentisfree-2026-may-28-femicide-domestic-violence",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/commentisfree/2026/may/28/femicide-domestic-violence-dv-royal-commission-women-petition-signatures",
+          "image": "https://i.guim.co.uk/img/media/2d5af72cec8b2176d58e9aae04a2859f20f38b28/676_0_6735_5391/master/6735.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=97a0ccb1f3e25eb84896b314a2d775ad",
+          "publishedAt": "2026-05-27T23:57:40.000Z",
+          "title": {
+            "en": "Australians want a royal commission into femicide. What haunts me is wondering if it’ll be enough to make leaders act | Jess Hill",
+            "zh": "澳大利亚人希望皇家委员会调查杀害女性事件。困扰我的是想知道这是否足以让领导者采取行动|杰西·希尔"
+          },
+          "summary": {
+            "en": "The solutions to ending gender-based violence aren’t a mystery. The problem is that governments refuse to act on them When a social crisis becomes too big to ignore, governments reach for their most powerful instrument: the royal commission. It compels decision-makers to...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The solutions to ending gender-based violence aren’t a mystery. The problem is that governments refuse to act on them When a social crisis becomes too big to ignore, governments reach for their most powerful instrument: the royal commission. It compels decision-makers to testify, forces institutions into the open, and produces sweeping blueprints for reform. It suspends business-as-usual politics and focuses the nation’s attention on injustice and institutional failure, establishing what went wrong, who was responsible and what must change. Few other mechanisms so publicly expose injustice or centre the voices of people who’ve been harmed. Over the past 50 years Australia has held more than 130 royal commissions, placing a powerful microscope on some of the most intractable areas of social injustice: Aboriginal deaths in custody, institutional child sexual abuse, predatory banking practices, violence against people with disability. Governments called them because institutions routinely failed and caused significant harm. Continue reading...",
+            "zh": "结束性别暴力的解决方案并不神秘。问题是政府拒绝采取行动当社会危机变得大到不容忽视时，政府就会求助于他们最强大的工具：皇家委员会。它迫使决策者作证，迫使机构公开，并制定全面的改革蓝图。它暂停一切照旧的政治，将国家的注意力集中在不公正和制度失败上，确定出了什么问题、谁负责以及必须改变什么。很少有其他机制能够如此公开揭露不公正现象或集中受害者的声音。过去 50 年来，澳大利亚召开了 130 多个皇家委员会，对一些最棘手的社会不公正领域进行了密切关注：原住民在拘留期间死亡、机构儿童性虐待、掠夺性银行行为、针对残疾人的暴力行为。政府之所以称呼它们是因为机构经常失败并造成重大损害。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-may-28-bundaberg-man-charged-mur",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/may/28/bundaberg-man-charged-murder-alleged-attack-childers-north-isis-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/3f3ea57854e32ae76adc806360e6bbb03bd05d0f/334_0_3332_2666/master/3332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7ee079079eaf1068f9eae1169b5fef3",
+          "publishedAt": "2026-05-27T23:27:36.000Z",
+          "title": {
+            "en": "Queensland man charged with murder after allegedly beating elderly pedestrian to death with pole",
+            "zh": "昆士兰男子涉嫌用棍子殴打老年行人致死，被控谋杀罪"
+          },
+          "summary": {
+            "en": "Bundaberg man, 36, allegedly drove into and assaulted multiple people in Childers and North Isis on Wednesday Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A man has been charged with murder after allegedly...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Bundaberg man, 36, allegedly drove into and assaulted multiple people in Childers and North Isis on Wednesday Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man has been charged with murder after allegedly beating a 78-year-old pedestrian to death with a metal pole during a violent and random rampage that also injured two other men. A 36-year-old Bundaberg West man was charged with murder and attempted murder after allegedly driving into and assaulting multiple people near Bundaberg in Queensland on Wednesday afternoon. Continue reading...",
+            "zh": "据称，36 岁的班达伯格男子周三在 Childers 和 North Isis 开车撞人并袭击多人。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一名男子因涉嫌在一次暴力和随机的暴乱中用金属杆将一名 78 岁的行人打死而被指控犯有谋杀罪，另外两名男子也受伤。周三下午，昆士兰州班达伯格附近一名 36 岁的西班达伯格男子涉嫌开车撞人并袭击多人，被指控谋杀和谋杀未遂。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-theguardian-com-australia-news-2026-may-28-morning-mail-thursday-ntw",
           "section": "australia",
           "source": "The Guardian Australia",
@@ -1130,7 +1391,7 @@
           "publishedAt": "2026-05-27T20:49:02.000Z",
           "title": {
             "en": "Morning Mail: NDIS cuts to remove 241,000 participants, Trump accuses Iran of stalling, Blues win Origin classic",
-            "zh": "早间邮报：NDIS 削减 241,000 名参与者，特朗普指责伊朗拖延，蓝军赢得 Origin 经典赛"
+            "zh": null
           },
           "summary": {
             "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here, and finish your day with our Afternoon Update newsletter Morning everyone. The real-life impact of the cuts to national disability insurance are laid bare today by modelling showing that 241,000...",
@@ -1204,7 +1465,7 @@
           },
           "body": {
             "en": "Earlier this year, Reg Hyde didn't see the sky or breathe fresh air for 28 days straight. He was shut away with a handful of men, far from his loved ones, in a small pressurised chamber bobbing in the remote ocean.\n\nBut Reg, 28, says he loves this life, because it takes him somewhere he believes is the world's most intriguing place: the bottom of the ocean.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIt's a profession as dangerous as it is mysterious &#x2014; one that demands hardcore risk and extreme isolation in equal measure.\n\nSaturation divers are commercial divers who live for days or weeks in chambers pressurised to mimic depths of 50m-300m. An elevator &#x2014; known as a \"bell\" &#x2014; carries them down to the sea floor for around six-hour shifts, where they perform maintenance, construction or engineering work on oil rigs, bridges, wrecks or on undersea cables and pipelines, before returning to their chamber on the support vessel.\n\nThey are called saturation divers because their bodies are 'saturated' with inert gases in the chamber that mimic the pressures they will experience deep beneath the sea. This state of saturation enables them to remain at that pressure for long periods such as a number of weeks, so long as they undergo one long decompression before surfacing, a process that can take up to five days.\n\nTo Reg, who was once a recreational diver guiding tourists around reefs, assembling new pipelines on an oil rig 188m beneath the sea off the coast of Libya feels like the best job in the world.\n\n\"If it's a new project, you're probably the first person down there &#x2026; it's like going up Everest. You accomplish something. And for us &#x2026; we just want to go deeper, darker &#x2026; It's all adventure for us.\"\n\nHe's even made peace with breathing heliox for weeks at a stretch &#x2014; a helium-oxygen mix used to combat oxygen toxicity and nitrogen narcosis (when divers breathe normal air at depth) &#x2014; even if the side effect is sounding permanently like Donald Duck.\n\nChris Eckert, a 26-year-old from Brisbane, has spent only a few days outside the saturation chamber so far this year.\n\nSpeaking to The Feed by text from an oil field 50km off Mumbai, India &#x2014; where he's working at depths of around 80m, double the recreational limit &#x2014; his heliox-pitched voice was too distorted to follow over a call.\n\n\"Spending so much time away from home and stuck in a little chamber can be a bit painful, but to me it's all worth it when we lock out and drop to the bottom,\" wrote Chris, who started diving in 2019, lured by the freedom and opportunities.\n\n\"I personally think the bottom of the ocean is the most peaceful place on earth.\"\n\nReg...",
-            "zh": "今年早些时候，Reg Hyde 连续 28 天没有看到天空或呼吸到新鲜空气。他与少数人一起被关在远离他所爱之人的一个小型加压室中，该室在偏远的海洋中漂浮。 但 28 岁的雷格表示，他热爱这种生活，因为这会带他去一个他认为世界上最迷人的地方：海底。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这是一个既危险又神秘的职业——既需要极端的风险，又需要极端的孤立。 饱和潜水员是指在模拟 50m-300m 深度的加压舱中生活数天或数周的商业潜水员。电梯（被称为“钟”）将他们带到海底，进行大约六个小时的轮班，在那里他们对石油钻井平台、桥梁、沉船或海底电缆和管道进行维护、施工或工程工作，然后返回支援船上的房间。 他们被称为饱和潜水员，因为他们的身体被舱内的惰性气体“饱和”，模拟了他们在海底深处所经历的压力。这种饱和状态使它们能够长时间保持在该压力下，例如几周，只要它们在浮出水面之前经历一次长时间的减压，这一过程可能需要长达五天的时间。 Reg 曾经是一名休闲潜水员，带领游客游览珊瑚礁，对他来说，在利比亚海岸附近海底 188m 的石油钻井平台上组装新管道感觉像是世界上最好的工作。 “如果这是一个新项目，你可能是第一个到达那里的人……就像登上珠穆朗玛峰一样。你完成了一些事情。对我们来说……我们只是想走得更深、更黑暗……这对我们来说都是冒险。” 他甚至连续数周接受氦氧混合气——一种氦氧混合物，用于对抗氧中毒和氮麻醉（当潜水员在深处呼吸正常空气时）——即使副作用听起来永远像唐老鸭一样。 来自布里斯班的 26 岁克里斯·埃克特 (Chris Eckert) 今年到目前为止只在饱和室外呆了几天。 他在距印度孟买 50 公里的油田发短信接受 The Feed 采访——他在那里工作的水深约为 80m，是娱乐极限的两倍——他的氦氧音调声音太失真，无法接听电话。 克里斯写道：“花这么多时间离开家，被困在一个小房间里可能会有点痛苦，但对我来说，当我们被封锁并跌入海底时，这一切都是值得的。”受到自由和机会的吸引，他于 2019 年开始潜水。 “我个人认为海底是地球上最平静的地方。” 注册..."
+            "zh": "今年早些时候，Reg Hyde 连续 28 天没有看到天空或呼吸到新鲜空气。他与少数人一起被关在远离他所爱之人的一个小型加压室中，该室在偏远的海洋中漂浮。 但 28 岁的雷格表示，他热爱这种生活，因为这会带他去一个他认为世界上最迷人的地方：海底。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这是一个既危险又神秘的职业——既需要极端的风险，又需要极端的孤立。 饱和潜水员是指在模拟 50m-300m 深度的加压舱中生活数天或数周的商业潜水员。电梯（被称为“钟”）将他们带到海底，进行大约六个小时的轮班，在那里他们对石油钻井平台、桥梁、沉船或海底电缆和管道进行维护、施工或工程工作，然后返回支援船上的房间。 他们被称为饱和潜水员，因为他们的身体被舱内的惰性气体“饱和”，模拟了他们在海底深处所经历的压力。这种饱和状态使它们能够长时间保持在该压力下，例如几周，只要它们在浮出水面之前经历一次长时间的减压，这一过程可能需要长达五天的时间。 Reg 曾经是一名休闲潜水员，带领游客游览珊瑚礁，对他来说，在利比亚海岸附近海底 188m 的石油钻井平台上组装新管道感觉像是世界上最好的工作。 “如果这是一个新项目，你可能是第一个到达那里的人……就像登上珠穆朗玛峰一样。你完成了一些事情。对我们来说……我们只是想走得更深、更黑暗……这对我们来说都是冒险。” 他甚至连续数周接受氦氧混合气——一种氦氧混合物，用于对抗氧中毒和氮气麻醉（当潜水员在深处呼吸正常空气时）——即使副作用听起来永远像唐老鸭一样。 来自布里斯班的 26 岁克里斯·埃克特 (Chris Eckert) 今年到目前为止只在饱和室外呆了几天。 他在距印度孟买 50 公里的油田发短信接受 The Feed 采访——他在那里工作的水深约为 80m，是娱乐极限的两倍——他的氦氧音调声音太失真，无法接听电话。 克里斯写道：“花这么多时间离开家，被困在一个小房间里可能会有点痛苦，但对我来说，当我们被封锁并跌入海底时，这一切都是值得的。”受到自由和机会的吸引，他于 2019 年开始潜水。 “我个人认为海底是地球上最平静的地方。” 注册..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1216,105 +1477,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-business-grogonomics-2026-may-28-australia-budget-re",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/business/grogonomics/2026/may/28/australia-budget-reactions-ndis-changes-disabilities-biggest-cuts-dental-ignored",
-          "image": "https://i.guim.co.uk/img/media/bdcb26e0d503e225b2813dcd624c4e29036fd3bf/713_0_6227_4982/master/6227.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=058b85d42598ab57e907b3bfe4f4ccfe",
-          "publishedAt": "2026-05-27T15:00:23.000Z",
-          "title": {
-            "en": "Australians with disabilities copped the biggest cuts in the budget. Yet conservative media’s heart bleeds only for the wealthy | Greg Jericho",
-            "zh": "澳大利亚残疾人遭受了最大的预算削减。然而保守派媒体的心只为富人流血 |格雷格·杰里科"
-          },
-          "summary": {
-            "en": "The reaction to the budget has revealed Australia’s warped priorities, with the appalling inequality in dental care among the issues actively ignored Get our breaking news email, free app or daily news podcast Last Friday while eating breakfast I noticed what I thought was a...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The reaction to the budget has revealed Australia’s warped priorities, with the appalling inequality in dental care among the issues actively ignored Get our breaking news email , free app or daily news podcast Last Friday while eating breakfast I noticed what I thought was a piece of cereal lodged in my gum. After extricating it with my tongue I immediately realised it was a filling that had come out of my tooth. I booked a dentist appointment for later that day. Continue reading...",
-            "zh": "对预算的反应揭示了澳大利亚扭曲的优先事项，在被积极忽视的问题中，牙科保健方面存在着令人震惊的不平等。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 上周五，在吃早餐时，我注意到我以为是一块麦片卡在我的牙龈里。用舌头将其拔出后，我立即意识到这是从我的牙齿中脱落的填充物。我预约了当天晚些时候的牙医预约。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-may-28-ndis-document-reveals-241",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/28/ndis-document-reveals-241000-disability-participants-cut-in-four-years",
-          "image": "https://i.guim.co.uk/img/media/5160fd8143cfae6bd4620adc37ff19c557151873/804_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc99a9741c75731aa76f6abe6436dc32",
-          "publishedAt": "2026-05-27T15:00:22.000Z",
-          "title": {
-            "en": "New NDIS eligibility rules will cut 241,000 participants from scheme in four years, documents reveal",
-            "zh": "文件显示，新的 NDIS 资格规则将在四年内削减 241,000 名计划参与者"
-          },
-          "summary": {
-            "en": "Modelling predicts 241,000 people on the scheme before January 2028 won’t be receiving supports by mid-2031 Get our breaking news email, free app or daily news podcast More than 240,000 participants are expected to be shifted off the national disability insurance scheme in the...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及盼望、忍耐与重建。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Modelling predicts 241,000 people on the scheme before January 2028 won’t be receiving supports by mid-2031 Get our breaking news email , free app or daily news podcast More than 240,000 participants are expected to be shifted off the national disability insurance scheme in the four years after new eligibility rules are introduced, internal documents reveal. Newly released departmental modelling also shows proposed cuts to funding for social, civic and community participation will help achieve the single biggest saving of the measures the Albanese government is pursuing to contain the scheme’s ballooning growth. Continue reading...",
-            "zh": "模型预测，2028 年 1 月之前参加该计划的 241,000 人到 2031 年中期将无法获得支持。内部文件显示，在新的资格规则推出后的四年内，预计将有超过 240,000 名参与者从国家伤残保险计划中退出。新发布的部门模型还显示，拟议削减社会、公民和社区参与资金将有助于实现阿尔巴尼亚政府为遏制该计划不断膨胀而采取的措施中最大的一项节省。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to hope, endurance, and faithful rebuilding. Romans 12:12 reminds us to meet sharp headlines with steady hope and perseverance, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到盼望、忍耐与重建。Romans 12:12提醒我们，在快速变化的新闻里，仍要以坚定盼望与忍耐来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Romans 5:3-4",
-            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
-            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
-            "themeEn": "Suffering produces hope",
-            "themeZh": "患难中的盼望"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-may-27-soft-toys-memes-and-a-mov",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/27/soft-toys-memes-and-a-movie-villain-labor-tries-to-simplify-the-message-but-selling-a-budget-isnt-childs-play",
-          "image": "https://i.guim.co.uk/img/media/18f7cefb4a484f69e599c7699deb15024e793284/457_376_1053_842/master/1053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecdbc2c6dda7915efdc00b417f42610a",
-          "publishedAt": "2026-05-27T15:00:22.000Z",
-          "title": {
-            "en": "Soft toys, memes and a movie villain: Labor tries to simplify the message but selling a budget isn’t child’s play",
-            "zh": "毛绒玩具、迷因和电影反派：工党试图简化信息，但出售预算并不是儿戏"
-          },
-          "summary": {
-            "en": "As the budget fight plays out fiercely online, Labor senator Ellie Whiteaker turns to a zebra and a giraffe for help Get our breaking news email, free app or daily news podcast Selling a complicated federal budget isn’t exactly child’s play – but Anthony Albanese and Jim...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "As the budget fight plays out fiercely online, Labor senator Ellie Whiteaker turns to a zebra and a giraffe for help Get our breaking news email , free app or daily news podcast Selling a complicated federal budget isn’t exactly child’s play – but Anthony Albanese and Jim Chalmers could do worse than following the example of their colleague’s toy giraffe and zebra to help explain their contentious tax changes. The budget fight is dominating parliament and Senate estimates but it’s being fought just as fiercely online. The weapons of choice? Memes, fluffy animals and a questionable reference to a serial killer cannibal. Continue reading...",
-            "zh": "随着预算之争在网上激烈展开，工党参议员埃莉·怀特克向斑马和长颈鹿寻求帮助 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 出售复杂的联邦预算并不完全是儿戏，但安东尼·阿尔巴尼斯和吉姆·查尔默斯可能会比效仿他们同事的玩具长颈鹿和斑马的例子来帮助解释他们备受争议的税收改革，做得更好。预算之争主导了议会和参议院的估计，但网上的斗争也同样激烈。武器选择？模因、毛茸茸的动物以及对连环杀手食人者的可疑提及。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
           },
           "translationState": "fallback"
         },
@@ -1368,8 +1530,8 @@
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "The newly elected Solomon Islands prime minister will visit Australia for talks with Anthony Albanese, with hopes the former China critic will prioritise ties with Canberra ahead of those with Beijing.\n\nAlbanese will host Matthew Wale for a leaders' meeting at Parliament House on 3 June.\n\nWale, who was elected as prime minister earlier this month after his predecessor was removed in a no-confidence vote, will visit alongside a delegation of cabinet ministers.\n\n\"Prime Minister Wale's decision to make Australia his first official international visit emphasises the importance of the relationship between our nations,\" Albanese said.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"Despite the global challenges we confront, we recognise we are stronger facing these together as partners.\"\n\nWale has been critical of a deal signed between the Solomon Islands and China, which was agreed upon in 2022 and sparked concerns from Australia.\n\nThe policing and military deal would impact security in the region and put relationships with other allies at risk, he warned at the time.\n\nHe has since softened his stance, leading a delegation to Beijing and offering support to the nation's 'One China' foreign policy position.\n\nAustralia has signalled it is willing to upgrade security ties with the Solomon Islands, if Wale is prepared to do so.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "新当选的所罗门群岛总理将访问澳大利亚与安东尼·阿尔巴内斯举行会谈，希望这位前中国批评者能优先考虑与堪培拉的关系，而不是与北京的关系。 Albanese 将于 6 月 3 日在议会大厦接待 Matthew Wale 参加领导人会议。 威尔士在其前任因不信任投票被罢免后于本月早些时候当选为总理，他将与内阁部长代表团一起访问。 阿尔巴内塞说：“威尔士总理决定对澳大利亚进行首次正式国际访问，这强调了我们两国关系的重要性。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “尽管我们面临全球挑战，但我们认识到，作为合作伙伴共同应对这些挑战，我们会变得更加强大。” 威尔士一直对所罗门群岛和中国于 2022 年达成的一项协议持批评态度，该协议引发了澳大利亚的担忧。 他当时警告说，这项警务和军事协议将影响该地区的安全，并使与其他盟友的关系面临风险。 此后，他软化了立场，率领代表团访问北京，支持国家的“一个中国”外交政策立场。 澳大利亚已表示，如果威尔士愿意的话，它愿意升级与所罗门群岛的安全关系。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+            "en": "The newly elected Solomon Islands prime minister will visit Australia for talks with Anthony Albanese, with hopes the former China critic will prioritise ties with Canberra over those with Beijing.\n\nAlbanese will host Matthew Wale for a leaders' meeting at Parliament House on 3 June.\n\nWale, who was elected as prime minister earlier this month after his predecessor was removed in a no-confidence vote, will visit alongside a delegation of cabinet ministers.\n\n\"Prime Minister Wale's decision to make Australia his first official international visit emphasises the importance of the relationship between our nations,\" Albanese said.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"Despite the global challenges we confront, we recognise we are stronger facing these together as partners.\"\n\nWale has been critical of a 2022 deal signed between the Solomon Islands and China that sparked concerns from Australia.\n\nThe policing and military deal would impact security in the region and put relationships with other allies at risk, he warned at the time.\n\nHe has since softened his stance, leading a delegation to Beijing and offering support to the nation's 'One China' foreign policy position.\n\nAustralia has signalled it is willing to upgrade security ties with the Solomon Islands, if Wale is prepared to do so.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "新当选的所罗门群岛总理将访问澳大利亚与安东尼·阿尔巴内斯举行会谈，希望这位前中国批评者能优先考虑与堪培拉的关系，而不是与北京的关系。 Albanese 将于 6 月 3 日在议会大厦接待 Matthew Wale 参加领导人会议。 威尔士在其前任因不信任投票被罢免后于本月早些时候当选为总理，他将与内阁部长代表团一起访问。 阿尔巴内塞说：“威尔士总理决定对澳大利亚进行首次正式国际访问，这强调了我们两国关系的重要性。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “尽管我们面临全球挑战，但我们认识到，作为合作伙伴共同应对这些挑战，我们会变得更加强大。” 威尔士一直对所罗门群岛与中国签署的 2022 年协议持批评态度，该协议引发了澳大利亚的担忧。 他当时警告说，这项警务和军事协议将影响该地区的安全，并使与其他盟友的关系面临风险。 此后，他软化了立场，率领代表团访问北京，支持国家的“一个中国”外交政策立场。 澳大利亚已表示，如果威尔士愿意的话，它愿意升级与所罗门群岛的安全关系。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -1381,39 +1543,6 @@
             "textZh": "无智谋，民就败落；谋士多，人便安居。",
             "themeEn": "Wise counsel",
             "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-eating-from-bins-watered-down-food-desperate",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/eating-from-bins-watered-down-food-desperate-ways-aussies-are-trying-to-make-ends-meet/og06x0vw0",
-          "image": "https://assets.sbs.com.au/dims4/default/671c823/2147483647/strip/false/crop/4742x2179+0+35/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fbf%2F8e%2F5be1978b422db4f355a58fd5adce%2Ffoodbank-covid-hampers.jpg",
-          "publishedAt": "2026-05-27T08:07:59.000Z",
-          "title": {
-            "en": "Eating from bins, watered down food: Desperate ways Aussies are trying to make ends meet",
-            "zh": "吃垃圾箱里的食物、兑水的食物：澳大利亚人试图维持收支平衡的绝望方式"
-          },
-          "summary": {
-            "en": "Food charities say there's an emerging group of Australians seeking food relief for the first time.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Food emergency charity providers are calling the ongoing cost of living crisis the \"cost of surviving crisis\", as more and more Australians are not only skipping meals, but eating from bins to cope with severe financial distress.\n\nA report by the Salvation Army released on Wednesday interviewed 4,400 Australians who turned to the charity for emergency relief support, finding that 91 per cent of them had skipped meals in the past 12 months, with one third of them doing so daily.\n\nIt also found 67 per cent of respondents watered down food or drinks to make them last longer, and nearly one in five respondents said they had eaten from bins. Around 60 per cent of respondents said they had eaten expired food.\n\nMajor Warren Elliot from the Salvation Army told SBS News that food insecurity was an issue across Australia.\n\n\"And it's not just families that are on pensions or benefits, it's working families as well, they are experiencing new levels of stress and difficulties,\" he said.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nElliot said the war in the Middle East had worsened the years-long cost of living crisis , as 90 per cent of respondents said they had once been unable to refuel their cars or pay for public transport.\n\nThe report also touched on the impacts of severe financial distress on mental health. One 49-year-old respondent from Victoria noted that she felt like \"a failure\" to her children.\n\n\"Instead of enjoying special times like Christmas, my children's birthdays, or even the tooth fairy, they are just major sources of stress that I start worrying about weeks before they arrive. I've lost all confidence and feel ashamed and embarrassed,\" she said.\n\nWhile some respondents who were parents told the Salvation Army that they would go without food in order to feed their children, 35 per cent of them said their children still had gone to school without a meal in the past 12 months.\n\nRose Darling, chair of the Adelaide-based Community Help and Togetherness, has been providing emergency food support for the past seven years. She's noticed a growing number of people turning to help.\n\n\"It's not just the numbers, it's where we used to get smaller amount where we would just start out with a big breakfast, then we had to do groceries, and now we have to have gluten-free items plus fruit and vegetable plus bread for around 80 to 90 people to take home every Friday,\" she said.\n\nDarling said many people who suffer from food insecurity were senior citizens, elderly women and single parents. However, she's also noticed an emerging group of people in need of help: renters.\n\nShe explained that many renters had suffered from an increase to rent rates, \"and if they are...",
-            "zh": "食品紧急慈善机构将持续的生活成本危机称为“危机生存成本”，因为越来越多的澳大利亚人不仅不吃饭，而且从垃圾箱里吃东西以应对严重的财务困境。 救世军周三发布的一份报告采访了 4,400 名向该慈善机构寻求紧急救济支持的澳大利亚人，发现其中 91% 的人在过去 12 个月里不吃饭，其中三分之一每天都这样做。 调查还发现，67% 的受访者会在食物或饮料中加水以延长其保质期，近五分之一的受访者表示他们从垃圾箱里吃过食物。大约60%的受访者表示他们吃过过期食品。 救世军少校沃伦·艾略特告诉 SBS 新闻，粮食不安全是澳大利亚各地的一个问题。 他说：“不仅是领取养老金或福利的家庭，工薪家庭也面临着新的压力和困难。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 埃利奥特表示，中东战争加剧了长达数年的生活成本危机，90%的受访者表示，他们曾经无法为汽车加油或支付公共交通费用。 该报告还谈到了严重的财务困境对心理健康的影响。一位来自维多利亚的 49 岁受访者指出，她觉得自己对孩子来说是“失败者”。 她说：“我并没有享受圣诞节、孩子们的生日，甚至牙仙子等特殊时刻，反而成为了我在他们到来前几周开始担心的主要压力来源。我失去了所有信心，感到羞愧和尴尬。” 虽然一些身为父母的受访者告诉救世军，他们会为了养活孩子而断食，但其中 35% 的受访者表示，他们的孩子在过去 12 个月里仍然没有吃饭上学。 罗斯·达林（Rose Darling）是阿德莱德社区帮助与团结组织的主席，在过去七年里一直在提供紧急粮食支持。她注意到越来越多的人寻求帮助。 她说：“这不仅仅是数字问题，过去我们的食物量较少，我们只是从一顿丰盛的早餐开始，然后我们必须去买杂货，现在我们必须为大约 80 至 90 人每周五带回家提供无麸质食品、水果和蔬菜以及面包。” 达林说，许多遭受粮食不安全之苦的人是老年人、老年妇女和单亲父母。然而，她也注意到一个新兴的群体需要帮助：租房者。 她解释说，许多租户都因租金上涨而遭受损失，“如果他们......"
-          },
-          "reflection": {
-            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Genesis 2:15",
-            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
-            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
-            "themeEn": "Creation care",
-            "themeZh": "看守受造界"
           },
           "translationState": "fallback"
         }
