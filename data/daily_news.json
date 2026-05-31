@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T15:12:22.355Z",
+  "generatedAt": "2026-05-31T16:57:17.200Z",
   "editionDate": "2026-06-01",
   "sources": [
     {
@@ -105,12 +105,314 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "BBC News World",
         "The Guardian World",
+        "BBC News World",
         "DW World",
         "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-uk-news-2026-may-31-man-arrested-psni-officer-hit-by",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/may/31/man-arrested-psni-officer-hit-by-stolen-police-vehicle-downpatrick",
+          "image": "https://i.guim.co.uk/img/media/fafcecaf54f7e93f69b48bb42e5fec173bc5902a/391_0_2384_1907/master/2384.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=213a398c7d3eefa26ef9d3a0d0e6f3f7",
+          "publishedAt": "2026-05-31T16:49:40.000Z",
+          "title": {
+            "en": "Man, 27, arrested after PSNI officer hit by stolen police vehicle",
+            "zh": "27岁男子因盗窃警车撞击警员被捕，北爱警方展开谋杀未遂调查"
+          },
+          "summary": {
+            "en": "Officials have launched an attempted murder investigation after a police officer was struck by a stolen police vehicle in Downpatrick, Northern Ireland. The 27-year-old man involved in the incident has been arrested.",
+            "zh": "北爱尔兰唐帕特里克警方已对一名警官被盗警车撞击事件展开谋杀未遂调查，一名27岁男子已被捕。"
+          },
+          "body": {
+            "en": "Attempted murder investigation launched after police officer struck by vehicle in Downpatrick Police have launched an attempted murder investigation after an officer was hit by a stolen police vehicle in Northern Ireland. The officer, who fired his gun during the incident at 4.45am on Sunday, had been chasing a suspect on foot after another vehicle had earlier failed to stop for police in the Fountain Street area in Downpatrick, County Down. Continue reading...",
+            "zh": "北爱尔兰一名警官被一辆偷来的警车撞倒后，警方启动了一项谋杀未遂调查。周日凌晨 4 点 45 分，这名警官在事件中开枪，当时另一辆车早些时候在唐郡唐帕特里克喷泉街地区未能为警方停车，随后步行追赶一名嫌疑人。继续阅读..."
+          },
+          "reflection": {
+            "en": "This incident, where a police officer was attacked, underscores the vital role of authority in maintaining societal order. Romans 13:1 reminds us that governing authorities are established by God, serving to uphold justice and peace. Such acts of violence challenge the very fabric of a stable community.",
+            "zh": "这起警官遇袭事件，凸显了权威在维护社会秩序中的重要作用。罗马书13:1提醒我们，执政的权柄是神所设立的，旨在维护公义与和平。此类暴力行为挑战着稳定社会的根基。"
+          },
+          "verse": {
+            "reference": "Romans 13:1",
+            "textEn": "Let everyone be subject to the governing authorities, for there is no authority except that which God has established.",
+            "textZh": "在上有权柄的，人人当顺服他，因为没有权柄不是出于神的。",
+            "themeEn": "God-given authority",
+            "themeZh": "神所立的权柄"
+          },
+          "aiVerseId": "rom_13_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-may-30-paris-police-arrest-paris-saint-ge",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal",
+          "image": "https://i.guim.co.uk/img/media/ea39f7654e64f8289092c59742d1fab1cfddd88a/844_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26e733c617c55e3fb868f861afbc3764",
+          "publishedAt": "2026-05-31T16:31:27.000Z",
+          "title": {
+            "en": "French police arrest 780 after violent clashes as PSG fans celebrate Champions League win",
+            "zh": "法国警方在巴黎圣日耳曼球迷庆祝欧冠胜利后的暴力冲突中逮捕780人"
+          },
+          "summary": {
+            "en": "French police arrested 780 people after violent clashes erupted in Paris and other cities following a Champions League win by Paris Saint-Germain. The interior minister reported 57 officers were injured, and rioters set fires and vandalized shops across about 15 cities.",
+            "zh": "巴黎圣日耳曼队赢得欧洲冠军联赛后，法国巴黎及其他城市爆发了暴力冲突，警方逮捕了780人。内政部长表示，约有15个城市的骚乱者纵火并破坏商店，导致57名警官受伤。"
+          },
+          "body": {
+            "en": "Interior minister says 57 officers injured as rioters set fires and vandalise shops in about 15 cities French police have detained 780 people involved in violent clashes in Paris and other French cities that erupted on Saturday night after Paris Saint-Germain defeated Arsenal to win the Champions League title . The interior minister, Laurent Nuñez, said 57 officers were wounded, with most suffering minor injuries, as football fans set off fires and vandalised shops. One small group even tried to storm a Paris police station. Continue reading...",
+            "zh": "内政部长表示，骚乱者在大约15个城市放火并破坏商店，导致57名警察受伤。周六晚，巴黎圣日耳曼队击败阿森纳队赢得欧洲冠军联赛冠军后，巴黎和其他法国城市爆发了暴力冲突，法国警方已拘留了780人。内政部长洛朗·努涅斯 (Laurent Nuñez) 表示，球迷纵火并破坏商店，造成 57 名警察受伤，其中大多数受轻伤。一小群人甚至试图冲进巴黎警察局。继续阅读..."
+          },
+          "reflection": {
+            "en": "A moment of celebration tragically devolved into widespread violence and destruction, injuring officers and damaging property. This starkly reminds us that true strength is not found in chaotic outbursts, but in the spirit of power, love, and self-control that guides our actions, even in moments of intense emotion.",
+            "zh": "一场庆祝活动悲剧性地演变为广泛的暴力和破坏，导致警官受伤、财产受损。这鲜明地提醒我们，真正的力量并非在于混乱的爆发，而是在于即使在情绪激动时，也能引导我们行为的能力、爱心和自制力。"
+          },
+          "verse": {
+            "reference": "2 Timothy 1:7",
+            "textEn": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
+            "textZh": "神赐给我们，不是胆怯的心，乃是刚强、仁爱、谨守的心。",
+            "themeEn": "Power, love, self-control",
+            "themeZh": "刚强、仁爱、谨守"
+          },
+          "aiVerseId": "2tim_1_7",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-com-news-articles-c0r2ejg1w9xo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f5d8/live/f21a3d80-5d0d-11f1-b682-cf91850925ea.jpg",
+          "publishedAt": "2026-05-31T16:24:56.000Z",
+          "title": {
+            "en": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+            "zh": "法国欧冠骚乱数百人被捕，数十名警察受伤"
+          },
+          "summary": {
+            "en": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A total of 219 people have been injured in clashes between football fans and police across France after Paris Saint-Germain (PSG) won the Champions League final against Arsenal.\n\nEight were in a serious condition, Interior Minister Laurent Nuñez said. Thousands of officers were deployed to curb unrest that disrupted bus, train and rail services in the capital, Paris. Fifty-seven of them were injured.\n\nNuñez said 780 people had been arrested over the violence - with more than 450 in custody. A person was found dead after an accident on Paris's ring road, which rioters tried to block overnight.\n\nSome 6,000 police have been mobilised for Sunday's victory parade, which has begun.\n\nScenes around the site of the Eiffel Tower on Sunday appeared jubilant and peaceful as the parade got under way at around 18:00 local time (17:00 BST), with fans lining the streets to cheer PSG players and staff.\n\nThe celebrations include touring the Champ-de-Mars next to the Eiffel Tower and a reception by French President Emmanuel Macron.\n\nEarlier, the interior minister said the security forces would be \"firm\" in their response to violence.\n\n\"We are a great country for maintaining public order. We allow freedom of assembly, but not excesses,\" he said.\n\nThere was similar violence when PSG won the same trophy last year, with celebrations turning deadly.\n\nThousands of officers had been deployed this time to curb unrest that disrupted bus, train and rail services in Paris.\n\nThe vast Champs-Élysées was swarmed by fans shortly after the local team won in a penalty shootout.\n\nFootage shows flares being set off, electric bikes burning on roads and revellers smashing the glass of at least one shopfront. Police fired tear gas to disperse crowds in the city centre.\n\nParis police made 480 arrests, with 277 taken into custody, including 82 minors.\n\nThe figures were provisional, the Paris prosecutor's office said. It added that offences ranged from attacks on officers to attacks on property, theft, as well as illegal possession of weapons.\n\nThe circumstances surrounding the death of the 24-year-old near Porte Maillot in the Paris ring road remain unclear. Some witnesses said he was riding a motorcycle when he crashed into concrete blocks.\n\nA teenager was also in critical condition following a brawl in another area of Paris. It is not clear if they were involved in the football-related rioting.\n\n\"The vast majority go out to celebrate and it goes very well,\" the French interior minister said on Sunday.\n\n\"But other individuals, who are not PSG supporters, who don't even watch the match, come to cause trouble and disturbances. We are here to prevent them from doing so. Our response is very firm.\"\n\nFar-right leader Marine Le Pen wrote on X: \"Only in France does a football club's victory spark...",
+            "zh": "巴黎圣日耳曼队(PSG)在欧冠决赛中战胜阿森纳队后，法国各地球迷与警察发生冲突，造成219人受伤。 内政部长洛朗·努涅斯表示，八人伤势严重。部署了数千名警察来遏制扰乱首都巴黎公共汽车、火车和铁路服务的骚乱。其中五十七人受伤。 努涅斯说，780 人因暴力事件被捕，其中 450 多人被拘留。巴黎环城公路发生事故后，有人被发现死亡，暴徒连夜试图封锁该道路。 周日胜利游行已经开始，大约有 6,000 名警察被动员起来。 周日，游行于当地时间 18:00（英国夏令时 17:00）左右开始，埃菲尔铁塔周围的场景显得欢乐而和平，球迷们在街道两旁为巴黎圣日耳曼球员和工作人员欢呼。 庆祝活动包括参观埃菲尔铁塔旁边的战神广场以及法国总统埃马纽埃尔·马克龙的招待会。 早些时候，内政部长表示，安全部队将“坚定”地应对暴力事件。 “我们是维护公共秩序的伟大国家。我们允许集会自由，但不允许过度行为，”他说。 去年巴黎圣日耳曼赢得同一座奖杯时也发生了类似的暴力事件，庆祝活动变得致命。 这次部署了数千名警察，以遏制扰乱巴黎公共汽车、火车和铁路服务的骚乱。 当地球队在点球大战中获胜后不久，广阔的香榭丽舍大街就挤满了球迷。 视频显示，有人点燃照明弹，电动自行车在道路上燃烧，狂欢者砸碎了至少一家店面的玻璃。警方发射催泪瓦斯驱散市中心的人群。 巴黎警方逮捕了 480 人，拘留了 277 人，其中包括 82 名未成年人。 巴黎检察官办公室表示，这些数字是临时的。它补充说，犯罪行为包括袭击警察、袭击财产、盗窃以及非法持有武器等。 这名 24 岁男子在巴黎环路马约门附近死亡，具体情况仍不清楚。一些目击者称，他当时正在骑摩托车，撞上了混凝土块。 巴黎另一个地区发生斗殴事件后，一名青少年也情况危急。目前尚不清楚他们是否参与了与足球相关的骚乱。 法国内政部长周日表示：“绝大多数人出去庆祝，一切进展顺利。” “但是其他一些人，不是巴黎圣日耳曼的支持者，甚至不观看比赛，也会来制造麻烦和骚乱。我们来这里是为了阻止他们这样做。我们的反应非常坚决。” 极右翼领导人马琳·勒庞在 X 上写道：“只有在法国，足球俱乐部的胜利才会激发......"
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-may-31-israel-pursuing-scorced-earth-poli",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/may/31/israel-pursuing-scorced-earth-policy-says-lebanon-pm-as-more-airstrikes-hit-countrys-south",
+          "image": "https://i.guim.co.uk/img/media/b628ee56014bdaf7e88697c8b146b43d25b630ff/116_384_1020_816/master/1020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=727131f33ef4bf6dd997a7196b875871",
+          "publishedAt": "2026-05-31T16:18:17.000Z",
+          "title": {
+            "en": "Israel seizes strategic castle in deepest incursion into Lebanon in 26 years",
+            "zh": "以色列深入黎巴嫩境内，进行26年来最深入侵，占领战略城堡"
+          },
+          "summary": {
+            "en": "Israeli troops have made their deepest incursion into Lebanon in over 26 years, capturing a strategic clifftop castle. This action, while largely symbolic, complicates efforts to extend a US-brokered ceasefire and further shatters the existing nominal agreement.",
+            "zh": "以色列军队深入黎巴嫩境内，进行了26年来最深的一次入侵，并占领了一座战略性的悬崖城堡。专家指出，此举虽具象征意义，却使美国和伊朗之间延长停火的努力复杂化，并进一步破坏了名义上的停火协议。"
+          },
+          "body": {
+            "en": "Experts say capture is largely symbolic, but it complicates efforts to extent ceasefire between US and Iran Israeli troops have captured a clifftop castle as they made their deepest incursion into Lebanon in more than 26 years, further shattering a nominal US-brokered ceasefire and complicating efforts to extend the separate truce between the Washington and Tehran. After days of intense fighting and airstrikes in nearby villages, the Israeli defence minister, Israel Katz, said the military had captured Beaufort Castle, also known as Qalaat al-Shaqif, which it had used as a base during its previous occupation of southern Lebanon between 1982 and 2000. Continue reading...",
+            "zh": "专家表示，占领在很大程度上是象征性的，但这使延长美国和伊朗之间停火的努力变得复杂化。以色列军队在对黎巴嫩进行26年来最深入的入侵时占领了一座悬崖顶城堡，进一步破坏了美国斡旋的名义停火，并使延长华盛顿和德黑兰之间单独停火的努力复杂化。经过几天对附近村庄的激烈战斗和空袭，以色列国防部长伊斯雷尔·卡茨表示，军方已经占领了博福特城堡，也称为 Qalaat al-Shaqif，以色列在 1982 年至 2000 年占领黎巴嫩南部期间曾将其用作基地。继续阅读..."
+          },
+          "reflection": {
+            "en": "This news highlights the fragility of peace, as an incursion shatters a ceasefire and complicates diplomatic efforts. Romans 12:18 reminds us of the constant call to pursue peace: \"If it is possible, as far as it depends on you, live at peace with everyone.\" Even when circumstances are challenging, the pursuit of peace remains a vital human and spiritual...",
+            "zh": "这则新闻凸显了和平的脆弱性，一次入侵打破了停火协议，并使外交努力复杂化。罗马书12:18提醒我们，要不断追求和平：“若是能行，总要尽力与众人和睦。” 即使在充满挑战的环境中，追求和平仍然是一项重要的人类和属灵的努力。"
+          },
+          "verse": {
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
+          },
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cglp7p787njo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/89f3/live/bc5821d0-5d08-11f1-9dbd-c1cee1747804.jpg",
+          "publishedAt": "2026-05-31T16:17:25.000Z",
+          "title": {
+            "en": "Blast kills dozens in rebel-held village in Myanmar",
+            "zh": "缅甸反叛村庄发生爆炸，数十人死亡"
+          },
+          "summary": {
+            "en": "A blast in a rebel-held village in Myanmar killed dozens. Insurgents attributed the explosion to mining explosives near the Chinese border.",
+            "zh": "缅甸一个反叛分子控制的村庄发生爆炸，造成数十人死亡。叛乱分子称爆炸是由靠近中国边境的采矿炸药引起的。"
+          },
+          "body": {
+            "en": "An explosion has killed at least 55 people and wounded dozens more in a village in a region of Myanmar, formerly known as Burma, under insurgent control, the BBC has been told.\n\nA source familiar with the situation on the ground in Kaung Tat, a village in Namkham Township in Shan State, near the Chinese border, said 25 women and 30 men had died. Other reports gave slightly different casualty figures.\n\nRescue teams were searching for and extracting people trapped beneath rubble, the source added.\n\nThe Ta'ang National Liberation Army (TNLA), which controls the area and which has been engaged in bitter fighting with Myanmar's military junta, said explosives used in mining and quarrying had exploded.\n\nResidents described scenes of devastation and confusion following the explosion.\n\nOne wrote on social media that many people had initially believed the blast was caused by an air strike.\n\nChildren were among the dead and hundreds of homes had been damaged, affecting almost an entire neighborhood, according to the post.\n\n\"I was sitting in my bedroom eating noodles and looking at my phone. If I had been eating in the kitchen, I probably would not be alive today.\"\n\nThe resident, who said she had suffered a minor leg injury and her own home had been destroyed, described scenes of panic and grief in the aftermath of the blast.\n\n\"People were crying, calling out for their parents,\" she wrote. \"It felt as if the world had come to an end.\"\n\nShe questioned why a facility containing explosives had been allowed to operate close to residential areas, saying families of those killed would not be satisfied unless the authorities provided a full explanation.",
+            "zh": "据英国广播公司 (BBC) 获悉，位于叛乱分子控制下的缅甸地区的一个村庄发生爆炸，造成至少 55 人死亡，数十人受伤。 一位熟悉靠近中国边境的掸邦南康镇康达村当地情况的消息人士称，有 25 名妇女和 30 名男子死亡。其他报告给出的伤亡数字略有不同。 消息人士补充说，救援队正在搜寻并营救被困在瓦砾下的人。 控制该地区并一直与缅甸军政府进行激烈战斗的德昂民族解放军（TNLA）表示，采矿和采石场使用的炸药发生了爆炸。 居民描述了爆炸后的破坏和混乱场景。 一位网友在社交媒体上写道，许多人最初认为爆炸是由空袭造成的。 帖子称，死者中有儿童，数百所房屋受损，几乎影响了整个社区。 “我坐在卧室里一边吃面条，一边看手机。如果我当时在厨房吃饭，我今天可能就活不下去了。” 这名居民说，她的腿部受了轻伤，自己的家也被毁了，她描述了爆炸后恐慌和悲伤的场景。 “人们在哭泣，呼唤他们的父母，”她写道。 “感觉好像世界末日到了。” 她质疑为什么允许在居民区附近运营含有爆炸物的设施，并表示除非当局提供充分解释，否则遇难者家属不会满意。"
+          },
+          "reflection": {
+            "en": "The tragic loss of dozens of lives in this blast reminds us of the profound pain and sorrow that can strike communities, especially in regions marked by conflict. In such moments of deep grief, we hold onto the promise that one day, God will wipe away every tear, and death, mourning, crying, and pain will be no more. This hope anchors us, even as we lament...",
+            "zh": "这次爆炸造成数十人丧生，悲剧提醒我们，社区，尤其是在冲突地区，可能会遭受深重的痛苦和悲伤。在如此深切的悲痛时刻，我们紧紧抓住一个应许：有一天，上帝将擦去所有的眼泪，死亡、悲哀、哭号和疼痛将不再有。这份盼望支撑着我们，即使我们为当前的苦难哀叹。"
+          },
+          "verse": {
+            "reference": "Revelation 21:4",
+            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+            "themeEn": "End of suffering",
+            "themeZh": "苦难的终结"
+          },
+          "aiVerseId": "rev_21_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cdep04kzz5wo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/22ea/live/21fd5600-5cdb-11f1-89a3-d1f559421220.jpg",
+          "publishedAt": "2026-05-31T16:08:57.000Z",
+          "title": {
+            "en": "Israel seizes castle in Lebanon as it expands ground offensive",
+            "zh": "以色列扩大地面攻势，占领黎巴嫩城堡"
+          },
+          "summary": {
+            "en": "The Israeli military has captured the strategic Beaufort Castle and instructed all residents south of the Zahrani river to evacuate as it expands its ground offensive into Lebanon.",
+            "zh": "以色列军方在占领战略要地博福特城堡后，要求扎赫拉尼河以南的所有居民撤离，以扩大其在黎巴嫩的地面攻势。"
+          },
+          "body": {
+            "en": "The Israeli military has captured the strategic site of Beaufort Castle in southern Lebanon, in what Prime Minister Benjamin Netanyahu described as a \"decisive shift\" in its offensive against Hezbollah.\n\nIt comes as ground troops move ever deeper into Lebanese territory beyond their original demarcation line of the Litani river.\n\nMeanwhile the Israel Defense Forces (IDF) increased the zone in southern Lebanon that it has warned residents to evacuate from.\n\nLebanon's prime minister has accused Israel of carrying out \"collective punishment\".\n\nPerched over the Litani valley, Beaufort Castle has been key to controlling the region around it since the Crusaders built it some 900 years ago. The Israeli army captured it 44 years ago in what's known in Israel as the First Lebanon War.\n\nIn a statement on Sunday following its capture, Netanyahu said it was \"a decisive stage and decisive shift in our policy\".\n\n\"We have broken the barrier of fear. We are taking the initiative, we are operating on all fronts - in Syria, in Gaza, in Lebanon,\" he said.\n\nNetanyahu added that his aim was to \"deepen and expand our grip on the places that were under Hezbollah's control\".\n\nDefence Minister Israel Katz recalled the battle 44 years ago against the Palestine Liberation Organisation (PLO) - one of the first of the Lebanon war. He said the Golani Brigade, which took it then, had returned and raised the Israeli flag above it.\n\nSo, it's a highly symbolic as well as strategic victory, as far as Israel is concerned.\n\nIn 1982 Israeli forces occupied the castle - which is just 14.5km (nine miles) from the Israeli border - but left in 2000 when they withdrew from their self-declared buffer zone in southern Lebanon.\n\nFor the Lebanese, it's the latest historic landmark to be seized in recent days, while the city of Nabatieh further north appears to increasingly be a target for the IDF.\n\nKatz said control of the castle and the ridge it stands upon was an important step in protecting Israeli communities on the other side of the border.\n\nThe latest evacuation warning is the second time in recent days that Israel has told residents to leave the entire south of Lebanon below the Zahrani river.\n\n\"Anyone present near Hezbollah elements, facilities or means of combat endangers their life,\" an IDF spokesman said.\n\nThe spokesman said a \"significant number of IDF ground soldiers\" were involved in the operation, which was \"currently expanding to additional areas\".\n\nIt's another clear indication that Israeli ground forces are moving ever deeper into Lebanese territory beyond their original demarcation line of the Litani river.\n\nIsrael says it's been intensifying its onslaught against Hezbollah in response to the Iranian-backed group's ramping up of its own explosive drone and missile attacks,...",
+            "zh": "以色列军方在黎巴嫩南部扩大了警告居民撤离的区域，进一步扩大了针对真主党的地面行动。 以色列国防军（IDF）再次警告扎赫拉尼河以南的所有人离开。 “任何靠近真主党分子、设施或作战手段的人都会危及他们的生命，”一位发言人说。 该警告是在军队确认占领博福特城堡后不久发出的，博福特城堡是利塔尼河上方高山上的一个战略要地。 最新的疏散警告是以色列近几天来第二次要求居民离开扎赫拉尼河以下的整个国家南部地区。 以色列国防军发言人表示，“大量以色列国防军地面士兵”参与了此次行动，该行动“目前正在扩大到其他地区”。 这是另一个明确的迹象，表明以色列地面部队正在越过最初的利塔尼河分界线深入黎巴嫩领土。 与此同时，黎巴嫩卫生部周日表示，提尔市希拉姆医院附近的一次空袭造成 13 名医院工作人员受伤，造成重大损失。 与黎巴嫩有着历史渊源的法国已要求召开联合国国家安全委员会会议，讨论以色列的军事行动。 外交部长让-诺埃尔·巴罗告诉法国网络 BFMTV，这种情况是“以色列的一个重大错误”。 他说：“没有任何理由可以证明以色列在黎巴嫩的军事行动的延长以及对黎巴嫩领土日益深入的占领是合理的。” 就在利塔尼河沿岸，以色列国防军确认已占领该地区的关键战略战利品之一——博福特城堡。大约 900 年前，十字军在利塔尼河上方的悬崖上建造了这座堡垒，从高处俯瞰美景，此后曾多次为争夺而战。 以色列总理本杰明·内塔尼亚胡将此次抓获描述为“一个戏剧性的阶段，也是我们政策的戏剧性变化”。 “我们已经打破了恐惧的障碍。我们正在采取主动，我们在叙利亚、加沙和黎巴嫩的各个战线上开展行动，”他说。 国防部长伊斯雷尔·卡茨回忆了44年前以色列军队为堡垒而战的一场战斗。他说，当时占领该地的戈拉尼旅已经返回，并在上面升起了以色列国旗。 因此，对于以色列而言，这是一次具有高度象征意义和战略意义的胜利。 对于黎巴嫩人来说，这是最近几天占领的最新历史地标，而更北的纳巴蒂耶市似乎越来越成为以色列国防军的目标。 卡茨说，控制城堡及其所在的山脊是保护大洋彼岸以色列社区的重要一步。"
+          },
+          "reflection": {
+            "en": "As military operations expand and communities are displaced, the news reminds us of the enduring human cost of conflict. Psalm 46:9 offers a vision of a future where God brings an end to wars, breaking weapons and establishing peace across the earth. This hope anchors us, even when the present reality feels far from that promise.",
+            "zh": "随着军事行动的扩大和社区的流离失所，这则新闻提醒我们冲突所带来的持久的人类代价。诗篇46:9描绘了一个未来，雅伟将止息战争，折断弓箭，在全地设立和平。这份盼望成为我们的锚，即便当下现实与这应许相去甚远。"
+          },
+          "verse": {
+            "reference": "Psalm 46:9",
+            "textEn": "He makes wars cease to the ends of the earth; he breaks the bow and shatters the spear.",
+            "textZh": "他止息刀兵，直到地极；他折弓断枪。",
+            "themeEn": "God ends wars",
+            "themeZh": "神止息刀兵"
+          },
+          "aiVerseId": "ps_46_9",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-may-31-trump-interior-secretary-concert",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/may/31/trump-interior-secretary-concert-series",
+          "image": "https://i.guim.co.uk/img/media/495ac0f4b3366b10b5a69a943739ee8b736a9968/468_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8de5dad9f64e0484ea03f78abb268eb",
+          "publishedAt": "2026-05-31T16:04:43.000Z",
+          "title": {
+            "en": "Trump’s interior secretary dismisses calls to identify donors for ‘nonpartisan’ concert series",
+            "zh": "特朗普内政部长驳回了为“无党派”系列音乐会确定捐助者的呼吁"
+          },
+          "summary": {
+            "en": "Doug Burgum complains some musicians ‘segmented their audiences’ after artists back out of 250th anniversary event The Trump administration’s interior secretary, Doug Burgum, complained on Sunday that some musicians “seem to have segmented their audiences” after artists bailed...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Doug Burgum complains some musicians ‘segmented their audiences’ after artists back out of 250th anniversary event The Trump administration’s interior secretary, Doug Burgum, complained on Sunday that some musicians “seem to have segmented their audiences” after artists bailed on participating in a concert series planned for the 250th anniversary of the US’s independence. In the interview on CNN’s State of the Union, Burgum also dismissed calls to publicly identified who had made donations for the concert series – and maintained it was a “nonpartisan” event despite Donald Trump referring to it as a rally. Continue reading...",
+            "zh": "道格·布尔古姆 (Doug Burgum) 抱怨艺术家退出 250 周年纪念活动后，一些音乐家“分割了他们的观众”特朗普政府内政部长道格·布尔古姆 (Doug Burgum) 周日抱怨称，在艺术家放弃参加计划为美国独立 250 周年纪念活动举办的系列音乐会后，一些音乐家“似乎分割了他们的观众”。在接受美国有线电视新闻网国情咨文采访时，伯格姆还驳回了公开确认谁为该系列音乐会捐款的呼吁，并坚称这是一场“无党派”活动，尽管唐纳德·特朗普将其称为集会。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-c8094jdpzv3o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/60a6/live/b5404b50-5ce2-11f1-81d4-4b01427112e9.jpg",
+          "publishedAt": "2026-05-31T15:52:42.000Z",
+          "title": {
+            "en": "Laos cave survivors help with plan to find last two missing men",
+            "zh": "老挝洞穴幸存者帮助寻找最后两名失踪男子"
+          },
+          "summary": {
+            "en": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Some of those freed from a flooded cave in Laos are helping in efforts to find the last two missing men trapped inside, rescuers have said.\n\nSo far, five of the seven initially missing have been rescued but it is believed the remaining two men are trapped deeper inside the cave in a mountainous area of the central Xaysomboun province.\n\nThe men, all local villagers, entered the narrow tunnels on 20 May in search of gold but flash floods stopped them from leaving.\n\nA rescuer told AFP on Sunday that several survivors were giving advice from their hospital room on how to find the remaining men, including descriptions of the deeper part of the cave.\n\nA Laotian rescue group said the men's information on the cave system - which extends deep underground and in some places measures around 50cm (20in) wide - was \"considered substantial\" and was being used in preparing a new search plan.\n\nIt comes as reports said the four men who left the cave on Saturday managed to free themselves without the help of rescuers after the water level lowered.\n\nOne unverified video posted to social media showed cheers from both rescuers and onlookers as the men emerged from the cave.\n\nIt was unclear what caused the water to lower, but a Japanese rescue diver told the Associated Press on Sunday that flood water was being drained from the cave.\n\nYoshitaka Isaji said the passage used in rescue efforts on Saturday was currently impassable because a drainage pump had broken, but repair efforts were ongoing.\n\nLater on Sunday, Laos's Rescue Volunteer for People group said on social media that search operations were suspended due to heavy rain causing water to flow down into the cave's entrance. They said efforts would continue on Monday.\n\nAccording to the Met Office forecast for nearby capital Vientiane, rain is unlikely in the region on Monday.\n\nSpecialist divers from other countries including Thailand, Indonesia, France and Australia are also helping the searches.",
+            "zh": "救援人员表示，从老挝一个被洪水淹没的洞穴中获救的一些人正在帮助寻找被困在里面的最后两名失踪男子。 到目前为止，最初失踪的七人中有五人已获救，但据信其余两人被困在赛宋本省中部山区的洞穴深处。 这些人都是当地村民，5 月 20 日进入狭窄的隧道寻找黄金，但山洪爆发阻止他们离开。 一名救援人员周日告诉法新社，几名幸存者正在病房里就如何寻找剩余人员提供建议，包括对洞穴深处的描述。 老挝的一个救援组织表示，这些人提供的有关洞穴系统的信息“被认为是大量的”，该洞穴系统深入地下，有些地方宽约 50 厘米（20 英寸），并正在用于准备新的搜索计划。 据报道，周六离开洞穴的四名男子在水位下降后在没有救援人员帮助的情况下成功逃脱。 社交媒体上发布的一段未经证实的视频显示，当这些人从洞穴中出来时，救援人员和旁观者都发出欢呼。 目前还不清楚是什么原因导致水位下降，但一名日本救援潜水员周日告诉美联社，洪水正在从洞穴中排出。 Yoshitaka Isaji 表示，周六救援工作中使用的通道目前无法通行，因为排水泵坏了，但修复工作正在进行中。 周日晚些时候，老挝人民救援志愿者组织在社交媒体上表示，由于大雨导致水流入洞穴入口，搜索行动暂停。他们表示周一将继续努力。 根据气象局对附近首都万象的预测，周一该地区不太可能下雨。 来自泰国、印度尼西亚、法国和澳大利亚等其他国家的专业潜水员也在帮助搜寻。"
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-may-31-who-calls-for-community-cooperatio",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
+          "image": "https://i.guim.co.uk/img/media/3fa5549e324cf27a4b2597905a7f1e3c3b9b825f/0_0_3524_2818/master/3524.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1b92093b3d645efc2d950392be663a3",
+          "publishedAt": "2026-05-31T15:49:47.000Z",
+          "title": {
+            "en": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
+            "zh": "世卫组织呼吁社区合作遏制刚果民主共和国埃博拉疫情"
+          },
+          "summary": {
+            "en": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri province Containing the Ebola outbreak in the Democratic Republic of Congo requires community cooperation and is “everybody’s business”, the World Health Organization...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及合一、和好与弥合分歧。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri province Containing the Ebola outbreak in the Democratic Republic of Congo requires community cooperation and is “everybody’s business”, the World Health Organization has said. Tedros Adhanom Ghebreyesus , the organisation’s director general, made the plea on Sunday during a visit to eastern Congo where some residents have protested against stringent medical protocols for handling victims’ bodies. Continue reading...",
+            "zh": "世界卫生组织表示，控制刚果民主共和国的埃博拉疫情需要社区合作，而且是“每个人的事”。该组织总干事谭德塞周日在访问刚果东部期间提出了这一呼吁，那里的一些居民抗议处理受害者尸体的严格医疗规定。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到合一、和好与弥合分歧。Ephesians 4:3提醒我们，在快速变化的新闻里，仍要以缔造和平与搭建桥梁来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Galatians 3:28",
+            "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
+            "textZh": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
+            "themeEn": "One in Christ",
+            "themeZh": "基督里合一"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-bbc-com-news-articles-c2027g423glo-at-medium-rss-at-campaign-rss",
           "section": "world",
@@ -146,141 +448,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-jun-01-hecs-debt-indexation-chan",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/01/hecs-debt-indexation-change-university-students-graduates-would-save-billions",
-          "image": "https://i.guim.co.uk/img/media/5faf1ea2acedc2b7062e20c3de0ec371c701a3a5/421_0_2811_2249/master/2811.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fae17d5b91d1d50172297c61df92934",
-          "publishedAt": "2026-05-31T15:00:53.000Z",
-          "title": {
-            "en": "Students would save $3bn over a decade if Labor changed Hecs indexation date by five months",
-            "zh": "如果工党将助学贷款指数化日期提前五个月，学生十年内可节省30亿澳元"
-          },
-          "summary": {
-            "en": "An analysis commissioned by independent MP Monique Ryan indicates that university graduates could save over $3 billion across a decade if the government adjusted the HECS debt indexation date by five months. This comes as HECS debts are set to increase by $1 billion on Monday.",
-            "zh": "独立议员莫妮克·瑞安委托进行的一项成本核算显示，如果政府将助学贷款（HECS）的指数化日期提前五个月，大学生在未来十年内可节省超过30亿澳元。此前，助学贷款债务预计将在周一增加10亿澳元。"
-          },
-          "body": {
-            "en": "Exclusive: Costings commissioned by independent MP Monique Ryan show possible savings for university graduates, as Hecs debts increase by $1bn on Monday Get our breaking news email , free app or daily news podcast University graduates would save more than $3bn over a decade if the government changed the date of indexation on Hecs debts , dubbed a “broken system” in its current form by independent MP Monique Ryan. About 3 million students and graduates will see their Hecs debts increase by $1bn on Monday, when they are indexed by 2.8%. Continue reading...",
-            "zh": "独家：独立议员 Monique Ryan 委托进行的成本计算显示，Hecs 债务周一增加 10 亿美元，大学毕业生可能会节省开支。 如果政府改变 Hecs 债务指数化日期，大学毕业生将在十年内节省超过 30 亿美元。 Hecs 债务目前被独立议员 Monique Ryan 称为“破碎的系统”。周一，大约 300 万学生和毕业生的 Hecs 债务将增加 10 亿美元，届时他们的指数将上涨 2.8%。继续阅读..."
-          },
-          "reflection": {
-            "en": "This news highlights the significant financial weight carried by university graduates due to HECS debts. Proverbs 22:7 reminds us of the inherent burden of debt, where financial obligations can feel like a form of servitude. Thoughtful policy adjustments, like changing indexation dates, can offer meaningful relief and ease the path for many.",
-            "zh": "这则新闻揭示了大学生因助学贷款（HECS）而背负的沉重经济负担。箴言22:7提醒我们债务固有的重担，经济义务有时会让人感到如同受奴役一般。深思熟虑的政策调整，例如改变指数化日期，能为许多人提供实质性的缓解，减轻他们的前行之路。"
-          },
-          "verse": {
-            "reference": "Proverbs 22:7",
-            "textEn": "The rich rule over the poor, and the borrower is slave to the lender.",
-            "textZh": "富户管辖穷人；欠债的是债主的仆人。",
-            "themeEn": "Debt's burden",
-            "themeZh": "债务的重轭"
-          },
-          "aiVerseId": "prov_22_7",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-jun-01-australia-home-prices-fal",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/01/australia-home-prices-fall-year-long-decline-value-prediction",
-          "image": "https://i.guim.co.uk/img/media/32c0be9a7978abbeaaccb91b4e09d58941af407f/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de4fafe3adf1d722863bee857b83b2a0",
-          "publishedAt": "2026-05-31T15:00:52.000Z",
-          "title": {
-            "en": "Australian home prices fall as experts predict slump could last a year and cut values by 10%",
-            "zh": "专家预测澳大利亚房价下跌可能持续一年并下跌 10%"
-          },
-          "summary": {
-            "en": "Buyers abandon auctions and Sydney, Melbourne and Canberra median house prices end May lower than they were at the end of 2025 Get our breaking news email, free app or daily news podcast Home prices in Australia’s capital cities have begun to fall, with experts predicting the...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Buyers abandon auctions and Sydney, Melbourne and Canberra median house prices end May lower than they were at the end of 2025 Get our breaking news email , free app or daily news podcast Home prices in Australia’s capital cities have begun to fall, with experts predicting the decline could last at least a year and wipe as much as 10% from values. The median capital city home price fell in May, the first decline since January 2025, as high interest rates and inflation stretched buyer budgets, Cotality reported on Monday. Auction success hit a new low for the year. Continue reading...",
-            "zh": "买家放弃拍卖，悉尼、墨尔本和堪培拉的房价中值 5 月底低于 2025 年底 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 澳大利亚首府城市的房价已开始下跌，专家预测跌势可能会持续至少一年，价值将下降多达 10%。 Cotality 周一报道称，由于高利率和通货膨胀导致买家预算紧张，5 月份首府城市房价中值下跌，这是自 2025 年 1 月以来的首次下跌。拍卖成交额创年内新低。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-world-live-2026-may-31-middle-east-crisis-live-israe",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/live/2026/may/31/middle-east-crisis-live-israel-lebanon-beaufort-castle-us-iran-nuclear-deal-hormuz-oil-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/832d8769ed73956600747e3bd39905183f5a73f4/36_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=42d51848b3ea5e2f73041c71cd37b0fa",
-          "publishedAt": "2026-05-31T14:56:29.000Z",
-          "title": {
-            "en": "Middle East crisis live: Netanyahu hails capture of castle in Lebanon as nominal ceasefire left in tatters",
-            "zh": "中东危机：以色列军队攻占黎巴嫩战略城堡，系26年来最深入入侵"
-          },
-          "summary": {
-            "en": "The Israeli army has captured a strategic castle in Lebanon, marking its deepest incursion into the country in 26 years. This action occurred despite a nominal ceasefire and shortly before scheduled talks in the US.",
-            "zh": "以色列军队占领了黎巴嫩境内的一座战略城堡，这是26年来对该国最深入的一次入侵。此次行动发生在名义上的停火期间，且就在美国即将举行会谈之前。"
-          },
-          "body": {
-            "en": "Israeli offensive marks deepest incursion into country in 26 years and comes shortly before talks due to be held in the US Israeli troops capture strategic Beaufort Castle as they push deeper into Lebanon By capturing Beaufort castle and pushing past the Litani river, Israeli forces appear to be positioning themselves for a potential encirclement of Nabatieh , a city that serves as an economic centre and a cultural heartland for southern Lebanon, Lorenzo Tondo writes. Control of the surrounding hills would provide commanding views over large parts of southern Lebanon and the western Bekaa valley, offering a significant tactical advantage. Continue reading...",
-            "zh": "尽管名义上停火，而且在美国举行会谈之前不久，纳巴蒂耶市附近的博福特城堡还是被占领。您可以观看下面《卫报》的最新纪录片，了解冲突如何扩大黎巴嫩的分歧。真主党的支持者称该组织为“抵抗组织”，并认为这场冲突事关生死存亡。以色列坚持认为真主党必须解除武装才能实现和平 — — 许多黎巴嫩人也同意这一观点。由于各社区对真主党的未来存在分歧，《卫报》走遍黎巴嫩，了解冲突如何影响全国各地的生活。继续阅读..."
-          },
-          "reflection": {
-            "en": "The news of a military incursion despite a ceasefire and impending talks highlights the fragility of peace. Romans 12:18 reminds us of the human responsibility to pursue peace whenever possible. In a world where conflict often seems inevitable, this verse calls us to actively seek harmony and de-escalation.",
-            "zh": "尽管有停火协议和即将举行的会谈，军事入侵的消息凸显了和平的脆弱性。罗马书12:18提醒我们，只要可能，就有责任追求和平。在一个冲突似乎不可避免的世界里，这节经文呼吁我们积极寻求和谐与降级。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c86dxvql3qno-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7cd3/live/e9e42f20-5cce-11f1-89a3-d1f559421220.jpg",
-          "publishedAt": "2026-05-31T14:01:54.000Z",
-          "title": {
-            "en": "South Africa made to look like fools after World Cup visa issues, says minister",
-            "zh": "南非部长称世界杯签证问题令国家蒙羞"
-          },
-          "summary": {
-            "en": "The country's football association says it is working to resolve the problems that have delayed the team's departure to Mexico.",
-            "zh": "南非足球协会表示，正在努力解决导致球队推迟前往墨西哥的问题。"
-          },
-          "body": {
-            "en": "South Africa's sports minister has demanded an explanation after the country's football team was delayed travelling to Mexico ahead of the World Cup due to visa issues.\n\nThe South African Football Association (Safa) admitted the team had \"experienced challenges regarding Visas for some players and officials\" but did not give further details. National broadcaster SABC described what happened as an \"administrative bungle\".\n\nIn response, sports minister Gayton McKenzie said he had told Safa: \"I need a report and action must be taken against those responsible for this mess.\"\n\nThe team, nicknamed Bafana Bafana, are due to face Jamaica in a friendly in Mexico on Friday.\n\nThey will then play in the World Cup opening match against Mexico, which is co-hosting the competition alongside the US and Canada, on 11 June.\n\n\"This Safa travel & visa debacle is embarrassing & grossly unfair towards the players & coaching staff,\" McKenzie also wrote on X.\n\nA brief statement from Safa said it was \"working around the clock to ensure that the team travels to Mexico City as soon as possible ahead of the opening match\".\n\nAccording to South African news site TimesLive, efforts were being made to get the team US visas to allow the team to travel either later on Sunday or on Monday.\n\nThe Bafana Bafana squad and staff need permission to enter the US as they play their second World Cup game against the Czech Republic in Atlanta.\n\nIts spokesperson Chrispin Phiri told TimesLive that, while it was an administrative issue between Safa and the US consulate, \"we are trying to assist to have this resolved and do believe it will be resolved.\n\n\"We can't put deadlines for another government but we know they are attending to it.\"\n\nSouth Africa is one of 10 African nations taking part in the expanded 48-team World Cup.\n\nThe game against Jamaica will be Bafana Bafana's last chance to get ready for the tournament, which they last appeared at when South Africa hosted the finals in 2010.\n\nTheir final home match on Friday - a 0-0 draw against Nicaragua that included a missed South African penalty - was described in some reports as \"disappointing\" and extended their winless run to four games.",
-            "zh": "由于签证问题，南非足球队在世界杯之前推迟前往墨西哥，南非体育部长要求做出解释。 南非足协（Safa）承认球队“在一些球员和官员的签证方面遇到了挑战”，但没有提供更多细节。国家广播公司 SABC 将此次事件描述为“行政失误”。 对此，体育部长盖顿·麦肯齐表示，他已告诉萨法：“我需要一份报告，必须对那些应对这场混乱负责的人采取行动。” 这支绰号为“巴法纳·巴法纳”的球队将于周五在墨西哥与牙买加队进行一场友谊赛。 随后，他们将在 6 月 11 日对阵与美国和加拿大共同主办世界杯的墨西哥队进行世界杯揭幕战。 麦肯齐还在 X 上写道：“萨法的旅行和签证问题令人尴尬，对球员和教练组来说非常不公平。” 萨法的一份简短声明表示，“正在全天候工作，以确保球队在揭幕战前尽快前往墨西哥城”。 据南非新闻网站 TimesLive 报道，球队正在努力获得美国签证，以便球队可以在周日晚些时候或周一出发。 Bafana Bafana 球队和工作人员需要获得许可才能进入美国，因为他们将在亚特兰大对阵捷克共和国进行第二场世界杯比赛。 其发言人 Chrispin Phiri 告诉 TimesLive，虽然这是 Safa 和美国领事馆之间的行政问题，但“我们正在努力协助解决这个问题，并且相信它会得到解决。” “我们无法为另一届政府设定最后期限，但我们知道他们正在处理这个问题。” 南非是参加扩大后的 48 队世界杯的 10 个非洲国家之一。 对阵牙买加的比赛将是巴法纳为世界杯做准备的最后机会，他们上次参加世界杯是在2010年南非主办决赛时。 他们周五的最后一场主场比赛——0-0战平尼加拉瓜，南非队错失点球——被一些报道描述为“令人失望”，并将他们的不胜场次延长至四场。"
-          },
-          "reflection": {
-            "en": "The delay of the South African football team due to visa issues highlights how a lack of foresight can lead to public embarrassment and disruption. This situation reminds us that careful planning and anticipating potential obstacles are crucial in all endeavors, helping us avoid unnecessary penalties.",
-            "zh": "南非足球队因签证问题而延误行程，这凸显了缺乏远见可能导致公共尴尬和混乱。这提醒我们，在所有努力中，周密的计划和预见潜在障碍至关重要，有助于我们避免不必要的代价。"
-          },
-          "verse": {
-            "reference": "Proverbs 27:12",
-            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
-            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
-            "themeEn": "Foreseeing danger",
-            "themeZh": "防患未然"
-          },
-          "aiVerseId": "prov_27_12",
-          "translationState": "localized"
-        },
-        {
           "id": "www-dw-com-en-space-race-why-portugal-is-reaching-for-the-stars-a-773037",
           "section": "world",
           "source": "DW World",
@@ -312,40 +479,6 @@
             "themeZh": "人的价值"
           },
           "aiVerseId": "ps_8_4",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cdep04kzz5wo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c1d5/live/7e11c3d0-5cdc-11f1-89a3-d1f559421220.jpg",
-          "publishedAt": "2026-05-31T12:18:24.000Z",
-          "title": {
-            "en": "Israel seizes castle in Lebanon as it expands ground offensive",
-            "zh": "以色列扩大地面攻势，占领黎巴嫩城堡"
-          },
-          "summary": {
-            "en": "The Israeli military has captured the strategic Beaufort Castle and instructed all residents south of the Zahrani river to evacuate as it expands its ground offensive into Lebanon.",
-            "zh": "以色列军方在占领战略要地博福特城堡后，要求扎赫拉尼河以南的所有居民撤离，以扩大其在黎巴嫩的地面攻势。"
-          },
-          "body": {
-            "en": "The Israeli military has increased the zone in southern Lebanon that it has warned residents to evacuate from, as it further expands its ground operations against Hezbollah.\n\nThe Israel Defense Forces (IDF) reiterated its warning to everyone south of the Zahrani river to leave.\n\n\"Anyone present near Hezbollah elements, facilities or means of combat endangers their life,\" a spokesman said.\n\nThe warning came shortly after the army confirmed it had taken Beaufort Castle, a strategic point on a high ridge above the Litani river.\n\nThe latest evacuation warning is the second time in recent days that Israel has told residents to leave the entire south of the country below the Zahrani river.\n\nThe IDF spokesman said that a \"significant number of IDF ground soldiers\" were involved in the operation, which was \"currently expanding to additional areas\".\n\nIt's another clear indication that Israeli ground forces are moving ever deeper into Lebanese territory beyond their original demarcation line of the Litani river.\n\nMeanwhile on Sunday Lebanon's Health Ministry said 13 hospital staff had been injured in an airstrike in the vicinity of Hiram hospital in Tyre, which caused significant damage.\n\nFrance, which has historical ties with Lebanon, has requested a meeting of the United National Security Council to discuss the Israeli military operations.\n\nForeign Minister Jean-Noël Barrot told French network BFMTV the situation was a \"major mistake for Israel\".\n\n\"Nothing can justify the prolongation of [Israel's] military operations in Lebanon and its increasingly deep occupation of Lebanese territory,\" he said.\n\nJust over the Litani river line, the IDF has confirmed it has captured one of the key strategic prizes in the area - Beaufort Castle. It was built as a fortress commanding views from high on the cliffs above the Litani river by the Crusaders some 900 years ago, and has been fought over many times since.\n\nIsraeli Prime Minister Benjamin Netanyahu described the capture as \"a dramatic stage and dramatic change in our policy\".\n\n\"We have broken the barrier of fear. We are taking the initiative, we are operating on all fronts - in Syria, in Gaza, in Lebanon,\" he said.\n\nDefence Minister Israel Katz recalled a battle the Israeli army fought for the fort 44 years ago. He said the Golani Brigade, which took it then, had returned and raised the Israeli flag above it.\n\nSo, it's a highly symbolic as well as strategic victory, as far as Israel is concerned.\n\nFor the Lebanese, it's the latest historic landmark to be seized in recent days, while the city of Nabatieh further north appears to be increasingly a target for the IDF.\n\nKatz said control of the castle and the ridge it stands upon was an important step in protecting Israeli communities on the other side of the...",
-            "zh": "以色列军方在黎巴嫩南部扩大了警告居民撤离的区域，进一步扩大了针对真主党的地面行动。 以色列国防军（IDF）再次警告扎赫拉尼河以南的所有人离开。 “任何靠近真主党分子、设施或作战手段的人都会危及他们的生命，”一位发言人说。 该警告是在军队确认占领博福特城堡后不久发出的，博福特城堡是利塔尼河上方高山上的一个战略要地。 最新的疏散警告是以色列近几天来第二次要求居民离开扎赫拉尼河以下的整个国家南部地区。 以色列国防军发言人表示，“大量以色列国防军地面士兵”参与了此次行动，该行动“目前正在扩大到其他地区”。 这是另一个明确的迹象，表明以色列地面部队正在越过最初的利塔尼河分界线深入黎巴嫩领土。 与此同时，黎巴嫩卫生部周日表示，提尔市希拉姆医院附近的一次空袭造成 13 名医院工作人员受伤，造成重大损失。 与黎巴嫩有着历史渊源的法国已要求召开联合国国家安全委员会会议，讨论以色列的军事行动。 外交部长让-诺埃尔·巴罗告诉法国网络 BFMTV，这种情况是“以色列的一个重大错误”。 他说：“没有任何理由可以证明以色列在黎巴嫩的军事行动的延长以及对黎巴嫩领土日益深入的占领是合理的。” 就在利塔尼河沿岸，以色列国防军确认已占领该地区的关键战略战利品之一——博福特城堡。大约 900 年前，十字军在利塔尼河上方的悬崖上建造了这座堡垒，从高处俯瞰美景，此后曾多次为争夺而战。 以色列总理本杰明·内塔尼亚胡将此次抓获描述为“一个戏剧性的阶段，也是我们政策的戏剧性变化”。 “我们已经打破了恐惧的障碍。我们正在采取主动，我们在叙利亚、加沙和黎巴嫩的各个战线上开展行动，”他说。 国防部长伊斯雷尔·卡茨回忆了44年前以色列军队为堡垒而战的一场战斗。他说，当时占领该地的戈拉尼旅已经返回，并在上面升起了以色列国旗。 因此，对于以色列而言，这是一次具有高度象征意义和战略意义的胜利。 对于黎巴嫩人来说，这是最近几天占领的最新历史地标，而更北的纳巴蒂耶市似乎越来越成为以色列国防军的目标。 卡茨说，控制城堡及其所在的山脊是保护大洋彼岸以色列社区的重要一步。"
-          },
-          "reflection": {
-            "en": "As military operations expand and communities are displaced, the news reminds us of the enduring human cost of conflict. Psalm 46:9 offers a vision of a future where God brings an end to wars, breaking weapons and establishing peace across the earth. This hope anchors us, even when the present reality feels far from that promise.",
-            "zh": "随着军事行动的扩大和社区的流离失所，这则新闻提醒我们冲突所带来的持久的人类代价。诗篇46:9描绘了一个未来，雅伟将止息战争，折断弓箭，在全地设立和平。这份盼望成为我们的锚，即便当下现实与这应许相去甚远。"
-          },
-          "verse": {
-            "reference": "Psalm 46:9",
-            "textEn": "He makes wars cease to the ends of the earth; he breaks the bow and shatters the spear.",
-            "textZh": "他止息刀兵，直到地极；他折弓断枪。",
-            "themeEn": "God ends wars",
-            "themeZh": "神止息刀兵"
-          },
-          "aiVerseId": "ps_46_9",
           "translationState": "localized"
         },
         {
@@ -417,6 +550,39 @@
           "translationState": "localized"
         },
         {
+          "id": "www-dw-com-en-meteor-explodes-over-united-states-triggering-sonic-boom-a",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/meteor-explodes-over-united-states-triggering-sonic-boom/a-77361548?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77361509_6.jpg",
+          "publishedAt": "2026-05-31T05:57:00.000Z",
+          "title": {
+            "en": "Meteor explodes over United States, triggering sonic boom",
+            "zh": "流星在美国上空爆炸引发音爆"
+          },
+          "summary": {
+            "en": "A meteor broke apart over the US state of Massachusetts. Several people reported that the buildings they were in shook during the incident.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A meteor broke apart over the US state of Massachusetts. Several people reported that the buildings they were in shook during the incident.\n\nA meteor hurtling toward&#160; Earth's atmosphere exploded over the northeastern United States , causing a loud double boom that shook buildings in Massachusetts and Rhode Island, according to reports on Saturday.\n\nThe phenomenon released energy equivalent to about 300 tons of TNT, accounting for the loud noise, the US space agency,&#160; NASA , wrote in a statement posted on X.\n\nThe meteor, measuring about 3 feet (nearly 1 meter) wide, entered the atmosphere around the New Hampshire border with Massachusetts, north of Boston, the Associated Press cited the American Meteor Society as saying.\n\nThe fireball fragmented over northeastern Massachusetts and southeastern New Hampshire at 2:06 pm (6:06 pm UTC), NASA deputy news chief Jennifer Dooren told news agency AFP.\n\nShe added that&#160;the meteor was traveling at 75,000 miles per hour (more than 120,000 kilometers per hour) when it broke apart at an altitude of 40 miles (64 kilometers) over the area.\n\n\"This fireball was not associated with any currently active meteor shower, but it was a natural object and not a re-entry of space debris or a satellite,\" Dooren said in her statement.\n\nSome people took to social media to report that their houses shook from the noise.\n\nIn some videos circulating online, what sounded like two quick booms could be heard, with no sign of fire, smoke or any visible causes for the noise.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to&#160; select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button , so you'll always see our verified news first.",
+            "zh": "一颗流星在美国马萨诸塞州上空分裂。一些人报告说，事件期间他们所在的建筑物发生了震动。 据周六报道，一颗飞向地球大气层的流星在美国东北部上空爆炸，引起巨大的双重爆炸，震动了马萨诸塞州和罗德岛州的建筑物。 美国航天局 (NASA) 在 X 上发布的一份声明中写道，这种现象释放了相当于约 300 吨 TNT 的能量，这也是造成巨大噪音的原因。 美联社援引美国流星协会的话说，这颗流星宽约3英尺（近1米），进入波士顿北部新罕布什尔州与马萨诸塞州边界周围的大气层。 NASA 新闻副主任 Jennifer Dooren 告诉法新社，火球于下午 2 点 06 分（世界标准时间下午 6 点 06 分）在马萨诸塞州东北部和新罕布什尔州东南部上空破碎。 她补充说，流星以每小时 75,000 英里（超过每小时 120,000 公里）的速度行进，在该地区上空 40 英里（64 公里）的高度处破裂。 多伦在声明中说：“这个火球与任何当前活跃的流星雨都没有关系，但它是一个自然物体，而不是重新进入的太空碎片或卫星。” 一些人在社交媒体上报告说，他们的房子因噪音而摇晃。 在网上流传的一些视频中，可以听到两声快速的轰鸣声，没有火灾、烟雾或任何明显的噪音原因的迹象。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-sbs-com-au-news-article-socceroos-suffer-1-0-defeat-against-mexico-i",
           "section": "world",
           "source": "SBS News World",
@@ -449,6 +615,105 @@
           },
           "aiVerseId": "1cor_9_25",
           "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-af",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/70116729_6.jpg",
+          "publishedAt": "2026-05-31T03:04:00.000Z",
+          "title": {
+            "en": "Ukraine: IAEA seeks access to Zaporizhzhia nuclear plant after reported drone strike",
+            "zh": "乌克兰：据报道无人机袭击后，国际原子能机构寻求进入扎波罗热核电站"
+          },
+          "summary": {
+            "en": "Russia claims that a Ukrainian drone struck the Zaporizhzhia nuclear plant. Ukraine has denied the accusation. The International Atomic Energy Agency has sought to examine the facility.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Russia claims that a Ukrainian drone struck the Zaporizhzhia nuclear plant. Ukraine has denied the accusation. The International Atomic Energy Agency has sought to examine the facility.\n\nThe International Atomic Energy Agency (IAEA) has requested access to the Zaporizhzhia nuclear power plant in southeastern Ukraine after a reported drone strike on the Russian-occupied facility.\n\nThe UN nuclear watchdog said it was informed by the plant —&#160;currently under Kremlin-installed management —&#160;that a drone struck a turbine building in the complex, reportedly leaving a hole in its wall.\n\nOn Saturday, Russia's state nuclear energy company, Rosatom, claimed that a Ukrainian drone had hit the Zaporizhzhia nuclear plant, which was captured by Russian forces ​in March 2022.\n\n\"This afternoon, a Ukrainian kamikaze combat drone ​struck the turbine hall building of Power Unit No. ​6, ‌resulting in a subsequent detonation,\" Rosatom chief Alexei Likhachev said in a statement, calling the incident \"deliberate.\"\n\n\"The explosion caused no damage to the primary equipment; however, it ‌tore a hole in the turbine hall wall,\" he added.\n\nUkraine's military denied attacking the site, calling&#160;Moscow's claims \"yet another propaganda ploy.\"\n\n\"Ukrainian servicemen act strictly within the international humanitarian law and are fully aware of the consequences ⁠of ​any actions targeting nuclear facilities,\" the military ​said in its statement.\n\n\"At the relevant section of the front line, there ​was no active fighting during ‌the incident, and no weapons were used,\" the statement added.\n\nZaporizhzhia is Europe's largest nuclear power plant. It has a capacity of nearly 6,000 megawatts and six reactors, all of which have been shut down for safety since it came under Russian control.\n\nIAEA head ‌Rafael ​Grossi expressed serious concern about the reported incident, the agency said in a statement posted on X.\n\n\"Attacking nuclear sites is like playing with fire,\" it cited Grossi as saying and further added that an IAEA team at the Zaporizhzhia nuclear plant&#160;has requested access to \"examine the affected turbine building first-hand.\"&#160;\n\nThe agency said it would be the first drone attack within the plant site's perimeter since April 2024.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to&#160; select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button , so you'll always see our verified news first.",
+            "zh": "俄罗斯声称乌克兰无人机袭击了扎波罗热核电站。乌克兰否认了这一指控。国际原子能机构已寻求对该设施进行检查。 据报道，俄罗斯占领的扎波罗热核电站遭到无人机袭击，国际原子能机构（IAEA）已请求进入乌克兰东南部的扎波罗热核电站。 联合国核监督机构表示，该核电站（目前由克里姆林宫负责管理）通知其，一架无人机击中了该综合体中的一座涡轮机大楼，据报道在其墙上留下了一个洞。 周六，俄罗斯国家核能公司 Rosatom 声称，一架乌克兰无人机袭击了扎波罗热核电站，该核电站于 2022 年 3 月被俄罗斯军队占领。 俄罗斯国家原子能公司负责人阿列克谢·利哈切夫在一份声明中表示：“今天下午，一架乌克兰神风特攻队战斗机袭击了第 6 号动力装置的涡轮机大厅，导致随后爆炸。”他称这一事件是“故意的”。 “爆炸没有对主要设备造成任何损坏；但是，它在涡轮机大厅的墙上撕开了一个洞，”他补充道。 乌克兰军方否认袭击了该地点，称莫斯科的说法是“又一个宣传策略”。 军方在声明中表示：“乌克兰军人严格遵守国际人道主义法，并充分意识到任何针对核设施的行动的后果。” 声明补充说：“事件发生期间，前线相关路段没有发生激烈战斗，也​​没有使用武器。” 扎波罗热核电站是欧洲最大的核电站。它拥有近 6,000 兆瓦的发电能力和 6 个反应堆，自俄罗斯控制以来，所有反应堆均已出于安全原因关闭。 国际原子能机构负责人拉斐尔·格罗西在 X 上发布的一份声明中表示，该机构对所报道的事件表示严重关切。 报道援引格罗西的话称，“攻击核设施就像玩火”，并进一步补充说，扎波罗热核电站的国际原子能机构小组已请求进入“直接检查受影响的涡轮机建筑”。 该机构表示，这将是自 2024 年 4 月以来该工厂周边首次发生无人机袭击。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-drones-and-second-hand-submarines-latest-auk",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/drones-and-second-hand-submarines-latest-aukus-details-unveiled/zolbu9p5g",
+          "image": "https://assets.sbs.com.au/dims4/default/23f1377/2147483647/strip/false/crop/6000x2757+0+309/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F3f%2Feb%2F43b789514c2da955100811e71318%2Fgettyimages-2278851348.jpg",
+          "publishedAt": "2026-05-31T03:02:31.000Z",
+          "title": {
+            "en": "Drones and second-hand submarines: US 'grateful' for Australia as latest AUKUS details unveiled",
+            "zh": "无人机和二手潜艇：最新 AUKUS 细节公布后，美国对澳大利亚表示“感谢”"
+          },
+          "summary": {
+            "en": "The US has again demanded its allies step up their military budgets at a high-level international defence meeting in Singapore.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "All nuclear-powered submarines Australia will receive under the AUKUS military pact will be second-hand, Defence Minister Richard Marles has revealed.\n\nAustralia had been expecting to receive two used submarines and one new one but now plans for all three to be in-service vessels from the United States Navy.\n\nSpeaking at a high-level gathering of military and defence leaders in Singapore on Sunday, Marles said the new approach would be \"cost-effective\" and \"streamline\" the delivery of the Virginia-class submarines.\n\nIt comes after US defence secretary Pete Hegseth told SBS News that the country is \"grateful\" for Australian support while warning that other allies need to step up their military spending as he outlined the US' vision for Indo-Pacific security.\n\nIn a joint statement with his US and UK counterparts, Marles said the \"seabed is a battlefield\" as he announced a shift in focus from pillar one of the AUKUS deal to pillar two. The first phase's nuclear-powered submarines will be supported by second-phase underwater drones designed to protect underwater infrastructure like internet cables.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"The Deputy Prime Minister and Secretaries welcomed the proposed approach to streamline Australia's acquisition of Virginia-class submarines (VCS), simplifying supply chain management, operational and maintenance requirements, and maximising cost efficiencies,\" Marles said in a statement about the second-hand submarines.\n\n\"This approach would enable Australia to acquire three in-service VCS in lieu of a mixture of new and in-service VCS variants.\"\n\nThe US defence leader emphasised the need for a \"durable balance of power\" in the Pacific to counter Chinese influence during his Saturday speech at the International Institute for Strategic Studies Shangri-La Dialogue, which brings together top defence officials and experts from about 45 countries.\n\n\"The era of the United States subsidising the defence of wealthy nations is over. We need partners, not protectorates. We seek alliances built on shared responsibility, not dependency,\" Hegseth said.\n\n\"For those who continue to free-ride on the generosity of the American taxpayer, hear us now: those days are over. Allies that refuse to stand up and carry their weight for our collective defence will face a clear shift in how we do business,\" he added later.\n\nLast month, US President Donald Trump said he was \"not happy with Australia\" over its perceived failure to come to their aid in opening the Strait of Hormuz &#x2014; a key strategic blow the US has suffered during its conflict with Iran, which continues to cause havoc to global shipping.\n\nSpeaking to SBS News in Singapore, Hegseth...",
+            "zh": "国防部长理查德·马勒斯透露，澳大利亚根据 AUKUS 军事协议接收的所有核动力潜艇都将是二手的。 澳大利亚原本期望接收两艘二手潜艇和一艘新潜艇，但现在计划所有三艘潜艇都来自美国海军。 马勒斯周日在新加坡举行的军事和国防领导人高层聚会上发表讲话时表示，新方法将“具有成本效益”并“简化”弗吉尼亚级潜艇的交付。 此前，美国国防部长皮特·赫格塞斯 (Pete Hegseth) 向 SBS 新闻表示，美国“感谢”澳大利亚的支持，同时在概述美国对印太安全的愿景时警告其他盟友需要增加军费开支。 马尔斯在与美国和英国同行的联合声明中表示，“海底是战场”，他宣布将重点从 AUKUS 协议的第一支柱转向第二支柱。第一阶段的核动力潜艇将得到第二阶段水下无人机的支持，旨在保护互联网电缆等水下基础设施。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 马勒斯在一份有关二手潜艇的声明中表示：“副总理和部长们对简化澳大利亚采购弗吉尼亚级潜艇（VCS）、简化供应链管理、运营和维护要求以及最大限度提高成本效率的拟议方法表示欢迎。” “这种方法将使澳大利亚能够获得三种现役 VCS，而不是混合使用新型和现役 VCS 变体。” 这位美国国防领导人周六在国际战略研究所香格里拉对话会上发表演讲时强调，需要在太平洋地区建立“持久的力量平衡”，以对抗中国的影响力。来自约45个国家的高级国防官员和专家参加了这次对话。 赫格斯说：“美国资助富裕国家国防的时代已经结束。我们需要合作伙伴，而不是保护国。我们寻求建立在共同责任而非依赖之上的联盟。” “对于那些继续搭美国纳税人慷慨解囊的人来说，现在请听我们说：那些日子已经结束了。那些拒绝站出来为我们的集体防御承担责任的盟友将面临我们做事方式的明显转变，”他后来补充道。 上个月，美国总统唐纳德·特朗普表示，他对澳大利亚“不满意”，因为澳大利亚被认为未能帮助他们开放霍尔木兹海峡——这是美国在与伊朗的冲突中遭受的关键战略打击，这场冲突继续对全球航运造成严重破坏。 赫格斯在新加坡接受 SBS 新闻采访时..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-trump-says-he-will-headline-rally-after-arti",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/trump-says-he-will-headline-rally-after-artists-ditch-us-birthday-concerts/6jljobej3",
+          "image": "https://assets.sbs.com.au/dims4/default/b256341/2147483647/strip/false/crop/12857x5908+0+1331/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F2d%2F77%2Fedc9516048b1bdc8d6a8616c1f78%2Fwhite-house-ufc.jpg",
+          "publishedAt": "2026-05-30T22:25:25.000Z",
+          "title": {
+            "en": "Trump says he will headline US birthday event himself after artists drop out",
+            "zh": "特朗普表示，在艺术家退出后，他将亲自主持美国生日活动"
+          },
+          "summary": {
+            "en": "Several musical performers scheduled to appear in the celebration have cancelled, citing concerns about its association with the US president.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "US President Donald Trump, claiming he could draw larger audiences than Elvis Presley, said overnight he was considering headlining a Washington rally after several artists quit events celebrating the country's 250th anniversary.\n\nShortly after they were announced as performers in a concert series around the 4 July holiday, several musical acts backed out, with some citing politicisation of the event.\n\nThe concerts were scheduled to kick off on 25 June as part of a major exposition on the National Mall organised by Freedom 250, a Trump-backed public-private entity.\n\n\"I understand Artists are getting 'the yips'\" about performing, Trump posted on Truth Social, one day after a fourth and fifth act announced their departure, out of a total of nine artists originally announced.\n\n\"So I am thinking about bringing the Number One Attraction anywhere in the World, the man who gets much larger audiences than Elvis in his prime ... and the man who some say is the Greatest President in History (THE GOAT!), DONALD J. TRUMP, to take the place of these highly paid, Third Rate 'Artists.'\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nTrump said he was ordering aides to assess \"the feasibility of doing an AMERICA IS BACK Rally on Wednesday\" on the mall, where he would deliver a speech \"rallying the Country forward like I have done ever since being President!\"\n\nThe Republican leader did not specify which Wednesday he was eyeing, nor did he describe which events his rally was meant to supersede.\n\nThe statement came a day after multiple artists, including country singer Martina McBride and glam rocker Bret Michaels, frontman of 1980s band Poison, said they were dropping out of the White House-backed concert series.\n\n\"Unfortunately, what was presented to us as a celebration of our country has evolved into something much more divisive than what I agreed to be a part of,\" Michaels posted on social media.\n\nTrump has openly tried to stamp his mark on the celebrations, most notably by staging an ultra-violent mixed martial arts fight in a specially constructed arena on the White House lawn on 14 June &#x2014; his 80th birthday.\n\nIn a country that regularly produces many of the world's biggest global stars, the remaining line-up of artists whose prime came and went decades ago &#x2014; such as Vanilla Ice and C+C Music Factory &#x2014; has sparked a flood of sarcastic comments on social media.\n\nThe concerts were planned as the opening ceremony of the Great American State Fair, a 16-day event running from 25 June to 10 July.\n\nThe Freedom 250 group said the fair would stretch on the National Mall from the US Capitol to the Washington Monument, with concert stages, state pavilions,...",
+            "zh": "美国总统唐纳德·特朗普声称他可以吸引比猫王埃尔维斯·普雷斯利更多的观众，在几位艺术家退出庆祝美国建国 250 周年的活动后，他隔夜表示正在考虑在华盛顿集会上担任主角。 在他们被宣布成为 7 月 4 日假期前后一系列音乐会的表演者后不久，一些音乐表演就退出了，其中一些人认为该活动被政治化。 这些音乐会定于 6 月 25 日开幕，是特朗普支持的公私实体 Freedom 250 在国家广场举办的大型博览会的一部分。 特朗普在《真相社交》上发帖称，“我知道艺术家们对表演感到‘大吃一惊’”，一天前，在最初宣布的九名艺术家中，有第四名和第五名艺术家宣布退出。 “因此，我正在考虑将世界第一的吸引力带到世界各地，这个人比巅峰时期的埃尔维斯拥有更多的观众......以及有人说是历史上最伟大的总统（山羊！）的唐纳德·J·特朗普，来取代这些高薪的三流‘艺术家’。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 特朗普表示，他正在命令助手评估“周三在商场举行美国回归集会的可行性”，他将在那里发表演讲，“像我担任总统以来所做的那样，团结国家前进！” 这位共和党领袖没有具体说明他的目标是哪个星期三，也没有描述他的集会要取代哪些活动。 就在这一声明发布的前一天，包括乡村歌手玛蒂娜·麦克布莱德 (Martina McBride) 和 20 世纪 80 年代 Poison 乐队主唱、华丽摇滚歌手布雷特·迈克尔斯 (Bret Michaels) 在内的多位艺术家表示，他们将退出白宫支持的系列音乐会。 迈克尔斯在社交媒体上发帖称：“不幸的是，为我们国家举办的庆祝活动已经演变成比我同意参与的活动更具分裂性的活动。” 特朗普公开试图在庆祝活动中打上自己的印记，最引人注目的是在 6 月 14 日（他的 80 岁生日）在白宫草坪上专门建造的竞技场上演了一场极端暴力的综合武术比赛。 在这个经常诞生许多世界级巨星的国家，仅存的数十年前巅峰时期的艺术家阵容——例如 Vanilla Ice 和 C+C Music Factory——在社交媒体上引发了大量讽刺评论。 这些音乐会原计划作为伟大的美国州博览会的开幕式，该博览会将于 6 月 25 日至 7 月 10 日举行，为期 16 天。 自由 250 团体表示，博览会将在国家广场上从美国国会大厦一直延伸到华盛顿纪念碑，设有音乐会舞台、国家馆……"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
         }
       ]
     },
@@ -463,11 +728,44 @@
         "zh": "聚焦中国内部政策走向、社会变化与国家动态。"
       },
       "sourceNotes": [
+        "The Guardian China",
         "DW Asia China Focus",
-        "BBC News China Focus",
-        "The Guardian China"
+        "BBC News China Focus"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-commentisfree-2026-may-31-the-guardian-view-on-the-s",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/commentisfree/2026/may/31/the-guardian-view-on-the-splinternet-where-china-led-iran-and-others-are-eagerly-following",
+          "image": "https://i.guim.co.uk/img/media/e43305386a03dd01b6b6f78d29a6600dbf3b4ff3/318_0_4920_3936/master/4920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=51b45f94466f5b5dce7a542354424f94",
+          "publishedAt": "2026-05-31T16:29:52.000Z",
+          "title": {
+            "en": "The Guardian view on the splinternet: where China led, Iran and others are eagerly following | Editorial",
+            "zh": "《卫报》对分裂网络的看法：中国引领的方向，伊朗和其他国家紧随其后|社论"
+          },
+          "summary": {
+            "en": "Authoritarian states are increasingly shutting off or throttling access to the internet, creating separate spheres in a realm built on connection China boasts of having the world’s largest population of internet users: 1.125 billion by the end of 2025, according to official...",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Authoritarian states are increasingly shutting off or throttling access to the internet, creating separate spheres in a realm built on connection China boasts of having the world’s largest population of internet users: 1.125 billion by the end of 2025, according to official figures . But as one joke has it, the Great Firewall – blocking not only politically sensitive material but also global tech firms such as Google and Meta – has produced what looks more like the world’s largest intranet. Beijing is not an anomaly, but a pioneer. Its extraordinary investment in the apparatus of “cyber sovereignty” – others would call it censorship and repression – is guiding other authoritarian countries. A realm defined by connection is fragmenting not just from commercial greed and filter bubbles but due to state fiat, birthing the splinternet . Continue reading...",
+            "zh": "独裁国家越来越多地关闭或限制对互联网的访问，在一个建立在连接基础上的领域中创建了独立的领域。中国自诩拥有世界上最多的互联网用户：根据官方数据，到 2025 年底，互联网用户数量将达到 11.25 亿。但正如一个笑话所说，防火长城——不仅阻止政治敏感材料，还阻止谷歌和 Meta 等全球科技公司——已经产生了看起来更像是世界上最大的内部网。北京不是特例，而是先锋。它对“网络主权”机构（其他人称之为审查和镇压）的非凡投资正在指导其他独裁国家。由连接定义的领域正在分裂，不仅是由于商业贪婪和过滤泡沫，而且是由于国家法令，催生了分裂的互联网。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-dw-com-en-japan-and-china-trade-accusations-at-shangri-la-dialogue-a",
           "section": "china",
@@ -671,40 +969,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-world-2026-may-30-us-more-than-capable-of-resuming-w",
-          "section": "china",
-          "source": "The Guardian China",
-          "sourceUrl": "https://www.theguardian.com/world/china/rss",
-          "link": "https://www.theguardian.com/world/2026/may/30/us-more-than-capable-of-resuming-war-against-iran-pete-hegseth-says",
-          "image": "https://i.guim.co.uk/img/media/8beb7786369353686089a37c7502d402c1506cde/478_358_6433_5146/master/6433.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d28563b04fc5b2dcd122b02452bb1645",
-          "publishedAt": "2026-05-30T05:58:35.000Z",
-          "title": {
-            "en": "US ‘more than capable’ of resuming war against Iran, Pete Hegseth says",
-            "zh": "美国官员称美国“完全有能力”恢复对伊朗战争"
-          },
-          "summary": {
-            "en": "The US warned on Saturday it was “more than capable” of resuming war with Iran after President Donald Trump said any peace deal must... Pentagon chief also tells Singapore defence summit of ‘alarm’ at China’s military buildup but says US does not seek ‘needless confrontation’.",
-            "zh": "美国周六警告称，在美国总统唐纳德·特朗普表示任何和平协议都必须……之后，美国“完全有能力”恢复与伊朗的战争。五角大楼负责人还在新加坡国防峰会上表示对中国军力建设感到“担忧”，但称美国不寻求“不必要的对抗”。"
-          },
-          "body": {
-            "en": "Pentagon chief also tells Singapore defence summit of ‘alarm’ at China’s military buildup but says US does not seek ‘needless confrontation’ The US warned on Saturday it was “more than capable” of resuming war with Iran after President Donald Trump said any peace deal must adhere to his red lines, including Tehran never being able to develop nuclear weapons. The White House had signalled Trump was close to a decision on an initial deal on Friday after weeks of mixed signals in tenuous negotiations, though Tehran denied there was a final agreement on ending the Middle East conflict that has jolted the global economy. Continue reading...",
-            "zh": "五角大楼负责人还向新加坡防务峰会对中国的军力建设表示“震惊”，但表示美国并不寻求“不必要的对抗”。美国周六警告称，在唐纳德·特朗普总统表示任何和平协议都必须遵守他的红线（包括德黑兰永远无法发展核武器）后，美国“完全有能力”恢复与伊朗的战争。经过数周脆弱的谈判，白宫发出信号，特朗普即将在周五就初步协议做出决定，不过德黑兰否认就结束中东冲突达成最终协议，这场冲突震动了全球经济。继续阅读..."
-          },
-          "reflection": {
-            "en": "In a world where nations speak of military capability and express alarm at arms buildups, Isaiah's vision offers a profound counter-narrative. It reminds us of a future hope where the tools of conflict are transformed into instruments of peace and productivity. This prophetic word calls us to imagine a time when swords are beaten into plowshares, and...",
-            "zh": "在一个国家谈论军事能力并对军备建设表示担忧的世界里，以赛亚的异象提供了一个深刻的对立叙事。它提醒我们一个充满希望的未来，那时冲突的工具将被转化为和平与生产的工具。这句预言呼唤我们去想象一个刀剑被打成犁头，万国不再学习战争的时代。"
-          },
-          "verse": {
-            "reference": "Isaiah 2:4",
-            "textEn": "They will beat their swords into plowshares and their spears into pruning hooks.",
-            "textZh": "他们要将刀打成犁头，把枪打成镰刀。",
-            "themeEn": "Disarmament",
-            "themeZh": "化干戈为玉帛"
-          },
-          "aiVerseId": "isa_2_4",
-          "translationState": "localized"
-        },
-        {
           "id": "www-dw-com-en-shangri-la-dialogue-hegseth-says-no-state-including-china-",
           "section": "china",
           "source": "DW Asia China Focus",
@@ -824,24 +1088,91 @@
       ],
       "items": [
         {
-          "id": "www-theguardian-com-australia-news-2026-may-31-thousands-without-power-s",
+          "id": "www-theguardian-com-australia-news-2026-jun-01-hecs-debt-indexation-chan",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/31/thousands-without-power-storm-winds-perth-margaret-river-mandurah-wa-weather",
-          "image": "https://i.guim.co.uk/img/media/ea2e84b6452c874a8e5c7c807fbced62a77ecf79/81_0_4758_3809/master/4758.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=862d00506d340131747116360089d9fd",
-          "publishedAt": "2026-05-31T08:38:36.000Z",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/01/hecs-debt-indexation-change-university-students-graduates-would-save-billions",
+          "image": "https://i.guim.co.uk/img/media/5faf1ea2acedc2b7062e20c3de0ec371c701a3a5/421_0_2811_2249/master/2811.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fae17d5b91d1d50172297c61df92934",
+          "publishedAt": "2026-05-31T15:00:53.000Z",
           "title": {
-            "en": "Thousands without power in Perth as destructive storms hit WA",
-            "zh": "破坏性风暴袭击西澳，珀斯数千人断电"
+            "en": "Students would save $3bn over a decade if Labor changed Hecs indexation date by five months",
+            "zh": "如果工党将助学贷款指数化日期提前五个月，学生十年内可节省30亿澳元"
           },
           "summary": {
-            "en": "Wind gusts up to 125km/h forecast to hit city as residents urged to stay away from windows Get our breaking news email, free app or daily news podcast Intense storms are lashing the western coast of Australia with an unusually deep low pressure system packing powerful winds and...",
+            "en": "An analysis commissioned by independent MP Monique Ryan indicates that university graduates could save over $3 billion across a decade if the government adjusted the HECS debt indexation date by five months. This comes as HECS debts are set to increase by $1 billion on Monday.",
+            "zh": "独立议员莫妮克·瑞安委托进行的一项成本核算显示，如果政府将助学贷款（HECS）的指数化日期提前五个月，大学生在未来十年内可节省超过30亿澳元。此前，助学贷款债务预计将在周一增加10亿澳元。"
+          },
+          "body": {
+            "en": "Exclusive: Costings commissioned by independent MP Monique Ryan show possible savings for university graduates, as Hecs debts increase by $1bn on Monday Get our breaking news email , free app or daily news podcast University graduates would save more than $3bn over a decade if the government changed the date of indexation on Hecs debts , dubbed a “broken system” in its current form by independent MP Monique Ryan. About 3 million students and graduates will see their Hecs debts increase by $1bn on Monday, when they are indexed by 2.8%. Continue reading...",
+            "zh": "独家：独立议员 Monique Ryan 委托进行的成本计算显示，Hecs 债务周一增加 10 亿美元，大学毕业生可能会节省开支。 如果政府改变 Hecs 债务指数化日期，大学毕业生将在十年内节省超过 30 亿美元。 Hecs 债务目前被独立议员 Monique Ryan 称为“破碎的系统”。周一，大约 300 万学生和毕业生的 Hecs 债务将增加 10 亿美元，届时他们的指数将上涨 2.8%。继续阅读..."
+          },
+          "reflection": {
+            "en": "This news highlights the significant financial weight carried by university graduates due to HECS debts. Proverbs 22:7 reminds us of the inherent burden of debt, where financial obligations can feel like a form of servitude. Thoughtful policy adjustments, like changing indexation dates, can offer meaningful relief and ease the path for many.",
+            "zh": "这则新闻揭示了大学生因助学贷款（HECS）而背负的沉重经济负担。箴言22:7提醒我们债务固有的重担，经济义务有时会让人感到如同受奴役一般。深思熟虑的政策调整，例如改变指数化日期，能为许多人提供实质性的缓解，减轻他们的前行之路。"
+          },
+          "verse": {
+            "reference": "Proverbs 22:7",
+            "textEn": "The rich rule over the poor, and the borrower is slave to the lender.",
+            "textZh": "富户管辖穷人；欠债的是债主的仆人。",
+            "themeEn": "Debt's burden",
+            "themeZh": "债务的重轭"
+          },
+          "aiVerseId": "prov_22_7",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-01-former-social-commissione",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/01/former-social-commissioner-june-oscar-interview-reconciliation-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/d05387b783d8442fd68c532fb1701e8ac6f079cb/713_0_3375_2700/master/3375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b4900a6d830d9e820d3ba770feaa0d2",
+          "publishedAt": "2026-05-31T15:00:53.000Z",
+          "title": {
+            "en": "June Oscar on family, history and the need for courage to keep the dream of reconciliation alive",
+            "zh": "琼·奥斯卡谈家庭、历史以及保持和解梦想所需的勇气"
+          },
+          "summary": {
+            "en": "The former social justice commissioner was 53 when she first spoke to her half-brother and began healing her divided family. But her aspirations for reconciliation go much further Get our breaking news email, free app or daily news podcast On a day in 2015, June Oscar waited by...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及合一、和好与弥合分歧。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The former social justice commissioner was 53 when she first spoke to her half-brother and began healing her divided family. But her aspirations for reconciliation go much further Get our breaking news email , free app or daily news podcast On a day in 2015, June Oscar waited by the phone to call a brother she had never met. They share a father but had been separated by race and a shared history that was never spoken about. She had been wrestling with how to tell that side of the family, and wondered how she would be received, but settled on telling the truth. Continue reading...",
+            "zh": "这位前社会正义专员在 53 岁的时候第一次与同父异母的兄弟交谈，并开始治愈她分裂的家庭。但她对和解的渴望更进一步 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 2015 年的一天，琼·奥斯卡 (June Oscar) 在电话旁等待给她从未见过的兄弟打电话。他们有共同的父亲，但却因种族和从未被提及的共同历史而分开。她一直在考虑如何告诉家人，也不知道他们会如何对待她，但她最终还是决定说实话。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到合一、和好与弥合分歧。Ephesians 4:3提醒我们，在快速变化的新闻里，仍要以缔造和平与搭建桥梁来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Galatians 3:28",
+            "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
+            "textZh": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
+            "themeEn": "One in Christ",
+            "themeZh": "基督里合一"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-film-2026-jun-01-beast-mma-fighter-film-review-tyler",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/film/2026/jun/01/beast-mma-fighter-film-review-tyler-atkins-russell-crowe",
+          "image": "https://i.guim.co.uk/img/media/53d54492254cbc11925f94a10e5fc04fee3f2892/170_0_2938_2350/master/2938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=d991ced57e907a83295dd1e8a885501f",
+          "publishedAt": "2026-05-31T15:00:53.000Z",
+          "title": {
+            "en": "Beast review – down-and-out MMA fighter film is predictable but still lands punches",
+            "zh": "野兽评论——落魄的综合格斗电影是可以预见的，但仍然会受到打击"
+          },
+          "summary": {
+            "en": "Directed by Tyler Atkins and co-written by Russell Crowe, this Australian feature follows a familiar playbook – but you’ll find yourself surprisingly invested Ah, yes: the promising fighter who could’ve been a contender, could’ve been a champion. But then life intervened: bad...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Wind gusts up to 125km/h forecast to hit city as residents urged to stay away from windows Get our breaking news email , free app or daily news podcast Intense storms are lashing the western coast of Australia with an unusually deep low pressure system packing powerful winds and heavy rain. The extreme weather eventbrought wind gusts of up to 125 km/h to Perth and communities along Western Australia’s coast on Sunday afternoon. Continue reading...",
-            "zh": "预计阵风将袭击城市，居民应远离窗户，获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 强烈的风暴正以异常深的低压系统袭击澳大利亚西海岸，带来强风和大雨。周日下午，极端天气事件给珀斯和西澳大利亚海岸社区带来了高达 125 公里/小时的阵风。继续阅读..."
+            "en": "Directed by Tyler Atkins and co-written by Russell Crowe, this Australian feature follows a familiar playbook – but you’ll find yourself surprisingly invested Ah, yes: the promising fighter who could’ve been a contender, could’ve been a champion. But then life intervened: bad decisions were made, promises broken, the wrong paths taken. But what if the past came knocking on his door? What if our long-in-the-tooth hero could have another crack, set things right, get in the ring one more time? To say that Tyler Atkins’ Australian martial arts drama Beast plucks moves from a well-worn playbook is putting it lightly. This is one of those genre films in which nothing surprises in broad terms; it’s the small pivots and deviations that matter. Given the ring of familiarity surrounding everything, I was surprised to find myself as invested in the film as I was, particularly because so many chest-thumping sports movies are already out there, many of which I find about as intellectually engaging as the back of a bag of protein powder. Continue reading...",
+            "zh": "这部澳大利亚故事片由泰勒·阿特金斯 (Tyler Atkins) 执导，罗素·克劳 (Russell Crowe) 联合编剧，遵循熟悉的剧本 - 但你会发现自己出人意料地投入了啊，是的：这位有前途的拳手本可以成为竞争者，本可以成为冠军。但随后生活介入了：做出了错误的决定，违背了承诺，走上了错误的道路。但如果过去来敲他的门怎么办？如果我们的长牙英雄能够再次出现裂缝，纠正一切，再次进入拳击场怎么办？如果说泰勒·阿特金斯 (Tyler Atkins) 的澳大利亚武侠剧《野兽》(Beast) 从一套陈旧的剧本中汲取了动作，那就太轻描淡写了。这是一部从广义上讲没有什么令人惊讶的类型电影。重要的是小的枢轴和偏差。考虑到周围一切的熟悉感，我惊讶地发现自己对这部电影如此投入，特别是因为已经有这么多令人振奋的体育电影，其中许多我发现就像一袋蛋白粉的背面一样在智力上引人入胜。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -857,24 +1188,57 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-may-31-australian-greens-zack-po",
+          "id": "www-theguardian-com-environment-2026-jun-01-gas-usage-australia-structur",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/31/australian-greens-zack-polanski-england-wales-leader-connect-with-anger-to-counter-rightwing-populism-one-nation",
-          "image": "https://i.guim.co.uk/img/media/91d1534b27954978d5b9866f80b853b28a345d72/943_130_5041_4034/master/5041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=808d9cdc887011cd4c217b8d237009e8",
-          "publishedAt": "2026-05-31T08:30:41.000Z",
+          "link": "https://www.theguardian.com/environment/2026/jun/01/gas-usage-australia-structural-decline",
+          "image": "https://i.guim.co.uk/img/media/5e85107add688802688910ec8b127178d48de914/93_0_4350_3480/master/4350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=259518b46d401d8e07c12e94948e2cc5",
+          "publishedAt": "2026-05-31T15:00:52.000Z",
           "title": {
-            "en": "English Green party leader Zack Polanski tells Australian colleagues to ‘connect with anger’ to counter rightwing populism",
-            "zh": "绿党领袖扎克波兰斯基告诉澳大利亚同事要“与愤怒联系”以对抗右翼民粹主义"
+            "en": "Gas usage has peaked and is now in structural decline across Australia, report says",
+            "zh": "报告称，澳大利亚天然气使用量已达到顶峰，目前正在结构性下降"
           },
           "summary": {
-            "en": "Australian Greens should ‘take on’ Pauline Hanson’s One Nation, Polanski tells Victorian conference, just as he took on Nigel Farage’s Reform UK Get our breaking news email, free app or daily news podcast Zack Polanski, the leader of the Green party of England and Wales, has...",
+            "en": "Grattan Institute calls on Labor to set policies that will further reduce the use of gas in order to meet net zero targets Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here After more than a half a century of growth, the use of gas in...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Grattan Institute calls on Labor to set policies that will further reduce the use of gas in order to meet net zero targets Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here After more than a half a century of growth, the use of gas in Australia has peaked in all sectors and entered a “structural decline”. But use will need to fall fast to meet climate targets, according to new research from an influential thinktank. The Grattan Institute warned the government had failed to acknowledge the decline and instead needed policies to further reduce gas use and avoid the need for expensive carbon capture technologies to meet net zero targets. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
+            "zh": "格拉坦研究所呼吁工党制定进一步减少天然气使用的政策，以实现净零排放目标。在经历了半个多世纪的增长之后，澳大利亚的天然气使用量在所有行业都达到了顶峰，并进入了“结构性下降”。但根据一家有影响力的智库的最新研究，为了实现气候目标，使用量需要迅速下降。格拉坦研究所警告说，政府未能承认这一下降，而是需要制定政策进一步减少天然气使用，并避免需要昂贵的碳捕获技术来实现净零目标。注册以获取气候与环境编辑 Adam Morton 的 Clear Air 专栏作为免费时事通讯 继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-society-2026-jun-01-state-owned-land-is-luke-quinns-",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/society/2026/jun/01/state-owned-land-is-luke-quinns-final-refuge-from-council-patrols-but-soon-even-that-meagre-safety-could-disappear",
+          "image": "https://i.guim.co.uk/img/media/a33efaae4a304619bdb17e751b62da5b45571626/917_709_4101_3281/master/4101.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fe77658516fed81f2beee4514130713",
+          "publishedAt": "2026-05-31T15:00:52.000Z",
+          "title": {
+            "en": "State-owned land is Luke Quinn’s final refuge from council patrols — but soon even that meagre safety could disappear",
+            "zh": "国有土地是卢克·奎因 (Luke Quinn) 躲避议会巡逻的最后避难所——但很快，即使是这种微薄的安全也可能消失"
+          },
+          "summary": {
+            "en": "Expansion of Gold Coast homeless patrols to lock vulnerable in ‘monstrous catch-22’, advocates fear Get our breaking news email, free app or daily news podcast Luke Quinn dreams of the day he can get his daughter back. First, he needs a place to live. Like most homeless...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Australian Greens should ‘take on’ Pauline Hanson’s One Nation, Polanski tells Victorian conference, just as he took on Nigel Farage’s Reform UK Get our breaking news email , free app or daily news podcast Zack Polanski, the leader of the Green party of England and Wales, has told his counterparts in Australia that they need to start “connecting with people’s anger” and learn from the “storytelling power” of populist rightwing politics. Speaking via video link at the Victorian Greens campaign conference on Saturday night, Zack Polanski said the party in Australia needed to start “taking on” Pauline Hanson’s One Nation, just as his own party had taken on Nigel Farage’s Reform UK. Continue reading...",
-            "zh": "波兰斯基在维多利亚会议上表示，澳大利亚绿党应该“挑战”宝琳·汉森的“一国”，就像他挑战奈杰尔·法拉奇的英国改革一样。英格兰和威尔士绿党领袖扎克·波兰斯基告诉澳大利亚同行，他们需要开始“与人们的愤怒建立联系”，并向民粹主义右翼政治的“讲故事的力量”学习。扎克·波兰斯基在周六晚上的维多利亚绿党竞选会议上通过视频连线发表讲话时表示，澳大利亚的该党需要开始“挑战”宝琳·汉森的一国党，就像他自己的政党挑战奈杰尔·法拉奇的英国改革党一样。继续阅读..."
+            "en": "Expansion of Gold Coast homeless patrols to lock vulnerable in ‘monstrous catch-22’, advocates fear Get our breaking news email , free app or daily news podcast Luke Quinn dreams of the day he can get his daughter back. First, he needs a place to live. Like most homeless residents of the Gold Coast, the 36-year-old has been moved on by the local council. He estimates that’s happened up to eight times in the six years he’s slept rough. Continue reading...",
+            "zh": "倡导者担心，扩大黄金海岸无家可归者巡逻范围，将弱势群体锁定在“可怕的第 22 条军规”中。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 卢克·奎恩 (Luke Quinn) 梦想着有一天他可以让他的女儿回来。首先，他需要一个住的地方。和黄金海岸大多数无家可归的居民一样，这位 36 岁的人已被当地议会转移。他估计，在他睡得不好的六年里，这种情况已经发生了八次。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -922,106 +1286,6 @@
           },
           "aiVerseId": "ps_46_1",
           "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-may-31-brisbane-olympic-stadium-",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/31/brisbane-olympic-stadium-victoria-park-government-declines-to-protect-indigenous-sacred-site-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/3a3074f70c6feba2886634281b203efd0876757d/0_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=651eac6ff3313b52f803e33bf7446f5e",
-          "publishedAt": "2026-05-31T06:37:49.000Z",
-          "title": {
-            "en": "Government declines to protect Indigenous sacred site to be bulldozed for Brisbane Olympic stadium",
-            "zh": "政府拒绝保护原住民圣地，将为布里斯班奥运场馆而推平"
-          },
-          "summary": {
-            "en": "The Australian federal government has decided against an emergency declaration to protect an Indigenous sacred site, allowing it to be bulldozed for the construction of a Brisbane Olympic stadium. While the environment minister did not rule out \"longer term protections,\" the immediate intervention was declined.",
-            "zh": "澳大利亚联邦政府已决定不发布紧急声明来保护一处原住民圣地，允许其被推平以用于布里斯班奥运场馆的建设。尽管环境部长并未排除“长期保护”的可能性，但即时干预的请求已被拒绝。"
-          },
-          "body": {
-            "en": "Environment minister Murray Watt decides against emergency declaration to halt construction but does not rule out ‘longer term protections’ Get our breaking news email , free app or daily news podcast The federal government has decided against an 11th-hour intervention to halt construction of an Olympic stadium and aquatic centre in the heart of Brisbane, in a park that traditional owners say is a First Nations sacred site . The environment minister, Murray Watt, issued a statement on Sunday afternoon to say he had considered applications made under the Aboriginal and Torres Strait Islander Heritage Protection Act for him to stop construction in Victoria Park. Continue reading...",
-            "zh": "环境部长默里·瓦特 (Murray Watt) 决定不宣布紧急状态以停止施工，但不排除“长期保护” 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 联邦政府已决定不进行第 11 小时干预以停止布里斯班市中心奥林匹克体育场和水上运动中心的建设，该公园的传统业主称其为原住民圣地。环境部长默里·瓦特 (Murray Watt) 周日下午发表声明称，他已考虑根据《原住民和托雷斯海峡岛民遗产保护法》提出的停止维多利亚公园建设的申请。继续阅读..."
-          },
-          "reflection": {
-            "en": "This decision highlights the ongoing challenge of balancing development with the protection of cultural heritage, especially for Indigenous communities whose voices are often marginalized. Proverbs 31:8 reminds us of the moral imperative to speak up for those who cannot speak for themselves, advocating for the rights of the vulnerable.",
-            "zh": "这一决定凸显了发展与保护文化遗产之间持续存在的挑战，特别是对于那些声音常被边缘化的原住民社区而言。箴言31:8提醒我们，为不能为自己发声的人说话，为所有贫困者的权利辩护，是道德上的当务之急。"
-          },
-          "verse": {
-            "reference": "Proverbs 31:8-9",
-            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
-            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
-            "themeEn": "Voice for the voiceless",
-            "themeZh": "为弱者发声"
-          },
-          "aiVerseId": "prov_31_8",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-may-31-aukus-australia-to-buy-on",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/may/31/aukus-australia-to-buy-only-secondhand-virginia-class-submarines-from-us-significant-cost-savings-richard-marles",
-          "image": "https://i.guim.co.uk/img/media/9d805a3563cfc9037a5d4b857b2af80119af4b67/742_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=204fb1c30e1f933762e3b5d3209cc07d",
-          "publishedAt": "2026-05-31T03:39:23.000Z",
-          "title": {
-            "en": "Major Aukus switch to buy only secondhand subs from US means ‘significant’ cost savings, Marles says",
-            "zh": "马尔斯表示，奥库斯主要转向只从美国购买二手潜艇，这意味着“显着”节省成本"
-          },
-          "summary": {
-            "en": "Defence minister says ‘cost-effective’ decision to buy only secondhand Virginia nuclear-powered submarines will make training and operations easier Get our breaking news email, free app or daily news podcast Australia expects to make significant cost savings by buying a third...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Defence minister says ‘cost-effective’ decision to buy only secondhand Virginia nuclear-powered submarines will make training and operations easier Get our breaking news email , free app or daily news podcast Australia expects to make significant cost savings by buying a third secondhand American nuclear submarine for the Aukus program, instead of at least one brand new model. The defence minister, Richard Marles , on Sunday described the decision not to buy any new Virginia-class boats as placing “a premium on simplicity”. Continue reading...",
-            "zh": "国防部长表示，仅购买二手弗吉尼亚核动力潜艇的“成本效益”决定将使训练和行动变得更加容易 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 澳大利亚希望通过为奥库斯计划购买第三艘二手美国核潜艇，而不是至少一艘全新型号，从而节省大量成本。国防部长理查德·马勒斯周日将不购买任何新弗吉尼亚级船只的决定描述为“注重简单性”。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-live-2026-may-31-clare-oneil-labor-ta",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/live/2026/may/31/clare-oneil-labor-tax-changes-richard-marles-shangri-la-dialogue-aukus-deal-politics-reactions-labor-coalition-tax-changes-housing-one-nation-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/0d9ca52f228e31b76afed17170b5b2fdb7b66f20/919_0_4581_3666/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=010f1197c74e18eb8d0279d583b19933",
-          "publishedAt": "2026-05-31T03:36:49.000Z",
-          "title": {
-            "en": "Australia to buy only secondhand nuclear subs from US in major Aukus switch – as it happened",
-            "zh": "澳大利亚在奥库斯重大转变中仅从美国购买二手核潜艇——事实确实如此"
-          },
-          "summary": {
-            "en": "This blog is now closed Get our breaking news email, free app or daily news podcast Extra negative gearing limits could hurt market and family budgets, Labor says Clare O’Neil has rejected calls from the Greens and others to put further limits on negative gearing access, saying...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "This blog is now closed Get our breaking news email , free app or daily news podcast Extra negative gearing limits could hurt market and family budgets, Labor says Clare O’Neil has rejected calls from the Greens and others to put further limits on negative gearing access, saying the government should not interrupt “immediate arrangements”. There’s people in the debate who want to see the government go further. I really understand that but I just think we need to step back. Negative gearing is a very immediate impact on a household and family budget and it’s not something that governments, when they’re making tax changes, should do, to interrupt people’s immediate arrangements. We need to land this. We’ll do that in the appropriate time given the need … This is not a political timeline. It is a policy timeline … It’s important this gets resolved speedily and that’s what the government is working towards. I think there’s a range of things that are on the table in those conversations and I won’t speak about them in detail … The government wants to get the right outcome here and we are not going to be driven by the politics of the moment. It’s really important we reach the right landing point for this and I think I have spoken in previous interviews this week about some of the issues we see. Continue reading...",
-            "zh": "该博客现已关闭 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 工党表示，额外的负扣税限制可能会损害市场和家庭预算，克莱尔·奥尼尔拒绝了绿党和其他人进一步限制负扣税准入的呼吁，称政府不应中断“立即安排”。辩论中有人希望看到政府走得更远。我真的理解这一点，但我只是认为我们需要退后一步。负扣税对家庭和家庭预算有非常直接的影响，政府在进行税收改革时不应该这样做，以打断人们的直接安排。我们需要着陆这个。鉴于需要，我们将在适当的时间这样做……这不是一个政治时间表。这是一个政策时间表……重要的是迅速解决这个问题，这就是政府正在努力的方向。我认为这些对话中讨论了一系列问题，我不会详细谈论它们……政府希望在这里取得正确的结果，我们不会受到当前政治的驱动。我们为此找到正确的着陆点非常重要，我想我在本周之前的采访中已经谈到了我们看到的一些问题。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-sbs-com-au-news-article-drones-and-second-hand-submarines-latest-auk",
