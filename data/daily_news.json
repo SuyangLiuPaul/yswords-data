@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T13:07:06.579Z",
-  "editionDate": "2026-06-03",
+  "generatedAt": "2026-06-03T18:18:10.688Z",
+  "editionDate": "2026-06-04",
   "sources": [
     {
       "name": "The Guardian World",
@@ -105,45 +105,112 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "BBC News World",
         "The Guardian World",
+        "BBC News World",
         "DW World",
         "SBS News World"
       ],
       "items": [
         {
-          "id": "www-bbc-com-news-articles-c775x852rk1o-at-medium-rss-at-campaign-rss",
+          "id": "www-theguardian-com-us-news-live-2026-jun-03-us-midterm-primaries-politi",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/b0782e702a2e92094eccc0a4f0b9269aee20d672/603_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=80595c3f26381e31089daebcc0228b70",
+          "publishedAt": "2026-06-03T18:09:41.000Z",
+          "title": {
+            "en": "Rubio says Trump to attend Nato meeting as ‘things need to be cleared up and fixed’ amid tension between US and allies – live",
+            "zh": "卢比奥称特朗普将出席北约会议，因美国与盟友关系紧张，‘事情需要澄清和解决’——直播"
+          },
+          "summary": {
+            "en": "The Secretary of State confirmed the president's attendance at the NATO meeting, amid continued tension between the US and its allies. A Trump official was also questioned on the 2020 election lie and the Iran war.",
+            "zh": "国务卿证实总统将出席北约会议，此前美国与盟友之间持续存在紧张关系。一位特朗普政府官员也就2020年大选谎言和伊朗战争接受了质询。"
+          },
+          "body": {
+            "en": "Secretary of state confirms president’s attendance amid continued tension over alliance; Trump official also grilled on 2020 election lie and Iran war The Democrats to watch after Tuesday’s primaries Sign up for the Breaking News US email Iowa voters cast their ballots in yesterday’s heated primaries, setting up for months of fervent campaigning ahead of the November midterms in contests that could determine the balance of power in Congress. A red state that the GOP has dominated for the past decade, Democrats believe they can be competitive in three of its four House races, its Senate election, and the contest to replace Kim Reynolds, the retiring Republican governor. Continue reading...",
+            "zh": "在联盟关系持续紧张之际，国务卿确认总统出席；特朗普官员还就 2020 年选举谎言和伊朗战争进行了拷问。周二初选后值得关注的民主党爱荷华州选民在昨天激烈的初选中投票，为 11 月中期选举之前数月的激烈竞选做好了准备，这场竞选可能决定国会的权力平衡。过去十年来，共和党在这个红色州占据主导地位，民主党人相信他们可以在四场众议院竞选中的三场、参议院选举以及取代即将退休的共和党州长金·雷诺兹(Kim Reynolds)的竞争中具有竞争力。继续阅读..."
+          },
+          "reflection": {
+            "en": "In a world where international relations can be fraught with tension, the effort to maintain peace and understanding among allies is crucial. Romans 12:18 reminds us of the personal and collective responsibility to pursue peaceful coexistence whenever possible. This principle extends to nations, encouraging dialogue and resolution even when disagreements...",
+            "zh": "在一个国际关系可能充满紧张的世界里，盟友之间努力维护和平与理解至关重要。罗马书12:18提醒我们，要尽力与众人和睦，这是个人和集体的责任。这一原则也适用于国家之间，鼓励即使出现分歧也要通过对话和解决来促进和平共处。"
+          },
+          "verse": {
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
+          },
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-com-news-articles-c5y01pdqvkgo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c775x852rk1o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3ba7/live/c5e5c750-5dff-11f1-ab72-5d34576d638d.jpg",
-          "publishedAt": "2026-06-03T13:04:26.000Z",
+          "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e4dd/live/3b625900-5f66-11f1-8b8c-6d33e1d5abb6.jpg",
+          "publishedAt": "2026-06-03T18:02:52.000Z",
           "title": {
-            "en": "He was a reality show villain. Can he be the mayor of one of America's largest cities?",
-            "zh": "他曾是真人秀反派。他能成为美国最大城市之一的市长吗？"
+            "en": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+            "zh": "以色列袭击黎巴嫩致九人死亡，真主党向边境发射火箭"
           },
           "summary": {
-            "en": "Republican Spencer Pratt, known for his role as a \"villain\" on the reality TV show The Hills, is currently in a close mayoral race against two Democratic candidates in Los Angeles.",
-            "zh": "共和党人斯宾塞·普拉特，因在真人秀节目《好莱坞女孩》中扮演“反派”角色而闻名，目前在洛杉矶市长竞选中与两位民主党候选人展开激烈角逐。"
+            "en": "Israeli strikes in Lebanon killed nine people, while Hezbollah fired rockets across the border, jeopardizing a partial ceasefire previously agreed upon by both sides.",
+            "zh": "以色列对黎巴嫩的袭击造成九人死亡，真主党也向边境发射火箭，这使得双方此前达成的一项局部停火协议面临破裂。"
           },
           "body": {
-            "en": "As one of the stars of MTV's hit show The Hills in the 2000s, Spencer Pratt quickly became one of reality television's favourite villains.\n\nBut could the 42-year-old former publicist-turned Celebrity Big Brother contestant soon win himself a new role: mayor of the second largest city in America?\n\nThe Republican political outsider has risen in the polls since announcing his intention in January to run to be Los Angeles mayor, and has since become a serious contender.\n\nA new poll released on Thursday found that Pratt was in a tight contest with two Democrats, mayor Karen Bass and city council member Nithya Raman, ahead of Tuesday's primary vote.\n\nThe primary is non-partisan, meaning that it pits all candidates against each other, regardless of party. Any candidate who wins 50% or more of the vote will win the election outright. If no-one reaches that threshold, the top two advance to November's general election.\n\nAmong the pool of more than three dozen candidates who entered the race, Bass is leading with 26% support from likely voters, Thursday's UC Berkeley-LA Times poll suggested. Meanwhile, Raman had 25% and Pratt had 22%.\n\nIn terms of fundraising, Pratt has blown the other two out of the water, raising $2.7m (£2m) between 19 April and 16 May. That is nearly 10 times what Bass - a longtime LA politician - raised in the same period, and approximately seven times what Raman raised.\n\nPratt's success as a Republican in such a liberal-leaning city has come after gaining widespread attention on social media through TikTok rants, reposted AI-generated videos that mock his opponents, and head-turning political adverts. His spokesperson has denied rumours that a reality show will produced if he wins the vote.\n\n\"We are going to get the golden age of Los Angeles back,\" Pratt says in one of his campaign adverts: rhetoric that appears to echo the Make America Great Again (Maga) slogan of a certain other reality TV star-turned politician.\n\nPratt entered the mayoral race a year after he lost his home in the devastating fires in the city in 2025, which were some of the deadliest and most destructive blazes in the area's history. Much of his campaign has centred on the disaster, and he has accused Bass of failing to respond to the crisis.\n\nHe has campaigned on a message of fixing a broken Los Angeles, casting the city at times as unsafe and unclean, and advocating mandatory drug treatment to help combat homelessness in the city.\n\nBut he has an uphill battle, according to Efrén Pérez, a professor who teaches political psychology at the University of California Los Angeles. The city has not had a Republican mayor since 2001 - a quarter of a century ago.\n\n\"I'm not saying that there isn't any validity to being a spokesperson for - and potential improver of - the sort...",
-            "zh": "作为 2000 年代 MTV 热门节目《The Hills》的明星之一，斯宾塞·普拉特 (Spencer Pratt) 很快成为电视真人秀中最受欢迎的反派之一。 但这位 42 岁的前公关人员转型为名人老大哥的选手能否很快为自己赢得一个新角色：美国第二大城市的市长？ 自从一月份宣布打算竞选洛杉矶市长以来，这位共和党政治局外人的支持率不断上升，并成为了一个强有力的竞争者。 周四公布的一项新民意调查发现，在周二的初选之前，普拉特与两名民主党人、市长凯伦·巴斯和市议会成员尼西亚·拉曼展开了激烈的竞争。 初选是无党派的，这意味着所有候选人都会相互竞争，无论党派如何。任何赢得 50% 或以上选票的候选人将彻底赢得选举。如果没有人达到这一门槛，前两名将晋级 11 月的大选。 周四的加州大学伯克利分校-洛杉矶时报民意调查显示，在参加竞选的三打候选人中，巴斯以 26% 的可能选民支持率领先。与此同时，拉曼 (Raman) 占 25%，普拉特 (Pratt) 占 22%。 在筹款方面，普拉特击败了其他两家公司，在 4 月 19 日至 5 月 16 日期间筹集了 270 万美元（200 万英镑）。这几乎是长期担任洛杉矶政治家的巴斯同期筹集的资金的十倍，大约是拉曼筹集的资金的七倍。 普拉特作为一名共和党人在这样一个倾向自由派的城市取得了成功，他通过 TikTok 的咆哮、转发人工智能生成的嘲笑对手的视频以及引人注目的政治广告在社交媒体上获得了广泛关注。他的发言人否认了如果他赢得投票就会制作真人秀的传言。 “我们将让洛杉矶重新回到黄金时代，”普拉特在他的一则竞选广告中说道：这些言辞似乎与另一位真人秀明星转型政客的“让美国再次伟大”(Maga) 口号相呼应。 普拉特在 2025 年发生的毁灭性火灾中失去了家园一年后参加了市长竞选，那场火灾是该地区历史上最致命、最具破坏性的火灾之一。他的竞选活动大部分都集中在这场灾难上，他指责巴斯未能应对危机。 他在竞选时传达了修复破碎的洛杉矶的信息，称这座城市有时不安全、不干净，并提倡强制戒毒，以帮助解决该市的无家可归问题。 但加州大学洛杉矶分校政治心理学教授埃弗伦·佩雷斯表示，他面临着一场艰苦的战斗。自 2001 年以来，二十五年前，这座城市就没有出现过共和党市长。 “我并不是说作为此类的发言人和潜在的改进者没有任何有效性......"
+            "en": "Israeli strikes killed at least nine people in southern Lebanon on Wednesday, authorities said, as the Iran-backed armed group Hezbollah said it fired rockets into northern Israel.\n\nLebanon's health ministry said the dead included two paramedics whose ambulance was hit in a strike in the southern Chehour area. A car was also struck just south of Beirut.\n\nMeanwhile, Israel's military said it intercepted a drone and two projectiles that crossed the border. Hezbollah said it targeted a gathering of Israeli troops.\n\nThe incidents tested a partial ceasefire agreed on Monday, which Lebanon said would see Israel refrain from bombing the capital, Beirut, in exchange for Hezbollah not attacking Israel.\n\nIsraeli and Lebanese diplomats held a second day of talks in Washington on Wednesday to discuss ways to shore up the deal.\n\nUS Secretary of State Marco Rubio told reporters that he hoped they would produce \"an action plan on a track for security in [Lebanon], independent from Hezbollah\".\n\nLebanon was drawn into the war between the US, Israel and Iran on 2 March, when Hezbollah launched rockets into Israel in retaliation for an Israeli strike that killed Iran's supreme leader. Israel responded with an air campaign across Lebanon and a ground invasion in the south.\n\nA US-brokered ceasefire between Israel and Lebanon on 16 April failed to stop the fighting, and last week Prime Minister Benjamin Netanyahu ordered the Israeli military to intensify its strikes on Hezbollah and advance deeper into Lebanon in response to drone and rocket attacks on communities in northern Israel.\n\nAt least 3,516 people have been killed in Lebanon since the start of the war, according to the country's health ministry. Its figures do not distinguish between combatants and civilians.\n\nThe UN says more than one million people have also registered themselves as displaced in Lebanon, where Israeli evacuation orders cover more than an eighth of the country.\n\nIsrael says 26 of its soldiers and four Israeli civilians have been killed on both sides of the border during the war.\n\nLebanese media reported Israeli strikes across the south of the country on Wednesday.\n\nThe health ministry said four Syrians and two Palestinians were killed in a strike in the al-Housh area, which is just south of the coastal city of Tyre.\n\nThe ministry also said that two paramedics were killed and a third was seriously wounded when Israeli forces \"directly targeted an ambulance\" in the Chehour area, which is about 14km (9 miles) to the east. The ambulance belonged to the Risala Scouts Association, which is affiliated with the Amal movement, an ally of Hezbollah.\n\nThe ministry accused the Israeli military of \"demonstrating contempt for international humanitarian law\", which specifically protects medical personnel.\n\nAt...",
+            "zh": "当局称，以色列周三在黎巴嫩南部发动空袭，造成至少九人死亡，伊朗支持的武装组织真主党称向以色列北部发射了火箭弹。 黎巴嫩卫生部表示，死者包括两名护理人员，他们的救护车在切胡尔南部地区的一次罢工中被击中。贝鲁特南部也有一辆汽车被撞。 与此同时，以色列军方表示，他们拦截了一架越境的无人机和两枚射弹。真主党表示，其目标是以色列军队的集结。 这些事件考验了周一达成的部分停火协议，黎巴嫩表示，以色列将不再轰炸首都贝鲁特，以换取真主党不攻击以色列。 以色列和黎巴嫩外交官周三在华盛顿举行了第二天的会谈，讨论支持该协议的方法。 美国国务卿马可·卢比奥告诉记者，他希望他们能够制定“一项独立于真主党的黎巴嫩安全行动计划”。 3 月 2 日，黎巴嫩卷入美国、以色列和伊朗之间的战争，当时真主党向以色列发射火箭，以报复以色列对伊朗最高领导人的袭击。以色列的回应是对黎巴嫩发动空袭，并在南部发动地面入侵。 4 月 16 日，美国斡旋的以色列和黎巴嫩之间的停火未能阻止战斗，上周，以色列总理本杰明·内塔尼亚胡命令以色列军队加强对真主党的打击，并深入黎巴嫩，以应对无人机和火箭弹对以色列北部社区的袭击。 据黎巴嫩卫生部称，自战争爆发以来，该国至少已有 3,516 人死亡。其数字不区分战斗人员和平民。 联合国表示，黎巴嫩也有超过一百万人登记为流离失所者，以色列的撤离令覆盖了该国八分之一以上的地区。 以色列称，战争期间，边境两侧有 26 名士兵和 4 名以色列平民丧生。 黎巴嫩媒体报道以色列周三对该国南部发动袭击。 卫生部表示，四名叙利亚人和两名巴勒斯坦人在沿海城市提尔以南的胡什地区的一次袭击中丧生。 该部还表示，以色列军队在以东约14公里（9英里）的Chehour地区“直接瞄准一辆救护车”，造成两名护理人员死亡，第三名护理人员受重伤。这辆救护车属于里萨拉童子军协会，该协会隶属于真主党的盟友阿迈勒运动。 外交部指责以色列军方“表现出对专门保护医务人员的国际人道主义法的蔑视”。 在..."
           },
           "reflection": {
-            "en": "The prospect of a reality TV personality, especially one known for a \"villain\" persona, seeking a major public office invites reflection on the qualities we value in leadership. Proverbs reminds us that the character of those in authority profoundly impacts the well-being of the community. As citizens consider their choices, discerning a leader's true...",
-            "zh": "一位以“反派”角色闻名的真人秀明星寻求担任重要公职，这促使我们反思领导者应具备的品质。箴言提醒我们，掌权者的品格深刻影响着社区的福祉。当公民做出选择时，辨别领导者的真实意图和无私服务的能力变得至关重要。"
+            "en": "The news of a strained ceasefire reminds us how fragile peace can be, even after agreements are made. Jesus called those who work for peace \"blessed,\" acknowledging the profound and often difficult effort required to bridge divides and halt conflict. This ongoing struggle highlights the constant need for individuals and groups to commit to de-escalation and...",
+            "zh": "停火协议面临破裂的消息提醒我们，即使达成协议，和平也可能多么脆弱。雅伟称那些致力于和平的人为“有福的”，这肯定了弥合分歧和制止冲突所需的深刻而往往艰难的努力。这场持续的斗争凸显了个人和团体不断致力于缓和局势与和解的必要性。"
           },
           "verse": {
-            "reference": "Proverbs 29:2",
-            "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
-            "textZh": "义人增多，民就喜乐；恶人掌权，民就叹息。",
-            "themeEn": "Righteous vs wicked rulers",
-            "themeZh": "义人执政与恶人当道"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
-          "aiVerseId": "prov_29_2",
+          "aiVerseId": "matt_5_9",
           "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-live-2026-jun-03-us-israel-iran-war-lebanon-tr",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/47fe9a99be5cf93362e89d6a35323c71f5812198/164_0_2341_1872/master/2341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bfe36340b27d4b3400f9aca98e2a9e70",
+          "publishedAt": "2026-06-03T17:58:06.000Z",
+          "title": {
+            "en": "Middle East crisis live: Netanyahu downplays US row as Trump confirms heated call between pair",
+            "zh": "中东危机直播：特朗普证实两人之间的激烈通话，内塔尼亚胡淡化了美国的争端"
+          },
+          "summary": {
+            "en": "Israeli PM gives interview to CNBC insisting they are on the same page over disarming Hezbollah despite Trump saying he was ‘perturbed’ at Lebanon attacks The Kuwaiti defence ministry said it intercepted 13 ballistic missiles and 17 drones launched by Iran today. A drone and...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Israeli PM gives interview to CNBC insisting they are on the same page over disarming Hezbollah despite Trump saying he was ‘perturbed’ at Lebanon attacks The Kuwaiti defence ministry said it intercepted 13 ballistic missiles and 17 drones launched by Iran today. A drone and missile attack on Kuwait’s international airport killed one person, which Kuwaiti authorities identified as an Indian national. It is the first reported death in a Gulf state since the US and Iran agreed to a ceasefire in April. Continue reading...",
+            "zh": "以色列总理接受 CNBC 采访时坚称，他们在解除真主党武装问题上意见一致，尽管特朗普表示他对黎巴嫩袭击感到“不安”。 科威特国防部表示，今天拦截了伊朗发射的 13 枚弹道导弹和 17 架无人机。科威特国际机场遭到无人机和导弹袭击，造成一人死亡，科威特当局确认死者为印度国民。这是自四月美国和伊朗同意停火以来海湾国家首次报告死亡事件。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-theguardian-com-us-news-2026-jun-03-primary-elections-midterms-novem",
@@ -152,9 +219,9 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november",
           "image": "https://i.guim.co.uk/img/media/77100c4d5ad5d5f454c21b67976b12ff4e393f2e/430_0_3840_3072/master/3840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a58c4c8ceb05612f7491d335be0bdb5",
-          "publishedAt": "2026-06-03T12:49:51.000Z",
+          "publishedAt": "2026-06-03T17:51:32.000Z",
           "title": {
-            "en": "Race for California governor deadlocked as primary results across the US trickle in",
+            "en": "California governor’s race still a toss-up as leading candidates battle for top spots",
             "zh": "加州州长竞选陷入僵局，全美初选结果陆续公布"
           },
           "summary": {
@@ -162,7 +229,7 @@
             "zh": "随着美国各地初选计票工作的持续进行，加州州长竞选仍处于僵局，共和党人史蒂夫·希尔顿和民主党人泽维尔·贝塞拉目前领先。"
           },
           "body": {
-            "en": "Republican Steve Hilton and Democrat Xavier Becerra lead the field as votes continue to be counted The Democrats to watch after Tuesday’s primaries: from army doctor to Paralympian The key race for California governor remained deadlocked as vote counting continued across the US on Wednesday morning following primary elections to decide who would run in several critical districts in the US House and Senate in November, in a midterm year expected to favor Democrats. In California, it was the Republican Steve Hilton, a former UK political operative and Fox News host, who had the most votes, with roughly half of the ballots counted for governor. For the Democrats it was Xavier Becerra, the former health secretary, who led the field after a tumultuous campaign. The California system is such that the two candidates who receive the most votes then face off in the general election, no matter which party they are from. Continue reading...",
+            "en": "Republican Steve Hilton and Democrat Xavier Becerra lead the field as votes continue to be counted The Democrats to watch after Tuesday’s primaries: from army doctor to Paralympian The key race for California governor is deadlocked as vote counting continued on Wednesday morning following primary elections to decide who would run in several critical districts in the US House and Senate in November, in a midterm year expected to favor Democrats. With nearly 60% of the votes counted, Steve Hilton, a Republican, former UK political operative and Fox News host who was narrowly ahead. Xavier Becerra, a Democrat and the former health secretary who led the field after a tumultuous campaign, was in second place while Tom Steyer, a billionaire environmental activist running as a progressive, trailed in third. Continue reading...",
             "zh": "共和党史蒂夫·希尔顿 (Steve Hilton) 和民主党人泽维尔·贝塞拉 (Xavier Becerra) 在计票工作中领先 周二初选后值得关注的民主党人：从军医到残奥会选手 加利福尼亚州州长的关键竞选仍陷入僵局，周三上午，全美范围内的计票工作仍在继续，初选将决定谁将在 11 月的美国众议院和参议院几个关键选区竞选，预计中期选举将有利于民主党。在加利福尼亚州，获得最多选票的是共和党人史蒂夫·希尔顿(Steve Hilton)，他是前英国政治人物、福克斯新闻主持人，大约一半的选票计入州长选票。对于民主党来说，前卫生部长泽维尔·贝塞拉(Xavier Becerra)在一场混乱的竞选活动后取得了领先。加州的制度是，得票最多的两位候选人无论来自哪个政党，都会在大选中对峙。继续阅读..."
           },
           "reflection": {
@@ -180,57 +247,124 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-us-news-live-2026-jun-03-us-midterm-primaries-politi",
+          "id": "www-theguardian-com-us-news-2026-jun-02-bakersfield-police-bomb-threat-m",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/685f95717fd197700d24e339cc74d871603f0148/462_437_3393_2715/master/3393.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c418f43056a24bab9105845cbe8cc879",
-          "publishedAt": "2026-06-03T12:48:09.000Z",
+          "link": "https://www.theguardian.com/us-news/2026/jun/02/bakersfield-police-bomb-threat-man-bank",
+          "image": "https://i.guim.co.uk/img/media/3df4217cc2097c60f2ee13febe8e3db0a6e0cdab/336_0_3360_2688/master/3360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6698048c4778a688b16711d27db8f284",
+          "publishedAt": "2026-06-03T17:51:28.000Z",
           "title": {
-            "en": "Trump says Vance-Rubio ticket for 2028 presidential election would be ‘unbeatable’ – US politics live",
-            "zh": "特朗普称万斯-卢比奥参加 2028 年总统选举将是“无与伦比的” – 美国政治直播"
+            "en": "California: suspect in Bakersfield bank hostage standoff shot dead by police",
+            "zh": "加州：贝克斯菲尔德银行劫持人质对峙事件嫌犯被警方击毙"
           },
           "summary": {
-            "en": "President tells podcast that vice-president and secretary of state ‘would be very hard to beat’ if they ran together in 2028 The Democrats to watch after Tuesday’s primaries Sign up for the Breaking News US email More now from Donald Trump’s interview with the New York Post’s...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "Police reported that a suspect, who had a bomb strapped to his body and had barricaded himself inside a bank in Bakersfield, California, was shot and killed by FBI agents early Wednesday morning, bringing an end to the hostage standoff.",
+            "zh": "警方报告称，一名嫌犯在加州贝克斯菲尔德的一家银行内将自己反锁，身上绑有炸弹，于周三凌晨被联邦调查局特工开枪击毙，结束了人质对峙事件。"
           },
           "body": {
-            "en": "President tells podcast that vice-president and secretary of state ‘would be very hard to beat’ if they ran together in 2028 The Democrats to watch after Tuesday’s primaries Sign up for the Breaking News US email More now from Donald Trump ’s interview with the New York Post’s Pod Force One podcast. The president confirmed Axios’s report that he yelled and cursed at Israeli prime minister Benjamin Netanyahu over Israel’s threats to resume airstrikes on Beirut ’s southern suburbs earlier this week. I don’t want to say ‘angry’. I was a little bit perturbed at his constantly fighting with Lebanon , you know, at some point I said, ‘Bibi, we gotta stop this, we gotta stop it.’ Continue reading...",
-            "zh": "总统告诉播客，副总统和国务卿如果在 2028 年一起竞选，“将很难被击败”。民主党在周二的初选后观看。总统证实了 Axios 的报道，称他因本周早些时候以色列威胁恢复对贝鲁特南部郊区的空袭而对以色列总理本杰明·内塔尼亚胡大喊大叫并咒骂。我不想说“生气”。我对他不断与黎巴嫩作战感到有点不安，你知道，在某个时候我说，“比比，我们必须阻止这一切，我们必须阻止它。”继续阅读..."
+            "en": "Police said suspect, who had a bomb strapped to his body, was shot dead by FBI early Wednesday morning A man who barricaded himself inside a bank in the southern California city of Bakersfield on Tuesday has been shot and killed by the FBI, police said on Wednesday. The suspect, who remains unidentified, was holding an unknown number of people hostage inside in a standoff that stretched over roughly 12 hours. Police say all the hostages have been released and none were harmed. Continue reading...",
+            "zh": "警方称，周三凌晨，嫌疑人身上绑有炸弹，被联邦调查局击毙。警方周三表示，周二，一名男子将自己锁在南加州贝克斯菲尔德市一家银行内，现已被联邦调查局开枪打死。嫌疑人身份不明，他在室内劫持了人数不详的人质，对峙持续了大约 12 个小时。警方表示，所有人质均已获释，无人受伤。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The tragic conclusion of this standoff, where extreme violence was met with lethal force, reminds us of the destructive path that violence often takes. When individuals resort to such desperate measures, the outcome frequently leads to further sorrow and loss, highlighting the profound brokenness in our world.",
+            "zh": "这场对峙以极端暴力遭遇致命武力而悲剧性地结束，提醒我们暴力常常带来的毁灭性后果。当个人诉诸如此绝望的手段时，结果往往导致更深的悲伤和损失，凸显了我们世界中深刻的破碎。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Matthew 26:52",
+            "textEn": "All who draw the sword will die by the sword.",
+            "textZh": "凡动刀的，必死在刀下。",
+            "themeEn": "Cycle of violence",
+            "themeZh": "动刀者必亡于刀"
+          },
+          "aiVerseId": "matt_26_52",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-technology-2026-jun-03-labour-mp-sues-elon-musks-ai-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images",
+          "image": "https://i.guim.co.uk/img/media/e94206c8e3df021d1fea16a7ccb2b7527f86d9d7/288_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79237efec6476fd9707d39ba168fb3c7",
+          "publishedAt": "2026-06-03T17:48:06.000Z",
+          "title": {
+            "en": "Labour MP sues Elon Musk’s AI company over fake sexualised images",
+            "zh": "工党议员因虚假色情图片起诉埃隆·马斯克的人工智能公司"
+          },
+          "summary": {
+            "en": "Jess Asato was portrayed by Grok wearing a bikini after she criticised creation of such non-consensual pictures A Labour MP has taken legal action against Elon Musk’s AI company after saying its Grok tool helped a user produce fake sexualised pictures of her, part of a wave of...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Jess Asato was portrayed by Grok wearing a bikini after she criticised creation of such non-consensual pictures A Labour MP has taken legal action against Elon Musk’s AI company after saying its Grok tool helped a user produce fake sexualised pictures of her, part of a wave of such images that flooded X earlier this year. Jess Asato, the MP for Lowestoft, said in January that seeing herself portrayed by the AI tool as wearing a bikini without her consent was “violating”. Continue reading...",
+            "zh": "杰西·阿萨托 (Jess Asato) 在批评创作此类未经同意的图片后，被 Grok 描绘成穿着比基尼。一名工党议员表示，其 Grok 工具帮助用户制作了她的虚假色情图片，这是今年早些时候充斥 X 的一波此类图片的一部分，该公司对埃隆·马斯克 (Elon Musk) 的人工智能公司采取了法律行动。洛斯托夫特议员杰西·阿萨托 (Jess Asato) 一月份表示，看到人工智能工具在未经本人同意的情况下将自己描绘成穿着比基尼的行为是“违法的”。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-uk-news-2026-jun-03-stephen-mcullagh-jailed-natalie-",
+          "id": "www-bbc-com-news-articles-cj0p57q1m36o-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/uk-news/2026/jun/03/stephen-mcullagh-jailed-natalie-mcnally-murder",
-          "image": "https://i.guim.co.uk/img/media/887432ac35d9d90cb192b33ebe82ffd1e4a1dfa0/0_12_1193_954/master/1193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48bc6b68c6b00e71aa9c0f5ff3c7aa4c",
-          "publishedAt": "2026-06-03T12:40:46.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cj0p57q1m36o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a659/live/120d95f0-5f62-11f1-b682-cf91850925ea.jpg",
+          "publishedAt": "2026-06-03T16:12:05.000Z",
           "title": {
-            "en": "Man who murdered pregnant partner while faking livestream as alibi jailed for 31 years",
-            "zh": "假直播为不在场证据谋杀怀孕伴侣的男子被判入狱 31 年"
+            "en": "Four sentenced to death for killing worshippers at Catholic church in Nigeria",
+            "zh": "四人因在尼日利亚天主教堂杀害信徒而被判处死刑"
           },
           "summary": {
-            "en": "Stephen McCullagh planned ‘cold-blooded and calculated’ killing of Natalie McNally in Lurgan, Northern Ireland, in great detail A YouTuber who set up a false alibi by livestreaming a video-gaming session online has been sentenced to 31 years in prison for the “cold-blooded and...",
+            "en": "A fifth man was discharged and acquitted by the court due to insufficient evidence against him.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及在压力下的忠信与属灵勇气。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A court in Nigeria has sentenced four men to death for attacking a church in the south-western Ondo state in 2022 in a case which sent shockwaves across the nation.\n\nForty-one worshippers were killed and more than 100 others injured when they opened fire at the St Francis Catholic church in the town of Owo during a Pentecost service.\n\nThe court in the capital Abuja also sentenced the men - Idris Abdulmalik Omeiza, Al Qasim Idris, Jamiu Abdulmalik and Abdulhaleem Idris - to 20 years in prison for belonging to a terrorist group.\n\nPresidential assent is required before any death sentence is carried out in Nigeria. There have not been any executions in the country for several years.\n\nJudge Emeka Nwite, who presided over the case, said the evidence presented against them was \"neither shaken nor contradicted during cross examination\".\n\nHe had ordered an accelerated hearing after the high-profile trial commenced in August 2025.\n\nIn his judgement, Justice Nwite said that the prosecution had proved their case beyond reasonable doubt as they had brought before the court witnesses who saw the attack, including one who testified to recognising two of the defendants as attackers.\n\n\"Hence this court finds the first to fourth defendants guilty of all nine counts,\" he added.\n\nOne of the witnesses the court heard from was a woman who had her legs amputated from the knees, and had lost her left eye as a result of a dynamite explosion which the attackers had detonated.\n\nThe nine counts included joining a terror group, and planning and carrying out killings.\n\nProsecutor Ayodeji Adedipe said: \"Justice has been served, justice has been done to the deceased who were murdered in cold blood.\"\n\nDuring the trial, the defendants said they had been tortured, including being hung from the ceiling, beaten countless times, and using electric shocks on their genitals.\n\nA fifth defendant, Momoh Otuho Abubakar, was discharged and acquitted by the court due to insufficient evidence against him.\n\nHe was accused of having financed the attack, by allegedly receiving 800,000 naira (£440; $590) twice from another suspect - who is still at large - and then disbursing the funds to the attackers.\n\nDuring cross examination, however, Abubakar said the money in his account was the proceeds of his farming business, as well as activities from his cooperative society. He denied that the four other defendants were beneficiaries of the money.\n\nSince the Owo attack, Nigeria has witnessed many more attacks on churches across the country as it continues to grapple with rising insecurity.\n\nUS President Donald Trump has accused Nigeria of failing to protect its Christian population from jihadist attacks.\n\nOn Christmas Day, the US hit two camps run by a jihadist group in north-western Nigeria, and...",
+            "zh": "尼日利亚一家法院判处四名男子死刑，罪名是 2022 年袭击西南部翁多州一座教堂，该案在全国范围内引起震动。 在五旬节礼拜期间，奥沃镇圣弗朗西斯天主教堂遭到枪击，造成 41 名信徒死亡，100 多人受伤。 首都阿布贾的法院还以恐怖组织成员罪名判处这几名男子——伊德里斯·阿卜杜勒马利克·奥梅扎、阿尔·卡西姆·伊德里斯、贾米乌·阿卜杜勒马利克和阿卜杜勒哈利姆·伊德里斯 20 年监禁。 在尼日利亚执行任何死刑之前都必须得到总统的同意。该国已经好几年没有执行过任何处决了。 主审此案的法官埃梅卡·恩维特表示，针对他们提出的证据“在盘问过程中既没有动摇也没有矛盾”。 2025 年 8 月备受瞩目的审判开始后，他下令加速听证会。 恩维特法官在判决中表示，检方已经毫无合理怀疑地证明了他们的案件，因为他们向法庭提供了目睹袭击事件的证人，其中包括一名证人承认其中两名被告是袭击者。 “因此，本法院认定第一至第四被告犯有全部九项罪名，”他补充道。 法庭听取的一名证人是一名妇女，她的双腿从膝盖处被截肢，由于袭击者引爆的炸药爆炸，她失去了左眼。 这九项罪名包括加入恐怖组织、策划和实施杀戮。 检察官阿约德吉·阿迪佩说：“正义已经伸张，正义已经为那些被冷血谋杀的死者伸张正义。” 在审判过程中，被告称他们遭受了酷刑，包括被吊在天花板上、被殴打无数次、以及对生殖器进行电击。 第五名被告莫莫·奥图霍·阿布巴卡尔 (Momoh Otuho Abubakar) 由于证据不足而被法庭释放并无罪释放。 他被指控资助此次袭击，据称他两次从另一名嫌疑人（目前仍在逃）处收受 80 万奈拉（440 英镑；590 美元），然后将资金支付给袭击者。 然而，在盘问中，阿布巴卡尔表示，他账户中的钱是他的农业生意以及合作社活动的收益。他否认其他四名被告是这笔钱的受益人。 自奥沃袭击事件以来，尼日利亚在全国各地目睹了更多针对教堂的袭击，因为该国继续应对日益严重的不安全局势。 美国总统唐纳德·特朗普指责尼日利亚未能保护其基督徒人口免受圣战分子袭击。 圣诞节那天，美国袭击了尼日利亚西北部一个圣战组织管理的两个营地，然后……"
+          },
+          "reflection": {
+            "en": "This story draws attention to faithfulness under pressure and spiritual courage. Hebrews 10:23 reminds us to meet sharp headlines with steadfast faith and prayerful witness, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到在压力下的忠信与属灵勇气。Hebrews 10:23提醒我们，在快速变化的新闻里，仍要以坚定的信心与祷告见证来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:10",
+            "textEn": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+            "textZh": "为义受逼迫的人有福了，因为天国是他们的。",
+            "themeEn": "Blessed persecution",
+            "themeZh": "为义受迫"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cn0pdrgy623o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cn0pdrgy623o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/78bb/live/3cc98b20-5f5b-11f1-8dad-8347ac6f73d8.jpg",
+          "publishedAt": "2026-06-03T16:04:05.000Z",
+          "title": {
+            "en": "Man shot dead by FBI after taking hostages at California bank",
+            "zh": "男子在加州银行劫持人质后被联邦调查局击毙"
+          },
+          "summary": {
+            "en": "Two hostages were released on Tuesday, and the remaining hostages released on Wednesday were unharmed, police said.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Stephen McCullagh planned ‘cold-blooded and calculated’ killing of Natalie McNally in Lurgan, Northern Ireland, in great detail A YouTuber who set up a false alibi by livestreaming a video-gaming session online has been sentenced to 31 years in prison for the “cold-blooded and calculated” murder of his pregnant partner. Stephen McCullagh, 36, of Lisburn, County Antrim, showed no emotion on Wednesday as he was sentenced at Belfast crown court for the murder of Natalie McNally , a crime that chilled Northern Ireland. Continue reading...",
-            "zh": "斯蒂芬·麦卡拉 (Stephen McCullagh) 在北爱尔兰勒根 (Lurgan) 策划“冷血且有计划”杀害娜塔莉·麦克纳利 (Natalie McNally)，详细情况一名 YouTuber 通过在线直播视频游戏会话来制造虚假不在场证据，因“冷血且有计划”谋杀怀孕伴侣而被判处 31 年监禁。周三，36 岁的斯蒂芬·麦卡拉 (Stephen McCullagh) 来自安特里姆郡利斯本 (Lisburn)，他因谋杀娜塔莉·麦克纳利 (Natalie McNally) 的罪行而在贝尔法斯特刑事法庭被判刑，他没有表现出任何情绪，这一罪行令北爱尔兰不寒而栗。继续阅读..."
+            "en": "A man who had been holding several people hostage overnight inside a California bank has been shot dead in a standoff with the FBI, police said.\n\nThe suspect was killed in \"an officer-involved shooting involving Federal Bureau of Investigation personnel\" on Wednesday, the Bakersfield Police Department said.\n\nThe fatal shooting ended a tense period after the suspect barricaded himself with several others inside the multistory Chase Bank building on Tuesday in Bakersfield, 110 miles (177km) north of Los Angeles. Police had originally responded to a bomb threat at the scene.\n\nTwo hostages were released on Tuesday during negotiations. The remaining hostages released on Wednesday were unharmed, police said.\n\nPolice arrived to the scene on Tuesday at around 13:00 PST (22:00 BST), after calls of a bomb threat and reports of a man who had barricaded himself inside with several people.\n\nBakersfield City Hall, the local police headquarters, nearby buildings and multiple roads were closed during the hostage situation, as the police department's negotiation team began contacting the suspect via telephone.\n\n\"Every single resource is at the site's disposal,\" Bakersfield Police Sergeant Eric Celedon told the press on Tuesday.\n\n\"SWAT team, bomb squad, K9 team, gang unit, negotiators, drone team. Every single asset we have to bring this to the safest conclusion is out here right now,\" he continued.\n\nMembers of the FBI's Hostage Rescue Team were also on the scene, according to CNN.\n\nRepresentatives for Chase Bank said on Tuesday the compnay was \"aware of the ongoing situation occurring at the building where our branch is located on the ground floor\".\n\n\"The branch is currently empty, and we are working with authorities,\" a Chase spokesperson told the BBC's US partner CBS News in an earlier statement.",
+            "zh": "警方称，一名在加州一家银行内劫持多人质过夜的男子在与联邦调查局的对峙中被枪杀。 贝克斯菲尔德警察局表示，周三，嫌疑人在“涉及联邦调查局人员的警官枪击事件”中被杀。 周二，嫌疑人与其他几人一起将自己封锁在洛杉矶以北 110 英里（177 公里）贝克斯菲尔德的大通银行多层大楼内，这起致命枪击事件结束了一段紧张的时期。警方最初是在现场对炸弹威胁做出反应的。 周二，两名人质在谈判期间获释。警方称，周三获释的其余人质没有受伤。 警方于周二太平洋标准时间 13:00 左右（英国夏令时 22:00）赶到现场，此前接到炸弹威胁电话，并报告称一名男子与数人将自己锁在室内。 贝克斯菲尔德市政厅、当地警察总部、附近的建筑物和多条道路在人质事件期间被关闭，警察局的谈判小组开始通过电话联系嫌疑人。 贝克斯菲尔德警官埃里克·塞莱登周二对媒体表示：“现场可以使用所有资源。” “特警队、拆弹队、K9 队、帮派部队、谈判人员、无人机队。我们为得出最安全的结论而需要的每一项资产现在都在这儿，”他继续说道。 据美国有线电视新闻网报道，联邦调查局人质救援队的成员也在现场。 大通银行的代表周二表示，该公司“了解我们分行所在大楼底层正在发生的情况”。 “该分行目前空无一人，我们正在与当局合作，”大通发言人在早些时候的一份声明中告诉 BBC 美国合作伙伴哥伦比亚广播公司新闻。"
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -246,24 +380,90 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-world-live-2026-jun-03-us-israel-iran-war-lebanon-tr",
+          "id": "www-dw-com-en-tanzania-s-president-visits-russia-amid-frayed-western-tie",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/abc4998b5b4ff76c3f3bdad66ff0e74eb617c0e5/805_509_2386_1908/master/2386.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b7f640bff049b0e9c6bc2a5407f4fe28",
-          "publishedAt": "2026-06-03T12:39:42.000Z",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/tanzania-s-president-visits-russia-amid-frayed-western-ties/a-77404375?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77407120_6.jpg",
+          "publishedAt": "2026-06-03T16:02:00.000Z",
           "title": {
-            "en": "Middle East crisis live: Trump claims Iranian supreme leader is involved in US negotiations",
-            "zh": "中东危机直播：特朗普声称伊朗最高领导人参与美国谈判"
+            "en": "Tanzania's president visits Russia amid frayed Western ties",
+            "zh": "坦桑尼亚总统在西方关系紧张之际访问俄罗斯"
           },
           "summary": {
-            "en": "President says he would ‘like to meet’ Mojtaba Khamenei and appears to confirm reports he had heated call with Benjamin Netanyahu The Israeli military said it intercepted two projectiles that crossed into Israeli territory from Lebanon on Wednesday, after earlier announcing the...",
+            "en": "President Samia Suluhu Hassan is on a three-day visit to Russia, traveling with a business delegation. Relations with Western nations have cratered in recent months amid criticism of Tanzania's handling of dissent.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "President Samia Suluhu Hassan is on a three-day visit to Russia, traveling with a business delegation. Relations with Western nations have cratered in recent months amid criticism of Tanzania's handling of dissent.\n\nTanzanian&#160;President Samia Suluhu Hassan is on a three-day state visit to Russia , which has included&#160;a meeting with&#160; President Vladimir Putin .\n\nThis is the first time since 1969 that a Tanzanian leader&#160;has visited Moscow. Back then it was Julius Nyerere, whose socialist policies shaped Tanzania in the 1960s, 1970s and 1980s.\n\nRussian efforts to build a relationship with Hassan's government began shortly after her disputed 2025 reelection, when she received&#160; 98% of the vote . A Russian delegation met with Hassan after the October vote, reportedly with a personal message from Putin.&#160;\n\nHassan has brought a Tanzanian business delegation to Russia which is hoping to sign trade, tourism and minerals deals. Currently, the balance of trade between Tanzania and Russia is around $307 million (€264 million) per year, but a new Russia-Tanzania Business Council&#160;created in January aims to boost this figure. Air Tanzania has said it would start flights from Dar es Salaam to Moscow by the end of 2026.\n\n\"Russia has long been a major partner of Tanzania,\" said Godwin Gonde, a lecturer at&#160;the&#160;Dr. Salim Ahmed Salim Centre for International Relations in Tanzania. \"It is a country that does not pay much attention to the internal affairs of the countries it chooses to cooperate with.\"\n\nHe told DW that choosing to visit Russia \"carries significant diplomatic weight, because many Western countries have imposed sanctions on Tanzania and certain leaders,\"&#160;thereby depriving them of the chance to visit those nations.\n\nIn recent years, Russia has sought to reestablish&#160;ties with former&#160;Cold War partner nations. Since the fall of the Soviet Union, many of those relationships had receded in importance. Russia has attempted to strike trade deals, engage multilaterally through&#160; BRICS and offered military deals in Sahel countries &#160;like&#160;Mali, Niger and Burkina Faso.\n\n\"By welcoming Tanzania, especially at this time, it sends a message to Western nations that [Russia]&#160;still has a place among African nations,\" said&#160;Gonde, adding that Russia is working to eclipse Western influence on the continent.\n\nAside from meeting Putin, Hassan is also expected to take part in the&#160;St. Petersburg International Economic Forum.\n\nPaternus Niyegira, a political analyst based in&#160;Dar es Salaam, told DW that this is Hassan's opportunity to \"convince the investors and the people around the globe that Tanzania remains a secure country in East Africa, in Africa, south of Saharan Africa, where you can...",
+            "zh": "萨米亚·苏鲁胡·哈桑总统随商业代表团对俄罗斯进行为期三天的访问。近几个月来，由于坦桑尼亚处理异议的方式受到批评，坦桑尼亚与西方国家的关系陷入困境。 坦桑尼亚总统萨米亚·苏鲁胡·哈桑正在对俄罗斯进行为期三天的国事访问，其中包括会见俄罗斯总统弗拉基米尔·普京。 这是自 1969 年以来坦桑尼亚领导人首次访问莫斯科。当时是朱利叶斯·尼雷尔 (Julius Nyerere)，他的社会主义政策塑造了 20 世纪 60 年代、1970 年代和 1980 年代的坦桑尼亚。 在哈桑于 2025 年获得有争议的连任（当时她获得了 98% 的选票）后不久，俄罗斯就开始努力与哈桑政府建立关系。十月投票后，俄罗斯代表团会见了哈桑，据报道，普京传达了私人信息。 哈桑率领坦桑尼亚商业代表团访问俄罗斯，希望签署贸易、旅游和矿产协议。目前，坦桑尼亚和俄罗斯之间的贸易差额每年约为 3.07 亿美元（2.64 亿欧元），但 1 月份成立的新俄罗斯-坦桑尼亚商业委员会旨在提高这一数字。坦桑尼亚航空表示，将于 2026 年底开通从达累斯萨拉姆飞往莫斯科的航班。 “俄罗斯长期以来一直是坦桑尼亚的主要合作伙伴，”坦桑尼亚萨利姆·艾哈迈德·萨利姆博士国际关系中心讲师戈德温·贡德说。 “这个国家不太关心与其选择合作的国家的内政。” 他告诉德国之声，选择访问俄罗斯“具有重大的外交影响力，因为许多西方国家对坦桑尼亚和某些领导人实施了制裁”，从而剥夺了他们访问这些国家的机会。 近年来，俄罗斯一直寻求与前冷战伙伴国家重建关系。自苏联解体以来，其中许多关系的重要性已经下降。俄罗斯试图达成贸易协议，通过金砖国家进行多边接触，并在马里、尼日尔和布基纳法索等萨赫勒国家提供军事协议。 贡德说：“通过欢迎坦桑尼亚，特别是在这个时候，它向西方国家传达了一个信息，即[俄罗斯]在非洲国家中仍然占有一席之地。”他补充说，俄罗斯正在努力超越西方在非洲大陆的影响力。 除了会见普京外，哈桑预计还将参加圣彼得堡国际经济论坛。 达累斯萨拉姆政治分析师帕特努斯·尼耶吉拉 (Paternus Niyegira) 告诉德国之声，哈桑有机会“让投资者和全球人民相信，坦桑尼亚仍然是东非、非洲、撒哈拉非洲南部的一个安全国家，在那里你可以……"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cn8p0yz512no-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b9a5/live/3ae81b30-5efe-11f1-8b8c-6d33e1d5abb6.jpg",
+          "publishedAt": "2026-06-03T15:32:30.000Z",
+          "title": {
+            "en": "Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count",
+            "zh": "前英国政治助手和拜登内阁秘书领导加州州长初选计票"
+          },
+          "summary": {
+            "en": "Another Democrat, billionaire climate activist Tom Steyer, is in third place as the tally continues.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The California governor's race remains up in the air a day after the primary vote, with British-American former TV host Steve Hilton and onetime Biden cabinet secretary Xavier Becerra at the top of a crowded field.\n\nThe contest could take several days to decide due to the volume of postal ballots cast on Tuesday to pick the top two candidates for November's general election.\n\nBecerra, a Democrat, has vowed to oppose President Donald Trump. Hilton is a Republican endorsed by Trump.\n\nAnother Democrat, billionaire climate activist Tom Steyer, was in third place as counting continued. Current Governor Gavin Newsom, a Democrat, is not running for re-election due to term limits.\n\nBecerra, who was health secretary under President Joe Biden, has promised he will freeze insurance and utility rates.\n\nHilton, who was once a top adviser to ex-UK Prime Minister David Cameron before going on to host his own show on Fox News, has pledged to make the state affordable by cutting taxes and regulations.\n\nThe governor's race ought to have been straightforward for Democrats, but it descended into disarray.\n\nA large field of Democrats jumped in due to the lack of a star politician who could have dominated the election.\n\nIt became the most expensive California gubernatorial race on record, with immense ad spending by Steyer and Silicon Valley support for another Democratic candidate, San Jose Mayor Matt Mahan.\n\nThe contest was shaken up after one of the leading candidates, Democratic congressman Eric Swalwell, dropped out and resigned from Congress in April amid allegations of sexual assault, which he denied.\n\nThe prospect of several Democrats splintering the vote sparked concerns from the party's high command that two Republicans could advance in deeply liberal California.\n\nThe state's so-called jungle primary system picks the two contenders with the most votes, regardless of political party.\n\nThere were more than 60 candidates, including one who changed his name to \"Barack Obama Shaw\".\n\nBecerra framed his campaign around his record in Congress in Washington DC, and in California state office.\n\nHilton, as an adviser to former UK PM Cameron, was known for helping to shape Conservative Party strategy during a turbulent period in British politics that resulted in Brexit.\n\nHe was also known for his California fashion sense, often without tie or even barefoot.\n\nIn California, he has campaigned to \"disrupt the system\", vowing to solve the homelessness crisis and arguing the state should co-operate more closely with the federal government on immigration enforcement and roll back sanctuary policies.\n\nShould he advance to the general election, he could face an uphill battle in a state where Democratic voters outnumber Republicans by roughly two-to-one.\n\nCalifornia's last...",
+            "zh": "加州州长的竞选在初选一天后仍悬而未决，英裔美国前电视主持人史蒂夫·希尔顿和前拜登内阁秘书泽维尔·贝塞拉在拥挤的竞争中处于领先地位。 由于周二为选出 11 月大选前两名候选人而进行的邮寄选票数量众多，这场竞争可能需要几天时间才能做出决定。 民主党人贝塞拉誓言反对唐纳德·特朗普总统。希尔顿是特朗普支持的共和党人。 另一位民主党人、亿万富翁气候活动家汤姆·斯泰尔（Tom Steyer）在计票仍在继续时位居第三。现任州长加文·纽瑟姆（Gavin Newsom）是民主党人，由于任期限制，他不会竞选连任。 曾在乔·拜登总统领导下担任卫生部长的贝塞拉承诺，他将冻结保险和公用事业费率。 希尔顿曾担任英国前首相戴维·卡梅伦的高级顾问，后来在福克斯新闻主持了自己的节目，他承诺通过削减税收和监管来让国家负担得起。 对于民主党人来说，州长竞选本来应该是一帆风顺的，但结果却陷入了混乱。 由于缺乏一位可以主导选举的明星政客，大批民主党人纷纷加入。 这成为有记录以来最昂贵的加州州长竞选，斯泰尔投入巨额广告，硅谷也支持另一位民主党候选人圣何塞市长马特·马汉。 领先候选人之一、民主党众议员埃里克·斯瓦尔韦尔 (Eric Swalwell) 因性侵犯指控而退出国会并于 4 月辞职，但他否认了这一指控，此后竞选发生了动摇。 几名民主党人分裂选票的前景引发了该党高层的担忧，他们担心两名共和党人可能会在极度自由主义的加州取得进展。 该州所谓的丛林初选制度会选出得票最多的两名竞争者，无论哪个政党。 共有60多名候选人，其中包括一名改名为“巴拉克·奥巴马·肖”的候选人。 贝塞拉围绕他在华盛顿特区国会和加利福尼亚州办公室的记录来制定他的竞选活动。 希尔顿作为英国前首相卡梅伦的顾问，因在导致英国脱欧的英国政治动荡时期帮助制定保守党战略而闻名。 他还以其加州时尚品味而闻名，经常不打领带，甚至赤脚。 在加利福尼亚州，他发起了“破坏系统”的运动，誓言要解决无家可归者危机，并主张该州应该在移民执法方面与联邦政府更密切地合作，并取消庇护政策。 如果他晋级大选，他可能会在民主党选民人数与共和党选民人数大约为二比一的州面临一场艰苦的战斗。 加州最后..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-c99legznj8do-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/311f/live/4a9d2db0-5f60-11f1-8dad-8347ac6f73d8.jpg",
+          "publishedAt": "2026-06-03T15:30:20.000Z",
+          "title": {
+            "en": "Director Wim Wenders withdraws 1975 film over actress's teen topless scene",
+            "zh": "导演维姆·文德斯因女演员青少年裸照镜头而撤回 1975 年的电影"
+          },
+          "summary": {
+            "en": "Nastassja Kinski, who appeared in the film when she was 13, said the film-maker \"didn't protect me\".",
             "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "President says he would ‘like to meet’ Mojtaba Khamenei and appears to confirm reports he had heated call with Benjamin Netanyahu The Israeli military said it intercepted two projectiles that crossed into Israeli territory from Lebanon on Wednesday, after earlier announcing the interception of a “hostile aircraft” that had also crossed into Israel. “Following the sirens that sounded a short while ago in the area of Misgav Am, the Israeli Air Force intercepted two projectiles that crossed from Lebanon into Israeli territory,” the military said, referring to a community on the northern border. Continue reading...",
-            "zh": "总统表示他“愿意会见”莫杰塔巴·哈梅内伊，并似乎证实了他与本雅明·内塔尼亚胡进行激烈通话的报道。以色列军方表示，周三拦截了两枚从黎巴嫩进入以色列领土的导弹，此前以色列军方早些时候宣布拦截了一架同样进入以色列的“敌方飞机”。军方表示：“随着米斯加夫阿姆地区不久前响起的警报声，以色列空军拦截了两枚从黎巴嫩越境进入以色列领土的射弹。”以色列指的是北部边境的一个社区。继续阅读..."
+            "en": "Oscar-nominated German director Wim Wenders has said he will block future access to his 1975 film Wrong Move after appeals from actress Nastassja Kinski, who was filmed topless when she was 13.\n\nLast month, Kinski told a German newspaper she had been asking Wenders to change the film for years. \"That was my first film, he was my first director and he didn't protect me,\" she told the Sueddeutsche Zeitung.\n\nOn Wednesday, Wenders said the actress \"should have been better protected back then\", adding: \"For that, I apologise to you, Nastassja, unreservedly, no ifs and buts.\"\n\nIn a statement published on Instagram, Wenders said the film would be withdrawn from \"all current forms of distribution and exhibition\", meaning \"streaming services, television broadcasters and distribution partners will be instructed to cease public access to the film\".\n\nHe added: \"The many reactions, comments, and conversations of recent days have played a significant role in further sharpening my understanding of the events of that time.\n\n\"For that, I am grateful. Only an open and respectful exchange can lead us to reconsider positions and reassess responsibilities.\n\n\"It is necessary for our society to find appropriate ways of dealing with controversial film works from the 20th Century and to face new learning processes and inclusive perspectives regarding cinema.\"\n\nWenders said he would seek a \"broad dialogue\" with film institutions and groups, and only after reaching \"a mutually agreed solution, which will include Nastassja Kinski, will we make the film available again\".\n\nKinski's lawyer told AFP he \"welcomed\" the decision, but added: \"I also regret that it has only happened as result of public pressure.\"\n\nWrong Move, for which Wenders won best director at the German Film Awards, included a sexualised scene with Kinski and a male co-star who was in his early 30s.\n\nOn Friday, Wenders received a lifetime achievement honour at the German Film Awards and used his speech to tell the audience he was \"struggling\" with whether to permanently cut the scene out of the film, asking the younger film-makers in the audience for help resolving the issue, according to the Hollywood Reporter .\n\nKinski went on to also appear naked in 1976's To the Devil a Daughter and 1978's Stay As You Are.\n\nSpeaking about those early roles in 1997, she said: \"If I had had some­body to pro­tect me or if I had felt more secure about myself, I would not have accep­ted cer­tain things. Nud­ity things. And inside it was just tear­ing me apart.\"\n\nKinski went on to find international fame in films including Wenders' 1984 cult hit Paris, Texas, and also appeared in his 1993 film Faraway, So Close.",
+            "zh": "获得奥斯卡奖提名的德国导演维姆·文德斯 (Wim Wenders) 表示，在女演员娜塔莎·金斯基 (Nastassja Kinski) 提出上诉后，他将禁止以后再观看他 1975 年的电影《错误的举动》(Nastassja Kinski)，后者在 13 岁时被拍到赤裸上身。 上个月，金斯基告诉一家德国报纸，多年来她一直要求文德斯修改这部电影。 “那是我的第一部电影，他是我的第一位导演，但他没有保护我，”她告诉《南德意志报》。 周三，文德斯表示，这位女演员“当时应该得到更好的保护”，并补充道：“为此，我毫无保留地向你道歉，娜塔莎，没有​​如果和但是。” 文德斯在 Instagram 上发表的一份声明中表示，这部电影将退出“目前所有形式的发行和放映”，这意味着“流媒体服务、电视广播公司和发行合作伙伴将被指示停止公众观看这部电影”。 他补充道：“最近几天的许多反应、评论和对话发挥了重要作用，进一步加深了我对当时事件的理解。 “为此，我很感激。只有开放和尊重的交流才能让我们重新考虑立场、重新评估责任。 “我们的社会有必要找到适当的方式来处理 20 世纪有争议的电影作品，并面对关于电影的新的学习过程和包容性观点。” 文德斯表示，他将寻求与电影机构和团体进行“广泛对话”，只有在达成“包括娜塔莎·金斯基在内的共同商定的解决方案后，我们才会再次上映这部电影”。 金斯基的​​律师告诉法新社，他“欢迎”这一决定，但补充说：“我也很遗憾，这只是迫于公众压力而发生的。” 文德斯凭借《错误的举动》获得了德国电影奖最佳导演奖，其中包括金斯基和一位 30 岁出头的男搭档的性感场景。 据《好莱坞报道》报道，周五，文德斯在德国电影奖上获得了终身成就奖，并在演讲中告诉观众，他正在“挣扎”是否将这一场景从电影中永久删除，并请求观众中的年轻电影制作人帮助解决这个问题。 金斯基随后还在 1976 年的《女儿的魔鬼》和 1978 年的《保持原样》中裸体亮相。 谈到 1997 年的那些早期角色，她说：“如果有人保护我，或者如果我对自己感到更安全，我就不会接受某些事情。裸体的事情。而内心却让我心碎。” 金斯基随后因出演电影而享誉国际，其中包括文德斯 1984 年的热门电影《德克萨斯州巴黎》，并且还出演了他 1993 年的电影《遥远，如此近》。"
           },
           "reflection": {
             "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
@@ -279,189 +479,57 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-politics-live-2026-jun-03-henry-nowak-southampton-ri",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news",
-          "image": "https://i.guim.co.uk/img/media/30cc8a6aa343e00dd4e7a29eda95bb20452fccd8/372_0_4198_3359/master/4198.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=21c53d39950a60fa7edc9e42fdf7ec41",
-          "publishedAt": "2026-06-03T12:38:53.000Z",
-          "title": {
-            "en": "Farage exploiting Nowak’s murder against wishes of his family, says Starmer – UK politics live",
-            "zh": "斯塔默表示，法拉奇违背诺瓦克家人的意愿，利用诺瓦克被谋杀的机会 – 英国政治直播"
-          },
-          "summary": {
-            "en": "Reform leader jeered in parliament as he is urged to condemn violence Zia Yusuf, the Reform UK home affairs spokesperson, told Sky News this morning that he thought the treatment of Henry Nowak did justify his party’s claim that two-tier policing operates in the country. He...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Reform leader jeered in parliament as he is urged to condemn violence Zia Yusuf, the Reform UK home affairs spokesperson, told Sky News this morning that he thought the treatment of Henry Nowak did justify his party’s claim that two-tier policing operates in the country. He said: Having watched that footage [of Nowak’s arrest] … it’s hard to escape the conclusion that it is a demonstrable example of structural two-tier policing that is embedded in Hampshire police force and forces across the country. People can go to Hampshire police’s website and read their race action plan that was brought about under a Tory government. We understand and appreciate as police officers that we are accountable for our actions. What we ask, however, is that those actions are judged through fair and transparent processes. In this case, that process is already underway with the IOPC conducting their independent investigation. What we, as a society, cannot accept is the violent scenes we saw in Southampton last night. I know that since the release of the body-worn video footage from the night of Henry Nowak’s murder, there is a desire for answers and accountability but that must be done in the right way and not used as an excuse to threaten and intimidate my officers and bring violence to our streets causing fear and harm to those living and working in Hampshire and the Isle of Wight. Continue reading...",
-            "zh": "英国改革派内政事务发言人齐亚·优素福(Zia Yusuf)今天早上告诉天空新闻，他认为亨利·诺瓦克的待遇确实证明了该党关于该国实行两级警务的说法是正确的。他说：观看了[诺瓦克被捕的]录像……很难回避这样的结论：这是汉普郡警察部队和全国各地部队中嵌入的结构性两级警务的明显例子。人们可以访问汉普郡警方的网站，阅读他们在保守党政府领导下制定的种族行动计划。作为警察，我们理解并赞赏我们对自己的行为负责。然而，我们要求的是，这些行为是通过公平和透明的程序来评判的。在这种情况下，该程序已经开始，IOPC 正在进行独立调查。作为一个社会，我们无法接受的是昨晚在南安普顿看到的暴力场面。我知道，自从亨利·诺瓦克被谋杀当晚的随身录像片段发布以来，人们渴望得到答案和追究责任，但这必须以正确的方式进行，而不是用作威胁和恐吓我的官员的借口，并将暴力带到我们的街道上，给汉普郡和怀特岛的生活和工作人员造成恐惧和伤害。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c87q9d7r57yo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c87q9d7r57yo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b51b/live/883d9c70-5f44-11f1-ae51-c396b5163a64.jpg",
-          "publishedAt": "2026-06-03T12:25:31.000Z",
-          "title": {
-            "en": "The end of Trump's 'weaponisation' fund is another sign Republicans are fighting back",
-            "zh": "特朗普“武器化”基金的结束是共和党反击的另一个迹象"
-          },
-          "summary": {
-            "en": "The $1.8bn fund would have paid people the Trump administration decided were unjustly and politically targeted.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "President Donald Trump's plan to hand out $1.8bn (£1.3bn) in taxpayer funding to political allies lasted all of two weeks before his Department of Justice (DOJ) abandoned the idea amid an intense backlash from Republicans in Congress.\n\nThe justice department's decision to officially end the \"anti-weaponisation\" fund on Tuesday followed a revolt within Trump's own party. Republicans threatened to derail a critical immigration bill if the administration didn't drop the plan to give public funds to Trump supporters - including, potentially, rioters who participated in the 6 January 2021 attack on the US Capitol.\n\nRepublican lawmakers and Trump allies viewed the controversy as an unforced error by Trump in a moment when the president and his party can least afford one.\n\n\"This was a total self-inflicted wound and completely unnecessary,\" said a former Trump adviser who asked not to be named to speak candidly.\n\n\"It speaks to the president's myopic view sometimes,\" the source added. \"He's going to do what he wants to do regardless of whether it hurts Republicans.\"\n\nTrump is grappling with an unpopular war in Iran, high gas prices at home and a low approval rating that could drag down Republicans in the midterm elections.\n\nThe fund, part of a settlement over a lawsuit Trump dropped against the IRS, would have paid people the administration decided were unjustly targeted by the Biden administration.\n\nIt also banned current tax audits of Trump and his family and businesses, a provision Republicans and Democrats criticised as corrupt. The adminstration argued the fund was needed to \"make whole\" Americans wrongly prosecuted in the past and insisted anyone was eligible for payouts, including Democrats.\n\nBut adminstration officials had refused to rule out paying Jan 6 rioters. And on Tuesday, Acting US Attorney General Todd Blanche said the provision shielding Trump and his family from tax audits would remain in place, further angering Republicans who said it should be scrapped.\n\nThe firestorm over the fund was the latest example of a trend taking shape in Trump's second term - the willingness of some Republicans to push back when they feel the president's attempts to expand his power, reward allies and punish political opponents have gone too far.\n\nThey have taken on Trump multiple times since he returned to office, a sign the president does not have an ironclad grip on his party in his second term.\n\nSeveral Senate Republicans joined Democrats in passing a war powers resolution last month to limit the length of the conflict with Iran. (A similar resolution still has not passed the House, and it's unclear if the measures would force Trump's hand on Iran). Last year, in another blow to Trump, Republicans voted to force the Justice Department to release files...",
-            "zh": "唐纳德·特朗普总统向政治盟友提供 18 亿美元（13 亿英镑）纳税人资金的计划持续了整整两周，但由于国会共和党人的强烈反对，司法部 (DOJ) 放弃了这一想法。 在特朗普党内发生反抗之后，司法部周二决定正式终止“反武器化”基金。共和党人威胁称，如果政府不放弃向特朗普支持者（可能包括参与 2021 年 1 月 6 日美国国会大厦袭击事件的骚乱者）提供公共资金的计划，他们将破坏一项重要的移民法案。 共和党议员和特朗普的盟友认为，这场争议是特朗普在总统及其政党最无力承担的时刻犯下的非受迫性错误。 “这完全是自伤，完全没有必要，”一位不愿透露姓名的特朗普前顾问坦率地说。 “这有时说明了总统的短视观点，”消息人士补充道。 “他会做他想做的事，不管这是否会伤害共和党。” 特朗普正在努力应对不受欢迎的伊朗战争、国内高油价以及可能在中期选举中拖累共和党的低支持率。 该基金是特朗普撤销对美国国税局诉讼的和解协议的一部分，该基金将向政府认定为拜登政府不公正目标的人支付费用。 它还禁止目前对特朗普及其家族和企业进行税务审计，共和党和民主党批评这一条款腐败。政府辩称，该基金是为了“让所有”过去受到错误起诉的美国人“变得完整”，并坚称任何人都有资格获得赔偿，包括民主党人。 但政府官员拒绝排除向 1 月 6 日的骚乱者支付报酬的可能性。周二，美国代理司法部长托德·布兰奇表示，保护特朗普及其家人免受税务审计的条款将继续存在，这进一步激怒了共和党人，他们表示应该废除该条款。 围绕该基金的激烈争论是特朗普第二任期内形成的趋势的最新例子——一些共和党人在认为总统扩大权力、奖励盟友和惩罚政治对手的尝试走得太远时，愿意进行反击。 自从特朗普重新上台以来，他们已经多次与他较量，这表明总统在第二个任期内并没有牢牢控制住他的政党。 上个月，几位参议院共和党人与民主党人一起通过了一项战争权力决议，以限制与伊朗冲突的时间。 （类似的决议尚未在众议院获得通过，目前还不清楚这些措施是否会迫使特朗普对伊朗采取行动）。去年，共和党人投票迫使司法部公布文件，这是对特朗普的另一次打击……"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cp3peyykxd5o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e122/live/1fbe2850-5f34-11f1-b682-cf91850925ea.jpg",
-          "publishedAt": "2026-06-03T12:08:09.000Z",
-          "title": {
-            "en": "Eight killed after drone hits bus in Russia-controlled part of Ukraine",
-            "zh": "无人机在俄罗斯控制的乌克兰地区撞上公共汽车，造成八人死亡"
-          },
-          "summary": {
-            "en": "The bus was travelling between Moscow and Simferopol, in Russian-controlled Crimea, an official says.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Eight people have been killed and 10 others injured after a drone hit a passenger bus travelling through a Russia-controlled part of Ukraine, Russian state media have said.\n\nDenis Pushilin, the Kremlin-installed leader of Ukraine's eastern Donetsk region, said the bus was struck in the early hours of Wednesday as it was travelling between Moscow and Simferopol, in Russian-occupied Crimea.\n\nBlack smoke could also be seen rising over St Petersburg on Wednesday morning, with Ukraine President Volodymyr Zelensky confirming the city's oil terminal had been hit.\n\nThe attack comes as the city hosts the annual International Economic Forum, an event designed to showcase Russia to the world.\n\nThe strikes come a day after a massive Russian assault on cities across Ukraine killed at least 22 people, including several women and children.\n\nRussian investigators said they had opened a criminal case into what they described as a \"terrorist attack\" on civilians.\n\nSvetlana Petrenko, spokesperson for the Russian Investigative Committee, said authorities were working to establish the identities of those responsible for the strike.\n\nFifty-three people had been registered to travel on the bus, Reuters reports, however, none of the victims' identities have been released yet.\n\nAndriy Kovalenko, the head of the Ukrainian government's centre for combating disinformation, has talked about a \"parallel reality\" created by Russian state propaganda, while not explicitly denying claims that the strike took place.\n\n\"Russia attacks civilians with drones all the time... of course, when everyone is talking about this, when there is evidence of such actions by the Russians, they use their main propaganda tool: creating a parallel reality,\" he told the BBC.\n\n\"Against this background of attacks on our civilians, they come up with stories in which Ukraine acts just like Russia. This is done to justify their own terror as a response to our actions.\"\n\nDrones were downed over Belgorod, Kursk and other western regions, as well as near Moscow and over the Sea of Azov, Russian officials added.\n\nAt least 50 of the drones were downed over the Leningrad region northwest of Moscow, according to the regional governor Alexander Drozdenko.\n\nThe region includes St Petersburg, which is welcoming delegates from around the world for the economic forum from Wednesday.\n\n\"Important facilities on Russian territory were hit last night,\" Zelensky wrote on X, sharing a video of black smoke rising above St Petersburg.\n\nHe described the strikes as \"long-range sanctions\" and said Ukrainian forces also hit military targets in Russia's Tambov region.\n\nThese overnight strikes saw Pulkovo airport temporarily restrict flights, according to Russian aviation watchdog Rosaviatsia.\n\nMeanwhile, an 86-year-old woman was...",
-            "zh": "俄罗斯官方媒体称，一架无人机撞上一辆途经俄罗斯控制的乌克兰地区的客车，造成 8 人死亡、10 人受伤。 克里姆林宫任命的乌克兰东部顿涅茨克地区领导人丹尼斯·普希林表示，这辆巴士于周三凌晨在莫斯科和俄罗斯占领的克里米亚辛菲罗波尔之间行驶时被撞。 周三早上，圣彼得堡上空也可见黑烟升起，乌克兰总统泽伦斯基证实该市的石油码头遭到袭击。 此次袭击发生之际，该市正在举办一年一度的国际经济论坛，该论坛旨在向世界展示俄罗斯。 一天前，俄罗斯对乌克兰各城市发动大规模袭击，造成至少 22 人死亡，其中包括几名妇女和儿童。 俄罗斯调查人员表示，他们已对这起针对平民的“恐怖袭击”立案。 俄罗斯调查委员会发言人斯韦特兰娜·佩特连科表示，当局正在努力确定对此次袭击负责的人的身份。 据路透社报道，已有 53 人登记乘坐这辆巴士，但尚未公布任何遇难者的身份。 乌克兰政府打击虚假信息中心主任安德烈·科瓦连科谈到了俄罗斯国家宣传创造的“平行现实”，但没有明确否认发生了袭击的说法。 “俄罗斯一直用无人机攻击平民……当然，当每个人都在谈论此事时，当有证据表明俄罗斯人采取了此类行动时，他们就会使用他们的主要宣传工具：创造一个平行的现实，”他告诉英国广播公司。 “在我们平民遭到袭击的背景下，他们编造了一些故事，其中乌克兰的行为就像俄罗斯一样。这样做是为了证明他们自己的恐怖行为是对我们行动的回应。” 俄罗斯官员补充说，无人机在别尔哥罗德、库尔斯克和其他西部地区以及莫斯科附近和亚速海上空被击落。 莫斯科西北部列宁格勒地区州长亚历山大·德罗兹登科表示，至少有 50 架无人机在该地区被击落。 该地区包括圣彼得堡，从周三开始，圣彼得堡将欢迎来自世界各地的代表参加经济论坛。 “昨晚，俄罗斯境内的重要设施遭到袭击，”泽连斯基在 X 上写道，并分享了一段圣彼得堡上空升起黑烟的视频。 他将这次袭击描述为“远程制裁”，并表示乌克兰军队还袭击了俄罗斯坦波夫地区的军事目标。 据俄罗斯航空监管机构 Rosaviatsia 称，这些夜间罢工导致普尔科沃机场暂时限制航班。 与此同时，一名 86 岁的妇女..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-czd29327qzvo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c5a0/live/aa946180-5f41-11f1-b682-cf91850925ea.jpg",
-          "publishedAt": "2026-06-03T11:54:25.000Z",
-          "title": {
-            "en": "Foreign nationals among at least 21 killed in Delhi fire",
-            "zh": "德里火灾至少21人死亡，其中包括外国人"
-          },
-          "summary": {
-            "en": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "At least 21 people have been killed and many others injured after a fire tore through a multi-storey building in south Delhi, police in India's capital say.\n\nMany of the victims were foreigners - including people from South Asian and African countries - who had travelled to India for medical treatment or to accompany relatives undergoing care, local media reported.\n\nThe building in the Malviya Nagar area allegedly operated as a bed-and-breakfast catering to patients and relatives of those receiving treatment at a nearby private hospital.\n\nMore than 40 people were rescued and taken to hospital. It remains unclear how many were inside the building when fire broke out. Its cause is not yet known.\n\n\"The fire was brought under control quite early on - it was contained very quickly. We have now cleared the building and opened it up for the police,\" fire officer AK Malik said.\n\nDelhi minister Ashish Sood said authorities were investigating whether the building had the necessary permissions to operate as a bed-and-breakfast facility, adding that those found responsible for any violations would face criminal action.\n\nPrime Minister Narendra Modi expressed his condolences and announced compensation of 200,000 rupees ($2,088; £1,552) for the families of those killed and 50,000 rupees for those injured.\n\nVideos on social media showed flames shooting from the building as people gathered nearby. Footage broadcast by Indian news channels showed its exterior badly charred as emergency workers searched the site.\n\nEyewitnesses and locals at the scene told BBC Hindi that, upon entering the building, they found many people unconscious - some lying beneath beds in hotel rooms and others collapsed in washrooms.\n\nWasim, who lives nearby and was among the first responders at the scene, recounted a particularly shocking incident. He said he found bodies of a couple in a washroom, holding each other in an embrace.\n\nAnother witness said they performed CPR on several unconscious victims and managed to revive some of them.\n\nA shopkeeper who runs a quilt store opposite the building said he spread quilts on the ground below to cushion people attempting to jump to safety.\n\nAuthorities have not yet released a full list of those killed or formally identified the victims. Local media reports, citing officials and other sources, said some of the victims were foreign nationals, including people from neighbouring South Asian countries as well as countries in Africa and Central Asia.\n\nSeveral people in the building were from Bangladesh and other parts of South Asia and had travelled to Delhi for medical treatment, local lawmaker Satish Upadhyay said.\n\nBy early evening, the search and rescue operation was nearly complete but ambulances are still on standby as officials continue clearing...",
-            "zh": "印度首都警方称，德里南部一栋多层建筑发生火灾，造成至少 21 人死亡，多人受伤。 据当地媒体报道，许多受害者是外国人，包括来自南亚和非洲国家的人，他们曾前往印度接受治疗或陪伴接受护理的亲戚。 据称，这座位于 Malviya Nagar 地区的建筑是一家住宿加早餐旅馆，为在附近一家私人医院接受治疗的患者和患者家属提供服务。 超过40人获救并被送往医院。目前尚不清楚火灾发生时大楼内有多少人。其原因尚不清楚。 消防官 AK Malik 表示：“火势很早就得到了控制，很快就得到了控制。我们现在已经清理了大楼并向警方开放。” 德里部长阿什什·苏德表示，当局正在调查该建筑是否拥有作为住宿加早餐设施运营的必要许可，并补充说，那些对任何违规行为负有责任的人将面临刑事诉讼。 总理纳伦德拉·莫迪表示哀悼，并宣布为遇难者家属提供 20 万卢比（合 2,088 美元；1,552 英镑）赔偿，为受伤者提供 5 万卢比赔偿。 社交媒体上的视频显示，当人们聚集在附近时，建筑物内冒出火焰。印度新闻频道播放的视频显示，紧急救援人员在现场搜查时，其外部严重烧焦。 现场目击者和当地人告诉 BBC 印地语，进入大楼后，他们发现许多人失去知觉——一些人躺在酒店房间的床下，另一些人倒在洗手间里。 住在附近的瓦西姆是第一批赶到现场的人之一，他讲述了一件特别令人震惊的事件。他说，他在洗手间里发现了一对情侣的尸体，他们互相拥抱。 另一名目击者称，他们对几名失去知觉的受害者进行了心肺复苏，并成功救活了其中一些人。 大楼对面经营一家被子店的店主说，他在楼下的地面上铺了被子，以缓冲那些试图跳到安全地带的人。 当局尚未公布遇难者的完整名单，也没有正式确认遇难者身份。当地媒体援引官员和其他消息人士的话说，一些受害者是外国人，其中包括来自邻近的南亚国家以及非洲和中亚国家的人。 当地议员萨蒂什·乌帕德耶 (Satish Upadhyay) 表示，大楼内有几人来自孟加拉国和南亚其他地区，曾前往德里接受治疗。 到傍晚时分，搜救行动已接近完成，但救护车仍在待命，官员们仍在继续清理……"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c0e2vqd3j1vo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0502/live/047b4620-5f31-11f1-9b94-1bf27e494d9e.jpg",
-          "publishedAt": "2026-06-03T11:34:07.000Z",
-          "title": {
-            "en": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-            "zh": "普京旗舰经济论坛开幕之际乌克兰无人机袭击圣彼得堡"
-          },
-          "summary": {
-            "en": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Ukraine has carried out a strike on the outskirts of Russia's St Petersburg, hours before the opening of a major economic forum designed to attract foreign investment into the country.\n\nAs dawn broke black plumes of smoke rose over Russia's second city, where Vladimir Putin is due to address the financial event on Friday. Thousands of guests from 130 countries are due to attend, including a low-key US delegation.\n\nLocal authorities said air defences shot down 59 drones overnight and that three different districts of St Petersburg had been hit, although no one was killed.\n\nKremlin spokesman Dmitry Peskov said Moscow would respond to the strikes. \"Our responses will be systemic in nature,\" he said on Wednesday.\n\nMobile internet was disrupted and St Petersburg's Pulkovo Airport was temporarily closed, while some regions of nearby Latvia and Estonia also issued air raid alerts.\n\nHours later, Volodymyr Zelensky confirmed Ukrainian drones had hit several locations in Russia, including the oil terminal and a naval base in the nearby town of Kronstadt.\n\n\"The Ukrainian plan of long-range sanctions is being implemented exactly as it is needed to bring peace closer,\" Zelensky wrote on social media, using a euphemism for long-distance strikes on Russia.\n\nKronstadt is the main outpost of the Russian Navy's Baltic Fleet. Unverified videos posted on social media by Ukrainian military figures showed drones heading for docked military ships, with the video cutting off before impact.\n\nRobert Brovdi, the commander of Ukraine's unmanned systems, said on Telegram that the corvette Boikiy was struck.\n\nThe St Petersburg Economic Forum - once dubbed the \"Russian Davos\" - is a flagship event on the Russian political agenda.\n\nUntil Moscow launched its full-scale invasion of Ukraine in 2022, it used to be attended by high-profile Western delegations, including CEOs and heads of state.\n\nThis year, for the first time in nearly a decade, a low-key US delegation is also due to participate in the forum. It is led by the head of the US Commission of Fine Arts Rodney Mims Cook Jr, the official who has been overseeing President Donald Trump's ballroom project at the White House.\n\nUS right-wing commentator Candace Owens and Putin-backing US actor Steven Seagal are also due to attend.\n\nIn a tongue-in-cheek post on X, Denys Shtilierman of Ukrainian defence company Fire Point said: \"Due to such distinguished guests and the importance of the event itself, we couldn't ignore it - and urgently flew to [St Petersburg].\"\n\nThe post was accompanied by videos of drones crossing the sky and thick black smoke billowing from undisclosed locations on the sea front.\n\nIn the four years since Russia's invasion began, Ukraine has developed a booming defence sector. Kyiv is now able to regularly hit...",
-            "zh": "就在一个旨在吸引外国投资进入该国的重要经济论坛开幕前几个小时，乌克兰在俄罗斯圣彼得堡郊区发动了一次罢工。 黎明时分，黑色烟雾升起在俄罗斯第二大城市上空，弗拉基米尔·普京(Vladimir Putin)将于周五在该市发表金融活动讲话。来自 130 个国家的数千名嘉宾将出席，其中包括一个低调的美国代表团。 地方当局表示，防空系统一夜之间击落了 59 架无人机，圣彼得堡的三个不同地区遭到袭击，但没有人死亡。 克里姆林宫发言人德米特里·佩斯科夫表示，莫斯科将对袭击事件做出回应。 “我们的应对措施本质上将是系统性的，”他周三表示。 移动网络中断，圣彼得堡普尔科沃机场暂时关闭，附近拉脱维亚和爱沙尼亚的部分地区也发布了空袭警报。 几小时后，弗拉基米尔·泽连斯基证实乌克兰无人机袭击了俄罗斯的多个地点，包括石油码头和附近喀琅施塔得镇的一个海军基地。 泽连斯基在社交媒体上写道：“乌克兰的远程制裁计划正在按照实现和平所需的方式实施。”他用的是对俄罗斯进行远程打击的委婉说法。 喀琅施塔得是俄罗斯海军波罗的海舰队的主要前哨基地。乌克兰军方人士在社交媒体上发布的未经证实的视频显示，无人机正驶向停靠在码头的军舰，视频在撞击前被切断。 乌克兰无人系统指挥官罗伯特·布罗夫迪在 Telegram 上表示，护卫舰博基号被击中。 圣彼得堡经济论坛曾被称为“俄罗斯达沃斯”，是俄罗斯政治议程上的旗舰活动。 在莫斯科于 2022 年对乌克兰发动全面入侵之前，包括首席执行官和国家元首在内的西方高调代表团一直出席。 今年，也是近十年来首次，低调的美国代表团也将参加该论坛。该项目由美国美术委员会主席小罗德尼·米姆斯·库克领导，他一直负责监督唐纳德·特朗普总统在白宫的舞厅项目。 美国右翼评论员坎迪斯·欧文斯和普京支持的美国演员史蒂文·西格尔也将出席。 乌克兰国防公司 Fire Point 的 Denys Shtilierman 在 X 上发表的半开玩笑的帖子中表示：“由于如此尊贵的客人以及活动本身的重要性，我们不能忽视它 - 并且紧急飞往[圣彼得堡]。” 这篇帖子还附上了无人机飞过天空的视频，以及从海滨未公开地点冒出浓浓黑烟的视频。 自俄罗斯入侵以来的四年里，乌克兰的国防部门蓬勃发展。基辅现在能够定期击中......"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-dw-com-en-malaysia-social-media-ban-for-minors-sparks-privacy-debate",
+          "id": "www-dw-com-en-taliban-and-russia-cozy-up-to-each-other-why-a-77409479-ma",
           "section": "world",
           "source": "DW World",
           "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/malaysia-social-media-ban-for-minors-sparks-privacy-debate/a-77403526?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/76575617_6.jpg",
-          "publishedAt": "2026-06-03T10:50:00.000Z",
+          "link": "https://www.dw.com/en/taliban-and-russia-cozy-up-to-each-other-why/a-77409479?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/74274248_6.jpg",
+          "publishedAt": "2026-06-03T14:28:00.000Z",
           "title": {
-            "en": "Malaysia: Social media ban for minors sparks privacy debate",
-            "zh": "马来西亚：未成年人社交媒体禁令引发隐私争议"
+            "en": "Taliban and Russia cozy up to each other — why?",
+            "zh": "塔利班和俄罗斯相互勾结——为什么？"
           },
           "summary": {
-            "en": "Malaysia’s ban on under-16s using social media has been framed as a child-safety measure, but critics warn it could prove difficult to enforce and may come at the cost of online privacy.",
+            "en": "Russia and the Afghan Taliban have signed a deal on repairing Soviet-era and Russian-made weapons, a seemingly small move in a larger game involving the US, Pakistan, and Moscow's efforts to curb Western influence.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Russia and the Afghan Taliban have signed a deal on repairing Soviet-era and Russian-made weapons, a seemingly small move in a larger game involving the US, Pakistan, and Moscow's efforts to curb Western influence.\n\nThe acting defense minister in the Taliban&#160;regime , Mullah Mohammad Yaqoob, stepped off a flight in Kabul last week to deliver a warning to Pakistan .\n\nIslamabad, he said, would \"soon no longer dare\" to attack Afghan territory due to the military-technical cooperation agreement he had just signed in Moscow.\n\nHe also said the implementation of the agreement with Russia would begin shortly.&#160;\n\nAt the same time, Yaqoob tried to downplay any international concerns about military cooperation between the regime and Moscow. The agreement, he insisted, was not a defense or security pact. It was focused on repairing and maintaining Russian-made weapons systems already in Afghanistan's arsenal, including helicopters and other aircraft.\n\nHe even suggested similar arrangements could be made with the United States , noting that American weapons had also been left in the wake of the NATO invasion of Afghanistan .\n\nThis dual message&#160;—&#160;deterrence toward Pakistan, reassurance toward the wider region&#160;— illustrates how both the Taliban regime and Russian President Vladimir Putin's government frame their budding relationship: Rather than being an ideological alliance, it is a pragmatic exchange in which both sides see immediate gains.&#160;\n\nThe Russian government and the Taliban signed the military-technical cooperation agreement on May 27 on the sidelines of a security conference near Moscow. The full details have not been made public.&#160;\n\nRussia's special envoy for Afghanistan, Zamir Kabulov, said the agreement focuses on repairing Russian-made equipment and could pave the way for future defense contracts. For now, he added, the main priority is restoring systems already in Afghanistan's possession.&#160;\n\nSoviet troops invaded Afghanistan in late 1979 and stayed in the country for a decade trying to keep a friendly regime afloat. Many of their weapons systems were left behind and survive to this day.\n\nAfter 2001, the US and NATO also relied on Russian helicopters, particularly the Mi-17, to build Afghanistan's air force, in part because Afghan pilots and technicians were familiar with them and because they were considered suitable for the country's rugged terrain.&#160;\n\nYaqoob's remarks came amid heightened tensions with Pakistan, including cross-border shelling and air strikes inside Afghan territory. Islamabad has repeatedly accused the Taliban of sheltering militants from Tehreek-e-Taliban Pakistan (TTP) , an allegation the Taliban deny.&#160;\n\nWhile the Kabul-based regime seeks to boost its military capabilities and send...",
+            "zh": "俄罗斯和阿富汗塔利班签署了一项修复苏联时代和俄罗斯制造的武器的协议，这在美国、巴基斯坦和莫斯科遏制西方影响力的更大博弈中看似微不足道。 塔利班政权代理国防部长毛拉·穆罕默德·雅各布上周在喀布尔走下飞机，向巴基斯坦发出警告。 他说，由于他刚刚在莫斯科签署了军事技术合作协议，伊斯兰堡将“很快不再敢”攻击阿富汗领土。 他还表示，与俄罗斯的协议将很快开始实施。 与此同时，雅各布试图淡化国际社会对该政权与莫斯科之间军事合作的担忧。他坚称，该协议不是国防或安全协议。它的重点是修复和维护阿富汗武库中已有的俄罗斯制造的武器系统，包括直升机和其他飞机。 他甚至建议与美国做出类似的安排，并指出在北约入侵阿富汗后美国也留下了武器。 这一双重信息——对巴基斯坦的威慑，对更广泛地区的保证——说明了塔利班政权和俄罗斯总统弗拉基米尔·普京政府如何构建他们正在萌芽的关系：它不是一个意识形态联盟，而是一种务实的交流，双方都看到了直接的收益。 俄罗斯政府和塔利班于5月27日在莫斯科附近举行的安全会议期间签署了军事技术合作协议。完整细节尚未公开。 俄罗斯阿富汗问题特使扎米尔·卡布洛夫表示，该协议的重点是修复俄罗斯制造的设备，并可能为未来的国防合同铺平道路。他补充说，目前的首要任务是恢复阿富汗已经拥有的系统。 1979 年底，苏联军队入侵阿富汗，并在该国滞留了十年，试图维持一个友好政权的运转。他们的许多武器系统被留下并保留至今。 2001年之后，美国和北约也依靠俄罗斯直升机，特别是Mi-17来建设阿富汗空军，部分原因是阿富汗飞行员和技术人员对它们很熟悉，而且它们被认为适合该国崎岖的地形。 雅各布发表上述言论之际，与巴基斯坦的紧张局势加剧，包括阿富汗境内的跨境炮击和空袭。伊斯兰堡多次指责塔利班庇护巴基斯坦塔利班运动（TTP）的武装分子，但塔利班否认了这一指控。 虽然总部位于喀布尔的政权寻求增强其军事能力并派遣......"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-mapping-the-ai-narrative-in-kenya-and-south-africa-s-media",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/mapping-the-ai-narrative-in-kenya-and-south-africa-s-media/a-77386369?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77395940_6.jpg",
+          "publishedAt": "2026-06-03T13:41:00.000Z",
+          "title": {
+            "en": "Mapping the AI narrative in Kenya and South Africa's media",
+            "zh": "绘制肯尼亚和南非媒体的人工智能叙事图"
+          },
+          "summary": {
+            "en": "From data colonialism to deepfakes, AI is reshaping Africa. A new study shows where Kenyan and South African coverage falls short, and offers practical steps to deepen and improve reporting.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Malaysia’s ban on social media for people younger than16 has been framed as a child-safety measure, but critics warn that it could prove difficult to enforce and may come at the cost of online privacy.\n\nA ban on social media &#160;accounts for children under 16&#160;that took effect June 1 has made&#160; Malaysia &#160;one of the latest countries to impose age-based limits on access to digital platforms .\n\nThe rules require major social media companies to prevent people younger than 16 from registering or holding accounts. Platforms are expected to verify users' ages and strengthen safeguards against harmful content, cyberbullying, grooming, scams and addictive design features.\n\nAbout 8 million of the 36 million people in Malaysia are younger than 16. The Malaysian government says the measure is intended to protect children, not cut them off from technology altogether.\n\nOfficials have argued that stronger regulation is needed as minors face growing exposure to online harms and as parents struggle to monitor what children see and do on platforms designed to hold their attention for as long as possible.\n\nThe rules apply to large platforms such as Facebook, Instagram, TikTok and YouTube, placing much of the enforcement burden on multinational technology firms.\n\nGovernments around the world are tightening online safety rules for children . In December,&#160;Australia became the first country to ban social media for people younger than 16 .\n\nIn March, Indonesia became the first country in Southeast Asia to impose such a ban, applying restrictions to YouTube, TikTok, Facebook, Instagram, Threads, X, Bigo Live and Roblox.\n\nSome European countries are advancing age-verification measures as concerns mount over the effects of social media on mental health, sleep, education and personal safety .\n\nSmartphones have become a central part of children's social lives, often with little adult supervision. Supporters say minimum-age rules could reduce exposure to predatory behavior, violent material, sexualized content and algorithm-driven feeds that encourage excessive screen time.\n\nAfter Malaysia's government agreed to the&#160;ban in December, &#160;Prime Minister Anwar Ibrahim called it necessary following&#160;a rise in serious youth-related crimes.&#160;\n\nAt the time, he linked social media use to the killing of a 16-year-old girl, who was stabbed 200 times by a 14-year-old male schoolmate.\n\nAccording to the Malaysian Communications and Multimedia Commission, age verification for existing users will be rolled out over the next six months.\n\nUsers identified as younger than 16 years old will have a month to download or transfer data, such as photos and videos, before restrictions or other actions are applied.\n\nCompanies that fail to comply could face penalties of...",
-            "zh": "马来西亚禁止 16 岁以下人群使用社交媒体的禁令被认为是一项儿童安全措施，但批评者警告说，该禁令可能很难执行，而且可能会以牺牲在线隐私为代价。 6 月 1 日生效的针对 16 岁以下儿童社交媒体帐户的禁令使马来西亚成为最新对数字平台访问施加基于年龄限制的国家之一。 这些规则要求主要社交媒体公司阻止 16 岁以下的人注册或持有账户。平台预计将验证用户的年龄，并加强针对有害内容、网络欺凌、诱骗、诈骗和令人上瘾的设计功能的防范措施。 马来西亚 3600 万人口中约有 800 万年龄在 16 岁以下。马来西亚政府表示，该措施旨在保护儿童，而不是完全切断他们与科技的联系。 官员们认为，由于未成年人面临着越来越多的网络伤害，而且家长们很难监控孩子在旨在尽可能长时间吸引他们注意力的平台上所看到的和所做的事情，因此需要加强监管。 这些规则适用于 Facebook、Instagram、TikTok 和 YouTube 等大型平台，给跨国科技公司带来了很大的执行负担。 世界各国政府正在收紧针对儿童的在线安全规则。 12 月，澳大利亚成为第一个禁止 16 岁以下青少年使用社交媒体的国家。 今年 3 月，印度尼西亚成为东南亚第一个实施此类禁令的国家，对 YouTube、TikTok、Facebook、Instagram、Threads、X、Bigo Live 和 Roblox 实施限制。 由于人们越来越担心社交媒体对心理健康、睡眠、教育和个人安全的影响，一些欧洲国家正在推进年龄验证措施。 智能手机已成为儿童社交生活的核心部分，通常很少有成人监督。支持者表示，最低年龄规则可以减少对掠夺性行为、暴力内容、色情内容和算法驱动的内容的接触，这些内容会鼓励过多的屏幕时间。 马来西亚政府于 12 月同意该禁令后，总理安瓦尔·易卜拉欣 (Anwar Ibrahim) 称，由于与青少年相关的严重犯罪有所增加，因此有必要实施该禁令。 当时，他将社交媒体的使用与一名 16 岁女孩的杀害联系起来，这名女孩被一名 14 岁男同学刺了 200 刀。 据马来西亚通信和多媒体委员会称，现有用户的年龄验证将在未来六个月内推出。 在实施限制或其他行动之前，被确定为 16 岁以下的用户将有一个月的时间下载或传输照片和视频等数据。 不遵守规定的公司可能会面临以下处罚..."
+            "en": "From data colonialism to deepfakes, AI is reshaping Africa. A new study shows where Kenyan and South African coverage falls short, and offers practical steps to deepen and improve reporting.\n\nA new study by the Centre for Information Integrity in Africa (CINIA) at Stellenbosch University, supported by DW Akademie, takes a critical look at how artificial intelligence (AI) is covered in Kenyan and South African media. The research, titled \" AI in the Media: Kenya and South Africa \", analyses 57 articles and draws on two rounds of journalist interviews over a five-year period (2021-2026). The research finds that AI remains largely an underexplored, and often misunderstood, topic for journalism in South Africa and Kenya. Here are the key takeaways.\n\nAI articles tend to be siloed and reactive, framed as business, security or technology stories. Seldom is AI presented in terms of its multidimensional, layered impact on society. Furthermore, the geopolitical aspect of AI rarely gets interrogated in mainstream media. Coverage is often triggered by crises or scandals rather than proactive public-interest journalism.\n\nEight substantive themes emerge from the research: AI for development, inclusion and social change; AI as a tool for disinformation and political manipulation; data colonialism and infrastructure gaps; AI governance, ethics and policy; AI and workforce/labour exploitation; AI's impact on journalism and the media; authoritarian tech and crime; and environmental concerns.\n\nOptimistic narratives in African media coverage of AI frequently emphasise the technology's potential to support development, education, healthcare, and social inclusion. Rather than framing AI primarily as a disruptive or threatening technology, these accounts present it as a tool capable of addressing structural challenges such as educational inequality, skills shortages, limited access to services, and financial exclusion.\n\nAlongside optimistic narratives about innovation and development, African media coverage of artificial intelligence increasingly highlights concerns about the technology’s role in disinformation, political manipulation, fraud, and state surveillance. In this framing, AI is often portrayed as a double-edged tool: capable of improving governance and administrative efficiency, but also vulnerable to misuse by political actors, cybercriminals, and governments seeking greater control over digital spaces.\n\nDebates about data colonialism reflect the power dynamics behind tech and AI in particular, and touch on issues of data extraction from less developed nations by tech companies located predominantly in China and the Global North. They reflect issues of exploitation and privacy, and many draw on parallels with historic narratives of colonial extraction.\n\nThis...",
+            "zh": "从数据殖民主义到深度伪造，人工智能正在重塑非洲。一项新的研究显示了肯尼亚和南非的报道不足之处，并提供了深化和改进报告的实际步骤。 斯泰伦博斯大学非洲信息完整性中心 (CINIA) 在 DW Akademie 的支持下开展了一项新研究，对肯尼亚和南非媒体如何报道人工智能 (AI) 进行了批判性审视。这项名为“媒体中的人工智能：肯尼亚和南非”的研究分析了 57 篇文章，并借鉴了五年期间（2021-2026）的两轮记者采访。研究发现，对于南非和肯尼亚的新闻业来说，人工智能在很大程度上仍然是一个未被充分探索且经常被误解的话题。以下是要点。 人工智能文章往往是孤立的、被动的，被框架为商业、安全或技术故事。人工智能很少以其对社会的多维、分层影响来呈现。此外，人工智能的地缘政治方面很少受到主流媒体的质疑。报道往往是由危机或丑闻而不是主动的公共利益新闻引发的。 研究中出现了八个实质性主题：人工智能促进发展、包容性和社会变革；人工智能作为虚假信息和政治操纵的工具；数据殖民主义和基础设施差距；人工智能治理、道德和政策；人工智能和劳动力/劳动力剥削；人工智能对新闻和媒体的影响；专制技术与犯罪；和环境问题。 非洲媒体对人工智能的乐观报道经常强调该技术在支持发展、教育、医疗保健和社会包容方面的潜力。这些报道并未将人工智能主要视为一种破坏性或威胁性技术，而是将其视为一种能够解决教育不平等、技能短缺、服务获取机会有限和金融排斥等结构性挑战的工具。 除了对创新和发展的乐观叙述之外，非洲媒体对人工智能的报道也越来越凸显出人们对该技术在虚假信息、政治操纵、欺诈和国家监控中所扮演的角色的担忧。在这种框架下，人工智能通常被描述为一种双刃工具：能够提高治理和行政效率，但也容易被政治行为者、网络犯罪分子和寻求对数字空间更大控制的政府滥用。 关于数据殖民主义的争论尤其反映了科技和人工智能背后的权力动态，并涉及主要位于中国和全球北方的科技公司从欠发达国家提取数据的问题。它们反映了剥削和隐私问题，许多都与殖民掠夺的历史叙述有相似之处。 这..."
           },
           "reflection": {
             "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
@@ -477,101 +545,35 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-dw-com-en-portugal-general-strike-causes-disruption-to-services-a-77",
+          "id": "www-dw-com-en-kenya-s-missing-children-crisis-exposes-system-gaps-a-7740",
           "section": "world",
           "source": "DW World",
           "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/portugal-general-strike-causes-disruption-to-services/a-77402190?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77402523_6.jpg",
-          "publishedAt": "2026-06-03T09:39:00.000Z",
+          "link": "https://www.dw.com/en/kenya-s-missing-children-crisis-exposes-system-gaps/a-77408141?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77407076_6.jpg",
+          "publishedAt": "2026-06-03T12:54:00.000Z",
           "title": {
-            "en": "Portugal: General strike causes disruption to services",
-            "zh": "葡萄牙：总罢工导致服务中断"
+            "en": "Kenya's missing children crisis exposes system gaps",
+            "zh": "肯尼亚失踪儿童危机暴露系统缺陷"
           },
           "summary": {
-            "en": "Flights have been canceled and schools closed as unions stage a strike over government labor reform plans. It is the second major walkout in Portugal in six months.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "Families across Kenya are grappling with missing children cases, as gaps in child protection systems come under scrutiny and authorities dispute claims of a worsening crisis",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Flights have been canceled and schools closed as unions stage a strike over government labor reform plans. It is the second major walkout in Portugal in six months.\n\nPortugal has been hit by the&#160;second general strike in six months, with transport, schools and hospitals all impacted by the industrial action.\n\nUnions called the 24-hour strike in protest at plans by the government to reform labor laws, saying they would deregulate&#160;working hours, make dismissals easier, curb strike rights and lower parental protections.&#160;&#160;\n\nState-owned ⁠railway ​CP has suspended long-distance trains and most regional services amid the strike.\n\nAcross the country, schools have closed, while hospitals have postponed most surgeries and appointments after nurses walked out.\n\nThe aviation sector has also been impacted, with national flag carrier TAP saying it would operate&#160;just 79 of the more than 300 flights it makes daily.\n\nA protest march is planned through Lisbon starting at 2.30 p.m. local time (1430 GMT).\n\nThe labor code reform package put forward by Portugal's minority center-right government is likely to pass with support from the far-right Chega party.\n\nTiago Oliveira, head of Portugal's&#160;largest umbrella union CGTP, ​told Reuters news agency that the reforms would worsen workers' conditions with changes to working hours as well as their rights in case of dismissal.\n\nAmong other things, he said the reforms would&#160;leave young workers \"stuck ‌on precarious contracts for life,\" forcing them to work 50 hours ‌a ​week without extra pay instead of the current standard 40 hours.\n\nThe government has said the changes&#160;aim to &#160;boost productivity and spur ​growth.\n\nWednesday's strike is only the&#160;third&#160;general shutdown in Portugal since protests against austerity in 2013.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
-            "zh": "由于工会针对政府劳工改革计划举行罢工，航班被取消，学校被关闭。这是葡萄牙六个月内第二次大规模罢工。 葡萄牙遭遇六个月内第二次大罢工，交通、学校和医院均受到罢工影响。 工会号召举行 24 小时罢工，抗议政府改革劳动法的计划，称他们将放松对工作时间的管制，使解雇更容易，限制罢工权利并降低对父母的保护。 国有铁路 CP 在罢工期间暂停了长途列车和大多数地区服务。 全国各地的学校已经关闭，医院在护士罢工后推迟了大多数手术和预约。 航空业也受到了影响，国家航空公司 TAP 表示，每天运营的 300 多个航班中，该公司将仅运营 79 个航班。 计划于下午 2.30 开始在里斯本举行抗议游行。当地时间（1430 GMT）。 葡萄牙少数派中右翼政府提出的劳工法改革方案可能会在极右翼切加党的支持下获得通过。 葡萄牙最大的伞式工会 CGTP 主席蒂亚戈·奥利维拉 (Tiago Oliveira) 告诉路透社，改革将改变工作时间以及解雇时的权利，从而恶化工人的条件。 他表示，除其他外，改革将使年轻工人“终身陷入不稳定的合同”，迫使他们每周工作 50 小时，没有额外报酬，而不是目前标准的 40 小时。 政府表示，这些变化旨在提高生产力并刺激增长。 周三的罢工只是葡萄牙自 2013 年抗议紧缩政策以来第三次全面停工。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
+            "en": "When 17-year-old Ramsy Karani disappeared from his home in Kayole, a densely populated residential estate in Kenya's capital, Nairobi, his family was thrust into a reality that an increasing number of Kenyan parents are confronting: the uncertainty and anguish of not knowing where a child has gone.\n\nKarani's relatives joined hundreds of other families across Kenya whose children's faces circulate daily on social media posters, WhatsApp groups and databases of missing persons.\n\n\"This is the first time this has happened. Ramsy never leaves the house, he is always indoors. We are asking for his return,\" said his mother, Doris Kamathi.\n\nHer experience reflects a broader concern emerging across Kenya, where reports of missing children, abductions, trafficking and abandonment have drawn growing public attention and renewed scrutiny of the country's child protection systems.\n\nAccording to data from Kenya's Child Protection Information Management System (CPIMS), cited by the State Department for Children Services, 10,581 child protection cases were recorded between January 2025 and March 2026. Those figures included 1,636 missing children, 1,952 abductions, 6,820 abandonment cases and 173 trafficking incidents.\n\nChild welfare groups say the figures highlight broader vulnerabilities facing children across Kenya.\n\nIn Sinendet, a village in Kenya's Nakuru County, concerns about child safety intensified following the death of 12-year-old Mercy Nyambura Mureithi, a Grade 6 pupil at Sinendet Primary School who disappeared while walking home from school in May.\n\nHer disappearance sparked a frantic search by relatives, neighbors and authorities before her body was found, shocking the community and drawing national attention.&#160;\n\nFor many parents, Mercy's death turned child safety from a distant concern into an immediate reality.\n\nKiaraho Mwangi, Sinendet's administrative chief, said the case prompted renewed discussions among parents, teachers and local leaders about the need for closer supervision of children and stronger community vigilance.\n\nGeorge Onyango, who founded Promise Giving Children's Home, a nonprofit organization in Kayole, believes prevention begins with closer supervision. \"Children below 17 years should not be left alone at any time,\" he told DW. \"They should always be with an adult who is watching over them.\"\n\nChild welfare advocates argue that while Kenya has legal frameworks designed to protect minors, implementation remains uneven. Investigations into missing children can be hampered by limited resources, delayed reporting and inadequate coordination between agencies.\n\nAt the same time, the rise of digital platforms has introduced new risks. Child protection organizations such as the UN Children's Fund (UNICEF) have increasingly warned...",
+            "zh": "当 17 岁的拉姆西·卡拉尼 (Ramsy Karani) 从位于肯尼亚首都内罗毕人口稠密的卡约勒 (Kayole) 的家中失踪时，他的家人被迫面对越来越多肯尼亚父母面临的现实：不知道孩子去了哪里的不确定性和痛苦。 卡拉尼的亲属和肯尼亚各地数百个其他家庭一样，这些家庭的孩子的面孔每天都在社交媒体海报、WhatsApp 群组和失踪人员数据库中流传。 “这是第一次发生这种情况。拉姆西从来没有离开过房子，他总是呆在室内。我们要求他回来，”他的母亲多丽丝·卡马蒂说。 她的经历反映了肯尼亚各地出现的更广泛的担忧，有关儿童失踪、绑架、贩运和遗弃的报道引起了公众越来越多的关注，并重新审视了该国的儿童保护系统。 根据国家儿童服务部引用的肯尼亚儿童保护信息管理系统（CPIMS）的数据，2025年1月至2026年3月期间记录了10,581起儿童保护案件。这些数字包括1,636名失踪儿童、1,952起绑架案件、6,820起遗弃案件和173起拐卖事件。 儿童福利组织表示，这些数字突显了肯尼亚儿童面临的更广泛的脆弱性。 在肯尼亚纳库鲁县的 Sinendet 村庄，12 岁的 Sinendet 小学 6 年级学生 Mercy Nyambura Mureithi 于 5 月在放学回家时失踪，导致人们对儿童安全的担忧加剧。 她的失踪引发了亲戚、邻居和当局的疯狂搜寻，直到她的尸体被发现，震惊了社区并引起了全国关注。 对于许多父母来说，梅西的去世使儿童安全从遥远的担忧变成了迫在眉睫的现实。 西南代县行政长官基亚拉霍·姆旺吉 (Kiaraho Mwangi) 表示，此案促使家长、教师和地方领导人重新讨论是否需要对儿童进行更密切的监督并提高社区警惕性。 乔治·奥尼扬戈 (George Onyango) 在卡约尔创立了非营利组织“承诺儿童之家”(Promise Giving Children's Home)，他认为预防始于更严格的监督。他告诉德国之声：“任何时候都不应该让17岁以下的儿童独自一人。” “他们应该始终和一个照顾他们的成年人在一起。” 儿童福利倡导者认为，虽然肯尼亚拥有旨在保护未成年人的法律框架，但实施情况仍然不平衡。对失踪儿童的调查可能会因资源有限、报告延迟和机构间协调不足而受到阻碍。 与此同时，数字平台的兴起也带来了新的风险。联合国儿童基金会（UNICEF）等儿童保护组织越来越多地发出警告……"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-dw-com-en-armenia-s-election-offers-a-choice-between-russia-and-eu-a",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/armenia-s-election-offers-a-choice-between-russia-and-eu/a-77400608?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77063442_6.jpg",
-          "publishedAt": "2026-06-03T08:36:00.000Z",
-          "title": {
-            "en": "Armenia's election offers a choice between Russia and EU",
-            "zh": "亚美尼亚大选让俄罗斯和欧盟之间做出选择"
-          },
-          "summary": {
-            "en": "Armenians are set to vote on the country's future geopolitical direction on June 7. The election will be a test of public opinion in the long-standing Russia ally, where the population is increasingly eyeing the EU.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Armenians are set to vote on the country's future geopolitical direction on June 7. The election will be a test of public opinion in the long-standing Russia ally, where the population is increasingly eyeing the EU.\n\nIn the upcoming parliamentary elections in Armenia , citizens of the South Caucasian country will not only elect a new National assembly but will also steer the future geopolitical direction of their state. On the table is either rapid EU-integration or a return to the Russian sphere of influence.\n\nA pre-election survey commissioned by the Washington based NGO International Republican Institute (IRI) puts the current pro-European Prime Minister Nikol Pashinyan's \"Civil Contract\"&#160;party in the first place with 32% of respondents saying they would cast their votes in party's favour.\n\nThe opposition traditionally has more pro-Russian views and is represented by three major forces that currently lag far behind the ruling party, according to the poll results. Some&#160;7% of&#160;voters said they would support the \"Strong Armenia\"&#160;bloc run by a Russian billionaire of Armenian origin Samvel Karapetyan. He is currently under house arrest in Yerevan on charges of inciting a violent power grab as he publicly supported the Armenian Apostolic Church amid a bitter conflict between the church leaders and Prime Minister Pashinyan.\n\nThe political grouping&#160;\"Armenia Alliance”, led by former president Robert Kocharyan who is&#160;reportedly a friend of Russian leader Vladimir Putin , is expected to garner 4% of the votes. The \"Prosperous Armenia\"&#160;party founded by business mogul Gagik Tsarukyan can likely count on the support of 2% of the Armenian citizens. Tsarukyan’s party is officially partnered with Russia's ruling 'United Russia' party.\n\nThe remaining five political parties, including some new protest projects, are only polling around 1-2%.\n\nExperts warn that these numbers should be treated carefully given&#160;the unprecedentedly low response rate&#160;with only 16% of respondents agreeing to participate in the poll. That&#160;is 19 percentage points lower than ahead of in the 2021 snap election. At the same time 92% of participants expressed their willingness to vote compared to 72% in 2021. Almost one in two respondents declined to name their favorite candidate or said they have not yet reached a final decision on how to vote.\n\nHowever,&#160;other polls showed different results, giving Pashinyan’s \"Civil Contract\"&#160;party&#160;between roughly 26 and 34 per cent, suggesting it could have a slightly narrower lead against the opposition.\n\nThe pivotal issue&#160;in&#160;the election campaign is international affairs. The ruling party has moved closer towards the European Union, gradually distancing itself from&#160; Russia...",
-            "zh": "亚美尼亚人将于 6 月 7 日就该国未来的地缘政治方向进行投票。这次选举将是对长期盟友俄罗斯的民意考验，那里的民众越来越关注欧盟。 在亚美尼亚即将举行的议会选举中，这个南高加索国家的公民不仅将选举新的国民议会，还将引导国家未来的地缘政治方向。摆在桌面上的问题是要么迅速融入欧盟，要么重返俄罗斯势力范围。 总部位于华盛顿的非政府组织国际共和研究所 (IRI) 委托进行的一项选前调查将现任亲欧洲总理尼科尔·帕希尼扬 (Nikol Pashinyan) 领导的“民事契约”政党排在首位，32% 的受访者表示他们会投票支持该政党。 反对派传统上亲俄观点较多，由三大势力代表，目前远远落后于执政党。约 7% 的选民表示，他们会支持由亚美尼亚裔俄罗斯亿万富翁萨姆维尔·卡拉佩特扬 (Samvel Karapetyan) 领导的“强大亚美尼亚”集团。他目前在埃里温被软禁，罪名是煽动暴力夺权，因为他在亚美尼亚使徒教会领导人与总理帕希尼扬之间的激烈冲突中公开支持亚美尼亚使徒教会。 由前总统罗伯特·科恰良 (Robert Kocharyan) 领导的政治团体“亚美尼亚联盟”预计将获得 4% 的选票，据报道他是俄罗斯领导人弗拉基米尔·普京 (Vladimir Putin) 的朋友。由商业大亨 Gagik Tsarukyan 创立的“繁荣亚美尼亚”政党可能会得到 2% 的亚美尼亚公民的支持。查鲁基扬的政党与俄罗斯执政党“统一俄罗斯”党正式合作。 其余五个政党，包括一些新的抗议项目，仅获得 1-2% 左右的民意支持。 专家警告说，鉴于响应率空前低下，只有 16% 的受访者同意参与这项民意调查，因此应谨慎对待这些数字。这比 2021 年提前选举时低了 19 个百分点。与此同时，92% 的参与者表示愿意投票，而 2021 年这一比例为 72%。几乎二分之一的受访者拒绝透露他们最喜欢的候选人或表示他们尚未就如何投票达成最终决定。 然而，其他民意调查显示了不同的结果，帕希尼扬领导的“民事合同”党的支持率大约在 26% 到 34% 之间，这表明该党对反对党的领先优势可能会稍窄一些。 竞选活动的关键问题是国际事务。执政党向欧盟靠拢，与俄罗斯逐渐疏远……"
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-dw-com-en-uk-protest-erupts-over-student-murder-a-77399817-maca-en-r",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/uk-protest-erupts-over-student-murder/a-77399817?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77400059_6.jpg",
-          "publishedAt": "2026-06-03T07:37:00.000Z",
-          "title": {
-            "en": "UK: Protest erupts over student murder",
-            "zh": "英国：学生谋杀事件爆发抗议"
-          },
-          "summary": {
-            "en": "Protesters have clashed with police in Southampton over the December murder of finance student Henry Nowak. The fatally injured victim was handcuffed by police after his killer accused him of racist abuse.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Protesters have clashed with police in Southampton over the December murder of finance student Henry Nowak. The fatally injured victim was handcuffed by police after his killer accused him of racist abuse.\n\nDemonstrators clashed with police&#160;in the southern English city of Southampton on Tuesday while protesting&#160;at what they said was an example of anti-white policing in the case of a student killed in December.\n\nProtesters threw stones and other missiles at police in clashes close to the site where&#160;18-year-old Henry Nowak died of his wounds while handcuffed by police after his killer, a Sikh man,&#160;accused the victim of racist abuse.\n\nThe protest, attended by far-right activist&#160; Tommy Robinson ,&#160;came after the killer,&#160;23-year-old Vickrum Digwa, was sentenced to life with a minimum of 21 years in prison on Monday.\n\nHundreds of protesters first gathered outside Southampton Central Police Station, with violence breaking out after many of them walked to the area of Portswood where the&#160;murder occurred.\n\nRiot police there were forced to&#160;retreat from the line they were holding&#160;as they were pelted with chairs, rocks and flares, with demonstrators chanting \"Henry, Henry.\"\n\nThe murder has aroused a heated debate in the UK on policing, race and knife crime in the UK.\n\nUnrest has been additionally fueled by the release of a video showing police initially disbelieving Nowak's statements that he had been stabbed.\n\nBody cam footage of&#160;the incident on December 3, 2025, shows Nowak lying on the ground&#160;in handcuffs&#160;repeatedly saying: \"I've been stabbed,\" to which an officer replies: \"Don't think you have, mate.\"\n\nWhen officers finally discovered his injuries, they uncuffed him and started CPR, police said.\n\nHis killer was standing nearby and told officers he had also been injured, while claiming&#160;that Nowak&#160;had knocked off his turban and pulled his hair.\n\n\"You are the only person to make that claim and it is completely at odds with his previous character,\"&#160;Judge&#160;William Mousley&#160;told the accused.\n\nPrime Minister Keir Starmer said he was sickened by the video and there are questions to be answered about how \"accusations of racism informed the decision-making in this case.\"\n\nDigwa used a 21cm (8in) blade he said he carried as part of his Sikh religion to stab Nowak, who was walking home alone after a night out with friends.\n\nDigwa's mother, Kiran Kaur, 53, has been&#160;convicted of assisting an offender after trying to hide the murder weapon. She will be sentenced on July 17.\n\nThe leader of the far-right party&#160; Reform UK , Nigel Farage,&#160;said people should respond with \"pure cold rage\" to Nowak's&#160;treatment by&#160;police, calling it evidence of a \"two-tier...",
-            "zh": "抗议者因去年 12 月金融系学生亨利·诺瓦克 (Henry Nowak) 被谋杀而在南安普敦与警方发生冲突。在凶手指控这名受致命伤的受害者进行种族主义虐待后，他被警察戴上手铐。 周二，示威者在英国南部城市南安普敦与警方发生冲突，抗议他们所说的去年 12 月一名学生被杀事件中反白人警察的例子。 18 岁的亨利·诺瓦克 (Henry Nowak) 是一名锡克教男子，凶手指控受害者遭受种族歧视，他被警察戴上手铐，在现场附近发生冲突，抗议者向警察投掷石块和其他导弹。 周一，23 岁的凶手维克鲁姆·迪格瓦 (Vickrum Digwa) 被判处无期徒刑，并被判处至少 21 年监禁。 数百名抗议者首先聚集在南安普敦中央警察局外，其中许多人步行到发生谋杀案的波茨伍德地区后爆发了暴力事件。 那里的防暴警察被迫从他们所控制的防线撤退，因为他们遭到椅子、石块和照明弹的投掷，示威者高呼“亨利，亨利”。 这起谋杀案在英国引发了关于英国警务、种族和持刀犯罪的激烈辩论。 一段视频的发布也加剧了骚乱，该视频显示警方最初不相信诺瓦克有关他被刺伤的说法。 2025 年 12 月 3 日事件的随身摄像机镜头显示，诺瓦克戴着手铐躺在地上，反复说：“我被刺伤了”，一名警官回答道：“别以为你被刺伤了，伙计。” 警方称，当警察最终发现他的伤势时，他们解开了他的手铐并开始进行心肺复苏。 凶手站在附近，告诉警察他也受伤了，同时声称诺瓦克摘下了他的头巾并拉扯了他的头发。 “你是唯一提出这种说法的人，这与他以前的性格完全不符，”法官威廉·莫斯利告诉被告。 总理基尔·斯塔默表示，他对这段视频感到恶心，并且有一些问题需要回答，即“种族主义指控如何影响此案的决策”。 迪格瓦使用一把 21 厘米（8 英寸）的刀片刺伤了诺瓦克，他说这是锡克教的一部分，当时诺瓦克与朋友出去玩了一晚后独自步行回家。 迪格瓦的母亲基兰·考尔 (Kiran Kaur)，53 岁，因试图藏匿凶器而被判协助罪犯。她将于7月17日被判刑。 极右翼政党“改革英国”的领导人奈杰尔·法拉奇表示，人们应该对诺瓦克受到警方的对待表示“纯粹的愤怒”，称其为“两级……”的证据。"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
           },
           "translationState": "fallback"
         },
@@ -1081,24 +1083,124 @@
       ],
       "items": [
         {
-          "id": "www-theguardian-com-business-2026-jun-03-trump-threatens-tariffs-60-coun",
+          "id": "www-theguardian-com-news-2026-jun-03-australias-battery-powered-revoluti",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
-          "image": "https://i.guim.co.uk/img/media/cfe7ff27b3f3b3025a9abecc2d83ec42687f1b31/1122_0_5191_4155/master/5191.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f264a313a766838c999da25589c2148",
-          "publishedAt": "2026-06-03T10:41:03.000Z",
+          "link": "https://www.theguardian.com/news/2026/jun/03/australias-battery-powered-revolution-inside-the-5-june-guardian-weekly",
+          "image": "https://i.guim.co.uk/img/media/b18a42fd6c2c7a7ad94645c0b7c9973739cacc4b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae06dc55d2d4ad80643dd4ff260c4884",
+          "publishedAt": "2026-06-03T17:00:11.000Z",
           "title": {
-            "en": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
-            "zh": "特朗普威胁对英国和加拿大等 60 个贸易伙伴征收关税"
+            "en": "Australia’s battery-powered revolution: inside the 5 June Guardian Weekly",
+            "zh": "澳大利亚的电池动力革命：6月5日《卫报周刊》内幕"
           },
           "summary": {
-            "en": "Proposal for 10-12.5% levies, to also include EU, Taiwan and Australia, would allow US president to skirt court-imposed limits Donald Trump has threatened tariffs of between 10% and 12.5% on 60 trading partners including the UK, the EU and Australia over alleged forced labour...",
+            "en": "The Guardian Weekly features Australia's shift towards battery-powered energy, aiming to transform its energy market. This comes as global oil supplies are impacted by the war in Iran, leading to increased energy prices in the UK.",
+            "zh": "《卫报周刊》报道了澳大利亚向电池供电能源的转型，旨在改变其能源市场。与此同时，伊朗战争持续影响全球石油供应，导致英国能源价格上涨。"
+          },
+          "body": {
+            "en": "How to change the energy market from within. Plus: Is Iran Trump’s Vietnam? • Get the Guardian Weekly delivered to your home address Last week, as the war in Iran continued to choke global oil supplies, the UK government announced a 13% increase in the cap on energy prices. But it was another related story on the other side of the world that caught my eye. In Australia, the energy minister announced a fall of up to 10% in the benchmark electricity price in parts of the country, driven by record levels of renewables and batteries in the power grid. Continue reading...",
+            "zh": "如何从内部改变能源市场。另外：伊朗是特朗普的越南吗？ • 将《卫报》周刊送到您的家庭住址 上周，由于伊朗战争继续阻碍全球石油供应，英国政府宣布将能源价格上限提高 13%。但引起我注意的是世界另一端的另一个相关故事。在澳大利亚，能源部长宣布，在电网中可再生能源和电池创纪录水平的推动下，该国部分地区的基准电价下降了 10%。继续阅读..."
+          },
+          "reflection": {
+            "en": "The pursuit of a battery-powered energy revolution reflects humanity's ongoing call to steward creation. As Genesis 2:15 reminds us, we are entrusted with the earth to cultivate and care for it, seeking sustainable solutions for the well-being of all. This responsibility becomes even more vital amidst global energy challenges and the need for wise resource...",
+            "zh": "电池供电能源革命的追求，反映了人类持续受召管理受造物的责任。正如创世记2:15提醒我们，我们受托看守和管理大地，为所有人的福祉寻求可持续的解决方案。在全球能源挑战和明智资源管理的需求下，这项责任变得更加重要。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "aiVerseId": "gen_2_15",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-04-diphtheria-outbreak-nt-ab",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/04/diphtheria-outbreak-nt-aboriginal-community-health-clinic-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/9d8b11bb3cc76b8b62275c7a348cbef12908edba/1033_543_6149_4921/master/6149.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff6d2c9dc7bb22e2c7d3021e97df86d8",
+          "publishedAt": "2026-06-03T15:00:10.000Z",
+          "title": {
+            "en": "Diphtheria outbreak: residents of remote NT community say health clinic has no hand sanitiser",
+            "zh": "白喉爆发：北领地偏远社区居民称卫生诊所没有洗手液"
+          },
+          "summary": {
+            "en": "There’s a three-week wait on test results in Yuendumu, near Alice Springs, and locals say NT Health has dropped the ball on telling locals what to do if they test positive Get our breaking news email, free app or daily news podcast A remote Aboriginal community at the centre of...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "There’s a three-week wait on test results in Yuendumu, near Alice Springs, and locals say NT Health has dropped the ball on telling locals what to do if they test positive Get our breaking news email , free app or daily news podcast A remote Aboriginal community at the centre of the Northern Territory’s diphtheria outbreak is struggling to cope with rising case numbers, with locals saying there is no hand sanitiser at the health clinic and limited information about how to avoid the disease or what to do if you test positive. There have been more than 240 cases of the once-eradicated disease reported in Australia since October, primarily in remote Indigenous communities in the NT, South Australia, Queensland and Western Australia , according to data released by the Australian Centre for Disease Control. One of the largest clusters in the NT is in Yuendumu, a community of about 700 people 300km from Alice Springs. Continue reading...",
+            "zh": "爱丽丝泉附近的 Yuendumu 的检测结果需要等待三周，当地人表示，北领地卫生局未能告诉当地人如果检测结果呈阳性该怎么办，获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 位于北领地白喉疫情中心的一个偏远原住民社区正在努力应对不断上升的病例数，当地人表示，卫生诊所没有洗手液，关于如何避免这种疾病或什么的信息也有限如果您的检测结果呈阳性，请执行以下操作。根据澳大利亚疾病控制中心发布的数据，自 10 月份以来，澳大利亚已报告了 240 多例这种曾经被消灭的疾病病例，主要发生在北领地、南澳大利亚、昆士兰和西澳大利亚的偏远土著社区。北领地最大的社区之一位于 Yuendumu，这是一个距离爱丽丝泉 300 公里的社区，约有 700 人。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-04-nsw-drivers-medicinal-can",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/04/nsw-drivers-medicinal-cannabis-proposed-new-laws",
+          "image": "https://i.guim.co.uk/img/media/6e99a0f0541f865bca12eb42d4d18b1ebf8cffe1/427_0_3147_2517/master/3147.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e43fdd83c74b2aaa5cebba857f17a2de",
+          "publishedAt": "2026-06-03T15:00:10.000Z",
+          "title": {
+            "en": "NSW motorists who use medicinal cannabis may soon be able to drive without fear of major penalty",
+            "zh": "使用药用大麻的新南威尔士州驾车者可能很快就可以开车而不必担心受到重大处罚"
+          },
+          "summary": {
+            "en": "Premier Chris Minns says changes would balance road safety and a more practical approach for medicinal cannabis users Get our breaking news email, free app or daily news podcast Motorists who use medicinal cannabis may soon be able to drive on New South Wales roads without fear...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Premier Chris Minns says changes would balance road safety and a more practical approach for medicinal cannabis users Get our breaking news email , free app or daily news podcast Motorists who use medicinal cannabis may soon be able to drive on New South Wales roads without fear of a severe penalty as the Minns government announces long-awaited reforms. The government announced on Thursday it would introduce legislation which would see drivers with a medicinal cannabis prescription no longer face a three-month licence suspension or fine for having the THC component of cannabis in their system. Continue reading...",
+            "zh": "州长克里斯·明斯 (Chris Minns) 表示，这些变化将平衡道路安全和为药用大麻使用者提供更实用的方法。随着明斯政府宣布期待已久的改革，使用药用大麻的驾车者可能很快就可以在新南威尔士州道路上开车，而不必担心受到严厉处罚。政府周四宣布，将出台立法，持有药用大麻处方的司机不再因系统中含有大麻 THC 成分而面临三个月的驾照吊销或罚款。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-04-immigration-fears-deporta",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/04/immigration-fears-deportation-from-australia-to-nauru-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/dc5b6626eca4c1d8b53874fa72d287e57dd688ab/550_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04c64bcdabd60388fb81301b2834e51f",
+          "publishedAt": "2026-06-03T15:00:10.000Z",
+          "title": {
+            "en": "Sara fears her father will be deported from Australia to Nauru – a place of ‘final and lifelong punishment’",
+            "zh": "萨拉担心她的父亲会被从澳大利亚驱逐到瑙鲁——一个“最终的终身惩罚”的地方"
+          },
+          "summary": {
+            "en": "Youssef served time in jail for a string of offences. Now, as one of 350 non-citizens who make up the NZYQ cohort, he faces deportation Get our breaking news email, free app or daily news podcast When the high court handed down a judgment in 2023 finding indefinite immigration...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Proposal for 10-12.5% levies, to also include EU, Taiwan and Australia, would allow US president to skirt court-imposed limits Donald Trump has threatened tariffs of between 10% and 12.5% on 60 trading partners including the UK, the EU and Australia over alleged forced labour failures, in the latest attempt to revive his signature trade policy. The EU immediately hit back, saying it expected the US to respect the tariff deal it entered into last July and arguing that stealth tariffs breached the spirit of that agreement. Continue reading...",
-            "zh": "征收 10% 至 12.5% 关税的提议（也包括欧盟、台湾和澳大利亚）将允许美国总统绕开法院施加的限制。唐纳德·特朗普 (Donald Trump) 威胁要对包括英国、欧盟和澳大利亚在内的 60 个贸易伙伴征收 10% 至 12.5% 的关税，原因是涉嫌强迫劳动失败，这是恢复其标志性贸易政策的最新尝试。欧盟立即予以回击，称希望美国尊重其去年7月达成的关税协议，并认为隐形关税违反了该协议的精神。继续阅读..."
+            "en": "Youssef served time in jail for a string of offences. Now, as one of 350 non-citizens who make up the NZYQ cohort, he faces deportation Get our breaking news email , free app or daily news podcast When the high court handed down a judgment in 2023 finding indefinite immigration detention unlawful , Sara* received a phone call that she still remembers vividly. “So I answer it and he basically says, Baba, I need you to come pick me up,” Sara recalls. Continue reading...",
+            "zh": "优素福因一系列罪行入狱服刑。现在，作为 NZYQ 群体中 350 名非公民之一，他面临着被驱逐出境 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 当高等法院于 2023 年做出判决，认定无限期移民拘留非法时，萨拉*接到了一个她至今记忆犹新的电话。 “所以我接了电话，他基本上说，爸爸，我需要你来接我，”萨拉回忆道。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -1114,171 +1216,37 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-jun-03-illegal-tobacco-news-aust",
+          "id": "www-theguardian-com-australia-news-2026-jun-03-anti-abortion-activists-a",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/03/illegal-tobacco-news-australia-spending-less-to-consume-more-nicotine",
-          "image": "https://i.guim.co.uk/img/media/32487452c42ed53386cfdfe5fbf968cc1e253b96/1368_128_4132_3306/master/4132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ed5bbe38195622f98a94d735e0a2425",
-          "publishedAt": "2026-06-03T09:59:28.000Z",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/03/anti-abortion-activists-are-trying-to-limit-access-in-nsw-and-they-are-just-getting-started",
+          "image": "https://i.guim.co.uk/img/media/1108944c51a09d80c9e88b26829989d37a679b68/255_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e5c7ea0b5e3ec00189312d086ae03d4",
+          "publishedAt": "2026-06-03T15:00:09.000Z",
           "title": {
-            "en": "Nicotine use soars by 40% in eight years as Australian black market explodes",
-            "zh": "澳大利亚黑市爆发，尼古丁使用量八年内猛增 40%"
+            "en": "Anti-abortion activists are trying to limit access in NSW – and they are just getting started",
+            "zh": "反堕胎活动人士正试图限制新南威尔士州的堕胎机会——而他们才刚刚开始"
           },
           "summary": {
-            "en": "Australian Bureau of Statistics estimates nicotine consumption rose 40%, with illicit sources accounting for 80% of all tobacco Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Australians are consuming more...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+            "en": "Obstetricians and gynaecologists say anti sex-selective abortions bill ‘predicated on misinformation’ and ‘underlying aim is to restrict access to abortion’ Get our breaking news email, free app or daily news podcast The man who wants to ban “sex-selective abortions” is the...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Australian Bureau of Statistics estimates nicotine consumption rose 40%, with illicit sources accounting for 80% of all tobacco Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australians are consuming more nicotine than they were eight years ago but are spending less, new data from the Australian Bureau of Statistics shows, as 80% of the cigarettes smoked by the nation last year were cheaper illegal products. The analysis released by the Australian Bureau of Statistics (ABS) on Wednesday showed the amount of nicotine consumed around the country soared by 40% between 2017 and 2025, despite population growth rising by just 14%. Continue reading...",
-            "zh": "澳大利亚统计局估计尼古丁消费量增长了 40%，非法来源占所有烟草的 80% 关注我们的澳大利亚新闻直播博客以获取最新更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 澳大利亚统计局的新数据显示，澳大利亚人消耗的尼古丁比八年前更多，但支出却减少了，因为去年该国吸食的香烟中有 80% 是更便宜的非法产品。澳大利亚统计局 (ABS) 周三发布的分析显示，尽管人口增长仅增长 14%，但 2017 年至 2025 年间，全国尼古丁消费量猛增 40%。继续阅读..."
+            "en": "Obstetricians and gynaecologists say anti sex-selective abortions bill ‘predicated on misinformation’ and ‘underlying aim is to restrict access to abortion’ Get our breaking news email , free app or daily news podcast The man who wants to ban “sex-selective abortions” is the first person who will tell you it won’t work. New South Wales Libertarian party MLC John Ruddick has introduced legislation that would see health practitioners sent to prison or fined thousands if they carry out a termination because of the sex of a foetus. Continue reading...",
+            "zh": "妇产科医生表示，反性别选择性堕胎法案“基于错误信息”，“根本目的是限制堕胎”。想要禁止“性别选择性堕胎”的人是第一个告诉你这行不通的人。新南威尔士州自由党 MLC 约翰·鲁迪克 (MLC John Ruddick) 提出立法，如果医疗从业者因胎儿性别而实施堕胎，将被送进监狱或罚款数千人。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jun-03-trump-could-slap-australia-with-",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jun/03/trump-could-slap-australia-with-125-tariff-for-allegedly-importing-goods-made-by-slave-labour",
-          "image": "https://i.guim.co.uk/img/media/8b2d2238d4006d72768f53a955411275103a58f4/468_0_4683_3747/master/4683.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41fa346fc7a609eb5cc4d6545dfd7c73",
-          "publishedAt": "2026-06-03T09:29:50.000Z",
-          "title": {
-            "en": "Trump could slap Australia with 12.5% tariff for allegedly importing goods made by slave labour",
-            "zh": "特朗普可能对澳大利亚征收 12.5% 关税，原因是涉嫌进口奴隶劳工制造的商品"
-          },
-          "summary": {
-            "en": "Trade minister says Australia has ‘robust, comprehensive and world-leading legislation addressing forced labour and modern slavery’ Get our breaking news email, free app or daily news podcast Australia is among dozens of countries facing a 12.5% trade tariff from the Trump...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Trade minister says Australia has ‘robust, comprehensive and world-leading legislation addressing forced labour and modern slavery’ Get our breaking news email , free app or daily news podcast Australia is among dozens of countries facing a 12.5% trade tariff from the Trump administration for allegedly failing to prevent imports of goods made by slave labour. The US trade representative, Jamieson Greer, listed Australia among 54 economies that “failed to impose and effectively enforce a prohibition on the importation of goods produced with forced labor” following an investigation into their practices. Continue reading...",
-            "zh": "贸易部长表示，澳大利亚拥有“强有力、全面且世界领先的立法，解决强迫劳动和现代奴隶制问题” 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 澳大利亚是面临特朗普政府 12.5% 贸易关税的数十个国家之一，因为据称未能阻止奴隶制劳工制造的商品进口。美国贸易代表贾米森·格里尔 (Jamieson Greer) 在对澳大利亚的做法进行调查后，将澳大利亚列为“未能实施并有效执行禁止进口强迫劳动生产的商品”的 54 个经济体之一。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-live-2026-jun-03-politics-live-austra",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/3f5c7f91021658cc06ab449d7d2ef70272e8cda1/165_0_3341_2674/master/3341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=74c9dd36011ffc965cb559115a9b17f0",
-          "publishedAt": "2026-06-03T08:30:26.000Z",
-          "title": {
-            "en": "OECD says Australia should increase EV and renewable energy take up amid fuel crisis – as it happened",
-            "zh": "澳大利亚政治直播：经合组织称澳大利亚应在燃料危机中增加电动汽车和可再生能源的普及率"
-          },
-          "summary": {
-            "en": "The Organisation for Economic Co-operation and Development (OECD) has recommended that Australia increase its adoption of electric vehicles and renewable energy, citing the ongoing fuel crisis.",
-            "zh": "经济合作与发展组织（OECD）建议澳大利亚在燃料危机中增加电动汽车和可再生能源的普及率。"
-          },
-          "body": {
-            "en": "This blog is closed Get our breaking news email , free app or daily news podcast Chaney said: AI companies should be able to unlock the majority of global content with a handful of individual deals – in the same way that every other industry licenses copyrighted content. Government could further work to facilitate this process for the remainder of the copyrighted content, either directly or through a centralised mechanism. Continue reading...",
-            "zh": "关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 钱尼表示：人工智能公司应该能够通过少量的单独交易来解锁大部分全球内容，就像其他行业许可受版权保护的内容一样。政府可以进一步努力，直接或通过集中机制，促进其余受版权保护内容的这一过程。继续阅读..."
-          },
-          "reflection": {
-            "en": "The OECD's advice to Australia on renewable energy and electric vehicles highlights the importance of wise counsel for national well-being. In complex times, seeking and heeding diverse perspectives can guide nations toward stability and a sustainable future.",
-            "zh": "经济合作与发展组织向澳大利亚提出的关于可再生能源和电动汽车的建议，突显了明智的忠告对国家福祉的重要性。在复杂的时代，寻求并听取多方意见能指引国家走向稳定和可持续的未来。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "aiVerseId": "prov_11_14",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-business-2026-jun-03-australia-economic-outlook-econ",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/business/2026/jun/03/australia-economic-outlook-economy-gdp-growth-jim-chalmers",
-          "image": "https://i.guim.co.uk/img/media/d761d2aa1bcee57c52d04866066264f359da2348/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98d50b893bc926c0b9aa31938f3f2b15",
-          "publishedAt": "2026-06-03T08:01:03.000Z",
-          "title": {
-            "en": "Jim Chalmers is putting a positive spin on the economy, but is Australia’s outlook grim?",
-            "zh": "吉姆·查尔默斯 (Jim Chalmers) 对经济做出了积极的评价，但澳大利亚的前景是否严峻？"
-          },
-          "summary": {
-            "en": "The economy was slowing even before the Middle East conflict and interest rate hikes started to bite, while the boom in datacentres was a rare bright spot Get our breaking news email, free app or daily news podcast The economy slowed sharply in early 2026 and Australians’ living...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The economy was slowing even before the Middle East conflict and interest rate hikes started to bite, while the boom in datacentres was a rare bright spot Get our breaking news email , free app or daily news podcast The economy slowed sharply in early 2026 and Australians’ living standards are once again going backwards. At the risk of upsetting the treasurer by “talking down the economy”, as he put it, there wasn’t all that much to love in the latest national accounts. Continue reading...",
-            "zh": "甚至在中东冲突和加息开始产生影响之前，经济就已经放缓，而数据中心的繁荣是一个罕见的亮点 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 经济在 2026 年初急剧放缓，澳大利亚人的生活水平再次倒退。正如财政部长所说，他冒着“贬低经济”而惹恼他的风险，但最新的国民账户并没有太多值得喜欢的地方。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-jun-03-budget-tax-changes-temu-a",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/03/budget-tax-changes-temu-abbot-insult-prime-minister-anthony-albanese-calls-angus-taylor",
-          "image": "https://i.guim.co.uk/img/media/6b33374259504415fade85443420ea77f3a542fc/574_0_5723_4581/master/5723.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64eb3f26fb32998cfe1f154727ef3c1e",
-          "publishedAt": "2026-06-03T07:54:14.000Z",
-          "title": {
-            "en": "Albanese calls Taylor ‘Temu Abbott’ as bitter fight rages over budget tax changes",
-            "zh": "阿尔巴尼斯称泰勒为“Temu 阿博特”，预算税改之争愈演愈烈"
-          },
-          "summary": {
-            "en": "Australian Prime Minister Anthony Albanese has used a derogatory term to describe opposition leader Angus Taylor, intensifying a dispute over proposed budget tax changes. The government needs the Greens' support to pass the changes, but the Greens are concerned about the broad discretionary powers the bill would grant.",
-            "zh": "澳大利亚总理安东尼·阿尔巴尼斯用贬低性词语形容反对党领袖安格斯·泰勒，加剧了围绕拟议预算税收改革的争执。政府需要绿党的支持才能通过这些改革，但绿党担心该法案将赋予政府广泛的自由裁量权。"
-          },
-          "body": {
-            "en": "Greens support needed to pass proposed changes but party concerned it will give government sweeping discretionary powers Get our breaking news email , free app or daily news podcast Anthony Albanese has ridiculed Angus Taylor as a “Temu [Tony] Abbott” amid an increasingly bitter fight over tax changes in the budget, as the Greens raise concerns about key provisions of the government’s proposal. Labor will speed the first tranche of its budget legislation through the lower house on Thursday, and hopes to pass it through the Senate within weeks. Continue reading...",
-            "zh": "绿党需要支持才能通过拟议的改革，但担心这将赋予政府全面的自由裁量权。在预算中税收变化的争论日益激烈之际，安东尼·阿尔博内塞(Anthony Albanese)嘲笑安格斯·泰勒(Angus Taylor)为“特姆[托尼]阿博特”，因为绿党对政府提案的关键条款表示担忧。工党将于周四加快第一部分预算立法在众议院的通过，并希望在几周内在参议院获得通过。继续阅读..."
-          },
-          "reflection": {
-            "en": "Political debates can easily become bitter, with harsh words and ridicule often escalating tensions rather than fostering understanding. Proverbs 15:1 reminds us that a gentle answer can defuse anger, offering a path toward more constructive dialogue even amidst strong disagreements. Cultivating such speech can transform public discourse, allowing for...",
-            "zh": "政治辩论很容易变得激烈，严厉的言辞和嘲讽往往会加剧紧张局势，而非促进理解。《箴言》15:1提醒我们，柔和的回答能平息怒气，即使在强烈分歧中也能为更具建设性的对话提供途径。培养这样的言语可以改变公共话语，使曾经充满敌意的地方得以取得进展。"
-          },
-          "verse": {
-            "reference": "Proverbs 15:1",
-            "textEn": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
-            "textZh": "回答柔和，使怒消退；言语暴戾，触动怒气。",
-            "themeEn": "Gentle answer",
-            "themeZh": "柔和的回答"
-          },
-          "aiVerseId": "prov_15_1",
-          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-aukus-submarines-hidden-cost-qatt9jd3q",
@@ -1310,72 +1278,6 @@
             "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
             "themeEn": "Christ in the least",
             "themeZh": "基督在至微者中"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-video-2026-jun-03-one-nation-pauline-",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/video/2026/jun/03/one-nation-pauline-hanson-rise-sydney-grassroots-organisations-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/983b6c08c73294b6da9e3afca460938f588d6850/366_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f6a1aa09b700f9ba860203580e46e9d",
-          "publishedAt": "2026-06-03T05:18:15.000Z",
-          "title": {
-            "en": "How grassroots organisations are combatting One Nation’s rise in western Sydney – video",
-            "zh": "草根组织如何对抗一国党在悉尼西部的崛起——视频"
-          },
-          "summary": {
-            "en": "After the victory of Pauline Hanson’s One Nation party in the Farrer byelection, Barnaby Joyce said the party has its sights set on western Sydney. But could western Sydney communities forge their own path forward and tackle some of their most pressing challenges through...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "After the victory of Pauline Hanson’s One Nation party in the Farrer byelection, Barnaby Joyce said the party has its sights set on western Sydney. But could western Sydney communities forge their own path forward and tackle some of their most pressing challenges through grassroots organising? On Sunday, about 180 community leaders from across Sydney packed into Salvation Army Parramatta for the Sydney Alliance Discernment Convention, an afternoon of community action designed to empower civic groups from across Sydney to be part of solving issues from housing supply to social isolation. “Parties like One Nation only survive because they drive wedges, whereas movements like this come together not just based on evidence and research and expertise, but they also come together based on empathy,” says Bec Reidy from Bidwill Uniting Continue reading...",
-            "zh": "宝琳·汉森 (Pauline Hanson) 领导的一国党 (One Nation party) 在法雷尔补选中获胜后，巴纳比·乔伊斯 (Barnaby Joyce) 表示，该党将目光投向悉尼西部。但是，悉尼西部社区能否通过草根组织开辟自己的前进道路并解决一些最紧迫的挑战？周日，来自悉尼各地的约 180 名社区领袖涌入救世军帕拉马塔参加悉尼联盟辨别大会，这是一个社区行动，旨在授权悉尼各地的公民团体参与解决从住房供应到社会隔离等问题。 Bidwill United 的贝克·雷迪 (Bec Reidy) 表示：“像一国党这样的政党之所以能生存下来，是因为他们推动了分裂，而像这样的运动聚集在一起不仅基于证据、研究和专业知识，而且还基于同理心。”继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-jun-03-aukus-australia-secondhand-nuclear",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/world/2026/jun/03/aukus-australia-secondhand-nuclear-submarines-deal-criticism-defence-minister-reponse",
-          "image": "https://i.guim.co.uk/img/media/0d9ca52f228e31b76afed17170b5b2fdb7b66f20/919_0_4581_3666/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ea7f2aa12b34e353e2ffd9b6bf42d09",
-          "publishedAt": "2026-06-03T03:38:18.000Z",
-          "title": {
-            "en": "Minister dismisses Labor colleague Ed Husic’s criticism of secondhand Aukus submarines deal as ‘disingenuous’",
-            "zh": "部长驳回了工党同事埃德·胡西克对二手奥库斯潜艇交易的批评，称其“不诚实”"
-          },
-          "summary": {
-            "en": "Pat Conroy says three used Virginia-class nuclear submarines from the US will be cheaper to buy and run Get our breaking news email, free app or daily news podcast Australia has been negotiating to receive three secondhand Virginia-class nuclear submarines from the United States...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Pat Conroy says three used Virginia-class nuclear submarines from the US will be cheaper to buy and run Get our breaking news email , free app or daily news podcast Australia has been negotiating to receive three secondhand Virginia-class nuclear submarines from the United States since late 2022 and expects the nuclear vessels to run for more than 25 years, the defence industry minister Pat Conroy says. Dismissing criticism of the Aukus defence pact from Labor colleague Ed Husic as “disingenuous”, Conroy said the US military had wanted Australia to accept a combination of new and used submarines from early next decade, to suit domestic manufacturing capability. Continue reading...",
-            "zh": "帕特·康罗伊表示，从美国购买和运行三艘二手弗吉尼亚级核潜艇将更便宜 国防工业部长帕特·康罗伊表示，澳大利亚自 2022 年底以来一直在谈判从美国接收三艘二手弗吉尼亚级核潜艇，预计这些核潜艇的运行时间将超过 25 年。康罗伊驳斥了工党同事埃德·胡西克(Ed Husic)对奥库斯防御协议的批评，称其“不诚实”，他表示，美国军方希望澳大利亚从下个十年初期开始接受新旧潜艇的组合，以适应国内的制造能力。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
           },
           "translationState": "fallback"
         },
@@ -1508,72 +1410,6 @@
             "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
             "themeEn": "Ask God for wisdom",
             "themeZh": "求神赐智慧"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-government-waives-gag-orders-for-defence-sex",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/government-waives-gag-orders-for-defence-sexual-violence-survivors-ahead-of-inquiry/06omnqn16",
-          "image": "https://assets.sbs.com.au/dims4/default/487f8d8/2147483647/strip/false/crop/6280x2886+0+505/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F08%2Fc1%2F73780c014c7597e106f5be8e4d3b%2F20240109001886771462-original.jpg",
-          "publishedAt": "2026-06-02T03:02:32.000Z",
-          "title": {
-            "en": "Government waives gag orders for defence sexual violence survivors ahead of inquiry",
-            "zh": "政府在调查前放弃为性暴力幸存者辩护的禁言令"
-          },
-          "summary": {
-            "en": "Recommended by the Royal Commission into Defence and Veteran Suicide, the inquiry is due to begin later in 2026.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Survivors of sexual violence in the Australian military will be able to discuss their abuse at an upcoming inquiry after the government waived gag orders preventing them giving evidence.\n\nVeterans Affairs' Minister Matt Keogh has written to victims saying the government will not seek to enforce any non-disclosure agreements (NDAs).\n\nThe move comes after a campaign by those who had suffered abuse, whistleblowers and civil society organisations.\n\n\"Veterans who served this country should not have to ask permission to speak about their lived experiences of military sexual violence,\" Julia Delaforce, a former RAAF airwoman and whistleblower, said.\n\n\"This amnesty is a critical step towards lifting the legal gag on military sexual violence survivors, so they can safely speak to the upcoming inquiry and help expose the institutional systems that failed them.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nDelaforce has led a campaign to ban NDAs after her own experience in the Australian military, as revealed to Nine in 2025.\n\nAfter years spent seeking a resolution after being \"trapped in a room with a machete-wielding corporal demanding oral sex\", as Nine reported, instead she signed a settlement with Defence which gagged her from speaking about it.\n\nShe said the government's waiving of NDAs would allow the upcoming inquiry to be more truthful and should lead to a permanent ban on the clauses.\n\n\"The upcoming inquiry will only be meaningful if veteran survivors can participate without fear of legal threats, retaliation or being told once again to stay silent,\" she said.\n\nRegina Featherstone of the Human Rights Law Centre, which has backed the push, said \"the era of cover-up and silencing women must end\".\n\n\"We urge the minister to extend these protections with a permanent amnesty for victim-survivors, so the Australian Defence Force can continue to reckon with the problem of sexual violence at the inquiry and beyond,\" she said.\n\nThe inquiry, due to begin later in 2026, was recommended by the Royal Commission into Defence and Veteran Suicide, completed in 2024.\n\nIn Keogh's letter, seen by the Australian Associated Press, the minister says defence no longer issues NDAs arising from sexual harassment and sexual violence matters, which are now the subject of a facilitated \"restorative engagement\" process.\n\nThe letter also states the government has not waived confidentiality for matters that \"do not go to an ADF member's experience of sexual violence, including ... financial settlement details\".\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "在政府放弃阻止他们提供证据的禁言令后，澳大利亚军队中的性暴力幸存者将能够在即将举行的调查中讨论他们的虐待行为。 退伍军人事务部部长马特·基奥 (Matt Keogh) 致信受害者表示，政府不会寻求执行任何保密协议 (NDA)。 此举是在那些遭受虐待的人、举报人和民间社会组织发起的运动之后做出的。 前澳大利亚皇家空军女飞行员兼举报人朱莉娅·德拉福斯 (Julia Delaforce) 表示：“为这个国家服务的退伍军人不应该获得许可才能谈论他们在军队性暴力中的生活经历。” “这次特赦是解除对军队性暴力幸存者的法律限制的关键一步，这样他们就可以安全地接受即将到来的调查，并帮助揭露那些让他们失望的制度体系。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 正如 2025 年向九号台透露的那样，德拉福斯根据自己在澳大利亚军队的经历，发起了一场禁止保密协议的运动。 据《九号台》报道，在“被困在一个挥舞着砍刀的下士要求口交的房间里”后，她花了多年时间寻求解决方案，但她与国防部签署了一份和解协议，禁止她谈论此事。 她表示，政府放弃保密协议将使即将进行的调查更加真实，并应导致永久禁止这些条款。 她说：“只有退伍军人幸存者能够参与而不用担心法律威胁、报复或再次被告知保持沉默，即将进行的调查才有意义。” 支持这一举措的人权法律中心的雷吉娜·费瑟斯通表示，“掩盖和压制女性的时代必须结束”。 她说：“我们敦促部长扩大这些保护范围，对受害者幸存者实行永久特赦，以便澳大利亚国防军能够在调查期间及之后继续解决性暴力问题。” 这项调查由皇家国防和退伍军人自杀委员会建议于 2026 年晚些时候开始，并于 2024 年完成。 在澳大利亚美联社看到的基奥的信中，部长表示，国防部不再发布因性骚扰和性暴力问题而产生的保密协议，这些问题现在是便利的“恢复性接触”程序的主题。 信中还指出，政府并未放弃对“不涉及 ADF 成员性暴力经历的事项的保密，包括……财务结算细节”。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-australia-sanctions-israeli-extremists-in-re",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/australia-sanctions-israeli-extremists-in-response-to-violence-in-palestine/040qqsw77",
-          "image": "https://assets.sbs.com.au/dims4/default/e5c6f57/2147483647/strip/false/crop/3000x1378+0+155/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F85%2Fa8%2Fedd55c5242feab93287cc50e6f03%2F20260410150433526571-original-1.jpg",
-          "publishedAt": "2026-06-02T00:31:10.000Z",
-          "title": {
-            "en": "Australia sanctions Israeli extremists in response to violence in Palestine",
-            "zh": "澳大利亚因巴勒斯坦暴力事件而制裁以色列极端分子"
-          },
-          "summary": {
-            "en": "The new sanctions come over a week after Australia sanctioned Israel's national security minister Itamar Ben-Gvir.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Australia has sanctioned Israeli settler farming outposts in the West Bank for the first time in response to escalating violence in the Palestinian territory.\n\nThe new diplomatic penalties against four settler farming outposts and three individuals, which took effect on Tuesday, are the latest in a long list applying to far-right Israeli figures.\n\nThe federal government has previously sanctioned Israel's national security minister Itamar Ben-Gvir , who posted a video of himself berating pro-Palestine activists in May.\n\nForeign Minister Penny Wong said Israel must uphold its obligations under international law and take urgent action to end settler violence.\n\n\"Settler violence is used to displace Palestinians and perpetuate the settlement enterprise, through destruction of property, displacement of families, beatings, sexual assault, and torture, resulting in serious injuries and deaths,\" she said in a statement on Tuesday.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"The individuals and entities sanctioned today have undermined Israel's own security and its standing in the world and harmed the interests of the Israeli people.\n\n\"Australia's imposition of sanctions against them reflects our commitment to Israel and Palestine's security and future.\"\n\nIsraeli settlements in the West Bank have been found to be illegal under international law. Israel disputes that finding.\n\nFour settler farming outposts &#x2014; Moshe's Farm, Meitarim Farm, Neria's Farm and Zvi's farm &#x2014; which have served as a base for extremist Israelis who've attacked Palestinians, are included in the sanctions list.\n\nThe sanctions also include Ben Zion Gopstein, the founder of far-right extremist organisation Lehava, which the government says promotes Jewish supremacist ideology.\n\nExtremist settlers Eden Levi and Moshe Sharvit, both of whom Australia says have engaged in attacks and intimidation of Palestinians, have also been sanctioned.\n\nThe restrictions mean the men are no longer allowed to enter Australia and it is illegal for an Australian to give them money or assets.\n\nWong said Australia had coordinated with partners, including New Zealand, in imposing the measures.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "澳大利亚首次制裁以色列定居者在西岸的农业前哨基地，以应对巴勒斯坦领土上不断升级的暴力事件。 针对四名定居者农业前哨和三人的新外交处罚于周二生效，是针对以色列极右翼人物的一长串名单中的最新一项。 联邦政府此前曾对以色列国家安全部长伊塔马尔·本-格维尔（Itamar Ben-Gvir）实施制裁，后者在五月份发布了一段自己谴责亲巴勒斯坦活动人士的视频。 外交部长黄英贤表示，以色列必须履行国际法规定的义务，并采取紧急行动结束定居者的暴力行为。 她在周二的一份声明中表示：“定居者的暴力被用来驱逐巴勒斯坦人，并通过破坏财产、使家庭流离失所、殴打、性侵犯和酷刑，导致巴勒斯坦人流离失所，并导致定居点事业永久化，造成严重伤害和死亡。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “今天受到制裁的个人和实体损害了以色列自身的安全及其在世界上的地位，损害了以色列人民的利益。 “澳大利亚对他们实施制裁反映了我们对以色列和巴勒斯坦安全和未来的承诺。” 根据国际法，以色列在约旦河西岸的定居点被认定为非法。以色列对这一发现提出异议。 四个定居者农业前哨——摩西农场、梅塔林农场、内里亚农场和兹维农场——被列入制裁名单，这些前哨基地一直是袭击巴勒斯坦人的以色列极端主义分子的基地。 制裁还包括极右极端主义组织 Lehava 的创始人本·锡安·戈普斯坦 (Ben Zion Gopstein)，政府称该组织宣扬犹太至上主义意识形态。 极端主义定居者伊登·利维和摩西·沙维特也受到了制裁，澳大利亚称这两人参与了对巴勒斯坦人的袭击和恐吓。 这些限制意味着这些人不再被允许进入澳大利亚，而且澳大利亚人向他们提供金钱或资产是非法的。 黄说，澳大利亚已与包括新西兰在内的合作伙伴协调实施这些措施。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
           },
           "translationState": "fallback"
         }
