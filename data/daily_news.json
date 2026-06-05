@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T16:30:54.838Z",
+  "generatedAt": "2026-06-05T18:55:06.217Z",
   "editionDate": "2026-06-06",
   "sources": [
     {
@@ -105,12 +105,280 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "BBC News World",
         "The Guardian World",
+        "BBC News World",
         "DW World",
         "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-politics-2026-jun-05-thames-water-should-be-national",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/politics/2026/jun/05/thames-water-should-be-nationalised-andy-burnham",
+          "image": "https://i.guim.co.uk/img/media/a6acddc196e1cddcee7f01e4d65773d4dffdc03b/0_0_3235_2589/master/3235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b70427ee16d2bab59304d7b589824392",
+          "publishedAt": "2026-06-05T18:47:48.000Z",
+          "title": {
+            "en": "Thames Water should be nationalised, says Andy Burnham",
+            "zh": "安迪·伯纳姆表示，泰晤士水务公司应国有化"
+          },
+          "summary": {
+            "en": "Andy Burnham, a Labour byelection candidate, has advocated for the nationalization of Thames Water, stating that public ownership of water companies would \"absolutely be an option\" as he considers a potential leadership bid.",
+            "zh": "工党补选候选人安迪·伯纳姆表示，泰晤士水务公司应国有化，并称水务公司的公共所有权“绝对是一个选择”，因为他正准备竞选潜在的领导职位。"
+          },
+          "body": {
+            "en": "Exclusive: Labour’s Makerfield byelection candidate advocates public ownership of water companies as he prepares for potential leadership bid Thames Water should be nationalised, Andy Burnham has said, revealing public ownership of water companies would “absolutely be an option” under his potential leadership of the Labour party. Burnham, Labour’s candidate in the Makerfield byelection, has previously called for “greater public control” over the companies. In an interview with the Guardian, he has confirmed this could mean nationalisation. Continue reading...",
+            "zh": "独家报道：工党梅克菲尔德补选候选人在为潜在的领导权竞标做准备时，主张自来水公司公有制。安迪·伯纳姆表示，泰晤士水务公司应该被国有化，他透露，在他领导工党的潜在领导下，自来水公司公有制“绝对是一个选择”。梅克菲尔德补选中的工党候选人伯纳姆此前曾呼吁对这些公司进行“更大的公共控制”。在接受《卫报》采访时，他证实这可能意味着国有化。继续阅读..."
+          },
+          "reflection": {
+            "en": "Debates over who controls essential services like water often highlight the moral mandate of leadership. Jeremiah reminds us that those in positions of authority are called to ensure justice and righteousness, protecting the vulnerable from exploitation. This principle applies whether services are managed privately or publicly, urging all to prioritize the...",
+            "zh": "关于谁来控制水等基本服务的辩论，常常凸显领导者的道德使命。耶利米书提醒我们，身居高位者蒙召要确保公义和正直，保护弱势群体免受剥削。这一原则适用于私人或公共管理的服务，敦促所有人优先考虑公共利益。"
+          },
+          "verse": {
+            "reference": "Jeremiah 22:3",
+            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
+            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
+            "themeEn": "Royal justice mandate",
+            "themeZh": "王者的公义责任"
+          },
+          "aiVerseId": "jer_22_3",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-live-2026-jun-05-us-politics-latest-news-upd",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats",
+          "image": "https://i.guim.co.uk/img/media/7d315f1a32717c6e4ffdea082ba98a22ad80625d/162_0_1620_1296/master/1620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=572b7f28b4ff813ebc44d825268023f1",
+          "publishedAt": "2026-06-05T18:40:20.000Z",
+          "title": {
+            "en": "Trump confirms telling Bill Pulte to fire intelligence community employees – live",
+            "zh": "参议院共和党人通过法案，授权700亿美元用于移民执法"
+          },
+          "summary": {
+            "en": "Senate Republicans passed a bill authorizing $70 billion for immigration enforcement, with Senator Lindsey Graham expressing pride in fully funding Border Patrol and ICE.",
+            "zh": "参议院共和党人通过了一项法案，授权拨款700亿美元用于移民执法，共和党参议员林赛·格雷厄姆表示，他对“边境巡逻队和ICE获得充足资金”感到非常自豪。"
+          },
+          "body": {
+            "en": "Asked about media report that new acting intelligence director has been told to make significant personnel changes, Trump claims staffing was ‘way too high’ Sign up for the Breaking News US email Nine out of 15 migrants deported from the US to the Democratic Republic of Congo (DRC) in April have returned to their home countries, Congo’s government, a migrant and her lawyer said on Friday. The 15 migrants arrived in Congo on 17 April as part of a bilateral agreement with the Trump administration announced two weeks earlier to accept third-country deportees from the US. Congo’s government said in a statement on Friday that “more than half” of the migrants had since returned to their countries and that others would return “shortly“. Continue reading...",
+            "zh": "共和党参议员林赛·格雷厄姆 (Lindsey Graham) 表示，他“为我的共和党同事感到非常自豪……确保边境巡逻队和 ICE 获得充足的资金”。 美国雇主 5 月份增加了 172,000 个就业岗位，而该国失业率稳定在 4.3%，这表明尽管中东持续冲突导致通货膨胀加剧和经济不确定性，但劳动力市场仍具有弹性。经济学家最初预测将新增约8万个就业岗位，失业率稳定在4.3%。 3 月和 4 月的就业数据也分别上调了 29,000 人和 64,000 人，比最初数字增加了 93,000 人。这是美联储新的一天……今天早上我与沃什主席共进了第一顿早餐，我相信他会做正确的事情来平衡通胀和增长。继续阅读..."
+          },
+          "reflection": {
+            "en": "The decision to allocate significant funds for immigration enforcement highlights a nation's approach to those seeking entry or residence. Scripture reminds us to consider how we treat the stranger in our land, urging us to extend love and equal regard. This calls for a balance between security and compassion, reflecting a heart that remembers its own...",
+            "zh": "拨款巨额资金用于移民执法的决定，凸显了一个国家对待寻求入境或居留者的方式。圣经提醒我们思考如何对待我们土地上的陌生人，敦促我们施予爱心和同等的尊重。这要求在安全与怜悯之间取得平衡，反映一颗铭记自身脆弱历史的心。"
+          },
+          "verse": {
+            "reference": "Leviticus 19:33-34",
+            "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
+            "textZh": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
+            "themeEn": "Foreigner as native-born",
+            "themeZh": "待寄居者如本族"
+          },
+          "aiVerseId": "lev_19_33",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jun-05-doj-trump-white-house-ballroom",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jun/05/doj-trump-white-house-ballroom",
+          "image": "https://i.guim.co.uk/img/media/a12f130efd3aba9158fe4850d4a6987b3df59fdc/700_0_6756_5407/master/6756.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f318a3317c5c6a377f4edcf3846e2781",
+          "publishedAt": "2026-06-05T18:23:24.000Z",
+          "title": {
+            "en": "No court has authority to block Trump’s White House ballroom, DoJ lawyer says",
+            "zh": "司法部律师称，任何法院都无权阻止特朗普白宫宴会厅的建设"
+          },
+          "summary": {
+            "en": "The Trump administration has asked a DC circuit court of appeals to reverse a lower court decision that blocked the construction of a $400m ballroom and secure underground facility at the White House. A Department of Justice lawyer argued that no court has the authority to halt the construction.",
+            "zh": "特朗普政府已要求哥伦比亚特区巡回上诉法院推翻下级法院的一项裁决，该裁决曾阻止在白宫建造一个耗资4亿美元的宴会厅和地下安全设施。司法部律师辩称，任何法院都无权叫停这项建设。"
+          },
+          "body": {
+            "en": "Trump administration has asked DC circuit court of appeals to reverse lower court decision which blocked construction of $400m ballroom No court has the authority to halt construction of Donald Trump’s White House ballroom and a secure underground facility, a Department of Justice lawyer has argued, suggesting only US Congress had the power to stop the project. The Trump administration has asked the Washington DC circuit court of appeals to reverse a lower court decision which blocked construction of a $400m ballroom on the site of the White House’s demolished East Wing. Construction of a secure bunker for staff underground at the site was allowed to proceed while the dispute between Washington DC preservationists and the White House continues. Continue reading...",
+            "zh": "特朗普政府已要求华盛顿特区巡回上诉法院推翻下级法院阻止建造耗资 4 亿美元的宴会厅的裁决。司法部律师辩称，没有法院有权停止建造唐纳德·特朗普的白宫宴会厅和安全地下设施，这表明只有美国国会有权阻止该项目。特朗普政府已要求华盛顿特区巡回上诉法院推翻下级法院的一项裁决，该裁决阻止在白宫已拆除的东翼旧址上建造一座耗资 4 亿美元的宴会厅。在华盛顿特区的保护主义者和白宫之间的争端仍在继续的同时，在现场为工作人员建造一个安全掩体的工作被允许继续进行。继续阅读..."
+          },
+          "reflection": {
+            "en": "The debate over governmental authority and the limits of judicial oversight reminds us that all power structures ultimately derive from a divine source. Romans 13:1 calls us to acknowledge that governing authorities are established by God, implying a sacred trust and inherent accountability in their exercise of power. This perspective encourages us to seek...",
+            "zh": "关于政府权力以及司法监督界限的辩论，提醒我们所有权力结构最终都源于神圣的源头。罗马书13:1呼吁我们承认执政的权柄是雅伟所设立的，这意味着权力行使中蕴含着神圣的信任和固有的责任。这种视角鼓励我们在所有执政者以及旨在确保正义和秩序的制度中寻求智慧和正直。"
+          },
+          "verse": {
+            "reference": "Romans 13:1",
+            "textEn": "Let everyone be subject to the governing authorities, for there is no authority except that which God has established.",
+            "textZh": "在上有权柄的，人人当顺服他，因为没有权柄不是出于神的。",
+            "themeEn": "God-given authority",
+            "themeZh": "神所立的权柄"
+          },
+          "aiVerseId": "rom_13_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-uk-news-2026-jun-05-two-men-convicted-of-wounding-jo",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/05/two-men-convicted-of-wounding-journalist-on-orders-of-iran",
+          "image": "https://i.guim.co.uk/img/media/00aa4e37059affab3044bb863ef691ff9c5f5db0/140_0_7703_6166/master/7703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c7cb2b4bc62d3514b5a2ae4fd705905",
+          "publishedAt": "2026-06-05T18:21:54.000Z",
+          "title": {
+            "en": "Two men convicted of wounding journalist in London ‘on orders of Iran’",
+            "zh": "两名男子因“奉伊朗之命”在伦敦打伤记者而被定罪"
+          },
+          "summary": {
+            "en": "Pouria Zeraati of Iran International TV was stabbed three times outside his London home in attempt to ‘silence’ him Two men have been found guilty of involvement in a targeted knife attack on an Iranian journalist in London said to have been carried out on behalf of the regime...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Pouria Zeraati of Iran International TV was stabbed three times outside his London home in attempt to ‘silence’ him Two men have been found guilty of involvement in a targeted knife attack on an Iranian journalist in London said to have been carried out on behalf of the regime in Tehran. Pouria Zeraati, a British journalist of Iranian origin, was working for Iran International, a Farsi-language dissident broadcaster, when he was stabbed in the leg outside his west London home in 2024. Continue reading...",
+            "zh": "伊朗国际电视台的普里亚·泽拉蒂 (Pouria Zeraati) 在伦敦家外被刺三刀，试图让他“闭嘴”。两名男子因参与在伦敦对一名伊朗记者进行有针对性的持刀袭击而被判有罪，据称这是代表德黑兰政权实施的。普里亚·泽拉蒂 (Pouria Zeraati) 是一名伊朗裔英国记者，2024 年在波斯语持不同政见广播公司伊朗国际 (Iran International) 工作时，他在伦敦西区的家外腿部被刺伤。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cpqpqx5qe40o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg",
+          "publishedAt": "2026-06-05T18:16:15.000Z",
+          "title": {
+            "en": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+            "zh": "普京表示，就结束乌克兰战争问题与泽伦斯基会面“毫无意义”"
+          },
+          "summary": {
+            "en": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Russian President Vladimir Putin has said he does not see any point in meeting Volodymyr Zelensky after the Ukrainian leader requested face-to-face talks over ending the war between the two nations.\n\nZelensky sent an open letter on Thursday calling for direct negotiations with Putin, writing that it was \"wrong to simply wait\" for the war, which began with Russia's full-scale invasion of Ukraine in 2022, to become the focus of US attention once more.\n\nThe Ukrainian president also requested a ceasefire, while striking a defiant, at-times mocking tone.\n\nPutin called the note \"rude\" and refused the request for a meeting, reiterating his position that peace talks should precede any ceasefire.\n\n\"I don't see any point for now,\" he said when asked whether he would take up Zelensky's offer while speaking at Russia's annual economic forum in St Petersburg on Friday.\n\n\"Was it a way to create the conditions for a face-to-face meeting or a way not to set up a face-to-face meeting? I think it was the second.\"\n\n\"He just doesn't want to end the war. I think that many in the world were disappointed by this answer,\" he wrote on Telegram.\n\nDuring his remarks addressing Zelensky's letter, Putin restated his position that a ceasefire would only allow Ukraine to regroup, while concessions Moscow is seeking from Kyiv remain unmet.\n\n\"The only point is for the Ukrainian side to halt the advance of our armed forces. But we need agreements - not for six months, not for three months, but for the long term,\" he said.\n\n\"Let the experts get to work and come up with some solutions. After that, we can meet.\"\n\n\"Military actions will end some day, we assume. Without a doubt, they will end once we have achieved the goals we have set for ourselves.\"\n\nRussia's longstanding position is that Ukraine should withdraw from the Donetsk, Luhansk, Kherson and Zaporizhzhia regions, as well as abandon efforts to join Nato.\n\nBut Kyiv has refused to give up any territory, arguing that any concessions to Moscow would embolden it to invade again in the future, noting its full-scale invasion came eight years after it annexed the Crimean peninsula.\n\nZelensky had stated in his letter that \"after 26 years in power, age is beginning to take its toll\" on Putin, while drawing attention to a recent Ukrainian strikes on Russian territory - including one on St Petersburg on Thursday he described as \"paying a visit\".\n\nThe content of Zelensky's letter had raised hopes of peace in some quarters, including the White House.\n\nUkraine said on Friday that it had struck five ships with illegal cargo in the Sea of Azov and in coastal waters of territories occupied by Russia.\n\nRobert Brovdi, Ukraine's drone commander, said they had been involved in \"stealing\" Ukrainian grain, and transferring fuel and military...",
+            "zh": "俄罗斯总统弗拉基米尔·普京表示，在乌克兰领导人要求就结束两国之间的战争进行面对面会谈后，他认为与泽连斯基会面没有任何意义。 泽连斯基周四发表公开信，呼吁与普京直接谈判，并写道，坐等战争从2022年俄罗斯全面入侵乌克兰开始，再次成为美国关注的焦点是“错误的”。 乌克兰总统还要求停火，同时语气充满挑衅，有时甚至是嘲讽。 普京称该照会“粗鲁”，并拒绝了会面请求，并重申了他的立场，即和平谈判应先于停火。 周五在圣彼得堡举行的俄罗斯年度经济论坛上，当被问及是否会接受泽连斯基的提议时，他说：“我现在看不出任何意义。” “这是为面对面会议创造条件的一种方式，还是不安排面对面会议的一种方式？我认为是第二种。” “他只是不想结束战争。我认为世界上许多人对这个答案感到失望，”他在 Telegram 上写道。 普京在针对泽连斯基信函的讲话中重申了他的立场，即停火只会让乌克兰重新集结，而莫斯科向基辅寻求的让步仍未得到满足。 “唯一的问题是乌克兰方面停止我们武装部队的前进。但我们需要达成协议——不是六个月，不是三个月，而是长期的，”他说。 “让专家们开始工作，拿出一些解决方案。之后我们就可以见面了。” “我们认为，军事行动有一天会结束。毫无疑问，一旦我们实现了为自己设定的目标，军事行动就会结束。” 俄罗斯的长期立场是乌克兰应该从顿涅茨克、卢甘斯克、赫尔松和扎波罗热地区撤军，并放弃加入北约的努力。 但基辅拒绝放弃任何领土，认为对莫斯科的任何让步都会使其更有勇气在未来再次入侵，并指出其全面入侵是在吞并克里米亚半岛八年后发生的。 泽伦斯基在信中表示，“在掌权26年后，年龄开始对普京产生影响”，同时提请人们注意最近乌克兰对俄罗斯领土的袭击，其中包括周四对圣彼得堡的袭击，他称这是“访问”。 泽连斯基信中的内容在包括白宫在内的一些方面燃起了和平的希望。 乌克兰周五表示，它在亚速海和俄罗斯占领领土的沿海水域袭击了五艘载有非法货物的船只。 乌克兰无人机指挥官罗伯特·布罗夫迪表示，他们参与了“窃取”乌克兰粮食、转移燃料和军事……"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-clypyd6gj72o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/clypyd6gj72o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e978/live/ec521530-60dc-11f1-82ca-1380a42b6773.jpg",
+          "publishedAt": "2026-06-05T18:15:42.000Z",
+          "title": {
+            "en": "Singer Fally Ipupa's pride at being given major DR Congo honour",
+            "zh": "歌手 Fally Ipupa 为获得刚果民主共和国重大荣誉而感到自豪"
+          },
+          "summary": {
+            "en": "He follows the late great Papa Wemba in becoming a knight of the National Order of the Leopard.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "One of Africa's biggest music stars says he feels \"immense pride and deep emotion\" after being given one of the Democratic Republic of Congo's most prestigious awards.\n\nFally Ipupa kick-started his career working with fellow Congolese heavyweight Koffi Olomidé three decades ago and today boasts millions of fans across the globe.\n\nKnown for his versatility, his output spans group hits as part of Talent Latent and Quartier Latin International, as well eight solo albums.\n\nHis highest honour yet came on Tuesday, when the 48-year-old became a knight of the National Order of the Leopard. This title is only awarded by the Congolese president to the most esteemed public figures.\n\nWhile there was no televised ceremony, Fally Ipupa's new status was announced the following day on state TV by a presidential spokeswoman who called him a \"worthy son of the nation\".\n\nThe singer's unique style and artistry has \"contributed to the promotion of Congolese rumba and the dissemination of Congolese culture to an international audience\", she added.\n\n\"This path has never been mine alone. It belongs to an entire people,\" Fally Ipupa told fans afterwards on social media. \"To the Congolese youth: Your starting point does not define your destiny. Work, believe, persevere. The world is ready to hear your voice.\"\n\nHe recently became the first African artist to go straight to number one in the French album charts with his latest record called XX, and reports last month lauded him as the first francophone African artist to sell out Paris's 80,000-capacity Stade de France two days in a row.\n\nLater this year, the singer is set to give one of his biggest UK performances yet at London's O2 arena.\n\nSo gruelling is this promotional schedule across Europe and the US that Fally Ipupa recently told Le Monde newspaper that he had lost his voice.\n\n\"I sang a lot on TV and radio shows... So the doctor ordered me a week of silence.\"\n\nFour years ago, at least 11 people died in a crush at one of his concerts in the Congolese capital of Kinshasa, where stadium attendance was over capacity by a third.\n\nIn an industry where music piracy and touring complications can see musicians miss out financially, many admit accepting money to praise politicians, corporations and influential figures in their songs - a practice known locally as libanga.\n\nIn Fally Ipupa's case, he told Kenya's Trace FM he could earn around €10,000 (£8,600; £11,000) per mention.\n\nSuch arrangements have long angered Congolese fans living abroad, who until recent years blocked concerts by Fally Ipupa and other homegrown musicians in outrage at a perceived closeness to the much-criticised government.\n\nBut Fally Ipupa, who has also worked as a Unicef ambassador and philanthropist, maintains that his number-one mission is to unite...",
+            "zh": "非洲最大的音乐明星之一表示，在获得刚果民主共和国最负盛名的奖项之一后，他感到“无比自豪和深切的情感”。 三十年前，法利·伊普帕 (Fally Ipupa) 与刚果重量级拳手科菲·奥洛米德 (Koffi Olomidé) 合作开启了自己的职业生涯，如今在全球拥有数百万粉丝。 他以多才多艺而闻名，其作品包括 Talent Latent 和 Quartier Latin International 等团体热门歌曲，以及八张个人专辑。 周二，48 岁的他获得了国家豹勋章骑士勋章，这是他迄今为止的最高荣誉。该称号仅由刚果总统授予最受尊敬的公众人物。 虽然仪式没有电视转播，但总统发言人第二天在国家电视台宣布了法利·伊普帕的新地位，并称他是“值得尊敬的国家之子”。 她补充说，这位歌手独特的风格和艺术性“为推广刚果伦巴以及向国际观众传播刚果文化做出了贡献”。 “这条路从来都不是我一个人的。它属于整个人民，”法利·伊普帕随后在社交媒体上对粉丝们说。 “致刚果青年：你的起点并不能决定你的命运。努力、相信、坚持。世界已准备好倾听你的声音。” 他最近凭借最新专辑《XX》成为第一位在法国专辑排行榜上直接排名第一的非洲艺术家，上个月的报道称赞他是第一位连续两天在巴黎法兰西体育场售完门票的法语非洲艺术家。 今年晚些时候，这位歌手将在伦敦 O2 体育馆举办迄今为止最盛大的英国演出之一。 欧洲和美国的促销计划如此繁琐，以至于法利·伊普帕最近告诉《世界报》，他已经失声了。 “我在电视和广播节目中经常唱歌……所以医生命令我禁言一周。” 四年前，他在刚果首都金沙萨举行的一场音乐会上，至少有 11 人在拥挤中丧生，当时体育场的观众人数超过了三分之一。 在音乐盗版和巡回演出可能导致音乐家蒙受经济损失的行业中，许多人承认接受金钱以在歌曲中赞扬政客、企业和有影响力的人物——这种做法在当地被称为“libanga”。 以 Fally Ipupa 为例，他告诉肯尼亚的 Trace FM，每次提及他可以获得约 10,000 欧元（8,600 英镑；11,000 英镑）。 这种安排长期以来一直激怒了居住在国外的刚果歌迷，直到最近几年，他们还阻止法利·伊普帕和其他本土音乐家的音乐会，因为他们对被认为与备受批评的政府关系密切感到愤怒。 但同时担任联合国儿童基金会大使和慈善家的法利·伊普帕坚持认为，他的首要任务是团结……"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-politics-2026-jun-05-keir-starmer-questions-henry-no",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/politics/2026/jun/05/keir-starmer-questions-henry-nowak-case-two-tier-policing-claim",
+          "image": "https://i.guim.co.uk/img/media/f26fd4993cb0d19643bd5ca5d29a9fe1676015b0/1417_407_3412_2730/master/3412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80b6c5569a4f136d109a4f8a4ca553a1",
+          "publishedAt": "2026-06-05T18:12:56.000Z",
+          "title": {
+            "en": "JD Vance blames Henry Nowak’s murder on ‘mass invasion of migrants’",
+            "zh": "JD万斯将亨利·诺瓦克谋杀案归咎于“大规模移民入侵”"
+          },
+          "summary": {
+            "en": "US Vice-President JD Vance has attributed the murder of British teenager Henry Nowak to mass migration. This statement follows UK Labour leader Keir Starmer's rejection of claims regarding two-tier policing.",
+            "zh": "美国副总统JD万斯将英国少年亨利·诺瓦克（Henry Nowak）的谋杀案归咎于大规模移民。此番言论是在英国工党领袖基尔·斯塔默（Keir Starmer）驳斥有关双重标准警务的说法之后发表的。"
+          },
+          "body": {
+            "en": "US vice-president speaks out over UK teenager’s death after Keir Starmer rebuffs claim of two-tier policing ​JD Vance, the US vice-president, has blamed the murder of the British teenager Henry Nowak on mass migration, hours after Keir Starmer rejected the US government’s claim that there was “two-tier policing” in the UK. The senior Republican politician weighed into the case of the murdered 18-year-old, claiming in a post on X that Nowak would be alive “if the last few generations of European elites had stood their ground against the politics of self-hatred and the mass invasion of migrants, many of whom despise the West and the people who love it”. Continue reading...",
+            "zh": "美国副总统在凯尔·斯塔默反驳英国存在“双层治安”的说法后就英国青少年之死发表讲话 美国副总统 JD 万斯将英国青少年亨利·诺瓦克的谋杀归咎于大规模移民，几小时前，凯尔·斯塔默驳斥了美国政府关于英国存在“双层治安”的说法。这位共和党资深政治家对被谋杀的 18 岁青年一案进行了权衡，他在 X 上的一篇帖子中声称，“如果最后几代欧洲精英能够坚持自己的立场，反对自我仇恨的政治和大规模移民入侵，其中许多人鄙视西方和热爱西方的人们”，诺瓦克就会活着。继续阅读..."
+          },
+          "reflection": {
+            "en": "In moments of tragedy, words carry immense weight and can either wound or heal. When leaders attribute blame to entire groups, their reckless words can pierce deeply, fostering division and fear. Wisdom calls us to speak with care, seeking understanding and reconciliation rather than fueling hostility.",
+            "zh": "在悲剧发生时，言语具有巨大的分量，既能伤人也能医治。当领导人将责任归咎于整个群体时，他们鲁莽的言语会深深刺痛人心，滋生分裂和恐惧。智慧呼唤我们谨慎言辞，寻求理解与和解，而非煽动敌意。"
+          },
+          "verse": {
+            "reference": "Proverbs 12:18",
+            "textEn": "The words of the reckless pierce like swords, but the tongue of the wise brings healing.",
+            "textZh": "说话浮躁的，如刀刺人；智慧人的舌头却为医人的良药。",
+            "themeEn": "Reckless words pierce",
+            "themeZh": "言语如刀"
+          },
+          "aiVerseId": "prov_12_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-com-news-articles-c9wewqxpq2eo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9a15/live/d053b7c0-dcee-11f0-b67b-690eb873de1b.jpg",
+          "publishedAt": "2026-06-05T17:11:01.000Z",
+          "title": {
+            "en": "Norway's crown princess on lung transplant waiting list, palace says",
+            "zh": "挪威王储妃在肺移植等候名单上，宫殿称"
+          },
+          "summary": {
+            "en": "Mette-Marit's condition, which stiffens the lungs, making it hard to breathe, has deteriorated, the royal household says.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Norway's Crown Princess Mette-Marit has been placed on a waiting list for a lung transplant, the country's royal household has said.\n\nMette-Marit, who suffers from an incurable lung disease, has suspended official duties and will have the operation as soon as a donor becomes available, it said.\n\nThe princess, who married Crown Prince Haakon in 2001, has been battling the illness while facing revelations about her association with the late sex offender Jeffrey Epstein and the rape trial of her son from a previous relationship, Marius Borg Høiby.\n\nHøiby, who denies the charges, has requested release from custody because his mother is seriously ill, Norwegian media report.\n\nMette-Marit, 52, was diagnosed in 2018 with a rare form of pulmonary fibrosis that causes breathing difficulties and creates scar tissue that stiffens the lungs making it difficult to breathe and for oxygen to enter the bloodstream. It has repeatedly forced her to take sick leave or scale back official duties.\n\nIn December, Mette-Marit told public broadcaster NRK that her illness had developed \"faster than I'd hoped \" and that activities she enjoyed with her husband - like hiking and skiing - were no longer possible.\n\nOver the past six months, her condition has deteriorated significantly, Prof Are Holm, a lung specialist at Oslo University Hospital, was quoted by the royal household as saying.\n\n\"We can see that there has been a significant increase in scar tissue in her lungs over the past year - and lung function tests show that her lung function has declined considerably in the last three months alone,\" Holm told reporters at a news conference on Friday.\n\nHe said the deterioration was \"dangerous\", which was why she has been placed on the transplant list.\n\nA successful transplant hinges on several factors, including finding the right match and ensuring the body does not reject the new organ once implanted.\n\nHolm explained that the process was viewed as a last resort, and that individuals must be considered significantly ill and have a limited life expectancy before a lung transplant could be deemed appropriate.\n\nBut patients must be still in sufficiently good condition to be able to handle such a major procedure.\n\nMeanwhile, her son Høiby, 29, remains in custody while awaiting a verdict in his trial, which is due to be delivered in the next few weeks.\n\nHe has denied the most serious charges against him - four counts of rape as well as serious assault - but pleaded guilty to some lesser offences. As the stepson of the heir to the Norwegian throne, he does not have any royal title or official duties.\n\nThe start of his trial came just days after documents were released in the US revealing exchanges Mette-Marit had with the disgraced financier Epstein .\n\nThe princess told national TV...",
+            "zh": "挪威王室表示，挪威王储妃梅特-玛丽特已被列入肺移植的等候名单。 消息称，患有无法治愈的肺病的梅特-玛丽特已暂停公务，一旦有捐赠者，将立即进行手术。 这位公主于 2001 年与哈康王储结婚，她一直在与疾病作斗争，同时面临着她与已故性犯罪者杰弗里·爱泼斯坦的关系的曝光，以及她前一段关系的儿子马吕斯·博格·霍伊比被强奸的审判。 据挪威媒体报道，霍伊比否认了这些指控，并要求释放，因为他的母亲病重。 52 岁的梅特-玛丽特 (Mette-Marit) 于 2018 年被诊断出患有一种罕见的肺纤维化，这种纤维化会导致呼吸困难并产生疤痕组织，使肺部变硬，导致呼吸和氧气难以进入血液。它多次迫使她请病假或减少公务。 去年 12 月，梅特-玛丽特告诉公共广播公司 NRK，她的病情发展得“比我希望的要快”，她和丈夫一起喜欢的活动——比如徒步旅行和滑雪——已经不可能了。 王室援引奥斯陆大学医院肺部专家阿雷·霍尔姆教授的话说，在过去的六个月里，她的病情明显恶化。 霍尔姆在周五的新闻发布会上对记者说：“我们可以看到，过去一年里，她肺部的疤痕组织显着增加，肺功能测试显示，仅在过去三个月，她的肺功能就大幅下降。” 他说，病情恶化是“危险的”，这就是她被列入移植名单的原因。 成功的移植取决于几个因素，包括找到合适的匹配对象并确保植入后身体不会排斥新器官。 霍尔姆解释说，这一过程被视为最后的手段，在肺移植被认为合适之前，必须考虑个人病情严重并且预期寿命有限。 但患者必须保持良好的状态才能进行如此重大的手术。 与此同时，她 29 岁的儿子霍伊比 (Høiby) 仍被拘留，等待审判结果，审判结果将在未来几周内做出。 他否认了对他最严重的指控——四项强奸罪和严重袭击罪——但承认了一些较轻的罪行。作为挪威王位继承人的继子，他没有任何王室头衔或官方职责。 就在美国公布梅特-马里特与名誉扫地的金融家爱泼斯坦的往来文件的几天后，他的审判开始了。 公主告诉国家电视台……"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-bbc-com-news-articles-c5y7yryg01mo-at-medium-rss-at-campaign-rss",
           "section": "world",
@@ -120,7 +388,7 @@
           "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg",
           "publishedAt": "2026-06-05T16:14:36.000Z",
           "title": {
-            "en": "Nasa tells ISS astronauts to shelter during air leak repair attempt",
+            "en": "Astronauts return to ISS after sheltering during air leak repair attempt",
             "zh": "美国宇航局指示国际空间站宇航员在尝试修复漏气期间避难"
           },
           "summary": {
@@ -143,141 +411,6 @@
             "themeZh": "患难中的避难所"
           },
           "aiVerseId": "ps_46_1",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-politics-2026-jun-05-nigel-farage-reform-uk-brand-pu",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/politics/2026/jun/05/nigel-farage-reform-uk-brand-pure-cold-rage",
-          "image": "https://i.guim.co.uk/img/media/16f579a52b6391065fa3e449547ebbe0732e9ac8/1079_0_6343_5077/master/6343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=18c75747a6373541c511e2bf64b47caf",
-          "publishedAt": "2026-06-05T16:13:29.000Z",
-          "title": {
-            "en": "‘Violence is a red line’: could Nigel Farage’s ‘pure, cold rage’ rhetoric damage his brand?",
-            "zh": "“暴力是红线”：奈杰尔·法拉奇的“纯粹、冰冷的愤怒”言论会损害他的品牌吗？"
-          },
-          "summary": {
-            "en": "Reform UK leader Nigel Farage's rhetoric, described as “pure, cold rage,” is being scrutinized for its potential to damage his public image and alienate moderate voters. This comes as he appears unsettled by the far-right Restore movement and faces criticism for his response to recent events.",
-            "zh": "改革党领袖奈杰尔·法拉奇的言论被描述为“纯粹、冰冷的愤怒”，正因其可能损害他的公众形象并疏远温和派选民而受到审视。此前，他似乎对极右翼的“恢复”运动感到不安，并因其对近期事件的回应而面临批评。"
-          },
-          "body": {
-            "en": "Reform UK leader looks spooked by far-right Restore and risks undermining efforts to appeal to moderate voters Nigel Farage’s self-confidence is famously iron-clad. But just before 12.30pm on Wednesday as a visibly angry Keir Starmer tore into his “unforgivable” response to the murder of Henry Nowak, Farage’s attempts to laugh off the criticism looked unconvincing. He was rattled. This has been a curious week for the Reform UK leader. The headlines have been dominated by a story seemingly tailor-made for his culture war instincts. But some believe that this time Farage might have overplayed his hand. Continue reading...",
-            "zh": "英国改革党领袖看起来对极右翼复兴党感到震惊，并有可能破坏吸引温和派选民的努力。奈杰尔·法拉奇的自信是出了名的铁石心肠。但就在周三中午 12 点 30 分之前，明显愤怒的凯尔·斯塔默 (Keir Starmer) 猛烈抨击了他对亨利·诺瓦克 (Henry Nowak) 谋杀案的“不可原谅”的回应，法拉奇试图一笑置之的批评看起来并不令人信服。他心慌意乱。对于这位改革英国领导人来说，这是令人好奇的一周。头条新闻似乎是为他的文化战争本能量身定制的故事。但有些人认为，法拉奇这一次可能做得有些过头了。继续阅读..."
-          },
-          "reflection": {
-            "en": "The news highlights how fiery rhetoric, even when intended to rally support, can risk undermining a public figure's appeal and brand. James 3:5 reminds us that the tongue, though a small part of the body, can ignite a great forest fire, illustrating the far-reaching and often destructive power of words, especially when fueled by rage. This serves as a sober...",
-            "zh": "新闻指出，即使旨在争取支持，激烈的言辞也可能损害公众人物的形象和品牌。雅各书3:5提醒我们，舌头虽是百体中最小的，却能点燃一片森林，这说明言语，尤其是在愤怒驱使下，具有深远且常具破坏性的力量。这对所有公共生活中的人来说，都是对其言论持久影响的清醒提醒。"
-          },
-          "verse": {
-            "reference": "James 3:5",
-            "textEn": "The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark.",
-            "textZh": "舌头在百体里也是最小的，却能说大话。看哪，最小的火能点着最大的树林。",
-            "themeEn": "Small spark, big fire",
-            "themeZh": "星星之火"
-          },
-          "aiVerseId": "jas_3_5",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jun-05-new-orleans-jesuit-high-school-s",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jun/05/new-orleans-jesuit-high-school-settlement-child-molestation-claim",
-          "image": "https://i.guim.co.uk/img/media/7217733c9413481f6128fd026e68596e7106f590/210_0_1412_1130/master/1412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ee691bc4769c14db0738d142ec17fa9",
-          "publishedAt": "2026-06-05T16:09:54.000Z",
-          "title": {
-            "en": "New Orleans’ Jesuit high school agrees to pay seven figures to settle child molestation claim",
-            "zh": "新奥尔良耶稣会高中同意支付七位数和解儿童性侵索赔"
-          },
-          "summary": {
-            "en": "A prominent Catholic high school in New Orleans has agreed to a seven-figure settlement for a lawsuit alleging child molestation by school janitors. This settlement is the latest in a series of troubling allegations spanning decades.",
-            "zh": "新奥尔良一所著名的天主教高中已同意支付七位数金额，以和解一起指控学校清洁工性侵儿童的诉讼。这是数十年来一系列令人不安的指控中的最新一起。"
-          },
-          "body": {
-            "en": "Settlement over alleged child molestation by school janitors is latest in troubling string of allegations spanning decades One of the most prominent Catholic high schools in New Orleans has agreed to pay a seven-figure monetary sum to settle a lawsuit claiming child molestation by janitors at the institution decades earlier. The plaintiff struck the agreement with Jesuit high school ahead of a trial scheduled to start in the Louisiana city’s civil district courthouse on 15 June, roughly six years after he sued under a pseudonym. Continue reading...",
-            "zh": "学校清洁工涉嫌猥亵儿童事件的和解是数十年来一系列令人不安的指控中的最新进展。新奥尔良一所最著名的天主教高中同意支付七位数的金额，以了结几十年前该机构清洁工猥亵儿童的诉讼。原告在定于 6 月 15 日在路易斯安那市民事地区法院开始审判之前与耶稣会高中达成了协议，大约在他以化名提起诉讼六年后。继续阅读..."
-          },
-          "reflection": {
-            "en": "The news of a school settling child molestation claims highlights the profound responsibility institutions bear in protecting the most vulnerable. Jesus' words in Matthew 18:6 serve as a stark reminder of the severe moral gravity of harming children and the imperative to ensure their safety and well-being. This settlement, though late, underscores a...",
-            "zh": "一所学校就儿童性侵索赔达成和解的消息，凸显了机构在保护最脆弱群体方面的重大责任。马太福音18:6中耶稣的话语严厉提醒我们，伤害儿童的道德罪行是多么严重，以及确保他们安全和福祉的必要性。这项迟来的和解，强调了社会对问责制的承诺，以及此类背叛行为的深远影响。"
-          },
-          "verse": {
-            "reference": "Matthew 18:6",
-            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
-            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
-            "themeEn": "Woe to those who harm children",
-            "themeZh": "使小子跌倒的祸"
-          },
-          "aiVerseId": "matt_18_6",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jun-05-california-primary-election-race",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call",
-          "image": "https://i.guim.co.uk/img/media/19a0fc094e0013b3879c56785bbdeaa189d0ecf2/374_0_4585_3668/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=781c8a8ef3c13068d7b6532068a749ee",
-          "publishedAt": "2026-06-05T16:04:01.000Z",
-          "title": {
-            "en": "California governor’s race remains too close to call as vote-counting continues",
-            "zh": "计票仍在继续，加州州长竞选仍难分胜负"
-          },
-          "summary": {
-            "en": "Experts warn primary vote-counting could go on for days in governor’s race, LA mayoral race and congressional races Three days after Californians headed to the polls, key races in the primary election remained too close to call and experts warned the counting could continue for...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Experts warn primary vote-counting could go on for days in governor’s race, LA mayoral race and congressional races Three days after Californians headed to the polls, key races in the primary election remained too close to call and experts warned the counting could continue for days. In the governor’s race, the British-born conservative pundit Steve Hilton was narrowly leading with an estimated 60% of ballots counted by Friday morning. Xavier Becerra, a former US health and human services secretary under Joe Biden, followed closely behind, and billionaire Tom Steyer trailed behind the pair. The top two vote-getters will advance to the general election in November. Continue reading...",
-            "zh": "专家警告称，州长竞选、洛杉矶市长竞选和国会竞选的初选计票工作可能会持续数天。加州人前往投票站三天后，初选的关键竞选仍难分胜负，专家警告称，计票工作可能会持续数天。在州长竞选中，出生于英国的保守派专家史蒂夫·希尔顿 (Steve Hilton) 以微弱优势领先，截至周五上午，估计已清点 60% 的选票。乔·拜登手下的前美国卫生和公共服务部部长泽维尔·贝塞拉紧随其后，亿万富翁汤姆·斯泰尔紧随其后。得票最高的两名候选人将晋级 11 月的大选。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-live-2026-jun-05-us-politics-latest-news-upd",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats",
-          "image": "https://i.guim.co.uk/img/media/e7f55ce3e454a9f9dc7b76e796e4709df1c06473/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8031904307f10d2f411d454a7caed8f7",
-          "publishedAt": "2026-06-05T16:02:31.000Z",
-          "title": {
-            "en": "Senate Republicans pass bill authorizing $70bn for immigration enforcement in vote-a-rama – US politics live",
-            "zh": "参议院共和党人通过法案，授权700亿美元用于移民执法"
-          },
-          "summary": {
-            "en": "Senate Republicans passed a bill authorizing $70 billion for immigration enforcement, with Senator Lindsey Graham expressing pride in fully funding Border Patrol and ICE.",
-            "zh": "参议院共和党人通过了一项法案，授权拨款700亿美元用于移民执法，共和党参议员林赛·格雷厄姆表示，他对“边境巡逻队和ICE获得充足资金”感到非常自豪。"
-          },
-          "body": {
-            "en": "Passage came after more than 18 hours of ‘vote-a-rama’ process; Lisa Murkowski was the only Republican senator to vote against it Sign up for the Breaking News US email Nine out of 15 migrants deported from the US to the Democratic Republic of Congo (DRC) in April have returned to their home countries, Congo’s government, a migrant and her lawyer said on Friday. The 15 migrants arrived in Congo on April 17 as part of a bilateral agreement with the Trump administration announced two weeks earlier to accept third-country deportees from the US. Congo’s government said in a statement on Friday that “more than half” of the migrants had since returned to their countries and that others would return “shortly“. Continue reading...",
-            "zh": "共和党参议员林赛·格雷厄姆 (Lindsey Graham) 表示，他“为我的共和党同事感到非常自豪……确保边境巡逻队和 ICE 获得充足的资金”。 美国雇主 5 月份增加了 172,000 个就业岗位，而该国失业率稳定在 4.3%，这表明尽管中东持续冲突导致通货膨胀加剧和经济不确定性，但劳动力市场仍具有弹性。经济学家最初预测将新增约8万个就业岗位，失业率稳定在4.3%。 3 月和 4 月的就业数据也分别上调了 29,000 人和 64,000 人，比最初数字增加了 93,000 人。这是美联储新的一天……今天早上我与沃什主席共进了第一顿早餐，我相信他会做正确的事情来平衡通胀和增长。继续阅读..."
-          },
-          "reflection": {
-            "en": "The decision to allocate significant funds for immigration enforcement highlights a nation's approach to those seeking entry or residence. Scripture reminds us to consider how we treat the stranger in our land, urging us to extend love and equal regard. This calls for a balance between security and compassion, reflecting a heart that remembers its own...",
-            "zh": "拨款巨额资金用于移民执法的决定，凸显了一个国家对待寻求入境或居留者的方式。圣经提醒我们思考如何对待我们土地上的陌生人，敦促我们施予爱心和同等的尊重。这要求在安全与怜悯之间取得平衡，反映一颗铭记自身脆弱历史的心。"
-          },
-          "verse": {
-            "reference": "Leviticus 19:33-34",
-            "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
-            "textZh": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
-            "themeEn": "Foreigner as native-born",
-            "themeZh": "待寄居者如本族"
-          },
-          "aiVerseId": "lev_19_33",
           "translationState": "localized"
         },
         {
@@ -314,58 +447,24 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-com-news-articles-c62r2ldyejro-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/90d0/live/8be8b5e0-60bf-11f1-bca0-e975c953fcd1.jpg",
-          "publishedAt": "2026-06-05T16:00:47.000Z",
-          "title": {
-            "en": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-            "zh": "卡车抛锚后，近50人在撒哈拉沙漠中渴死"
-          },
-          "summary": {
-            "en": "Nearly 50 individuals died of thirst in the Sahara desert after their lorry broke down. Only two people survived the ordeal, trekking over 50 kilometers to seek help.",
-            "zh": "一辆卡车在撒哈拉沙漠中抛锚后，近50人因干渴而死亡。只有两人幸存下来，他们徒步超过50公里才向当局发出警报。"
-          },
-          "body": {
-            "en": "At least 49 people have died of thirst in a remote part of the Sahara desert in northern Niger after the truck carrying them broke down, authorities say.\n\nThe group were returning from Mali, where they had attended celebrations for the Muslim festival of Eid al-Adha, when they ran out of water, stranded more than 80 km (50 miles) west of Assamaka, a major border crossing point between Niger and Algeria.\n\n\"The travellers found themselves trapped in the heart of a hostile environment where extreme temperatures and lack of supply points make survival extremely difficult,\" said the governor of Agadez.\n\nOnly two survived, trekking across the desert to Assamaka, where they alerted authorities.\n\n\"This is something we have been working against, for years,\" Chehuo Azizou, the head of local NGO, told the BBC.\n\n\"We have been sensitising drivers, travellers, and any person involved immigration activities, about the risk of crossing the desert. This recent incident is not unusual. Generally, we witness such cases on the route heading to Libya or Algeria\".\n\nIn this latest case, the lorry had departed from the Malian town of Telhandek but veered away from its intended route, the Agadez governor's statement said.\n\nThe driver and passengers made repeated attempts to repair the vehicle over several days, but their efforts ultimately proved unsuccessful.\n\n\"Deprived of water and unable to repair the vehicle\" most were unable to survive, the statement added.\n\n\"Dozens of lifeless bodies were found under the immobile truck and in its surroundings,\" it said.\n\nThe victims, all nationals of Niger, were buried in mass graves by the rescue team dispatched to the area by local authorities.\n\nWhile returning from the scene, the rescue team said it came across another broken-down lorry carrying more than 60 people, who had been stranded for three days after a battery failure.\n\nThe lorry had set off from the Malian town of Harouba, more than 300km (186 miles) from the Niger border, the governor said in a follow-up statement.\n\nThe rescue team, which included Nigerien troops, distributed water to the \"exhausted and distressed travellers\" and helped repair the vehicle, allowing them to safely resume their journey.\n\nThe Niger desert remains a major transit corridor for migrants from across West Africa trying to reach Europe, repeatedly defying the risks associated with the perilous journey.\n\nThe governor of the nearest city, Agadez, said the tragedy underscored the \"vulnerability of young people engaged in migratory and cross-border economic activities, often forced to pass through unstable areas in order to survive or seek better living conditions\".",
-            "zh": "当局称，在尼日尔北部撒哈拉沙漠的偏远地区，载有至少 49 人的卡车发生故障，导致至少 49 人渴死。 这群人从马里参加穆斯林节日返回途中，突然缺水，被困在尼日尔和阿尔及利亚之间的主要过境点阿萨马卡以西 80 多公里（50 英里）处。 阿加德兹省长在一份声明中说：“旅行者发现自己被困在一个充满敌意的环境中，极端的气温和缺乏补给点使生存变得极其困难。” 只有两人幸存，他们徒步穿越沙漠到达阿萨马卡，并在那里向当局报警。 州长声明称，这辆卡车从马里城镇特尔汉德克出发，但偏离了预定路线。 连日来，司机和乘客多次尝试修理车辆，但最终都没有成功。 声明补充说：“尽管司机、他的学徒和乘客做出了努力，但车辆被剥夺了水，也无法修理车辆，乘客发现自己被困在一个充满敌意的环境中。” 声明称：“在无法移动的卡车下方及其周围发现了数十具毫无生气的尸体。” 地方当局派往该地区的救援队将遇难者埋葬在万人坑中。 救援队在从现场返回时发现另一辆抛锚的卡车，载有60多人，因电池故障已被困三天。 州长在后续声明中表示，这辆卡车从马里小镇哈鲁巴出发，距离尼日尔边境 300 多公里（186 英里）。 包括尼日尔军队在内的救援队向“疲惫不堪、痛苦不堪的旅行者”分发水，并帮助修理车辆，使他们能够安全地继续旅程。 尼日尔沙漠仍然是来自西非各地试图到达欧洲的移民的主要过境走廊，他们一再克服与危险旅程相关的风险。 州长表示，这场悲剧凸显了“从事移民和跨境经济活动的年轻人的脆弱性，他们常常被迫穿越不稳定地区以求生存或寻求更好的生活条件”。"
-          },
-          "reflection": {
-            "en": "The tragic loss of nearly 50 lives to thirst in the Sahara desert is a stark reminder of human vulnerability and the harsh realities many face. In moments of such profound grief and suffering, our hearts ache for those lost and their loved ones. Revelation 21:4 offers a future hope where death, mourning, crying, and pain will be no more, a promise of...",
-            "zh": "近50人在撒哈拉沙漠中因干渴而丧生，这悲剧提醒我们人类的脆弱以及许多人所面临的严酷现实。在如此深重的悲伤和痛苦时刻，我们的心为逝者及其亲人而痛。启示录21:4应许了一个未来，在那里不再有死亡、悲哀、哭号、疼痛，这是超越今世的终极安慰的盼望。"
-          },
-          "verse": {
-            "reference": "Revelation 21:4",
-            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
-            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
-            "themeEn": "End of suffering",
-            "themeZh": "苦难的终结"
-          },
-          "aiVerseId": "rev_21_4",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-drc-how-disinformation-worsens-ebola-epidemic-a-77434273-m",
+          "id": "www-dw-com-en-how-disinformation-in-congo-is-worsening-ebola-epidemic-a-",
           "section": "world",
           "source": "DW World",
           "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/drc-how-disinformation-worsens-ebola-epidemic/a-77434273?maca=en-rss-en-world-4025-rdf",
+          "link": "https://www.dw.com/en/how-disinformation-in-congo-is-worsening-ebola-epidemic/a-77434273?maca=en-rss-en-world-4025-rdf",
           "image": "https://static.dw.com/image/77376841_6.jpg",
           "publishedAt": "2026-06-05T16:00:00.000Z",
           "title": {
-            "en": "DRC: How disinformation worsens Ebola epidemic",
-            "zh": "刚果民主共和国：虚假信息如何加剧埃博拉疫情"
+            "en": "How disinformation in Congo is worsening Ebola epidemic",
+            "zh": "刚果的虚假信息如何加剧埃博拉疫情"
           },
           "summary": {
-            "en": "It is not only a deadly Ebola variant causing concern for health workers in DR Congo. Rumors and disinformation hinder efforts to contain the virus. The patterns are well-known — and could be confronted.",
+            "en": "The deadly Ebola variant isn't the only thing causing concern for health workers in Congo. Rumors and disinformation are hindering efforts to contain the virus. The patterns are well-known — and could be confronted.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "It is not only a deadly Ebola variant causing concern for health workers in DR Congo. Rumors and disinformation hinder efforts to contain the virus. The patterns are well-known — and could be confronted.\n\nThree weeks since the current Ebola epidemic in the Democratic Republic of Congo &#160;was announced, the facts are:&#160;397 confirmed cases, including 63&#160;confirmed deaths, according to the latest figures reported by the &#160;African Union's Africa Centres for Disease Control and Prevention (Africa CDC).\n\nAnd yet: \"The community does not believe in this disease. Despite the deaths, people don't believe in it,\" said John Tumujimbe, head of a team for dignified and safe burials in the small town of Mongbwalu. It's&#160;one of the epicenters of the Ebola epidemic in the Congo's north-eastern Ituri province.\n\n\"We initially thought of malaria , typhoid or diarrheal diseases. But after so many deaths, we sent samples to the INRB,\" Tumujimbe told DW.\n\nThe INRB — the DRC's National Institute for Biomedical Research — confirmed that these were indeed cases of Ebola. This led health officials to announce&#160; the 17th Ebola epidemic to be recorded in the DRC since the virus was discovered in 1976.&#160;\n\nHealth officials say many residents in Mongbwalu&#160;rejected this scientific answer.\n\n\"When there were the first deaths, there was talk that the coffins were a problem, that it spread from there,\" said one&#160;Mongbwalu&#160;resident, who did not want to be named.\n\nTumujimbe also heard this. \"That's how it started: people talked about a coffin that kills people. And then more people died.\"\n\nAnother rumor: Aid workers and paramedics were spreading the virus via the antennas of their vehicles.\n\nAt the end of May, an angry crowd gathered at the general hospital of Mongbwalu. They&#160;demanded the bodies of their deceased, eventually setting fire to a tent belonging to the aid organization Doctors Without Borders (MSF). The organization had to withdraw its staff.\n\n\"There was a panic,\" hospital director Richard Lokudi told DW. \"This allowed several suspected cases to escape. 18 patients who were under observation have disappeared.\"\n\nThe health workers worry suspected Ebola&#160;patients&#160;could have passed the disease on to the people who were sheltering them. There is still no vaccine for the Bundibugyo variant of the Ebola virus now circulating.\n\nChristopher Nehring specializes in researching&#160;disinformation, and&#160;co-authored a report on the current Ebola epidemic for the Konrad Adenauer Foundation (KAS).\n\n\"They say the disease comes from the lab as a bioweapon; that the vaccination is more harmful than the virus; that there is a simple cure that is being concealed; that the disease is not real. Big Pharma is mentioned either as the...",
-            "zh": "这不仅仅是一种致命的埃博拉病毒变种，引起了刚果民主共和国卫生工作者的担忧。谣言和虚假信息阻碍了遏制病毒的努力。这些模式是众所周知的——并且可以面对。 自刚果民主共和国宣布埃博拉疫情以来三周，事实是：根据非洲联盟非洲疾病控制和预防中心 (非洲疾病预防控制中心) 报告的最新数据，该国已确诊 397 例病例，其中 63 例死亡。 然而，蒙布瓦鲁小镇尊严安全埋葬小组负责人约翰·图穆吉姆贝 (John Tumujimbe) 表示：“社区并不相信这种疾病的存在。尽管有人死亡，但人们并不相信这种疾病。”它是刚果东北部伊图里省埃博拉疫情的震中之一。 图穆金贝告诉德国之声：“我们最初想到的是疟疾、伤寒或腹泻病。但在造成如此多的死亡后，我们将样本发送给了INRB。” INRB（刚果民主共和国国家生物医学研究所）证实这些确实是埃博拉病例。这导致卫生官员宣布自 1976 年发现埃博拉病毒以来，刚果民主共和国发生了第 17 次埃博拉疫情。 卫生官员表示，蒙布瓦鲁的许多居民拒绝接受这个科学答案。 一位不愿透露姓名的蒙布瓦卢居民说：“当出现第一批死亡病例时，有人说棺材是个问题，病毒是从那里蔓延开来的。” 图穆金贝也听到了这件事。 “事情就是这样开始的：人们谈论棺材会杀人。然后更多的人死了。” 另一个谣言：援助人员和护理人员通过车辆的天线传播病毒。 五月底，愤怒的人群聚集在蒙布瓦鲁总医院。他们索要死者的尸体，最终放火焚烧了援助组织无国界医生组织 (MSF) 的帐篷。该组织不得不撤回其工作人员。 医院院长理查德·洛库迪（Richard Lokudi）告诉德国之声：“大家都感到恐慌。” “这使得几名疑似病例逃脱。18名正在接受观察的患者失踪了。” 卫生工作者担心疑似埃博拉患者可能会将疾病传染给收容他们的人。目前还没有针对目前流行的埃博拉病毒本迪布焦变种的疫苗。 克里斯托弗·内林 (Christopher Nehring) 专门研究虚假信息，并为康拉德·阿登纳基金会 (KAS) 共同撰写了一份关于当前埃博拉疫情的报告。 “他们说这种疾病作为一种生物武器来自实验室；疫苗接种比病毒更有害；有一种简单的治疗方法被隐藏；这种疾病不是真实的。大型制药公司也被提到为……"
+            "en": "The deadly Ebola variant isn't the only thing causing concern for health workers in Congo. Rumors and disinformation are hindering efforts to contain the virus. The patterns are well-known — and could be confronted.\n\nThree weeks since the start of the&#160;latest&#160; Ebola epidemic in the Democratic Republic of Congo , the facts are:&#160;397 confirmed cases, including 63&#160;confirmed deaths, according to the latest figures reported by the &#160;African Union's Africa Centres for Disease Control and Prevention.\n\nAnd yet: \"The community does not believe in this disease. Despite the deaths, people don't believe in it,\" said John Tumujimbe, head of a team for dignified and safe burials in the small town of Mongbwalu. It's&#160;one of the epicenters of the Ebola epidemic in the Congo's northeastern Ituri province.\n\n\"We initially thought of malaria , typhoid or diarrheal diseases. But after so many deaths, we sent samples to the INRB,\" Tumujimbe told DW.\n\nThe INRB&#160;— Congo's National Institute for Biomedical Research in&#160;the capital, Kinshasa — confirmed that these were indeed cases of Ebola. This led health officials to announce&#160; the 17th Ebola epidemic to be recorded in Congo since the virus was first discovered in 1976.\n\nBut health officials say many residents in Mongbwalu&#160;rejected this scientific answer.\n\n\"When there were the first deaths, there was talk that the coffins were a problem, that it spread from there,\" said one Mongbwalu resident, who did not want to be named.\n\nTumujimbe also heard this rumor. \"That's how it started: people talked about a coffin that kills people. And then more people died.\"\n\nAnother rumor: Aid workers and paramedics were spreading the virus via the antennas of their vehicles.\n\nAt the end of May, an angry crowd gathered at Mongbwalu's&#160;general hospital. They&#160;demanded that authorities return the bodies of their deceased, eventually setting fire to a tent belonging to the aid organization Doctors Without Borders. The organization had to withdraw its staff.\n\n\"There was a panic,\" hospital director Richard Lokudi told DW. \"This allowed several suspected cases to escape. Eighteen patients who were under observation have disappeared.\"\n\nThe health workers worry suspected Ebola&#160;patients&#160;could have passed the disease on to the people who were sheltering them. There is still no vaccine for the Bundibugyo variant of the Ebola virus now circulating.\n\nChristopher Nehring specializes in researching&#160;disinformation, and&#160;co-authored a report on the current Ebola epidemic for the Konrad Adenauer Foundation.&#160;He said&#160;similar rumors pop up in every health emergency.\n\n\"They say the disease comes from the lab as a bioweapon; that the vaccination is more harmful than the virus; that...",
+            "zh": "致命的埃博拉病毒变种并不是引起刚果卫生工作者担忧的唯一因素。谣言和虚假信息正在阻碍遏制病毒的努力。这些模式是众所周知的——并且可以面对。 刚果民主共和国最近一次埃博拉疫情爆发三周以来，事实是：根据非洲联盟非洲疾病控制与预防中心报告的最新数据，该国已确诊 397 例病例，其中 63 例死亡。 然而，蒙布瓦鲁小镇尊严安全埋葬小组负责人约翰·图穆吉姆贝 (John Tumujimbe) 表示：“社区并不相信这种疾病的存在。尽管有人死亡，但人们并不相信这种疾病。”它是刚果东北部伊图里省埃博拉疫情的震中之一。 图穆金贝告诉德国之声：“我们最初想到的是疟疾、伤寒或腹泻病。但在造成如此多的死亡后，我们将样本发送给了INRB。” INRB（位于首都金沙萨的刚果国家生物医学研究所）证实这些确实是埃博拉病例。这导致卫生官员宣布自 1976 年首次发现埃博拉病毒以来，这是刚果记录的第 17 次埃博拉疫情。 但卫生官员表示，蒙布瓦鲁的许多居民拒绝接受这个科学答案。 一位不愿透露姓名的蒙布瓦鲁居民说：“当出现第一批死亡病例时，有人说棺材是个问题，病毒是从那里蔓延开来的。” 图穆金贝也听到了这个传闻。 “事情就是这样开始的：人们谈论棺材会杀人。然后更多的人死去。” 另一个谣言：援助人员和护理人员通过车辆的天线传播病毒。 五月底，愤怒的人群聚集在蒙布瓦鲁综合医院。他们要求当局归还死者的尸体，最终放火烧毁了援助组织无国界医生组织的帐篷。该组织不得不撤回其工作人员。 医院院长理查德·洛库迪（Richard Lokudi）告诉德国之声：“大家都感到恐慌。” “这使得几名疑似病例逃脱。正在接受观察的十八名患者已经失踪。” 卫生工作者担心疑似埃博拉患者可能会将疾病传染给收容他们的人。目前还没有针对目前流行的埃博拉病毒本迪布焦变种的疫苗。 克里斯托弗·内林 (Christopher Nehring) 专门研究虚假信息，并为康拉德·阿登纳基金会 (Konrad Adenauer Foundation) 共同撰写了一份关于当前埃博拉疫情的报告。 他说，每次突发卫生事件都会出现类似的谣言。 “他们说这种疾病作为生物武器来自实验室；疫苗接种比病毒更有害；……"
           },
           "reflection": {
             "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
@@ -377,105 +476,6 @@
             "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
             "themeEn": "Mind discipline",
             "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cn9p91295q8o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e6fb/live/e1c9dfe0-5fe1-11f1-a292-23ac7fbac375.jpg",
-          "publishedAt": "2026-06-05T15:59:58.000Z",
-          "title": {
-            "en": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
-            "zh": "珠穆朗玛峰向导通过吃巧克力和“嚼冰”度过了六天的考验"
-          },
-          "summary": {
-            "en": "Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The Nepali guide discovered crawling down Everest six days after he was last seen alive has told the BBC he survived by \"chewing ice\" and eating a few chocolates he found in his pocket.\n\nDawa Sherpa was adamant he did not \"go missing\" on the descent down, but instead was forced to \"stay behind\" after his oxygen ran out.\n\nIt had been assumed Dawa Sherpa had perished on the mountain, with his family back in Nepal's capital Kathmandu starting to perform last rites before he was spotted by a clean up team \"sliding\" down the mountain towards Base Camp.\n\nHe was airlifted to hospital in Kathmandu, where he spoke to the BBC while receiving treatment for dehydration, frostbite and a fractured bone.\n\n\"I didn't think I would be alive,\" he told BBC Nepali on Friday. \"I thought I would perish this way.\"\n\nClimber Chris Thrall was the last person known to have seen Dawa Sherpa alive before he was rescued near the Khumbu Icefall on Thursday.\n\nThe former British soldier said the 57-year-old was sitting on his backpack just above Camp 3 - around 7,500m (24,600ft) - \"as he had done hundreds of times before to take a short rest\".\n\nThrall continued to descend alone for what he estimated to be about 50-100m before he came across another member of their group, a \"Polish climber with no oxygen, battling fairly severe frostbite\".\n\n\"So immediately my attention turned to the weakest member of the trio. And that was that,\" he told the BBC's Newshour programme.\n\n\"As I look back up the mountain, as I helped this guy descend, Hillary Dawa didn't appear to have moved, and certainly wasn't descending, because we would have seen his head torch.\"\n\n\"I didn't eat anything for the first two days. Then I began chewing ice. It pained my teeth. I chewed the ice hard.\"\n\nThen he discovered some chocolates in his pocket, and managed to get some melted ice to drink.\n\nHe made his way down slowly - only to fall into a crevasse, according to two different people who spoke to Dawa Sherpa about his ordeal.\n\nThen an avalanche sent snow tumbling into the crevasse - and gave him the first hope he had had in days.\n\n\"Stepping on the snow, I stood up and looked above... It felt I could get out from there,\" he told the BBC.\n\nOnce he had scrambled out, he found ropes nearby which helped his manoeuvre further down the world's tallest mountain.\n\n\"Its boys were going up to collect the waste. I met them. They carried me down.\"\n\nNews of his survival was met with shock and delight by the wider sherpa community, the climbers he had been with, and his own family.\n\nFive people have died during this year's climbing season, with more than 300 dying since records began in the 1920s.\n\nPemba Sherpa, executive director of 8K Expeditions which was overseeing search efforts, called it a \"true self-rescue\".\n\n\"Dawa managed...",
-            "zh": "这名尼泊尔导游在最后一次被发现活着六天后，被发现爬下珠穆朗玛峰，他告诉英国广播公司，他通过“咀嚼冰块”和吃掉在口袋里发现的一些巧克力而幸存下来。 达瓦·夏尔巴坚称，他在下降过程中并没有“失踪”，而是在氧气耗尽后被迫“留在后面”。 人们普遍认为达瓦夏尔巴已经死在山上，他的家人在尼泊尔首都加德满都开始举行最后的仪式，然后被清理队发现他从山上“滑”向大本营。 他被空运到加德满都的医院，在那里接受脱水、冻伤和骨折的治疗，同时接受 BBC 采访。 “我认为我不会活着，”他周五告诉 BBC 尼泊尔语。 “我以为我会这样死去。” 登山者克里斯·萨尔 (Chris Thrall) 周四在昆布冰川 (Khumbu Icefall) 附近获救，他是最后一位见到活着的达瓦夏尔巴 (Dawa Sherpa) 的人。 这位前英国士兵说，这位 57 岁的士兵坐在 3 号营地上方的背包上——大约 7,500m（24,600 英尺）——“就像他之前数百次做的那样短暂休息”。 萨尔继续独自下降，他估计大约有 50-100m，然后他遇到了他们小组的另一名成员，一名“没有氧气的波兰登山者，正在与相当严重的冻伤作斗争”。 “所以我的注意力立即转向三人组中最弱的成员。就是这样，”他告诉英国广播公司的新闻小时节目。 “当我回头看山上时，当我帮助这个人下山时，希拉里·达瓦似乎没有移动，当然也没有下山，因为我们会看到他的头灯。” “前两天我什么都没吃，然后我就开始嚼冰块，牙齿很痛，我把冰块嚼得很用力。” 然后他发现口袋里有一些巧克力，并设法弄到一些融化的冰块喝。 据两位向达瓦·夏尔巴讲述他的遭遇的不同人士透露，他慢慢地往下走，结果却掉进了裂缝中。 然后一场雪崩让雪滚入裂缝——这给了他几天来的第一个希望。 他告诉英国广播公司：“我踩在雪上，站起来往上看……感觉我可以从那里出去。” 当他爬出来后，他在附近发现了绳索，这有助于他进一步从世界上最高的山上下来。 “它的男孩们正在上去收集废物。我遇到了他们。他们把我抱了下来。” 他幸存的消息令更广泛的夏尔巴社区、与他同行的登山者以及他自己的家人感到震惊和高兴。 今年的登山季节已有 5 人死亡，自 1920 年代有记录以来已有 300 多人死亡。 负责监督搜索工作的 8K Expeditions 执行董事彭巴·夏尔巴 (Pemba Sherpa) 称这是一次“真正的自救”。 “达瓦设法..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-media-2026-jun-05-victoria-derbyshire-investigation-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/media/2026/jun/05/victoria-derbyshire-investigation-bbc-complaints-behaviour",
-          "image": "https://i.guim.co.uk/img/media/c42a1d733abd4f7e55920294f49385e52efd20ec/796_268_1582_1266/master/1582.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3439254e131f05235b0df31991220504",
-          "publishedAt": "2026-06-05T15:59:07.000Z",
-          "title": {
-            "en": "Victoria Derbyshire investigated by BBC after complaints about behaviour",
-            "zh": "维多利亚·德比郡因投诉行为而接受 BBC 调查"
-          },
-          "summary": {
-            "en": "Allegations of bullying by Newsnight host not upheld after case emerges from 2025 workplace culture review The BBC presenter Victoria Derbyshire was the subject of an investigation over her behaviour, after multiple complaints were received by the broadcaster. It is understood...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Allegations of bullying by Newsnight host not upheld after case emerges from 2025 workplace culture review The BBC presenter Victoria Derbyshire was the subject of an investigation over her behaviour, after multiple complaints were received by the broadcaster. It is understood that three complaints about the Bafta-winning Newsnight host were received, which came to light as part of the BBC’s campaign to improve its workplace culture after high-profile cases of inappropriate behaviour. Continue reading...",
-            "zh": "2025 年工作场所文化审查案件浮现后，《新闻之夜》主持人的欺凌指控未得到支持 BBC 主持人维多利亚·德比郡 (Victoria Derbyshire) 在收到多起投诉后，因其行为而受到调查。据了解，英国广播公司收到了三起针对英国电影学院奖获奖者《新闻之夜》主持人的投诉，这些投诉是 BBC 在发生备受瞩目的不当行为案例后改善其工作场所文化运动的一部分。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cy020317g1no-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cy020317g1no?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f7be/live/b27537e0-2e94-11f1-90b9-6ffcd881a7dc.jpg",
-          "publishedAt": "2026-06-05T15:41:28.000Z",
-          "title": {
-            "en": "Three jailed over heist of ancient golden helmet from Dutch museum",
-            "zh": "三人因从荷兰博物馆盗窃古代金头盔而入狱"
-          },
-          "summary": {
-            "en": "The men are sentenced to 47 months each for stealing the 2,500-year-old Romanian Coțofenești helmet.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Three men who stole a 2,500-year-old Romanian golden helmet from a Dutch museum have each been sentenced to nearly four years in prison.\n\nThe Coțofenești helmet, which dates back to around 450BC, was snatched by an armed gang who broke into the Drents Museum in Assen more than a year ago. Three gold bracelets were also taken in the raid, prompting outrage in Romania and raising questions about security for artefacts on loan to other countries.\n\nIn April, the Dutch authorities announced they had recovered the helmet and two of the three bracelets after striking a bargain with two of the suspects.\n\nThe men were arrested within days of the gang using explosives to break into the museum, but by then there was no trace of the items, considered to be among Romania's greatest treasures.\n\nProsecutors eventually struck a plea bargain with two of them - identified as Jan B, 21, and Douglas Chesley W, 37 - for the return of the loot.\n\nAs part of this deal, the prosecution called for a 44-month sentence for the pair, news agency AFP reported.\n\nThe other suspect, identified as 35-year-old Bernhard Z, refused a deal with the authorities. Prosecutors had demanded he should face a 66-month sentence.\n\nThe process of reaching a deal with the two suspects was \"long, intensive and complex\", prosecutors said.\n\nBut the Dutch court imposed the same sentence of 47 months on the trio, despite the plea agreements, local media report.\n\n\"Given the nature and gravity of the offences, only a substantial prison sentence will suffice,\" said the court in Assen, in the north of the country.\n\nThe treasures had been on loan from Romania's national history museum when they were stolen, as part of an exhibition telling the story of the Dacia civilisation and people who lived in present-day Romania before the Roman conquest in 106AD.\n\nThe former head of the national history museum in Bucharest, Ernest Oberländer-Târnoveanu, faced considerable domestic criticism for loaning the gold objects abroad and lost his job within days of the theft.\n\nArt experts have suggested that the helmet and bracelets were stolen to order by a criminal gang.\n\nThe theft prompted a spat between the two governments that led to the Dutch government paying a reported €5.7m (£5m; $6.5m) in insurance compensation.\n\nRomanian officials previously refused to discuss what would happen to that money now a large chunk of the treasure had been recovered.\n\nSeveral Dutch provincial museums have been targeted in recent years because of the difficulty in providing adequate security for culturally significant artefacts. The helmet and bracelets were in a glass case that provided little resistance to the armed group.\n\nWhen the helmet and two of the bracelets were revealed to have been recovered, Robert van Langh, director of the...",
-            "zh": "三名男子从荷兰博物馆偷走了一顶有 2500 年历史的罗马尼亚金头盔，每人被判处近四年监禁。 这顶 Coşofeneşti 头盔的历史可以追溯到公元前 450 年左右，一年多前，一个武装团伙闯入阿森德伦茨博物馆，抢走了这顶头盔。突袭行动中还抢走了三只金手镯，这引发了罗马尼亚的愤怒，并引发了对借给其他国家的文物安全的质疑。 今年四月，荷兰当局宣布，在与两名嫌疑人讨价还价后，他们已追回头盔和三个手镯中的两个。 该团伙使用炸药闯入博物馆后几天内，这些人就被逮捕，但当时已经找不到这些被认为是罗马尼亚最珍贵的宝藏的物品的踪迹。 检察官最终与其中两人（21 岁的 Jan B 和 37 岁的 Douglas Chesley W）达成认罪协议，要求归还赃物。 据法新社报道，作为协议的一部分，检方要求判处两人 44 个月徒刑。 另一名嫌疑人 35 岁，伯恩哈德·Z (Bernhard Z)，拒绝与当局达成协议。检察官要求他面临 66 个月的监禁。 检察官表示，与两名嫌疑人达成协议的过程“漫长、密集且复杂”。 但据当地媒体报道，尽管达成认罪协议，荷兰法院还是对三人判处 47 个月的徒刑。 位于该国北部阿森的法院表示：“鉴于罪行的性质和严重性，只有判处重刑才足够。” 这些宝藏被盗时是从罗马尼亚国家历史博物馆借来的，作为展览的一部分，该展览讲述了达契亚文明和公元 106 年罗马征服之前生活在当今罗马尼亚的人们的故事。 布加勒斯特国家历史博物馆前馆长欧内斯特·奥伯兰德-塔尔诺韦亚努 (Ernest Oberländer-Târnoveanu) 因将金器借出国外而受到国内严厉批评，并在盗窃事件发生后几天内失去了工作。 艺术专家表示，头盔和手镯是犯罪团伙按订单盗窃的。 此次盗窃事件引发了两国政府之间的争执，据报道，荷兰政府支付了 570 万欧元（500 万英镑；650 万美元）的保险赔偿。 罗马尼亚官员此前拒绝讨论现在大部分宝藏已被追回后将如何处置这笔钱。 近年来，由于难以为具有重要文化意义的文物提供足够的安全保障，荷兰的几家省级博物馆成为了攻击目标。头盔和手镯装在玻璃盒里，对武装团体几乎没有抵抗力。 当头盔和两个手镯被发现已被找到时，罗伯特·范·朗（Robert van Langh），..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
@@ -558,12 +558,12 @@
             "zh": "战争中的伊朗：稳定掩盖了日益加深的危机"
           },
           "summary": {
-            "en": "One hundred days after the Iran war began, the Islamic Republic appears stable. But beneath the surface, economic strain, social unrest and growing repression point to deeper instability.",
+            "en": "One hundred days after the start of the Iran war, the Islamic Republic appears stable. But beneath the surface, economic strain, social unrest and growing repression point to deeper instability.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "One hundred days after the start of the Iran war, the Islamic Republic appears stable. But beneath the surface, economic strain, social unrest and growing repression point to deeper instability.\n\nOn February 28,&#160;the US and Israel launched joint airstrikes targeting military and strategic sites across the Islamic Republic.&#160;\n\nKey facilities of the Iranian armed forces were destroyed, and Supreme Leader Ayatollah Ali Khamenei was killed ,&#160;along with several senior political and military figures.\n\nIran's Assembly of Experts chose Khamenei's son,&#160; Mojtaba , as the country's new supreme leader.\n\nTehran responded to the US-Israeli attacks with massive retaliatory strikes, deploying missiles and drones against Israel, US military bases&#160;and other targets across the Gulf region.\n\nIran also closed the Strait of Hormuz — a key waterway between the Persian Gulf and the Gulf of Oman through which around 20% of global oil and gas exports passed before the conflict — as a geopolitical pressure tool .\n\nA fragile ceasefire only came into effect on April 8, initially reducing hostilities, but it continues to be violated almost daily.\n\n\"I do not see any structural changes in the Islamic Republic over the past 100 days,\" said Mohammad Ghaedi, an Iran expert and&#160;lecturer at George Washington University specializing in Middle Eastern politics and international relations.\n\n\"Before the war, there were deep divisions among political elites, and the gap between the state and society had widened significantly following the government's crackdown on dissent ,\" he said.\n\nGhaedi told DW the war had helped ease some of these divisions, both among elites and between the state and society.\n\n\"The level of cohesion among political elites we see today is relatively rare in the post-revolutionary period. That cohesion has been one of the main sources of resilience,\" he said, cautioning against interpreting the current stability as a sign of lasting consolidation.\n\n\"The Islamic Republic still faces major challenges, including crises of legitimacy, effectiveness, and distribution. As concerns about security and survival recede, these underlying problems are likely to become more visible again and make governance increasingly difficult.\"\n\nThe Iranian regime has mobilized supporters who, for more than three months, have gathered in cities and villages across the country to show backing for its political system and leaders.\n\nOne Tehran resident, who does not take part in the rallies, said they are rather noisy affairs. \"Before 11 p.m., it's nearly impossible to sleep,\" she told DW. \"It's loud outside, and it's exhausting.\"&#160;\n\nA women's rights activist, who also lives in the Iranian capital, said the nightly gatherings were intended to show that the Islamic...",
-            "zh": "伊朗战争爆发一百天后，伊斯兰共和国显得稳定。但在表面之下，经济压力、社会动荡和日益严重的镇压表明了更深层次的不稳定。 2 月 28 日，美国和以色列对伊斯兰共和国各地的军事和战略地点发动联合空袭。 伊朗武装部队的关键设施被摧毁，最高领袖阿亚图拉·阿里·哈梅内伊以及几名高级政治和军事人物被杀。 伊朗专家会议选举哈梅内伊的儿子莫杰塔巴为该国新任最高领导人。 德黑兰对美国和以色列的袭击进行了大规模报复性打击，对以色列、美国军事基地和海湾地区的其他目标部署了导弹和无人机。 伊朗还关闭了霍尔木兹海峡，作为地缘政治施压工具。霍尔木兹海峡是波斯湾和阿曼湾之间的重要水道，冲突前全球约 20% 的石油和天然气出口均通过该海峡。 脆弱的停火协议于 4 月 8 日才生效，最初减少了敌对行动，但几乎每天都有违反停火协议的情况发生。 “过去 100 天内，我没有看到伊斯兰共和国发生任何结构性变化，”伊朗问题专家、乔治华盛顿大学中东政治和国际关系讲师穆罕默德·盖迪 (Mohammad Ghaedi) 表示。 “战前，政治精英之间存在深刻分歧，政府镇压异见后，国家与社会之间的差距显着扩大，”他说。 加迪告诉德国之声，战争有助于缓解精英之间以及国家与社会之间的一些分歧。 他说：“我们今天看到的政治精英之间的凝聚力水平在后革命时期相对罕见。这种凝聚力一直是韧性的主要来源之一。”他警告不要将当前的稳定解释为持久巩固的迹象。 “伊斯兰共和国仍然面临重大挑战，包括合法性、有效性和分配危机。随着对安全和生存的担忧消退，这些根本问题可能会再次变得更加明显，并使治理变得越来越困难。” 伊朗政权动员了支持者，三个多月以来，他们聚集在全国各地的城市和村庄，以表示对其政治制度和领导人的支持。 一位没有参加集会的德黑兰居民表示，集会相当吵闹。 “晚上 11 点之前，几乎无法入睡，”她告诉德国之声。 “外面很吵，很累。” 一位也住在伊朗首都的妇女权利活动人士表示，每晚的集会旨在表明伊斯兰......"
+            "en": "One hundred days after the start of the Iran war, the Islamic Republic appears stable. But beneath the surface, economic strain, social unrest and growing repression point to deeper instability.\n\nOn February 28,&#160;the US and Israel launched joint airstrikes targeting military and strategic sites across the Islamic Republic.&#160;\n\nKey facilities of the Iranian armed forces were destroyed, and Supreme Leader Ayatollah Ali Khamenei was killed ,&#160;along with several senior political and military figures.\n\nIran's Assembly of Experts chose Khamenei's son,&#160; Mojtaba , as the country's new supreme leader.\n\nTehran responded to the US-Israeli attacks with massive retaliatory strikes, deploying missiles and drones against Israel, US military bases&#160;and other targets across the Gulf region.\n\nIran also closed the Strait of Hormuz — a key waterway between the Persian Gulf and the Gulf of Oman through which around 20% of global oil and gas exports passed before the conflict — as a geopolitical pressure tool .\n\nA fragile ceasefire only came into effect on April 8, initially reducing hostilities, but it continues to be violated almost daily.\n\n\"I do not see any structural changes in the Islamic Republic over the past 100 days,\" said Mohammad Ghaedi, an Iran expert and&#160;lecturer at George Washington University specializing in Middle Eastern politics and international relations.\n\n\"Before the war, there were deep divisions among political elites, and the gap between the state and society had widened significantly following the government's crackdown on dissent ,\" he said.\n\nGhaedi told DW the war had helped ease some of these divisions, both among elites and between the state and society.\n\n\"The level of cohesion among political elites we see today is relatively rare in the post-revolutionary period. That cohesion has been one of the main sources of resilience,\" he said, cautioning against interpreting the current stability as a sign of lasting consolidation.\n\n\"The Islamic Republic still faces major challenges, including crises of legitimacy, effectiveness, and distribution. As concerns about security and survival recede, these underlying problems are likely to become more visible again and make governance increasingly difficult.\"\n\nThe Iranian regime has mobilized supporters who, for more than three months, have gathered in cities and villages across the country to show backing for its political system and leaders.\n\nOne Tehran resident, who does not take part in the rallies, said they are rather noisy affairs. \"Before 11 p.m., it's nearly impossible to sleep,\" she told DW. \"It's loud outside, and it's exhausting.\"\n\nA women's rights activist, who also lives in the Iranian capital, said the nightly gatherings were intended to show that the Islamic regime...",
+            "zh": "伊朗战争爆发一百天后，伊斯兰共和国显得稳定。但在表面之下，经济压力、社会动荡和日益严重的镇压表明了更深层次的不稳定。 2 月 28 日，美国和以色列对伊斯兰共和国各地的军事和战略地点发动联合空袭。 伊朗武装部队的关键设施被摧毁，最高领袖阿亚图拉·阿里·哈梅内伊以及几名高级政治和军事人物被杀。 伊朗专家会议选举哈梅内伊的儿子莫杰塔巴为该国新任最高领导人。 德黑兰对美国和以色列的袭击进行了大规模报复性打击，对以色列、美国军事基地和海湾地区的其他目标部署了导弹和无人机。 伊朗还关闭了霍尔木兹海峡，作为地缘政治施压工具。霍尔木兹海峡是波斯湾和阿曼湾之间的重要水道，冲突前全球约 20% 的石油和天然气出口均通过该海峡。 脆弱的停火协议于 4 月 8 日才生效，最初减少了敌对行动，但几乎每天都有违反停火协议的情况发生。 “过去 100 天内，我没有看到伊斯兰共和国发生任何结构性变化，”伊朗问题专家、乔治华盛顿大学中东政治和国际关系讲师穆罕默德·盖迪 (Mohammad Ghaedi) 表示。 “战前，政治精英之间存在深刻分歧，政府镇压异见后，国家与社会之间的差距显着扩大，”他说。 加迪告诉德国之声，战争有助于缓解精英之间以及国家与社会之间的一些分歧。 他说：“我们今天看到的政治精英之间的凝聚力水平在后革命时期相对罕见。这种凝聚力一直是韧性的主要来源之一。”他警告不要将当前的稳定解释为持久巩固的迹象。 “伊斯兰共和国仍然面临重大挑战，包括合法性、有效性和分配危机。随着对安全和生存的担忧消退，这些根本问题可能会再次变得更加明显，并使治理变得越来越困难。” 伊朗政权动员了支持者，三个多月以来，他们聚集在全国各地的城市和村庄，以表示对其政治制度和领导人的支持。 一位没有参加集会的德黑兰居民表示，集会相当吵闹。 “晚上 11 点之前，几乎无法入睡，”她告诉德国之声。 “外面很吵，很累。” 一位也住在伊朗首都的妇女权利活动人士表示，每晚的集会旨在表明伊斯兰政权......"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -782,7 +782,7 @@
           },
           "body": {
             "en": "A US journalist who had been living and working in China for over a decade has pleaded guilty in a US court to working as an illegal agent for the People's Republic of China (PRC).\n\nThomas Weir Pauken II, 50, \"admitted to being part of a conspiracy to obtain sensitive information from the US government\" for China, US Assistant Attorney General for National Security John A Eisenberg said.\n\nCourt filings show that Pauken had been living in China since 2010 and had worked for several media organisations there, including CCTV and Xinhua News.\n\nPauken worked \"at the direction and control of people he knew worked for the PRC\" from at least 2019 until February this year, according to court documents.\n\nAmong the people Pauken worked with was a person identified as \"Cathy\", whom the US Department of Justice (DOJ) said provided him with \"taskings, including meeting with potential intelligence assets\".\n\nPauken and \"Cathy\" were introduced by a man employed as a speechwriter for Chinese President Xi Jinping during the \"Trump-China trade wars\" in 2017, court filings show.\n\nThe DOJ said that the US journalist received at least $100,000 (£73,000) from \"Cathy\" for his work.\n\nPauken was also instructed to travel several times between 2019 and 2025 to meet people in the US who could provide him with information to pass on to the PRC.\n\nThe American journalist \"gathered intelligence on his American targets and reported it back to his Chinese intelligence handlers\", said Assistant Director Roman Rozhavsky of the FBI's Counterintelligence and Espionage Division.\n\nRozhavsky added that the case was an example of \"the lengths to which the Chinese Communist Party will go to undermine our democratic institutions and degrade our political freedoms\".\n\nPauken worked with two other people in China, identified as \"William\" and \"Richard\", who told the US journalist that reports he filed for them were being sent to Japan.\n\nPauken also sold a group of people from Wuhan information about the US DOJ and information about technology. They also asked Pauken to support them in finding an expert to help them engage in cyber espionage.\n\nAfter the hearing in Alexandria, Virginia, Pauken's attorney Charles Burnham gave a statement to Politico that said his client accepted responsibility and was trying to \"promote peaceful relations and advance the cause of religious freedom in China\".\n\nPauken is scheduled to be sentenced on 1 September and faces a maximum sentence of 10 years in prison.",
-            "zh": "一名在中国生活和工作十多年的美国记者在美国法院承认为中华人民共和国（PRC）担任非法代理人。 美国负责国家安全事务的助理司法部长约翰·A·艾森伯格 (John A Eisenberg) 表示，50 岁的托马斯·威尔·保肯二世 (Thomas Weir Pauken II) “承认参与了从美国政府获取敏感信息的阴谋”。 法庭文件显示，保肯自2010年以来一直居住在中国，并曾在包括中央电视台和新华社在内的多家媒体机构工作。 法庭文件显示，至少从 2019 年到今年 2 月，保肯“在他认识的为中华人民共和国工作的人的指导和控制下”工作。 与保肯共事的人中有一个人被称为“凯茜”，美国司法部（DOJ）表示，她为他提供了“任务，包括会见潜在的情报人员”。 法庭文件显示，2017 年“特朗普与中国的贸易战”期间，一名受聘为中国国家主席习近平演讲撰稿人的男子介绍了 Pauken 和“Cathy”。 美国司法部表示，这名美国记者从“凯茜”那里获得了至少 10 万美元（7.3 万英镑）的报酬。 保肯还被指示在 2019 年至 2025 年间多次前往美国会见可以向他提供信息并转交给中国的人士。 联邦调查局反情报和间谍部门助理主任罗曼·罗扎夫斯基 (Roman Rozhavsky) 表示，这名美国记者“收集了有关他的美国目标的情报，并将其报告给中国情报人员”。 罗扎夫斯基补充说，此案是“中国共产党将不遗余力破坏我们的民主制度并降低我们的政治自由”的一个例子。 鲍肯与中国的另外两个人（即“威廉”和“理查德”）一起工作，他们告诉美国记者，他为他们提交的报告将被发送到日本。 保肯还向一群来自武汉的人出售有关美国司法部的信息和有关技术的信息。他们还要求保肯支持他们寻找专家来帮助他们从事网络间谍活动。 在弗吉尼亚州亚历山大举行的听证会结束后，保肯的律师查尔斯·伯纳姆向《政治》杂志发表声明称，他的当事人承担了责任，并试图“促进和平关系，推进中国的宗教自由事业”。 Pauken 定于 9 月 1 日被判刑，最高可判处 10 年监禁。"
+            "zh": "一名在中国生活和工作十多年的美国记者在美国法院承认为中华人民共和国（PRC）担任非法代理人。 美国负责国家安全事务的助理司法部长约翰·A·艾森伯格 (John A Eisenberg) 表示，50 岁的托马斯·威尔·保肯二世 (Thomas Weir Pauken II) “承认参与了从美国政府获取敏感信息的阴谋”。 法庭文件显示，保肯自2010年以来一直居住在中国，并曾在包括中央电视台和新华社在内的多家媒体机构工作。 法庭文件显示，至少从 2019 年到今年 2 月，保肯“在他认识的为中华人民共和国工作的人的指导和控制下”工作。 与保肯共事的人中有一个人被称为“凯茜”，美国司法部（DOJ）表示，她为他提供了“任务，包括会见潜在的情报人员”。 法庭文件显示，2017 年“特朗普与中国的贸易战”期间，一名受聘为中国国家主席习近平演讲撰稿人的男子介绍了 Pauken 和“Cathy”。 美国司法部表示，这名美国记者从“凯茜”那里获得了至少 10 万美元（7.3 万英镑）的报酬。 保肯还被指示在 2019 年至 2025 年间多次前往美国会见可以向他提供信息并转交给中国的人士。 联邦调查局反情报和间谍部门助理主任罗曼·罗扎夫斯基 (Roman Rozhavsky) 表示，这名美国记者“收集了有关美国目标的情报，并将其报告给中国情报人员”。 罗扎夫斯基补充说，此案是“中国共产党将不遗余力破坏我们的民主制度并降低我们的政治自由”的一个例子。 鲍肯与中国的另外两个人（即“威廉”和“理查德”）一起工作，他们告诉美国记者，他为他们提交的报告将被发送到日本。 保肯还向一群来自武汉的人出售有关美国司法部的信息和有关技术的信息。他们还要求保肯支持他们寻找专家来帮助他们从事网络间谍活动。 在弗吉尼亚州亚历山大举行的听证会结束后，保肯的律师查尔斯·伯纳姆向《政治》杂志发表声明称，他的当事人承担了责任，并试图“促进和平关系，推进中国的宗教自由事业”。 Pauken 定于 9 月 1 日被判刑，最高可判处 10 年监禁。"
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -815,7 +815,7 @@
           },
           "body": {
             "en": "China's president Xi Jinping will meet Kim Jong Un next week in a trip to North Korea, in his first visit in nearly seven years, according to both countries' state media.\n\nXi will be in North Korea from 8 to 9 June at Kim's invitation. Xi last visited Pyongyang in 2019.\n\nThe visit comes weeks after Xi received US President Donald Trump and Russian President Vladimir Putin in Beijing - two countries that loom large over Pyongyang's foreign policy.\n\nChina is a key economic and political partner of North Korea, which faces sweeping international sanctions as a result of its nuclear weapons programme and alleged human rights violations.\n\nChina and North Korea share a 1,400km-long border and are bound by a defence pact - the only one China has with any country. It guarantees mutual support if either is attacked.\n\nFor Kim, the propaganda value of Xi's visit is self-evident. North Korea had improved its standing on the world stage after withstanding the pandemic and entering the war in Ukraine on the side of Russia.\n\nDespite Beijing's close ties with both Pyongyang and Moscow, Xi is wary of the burgeoning alliance between Kim and Putin.\n\nBut Beijing, Pyongyang's largest trading partner, remains the main lifeline for Kim.\n\nIt is widely expected that Kim will seek more trade over the land border and more Chinese tourists to fill its newly built beach and ski resorts.\n\nKim has been proudly displaying his nuclear and missile arsenal. He has also been showing off the capital Pyongyang to visiting dignitaries. And he wants the world to know that it was all achieved without bending his knee to the US or engaging with the South.\n\nSince Kim declared the end to reunification efforts with the South in December 2024, he had called South Koreans a sworn enemy and had cut all levels of communication with Seoul.\n\nWhen the North Korean women's professional football team visited South Korea last month to face a South Korean football team, the freeze-out was in full display.\n\nThe North Koreans barely acknowledged the South Korean public who showed up to welcomed them at the airport and the stadium. They coldly shook hands with the South Korean players before the match then followed with rough and aggressive play.\n\nSeoul is hoping Xi will play a mediator in this trip, nudging Pyongyang to resume dialogue with both Seoul and Washington.\n\nSouth Korea's minister of unification Chung Dong-young said he believes that during Xi's meeting with Kim he will discuss resuming the US-North Korea talks.\n\nWhile Beijing is a long-standing promoter of denuclearisation of the Korean Peninsula, it has significantly toned down this position in recent years.\n\nDuring the Trump-Xi meeting last month, the two leaders reaffirmed the shared goal of denuclearising North Korea, according to a White...",
-            "zh": "据两国官方媒体报道，中国国家主席习近平将于下周访问朝鲜并会见金正恩，这是他近七年来的首次访问。 应金正恩邀请，习近平将于6月8日至9日访问朝鲜。习近平上次访问平壤是在 2019 年。 此次访问几周前，习近平在北京接见了美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京——这两个国家对平壤的外交政策至关重要。 中国是朝鲜的重要经济和政治伙伴，朝鲜因核武器计划和涉嫌侵犯人权而面临广泛的国际制裁。 中国和朝鲜有1400公里长的边界，并受防务条约约束——这是中国与任何国家签署的唯一防务条约。如果任何一方受到攻击，它保证相互支持。 对金正恩来说，习近平访问的宣传价值不言而喻。朝鲜在抵御疫情并与俄罗斯并肩参加乌克兰战争后，其在世界舞台上的地位得到了提高。 尽管北京与平壤和莫斯科关系密切，但习近平对金正恩和普京之间迅速发展的联盟持谨慎态度。 但平壤最大的贸易伙伴北京仍然是金正恩的主要生命线。 人们普遍预计金正恩将寻求更多的陆地边境贸易和更多的中国游客来填补其新建的海滩和滑雪胜地。 金正恩一直自豪地展示他的核武器和导弹武库。他还一直向来访的政要展示首都平壤。他希望世界知道，这一切都是在没有向美国屈服或与韩国接触的情况下实现的。 自从金正恩于 2024 年 12 月宣布结束与韩国的统一努力以来，他将韩国人称为死敌，并切断了与首尔的各个层面的沟通。 当朝鲜女子职业足球队上个月访问韩国迎战韩国足球队时，被冻结的情况得到了充分展示。 朝鲜人几乎没有承认在机场和体育场迎接他们的韩国公众。赛前他们与韩国球员冷冷握手，随后打得粗暴、咄咄逼人。 首尔希望习近平在这次访问中扮演调解人的角色，推动平壤恢复与首尔和华盛顿的对话。 韩国统一部长官郑东泳表示，他相信习近平在与金正恩会晤期间将讨论恢复美朝会谈。 尽管北京长期以来一直是朝鲜半岛无核化的推动者，但近年来它的立场已大大缓和。 据白宫称，在上个月的特习会期间，两位领导人重申了朝鲜无核化的共同目标。"
+            "zh": "据两国官方媒体报道，中国国家主席习近平将于下周访问朝鲜并会见金正恩，这是他近七年来的首次访问。 应金正恩邀请，习近平将于6月8日至9日访问朝鲜。习近平上次访问平壤是在 2019 年。 此次访问几周前，习近平在北京接见了美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京——这两个国家对平壤的外交政策至关重要。 中国是朝鲜的重要经济和政治伙伴，朝鲜因核武器计划和涉嫌侵犯人权而面临广泛的国际制裁。 中国和朝鲜有1400公里长的边界，并受防务条约约束——这是中国与任何国家签署的唯一防务条约。如果任何一方受到攻击，它保证相互支持。 对金正恩来说，习近平访问的宣传价值不言而喻。朝鲜在抵御疫情并与俄罗斯并肩参加乌克兰战争后，其在世界舞台上的地位得到了提高。 尽管北京与平壤和莫斯科关系密切，但习近平对金正恩和普京之间迅速发展的联盟持谨慎态度。 但平壤最大的贸易伙伴北京仍然是金正恩的主要生命线。 人们普遍预计金正恩将寻求更多的陆地边境贸易和更多的中国游客来填补其新建的海滩和滑雪胜地。 金正恩一直自豪地展示他的核武器和导弹武库。他还一直向来访的政要展示首都平壤。他希望世界知道，这一切都是在没有向美国屈服或与韩国接触的情况下实现的。 自金正恩于 2024 年 12 月宣布结束与韩国的统一努力以来，他将韩国人称为死敌，并切断了与首尔的各个层面的沟通。 当朝鲜女子职业足球队上个月访问韩国迎战韩国足球队时，被冻结的情况得到了充分展示。 朝鲜人几乎没有承认在机场和体育场迎接他们的韩国公众。赛前他们与韩国球员冷冷握手，随后打得粗暴、咄咄逼人。 首尔希望习近平在这次访问中扮演调解人的角色，推动平壤恢复与首尔和华盛顿的对话。 韩国统一部长官郑东泳表示，他相信习近平在与金正恩会晤期间将讨论恢复美朝会谈。 尽管北京长期以来一直是朝鲜半岛无核化的推动者，但近年来它的立场已大大缓和。 据白宫称，在上个月的特习会期间，两位领导人重申了朝鲜无核化的共同目标。"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
