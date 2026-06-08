@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T08:46:37.108Z",
+  "generatedAt": "2026-06-08T12:59:01.334Z",
   "editionDate": "2026-06-08",
   "sources": [
     {
@@ -105,12 +105,46 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "BBC News World",
         "The Guardian World",
+        "BBC News World",
         "SBS News World",
         "DW World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-world-live-2026-jun-08-iran-israel-news-live-updates",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
+          "image": "https://i.guim.co.uk/img/media/95bd80096ca83da4cf359911b9adf2e3c72db597/431_0_1617_1294/master/1617.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7916386644a5caf5a4087bb143fae9f0",
+          "publishedAt": "2026-06-08T12:44:53.000Z",
+          "title": {
+            "en": "Middle East crisis live: Iran announces end of attacks against Israel as Trump claims both sides want ‘immediate ceasefire’",
+            "zh": "中东危机实时报道：伊朗宣布停止对以色列的袭击，特朗普称双方都希望“立即停火”"
+          },
+          "summary": {
+            "en": "Iran has announced an end to its attacks against Israel, with the US president stating that both nations desire an immediate ceasefire. This development comes despite recent strikes between the countries, marking the first such exchanges since an April ceasefire, and with \"final peace negotiations\" reportedly underway.",
+            "zh": "伊朗宣布停止对以色列的袭击，美国总统表示双方都希望“立即停火”。这一进展是在两国自四月停火以来首次交火之后出现的，目前“最终和平谈判”正在进行中。"
+          },
+          "body": {
+            "en": "US president says ‘final peace negotiations’ under way despite countries firing at each other for first time since April ceasefire Israel strikes Iran despite Trump plea as Middle East crisis threatens to escalate Iranian media is reporting that there were no immediate casualties following apparent Israeli strikes on the Karun petrochemical plant in Mahshahr, a city in Iran’s southwestern Khuzestan province. According to the Fars news agency, Iran’s Revolutionary Guards said they responded to what they described as an American-Israeli strike on the Iranian petrochemical site by launching a missile attack on a similar plant in the northern Israeli city of Haifa. Continue reading...",
+            "zh": "美国总统表示，尽管各国自四月份停火以来首次互相开火，但“最终和平谈判”仍在进行中。以色列尽管特朗普在中东危机可能升级之际发出恳求，但仍对伊朗发动袭击。伊朗媒体报道称，以色列对伊朗西南部胡齐斯坦省马赫沙赫尔市卡伦石化厂的袭击，没有立即造成人员伤亡。据法尔斯通讯社报道，伊朗革命卫队表示，他们对以色列北部城市海法的一座类似工厂发动了导弹袭击，以回应美国和以色列对伊朗石化基地的袭击。继续阅读..."
+          },
+          "reflection": {
+            "en": "In a world often marked by escalating conflict, the pursuit of peace, even amidst tension, remains a vital human endeavor. This news reminds us of the ongoing call to seek peaceful resolutions and live at peace with all, as far as it depends on us.",
+            "zh": "在一个冲突常常升级的世界里，即使在紧张局势中，追求和平仍然是一项至关重要的人类努力。这则新闻提醒我们，要不断寻求和平解决方案，并尽力与所有人和平相处。"
+          },
+          "verse": {
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
+          },
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
+        },
         {
           "id": "www-bbc-com-news-articles-c78yd5g9qx0o-at-medium-rss-at-campaign-rss",
           "section": "world",
@@ -118,9 +152,9 @@
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bfa4/live/426f4c70-62e1-11f1-9a4b-dd5933001427.jpg",
-          "publishedAt": "2026-06-08T08:36:21.000Z",
+          "publishedAt": "2026-06-08T12:40:16.000Z",
           "title": {
-            "en": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
+            "en": "Stock markets fall on tech plunge and renewed Middle East attacks",
             "zh": "创纪录反弹后中东袭击重燃，亚洲科技股暴跌"
           },
           "summary": {
@@ -128,7 +162,7 @@
             "zh": "韩国和日本市场遭遇科技股抛售，而伊朗和以色列互相发动袭击后油价上涨。"
           },
           "body": {
-            "en": "A sharp sell-off in technology shares meant South Korea's stock market was forced to halt trading for 20 minutes on Monday after the Kospi index plunged by nearly 9% within minutes of opening.\n\nThe halt is part of a circuit breaker mechanism designed to prevent panic trading and was triggered for the third time this year following the plunge in tech stocks.\n\nThe Kospi index eventually closed down 8.3%, while Japan's Nikkei index fell by 3.8%.\n\nOil prices also rose on Monday, fuelling concerns of inflation, after Iran and Israel exchanged strikes for the first time since a ceasefire was agreed between the sides and the US in April.\n\nEuropean stock markets opened slightly lower, with Germany's Dax down 0.7% and the UK's FTSE 100 slipping 0.4%.\n\nTraders are nervously watching a \"messy mix\" of several shocks to the market mainly tied to the tech sector and accelerated by rising energy prices, said chief investment strategist Charu Chanana from Saxo.\n\nTech stocks have seen a strong run in recent weeks, but investors are \"repositioning\" over fears the investments into artificial intelligence may be overvalued, she said.\n\nMarkets like the Kospi and Nikkei are particularly exposed to such shocks given their exchanges are dominated by tech stocks.\n\nThe losses follow a sharp drop on Wall Street on Friday , where a sell-off in tech stocks saw shares on the Nasdaq lose about 4% - its biggest drop in more than a year.\n\nPart of the decline on Friday followed fears of a hike in US interest rates, due to a lower-than-expected US unemployment rate in April as well as persistently high inflation linked to the war in the Middle East.\n\nMajor South Korean tech companies fell sharply on Monday, including those of chipmakers Samsung, which closed down 10%, and SK Hynix.\n\nSouth Korean President Lee Jae-myung said the stock market was expected to experience volatility but he believed domestic shares were still \"slightly undervalued\".\n\nOverall, the tech-heavy Kospi has seen huge gains in recent months due to a wave of investment in the country's tech companies.\n\nInvestors are more looking for clear signs that AI demand has translated into \"real revenue\", Chanana said. \"The burden of proof has gone up.\"\n\nOther Asian stock exchanges, like the Hang Seng Index and the Shanghai Composite, all closed lower on Monday.\n\nTaiwan's Taiex was also down sharply after shares of semiconductor giant TSMC fell by 3%. The chipmaker is a key supplier to Nvidia, whose boss Jensen Huang said the recent slide in tech stocks presented a buying opportunity for investors.\n\nInvestors are opting for tech companies \"with more reliable income streams and dividends\", said Susannah Streeter, chief investment strategist at Wealth Club, adding there were \"undercurrents of worry about the surge in tech stock...",
+            "en": "Global stock markets have fallen after a sharp sell-off in technology shares led to some bruising falls in Asia.\n\nSouth Korea's stock market was forced to halt trading for 20 minutes on Monday after the Kospi index plunged by nearly 9% within minutes of opening.\n\nThe Kospi eventually closed down 8.3%, while Japan's Nikkei index fell by 3.8%. European markets opened lower, but saw much smaller falls than those seen in Asia.\n\nMarkets were also rattled by a rise in oil prices, fuelling concerns of inflation, after Iran and Israel exchanged strikes for the first time since a ceasefire was agreed between the sides and the US in April.\n\nTraders are nervously watching a \"messy mix\" of several shocks to the market mainly tied to the tech sector and accelerated by rising energy prices, said chief investment strategist Charu Chanana from Saxo.\n\nTech stocks have seen a strong run in recent weeks, but investors are \"repositioning\" over fears the investments into artificial intelligence may be overvalued, she said.\n\nMarkets like the Kospi and Nikkei are particularly exposed to such shocks given their exchanges are dominated by tech stocks.\n\nThe Kospi's halt on Monday was part of a circuit breaker mechanism designed to prevent panic trading and was triggered for the third time this year following the plunge in tech stocks.\n\nThe losses follow a sharp drop on Wall Street on Friday , where a sell-off in tech stocks saw shares on the Nasdaq lose about 4% - its biggest drop in more than a year.\n\nPart of the decline on Friday followed fears of a hike in US interest rates, due to a lower-than-expected US unemployment rate in April as well as persistently high inflation linked to the war in the Middle East.\n\nWhen European markets opened on Monday, Germany' Dax index fell 0.9% while the UK's FTSE 100 slipped 0.2%, though by lunchtime it was trading slightly higher.\n\nEarlier, major South Korean tech companies had fallen sharply, including those of chipmakers Samsung, which closed down 10%, and SK Hynix.\n\nSouth Korean President Lee Jae-myung said the stock market was expected to experience volatility but he believed domestic shares were still \"slightly undervalued\".\n\nOverall, the tech-heavy Kospi has seen huge gains in recent months due to a wave of investment in the country's tech companies.\n\nInvestors are more looking for clear signs that AI demand has translated into \"real revenue\", Chanana said. \"The burden of proof has gone up.\"\n\nOther Asian stock exchanges, like the Hang Seng Index and the Shanghai Composite, all closed lower.\n\nTaiwan's Taiex was also down sharply after shares of semiconductor giant TSMC fell by 3%. The chipmaker is a key supplier to Nvidia, whose boss Jensen Huang said the recent slide in tech stocks presented a buying opportunity for...",
             "zh": "科技股大幅抛售意味着韩国股市周一开盘后几分钟内暴跌近 9%，被迫暂停交易 20 分钟。 此次暂停是旨在防止恐慌交易的熔断机制的一部分，是今年科技股暴跌后第三次触发。 Kospi指数最终收盘下跌8.3%，日本日经指数下跌3.8%。 伊朗和以色列自四月份与美国达成停火协议以来首次交锋，周一油价也上涨，加剧了人们对通胀的担忧。 欧洲股市小幅低开，德国DAX指数下跌0.7%，英国富时100指数下跌0.4%。 盛宝集团首席投资策略师查鲁·查纳纳(Charu Chanana)表示，交易员正紧张地关注着市场遭受的几次冲击的“混乱组合”，这些冲击主要与科技行业有关，并因能源价格上涨而加剧。 她表示，科技股最近几周表现强劲，但由于担心人工智能投资可能被高估，投资者正在“重新定位”。 鉴于韩国综合指数和日经指数等市场以科技股为主，它们尤其容易受到此类冲击。 周五华尔街股市大幅下跌，科技股遭到抛售，纳斯达克股市下跌约 4%，创一年多来最大跌幅。 周五下跌的部分原因是由于美国四月份失业率低于预期以及与中东战争相关的持续高通胀，人们担心美国加息。 韩国主要科技公司周一大幅下跌，其中芯片制造商三星(Samsung)和SK海力士(SK Hynix)的股价收跌10%。 韩国总统李在明表示，预计股市将出现波动，但他认为国内股市仍“略微被低估”。 总体而言，由于对该国科技公司的一波投资浪潮，以科技为主的 Kospi 近几个月来取得了巨大收益。 查纳纳表示，投资者更多地寻找人工智能需求已转化为“实际收入”的明显迹象。 “举证责任已经上升。” 其他亚洲股市，如恒生指数和上证综合指数，周一均收低。 半导体巨头台积电股价下跌3%后，台湾Taiex也大幅下跌。这家芯片制造商是英伟达的主要供应商，其老板黄仁勋表示，最近科技股的下跌为投资者提供了买入机会。 Wealth Club首席投资策略师苏珊娜·斯特里特(Susannah Streeter)表示，投资者正在选择“收入来源和股息更可靠”的科技公司，并补充称，“对科技股飙升的担忧暗流......"
           },
           "reflection": {
@@ -152,9 +186,9 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/politics/live/2026/jun/08/keir-starmer-technology-ai-online-harms-labour-andy-burnham-makerfield-kemi-badenoch-uk-politics-latest-news-updates",
           "image": "https://i.guim.co.uk/img/media/7973ce5e87514bd4b5143df238e0440cd1d01735/624_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=db5a9ddb638a739d54dba746cd9bbf99",
-          "publishedAt": "2026-06-08T08:34:46.000Z",
+          "publishedAt": "2026-06-08T12:36:24.000Z",
           "title": {
-            "en": "Keir Starmer gives speech on AI and technology policy – UK politics live",
+            "en": "Badenoch dismisses Starmer’s warning to tech firms and says social media ban for under-16s would be ‘much simpler’ - UK politics live",
             "zh": "凯尔·斯塔默就人工智能和技术政策发表讲话——英国政治直播"
           },
           "summary": {
@@ -162,7 +196,7 @@
             "zh": "英国首相凯尔·斯塔默在伦敦科技周期间宣布，科技公司必须阻止儿童发送或接收自己的裸体图像。他表示，如果公司未能采取行动，政府将出台新法律来强制执行这项保护措施。"
           },
           "body": {
-            "en": "Prime minister marks start of London Tech Week saying UK can lead the world in technological revolution Keir Starmer has announced that tech companies must stop children from sending or receiving naked images of themselves, or the government will change the law. In his speech, Starmer said: One issue is the ability for children with phones to send and receive nude images. For too long, people have been told that is simply the price of modern tech, that nothing can be done, that government is powerless, that parents just have to accept it. Half of all European tech investment in this country – that’s a profound achievement and it belongs to so many people in this room. But that hasn’t happened by accident. Each one of those investments is an endorsement of British talent, of British industry, and of the approach that Britain is taking, approach that has in no small part been shaped by so many people in this room and by the conversations that we’ve had in the last two years. Continue reading...",
+            "en": "Conservative leader says PM does not have a ‘proper plan’ to stop children using phone to take and receive naked pictures The government has highlighted work done by the internet safety firm SafeToNet as showing that the technology is already in place that would allow tech companies to stop children using phones to take naked pictures of themselves, or other people. The Home Office says: Measures to protect children already exist within smartphones and tablets, but are applied inconsistently, often switched off by default and only blurring content rather than blocking it. But the government is working closely with technology companies — some of whom, like Apple, have already taken steps to implement protective features — to make this goal a reality. Companies must introduce these measures without threatening privacy or collecting any data. The device should simply block harmful content across all apps and services. Over-18s will still be able to view adult content by providing proof of age. The government is right to act. Children have been failed for too long. This news will be welcomed by parents across the UK and hopefully, will inspire other countries to follow the UK’s lead. We can put an end to so much online misery with this approach. SafeToNet’s HarmBlock technology is a proven example that it is possible to make the device safe by default and not as some optional add-on. The changes will apply to UK devices , including both existing and newly sold smartphones and tablets. Legislation could cover operating system providers and others in the supply chain, such as retailers, and will not affect the use of devices owned and used by adults who verify their age … Apple recently introduced age checks for iPhone users, making it the first company to activate safety features by default for those who are not verified as over 18. This is a significant step forward following the government’s commitments to work with industry, and one this announcement builds on. Continue reading...",
             "zh": "英国首相在伦敦科技周开始时表示，英国可以在技术革命中引领世界 凯尔·斯塔默 (Keir Starmer) 宣布，科技公司必须阻止儿童发送或接收自己的裸照，否则政府将修改法律。斯塔默在演讲中表示：一个问题是拥有手机的儿童能够发送和接收裸照。长期以来，人们被告知这就是现代科技的代价，无能为力，政府无能为力，父母只能接受它。欧洲一半的科技投资都集中在这个国家——这是一项意义深远的成就，它属于在座的很多人。但这并不是偶然发生的。每一项投资都是对英国人才、英国工业以及英国正在采取的方法的认可，这种方法在很大程度上是由在座的这么多人和我们过去两年进行的对话所塑造的。继续阅读..."
           },
           "reflection": {
@@ -180,24 +214,92 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-world-live-2026-jun-08-iran-israel-news-live-updates",
+          "id": "www-theguardian-com-us-news-live-2026-jun-08-us-politics-latest-news-upd",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
-          "image": "https://i.guim.co.uk/img/media/95bd80096ca83da4cf359911b9adf2e3c72db597/431_0_1617_1294/master/1617.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7916386644a5caf5a4087bb143fae9f0",
-          "publishedAt": "2026-06-08T08:23:05.000Z",
+          "link": "https://www.theguardian.com/us-news/live/2026/jun/08/us-politics-latest-news-updates-trump-california-governor-midterm-elections",
+          "image": "https://i.guim.co.uk/img/media/2d069c513cbd6777e4f4090c3780d0eb8bd6003e/600_0_3000_2401/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4123bcb7a6b9e1b672e1558666048fe3",
+          "publishedAt": "2026-06-08T12:34:39.000Z",
           "title": {
-            "en": "Middle East crisis live: Israel and Iran exchange fresh round of strikes for first time since April ceasefire",
-            "zh": "中东危机直播：以色列和伊朗自四月停火以来首次进行新一轮打击"
+            "en": "Trump repeats claim that California election was rigged – US politics live",
+            "zh": "特朗普重申加州选举舞弊指控——美国政治直播"
           },
           "summary": {
-            "en": "Despite Trump’s calls for calm, IDF says it struck military targets in Iran in response to attacks by Tehran Israel strikes Iran despite Trump plea as Middle East crisis threatens to escalate Iranian media is reporting that there were no immediate casualties following apparent...",
+            "en": "Former President Donald Trump reiterated his unsubstantiated claims of a rigged California election on Truth Social. This occurred after he reportedly walked out of an NBC interview when pressed to provide evidence for his allegations of election rigging.",
+            "zh": "前总统唐纳德·特朗普在Truth Social上重申了他关于加州选举舞弊的未经证实的说法。此前，他在接受美国全国广播公司（NBC）采访时，因拒绝为其选举舞弊指控提供证据而中途离场。"
+          },
+          "body": {
+            "en": "President posts screenshot on Truth Social attacking Californian election, after walking out of NBC interview after refusing to substantiate his claims of election rigging Sign up for the Breaking News US email In case you missed it yesterday, Donald Trump walked out of an explosive interview with NBC’s Meet the Press after he repeatedly made false claims that the 2020 presidential election was rigged and faced questions about compensation for those charged in the January 6 insurrection. (You can watch the interview here ). Trump falsely claimed that the California gubernatorial race was “rigged” while asserting untrue claims of cheating in the 2020 US presidential election. Continue reading...",
+            "zh": "总统在《真理社会》上发布了攻击加州选举的截图，他在拒绝证实自己关于选举舞弊的指控后退出了 NBC 的采访。如果你昨天错过了，唐纳德·特朗普在多次虚假声称 2020 年总统选举被操纵并面临有关 1 月 6 日叛乱中被指控者的赔偿问题后，退出了 NBC 的《与媒体会面》的爆炸性采访。 （您可以在这里观看采访）。特朗普谎称加州州长竞选“被操纵”，同时还声称2020年美国总统选举作弊。继续阅读..."
+          },
+          "reflection": {
+            "en": "In public life, the call to \"put off falsehood and speak truthfully\" is vital for maintaining trust and a healthy civic discourse. When leaders make serious claims, the expectation for them to substantiate their words with evidence is a cornerstone of accountability. This principle reminds us that truthfulness is not merely a private virtue but a public...",
+            "zh": "在公共生活中，“脱去谎言，与邻舍说实话”的呼召对于维护信任和健康的公民对话至关重要。当领导人提出严肃主张时，期望他们用证据来证实自己的言论是问责制的基础。这一原则提醒我们，诚实不仅是一种个人美德，更是一种塑造我们共同现实的公共责任。"
+          },
+          "verse": {
+            "reference": "Ephesians 4:25",
+            "textEn": "Therefore each of you must put off falsehood and speak truthfully to your neighbor.",
+            "textZh": "所以你们要弃绝谎言，各人与邻舍说实话。",
+            "themeEn": "Truth-telling",
+            "themeZh": "说诚实话"
+          },
+          "aiVerseId": "eph_4_25",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-com-news-videos-c5yzje727l5o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/videos/c5yzje727l5o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6119/live/987bd0e0-632f-11f1-8e1d-bbbb1017d210.jpg",
+          "publishedAt": "2026-06-08T12:18:56.000Z",
+          "title": {
+            "en": "Watch: Why is China's Xi Jinping visiting North Korea?",
+            "zh": "观看：中国国家主席习近平为何访问朝鲜？"
+          },
+          "summary": {
+            "en": "Chinese President Xi Jinping made his first visit to Pyongyang in seven years, where he was greeted with a grand welcome.",
+            "zh": "中国国家主席习近平七年来首次访问平壤，受到了隆重的欢迎。"
+          },
+          "body": {
+            "en": "Chinese leader Xi Jinping has landed in North Korea, in his first official visit since 2019.\n\nThe trip comes as Beijing is trying to reassert sway over a strategically vital yet deeply unpredictable partner that has drawn closer to Russia.\n\nThe BBC's China correspondent Laura Bicker explains why this visit is likely to be less about friendship, and more about leverage.\n\nPupils could be heard screaming as the earthquake struck the city of Digos, but the school said nobody was injured in the incident.\n\nAuthorities said that a bear in north-east Japan has eluded capture by opening a window.\n\nThe bear, which injured four people in the attack on Tuesday, remains on the loose within the factory compound.\n\nThere were 242 people on board the flight on 12 June 2025, and all but one died in the crash.\n\nThe BBC is in Seoul, where tattooist from all over the country have gathered to celebrate their art, following decades of underground work.\n\nRescuers in Laos have found five villagers alive inside a flooded cave after they were trapped for a week.\n\nThe BBC's Sumedha Pal described how difficult it was to be standing in the streets of Delhi as temperatures rose to 45C .\n\nThe temple has moved the flame to a different location and authorities said the fire may have been caused by it, according to Japan Times.\n\nA North Korean women's football team played in South Korea marking the first time athletes from the North have crossed the border in nearly 8 years.\n\nRounds of gunfire were heard but officials have not revealed who fired the shots.\n\nPakistan says it hit 'military and terrorist infrastructure' - but the UN and victims' families reject this claim.\n\nOfficials said the group had been hiking up the active volcano despite a climbing ban.\n\nJapan's PM is pushing to revise country's pacifist constitution - and it's causing controversy.\n\nA glamping facility was destroyed by the raging torrent in Bogor, West Java on 4 May.\n\nAt least 15 people have died after a train crashed into the female-only carriage of a commuter train in Bekasi.\n\nThousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.\n\nThe escape of Neukgu, a two-year-old wolf, from a zoo in the city of Daejon captured national attention.\n\nThe Philippine President challenged anyone questioning his fitness to join him in the gym.\n\nAsha Bhosle died in Mumbai on Sunday after being admitted to the hospital following a heart attack.",
+            "zh": "中国领导人习近平抵达朝鲜，这是他自 2019 年以来的首次正式访问。 此次出访之际，北京正试图重新确立对这个战略上至关重要但又难以预测的伙伴的影响力，该伙伴已与俄罗斯走得更近。 英国广播公司（BBC）驻华记者劳拉·比克（Laura Bicker）解释了为什么这次访问可能不是关于友谊，而是更多关于影响力。 迪戈斯市发生地震时，可以听到学生们的尖叫声，但学校表示，没有人在事件中受伤。 当局表示，日本东北部的一只熊通过打开窗户逃脱了抓捕。 这只熊在周二的袭击中造成四人受伤，目前仍在工厂内逍遥法外。 2025 年 6 月 12 日，这架航班上共有 242 人，除一人外，其余人员均在空难中丧生。 BBC 在首尔报道，来自全国各地的纹身师在数十年的地下工作后聚集在一起庆祝他们的艺术。 老挝的救援人员在一个被洪水淹没的山洞里发现了五名被困一周的村民，他们还活着。 BBC 的 Sumedha Pal 描述了当气温升至 45 摄氏度时站在德里的街道上是多么困难。 据《日本时报》报道，寺庙已将火苗移至其他地点，当局表示火灾可能是由此引起的。 朝鲜女子足球队在韩国比赛，这是近八年来朝鲜运动员首次跨越边境。 听到几声枪响，但官员们没有透露是谁开枪的。 巴基斯坦称其袭击了“军事和恐怖主义基础设施”，但联合国和受害者家属否认了这一说法。 官员们表示，尽管有攀登禁令，该组织仍在攀登活火山。 日本首相正在推动修改该国的和平宪法，这引起了争议。 5 月 4 日，西爪哇省茂物市的一处豪华露营设施被汹涌的洪流摧毁。 一辆火车撞上勿加泗通勤列车的女性专用车厢，造成至少 15 人死亡。 马来西亚沙巴州发生火灾，烧毁了约 1,000 所房屋，导致数千人流离失所。 两岁大的狼 Neukgu 从大田市动物园逃跑引起了全国关注。 菲律宾总统要求任何质疑他健康状况的人都和他一起去健身房。 阿莎·博斯勒 (Asha Bhosle) 因心脏病突发入院，于周日在孟买去世。"
+          },
+          "reflection": {
+            "en": "The meeting of leaders from nations with tightly controlled societies reminds us of the profound impact governance has on its people. Proverbs 28:15 describes the heavy burden placed on a helpless populace when rulers wield power without accountability. May all leaders be moved to govern with compassion and justice, recognizing the inherent dignity of every...",
+            "zh": "两位领导人会晤，其国家社会受到严格管控，这提醒我们治理对人民的深远影响。箴言28:15描述了当统治者不负责任地行使权力时，无助的民众所承受的沉重负担。愿所有领导人都以怜悯和公义治理，认识到每个人的固有尊严。"
+          },
+          "verse": {
+            "reference": "Proverbs 28:15",
+            "textEn": "Like a roaring lion or a charging bear is a wicked ruler over a helpless people.",
+            "textZh": "暴虐的君王辖制贫民，好像吼叫的狮子、觅食的熊。",
+            "themeEn": "Tyranny",
+            "themeZh": "暴政"
+          },
+          "aiVerseId": "prov_28_15",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-business-2026-jun-08-unions-attack-delay-tata-steel-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/business/2026/jun/08/unions-attack-delay-tata-steel-furnaces-grid-connection-south-wales",
+          "image": "https://i.guim.co.uk/img/media/2fa001b4654bd12fa98aa5dea9d89fd31a75ed29/130_0_3390_2712/master/3390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6cfb90d408e0a23812b4a3916cbe988",
+          "publishedAt": "2026-06-08T11:45:35.000Z",
+          "title": {
+            "en": "Unions attack ‘year-long delay’ for Tata Steel furnace’s grid connection in south Wales",
+            "zh": "工会批评南威尔士塔塔钢铁炉的电网连接“长达一年的延迟”"
+          },
+          "summary": {
+            "en": "Government urged to help speed up vital industrial project amid growing alarm over National Grid delays Business live – latest updates Trade unions have called for the government to intervene to speed up Tata Steel’s connection to the electricity grid in south Wales, after the...",
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Despite Trump’s calls for calm, IDF says it struck military targets in Iran in response to attacks by Tehran Israel strikes Iran despite Trump plea as Middle East crisis threatens to escalate Iranian media is reporting that there were no immediate casualties following apparent Israeli strikes on the Karun petrochemical plant in Mahshahr, a city in Iran’s southwestern Khuzestan province. According to the Fars news agency, Iran’s Revolutionary Guards said they responded to what they described as an American-Israeli strike on the Iranian petrochemical site by launching a missile attack on a similar plant in the northern Israeli city of Haifa. Continue reading...",
-            "zh": "尽管特朗普呼吁保持冷静，但以色列国防军表示，它袭击了伊朗的军事目标，以回应德黑兰的袭击。 尽管特朗普请求中东危机可能升级，但以色列还是袭击了伊朗。 伊朗媒体报道称，以色列对伊朗西南部胡齐斯坦省马赫沙赫尔市的卡伦石化厂发动明显袭击，没有立即造成人员伤亡。据法尔斯通讯社报道，伊朗革命卫队表示，他们对以色列北部城市海法的一座类似工厂发动了导弹袭击，以回应美国和以色列对伊朗石化基地的袭击。继续阅读..."
+            "en": "Government urged to help speed up vital industrial project amid growing alarm over National Grid delays Business live – latest updates Trade unions have called for the government to intervene to speed up Tata Steel’s connection to the electricity grid in south Wales, after the company said its new furnace would be delayed by up to a year. Tata Steel last month told investors that National Grid had said it would face a six- to eight-month delay. That could stretch to 12 months amid unexpected engineering difficulties. Continue reading...",
+            "zh": "塔塔钢铁公司表示，其新熔炉将被推迟最多一年，因此工会呼吁政府进行干预，以加快塔塔钢铁公司与南威尔士电网的连接。塔塔钢铁公司上个月告诉投资者，国家电网曾表示将面临六到八个月的延迟。由于工程困难，这一时间可能会延长至 12 个月。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -213,194 +315,57 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-com-news-articles-cdep497r256o-at-medium-rss-at-campaign-rss",
+          "id": "www-theguardian-com-us-news-2026-jun-08-san-carlos-lake-arizona-fish-kil",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jun/08/san-carlos-lake-arizona-fish-kill",
+          "image": "https://i.guim.co.uk/img/media/1744290982027de4f57f3a8056fb5d25e039314e/78_0_1166_933/master/1166.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d868833187ed9e00270be0398be989d7",
+          "publishedAt": "2026-06-08T11:33:49.000Z",
+          "title": {
+            "en": "Arizona lake closes indefinitely to visitors after all of its fish die",
+            "zh": "亚利桑那州湖所有鱼类死亡后无限期对游客关闭"
+          },
+          "summary": {
+            "en": "Wildlife department says drought conditions and water released from dam led to ‘major fish kill’ at San Carlos Lake Arizona officials have indefinitely closed a popular lake to visitors after its entire population of fish died recently. The recreation and wildlife department...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Wildlife department says drought conditions and water released from dam led to ‘major fish kill’ at San Carlos Lake Arizona officials have indefinitely closed a popular lake to visitors after its entire population of fish died recently. The recreation and wildlife department that maintains San Carlos Lake said in a Facebook statement on Friday that drought conditions as well as water released from a dam there “resulted in a major fish kill affecting approximately 100% of the fish population”. Continue reading...",
+            "zh": "野生动物部门表示，干旱和大坝泄水导致圣卡洛斯湖“大量鱼类死亡”。在最近该湖全部鱼类死亡后，亚利桑那州官员无限期关闭了该湖，禁止游客参观。负责维护圣卡洛斯湖的娱乐和野生动物部门周五在 Facebook 上发表声明称，干旱以及大坝泄水“导致大量鱼类死亡，影响了大约 100% 的鱼类种群”。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cnv9dz3reego-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7c67/live/15750f70-5594-11f1-ae6c-1b75cc68e68c.jpg",
-          "publishedAt": "2026-06-08T07:55:29.000Z",
+          "link": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1925/live/f87d2bf0-6312-11f1-aecd-df176a37a192.jpg",
+          "publishedAt": "2026-06-08T11:19:58.000Z",
           "title": {
-            "en": "Friendship or leverage: Why is Xi Jinping in North Korea?",
-            "zh": "友谊还是筹码：习近平为何访问朝鲜？"
+            "en": "Malawians repatriated from South Africa amid xenophobia concerns",
+            "zh": "出于仇外心理，马拉维人从南非被遣返"
           },
           "summary": {
-            "en": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
-            "zh": "北京正试图在一个具有战略重要性但又深不可测的伙伴身上重新施加影响力。"
-          },
-          "body": {
-            "en": "For Chinese leader Xi Jinping, North Korea is the neighbour China can neither control nor afford to lose.\n\nThe two sides often describe their relationship as one \"forged in blood\", a reference to the Korean War.\n\nYet in recent years, mistrust has strained ties. And now Beijing is trying to reassert sway over a strategically vital yet deeply unpredictable partner.\n\nChina wants stability on its border and influence in Pyongyang, but without being dragged into crises triggered by North Korea's nuclear ambitions.\n\nSo Xi's visit this week - he arrived in Pyongyang on Monday - is likely to be less about friendship, more about leverage.\n\nSeoul believes he may try to position China as a mediator between North Korea and the United States, but Beijing may have other motives.\n\nWestern diplomatic sources tell the BBC that China has become increasingly concerned about the growing partnership between Pyongyang and Moscow.\n\nAfter meeting Russian leader Vladimir Putin last week, Xi may want to ensure he also keeps North Korean leader Kim Jong Un in check, especially as Beijing increases its presence on the global stage.\n\nThey barely marked the 75th anniversary of diplomatic relations in October 2024. Public messaging was muted.\n\nChina's ambassador did not attend North Korea's founding celebrations the previous month. There were no senior level exchanges throughout the year, a stark contrast with Pyongyang's increasingly warm relationship with Moscow.\n\nAfter Russia's invasion of Ukraine, North Korea has expanded military cooperation with Putin, culminating in a mutual defence pact that was signed during Putin's visit to Pyongyang in 2024.\n\nAbout 2,300 North Korean soldiers have died fighting for Russia against Ukraine, according to a BBC investigation. Pyongyang is also accused of supplying ammunition for Russia's war effort in exchange for oil and aid, a development that has alarmed Washington and its allies, and quietly rattled China.\n\n\"China wants to ensure that its interests vis-a-vis North Korea are protected at a time of rapid convergence between Moscow and Pyongyang,\" adds Ankit Panda, a nuclear policy specialist at the Carnegie Endowment for International Peace.\n\nSo Beijing is unlikely to welcome a scenario where Russia becomes the dominant influence in Pyongyang. A more confident, less dependent Kim would mean reduced Chinese leverage.\n\nBeijing has responded by trying to reset the relationship. Late last year, Xi invited Kim to a military parade in Beijing, keeping him prominently by his side alongside Putin.\n\nIt was their first formal summit in six years. Xi praised the two as \"good neighbours, good friends and good comrades bound by a shared destiny\", and called for closer strategic coordination. Notably absent from the public statements was any mention...",
-            "zh": "对于中国领导人习近平来说，朝鲜是中国无法控制、也无法失去的邻国。 双方经常将他们的关系描述为“血脉相连”，指的是朝鲜战争。 然而近年来，不信任使两国关系变得紧张。现在，北京正试图重新确立对这个战略上至关重要但又难以预测的合作伙伴的影响力。 中国希望边境稳定并在平壤发挥影响力，但又不想陷入朝鲜核野心引发的危机。 因此，习近平本周的访问——他周一抵达平壤——可能不是为了友谊，而是为了影响力。 首尔认为，他可能试图将中国定位为朝鲜和美国之间的调解人，但北京可能有其他动机。 西方外交消息人士告诉英国广播公司，中国越来越担心平壤和莫斯科之间不断发展的伙伴关系。 在上周与俄罗斯领导人普京会面后，习近平可能希望确保他也能控制住朝鲜领导人金正恩，特别是在北京增强其在全球舞台上的影响力之际。 2024 年 10 月，两国刚刚庆祝建交 75 周年。公共信息却很平静。 中国大使没有参加上个月朝鲜的建国庆典。全年没有高层交往​​，这与平壤与莫斯科日益友好的关系形成鲜明对比。 俄罗斯入侵乌克兰后，朝鲜扩大了与普京的军事合作，最终在普京 2024 年访问平壤期间签署了共同防御协议。 据英国广播公司 (BBC) 调查显示，约有 2,300 名朝鲜士兵在为俄罗斯对抗乌克兰的战斗中牺牲。平壤还被指控为俄罗斯的战争提供弹药，以换取石油和援助，这一事态发展令华盛顿及其盟友感到震惊，并悄悄地令中国感到不安。 卡内基国际和平基金会核政策专家安基特·潘达补充道：“在莫斯科和平壤迅速趋同之际，中国希望确保其相对朝鲜的利益得到保护。” 因此，北京不太可能欢迎俄罗斯成为平壤的主导影响力的情况。金正恩更加自信、更少依赖，意味着中国的影响力将会减弱。 北京的回应是试图重置两国关系。去年年底，习近平邀请金正恩参加北京的阅兵式，让他与普京一起站在显要位置。 这是他们六年来首次正式峰会。习近平称赞两国是“休戚与共的好邻居、好朋友、好同志”，并呼吁加强战略协作。值得注意的是，公开声明中没有提及……"
-          },
-          "reflection": {
-            "en": "International relations often involve navigating complex partnerships, especially with nations whose actions are hard to foresee. Romans 12:18 reminds us of the ongoing call to live at peace with everyone, as far as it depends on us, even amidst strategic maneuvering and unpredictability. This pursuit of peace requires wisdom and careful diplomacy in a...",
-            "zh": "国际关系常常涉及驾驭复杂的伙伴关系，尤其是在面对那些行动难以预测的国家时。罗马书12:18提醒我们，要尽力与所有人和平相处，即使在战略博弈和不确定性中，也要持续寻求和平。这种对和平的追求，在不断变化的联盟世界中，需要智慧和谨慎的外交。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-science-live-2026-jun-08-australia-news-live-anthony",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/b234fb5d967d1d587c747a26fac89575426d7a93/453_104_3801_3040/master/3801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=55c5426a3efeb651e2bccad46e62dd6a",
-          "publishedAt": "2026-06-08T07:20:12.000Z",
-          "title": {
-            "en": "Andrew Hastie accuses Pauline Hanson of being ‘Maga first’ – as it happened",
-            "zh": "安德鲁·哈斯蒂指责宝琳·汉森‘美国优先’——事件回顾"
-          },
-          "summary": {
-            "en": "A political accusation was made, suggesting a politician prioritized a specific ideology or faction. The news report then shifted to discussing trends in Australian music.",
-            "zh": "一项政治指控被提出，暗示一位政治人物将特定意识形态或派系置于优先地位。该新闻报道随后转向讨论澳大利亚音乐的趋势。"
-          },
-          "body": {
-            "en": "This blog is now closed Get our breaking news email , free app or daily news podcast Is Australian music at risk of extinction? Here’s what the data tells us The music that charts in Australia has changed considerably over the past couple of decades – rock is out, country is in and old tracks are new again. Because of Richard’s brilliant research, advanced Melanoma went from a death sentence to a curable disease. As a result of that breakthrough, in a country with the highest melanoma rates on earth, thousands of Australians are alive today. … After being diagnosed with brain cancer, Australians got to know Richard as a man of warmth and hope. He faced his disease with optimism, with a smile, and with a deep sense of purpose. Just a few months ago, living with stage four brain cancer, he was still riding his bike through Tasmania, raising money for a cure. Continue reading...",
-            "zh": "此博客现已关闭 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 澳大利亚音乐面临灭绝的危险吗？数据告诉我们，过去几十年来，澳大利亚音乐排行榜发生了很大变化——摇滚乐已过时，乡村音乐盛行，旧曲目又焕然一新。由于理查德出色的研究，晚期黑色素瘤从死刑变成了可治愈的疾病。由于这一突破，在这个地球上黑色素瘤发病率最高的国家，如今有数千名澳大利亚人还活着。 ……在被诊断出患有脑癌后，澳大利亚人认识到理查德是一个充满温暖和希望的人。他以乐观、微笑和强烈的使命感面对疾病。就在几个月前，患有第四期脑癌的他仍在骑着自行车穿越塔斯马尼亚，为治疗筹集资金。继续阅读..."
-          },
-          "reflection": {
-            "en": "The political accusation of being 'Maga first' highlights the deep divisions and competing loyalties that often characterize public life. In such environments, it can be challenging to prioritize the common good over factional interests. Philippians 2:3 calls us to humility, valuing others above ourselves, a principle that can transform how we engage in...",
-            "zh": "政治上“美国优先”的指责凸显了公共生活中常见的深刻分歧和相互竞争的忠诚。在这种环境下，将共同利益置于派系利益之上可能充满挑战。腓立比书2:3呼吁我们谦卑，看别人比自己强，这一原则可以改变我们参与分歧和寻求团结的方式。"
-          },
-          "verse": {
-            "reference": "Philippians 2:3",
-            "textEn": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.",
-            "textZh": "凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。",
-            "themeEn": "Selfless humility",
-            "themeZh": "无私的谦卑"
-          },
-          "aiVerseId": "phil_2_3",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-jun-08-armenia-europe-party-wins-election",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/jun/08/armenia-europe-party-wins-election-russia-nikol-pashinyan",
-          "image": "https://i.guim.co.uk/img/media/a8d7259952c0f8c3fe17f9b3caab33c117bdd331/0_0_3669_2936/master/3669.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad0129347b2c072fc57ec564b8f765c8",
-          "publishedAt": "2026-06-08T07:20:04.000Z",
-          "title": {
-            "en": "Armenia’s pro-Europe party wins election and cements shift away from Russia",
-            "zh": "亚美尼亚亲欧政党赢得选举，巩固了脱离俄罗斯的转向"
-          },
-          "summary": {
-            "en": "Armenia's ruling pro-Europe party won parliamentary elections, solidifying Prime Prime Minister Nikol Pashinyan's push for closer ties with Europe. This outcome confirms the country's strategic shift away from its traditional ally, Russia, despite warnings from Moscow.",
-            "zh": "亚美尼亚执政的亲欧政党赢得议会选举，巩固了总理尼科尔·帕希尼扬推动与欧洲更深度融合的努力。尽管莫斯科发出了警告，这一结果仍确认了该国正从其传统盟友俄罗斯转向欧洲。"
-          },
-          "body": {
-            "en": "Result strengthens PM Nikol Pashinyan’s drive for deeper integration with Europe despite warnings from Moscow Armenia’s ruling pro-Europe party has won parliamentary elections, confirming the country’s pivot towards Europe and away from its traditional ally, Russia. Final results in the small South Caucasus country showed the prime minister Nikol Pashinyan’s Civil Contract party securing a slim majority, while the Strong Armenia alliance, led by the Russian-Armenian billionaire Samvel Karapetyan, won 25% of the seats in parliament. Continue reading...",
-            "zh": "尽管莫斯科发出警告，亚美尼亚执政的亲欧党赢得了议会选举，但这一结果加强了总理尼科尔·帕辛扬（Nikol Pashinyan）与欧洲更深层次一体化的动力，证实了该国转向欧洲并远离其传统盟友俄罗斯。这个南高加索小国的最终结果显示，总理尼科尔·帕希尼扬的民事合同党获得微弱多数，而由俄罗斯-亚美尼亚亿万富翁萨姆维尔·卡拉佩特扬领导的强大亚美尼亚联盟赢得了议会25%的席位。继续阅读..."
-          },
-          "reflection": {
-            "en": "A nation's choices about its alliances and direction can profoundly shape its future. This story reminds us that the character of a nation, reflected in its decisions, ultimately determines its standing and well-being. May leaders and citizens alike seek paths that lead to true exaltation and peace.",
-            "zh": "一个国家在联盟和发展方向上的选择，能深刻塑造其未来。这则新闻提醒我们，一个国家的品格，体现在其决策中，最终决定了其地位和福祉。愿领袖和公民都能寻求通往真正高举和和平的道路。"
-          },
-          "verse": {
-            "reference": "Proverbs 14:34",
-            "textEn": "Righteousness exalts a nation, but sin condemns any people.",
-            "textZh": "公义使邦国高举；罪恶是人民的羞辱。",
-            "themeEn": "National righteousness",
-            "themeZh": "国家公义"
-          },
-          "aiVerseId": "prov_14_34",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-jun-08-philippines-earthquake-mindanao-ts",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings",
-          "image": "https://i.guim.co.uk/img/media/9193558ec86c3d1a8f814d301f9b80c0404b6a16/185_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2d3d5fc0544f0172543d4c2a5c3b78b",
-          "publishedAt": "2026-06-08T07:12:14.000Z",
-          "title": {
-            "en": "At least 15 killed as powerful earthquake strikes southern Philippines",
-            "zh": "菲律宾南部发生强烈地震，发布海啸警报"
-          },
-          "summary": {
-            "en": "A powerful magnitude 7.8 earthquake struck the southern Philippines, prompting tsunami warnings for coastal areas in the Philippines, Indonesia, and Malaysia, with residents advised to prepare for waves up to three meters high.",
-            "zh": "菲律宾南部发生7.8级强烈地震，引发菲律宾、印度尼西亚和马来西亚部分沿海地区的海啸警报，居民被告知要为高达三米的巨浪做好准备。"
-          },
-          "body": {
-            "en": "Residents warned not to enter damaged homes or other buildings owing to threat of aftershocks after 7.8-magnitude quake A magnitude-7.8 earthquake shook part of the southern Philippines early on Monday, collapsing buildings and killing at least 15 people. “Many buildings were affected, but I cannot enumerate them now because we are busy with ongoing rescues,” Robert Dagon, of the General Santos city police, told Agence France-Presse. Continue reading...",
-            "zh": "人们被告知要为菲律宾部分地区高达三米的海浪做好准备，印度尼西亚和马来西亚可能会出现较小的海浪周一早些时候，菲律宾南部部分地区发生了7.8级地震，在一些地区海岸引发了海啸警报，导致一些房屋倒塌并造成至少一人死亡。桑托斯将军市警方的军士长罗伯特·达贡告诉法新社：“许多建筑物受到影响，但我现在无法一一列举，因为我们正忙于正在进行的救援。”继续阅读..."
-          },
-          "reflection": {
-            "en": "In moments of sudden natural disaster, like an earthquake and impending tsunami, a deep sense of vulnerability can arise. Psalm 46:1 reminds us that even when the earth shakes and waters threaten, 雅伟 is our refuge and strength, a very present help in trouble. This truth offers a steady anchor for those facing uncertainty and danger.",
-            "zh": "在地震和海啸即将来临等突发自然灾害的时刻，人们会产生一种深深的脆弱感。诗篇46:1提醒我们，即使大地摇晃，海浪汹涌，雅伟仍是我们的避难所和力量，是我们在患难中随时的帮助。这一真理为那些面临不确定和危险的人们提供了一个稳固的锚。"
-          },
-          "verse": {
-            "reference": "Psalm 46:1",
-            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
-            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
-            "themeEn": "Refuge in trouble",
-            "themeZh": "患难中的避难所"
-          },
-          "aiVerseId": "ps_46_1",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-videos-cd6p6zqzj6do-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/506c/live/b30cebe0-6309-11f1-89a3-d1f559421220.jpg",
-          "publishedAt": "2026-06-08T06:09:53.000Z",
-          "title": {
-            "en": "Rare footage captured of Great White shark in Mediterranean Sea",
-            "zh": "地中海罕见拍到大白鲨画面"
-          },
-          "summary": {
-            "en": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.",
-            "zh": "一名志愿潜水员在突尼斯和西西里岛之间拍摄到了一头濒危大白鲨的罕见画面，他形容这次遭遇令他颤抖不已。"
-          },
-          "body": {
-            "en": "A diver who filmed an incredibly rare encounter with a Great White shark in the Mediterranean Sea in May has described the moment as \"pretty special\".\n\n\"The shark was pretty close to us [...] And in fact my fingers were trembling when I was trying to get the camera operating,\" volunteer diver Derk Remmers told the BBC.\n\nIt is thought overfishing has contributed to driving the species to near extinction in the Mediterranean.\n\nScientists say people should not be concerned as the shark, believed to be an adult male, was spotted many miles offshore between Tunisia and Sicily.\n\nConservationists said they hoped the sighting may encourage governments to create marine protected areas in Mediterranean waters.\n\nDivers working for the NGO Healthy Seas captured the footage whilst diving to highlight the problem of so-called \"ghost fishing nets\".\n\nScience correspondent Pallab Ghosh explains why the explosion is a setback for space exploration.\n\nA Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.\n\nIn a video message from Buckingham Palace, wildlife helps the King deliver a birthday card for Sir David Attenborough.\n\nNewly released video shows the moment the hatch of Artemis II's Orion capsule is unlocked to a joyful reunion with the four astronauts.\n\nSteve Backshall spotted two of the UK's last surviving orcas which he described as one of his \"greatest British wildlife moments\".\n\nFrance's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday night.\n\nThe 98m tall Space Launch System (SLS) and Orion spacecraft made a four mile journey from their assembly building to Pad 39B at the Kennedy Space Center in Florida.\n\nBBC science correspondent Pallab Ghosh explains what happens if an astronaut gets ill in space.\n\nFrom meteor showers to supermoons, here are some of the sights that wowed stargazers this year.\n\nThe Met Office has issued yellow severe weather warnings for both wind and rain.\n\nBaroness Kathy Willis talks about the importance of green and blue spaces in cities.\n\nStudying samples from the ice sheet gives an environmental record of over a million years.\n\nThe animal rights activist has died aged 91, after a pioneering career studying chimps.\n\nPresident Trump has suggested this week that wind power is the reason for rising energy bills in the UK. BBC Verify's Ben Chu takes a look at the data.\n\nLondon Zoo in Regent's Park holds its annual animal weigh-in, with zookeepers weighing and measuring over 10,000 animals to monitor their health and wellbeing.",
-            "zh": "一名潜水员五月份在地中海拍摄到了与大白鲨的罕见遭遇，他形容这一时刻“非常特别”。 “鲨鱼离我们非常近 [...] 事实上，当我试图操作相机时，我的手指在颤抖，”志愿潜水员 Derk Remmers 告诉 BBC。 人们认为，过度捕捞导致该物种在地中海濒临灭绝。 科学家表示，人们不必担心，因为人们在突尼斯和西西里岛之间的近海几英里处发现了这条鲨鱼，据信是一只成年雄性鲨鱼。 环保人士表示，他们希望这一景象能够鼓励各国政府在地中海水域建立海洋保护区。 非政府组织健康海洋工作的潜水员在潜水时拍摄了这段视频，以强调所谓的“幽灵渔网”问题。 科学记者帕拉布·戈什解释了为什么爆炸是太空探索的挫折。 周四晚上，蓝色起源公司的一枚新格伦火箭在佛罗里达州卡纳维拉尔角的发射台上爆炸。 在来自白金汉宫的视频信息中，野生动物帮助国王为大卫·阿滕伯勒爵士递送生日贺卡。 新发布的视频展示了阿耳忒弥斯二号猎户座太空舱的舱门打开的那一刻，与四名宇航员欢乐团聚。 史蒂夫·巴克歇尔 (Steve Backshall) 发现了英国仅存的两只逆戟鲸，他称这是他“最伟大的英国野生动物时刻”之一。 法国的埃菲尔铁塔和巴塞罗那的圣家堂等著名的全球地标建筑在周六晚上漆黑了一个小时。 98m 高的太空发射系统 (SLS) 和猎户座飞船从装配大楼出发，经过四英里的路程到达佛罗里达州肯尼迪航天中心的 39B 发射台。 BBC 科学记者 Pallab Ghosh 解释了如果宇航员在太空中生病会发生什么。 从流星雨到超级月亮，以下是今年令观星者惊叹不已的一些景象。 英国气象局已发布风雨黄色恶劣天气警报。 凯西·威利斯男爵夫人谈论城市中绿色和蓝色空间的重要性。 对冰盖样本的研究提供了超过一百万年的环境记录。 这位动物权利活动家在从事黑猩猩研究开创性的职业生涯后去世，享年 91 岁。 特朗普总统本周表示，风力发电是英国能源费用上涨的原因。 BBC verify 的 Ben Chu 查看了数据。 位于摄政公园的伦敦动物园每年都会举行动物称重活动，动物园管理员会对 10,000 多只动物进行称重和测量，以监测它们的健康状况。"
-          },
-          "reflection": {
-            "en": "The rare sighting of a Great White shark reminds us of the profound wonders hidden within our natural world. Such encounters invite us to pause and consider the intricate beauty and power of creation, recognizing the divine hand behind all living things.",
-            "zh": "罕见的大白鲨踪迹提醒我们，自然世界中蕴藏着深刻的奇迹。这样的相遇邀请我们停下来，思考创造的精妙之美和力量，并认识到所有生物背后都有雅伟的作为。"
-          },
-          "verse": {
-            "reference": "Job 12:7-9",
-            "textEn": "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you.",
-            "textZh": "你且问走兽，走兽必指教你；又问空中的飞鸟，飞鸟必告诉你。或与地说话，地必指教你；海中的鱼也必向你说明。",
-            "themeEn": "Wisdom from creation",
-            "themeZh": "受造之物的教导"
-          },
-          "aiVerseId": "job_12_7",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-james-dalamangas-arrest-greece-extradition-s",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/james-dalamangas-arrest-greece-extradition-statute-limitations/8jjky9deq",
-          "image": "https://assets.sbs.com.au/dims4/default/be058d0/2147483647/strip/false/crop/6000x2757+0+622/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F8c%2Fb0%2F3391361943f79f0973a53bd66ca7%2F20240109001886621534-original-1.jpg",
-          "publishedAt": "2026-06-08T04:21:34.000Z",
-          "title": {
-            "en": "The deadline that could complicate extradition of one of Australia's most wanted men",
-            "zh": "截止日期可能会使引渡澳大利亚头号通缉犯之一变得复杂"
-          },
-          "summary": {
-            "en": "James Dalamangas' arrest in Greece comes after Australian Federal Police warned time was running out to prosecute him.",
+            "en": "Malawi is among several African nations transporting their citizens out of the country following reports of violence against migrants.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "The extradition of one of Australia's most wanted men from Greece over a fatal Sydney nightclub stabbing nearly three decades ago could be complicated by Greece's strict statute of limitations.\n\nJames Dalamangas, 56, was arrested on Sunday by Greek authorities in Achaia, a region in north-western Peloponnese.\n\nHe is wanted by Australian authorities over the death of George Giannopoulous, a father-of-two fatally stabbed while breaking up a fight at the Pariziana nightclub in Belmore in Sydney's south-west in 1999.\n\nNSW Police issued a warrant for Dalamangas' arrest, but he allegedly fled before he could be apprehended, with investigators suspecting he had moved to Greece.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nPolice tried to extradite him in 2003, but they were unsuccessful. Greek authorities took over the case, but attempts to prosecute him were abandoned in 2007 after he could not be found.\n\nIn 2019, Australian authorities offered a $200,000 reward for information that led to his arrest.\n\nIn 2024, the Australian Federal Police (AFP) and Giannopolous' family issued a last-effort plea for help as the 25-year-long Greek statute of limitations neared its end.\n\nAt the time, his sister Toula Giannopolous said she believed people in Australia and in Greece had been helping hide Dalamangas.\n\nUnder Greek law, an extradition can be granted only if the offence is punishable under local law and within its statute of limitations, meaning attempts to return Dalamangas to Australia are all but certain to face legal hurdles.\n\nThe Australian Federal Police declined to comment on reports of Dalamangas' arrest while NSW Police said in a statement it was \"encouraged\" by them, adding the force and Australian authorities were \"now engaging with Hellenic Police\".\n\nA spokesperson for the Attorney-General's Department would not say whether an extradition request had been made.\n\nGreek media outlet Tempo24 reported Dalamangas lived under the name Antonis Tzimas for 18 years in the rural village of Alsos. The Greek Reporter reported his home was surrounded by high walls and guard dogs.\n\nIn a statement, the Hellenic Police said a 56-year-old Greek national subject to an Interpol notice for homicide in Australia had been arrested in an area of Achaia on Sunday afternoon, local time.\n\nThey said investigators had received information that he had been living in the area under a false identity, and a specialist team had been formed to locate him and verify his real identity.\n\nHe was intercepted by police while driving with an 86-year-old man and a 47-year-old woman, reportedly his father and partner.\n\nDalamangas allegedly gave police a false name, but his fingerprints were taken,...",
-            "zh": "由于希腊严格的诉讼时效，从希腊引渡澳大利亚头号通缉犯之一因近三十年前悉尼夜总会发生的致命持刀伤人事件可能会变得复杂。 56 岁的詹姆斯·达拉曼加斯 (James Dalamangas) 周日在伯罗奔尼撒半岛西北部的亚该亚地区被希腊当局逮捕。 他因乔治·吉安诺普卢斯 (George Giannopoulous) 的死亡而被澳大利亚当局通缉。乔治·吉安诺普卢斯是两个孩子的父亲，1999 年在悉尼西南部贝尔莫尔的 Pariziana 夜总会制止一场斗殴时被刺伤身亡。 新南威尔士州警方对达拉曼加斯发出了逮捕令，但据称他在被捕之前就逃跑了，调查人员怀疑他已移居希腊。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 2003年，警方试图引渡他，但没有成功。希腊当局接手了此案，但由于找不到他，2007年放弃了起诉他的尝试。 2019年，澳大利亚当局悬赏20万美元寻找导致他被捕的信息。 2024年，随着希腊长达25年的诉讼时效即将结束，澳大利亚联邦警察（法新社）和詹诺波洛斯的家人发出了最后的求助请求。 当时，他的妹妹图拉·吉安诺波洛斯 (Toula Giannopolous) 表示，她相信澳大利亚和希腊的人们一直在帮助隐藏达拉曼加斯。 根据希腊法律，只有在该罪行根据当地法律并在时效范围内应受到惩罚的情况下，才能批准引渡，这意味着将达拉曼加斯送回澳大利亚的尝试几乎肯定会面临法律障碍。 澳大利亚联邦警察拒绝对达拉曼加斯被捕的报道发表评论，而新南威尔士州警方在一份声明中表示，他们受到了“鼓励”，并补充说，警方和澳大利亚当局“正在与希腊警方接触”。 司法部发言人不愿透露是否已提出引渡请求。 希腊媒体 Tempo24 报道称，达拉曼加斯以安东尼斯·齐马斯 (Antonis Tzimas) 的名字在阿尔索斯 (Alsos) 乡村生活了 18 年。希腊记者报道称，他的家被高墙和看门狗包围。 希腊警方在一份声明中表示，一名 56 岁的希腊公民于当地时间周日下午在亚该亚地区被捕，他因在澳大利亚杀人而受到国际刑警组织的通缉。 他们说，调查人员收到消息称，他一直以虚假身份居住在该地区，并且已经成立了一个专家小组来寻找他并核实他的真实身份。 他在与一名 86 岁男子和一名 47 岁女子（据报道是他的父亲和伴侣）一起开车时被警察拦截。 据称，达拉曼加斯向警方提供了假名，但他的指纹被采集了……"
+            "en": "A group of 150 Malawians repatriated from South Africa amid growing worries about xenophobia are due to arrive by road in their home country on Monday, the Malawian authorities have said.\n\nThe repatriation follows violence in South Africa's Western Cape Province where there were reports just over a week ago of door-to-door intimidation, as well as the deaths of two Mozambicans in Mossel Bay .\n\nThe Malawians were \"among a number of foreign nationals\" who had \"sought refuge in temporary camps\" in Mossel Bay, according to a statement from Lilongwe.\n\nGhana, Nigeria and Zimbabwe have also organised repatriation flights and transport after raising concerns about xenophobia in South Africa.\n\nAnti-migrant groups are demanding undocumented migrants leave the country - and have set 30 June as a deadline.\n\nIn a national address on Sunday aimed at easing tensions, South African President Cyril Ramaphosa announced a raft of new measures to crackdown on illegal migration.\n\nBut he also warned South Africans not to take the law into their own hands. He said there was \"no space for xenophobia, racism, sexism, Afrophobia or any other forms of intolerance\" in the country.\n\nA group of 74 Zimbabweans arrived home on Sunday after being driven from Mossel Bay in transport organised by the Zimbabwean authorities. Some families with young children say they fled the Western Cape fearing for their safety.\n\nAt the end of last month, Ghana organised a repatriation flight from Johannesburg for nearly 300 of its citizens. A group of about 680 more arrived in Ghana's capital, Accra, at the weekend.\n\nOn Saturday, South Africa's Foreign Minister Ronald Lamola accused his Ghanaian counterpart of spreading misinformation about xenophobia in South Africa.\n\nIn a post on X, linking to an interview that Ghana's Foreign Minister Samuel Okudzeto Ablakwa gave to a news station in Accra, Lamola described what he heard as \"deeply disappointing\".\n\nAblakwa told Joy News that he was proud of the solidarity that Ghanaians had shown in supporting their fellow nationals.\n\nHe also talked about reports of foreigners being killed after being attacked in South Africa and reiterated a call for the African Union (AU) to investigate what was happening.\n\nIn response, Lamola disputed that two Nigerians and five Mozambicans had died in separate acts of violence.\n\nOn Ablakwa saying that a number of Ghanaians were being treated in hospital in South Africa after being attacked, Lamola said his government had \"no information of that nature whatsoever\".\n\nAblakwa also said that his government had asked South Africa to compensate the Ghanaians who had been repatriated for the property that they had left behind.\n\nAs part of Ramaphosa's plan to deal with illegal migration, the president said the deportation of...",
+            "zh": "马拉维当局表示，由于对仇外心理的担忧日益加剧，一批 150 名马拉维人将于周一通过陆路返回祖国。 此次遣返是在南非西开普省发生暴力事件之后进行的，一周前有报道称该省发生了挨家挨户的恐吓事件，并造成莫塞尔湾两名莫桑比克人死亡。 根据利隆圭的一份声明，这些马拉维人是“在莫塞尔湾的临时营地寻求庇护的众多外国人之一”。 加纳、尼日利亚和津巴布韦在对南非的仇外心理表示担忧后，也组织了遣返航班和运输。 反移民团体要求无证移民离开该国，并将 6 月 30 日定为最后期限。 在周日旨在缓解紧张局势的全国讲话中，南非总统西里尔·拉马福萨宣布了一系列打击非法移民的新措施。 但他也警告南非人不要将法律掌握在自己手中。他说，该国“没有仇外心理、种族主义、性别歧视、仇外心理或任何其他形式的不容忍行为的空间”。 周日，74 名津巴布韦人乘坐津巴布韦当局组织的交通工具从莫塞尔湾返回家中。一些有小孩的家庭表示，他们因担心自身安全而逃离西开普省。 上月底，加纳为近300名公民组织了从约翰内斯堡出发的撤侨航班。周末，还有约 680 人抵达加纳首都阿克拉。 周六，南非外交部长罗纳德·拉莫拉指责加纳外长散布有关南非仇外心理的错误信息。 在 X 上的一篇帖子中，链接到加纳外交部长塞缪尔·奥库泽托·阿布拉夸 (Samuel Okudzeto Ablakwa) 接受阿克拉一家新闻台的采访，拉莫拉称他所听到的内容“非常令人失望”。 阿布拉夸告诉《欢乐新闻》，他为加纳人民在支持同胞方面表现出的团结感到自豪。 他还谈到了外国人在南非遭到袭击后被杀的报道，并再次呼吁非洲联盟（AU）调查所发生的事情。 作为回应，拉莫拉对两名尼日利亚人和五名莫桑比克人分别死于暴力行为的说法提出异议。 关于阿布拉夸称一些加纳人遭到袭击后正在南非医院接受治疗，拉莫拉表示，他的政府“没有任何此类信息”。 阿布拉夸还表示，南非政府已要求南非赔偿被遣返的加纳人留下的财产。 总统表示，作为拉马福萨应对非法移民计划的一部分，驱逐......"
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -414,6 +379,106 @@
             "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-clyel78e6p5o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6ec7/live/fc4cdaf0-62f9-11f1-9f01-0f46b1df0d85.jpg",
+          "publishedAt": "2026-06-08T11:10:07.000Z",
+          "title": {
+            "en": "At least 32 dead after major earthquake strikes southern Philippines",
+            "zh": "菲律宾南部发生大地震 至少32人死亡"
+          },
+          "summary": {
+            "en": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "At least 32 people have died after a magnitude-7.8 earthquake struck off the coast of Mindanao island in the southern Philippines, officials say.\n\nThe quake hit at 07:37 local time on Monday (Sunday 23:37 GMT), triggering tsunami alerts in the Philippines, Indonesia, Japan and Australia. Some of those were cancelled hours later.\n\nVideos and images showed buildings collapsing, including a clip of a Jollibee fast food restaurant reduced to rubble, and landslides have been recorded in some areas.\n\nMore than 100 people have been injured across several provinces, almost two dozen are missing, and 10,000 residents have been pre-emptively evacuated, authorities have said.\n\nMindanao is the Philippines second-biggest island - both in size and population - and is home to around 26 million people.\n\nCasualty numbers still need to be verified by the national disaster agency, which tabulates and verifies reports by various local sources and is expected to provide an official update in the coming days.\n\nLocal authorities in the coastal province of Sarangani, about 20km (12.5 miles) from the quake's epicentre, said 17 people had died there, many of them in a landslide. The quake temporarily downed power and communication networks in Sarangani - though they were later restored.\n\nIn General Santos, the city nearest the epicentre, 10 people were killed, the Office of Civil Defence said. Another 22 people remain missing. General Santos, known as the Philippines' tuna capital, is also known as the hometown of Manny Pacquiao, the world boxing champion who later became a politician.\n\nPhilippine President Ferdinand Marcos Jr said in a statement that agencies were co-ordinating their disaster response.\n\n\"The national government is moving and we will not leave Mindanao behind,\" he promised.\n\nMarcos also ordered the suspension of classes in affected areas after the quake, which coincided with the first day of the school year in the Philippines.\n\nIn one video posted by a primary school in Davao Occidental province, dozens of terrified students can be seen squatting on the shaking ground.\n\nThe video also showed a corrugated-roof shelter collapsing behind them, though the school said in its post that no-one had been injured.\n\nMore than 130 aftershocks, with magnitudes ranging from 1.3 to 6.7, were recorded after the initial quake.\n\nEarthquakes are common in the Philippines, which sits on the geologically unstable \"ring of fire\". While most of these quakes are minor and pass relatively peacefully, some have proven deadly. Last September, a magnitude-6.9 earthquake struck the central Visayas region, killing more than 70 people.\n\nShortly after the quake on Monday morning, authorities in Japan warned of one-metre-tall tsunami waves reaching its shores.\n\nA tsunami wave measuring a...",
+            "zh": "官员称，菲律宾南部棉兰老岛海岸发生里氏 7.8 级地震，造成至少 32 人死亡。 此次地震于当地时间周一 07:37（格林威治标准时间周日 23:37）发生，引发了菲律宾、印度尼西亚、日本和澳大利亚的海啸警报。其中一些在几个小时后被取消。 视频和图像显示建筑物倒塌，其中包括一家快乐蜂快餐店变成废墟的视频，部分地区还出现山体滑坡。 当局表示，多个省份已有 100 多人受伤，近 20 人失踪，10,000 名居民已被提前疏散。 棉兰老岛是菲律宾第二大岛屿（无论是面积还是人口），拥有约 2600 万人口。 伤亡人数仍需要国家救灾机构核实，该机构对当地各个来源的报告进行了制表和核实，预计将在未来几天提供官方最新消息。 距震中约 20 公里（12.5 英里）的沿海省份萨兰加尼地方当局表示，该省已造成 17 人死亡，其中许多人死于山体滑坡。地震暂时中断了萨兰加尼的电力和通信网络，但后来又恢复了。 民防办公室称，在距离震中最近的桑托斯将军城，有 10 人死亡。另有22人仍然失踪。桑托斯将军城被誉为菲律宾的金枪鱼之都，也是世界拳击冠军、后来成为政治家的曼尼·帕奎奥的故乡。 菲律宾总统小费迪南德·马科斯在一份声明中表示，各机构正在协调救灾工作。 “国家政府正在采取行动，我们不会把棉兰老岛抛在后面，”他承诺道。 马科斯还下令地震后受影响地区停课，恰逢菲律宾学年的第一天。 在西达沃省一所小学发布的一段视频中，可以看到数十名惊恐的学生蹲在摇晃的地面上。 视频还显示，他们身后的一个波纹屋顶避难所倒塌，不过学校在帖子中表示，没有人受伤。 初次地震后，记录了 130 多次余震，震级从 1.3 级到 6.7 级不等。 菲律宾位于地质不稳定的“火环”上，地震很常见。虽然这些地震大多数都是轻微的，并且相对平静地过去，但有些地震已被证明是致命的。去年9月，米沙鄢群岛中部地区发生6.9级地震，造成70多人死亡。 周一早上地震发生后不久，日本当局警告称，一米高的海啸将袭击日本海岸。 海啸波测量..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cvgel990n51o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1783/live/0075ad00-630e-11f1-89a3-d1f559421220.jpg",
+          "publishedAt": "2026-06-08T10:28:40.000Z",
+          "title": {
+            "en": "Armenia's pro-West government wins election despite Russian pressure",
+            "zh": "亚美尼亚亲西方政府不顾俄罗斯压力赢得选举"
+          },
+          "summary": {
+            "en": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Armenian Prime Minister Nikol Pashinyan's party has won a crucial election billed as being key in deciding whether the country continues to move closer to the West.\n\nPashinyan's centrist Civil Contract Party secured 49.8% of the vote, with the Strong Armenia Alliance coming in second with 23.2%. The Armenia Alliance was third with 9.9%.\n\nSunday's vote was the first general election since Armenia, a small South Caucasus country of three million people, suffered a crushing military defeat by Azerbaijan in 2023.\n\nIt was viewed as a test of the prime minister's push to deepen ties with the West while facing mounting economic pressure from Russia, its largest trading partner and traditional ally.\n\nPashinyan, who has been in power since 2018, declared victory on Monday after early results showed his party had secured more than 50% of the vote.\n\n\"Armenian people voted for peace, regional prosperity and cooperation,\" he said.\n\nThe election drew significant international attention to the country. On Monday, France and the EU were among European powers that congratulated Pashinyan, praising Armenia's closer ties with the West.\n\nRussia's foreign ministry spokesperson Maria Zakharova was quoted by the Tass news agency as saying \"unprecedented pressure\" had been put on opposition parties and alleged there had been \"interference\" from the West.\n\nZakharova also said the election had demonstrated that Armenian society was \"extremely polarised\".\n\nCivil Contract's success came despite Pashinyan's domestic support falling from 54% in 2021 to around 30% today, according to polls.\n\nA total of 19 parties and alliances took part in the election but few of these earned enough votes to gain a seat in the national assembly. Turnout was 59%, the electoral commission said.\n\nThe conservative Prosperous Armenia party, led by businessman Gagik Tsarukyan, came fourth with 4% of the vote.\n\nIt, like the Strong Armenia Alliance - led by Russian-Armenian billionaire Samvel Karapetyan, and the Armenia Alliance - led by former President Robert Kocharyan, are pro-Russian.\n\n\"We will continue the course of rapprochement with the West, but we will also continue our participation and membership in the Eurasian Economic Union,\" Pashinyan also said on Monday.\n\nIn late May, the Russian president called on Armenia to hold a referendum \"as soon as possible\" on whether to join the EU or remain in the Russian-led Eurasian Economic Union (EAEU), a customs bloc from which Armenia benefits.\n\nLast month, Russian President Vladimir Putin listed the economic benefits Armenia stood to lose if it pursued closer ties with the West - pointedly noting that \"the crisis in Ukraine began with efforts to move toward EU accession\".\n\nRussia supplies Armenia with gas at $177.50 (£132.90) per 1,000 cubic metres,...",
+            "zh": "亚美尼亚总理尼科尔·帕希尼扬的政党赢得了一场至关重要的选举，这场选举被认为是决定该国是否继续向西方靠拢的关键。 帕希尼扬领导的中间派民事契约党获得了49.8%的选票，强大的亚美尼亚联盟以23.2%的得票率位居第二。亚美尼亚联盟以 9.9% 排名第三。 周日的投票是自2023年亚美尼亚这个拥有300万人口的南高加索小国在军事上惨败于阿塞拜疆以来的首次大选。 这被视为对总理在面临来自其最大贸易伙伴和传统盟友俄罗斯日益增长的经济压力的情况下深化与西方关系的考验。 自 2018 年以来一直执政的帕希尼扬在早期结果显示他的政党获得了超过 50% 的选票后于周一宣布获胜。 “亚美尼亚人民投票支持和平、地区繁荣与合作，”他说。 这次选举引起了国际社会对该国的高度关注。周一，法国和欧盟等欧洲大国向帕希尼扬表示祝贺，称赞亚美尼亚与西方的关系更加密切。 塔斯社援引俄罗斯外交部发言人玛丽亚·扎哈罗娃的话说，反对党受到了“前所未有的压力”，并声称受到了西方的“干涉”。 扎哈罗娃还表示，这次选举表明亚美尼亚社会“极度两极分化”。 民意调查显示，尽管帕希尼扬的国内支持率从 2021 年的 54% 下降至如今的 30% 左右，但《民事合同》还是取得了成功。 共有19个政党和联盟参加了选举，但其中很少有赢得足够选票获得国民议会席位的政党和联盟。选举委员会称，投票率为 59%。 由商人加吉克·查鲁基安(Gagik Tsarukyan)领导的保守的繁荣亚美尼亚党以4%的选票位居第四。 它与由俄罗斯裔亚美尼亚亿万富翁萨姆维尔·卡拉佩特扬领导的强大亚美尼亚联盟和由前总统罗伯特·科恰良领导的亚美尼亚联盟一样，都是亲俄罗斯的。 帕辛扬周一还表示：“我们将继续与西方和解，但我们也将继续参与欧亚经济联盟并成为其成员。” 5月下旬，俄罗斯总统呼吁亚美尼亚“尽快”就是否加入欧盟或留在俄罗斯领导的欧亚经济联盟（EAEU）举行全民公投，亚美尼亚是一个从中受益的关税集团。 上个月，俄罗斯总统弗拉基米尔·普京列出了亚美尼亚如果寻求与西方建立更密切的关系可能会失去的经济利益，并尖锐地指出“乌克兰的危机始于为加入欧盟而做出的努力”。 俄罗斯以每 1,000 立方米 177.50 美元（132.90 英镑）的价格向亚美尼亚供应天然气，..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-james-dalamangas-arrest-greece-extradition-s",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/james-dalamangas-arrest-greece-extradition-statute-limitations/8jjky9deq",
+          "image": "https://assets.sbs.com.au/dims4/default/be058d0/2147483647/strip/false/crop/6000x2757+0+622/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F8c%2Fb0%2F3391361943f79f0973a53bd66ca7%2F20240109001886621534-original-1.jpg",
+          "publishedAt": "2026-06-08T04:21:34.000Z",
+          "title": {
+            "en": "The deadline that could complicate extradition of one of Australia's most wanted men",
+            "zh": "可能使引渡澳大利亚头号通缉犯复杂化的最后期限"
+          },
+          "summary": {
+            "en": "James Dalamangas, one of Australia's most wanted men, has been arrested in Greece. His extradition faces potential complications due to a looming deadline for his prosecution, as previously warned by the Australian Federal Police.",
+            "zh": "澳大利亚头号通缉犯之一詹姆斯·达拉曼加斯已在希腊被捕。澳大利亚联邦警察此前曾警告，起诉他的时间所剩无几，这使得他的引渡面临潜在的复杂性。"
+          },
+          "body": {
+            "en": "The extradition of one of Australia's most wanted men from Greece over a fatal Sydney nightclub stabbing nearly three decades ago could be complicated by Greece's strict statute of limitations.\n\nJames Dalamangas, 56, was arrested on Sunday by Greek authorities in Achaia, a region in north-western Peloponnese.\n\nHe is wanted by Australian authorities over the death of George Giannopoulous, a father-of-two fatally stabbed while breaking up a fight at the Pariziana nightclub in Belmore in Sydney's south-west in 1999.\n\nNSW Police issued a warrant for Dalamangas' arrest, but he allegedly fled before he could be apprehended, with investigators suspecting he had moved to Greece.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nPolice tried to extradite him in 2003, but they were unsuccessful. Greek authorities took over the case, but attempts to prosecute him were abandoned in 2007 after he could not be found.\n\nIn 2019, Australian authorities offered a $200,000 reward for information that led to his arrest.\n\nIn 2024, the Australian Federal Police (AFP) and Giannopolous' family issued a last-effort plea for help as the 25-year-long Greek statute of limitations neared its end.\n\nAt the time, his sister Toula Giannopolous said she believed people in Australia and in Greece had been helping hide Dalamangas.\n\nUnder Greek law, an extradition can be granted only if the offence is punishable under local law and within its statute of limitations, meaning attempts to return Dalamangas to Australia are all but certain to face legal hurdles.\n\nThe Australian Federal Police declined to comment on reports of Dalamangas' arrest while NSW Police said in a statement it was \"encouraged\" by them, adding the force and Australian authorities were \"now engaging with Hellenic Police\".\n\nA spokesperson for the Attorney-General's Department would not say whether an extradition request had been made.\n\nGreek media outlet Tempo24 reported Dalamangas lived under the name Antonis Tzimas for 18 years in the rural village of Alsos. The Greek Reporter reported his home was surrounded by high walls and guard dogs.\n\nIn a statement, the Hellenic Police said a 56-year-old Greek national subject to an Interpol notice for homicide in Australia had been arrested in an area of Achaia on Sunday afternoon, local time.\n\nThey said investigators had received information that he had been living in the area under a false identity, and a specialist team had been formed to locate him and verify his real identity.\n\nHe was intercepted by police while driving with an 86-year-old man and a 47-year-old woman, reportedly his father and partner.\n\nDalamangas allegedly gave police a false name, but his fingerprints were taken,...",
+            "zh": "由于希腊严格的诉讼时效，从希腊引渡澳大利亚头号通缉犯之一因近三十年前悉尼夜总会发生的致命持刀伤人事件可能会变得复杂。 56 岁的詹姆斯·达拉曼加斯 (James Dalamangas) 周日在伯罗奔尼撒半岛西北部的亚该亚地区被希腊当局逮捕。 他因乔治·吉安诺普卢斯 (George Giannopoulous) 的死亡而被澳大利亚当局通缉。乔治·吉安诺普卢斯是两个孩子的父亲，1999 年在悉尼西南部贝尔莫尔的 Pariziana 夜总会制止一场斗殴时被刺伤身亡。 新南威尔士州警方对达拉曼加斯发出了逮捕令，但据称他在被捕之前就逃跑了，调查人员怀疑他已移居希腊。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 2003年，警方试图引渡他，但没有成功。希腊当局接手了此案，但由于找不到他，2007年放弃了起诉他的尝试。 2019年，澳大利亚当局悬赏20万美元寻找导致他被捕的信息。 2024年，随着希腊长达25年的诉讼时效即将结束，澳大利亚联邦警察（法新社）和詹诺波洛斯的家人发出了最后的求助请求。 当时，他的妹妹图拉·吉安诺波洛斯 (Toula Giannopolous) 表示，她相信澳大利亚和希腊的人们一直在帮助隐藏达拉曼加斯。 根据希腊法律，只有在该罪行根据当地法律并在时效范围内应受到惩罚的情况下，才能批准引渡，这意味着将达拉曼加斯送回澳大利亚的尝试几乎肯定会面临法律障碍。 澳大利亚联邦警察拒绝对达拉曼加斯被捕的报道发表评论，而新南威尔士州警方在一份声明中表示，他们受到了“鼓励”，并补充说，警方和澳大利亚当局“正在与希腊警方接触”。 司法部发言人不愿透露是否已提出引渡请求。 希腊媒体 Tempo24 报道称，达拉曼加斯以安东尼斯·齐马斯 (Antonis Tzimas) 的名字在阿尔索斯 (Alsos) 乡村生活了 18 年。希腊记者报道称，他的家被高墙和看门狗包围。 希腊警方在一份声明中表示，一名 56 岁的希腊公民于当地时间周日下午在亚该亚地区被捕，他因在澳大利亚杀人而受到国际刑警组织的通缉。 他们说，调查人员收到消息称，他一直以虚假身份居住在该地区，并且已经成立了一个专家小组来寻找他并核实他的真实身份。 他在与一名 86 岁男子和一名 47 岁女子（据报道是他的父亲和伴侣）一起开车时被警察拦截。 据称，达拉曼加斯向警方提供了假名，但他的指纹被采集了……"
+          },
+          "reflection": {
+            "en": "The pursuit of justice can be a long and complex journey, often facing deadlines and legal intricacies. This story reminds us of the challenges in ensuring accountability, echoing the ancient lament when the law seems paralyzed and justice delayed. Yet, the call for righteousness remains, urging us to uphold systems that seek truth and fairness for all.",
+            "zh": "寻求公义的道路漫长而复杂，常面临最后期限和法律的错综复杂。这个故事提醒我们，在确保问责制方面存在挑战，呼应了古时当律法似乎瘫痪、公义迟迟不至时的哀叹。然而，对公义的呼唤依然存在，敦促我们维护那些寻求真相和公平的制度。"
+          },
+          "verse": {
+            "reference": "Habakkuk 1:4",
+            "textEn": "The law is paralyzed, and justice never prevails. The wicked hem in the righteous, so that justice is perverted.",
+            "textZh": "因此律法放松，公理也不显明；恶人围困义人，所以公理显然颠倒。",
+            "themeEn": "Lament for broken justice",
+            "themeZh": "对不公的哀诉"
+          },
+          "aiVerseId": "hab_1_4",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-tsunami-warnings-issued-as-7-8-magnitude-ear",
@@ -450,40 +515,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-com-news-articles-cj0g4425zmeo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d6ad/live/d28fe260-6304-11f1-b682-cf91850925ea.jpg",
-          "publishedAt": "2026-06-08T01:33:08.000Z",
-          "title": {
-            "en": "Five people injured in stabbing at New York City's Penn Station",
-            "zh": "纽约市宾夕法尼亚车站持刀伤人事件致五人受伤"
-          },
-          "summary": {
-            "en": "Five individuals were injured in a stabbing incident at New York City's Penn Station. Authorities are increasing security measures in the city ahead of President Trump's visit on Monday to attend the NBA finals.",
-            "zh": "纽约市宾夕法尼亚车站发生持刀伤人事件，造成五人受伤。在特朗普总统周一将到访观看NBA总决赛之前，该市正在加强安全措施。"
-          },
-          "body": {
-            "en": "Five people have been injured in a stabbing at New York City’s Penn Station, officials say.\n\nOne person suffered a serious injury, two had moderate injuries, and the rest suffered minor injuries from the stabbing, the Fire Department of New York said in a statement shared with US media.\n\nThe New York Police Department apprehended the suspect after a manhunt following the attack, which took place around 19:00 EST (0:00 BST).\n\nThe stabbing comes as the city is heightening security measures before US President Donald Trump visits on Monday to watch the New York Knicks in the National Basketball Association (NBA) finals.\n\nLaw enforcement told the BBC's US partner CBS News that the stabbing was a random act of violence. The suspect was emotionally disturbed and arrested by Amtrak police, ABC News reported.\n\nThe fire department said those injured in the stabbing were taken to Bellevue Hospital.\n\nNew York’s Penn Station sits directly beneath Madison Square Garden, where the Knicks will play the San Antonio Spurs in Game 3 of the NBA finals on Monday evening.\n\nAhead of the game, city officials announced new security precautions including a no-bag policy and a cancellation of a watch party outside the arena due to Trump’s presence. Mayor Zohran Mamdani will also attend.",
-            "zh": "官员称，纽约市宾州车站发生刺伤事件，造成五人受伤。 纽约消防局在与美国媒体分享的一份声明中表示，一人受重伤，两人受中度伤，其余人因刺伤而受轻伤。 袭击发生在美国东部时间 19:00 左右（英国夏令时 0:00），纽约警察局在搜捕后逮捕了嫌疑人。 这起刺伤事件发生之际，该市正在加强安全措施，美国总统唐纳德·特朗普周一将前往观看纽约尼克斯队的国家篮球协会 (NBA) 决赛。 执法部门告诉英国广播公司的美国合作伙伴哥伦比亚广播公司新闻，这起刺伤事件是一起随机的暴力行为。据美国广播公司新闻报道，嫌疑人因精神失常而被美铁警方逮捕。 消防部门表示，刺伤事件中受伤的人已被送往贝尔维尤医院。 纽约宾夕法尼亚车站位于麦迪逊广场花园正下方，尼克斯队将于周一晚上在那里对阵圣安东尼奥马刺队的 NBA 总决赛第三场比赛。 比赛前，市政府官员宣布了新的安全预防措施，包括无行李政策以及由于特朗普的出现而取消赛场外的观看派对。市长佐兰·马姆达尼 (Zohran Mamdani) 也将出席。"
-          },
-          "reflection": {
-            "en": "The news of violence in a public space, followed by heightened security, reminds us of the fragility of peace and the human need for safety. In such moments of trouble, Psalm 46:1 offers a timeless comfort, reminding us that God is our refuge and strength, an ever-present help. This perspective can anchor our hearts even as cities work to ensure public...",
-            "zh": "公共场所发生暴力事件并随之加强安保措施的消息，提醒我们和平的脆弱和人类对安全的需要。在这样的困境中，诗篇46:1提供了永恒的慰藉，提醒我们雅伟是我们的避难所和力量，是我们在患难中随时的帮助。即使城市努力维护公共秩序和保护，这种视角也能安定我们的心。"
-          },
-          "verse": {
-            "reference": "Psalm 46:1",
-            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
-            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
-            "themeEn": "Refuge in trouble",
-            "themeZh": "患难中的避难所"
-          },
-          "aiVerseId": "ps_46_1",
-          "translationState": "localized"
-        },
-        {
           "id": "www-dw-com-en-kosovo-pm-wins-snap-vote-but-with-no-majority-a-77447536-m",
           "section": "world",
           "source": "DW World",
@@ -515,40 +546,6 @@
             "themeZh": "智谋的价值"
           },
           "aiVerseId": "prov_11_14",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cnvpn253re4o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0fd0/live/251e9ba0-60eb-11f1-92fe-5faf9b4f0321.jpg",
-          "publishedAt": "2026-06-07T23:03:23.000Z",
-          "title": {
-            "en": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
-            "zh": "“没有死胡同”：荷兰在解决青年失业问题上能给我们带来什么启示"
-          },
-          "summary": {
-            "en": "The Netherlands has achieved one of the lowest rates of 16 to 24-year-olds who are not in education, employment, or training globally.",
-            "zh": "荷兰在解决16至24岁青年失学、失业或失训问题上取得了显著成就，其青年失业率位居全球最低之列。"
-          },
-          "body": {
-            "en": "A landmark report last month found Britain is grappling with a youth engagement crisis - with nearly one in eight 16 to 24-year-olds not in education, employment or training (Neet).\n\nAlan Milburn, the former health secretary who authored the report, warned one in six young people could become Neet within five years unless urgent action is taken.\n\nHe identified that the Dutch approach was one the UK could learn from. The Netherlands has one of the lowest Neet rates in the world, at 4.9% among 18 to 24-year-olds. The equivalent figure in the UK is 15.1%.\n\nSo can the UK learn from a Dutch system that is designed around a simple principle?\n\n\"No dead ends\" is the philosophy which underpins Dutch education and youth employment policy - every stage of a young person's journey is designed to lead somewhere.\n\nUnder Dutch law, it is compulsory for children between five and 16 to attend school - then they must stay in education or training until they either secure a qualification or turn 18.\n\nOne of the Netherlands' key tools for cutting school dropout rates is through the kwalificatieplicht (qualification requirement).\n\nThe system is controversial, with critics warning that early streaming can disadvantage some children and be detrimental to a young person's self-esteem.\n\nAcross the UK, young people can leave school at 16, but after that the rules vary. In England, they must stay in education or training until 18, through full-time study, an apprenticeship or part-time learning alongside work.\n\nIn Scotland, Wales and Northern Ireland, there is no equivalent legal requirement, although schools and public agencies still encourage young people to stay in education or training.\n\nAt 10 years old, Amelie was told to choose the vocational VMBO track at high school.\n\nShe says this took a toll on her confidence - in the Dutch school system the VMBO track is not the most academic route.\n\nHowever, when she started exploring secondary schools aged 12, she felt more optimistic. \"We had a textiles class, there was a blacksmithing area,\" she explains.\n\nAmelie went on to study fashion but struggled to secure an internship and left her course aged 17. She then spent six months working and travelling, and felt like her academic path had gone off track.\n\nAt this point Amelie says, if leaving education had been an option available to her - as it is in the UK - she may have taken it.\n\n\"If I had the freedom to drop out of school, I don't know what would have happened,\" she says.\n\nThe Dutch system creates the opportunity for lots of hands-on experiences through work-study pathways, employer partnerships, and state-supported apprenticeships. Businesses can even request customised college programmes tailored to their company's needs.\n\nHow much students are paid, and whether or not...",
-            "zh": "上个月一份具有里程碑意义的报告发现，英国正在应对青年参与危机——16 至 24 岁的年轻人中近八分之一没有接受教育、就业或培训（Neet）。 撰写该报告的前卫生部长艾伦·米尔伯恩警告说，除非采取紧急行动，否则五年内六分之一的年轻人可能会成为尼特族。 他认为荷兰的做法值得英国学习。荷兰是世界上尼特族比例最低的国家之一，18 至 24 岁人群中尼特族比例为 4.9%。英国的相应数字为 15.1%。 那么，英国可以借鉴围绕简单原则设计的荷兰制度吗？ “没有死胡同”是荷兰教育和青年就业政策的基础理念——年轻人旅程的每个阶段都旨在通往某个地方。 根据荷兰法律，5 至 16 岁的儿童必须上学，然后他们必须继续接受教育或培训，直到获得资格或年满 18 岁。 荷兰降低辍学率的关键工具之一是通过 kwalificatieplicht（资格要求）。 该系统存在争议，批评者警告说，过早的流媒体可能会让一些儿童处于不利地位，并有损年轻人的自尊。 在英国各地，年轻人可以在 16 岁离开学校，但此后的规则有所不同。在英格兰，他们必须通过全日制学习、学徒或边工作边兼职的方式接受教育或培训直至 18 岁。 在苏格兰、威尔士和北爱尔兰，尽管学校和公共机构仍然鼓励年轻人继续接受教育或培训，但没有同等的法律要求。 10 岁时，Amelie 被告知在高中选择职业 VMBO 课程。 她说这对她的信心造成了影响——在荷兰的学校系统中，VMBO 课程并不是最学术的路线。 然而，当她12岁时开始探索中学时，她感到更加乐观。 “我们有一个纺织课，还有一个铁匠区，”她解释道。 Amelie 继续学习时尚，但难以获得实习机会，并在 17 岁时退学。随后，她花了六个月的时间工作和旅行，感觉自己的学术道路已经偏离了正轨。 此时阿美丽说，如果离开教育是她可以选择的一个选择——就像在英国一样——她可能会接受。 “如果我有辍学的自由，我不知道会发生什么，”她说。 荷兰的制度通过勤工俭学途径、雇主伙伴关系和国家支持的学徒制为大量实践经验创造了机会。企业甚至可以要求根据其公司的需求定制大学课程。 学生的工资是多少，是否..."
-          },
-          "reflection": {
-            "en": "The Netherlands' success in guiding young people into education, employment, or training highlights the importance of intentional formation. This echoes the wisdom of investing in the young, providing them with pathways and purpose from an early age. Such societal commitment helps individuals find their place and contribute meaningfully.",
-            "zh": "荷兰在引导年轻人接受教育、就业或培训方面的成功，突显了有意识地培养下一代的重要性。这与圣经中从小投资于年轻人、为他们提供人生方向和目标的智慧不谋而合。这种社会承诺有助于个人找到自己的位置并做出有意义的贡献。"
-          },
-          "verse": {
-            "reference": "Proverbs 22:6",
-            "textEn": "Start children off on the way they should go, and even when they are old they will not turn from it.",
-            "textZh": "教养孩童，使他走当行的道，就是到老他也不偏离。",
-            "themeEn": "Forming the young",
-            "themeZh": "塑造下一代"
-          },
-          "aiVerseId": "prov_22_6",
           "translationState": "localized"
         },
         {
@@ -594,7 +591,7 @@
           "image": "https://assets.sbs.com.au/dims4/default/63f1590/2147483647/strip/false/crop/3255x1496+0+226/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff7%2F9d%2F416a045a46deb96151aa65eab959%2F20260608186309865886-original.jpg",
           "publishedAt": "2026-06-07T20:48:40.000Z",
           "title": {
-            "en": "Israel hits Iran with new strikes despite Trump's call for restraint",
+            "en": "Israel and Iran trade strikes in first clash since truce despite Trump's call for restraint",
             "zh": "以色列不顾特朗普的克制呼吁，对伊朗发动新一轮袭击"
           },
           "summary": {
@@ -602,7 +599,7 @@
             "zh": "在伊朗向以色列发射导弹后，以色列对伊朗至少三个城市进行了空袭，这表明冲突正在升级。"
           },
           "body": {
-            "en": "Israel said on Monday it had struck targets across Iran, defying a call from United States President Donald Trump to refrain from retaliating against a barrage of Iranian missiles.\n\nExplosions were heard in three cities, including Tehran, according to Iranian state TV, as the Israeli military said it had struck targets in western and central Iran.\n\nThe Israeli barrage was launched in response to Iran on Sunday sending 11 missiles at Israel, all of which were intercepted, with no casualties.\n\nTrump had sought to rein in Israeli Prime Minister Benjamin Netanyahu, as Israel accused Iran of making a \"grave mistake\" for the Iranian attack &#x2014; itself a retaliation to Israeli airstrikes on Lebanon's capital .\n\n\"I am going to call Bibi right now and tell him not to retaliate,\" Trump was quoted as saying by Axios journalist Barak Ravid in a phone interview, using Netanyahu's nickname.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"Israel had its strike and Iran had its strike. We don't need another one,\" Trump reportedly said.\n\nRavid later posted that a US official said Trump spoke with Netanyahu, although the White House and Trump have yet to comment.\n\nThe attacks further rattled a fragile 8 April truce as the war entered its 100th day, with the US struggling to conclude a deal with Iran to end the conflict.\n\nBritish foreign secretary Yvette Cooper joined the pleas for restraint, writing on X that the \"resumption of conflict between Iran and Israel is in no one's interest\" and calling for diplomacy.\n\nIran has insisted that any deal to permanently end the war must also halt the parallel conflict in Lebanon, where Israel is pursuing a campaign against the Iranian-backed Hezbollah group. It had earlier warned that any new attacks on Beirut would trigger a \"full-scale resumption\" of hostilities.\n\nIranian foreign ministry spokesperson Ali Safari told Al-Mayadeen television that Iran's strikes came after weeks of restraint against Israeli aggression.\n\nIran's Revolutionary Guards called the attack a \"warning\" after Israel struck Beirut's southern suburbs earlier in the day, threatening wider strikes in the event of repeated aggression.\n\nA separate Iranian attack targeting the headquarters of \"terrorist groups\" in Iraqi Kurdistan on Monday further strained hopes for a lasting peace. The Iranian government accuses the armed Kurdish parties of serving Western or Israeli interests.\n\nThe Israeli army also said Monday it was working to intercept a missile launched from Yemen, where rebels have previously launched attacks on Israel.\n\nOn Sunday, Netanyahu's office announced the army had \"struck a militant command centre in Beirut's Dahiyeh district, in response to Hezbollah's...",
+            "en": "Israel said on Monday it had struck targets across Iran, defying a call from United States President Donald Trump to refrain from retaliating against a barrage of Iranian missiles.\n\nExplosions were heard in three cities, including Tehran, according to Iranian state TV, as the Israeli military said it had struck targets in western and central Iran.\n\nThe Israeli barrage was launched in response to Iran on Sunday sending 11 missiles at Israel, all of which were intercepted, with no casualties.\n\nTrump had sought to rein in Israeli Prime Minister Benjamin Netanyahu, as Israel accused Iran of making a \"grave mistake\" for the Iranian attack &#x2014; itself a retaliation to Israeli airstrikes on Lebanon's capital .\n\n\"I am going to call Bibi right now and tell him not to retaliate,\" Trump was quoted as saying by Axios journalist Barak Ravid in a phone interview, using Netanyahu's nickname.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"Israel had its strike and Iran had its strike. We don't need another one,\" Trump reportedly said.\n\nRavid later posted that a US official said Trump spoke with Netanyahu, although the White House and Trump have yet to comment.\n\nThe attacks further rattled a fragile 8 April truce as the war entered its 100th day, with the US struggling to conclude a deal with Iran to end the conflict.\n\nFollowing the Israeli strikes, Trump said on a social media post: \"Israel and Iran must immediately stop 'shooting'\".\n\nThe US president said that Iran and Israel wanted a ceasefire but warned that ongoing peace negotiations were \"subject to ignorance or stupidity\".\n\n\"Both sides, Israel and Iran, are looking to do an immediate CEASEFIRE! Final negotiations on 'Peace' are proceeding, subject to ignorance or stupidity getting in its way,\" Trump said on Truth Social.\n\nIranian foreign ministry spokesman Esmaeil Baqaei warned at a press conference in Tehran that is was \"perfectly natural that the diplomatic process initiated to put an end to this imposed war would be affected\".\n\nBut he added: \"Diplomatic consultations are naturally continuing in all circumstances.\"\n\nAs he was speaking at the foreign ministry, a huge explosion shook the building, followed by repeated explosions believed to be from air defence systems. Local media in Iran that a \"hostile drone\" was shot down over Tehran by air defences.\n\nIran has insisted that any deal to permanently end the war must also halt the parallel conflict in Lebanon, where Israel is pursuing a campaign against the Iranian-backed Hezbollah group. It had earlier warned that any new attacks on Beirut would trigger a \"full-scale resumption\" of hostilities.\n\nIranian foreign ministry spokesperson Ali Safari told Al-Mayadeen...",
             "zh": "以色列周一表示，它已经袭击了伊朗各地的目标，无视美国总统唐纳德·特朗普关于不要对伊朗导弹袭击进行报复的呼吁。 据伊朗国家电视台报道，包括德黑兰在内的三个城市听到爆炸声，以色列军方表示袭击了伊朗西部和中部的目标。 以色列发射炮火是为了回应伊朗周日向以色列发射11枚导弹，所有导弹均被拦截，没有造成人员伤亡。 特朗普曾试图控制以色列总理本杰明·内塔尼亚胡，因为以色列指责伊朗在伊朗的袭击中犯了“严重错误”——这本身就是对以色列对黎巴嫩首都空袭的报复。 Axios 记者巴拉克·拉维德在电话采访中援引特朗普的话说：“我现在要给比比打电话，告诉他不要报复。”特朗普用的是内塔尼亚胡的昵称。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 据报道，特朗普表示：“以色列发动了袭击，伊朗也发动了袭击。我们不需要再发动一次袭击。” 拉维德后来发帖称，一名美国官员表示特朗普与内塔尼亚胡进行了交谈，但白宫和特朗普尚未发表评论。 随着战争进入第 100 天，这些袭击进一步扰乱了 4 月 8 日脆弱的休战协议，美国正努力与伊朗达成协议以结束冲突。 英国外交大臣伊薇特·库珀也呼吁各方保持克制，她在 X 上写道，“伊朗和以色列之间重新爆发冲突不符合任何人的利益”，并呼吁采取外交手段。 伊朗坚称，任何永久结束战争的协议都必须停止黎巴嫩境内的平行冲突，以色列正在黎巴嫩对伊朗支持的真主党组织进行打击。它早些时候警告说，对贝鲁特的任何新袭击都将引发敌对行动“全面恢复”。 伊朗外交部发言人阿里·萨法里告诉Al-Mayadeen电视台，伊朗在对以色列的侵略进行了数周的克制之后发动了袭击。 伊朗革命卫队称这次袭击是以色列当天早些时候袭击贝鲁特南部郊区后的“警告”，并威胁称，如果以色列再次发动侵略，将发动更广泛的袭击。 周一，伊朗针对伊拉克库尔德斯坦“恐怖组织”总部发动的另一次袭击进一步加剧了持久和平的希望。伊朗政府指责库尔德武装政党为西方或以色列的利益服务。 以色列军队周一还表示，正在努力拦截从也门发射的导弹，也门叛军此前曾对以色列发动过袭击。 周日，内塔尼亚胡办公室宣布，军队“袭击了贝鲁特达希耶区的一个武装指挥中心，以回应真主党的......"
           },
           "reflection": {
@@ -636,7 +633,7 @@
             "zh": "乌克兰总统泽连斯基因重命名一支军队单位而引发众怒。波兰总统卡罗尔·纳夫罗茨基希望剥夺他所获的波兰最高荣誉。总理唐纳德·图斯克能否平息事态？"
           },
           "body": {
-            "en": "Ukrainian President Volodymyr Zelenskyy has sparked outrage with the renaming of an army unit. Polish President Karol Nawrocki wants to strip him of his country's highest order. Can PM Donald Tusk smooth things over?\n\nOn May 26, Ukrainian President&#160; Volodymyr Zelenskyy &#160;issued a decree that a special forces unit of the Ukrainian army was being given the honorary name Heroes of the UPA, explaining that&#160;it was \"to restore the historical traditions of the national army.\"\n\nHowever, the decree has created serious tensions with Poland, one of Ukraine's most important allies in the war with Russia .\n\nAfter Nazi Germany attacked the Soviet Union in 1941, the partisan Ukrainian Insurgent Army (UPA) was formed to fight for an independent Ukrainian state —&#160;which at first it did as Germany's ally. In order to drive the Polish population out of regions it claimed for Ukraine, the UPA committed war crimes against ethnic Polish civilians, including the massacres of Poles in Volhynia and eastern Galicia, a region now divided between Poland and Ukraine.\n\nThe response of Poland's right-wing conservative president Karol Nawrocki to Ukraine's decision to award the unit this honorific title was correspondingly sharp.\n\n\"Unfortunately, President Zelenskyy has shown that Ukraine, in terms of mentality —&#160;glorifying bandits, murderers from the Ukrainian Insurgent Army —&#160;is not ready to be part of the European family,\" he said on May 29 in&#160;Warsaw, according to Polish TV channel Polsat. \"In the European family, you cannot glorify bandits [who] murdered women and children, murdered Poles.\"&#160;\n\nNawrocki said he was moving to strip Zelenskyy of the Order of the White Eagle, Poland's highest honor.&#160;The award jury is set to discuss the case on&#160;June 8.\n\nThe military alliance with Ukraine was&#160;a priority of Polish foreign policy under former President&#160;Andrzej Duda, who awarded the Ukrainian leader the order in 2023. Military and political support from Warsaw contributed significantly to Ukraine's success in halting Russia's attacks during the initial phase of the war in 2022.\n\nUnlike his predecessor, Nawrocki has had no qualms about criticizing Ukraine, as was apparent in his 2025 election campaign. He has voiced skepticism about Ukraine's chances of joining the European Union , and criticized the social support given to Ukrainian refugees in Poland, which he declared was too generous .\n\nOne year after his election, Nawrocki has still not paid an official visit to Kyiv, preferring instead to receive&#160;Zelenskyy in Warsaw in December.\n\n\"Nawrocki has used the opportunity to inflame anti-Ukrainian sentiment,\" the Polish daily Gazeta Wyborcza wrote on June 1. \"He has been handed a pretext and is ruthlessly exploiting...",
+            "en": "Ukraine's President Volodymyr Zelenskyy has sparked outrage in Poland by choosing a name that carries Nazi connotations for a Ukrainian army unit. Can Polish PM Donald Tusk smooth things over?\n\nOn May 26, Ukrainian President&#160; Volodymyr Zelenskyy &#160;issued a decree that a special forces unit of the Ukrainian army was being given the honorary name Heroes of the UPA, explaining that&#160;it was \"to restore the historical traditions of the national army.\"\n\nHowever, the decree has created serious tensions with Poland, one of Ukraine's most important allies in the war with Russia .\n\nAfter Nazi Germany attacked the Soviet Union in 1941, the partisan Ukrainian Insurgent Army (UPA) was formed to fight for an independent Ukrainian state —&#160;which at first it did as Germany's ally. In order to drive the Polish population out of regions it claimed for Ukraine, the UPA committed war crimes against ethnic Polish civilians, including the massacres of Poles in Volhynia and eastern Galicia, a region now divided between Poland and Ukraine.\n\nThe response of Poland's right-wing conservative president Karol Nawrocki to Ukraine's decision to award the unit this honorific title was correspondingly sharp.\n\n\"Unfortunately, President Zelenskyy has shown that Ukraine, in terms of mentality —&#160;glorifying bandits, murderers from the Ukrainian Insurgent Army —&#160;is not ready to be part of the European family,\" he said on May 29 in&#160;Warsaw, according to Polish TV channel Polsat. \"In the European family, you cannot glorify bandits [who] murdered women and children, murdered Poles.\"&#160;\n\nNawrocki said he was moving to strip Zelenskyy of the Order of the White Eagle, Poland's highest honor.&#160;The award jury is set to discuss the case on&#160;June 8.\n\nThe military alliance with Ukraine was&#160;a priority of Polish foreign policy under former President&#160;Andrzej Duda, who awarded the Ukrainian leader the order in 2023. Military and political support from Warsaw contributed significantly to Ukraine's success in halting Russia's attacks during the initial phase of the war in 2022.\n\nUnlike his predecessor, Nawrocki has had no qualms about criticizing Ukraine, as was apparent in his 2025 election campaign. He has voiced skepticism about Ukraine's chances of joining the European Union , and criticized the social support given to Ukrainian refugees in Poland, which he declared was too generous .\n\nOne year after his election, Nawrocki has still not paid an official visit to Kyiv, preferring instead to receive&#160;Zelenskyy in Warsaw in December.\n\n\"Nawrocki has used the opportunity to inflame anti-Ukrainian sentiment,\" the Polish daily Gazeta Wyborcza wrote on June 1. \"He has been handed a pretext and is ruthlessly exploiting it.\"\n\nDonald Tusk , Poland's...",
             "zh": "乌克兰总统弗拉基米尔·泽连斯基因陆军部队更名而引发愤怒。波兰总统卡罗尔·纳罗基希望剥夺他国家最高职位。唐纳德·图斯克总理能否平息事态？ 5月26日，乌克兰总统泽连斯基颁布法令，授予乌克兰军队特种部队“乌克兰人民军英雄”荣誉称号，并解释说这是“恢复国家军队的历史传统”。 然而，该法令造成了与波兰的严重紧张关系，而波兰是乌克兰在与俄罗斯的战争中最重要的盟友之一。 1941 年纳粹德国进攻苏联后，游击队乌克兰起义军 (UPA) 成立，为独立的乌克兰国家而战——起初它是作为德国的盟友。为了将波兰人赶出其声称属于乌克兰的地区，UPA对波兰族平民犯下了战争罪，包括在沃里尼亚和加利西亚东部（该地区现在被波兰和乌克兰瓜分）屠杀波兰人。 波兰右翼保守派总统卡罗尔·纳罗基（Karol Nawrocki）对乌克兰授予该部队这一荣誉称号的决定的反应也相应尖锐。 据波兰电视频道 Polsat 报道，泽伦斯基总统 5 月 29 日在华沙表示，“不幸的是，泽伦斯基总统已经表明，乌克兰在心态上——美化土匪、乌克兰起义军的凶手——还没有准备好成为欧洲大家庭的一部分”。 “在欧洲家庭中，你不能美化那些谋杀妇女和儿童、谋杀波兰人的强盗。” 纳罗基表示，他将剥夺泽伦斯基的波兰最高荣誉白鹰勋章。 评审团定于 6 月 8 日讨论此案。 与乌克兰的军事联盟是前总统安杰伊·杜达领导下的波兰外交政策的优先事项，他于 2023 年向乌克兰领导人授予了这一勋章。来自华沙的军事和政治支持为乌克兰在 2022 年战争初期成功阻止俄罗斯的袭击做出了重大贡献。 与他的前任不同，纳罗基毫不犹豫地批评乌克兰，这一点在他 2025 年的竞选活动中就可见一斑。他对乌克兰加入欧盟的机会表示怀疑，并批评波兰向乌克兰难民提供的社会支持，称这种支持过于慷慨。 当选一年后，纳罗基仍未对基辅进行正式访问，而是更愿意于 12 月在华沙接待泽连斯基。 波兰日报《Gazeta Wyborcza》6 月 1 日写道：“纳罗基利用这个机会煽动反乌克兰情绪。”“他得到了一个借口，并正在无情地利用......"
           },
           "reflection": {
@@ -740,12 +737,113 @@
       ],
       "items": [
         {
+          "id": "www-bbc-com-news-videos-c5yzje727l5o-at-medium-rss-at-campaign-rss",
+          "section": "china",
+          "source": "BBC News China Focus",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/videos/c5yzje727l5o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6119/live/987bd0e0-632f-11f1-8e1d-bbbb1017d210.jpg",
+          "publishedAt": "2026-06-08T12:18:56.000Z",
+          "title": {
+            "en": "Watch: Why is China's Xi Jinping visiting North Korea?",
+            "zh": "观看：中国习近平为何访问朝鲜？"
+          },
+          "summary": {
+            "en": "The Chinese President Xi received a colourful welcome to Pyongyang for his first visit in seven years.",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Chinese leader Xi Jinping has landed in North Korea, in his first official visit since 2019.\n\nThe trip comes as Beijing is trying to reassert sway over a strategically vital yet deeply unpredictable partner that has drawn closer to Russia.\n\nThe BBC's China correspondent Laura Bicker explains why this visit is likely to be less about friendship, and more about leverage.\n\nPupils could be heard screaming as the earthquake struck the city of Digos, but the school said nobody was injured in the incident.\n\nAuthorities said that a bear in north-east Japan has eluded capture by opening a window.\n\nThe bear, which injured four people in the attack on Tuesday, remains on the loose within the factory compound.\n\nThere were 242 people on board the flight on 12 June 2025, and all but one died in the crash.\n\nThe BBC is in Seoul, where tattooist from all over the country have gathered to celebrate their art, following decades of underground work.\n\nRescuers in Laos have found five villagers alive inside a flooded cave after they were trapped for a week.\n\nThe BBC's Sumedha Pal described how difficult it was to be standing in the streets of Delhi as temperatures rose to 45C .\n\nThe temple has moved the flame to a different location and authorities said the fire may have been caused by it, according to Japan Times.\n\nA North Korean women's football team played in South Korea marking the first time athletes from the North have crossed the border in nearly 8 years.\n\nRounds of gunfire were heard but officials have not revealed who fired the shots.\n\nPakistan says it hit 'military and terrorist infrastructure' - but the UN and victims' families reject this claim.\n\nOfficials said the group had been hiking up the active volcano despite a climbing ban.\n\nJapan's PM is pushing to revise country's pacifist constitution - and it's causing controversy.\n\nA glamping facility was destroyed by the raging torrent in Bogor, West Java on 4 May.\n\nAt least 15 people have died after a train crashed into the female-only carriage of a commuter train in Bekasi.\n\nThousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.\n\nThe escape of Neukgu, a two-year-old wolf, from a zoo in the city of Daejon captured national attention.\n\nThe Philippine President challenged anyone questioning his fitness to join him in the gym.\n\nAsha Bhosle died in Mumbai on Sunday after being admitted to the hospital following a heart attack.",
+            "zh": "中国领导人习近平抵达朝鲜，这是他自 2019 年以来的首次正式访问。 此次出访之际，北京正试图重新确立对这个战略上至关重要但又难以预测的伙伴的影响力，该伙伴已与俄罗斯走得更近。 英国广播公司（BBC）驻华记者劳拉·比克（Laura Bicker）解释了为什么这次访问可能不是关于友谊，而是更多关于影响力。 迪戈斯市发生地震时，可以听到学生们的尖叫声，但学校表示，没有人在事件中受伤。 当局表示，日本东北部的一只熊通过打开窗户逃脱了抓捕。 这只熊在周二的袭击中造成四人受伤，目前仍在工厂内逍遥法外。 2025 年 6 月 12 日，这架航班上共有 242 人，除一人外，其余人员均在空难中丧生。 BBC 在首尔报道，来自全国各地的纹身师在数十年的地下工作后聚集在一起庆祝他们的艺术。 老挝的救援人员在一个被洪水淹没的山洞里发现了五名被困一周的村民，他们还活着。 BBC 的 Sumedha Pal 描述了当气温升至 45 摄氏度时站在德里的街道上是多么困难。 据《日本时报》报道，寺庙已将火苗移至其他地点，当局表示火灾可能是由此引起的。 朝鲜女子足球队在韩国比赛，这是近八年来朝鲜运动员首次跨越边境。 听到几声枪响，但官员们没有透露是谁开枪的。 巴基斯坦称其袭击了“军事和恐怖主义基础设施”，但联合国和受害者家属否认了这一说法。 官员们表示，尽管有攀登禁令，该组织仍在攀登活火山。 日本首相正在推动修改该国的和平宪法，这引起了争议。 5 月 4 日，西爪哇省茂物市的一处豪华露营设施被汹涌的洪流摧毁。 一辆火车撞上勿加泗通勤列车的女性专用车厢，造成至少 15 人死亡。 马来西亚沙巴州发生火灾，烧毁了约 1,000 所房屋，导致数千人流离失所。 两岁大的狼 Neukgu 从大田市动物园逃跑引起了全国关注。 菲律宾总统要求任何质疑他健康状况的人都和他一起去健身房。 阿莎·博斯勒 (Asha Bhosle) 因心脏病突发入院，于周日在孟买去世。"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-china-s-xi-begins-rare-north-korea-visit-a-77453153-maca-e",
+          "section": "china",
+          "source": "DW Asia China Focus",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
+          "link": "https://www.dw.com/en/china-s-xi-begins-rare-north-korea-visit/a-77453153?maca=en-rss-en-asia-5133-rdf",
+          "image": "https://static.dw.com/image/73881683_6.jpg",
+          "publishedAt": "2026-06-08T12:01:00.000Z",
+          "title": {
+            "en": "China's Xi begins rare North Korea visit",
+            "zh": "中国国家主席习近平开启对朝鲜的罕见访问"
+          },
+          "summary": {
+            "en": "China's President Xi Jinping has kicked off his first visit to North Korea in seven years. It is also Xi's first international trip this year after hosting key summits with US and Russian leaders.",
+            "zh": "中国国家主席习近平已开启他七年来首次对朝鲜的访问。这也是习近平在与美国和俄罗斯领导人举行重要峰会后，今年首次出访。"
+          },
+          "body": {
+            "en": "China's President Xi Jinping has kicked off his first visit to North Korea in seven years. It is also Xi's first international trip this year after hosting key summits with US and Russian leaders.\n\nChinese President Xi Jinping has touched down in Pyongyang as he marks his first visit to North Korea since 2019, state news agency Xinhua reported.\n\nXi arrived in North Korea's capital on Monday at noon&#160;local time (0300&#160;UTC), Xinhua reported.\n\nVisuals from the official Chinese agency showed military officers flanking a red carpet, that was laid out on the tarmac, as the Air China plane carrying Xi taxied in.\n\nChinese and North Korean flags were seen at the airport with a banner that read: \"We warmly welcome Comrade Xi Jinping\" and lauded the two Asian nations' \"unbreakable friendship,\" according to a translation cited by news agency AFP.\n\nNorth Korean leader Kim Jong&#160;Un and&#160;his&#160;wife&#160;Ri&#160;Sol-ju greeted&#160;Xi and his&#160;wife&#160;Peng&#160;Liyuan.\n\nThe&#160;two&#160;leaders&#160;shook&#160;hands,&#160;as children&#160;presented&#160;flowers&#160;to&#160;the visitors, AFP reported.\n\nXinhua had earlier reported that Xi is accompanied by senior&#160;officials including Foreign Minister Wang Yi and de facto chief of staff Cai Qi.\n\nXi last met Kim in September in Beijing, when he invited the North Korean leader and Russian President Vladimir Putin to a military parade marking the 80th anniversary of the end of World War II.\n\nDuring talks later Monday, Xi expressed China's willingness to expand cooperation in a wide range of areas including trade, agriculture, construction and technology, China's state broadcaster CCTV&#160;reported.\n\nAccording to the report, Xi said the two countries should strengthen strategic cooperation and firmly safeguard their respective sovereignty and security interests.\n\n\"I am deeply pleased and also feel a special sense of&#160;closeness,\" Xi reportedly told Kim.\n\nMeanwhile, Kim said Xi's visit \"clearly demonstrates how unbreakable\" the North Korea-China relationship is.\n\nCCTV cited Kim as saying that consolidating a new era of friendship between the two countries is North Korea's \"unchanging strategic choice.\"\n\nRelations between Beijing and internationally ostracized Pyongyang are at a \"new historical starting point,\" Xi said ahead of his visit in remarks published by North Korea's official newspaper of record, Rodong Sinmun .\n\n\"No matter how the times change or how the international situation evolves, the traditional friendship between China and North Korea is always invincible,\" the newspaper quoted Xi as saying.\n\nThe Chinese leader reportedly said that the two Asian neighbors would bolster exchanges in all areas and stressed his nation's steadfast policy to develop ties with North Korea.\n\n\"We...",
+            "zh": "中国国家主席习近平开始了七年来首次访问朝鲜。这也是习近平在与美国和俄罗斯领导人举行重要峰会后今年的首次出访。 据官方通讯社新华社报道，中国国家主席习近平已抵达平壤，这是他自 2019 年以来首次访问朝鲜。 习近平将在为期两天的访问期间与朝鲜领导人金正恩举行会谈，但具体议程尚未公布。 据新华社报道，习近平于当地时间周一中午（世界标准时间 0300）抵达朝鲜首都。 中国官方机构的视频显示，当载有习近平的国航飞机滑行时，军官们站在停机坪上铺着的红地毯旁。 据法新社援引的翻译报道，机场上悬挂着中国和朝鲜国旗，横幅上写着：“我们热烈欢迎习近平同志”，并赞扬这两个亚洲国家“牢不可破的友谊”。 金正恩和夫人李雪主向习近平和夫人彭丽媛致意。 据法新社报道，两位领导人握手，孩子们向参观者献花。 新华社早些时候报道说，习近平的陪同人员包括外交部长王毅和事实上的总参谋长蔡奇。 习近平最后一次会见金正恩是在9月的北京，当时金正恩邀请朝鲜领导人和俄罗斯总统弗拉基米尔·普京参加纪念二战结束80周年的阅兵式。 习近平在访问前在朝鲜官方报纸《劳动新闻》发表的讲话中表示，北京与受到国际排斥的平壤之间的关系正处于“新的历史起点”。 该报援引习近平的话说：“无论时代如何变迁，国际风云如何演变，中朝传统友谊始终坚不可摧。” 据报道，这位中国领导人表示，这两个亚洲邻国将加强各领域的交流，并强调中国发展与朝鲜关系的坚定政策。 《劳动新闻》援引习近平的话说：“我们必须反对霸权主义、独裁主义以及一切复兴军国主义、危及地区安全稳定的企图和阴谋。” 北京长期以来一直是平壤的主要外交支持者及其经济命脉。 美国智库朝鲜国家委员会估计，该国高达 95% 的贸易总额和 85% 的出口依赖中国。 习近平访问朝鲜之前，中国领导人去年在北京分别接连会见了美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京。"
+          },
+          "reflection": {
+            "en": "High-level diplomatic visits, like President Xi's trip to North Korea, underscore the ongoing effort required to maintain international relations. Even amidst complex global dynamics, leaders are called to seek pathways for peaceful coexistence. This pursuit of peace, as far as it depends on them, is a continuous endeavor for stability.",
+            "zh": "像习近平主席访问朝鲜这样的高层外交活动，凸显了维持国际关系所需的持续努力。即使在全球复杂的局势中，领导人也被呼召寻求和平共处的途径。这种尽力而为的和平追求，是实现稳定的持续努力。"
+          },
+          "verse": {
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
+          },
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-08-xi-jinping-kim-jong-un-meeting-nor",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea",
+          "image": "https://i.guim.co.uk/img/media/e9e1a427651f9f7f476801d0fc45909a6af25687/533_154_3130_2504/master/3130.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd389ef027e864410bb30451ba745aba",
+          "publishedAt": "2026-06-08T10:46:17.000Z",
+          "title": {
+            "en": "Xi Jinping arrives in Pyongyang on trip to revitalise China-North Korea ties",
+            "zh": "习近平将访问朝鲜，中国寻求重振两国关系"
+          },
+          "summary": {
+            "en": "Chinese President Xi Jinping is scheduled to visit North Korea for two days, his first trip in nearly seven years. The visit aims to revitalize the strained relationship between the two nations, which has been impacted by reduced trade during the pandemic and Pyongyang's growing ties with Russia.",
+            "zh": "中国国家主席习近平将于周一访问朝鲜，进行为期两天的访问，这是他近七年来的首次访问。此行旨在重振两国之间紧张的关系，该关系受到疫情期间贸易额下降以及平壤与俄罗斯关系日益密切的影响。"
+          },
+          "body": {
+            "en": "Kim Jong-un welcomes Chinese leader on visit to renew relations strained amid Pyongyang’s closeness with Russia Xi Jinping has arrived in North Korea for a two-day trip, his first in nearly seven years, as China’s leader looks to revitalise ties with his junior ally. Footage published by China’s Xinhua state news agency showed an Air China plane carrying Xi and his wife, Peng Liyuan, touching down at Pyongyang’s Sunan international airport. Continue reading...",
+            "zh": "中朝关系因疫情期间贸易下降以及平壤与俄罗斯关系日益密切而紧张。习近平周一对朝鲜进行为期两天的访问，这是他近七年来的首次访问，中国国家主席希望重振与他的小盟友的关系。预计习近平将在平壤会见朝鲜领导人金正恩。朝鲜是中国唯一的正式条约盟友，但近年来，由于Covid-19大流行期间贸易实际上冻结以及平壤与俄罗斯关系日益密切，两国关系变得紧张。继续阅读..."
+          },
+          "reflection": {
+            "en": "In a world often marked by tension and strained relationships, diplomatic efforts to mend ties are a reminder of the ongoing human need for peace. This visit highlights the continuous work required to foster stability and cooperation between nations, even when challenges arise.",
+            "zh": "在一个常常充满紧张和关系紧张的世界里，旨在修补关系的外交努力提醒着人们对和平的持续需求。这次访问凸显了在挑战出现时，促进国家间稳定与合作所需的持续工作。"
+          },
+          "verse": {
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
+          },
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
+        },
+        {
           "id": "www-bbc-com-news-articles-cdep497r256o-at-medium-rss-at-campaign-rss",
           "section": "china",
           "source": "BBC News China Focus",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7c67/live/15750f70-5594-11f1-ae6c-1b75cc68e68c.jpg",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1ac8/live/dce70a90-6318-11f1-aecd-df176a37a192.jpg",
           "publishedAt": "2026-06-08T07:55:29.000Z",
           "title": {
             "en": "Friendship or leverage: Why is Xi Jinping in North Korea?",
@@ -771,74 +869,6 @@
             "themeZh": "和睦"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-dw-com-en-china-s-xi-begins-rare-north-korea-visit-a-77453153-maca-e",
-          "section": "china",
-          "source": "DW Asia China Focus",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
-          "link": "https://www.dw.com/en/china-s-xi-begins-rare-north-korea-visit/a-77453153?maca=en-rss-en-asia-5133-rdf",
-          "image": "https://static.dw.com/image/73881683_6.jpg",
-          "publishedAt": "2026-06-08T06:12:00.000Z",
-          "title": {
-            "en": "China's Xi begins rare North Korea visit",
-            "zh": "中国国家主席习近平开启对朝鲜的罕见访问"
-          },
-          "summary": {
-            "en": "China's President Xi Jinping has kicked off his first visit to North Korea in seven years. It is also Xi's first international trip this year after hosting key summits with US and Russian leaders.",
-            "zh": "中国国家主席习近平已开启他七年来首次对朝鲜的访问。这也是习近平在与美国和俄罗斯领导人举行重要峰会后，今年首次出访。"
-          },
-          "body": {
-            "en": "China's President Xi Jinping has kicked off his first visit to North Korea in seven years. It is also Xi's first international trip this year after hosting key summits with US and Russian leaders.\n\nChinese President Xi Jinping has touched down in Pyongyang as he marks his first visit to North Korea since 2019, state news agency Xinhua reported.\n\nXi is set to hold talks with North Korean leader Kim Jong Un during his two-day visit, although no specific agenda has yet been announced.\n\nXi arrived in North Korea's capital on Monday at noon&#160;local time (0300&#160;UTC), Xinhua reported.\n\nVisuals from the official Chinese agency showed military officers flanking a red carpet, that was laid out on the tarmac, as the Air China plane carrying Xi taxied in.\n\nChinese and North Korean flags were seen at the airport with a banner that read: \"We warmly welcome Comrade Xi Jinping\" and lauded the two Asian nations' \"unbreakable friendship,\" according to a translation cited by news agency AFP.\n\nKim&#160;and&#160;his&#160;wife&#160;Ri&#160;Sol-ju greeted&#160;Xi and his&#160;wife&#160;Peng&#160;Liyuan.\n\nThe&#160;two&#160;leaders&#160;shook&#160;hands,&#160;as children&#160;presented&#160;flowers&#160;to&#160;the visitors, AFP reported.\n\nXinhua had earlier reported that Xi is accompanied by senior&#160;officials including Foreign Minister Wang Yi and de facto chief of staff Cai Qi.\n\nXi last met Kim in September in Beijing, when he invited the North Korean leader and Russian President Vladimir Putin to a military parade marking the 80th anniversary of the end of World War II.\n\nRelations between Beijing and internationally ostracized Pyongyang are at a \"new historical starting point,\" Xi said ahead of his visit in remarks published by North Korea's official newspaper of record, Rodong Sinmun .\n\n\"No matter how the times change or how the international situation evolves, the traditional friendship between China and North Korea is always invincible,\" the newspaper quoted Xi as saying.\n\nThe Chinese leader reportedly said that the two Asian neighbors would bolster exchanges in all areas and stressed his nation's steadfast policy to develop ties with North Korea.\n\n\"We must oppose hegemony, ​authoritarianism and all attempts and conspiracies to revive militarism that endanger regional security and ​stability,\" Rodong Sinmun quoted Xi as saying.\n\nBeijing has long been Pyongyang's primary diplomatic backer and its economic lifeline .\n\nUS-based think tank&#160;the National Committee on North Korea&#160;estimates that the country&#160;depends on China for up to 95% of total trade and 85% of its exports.\n\nXi's trip to North Korea comes after the Chinese leader hosted US President Donald Trump and Russia's Vladimir Putin in separate, back-to-back meetings in Beijing last...",
-            "zh": "中国国家主席习近平开始了七年来首次访问朝鲜。这也是习近平在与美国和俄罗斯领导人举行重要峰会后今年的首次出访。 据官方通讯社新华社报道，中国国家主席习近平已抵达平壤，这是他自 2019 年以来首次访问朝鲜。 习近平将在为期两天的访问期间与朝鲜领导人金正恩举行会谈，但具体议程尚未公布。 据新华社报道，习近平于当地时间周一中午（世界标准时间 0300）抵达朝鲜首都。 中国官方机构的视频显示，当载有习近平的国航飞机滑行时，军官们站在停机坪上铺着的红地毯旁。 据法新社援引的翻译报道，机场上悬挂着中国和朝鲜国旗，横幅上写着：“我们热烈欢迎习近平同志”，并赞扬这两个亚洲国家“牢不可破的友谊”。 金正恩和夫人李雪主向习近平和夫人彭丽媛致意。 据法新社报道，两位领导人握手，孩子们向参观者献花。 新华社早些时候报道说，习近平的陪同人员包括外交部长王毅和事实上的总参谋长蔡奇。 习近平最后一次会见金正恩是在9月的北京，当时金正恩邀请朝鲜领导人和俄罗斯总统弗拉基米尔·普京参加纪念二战结束80周年的阅兵式。 习近平在访问前在朝鲜官方报纸《劳动新闻》发表的讲话中表示，北京与受到国际排斥的平壤之间的关系正处于“新的历史起点”。 该报援引习近平的话说：“无论时代如何变迁，国际风云如何演变，中朝传统友谊始终坚不可摧。” 据报道，这位中国领导人表示，这两个亚洲邻国将加强各领域的交流，并强调中国发展与朝鲜关系的坚定政策。 《劳动新闻》援引习近平的话说：“我们必须反对霸权主义、独裁主义以及一切复兴军国主义、危及地区安全稳定的企图和阴谋。” 北京长期以来一直是平壤的主要外交支持者及其经济命脉。 美国智库朝鲜国家委员会估计，该国高达 95% 的贸易总额和 85% 的出口依赖中国。 习近平访问朝鲜之前，中国领导人去年在北京分别接连会见了美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京。"
-          },
-          "reflection": {
-            "en": "High-level diplomatic visits, like President Xi's trip to North Korea, underscore the ongoing effort required to maintain international relations. Even amidst complex global dynamics, leaders are called to seek pathways for peaceful coexistence. This pursuit of peace, as far as it depends on them, is a continuous endeavor for stability.",
-            "zh": "像习近平主席访问朝鲜这样的高层外交活动，凸显了维持国际关系所需的持续努力。即使在全球复杂的局势中，领导人也被呼召寻求和平共处的途径。这种尽力而为的和平追求，是实现稳定的持续努力。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-jun-08-xi-jinping-kim-jong-un-meeting-nor",
-          "section": "china",
-          "source": "The Guardian China",
-          "sourceUrl": "https://www.theguardian.com/world/china/rss",
-          "link": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea",
-          "image": "https://i.guim.co.uk/img/media/e2ba55eafec6e38e0d89b455f1a0cd1766e6172a/419_0_4193_3354/master/4193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=740a856b9493336ede2c60b5009d7c63",
-          "publishedAt": "2026-06-07T23:21:27.000Z",
-          "title": {
-            "en": "Xi Jinping set to meet Kim Jong-un in North Korea, as China seeks to revitalise relationship",
-            "zh": "习近平将访问朝鲜，中国寻求重振两国关系"
-          },
-          "summary": {
-            "en": "Chinese President Xi Jinping is scheduled to visit North Korea for two days, his first trip in nearly seven years. The visit aims to revitalize the strained relationship between the two nations, which has been impacted by reduced trade during the pandemic and Pyongyang's growing ties with Russia.",
-            "zh": "中国国家主席习近平将于周一访问朝鲜，进行为期两天的访问，这是他近七年来的首次访问。此行旨在重振两国之间紧张的关系，该关系受到疫情期间贸易额下降以及平壤与俄罗斯关系日益密切的影响。"
-          },
-          "body": {
-            "en": "The China-North Korea relationship has been strained by a fall in trade during the pandemic and Pyongyang’s increasing ties with Russia Xi Jinping visits North Korea on Monday for a two-day trip, his first in nearly seven years, as China’s president looks to revitalise ties with his junior ally. Xi is expected to meet North Korea’s leader, Kim Jong-un, in Pyongyang. North Korea is China’s only formal treaty ally but in recent years their relationship has been strained by a virtual freeze in trade during the Covid-19 pandemic and Pyongyang’s increasingly close relationship with Russia. Continue reading...",
-            "zh": "中朝关系因疫情期间贸易下降以及平壤与俄罗斯关系日益密切而紧张。习近平周一对朝鲜进行为期两天的访问，这是他近七年来的首次访问，中国国家主席希望重振与他的小盟友的关系。预计习近平将在平壤会见朝鲜领导人金正恩。朝鲜是中国唯一的正式条约盟友，但近年来，由于Covid-19大流行期间贸易实际上冻结以及平壤与俄罗斯关系日益密切，两国关系变得紧张。继续阅读..."
-          },
-          "reflection": {
-            "en": "In a world often marked by tension and strained relationships, diplomatic efforts to mend ties are a reminder of the ongoing human need for peace. This visit highlights the continuous work required to foster stability and cooperation between nations, even when challenges arise.",
-            "zh": "在一个常常充满紧张和关系紧张的世界里，旨在修补关系的外交努力提醒着人们对和平的持续需求。这次访问凸显了在挑战出现时，促进国家间稳定与合作所需的持续工作。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-uk-news-2026-jun-07-home-office-china-report-honey-t",
@@ -1043,40 +1073,6 @@
           },
           "aiVerseId": "acts_5_29",
           "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-how-china-keeps-north-korea-s-economy-alive-a-77295494-mac",
-          "section": "china",
-          "source": "DW Asia China Focus",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
-          "link": "https://www.dw.com/en/how-china-keeps-north-korea-s-economy-alive/a-77295494?maca=en-rss-en-asia-5133-rdf",
-          "image": "https://static.dw.com/image/73880530_6.jpg",
-          "publishedAt": "2026-06-01T08:38:00.000Z",
-          "title": {
-            "en": "How China keeps North Korea's economy alive",
-            "zh": "中国如何维持朝鲜经济运转"
-          },
-          "summary": {
-            "en": "Pyongyang relies on China for 95% of its legitimate trade; hacking, arms deals and remittances also help it stay afloat.",
-            "zh": "平壤95%的合法贸易依赖中国，此外，黑客攻击、军火交易和侨汇也帮助其维持经济运转。"
-          },
-          "body": {
-            "en": "Xi Jinping is about to visit North Korea for the first time since 2019. Pyongyang relies on China for 95% of its legitimate trade; hacking, arms deals and remittances also help it stay afloat.\n\nNorth Korea runs&#160;one of the most bizarre economies on the planet. Despite being one of only a handful of nations with nuclear weapons , its 2024 gross domestic product (GDP) was a paltry&#160;$26.6 billion (€22.9&#160;billion).\n\nThis is about 70 times smaller than South Korea's $1.86&#160;trillion economy and about a fifth of the annual revenue of the world's top-traded company, Nvidia.\n\nThanks to a centrally planned economy that&#160;prioritizes domestic production, North Korea is nowhere near as reliant on trade as your average free-market economy, partly due to international sanctions, introduced by the United Nations in 2017 over its nuclear weapons and ballistic missiles program.\n\nThe North's total imports and exports account for just a small fraction of GDP, versus the South, where international trade makes up around 80% of the economy, according to the World Bank.\n\nYou could say that China plays&#160;almost an exclusive role in North Korea's minimal&#160;reliance on trade .\n\nAccording to the Washington-based think tank the National Committee on North Korea , Pyongyang depends on China for up to 95% of total trade and 85% of its exports.\n\nAlmost all imports also come from China. In 2024, North Korea's legitimate imports totaled just $2.33&#160;billion&#160;— tiny by global standards.\n\nWith no domestic oil production, these deliveries from China&#160;include petroleum and other fuels and are essential in keeping the economy functioning, along with&#160;food, textiles, machinery, electronics and vehicles.\n\nThis gives Beijing enormous economic clout over North Korean leader Kim Jong Un . A recent report suggested that&#160;US President Donald Trump is now trying to leverage that muscle&#160;to bring Pyongyang back to the negotiating table over its contentious nuclear weapons program.\n\nChinese President Xi Jinping is scheduled to visit Pyongyang on June 8 and 9, according to state media in both countries. It will be Xi's first visit to North Korea since 2019.&#160;\n\nLegitimate exports from what the US labels a rogue state&#160;are even less impressive. According to the Korea Trade-Investment Promotion Agency, North Korea's&#160;exports barely reached $360&#160;million in 2024.\n\nThose foreign sales are&#160;strikingly modest, with fake hair and wigs the country's&#160;only best seller, making up about 40% of exports, primarily to China, which&#160;then reexports them to the rest of the world.\n\nNorth Korea turned to wigs for vital foreign income after sanctions blocked its traditional big exports like coal and minerals, while fake hair was not explicitly...",
-            "zh": "平壤95%的合法贸易依赖中国；黑客攻击、军火交易和汇款也有助于其维持生计。 朝鲜是地球上最奇怪的经济体之一。尽管是少数几个拥有核武器的国家之一，但其 2024 年国内生产总值 (GDP) 仅为 266 亿美元（229 亿欧元）。 这大约比韩国 1.86 万亿美元的经济规模小 70 倍，大约是全球交易量最大的公司 Nvidia 年收入的五分之一。 由于实行优先考虑国内生产的中央计划经济，朝鲜对贸易的依赖程度远不及普通自由市场经济，部分原因是联合国于 2017 年对其核武器和弹道导弹计划实施了国际制裁。 根据世界银行的数据，北方的进出口总额仅占 GDP 的一小部分，而南方的国际贸易约占经济的 80%。 你可以说，在朝鲜对贸易的最低程度依赖中，中国几乎扮演​​着唯一的角色。 总部位于华盛顿的智库朝鲜问题国家委员会表示，平壤高达 95% 的贸易总额和 85% 的出口依赖中国。 几乎所有进口也来自中国。 2024 年，朝鲜的合法进口总额仅为 23.3 亿美元——按照全球标准来看，这个数字很小。 由于国内不生产石油，来自中国的这些运输包括石油和其他燃料，以及食品、纺织品、机械、电子和车辆，对于保持经济运转至关重要。 这使北京对朝鲜领导人金正恩拥有巨大的经济影响力。最近的一份报告表明，美国总统唐纳德·特朗普现在正试图利用这一力量，让平壤就其有争议的核武器计划重返谈判桌。 韩国联合通讯社最近报道称，中国国家主席习近平预计将在未来几周内访问平壤，发挥关键的调解人作用，帮助弥合特朗普和金正恩之间长期争端的分歧。北京尚未确认此次行程。 被美国称为流氓国家的合法出口更是不那么令人印象深刻。根据韩国贸易投资振兴院的数据，2024 年朝鲜的出口额勉强达到 3.6 亿美元。 这些国外销售量极其有限，其中假发和假发是该国唯一最畅销的商品，约占出口额的 40%，主要销往中国，然后中国将其再出口到世界其他地区。 在制裁阻碍煤炭和矿产等传统大宗出口后，朝鲜转向假发来获取重要的外国收入，而……"
-          },
-          "reflection": {
-            "en": "This news highlights how external support can sustain regimes, with significant implications for the lives of ordinary people. Proverbs 29:2 reminds us that when wicked rulers are in power, the people groan under the burden. The story prompts reflection on the broader impact of international economic ties and the moral weight of such connections.",
-            "zh": "这则新闻揭示了外部支持如何维持政权，这对普通民众的生活有着深远影响。箴言29:2提醒我们，恶人掌权时，百姓就会叹息。这个故事促使我们反思国际经济联系的深远影响及其道德分量。"
-          },
-          "verse": {
-            "reference": "Proverbs 29:2",
-            "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
-            "textZh": "义人增多，民就喜乐；恶人掌权，民就叹息。",
-            "themeEn": "Righteous vs wicked rulers",
-            "themeZh": "义人执政与恶人当道"
-          },
-          "aiVerseId": "prov_29_2",
-          "translationState": "localized"
         }
       ]
     },
@@ -1091,10 +1087,43 @@
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
       },
       "sourceNotes": [
-        "SBS News Australia",
-        "The Guardian Australia"
+        "The Guardian Australia",
+        "SBS News Australia"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-environment-2026-jun-08-elusive-gull-drifts-thousand",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/environment/2026/jun/08/elusive-gull-drifts-thousands-of-kilometres-off-course-to-australia-turning-birdwatching-into-extreme-sport",
+          "image": "https://i.guim.co.uk/img/media/9cbdd915b136220d4c10c8aed634c1e7126ecdf6/0_0_2263_1810/master/2263.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63374af9efa9051ed9aa0bd175149675",
+          "publishedAt": "2026-06-08T09:37:14.000Z",
+          "title": {
+            "en": "Elusive gull drifts thousands of kilometres off course to Australia, turning birdwatching into ‘extreme sport’",
+            "zh": "难以捉摸的海鸥偏离航线数千公里飞往澳大利亚，将观鸟变成了“极限运动”"
+          },
+          "summary": {
+            "en": "‘Twitchers’ rush to coastal Western Australia to see black-headed gull, which usually flies between Europe and Asia Get our breaking news email, free app or daily news podcast A lone seabird has caused a stir in the nation’s birdwatching community after landing on the Western...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及盼望、忍耐与重建。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "‘Twitchers’ rush to coastal Western Australia to see black-headed gull, which usually flies between Europe and Asia Get our breaking news email , free app or daily news podcast A lone seabird has caused a stir in the nation’s birdwatching community after landing on the Western Australian coast, thousands of kilometres off its usual migratory flight path. The black-headed gull, which usually flies between Europe and Asia, has been spotted in the coastal city of Geraldton. Continue reading...",
+            "zh": "“抽搐者”涌向西澳大利亚沿海观看通常在欧洲和亚洲之间飞行的黑头鸥 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一只孤独的海鸟在距离其通常的迁徙飞行路线数千公里的西澳大利亚海岸着陆后，在全国观鸟界引起了轰动。这种通常在欧洲和亚洲之间飞行的黑头鸥在沿海城市杰拉尔顿被发现。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to hope, endurance, and faithful rebuilding. Romans 12:12 reminds us to meet sharp headlines with steady hope and perseverance, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到盼望、忍耐与重建。Romans 12:12提醒我们，在快速变化的新闻里，仍要以坚定盼望与忍耐来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Romans 5:3-4",
+            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
+            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
+            "themeEn": "Suffering produces hope",
+            "themeZh": "患难中的盼望"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-sbs-com-au-news-article-what-to-watch-out-for-this-tax-time-and-when",
           "section": "australia",
@@ -1246,7 +1275,7 @@
           },
           "body": {
             "en": "Media outlets argue man’s name should be made public and police acting to protect him from ‘embarrassment’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A Queensland magistrate has suppressed the name of a man with a “high public profile” during an ongoing extortion case in Cairns. The man – referred to in court as MM – is not a party to the case, which was back before the Cairns magistrates court on Monday. Continue reading...",
-            "zh": "媒体机构认为，该男子的名字应该公开，警方应采取行动保护他免遭“尴尬”。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 昆士兰州一名地方法官在凯恩斯正在进行的一起勒索案件中隐瞒了一名“高调公开”男子的名字。这名男子在法庭上被称为 MM，不是该案的当事人，该案已于周一回到凯恩斯地方法院。继续阅读..."
+            "zh": "媒体机构认为，该男子的名字应该公开，警方应采取行动保护他免遭“尴尬”。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 昆士兰州地方法官在凯恩斯正在进行的一起勒索案件中隐瞒了一名“高调公开”男子的名字。这名男子在法庭上被称为 MM，不是该案的当事人，该案已于周一回到凯恩斯地方法院。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -1329,39 +1358,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-jun-08-missing-melbourne-teacher",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/08/missing-melbourne-teacher-sunil-sharma-allegedly-murdered-by-brother-india-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/4ac10f18899c9c46e1c72e62697ed0b4683a96fd/2002_0_4222_3378/master/4222.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4738f4bf881e4e1dfb09e9892d0de7b7",
-          "publishedAt": "2026-06-08T00:47:05.000Z",
-          "title": {
-            "en": "Missing Melbourne teacher allegedly drugged and murdered by brother in India",
-            "zh": "墨尔本失踪教师涉嫌在印度被兄弟下药谋杀"
-          },
-          "summary": {
-            "en": "Sunil Sharma disappeared in Punjab state on 22 May, with police arresting four people, including his brother Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast An Australian teacher who went missing in India for two...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Sunil Sharma disappeared in Punjab state on 22 May, with police arresting four people, including his brother Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An Australian teacher who went missing in India for two weeks was allegedly murdered by his brother over a property dispute, police say. Melbourne maths teacher Sunil Sharma disappeared on 22 May after he travelled to Amritsar, in India’s north-western Punjab state. Continue reading...",
-            "zh": "苏尼尔·夏尔马 (Sunil Sharma) 于 5 月 22 日在旁遮普邦失踪，警方逮捕了四人，其中包括他的兄弟 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 警方称，一名在印度失踪两周的澳大利亚教师据称因财产纠纷被其兄弟谋杀。墨尔本数学老师苏尼尔·夏尔马 (Sunil Sharma) 于 5 月 22 日前往印度西北部旁遮普邦阿姆利则后失踪。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "James 1:5",
-            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
-            "themeEn": "Ask God for wisdom",
-            "themeZh": "求神赐智慧"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-theguardian-com-commentisfree-2026-jun-08-my-father-spent-a-lifetime",
           "section": "australia",
           "source": "The Guardian Australia",
@@ -1438,7 +1434,7 @@
           "publishedAt": "2026-06-07T21:06:36.000Z",
           "title": {
             "en": "'Disgusted': Albanese, Gillard condemn 'Ditch the Witch' campaign targeting Allan",
-            "zh": "“厌恶”：阿尔巴尼斯和吉拉德谴责针对艾伦的“抛弃女巫”运动"
+            "zh": "“厌恶”：阿尔巴尼斯和吉拉德谴责针对艾伦的“抛弃女巫”活动"
           },
           "summary": {
             "en": "A billboard truck spotted in Melbourne was displaying the same slogan infamously used against former prime minister Julia Gillard.",
