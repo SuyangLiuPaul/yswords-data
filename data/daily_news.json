@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T00:24:31.884Z",
+  "generatedAt": "2026-06-16T06:25:38.854Z",
   "editionDate": "2026-06-16",
   "sources": [
     {
@@ -105,22 +105,56 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "BBC News World",
         "The Guardian World",
+        "BBC News World",
         "SBS News World",
         "DW World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-australia-news-live-2026-jun-16-australia-news-live-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/79fd8383d2ea697783592ff827fdf3554385df7f/285_0_1121_897/master/1121.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=94ba6df0b90851e7baa629c0b39d59c6",
+          "publishedAt": "2026-06-16T06:20:21.000Z",
+          "title": {
+            "en": "Australia news live: Two arrested as police investigate Dezi Freeman’s movements; Bullock warns more hikes possible after RBA holds rates",
+            "zh": "澳大利亚新闻直播：两人被捕，警方调查迪兹·弗里曼的行踪；澳联储维持利率后，布洛克警告可能进一步加息"
+          },
+          "summary": {
+            "en": "Australian police have arrested two individuals as part of an investigation into Dezi Freeman's movements. Meanwhile, the Reserve Bank of Australia has held interest rates, but Governor Bullock has indicated that further hikes remain possible. Politically, Katy Gallagher commented on the surge in support for One...",
+            "zh": "澳大利亚警方逮捕了两名涉案人员，正调查迪兹·弗里曼的行踪。与此同时，澳大利亚储备银行维持利率不变，但行长布洛克警告未来仍可能加息。在政治方面，凯蒂·加拉格尔评论了“一国党”支持率的飙升，指出在保守派“重组”之际，“民意调查会来来去去”。"
+          },
+          "body": {
+            "en": "Follow today’s news live Get our breaking news email , free app or daily news podcast Gallagher on One Nation: ‘Opinion polls will come and go’ Katy Gallagher was also asked about the surge in One Nation, saying there was an obvious “reorganisation on the conservative side of politics”. I think there is a lot of uncertainty and worry about events that are happening across the world, the impact that has here. Cost of living is the No 1 issue with anyone you talk to right now, and the government just has to remain focused on that, and that’s what we intend to do. Opinion polls will come and go, they do. Our job is to make sure we’re making the right decisions for the right time and that it’s focused on the Australian people. And when there’s controversy about that, and we know we’ve had a lot of feedback around the budget, you know, our job is to front up and explain why we’ve taken those decisions. Continue reading...",
+            "zh": "关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 加拉格尔对一国党：“民意调查会来来去去” 凯蒂·加拉格尔还被问及一国党人数激增的问题，她表示，“政治保守派方面进行了明显的重组”。我认为世界各地正在发生的事件及其对这里的影响存在很多不确定性和担忧。对于你现在交谈的任何人来说，生活成本都是第一大问题，政府必须继续关注这一问题，这就是我们打算做的。民意调查会来来去去，确实如此。我们的工作是确保我们在正确的时间做出正确的决定，并且重点关注澳大利亚人民。当对此存在争议时，我们知道我们收到了很多有关预算的反馈，我们的工作就是站出来解释为什么我们做出这些决定。继续阅读..."
+          },
+          "reflection": {
+            "en": "Political landscapes are constantly shifting, with parties rising and falling in public favor, much like the ebb and flow of opinion polls. This reminds us that human power and popularity are transient, ultimately subject to a higher authority.",
+            "zh": "政治格局瞬息万变，政党在民意中起伏，正如民意调查的潮涨潮落。这提醒我们，人类的权力和声望都是短暂的，最终都服从于更高的权柄。"
+          },
+          "verse": {
+            "reference": "Psalm 75:7",
+            "textEn": "It is God who judges: He brings one down, he exalts another.",
+            "textZh": "惟有神断定；他使这人降卑，使那人升高。",
+            "themeEn": "God lifts and lowers",
+            "themeZh": "神升降"
+          },
+          "aiVerseId": "ps_75_7",
+          "translationState": "localized"
+        },
         {
           "id": "www-bbc-com-news-articles-ce8mv6l6eezo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb36/live/4ade2f20-68f4-11f1-8546-8f19e4fe30f4.jpg",
-          "publishedAt": "2026-06-16T00:03:56.000Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c3f0/live/f7f57fb0-6944-11f1-b8da-53bba3cad46c.jpg",
+          "publishedAt": "2026-06-16T06:16:09.000Z",
           "title": {
-            "en": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+            "en": "Trump may release US-Iran deal before Friday, Vance says",
             "zh": "特朗普称与伊朗结束战争的协议已签署，细节“很快”公布"
           },
           "summary": {
@@ -128,7 +162,7 @@
             "zh": "特朗普总统宣布，一项旨在结束与伊朗战争的协议已经签署，细节将“很快”公布，并表示霍尔木兹海峡将从周五起开放。然而，关于协议具体内容的困惑依然存在。"
           },
           "body": {
-            "en": "US President Donald Trump has said a preliminary deal to end the war with Iran has already been signed and suggested that details of the agreement are set to be published \"pretty soon\".\n\n\"I am very happy to say it's signed, the deal is all signed,\" he said during talks with French President Emmanuel Macron at the G7 summit on Monday.\n\nSenior US officials also began giving some details about the contents of the deal, briefing that the Strait of Hormuz would re-open on Friday - the same day the deal is formally inked in Geneva.\n\nTechnical talks on Iran's nuclear programme are expected to begin this week, they said, while any sanctions relief or release of assets will depend on Iran meeting commitments under the deal.\n\nVice-President JD Vance told CNN's Jake Tapper on Monday that the memorandum of understanding (MOU) between the US and Iran was \"about a page and a half\" and was a very general document.\n\nVance added that a lot of the details would be worked out during future negotiations.\n\n\"On a number of issues, we are going to have to figure this stuff out during the technical negotiation phase, but what the MOU does is set up a framework whereby the Iranians get the benefits of the bargain by meeting their obligations under the bargain,\" he said.\n\nIn \"paragraph one\" of the document it is outlined that Iran will commit itself to \"regional peace and stability\", Vance said, which he added included stopping the funding of \"terrorist organisations\".\n\n\"Most importantly, they're going to have a verifiable commitment to not building a nuclear weapon,\" Vance said.\n\nThe US officials said the agreement had been signed electronically by Trump, Vance and Iranian Parliament Speaker Mohammad Bagher Ghalibaf.\n\nThey also suggested more details of the pact could be released by Wednesday - although Trump said the full text of the agreement would be released \"pretty soon\" after Friday's ceremony.\n\n\"It's a very powerful document, and I want it to be released. So probably pretty soon,\" the president said.\n\nThe deal will extend a ceasefire for another 60 days, during which the sides will negotiate details of a final agreement.\n\nAnnouncing the breakthrough on Sunday, Pakistan's Prime Minister Shehbaz Sharif, whose nation had been mediating, said it included \"the immediate and permanent termination of military operations on all fronts, including in Lebanon\".\n\nThe US officials said that while Lebanon was covered by the ceasefire framework, the withdrawal of Israeli forces from Lebanese territory was not a condition of the deal. Israel would retain the right to self defence, they added.\n\nSpeaking on Monday evening, Israeli Prime Minister Benjamin Netanyahu said Israeli forces would remain in security zones in Lebanon, Syria and Gaza \"as long as necessary\", and retain the...",
+            "en": "Donald Trump may decide to release a preliminary deal to end the war with Iran before Friday, US Vice-President JD Vance says, after the US president said the agreement had already been signed.\n\nVance has described the memorandum of understanding (MOU) between the US and Iran as \"about a page and a half\" and a \"very general\" document.\n\nSenior US officials have also begun giving some details about the deal, briefing that the Strait of Hormuz would re-open on Friday - the same day the deal is formally inked in Geneva.\n\nIt comes as Trump attends the G7 summit in France, which will on Tuesday host a special session about Iran attended by the leaders of Egypt, Qatar and the United Arab Emirates.\n\nOn Monday, during talks with French President Emmanuel Macron, Trump said: \"I am very happy to say it's signed, the deal is all signed,\" referring to the preliminary agreement.\n\nUS officials said it had been signed electronically by Trump, Vance and Iranian Parliament Speaker Mohammad Bagher Ghalibaf.\n\nTechnical talks on Iran's nuclear programme are expected to begin this week, the officials said, while any sanctions relief or release of assets will depend on Iran meeting commitments under the deal.\n\nWhile Trump had earlier suggested that details of the agreement were set to be published \"pretty soon\" after Friday's ceremony, Vance told Fox News the US president might decide to release the agreement with Tehran before then.\n\nVance earlier told CNN's Jake Tapper that the memorandum of understanding (MOU) was a very general document, adding that a lot of the details would be worked out during future negotiations.\n\n\"On a number of issues, we are going to have to figure this stuff out during the technical negotiation phase, but what the MOU does is set up a framework whereby the Iranians get the benefits of the bargain by meeting their obligations under the bargain,\" he said.\n\nIn \"paragraph one\" of the document it is outlined that Iran will commit itself to \"regional peace and stability\", Vance said, which he added included stopping the funding of \"terrorist organisations\".\n\n\"Most importantly, they're going to have a verifiable commitment to not building a nuclear weapon,\" Vance said.\n\nG7 allies will be eager to discuss Iran with Trump, with the UK and France having led plans for a defensive mission to protect vessels in the Strait of Hormuz.\n\nTrump said he did not believe the US would \"need much help\" in ensuring the free passage of shipping but added he did not think it was \"a bad idea to have a ship or two\" from other countries based in the strategic waterway.\n\nThe deal will extend a ceasefire for another 60 days, during which the sides will negotiate details of a final agreement.\n\nAnnouncing the breakthrough on Sunday, Pakistan's Prime Minister Shehbaz Sharif,...",
             "zh": "美国总统唐纳德·特朗普表示，结束与伊朗战争的初步协议已经签署，并表示该协议的细节将“很快”公布。 他在周一七国集团峰会上与法国总统马克龙会谈时表示：“我很高兴地说，协议已经签署，协议全部签署。” 美国高级官员也开始提供有关该协议内容的一些细节，并通报称，霍尔木兹海峡将于周五重新开放，即该协议在日内瓦正式签署的同一天。 他们表示，有关伊朗核计划的技术谈判预计将于本周开始，而任何制裁的解除或资产的释放将取决于伊朗是否履行协议下的承诺。 副总统 JD 万斯周一对美国有线电视新闻网 (CNN) 的杰克·塔珀 (Jake Tapper) 表示，美国和伊朗之间的谅解备忘录 (MOU) “大约一页半”，是一份非常笼统的文件。 万斯补充说，很多细节将在未来的谈判中解决。 他说：“在许多问题上，我们必须在技术谈判阶段解决这些问题，但谅解备忘录所做的是建立一个框架，使伊朗人通过履行协议规定的义务来获得协议的好处。” 万斯说，文件的“第一段”概述了伊朗将致力于“地区和平与稳定”，他补充说，其中包括停止向“恐怖组织”提供资金。 万斯说：“最重要的是，他们将做出可验证的不制造核武器的承诺。” 美国官员表示，该协议已由特朗普、万斯和伊朗议会议长穆罕默德·巴格尔·加利巴夫以电子方式签署。 他们还表示，该协议的更多细节可能会在周三公布，尽管特朗普表示该协议的全文将在周五仪式后“很快”公布。 “这是一份非常有力的文件，我希望它能够被发布。所以可能很快，”总统说。 该协议将停火期限再延长 60 天，在此期间双方将就最终协议的细节进行谈判。 一直在进行调解的巴基斯坦总理谢赫巴兹·谢里夫周日宣布了这一突破，他表示，其中包括“立即永久终止包括黎巴嫩在内的所有战线的军事行动”。 美国官员表示，虽然黎巴嫩受到停火框架的保护，但以色列军队从黎巴嫩领土撤军并不是协议的条件。他们补充说，以色列将保留自卫权。 以色列总理本杰明·内塔尼亚胡周一晚间发表讲话称，以色列军队将“只要有必要”就留在黎巴嫩、叙利亚和加沙的安全区，并保留..."
           },
           "reflection": {
@@ -146,227 +180,24 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-live-2026-jun-16-australia-news-live-",
+          "id": "www-theguardian-com-environment-2026-jun-16-ai-could-help-win-race-again",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/ae4f18b97909b46b03037d3b64e5f09b06a9e1db/68_0_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c09a81acd9b547c5e2b7408000fb6f20",
-          "publishedAt": "2026-06-16T00:03:08.000Z",
+          "link": "https://www.theguardian.com/environment/2026/jun/16/ai-could-help-win-race-against-extinction-of-vital-plants-say-botanists",
+          "image": "https://i.guim.co.uk/img/media/6ee4e53ef515426e7222a759a0db69b0df76eba8/1830_222_6324_5059/master/6324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec23e57e6193dda0a62df67b8657136b",
+          "publishedAt": "2026-06-16T06:00:48.000Z",
           "title": {
-            "en": "News live: Fifa clears Australia VAR official over hand gesture during World Cup broadcast; postal workers report rise in dog-related incidents",
-            "zh": "新闻直播：国际足联澄清澳大利亚VAR官员在世界杯转播中的手势；邮政工人报告与狗相关的事件增加"
+            "en": "AI could help win ‘race against extinction’ of vital plants, say botanists",
+            "zh": "植物学家表示，人工智能可以帮助赢得重要植物的“对抗灭绝竞赛”"
           },
           "summary": {
-            "en": "A FIFA VAR official from Australia was cleared after an investigation into a hand gesture made during a World Cup broadcast, which he stated he was unaware of at the time. Separately, postal workers have reported an increase in dog-related incidents.",
-            "zh": "国际足联一名澳大利亚视频助理裁判（VAR）因在世界杯转播中做出手势而接受调查后被澄清，他表示当时并未意识到自己做了该手势。此外，邮政工作人员报告称与狗相关的事件有所增加。"
-          },
-          "body": {
-            "en": "Shaun Evans says he was unaware he had made gesture at the time. Follow today’s news live Get our breaking news email , free app or daily news podcast Gallagher on One Nation: ‘Opinion polls will come and go’ Katy Gallagher was also asked about the surge in One Nation, saying there was an obvious “reorganisation on the conservative side of politics”. I think there is a lot of uncertainty and worry about events that are happening across the world, the impact that has here. Cost of living is the No 1 issue with anyone you talk to right now, and the government just has to remain focused on that, and that’s what we intend to do. Opinion polls will come and go, they do. Our job is to make sure we’re making the right decisions for the right time and that it’s focused on the Australian people. And when there’s controversy about that, and we know we’ve had a lot of feedback around the budget, you know, our job is to front up and explain why we’ve taken those decisions. Continue reading...",
-            "zh": "肖恩·埃文斯表示，他当时并没有意识到自己做出了手势。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 加拉格尔对一国党：“民意调查会来来去去” 凯蒂·加拉格尔还被问及一国党人数激增的问题，她表示，“政治保守派方面进行了明显的重组”。我认为世界各地正在发生的事件及其对这里的影响存在很多不确定性和担忧。对于你现在交谈的任何人来说，生活成本都是第一大问题，政府必须继续关注这一问题，这就是我们打算做的。民意调查会来来去去，确实如此。我们的工作是确保我们在正确的时间做出正确的决定，并且重点关注澳大利亚人民。当对此存在争议时，我们知道我们收到了很多有关预算的反馈，我们的工作就是站出来解释为什么我们做出这些决定。继续阅读..."
-          },
-          "reflection": {
-            "en": "Even a small, unintentional gesture can draw significant public attention and require explanation, especially when one is in a visible role. This reminds us how quickly a seemingly minor action can spark widespread discussion or controversy. It underscores the importance of mindfulness in our conduct, recognizing the potential ripple effect of our words and...",
-            "zh": "即使是一个微小、无意的手势，也可能引起公众的广泛关注并需要解释，尤其当一个人身处显眼的位置时。这提醒我们，一个看似微不足道的行为，如何能迅速引发广泛的讨论或争议。它强调了我们在言行举止中保持警觉的重要性，认识到我们的言语和行动可能产生的连锁反应。"
-          },
-          "verse": {
-            "reference": "James 3:5",
-            "textEn": "The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark.",
-            "textZh": "舌头在百体里也是最小的，却能说大话。看哪，最小的火能点着最大的树林。",
-            "themeEn": "Small spark, big fire",
-            "themeZh": "星星之火"
-          },
-          "aiVerseId": "jas_3_5",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c5yzdr4ygdno-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c5yzdr4ygdno?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d66b/live/93a2db20-65ac-11f1-8546-8f19e4fe30f4.jpg",
-          "publishedAt": "2026-06-15T23:56:47.000Z",
-          "title": {
-            "en": "What one country's experiment says about attempts to boost birth rates",
-            "zh": "一个国家的生育率提升实验揭示了什么？"
-          },
-          "summary": {
-            "en": "Why did Hungary’s pronatalist approach deliver an early rise in births only then to fall back? And what lessons does it offer to other countries desperate to lift fertility?",
-            "zh": "匈牙利鼓励生育的政策为何在初期带来出生率上升后又回落？它能为其他急于提高生育率的国家提供什么经验教训？"
-          },
-          "body": {
-            "en": "Sitting on a park bench in the eastern Hungarian city of Debrecen, Barbara Elek is nervously refreshing her emails. She and her husband Levi are waiting to find out if Barbara is pregnant, after their third round of IVF 10 days ago.\n\n\"If it doesn't succeed, then obviously I'll be devastated, and then the last resort will be trying to make sure that, at least financially, we don't lose everything,\" she says.\n\nLike many other young Hungarian couples Barbara, 33, a social worker and Levi, 34, a chef, were eligible for tens of thousands of pounds in interest-free loans and subsidies when they promised to have two children. But they've struggled to get pregnant naturally and if they can't prove they have a child on the way by 1 November then it is possible they may have to pay back those loans with penalty interest.\n\nThe couple took out a 10 million‑forint (£25,000) loan on the promise of having two children. Under rules introduced by Hungary's previous government, they could be asked to repay penalty interest of between 1.5 and 3.5 million forint (£3,700-£8,600), something they say they can't afford. They also receive a mortgage subsidy with similar terms.\n\nIn 2010, then prime minister of Hungary Viktor Orbán embarked on some of the most ambitious pronatalist policies in the world - paying people to have, or promise to have, children. Hungary's fertility is well below the replacement level of 2.1 babies per woman needed to keep the native-born population steady - a number that accounts for those children who don't survive to adulthood. And on top of that, there have been high levels of emigration and low immigration.\n\nIt's not just a Hungarian issue. Across Europe, fertility rates have been below the level needed to keep the population stable without immigration since the 1980s. Today, the same is true in more than half of all countries, home to around two‑thirds of the world's population.\n\nWhen Orbán was re‑elected in 2010, Hungary's fertility rate was among the lowest in Europe. His party, Fidesz, promised to tackle population decline. \"In the West, the answer to this is immigration. You bring in as many as you're missing. Hungarians think differently. We don't need numbers, we need Hungarian children.\"\n\nOrbán, who was voted out of office in April this year, rolled out extensive tax breaks, interest-free loans and mortgage subsidies to young couples who promised to have children. There are also subsidies to buy a bigger car or renovate your home. The incentives were only available to married, heterosexual couples and those in the formal job market.\n\nAt one point, it seemed all of this was pushing Hungarians to reproduce. The fertility rate rose from 1.25 in 2010 to 1.59 by 2020.\n\nHungary, for a time, was hailed as a great success story by some -...",
-            "zh": "芭芭拉·埃莱克坐在匈牙利东部城市德布勒森的公园长椅上，紧张地刷新着她的电子邮件。 10 天前进行第三轮试管受精后，她和丈夫利维正在等待芭芭拉是否怀孕。 “如果不成功，那么显然我会崩溃，然后最后的手段将是努力确保，至少在经济上，我们不会失去一切，”她说。 和许多其他年轻的匈牙利夫妇一样，33岁的社会工作者芭芭拉和34岁的厨师利维在承诺生育两个孩子时有资格获得数万英镑的无息贷款和补贴。但他们一直难以自然怀孕，如果他们无法在 11 月 1 日之前证明自己即将生下孩子，那么他们可能不得不偿还这些贷款并收取罚息。 这对夫妇以生育两个孩子的承诺而申请了 1000 万福林（25,000 英镑）的贷款。根据匈牙利前政府制定的规定，他们可能会被要求偿还 1.5 至 350 万福林（3,700 至 8,600 英镑）的罚息，但他们说自己无力承担。他们还获得类似条款的抵押贷款补贴。 2010年，时任匈牙利总理欧尔班·维克多(Viktor Orbán)开始实施一些世界上最雄心勃勃的生育政策——付钱给人​​们生育或承诺生育孩子。匈牙利的生育率远低于维持本土出生人口稳定所需的每名妇女生育 2.1 个婴儿的更替水平——这个数字导致了那些无法活到成年的儿童。最重要的是，移民人数很高，移民人数却很少。 这不仅仅是匈牙利的问题。自 20 世纪 80 年代以来，整个欧洲的生育率一直低于在没有移民的情况下保持人口稳定所需的水平。如今，一半以上的国家都存在同样的情况，这些国家拥有世界约三分之二的人口。 2010年欧尔班再次当选时，匈牙利的生育率是欧洲最低的。他的政党青民盟承诺解决人口下降问题。 “在西方，解决这个问题的办法是移民。你缺多少就引进多少。匈牙利人的想法不同。我们不需要数字，我们需要匈牙利儿童。” 今年四月当选下台的欧尔班向承诺生育孩子的年轻夫妇推出了广泛的税收减免、无息贷款和抵押贷款补贴。还有购买更大汽车或翻新房屋的补贴。这些激励措施仅适用于已婚夫妇、异性夫妇和正规就业市场的人士。 一度，这一切似乎都在推动匈牙利人繁衍后代。生育率从2010年的1.25上升到2020年的1.59。 匈牙利一度被一些人誉为伟大的成功故事......"
-          },
-          "reflection": {
-            "en": "Hungary's efforts to boost birth rates highlight a universal desire for thriving families and the gift of children. Psalm 127:3 reminds us that children are a heritage and a reward, reflecting a profound truth about their value beyond policy outcomes. While nations seek to influence demographics, the blessing of new life ultimately points to a deeper source...",
-            "zh": "匈牙利为提高出生率所做的努力，凸显了人们对家庭兴旺和子女恩赐的普遍渴望。诗篇127:3提醒我们，儿女是雅伟所赐的产业和赏赐，这反映了他们超越政策结果的深刻价值。虽然各国都在努力影响人口结构，但新生命的祝福最终指向了更深层的希望和喜悦。"
-          },
-          "verse": {
-            "reference": "Psalm 127:3",
-            "textEn": "Children are a heritage from Yahweh, offspring a reward from him.",
-            "textZh": "儿女是雅伟所赐的产业。",
-            "themeEn": "Children as gift",
-            "themeZh": "儿女是产业"
-          },
-          "aiVerseId": "ps_127_3",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-iran-new-zealand-world-cup-2026-opener-14t73",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/iran-new-zealand-world-cup-2026-opener/14t7356yb",
-          "image": "https://assets.sbs.com.au/dims4/default/29cfc29/2147483647/strip/false/crop/5343x2455+0+553/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F5a%2F80%2F8cd1884e48daac89ef4de963c734%2Fgettyimages-2281118553.jpg",
-          "publishedAt": "2026-06-15T23:56:42.000Z",
-          "title": {
-            "en": "A day after a peace deal was announced, Iran's World Cup campaign begins in LA",
-            "zh": "和平协议宣布一天后，伊朗的世界杯征程在洛杉矶开启"
-          },
-          "summary": {
-            "en": "After months of uncertainty, the Iranian national football team arrived in the US just hours before a ceasefire was announced.",
-            "zh": "经过数月的不确定性，伊朗国家足球队在美国宣布停火协议前数小时抵达美国。"
-          },
-          "body": {
-            "en": "Iran will start its FIFA World Cup 2026 campaign with a match against New Zealand in Los Angeles today, a day after it agreed to a peace deal with the United States to end the war in the Middle East.\n\nAfter months of debate about whether they would participate in the tournament, the Iranian national football team arrived in Los Angeles on Sunday afternoon, local time, from Tijuana, Mexico, where they had relocated their base camp due to security concerns related to the conflict.\n\nHours after their arrival, US President Donald Trump announced an agreement to end hostilities between the two countries , which began when the US and Israel launched strikes against Iran in February.\n\nIran's participation in the tournament would have marked the first time in the World Cup's 96-year history that a country played while at war with a host nation.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIran will have to travel from Mexico to the US for each of their three group matches, with their visas permitting them to remain on US soil for less than 48 hours and requiring them to return to Mexico after each game.\n\nThe Group G match will start at 11am Tuesday AEST, which you can watch live and free on SBS and SBS On Demand.\n\nSpeaking through a translator at a press conference at Los Angeles Stadium, Iranian coach Amir Ghalenoei said he was \"very happy to be representing the great, proud and strong nation of Iran\".\n\n\"I hope that football will bring about joy and enjoyment, and bring closer the cultures and countries,\" he said.\n\nSeveral Iranian officials have been denied entry , including the national football federation's president, and Ghalenoei said the travel and visa denials had negatively affected the squad.\n\nHadi, a Socceroos fan who was raised in Iran but moved to Australia as a teenager, and is part of the Hazara community from Afghanistan, told SBS News the peace deal was \"good for the world\".\n\n\"We don't know what's gonna happen in the background, but on the paper it looks like it's good.\"\n\nOutside the stadium and the Iranian team's hotel, protesters demonstrated calling for democracy in Iran and denouncing its government.\n\n\"No Shah &#x2014; No Mullah in Iran &#x2014; Regime Change by Iranians,\" placards read.\n\nLos Angeles is home to one of the largest Iranian diaspora communities, many of whom fiercely oppose the Iranian government.\n\nYou can watch all 104 matches of the FIFA World Cup 2026&#x2122; live, free and exclusive on&#xA0; SBS , SBS VICELAND and&#xA0; SBS On Demand .\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "伊朗将于今天在洛杉矶与新西兰队进行 2026 年世界杯的比赛，一天前，伊朗同意与美国达成和平协议以结束中东战争。 经过几个月关于是否参加比赛的争论后，伊朗国家足球队于当地时间周日下午从墨西哥蒂华纳抵达洛杉矶，由于冲突相关的安全问题，他们将大本营搬到了那里。 他们抵达数小时后，美国总统唐纳德·特朗普宣布达成一项结束两国之间敌对行动的协议，该协议始于美国和以色列二月份对伊朗发动袭击。 伊朗参加本届世界杯将标志着世界杯96年历史上首次有国家在与东道国发生战争的情况下进行比赛。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 伊朗队将必须从墨西哥前往美国参加三场小组赛，他们的签证允许他们在美国境内停留不超过 48 小时，并要求他们在每场比赛后返回墨西哥。 G 组比赛将于澳大利亚东部时间周二上午 11 点开始，您可以在 SBS 和 SBS On Demand 上免费观看现场直播。 伊朗教练阿米尔·加勒诺伊在洛杉矶体育场举行的新闻发布会上通过翻译表示，他“非常高兴能够代表伟大、自豪和强大的伊朗国家”。 “我希望足球能够带来欢乐和享受，拉近不同文化和国家的距离。”他说。 几名伊朗官员被拒绝入境，其中包括国家足球联合会主席，加勒诺伊表示，旅行和签证被拒对球队产生了负面影响。 哈迪是一名澳大利亚足球队球迷，在伊朗长大，十几岁时移居澳大利亚，是阿富汗哈扎拉人社区的一员，他告诉 SBS 新闻，和平协议“对世界有利”。 “我们不知道后台会发生什么，但从纸面上看，情况看起来不错。” 在体育场和伊朗队下榻的酒店外，抗议者举行示威活动，呼吁伊朗实现民主并谴责其政府。 标语牌上写着：“伊朗没有沙阿——没有毛拉——伊朗人改变政权。” 洛杉矶是最大的伊朗侨民社区之一的所在地，其中许多人强烈反对伊朗政府。 您可以在 SBS、SBS VICELAND 和 SBS On Demand 上免费独家直播观看 2026 年 FIFA 世界杯的所有 104 场比赛。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "The news of a ceasefire and the arrival of the Iranian football team in the US, despite long-standing tensions, highlights moments when dividing walls of hostility can be temporarily lowered. It reminds us that even in complex international relations, opportunities can arise for shared humanity to bridge divides, however fragile the peace may be.",
-            "zh": "停火协议的宣布以及伊朗足球队抵达美国的消息，尽管两国长期关系紧张，却凸显了敌意之墙暂时被拆除的时刻。这提醒我们，即使在复杂的国际关系中，共享的人性也能创造弥合分歧的机会，无论和平多么脆弱。"
-          },
-          "verse": {
-            "reference": "Ephesians 2:14",
-            "textEn": "For he himself is our peace, who has made the two groups one and has destroyed the barrier, the dividing wall of hostility.",
-            "textZh": "因他使我们和睦，将两下合而为一，拆毁了中间隔断的墙。",
-            "themeEn": "Wall of hostility down",
-            "themeZh": "拆毁敌意的墙"
-          },
-          "aiVerseId": "eph_2_14",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cp3xyvww1lqo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/23f6/live/0200a2a0-68c8-11f1-8e1d-bbbb1017d210.jpg",
-          "publishedAt": "2026-06-15T23:26:39.000Z",
-          "title": {
-            "en": "Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak",
-            "zh": "见证死亡中的喜悦：BBC 前往埃博拉疫情中心"
-          },
-          "summary": {
-            "en": "There are glimpses of happiness in the Democratic Republic of Congo's fight against the virus that has killed more than 170.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "It is strange to witness singing and dancing in a place which has seen so much death but the successful treatment of an Ebola patient is cause for celebration at a hospital in the north-east of the Democratic Republic of Congo.\n\nJust after midday on Friday, about a dozen healthcare workers in green scrubs sang songs of praise – \"grace has been shown to us; grace has been shown to patients\" - as they escorted Daniel Kitambala out of the clinic.\n\nTwo negative Ebola tests confirmed he was free of the virus after spending about three weeks at the facility.\n\n\"That disease is terrible. I was feeling very ill [when I came here]. But God is great, I am well now,\" Kitambala, a devout Christian, told the BBC as the medics continued to cheer.\n\nThe 49-year-old, dressed in a black T-shirt and trousers and carrying a black polythene bag with his sterilised belongings, was beaming with joy and relief as he walked between the two lines of orange netting that mark out the path out of the treatment centre.\n\nMore than 140 people are confirmed to have died from the rare Bundibugyo species of the disease here in Ituri province, the epicentre of the latest outbreak that was first declared just over a month ago.\n\nBut this virus, which has killed around one in five of those known to have been infected, could have been spreading undetected for months. The authorities are now battling to get infections under control.\n\nThat struggle is in part about overcoming local myths, including that the disease is the result of something known here as the \"coffin curse\" and that treatment centres are the problem rather than the solution.\n\nBut it is possible to survive the virus and the celebrations at the Ebola treatment centre in Mongbwalu were a sign of that.\n\n\"See… I recovered,\" the subsistence farmer said as he raised his hands in the air three times in a victory salute and in praise of God.\n\n\"People should seek treatment when they fall ill,\" he said as he turned to thank the healthcare workers behind him who were clapping.\n\nReflecting on how he was infected, Kitambala said he went to see someone in his community who was unwell and pray for him. Shortly afterwards, he fell ill himself.\n\nThe virus spreads from one person to another by contact with infected bodily fluids such as blood or vomit.\n\nWhen Kitambala first fell ill, like many people in DR Congo, he initially tried traditional medicine. But when his condition deteriorated, he went to hospital.\n\n\"We have seen a huge difference in the community since the first patient recovered and returned home,\" said Dr Richard Lukodu, Mongbwalu hospital's medical director.\n\nFifty-five-year-old pastor Deogratias Kasereka became the first Ebola patient to leave the centre a week ago.\n\nLukodu is optimistic that the recoveries will help build...",
-            "zh": "在一个死亡人数如此之多的地方看到歌舞表演很奇怪，但在刚果民主共和国东北部的一家医院，一名埃博拉患者的成功治疗却值得庆祝。 周五中午刚过，大约十几名身着绿色工作服的医护人员在护送丹尼尔·基坦巴拉(Daniel Kitambala)走出诊所时唱起了赞美之歌——“恩典已经向我们显现；恩典已经向病人显现”。 在该设施呆了大约三周后，两次埃博拉病毒检测呈阴性，证实他没有感染病毒。 “这种病很可怕。[当我来到这里时]我感觉很不舒服。但上帝很伟大，我现在很好，”虔诚的基督徒基坦巴拉告诉英国广播公司，医护人员继续欢呼。 这名 49 岁的男子穿着黑色 T 恤和裤子，拎着一个黑色聚乙烯袋，里面装着经过消毒的物品。当他走过两道橙色网（通往治疗中心的道路）时，他脸上洋溢着喜悦和轻松的笑容。 伊图里省已确认有 140 多人死于罕见的本迪布焦 (Bundibugyo) 疾病，该省是一个多月前首次宣布的最新疫情爆发的中心。 但这种病毒已经导致已知感染者中约五分之一死亡，并且可能已经在未被发现的情况下传播了几个月。当局目前正在努力控制感染。 这场斗争在一定程度上是为了克服当地的神话，包括这种疾病是这里所谓的“棺材诅咒”的结果，以及治疗中心是问题而不是解决方案。 但病毒是有可能存活下来的，蒙布瓦鲁埃博拉治疗中心的庆祝活动就是一个迹象。 “看……我康复了，”这位自给自足的农民在空中举起双手三下，向胜利致敬并赞美上帝。 “人们生病了就应该寻求治疗，”他转身感谢身后鼓掌的医护人员。 基坦巴拉回忆起自己是如何被感染的，他说他去看望了社区中身体不适的人，并为他祈祷。不久之后，他自己也病倒了。 病毒通过接触血液或呕吐物等受感染的体液从一个人传播到另一个人。 当基坦巴拉第一次生病时，像刚果民主共和国的许多人一样，他最初尝试了传统医学。但当他的病情恶化时，他去了医院。 Mongbwalu 医院医疗主任理查德·卢科杜 (Richard Lukodu) 博士说：“自从第一位患者康复并回家以来，我们看到社区发生了巨大变化。” 一周前，55 岁的牧师德奥格拉蒂亚斯·卡塞雷卡 (Deogratias Kasereka) 成为第一位离开该中心的埃博拉患者。 卢科杜乐观地认为，复苏将有助于建立……"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-live-2026-jun-15-donald-trump-ufc-white-hous",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/jun/15/donald-trump-ufc-white-house-michelle-obama-g7-iran-peace-deal-us-politics-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/0dc0d359bd6d94d7cdbc39d3d034e369a53b39df/577_0_6455_5162/master/6455.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6dfdc9c611e52173825d5ce65ce7168e",
-          "publishedAt": "2026-06-15T23:26:20.000Z",
-          "title": {
-            "en": "California governor Gavin Newsom accuses Donald Trump of directing DoJ to investigate him and his wife – as it happened",
-            "zh": "加州州长加文·纽森指控唐纳德·特朗普指示司法部调查他和他的妻子——美国政治直播"
-          },
-          "summary": {
-            "en": "California Governor Gavin Newsom has accused former President Donald Trump of instructing the Department of Justice to investigate him and his wife. Newsom claims this alleged directive is politically motivated, stemming from his consideration of a presidential run. The Justice Department has not yet commented on the...",
-            "zh": "加利福尼亚州州长加文·纽森指控前总统唐纳德·特朗普指示司法部调查他和他的妻子。纽森声称，这一指控是出于政治动机，因为他正在考虑竞选总统。司法部尚未对此指控发表评论。"
-          },
-          "body": {
-            "en": "This live blog is now closed. Gavin Newsom says Trump directed DoJ to investigate him and his wife Sign up for the Breaking News US email JD Vance also dodged the question when he was asked by CNBC who would be at the signing of the agreement on Friday. Without addressing who would be present for the US side, he said they “expect the negotiating team from the Iranian side is going to be the Speaker of the House [Mohammad Bagher] Ghalibaf, and also the foreign minister [Abbas] Araghchi, along with a number of security officials and people who represent the different constituencies within their country.” I think it’s a great day for the American people … our expectation is that the strait is going to be opened in a toll-free way for the long term . That’s the sort of thing that we’re going to figure out in these technical negotiations. There are a lot of very important details to figure out that we’re actually going to sit at the table and discuss together and figure out a path forward on these details. And what we’ve said is, OK, let’s talk about how exactly we’re going to do that. They want access to an unsanctioned economy. We’ve talked about, ‘OK, we’re open to that,’ but that would require a long-term commitment to the inspection and verification regime. Continue reading...",
-            "zh": "纽瑟姆指责总统“因为我正在考虑竞选总统而追随我”；司法部尚未就加文·纽瑟姆称特朗普指示司法部调查他和他的妻子的说法发表评论。 当 CNBC 询问谁将出席周五签署协议时，JD 万斯也回避了这个问题。他没有透露美方将出席的人员，但表示“预计伊朗方面的谈判团队将是众议院议长[穆罕默德·巴格尔]·加利巴夫、外交部长[阿巴斯]阿拉格奇，以及一些安全官员和代表国内不同选区的人士。”我认为这对美国人民来说是伟大的一天……我们的期望是该海峡将以免费的方式长期开放。这就是我们将在这些技术谈判中解决的问题。有很多非常重要的细节需要弄清楚，我们实际上将坐在桌旁一起讨论，并找出这些细节的前进道路。我们所说的是，好吧，让我们来谈谈我们到底要如何做到这一点。他们希望进入未经批准的经济。我们已经讨论过，“好吧，我们对此持开放态度”，但这需要对检查和核查制度做出长期承诺。继续阅读..."
-          },
-          "reflection": {
-            "en": "The accusation of a leader using state power to target political opponents raises serious questions about the integrity of governance. Proverbs 16:12 reminds us that \"Kings detest wrongdoing, for a throne is established through righteousness.\" This principle underscores the vital importance of ethical leadership, where power is wielded for justice and the...",
-            "zh": "一位领导人被指控利用国家权力打击政治对手，这引发了对治理诚信的严重质疑。箴言16:12提醒我们：“君王憎恶作恶，因国位是靠公义坚立。”这一原则强调了道德领导力的至关重要性，即权力应为正义和公共利益而行使，而非为个人或党派私利。"
-          },
-          "verse": {
-            "reference": "Proverbs 16:12",
-            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
-            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
-            "themeEn": "Righteous rule",
-            "themeZh": "以公义治国"
-          },
-          "aiVerseId": "prov_16_12",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jun-15-rfk-jr-letter-medical-journal-va",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jun/15/rfk-jr-letter-medical-journal-vaccine-study",
-          "image": "https://i.guim.co.uk/img/media/2a461d9348690dca8799bdae0556c945138410aa/351_0_3513_2811/master/3513.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42ad2262c7b5b5c2b8bc5a6e13aa040b",
-          "publishedAt": "2026-06-15T23:20:21.000Z",
-          "title": {
-            "en": "RFK Jr under fire for ‘bullying’ letter to scientific journal",
-            "zh": "小罗伯特·肯尼迪因致信科学期刊被批“霸凌”"
-          },
-          "summary": {
-            "en": "Robert F Kennedy Jr is facing criticism from health advocates for sending a letter to a medical journal, demanding answers after it retracted a study suggesting a link between vaccines and infant issues, which the journal deemed “flawed.”",
-            "zh": "小罗伯特·F·肯尼迪因致信一家医学期刊，要求其解释为何撤回一篇被指“有缺陷”的疫苗研究论文而受到健康倡导者的批评。该研究曾暗示疫苗与婴儿问题之间存在关联。"
-          },
-          "body": {
-            "en": "Health advocates criticized Kennedy’s move demanding answers from journal that removed ‘flawed’ vaccine study Robert F Kennedy Jr , the US health secretary, is demanding answers from a medical journal that recently removed a paper suggesting a link between vaccines and infant death, saying their decision was “of great interest to me”. Public health advocates immediately criticized the move, and said Kennedy appeared to be trying to intimidate and influence the journal’s editorial process. The journal Toxicology Reports had removed the paper this spring after editors determined it was so seriously flawed it could harm patients and pose a risk to public health. Continue reading...",
-            "zh": "健康倡导者批评肯尼迪要求期刊给出答案，删除了“有缺陷”的疫苗研究。美国卫生部长小罗伯特·F·肯尼迪正在要求一家医学期刊给出答案，该期刊最近删除了一篇暗示疫苗与婴儿死亡之间存在联系的论文，称他们的决定“令我非常感兴趣”。公共卫生倡导者立即批评了这一举动，并表示肯尼迪似乎试图恐吓和影响该杂志的编辑过程。 《毒理学报告》杂志今年春天删除了这篇论文，因为编辑认为该论文存在严重缺陷，可能会伤害患者并对公共健康构成风险。继续阅读..."
-          },
-          "reflection": {
-            "en": "This incident highlights the tension between asserting one's views and respecting established scientific processes. When knowledge is wielded without humility or love, it can lead to accusations of bullying rather than constructive dialogue. True wisdom seeks to build up understanding and truth, not to dominate or intimidate.",
-            "zh": "这起事件凸显了坚持己见与尊重既定科学程序之间的张力。当知识被缺乏谦卑或爱心地运用时，它可能导致被指责为霸凌，而非建设性的对话。真正的智慧旨在建立理解和真理，而非支配或恐吓。"
-          },
-          "verse": {
-            "reference": "1 Corinthians 8:1",
-            "textEn": "Knowledge puffs up while love builds up.",
-            "textZh": "知识是叫人自高自大，惟有爱心能造就人。",
-            "themeEn": "Knowledge vs love",
-            "themeZh": "知识与爱"
-          },
-          "aiVerseId": "1cor_8_1",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-media-2026-jun-16-digital-news-australia-2026-newspa",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/media/2026/jun/16/digital-news-australia-2026-newspapers-radio-tv-social-media-tiktok-facebook-instagram",
-          "image": "https://i.guim.co.uk/img/media/965f889ab9e70780bd3123c0368008c6642ffbfc/526_0_3747_2999/master/3747.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4254a94e9f539b90e2884bd13453a7d3",
-          "publishedAt": "2026-06-15T23:00:38.000Z",
-          "title": {
-            "en": "Most Australians under 25 have never used newspapers or radio as a source of news, survey finds",
-            "zh": "调查发现，大多数 25 岁以下的澳大利亚人从未使用报纸或广播作为新闻来源"
-          },
-          "summary": {
-            "en": "But overall interest in news has increased, particularly among women and young people, 2026 Digital News Report finds Follow our Australia news live blog for latest updates Sign up for Guardian Australia’s free weekly media newsletter here The majority of Australian adults under...",
+            "en": "Tech is helping to identify and save new specimens and could open ‘genomic goldmine’ of fungi data The rise of AI and digitisation could be a turning point in the “race against extinction” faced by botanists trying to identify and save vital plants before they vanish, according...",
             "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "But overall interest in news has increased, particularly among women and young people, 2026 Digital News Report finds Follow our Australia news live blog for latest updates Sign up for Guardian Australia’s free weekly media newsletter here The majority of Australian adults under 25 have never used newspapers or radio as a source of news, according to the 2026 Digital News Report which tracks the changing habits of news consumers. However, overall interest in news has increased, in particular among women and young people, after years of decline. Since 2024, the interest of 18 to 24-year-olds in news has risen sharply (+12) to 47%. Continue reading...",
-            "zh": "但总体而言，人们对新闻的兴趣有所增加，尤其是女性和年轻人。2026 年数字新闻报道发现，关注我们的澳大利亚新闻直播博客，了解最新动态。在此处注册《卫报》澳大利亚版免费每周媒体通讯。根据追踪新闻消费者习惯变化的 2026 年数字新闻报道，大多数 25 岁以下的澳大利亚成年人从未使用报纸或广播作为新闻来源。然而，在经历了多年的下降之后，人们对新闻的整体兴趣有所增加，尤其是女性和年轻人。自 2024 年以来，18 至 24 岁人群对新闻的兴趣急剧上升 (+12) 至 47%。继续阅读..."
+            "en": "Tech is helping to identify and save new specimens and could open ‘genomic goldmine’ of fungi data The rise of AI and digitisation could be a turning point in the “race against extinction” faced by botanists trying to identify and save vital plants before they vanish, according to a major report from Royal Botanic Gardens, Kew. New technology is enabling scientists to track how flowering times have shifted by weeks around the world, rapidly identify new specimens and even get crucial genetic data from 180-year-old fungus specimens, potentially opening a “genomic goldmine”. Digitisation and online access to millions of specimens that were until now only accessible in archives is also producing new insights, especially in the global south. Continue reading...",
+            "zh": "科技正在帮助识别和保存新标本，并可能打开真菌数据的“基因组金矿”根据英国皇家植物园的一份重要报告，人工智能和数字化的兴起可能成为植物学家面临的“与灭绝的竞赛”的转折点，植物学家试图在重要植物消失之前识别和保存它们。新技术使科学家能够追踪世界各地开花时间如何变化数周，快速识别新标本，甚至从 180 年历史的真菌标本中获取重要的遗传数据，有可能打开一座“基因组金矿”。数字化和在线访问迄今为止只能在档案中获取的数以百万计的标本也产生了新的见解，特别是在南半球国家。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
@@ -382,24 +213,24 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-music-2026-jun-15-bonnie-tyler-out-of-coma-intensive",
+          "id": "www-theguardian-com-media-2026-jun-16-mail-on-sunday-attacks-restore-as-",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/music/2026/jun/15/bonnie-tyler-out-of-coma-intensive-care-portugal",
-          "image": "https://i.guim.co.uk/img/media/4c6975e6cb3fa3f94702d4f06a9fadc0f30dd078/756_0_4726_3781/master/4726.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6a2efea0b8bcea3371de135c84d02d8",
-          "publishedAt": "2026-06-15T22:50:25.000Z",
+          "link": "https://www.theguardian.com/media/2026/jun/16/mail-on-sunday-attacks-restore-as-split-right-creates-headache-for-uk-papers",
+          "image": "https://i.guim.co.uk/img/media/9a9eaba93239aefbe376e97f5b5c2b42c2cea603/3243_1202_5562_4450/master/5562.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8921303acc139015cb27faffd2ab13c2",
+          "publishedAt": "2026-06-16T06:00:46.000Z",
           "title": {
-            "en": "Bonnie Tyler now out of coma but remains in intensive care in Portugal",
-            "zh": "邦妮·泰勒现已脱离昏迷，但仍在葡萄牙接受重症监护"
+            "en": "Mail on Sunday attacks Restore as split right creates headache for UK papers",
+            "zh": "周日邮报攻击恢复右翼分裂令英国报纸头疼"
           },
           "summary": {
-            "en": "Welsh singer, best known for 1983 hit Total Eclipse of the Heart, had emergency intestinal surgery in May Welsh pop star Bonnie Tyler is no longer in a coma but remains “very unwell” in intensive care at a hospital near her home in Faro, Portugal. The 75-year-old singer received...",
+            "en": "Some titles that once backed the Tories now ‘flirting with Farage’ as they try to gauge where readers stand It was a Mail on Sunday headline with all the ferocity usually reserved for general elections, directed squarely at a political opponent. But in this case, the...",
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Welsh pop star Bonnie Tyler is no longer in a coma but remains “very unwell” in intensive care at a hospital near her home in Faro, Portugal .\n\nThe 75-year-old singer received emergency intestinal surgery in May and was placed in an induced coma to aid her recovery.\n\nA statement on her official website said that although her condition was improving and doctors remain confident she will recover, it was nonetheless a slow process.\n\nAll her remaining shows due to take place this summer have been cancelled, the statement said, but it is hoped some dates in the autumn could go ahead.\n\nThe update on her recovery came after the singer’s family had expressed distress over the “lurid and untrue rumours” circulating about her health.\n\n“Bonnie is no longer in a coma but remains very unwell and in intensive care in hospital in Portugal. Although her condition is improving it is a slow process,” the statement said.\n\n“Her doctors remain confident that she will make a good recovery but it is going to take time.\n\n“As such we are sorry to tell everyone that we will be cancelling, or postponing until next year where possible, all of our remaining shows this summer.\n\n“This will affect every current show until the end of August. At present we are still hopeful that our shows in the autumn will go ahead.”\n\nThe spokesperson apologised for “the disappointment that this will cause” and hoped fans would “understand and bear with us in these difficult circumstances”.\n\nThey added: “We would like to thank everyone for the huge outpouring of love and support from all over the world that we have received for Bonnie and want to tell you that she is aware of, and very grateful for, your good wishes.”\n\nShe had been due to perform at Sunshine festival in Worcester in August, as well as a number of European dates. She is also booked to perform at Cardiff’s Utilita Arena on 17 December.\n\nTyler, who was born Gaynor Hopkins, won international fame in the 1980s with the release of her chart-topping single Total Eclipse of the Heart, which spent two weeks as UK No 1, and four weeks at the top of the US charts in 1983.\n\nHer soulful husky voice helped make her songs instantly recognisable, with other hits including Holding Out For a Hero, It’s a Heartache and If You Were a Woman (And I Was a Man).\n\nOriginally from Neath, in south Wales , she was discovered by a talent scout in Swansea, and her first single was released in 1976.\n\nTyler represented the UK in the 2013 Eurovision song contest in Malmö, Sweden, with the song Believe in Me, with which she finished in 19th place.",
-            "zh": "威尔士流行歌星邦妮·泰勒不再处于昏迷状态，但在葡萄牙法鲁家附近的一家医院的重症监护室中仍然“非常不适”。 这位 75 岁的歌手于 5 月接受了紧急肠道手术，并处于诱导昏迷状态以帮助康复。 她的官方网站上的一份声明称，尽管她的病情正在改善，医生仍然相信她会康复，但这仍然是一个缓慢的过程。 声明称，她原定于今年夏天举行的所有剩余演出均已取消，但希望秋季的一些演出能够如期举行。 在她的家人对有关她健康状况的“耸人听闻且不真实的谣言”表示苦恼之后，她的康复情况得到了更新。 声明称：“邦妮不再处于昏迷状态，但仍然非常不适，正在葡萄牙医院接受重症监护。尽管她的病情正在改善，但这是一个缓慢的过程。” “她的医生仍然相信她会康复，但这需要时间。 “因此，我们很遗憾地告诉大家，我们将取消今年夏天所有剩余的演出，或者尽可能推迟到明年。 “这将影响到八月底之前的每场演出。目前我们仍然希望秋季的演出能够继续进行。” 该发言人对“这将造成的失望”表示歉意，并希望粉丝们“在这种困难的情况下理解并容忍我们”。 他们补充道：“我们要感谢大家从世界各地为邦妮倾注的爱和支持，并想告诉你们，她知道并且非常感谢你们的良好祝愿。” 她原定于八月在伍斯特阳光音乐节以及一些欧洲演出中演出。她还预定于 12 月 17 日在卡迪夫的 Utilita Arena 演出。 泰勒原名盖纳·霍普金斯 (Gaynor Hopkins)，她在 20 世纪 80 年代因发行了单曲《Total Eclipse of the Heart》而赢得了国际声誉，该单曲在 1983 年连续两周占据英国排行榜第一，并在美国排行榜上占据榜首四个星期。 她深情沙哑的声音使她的歌曲立即被人们所熟知，其他热门歌曲包括《Hold Out For a Hero》、《It's a Heartache》和《If You Were a Woman (And I Was a Man)》。 她来自威尔士南部的尼思，在斯旺西被星探发现，并于 1976 年发行了她的第一张单曲。 泰勒代表英国参加了在瑞典马尔默举行的 2013 年欧洲歌唱大赛，凭借歌曲《Believe in Me》获得第 19 名。"
+            "en": "Some titles that once backed the Tories now ‘flirting with Farage’ as they try to gauge where readers stand It was a Mail on Sunday headline with all the ferocity usually reserved for general elections, directed squarely at a political opponent. But in this case, the traditionally Conservative-supporting title was not targeting Labour. The party in its crosshairs was Rupert Lowe’s Restore Britain, the vehemently rightwing outfit that regards Nigel Farage’s Reform UK as too weak on deporting migrants. Continue reading...",
+            "zh": "一些曾经支持保守党的杂志现在在试图衡量读者的立场时“与法拉奇调情”。这是《星期日邮报》的头条新闻，其所有的凶猛通常都是针对大选的，直接针对政治对手。但在这种情况下，传统上支持保守党的标题并不是针对工党的。其瞄准的政党是鲁珀特·洛(Rupert Lowe)领导的“复兴英国”(Restore Britain)，这是一个激烈的右翼组织，认为奈杰尔·法拉奇(Nigel Farage)领导的英国改革党在驱逐移民方面过于软弱。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -413,6 +244,240 @@
             "themeZh": "和睦"
           },
           "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-16-emily-lal-birthkeeper-sta",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/16/emily-lal-birthkeeper-stacey-warnecke-freebirth-death-inquest-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/f84caf6d891b3dc57ce60fbe172f5c507b818155/327_0_4756_3805/master/4756.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aaf5896b6c3b49e6643aa09bb0b3d338",
+          "publishedAt": "2026-06-16T05:57:03.000Z",
+          "title": {
+            "en": "Birthkeeper hired by woman who died after freebirth tells inquest she was ‘not there to make a birth safer’",
+            "zh": "为自由分娩致死女性提供服务的“助产士”在调查中称，她“并非为了让分娩更安全”"
+          },
+          "summary": {
+            "en": "An inquest heard testimony from a 'birthkeeper' who was paid $6,000 to support a woman in a freebirth, who subsequently died. The birthkeeper stated her role was primarily to be a 'supportive friend' and that she was 'not there to make a birth safer'.",
+            "zh": "一名“助产士”在验尸官调查中作证称，她受雇以6000美元支持一名选择“自由分娩”的女性，该女性随后死亡。这名助产士表示，她的主要职责是充当“支持性朋友”，而不是“让分娩更安全”。"
+          },
+          "body": {
+            "en": "Emily Lal – paid $6,000 to provide freebirth support package to Stacey Warnecke – tells coroner her role was primarily to be a ‘supportive friend’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A birthkeeper hired by a woman who died after giving birth at home has told a coroner that she was “not there to make a birth safer”. Emily Lal gave evidence on Tuesday at the inquest into the death of 30-year-old Stacey Warnecke, who died on 29 September in Frankston hospital after giving birth at home with her husband and Lal present. Continue reading...",
+            "zh": "艾米莉·拉尔 (Emily Lal) 支付了 6,000 澳元为史黛西·沃内克 (Stacey Warnecke) 提供免费分娩支持包，她告诉验尸官，她的角色主要是成为“支持性朋友” 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一名在家中分娩后死亡的妇女雇用的一名接生员告诉验尸官，她“不是为了让分娩更安全”。周二，艾米丽·拉尔 (Emily Lal) 在 30 岁的史黛西·沃内克 (Stacey Warnecke) 死亡调查中提供了证据。 9 月 29 日，史黛西·沃内克 (Stacey Warnecke) 在弗兰克斯顿医院分娩后去世，她的丈夫和拉尔在场。继续阅读..."
+          },
+          "reflection": {
+            "en": "This tragic story highlights the profound vulnerability of individuals during critical life events and the moral imperative to protect those who cannot fully advocate for themselves. Proverbs 31:8 reminds us of the call to speak up for the voiceless, a principle that extends to ensuring safety and care for all, especially when entrusted with another's...",
+            "zh": "这个悲剧故事凸显了个人在生命关键时刻的极度脆弱性，以及保护那些无法充分为自己发声的人的道德责任。箴言31:8提醒我们，要为无声者发声，这一原则延伸到确保所有人的安全和关怀，尤其是在受托照护他人福祉时。"
+          },
+          "verse": {
+            "reference": "Proverbs 31:8-9",
+            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
+            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
+            "themeEn": "Voice for the voiceless",
+            "themeZh": "为弱者发声"
+          },
+          "aiVerseId": "prov_31_8",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-16-tuesday-briefing-first-edition-kei",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/16/tuesday-briefing-first-edition-keir-starmer-uk-defence-spending-labour",
+          "image": "https://i.guim.co.uk/img/media/b5a8d99966737c8ca9659837424c13b1cf95b951/143_0_2918_2334/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db37b91b3c4d541aebc43f4ddb43e66a",
+          "publishedAt": "2026-06-16T05:44:38.000Z",
+          "title": {
+            "en": "Tuesday briefing: How the UK’s military spending row exposes Starmer’s defence dilemma",
+            "zh": "周二简报：英国军费开支争端如何暴露斯塔默的国防困境"
+          },
+          "summary": {
+            "en": "In today’s newsletter: An argument about money has also spotlighted questions about Britain’s place in the world and the changing face of warfare Good morning. What conflict has raged longer than the hundred years war? The fight between the Ministry of Defence and the Treasury...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "In today’s newsletter: An argument about money has also spotlighted questions about Britain’s place in the world and the changing face of warfare Good morning. What conflict has raged longer than the hundred years war? The fight between the Ministry of Defence and the Treasury over defence spending. I’d love to claim this as my own, but avoid patter theft this early in the day. So I’ll credit my colleague Dan Sabbagh, the Guardian’s defence and security editor, who spoke to me ahead of this week’s G7 meeting , in France, where Keir Starmer arrived yesterday for what could be his final international summit. The prime minister can anticipate candid discussions about international partnerships in conflicts in Ukraine and the Middle East, both of which may soon demand increased involvement from the British military. Middle East | Donald Trump has declared that the strait of Hormuz will be “completely open” from Friday, as western leaders gathering at the G7 summit in Évian-les-Bains battled to prevent the fragile US deal with Iran from almost immediately unravelling. UK politics | Political hatred and division in the UK is probably worse now than during the Brexit referendum, when Jo Cox was murdered, says Kim Leadbeater, Cox’s sister who is now also a Labour MP. Crime | A schoolteacher described as a “serial manipulator and a serial liar” has been found guilty of sexually abusing and murdering a baby he and his partner had adopted. Environment | Half of the world’s children are exposed to at least three overlapping climate hazards threatening their health, education and survival, according to a Unicef report. US news | Eight people are presumed dead after a B-52 bomber crashed shortly after takeoff on Monday morning at a US air force base in California’s Mojave Desert, officials said. Continue reading...",
+            "zh": "在今天的时事通讯中：关于金钱的争论也凸显了有关英国在世界上的地位和战争面貌变化的问题早上好。还有什么冲突比百年战争持续得更久呢？国防部和财政部之间围绕国防开支的斗争。我很想把它当作我自己的，但要避免这么早被盗。因此，我要感谢我的同事丹·萨巴格（Dan Sabbagh），他是《卫报》的国防和安全编辑，他在本周法国七国集团会议之前与我进行了交谈，凯尔·斯塔默昨天抵达法国，参加可能是他的最后一次国际峰会。首相预计将就乌克兰和中东冲突中的国际伙伴关系进行坦诚讨论，这两个问题可能很快就需要英国军方更多地参与。中东 |唐纳德·特朗普宣布霍尔木兹海峡将从周五起“完全开放”，西方领导人聚集在埃维昂莱班举行的七国集团峰会上，努力阻止脆弱的美国与伊朗协议几乎立即破裂。英国政治 |考克斯的妹妹、现任工党议员金·利德比特 (Kim Leadbeater) 表示，英国现在的政治仇恨和分裂可能比脱欧公投期间更严重，当时乔·考克斯被谋杀。犯罪|一名被描述为“连环操纵者和连环骗子”的教师被判犯有性虐待和谋杀他和他的伴侣收养的婴儿的罪名。环境 |根据联合国儿童基金会的一份报告，世界上一半的儿童面临至少三种重叠的气候危害，威胁着他们的健康、教育和生存。美国新闻 |官员称，一架 B-52 轰炸机周一早上在加利福尼亚州莫哈韦沙漠的美国空军基地起飞后不久坠毁，推测已造成 8 人死亡。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cjdgl213dpzo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a76/live/d7e33c30-6872-11f1-8d7f-231b457c3604.jpg",
+          "publishedAt": "2026-06-16T05:35:57.000Z",
+          "title": {
+            "en": "Japan raises interest rate to highest since 1995",
+            "zh": "日本将利率提高至1995年以来最高水平"
+          },
+          "summary": {
+            "en": "The Bank of Japan has been raising rates from near-zero since 2024.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Japan's central bank has increased its main interest rate to a new 31-year high after a surge in global energy prices.\n\nOn Tuesday, the Bank of Japan (BOJ) raised its so-called policy rate to 1% from 0.75% - to a level not seen since 1995.\n\nThe decision comes as some other central banks have raised interest rates this year as the Iran war pushed up the cost of living.\n\nJapan's interest rates were cut aggressively in the 1990s to combat the fallout from a collapse in prices of assets like property and shares. They had been near zero for two decades as prices fell and growth stagnated.\n\nThe bank has been gradually raising its rate since March 2024 - at the time it was the country's first hike in 17 years.\n\n\"After twenty years of deflation, Japan is now in an inflationary upcycle,\" Japan economist Jesper Koll told the BBC.\n\n\"Emergency/crisis management monetary policy is no longer needed and the BOJ wants to get back to a normal monetary policy,\" he added.\n\nThe BOJ has been under pressure to cool inflation, which was extremely low in the country until relatively recently.\n\nHigher energy prices have fuelled inflation, adding pressure on countries like Japan that depend heavily on oil and gas from the Middle East.\n\nJapan's wholesale prices climbed by more than 6% in May from a year earlier, rising at the fastest pace in three years.\n\nBut the country's overall inflation rate, which was 1.4% in April, currently sits below the BOJ's target level of 2%.\n\nThe risk of Japan's economy deteriorating sharply due to the Iran war is less likely beacause of government measures including easing the impact on households from high fuel costs, the bank said on Tuesday.\n\nBut it added: \"Taking into account that medium- and long-term inflation expectations have also continued to increase, there is a risk of underlying inflation deviating above our price target.\"\n\nThe BOJ faces a tricky trade-off: Raising interest rates could help lower inflation but higher rates also make borrowing costlier, increasing expenses for the government and businesses.\n\nThe bank's governor Kazuo Ueda - a central figure in deciding interest rates - missed this week's meeting due to being in hospital as he is treated for an infected liver cyst.\n\nBut, along with other BOJ policymakers, he has expressed an increasingly positive stance on raising rates in recent months.\n\n\"Even if the situation remains unclear, should it be judged that upside risks to prices outweigh downside risks to economic activity, it will be necessary to thoroughly discuss the pros and cons of raising the policy interest rate,\" Ueda earlier this month.\n\nPrime Minister Sanae Takaichi, known for her support of boosting spending in the country, has previously dismissed the idea of hiking interest rates, though she is under pressure...",
+            "zh": "在全球能源价格飙升后，日本央行将主要利率提高至31年来新高。 周二，日本央行 (BOJ) 将所谓的政策利率从 0.75% 上调至 1%，达到 1995 年以来的最高水平。 由于伊朗战争推高了生活成本，其他一些央行今年也提高了利率，因此做出了这一决定。 日本在 20 世纪 90 年代大幅降息，以应对房地产和股票等资产价格暴跌的影响。由于价格下跌和增长停滞，二十年来它们一直接近于零。 自 2024 年 3 月以来，该银行一直在逐步加息，当时这是该国 17 年来的首次加息。 日本经济学家杰斯珀·科尔（Jesper Koll）告诉英国广播公司（BBC）：“经过二十年的通货紧缩，日本现在正处于通胀上行周期。” “不再需要紧急/危机管理货币政策，日本央行希望恢复正常货币政策，”他补充道。 日本央行一直面临着冷却通胀的压力，直到最近，该国的通胀率仍处于极低水平。 能源价格上涨加剧了通货膨胀，给日本等严重依赖中东石油和天然气的国家带来了压力。 日本5月份批发价格同比上涨逾6%，创三年来最快涨幅。 但该国4月份的整体通胀率为1.4%，目前低于日本央行2%的目标水平。 该银行周二表示，由于政府采取了措施，包括缓解高燃料成本对家庭的影响，日本经济因伊朗战争而急剧恶化的风险不太可能。 但它补充道：“考虑到中长期通胀预期也持续上升，潜在通胀存在偏离我们价格目标的风险。” 日本央行面临着一个棘手的权衡：提高利率可能有助于降低通胀，但利率上升也会使借贷成本更高，从而增加政府和企业的支出。 该银行行长上田一夫（Kazuo Ueda）是决定利率的核心人物，他因肝囊肿感染而住院治疗，因此缺席了本周的会议。 但近几个月来，他与日本央行其他政策制定者一起对加息表达了越来越积极的立场。 上田本月早些时候表示：“即使情况仍不明朗，如果判断物价上行风险大于经济活动下行风险，则有必要彻底讨论提高政策利率的利弊。” 以支持增加国内支出而闻名的首相高市早苗此前曾驳回加息的想法，尽管她面临压力......"
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-videos-cm20yglrgjlo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/videos/cm20yglrgjlo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/87b4/live/7790f100-694a-11f1-8e1d-bbbb1017d210.jpg",
+          "publishedAt": "2026-06-16T04:25:59.000Z",
+          "title": {
+            "en": "Iranian-Americans protest against Iran team at World Cup",
+            "zh": "伊朗裔美国人抗议伊朗队参加世界杯"
+          },
+          "summary": {
+            "en": "The BBC’s Shaimaa Khalil was outside the Iran v New Zealand opening round match as protesters called for an end to Tehran’s clerical regime.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Calls to remove Iran’s clerical regime sounded outside Iran’s opening match at the World Cup.\n\nIranian-Americans gathered in Los Angeles to protest the presence of Iran’s team, which they believe is linked to the Islamic Revolutionary Guard Corps (IRGC).\n\nIran striker Mehdi Taremi told reporters this week that US-Iran political tension “undermines the joy” of the World Cup.\n\nYou can read more about the atmosphere outside the stadium here and the match report is here .\n\nIt's not clear if the deal means the Israelis will pause their offensive in Lebanon, BBC international editor Jeremy Bowen reports.\n\nIn a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.\n\nThe BBC's international editor, Jeremy Bowen, said the public are \"right to be worried\" as the consequences of the war will be felt for generations.\n\nBBC correspondent John Sudworth reports from the Beirut stronghold of Hezbollah support, Dahieh.\n\nOne person was killed and more than 60 injured in the Iranian drone strike on Wednesday.\n\nBBC’s Sarah Smith looks at why both countries are in a tense cycle of negotiations, despite the progress President Trump consistently claims.\n\nVerified videos show strikes on densely populated neighbourhoods in southern Lebanon.\n\nTens of thousands of Israeli celebrants have marched through the area captured by Israel in the 1967 Arab-Israeli war.\n\nIranian authorities have imposed an internet ban but using trusted sources, special correspondent Fergal Keane hears from those traumatised by conflict and government repression.\n\nThousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.\n\nPresident Trump has suspended anoperation to guide ships through the Strait of Hormuz - BBC Verify explains the timeline.\n\nThe BBC’s Nawal Al-Maghafi has been piecing together what happened on 8 April 2026, after one of the deadliest chapters in the country’s recent history.\n\nCapt Raman Kapoor's ship is one of several to be stranded in the strait in the midst of the power struggle between the US and Iran.\n\nIsrael and Hezbollah are still fighting in Lebanon despite a US-brokered ceasefire that began 12 days ago.\n\nThe United Arab Emirates (UAE) is quitting oil cartel Opec after nearly 60 years of membership.\n\nThe US president says he saved eight Iranian women from execution, but Iran says otherwise.\n\nThe 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.\n\nThe US and Iran's rival blockades of the Strait of Hormuz have become a \"test of wills\", says Lyse Doucet.\n\nAnalysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized.\n\nBBC Arabic's...",
+            "zh": "伊朗队在世界杯揭幕战外响起了推翻伊朗教权政权的呼声。 伊朗裔美国人聚集在洛杉矶抗议伊朗队伍的存在，他们认为这支队伍与伊斯兰革命卫队（IRGC）有联系。 伊朗前锋迈赫迪·塔雷米本周对记者表示，美伊政治紧张局势“破坏了世界杯的欢乐”。 您可以在这里阅读有关体育场外气氛的更多信息，也可以在这里阅读比赛报道。 据英国广播公司国际编辑杰里米·鲍文报道，目前尚不清楚该协议是否意味着以色列将暂停对黎巴嫩的攻势。 在与美国总统的通话中，英国广播公司的莎拉·史密斯向特朗普询问了伊朗战争以及他与以色列领导人的关系。 英国广播公司(BBC)国际编辑杰里米·鲍文(Jeremy Bowen)表示，公众“担心是有道理的”，因为战争的后果将影响几代人。 BBC 记者约翰·萨德沃斯 (John Sudworth) 从贝鲁特支持真主党的大本营达希 (Dahieh) 进行报道。 周三，伊朗无人机袭击造成 1 人死亡、60 多人受伤。 英国广播公司 (BBC) 的莎拉·史密斯 (Sarah Smith) 探讨了为什么尽管特朗普总统一直声称取得了进展，但两国仍处于紧张的谈判周期。 经核实的视频显示，黎巴嫩南部人口稠密的社区遭到袭击。 数以万计的以色列庆祝者游行穿过以色列在 1967 年阿以战争中占领的地区。 伊朗当局实施了互联网禁令，但特约记者费格尔·基恩通过可信来源听取了那些因冲突和政府镇压而受到创伤的人的消息。 数千人参加了巴勒斯坦马拉松比赛，该赛事在因加沙战争而暂停两年后重返伯利恒。 特朗普总统已暂停引导船只通过霍尔木兹海峡的行动 - BBC verify 解释了时间表。 BBC 的纳瓦尔·阿尔-马加菲 (Nawal Al-Maghafi) 一直在拼凑 2026 年 4 月 8 日发生的事情，这是该国近代历史上最致命的一章之后的事情。 拉曼·卡普尔船长的船是在美国和伊朗之间的权力斗争中滞留在海峡的几艘船之一。 尽管12天前在美国斡旋下开始停火，以色列和真主党仍在黎巴嫩交战。 阿拉伯联合酋长国 (UAE) 在成为欧佩克成员国近 60 年后，即将退出石油卡特尔组织。 美国总统称他拯救了八名伊朗妇女免遭处决，但伊朗却另有说法。 近 2,000 人参与抽签，最终选出 300 对情侣参加联合庆祝活动。 杜赛特表示，美国和伊朗对霍尔木兹海峡的相互封锁已经成为“意志的考验”。 分析表明，视频的部分内容似乎是在据报道船只被扣押数小时后拍摄的。 BBC 阿拉伯语..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cvgq1py92eko-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cvgq1py92eko?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dc29/live/a7a49b90-68b8-11f1-a143-b5a0b6622147.jpg",
+          "publishedAt": "2026-06-16T03:57:28.000Z",
+          "title": {
+            "en": "Trust in news hits a new low, research suggests",
+            "zh": "研究表明，对新闻的信任度跌至新低"
+          },
+          "summary": {
+            "en": "The Reuters Institute records its lowest trust figures since the annual research began in 2015.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Trust in the news has fallen to an all-time low globally - the lowest since annual reports by the Reuters Institute began more than a decade ago (2015).\n\nThe research published on Tuesday suggests that public trust worldwide is at 37%, three points down on this time last year. In the UK, it has fallen by five points to 30% - 20 points lower than 10 years ago.\n\nMore than half of respondents said they now get their news from third-party platforms like social media and video networks, although a similar number still use news websites and TV news as well. Traditional sources are still more popular in the UK.\n\n\"Our data points to a mix of anxiety, disengagement and cynicism from audiences, many of whom don't like the way publishers are covering long-running news stories such as immigration, inflation and international conflict,\" the institute said.\n\n\"But the report also finds openness to new sources and formats, and a belief in what news at its best can offer.\"\n\nDespite more people accessing news via social media, confidence in that format is much lower than in news overall, at 22%.\n\nAnd just 10% of those who took part said most of their news needs were met by creators and influencers, suggesting they are complementing rather than replacing traditional media.\n\nMeanwhile, faith in answers from AI chatbots from respondents around the world is at 20%, although weekly use of these has grown from 7% to 10% (and to 16% among people under 35).\n\nAnd support for impartial news remains high, appearing largely unaffected by changes in news consumption, with support falling by 3% since 2020.\n\nIn the US, trust in news stands at 25%, and is even lower (15%) among politically right-leaning Americans.\n\nSome major news outlets have seen big drops, with trust in both CBS News and Fox News down 10 points from 2025, and CNN falling by six.\n\nOnline news video is now mainstream everywhere: 77% globally consume online news video each week, and a majority now watch online news video in every market covered by the report. It's now ahead of broadcast TV news in every market apart from Germany, Denmark and the Netherlands.\n\n\"The popularity of creators and online video is not evidence that people no longer want news, but it suggests they want news to feel more accessible, more understandable, and more relevant to their lives,\" the report said.\n\nThe findings are based on an online survey of almost 100,000 people in 48 markets.",
+            "zh": "全球范围内对新闻的信任度已跌至历史最低点——这是自路透研究所十多年前（2015年）开始发布年度报告以来的最低水平。 周二发布的研究表明，全球公众信任度为 37%，比去年同期下降了 3 个百分点。在英国，这一比例下降了 5 个百分点，达到 30%，比 10 年前低了 20 个百分点。 超过一半的受访者表示，他们现在从社交媒体和视频网络等第三方平台获取新闻，尽管也有类似数量的受访者仍然使用新闻网站和电视新闻。传统来源在英国仍然更受欢迎。 该研究所表示：“我们的数据表明，观众存在焦虑、脱离和愤世嫉俗的情绪，其中许多人不喜欢出版商报道移民、通货膨胀和国际冲突等长期新闻报道的方式。” “但报告也发现了对新来源和格式的开放态度，以及对新闻最好的内容的信念。” 尽管越来越多的人通过社交媒体获取新闻，但对这种形式的信心远低于整体新闻，为 22%。 只有 10% 的参与者表示，他们的大部分新闻需求都是由创作者和影响者满足的，这表明他们是在补充而不是取代传统媒体。 与此同时，全球受访者对人工智能聊天机器人答案的信心为 20%，尽管每周使用人工智能聊天机器人的比例已从 7% 增长到 10%（35 岁以下人群中这一比例增至 16%）。 对公正新闻的支持率仍然很高，似乎基本上没有受到新闻消费变化的影响，自 2020 年以来支持率下降了 3%。 在美国，对新闻的信任度为 25%，在政治右倾的美国人中这一比例更低 (15%)。 一些主要新闻媒体的信任度大幅下降，对哥伦比亚广播公司新闻和福克斯新闻的信任度较 2025 年下降了 10 个百分点，对 CNN 的信任度下降了 6 个百分点。 在线新闻视频现已成为各地主流：全球 77% 的人每周观看在线新闻视频，并且大多数人现在在报告涵盖的每个市场中观看在线新闻视频。现在，除了德国、丹麦和荷兰之外，它在每个市场上都领先于广播电视新闻。 报告称：“创作者和在线视频的流行并不表明人们不再想要新闻，但这表明他们希望新闻更容易获得、更容易理解、更与他们的生活相关。” 该调查结果基于对 48 个市场近 10 万人的在线调查。"
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cj4gnqw8j52o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1bf4/live/a0647af0-68f2-11f1-8e1d-bbbb1017d210.jpg",
+          "publishedAt": "2026-06-16T03:40:36.000Z",
+          "title": {
+            "en": "Iran deal presents political nightmare for Netanyahu",
+            "zh": "伊朗协议给内塔尼亚胡带来政治噩梦"
+          },
+          "summary": {
+            "en": "Donald Trump's ceasefire agreement with Iran has created a significant political and security challenge for the Israeli Prime Minister, Benjamin Netanyahu. He now faces a complex dilemma regarding the implications of this deal.",
+            "zh": "唐纳德·特朗普与伊朗达成的停火协议，给以色列总理内塔尼亚胡带来了重大的政治和安全挑战。他现在面临着一个关于这项协议影响的复杂困境。"
+          },
+          "body": {
+            "en": "The US ceasefire agreement with Iran has presented Israel's prime minister with a political nightmare, smashing the three cornerstones of Benjamin Netanyahu's political career, and leaving him trapped in a new security dilemma.\n\nHow can the man who styled himself as the political whisperer of Washington, with real influence over American politicians, be sidelined quite so comprehensively and insulted so publicly by his key US ally?\n\nHow can the man who made taking on Iran the centre-piece of Israel's security policy end the war with Iran's regime arguably in a stronger position?\n\nAnd how can his old, tarnished political image as Israel's \"Mr Security\" survive the demand from Washington and Tehran that Israel cease attacking Hezbollah in Lebanon, months before an Israeli general election?\n\nThe options facing Netanyahu now are not good. They were summarised by the opposition leader, Yair Lapid, in the Knesset on Monday as \"either a direct and destructive confrontation with our greatest ally, or a submissive surrender of Israeli interests\".\n\nThe expletive-laden assessment by US President Donald Trump that Netanyahu showed no judgement when ordering a strike on Beirut on Sunday has been seized upon by his political rivals and media commentators, already focused on the election that must be held before the end of October.\n\nBut comments from members of Netanyahu's own Likud party, and far-right cabinet ministers in his governing coalition, also show the pressure he faces from his own side - most sharply over the demand from Tehran that the ceasefire covers \"military operations on all fronts, including Lebanon\".\n\n\"Trump's agreement does not bind us,\" Israel's far-right national security minister, Itamar Ben-Gvir, wrote on social media on Monday. \"We are not partners to this agreement that does not ensure our security.\"\n\n\"Israel will continue to protect itself,\" Likud lawmaker Ariel Kallner told me, though he would not clarify whether that meant Israel would continue its attacks.\n\n\"We will do what we need to do. And we expect our friends to understand us,\" he said. \"Sometimes there are disagreements between allies, and allies should also understand their allies when they are in danger.\"\n\nSima Shine, a former Mossad official and Iran specialist said: \"It's difficult to understand why the Americans accepted it.\n\n\"By allowing Iran to decide what will happen in Lebanon, the US is giving Iran the possibility to continue to support Hezbollah, and to make sure that Hezbollah is a major political actor in the Lebanese arena.\n\n\"Israel is not happy with that – neither the security establishment, nor the political,\" she said.\n\nAmid the cacophony of criticism and outrage from across the political spectrum, Israel's prime minister bristled at suggestions from...",
+            "zh": "美国与伊朗的停火协议给以色列总理带来了一场政治噩梦，击碎了本杰明·内塔尼亚胡政治生涯的三大基石，也让他陷入了新的安全困境。 一个自诩为华盛顿政治耳语者、对美国政客具有真正影响力的人，怎么会被他的美国主要盟友如此全面地边缘化并如此公开地侮辱呢？ 这位将打击伊朗作为以色列安全政策核心的人如何能够以更有利的地位结束与伊朗的战争？ 在以色列大选前几个月，华盛顿和德黑兰要求以色列停止攻击黎巴嫩真主党的要求下，他作为以色列“安全先生”的旧有、玷污的政治形象如何能够幸存？ 内塔尼亚胡现在面临的选择并不好。反对派领导人亚伊尔·拉皮德周一在议会将其总结为“要么与我们最大的盟友进行直接和破坏性的对抗，要么屈服于以色列的利益”。 美国总统唐纳德·特朗普充满咒骂地评价内塔尼亚胡在周日下令对贝鲁特发动袭击时没有表现出判断力，这一评价已被他的政治对手和媒体评论员抓住，他们的注意力已经集中在必须在10月底之前举行的选举上。 但内塔尼亚胡所在的利库德集团成员及其执政联盟中的极右翼内阁部长的评论也显示了他面临的来自自己方面的压力 - 最明显的是德黑兰要求停火涵盖“包括黎巴嫩在内的所有战线的军事行动”。 “特朗普的协议对我们没有约束力，”以色列极右翼国家安全部长伊塔马尔·本-格维尔周一在社交媒体上写道。 “我们不是这项不能确保我们安全的协议的合作伙伴。” “以色列将继续保护自己，”利库德集团议员阿里尔·卡尔纳告诉我，不过他没有澄清这是否意味着以色列将继续发动袭击。 “我们将做我们需要做的事情。我们希望我们的朋友能够理解我们，”他说。 “盟友之间有时会出现分歧，盟友遇到危险时也应该理解盟友。” 前摩萨德官员、伊朗问题专家西马·夏因表示：“很难理解美国人为什么接受它。 “通过允许伊朗决定黎巴嫩将发生什么，美国让伊朗有可能继续支持真主党，并确保真主党成为黎巴嫩舞台上的主要政治角色。 “以色列对此并不满意——无论是安全机构还是政治部门，”她说。 在来自各个政治派别的批评和愤怒声中，以色列总理本人迄今为止一直缺席。常常很快..."
+          },
+          "reflection": {
+            "en": "Leaders often face complex dilemmas where the path forward is unclear, and conventional wisdom may not suffice. In such moments, the ancient wisdom to trust beyond one's own understanding can offer a steadying perspective. It reminds us that even in the most intricate political landscapes, there is a call to rely on a deeper source of guidance.",
+            "zh": "领导者常面临复杂的困境，前路不明，传统智慧也可能不足以应对。在这样的时刻，超越自身理解去信靠的古老智慧，能提供一个稳定的视角。它提醒我们，即使在最错综复杂的政治格局中，也需要依靠更深层的指引。"
+          },
+          "verse": {
+            "reference": "Proverbs 3:5",
+            "textEn": "Trust in Yahweh with all your heart and lean not on your own understanding.",
+            "textZh": "你要专心仰赖雅伟，不可倚靠自己的聪明。",
+            "themeEn": "Trust over understanding",
+            "themeZh": "信靠胜过聪明"
+          },
+          "aiVerseId": "prov_3_5",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-iran-new-zealand-world-cup-2026-opener-14t73",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/iran-new-zealand-world-cup-2026-opener/14t7356yb",
+          "image": "https://assets.sbs.com.au/dims4/default/db78d9f/2147483647/strip/false/crop/7210x3313+0+833/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F5e%2Fb9%2F463d66c9479686199542d7deca98%2Fgettyimages-2281795956.jpg",
+          "publishedAt": "2026-06-15T23:56:42.000Z",
+          "title": {
+            "en": "'This is not democracy': Protests, tensions flare as Iran's World Cup starts with draw",
+            "zh": "和平协议宣布一天后，伊朗的世界杯征程在洛杉矶开启"
+          },
+          "summary": {
+            "en": "After months of uncertainty, the Iranian national football team arrived in the US just hours before a ceasefire was announced.",
+            "zh": "经过数月的不确定性，伊朗国家足球队在美国宣布停火协议前数小时抵达美国。"
+          },
+          "body": {
+            "en": "The Iranian football team has been met by hundreds of anti-regime protesters in the most politically charged match of this year's FIFA World Cup so far.\n\nThe Group G opener against New Zealand, which ended in a 2-2 draw, at the Los Angeles Stadium on Tuesday morning (AEST), came just a day after the United States and Iran announced a peace deal to end the war in the Middle East.\n\nOutside the stadium, many waved the Lion and Sun flag, Iran's national flag before the 1979 revolution, which is now associated with the Iranian opposition and banned in Iran. Others also waved Israeli and US flags.\n\nOne anti-regime protester heckled Iranian supporters waiting in line to enter the match, giving them the middle finger, grabbing an Iranian flag from a fan in line and stomping on it.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nFIFA banned fans from bringing the pre-revolution flag into World Cup matches, citing its rules prohibiting flags or political apparel.\n\nBut numerous people carrying the lion-and-sun flag or wearing t-shirts with the symbol passed through security at the stadium without issue.\n\nIran had threatened to halt the match if unofficial flags were brought in or slogans were chanted, but the match proceeded as planned.\n\nAssal Pahlevan, an organiser with Democracy for Iran, told SBS News she was protesting the flag ban.\n\n\"Any sport, it's volleyball or basketball or football, it doesn't matter which sport is it, you can say whatever you want to say.\"\n\nLos Angeles is home to one of the largest Iranian diaspora communities in the world, many of whom are descendants of Iranians who fled after the revolution and oppose the Iranian government.\n\nInside the stadium, the Iranian national anthem was booed, but Iran also enjoyed support from many in the crowd who erupted into cheers when they equalised in the first half.\n\n\"I'm here to support Iran. We're going to win this game,\" said 57-year-old Mehdi Jafari, wearing an Iran football shirt, going into the stadium ahead of the match.\n\n\"We're very proud of our country. We're here to support Iran. I think we should all let go of the politics and just go in and cheer on the Team Melli.\"\n\nAfter months of debate about whether they would participate in the tournament, the Iranian national football team arrived in Los Angeles on Sunday afternoon, local time, from Tijuana, Mexico, where they had relocated their base camp due to security concerns related to the conflict.\n\nHours after their arrival, US President Donald Trump announced an agreement to end hostilities between the two countries , which began when the US and Israel launched strikes against Iran in February.\n\nIran's participation in the tournament would have marked...",
+            "zh": "伊朗将于今天在洛杉矶与新西兰队进行 2026 年世界杯的比赛，一天前，伊朗同意与美国达成和平协议以结束中东战争。 经过几个月关于是否参加比赛的争论后，伊朗国家足球队于当地时间周日下午从墨西哥蒂华纳抵达洛杉矶，由于冲突相关的安全问题，他们将大本营搬到了那里。 他们抵达数小时后，美国总统唐纳德·特朗普宣布达成一项结束两国之间敌对行动的协议，该协议始于美国和以色列二月份对伊朗发动袭击。 伊朗参加本届世界杯将标志着世界杯96年历史上首次有国家在与东道国发生战争的情况下进行比赛。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 伊朗队将必须从墨西哥前往美国参加三场小组赛，他们的签证允许他们在美国境内停留不超过 48 小时，并要求他们在每场比赛后返回墨西哥。 G 组比赛将于澳大利亚东部时间周二上午 11 点开始，您可以在 SBS 和 SBS On Demand 上免费观看现场直播。 伊朗教练阿米尔·加勒诺伊在洛杉矶体育场举行的新闻发布会上通过翻译表示，他“非常高兴能够代表伟大、自豪和强大的伊朗国家”。 “我希望足球能够带来欢乐和享受，拉近不同文化和国家的距离。”他说。 几名伊朗官员被拒绝入境，其中包括国家足球联合会主席，加勒诺伊表示，旅行和签证被拒对球队产生了负面影响。 哈迪是一名澳大利亚足球队球迷，在伊朗长大，十几岁时移居澳大利亚，是阿富汗哈扎拉人社区的一员，他告诉 SBS 新闻，和平协议“对世界有利”。 “我们不知道后台会发生什么，但从纸面上看，情况看起来不错。” 在体育场和伊朗队下榻的酒店外，抗议者举行示威活动，呼吁伊朗实现民主并谴责其政府。 标语牌上写着：“伊朗没有沙阿——没有毛拉——伊朗人改变政权。” 洛杉矶是最大的伊朗侨民社区之一的所在地，其中许多人强烈反对伊朗政府。 您可以在 SBS、SBS VICELAND 和 SBS On Demand 上免费独家直播观看 2026 年 FIFA 世界杯的所有 104 场比赛。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+          },
+          "reflection": {
+            "en": "The news of a ceasefire and the arrival of the Iranian football team in the US, despite long-standing tensions, highlights moments when dividing walls of hostility can be temporarily lowered. It reminds us that even in complex international relations, opportunities can arise for shared humanity to bridge divides, however fragile the peace may be.",
+            "zh": "停火协议的宣布以及伊朗足球队抵达美国的消息，尽管两国长期关系紧张，却凸显了敌意之墙暂时被拆除的时刻。这提醒我们，即使在复杂的国际关系中，共享的人性也能创造弥合分歧的机会，无论和平多么脆弱。"
+          },
+          "verse": {
+            "reference": "Ephesians 2:14",
+            "textEn": "For he himself is our peace, who has made the two groups one and has destroyed the barrier, the dividing wall of hostility.",
+            "textZh": "因他使我们和睦，将两下合而为一，拆毁了中间隔断的墙。",
+            "themeEn": "Wall of hostility down",
+            "themeZh": "拆毁敌意的墙"
+          },
+          "aiVerseId": "eph_2_14",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-norway-crown-princesss-son-gets-four-year-se",
@@ -454,10 +519,10 @@
           "source": "SBS News World",
           "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
           "link": "https://www.sbs.com.au/news/article/fifa-world-cup-2026-results-june-16/i9qjp4lto",
-          "image": "https://assets.sbs.com.au/dims4/default/6d22a15/2147483647/strip/false/crop/8256x3793+0+421/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F3c%2F90%2F9631c9144252bd71e901a1bcce0b%2Fvozinha-cape-verde-spain-vozinha.jpg",
+          "image": "https://assets.sbs.com.au/dims4/default/127d033/2147483647/strip/false/crop/4479x2058+0+100/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fb4%2Ffd%2F85bb6c0d430cb2d6e44d2917e2dd%2Firan-new-zealand-ramin-rezaeian.jpg",
           "publishedAt": "2026-06-15T21:03:06.000Z",
           "title": {
-            "en": "Cape Verde stun World Cup favourites Spain, own goal denies Egypt a win against Belgium",
+            "en": "WATCH: Iran earn tie against New Zealand as day of draws marks historic World Cup first",
             "zh": "佛得角爆冷击败世界杯热门西班牙，乌龙球让埃及错失战胜比利时"
           },
           "summary": {
@@ -465,7 +530,7 @@
             "zh": "伊朗将在与东道主美国签署和平协议数小时后，开启其世界杯征程。"
           },
           "body": {
-            "en": "European champions Spain were held to a shock 0-0 draw by World Cup debutants Cape Verde as the ghosts of their recent World Cup horror shows reappeared in Atlanta on Tuesday AEST.\n\nSpain, regarded as one of the strong pre-tournament favourites, had been expected to cruise past Cape Verde in their Group H opener.\n\nBut despite enjoying 74 percent possession and laying siege to the Cape Verde goal, the 2010 world champions were unable to find a breakthrough against the underdogs from the African volcanic archipelago of just 525,000 people.\n\nCape Verde's players and supporters celebrated wildly after securing an improbable point in what was their first-ever World Cup match.\n\nThe underdogs, nicknamed the Blue Sharks , had never qualified for the World Cup but were boosted in their bid to reach the finals after FIFA expanded the tournament to 48 teams.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nMeanwhile, Iran are prepared to make their long-awaited entrance at the tournament at 11am AEST against against New Zealand after a build-up engulfed by uncertainty over the Middle East conflict .\n\nIn other games on Tuesday, Saudi Arabia face Uruguay in Group H in Miami at 8am AEST, while Belgium drew 1-1 with Mohamed Salah's Egypt in Group G in Seattle.\n\nIn stark contrast to the searing temperatures faced by some other sides, Atlanta's state-of-the-art air-conditioned stadium meant there were no excuses for the slow tempo of Spain's build-up.\n\nMarc Cucurella, fresh for sealing his move from Chelsea to Real Madrid, sent over a teasing cross that Ferran Torres turned onto the crossbar and Cape Verde goalkeeper Vozinha got back on his feet to turn Mikel Oyarzabal's looping header over the bar.\n\nTorres tested Vozinha again moments later before Aymeric Laporte's header from a corner was also clawed away by the Cape Verde number one just before half-time.\n\nThe break came at a good time for the Blue Sharks and they comfortably held out in the second period until Lamine Yamal's entrance after the second hydration break.\n\nBilled as one of the stars of the tournament, the 18-year-old's appearance instantly lifted the crowd and injected life into the pedestrian Spanish attack.\n\nHis first involvement set up a decent opening for fellow substitute Mikel Merino which was too close to Vozinha.\n\nYamal also began the move that saw Oyarzabal's effort deflected over with Spain's best chance of the second half.\n\nCape Verde nearly snatched a famous victory in the final minute of the 90 when Dani Borges planted a header too close to Unai Simon.\n\nBut even without a winner, 40-year-old Vozinha was reduced to tears at full-time as Cape Verde produced the biggest shock of the tournament so...",
+            "en": "All four World Cup matches on Tuesday AEST ended in draws, with Iran wrapping up the day by coming from behind twice against New Zealand to secure a 2-2 result in their opening World Cup match.\n\nA world Cup has never had a day of all draws before. in 1958 four matches were drawn in a day, but eight were played.\n\nThe fourth stalemate of the day came hours after one of the biggest shocks in World Cup history when European champions Spain were held 0-0 by debutants Cape Verde in Group H.\n\nAfter months of uncertainty surrounding their participation in the tournament following the war in the Middle East , all eyes were on the Iranians as they took on the New Zealanders in Group G in Los Angeles.\n\nNew Zealand went ahead in the seventh minute when Elijah Just volleyed home from inside the box after being set up by Chris Wood.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIran deservedly levelled in the 32nd, with Ramin Rezaeian stabbing the ball in from close range to send the largely Iran-supporting crowd at a packed stadium into raptures.\n\nThe outstanding Just, the 26-year-old Motherwell winger, restored New Zealand&#x2019;s lead in the 54th minute, lifting the ball over goalkeeper Alireza Beiranvand after another assist from Wood.\n\nBut Iran hit back again 10 minutes later, Mohammad Mohebbi glancing a header in off the back post to equalise again.\n\nIran will return to Los Angeles to face Belgium, while New Zealand take on Egypt in Vancouver in the next Group G matches next Monday AEST.\n\nThe stalemate means all the teams in Group G have one point after Belgium drew 1-1 with Egypt earlier on Tuesday.\n\nNew Zealand, making their third appearance at the finals, remain without a win at a World Cup after seven matches. Iran are looking to reach the knockout round for the first time.\n\nDespite dominating possession, Uruguay had to settle for a 1-1 draw against Saudi Arabia in the sweltering heat of Miami on Tuesday AEST, leaving an intriguing Group H wide open.\n\nSaudi centre back Abdulelah al-Amri's opener for the Gulf nation was cancelled out by Maxi Araujo in a game where both sides profited from goalkeeping errors.\n\nThe first half was dominated by Uruguay but Saudi Arabia took the lead against the run of play in the 41st minute when Fernando Muslera made a costly error on a set-piece, parrying the ball into the path of al-Amri who poked the ball past the veteran keeper.\n\nMarcelo Bielsa's Uruguay though had the first chance of the game when Araujo stung the palms of Saudi goalkeeper Mohammed al-Owais after five minutes.\n\nIn evening temperatures of more than 30C and energy-sapping humidity, both teams struggled to create much in front of goal early on.\n\nAfter a toothless...",
             "zh": "澳大利亚东部标准时间周二，欧洲冠军西班牙队与首次参加世界杯的佛得角队以 0-0 战平，他们最近世界杯恐怖表演的幽灵再次出现在亚特兰大。 西班牙被认为是赛前最热门的球队之一，原本预计他们将在 H 组揭幕战中击败佛得角。 尽管拥有 74% 的控球率并围攻了佛得角的球门，2010 年世界冠军队却无法在面对来自非洲火山群岛、仅有 525,000 人口的弱旅时找到突破。 佛得角的球员和支持者在他们的第一场世界杯比赛中获得不可思议的一分后疯狂庆祝。 这支绰号“蓝鲨”的弱旅从未获得过世界杯参赛资格，但在国际足联将世界杯参赛球队扩大到 48 支球队后，他们晋级决赛的决心大增。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 与此同时，伊朗队在中东冲突的不确定性笼罩下，准备在澳大利亚东部标准时间上午 11 点对阵新西兰队，参加期待已久的比赛。 在周二的其他比赛中，沙特阿拉伯将于澳大利亚东部标准时间上午 8 点在迈阿密的 H 组迎战乌拉圭，而比利时则在西雅图的 G 组以 1-1 战平穆罕默德·萨拉赫的埃及。 与其他一些球队所面临的酷热温度形成鲜明对比的是，亚特兰大拥有最先进的空调体育场，这意味着西班牙队的进攻节奏没有任何借口。 马克·库库雷拉刚刚从切尔西转会到皇家马德里，他送出一记挑衅性的传中，费兰·托雷斯将球击中横梁，佛得角门将沃齐尼亚站起来，将米克尔·奥亚萨瓦尔的头球攻门高出横梁。 片刻后，托雷斯再次考验沃齐尼亚，半场结束前，拉波尔特角球头球攻门也被佛得角头号球星扑出。 对于蓝鲨队来说，这次休息来得正是时候，他们在第二节轻松地坚持了下来，直到拉明·亚马尔在第二次补水休息后登场。 这位18岁的球员被誉为本届赛事的明星之一，他的出现立即让观众兴奋不已，并为西班牙队的进攻注入了活力。 他的第一次出场为替补球员米克尔·梅里诺（Mikel Merino）创造了一个不错的空档，而米克尔·梅里诺距离沃齐尼亚太近了。 亚马尔也发起了进攻，奥亚扎瓦尔的射门被西班牙队下半场最好的机会挡出。 90年代最后一分钟，丹尼·博尔赫斯(Dani Borges)的头球距离乌奈·西蒙(Unai Simon)太近，佛得角几乎夺取了一场著名的胜利。 但即使没有获胜者，40 岁的沃齐尼亚在全场比赛中也落下了眼泪，因为佛得角制造了本届锦标赛最大的冲击，所以……"
           },
           "reflection": {
@@ -500,7 +565,7 @@
           },
           "body": {
             "en": "The EU has formally opened the first stage of accession negotiations with Ukraine. This comes two years later than planned, as former Hungarian PM Viktor Orban was blocking the process prior to his election defeat.\n\nThe EU and Ukraine&#160;on Monday formally opened the first stage of accession negotiations with a view to Kyiv one day joining the 28-member bloc. &#160;\n\nRussia's full-scale invasion of Ukraine in 2022 turbocharged an idea that at one point was contentious among the country's electorate.\n\nFor the past two years, the process had been on hold. That's because starting it requires unanimous approval from existing EU governments, and Hungary's former Prime Minister Viktor Orban was blocking the move.&#160;\n\nThe talks had already started on a technical level despite the Hungarian obstruction.&#160;\n\nHungary's new prime minister, Peter Magyar, recently announced that he had reached an agreement with Ukraine on measures to strengthen the rights of the ethnic Hungarian minority in the country. Magyar had made such an agreement a condition for lifting Budapest's veto of Ukraine's EU accession talks.\n\n\"Today, we are taking a historic step towards Ukraine's future within the EU, by opening formal negotiations for its accession. A united and determined G7 is essential to help bring this war to an end and achieve a just and lasting peace,\" European Council President Antonio Costa wrote online as he attended the G7 summit in Evian, France .&#160;\n\nEuropean Commission President Ursula von der Leyen said that opening the first so-called negotiating cluster was a \"huge step forward,\" praising Ukraine for the progress made so far on reforms on issues like corruption and the rule of law.&#160;\n\nUkraine's President Volodymyr Zelenskyy said Monday's development \"sends a clear message that Europe's progress cannot be stopped.\"&#160;\n\nHe said he was happy to be speaking about the issue from Chisinau in Moldova, which took the same step on Monday, prior to moving on to the G7 summit in France as a guest.&#160;\n\n\"Our neighborhood with Moldova is strong. And we support each other, and we are moving toward the EU together – and we will get there together,\" he said.\n\nIn order to join the EU, prospective members have to demonstrate compliance with the bloc's standards in multiple areas.&#160;\n\nThese are split across six so-called \"clusters\" that make up a total of 33 chapters. Another two chapters are negotiated separately, outside the six clusters.&#160;\n\nThe first cluster to open and the last to be closed is always the one labled \"fundamentals,\" which includes core issues like judiciary and fundamental rights, economic criteria and the functioning of democratic institutions.&#160;&#160;\n\nEU members must all&#160;agree that all requirements have been met, and then...",
-            "zh": "欧盟与乌克兰正式开启第一阶段入盟谈判。这比计划晚了两年，因为匈牙利前总理维克托·欧尔班在选举失败之前阻止了这一进程。 欧盟和乌克兰周一正式启动第一阶段入盟谈判，以期有一天基辅加入这个由 28 个成员国组成的欧盟。 俄罗斯于 2022 年全面入侵乌克兰，进一步强化了一度在该国选民中引起争议的想法。 在过去的两年里，这一进程一直被搁置。这是因为启动该计划需要得到现有欧盟各国政府的一致批准，而匈牙利前总理欧尔班·维克托(Viktor Orban)则阻止了这一举措。 尽管有匈牙利的阻挠，谈判已经在技术层面上开始了。 匈牙利新任总理彼得·马扎尔最近宣布，他已与乌克兰就加强该国匈牙利少数民族权利的措施达成协议。马扎尔已将此类协议作为解除布达佩斯对乌克兰加入欧盟谈判的否决权的条件。 欧洲理事会主席安东尼奥·科斯塔在法国埃维昂出席七国集团峰会时在网上写道：“今天，我们正在为乌克兰在欧盟的未来迈出历史性的一步，启动其加入的正式谈判。团结而坚定的七国集团对于帮助结束这场战争并实现公正和持久的和平至关重要。” 欧盟委员会主席乌苏拉·冯德莱恩表示，开放第一个所谓的谈判集群是“向前迈出的一大步”，并赞扬乌克兰迄今为止在腐败和法治等问题上的改革所取得的进展。 乌克兰总统泽伦斯基表示，周一的事态发展“发出了一个明确的信息，即欧洲的进步无法停止。” 他说，他很高兴能在摩尔多瓦基希讷乌谈论这个问题，周一，在作为嘉宾参加法国七国集团峰会之前，基希讷乌也采取了同样的步骤。 “我们与摩尔多瓦的邻国关系很牢固。我们互相支持，我们正在共同走向欧盟——我们将共同实现这一目标，”他说。 为了加入欧盟，潜在成员国必须证明其在多个领域遵守欧盟标准。 这些内容分为六个所谓的“集群”，总共 33 章。另外两章是在六个集群之外单独协商的。 第一个开放和最后一个关闭的集群总是被贴上“基本”标签的集群，其中包括司法和基本权利、经济标准和民主机构运作等核心问题。 欧盟成员国必须同意所有要求均已满足，然后..."
+            "zh": "欧盟与乌克兰正式开启第一阶段入盟谈判。这比计划晚了两年，因为匈牙利前总理维克托·欧尔班在选举失败之前阻止了这一进程。 欧盟和乌克兰周一正式启动第一阶段入盟谈判，以期有一天基辅加入这个由 28 个成员国组成的欧盟。 俄罗斯于 2022 年全面入侵乌克兰，进一步强化了一度在该国选民中引起争议的想法。 在过去的两年里，这一进程一直被搁置。这是因为启动该计划需要得到现有欧盟各国政府的一致批准，而匈牙利前总理欧尔班·维克托(Viktor Orban)则阻止了这一举措。 尽管有匈牙利的阻挠，谈判已经在技术层面上开始了。 匈牙利新任总理彼得·马扎尔最近宣布，他已与乌克兰就加强该国匈牙利少数民族权利的措施达成协议。马扎尔已将此类协议作为解除布达佩斯对乌克兰加入欧盟谈判的否决权的条件。 欧洲理事会主席安东尼奥·科斯塔在法国埃维昂出席七国集团峰会时在网上写道：“今天，我们正在为乌克兰在欧盟的未来迈出历史性的一步，启动其加入的正式谈判。团结而坚定的七国集团对于帮助结束这场战争并实现公正和持久的和平至关重要。” 欧盟委员会主席乌苏拉·冯德莱恩表示，开放第一个所谓的谈判集群是“向前迈出的一大步”，并赞扬乌克兰迄今为止在腐败和法治等问题上的改革所取得的进展。 乌克兰总统泽伦斯基表示，周一的事态发展“发出了一个明确的信息，即欧洲的进步无法被阻止”。 他说，他很高兴能在摩尔多瓦基希讷乌谈论这个问题，周一，在作为嘉宾参加法国七国集团峰会之前，基希讷乌也采取了同样的步骤。 “我们与摩尔多瓦的邻国关系很牢固。我们互相支持，我们正在共同走向欧盟——我们将共同实现这一目标，”他说。 为了加入欧盟，潜在成员国必须证明其在多个领域遵守欧盟标准。 这些内容分为六个所谓的“集群”，总共 33 章。另外两章是在六个集群之外单独协商的。 第一个开放和最后一个关闭的集群总是被贴上“基本”标签的集群，其中包括司法和基本权利、经济标准和民主机构运作等核心问题。 欧盟成员国必须同意所有要求均已满足，然后..."
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -514,74 +579,6 @@
             "themeZh": "智谋的价值"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cj4gnqw8j52o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1bf4/live/a0647af0-68f2-11f1-8e1d-bbbb1017d210.jpg",
-          "publishedAt": "2026-06-15T18:15:30.000Z",
-          "title": {
-            "en": "Iran deal presents political nightmare for Netanyahu",
-            "zh": "伊朗协议给内塔尼亚胡带来政治噩梦"
-          },
-          "summary": {
-            "en": "Donald Trump's ceasefire agreement with Iran has created a significant political and security challenge for the Israeli Prime Minister, Benjamin Netanyahu. He now faces a complex dilemma regarding the implications of this deal.",
-            "zh": "唐纳德·特朗普与伊朗达成的停火协议，给以色列总理内塔尼亚胡带来了重大的政治和安全挑战。他现在面临着一个关于这项协议影响的复杂困境。"
-          },
-          "body": {
-            "en": "The US ceasefire agreement with Iran has presented Israel's prime minister with a political nightmare, smashing the three cornerstones of Benjamin Netanyahu's political career, and leaving him trapped in a new security dilemma.\n\nHow can the man who styled himself as the political whisperer of Washington, with real influence over American politicians, be sidelined quite so comprehensively and insulted so publicly by his key US ally?\n\nHow can the man who made taking on Iran the centre-piece of Israel's security policy end the war with Iran arguably in a stronger position?\n\nAnd how can his old, tarnished political image as Israel's \"Mr Security\" survive the demand from Washington and Tehran that Israel cease attacking Hezbollah in Lebanon, months before an Israeli general election?\n\nThe options facing Netanyahu now are not good. They were summarised by the opposition leader, Yair Lapid, in the Knesset on Monday as \"either a direct and destructive confrontation with our greatest ally, or a submissive surrender of Israeli interests\".\n\nThe expletive-laden assessment by US President Donald Trump that Netanyahu showed no judgement when ordering a strike on Beirut on Sunday has been seized upon by his political rivals and media commentators, already focused on the election that must be held before the end of October.\n\nBut comments from members of Netanyahu's own Likud party, and far-right cabinet ministers in his governing coalition, also show the pressure he faces from his own side - most sharply over the demand from Tehran that the ceasefire covers \"military operations on all fronts, including Lebanon\".\n\n\"Trump's agreement does not bind us,\" Israel's far-right national security minister, Itamar Ben-Gvir, wrote on social media on Monday. \"We are not partners to this agreement that does not ensure our security.\"\n\n\"Israel will continue to protect itself,\" Likud lawmaker Ariel Kallner told me, though he would not clarify whether that meant Israel would continue its attacks.\n\n\"We will do what we need to do. And we expect our friends to understand us,\" he said. \"Sometimes there are disagreements between allies, and allies should also understand their allies when they are in danger.\"\n\nSima Shine, a former Mossad official and Iran specialist said: \"It's difficult to understand why the Americans accepted it.\n\n\"By allowing Iran to decide what will happen in Lebanon, the US is giving Iran the possibility to continue to support Hezbollah, and to make sure that Hezbollah is a major political actor in the Lebanese arena.\n\n\"Israel is not happy with that – neither the security establishment, nor the political,\" she said.\n\nAmid the cacophony of criticism and outrage from across the political spectrum, Israel's prime minister himself has so far been absent. Often quick to...",
-            "zh": "美国与伊朗的停火协议给以色列总理带来了一场政治噩梦，击碎了本杰明·内塔尼亚胡政治生涯的三大基石，也让他陷入了新的安全困境。 一个自诩为华盛顿政治耳语者、对美国政客具有真正影响力的人，怎么会被他的美国主要盟友如此全面地边缘化并如此公开地侮辱呢？ 这位将打击伊朗作为以色列安全政策核心的人如何能够以更有利的地位结束与伊朗的战争？ 在以色列大选前几个月，华盛顿和德黑兰要求以色列停止攻击黎巴嫩真主党的要求下，他作为以色列“安全先生”的旧有、玷污的政治形象如何能够幸存？ 内塔尼亚胡现在面临的选择并不好。反对派领导人亚伊尔·拉皮德周一在议会将其总结为“要么与我们最大的盟友进行直接和破坏性的对抗，要么屈服于以色列的利益”。 美国总统唐纳德·特朗普充满咒骂地评价内塔尼亚胡在周日下令对贝鲁特发动袭击时没有表现出判断力，这一评价已被他的政治对手和媒体评论员抓住，他们的注意力已经集中在必须在10月底之前举行的选举上。 但内塔尼亚胡所在的利库德集团成员及其执政联盟中的极右翼内阁部长的评论也显示了他面临的来自自己方面的压力 - 最明显的是德黑兰要求停火涵盖“包括黎巴嫩在内的所有战线的军事行动”。 “特朗普的协议对我们没有约束力，”以色列极右翼国家安全部长伊塔马尔·本-格维尔周一在社交媒体上写道。 “我们不是这项不能确保我们安全的协议的合作伙伴。” “以色列将继续保护自己，”利库德集团议员阿里尔·卡尔纳告诉我，不过他没有澄清这是否意味着以色列将继续发动袭击。 “我们将做我们需要做的事情。我们希望我们的朋友能够理解我们，”他说。 “盟友之间有时会出现分歧，盟友遇到危险时也应该理解盟友。” 前摩萨德官员、伊朗问题专家西马·夏因表示：“很难理解美国人为什么接受它。 “通过允许伊朗决定黎巴嫩将发生什么，美国让伊朗有可能继续支持真主党，并确保真主党成为黎巴嫩舞台上的主要政治角色。 “以色列对此并不满意——无论是安全机构还是政治部门，”她说。 在来自各个政治派别的批评和愤怒声中，以色列总理本人迄今为止一直缺席。常常很快..."
-          },
-          "reflection": {
-            "en": "Leaders often face complex dilemmas where the path forward is unclear, and conventional wisdom may not suffice. In such moments, the ancient wisdom to trust beyond one's own understanding can offer a steadying perspective. It reminds us that even in the most intricate political landscapes, there is a call to rely on a deeper source of guidance.",
-            "zh": "领导者常面临复杂的困境，前路不明，传统智慧也可能不足以应对。在这样的时刻，超越自身理解去信靠的古老智慧，能提供一个稳定的视角。它提醒我们，即使在最错综复杂的政治格局中，也需要依靠更深层的指引。"
-          },
-          "verse": {
-            "reference": "Proverbs 3:5",
-            "textEn": "Trust in Yahweh with all your heart and lean not on your own understanding.",
-            "textZh": "你要专心仰赖雅伟，不可倚靠自己的聪明。",
-            "themeEn": "Trust over understanding",
-            "themeZh": "信靠胜过聪明"
-          },
-          "aiVerseId": "prov_3_5",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cy5vngrq3q5o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5b78/live/9c12e0a0-68dd-11f1-8cbf-33679e793a63.jpg",
-          "publishedAt": "2026-06-15T17:25:15.000Z",
-          "title": {
-            "en": "South African jazz legend Abdullah Ibrahim dies at 91",
-            "zh": "南非爵士传奇阿卜杜拉·易卜拉欣逝世，享年91岁"
-          },
-          "summary": {
-            "en": "South African jazz legend Abdullah Ibrahim has passed away at the age of 91. His career spanned eight decades, during which he helped define a genre of South African jazz music.",
-            "zh": "南非爵士乐传奇人物阿卜杜拉·易卜拉欣逝世，享年91岁。他的音乐生涯长达八十年，在此期间他帮助定义了南非爵士乐的一种流派。"
-          },
-          "body": {
-            "en": "Abdullah Ibrahim, who helped define a genre of South African jazz music, has died at the age of 91, his family has said.\n\nHe \"passed away peacefully, surrounded by his family in Germany, after a short illness\", according to a statement released on behalf of the family.\n\nHis \"creations honoured the South Africa that shaped his political commitment and musical brilliance\", President Cyril Ramaphosa said in his tribute.\n\nIbrahim, born Adolph Johannes Brand in 1934, grew up in Cape Town and began composing at the piano at the age of seven by picking out tunes on the keyboard. He would go on to have a career that spanned eight decades and dozens of recordings.\n\nThese included the 1974 track Mannenberg, one of his most famous compositions, that later became linked to the struggle against white-minority rule in South African and apartheid, the system of legalised racism.\n\nIbrahim, who was initially known on stage as Dollar Brand, changed his name after converting to Islam in the late 1960s.\n\nAs a teenager, the pianist and composer played in a swing band, his own trio and then in a sextet called the Jazz Epistles, which also included another South African jazz great, Hugh Masakela.\n\nAs apartheid, which began to be legally enforced in 1948, became increasingly rigid, jazz music, which was seen as counter-cultural and encouraged racial mixing, was looked down on.\n\nThe political situation in South Africa led to the break-up of the band, and Ibrahim moved to Switzerland.\n\nAmerican jazz legend Duke Ellington heard Ibrahim and took him to the US. Gradually, his distinctive style began to emerge - music that recalled the sounds of South Africa, and mixed his country's vocal and harmonic traditions with the rhythmic feeling and improvisation of jazz, according to a BBC Radio 3 profile.\n\nDespite living outside South Africa, he never forgot his roots and made frequent trips to the country to perform and record.\n\nHis final live appearance came at the Cape Town International Jazz Festival less than three months ago, \"where he once again captivated audiences with the artistry, grace and profound musical vision that defined his life's work\", the family statement said.\n\nIn her tribute, his partner Dr Marina Umari said: \"Abdullah passed away peacefully with South Africa and its people in his heart. His love for his country never wavered, no matter where in the world he found himself.\n\n\"He has enriched our lives with his musical gifts and his involvement in making the world a better place,\" Ramaphosa said reflecting on Ibrahim's career.",
-            "zh": "阿卜杜拉·易卜拉欣 (Abdullah Ibrahim) 的家人称，他帮助定义了南非爵士音乐流派，现已去世，享年 91 岁。 根据代表家人发布的一份声明，他“在短暂患病后，在德国家人的陪伴下平静地去世”。 总统西里尔·拉马福萨在致悼词中表示，他的“创作向南非致敬，正是南非塑造了他的政治承诺和音乐才华”。 易卜拉欣 (Ibrahim)，原名阿道夫·约翰内斯·布兰德 (Adolph Johannes Brand)，1934 年出生，在开普敦长大，七岁时开始在钢琴上作曲，在键盘上挑选曲调。他的职业生涯持续了八年，录制了数十张唱片。 其中包括 1974 年的歌曲《Mannenberg》，这是他最著名的作品之一，后来与南非反对白人少数统治和种族隔离（合法化的种族主义制度）的斗争联系在一起。 易卜拉欣最初在舞台上被称为“美元布兰德”，在 20 世纪 60 年代末皈依伊斯兰教后改名。 青少年时期，这位钢琴家兼作曲家曾在摇摆乐队、他自己的三重奏乐队以及名为“爵士书信”的六重奏乐队中演奏，其中还包括另一位南非爵士乐巨星休·马塞克拉 (Hugh Masakela)。 随着 1948 年开始合法实施的种族隔离制度变得越来越僵化，被视为反文化、鼓励种族混合的爵士乐受到了蔑视。 南非的政治局势导致乐队解散，易卜拉欣搬到了瑞士。 美国爵士乐传奇人物艾灵顿公爵听到了易卜拉欣的消息，并带他去了美国。据英国广播公司广播电台第三台的简介，他的独特风格逐渐开始显现，他的音乐让人想起南非的声音，并将南非的声乐和和声传统与爵士乐的节奏感和即兴创作融为一体。 尽管居住在南非境外，他从未忘记自己的根，经常前往该国演出和录制唱片。 不到三个月前，他最后一次现场演出是在开普敦国际爵士音乐节上，“他再次以艺术性、优雅和深刻的音乐视野吸引了观众，这些都定义了他一生的工作”，家族声明说。 阿卜杜拉的伴侣玛丽娜·乌马里博士在悼念中说道：“阿卜杜拉在南非及其人民的陪伴下平静地去世了。无论他身在世界何处，他对国家的爱从未动摇过。” 拉马福萨在回顾易卜拉欣的职业生涯时表示：“他凭借自己的音乐天赋和对让世界变得更美好的努力丰富了我们的生活。”"
-          },
-          "reflection": {
-            "en": "Abdullah Ibrahim's passing at 91, after an eight-decade career, marks the completion of a remarkable journey. His life's work, dedicated to shaping South African jazz, reminds us of the profound impact one can have through sustained passion and effort. For those who strive to live a life of purpose, there is a quiet dignity in finishing the race well.",
-            "zh": "阿卜杜拉·易卜拉欣在91岁高龄离世，结束了长达八十年的卓越音乐生涯。他一生致力于塑造南非爵士乐，这提醒我们，通过持续的热情和努力，一个人可以产生深远的影响。对于那些努力活出有意义人生的人来说，圆满跑完这场赛程，本身就带有一种宁静的尊严。"
-          },
-          "verse": {
-            "reference": "2 Timothy 4:7",
-            "textEn": "I have fought the good fight, I have finished the race, I have kept the faith.",
-            "textZh": "那美好的仗我已经打过了，当跑的路我已经跑尽了，所信的道我已经守住了。",
-            "themeEn": "Race finished",
-            "themeZh": "跑尽当跑的路"
-          },
-          "aiVerseId": "2tim_4_7",
-          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-strait-of-hormuz-reopening-won-t-end-shipping-risks-a-7755",
@@ -634,7 +631,7 @@
           },
           "body": {
             "en": "Hotter, drier weather is impeding rice and palm-oil production as households across Southeast Asia struggle with higher fuel, food and transport costs.\n\nSoutheast Asia is bracing for an extreme El Nino weather pattern as households and governments in the region are struggling to respond to higher energy, transport and food bills linked to the&#160; Iran war .\n\nThe UN weather agency, the World Meteorological Organization, expects the El Nino conditions to emerge before August and continue until at least November. This means surface waters in large parts of the Pacific Ocean will warm up more than usual, and a disruption in the usual east-to-west wind pattern is likely to bring more heat to central and eastern Pacific.\n\nSoutheast Asia is entering the months when monsoon rains usually replenish water reservoirs, cool overheated cities and inundate the fields ahead of the next planting season. However, if the rains arrive late or are weaker than normal, farmers may delay planting, reduce acreage or switch away from water-intensive crops.\n\n\"Southeast Asia's agricultural sector is exceptionally vulnerable to a new El Nino shock, given that its two primary commodities, rice and palm oil, are highly concentrated and uniquely sensitive to climate anomalies,\" Jason Lee, chair of the Global Heat Health Information Network's Southeast Asia Hub, told DW.\n\n\"This extreme exposure means that what begins as a localized, farm-level shock can rapidly spill over into a broader, systemic food-price and inflation crisis across the region.\"\n\nFor Southeast Asian nations, rice crops are the biggest political&#160;risk. It is the region's staple food, closely tied to rural livelihoods and&#160;likely to trigger public anger if its&#160;prices rise.\n\nRice is likely to be the most affected staple crop due to reduced rainfall and increased heat stress, Paul Teng, a visiting senior fellow in the ISEAS–Yusof Ishak Institute's Climate Change in Southeast Asia Program, told DW.\n\n\"In the rain-fed rice areas, there will likely be higher incidence of localized droughts and in the irrigated rice areas there will likely be water stress due to lower reservoir and irrigation levels,\" Teng said, noting that the most vulnerable countries are Thailand , the Philippines , Indonesia &#160;and Cambodia .\n\nThe region could see a 2%–8% reduction in rice output compared with a normal year, with larger local losses in drought-prone areas, he added.\n\nPalm oil is the other major concern, especially in Indonesia and Malaysia, which together account for around 85% of the world's supply.\n\n\"Palm oil is sensitive to the expected temperature rises , but unlike rice, the impacts may be felt six to 12 months later from reduced fresh fruit bunch formation and oil extraction rates,\" Teng said.\n\nFertilizer and...",
-            "zh": "由于东南亚各地的家庭都在为更高的燃料、食品和运输成本而苦苦挣扎，更炎热、更干燥的天气正在阻碍大米和棕榈油的生产。 东南亚正在准备迎接极端的厄尔尼诺天气模式，该地区的家庭和政府正在努力应对与伊朗战争相关的更高的能源、运输和食品费用。 联合国气象机构世界气象组织预计，厄尔尼诺现象将在八月之前出现，并至少持续到十一月。这意味着太平洋大部分地区的表层海水将比平时变暖，而通常的东西风模式的破坏可能会给太平洋中部和东部带来更多热量。 东南亚正在进入季风降雨通常会补充水库、冷却过热城市并在下一个播种季节之前淹没田地的几个月。然而，如果降雨来得晚或弱于正常水平，农民可能会推迟播种、减少种植面积或不再种植耗水型作物。 全球高温健康信息网络东南亚中心主席贾森·李（Jason Lee）对德国之声表示：“东南亚的农业部门特别容易受到新厄尔尼诺现象的影响，因为其两种主要商品大米和棕榈油高度集中，而且对气候异常特别敏感。” “这种极端的风险意味着，最初的局部农场冲击可能会迅速蔓延到整个地区更广泛的系统性食品价格和通胀危机。” 对于东南亚国家来说，稻米作物是最大的政治风险。它是该地区的主食，与农村生计密切相关，如果价格上涨，可能会引发公众的愤怒。 尤索夫伊萨东南亚研究所气候变化项目客座高级研究员保罗·滕（Paul Teng）告诉德国之声，由于降雨量减少和热应激加剧，水稻可能成为受影响最严重的主粮作物。 滕说：“在雨养稻区，局部干旱的发生率可能会更高，而在灌溉稻区，由于水库和灌溉水平较低，可能会出现水资源紧张。”他指出，最脆弱的国家是泰国、菲律宾、印度尼西亚和柬埔寨。 他补充说，该地区稻米产量可能比正常年份减少2%至8%，其中干旱地区损失更大。 棕榈油是另一个主要问题，特别是在印度尼西亚和马来西亚，这两个国家的供应量合计占世界供应量的 85% 左右。 “棕榈油对预期的气温上升很敏感，但与大米不同的是，由于新鲜果串形成和油提取率的减少，可能会在 6 至 12 个月后感受到影响，”滕说。 化肥和..."
+            "zh": "由于东南亚各地的家庭都在为更高的燃料、食品和运输成本而苦苦挣扎，炎热、干燥的天气阻碍了大米和棕榈油的生产。 东南亚正在准备迎接极端的厄尔尼诺天气模式，该地区的家庭和政府正在努力应对与伊朗战争相关的更高的能源、运输和食品费用。 联合国气象机构世界气象组织预计，厄尔尼诺现象将在八月之前出现，并至少持续到十一月。这意味着太平洋大部分地区的表层海水将比平时变暖，而通常的东西风模式的破坏可能会给太平洋中部和东部带来更多热量。 东南亚正在进入季风降雨通常会补充水库、冷却过热城市并在下一个播种季节之前淹没田地的几个月。然而，如果降雨来得晚或弱于正常水平，农民可能会推迟播种、减少种植面积或不再种植耗水型作物。 全球高温健康信息网络东南亚中心主席贾森·李（Jason Lee）对德国之声表示：“东南亚的农业部门特别容易受到新厄尔尼诺现象的影响，因为其两种主要商品大米和棕榈油高度集中，而且对气候异常特别敏感。” “这种极端的风险意味着，最初的局部农场冲击可能会迅速蔓延到整个地区更广泛的系统性食品价格和通胀危机。” 对于东南亚国家来说，稻米作物是最大的政治风险。它是该地区的主食，与农村生计密切相关，如果价格上涨，可能会引发公众的愤怒。 尤索夫伊萨东南亚研究所气候变化项目客座高级研究员保罗·滕（Paul Teng）告诉德国之声，由于降雨量减少和热应激加剧，水稻可能成为受影响最严重的主粮作物。 滕说：“在雨养稻区，局部干旱的发生率可能会更高，而在灌溉稻区，由于水库和灌溉水平较低，可能会出现水资源紧张。”他指出，最脆弱的国家是泰国、菲律宾、印度尼西亚和柬埔寨。 他补充说，该地区稻米产量可能比正常年份减少2%至8%，其中干旱地区损失更大。 棕榈油是另一个主要问题，特别是在印度尼西亚和马来西亚，这两个国家的供应量合计占世界供应量的 85% 左右。 “棕榈油对预期的气温上升很敏感，但与大米不同的是，由于新鲜果串形成和油提取率的减少，可能会在 6 至 12 个月后感受到影响，”滕说。 化肥和..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -700,7 +697,7 @@
           },
           "body": {
             "en": "United States President Donald Trump's declaration that a peace agreement has been reached with Iran has raised hopes of easing pressure on global energy markets and reducing one source of inflation risk.\n\n\"The Deal with the Islamic Republic of Iran is now complete. Congratulations to all! Ships of the World, start your engines. Let the oil flow!\" Trump posted on his Truth Social platform on Monday.\n\nThe agreement, expected to be formally signed in Switzerland on Friday, includes plans to reopen the Strait of Hormuz , a narrow shipping corridor through which around one-fifth of the world's oil supply normally passes.\n\nBut analysts say that for Australia, that matters less because of where the country buys its oil and more because of how global energy and shipping markets operate.\n\nWhile easing tensions may remove one source of pressure on fuel and inflation, analysts caution any economic benefits for Australians will depend on whether the agreement holds and how quickly normal trade conditions resume.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nWhile Australia does not directly import oil from Iran, households are not insulated from instability in the Middle East.\n\nProfessor Tim Harcourt, chief economist at the University of Technology Sydney, told SBS News that energy markets remained globally connected and disruptions quickly flowed across borders.\n\n\"Oil prices set world markets and flow through right around the world,\" he said.\n\nHarcourt said the Strait of Hormuz was one of several globally significant trade corridors and disruptions had consequences extending well beyond energy.\n\n\"When you affect those trade routes, you see delays but also higher prices because of supply shortages.\"\n\nProfessor Ben Fahimnia, chair of supply chain management at the University of Sydney, said markets respond not only to actual disruptions but also to expectations about future risk.\n\n\"The reported easing of tensions and reopening of the Strait of Hormuz will place some downward pressure on global oil prices, assuming the agreement holds and markets gain confidence that major supply disruptions are less likely.\n\n\"However, energy markets react not only to actual disruptions but also to perceived risks, so some volatility may remain in the short term.\"\n\nFahimnia said disruptions in shipping routes could eventually flow through to households via freight, supermarket prices, transport costs and business operating expenses, but the relief wouldn't be imminent.\n\nProfessor Richard Holden, vice chancellor's professorial fellow and chief economist at UNSW Sydney, said oil remained globally priced regardless of where Australia sourced supply.\n\n\"When supply is constrained, oil goes up,...",
-            "zh": "美国总统唐纳德·特朗普宣布已与伊朗达成和平协议，这引发了缓解全球能源市场压力并减少通胀风险来源之一的希望。 “与伊朗伊斯兰共和国的协议现已完成。祝贺所有人！世界上的船只，启动你们的引擎。让石油流动！”特朗普周一在他的真相社交平台上发帖。 该协议预计将于周五在瑞士正式签署，其中包括重新开放霍尔木兹海峡的计划，霍尔木兹海峡是一条狭窄的航运走廊，全球约五分之一的石油供应通常都要经过该海峡。 但分析人士表示，对澳大利亚来说，这并不重要，因为该国在哪里购买石油，而更重要的是全球能源和航运市场的运作方式。 虽然缓解紧张局势可能会消除燃料和通胀压力的一个来源，但分析师警告称，澳大利亚人的任何经济利益将取决于该协议是否有效以及正常贸易条件恢复的速度。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 尽管澳大利亚不直接从伊朗进口石油，但家庭也无法免受中东不稳定局势的影响。 悉尼科技大学首席经济学家蒂姆·哈考特教授告诉 SBS 新闻，能源市场仍然在全球范围内保持联系，中断很快就会跨越国界。 “石油价格决定了世界市场并在世界各地流通，”他说。 哈考特表示，霍尔木兹海峡是几个全球重要的贸易走廊之一，中断的影响远远超出了能源领域。 “当你影响这些贸易路线时，你会看到延误，但由于供应短缺，价格也会上涨。” 悉尼大学供应链管理系主任本·法希姆尼亚教授表示，市场不仅对实际的中断做出反应，而且对未来风险的预期做出反应。 “据报道，紧张局势的缓和和霍尔木兹海峡的重新开放，将给全球油价带来一定的下行压力，前提是该协议得以维持，并且市场对重大供应中断的可能性较小有信心。 “然而，能源市场不仅对实际的中断做出反应，而且对感知的风险也做出反应，因此短期内可能仍会出现一些波动。” 法希姆尼亚表示，航线中断最终可能会通过货运、超市价格、运输成本和企业运营费用影响到家庭，但救济不会立即得到解决。 悉尼新南威尔士大学副校长教授研究员兼首席经济学家理查德·霍尔登教授表示，无论澳大利亚从何处采购石油，石油价格仍保持全球定价。 “当供应受到限制时，石油就会上涨，......"
+            "zh": "美国总统唐纳德·特朗普宣布已与伊朗达成和平协议，这引发了缓解全球能源市场压力并减少通胀风险来源之一的希望。 “与伊朗伊斯兰共和国的协议现已完成。祝贺所有人！世界上的船只，启动你们的引擎。让石油流动！”特朗普周一在他的真相社交平台上发帖。 该协议预计将于周五在瑞士正式签署，其中包括重新开放霍尔木兹海峡的计划，霍尔木兹海峡是一条狭窄的航运走廊，全球约五分之一的石油供应通常都要经过该海峡。 但分析人士表示，对澳大利亚来说，这并不重要，因为该国在哪里购买石油，而更重要的是全球能源和航运市场的运作方式。 虽然缓解紧张局势可能会消除燃料和通胀压力的一个来源，但分析师警告称，澳大利亚人的任何经济利益将取决于该协议是否有效以及正常贸易条件恢复的速度。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 尽管澳大利亚不直接从伊朗进口石油，但家庭也无法免受中东不稳定局势的影响。 悉尼科技大学首席经济学家蒂姆·哈考特教授告诉 SBS 新闻，能源市场仍然在全球范围内保持联系，中断很快就会跨越国界。 “石油价格决定了世界市场并在世界各地流通，”他说。 哈考特表示，霍尔木兹海峡是几个全球重要的贸易走廊之一，中断的影响远远超出了能源领域。 “当你影响这些贸易路线时，你会看到延误，但由于供应短缺，价格也会上涨。” 悉尼大学供应链管理系主任本·法希姆尼亚教授表示，市场不仅对实际的中断做出反应，而且对未来风险的预期做出反应。 “据报道，紧张局势的缓和和霍尔木兹海峡的重新开放，将给全球油价带来一定的下行压力，前提是该协议得以维持，并且市场对重大供应中断的可能性较小有信心。 “然而，能源市场不仅对实际的中断做出反应，而且对感知到的风险也做出反应，因此短期内可能仍会出现一些波动。” 法希姆尼亚表示，航线中断最终可能会通过货运、超市价格、运输成本和企业运营费用影响到家庭，但救济不会立即得到解决。 悉尼新南威尔士大学副校长教授研究员兼首席经济学家理查德·霍尔登教授表示，无论澳大利亚从何处采购石油，石油价格仍保持全球定价。 “当供应受到限制时，石油就会上涨，......"
           },
           "reflection": {
             "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
@@ -728,10 +725,42 @@
         "zh": "聚焦中国内部政策走向、社会变化与国家动态。"
       },
       "sourceNotes": [
-        "The Guardian China",
-        "BBC News China Focus"
+        "The Guardian China"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-business-2026-jun-16-ev-prices-uk-eu-chinese-car-fir",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/business/2026/jun/16/ev-prices-uk-eu-chinese-car-firm-xpeng",
+          "image": "https://i.guim.co.uk/img/media/b8426d309d81d7ae1114ad9af1926410223c09bc/866_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ea8fc4f01f9d279759e68536ba0b88d",
+          "publishedAt": "2026-06-16T05:00:45.000Z",
+          "title": {
+            "en": "EV prices in UK and EU not likely to dive due to Chinese rivalry, says Xpeng boss",
+            "zh": "小鹏汽车老板表示，英国和欧盟的电动汽车价格不太可能因中国竞争而下跌"
+          },
+          "summary": {
+            "en": "Brian Gu says he sees Chinese car firms competing on quality rather than launching price war as at home Motorists in the UK and EU should not expect a sharp drop in the cost of electric vehicles despite increased competition among Chinese manufacturers, one of the country’s...",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Brian Gu says he sees Chinese car firms competing on quality rather than launching price war as at home Motorists in the UK and EU should not expect a sharp drop in the cost of electric vehicles despite increased competition among Chinese manufacturers, one of the country’s biggest electric carmakers has said. Brian Gu, the vice-chair of the manufacturer Xpeng, said that Chinese carmakers could compete on quality to win customers in the EU and UK, rather than unleashing a brutal price war as they have in China. Continue reading...",
+            "zh": "英国最大的电动汽车制造商之一表示，尽管中国制造商之间的竞争加剧，但英国和欧盟的驾驶者不应期望电动汽车的成本大幅下降。制造商小鹏汽车副董事长布莱恩·顾表示，中国汽车制造商可以通过质量竞争来赢得欧盟和英国的客户，而不是像在中国那样发动残酷的价格战。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-business-2026-jun-15-eu-trade-deficit-with-china-rec",
           "section": "china",
@@ -764,40 +793,6 @@
             "themeZh": "雅伟厌恶诡诈"
           },
           "aiVerseId": "prov_11_1",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-ce9582vlm83o-at-medium-rss-at-campaign-rss",
-          "section": "china",
-          "source": "BBC News China Focus",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2cb6/live/5bc24570-688a-11f1-8c6b-f595710535a5.jpg",
-          "publishedAt": "2026-06-15T07:56:43.000Z",
-          "title": {
-            "en": "China detains two leaders of influential underground church",
-            "zh": "中国拘留了两名有影响力的地下教会领袖"
-          },
-          "summary": {
-            "en": "More than 30 members of Early Rain Covenant Church, including its leaders, were detained for interrogation during a Sunday service in China.",
-            "zh": "中国秋雨圣约教会的30多名成员，包括其领袖，在一次主日礼拜中被拘留审讯。"
-          },
-          "body": {
-            "en": "An influential Protestant church in China has said two of its leaders were detained after more than dozens of congregants, including children, were rounded up for interrogation.\n\nThey were midway through Sunday service in the south-western city of Jiangyou, when armed police officers stormed the room they were in, Early Rain Covenant said in a statement on Monday.\n\nFounded in 2008 in Chengdu city, the church has long been on the Chinese Communist Party's radar given how religion is tightly controlled in the region.\n\nFounding pastor Wang Yi was detained in a raid in December 2018 and is serving a nine-year jail term for \"inciting subversion of state power\" and \"illegal business operations\".\n\nThe grounds for detaining two of its leaders, Yan Hong and Wu Wuqing, on Sunday are still unclear, the church said in its statement posted on Telegram. Chinese authorities have not responded to the statement, or made any comment so far.\n\nThe church also shared photographs and videos that show the congregants, seated in a hotel ballroom surrounded by a team of SWAT (Special Weapons and Tactical Unit) officers.\n\nAt least 50 police officers were present during the raid at 11:00 local time, according to some members' estimates.\n\nMore than 30 members and leaders were \"forcibly taken away in several police vehicles\" and questioned in the Jiangyou detention centre, the church said. Throughout the process, they \"fellowshipped, sang hymns, and prayed until most of them were released,\" it added.\n\nThe remaining congregants, which included elderly and children, were locked up in the ballroom and subject to identity checks, according to the church. Clips show some congregants singing even as an officer in plain clothes took to the stage and repeatedly shouted for them to stop.\n\nThe church said officers tried to get those in the ballroom to sign an affidavit in exchange for their release, but did not disclose what was in the affidavit. The congregants refused and were eventually released at 18:00.\n\nApart from Yan and Wu, those who were taken away for interrogation were released between 21:00 and 23:00 on Sunday.\n\nThe two preachers have previously been detained by authorities, the most recent being in January , when they were summoned by police for \"picking quarrels and provoking trouble\".\n\nChinese authorities said in 2018 that there were 44 million Christians in the country, but it is unclear if this number includes those who attend the many underground churches.\n\nThe Communist Party pressures Christians to join only state-sanctioned churches led by government-approved pastors.\n\nMany have turned to underground churches, also known as \"house churches\", over the years, but Christian groups say the government's grip has tightened noticeably, with arrests becoming more...",
-            "zh": "中国一家颇具影响力的新教教会表示，在包括儿童在内的数十名教众被围捕审讯后，该教会的两名领导人被拘留。 秋雨圣约周一在一份声明中表示，他们当时正在西南部城市江油举行周日礼拜，武装警察冲进了他们所在的房间。 该教堂于 2008 年在成都成立，由于宗教在该地区受到严格控制，长期以来一直受到中国共产党的关注。 创会牧师王怡在2018年12月的一次突袭中被拘留，目前因“煽动颠覆国家政权”和“非法经营”罪被判处九年徒刑。 该教会在 Telegram 上发布的声明中表示，周日拘留其两名领导人严宏和吴武清的理由仍不清楚。截至目前，中国当局尚未对这一声明作出回应，也没有发表任何评论。 教堂还分享了照片和视频，显示会众坐在酒店宴会厅里，周围是一群特警（特种武器和战术部队）军官。 据一些成员估计，当地时间 11:00 的突袭行动中至少有 50 名警察在场。 该教会称，30多名成员和领导人被“用多辆警车强行带走”，并在江油看守所接受审问。声明补充说，在整个过程中，他们“进行团契、唱赞美诗并祈祷，直到大多数人获释”。 据教堂称，其余的教众，包括老人和儿童，被锁在舞厅里并接受身份检查。视频显示，一些会众仍在唱歌，而一名便衣警官走上舞台，反复喊叫他们停止。 教堂表示，官员试图让舞厅里的人签署一份宣誓书，以换取释放他们，但没有透露宣誓书的内容。教众们拒绝了，最终于 18:00 被释放。 除严某和吴某外，其他被带走审讯的人均于周日21:00至23:00期间被释放。 这两名传教士此前曾被当局拘留，最近一次是在一月份，当时他们因“寻衅滋事”被警方传唤。 中国当局2018年表示，该国有4400万基督徒，但尚不清楚这个数字是否包括参加许多地下教会的人。 共产党向基督徒施压，要求他们只加入由政府批准的牧师领导的国家认可的教会。 多年来，许多人转向地下教会，也称为“家庭教会”，但基督教团体表示，政府的控制明显收紧，逮捕人数越来越多……"
-          },
-          "reflection": {
-            "en": "This news reminds us of the cost some pay for their faith, gathering to worship even when it means facing opposition. For those who endure such trials for righteousness, there is a profound promise of blessing and belonging to God's kingdom.",
-            "zh": "这则新闻提醒我们，有些人为信仰付出了代价，即使面对阻力也坚持聚会敬拜。对于那些因行义而忍受此类试炼的人，有一个深刻的应许：他们将蒙福并属于神的国度。"
-          },
-          "verse": {
-            "reference": "Matthew 5:10",
-            "textEn": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
-            "textZh": "为义受逼迫的人有福了，因为天国是他们的。",
-            "themeEn": "Blessed persecution",
-            "themeZh": "为义受迫"
-          },
-          "aiVerseId": "matt_5_10",
           "translationState": "localized"
         },
         {
@@ -1084,62 +1079,227 @@
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
       },
       "sourceNotes": [
-        "The Guardian Australia",
-        "SBS News Australia"
+        "SBS News Australia",
+        "The Guardian Australia"
       ],
       "items": [
+        {
+          "id": "www-sbs-com-au-news-article-australian-horror-films-leviticus-q847etoxv",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/australian-horror-films-leviticus/q847etoxv",
+          "image": "https://assets.sbs.com.au/dims4/default/cee7fe6/2147483647/strip/false/crop/1920x882+0+99/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F18%2F88%2F09a266fe4d49953d15987607d937%2Fgfx-160626-leviticus-header-v3.png",
+          "publishedAt": "2026-06-16T06:01:36.000Z",
+          "title": {
+            "en": "The Australian horror film flipping the script on queerness",
+            "zh": "澳大利亚恐怖电影颠覆了酷儿的剧本"
+          },
+          "summary": {
+            "en": "Leviticus turns queer romance into horror — and into a conversation about how these stories end.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Share your feedback and help us improve this feature. Read more about how we use AI at SBS here.\n\nGrowing up in a multicultural family in Sydney &#x2014; with an Italian father and a Chinese mother &#x2014; the filmmaker knew he couldn't always connect with different parts of his extended family through humour.\n\n\"I could tell a joke to someone on my Chinese side of the family and they'd laugh. Someone on the other side of the family would just look at me like I'm a weirdo,\" he tells SBS News.\n\n\"But if I told a story about something scary, I'd have them in the palm of my hand.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"It's that biological mechanism in all of us to survive and it binds us together as people,\" he says.\n\nIt sparked a bidding war at Sundance Film Festival &#x2014; a launchpad for some of the biggest independent films of the past four decades &#x2014; and is now preparing for international release.\n\nBut beneath the scares, it's a meditation on the horrors of homophobia &#x2014; and the power of queer love.\n\nThe horror follows 17-year-old Naim (Joe Bird, Talk To Me), whose world shifts when he kisses schoolmate Ryan (Stacy Clausen, Scrublands). After a run-in with a conversion therapy preacher, the boys are haunted by a demon that takes the form of whoever they desire most &#x2014; each other.\n\nChiarella wanted to make a film about homophobia, but not the kind he'd already seen.\n\n\"I wanted to make a film that addressed this idea of homophobia and what it means today,\" he says.\n\n\"We'd made so much progress when I was growing up as a young gay man, but in this last decade or so, things have started to regress a little bit.\n\nHe initially considered a queer spin on The Exorcist after reading about exorcisms performed on LGBTQI+ teenagers around the world. But the concept wasn't quite right &#x2014; too close to the thing he was trying to dismantle.\n\n\"That concept just feels like it's perpetuating this myth that there's a gay demon,\" he says.\n\n\"I started thinking: what's the opposite of that? I came up with the idea of a horror movie monster or entity that takes the form of what you desire most &#x2014; that's how it lures you in.\"\n\nThe inversion is the film's quiet thesis: the monster isn't queerness. It's homophobia.\n\nThat idea is deeply personal. Despite growing up with atheist parents, Chiarella was sent to an all-boys religious school, where he encountered many of the ideas the film interrogates. His extended family included religious relatives he watched struggle with queer people in their lives.\n\nThe film draws on all of it &#x2014; and some of its darkest scenes have nothing supernatural about them at all.\n\n\"The more real-world the...",
+            "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 这位电影制片人在悉尼的一个多元文化家庭长大，父亲是意大利人，母亲是中国人，他知道自己无法总是通过幽默与大家庭的不同部分建立联系。 他告诉 SBS 新闻：“我可以给我家里的中国人讲一个笑话，他们会笑。而家庭另一边的人只会看我，就像我是个怪人一样。” “但如果我讲一个可怕的故事，我会把它们放在我的手掌上。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “这是我们所有人生存的生物机制，它将我们作为人类联系在一起，”他说。 它在圣丹斯电影节上引发了一场竞购战，圣丹斯电影节是过去四十年一些最大的独立电影的启动平台，目前正准备在国际上上映。 但在恐惧的背后，这是对同性恋恐惧症的恐怖以及酷儿之爱的力量的沉思。 这部恐怖片讲述了 17 岁的纳伊姆（乔·伯德，《对我说话》）的故事，当他亲吻同学瑞安（史黛西·克劳森，《灌木丛丛》饰）时，他的世界发生了变化。在与一名皈依治疗传教士发生冲突后，男孩们被一个恶魔所困扰，这个恶魔以他们最想要的人的形式出现——彼此。 基亚雷拉想拍一部关于恐同症的电影，但不是他已经看过的那种。 “我想拍一部讲述恐同症及其在今天意味着什么的电影，”他说。 “当我作为一个年轻的同性恋者成长时，我们取得了很大的进步，但在过去十年左右的时间里，事情开始有点倒退。 在读到世界各地针对 LGBTQI+ 青少年进行的驱魔活动后，他最初考虑将《驱魔人》改编成酷儿题材。但这个概念不太正确——太接近他试图拆除的东西了。 “这个概念感觉就像是延续了同性恋恶魔存在的神话，”他说。 “我开始思考：相反的是什么？我想出了一个恐怖电影怪物或实体的想法，它采用你最想要的形式——这就是它吸引你的方式。” 这种倒置是这部电影安静的主题：怪物不是酷儿。这是恐同症。 这个想法是非常个人化的。尽管基亚雷拉在无神论者的父母中长大，但他还是被送到了一所男子宗教学校，在那里他遇到了电影中质疑的许多想法。他的大家庭中包括一些宗教亲戚，他亲眼目睹了他们在生活中与酷儿群体的斗争。 这部电影借鉴了所有这些——其中一些最黑暗的场景根本没有任何超自然现象。 “越现实的世界..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-australia-news-live-2026-jun-16-australia-news-live-",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/ae4f18b97909b46b03037d3b64e5f09b06a9e1db/68_0_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c09a81acd9b547c5e2b7408000fb6f20",
-          "publishedAt": "2026-06-16T00:03:08.000Z",
+          "image": "https://i.guim.co.uk/img/media/79fd8383d2ea697783592ff827fdf3554385df7f/285_0_1121_897/master/1121.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=94ba6df0b90851e7baa629c0b39d59c6",
+          "publishedAt": "2026-06-16T06:00:26.000Z",
           "title": {
-            "en": "News live: Fifa clears Australia VAR official over hand gesture during World Cup broadcast; postal workers report rise in dog-related incidents",
-            "zh": "新闻直播：国际足联澄清澳大利亚VAR官员在世界杯转播期间的手势行为；邮政工作人员报告与狗有关的事件有所增加"
+            "en": "Australia news live: Bullock warns more hikes possible after RBA holds rates; two arrested as police investigate Dezi Freeman’s movements",
+            "zh": "澳大利亚新闻直播：布洛克警告称，澳洲联储维持利率不变后可能会进一步加息；警方调查德兹·弗里曼的行踪，两人被捕"
           },
           "summary": {
-            "en": "Shaun Evans says he was unaware he had made gesture at the time. Follow today’s news live Get our breaking news email, free app or daily news podcast Gallagher on One Nation: ‘Opinion polls will come and go’ Katy Gallagher was also asked about the surge in One Nation, saying...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "Follow today’s news live Get our breaking news email, free app or daily news podcast Gallagher on One Nation: ‘Opinion polls will come and go’ Katy Gallagher was also asked about the surge in One Nation, saying there was an obvious “reorganisation on the conservative side of...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Shaun Evans says he was unaware he had made gesture at the time. Follow today’s news live Get our breaking news email , free app or daily news podcast Gallagher on One Nation: ‘Opinion polls will come and go’ Katy Gallagher was also asked about the surge in One Nation, saying there was an obvious “reorganisation on the conservative side of politics”. I think there is a lot of uncertainty and worry about events that are happening across the world, the impact that has here. Cost of living is the No 1 issue with anyone you talk to right now, and the government just has to remain focused on that, and that’s what we intend to do. Opinion polls will come and go, they do. Our job is to make sure we’re making the right decisions for the right time and that it’s focused on the Australian people. And when there’s controversy about that, and we know we’ve had a lot of feedback around the budget, you know, our job is to front up and explain why we’ve taken those decisions. Continue reading...",
-            "zh": "肖恩·埃文斯表示，他当时并没有意识到自己做出了手势。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 加拉格尔对一国党：“民意调查会来来去去” 凯蒂·加拉格尔还被问及一国党人数激增的问题，她表示，“政治保守派方面进行了明显的重组”。我认为世界各地正在发生的事件及其对这里的影响存在很多不确定性和担忧。对于你现在交谈的任何人来说，生活成本都是第一大问题，政府必须继续关注这一问题，这就是我们打算做的。民意调查会来来去去，确实如此。我们的工作是确保我们在正确的时间做出正确的决定，并且重点关注澳大利亚人民。当对此存在争议时，我们知道我们收到了很多有关预算的反馈，我们的工作就是站出来解释为什么我们做出这些决定。继续阅读..."
+            "en": "Follow today’s news live Get our breaking news email , free app or daily news podcast Gallagher on One Nation: ‘Opinion polls will come and go’ Katy Gallagher was also asked about the surge in One Nation, saying there was an obvious “reorganisation on the conservative side of politics”. I think there is a lot of uncertainty and worry about events that are happening across the world, the impact that has here. Cost of living is the No 1 issue with anyone you talk to right now, and the government just has to remain focused on that, and that’s what we intend to do. Opinion polls will come and go, they do. Our job is to make sure we’re making the right decisions for the right time and that it’s focused on the Australian people. And when there’s controversy about that, and we know we’ve had a lot of feedback around the budget, you know, our job is to front up and explain why we’ve taken those decisions. Continue reading...",
+            "zh": "关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 加拉格尔对一国党：“民意调查会来来去去” 凯蒂·加拉格尔还被问及一国党人数激增的问题，她表示，“政治保守派方面进行了明显的重组”。我认为世界各地正在发生的事件及其对这里的影响存在很多不确定性和担忧。对于你现在交谈的任何人来说，生活成本都是第一大问题，政府必须继续关注这一问题，这就是我们打算做的。民意调查会来来去去，确实如此。我们的工作是确保我们在正确的时间做出正确的决定，并且重点关注澳大利亚人民。当对此存在争议时，我们知道我们收到了很多有关预算的反馈，我们的工作就是站出来解释为什么我们做出这些决定。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-commentisfree-2026-jun-16-healthcare-",
+          "id": "www-theguardian-com-australia-news-2026-jun-16-emily-lal-birthkeeper-sta",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/commentisfree/2026/jun/16/healthcare-funding-no-money-comments-management-lacking",
-          "image": "https://i.guim.co.uk/img/media/3588f27bafb7e093702f8f15e55212a14b6242a3/84_0_4450_3561/master/4450.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=3bec69df97c88845bc5fe154ed442880",
-          "publishedAt": "2026-06-15T23:00:39.000Z",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/16/emily-lal-birthkeeper-stacey-warnecke-freebirth-death-inquest-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/f84caf6d891b3dc57ce60fbe172f5c507b818155/327_0_4756_3805/master/4756.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aaf5896b6c3b49e6643aa09bb0b3d338",
+          "publishedAt": "2026-06-16T05:57:03.000Z",
           "title": {
-            "en": "It’s common to hear there’s ‘no money’ in healthcare. But sometimes it’s management that’s lacking | Ranjana Srivastava",
-            "zh": "人们经常听到医疗保健领域“没有钱”。但有时缺乏的是管理|兰加纳·斯里瓦斯塔瓦"
+            "en": "Birthkeeper hired by woman who died after freebirth tells inquest she was ‘not there to make a birth safer’",
+            "zh": "自由分娩后死亡的妇女雇用的接生员告诉调查，她“不是在那里让分娩更安全”"
           },
           "summary": {
-            "en": "A report into Melbourne’s Cohealth showed systemic problems were left unaddressed for a decade, while ideas from clinicians went ignored One cancer patient is advised to increase fluids, another sent an electronic script, and a third consoled. All have been saved from an...",
+            "en": "Emily Lal – paid $6,000 to provide freebirth support package to Stacey Warnecke – tells coroner her role was primarily to be a ‘supportive friend’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A birthkeeper...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Emily Lal – paid $6,000 to provide freebirth support package to Stacey Warnecke – tells coroner her role was primarily to be a ‘supportive friend’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A birthkeeper hired by a woman who died after giving birth at home has told a coroner that she was “not there to make a birth safer”. Emily Lal gave evidence on Tuesday at the inquest into the death of 30-year-old Stacey Warnecke, who died on 29 September in Frankston hospital after giving birth at home with her husband and Lal present. Continue reading...",
+            "zh": "艾米莉·拉尔 (Emily Lal) 支付了 6,000 澳元为史黛西·沃内克 (Stacey Warnecke) 提供免费分娩支持包，她告诉验尸官，她的角色主要是成为“支持性朋友” 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一名在家中分娩后死亡的妇女雇用的一名接生员告诉验尸官，她“不是为了让分娩更安全”。周二，艾米丽·拉尔 (Emily Lal) 在 30 岁的史黛西·沃内克 (Stacey Warnecke) 死亡调查中提供了证据。 9 月 29 日，史黛西·沃内克 (Stacey Warnecke) 在弗兰克斯顿医院分娩后去世，她的丈夫和拉尔在场。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-16-paedophile-teacher-willia",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/16/paedophile-teacher-william-rob-gilfillan-sentenced-crimes-sex-offences-school-girls-victoria-1980s-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/9b98427a63c5a7e43cd10797b05627bd25756889/187_0_3367_2694/master/3367.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce46c8b0ddadcf8078c428d8359bd9d8",
+          "publishedAt": "2026-06-16T05:37:57.000Z",
+          "title": {
+            "en": "Paedophile teacher William ‘Rob’ Gilfillan sentenced for sexual offences against two Victorian schoolgirls in the 1980s",
+            "zh": "恋童癖教师 William ‘Rob’ Gilfillan 因 20 世纪 80 年代对两名维多利亚女学生的性犯罪而被判刑"
+          },
+          "summary": {
+            "en": "Former PE teacher will serve time for crimes perpetrated at Traralgon high school in Gippsland concurrently with prior 48-year sentence Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A former physical education...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Former PE teacher will serve time for crimes perpetrated at Traralgon high school in Gippsland concurrently with prior 48-year sentence Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A former physical education teacher serving Australia’s longest sentence for child sexual abuse offences against his daughter has been sentenced to seven-and-a-half years for “brazen and forcible” sexual crimes against two schoolgirls in his care in the 1980s. In December, William “Rob” Gilfillan was found guilty of indecent assault of a person under 16 and sexual penetration of a child under 16. The five counts against two victims took place at Traralgon high school in Gippsland, Victoria. Continue reading...",
+            "zh": "前体育教师将因在吉普斯兰 Traralgon 高中犯下的罪行而服刑，同时被判 48 年徒刑。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一名前体育教师因对女儿实施儿童性虐待罪而服刑，是澳大利亚最长的刑期，他因 20 世纪 80 年代对他照顾的两名女学生实施“无耻和强迫”性犯罪而被判处七年半监禁。去年 12 月，William“Rob”Gilfillan 被判猥亵 16 岁以下儿童和性侵 16 岁以下儿童罪。针对两名受害者的五项指控发生在维多利亚州吉普斯兰的 Traralgon 高中。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-16-rba-interest-rate-announc",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation",
+          "image": "https://i.guim.co.uk/img/media/ad9458b435a1bdd8e0112e69f503b28a9f4c1e92/415_0_4102_3281/master/4102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7aaade4539da860869c52be855141d6",
+          "publishedAt": "2026-06-16T05:23:37.000Z",
+          "title": {
+            "en": "RBA interest rates: Reserve Bank holds official cash rate at 4.35% as economy slows and unemployment rises",
+            "zh": "澳洲联储利率：由于经济放缓和失业率上升，澳洲联储将官方现金利率维持在 4.35%"
+          },
+          "summary": {
+            "en": "Reserve Bank of Australia decision on Tuesday comes after three consecutive cash rate hikes this year Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Reserve Bank has warned it is ready to raise interest...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Reserve Bank of Australia decision on Tuesday comes after three consecutive cash rate hikes this year Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Reserve Bank has warned it is ready to raise interest rates further despite leaving its official interest rate on hold at 4.35%. The widely expected decision on Tuesday will bring little relief to mortgage holders, already strained by the RBA’s three consecutive rate hikes earlier in 2026. Continue reading...",
+            "zh": "澳大利亚储备银行在今年连续三次加息后于周二做出决定 关注我们的澳大利亚新闻直播博客以获取最新更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 储备银行警告称，尽管将官方利率维持在 4.35%，但已准备好进一步加息。人们普遍预期周二的决定不会给抵押贷款持有人带来多少缓解，抵押贷款持有人已经因澳大利亚央行在 2026 年初连续三次加息而紧张。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-16-grilld-burger-chain-sued-",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/16/grilld-burger-chain-sued-over-alleged-greenwashing-by-consumer-watchdog",
+          "image": "https://i.guim.co.uk/img/media/f985267f6f8d863fe2dbec0b495901ea8c77aaff/364_0_5481_4388/master/5481.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0699d12013df149c5cfb1e3e448c4adb",
+          "publishedAt": "2026-06-16T04:19:23.000Z",
+          "title": {
+            "en": "Grill’d burger chain sued over alleged greenwashing by consumer watchdog",
+            "zh": "Grill'd 汉堡连锁店因消费者监管机构涉嫌“绿色清洗”而被起诉"
+          },
+          "summary": {
+            "en": "Australian Competition and Consumer Commission launches federal court action against restaurant over Tree Day Tuesday campaign Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The consumer regulator has sued...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Australian Competition and Consumer Commission launches federal court action against restaurant over Tree Day Tuesday campaign Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The consumer regulator has sued Grill’d over allegations the burger chain engaged in greenwashing by dramatically overstating how much money it was donating towards one of its key environmental campaigns. The Australian Competition and Consumer Commission (ACCC) on Tuesday announced it had launched federal court action against Grill’d, alleging it misrepresented its Tree Day Tuesday campaign for more than three years. Continue reading...",
+            "zh": "澳大利亚竞争和消费者委员会对周二树木日活动对餐厅提起联邦法院诉讼 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 消费者监管机构已起诉 Grill’d，指控这家汉堡连锁店大幅夸大了其为其一项关键环保活动捐赠的资金，从而参与了“洗绿”活动。澳大利亚竞争与消费者委员会 (ACCC) 周二宣布，已对 Grill’d 提起联邦法院诉讼，指控其在三年多的时间里歪曲了“周二树日”活动。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-commentisfree-2026-jun-16-as-one-nations-surges-in-t",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/16/as-one-nations-surges-in-the-polls-im-so-heartened-by-australias-love-for-nestory-irankunda",
+          "image": "https://i.guim.co.uk/img/media/9a9904e685685c98ce1795b32a6241bfdbaf36a4/0_154_4416_3533/master/4416.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2e01c2de6c519113cdf3976031dedc26",
+          "publishedAt": "2026-06-16T04:17:24.000Z",
+          "title": {
+            "en": "As One Nations surges in the polls, I’m so heartened by Australia’s love for Nestory Irankunda | Bertin Huynh",
+            "zh": "随着“一国党”在民调中的支持率飙升，澳大利亚对 Nestory Irankunda 的喜爱令我深受鼓舞 |贝尔廷·黄"
+          },
+          "summary": {
+            "en": "We must remember he’s only 20 years old. It’s unfair to place the fate of multiculturalism on his shoulders The last time I wrote about refugees, I kept getting a certain type of comment. That people like my parents were the right kind of refugee. The good ones. Deserving of a...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "A report into Melbourne’s Cohealth showed systemic problems were left unaddressed for a decade, while ideas from clinicians went ignored One cancer patient is advised to increase fluids, another sent an electronic script, and a third consoled. All have been saved from an emergency presentation by the timely intervention of a nurse – in just the first hour of the day. So, imagine my dismay when she warns me that her clinic will close for several weeks when she takes overdue leave. Thinking selfishly of my neediest patients, I ask why there’s no cover. Ranjana Srivastava is an Australian oncologist, award-winning author and Fulbright scholar. Her latest book is Every Word Matters: Writing to Engage the Public Continue reading...",
-            "zh": "墨尔本 Cohealth 的一份报告显示，系统性问题十年来一直没有得到解决，而临床医生的想法也被忽视。一名癌症患者被建议增加液体摄入量，另一名癌症患者发送了电子脚本，第三名则得到了安慰。在护士的及时干预下，所有人都从紧急情况中解救出来——就在当天的第一个小时。因此，想象一下，当她警告我，当她逾期休假时，她的诊所将关闭数周，我会感到多么沮丧。自私地想到我最需要帮助的病人，我问为什么没有保险。 Ranjana Srivastava 是澳大利亚肿瘤学家、获奖作家和富布赖特学者。她的最新著作是《每个字都很重要：写作吸引公众》继续阅读..."
+            "en": "We must remember he’s only 20 years old. It’s unfair to place the fate of multiculturalism on his shoulders The last time I wrote about refugees , I kept getting a certain type of comment. That people like my parents were the right kind of refugee. The good ones. Deserving of a place in Australia. On Sunday, as I watched Australia play Turkey in the World Cup among a crowd gathered in Melbourne’s Federation Square, I wondered if the same standard would be applied. Then Nestory Irankunda scored the first of two world-class goals. Turkey, despite having possession of the ball for most of the match, lost. The crowd went wild. Continue reading...",
+            "zh": "我们必须记住他只有20岁。把多元文化的命运放在他的肩上是不公平的。上次我写关于难民的文章时，我不断收到某种类型的评论。像我父母这样的人是合适的难民。好的人。值得在澳大利亚占有一席之地。周日，当我在墨尔本联邦广场聚集的人群中观看澳大利亚队在世界杯上对阵土耳其队时，我想知道是否会采用同样的标准。随后内斯托里·伊兰昆达 (Nestory Irankunda) 打进了两个世界级进球中的第一个。尽管土耳其在比赛的大部分时间里都控球，但还是输了。人群变得疯狂。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
@@ -1155,57 +1315,57 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-media-2026-jun-16-digital-news-australia-2026-newspa",
+          "id": "www-sbs-com-au-news-live-blog-rba-june-2026-interest-rates-decision-live",
           "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/media/2026/jun/16/digital-news-australia-2026-newspapers-radio-tv-social-media-tiktok-facebook-instagram",
-          "image": "https://i.guim.co.uk/img/media/965f889ab9e70780bd3123c0368008c6642ffbfc/526_0_3747_2999/master/3747.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4254a94e9f539b90e2884bd13453a7d3",
-          "publishedAt": "2026-06-15T23:00:38.000Z",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/live-blog/rba-june-2026-interest-rates-decision-live/ntpgs9xc6",
+          "image": "https://assets.sbs.com.au/dims4/default/96b3c3f/2147483647/strip/false/crop/5451x2505+0+476/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F3d%2F0d%2F7eb90b244b0dbe325b7c06f8f6be%2F20260505176581635915-original.jpg",
+          "publishedAt": "2026-06-16T02:48:02.000Z",
           "title": {
-            "en": "Most Australians under 25 have never used newspapers or radio as a source of news, survey finds",
-            "zh": "调查发现，大多数 25 岁以下的澳大利亚人从未使用报纸或广播作为新闻来源"
+            "en": "Live updates: RBA Governor's warning on Australia's growth, as rates held",
+            "zh": "实时更新：澳洲联储行长对澳大利亚经济增长发出警告，因为利率不变"
           },
           "summary": {
-            "en": "But overall interest in news has increased, particularly among women and young people, 2026 Digital News Report finds Follow our Australia news live blog for latest updates Sign up for Guardian Australia’s free weekly media newsletter here The majority of Australian adults under...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "Reserve Bank of Australia governor Michelle Bullock is set to speak at a press conference explaining the decision on Tuesday afternoon.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "But overall interest in news has increased, particularly among women and young people, 2026 Digital News Report finds Follow our Australia news live blog for latest updates Sign up for Guardian Australia’s free weekly media newsletter here The majority of Australian adults under 25 have never used newspapers or radio as a source of news, according to the 2026 Digital News Report which tracks the changing habits of news consumers. However, overall interest in news has increased, in particular among women and young people, after years of decline. Since 2024, the interest of 18 to 24-year-olds in news has risen sharply (+12) to 47%. Continue reading...",
-            "zh": "但总体而言，人们对新闻的兴趣有所增加，尤其是女性和年轻人。2026 年数字新闻报道发现，关注我们的澳大利亚新闻直播博客，了解最新动态。在此处注册《卫报》澳大利亚版免费每周媒体通讯。根据追踪新闻消费者习惯变化的 2026 年数字新闻报道，大多数 25 岁以下的澳大利亚成年人从未使用报纸或广播作为新闻来源。然而，在经历了多年的下降之后，人们对新闻的整体兴趣有所增加，尤其是女性和年轻人。自 2024 年以来，18 至 24 岁人群对新闻的兴趣急剧上升 (+12) 至 47%。继续阅读..."
+            "en": "RBA governor Michele Bullock says bringing inflation back under control will not reverse the price increases Australians have already experienced, warning lower inflation does not automatically mean lower prices.\n\nSpeaking after the Reserve Bank left interest rates unchanged at 4.35 per cent, Bullock said one of the biggest misconceptions about inflation is that easing price growth returns the cost of living to previous levels.\n\n\"We have permanently higher prices for everything because of the inflation we have experienced in the past,\" she said.\n\nBullock said the goal of monetary policy is to return inflation to a low and stable rate so households and businesses are no longer experiencing large ongoing increases in prices.\n\nShe stressed the Reserve Bank remained focused on employment outcomes but argued failing to control inflation would ultimately require stronger intervention and create worse outcomes for the labour market.\n\nBullock also said productivity remained an important long-term constraint on growth and wages, warning the economy could not sustainably expand much faster than around 2 per cent without generating inflation pressure.\n\nThe governor said businesses had also reported continued pressure to lift prices since the conflict in the Middle East began, particularly in sectors such as construction, although demand conditions were limiting how much of those costs could be passed on.",
+            "zh": "澳洲联储行长米歇尔·布洛克表示，让通胀重新受到控制不会扭转澳大利亚人已经经历的物价上涨，并警告称，较低的通胀并不自动意味着较低的物价。 在储备银行将利率维持在 4.35% 不变后，布洛克表示，对通胀最大的误解之一是，物价增长放缓会使生活成本回到之前的水平。 “由于我们过去经历过通货膨胀，我们所有东西的价格都永久上涨，”她说。 布洛克表示，货币政策的目标是使通货膨胀率恢复到较低且稳定的水平，以便家庭和企业不再经历物价的大幅持续上涨。 她强调，储备银行仍然关注就业结果，但认为未能控制通胀最终将需要更强有力的干预，并给劳动力市场带来更糟糕的结果。 布洛克还表示，生产率仍然是经济增长和工资的一个重要的长期制约因素，并警告说，在不产生通胀压力的情况下，经济不可能以超过2%左右的速度持续增长。 州长表示，自中东冲突开始以来，企业也报告了持续的提价压力，特别是在建筑等行业，尽管需求状况限制了这些成本可以转嫁的程度。"
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-jun-16-morning-mail-tuesday-ntwn",
+          "id": "www-sbs-com-au-news-article-shaun-evans-world-cup-referee-white-power-ge",
           "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/16/morning-mail-tuesday-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/55a0791b8e320881ea243a659e45f0550aa9de08/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66b836a908a3e8141aebdaa02d63f101",
-          "publishedAt": "2026-06-15T20:42:41.000Z",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/shaun-evans-world-cup-referee-white-power-gesture-cleared/hdrhammtw",
+          "image": "https://assets.sbs.com.au/dims4/default/c75fd16/2147483647/strip/false/crop/555x255+0+308/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F47%2F35%2F503b84c046a3adc27c45942ace51%2Fshaun-evans-game-vid-sbs-cropped.png",
+          "publishedAt": "2026-06-16T00:55:54.000Z",
           "title": {
-            "en": "Morning Mail: The unsolved death of Baby Justin, One Nation official’s racist posts, Cape Verde’s Cup heroics",
-            "zh": "早间邮报：贾斯汀宝宝之死悬而未决、一国党官员的种族主义帖子、佛得角杯赛英雄事迹"
+            "en": "Australian World Cup referee Shaun Evans cleared over alleged 'white power' gesture",
+            "zh": "澳大利亚世界杯裁判肖恩·埃文斯因涉嫌“白人权力”姿态而被澄清"
           },
           "summary": {
-            "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here, and finish your day with our Afternoon Update newsletter Morning everyone. Today we reveal new information about the death of Baby Justin, a five-month-old who sustained catastrophic head injuries...",
+            "en": "FIFA cleared Shaun Evans after he denied deliberately making the gesture, calling it an \"involuntary twitch\".",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Afternoon Update newsletter Morning everyone. Today we reveal new information about the death of Baby Justin, a five-month-old who sustained catastrophic head injuries in the arms of his father. An investigation by Guardian Australia’s Broken trust team raises questions about why an inquest was never held into the infant’s suspicious death. We have another exclusive this morning about a One Nation official with a history of racist social media posts, and we talk to Coogee locals about the impact of the weekend shark attack. ‘Tragic situation’ | The family of the woman critically injured in Saturday’s shark attack at Coogee Beach are still coming to terms with the catastrophic scope of her injuries and the heartbreaking impact on her toddler, as they face a looming battle for her survival. At Coogee, the horrific attack has made locals think twice about going in the water. Exclusive | A man who has defended the Hitler Youth organisation and used offensive and racist language about Aboriginal people and migrants is working as a policy development officer for One Nation in Queensland. ‘Terror plot’ | A Brisbane private schoolboy allegedly plotted terrorist attacks against the Liberal party and Brisbane’s Labour Day march in 2024 after being influenced by the Unabomber. Video review | Fifa’s discrimination monitor at the World Cup has called for the Australian video assistant referee (VAR) Shaun Evans to be removed from duties for appearing to make a hand gesture resembling a white supremacist sign. British Accent? | The British retail billionaire Mike Ashley has launched his second takeover bid in a week, attempting to snap up Australian footwear business Accent Group, days after announcing a tilt at Hugo Boss. Continue reading...",
-            "zh": "想每个工作日将其发送到您的收件箱吗？在这里注册《晨报》，并通过我们的下午更新时事通讯结束您的一天。大家早上好。今天，我们公布了有关婴儿贾斯汀死亡的新信息，婴儿贾斯汀是一个五个月大的孩子，他在父亲的怀里遭受了灾难性的头部受伤。澳大利亚卫报失信小组的一项调查引发了人们的疑问，为什么从未对婴儿的可疑死亡进行调查。今天早上我们还有另一则独家报道，内容是关于一位曾在社交媒体上发表种族主义帖子的一国党官员，我们还与库吉当地人讨论了周末鲨鱼袭击事件的影响。 “悲惨的情况” |周六库吉海滩鲨鱼袭击事件中受重伤的妇女的家人仍在接受她所受的灾难性伤害以及对她蹒跚学步的孩子造成的令人心碎的影响，因为他们面临着一场迫在眉睫的生存之战。在库吉，这起可怕的袭击事件让当地人在是否下水之前三思而后行。独家|一名为希特勒青年组织辩护并对原住民和移民使用攻击性和种族主义语言的男子目前担任昆士兰州一国党的政策制定官员。 “恐怖阴谋” |据称，一名布里斯班私立男学生在受到大学炸弹客的影响后，策划了针对自由党和 2024 年布里斯班劳动节游行的恐怖袭击。视频回顾|国际足联世界杯歧视监察员要求澳大利亚视频助理裁判肖恩·埃文斯被免职，因为他的手势似乎与白人至上主义标志相似。英国口音？ |英国零售业亿万富翁迈克·阿什利 (Mike Ashley) 在一周内发起了第二次收购要约，试图收购澳大利亚鞋类企业 Accent Group，几天前他宣布收购 Hugo Boss。继续阅读..."
+            "en": "An Australian referee has been cleared by FIFA after being accused of making a gesture associated with white supremacy, amid calls for him to be stood down from the World Cup.\n\nDuring Monday's Germany v Cura&#xE7;ao match, video assistant referee Shaun Evans was filmed in the VAR hub making an upside-down 'OK' symbol with his fingers against his thigh.\n\nThe symbol has been designated a hate symbol by the New York-based Anti-Defamation League (ADL), and has been associated with far-right groups.\n\nIt also features in the so-called \"circle game\" &#x2014; a longstanding prank where someone flashes the sign below the waist, and anyone who looks at it gets punched in the shoulder.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe gesture was co-opted a decade ago as a signal of white power, with three remaining fingers said to resemble a 'W' and the index and thumb forming a 'P'.\n\nEvans, a 38-year-old Victorian and experienced A-League Men's referee, was one of the officials for Germany's 7-1 win over Cura&#xE7;ao.\n\nHe has denied any deliberate intent and said he wasn't aware of the gesture's history.\n\n\"I would like to clarify that I did not intentionally make a hand gesture or symbol to communicate a message, affiliation, game or belief of any kind,\" Evans said in a statement.\n\n\"The only explanation I can offer is that the movement was an involuntary, subconscious twitch, and I was unaware I had done it at the time. Images taken later during the match showed that I repeated this movement many times while holding a pen between my fingers.\n\n\"The coverage following this incident simply does not reflect who I am. Of course, I understand how the gesture has been interpreted, and I regret this.\"\n\n\"However, I want to be very clear and categorically say that I did not knowingly or deliberately make the hand symbol suggested.\n\n\"Officiating at the World Cup is the biggest honour of my career and I look forward to supporting my colleagues for the rest of the tournament.\"\n\nThe Fare network, a long-time partner of FIFA and European football body UEFA to monitor racist and discriminatory chants, flags and symbols at international games, had called for Evans to be removed from the tournament.\n\n\"Advice from our experts is that the gesture used clearly resembles an upside-down 'OK' hand symbol used as a white power symbol in global far-right circles,\" Fare said in a statement.\n\n\"FIFA's independent disciplinary committee can confirm that, after looking into the matter involving support video assistant referee Shaun Evans, it has found no evidence of breaches of the FIFA disciplinary code,\" the game's governing body said in a statement.\n\nFor the latest from SBS News, download our...",
+            "zh": "一名澳大利亚裁判因被指控做出与白人至上有关的手势而被国际足联批准，并呼吁他退出世界杯。 在周一德国队对阵库拉索岛队的比赛中，视频助理裁判肖恩·埃文斯被拍到在 VAR 中心用手指抵住大腿做出了一个倒置的“OK”符号。 该符号已被总部位于纽约的反诽谤联盟 (ADL) 指定为仇恨符号，并与极右团体有关。 它还出现在所谓的“圆圈游戏”中，这是一种由来已久的恶作剧，有人在腰部以下闪烁标志，任何看到它的人都会被打在肩膀上。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 十年前，这个手势被选为白人权力的信号，据说剩下的三个手指类似于“W”，食指和拇指形成“P”。 埃文斯是一位 38 岁的维多利亚女王，拥有丰富的 A 联赛男子裁判经验，是德国 7-1 战胜库拉索岛的裁判之一。 他否认有任何故意的意图，并表示他不知道这一手势的历史。 埃文斯在一份声明中说：“我想澄清，我并不是故意做出手势或符号来传达任何形式的信息、归属、游戏或信仰。” “我能提供的唯一解释是，这个动作是一种无意识的、潜意识的抽搐，我当时并没有意识到自己做了这个动作。后来在比赛中拍摄的照片显示，我在手指间握着一支笔时多次重复了这个动作。 “对这一事件的报道根本不能反映我是谁。当然，我理解这个手势是如何被解读的，我对此感到遗憾。” “但是，我想非常明确、明确地说，我并不是故意或故意提出手形符号的。 “担任世界杯裁判是我职业生涯中最大的荣誉，我期待着在余下的比赛中为我的同事们提供支持。” Fare网络是国际足联和欧洲足球机构欧足联的长期合作伙伴，负责监控国际比赛中的种族主义和歧视性口号、旗帜和符号，该网络曾呼吁将埃文斯从比赛中除名。 费尔在一份声明中说：“我们专家的建议是，所使用的手势显然类似于全球极右圈子中用作白人权力象征的倒置‘OK’手势。” 国际足联独立纪律委员会可以确认，在调查了涉及视频助理裁判肖恩·埃文斯的事件后，没有发现任何违反国际足联纪律守则的证据，”国际足联管理机构在一份声明中表示。 有关 SBS 新闻的最新消息，请下载我们的..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1250,39 +1410,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-ng-interactive-2026-jun-16-broken-tru",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/jun/16/broken-trust-baby-justin-sustained-catastrophic-head-injuries-in-his-fathers-arms-case-disappeared-queensland-police-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/55a0791b8e320881ea243a659e45f0550aa9de08/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66b836a908a3e8141aebdaa02d63f101",
-          "publishedAt": "2026-06-15T15:00:30.000Z",
-          "title": {
-            "en": "Baby Justin sustained ‘catastrophic head injuries’ in his father’s arms. Then his case just disappeared",
-            "zh": "婴儿贾斯汀在父亲的怀里遭受了“灾难性的头部伤害”。然后他的案子就消失了"
-          },
-          "summary": {
-            "en": "Exclusive: An autopsy of the five-month-old revealed dozens of older injuries, including fractured ribs. Yet no one has been charged and no inquest has been held into his death Mason Lee was punched so hard his bowel ruptured. New evidence reveals police ignored repeated...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Exclusive: An autopsy of the five-month-old revealed dozens of older injuries, including fractured ribs. Yet no one has been charged and no inquest has been held into his death Mason Lee was punched so hard his bowel ruptured. New evidence reveals police ignored repeated warnings about toddler’s killer Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In March 2017, the death of a baby boy “known to child safety” sets in motion a frantic few days. Television cameras and uniformed police camp outside the old weatherboard and tin house in Yeppoon where five-month-old Justin* sustained “catastrophic head injuries” while in the arms of his father: an intravenous drug user with a history of paranoia, alleged child abuse and domestic violence. Continue reading...",
-            "zh": "独家：对这个五个月大婴儿的尸检发现了数十处旧伤，包括肋骨骨折。然而，没有人受到指控，也没有对他的死亡进行任何调查。梅森·李(Mason Lee)受到重击，导致肠子破裂。新证据显示警方无视有关幼儿杀手的多次警告 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 2017 年 3 月，一名“以儿童安全闻名”的男婴的死亡引发了几天的疯狂事件。耶蓬的旧挡风板和铁皮屋外有电视摄像机和穿制服的警察营地，五个月大的贾斯汀*在他父亲的怀里遭受了“灾难性的头部伤害”：他的父亲是一名静脉注射吸毒者，有偏执狂、涉嫌虐待儿童和家庭暴力的历史。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
@@ -1371,40 +1498,7 @@
           },
           "body": {
             "en": "United States President Donald Trump's declaration that a peace agreement has been reached with Iran has raised hopes of easing pressure on global energy markets and reducing one source of inflation risk.\n\n\"The Deal with the Islamic Republic of Iran is now complete. Congratulations to all! Ships of the World, start your engines. Let the oil flow!\" Trump posted on his Truth Social platform on Monday.\n\nThe agreement, expected to be formally signed in Switzerland on Friday, includes plans to reopen the Strait of Hormuz , a narrow shipping corridor through which around one-fifth of the world's oil supply normally passes.\n\nBut analysts say that for Australia, that matters less because of where the country buys its oil and more because of how global energy and shipping markets operate.\n\nWhile easing tensions may remove one source of pressure on fuel and inflation, analysts caution any economic benefits for Australians will depend on whether the agreement holds and how quickly normal trade conditions resume.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nWhile Australia does not directly import oil from Iran, households are not insulated from instability in the Middle East.\n\nProfessor Tim Harcourt, chief economist at the University of Technology Sydney, told SBS News that energy markets remained globally connected and disruptions quickly flowed across borders.\n\n\"Oil prices set world markets and flow through right around the world,\" he said.\n\nHarcourt said the Strait of Hormuz was one of several globally significant trade corridors and disruptions had consequences extending well beyond energy.\n\n\"When you affect those trade routes, you see delays but also higher prices because of supply shortages.\"\n\nProfessor Ben Fahimnia, chair of supply chain management at the University of Sydney, said markets respond not only to actual disruptions but also to expectations about future risk.\n\n\"The reported easing of tensions and reopening of the Strait of Hormuz will place some downward pressure on global oil prices, assuming the agreement holds and markets gain confidence that major supply disruptions are less likely.\n\n\"However, energy markets react not only to actual disruptions but also to perceived risks, so some volatility may remain in the short term.\"\n\nFahimnia said disruptions in shipping routes could eventually flow through to households via freight, supermarket prices, transport costs and business operating expenses, but the relief wouldn't be imminent.\n\nProfessor Richard Holden, vice chancellor's professorial fellow and chief economist at UNSW Sydney, said oil remained globally priced regardless of where Australia sourced supply.\n\n\"When supply is constrained, oil goes up,...",
-            "zh": "美国总统唐纳德·特朗普宣布已与伊朗达成和平协议，这引发了缓解全球能源市场压力并减少通胀风险来源之一的希望。 “与伊朗伊斯兰共和国的协议现已完成。祝贺所有人！世界上的船只，启动你们的引擎。让石油流动！”特朗普周一在他的真相社交平台上发帖。 该协议预计将于周五在瑞士正式签署，其中包括重新开放霍尔木兹海峡的计划，霍尔木兹海峡是一条狭窄的航运走廊，全球约五分之一的石油供应通常都要经过该海峡。 但分析人士表示，对澳大利亚来说，这并不重要，因为该国在哪里购买石油，而更重要的是全球能源和航运市场的运作方式。 虽然缓解紧张局势可能会消除燃料和通胀压力的一个来源，但分析师警告称，澳大利亚人的任何经济利益将取决于该协议是否有效以及正常贸易条件恢复的速度。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 尽管澳大利亚不直接从伊朗进口石油，但家庭也无法免受中东不稳定局势的影响。 悉尼科技大学首席经济学家蒂姆·哈考特教授告诉 SBS 新闻，能源市场仍然在全球范围内保持联系，中断很快就会跨越国界。 “石油价格决定了世界市场并在世界各地流通，”他说。 哈考特表示，霍尔木兹海峡是几个全球重要的贸易走廊之一，中断的影响远远超出了能源领域。 “当你影响这些贸易路线时，你会看到延误，但由于供应短缺，价格也会上涨。” 悉尼大学供应链管理系主任本·法希姆尼亚教授表示，市场不仅对实际的中断做出反应，而且对未来风险的预期做出反应。 “据报道，紧张局势的缓和和霍尔木兹海峡的重新开放，将给全球油价带来一定的下行压力，前提是该协议得以维持，并且市场对重大供应中断的可能性较小有信心。 “然而，能源市场不仅对实际的中断做出反应，而且对感知的风险也做出反应，因此短期内可能仍会出现一些波动。” 法希姆尼亚表示，航线中断最终可能会通过货运、超市价格、运输成本和企业运营费用影响到家庭，但救济不会立即得到解决。 悉尼新南威尔士大学副校长教授研究员兼首席经济学家理查德·霍尔登教授表示，无论澳大利亚从何处采购石油，石油价格仍保持全球定价。 “当供应受到限制时，石油就会上涨，......"
-          },
-          "reflection": {
-            "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到合一、和好与弥合分歧。Ephesians 4:3提醒我们，在快速变化的新闻里，仍要以缔造和平与搭建桥梁来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Galatians 3:28",
-            "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
-            "textZh": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
-            "themeEn": "One in Christ",
-            "themeZh": "基督里合一"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-albanese-us-iran-peace-deal-details-hokha236",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/albanese-us-iran-peace-deal-details/hokha236a",
-          "image": "https://assets.sbs.com.au/dims4/default/a9d8657/2147483647/strip/false/crop/6291x2891+0+652/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F4e%2F6e%2F09de69c74b51845e8d57723af55f%2F20260608199573852840-original.jpg",
-          "publishedAt": "2026-06-15T01:57:22.000Z",
-          "title": {
-            "en": "'Use this opportunity': Anthony Albanese reacts as details of US-Iran peace deal emerge",
-            "zh": "“利用这个机会”：安东尼·阿尔巴内塞在美伊和平协议细节浮出水面后做出反应"
-          },
-          "summary": {
-            "en": "Here's what we know about the deal so far, as some countries signal they could ease sanctions on the Middle Eastern nation.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及合一、和好与弥合分歧。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Prime Minister Anthony Albanese and Foreign Minister Penny Wong are calling on the United States and Iran to \"use this opportunity\" to restore stability ahead of the expected signing of a peace deal on Friday.\n\nOn Monday, the US and Iran announced they had reached a long-awaited agreement that could effectively end the war that started in late February.\n\nIn a joint statement, Albanese and Wong welcomed moves to reopen the Strait of Hormuz following the successful inking of the deal.\n\n\"While full recovery will take time, restoring this vital trade corridor is essential to easing pressure on energy prices and economies, including in our region,\" they said.\n\n\"We encourage all parties to use this opportunity to pursue a durable and lasting peace through dialogue and diplomacy. Iran must address longstanding concerns about its nuclear program and the threat it poses to international security.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIran has repeatedly denied it is pursuing nuclear weapons and has said its nuclear program is for civilian energy purposes.\n\nAustralia joins the United Kingdom, Japan, and European leaders in welcoming news of a potential deal, with some prepared to ease sanctions on Iran if a nuclear agreement is reached.\n\nThe memorandum of understanding is set to be signed in Geneva, Switzerland, on Friday. The memorandum will set the stage for more expansive talks during the 60-day ceasefire.\n\nThe ceasefire will include Lebanon, according to Iran's deputy foreign minister Kazeem Gharibabadi and Pakistan's Prime Minister Shehbaz Sharif.\n\nLebanon has been a point of tension in peace talks as strikes between Israel and Hezbollah &#x2014; a Lebanese political party and militant group, which Australia deems a terrorist group &#x2014; have continued despite a ceasefire .\n\nIt's understood Iran will be represented at the signing by General Mohammad Bagher Ghalibaf, who has been chief negotiator of the talks, along with foreign minister Abbas Araghchi.\n\nUS vice president JD Vance will sign on behalf of his country, making Friday's event the most significant meeting between the two countries since diplomatic relations were cut during the Islamic Revolution in 1979.\n\nTerms of the deal haven't been released to the public, but the Reuters news agency has reported that a draft deal includes the US agreeing to release US$25 billion ($35 billion) in frozen Iranian assets.\n\nBoth the US and Iran have announced the Strait of Hormuz would open on Friday following the deal's signing. The crucial waterway, through which around one-fifth of the world's oil normally passes, has been effectively closed since late February.\n\nAccording to Iran's national security...",
-            "zh": "总理安东尼·阿尔巴内塞和外交部长黄英贤呼吁美国和伊朗“利用这个机会”在周五预计签署和平协议之前恢复稳定。 周一，美国和伊朗宣布他们达成了一项期待已久的协议，该协议可以有效结束二月底开始的战争。 在一份联合声明中，阿尔巴尼斯和黄对成功签署协议后重新开放霍尔木兹海峡的举措表示欢迎。 他们表示：“虽然全面复苏需要时间，但恢复这一重要的贸易走廊对于缓解能源价格和经济（包括我们地区）的压力至关重要。” “我们鼓励各方利用这个机会，通过对话和外交追求持久和平。伊朗必须解决对其核计划及其对国际安全构成的威胁的长期担忧。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 伊朗一再否认正在寻求核武器，并表示其核计划是用于民用能源目的。 澳大利亚与英国、日本和欧洲领导人一起欢迎可能达成协议的消息，一些人准备在达成核协议后放松对伊朗的制裁。 该谅解备忘录定于周五在瑞士日内瓦签署。该备忘录将为在 60 天停火期间进行更广泛的谈判奠定基础。 伊朗副外长卡齐姆·加里巴迪和巴基斯坦总理谢赫巴兹·谢里夫表示，停火将包括黎巴嫩。 黎巴嫩一直是和平谈判中的一个紧张点，因为以色列和真主党（黎巴嫩政党和激进组织，被澳大利亚视为恐怖组织）之间的袭击仍在继续，尽管已经停火。 据了解，伊朗将由谈判首席谈判代表穆罕默德·巴格尔·加利巴夫将军和外交部长阿巴斯·阿拉格奇代表伊朗出席签字仪式。 美国副总统万斯将代表美国签署协议，使周五的活动成为自 1979 年伊斯兰革命期间断绝外交关系以来两国之间最重要的会议。 该协议的条款尚未向公众公布，但据路透社报道，协议草案包括美国同意释放伊朗冻结的 250 亿美元（合 350 亿美元）资产。 美国和伊朗均宣布霍尔木兹海峡将于周五签署协议后开放。这条重要的水道通常是世界上约五分之一的石油通过的通道，但自二月底以来已被有效关闭。 据伊朗国家安全..."
+            "zh": "美国总统唐纳德·特朗普宣布已与伊朗达成和平协议，这引发了缓解全球能源市场压力并减少通胀风险来源之一的希望。 “与伊朗伊斯兰共和国的协议现已完成。祝贺所有人！世界上的船只，启动你们的引擎。让石油流动！”特朗普周一在他的真相社交平台上发帖。 该协议预计将于周五在瑞士正式签署，其中包括重新开放霍尔木兹海峡的计划，霍尔木兹海峡是一条狭窄的航运走廊，全球约五分之一的石油供应通常都要经过该海峡。 但分析人士表示，对澳大利亚来说，这并不重要，因为该国在哪里购买石油，而更重要的是全球能源和航运市场的运作方式。 虽然缓解紧张局势可能会消除燃料和通胀压力的一个来源，但分析师警告称，澳大利亚人的任何经济利益将取决于该协议是否有效以及正常贸易条件恢复的速度。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 尽管澳大利亚不直接从伊朗进口石油，但家庭也无法免受中东不稳定局势的影响。 悉尼科技大学首席经济学家蒂姆·哈考特教授告诉 SBS 新闻，能源市场仍然在全球范围内保持联系，中断很快就会跨越国界。 “石油价格决定了世界市场并在世界各地流通，”他说。 哈考特表示，霍尔木兹海峡是几个全球重要的贸易走廊之一，中断的影响远远超出了能源领域。 “当你影响这些贸易路线时，你会看到延误，但由于供应短缺，价格也会上涨。” 悉尼大学供应链管理系主任本·法希姆尼亚教授表示，市场不仅对实际的中断做出反应，而且对未来风险的预期做出反应。 “据报道，紧张局势的缓和和霍尔木兹海峡的重新开放，将给全球油价带来一定的下行压力，前提是该协议得以维持，并且市场对重大供应中断的可能性较小有信心。 “然而，能源市场不仅对实际的中断做出反应，而且对感知到的风险也做出反应，因此短期内可能仍会出现一些波动。” 法希姆尼亚表示，航线中断最终可能会通过货运、超市价格、运输成本和企业运营费用影响到家庭，但救济不会立即得到解决。 悉尼新南威尔士大学副校长教授研究员兼首席经济学家理查德·霍尔登教授表示，无论澳大利亚从何处采购石油，石油价格仍保持全球定价。 “当供应受到限制时，石油就会上涨，......"
           },
           "reflection": {
             "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
