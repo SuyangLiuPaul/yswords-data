@@ -15,10 +15,23 @@ import {
 	reuseDeepMatchFromCache,
 	KEYWORD_THEME_FALLBACK_VERSE_ID,
 	DEEP_MATCH_FEW_SHOT_EXAMPLES,
+	applyPreferredDivineName,
 } from '../scripts/refresh-news.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = join(__dirname, '..');
+
+test('applyPreferredDivineName: English (en) strips 雅伟 → Yahweh; Chinese keeps 雅伟', () => {
+	// English fields must never carry the Chinese divine name.
+	assert.equal(applyPreferredDivineName('Trust 雅伟 today', 'en'), 'Trust Yahweh today');
+	assert.equal(applyPreferredDivineName('the LORD reigns', 'en'), 'Yahweh reigns');
+	assert.equal(applyPreferredDivineName('耶和华 is faithful', 'en'), 'Yahweh is faithful');
+	// Chinese fields keep 雅伟 and normalise 耶和华 → 雅伟.
+	assert.equal(applyPreferredDivineName('信靠雅伟', 'zh'), '信靠雅伟');
+	assert.equal(applyPreferredDivineName('耶和华是好的', 'zh'), '雅伟是好的');
+	// Default lang is zh (back-compat with existing callers).
+	assert.equal(applyPreferredDivineName('耶和华是好的'), '雅伟是好的');
+});
 
 test('daily_news.json parses and has world/china/australia sections', () => {
 	const raw = readFileSync(join(repoRoot, 'data', 'daily_news.json'), 'utf8');

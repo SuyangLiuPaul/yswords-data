@@ -561,7 +561,7 @@ export function formatVerseFromCorpus(corpusVerse) {
 	const textZh = corpusVerse['textZh-Hans'] || corpusVerse.textZh || '';
 	return {
 		reference: corpusVerse.reference,
-		textEn: applyPreferredDivineName(corpusVerse.textEn || ''),
+		textEn: applyPreferredDivineName(corpusVerse.textEn || '', 'en'),
 		textZh: applyPreferredDivineName(textZh),
 		themeEn: corpusVerse.themeEn || '',
 		themeZh: corpusVerse.themeZh || '',
@@ -574,7 +574,7 @@ function formatVerseFromLegacyTheme(theme) {
 	const verse = theme?.verse || {};
 	return {
 		reference: verse.reference || '',
-		textEn: applyPreferredDivineName(verse.textEn || ''),
+		textEn: applyPreferredDivineName(verse.textEn || '', 'en'),
 		textZh: applyPreferredDivineName(verse.textZh || ''),
 		themeEn: verse.themeEn || '',
 		themeZh: verse.themeZh || '',
@@ -681,7 +681,7 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 		'- titleZh: a faithful Simplified-Chinese rendering of the headline.',
 		'- Stay sober, hopeful, pastoral — no political slogans, no triumphalism, no fear-mongering.',
 		'- Do not invent facts about the story; restrict yourself to what the title and summary say.',
-		'- Use 雅伟 (not 耶和华) when the chosen verse mentions YHWH; the runtime applies a final divine-name pass either way.',
+		'- Divine name: in the Chinese (zh) fields use 雅伟 (not 耶和华); in the English (en) fields use "Yahweh" — NEVER the Chinese 雅伟. The runtime applies a final divine-name pass either way.',
 		'',
 		'Worked examples of the editorial voice (not part of the answer):',
 		fewShotText,
@@ -760,9 +760,9 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 		}
 
 		const titleZh = cleanText(parsed.titleZh || '') || null;
-		const summaryEn = trimText(applyPreferredDivineName(cleanText(parsed.summaryEn || '')), 320) || null;
+		const summaryEn = trimText(applyPreferredDivineName(cleanText(parsed.summaryEn || ''), 'en'), 320) || null;
 		const summaryZh = trimText(applyPreferredDivineName(cleanText(parsed.summaryZh || '')), 160) || null;
-		const reflectionEn = trimText(applyPreferredDivineName(cleanText(parsed.reflectionEn || '')), 360) || null;
+		const reflectionEn = trimText(applyPreferredDivineName(cleanText(parsed.reflectionEn || ''), 'en'), 360) || null;
 		const reflectionZh = trimText(applyPreferredDivineName(cleanText(parsed.reflectionZh || '')), 180) || null;
 		// Body translation is filled by the free Google Translate
 		// pass downstream, not by Gemini. Always null here.
@@ -841,7 +841,7 @@ export function reuseDeepMatchFromCache(item, cachedItem, verseCorpus) {
 		? formatVerseFromCorpus(corpusVerse)
 		: {
 				reference: cachedItem.verse.reference,
-				textEn: applyPreferredDivineName(cachedItem.verse.textEn || ''),
+				textEn: applyPreferredDivineName(cachedItem.verse.textEn || '', 'en'),
 				textZh: applyPreferredDivineName(cachedItem.verse.textZh || ''),
 				themeEn: cachedItem.verse.themeEn || '',
 				themeZh: cachedItem.verse.themeZh || '',
@@ -1608,7 +1608,7 @@ async function buildStory(item, index, ctx = {}) {
 			zh: deep?.titleZh || fallbackTitleZh || null,
 		},
 		summary: {
-			en: applyPreferredDivineName(deep?.summaryEn ?? fallbackCopy.summary.en),
+			en: applyPreferredDivineName(deep?.summaryEn ?? fallbackCopy.summary.en, 'en'),
 			zh: applyPreferredDivineName(deep?.summaryZh ?? fallbackCopy.summary.zh),
 		},
 		// Long-form article body for the in-app detail-page reader.
@@ -1622,7 +1622,7 @@ async function buildStory(item, index, ctx = {}) {
 			zh: bodyZhResolved,
 		},
 		reflection: {
-			en: applyPreferredDivineName(deep?.reflectionEn ?? fallbackCopy.reflection.en),
+			en: applyPreferredDivineName(deep?.reflectionEn ?? fallbackCopy.reflection.en, 'en'),
 			zh: applyPreferredDivineName(deep?.reflectionZh ?? fallbackCopy.reflection.zh),
 		},
 		verse,
@@ -1761,9 +1761,9 @@ async function maybeEnrichWithAI(item, theme) {
 
 		const enriched = {
 			titleZh: cleanText(parsed.titleZh || '') || null,
-			summaryEn: trimText(applyPreferredDivineName(cleanText(parsed.summaryEn || '')), 280) || null,
+			summaryEn: trimText(applyPreferredDivineName(cleanText(parsed.summaryEn || ''), 'en'), 280) || null,
 			summaryZh: trimText(applyPreferredDivineName(cleanText(parsed.summaryZh || '')), 140) || null,
-			reflectionEn: trimText(applyPreferredDivineName(cleanText(parsed.reflectionEn || '')), 280) || null,
+			reflectionEn: trimText(applyPreferredDivineName(cleanText(parsed.reflectionEn || ''), 'en'), 280) || null,
 			reflectionZh: trimText(applyPreferredDivineName(cleanText(parsed.reflectionZh || '')), 140) || null,
 		};
 
@@ -1908,8 +1908,23 @@ export function trimText(value, limit) {
 	return `${trimmed.slice(0, lastSpace > 0 ? lastSpace : limit).trim()}...`;
 }
 
-export function applyPreferredDivineName(value) {
-	return String(value || '')
+export function applyPreferredDivineName(value, lang = 'zh') {
+	const s = String(value || '');
+	if (lang === 'en') {
+		// English copy must read "Yahweh". Collapse the LORD/Lord forms AND
+		// strip any Chinese divine name the model leaked into English text:
+		// the verse prompt asks for 雅伟, which sometimes bleeds into the
+		// English reflection / verse, leaving 雅伟 in the en fields.
+		return s
+			.replace(/\bthe LORD\b/g, 'Yahweh')
+			.replace(/\bThe LORD\b/g, 'Yahweh')
+			.replace(/\bthe Lord\b/g, 'Yahweh')
+			.replace(/\bThe Lord\b/g, 'Yahweh')
+			.replace(/耶和華|耶和华/g, 'Yahweh')
+			.replace(/雅偉|雅伟|雅威/g, 'Yahweh');
+	}
+	// Chinese copy: prefer the 雅伟版 rendering of the divine name.
+	return s
 		.replace(/\bthe LORD\b/g, 'Yahweh')
 		.replace(/\bThe LORD\b/g, 'Yahweh')
 		.replace(/\bthe Lord\b/g, 'Yahweh')
