@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-20T12:24:52.935Z",
-  "editionDate": "2026-06-20",
+  "generatedAt": "2026-06-20T15:01:17.105Z",
+  "editionDate": "2026-06-21",
   "sources": [
     {
       "name": "The Guardian World",
@@ -107,88 +107,20 @@
       "sourceNotes": [
         "The Guardian World",
         "BBC News World",
-        "SBS News World",
-        "DW World"
+        "DW World",
+        "SBS News World"
       ],
       "items": [
-        {
-          "id": "www-theguardian-com-world-2026-jun-20-colombia-presidential-election-par",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/jun/20/colombia-presidential-election-paramilitary-militia-runoff",
-          "image": "https://i.guim.co.uk/img/media/f582edc18880a8e1e14582718c9b69dd07cb29b1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8860f611d3471210127f91190d87c941",
-          "publishedAt": "2026-06-20T12:00:01.000Z",
-          "title": {
-            "en": "Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote",
-            "zh": "哥伦比亚总统决选笼罩在极右翼准军事组织的阴影之下"
-          },
-          "summary": {
-            "en": "Colombians are preparing for a presidential runoff election between two candidates with vastly different personal histories shaped by militias and opposing visions for the country. The election takes place under the lingering influence of far-right paramilitaries.",
-            "zh": "哥伦比亚人正准备进行总统决选，两位候选人的个人经历都深受民兵组织影响，对国家抱持截然不同的愿景。此次选举在极右翼准军事组织的阴影下进行。"
-          },
-          "body": {
-            "en": "Colombians will choose on Sunday between two men whose lives have been very differently shaped by the militias, and whose visions for the country are poles apart Whoever wins Sunday’s presidential runoff vote in Colombia, the country’s next leader will have a personal history intertwined with one of the criminal forces at the heart of a decades-long armed conflict that claimed nearly half a million lives. The lives of Iván Cepeda and Abelardo de la Espriella have, in very different ways, been shaped by their relationship with Colombia’s paramilitaries – private armies originally established by rightwing landowners, drug traffickers, businessmen, mining magnates and politicians to fight leftwing guerrilla groups. Continue reading...",
-            "zh": "周日，哥伦比亚人将在两名男子中做出选择，他们的生活因民兵的影响截然不同，他们对国家的愿景也截然不同。无论谁赢得周日哥伦比亚总统决选，该国的下一任领导人都将与处于长达数十年武装冲突核心的犯罪势力交织在一起，这场武装冲突夺走了近50万人的生命。伊万·塞佩达（Iván Cepeda）和阿韦拉多·德拉埃斯普里埃拉（Abelardo de la Espriella）的生活以截然不同的方式受到他们与哥伦比亚准军事部队的关系的影响。准军事部队最初是由右翼地主、毒贩、商人、矿业巨头和政客建立的，旨在打击左翼游击队组织。继续阅读..."
-          },
-          "reflection": {
-            "en": "As Colombia faces a pivotal election, the deep divisions and the lingering \"ghost\" of past violence remind us that societal struggles often run deeper than political contests. Yahweh's Word encourages us to recognize that true battles are often against unseen forces that perpetuate division and injustice, calling for a perspective beyond mere human...",
-            "zh": "哥伦比亚面临关键选举之际，深刻的分歧和过去暴力的“幽灵”提醒我们，社会斗争往往比政治竞争更为深远。雅伟的话语鼓励我们认识到，真正的争战常常是针对那些使分裂和不公持续存在的无形势力，呼吁我们超越单纯的人际对立来看待问题。"
-          },
-          "verse": {
-            "reference": "Ephesians 6:12",
-            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
-            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
-            "themeEn": "Not against flesh and blood",
-            "themeZh": "并非与血气争战"
-          },
-          "aiVerseId": "eph_6_12",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-technology-2026-jun-20-trump-elon-musk-peter-thiel-r",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/technology/2026/jun/20/trump-elon-musk-peter-thiel-retreat",
-          "image": "https://i.guim.co.uk/img/media/f6b73239d2dfde6cee8a23f1baf14a6422ae48cc/414_0_3258_2606/master/3258.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb135dc6fe7d402f155c197cff75d604",
-          "publishedAt": "2026-06-20T12:00:00.000Z",
-          "title": {
-            "en": "Key Trump allies and Musk on leaked list for secretive Peter Thiel retreat",
-            "zh": "特朗普关键盟友和马斯克被曝现身彼得·蒂尔的秘密务虚会名单"
-          },
-          "summary": {
-            "en": "A website leak has revealed the names of participants in the secretive Dialog retreats, founded by Peter Thiel. The exposed list includes prominent figures such as Jared Kushner, Scott Bessent, and top politicians from across the American political spectrum.",
-            "zh": "一次网站泄露事件曝光了彼得·蒂尔创立的秘密“对话”务虚会的参与者名单。这份被曝光的名单包括贾里德·库什纳、斯科特·贝森特以及来自美国两党的多位高级政治人物。"
-          },
-          "body": {
-            "en": "Figures including Jared Kushner and Scott Bessent named in directory of Dialog participants that was exposed online A website leak has exposed participants in the secretive, Peter Thiel-founded Dialog retreats which includes top politicians from across the American divide, officials from foreign countries, other titans of the tech industry world and prominent media figures. The annual Dialog retreats, which have been compared to other quasi-secret elite conferences like the Bilderberg Group and Bohemian Grove since they began in 2006, have had some participants revealed in previous media reports. Fairly little is known about the invitation-only event, which is usually held at luxury establishments around the world and features organized discussions on global affairs. Continue reading...",
-            "zh": "网上曝光的 Dialog 参与者名录中包括贾里德·库什纳 (Jared Kushner) 和斯科特·贝森特 (Scott Bessent) 在内的人物名单因网站泄露而曝光，彼得·蒂尔 (Peter Thiel) 创办的 Dialog 秘密静修会的参与者包括来自美国两岸的高级政客、外国官员、科技行业的其他巨头以及知名媒体人物。一年一度的对话务虚会自 2006 年开始以来一直被拿来与彼尔德伯格集团和波西米亚格罗夫等其他准秘密精英会议进行比较，之前的媒体报道中已经透露了一些参与者。人们对这一仅限受邀人士参加的活动知之甚少，该活动通常在世界各地的豪华场所举行，并以有组织的方式讨论全球事务。继续阅读..."
-          },
-          "reflection": {
-            "en": "News of a leaked list of attendees at a secretive retreat highlights the tension between private influence and public transparency. In a world where powerful figures often operate behind closed doors, the revelation of hidden truths can be a catalyst for greater understanding. Yahweh reminds us that knowing the truth can ultimately set us free, bringing...",
-            "zh": "一次秘密务虚会与会者名单的泄露，凸显了私人影响力与公共透明度之间的张力。在一个有权势人物常在幕后运作的世界里，揭示隐藏的真相可以成为增进理解的催化剂。雅伟提醒我们，认识真理最终能使我们得自由，将光带入曾被隐藏之处。"
-          },
-          "verse": {
-            "reference": "John 8:32",
-            "textEn": "Then you will know the truth, and the truth will set you free.",
-            "textZh": "你们必晓得真理，真理必叫你们得以自由。",
-            "themeEn": "Liberating truth",
-            "themeZh": "真理使人自由"
-          },
-          "aiVerseId": "john_8_32",
-          "translationState": "localized"
-        },
         {
           "id": "www-theguardian-com-politics-live-2026-jun-20-keir-starmer-andy-burnham-",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/politics/live/2026/jun/20/keir-starmer-andy-burnham-labour-leadership-makerfield-byelection-uk-politics-latest-news",
-          "image": "https://i.guim.co.uk/img/media/380c91e7ca6e24dd246f35cc27f48af23d5293dd/567_0_4933_3946/master/4933.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a03bbe75fff0853a9232f0bf582d50ed",
-          "publishedAt": "2026-06-20T11:55:36.000Z",
+          "image": "https://i.guim.co.uk/img/media/1de00b62cad586869f28a378ffd65a412841cf7c/699_0_6990_5592/master/6990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7f151627e67c5ad849f8378c8c685e51",
+          "publishedAt": "2026-06-20T14:46:39.000Z",
           "title": {
-            "en": "Starmer has ‘absolutely no authority’, says Labour peer as pressure grows on PM to step aside for Burnham – UK politics live",
+            "en": "Corbyn criticises ‘strange’ lack of policy in leadership debate and says Burnham must offer real change – as it happened",
             "zh": "斯塔默“绝对没有权威”，工党资深议员称首相面临下台压力"
           },
           "summary": {
@@ -196,7 +128,7 @@
             "zh": "工党一位资深议员兼前内阁大臣查理·法尔科纳表示，首相斯塔默“绝对没有权威”，可能“最多只剩下几周”任期。据报道，在日益增长的压力下，内阁忠诚派已要求斯塔默在本周末前制定辞职时间表。"
           },
           "body": {
-            "en": "Peer and former cabinet minister Charlie Falconer says PM could have ‘at most weeks to go’ Cabinet loyalists tell Starmer he has the weekend to set out timetable for exit A losing streak? Makerfield shows mounting dangers for Nigel Farage From Restore and tactical voting to questions over that £5m gift, the Reform leader faces challenges on several fronts, writes senior political correspondent Peter Walker. As those around Nigel Farage are fond of pointing out, Reform UK has now led in more than 300 consecutive national polls. When it comes to byelections, though, it is fair to say the party’s results are more mixed. Yes, Robert Kenyon came second in Makerfield to a popular regional mayor backed by a Labour campaign so relentless that the main risk was annoying voters by knocking too often on their doors. Kenyon also increased his and Reform’s share of the vote from the 2024 general election. Continue reading...",
+            "en": "This blog is now closed, you can read more on this story here A losing streak? Makerfield shows mounting dangers for Nigel Farage From Restore and tactical voting to questions over that £5m gift, the Reform leader faces challenges on several fronts, writes senior political correspondent Peter Walker. As those around Nigel Farage are fond of pointing out, Reform UK has now led in more than 300 consecutive national polls. When it comes to byelections, though, it is fair to say the party’s results are more mixed. Yes, Robert Kenyon came second in Makerfield to a popular regional mayor backed by a Labour campaign so relentless that the main risk was annoying voters by knocking too often on their doors. Kenyon also increased his and Reform’s share of the vote from the 2024 general election. Continue reading...",
             "zh": "同行、前内阁部长查理·福尔科纳表示，总理可能“最多还有几周时间”内阁忠诚者告诉斯塔默，他有周末制定退出A连败的时间表？高级政治记者彼得·沃克 (Peter Walker) 写道，梅克菲尔德表明奈杰尔·法拉奇 (Nigel Farage) 面临着越来越大的危险，从恢复和战术投票到对 500 万英镑礼物的质疑，改革派领导人在多个方面面临挑战。正如 Nigel Farage 周围的人喜欢指出的那样，改革英国现在在 300 多项全国民意调查中连续领先。不过，在补选方面，可以公平地说，该党的结果更加复杂。是的，罗伯特·凯尼恩（Robert Kenyon）在梅克菲尔德（Makerfield）排名第二，落后于一位受工党支持的受欢迎的地区市长，他的竞选活动如此无情，以至于主要风险是因为过于频繁地敲门而惹恼选民。凯尼恩还增加了他和改革党在 2024 年大选中的选票份额。继续阅读..."
           },
           "reflection": {
@@ -214,57 +146,92 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-world-2026-jun-20-israeli-strikes-southern-lebanon-r",
+          "id": "www-theguardian-com-politics-2026-jun-20-burnham-allies-confident-no-10-",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
-          "image": "https://i.guim.co.uk/img/media/52db905d7fe5136887b0339a32b14ce832b0cf7c/323_0_3280_2624/master/3280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=124523bbf0a00e13f78aecced5f93c0f",
-          "publishedAt": "2026-06-20T11:54:09.000Z",
+          "link": "https://www.theguardian.com/politics/2026/jun/20/burnham-allies-confident-no-10-coronation-after-surge-backers-labour-leadership",
+          "image": "https://i.guim.co.uk/img/media/63ae9f8c23c7c94f006ecc5fec7065b7b6089b89/376_0_3607_2886/master/3607.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b75edae58b64e6da7ec79d23c23e9c9",
+          "publishedAt": "2026-06-20T14:41:51.000Z",
           "title": {
-            "en": "Israeli strikes kill at least 16 in southern Lebanon despite reports of renewed ceasefire",
-            "zh": "尽管有报道恢复停火，但以色列的袭击仍导致黎巴嫩南部至少 16 人死亡"
+            "en": "Burnham allies confident of No 10 ‘coronation’ after surge in backers",
+            "zh": "伯纳姆盟友在支持者激增后对唐宁街‘加冕’充满信心"
           },
           "summary": {
-            "en": "Outbreak of fighting between Hezbollah and Israel has forced mediators to cancel US-Iran peace talks in Switzerland Israeli strikes on southern Lebanon have killed at least 16 people, local authorities said on Saturday, despite reports of a renewed ceasefire aiming to end...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "Allies of former mayor Andy Burnham are increasingly confident he will become the next Labour leader without a formal contest, describing it as a “coronation.” However, some Labour MPs are calling for a contested leadership election to ensure a thorough scrutiny of ideas.",
+            "zh": "前市长安迪·伯纳姆的盟友越来越相信他将无需正式竞选即可成为下一任工党领袖，称之为“加冕”。然而，一些工党议员呼吁举行一场有竞争的领导人选举，以确保对各种理念进行彻底审查。"
           },
           "body": {
-            "en": "Outbreak of fighting between Hezbollah and Israel has forced mediators to cancel US-Iran peace talks in Switzerland Israeli strikes on southern Lebanon have killed at least 16 people, local authorities said on Saturday, despite reports of a renewed ceasefire aiming to end persistent violence that threatens the new agreement between the US and Iran. Lebanon’s civil defence agency said its personnel transported “16 dead and 12 wounded” to hospital, adding that they had been working “since the early morning hours” in the Nabatieh district in response to “ongoing attacks targeting the area”. Continue reading...",
-            "zh": "真主党和以色列之间爆发战斗迫使调解人取消在瑞士举行的美伊和谈。地方当局周六表示，以色列对黎巴嫩南部的袭击已造成至少 16 人死亡，尽管有报道称重新停火旨在结束威胁美国和伊朗之间新协议的持续暴力。黎巴嫩民防机构表示，其人员已将“16 名死者和 12 名伤者”送往医院，并补充说，他们“从凌晨开始”就在纳巴提耶地区开展工作，以应对“针对该地区的持续袭击”。继续阅读..."
+            "en": "Some Labour MPs still want former mayor to face the ‘scrutiny’ of ideas through a contested leadership contest UK politics live – latest updates Allies of Andy Burnham are increasingly confident of a coronation-style transfer of power after the number of MPs backing his planned leadership bid surged following his byelection victory. Burnham and his team are understood to have spent the last few days enlisting the support of MPs and ministers, as he prepares to challenge Keir Starmer in the coming weeks. Continue reading...",
+            "zh": "一些工党议员仍然希望前市长通过一场有争议的领导力竞赛来接受对想法的“审查”。英国政治现场 - 最新动态安迪·伯纳姆的盟友在支持他计划的领导权竞选的议员数量激增后，对加冕式的权力移交越来越有信心。据了解，伯纳姆和他的团队在过去几天里一直在争取议员和部长的支持，因为他准备在未来几周内挑战凯尔·斯塔默。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The tension between a smooth leadership transition and the call for thorough scrutiny highlights the importance of wise counsel in governance. Proverbs 11:14 reminds us that where there is no wise guidance, a nation falls, but in a multitude of counselors there is safety. This suggests that robust debate and diverse perspectives are crucial for sound...",
+            "zh": "权力平稳过渡与彻底审查需求之间的张力，突显了治理中智谋的重要性。箴言11:14提醒我们，没有智谋，国家就会败落；谋士众多，就能得胜。这表明，健全的辩论和多元的视角对于明智的领导和人民的福祉至关重要。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_11_14",
+          "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-uk-news-2026-jun-20-bedford-train-crash-passenger-ca",
+          "id": "www-bbc-com-news-articles-cgqj77909jpo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/614c/live/49688d60-6bd9-11f1-b1db-af71d47507d6.jpg",
+          "publishedAt": "2026-06-20T14:24:35.000Z",
+          "title": {
+            "en": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
+            "zh": "特朗普在七国集团合影声明遭反驳后抨击意大利梅洛尼"
+          },
+          "summary": {
+            "en": "Former US President Donald Trump publicly criticized Italian Prime Minister Giorgia Meloni, claiming she repeatedly asked for a photo at the G7 summit. Meloni, however, stated that Trump fabricated the story about her \"begging\" for a picture, leading to a public dispute between the two leaders.",
+            "zh": "美国前总统唐纳德·特朗普公开批评意大利总理乔治亚·梅洛尼，声称她在七国集团峰会上多次要求合影。然而，梅洛尼表示特朗普捏造了她“乞求”合影的故事，导致两位领导人之间发生公开争执。"
+          },
+          "body": {
+            "en": "US President Donald Trump has hit out at Italy's prime minister, Giorgia Meloni, repeating his claim that she asked \"over and over\" for a picture of them together at the G7 summit this week.\n\nIn a post on Truth Social, Trump also accused her of not supporting US efforts to \"deny] Iran from obtaining or developing a nuclear weapon\".\n\nHe said that Meloni caused \"a great logistical inconvenience\" by barring the US from using Italian air facilities for American military operations in Iran.\n\nOn Friday, the prime minister said she had been astonished by Trump's initial claim that she \"begged\" for a photo.\n\nIn his post on Truth Social a day later, the US president said Meloni was \"doing poorly in Italy with her level of popularity\".\n\n\"Now, after the United States defeated Iran militarily, she wants to be friends again in order to get her \"numbers up.\" No thanks!!!,\" he added.\n\nIn March, Italy reportedly denied US military air craft from landing at Sigonella air base in Sicily for operations against Iran.\n\nThe continued exchange has highlighted a developing rift between the two countries since Trump's military action against Iran this year.\n\nItalian Foreign Minister Antonio Tajani has also cancelled a trip to the US early next week.\n\nTrump and Meloni were pictured in close conversation at the G7 summit in France this week, and the Italian leader later told reporters their relationship was unchanged and there had been \"no recriminations\".\n\nBut soon afterwards, Trump gave a phone interview with Italy's La7 TV channel in which he alleged: \"She begged me to take a photo with her; I felt sorry for her.\"\n\n\"She's probably happy I spoke to her,\" he said. La7 did not produce Trump's original words in English, but voiced them over in Italian.\n\nResponding to the claim, Meloni in an Instagram video said she was \"frankly stunned\".\n\n\"I don't know why the US president behaves this way towards allies,\" she said, adding it was not the first time it had happened.\n\n\"I can only say it is regrettable he does not show the same determination towards the enemies of the West and towards the enemies of the US - [enemies] whose leaders he instead appears to be far more accommodating with.\"\n\nThe leaders also clashed earlier this year after Trump accused Pope Leo XIV of being \"WEAK on Crime and terrible for Foreign Policy\" in a Truth Social post, later telling reporters he was \"not a big fan\".\n\nThe two country leaders have had a close political relationship, with Meloni the sole European leader to attend Trump's inauguration in January 2025.",
+            "zh": "美国总统唐纳德·特朗普猛烈抨击意大利总理乔治亚·梅洛尼，并重申她“一遍又一遍”地要求他们在本周的七国集团峰会上合影。 在《Truth Social》上的一篇帖子中，特朗普还指责她不支持美国“阻止]伊朗获得或发展核武器”的努力。 他说，梅洛尼禁止美国使用意大利空军设施在伊朗开展军事行动，造成“极大的后勤不便”。 周五，首相表示，她对特朗普最初声称她“乞求”合影的说法感到惊讶。 一天后，美国总统在《Truth Social》上发表的帖子中表示，梅洛尼“以她的受欢迎程度在意大利表现不佳”。 “现在，在美国军事上击败伊朗之后，她想再次成为朋友，以便提高她的‘人数’。不，谢谢！！！”他补充道。 据报道，三月份，意大利拒绝美国军用飞机降落在西西里岛的西戈内拉空军基地，以执行针对伊朗的行动。 自特朗普今年对伊朗采取军事行动以来，持续的交流凸显了两国之间不断发展的裂痕。 意大利外交部长安东尼奥·塔亚尼也取消了下周初的美国之行。 特朗普和梅洛尼本周在法国七国集团峰会上被拍到密切交谈，这位意大利领导人后来告诉记者，他们的关系没有改变，并且“没有相互指责”。 但不久之后，特朗普接受了意大利La7电视台的电话采访，他在采访中声称：“她求我和她合影；我为她感到难过。” “她可能很高兴我和她说话，”他说。 La7 并没有用英语说出特朗普的原话，而是用意大利语配音。 梅洛尼在 Instagram 视频中回应这一说法，表示她“坦白说感到震惊”。 她说：“我不知道为什么美国总统会对盟友采取这样的行为。”她补充说，这并不是第一次发生。 “我只能说，令人遗憾的是，他没有对西方的敌人和美国的敌人表现出同样的决心——相反，他对这些敌人的领导人似乎更加宽容。” 今年早些时候，特朗普在《真相社会》帖子中指责教皇利奥十四世“在犯罪方面软弱，在外交政策上糟糕”，后来告诉记者他“不是一个忠实粉丝”，之后两国领导人也发生了冲突。 两国领导人有着密切的政治关系，梅洛尼是唯一参加特朗普 2025 年 1 月就职典礼的欧洲领导人。"
+          },
+          "reflection": {
+            "en": "In the realm of public discourse, even seemingly minor disagreements about facts can escalate, revealing underlying tensions. This incident reminds us of the importance of speaking truthfully and avoiding falsehood, especially for those in positions of influence. Yahweh calls us to integrity in our words, fostering trust rather than division.",
+            "zh": "在公共话语领域，即使是看似微小的关于事实的分歧也可能升级，暴露出潜在的紧张关系。这起事件提醒我们，说真话和避免虚假的重要性，特别是对于那些有影响力的人。雅伟呼召我们在言语上保持正直，培养信任而非分裂。"
+          },
+          "verse": {
+            "reference": "Ephesians 4:25",
+            "textEn": "Therefore each of you must put off falsehood and speak truthfully to your neighbor.",
+            "textZh": "所以你们要弃绝谎言，各人与邻舍说实话。",
+            "themeEn": "Truth-telling",
+            "themeZh": "说诚实话"
+          },
+          "aiVerseId": "eph_4_25",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jun-20-ice-investigation-new-york-new-j",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/uk-news/2026/jun/20/bedford-train-crash-passenger-carriage-injured-hospital-treatment",
-          "image": "https://i.guim.co.uk/img/media/ef43b0d689e427f8e0fe8fbaa9f27574a3369859/375_0_1331_1065/master/1331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0581f5e5439376b4498d63a26748e5f9",
-          "publishedAt": "2026-06-20T11:49:16.000Z",
+          "link": "https://www.theguardian.com/us-news/2026/jun/20/ice-investigation-new-york-new-jersey",
+          "image": "https://i.guim.co.uk/img/media/77e73e27826813d7fc9ff32d224b85dcb29d4691/56_0_1705_1365/master/1705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10cc606ebbdb321ea3acc841afe20793",
+          "publishedAt": "2026-06-20T14:00:03.000Z",
           "title": {
-            "en": "Nine people in critical condition after Bedford train crash kills driver",
-            "zh": "贝德福德火车相撞事故造成司机死亡，九人伤势严重"
+            "en": "‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos",
+            "zh": "“他们拥有一切权力”：调查发现 ICE 逮捕的 93% 针对拉丁裔"
           },
           "summary": {
-            "en": "Police say 28 people remain in hospital after passengers were flung across carriages during rush hour train collision Two trains collide near Bedford Nine people are in a critical condition after the Bedford train crash that killed the driver of one of the trains, police have...",
+            "en": "430 ICE street arrests filed over a five-month period were clustered in predominantly Latino communities across New Jersey and New York Federal agents have arrested hundreds of immigrants off New York and New Jersey streets in recent months in a stealth enforcement campaign that...",
             "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Police say 28 people remain in hospital after passengers were flung across carriages during rush hour train collision Two trains collide near Bedford Nine people are in a critical condition after the Bedford train crash that killed the driver of one of the trains, police have confirmed. British Transport police chief constable, Lucy D’Orsi, announced that of the more than 80 people injured, 28 remain in hospital. Continue reading...",
-            "zh": "警方称，在高峰时段火车相撞时，乘客被抛到车厢上，目前有 28 人仍在医院。 警方证实，贝德福德火车相撞事故造成其中一列火车司机死亡，两列火车在贝德福德附近相撞，有 9 人情况危急。英国交通警察局长露西·多尔西 (Lucy D’Orsi) 宣布，80 多人受伤，其中 28 人仍在医院。继续阅读..."
+            "en": "430 ICE street arrests filed over a five-month period were clustered in predominantly Latino communities across New Jersey and New York Federal agents have arrested hundreds of immigrants off New York and New Jersey streets in recent months in a stealth enforcement campaign that disproportionately targeted people from Latin American countries, according to an investigation by the City Reporter based on a review of more than 1,200 lawsuits. More than 93% of the people grabbed off area streets who filed suit were from Latin American countries, although Latinos make up only 66% of immigrants without legal status in the region. Continue reading...",
+            "zh": "根据《城市报道》对 1,200 多起诉讼进行审查后进行的调查，5 个月内，ICE 进行了 430 起街头逮捕，主要集中在新泽西州和纽约州以拉丁裔为主的社区。近几个月来，联邦特工在纽约和新泽西州街道上逮捕了数百名移民，这是一项秘密执法行动，主要针对来自拉丁美洲国家的人。尽管在该地区没有合法身份的移民中拉丁裔仅占 66%，但在提起诉讼的该地区街道上被抢走的人中，超过 93% 来自拉丁美洲国家。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -278,6 +245,73 @@
             "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cx240k9l112o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fc31/live/c45bc7c0-6cac-11f1-b1db-af71d47507d6.jpg",
+          "publishedAt": "2026-06-20T13:23:40.000Z",
+          "title": {
+            "en": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+            "zh": "尽管达成停火协议，以色列和真主党仍继续发动袭击"
+          },
+          "summary": {
+            "en": "Deaths are reported in southern Lebanon, with the IDF saying it hit Hezbollah targets after the group fired over 50 projectiles at Israeli forces.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "About two dozen people have reportedly been killed by Israeli airstrikes on southern Lebanon, less than 24 hours after a new ceasefire between Israel and Hezbollah was announced.\n\nLocal officials said 16 people had been killed in the Nabatieh district and seven in neighbouring Saida, with others injured, after Israeli warplanes, drones, and artillery targeted several areas.\n\nA family of four - a father, a mother and their two children - was killed in the town of Barish in southern Lebanon, state media reported.\n\nThe Israeli military said it had struck \"dozens\" of Hezbollah targets after the group fired over 50 projectiles at Israeli forces in the region.\n\nThe US government has criticised Israel's ongoing operations in Lebanon, which was drawn into the US-Iran war when Hezbollah launched rockets into Israel in retaliation for a strike that killed Iran's supreme leader.\n\nWashington also fears that the continuing tensions between Israel and Lebanon could undermine the US peace deal with Iran , which includes a commitment to end fighting on \"all fronts\" including Lebanon.\n\nUS envoy, Steve Witkoff, is reported to be heading to Switzerland for initial talks with Iran to help cement the agreement.\n\nWhile it may have helped prevent a wider regional escalation for the time being, the deal leaves unresolved the central disputes at the heart of the conflict, including Israel's military presence in southern Lebanon and the future of Hezbollah's weapons.\n\nA Hezbollah official told the BBC it does not recognise the ceasefire that was announced by US officials on Friday afternoon, and it rejects the Israeli objective to operate freely inside Lebanon.\n\nSenior Hezbollah official Hassan Fadlallah said his group had the right to respond to Israeli attacks.\n\n\"What concerns us is that the enemy fully and comprehensively respects the ceasefire, and doesn't attempt to attack our country and villages or seek to occupy any new position,\" he said, as quoted in Lebanon's state-run National News Agency (NNA).\n\nThe Israel Defense Forces (IDF) said it had \"struck dozens of Hezbollah terrorist infrastructure sites and terrorists in southern Lebanon\".\n\nThe IDF said its strikes were in response to Hezbollah launching \"more than 50 projectiles toward IDF soldiers in southern Lebanon\".\n\n\"These attacks constitute repeated and ongoing violations of the ceasefire agreement,\" it added in the statement.\n\nPrevious ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes, with both sides accusing each other of violating the agreement.\n\nBefore Friday's ceasefire was announced, Israel said it had no intention of withdrawing its forces from Lebanon and had insisted that its conflict with Hezbollah was separate from the war on Iran.\n\nEarlier on Friday , Lebanon's...",
+            "zh": "据报道，在以色列和真主党宣布新的停火不到 24 小时后，以色列对黎巴嫩南部的空袭造成约 20 人死亡。 当地官员称，以色列战机、无人机和大炮袭击多个地区后，纳巴蒂耶地区有 16 人死亡，邻近的赛伊达有 7 人死亡，其他人受伤。 据官方媒体报道，一家四口——父亲、母亲和两个孩子——在黎巴嫩南部的巴里什镇被杀。 以色列军方表示，在真主党向该地区的以色列军队发射了 50 多枚炮弹后，他们袭击了“数十个”真主党目标。 美国政府批评以色列在黎巴嫩持续开展的行动，真主党向以色列发射火箭，以报复杀害伊朗最高领导人的袭击，黎巴嫩因此被卷入美伊战争。 华盛顿还担心以色列和黎巴嫩之间持续的紧张局势可能会破坏美国与伊朗的和平协议，其中包括结束包括黎巴嫩在内的“所有战线”战斗的承诺。 据报道，美国特使史蒂夫·威特科夫将前往瑞士与伊朗进行初步会谈，以帮助巩固协议。 虽然该协议暂时可能有助于防止更广泛的地区升级，但该协议仍未解决冲突核心的核心争端，包括以色列在黎巴嫩南部的军事存在以及真主党武器的未来。 一名真主党官员告诉英国广播公司，它不承认美国官员周五下午宣布的停火，并且拒绝以色列在黎巴嫩境内自由行动的目标。 真主党高级官员哈桑·法德拉拉表示，真主党有权对以色列的袭击做出回应。 黎巴嫩国家通讯社（NNA）援引他的话说：“我们担心的是，敌人完全全面地遵守停火协议，并没有试图攻击我们的国家和村庄，也没有试图占领任何新的阵地。” 以色列国防军（IDF）表示，它“袭击了黎巴嫩南部数十个真主党恐怖分子基础设施和恐怖分子”。 以色列国防军表示，此次袭击是为了回应真主党“向黎巴嫩南部的以色列国防军士兵发射 50 多枚炮弹”。 声明中补充说：“这些袭击一再持续违反停火协议。” 此前以色列和真主党之间的停火仍然几乎每天都会发生跨境袭击，双方都指责对方违反协议。 在周五宣布停火之前，以色列表示无意从黎巴嫩撤军，并坚称其与真主党的冲突与对伊朗的战争是分开的。 周五早些时候，黎巴嫩..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-ukraine-officials-return-polish-honors-after-zelenskyy-str",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/ukraine-officials-return-polish-honors-after-zelenskyy-stripped-of-award/a-77637366?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/76978837_6.jpg",
+          "publishedAt": "2026-06-20T13:14:00.000Z",
+          "title": {
+            "en": "Ukraine officials return Polish honors after Zelenskyy stripped of award",
+            "zh": "乌克兰官员在泽连斯基被剥夺奖项后归还波兰荣誉"
+          },
+          "summary": {
+            "en": "Ukrainian officials expressed concern after Poland stripped President Zelenskyy of its highest state honor, stating that the decision benefited Moscow. Warsaw has been a crucial ally to Kyiv since the start of Russia's war in Ukraine.",
+            "zh": "乌克兰官员表示，波兰取消授予乌克兰总统泽连斯基国家最高荣誉的决定对莫斯科有利。自俄罗斯对乌克兰开战以来，华沙一直是基辅的关键盟友。"
+          },
+          "body": {
+            "en": "A decision to strip Ukrainian leader Zelenskyy of Poland's highest state honor benefited Moscow, Ukrainian officials said. Warsaw has been one of Kyiv's key allies since Russia's war in Ukraine.\n\nTop Ukrainian officials said on Saturday that they were returning Polish state honors&#160;after Polish President Karol Nawrocki stripped Ukrainian leader Volodymyr Zelenskyy of Poland's highest award.\n\nThe move could further strain ties between the two close strategic partners as Kyiv seeks to rally international support to pressure Russia to end its war in Ukraine .\n\n\"This is a gift to the Moscow aggressor, who will certainly use it against both of our countries,\" Zelenskyy's chief of staff, Kyrylo Budanov, wrote on social media, saying that he was returning the Gold Officer's Cross of the Polish Order of Merit.&#160;\n\nOn Friday, Nawrocki announced that Zelenskyy would be stripped of the Order of the White Eagle — Poland's highest state honor, which had been awarded by former President Andrzej Duda in 2023.\n\nThe decision followed Zelenskyy's move to name a military unit after the Ukrainian Insurgent Army (UPA) ,&#160; a World War II militia that Warsaw accuses of participating in massacres of Poles.\n\nPoland has been one of Ukraine's key allies since Russia's full-scale invasion, hosting hundreds of thousands of Ukrainian refugees.\n\nNawrocki said the move would not affect Poland's support for Ukraine's defense against Russia.&#160;\n\nUkrainian officials, however, argued that Nawrocki 's decision was beneficial to Russia.\n\nUkraine's ambassador to Warsaw, Vasyl Bodnar, described the move \"as a gesture towards all the Ukrainian people\" and announced that he was relinquishing his Knight's Cross of the Polish Order of Merit.\n\nForeign Minister Andriy Sybiga also said that he would return a Polish award he received in 2022, calling the decision \"a strategic mistake … that benefits only Moscow.\"\n\nPolish Prime Minister Donald Tusk , a political rival of Nawrocki, urged both countries to preserve their solidarity, warning that a dispute between Poland and Ukraine \"delights Putin and shocks our allies.\"&#160;\n\nMeanwhile, a Russian airstrike on the eastern Ukrainian city of Kharkiv killed at least one person and injured nine others on Saturday, according to Governor Oleh Synyehubov.\n\nRussia's Defense Ministry said on Saturday morning that&#160;its air-defense systems had intercepted and destroyed 187 Ukrainian drones across the country overnight.\n\nIn recent weeks, Moscow and Kyiv have intensified attacks on each other as US-led efforts to end the war, which began with Russia's full-scale invasion in February 2022, remain stalled.&#160;\n\nEdited by: Louis Oelofse Don't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to...",
+            "zh": "乌克兰官员表示，剥夺乌克兰领导人泽连斯基波兰最高国家荣誉的决定对莫斯科有利。自俄罗斯乌克兰战争以来，华沙一直是基辅的主要盟友之一。 乌克兰高级官员周六表示，在波兰总统卡罗尔·纳罗基剥夺乌克兰领导人弗拉基米尔·泽伦斯基的波兰最高奖项后，他们将返还波兰国家荣誉。 随着基辅寻求国际社会的支持，迫使俄罗斯结束乌克兰战争，此举可能会进一步加剧这两个密切战略伙伴之间的关系。 泽连斯基的幕僚长凯里洛·布达诺夫在社交媒体上写道：“这是送给莫斯科侵略者的礼物，他们肯定会用它来对付我们两国。”他表示，泽连斯基将归还波兰军官金质十字勋章。 周五，纳罗基宣布将取消泽连斯基的白鹰勋章——波兰最高国家荣誉，由前总统安杰伊·杜达于 2023 年授予。 这一决定是在泽伦斯基以乌克兰起义军（UPA）的名字命名一支军事单位之后做出的。乌克兰起义军是一支二战民兵组织，华沙指责其参与了对波兰人的屠杀。 自俄罗斯全面入侵以来，波兰一直是乌克兰的主要盟友之一，收容了数十万乌克兰难民。 纳罗基表示，此举不会影响波兰对乌克兰防御俄罗斯的支持。 然而乌克兰官员却辩称，纳乌罗基的决定对俄罗斯有利。 乌克兰驻华沙大使瓦西里·博德纳尔称此举“是对所有乌克兰人民的一个姿态”，并宣布他将放弃波兰骑士十字勋章。 外交部长安德烈·西比加 (Andriy Sybiga) 还表示，他将归还 2022 年获得的波兰奖项，称这一决定“是一个战略错误……只会对莫斯科有利”。 诺罗基的政治对手、波兰总理唐纳德·图斯克敦促两国保持团结，并警告说，波兰和乌克兰之间的争端“让普京感到高兴，但让我们的盟友感到震惊”。 与此同时，乌克兰东部城市哈尔科夫州长奥列赫·西耶胡博夫 (Oleh Synyehubov) 表示，俄罗斯周六对乌克兰东部城市哈尔科夫发动空袭，造成至少 1 人死亡、9 人受伤。 俄罗斯国防部周六上午表示，其防空系统隔夜拦截并摧毁了全国各地的 187 架乌克兰无人机。 最近几周，莫斯科和基辅加强了对对方的攻击，因为美国主导的结束战争的努力仍然停滞不前，这场战争始于俄罗斯于 2022 年 2 月的全面入侵。 编辑：Louis Oelofse 不要让算法隐藏新闻。如果您信赖我们团队的可信报告，请花点时间..."
+          },
+          "reflection": {
+            "en": "This diplomatic tension between allies reminds us that conflicts are not always simply \"flesh and blood\" disagreements between people or nations. Sometimes, deeper forces of division are at play, benefiting those who seek to undermine peace and unity. In such moments, discerning the true nature of the struggle can help us guard against internal strife that...",
+            "zh": "盟友之间的这种外交紧张提醒我们，冲突并非总是人与人或国与国之间简单的“血肉之躯”的争执。有时，更深层的分裂势力在起作用，使那些寻求破坏和平与团结的人受益。在这样的时刻，辨明斗争的真正性质可以帮助我们警惕服务于对手议程的内部冲突。"
+          },
+          "verse": {
+            "reference": "Ephesians 6:12",
+            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
+            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
+            "themeEn": "Not against flesh and blood",
+            "themeZh": "并非与血气争战"
+          },
+          "aiVerseId": "eph_6_12",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-com-news-articles-cp3xqkxp3x5o-at-medium-rss-at-campaign-rss",
@@ -323,61 +357,29 @@
           "publishedAt": "2026-06-20T10:08:34.000Z",
           "title": {
             "en": "One killed and dozens hurt in train collision north of London",
-            "zh": "伦敦北部火车相撞造成一人死亡、数十人受伤"
+            "zh": "伦敦北部发生火车相撞事故，造成一人死亡数十人受伤"
           },
           "summary": {
-            "en": "A video posted on social media showed what appeared to be the front of one train entangled with the back of another.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "A train collision north of London resulted in one fatality and dozens of injuries. Social media footage depicted the front of one train entangled with the rear of another.",
+            "zh": "伦敦北部发生火车相撞事故，造成一人死亡，数十人受伤。社交媒体上发布的视频显示，一列火车的车头与另一列火车的车尾缠绕在一起。"
           },
           "body": {
             "en": "A train driver has died and dozens more injured in a collision between two commuter services in London on Friday.\n\nBoth trains were travelling south to London St Pancras station on Friday afternoon when they collided outside the town of Bedford, about 100km north of London. The trains were travelling from Corby and Nottingham respectively.\n\nEast Midlands Railway, which operated both London-bound trains involved in the crash, confirmed in a statement on X on Saturday that the driver of one of the services had been killed. The company had cancelled all trains to and from St Pancras for the rest of Friday and was unable to confirm the schedule for Saturday.\n\nA video posted on social media by one of the passengers showed what appeared to be the front of one train entangled with the back of another, with the carriages appearing to remain upright on the tracks.\n\nThe East of England Ambulance Service said that in addition to a person who died at the scene, 11 people suffered very serious injuries, 22 were seriously injured and 56 had minor injuries.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"My thoughts are with the family of the person who has sadly lost their life, and with those who have been seriously injured,\" Prime Minister Keir Starmer said in a statement.\n\nThe cause of the incident was not immediately known, and transport minister Heidi Alexander said an investigation was underway.\n\nPeter Knapp, a doctor who said on social media site Bluesky he was on board one of the trains, described a \"sudden crash\" with one carriage off the rails and said he had sustained minor injuries.\n\n\"There was a moment of being flung into the chair in front, and then I saw smoke,\" Knapp said.\n\n\"I got up and I saw a lot of people who were unable to speak, had broken legs,\" he said.\n\n\"And then I managed to get out of the train and because I'm quite thin I was able to squeeze out through the gap in the doors.\"\n\nVarious posts on social media showed dozens of people, some with bandages but many who appeared uninjured, standing and sitting among emergency vehicles parked on a road that runs parallel to the train tracks.\n\nThe RMT union, which represents many railway workers, said it was monitoring the situation and expressed its concern over reports of \"serious injuries\" suffered by both train staff and passengers.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
             "zh": "周五，伦敦两趟通勤服务发生碰撞，一名火车司机死亡，数十人受伤。 周五下午，两列火车均向南行驶至伦敦圣潘克拉斯车站，在伦敦以北约 100 公里的贝德福德镇外相撞。火车分别从科比和诺丁汉出发。 东米德兰铁路公司（East Midlands Railway）周六在一份声明中证实，其中一趟列车的司机已死亡。该公司取消了周五剩余时间内往返圣潘克拉斯的所有火车，并且无法确认周六的时刻表。 一名乘客在社交媒体上发布的一段视频显示，一列火车的车头似乎与另一列火车的车尾纠缠在一起，车厢似乎保持直立在铁轨上。 英格兰东部救护车服务处表示，除了一名当场死亡的人外，还有11人伤势非常严重，22人重伤，56人轻伤。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 总理基尔·斯塔默在一份声明中说：“我的心与不幸丧生者的家人以及那些受重伤的人同在。” 事件原因尚不清楚，交通部长海蒂·亚历山大表示调查正在进行中。 医生彼得·纳普 (Peter Knapp) 在社交媒体网站 Bluesky 上表示，他当时正在其中一列火车上，他描述了一场“突然相撞”，其中一节车厢脱轨，并表示他受了轻伤。 “有一瞬间我被扔到前面的椅子上，然后我看到了烟雾，”纳普说。 “我站起来，看到很多人无法说话，腿都断了，”他说。 “然后我设法下了火车，因为我很瘦，所以我能够从车门的缝隙中挤出来。” 社交媒体上的各种帖子显示，数十人站着或坐在停在与铁轨平行的道路上的紧急车辆中间，其中一些人缠着绷带，但许多人似乎没有受伤。 代表许多铁路工人的 RMT 工会表示，正在密切关注事态发展，并对列车工作人员和乘客遭受“严重伤害”的报道表示担忧。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The suddenness of this tragic accident, with lives lost and many injured, reminds us of life's fragility and the pain that can strike unexpectedly. In moments of profound grief and suffering, we hold onto the hope that Yahweh promises a future where tears, death, and pain will be no more.",
+            "zh": "这场突如其来的悲剧性事故，造成生命逝去和多人受伤，提醒我们生命的脆弱以及意想不到的痛苦。在深切的悲伤和痛苦时刻，我们紧紧抓住雅伟所应许的盼望，即将来不会再有眼泪、死亡和痛苦。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Revelation 21:4",
+            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+            "themeEn": "End of suffering",
+            "themeZh": "苦难的终结"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cx240k9l112o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/43b2/live/821b5d20-6c9e-11f1-9c69-eb6435da1435.jpg",
-          "publishedAt": "2026-06-20T08:53:53.000Z",
-          "title": {
-            "en": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-            "zh": "尽管达成停火协议，以色列和真主党仍继续发动袭击"
-          },
-          "summary": {
-            "en": "Several people are reported killed in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "At least a dozen people have reportedly been killed by Israeli airstrikes on southern Lebanon, less than 24 hours after a new ceasefire between Israel and Hezbollah was announced.\n\nOfficials in the Nabatieh district said attacks had killed 16 people and injured at least a dozen more, after Israeli warplanes, drones, and artillery targeted numerous areas.\n\nThe Israeli military said it struck \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces in the region.\n\nWashington has criticised Israel's ongoing operations in Lebanon, which was drawn into the US-Iran war when Hezbollah launched rockets into Israel in retaliation for a strike that killed Iran's supreme leader.\n\nWashington also fears that the continuing tensions between Israel and Lebanon could undermine the US peace deal with Iran , which includes a commitment to end fighting on \"all fronts\" including Lebanon.\n\nUS envoy, Steve Witkoff, is reported to be heading to Switzerland for initial talks with Iran to help cement the agreement.\n\nWhile it may have helped prevent a wider regional escalation for the time being, the deal leaves unresolved the central disputes at the heart of the conflict, including Israel's military presence in southern Lebanon and the future of Hezbollah's weapons.\n\nA Hezbollah official told the BBC it does not recognise the ceasefire that was announced by US officials on Friday afternoon, and it rejects the Israeli objective to operate freely inside Lebanon.\n\nSenior Hezbollah official Hassan Fadlallah said his group had the right to respond to Israeli attacks.\n\n\"What concerns us is that the enemy fully and comprehensively respects the ceasefire, and doesn't attempt to attack our country and villages or seek to occupy any new position,\" he said, as quoted in Lebanon's state-run National News Agency (NNA).\n\nPrevious ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes, with both sides accusing each other of violating the agreement.\n\nBefore Friday's ceasefire was announced, Israel said it had no intention of withdrawing its forces from Lebanon and had insisted that its conflict with Hezbollah was separate from the war on Iran.\n\nEarlier on Friday Lebanon's health ministry said 47 people were killed and 97 wounded in Israeli air strikes, while the Israeli military said four of its soldiers were also killed.\n\nAli, a Red Cross first responder in Nabatieh, told the BBC that it was \"the most intense night\" he can remember.\n\nThose strikes came a day after the US and Iranian presidents signed an initial peace deal aiming to end the war, including in Lebanon, with immediate effect, but strikes continued.\n\nAt hospitals in the south, exhausted doctors continue treating the wounded, while emergency workers increasingly...",
-            "zh": "据报道，在以色列和真主党宣布新的停火不到 24 小时后，以色列对黎巴嫩南部的空袭造成至少 12 人死亡。 纳巴蒂耶地区的官员表示，以色列战机、无人机和大炮袭击了许多地区，袭击已造成 16 人死亡，至少十几人受伤。 以色列军方表示，在真主党向该地区的以色列军队发射了 50 多枚炮弹后，他们袭击了“真主党恐怖分子目标”。 华盛顿批评以色列在黎巴嫩正在进行的行动，真主党向以色列发射火箭，以报复杀害伊朗最高领导人的袭击，黎巴嫩被卷入美伊战争。 华盛顿还担心以色列和黎巴嫩之间持续的紧张局势可能会破坏美国与伊朗的和平协议，其中包括结束包括黎巴嫩在内的“所有战线”战斗的承诺。 据报道，美国特使史蒂夫·威特科夫将前往瑞士与伊朗进行初步会谈，以帮助巩固协议。 虽然该协议暂时可能有助于防止更广泛的地区升级，但该协议仍未解决冲突核心的核心争端，包括以色列在黎巴嫩南部的军事存在以及真主党武器的未来。 一名真主党官员告诉英国广播公司，它不承认美国官员周五下午宣布的停火，并且拒绝以色列在黎巴嫩境内自由行动的目标。 真主党高级官员哈桑·法德拉拉表示，真主党有权对以色列的袭击做出回应。 黎巴嫩国家通讯社（NNA）援引他的话说：“我们担心的是，敌人完全全面地遵守停火协议，并没有试图攻击我们的国家和村庄，也没有试图占领任何新的阵地。” 此前以色列和真主党之间的停火仍然几乎每天都会发生跨境袭击，双方都指责对方违反协议。 在周五宣布停火之前，以色列表示无意从黎巴嫩撤军，并坚称其与真主党的冲突与对伊朗的战争是分开的。 周五早些时候，黎巴嫩卫生部表示，以色列空袭造成 47 人死亡、97 人受伤，以色列军方表示，4 名士兵也被打死。 阿里是纳巴提耶的红十字会急救人员，他告诉 BBC，这是他记忆中“最紧张的夜晚”。 这些袭击发生在美国和伊朗总统签署旨在结束包括黎巴嫩在内的战争的初步和平协议的第二天，该协议立即生效，但袭击仍在继续。 在南方的医院里，疲惫不堪的医生继续治疗伤员，而急救人员也越来越多地……"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
+          "aiVerseId": "rev_21_4",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-bolivia-declares-state-of-emergency-over-blo",
@@ -413,39 +415,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-com-news-articles-c932k8010j1o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/76f2/live/a5bd9b80-6c7b-11f1-8546-8f19e4fe30f4.jpg",
-          "publishedAt": "2026-06-20T07:40:20.000Z",
-          "title": {
-            "en": "Tourist dies in Dominican Republic luxury resort fire",
-            "zh": "游客在多米尼加共和国豪华度假村火灾中丧生"
-          },
-          "summary": {
-            "en": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "A huge fire at a luxury beach resort in the Dominican Republic killed one woman and forced nearly 1,700 guests to be evacuated on Friday.\n\nThe woman was a 46-year old Italian tourist, the DAEH emergency services said in a statement to local media. It added that three people were taken to medical facilities and six others were treated on site.\n\nDrone footage shows how widespread the fire was, with buildings spanning the Viva Wyndham Dominicus Beach in the town of Bayahibe on fire, and thick black smoke billowing into the air.\n\nThe cause of the early-morning blaze is not yet known, but an initial investigation found the flames spread quickly due to wind conditions and the flammable thatched roofs on some buildings.\n\nThe country's Emergency Operations Center (COE) said the fire had been brought under control and guests had been moved to other hotels.\n\nIt added that tourist activities in the town and surrounding area were not affected.\n\nItalian news agency Ansa reported that the Italian ambassador to the Dominican Republic met the deceased woman's husband at the hospital. The embassy is helping around 285 Italian tourists who were staying at the resort or nearby, issuing emergency passports to those whose travel documents were destroyed in the fire and arranging flights home.\n\nBayahibe, a popular resort town on the Caribbean coast, is known for its clear blue waters and sandy beaches.\n\nWyndham Hotels & Resorts, which franchises about 8,400 hotels around the world, has been contacted for comment.",
-            "zh": "周五，多米尼加共和国一处豪华海滩度假村发生大火，造成一名妇女死亡，近 1,700 名客人被迫疏散。 DAEH 紧急服务部门在给当地媒体的一份声明中称，这名女子是一名 46 岁的意大利游客。声明补充说，三人被送往医疗机构，另外六人在现场接受治疗。 无人机拍摄的画面显示，火灾范围有多广，巴亚希贝镇 Viva Wyndham Dominicus 海滩上的建筑物起火，浓烟滚滚到空中。 凌晨起火的原因尚不清楚，但初步调查发现，由于风力条件和一些建筑物的易燃茅草屋顶，火势迅速蔓延。 该国紧急行动中心（COE）表示，火势已得到控制，客人已被转移到其他酒店。 它补充说，该镇及周边地区的旅游活动没有受到影响。 意大利安莎通讯社报道称，意大利驻多米尼加共和国大使在医院会见了死者的丈夫。大使馆正在帮助住在度假村或附近的约285名意大利游客，为旅行证件在火灾中被毁的游客发放紧急护照，并安排回国航班。 巴亚希贝是加勒比海岸的一个热门度假小镇，以其清澈蔚蓝的海水和沙滩而闻名。 我们已联系温德姆酒店及度假村寻求置评，该酒店在全球拥有约 8,400 家特许经营酒店。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-dw-com-en-woman-killed-hundreds-evacuate-in-dominican-republic-hotel",
           "section": "world",
           "source": "DW World",
@@ -477,244 +446,6 @@
             "themeZh": "苦难的终结"
           },
           "aiVerseId": "rev_21_4",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-washington-reflection-pool-trump-rennovation",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/washington-reflection-pool-trump-rennovation-algae-green/dlmol6k6s",
-          "image": "https://assets.sbs.com.au/dims4/default/5d73a62/2147483647/strip/false/crop/2342x1076+0+120/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F46%2Fbd%2F1f18520c485f86cf4a164052112f%2Fgettyimages-2279678843.jpg",
-          "publishedAt": "2026-06-20T04:38:36.000Z",
-          "title": {
-            "en": "After Trump's makeover, the Lincoln Memorial Reflecting Pool is now green — with algae",
-            "zh": "特朗普改造后，林肯纪念堂倒影池变绿——长满藻类"
-          },
-          "summary": {
-            "en": "A recent patriotic renovation of the historic Lincoln Memorial Reflecting Pool has resulted in the pool turning green with algae, indicating a significant failure in the project.",
-            "zh": "林肯纪念堂历史悠久的倒影池在经过一次爱国主义改造后，如今却因藻类滋生而变成绿色，这表明该项目遭遇了重大失败。"
-          },
-          "body": {
-            "en": "Strips of \"American-flag blue\" paint are rising from the bottom of the Lincoln Memorial Reflecting Pool, videos circulating online appear to show, in the latest disaster to hit its botched $14.6 million ($20.8M) refurbishment.\n\nThe Reflecting Pool, which civil rights activist Martin Luther King Jr. looked over as he gave his famous \"I have a dream\" speech, has undergone a makeover at the direction of Donald Trump to commemorate the country's 250th birthday on 4 July this year.\n\nIn May, the pool was drained and a commercial-grade sealant was reportedly added to its granite bottom.\n\nThe Virginia-based Atlantic Industrial Coatings company was awarded a controversial US$13.1 million ($18.7M) no-bid contract for the job after having previously worked on one of Trump's golf courses.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"We did a hell of a job,\" Trump told reporters at the White House last week upon completion, claiming just US$10 million had been spent.\n\nCompany owner Eddie Wood confirmed in an email to US publication NBC that the cost had, in fact, blown out.\n\n\"But everybody&#x2019;s looking at that Reflecting Pool,\" Trump continued. \"They can&#x2019;t believe it reflects. We used a dark blue, it&#x2019;s called American flag blue.\"\n\nHowever, visitors to the iconic Washington site have noticed that the water has turned a distinct shade of green.\n\nWayne Sobey, environmental consultant at Algae Control Australia, told SBS News that \"shallow, flat, non&#x2011;circulating pools\" like the Lincoln Memorial's create \"almost perfect conditions for algal growth,\" something the administration is continuing to deny is a problem.\n\nHere's how the colour of the Lincoln Reflecting Pool became the latest political flashpoint in a politically charged United States.\n\nTrump's desired overhaul of the Reflecting Pool is part of an ongoing administration push to \"beautify\" American cities, and its capital in particular, following what it sees as years of Democrat neglect.\n\nSuch projects in Washington DC include the complete knock-down and rebuild of the East Wing of the White House, the plans to build a towering victory arch in Washington that will exceed the Arc de Triomphe in Paris, and a US$7.5 million plan to paint the Eisenhower building.\n\nThe Lincoln Memorial Reflecting Pool is a 619 by 51 metre rectangular pool built in 1922 between the Washington Monument and the Lincoln Memorial.\n\nWhile it draws millions of tourists each year, it has long had issues with water clarity. It's 6.75 million gallons of still water see blooms of the photosynthetic organism each summer, something Barack Obama spent US$34 million to fix &#x2014; unsuccessfully.\n\n\"Healthy water naturally...",
-            "zh": "网上流传的视频似乎显示，林肯纪念堂倒影池的底部正升起一条条“美国国旗蓝色”油漆，这是造价 1,460 万美元（合 2,080 万美元）的翻修工程遭遇的最新灾难。 民权活动家马丁·路德·金发表著名的“我有一个梦想”演讲时曾俯瞰的倒影池在唐纳德·特朗普的指导下进行了改造，以纪念今年 7 月 4 日美国的 250 岁生日。 据报道，五月，游泳池被排干，花岗岩底部添加了商业级密封剂。 总部位于弗吉尼亚州的大西洋工业涂料公司此前曾在特朗普的一个高尔夫球场工作过，随后获得了一份颇具争议的价值 1,310 万美元（合 1,870 万美元）的无投标合同。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “我们做得非常出色，”特朗普上周在白宫完工后对记者表示，并声称只花费了 1000 万美元。 公司老板埃迪·伍德（Eddie Wood）在给美国全国广播公司（NBC）的一封电子邮件中证实，成本实际上已经超出了预期。 “但每个人都在看着那个倒影池，”特朗普继续说道。 “他们不敢相信它会反射。我们使用了深蓝色，它被称为美国国旗蓝。” 然而，参观华盛顿标志性遗址的游客注意到，水已经变成了明显的绿色。 澳大利亚藻类控制公司的环境顾问韦恩·索贝 (Wayne Sobey) 告诉 SBS 新闻，像林肯纪念堂这样的“浅、平坦、非循环水池”为藻类生长创造了“近乎完美的条件”，但政府一直否认这是一个问题。 以下是林肯倒影池的颜色如何成为政治紧张的美国最新的政治热点。 特朗普对倒影池的彻底改造是政府持续推动“美化”美国城市，特别是首都的一部分，因为它认为民主党多年来一直忽视这一举措。 华盛顿特区的此类项目包括彻底拆除和重建白宫东翼、在华盛顿建造一座将超过巴黎凯旋门的高耸胜利拱门的计划，以及耗资750万美元粉刷艾森豪威尔大楼的计划。 林肯纪念堂倒影池是一座 619 米 x 51 米的矩形水池，建于 1922 年，位于华盛顿纪念碑和林肯纪念堂之间。 虽然它每年吸引数百万游客，但长期以来一直存在水质透明度问题。每年夏天，有 675 万加仑的静水会出现这种光合生物的繁盛，巴拉克·奥巴马 (Barack Obama) 花费了 3,400 万美元来修复这一问题，但没有成功。 “健康水自然..."
-          },
-          "reflection": {
-            "en": "The news of the Lincoln Memorial Reflecting Pool turning green reminds us that even well-intentioned projects can go awry without careful planning and diverse perspectives. Proverbs 11:14 suggests that wise counsel is essential for success, highlighting the importance of seeking broad input to avoid unforeseen complications in our endeavors.",
-            "zh": "林肯纪念堂倒影池变绿的消息提醒我们，即使是出于良好意图的项目，若缺乏周密规划和多方意见，也可能事与愿违。箴言11:14指出，没有智谋，民就败落；谋士众多，就必得胜。这强调了在我们的各项努力中，寻求广泛的建议对于避免意想不到的复杂情况至关重要。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "aiVerseId": "prov_11_14",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-videos-cdxdly41p23o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/53bf/live/ef5c43d0-6c54-11f1-b1db-af71d47507d6.jpg",
-          "publishedAt": "2026-06-20T03:13:18.000Z",
-          "title": {
-            "en": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
-            "zh": "观看：世界杯球迷对美国队击败澳大利亚队晋级淘汰赛的反应"
-          },
-          "summary": {
-            "en": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
-            "zh": "美国队以2比0击败澳大利亚队，晋级世界杯淘汰赛，美国球迷为此欢欣鼓舞。澳大利亚球迷虽然感到失望，但仍抱有希望。"
-          },
-          "body": {
-            "en": "World Cup fans flooded the streets in celebration in Seattle, Washington after the US beat Australia 2-0 to progress to the knockout round.\n\nSupporters dressed in the stars and stripes as well as green and gold came together to bask in football fever.\n\nThe Hollywood star is accused by fellow Australian actress Charlotte MacInnes of making defamatory statements.\n\nTwo-up is a coin toss betting game that was played by Australian soldiers during World War One - it’s now only legal across Australia on 25 April.\n\nThe boy, who was uninjured, was dragged for 350 metres after the back doors trapped his arm and school bag.\n\nBBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.\n\nThe BBC spoke to people in Sydney to hear their thoughts on the Duke and Duchess of Sussex’s trip to Australia.\n\nFugitive Dezi Freeman has been wanted since he shot dead two police officers on his rural property in August last year.\n\nThree months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.\n\nPassengers discovered a real possum nestled among other native Australian toy animals at Hobart Airport, Tasmania.\n\nFor 25 years, a rural Australian town has been transforming its main street into an inland beach.\n\nAustin Appelbee, 13, swam to get help for his mother and siblings after they were swept out to sea.\n\nThe BBC spoke to people in Sydney about the four shark attacks in 48 hours along Australia's New South Wales coast.\n\nHeavy rain did not dampen a man's spirits as he decided to take a dive into a flooded Sydney golf course.\n\nAustralia's Great Ocean Road closed on Thursday after flash floods hit the state of Victoria.\n\nHundreds paddle out at Bondi beach to commemorate the shooting victims from Sunday's attack.\n\nMatilda, 10, was mourned by family, friends, and the community in Sydney after she was killed in the Bondi shooting on Sunday.\n\nRabbi Ulman, the father-in-law of British-born Rabbi Eli Schlanger, said he hoped his son-in-law knew how loved he was.\n\nThe mother of 10-year-old Matilda, the youngest victim of the Bondi Beach attack, paid tribute to her daughter at a flower memorial on Tuesday evening.\n\nHis death was described as an \"unspeakable loss\" in a service held at the Chabad of Bondi.\n\nThe first funerals are being held for victims of Sunday's mass shooting at Bondi Beach.",
-            "zh": "美国队2-0击败澳大利亚队晋级淘汰赛后，华盛顿州西雅图的世界杯球迷涌上街头庆祝。 身穿星条旗、绿色和金色服装的支持者聚集在一起，享受足球热潮。 这位好莱坞明星被澳大利亚女演员夏洛特·麦金尼斯指控发表诽谤性言论。 Two-up 是一种掷硬币投注游戏，由澳大利亚士兵在第一次世界大战期间玩 - 现在只有 4 月 25 日才在澳大利亚合法。 这名男孩没有受伤，但他的手臂和书包被后门夹住，被拖了350米。 BBC 新闻记者西蒙·阿特金森 (Simon Atkinson) 解释了这对夫妇的这次旅行与上次访问相比有何不同。 英国广播公司采访了悉尼民众，了解他们对苏塞克斯公爵和公爵夫人澳大利亚之行的看法。 逃犯德兹·弗里曼（Dezi Freeman）去年八月在自家乡村房产中枪杀两名警察后一直受到通缉。 自该法生效三个月以来，青少年们向 BBC 讲述了这项世界首创的法律迄今为止对他们的生活产生了怎样的影响。 乘客在塔斯马尼亚州霍巴特机场发现了一只真正的负鼠，它坐落在其他澳大利亚本土玩具动物中。 25 年来，澳大利亚的一个乡村小镇一直在将其主要街道改造成内陆海滩。 13 岁的奥斯汀·阿佩尔比 (Austin Appelbee) 在母亲和兄弟姐妹被冲入大海后游泳寻求帮助。 BBC 向悉尼民众讲述了 48 小时内澳大利亚新南威尔士州海岸发生的四起鲨鱼袭击事件。 大雨并没有浇灭一个人的精神，他决定跳入被洪水淹没的悉尼高尔夫球场。 维多利亚州山洪暴发后，澳大利亚大洋路于周四关闭。 数百人在邦迪海滩划船，纪念周日袭击事件中的枪击受害者。 周日，10 岁的玛蒂尔达在邦迪枪击事件中丧生，悉尼的家人、朋友和社区都对她表示哀悼。 英国出生的拉比·埃利·施兰格的岳父拉比·乌尔曼说，他希望他的女婿知道他是多么受人爱戴。 周二晚上，邦迪海滩袭击事件中最年轻的受害者、10 岁的玛蒂尔达的母亲在鲜花追悼会上向女儿致敬。 在邦迪查巴德举行的葬礼上，他的去世被描述为“难以形容的损失”。 首场葬礼正在为周日邦迪海滩大规模枪击事件的受害者举行。"
-          },
-          "reflection": {
-            "en": "The World Cup brings moments of intense joy for winners and keen disappointment for those who fall short, yet both sides often show remarkable discipline and dedication. Yahweh's Word reminds us that while athletes strive for a perishable crown, true lasting reward comes from a life lived with eternal perspective. This perspective helps us appreciate the...",
-            "zh": "世界杯为胜利者带来狂喜，也为失利者带来深深的失望，但双方都展现出非凡的纪律和奉献精神。雅伟的话语提醒我们，运动员为的是那会朽坏的冠冕，而真正持久的奖赏则来自以永恒视角度过的一生。这种视角帮助我们欣赏比赛中的努力和技巧，同时也能轻看其结果。"
-          },
-          "verse": {
-            "reference": "1 Corinthians 9:25",
-            "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
-            "textZh": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
-            "themeEn": "Perishable vs eternal crown",
-            "themeZh": "能坏与不能坏的冠冕"
-          },
-          "aiVerseId": "1cor_9_25",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c4gykxklvl5o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4be1/live/ab172e90-6c51-11f1-9c25-e3d7dad7dcd5.jpg",
-          "publishedAt": "2026-06-20T03:12:47.000Z",
-          "title": {
-            "en": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
-            "zh": "澳大利亚确认首例H5N1禽流感病例，病毒已蔓延至各大洲"
-          },
-          "summary": {
-            "en": "Australia has reported its first case of the H5N1 bird flu strain, making it the final continent where the virus has now been detected.",
-            "zh": "澳大利亚已确认首例H5N1禽流感病例，至此该病毒株已蔓延至全球各大洲。"
-          },
-          "body": {
-            "en": "The H5N1 strain of bird flu has for the first time been found in Australia, the country's agriculture ministry confirmed. It means the highly contagious variant has now reached every continent.\n\nThe disease was found in a migratory seabird, a brown skua, in remote Western Australia, Agriculture Minister Julie Collins said on Saturday.\n\nThe bird was found on a beach at the Cape Le Grand National Park near the town of Esperance, about 700km (434 mi) south-east of Perth, according to local media.\n\nAustralia was previously the only continent where the H5N1 bird flu strain had not been found.\n\nThe strain can spread quickly among poultry and wild bird populations. Human cases tied to the disease remain uncommon.\n\n\"We all knew we couldn't be bird flu-free forever,\" Collins told a press conference.\n\nCollins added that there was a second suspected case of bird flu - a southern petrel that was found exhausted on an Esperance beach, though she added that there was no \"evidence of mass mortalities at this time\".\n\nThreatened Species Commissioner Fiona Fraser said authorities would know \"within a few days\" if the virus was present in any other animal populations in Australia, according to a report by the national broadcaster, the ABC.\n\nThe report also quoted the country's Chief Veterinary Officer Beth Cookson who said authorities had been \"preparing for this event for a long time\" and that the committee for emergency animal disease had convened on Saturday.\n\nThe H5N1 strain of bird flu was detected on the remote Australian territories of Heard and McDonald Islands in October last year - located in the southern Indian Ocean.\n\nA study released this week estimated that around 13,000 baby seals from a group of 17,000 on Heard Island were killed by the H5N1 strain of bird flu since last August, more than 75% of the entire group. They also found higher than expected deaths in penguin populations.\n\nScientists believe bird flu was likely introduced to the islands last August from migrating birds from the French-owned Crozet Islands, about 1,800 km away.\n\nBird flu is a disease caused by a virus that infects birds and sometimes other animals, such as foxes, seals and otters.\n\nThe major strain - circulating among wild birds worldwide - is a type of the virus known as H5N1. It emerged in China in the late 1990s.\n\nBird migration has led to outbreaks in domestic and wild birds- and in very rare cases also infected humans, usually from contact with sick animals.",
-            "zh": "澳大利亚农业部证实，澳大利亚首次发现H5N1禽流感病毒株。这意味着这种具有高度传染性的变种现已传播到各大洲。 农业部长朱莉·柯林斯周六表示，这种疾病是在西澳大利亚偏远地区的一种迁徙海鸟棕色贼鸥身上发现的。 据当地媒体报道，这只鸟是在珀斯东南约 700 公里（434 英里）处埃斯佩兰斯镇附近的大角国家公园的海滩上发现的。 澳大利亚此前是唯一未发现H5N1禽流感病毒的大陆。 该菌株可以在家禽和野鸟种群中迅速传播。与该疾病相关的人类病例仍然不常见。 柯林斯在新闻发布会上说：“我们都知道我们不可能永远没有禽流感。” 柯林斯补充说，出现了第二起疑似禽流感病例——一只在埃斯佩兰斯海滩上被发现精疲力尽的南方海燕，不过她补充说，“目前没有大规模死亡的证据”。 据国家广播公司美国广播公司 (ABC) 报道，濒危物种专员菲奥娜·弗雷泽 (Fiona Fraser) 表示，当局将在“几天内”知道澳大利亚任何其他动物种群中是否存在该病毒。 报道还援引该国首席兽医官贝丝·库克森的话说，当局“为这一事件准备了很长时间”，紧急动物疾病委员会已于周六召开会议。 去年10月，在位于南印度洋的赫德岛和麦克唐纳岛的偏远澳大利亚领土上发现了H5N1禽流感病毒株。 本周发布的一项研究估计，自去年 8 月以来，赫德岛 17,000 只小海豹中约有 13,000 只小海豹死于 H5N1 禽流感病毒，占整个海豹种群的 75% 以上。他们还发现企鹅种群的死亡人数高于预期。 科学家认为，禽流感很可能是去年 8 月由来自法属克罗泽群岛（距离约 1,800 公里）的候鸟传入这些岛屿的。 禽流感是一种由病毒引起的疾病，它会感染鸟类，有时还会感染其他动物，如狐狸、海豹和水獭。 在全世界野生鸟类中传播的主要毒株是一种名为 H5N1 的病毒。它于20世纪90年代末在中国出现。 鸟类迁徙导​​致家禽和野生鸟类爆发疫情，在极少数情况下，人类也受到感染，通常是通过接触患病动物。"
-          },
-          "reflection": {
-            "en": "The global spread of H5N1 bird flu, now reaching every continent, reminds us to observe the natural world closely. Yahweh's creation, including its animals and birds, often reveals profound truths about our interconnectedness and the challenges we face. Understanding these patterns can guide our response to such widespread biological events.",
-            "zh": "H5N1禽流感蔓延至全球各大洲，包括澳大利亚，提醒我们要仔细观察自然界。雅伟的创造，包括其中的动物和鸟类，常常揭示我们相互关联的深刻真理以及我们面临的挑战。理解这些模式可以指导我们应对此类广泛的生物事件。"
-          },
-          "verse": {
-            "reference": "Job 12:7-9",
-            "textEn": "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you.",
-            "textZh": "你且问走兽，走兽必指教你；又问空中的飞鸟，飞鸟必告诉你。或与地说话，地必指教你；海中的鱼也必向你说明。",
-            "themeEn": "Wisdom from creation",
-            "themeZh": "受造之物的教导"
-          },
-          "aiVerseId": "job_12_7",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-first-case-of-h5-bird-flu-confirmed-in-australia-a-7763376",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/first-case-of-h5-bird-flu-confirmed-in-australia/a-77633767?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/64794540_6.jpg",
-          "publishedAt": "2026-06-20T03:00:00.000Z",
-          "title": {
-            "en": "First case of H5 bird flu confirmed in Australia",
-            "zh": "澳大利亚确诊首例H5禽流感病例"
-          },
-          "summary": {
-            "en": "A migratory sea bird in Western Australia has tested positive for the contagious H5 variant of bird flu, marking the first detected case of this strain on the continent. Australia had previously been the only continent without a confirmed detection of the H5 bird flu strain.",
-            "zh": "西澳大利亚州的一只候鸟被检测出H5型高致病性禽流感病毒呈阳性，这是该毒株首次在澳大利亚大陆被发现。此前，澳大利亚是唯一没有检测到该毒株的洲。"
-          },
-          "body": {
-            "en": "A migratory seabird tested positive for the contagious H5 variant of avian influenza in Western Australia. Australia had been the only continent where H5 was not detected.\n\nOn Saturday,&#160; Australia confirmed its first mainland case of the deadly H5 strain of bird flu .\n\nThe disease&#160;was detected in a migratory seabird — a brown skua —&#160;in a remote part ‌of ⁠Western Australia, Agriculture Minister Julie Collins said at a press briefing in Canberra.\n\nThe development means that the highly contagious variant of avian influenza is now present on every continent.\n\nThe bird was found near a beach at the Cape Le Grand National Park, about ​700 ‌kilometers (430 miles) from Western Australia's capital, Perth.\n\n\"Whilst disappointing, this is not unexpected, given the global spread of the H5 bird flu,\" Collins said.\n\n\"I can confirm there is still no evidence of any mass mortalities at this time, nor is there any evidence of infection in any poultry,\" she said.\n\nThe H5 strain has led to high death rates in poultry and wild birds throughout the planet.\n\nIt has also affected mammals, with detections in animals like cats, goats, alpacas and pigs.\n\nAustralia had been gearing up for the variant's arrival with stricter biosecurity at farms, testing of shore birds and vaccinations among species that were vulnerable.\n\nPrime Minister Anthony Albanese said that the detection of the case was concerning, adding that his government would undertake steps to curb the spread of the disease.\n\n\"This is something that has happened through migratory birds, and has happened by definition around the world, and this is why we are preparing for this,\" he said.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to&#160; select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button , so you'll always see our verified news first.",
-            "zh": "在西澳大利亚，一只候鸟海鸟的传染性 H5 型禽流感病毒检测呈阳性。迄今为止，澳大利亚是唯一尚未发现该菌株的大陆。 澳大利亚周六证实了大陆首例致命 H5 禽流感病例。 农业部长朱莉·柯林斯在堪培拉举行的新闻发布会上表示，在西澳大利亚偏远地区的一种迁徙海鸟——棕色贼鸥中发现了这种疾病。 这一进展意味着高度传染性的禽流感变种现已存在于各大洲。 这只鸟是在勒格兰德角国家公园的海滩附近发现的，距离西澳大利亚州首府珀斯约 700 公里（430 英里）。 柯林斯说：“虽然令人失望，但鉴于 H5 禽流感在全球蔓延，这并不意外。” 她说：“我可以确认，目前还没有任何大规模死亡的证据，也没有任何家禽感染的证据。” H5 毒株导致全球家禽和野鸟的高死亡率。 它还影响了哺乳动物，在猫、山羊、羊驼和猪等动物中都检测到了这种病毒。 澳大利亚一直在为该变种的到来做好准备，在农场采取更严格的生物安全措施，对滨鸟进行测试，并对脆弱物种进行疫苗接种。 总理安东尼·阿尔巴内塞表示，该病例的发现令人担忧，并补充说，他的政府将采取措施遏制该疾病的传播。 他说：“这是通过候鸟发生的事情，而且按照定义，在世界各地都发生过，这就是我们为此做好准备的原因。” 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
-          },
-          "reflection": {
-            "en": "The confirmation of H5 bird flu in Australia, previously untouched, highlights the fragility and interconnectedness of our global ecosystem. Yahweh's word reminds us that creation itself groans under the weight of brokenness, a call for us to respond with greater care and stewardship for the natural world.",
-            "zh": "澳大利亚首次确诊H5禽流感病例，这提醒我们全球生态系统的脆弱性和相互关联性。雅伟的话语告诉我们，受造界本身在破碎的重压下叹息，这呼唤我们以更大的关怀和管家精神来对待雅伟托付给我们的自然世界。"
-          },
-          "verse": {
-            "reference": "Romans 8:22",
-            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
-            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
-            "themeEn": "Creation's groan",
-            "themeZh": "受造叹息"
-          },
-          "aiVerseId": "rom_8_22",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-deadly-h5-bird-flu-has-been-confirmed-in-aus",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/deadly-h5-bird-flu-has-been-confirmed-in-australia-heres-what-it-means/gnzh3bzyt",
-          "image": "https://assets.sbs.com.au/dims4/default/cd2e526/2147483647/strip/false/crop/4000x1838+0+581/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F46%2F78%2F190866c54e17b5fab79f411d87ad%2F20260618119265661152-original.jpg",
-          "publishedAt": "2026-06-20T00:34:49.000Z",
-          "title": {
-            "en": "Deadly H5 strain of bird flu has been confirmed in Australia — here's what it means",
-            "zh": "致命H5禽流感病毒株在澳大利亚确诊——这意味着什么"
-          },
-          "summary": {
-            "en": "Australia has confirmed its first case of the deadly H5N1 avian influenza, a significant development for the nation's public health.",
-            "zh": "澳大利亚已确认首例致命H5N1禽流感病例，这对该国的公共卫生而言是一个重大进展。"
-          },
-          "body": {
-            "en": "For years, as cases of the deadly H5 strain of bird influenza wreaked havoc among animal populations across the globe, Australia had been the sole continent to avoid it successfully &#x2014; until now.\n\nOn Saturday, the first positive case of the virus on the Australian mainland was confirmed.\n\nAgriculture minister Julie Collins confirmed at a press conference in Canberra that the H5 bird flu was detected in a migratory bird in Western Australia.\n\nPrime Minister Anthony Albanese said Australia will do all it can to curb any spread of H5N1 bird flu.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"There's no evidence of any mass mortalities, and there's no evidence that it's in our poultry or agriculture system at this stage,\" Collins added.\n\nIn its efforts to tackle previous bird-flu outbreaks, Australia has tightened biosecurity measures at farms, tested shore birds for disease, vaccinated vulnerable species, and war-gamed response plans for an H5N1 outbreak.\n\nA single migratory wild seabird potentially infected with the disease was found in Western Australia on 14 June.\n\nBefore the suspected positive case was confirmed, Collins said on Friday that it would be \"not unexpected\" to discover.\n\n\"This will be sobering, but not unexpected given the spread globally,\" she said.\n\nThe bird was a brown skua &#x2014; a sub-Antarctic species &#x2014; that was found on a remote beach at the Cape Le Grand National Park near Esperance, about 700km southeast of Perth.\n\nWA Agriculture and Food Minister Jackie Jarvis said the bird was isolated after it was discovered in an unwell state on Sunday and died that night.\n\n\"I'm told it is not normal for them to be on the south coast of Western Australia,\" Jarvis said.\n\n\"But I am also told it's not uncommon if a bird is sick to actually be sort of blown off course, as it were.\"\n\nInitial tests were confirmed overnight by the CSIRO's Australian Centre for Disease Preparedness.\n\nSenior lecturer at the Institute for Marine and Antarctic Studies at the University of Tasmania, Dr Jane Younger, said the species infected with the virus could give clues to its origin.\n\n\"The species involved are important,\" she said, noting that they are Southern Ocean and sub-Antarctic birds.\n\nThis suggests that the virus \"probably reached mainland Australia through Southern Ocean wildlife movements, rather than through the northern hemisphere route we have been watching closely,\" Younger explained.\n\nBut, she says, genetic analysis was still essential to identify the virus' origin and whether it was linked to current outbreaks across the Southern Ocean.\n\nCommonly known as bird flu, avian influenza is a contagious virus that predominantly affects bird species...",
-            "zh": "多年来，致命的 H5 禽流感病毒对全球动物种群造成了严重破坏，直到现在，澳大利亚一直是唯一成功避免感染的大陆。 周六，澳大利亚大陆确诊首例病毒阳性病例。 农业部长朱莉·柯林斯(Julie Collins)在堪培拉举行的新闻发布会上证实，西澳大利亚的一只候鸟中检测到H5禽流感。 总理安东尼·阿尔巴内斯表示，澳大利亚将尽一切努力遏制 H5N1 禽流感的传播。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 柯林斯补充说：“没有证据表明存在任何大规模死亡，也没有证据表明现阶段我们的家禽或农业系统中存在这种情况。” 在应对之前的禽流感疫情的过程中，澳大利亚加强了农场的生物安全措施，对岸禽进行了疾病检测，对脆弱物种进行了疫苗接种，并针对 H5N1 疫情制定了应对计划。 6 月 14 日，在西澳大利亚发现了一只可能感染该疾病的迁徙野生海鸟。 在疑似阳性病例确诊之前，柯林斯周五表示，发现这一病例“并不意外”。 她说：“这将发人深省，但考虑到疫情在全球范围内的蔓延，这并不令人意外。” 这只鸟是一只棕色贼鸥——一种亚南极物种——是在珀斯东南约 700 公里埃斯佩兰斯附近勒格兰德角国家公园的一个偏远海滩上发现的。 西澳农业和食品部长杰基·贾维斯表示，这只鸟于周日被发现处于不适状态，并于当晚死亡，随后被隔离。 贾维斯说：“我听说他们出现在西澳大利亚州南海岸是不正常的。” “但我也被告知，如果一只鸟生病了，实际上被吹离了航线，这并不罕见。” 联邦科学与工业研究组织 (CSIRO) 的澳大利亚疾病预防中心连夜确认了初步测试结果。 塔斯马尼亚大学海洋和南极研究所的高级讲师简·杨格博士表示，感染该病毒的物种可以提供其起源的线索。 “所涉及的物种很重要，”她说，并指出它们是南大洋和亚南极地区的鸟类。 杨格尔解释说，这表明该病毒“可能通过南大洋野生动物的活动到达澳大利亚大陆，而不是通过我们一直密切关注的北半球路线”。 但是，她说，基因分析对于确定病毒的起源以及它是否与南大洋当前的疫情爆发有关仍然至关重要。 禽流感俗称禽流感，是一种主要影响鸟类的传染性病毒..."
-          },
-          "reflection": {
-            "en": "The confirmation of a deadly H5 bird flu strain reminds us of life's fragility and the constant presence of illness in our world. In such times, the Scriptures encourage us to pray for those affected by disease and for wisdom for those working to contain it. We can bring our concerns to Yahweh, trusting in His compassion and care.",
-            "zh": "致命H5禽流感病毒株的确认提醒我们生命的脆弱以及疾病在世上的持续存在。在这样的时刻，圣经鼓励我们为受疾病影响的人祷告，也为那些致力于控制疫情的人寻求智慧。我们可以将我们的担忧带到雅伟面前，信靠祂的怜悯和看顾。"
-          },
-          "verse": {
-            "reference": "James 5:14",
-            "textEn": "Is anyone among you sick? Let them call the elders of the church to pray over them.",
-            "textZh": "你们中间有病了的呢，他就该请教会的长老来；他们可以奉主的名用油抹他，为他祷告。",
-            "themeEn": "Pray for the sick",
-            "themeZh": "为病人代祷"
-          },
-          "aiVerseId": "jas_5_14",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-german-journalist-detained-in-syria-back-home-lawyer-says-",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/german-journalist-detained-in-syria-back-home-lawyer-says/a-77631412?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77631648_6.jpg",
-          "publishedAt": "2026-06-19T17:06:00.000Z",
-          "title": {
-            "en": "German journalist detained in Syria back home, lawyer says",
-            "zh": "律师称在叙利亚被拘留的德国记者已回国"
-          },
-          "summary": {
-            "en": "Eva Maria Michelmann, a German journalist who disappeared in Syria in January during clashes between government forces and Kurdish fighters, has safely returned home, her lawyer confirmed. The German government had previously stated its efforts to secure her release.",
-            "zh": "德国记者伊娃·玛丽亚·米歇尔曼已安全回国，其律师证实了这一消息。她于一月份在叙利亚失踪，当时政府军正在向叙利亚东北部的库尔德武装推进。德国政府上周曾表示正在努力让她回家。"
-          },
-          "body": {
-            "en": "Eva Maria Michelmann vanished in Syria in January as government forces advanced on Kurdish fighters in the northeast. The German government last week said it was working to get her home.\n\nGerman journalist Eva Maria Michelmann, who went missing early this year in Syria while reporting on the remnants of more than a decade of civil war, returned to Germany on Friday, her lawyer said.&#160;\n\n\"It can be confirmed that Eva M. Michelmann was released this morning and returned to Germany this afternoon,\" her lawyer Roland Meister told the AFP news agency, also making similar comments to other outlets.&#160;\n\nHer brother Antonius Michelmann later told the German dpa news agency that \"We went to collect her,\" as she returned to Germany via Jordan.&#160;\n\nHe said she had been held in solitary confinement for an extended period but did not provide further details.&#160;\n\nMichelmann had gone missing during an offensive by Syrian government forces against Kurdish fighters in the northeast in January this year. Her colleague Turkish-Kurdish journalist Ahmed Polad disappeared at the same time.\n\nAccording to the Committee to Protect Journalists (CPJ) , they both worked for the Istanbul-based socialist Etkin News Agency (ETHA) and the Ozgur TV channel.\n\nThe German Foreign Ministry last week said it was working at a high level to secure Michelmann's release.&#160;\n\nIt wasn't clear why the reporter from the western city of Cologne was detained or if she was charged with any crime.&#160;\n\nThe West has broadly welcomed the new Syrian government , led by former Islamist militant group leader Ahmed al-Sharaa , who has pledged to turn over a new, inclusive leaf now he's in power in Damascus.\n\nBut&#160;religious and ethnic minorities including the Kurds in Syria have voiced concern about the new Sunni regime that toppled longstanding dictator Bashar Assad in December 2024.\n\nAs well as the military clashes with Kurdish forces and reports of violence against Alawites and Druze, more mundane changes like curbs on alcohol sales in Damascus have also prompted criticism and protests.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as a preferred source on Google ,&#160;so you'll always see our verified news first.",
-            "zh": "一月份，当政府军向东北部的库尔德武装进攻时，伊娃·玛丽亚·米歇尔曼 (Eva Maria Michelmann) 在叙利亚失踪。德国政府上周表示正在努力让她回家。 德国记者伊娃·玛丽亚·米歇尔曼 (Eva Maria Michelmann) 今年年初在叙利亚报道十多年内战遗留问题时失踪，她的律师称，她已于周五返回德国。 她的律师罗兰·梅斯特告诉法新社：“可以证实，伊娃·M·米歇尔曼今天上午被释放，并于今天下午返回德国。”他也向其他媒体发表了类似评论。 她的兄弟安东尼斯·米歇尔曼后来告诉德国德新社，当她经约旦返回德国时，“我们去接她”。 他说她已被单独监禁很长时间，但没有提供更多细节。 米歇尔曼今年一月在叙利亚政府军对东北部库尔德武装的进攻中失踪。她的同事土耳其库尔德记者艾哈迈德·波拉德同时失踪。 据保护记者委员会（CPJ）称，他们都曾在伊斯坦布尔的社会主义埃特金通讯社（ETHA）和 Ozgur 电视频道工作。 德国外交部上周表示，正在高层努力确保米歇尔曼获释。 目前尚不清楚这位来自西部城市科隆的记者为何被拘留，也不清楚她是否被指控犯有任何罪行。 西方广泛欢迎由前伊斯兰激进组织领导人艾哈迈德·沙拉领导的叙利亚新政府，他承诺在大马士革掌权后将翻开新的、包容性的一页。 但包括叙利亚库尔德人在内的宗教和少数民族群体对 2024 年 12 月推翻长期独裁者巴沙尔·阿萨德的新逊尼派政权表示担忧。 除了与库尔德武装的军事冲突以及针对阿拉维派和德鲁兹派的暴力报道之外，大马士革限制酒类销售等更平常的变化也引发了批评和抗议。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间将我们选为 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
-          },
-          "reflection": {
-            "en": "The safe return of a journalist from a dangerous conflict zone brings immense relief, reminding us of the profound anxiety that accompanies such disappearances. This news echoes the truth that while weeping may endure for a night of uncertainty and fear, joy often arrives with the morning of deliverance. Yahweh's faithfulness can turn seasons of distress...",
-            "zh": "一名记者从危险冲突区安全归来，带来了巨大的宽慰，也提醒我们此类失踪事件所伴随的深切焦虑。这则新闻呼应了一个真理：虽然不确定和恐惧的夜晚可能伴随着哭泣，但喜乐常常随着得蒙拯救的清晨而到来。雅伟的信实能将困境的季节转变为感恩欢庆的时刻。"
-          },
-          "verse": {
-            "reference": "Psalm 30:5",
-            "textEn": "Weeping may stay for the night, but rejoicing comes in the morning.",
-            "textZh": "一宿虽然有哭泣，早晨便必欢呼。",
-            "themeEn": "Joy after the night",
-            "themeZh": "清晨的喜乐"
-          },
-          "aiVerseId": "ps_30_5",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-lebanon-is-us-iran-peace-deal-a-victory-for-hezbollah-a-77",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/lebanon-is-us-iran-peace-deal-a-victory-for-hezbollah/a-77629727?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77576385_6.jpg",
-          "publishedAt": "2026-06-19T16:59:00.000Z",
-          "title": {
-            "en": "Lebanon: Is US-Iran peace deal a 'victory' for Hezbollah?",
-            "zh": "黎巴嫩：美伊和平协议是真主党的“胜利”吗？"
-          },
-          "summary": {
-            "en": "Lebanon's Hezbollah group has claimed that the US-Iran peace deal is a \"great victory.\" The group, which is opposed to Israel, has certainly been bolstered by the deal. But what have they really won?",
-            "zh": "黎巴嫩真主党声称，美伊和平协议是其“巨大胜利”。这个反对以色列的组织无疑因该协议而受到鼓舞。但他们真正赢得了什么？"
-          },
-          "body": {
-            "en": "Lebanon's Hezbollah group has claimed that the US-Iran peace deal is a \"great victory.\" The group, which is opposed to Israel, has certainly been bolstered by the deal. But what has Hezbollah really won?\n\n\"A great victory\" and a \"pivotal point for Lebanon\" — that was how&#160;Naim Kassem, the leader of Lebanese group Hezbollah , described on Wednesday the&#160;memorandum of understanding that stopped fighting between Iran and the United States &#160;this week.\n\nKassem&#160;also thanked the Iranians for \"linking the Lebanese arena\" to the deal and \"forcing Israel to stop its aggression.\"\n\nHezbollah was founded in 1982&#160;with support from Iran, and one of its primary aims then was to end Israeli occupation of southern Lebanon.&#160;It has both a military and political wing and the support of much of Lebanon's Shiite Muslim community.&#160;Today, it plays a major part in Lebanese society and politics, has often been described as a \"state within a state,\" and remains opposed to Israel. Since Kassem's comments, fighting has continued in southern Lebanon, with Hezbollah targeting Israeli soldiers and Israel continuing to destroy southern villages and use bombs and drones.&#160;Sixty days of talks between the United States and Iran,&#160;during which details would be hammered out,&#160;were scheduled to start in Switzerland on Friday, but were postponed in the morning because of Iran's opposition to the fighting in Lebanon.\n\nYet, despite it's troubled start, analysts say that the deal &#160;on the table favors Hezbollah's allies in Tehran.&#160;\n\n\"This memorandum of understanding virtually gives Iran everything it wanted and Trump everything he had [before attacking Iran, together with Israel, in February],\" says James M. Dorsey, an expert on the region at Singapore's Rajaratnam School of International Studies. \"And certainly, at least initially, it looks like a victory for Hezbollah.\"\n\nThe first paragraph of the memorandum states that the US, Iran and allies will declare an \"immediate and permanent\" termination of military operations on \"all fronts,\" including Lebanon.\n\nThe deal, signed by the US, Iran and mediator Pakistan on Wednesday, also says that both will ensure \"the territorial integrity and sovereignty\" of Lebanon .\n\nIsrael currently occupies around 600 square kilometers in southern Lebanon and calls this a necessary \"security buffer zone\" needed to protect citizens in northern Israel from Hezbollah rockets. Critics of Israel say it is an invasion and occupation.\n\n\"The Iranians, for all practical purposes, said this means two things,\" Dorsey explained. \"No more military action and an Israeli withdrawal from Lebanon. So the litmus test of the Iranian position is going to be whether or not Israel is forced to abide by those conditions, and...",
-            "zh": "黎巴嫩真主党声称美伊和平协议是“伟大的胜利”。这个反对以色列的组织无疑得到了该协议的支持。但他们真正赢得了什么？ “伟大的胜利”和“黎巴嫩的转折点”——周三，黎巴嫩真主党领导人纳伊姆·卡西姆这样形容伊朗和美国本周停止战斗的谅解备忘录。 卡西姆还感谢伊朗人“将黎巴嫩舞台与该协议联系起来”并“迫使以色列停止侵略”。 真主党于 1982 年在伊朗的支持下成立，当时的主要目标之一是结束以色列对黎巴嫩南部的占领。 它拥有军事和政治部门，并得到黎巴嫩什叶派穆斯林社区的支持。 如今，它在黎巴嫩社会和政治中发挥着重要作用，经常被描述为“国中之国”，并且仍然反对以色列。自卡西姆发表评论以来，黎巴嫩南部的战斗仍在继续，真主党以以色列士兵为目标，以色列继续摧毁南部村庄并使用炸弹和无人机。 美国和伊朗之间为期六十天的谈判原定于周五在瑞士开始，期间将敲定细节，但由于伊朗反对黎巴嫩战斗而于上午推迟。 然而，尽管开局不利，但分析人士表示，摆在桌面上的协议有利于真主党在德黑兰的盟友。 “这份谅解备忘录实际上为伊朗提供了它想要的一切，也为特朗普提供了他所拥有的一切（在二月份与以色列一起攻击伊朗之前），”新加坡拉惹勒南国际研究学院的该地区专家詹姆斯·M·多尔西（James M. Dorsey）表示。 “当然，至少在最初，这看起来像是真主党的胜利。” 备忘录第一段指出，美国、伊朗及其盟国将宣布“立即且永久”终止在包括黎巴嫩在内的“所有战线”的军事行动。 该协议由美国、伊朗和调解巴基斯坦周三签署，协议还表示，双方将确保黎巴嫩的“领土完整和主权”。 以色列目前占据黎巴嫩南部约600平方公里的土地，并称其为保护以色列北部公民免受真主党火箭弹袭击所需的必要“安全缓冲区”。以色列的批评者称这是入侵和占领。 “出于所有实际目的，伊朗人说这意味着两件事，”多尔西解释道。 “不再采取军事行动，以色列也从黎巴嫩撤军。因此，伊朗立场的试金石将是以色列是否被迫遵守这些条件，以及特朗普是否对以色列说，‘你......"
-          },
-          "reflection": {
-            "en": "In the complex landscape of international relations, groups often claim political victories, yet true peace and lasting change often involve struggles beyond mere human negotiation. This verse reminds us that underlying many conflicts are deeper spiritual forces, urging us to look beyond surface-level gains to understand what is truly at stake.",
-            "zh": "在复杂的国际关系中，各方常宣称政治上的胜利，然而真正的和平与持久的改变，往往涉及超越单纯人类谈判的争战。这节经文提醒我们，许多冲突的背后有更深层的属灵力量，敦促我们超越表面的得失，去理解真正重要的究竟是什么。"
-          },
-          "verse": {
-            "reference": "Ephesians 6:12",
-            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
-            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
-            "themeEn": "Not against flesh and blood",
-            "themeZh": "并非与血气争战"
-          },
-          "aiVerseId": "eph_6_12",
           "translationState": "localized"
         }
       ]
@@ -1429,74 +1160,6 @@
             "themeZh": "债务的重轭"
           },
           "aiVerseId": "prov_22_7",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-jun-19-afghan-family-safe-austra",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/19/afghan-family-safe-australia-contrast-to-pauline-hanson-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/dd47d7908fa416bb41c49b3ecd4b0aca0f9f86f1/753_0_3941_3153/master/3941.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=89c796df598b2b06c563d2fc81d1c914",
-          "publishedAt": "2026-06-19T15:00:38.000Z",
-          "title": {
-            "en": "The Afghan family who are safe at last and full of hope, thanks to an Australia Pauline Hanson will never know",
-            "zh": "阿富汗家庭终获安全并充满希望，这得益于一个宝琳·汉森永远不会了解的澳大利亚"
-          },
-          "summary": {
-            "en": "The article highlights an Afghan family who found safety and hope in Australia, contrasting their experience with the anti-immigrant rhetoric of a politician. This story emerged during International Refugee Week, showcasing different perspectives on welcoming those seeking refuge.",
-            "zh": "文章讲述了一个阿富汗家庭在澳大利亚找到安全和希望的故事，并将其与一位政治家反移民的言论形成对比。这个故事在国际难民周期间出现，展示了对欢迎寻求庇护者不同的看法。"
-          },
-          "body": {
-            "en": "Ben Doherty in Apollo Bay Fri 19 Jun 2026 11.00 EDT Last modified on Fri 19 Jun 2026 22.05 EDT Share Prefer the Guardian on Google They came in the chill of winter to hear their speaker, a man known to most only as a name.\n\n“Thank you,” Mohammad Ibrahim told the people of Apollo Bay. “Today I am proud to call Australia my home.”\n\nHere, assembled before him in the Mechanics Hall, was the town that made that happen. A town that raised money so he could eat and his children could be clothed, raised hell with members of parliament, ministers, bureaucrats, journalists – anyone who would listen, and many who wouldn’t – to see that Australia upheld its obligation to him.\n\n“Never underestimate the power of kindness,” he said. “Because what may seem like a small action to you can become the difference between hope and despair for someone else.”\n\nDuring this country’s longest war in Afghanistan, Mohammad Ibrahim worked on Australia’s behalf , as an interpreter for a government-sponsored aid project in Uruzgan province.\n\nThe program built and ran schools for children in one of Afghanistan’s poorest provinces, it taught girls to read in places where few ever set foot in a classroom.\n\nIt vaccinated children who’d never visited a hospital, and trained midwives and doctors in a country with one of the highest infant mortality rates in the world.\n\nIbrahim was proud of the difference his work was making: “Working on those projects was an honour for me to serve my country and also help the Australian government.”\n\nBut when Afghanistan fell with terrifying swiftness to the Taliban in August 2021, Ibrahim was abandoned.\n\nLike thousands who had believed in the mission of Republican Afghanistan, who’d trusted the promises of peace and prosperity, who’d been repeatedly assured by the countries they served they would be protected in the event of calamity, he and his family were forsaken.\n\nInternational hopes for a reformed Taliban, that their desire for international legitimacy would restrain their most grotesque excesses – their brutality towards women, their violent persecution of minorities – were short-lived. The Taliban were unreformed.\n\nIn their eyes, Ibrahim was an “infidel” – a member of the Hazara ethnic and religious minority, and one who’d served the western invaders. With his young family, he was forced to flee into the mountains.\n\nOver four long years in hiding , the family lived in caves in the highlands of Bamyan, walked over precipitous mountains to remote villages where the Taliban’s reach was limited. They also rented tiny rooms in Kabul, too afraid to go out, even to buy food, uncertain that the anonymity of the capital would be any protection.\n\nSometimes they had a few weeks in the same place, once a couple of months. Some days they were forced to move...",
-            "zh": "Ben Doherty 在阿波罗湾 2026 年 6 月 19 日星期五 11:00 EDT 最后修改于 2026 年 6 月 19 日星期五 22.05 EDT 分享 更喜欢 Google 上的卫报 他们在寒冷的冬天来到这里，聆听他们的演讲者，一个大多数人只知道名字的人。 “谢谢你们，”穆罕默德·易卜拉欣对阿波罗湾的人们说。 “今天我很自豪地称澳大利亚为我的家。” 在这里，在机械大厅里聚集在他面前的是实现这一目标的小镇。这个小镇筹集资金是为了让他有饭吃，让他的孩子有衣服穿，他向议会议员、部长、官僚、记者——任何愿意听的人，以及许多不听的人——发起了地狱，以确保澳大利亚履行对他的义务。 “永远不要低估善良的力量，”他说。 “因为对你来说看似很小的行动可能会成为别人希望与绝望之间的区别。” 在该国最长的阿富汗战争期间，穆罕默德·易卜拉欣代表澳大利亚为乌鲁兹甘省政府资助的援助项目担任翻译。 该项目在阿富汗最贫困的省份之一为儿童建造并运营学校，在很少有人踏足教室的地方教授女孩们阅读。 它为从未去过医院的儿童接种疫苗，并在世界上婴儿死亡率最高的国家之一培训助产士和医生。 易卜拉欣为他的工作所带来的改变感到自豪：“参与这些项目是我的荣幸，能够为我的国家服务并帮助澳大利亚政府。” 但当 2021 年 8 月阿富汗以惊人的速度落入塔利班手中时，易卜拉欣被抛弃了。 就像成千上万的人相信阿富汗共和国的使命，相信和平与繁荣的承诺，他们所服务的国家一再向他们保证，一旦发生灾难，他们将受到保护，他和他的家人被抛弃了。 国际社会对改革后的塔利班的希望，即他们对国际合法性的渴望将限制他们最荒唐的暴行——他们对妇女的残暴，他们对少数群体的暴力迫害——的希望是短暂的。塔利班并未进行改革。 在他们眼中，易卜拉欣是一个“异教徒”——哈扎拉族和宗教少数群体的成员，也是为西方侵略者服务的人。他带着年幼的家人被迫逃进山里。 在漫长的四年里，一家人住在巴米扬高地的洞穴里，翻过陡峭的山峰，来到塔利班势力范围有限的偏远村庄。他们还在喀布尔租了狭小的房间，不敢出门，甚至不敢买食物，他们不确定首都的匿名性是否能提供任何保护。 有时他们会在同一个地方待上几周，一次是几个月。有几天他们被迫搬家......"
-          },
-          "reflection": {
-            "en": "Yahweh's ancient command reminds us to welcome those seeking refuge, treating them as if they were born among us. The hope found by this Afghan family in Australia reflects the profound impact of such compassion, transforming lives and offering a new beginning. It underscores the divine call to extend love and dignity to all, especially the displaced.",
-            "zh": "雅伟古老的诫命提醒我们，要欢迎寻求庇护的异乡人，待他们如同本地人一样。这个阿富汗家庭在澳大利亚找到的希望，反映了这种怜悯的深远影响，它改变了生命，带来了新的开始。这强调了神圣的呼召，要将爱和尊严延伸给所有人，特别是那些流离失所者。"
-          },
-          "verse": {
-            "reference": "Leviticus 19:33-34",
-            "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
-            "textZh": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
-            "themeEn": "Foreigner as native-born",
-            "themeZh": "待寄居者如本族"
-          },
-          "aiVerseId": "lev_19_33",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-live-blog-australia-v-usa-world-cup-live-score-updat",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/live-blog/australia-v-usa-world-cup-live-score-updates/p40d16rva",
-          "image": "https://assets.sbs.com.au/dims4/default/23e29d1/2147483647/strip/false/crop/4640x2132+0+527/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F44%2F96%2Fc5744852475582e642f0a43c689d%2Fgettyimages-2282406955.jpg",
-          "publishedAt": "2026-06-19T12:03:20.000Z",
-          "title": {
-            "en": "Heartbreak for Australia after 2-0 loss to USA, despite better second half — as it happened",
-            "zh": "澳大利亚队0比2不敌美国队，下半场表现虽有改善，仍心碎告负"
-          },
-          "summary": {
-            "en": "Australia's national soccer team, the Socceroos, suffered a 2-0 defeat against the USA. Coach Tony Popovic's unexpected first-half lineup proved ineffective against the American offense, despite the team's improved performance in the second half.",
-            "zh": "澳大利亚国家足球队“袋鼠军团”以0比2不敌美国队。尽管下半场表现有所改善，但主教练托尼·波波维奇出人意料的上半场阵容未能抵挡住美国队的攻势。"
-          },
-          "body": {
-            "en": null,
-            "zh": null
-          },
-          "reflection": {
-            "en": "A coach's strategic decisions are crucial in competitive sports, and this loss highlights how even well-intentioned plans can fall short without effective guidance. In any endeavor, seeking wise counsel and sound strategy is vital for success, reminding us that collective wisdom often provides the best path forward.",
-            "zh": "在竞技体育中，教练的战略决策至关重要；这场失利提醒我们，即使是善意的计划，若缺乏有效指导也可能功亏一篑。在任何事业中，寻求明智的建议和可靠的策略都至关重要，这提醒我们集体的智慧往往能指引最佳前进方向。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "aiVerseId": "prov_11_14",
           "translationState": "localized"
         }
       ]
