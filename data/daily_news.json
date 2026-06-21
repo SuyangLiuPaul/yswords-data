@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T02:40:13.041Z",
+  "generatedAt": "2026-06-21T07:26:32.265Z",
   "editionDate": "2026-06-21",
   "sources": [
     {
@@ -105,20 +105,190 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "BBC News World",
         "The Guardian World",
+        "BBC News World",
         "SBS News World",
         "DW World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-world-2026-jun-21-canada-immigration-us-deportation",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/21/canada-immigration-us-deportation",
+          "image": "https://i.guim.co.uk/img/media/c5f8e916edc28825451f56b6d38e8fd05c62328c/492_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d51b87026662cfd33348d6721c646be",
+          "publishedAt": "2026-06-21T07:00:24.000Z",
+          "title": {
+            "en": "Canada’s policies force asylum seekers into US to face deportation, critics say",
+            "zh": "加拿大政策迫使寻求庇护者进入美国面临驱逐，批评人士称"
+          },
+          "summary": {
+            "en": "Advocates criticize Canada's Safe Third Country Agreement, stating it compels asylum seekers, like a family fleeing gang violence in Honduras, to enter the United States, where they face potential deportation.",
+            "zh": "批评人士指出，加拿大与美国的《安全第三国协议》迫使寻求庇护者，例如一对为躲避洪都拉斯帮派暴力而逃离家园的夫妇及其幼子，进入美国，在那里他们可能面临被驱逐出境的风险。"
+          },
+          "body": {
+            "en": "Advocates say the Safe Third Country Agreement forces immigrants to head to an unsafe country: the United States It was the threat of gang violence in Honduras that pushed Carlos and Antonia to flee their home. In 2021, with their toddler, Alejandro, and a handful of belongings, the married couple ventured north hoping to reach safety in the US. The journey, through Guatemala and Mexico , was filled with danger and uncertainty Continue reading...",
+            "zh": "支持者称，《安全第三国协议》迫使移民前往一个不安全的国家：美国。洪都拉斯的帮派暴力威胁迫使卡洛斯和安东尼娅逃离家园。 2021 年，这对已婚夫妇带着蹒跚学步的孩子亚历杭德罗 (Alejandro) 和一些随身物品，冒险北上，希望能够安全地到达美国。穿越危地马拉和墨西哥的旅程充满了危险和不确定性继续阅读..."
+          },
+          "reflection": {
+            "en": "This news reminds us of the profound challenges faced by those seeking refuge from violence and instability. Yahweh's ancient command to love the foreigner, remembering our own vulnerability, calls us to compassion for those displaced and seeking safety. It challenges us to consider how policies impact the most vulnerable among us.",
+            "zh": "这则新闻提醒我们，那些为躲避暴力和不稳定而寻求庇护的人们所面临的巨大挑战。雅伟古老的诫命，要求我们爱护寄居者，并记住我们自己也曾是脆弱的，这呼唤我们对那些流离失所、寻求安全的人们心怀怜悯。它挑战我们思考政策如何影响我们当中最脆弱的人。"
+          },
+          "verse": {
+            "reference": "Deuteronomy 10:19",
+            "textEn": "And you are to love those who are foreigners, for you yourselves were foreigners in Egypt.",
+            "textZh": "所以你们要怜爱寄居的，因为你们在埃及地也作过寄居的。",
+            "themeEn": "Welcome the foreigner",
+            "themeZh": "善待寄居者"
+          },
+          "aiVerseId": "deut_10_19",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-money-2026-jun-21-gta-6-grand-theft-auto-vi-beta-tes",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/money/2026/jun/21/gta-6-grand-theft-auto-vi-beta-test-pre-release-scams-fake",
+          "image": "https://i.guim.co.uk/img/media/ca52ca828b20f94c7823af77e477722359b9ae6d/571_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec97814c1ce5022b52a5f26243103b0a",
+          "publishedAt": "2026-06-21T06:00:24.000Z",
+          "title": {
+            "en": "‘Build Vice City’: the GTA 6 scam that’s hitting Grand Theft Auto fans",
+            "zh": "“建造罪恶都市”：GTA 6诈骗案正在影响《侠盗猎车手》粉丝"
+          },
+          "summary": {
+            "en": "Criminals are exploiting the anticipation for the upcoming video game Grand Theft Auto VI by using AI to create fake websites and emails. These fraudulent sites offer pre-release beta test versions, putting gamers' bank details at risk.",
+            "zh": "犯罪分子正利用人们对即将发布的视频游戏《侠盗猎车手VI》的期待，使用人工智能创建虚假网站和电子邮件。这些欺诈性网站提供预发布测试版，使玩家的银行信息面临风险。"
+          },
+          "body": {
+            "en": "Bank details at risk as criminals use AI to create fake sites and emails offering pre-release beta test version Like millions of gamers around the world, you have been waiting years for Grand Theft Auto VI to be released. Now you have the opportunity to play the much-anticipated game before everyone else. An email has arrived inviting you to play a pre-release “beta” version of the game so that you can alert the makers to any bugs before its official release later this year. Continue reading...",
+            "zh": "犯罪分子利用人工智能创建虚假网站和电子邮件，提供预发布 Beta 测试版本，银行详细信息面临风险 像世界各地数以百万计的游戏玩家一样，您已经等待《侠盗猎车手 VI》的发布多年了。现在您有机会先于其他人玩备受期待的游戏。一封电子邮件已送达，邀请您玩该游戏的预发布“测试版”版本，以便您可以在今年晚些时候正式发布之前提醒制作者注意任何错误。继续阅读..."
+          },
+          "reflection": {
+            "en": "In an age where digital scams are increasingly sophisticated, this story reminds us of the importance of discernment. The desire for something new can sometimes make us vulnerable to schemes that promise quick access or exclusive opportunities. Yahweh's wisdom encourages us to be prudent, carefully considering our steps before trusting unverified offers...",
+            "zh": "在数字诈骗日益复杂的时代，这个故事提醒我们辨别力的重要性。对新事物的渴望有时会使我们容易受到那些承诺快速获取或独家机会的骗局的伤害。雅伟的智慧鼓励我们要谨慎，在信任未经核实的网络信息之前，仔细考虑我们的每一步。"
+          },
+          "verse": {
+            "reference": "Proverbs 14:15",
+            "textEn": "The simple believe anything, but the prudent give thought to their steps.",
+            "textZh": "愚蒙人是话都信；通达人步步谨慎。",
+            "themeEn": "Discernment",
+            "themeZh": "分辨与谨慎"
+          },
+          "aiVerseId": "prov_14_15",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-artanddesign-2026-jun-21-us-mexico-border-protests-p",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/artanddesign/2026/jun/21/us-mexico-border-protests-poland-highlights-photoespana-2026-spain",
+          "image": "https://i.guim.co.uk/img/media/5e0d320b96afa7a919be15e801f3b07c0eb86016/583_858_3012_2408/master/3012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e02c27df92e2f0c1aee5629a32a85f1f",
+          "publishedAt": "2026-06-21T06:00:23.000Z",
+          "title": {
+            "en": "From the US-Mexico border to protests in Poland: highlights of PhotoEspaña 2026",
+            "zh": "从美墨边境到波兰抗议：2026年西班牙摄影节亮点"
+          },
+          "summary": {
+            "en": "Spain’s leading photography festival, PhotoEspaña, has opened in Madrid, featuring over 300 visual artists in nearly 100 exhibitions across the country. The festival showcases diverse works, including those depicting life at the US-Mexico border and protests in Poland.",
+            "zh": "西班牙顶级的摄影节PhotoEspaña已在马德里开幕，全国近百场展览展出了300多位视觉艺术家的作品。该摄影节展示了多样化的作品，包括描绘美墨边境生活和波兰抗议活动的照片。"
+          },
+          "body": {
+            "en": "Spain’s leading festival of photography showcases the work of more than 300 visual artists in nearly 100 exhibitions across the country PhotoEspaña, Spain’s leading festival of photography, held its official opening in Madrid this month and by September nearly 100 exhibitions will have showcased the work of more than 300 visual artists in the capital and across the country. Loosely corralled under the theme of reimagining, the exhibitions feature work by major figures in Spanish and international photography and less well-known emerging artists. From the series Invisible Line. Photograph: Alejandro Cartagena Continue reading...",
+            "zh": "西班牙领先的摄影节在全国近 100 个展览中展示了 300 多位视觉艺术家的作品西班牙领先的摄影节 PhotoEspaña 本月在马德里正式开幕，到 9 月，首都和全国各地将有近 100 场展览展示 300 多位视觉艺术家的作品。这些展览以重新想象为主题，展出了西班牙和国际摄影界的主要人物以及不太知名的新兴艺术家的作品。出自《看不见的线》系列。照片：亚历杭德罗·卡塔赫纳 继续阅读..."
+          },
+          "reflection": {
+            "en": "A photography festival showcasing diverse human experiences, from border challenges to social protests, reminds us of our shared humanity. Yahweh \"from one man made all the nations, that they should inhabit the whole earth.\" This festival, through its powerful images, invites us to see the common thread that connects us all, fostering empathy and...",
+            "zh": "一个展示从边境挑战到社会抗议等多样化人类经历的摄影节，提醒我们人类的共同性。雅伟“从一人造出万族，使他们住在全地上”。这个摄影节通过其有力的影像，邀请我们看到连接所有人的共同纽带，从而在不同文化和境遇之间培养同理心和理解。"
+          },
+          "verse": {
+            "reference": "Acts 17:26",
+            "textEn": "From one man he made all the nations, that they should inhabit the whole earth.",
+            "textZh": "他从一本造出万族的人，住在全地上。",
+            "themeEn": "All nations from one",
+            "themeZh": "万族同源"
+          },
+          "aiVerseId": "acts_17_26",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-film-2026-jun-21-film-producer-firms-companies-regis",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/film/2026/jun/21/film-producer-firms-companies-register-alan-latham",
+          "image": "https://i.guim.co.uk/img/media/665c83deec9149eb22602af0351a96c07ea97695/863_81_4063_3253/master/4063.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8895e10f865179126e7475eb4ec3c59",
+          "publishedAt": "2026-06-21T06:00:22.000Z",
+          "title": {
+            "en": "Film producer’s 50 firms struck off companies register, leaving workers unable to chase fees",
+            "zh": "电影制片人名下50家公司被注销，工人无法追讨费用"
+          },
+          "summary": {
+            "en": "Scores of film producer Alan Latham’s companies, including one for a movie starring Liz Hurley, have been removed from the companies register, leaving workers unable to claim their outstanding fees.",
+            "zh": "电影制片人艾伦·拉瑟姆名下包括一部由伊丽莎白·赫利主演的电影公司在内的数十家公司已被公司注册处注销，导致工人无法追讨其未付的费用。"
+          },
+          "body": {
+            "en": "Scores of Alan Latham’s firms were removed by Companies House, including one set up for movie starring Liz Hurley A prolific film producer, whose projects have starred the likes of Frasier’s Kelsey Grammer and Four Weddings and a Funeral’s Anna Chancellor , has had scores of his production businesses forcibly removed from the UK’s companies register, leaving workers unable to chase unpaid fees. Alan Latham, whose low-budget films have previously raised questions over his use of tax credits , has seen 50 of his film businesses compulsorily struck off by Companies House, according to data compiled by the film workers’ union, Bectu. Continue reading...",
+            "zh": "艾伦·莱瑟姆 (Alan Latham) 旗下的数十家公司被 Companies House 删除，其中包括一家为丽兹·赫尔利 (Liz Hurley) 主演的电影设立的公司。 一位多产的电影制片人，其作品曾主演过《欢乐一家亲》的《凯尔西·格拉默》和《四个婚礼和一个葬礼》的《安娜·钱斯勒》等，他的数十家制作公司被强行从英国公司注册中删除，导致工人们无法追讨未付费用。根据电影工人工会 Bectu 汇编的数据，艾伦·莱瑟姆 (Alan Latham) 的低成本电影此前曾因其使用税收抵免而受到质疑，他的 50 家电影业务已被 Companies House 强制取消。继续阅读..."
+          },
+          "reflection": {
+            "en": "The plight of workers left without their rightful earnings highlights a deep injustice. Yahweh hears the cries of those whose wages are withheld by fraud, reminding us that fair compensation is a matter of divine concern. This situation calls for accountability and compassion for those who have labored faithfully.",
+            "zh": "那些被拖欠应得报酬的工人的困境，凸显了严重的不公。雅伟听见那些因欺诈而被扣留工资之人的呼求，提醒我们公平的报酬是雅伟所关心的事。这种情况要求对那些忠实劳动的人负起责任并给予同情。"
+          },
+          "verse": {
+            "reference": "James 5:4",
+            "textEn": "Look! The wages you failed to pay the workers who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of Yahweh Almighty.",
+            "textZh": "工人给你们收割庄稼，你们亏欠他们的工钱，这工钱有声音呼叫，并且那收割之人的冤声已经入了万军之主的耳了。",
+            "themeEn": "Cries of unpaid workers",
+            "themeZh": "工人的冤声"
+          },
+          "aiVerseId": "jas_5_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-politics-2026-jun-21-ebbw-vale-wales-struggle-regret",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/politics/2026/jun/21/ebbw-vale-wales-struggle-regret-brexit",
+          "image": "https://i.guim.co.uk/img/media/f265ed31f49d70b7b5283f14a691ee2eda92708d/0_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc0afd505ea489fafa50e2277d6ce5e8",
+          "publishedAt": "2026-06-21T05:00:23.000Z",
+          "title": {
+            "en": "‘There’s no jobs’: struggle and regret in a Welsh town that backed Brexit",
+            "zh": "“没有工作”：一个支持脱欧的威尔士小镇的挣扎与悔恨"
+          },
+          "summary": {
+            "en": "Ten years after voting to leave the European Union, the Welsh town of Ebbw Vale, which once had the highest proportion of 'leave' voters in Wales, is grappling with significant job losses and economic hardship. Despite previous substantial EU funding, which has not been fully replaced, residents express regret and...",
+            "zh": "十年前，威尔士小镇埃布谷地（Ebbw Vale）在脱欧公投中以威尔士最高的比例投票支持脱离欧盟。尽管该镇曾获得大量欧盟资金，但这些资金并未得到充分替代，如今当地居民面临严重的失业和经济困境，表达了悔意和挣扎。即便在昔日钢铁厂的旧址上，现在已建起了医院、休闲中心和大学等现代化设施，就业机会依然稀缺。"
+          },
+          "body": {
+            "en": "Ten years ago Ebbw Vale had the highest proportion of leave voters in Wales despite huge EU funding, which has not been fully replaced Where Ebbw Vale’s steelworks once stood is now a cluster of gleaming modern buildings including a hospital, a leisure centre and a college. Over the past decade, these public facilities have been joined by a public-private cybersecurity research centre and two tech firms. A new railway station opened at the site in 2015. Yet, during the Guardian’s visit to the Welsh valleys town last week, the area was quiet. Nearly as many sheep as people appeared to be using the new facilities: a ewe and three lambs, escaped from somewhere, busied themselves in a strip of rewilded land next to the tech buildings. Continue reading...",
+            "zh": "十年前，尽管欧盟提供了大量资金，但埃布谷的脱欧选民比例仍是威尔士最高，但资金尚未完全取代。埃布谷曾经的钢铁厂所在的地方现在是一群闪闪发光的现代建筑，包括一家医院、一家休闲中心和一所大学。在过去的十年中，这些公共设施中加入了一个公私合营的网络安全研究中心和两家科技公司。 2015 年，一个新火车站在此启用。然而，在《卫报》上周访问威尔士山谷小镇期间，该地区却很安静。使用新设施的羊几乎与人们一样多：一只母羊和三只羔羊，从某个地方逃出来，在科技大楼旁边的一片荒地上忙碌着。继续阅读..."
+          },
+          "reflection": {
+            "en": "The economic struggles in Ebbw Vale, marked by job scarcity and regret, reflect the deep human need for security and purpose. Habakkuk 3:17-18 reminds us that even when material provisions fail, true joy and hope can be found in Yahweh. This perspective offers solace and resilience to communities facing profound economic uncertainty.",
+            "zh": "埃布谷地因就业稀缺和悔意而面临的经济困境，反映了人类对安全感和人生意义的深层需求。哈巴谷书3:17-18提醒我们，即便物质供应匮乏，真正的喜乐和盼望仍可在雅伟那里寻得。这种视角能为那些面临深刻经济不确定性的社区带来慰藉和韧性。"
+          },
+          "verse": {
+            "reference": "Habakkuk 3:17-18",
+            "textEn": "Though the fig tree does not bud and there are no grapes on the vines... yet I will rejoice in Yahweh.",
+            "textZh": "虽然无花果树不发旺，葡萄树不结果……然而，我要因雅伟欢欣。",
+            "themeEn": "Joy in scarcity",
+            "themeZh": "在缺乏中喜乐"
+          },
+          "aiVerseId": "hab_3_17",
+          "translationState": "localized"
+        },
         {
           "id": "www-bbc-com-news-articles-cwyekkwm1mmo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/17c2/live/72006a90-6d05-11f1-8e1d-bbbb1017d210.jpg",
-          "publishedAt": "2026-06-21T01:46:31.000Z",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3859/live/8c089720-6d3a-11f1-b4b2-ad969f26eb34.jpg",
+          "publishedAt": "2026-06-21T04:34:00.000Z",
           "title": {
             "en": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
             "zh": "伊朗称因以色列袭击黎巴嫩而关闭霍尔木兹海峡"
@@ -128,7 +298,7 @@
             "zh": "伊朗声称因以色列袭击黎巴嫩而关闭霍尔木兹海峡，但美国军方对此说法提出异议。这一事件发生在美国与伊朗在瑞士举行会谈之前。"
           },
           "body": {
-            "en": "Direct talks between the US and Iran are set to begin in Switzerland despite the Iranian military saying it has closed the Strait of Hormuz again over Israel's attacks on southern Lebanon.\n\nThe US military has disputed the claim, saying \"traffic continues to flow\". Iran said the Strait was closed in response to deadly Israeli strikes in Lebanon that were a breach of Tehran's agreement with the US to end the war.\n\nLate on Saturday, US Vice-President JD Vance departed Washington for the talks in Switzerland.\n\nAn Iranian delegation including parliamentary speaker Mohammad Bagher Ghalibaf and Foreign Minister Abbas Araghchi has already arrived.\n\nThe new round of negotiations is due start on Sunday. Vance said he hoped to make progress \"on the nuclear issue\" and on the \"Lebanon ceasefire issue\".\n\nSpeaking to the press before he boarded his flight, he was asked about clashes between Israel and Hezbollah and Israeli air strikes in southern Lebanon and said: \"Things are actually getting better there, and things are slowing down a little bit.\"\n\n\"It's going to be something we're just going to have to continuously manage to ensure that Israel and Lebanon are both safe and secure. That's fundamentally the goal of this, to make the whole region safe and secure,\" he said.\n\nIran's foreign ministry spokesman Esmail Baghaei said his country would be \"demanding that the other side fulfil its commitments\".\n\nPakistan's Prime Minister Shehbaz Sharif will attend the start of the talks, his office told the BBC. Pakistan has acted as a mediator throughout the war, and hosted a previous round of negotiations between the US and Iran.\n\nEarlier this week the US and Iranian presidents signed an initial agreement aiming to end the war, including in Lebanon, with immediate effect. It includes a commitment to further talks to reach a final deal over the next 60 days.\n\nComplicating matters are the ongoing clashes between Israel and Hezbollah, the Iran-backed militia based in the southern suburbs of Lebanon's capital Beirut.\n\nOn Saturday, at least 47 people were killed in Lebanon following a series of Israeli air strikes, the country's health ministry has said.\n\nThe Israel Defense Forces (IDF) said it had struck 80 targets linked to Hezbollah and killed \"dozens\" of its members.\n\nIsrael and Hezbollah have continued to exchange fire since the deal was announced between the US and Iran, but on Friday afternoon an immediate ceasefire between the two was confirmed.\n\nPrior to the agreement, Israel had said it had no intention of withdrawing its forces from Lebanon and had insisted that its conflict with Hezbollah was separate from the war on Iran.\n\nHezbollah said Israeli attacks in Lebanon were an attempt to \"sabotage\" the broader US-Iran deal.\n\nThe US government has criticised Israel's...",
+            "en": "Direct talks between the US and Iran are set to begin in Switzerland despite the Iranian military saying it has closed the Strait of Hormuz again over Israel's attacks on southern Lebanon.\n\nIran also cited a breach of its agreement with the US to end the war as a reason for the closure. However, the US military has said \"traffic continues to flow\" in the strait.\n\nUS Vice-President JD Vance arrived in Switzerland early on Sunday morning. The new round of negotiations is expected to start later in the day.\n\nAn Iranian delegation including parliamentary speaker Mohammad Bagher Ghalibaf and Foreign Minister Abbas Araghchi arrived late on Saturday.\n\nOfficials from the US and Iran will be joined at the talks by Pakistan's Prime Minister Shehbaz Sharif and the head of the country's armed forces, Field Marshal Asim Munir.\n\nPakistan has acted as a mediator throughout the war , and hosted a previous round of negotiations between the US and Iran.\n\n\"Pakistan will continue to support the implementation of the understandings between Iran and the United States,\" the Pakistan Ministry of Foreign Affairs said in a statement ahead of the talks.\n\nVance said he hoped to make progress \"on the nuclear issue\" and on the \"Lebanon ceasefire issue\".\n\nSpeaking to the press before he boarded his flight, he was asked about clashes between Israel and Hezbollah and Israeli air strikes in southern Lebanon and said: \"Things are actually getting better there, and things are slowing down a little bit.\"\n\n\"It's going to be something we're just going to have to continuously manage to ensure that Israel and Lebanon are both safe and secure. That's fundamentally the goal of this, to make the whole region safe and secure,\" he said.\n\nIran's foreign ministry spokesman Esmail Baghaei said his country would be \"demanding that the other side fulfil its commitments\".\n\nEarlier this week the US and Iranian presidents signed an initial agreement aiming to end the war, including in Lebanon, with immediate effect. It includes a commitment to further talks to reach a final deal over the next 60 days.\n\nComplicating matters are the ongoing clashes between Israel and Hezbollah, the Iran-backed militia based in the southern suburbs of Lebanon's capital Beirut.\n\nOn Saturday, at least 47 people were killed in Lebanon following a series of Israeli air strikes, the country's health ministry has said.\n\nThe Israel Defense Forces (IDF) said it had struck 80 targets linked to Hezbollah and killed \"dozens\" of its members.\n\nIsrael and Hezbollah have continued to exchange fire since the deal was announced between the US and Iran, but on Friday afternoon an immediate ceasefire between the two was confirmed.\n\nPrior to the agreement, Israel had said it had no intention of withdrawing its forces from Lebanon and had...",
             "zh": "伊朗军方表示，由于以色列袭击黎巴嫩南部，伊朗军方已再次关闭霍尔木兹海峡，尽管美国军方对这一说法提出了异议。 伊朗表示，以色列对黎巴嫩的致命袭击违反了德黑兰与美国达成的结束战争协议。 美伊协议包括重新开放霍尔木兹海峡——世界上约 20% 的石油和液化天然气都要经过这条航运通道。 伊朗发表声明后，美国中央司令部发言人蒂姆·霍金斯对媒体表示，“交通继续畅通”，美军“正在监控局势以确保情况持续下去”，并且“伊朗并不控制霍尔木兹海峡”。 周六晚些时候，美国副总统万斯离开华盛顿，周日在瑞士举行美伊直接会谈。 他告诉记者，他希望“在核问题”和“黎巴嫩停火问题”上取得进展。 当被问及以色列和真主党之间的冲突以及以色列对黎巴嫩南部的空袭时，万斯说：“那里的情况实际上正在好转，而且速度正在放缓。” “这将是我们必须不断设法确保以色列和黎巴嫩安全可靠的事情。这从根本上来说是我们的目标，让整个地区安全可靠，”他说。 伊朗外交部发言人埃斯梅尔·巴加伊表示，伊朗将“要求对方履行其承诺”。 巴基斯坦总理谢赫巴兹·谢里夫的办公室告诉英国广播公司，他将出席会谈的开始仪式。巴基斯坦在整个战争期间一直充当调解人的角色，并于四月份在其首都伊斯兰堡主办了美国和伊朗之间的上一轮谈判。 本周早些时候，美国和伊朗总统签署了一项旨在结束包括黎巴嫩在内的战争的初步协议，并立即生效。其中包括承诺在未来 60 天内进行进一步谈判以达成最终协议。 周六，唐纳德·特朗普在社交媒体上发帖称，如果美国和伊朗未能通过谈判达成协议，美国可能会对霍尔木兹海峡的航运征收关税。 伊朗军方为其宣布关闭海峡的声明辩护，指责美国没有执行14点谅解备忘录的第一项，即“立即永久终止包括黎巴嫩在内的所有战线的军事行动”，违反了美伊协议。 BBC verify 监测的跟踪数据显示，周六至少有五艘油轮通过了该海峡，而几艘船只似乎在该地区掉头。然而周六早些时候，中央司令部表示，周六通过该海峡的商船流量有所增加，有 55 艘商船过境。 这..."
           },
           "reflection": {
@@ -146,37 +316,71 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-live-2026-jun-21-australia-news-live-",
+          "id": "www-sbs-com-au-news-article-un-warns-of-imminent-risk-of-mass-atrocities",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/337dc21629c3bd5c1f9d10d0d627268540cdc7b8/295_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=60e7e8d5086a3cb9e9df16da8d945744",
-          "publishedAt": "2026-06-21T01:28:39.000Z",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/un-warns-of-imminent-risk-of-mass-atrocities-in-sudan/wbxwh75lq",
+          "image": "https://assets.sbs.com.au/dims4/default/f02d1af/2147483647/strip/false/crop/5500x2527+0+570/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fd8%2Fa5%2Fb639b34e415aa44a5b6044b935f6%2Fgettyimages-2278323719.jpg",
+          "publishedAt": "2026-06-21T04:17:24.000Z",
           "title": {
-            "en": "Australia news live: Angus Taylor dismisses Labor’s ‘half-arsed’ tweaks to CGT reform; boy, 12, dies in Cairns crash in suspected stolen car",
-            "zh": "澳大利亚新闻直播：安格斯·泰勒驳斥工党对资本利得税改革的“半吊子”调整；凯恩斯一12岁男孩在疑似被盗车辆事故中丧生"
+            "en": "UN warns of 'imminent risk of mass atrocities' in Sudan",
+            "zh": "联合国警告苏丹存在“大规模暴行迫在眉睫的风险”"
           },
           "summary": {
-            "en": "A 12-year-old boy has died in a car crash in Cairns, Australia, involving a vehicle suspected to be stolen.",
-            "zh": "澳大利亚凯恩斯发生一起车祸，一名12岁男孩在据信是被盗车辆的事故中丧生。"
+            "en": "The UN Security Council has issued a warning about the \"imminent risk of mass atrocities\" in Sudan, stating that aid organizations are preparing for the displacement of a large number of people from a southern region of the country.",
+            "zh": "联合国安理会警告苏丹存在“大规模暴行迫在眉睫的风险”，并表示援助机构正在为该国南部地区大量民众的迁徙做准备。"
           },
           "body": {
-            "en": "Follow live updates Get our breaking news email , free app or daily news podcast Ted O’Brien distanced himself from Pauline Hanson ’s suggestion that Australia shouldn’t give aid to Pacific countries that also take aid from China. He said it was a legitimate concern, but her solution was “completely wrong” for the Pacific and not in Australia’s national interest. The idea that you effectively hold a gun to the head of our Pacific neighbours – that’s not what a friend does, that’s not a way of building trust, you don’t basically create an ultimatum. You certainly don’t say it’s all about who you’re going to get money from. The relationship that we have with the Pacific islands is far deeper than development money. From Australia’s perspective, I think that’s the main thing that we should be concerned about, because that has a direct impact on the prices we pay here in Australia. A permanent toll would be bad in practice, wrong in principle, and set a dangerous precedent for how otherwise waterways should be managed internationally. Continue reading...",
-            "zh": "关注实时更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 特德·奥布莱恩 (Ted O’Brien) 与宝琳·汉森 (Pauline Hanson) 的建议保持距离，即澳大利亚不应向同样接受中国援助的太平洋国家提供援助。他表示，这是合理的担忧，但她的解决方案对于太平洋地区来说“完全错误”，也不符合澳大利亚的国家利益。你实际上用枪指着我们太平洋邻国的头——这不是朋友该做的事，这不是建立信任的方式，你基本上不会发出最后通牒。你当然不会说这完全取决于你要从谁那里得到钱。我们与太平洋岛屿的关系远比发展资金更深厚。从澳大利亚的角度来看，我认为这是我们应该关注的主要问题，因为这对我们在澳大利亚支付的价格有直接影响。永久收费在实践中是不好的，在原则上是错误的，并且为国际上如何管理水道树立了一个危险的先例。继续阅读..."
+            "en": "The United Nations Security Council said Saturday it is concerned over the \"imminent risk of mass atrocities\" in Sudan as it called on paramilitary forces encircling El-Obeid to back down.\n\nThe majority-Muslim southern city, in the Kordofan region, has been under siege for several months by the Rapid Support Forces (RSF), which has been at war with the regular army since April 2023.\n\n\"The members of the Security Council expressed concern at the imminent risk of mass atrocities and demanded the RSF immediately halt its assault on El-Obeid,\" the Security Council said in a statement.\n\n\"Council members called on the parties to the conflict to immediately halt the fighting.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe UN has voiced fears that there could be a repeat of the atrocities committed during the October 2025 assault on the city of El-Fasher, which it said bore \"hallmarks of genocide.\"\n\nThe UN said Friday that Pekka Haavisto, the secretary-general's special envoy for Sudan, had called rebel paramilitary forces chief Mohamed Hamdan Daglo to urge him not to attack El-Obeid.\n\nHaavisto \"underscored the need to urgently de-escalate the situation in El-Obeid and avoid any actions that may further worsen the already dire humanitarian situation and put civilian lives further at risk,\" said Stephane Dujarric, spokesman for UN Secretary-General Antonio Guterres.\n\nThe official said aid workers were \"preparing for the potential movements of large numbers of people\" fleeing the city, and that \"our humanitarian colleagues are doing the responsible thing, which is getting ready for the worst while hoping for the best.\"\n\nDujarric said Haavisto was also talking to countries with influence over the warring parties to encourage dialogue and prevent the assault.\n\nThe conflict in Sudan has killed tens of thousands of people and forced more than 11 million from their homes, creating what the UN describes as the world's largest displacement and hunger crises.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "联合国安理会周六表示，它对苏丹“迫在眉睫的大规模暴行风险”感到担忧，并呼吁包围奥贝德的准军事部队做出让步。 科尔多凡地区穆斯林占多数的南部城市已被快速支援部队 (RSF) 围困数月，该部队自 2023 年 4 月以来一直与正规军交战。 安理会在一份声明中表示：“安理会成员对迫在眉睫的大规模暴行风险表示担忧，并要求无国界部队立即停止对奥贝德的袭击。” “安理会成员呼吁冲突各方立即停止战斗。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 联合国表示担心，2025 年 10 月袭击法希尔市期间犯下的暴行可能会重演，联合国称该市具有“种族灭绝的特征”。 联合国周五表示，秘书长苏丹问题特使佩卡·哈维斯托已致电反叛准军事部队首长穆罕默德·哈姆丹·达格洛，敦促他不要袭击奥贝德。 联合国秘书长安东尼奥·古特雷斯发言人斯蒂芬·杜雅里克表示，哈维斯托“强调需要紧急缓和奥贝德局势，并避免采取任何可能进一步恶化本已严峻的人道主义局势并使平民生命进一步面临危险的行动。” 这位官员表示，援助人员正在“为大量人员逃离这座城市的潜在行动做准备”，“我们的人道主义同事正在做负责任的事情，即为最坏的情况做好准备，同时抱最好的希望。” 杜加里克表示，哈维斯托还在与对交战各方有影响力的国家进行对话，以鼓励对话并防止袭击。 苏丹的冲突已造成数万人死亡，并迫使超过 1100 万人离开家园，造成了联合国所说的世界上最严重的流离失所和饥饿危机。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
-            "en": "The tragic death of a 12-year-old boy reminds us of the profound sorrow that accompanies such loss. In moments of deep grief, we remember that even Yahweh, in human form, wept at the death of a loved one, validating our tears and pain.",
-            "zh": "一名12岁男孩的悲剧性死亡提醒我们，这样的损失会带来深切的悲痛。在极度悲伤的时刻，我们记得即使是道成肉身的雅伟，也曾为所爱之人的离世而哭泣，这肯定了我们的眼泪和痛苦。"
+            "en": "The UN's warning about potential atrocities and mass displacement in Sudan reminds us of the urgent need to advocate for the vulnerable. Yahweh calls us to speak up for those who cannot speak for themselves, especially the destitute whose rights are at risk. In such times, our prayers and voices can help draw attention to those facing unimaginable hardship.",
+            "zh": "联合国对苏丹可能发生暴行和大规模流离失所的警告，提醒我们迫切需要为弱势群体发声。雅伟呼召我们为那些无法为自己说话的人，特别是那些权利受到威胁的贫困者，仗义执言。在这样的时刻，我们的祷告和声音可以帮助人们关注那些面临难以想象的困境的人。"
           },
           "verse": {
-            "reference": "John 11:35",
-            "textEn": "Jesus wept.",
-            "textZh": "耶稣哭了。",
-            "themeEn": "Jesus wept",
-            "themeZh": "耶稣哭了"
+            "reference": "Proverbs 31:8-9",
+            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
+            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
+            "themeEn": "Voice for the voiceless",
+            "themeZh": "为弱者发声"
           },
-          "aiVerseId": "jn_11_35",
+          "aiVerseId": "prov_31_8",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-albanese-warns-against-leadership-spill-as-u",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/albanese-warns-against-leadership-spill-as-uks-starmer-set-to-quit/aqf6z670x",
+          "image": "https://assets.sbs.com.au/dims4/default/c86a6a5/2147483647/strip/false/crop/3000x1378+0+311/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F55%2Ff2%2F38842d814a03a19a04ce767450b2%2F20250929123895892612-original.jpg",
+          "publishedAt": "2026-06-21T03:59:44.000Z",
+          "title": {
+            "en": "'History not positive': Albanese warns of leaders spill amid Keir Starmer resignation reports",
+            "zh": "“历史并不乐观”：阿尔巴尼斯就基尔·斯塔默辞职报道警告领导层变动"
+          },
+          "summary": {
+            "en": "Australian Prime Minister Anthony Albanese stated his government would work with any leader in power, as reports indicate increasing pressure on UK Labour leader Keir Starmer's position.",
+            "zh": "澳大利亚总理安东尼·阿尔巴尼斯表示，无论谁执政，他的政府都会与其合作，此前有报道称英国工党领袖基尔·斯塔默的领导地位面临越来越大的压力。"
+          },
+          "body": {
+            "en": "Australia's Prime Minister Anthony Albanese has warned against a leadership change in the United Kingdom amid reports his British Labour counterpart Keir Starmer could be about to resign.\n\nBritain's Observer newspaper is reporting Starmer is expected to resign on Monday and set out a timetable for his departure.\n\nThe Observer report, which did not name its sources, said Starmer had reached the conclusion that his position was no longer tenable after speaking to cabinet ministers, advisers, donors and trade union leaders.\n\nHowever, a government source said Starmer remained focused on getting on with the job of governing.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nAsked about the potential change by Sky News on Sunday morning, Albanese said he will \"deal with whoever is elected\".\n\n\"But I must say that the history of just changing leaders is not a positive one,\" he said. \"I've dealt with already four British prime ministers since I've been elected as prime minister.\"\n\nSpeculation of Starmer's retirement has been building for months and has accelerated since Friday, when his rival Andy Burnham won more than 50 per cent of the vote in the Makerfield byelection, officially allowing him to now launch a formal leadership challenge.\n\nBurnham, the 56-year-old mayor of Greater Manchester, is widely seen as Starmer's most likely successor, whether through a negotiated transfer of power or a formal leadership contest.\n\nHe used his victory speech to promise a new path for the United Kingdom, rather than launching an immediate formal challenge.\n\nStarmer said on Friday he would fight any challenge to his leadership and urged Labour not to tear itself apart with infighting.\n\nStarmer led the centre-left Labour party to a landslide election win in 2024, but became deeply unpopular after a series of scandals, policy U-turns and local election defeats.\n\nMore than 100 elected lawmakers in Starmer's party - roughly a quarter of all Labour representatives in the House of Commons - have publicly said they want him to quit or set out a timetable for his exit, according to a Reuters tally.\n\nIf he were to quit or be ousted, it would be the United Kingdom's seventh prime minister in just over a decade &#x2014; the highest turnover in nearly two centuries.\n\nAlbanese has previously backed Starmer's leadership, in May saying: \"He is a friend of mine, and I hope that Keir Starmer continues to serve as prime minister of the United Kingdom\", and warning that the, \"revolving door of leaders does not lead to stability\".\n\nLast year, amid rumours about a potential leadership challenge against Starmer, Albanese made a high-profile appearance at the UK Labour Party Conference where he pitched...",
+            "zh": "澳大利亚总理安东尼·阿尔巴内斯警告英国不要更换领导层，有报道称英国工党首相基尔·斯塔默可能即将辞职。 英国《观察家报》报道称，斯塔默预计将于周一辞职，并制定了离职时间表。 《观察家报》未透露消息来源的报道称，斯塔默在与内阁部长、顾问、捐助者和工会领导人交谈后得出的结论是，他的立场不再站得住脚。 然而，一位政府消息人士表示，斯塔默仍然专注于继续治理工作。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 周日上午，当被天空新闻问及潜在的变化时，阿尔巴内塞表示，他将“与当选的任何人打交道”。 “但我必须说，仅仅更换领导人的历史并不是一个积极的历史，”他说。 “自从我当选首相以来，我已经与四位英国首相打过交道。” 关于斯塔默退休的猜测已经持续了数月，并且自周五以来愈演愈烈，当时他的竞争对手安迪·伯纳姆 (Andy Burnham) 在马克菲尔德补选中赢得了超过 50% 的选票，正式允许他现在发起正式的领导挑战。 56 岁的大曼彻斯特市长伯纳姆被广泛认为是斯塔默最有可能的继任者，无论是通过谈判进行权力移交还是正式的领导权竞争。 他在胜利演讲中承诺为英国开辟一条新道路，而不是立即发起正式挑战。 斯塔默周五表示，他将与任何对其领导地位的挑战作斗争，并敦促工党不要因内讧而分裂。 斯塔默带领中左翼工党在 2024 年选举中取得压倒性胜利，但在一系列丑闻、政策大转变和地方选举失利后，变得非常不受欢迎。 据路透社统计，斯塔默所在政党的 100 多名当选议员（约占下议院工党代表的四分之一）已公开表示希望他辞职或制定退出时间表。 如果他辞职或被赶下台，这将是英国十多年来的第七任首相——这是近两个世纪以来的最高更替率。 阿尔巴尼斯此前曾支持斯塔默的领导，5月表示：“他是我的朋友，我希望基尔·斯塔默继续担任英国首相”，并警告说，“领导人的旋转门不会带来稳定”。 去年，在有关斯塔默可能面临领导层挑战的传言中，阿尔巴尼斯在英国工党会议上高调亮相，他在会上提出了......"
+          },
+          "reflection": {
+            "en": "The shifting landscape of political leadership, as seen in the pressure on Keir Starmer, reminds us that human power is often transient. Psalm 75:7 offers a profound perspective, affirming that Yahweh alone is the one who exalts and brings low, overseeing the rise and fall of leaders. This truth can bring a sense of stability, knowing that ultimate...",
+            "zh": "基尔·斯塔默所面临的压力，反映了政治领导力变幻无常的本质。诗篇75:7提供了一个深刻的视角，它肯定了唯有雅伟是使人升高或降卑的，祂掌管着领袖的兴衰。认识到最终的权柄超越任何世俗职位，能带给我们一份安定感。"
+          },
+          "verse": {
+            "reference": "Psalm 75:7",
+            "textEn": "It is God who judges: He brings one down, he exalts another.",
+            "textZh": "惟有神断定；他使这人降卑，使那人升高。",
+            "themeEn": "God lifts and lowers",
+            "themeZh": "神升降"
+          },
+          "aiVerseId": "ps_75_7",
           "translationState": "localized"
         },
         {
@@ -214,96 +418,130 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-uk-news-2026-jun-20-counter-terrorism-officers-inves",
+          "id": "www-bbc-com-news-articles-cm203gndx0lo-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/uk-news/2026/jun/20/counter-terrorism-officers-investigate-after-five-injured-in-violent-incidents-in-edinburgh",
-          "image": "https://i.guim.co.uk/img/media/88f8cdf6e5f6cce7a3c180c403cba7e43d6fd325/252_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ef73d21e332152b4d63466ce1a90fc3",
-          "publishedAt": "2026-06-21T00:30:54.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cm203gndx0lo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/301b/live/fb716f70-6d07-11f1-b622-5db122690c78.jpg",
+          "publishedAt": "2026-06-21T01:14:49.000Z",
           "title": {
-            "en": "Man charged after series of attacks across Edinburgh",
-            "zh": "爱丁堡系列袭击后一名男子被起诉"
+            "en": "Backstage at Gorillaz' epic, one-off stadium show: 'The vibe is ridiculous'",
+            "zh": "Gorillaz史诗般、独一无二的体育场演出幕后：“气氛太棒了”"
           },
           "summary": {
-            "en": "Police Scotland arrested a 36-year-old man after a series of attacks in Edinburgh injured five people. Counter-terrorism investigators have been brought in to assist with the investigation.",
-            "zh": "苏格兰警方逮捕了一名36岁男子，此前爱丁堡发生一系列袭击事件，造成五人受伤。反恐调查人员已被介入协助调查。"
+            "en": "Damon Albarn, De La Soul, and Moonchild Sannelly were interviewed backstage at Gorillaz' largest-ever show, where the atmosphere was described as \"ridiculous.\"",
+            "zh": "达蒙·阿尔巴恩、De La Soul和Moonchild Sannelly在Gorillaz有史以来最大规模的演出后台接受了采访，现场气氛被形容为“不可思议”。"
           },
           "body": {
-            "en": "Police Scotland said a man was charged after a series of attacks in Edinburgh on Friday night.\n\nCounter-terrorism officers were brought in to investigate the attacks in which five people were injured.\n\nA 36-year-old white Scottish man was arrested on Friday. The force added late on Saturday night: “A 36-year-old man has been charged in connection with a number of incidents which took place in Edinburgh on Friday, 19 June, 2026. A report has been submitted to the Procurator Fiscal, and the individual will appear at court in due course.”\n\nOfficers were called to the Sighthill area of the city, where two men were injured, at about 8.50pm on Friday. They were taken to Edinburgh Royal Infirmary by ambulance.\n\nThe Scottish Association of Mosques said two worshippers were attacked in a park after leaving the Broomhouse mosque.\n\nReports then came in to police about incidents around shops in the west and north of the city. The force said that during this period three other men were allegedly attacked in the Telford Road and Leith Walk area.\n\nAround 9.30pm, police equipped with Tasers confronted a suspect and, although a Taser was not discharged, the man was detained.\n\nPosts on social media appeared to show a shirtless man carrying a long weapon roaming a street and battering a restaurant door in the Scottish capital.\n\nAnother video appeared to show the same man on the ground shouting about “protecting the country” while being held by a police officer.\n\nPolice said that five men, two aged 22, and others aged 24, 27 and 39, sustained a range of injuries and three needed hospital treatment though none of the injuries were life-threatening.\n\nKeir Starmer posted on X: “Absolutely appalling. No one should face violence on our streets.\n\n“The suspect appears to be motivated by anti-Muslim hatred. I will not tolerate this – he will face the full force of the law.\n\n“My thoughts are with those who are injured and I thank the police and the emergency services for their response.”\n\nOmar Afzal, director of public affairs for the Scottish Association of Mosques, told the Scotsman: “There is a profound sense of shock, alarm and anger within Muslim communities across Scotland today.\n\n“These latest attacks are deeply disturbing. However, they do not exist in a vacuum. For years, Muslim communities have warned about the consequences of anti-Muslim hatred becoming normalised in public discourse. When prejudice is left unchallenged, it creates an environment in which some individuals feel emboldened to act on that hatred.”\n\nScotland’s first minister, John Swinney, said he was “deeply concerned” by the incidents. “There is no place for violence, racism or intolerance in our country,” he added.\n\nThe anti-Islamophobia non-profit Muslim Engagement and Development urged police to...",
-            "zh": "苏格兰警方表示，周五晚上爱丁堡发生一系列袭击事件后，一名男子被指控。 反恐官员被派来调查这起导致五人受伤的袭击事件。 一名 36 岁的苏格兰白人男子于周五被捕。警方于周六深夜补充道：“一名 36 岁男子因与 2026 年 6 月 19 日星期五在爱丁堡发生的多起事件有关而受到指控。报告已提交给财政检察官，该人将在适当时候出庭。” 周五晚上 8 点 50 分左右，警方接到报警前往该市的 Sighthill 地区，那里有两名男子受伤。他们被救护车送往爱丁堡皇家医院。 苏格兰清真寺协会表示，两名信徒离开布鲁姆豪斯清真寺后在公园内遭到袭击。 随后警方收到有关该市西部和北部商店周围发生事件的报告。警方表示，在此期间，另外三名男子据称在特尔福德路和利斯沃克地区遭到袭击。 晚上 9 点 30 分左右，配备泰瑟枪的警察与一名嫌疑人对峙，虽然泰瑟枪没有发射，但该男子还是被拘留。 社交媒体上的帖子似乎显示，一名赤裸上身的男子携带长武器在苏格兰首都街头漫步，并殴打一家餐馆的门。 另一段视频似乎显示，同一名男子在被警察拘留时在地上高喊“保护国家”。 警方表示，五名男子（其中两名年龄为 22 岁，其他年龄分别为 24 岁、27 岁和 39 岁）受了不同程度的伤害，其中三人需要住院治疗，但没有生命危险。 Keir Starmer 在 X 上发帖称：“绝对令人震惊。任何人都不应该在我们的街道上面临暴力。 “嫌疑人的动机似乎是反穆斯林仇恨。我不会容忍这种行为——他将面临法律的全部制裁。 “我的心与那些受伤的人同在，我感谢警察和紧急服务部门的反应。” 苏格兰清真寺协会公共事务主任奥马尔·阿夫扎尔告诉《苏格兰人报》：“今天，苏格兰各地的穆斯林社区都存在着深刻的震惊、警报和愤怒感。 “这些最新的袭击令人深感不安。然而，它们并不存在于真空中。多年来，穆斯林社区一直警告反穆斯林仇恨在公共话语中变得正常化的后果。当偏见不受到挑战时，就会创造一种环境，让一些人有勇气对这种仇恨采取行动。” 苏格兰首席部长约翰·斯温尼表示，他对这些事件“深感担忧”。他补充说：“我们的国家容不得暴力、种族主义或不宽容。” 反伊斯兰恐惧症非营利组织穆斯林参与与发展敦促警方……"
+            "en": "It's Friday night at Tottenham Hotspur Stadium, and he's in the middle of rehearsals for Gorillaz' first ever stadium show - a multicultural, multimedia pop extravaganza, with more guests than a double-booked Airbnb.\n\nAs the band launches into Dirty Harry, the long, pitch-side LED screens light up with a cartoon choir, singing the song's refrain, \"all I do is dance\".\n\nApparently taken by surprise, Albarn jumps off the stage to watch, with a broad, toothy grin spreading across his face. Then he spots Argentine rapper Trueno striding across the stadium floor, and rushes over for a hug.\n\nThe band play on without their leader - and it takes almost 10 minutes for Albarn to realise he might be needed on stage.\n\nQuite the opposite: Albarn's laid-back vibes set the tone for the whole entourage.\n\nBackstage at Tottenham, there are more than 30 musicians from 15 different countries, and not a scintilla of ego between them.\n\n\"The vibe is ridiculous,\" says South African singer Moonchild Sanelly. \"Damon is open, he's cool, he has the humility.\n\n\"Everybody whose art he admires, he brings them along for the ride. Even when he's zenned out, I'll go sit next to him, just so we can breathe each other's air.\"\n\n\"It's an eclectic family for sure,\" says Kara Jackson, a folk singer and poet who's been a regular guest at Gorillaz' recent shows.\n\n\"It's kind of like coming from the South, where I'm from in the States. You have cousins, but they're not really your blood cousins - you've just been calling your mum's best friend your aunt for all these years.\"\n\nBehind the scenes, it's like a United Nations of music. Malian singer Fatoumata Diawara is chatting away in traditional Wassoulou clothes, while Johnny Marr ambles past in an equally traditional Mancunian parka.\n\nAmerican alt-pop heroes Sparks pull up in a black BMW just after 17:00 BST, and pop open the boot to retrieve their stage costumes (Russell has a pink polka-dot suit, Ron is in funeral clothes).\n\nTwenty minutes later, they are on stage rehearsing The Happy Dictator; followed by Shaun Ryder, hamming up his part on the 2005 classic Dare!\n\nOver in the canteen, Syrian and African musicians chow down with Posdnuos from De La Soul and sitar legend Anoushka Shankar. On the menu, honey-glazed lime chicken, roast sea bass, caramelised leek penne and an outrageously moreish passion fruit meringue.\n\n\"When we went on the tour with Gorillaz the first time (in 2010), I put on so much weight that, when I came home, I had to get in the gym and get right.\"\n\nOne person who won't need a post-show workout is Jamie Hewlett – who dreamt up the idea of Gorillaz as a \"virtual group\" with Albarn in 1998.\n\nHe's roving the stadium with a camera crew, shooting a documentary commemorating this one-off event.\n\nAmbitiously, the end result will...",
+            "zh": "周五晚上，在托特纳姆热刺体育场，他正在为 Gorillaz 的首场体育场演出进行排练——这是一场多元文化、多媒体的流行盛宴，客人数量比 Airbnb 上的双重预订还要多。 当乐队开始演奏《Dirty Harry》时，球场边的 LED 长屏幕上会亮起卡通合唱团的声音，唱着歌曲的副歌“我所做的就是跳舞”。 阿尔本显然很惊讶，他从舞台上跳下来观看，脸上露出露齿的笑容。然后他看到阿根廷说唱歌手特鲁诺大步穿过体育场的地板，他冲过去拥抱了他。 乐队在没有领队的情况下继续演奏 - 阿尔巴恩花了近 10 分钟才意识到舞台上可能需要他。 恰恰相反：阿尔本悠闲的氛围为整个随行人员定下了基调。 托特纳姆热刺队的后台有来自 15 个不同国家的 30 多名音乐家，他们之间没有一丝自负。 “这种氛围太荒谬了，”南非歌手 Moonchild Sanelly 说道。 “达蒙很开放，他很酷，他很谦虚。 “每个他欣赏其艺术的人，他都会带他们一起去。即使他心情不好，我也会去坐在他旁边，这样我们就可以呼吸彼此的空气。” “这肯定是一个不拘一格的家庭，”民谣歌手兼诗人卡拉·杰克逊 (Kara Jackson) 说，她是 Gorillaz 最近演出的常客。 “这有点像来自南方，我来自美国。你有表兄弟姐妹，但他们并不是你真正的表兄弟姐妹——这些年来你只是称呼你妈妈最好的朋友为你的阿姨。” 在幕后，它就像一个音乐联合国。马里歌手法图玛塔·迪亚瓦拉 (Fatoumata Diawara) 穿着传统的瓦苏卢 (Wassoulou) 服装聊天，而约翰尼·马尔 (Johnny Marr) 则穿着同样传统的曼彻斯特派克大衣悠闲地走过。 美国另类流行音乐英雄斯帕克斯 (Sparks) 在英国夏令时 17:00 刚过，就开着一辆黑色宝马停下来，打开后备箱取回他们的舞台服装（拉塞尔 (Russell) 穿着粉色圆点套装，罗恩 (Ron) 穿着葬礼服装）。 二十分钟后，他们在舞台上排练《快乐独裁者》；接下来是 Shaun Ryder，他在 2005 年的经典电影 Dare！ 在食堂里，叙利亚和非洲音乐家与 De La Soul 乐队的 Posdnuos 和西塔琴传奇人物 Anoushka Shankar 一起大快朵颐。菜单上有蜜汁酸橙鸡、烤鲈鱼、焦糖韭葱通心粉和极其美味的百香果蛋白酥皮。 “当我们第一次和 Gorillaz 一起巡演时（2010 年），我的体重增加了很多，以至于当我回到家时，我不得不去健身房锻炼身体。” 杰米·休利特 (Jamie Hewlett) 就是一个不需要赛后锻炼的人，他在 1998 年提出了将 Gorillaz 与 Albarn 组成“虚拟团体”的想法。 他与摄制组一起在体育场内巡游，拍摄一部纪录片来纪念这一一次性事件。 雄心勃勃，最终结果将..."
           },
           "reflection": {
-            "en": "In the face of senseless acts of violence that injure innocent people and bring fear, it is easy to feel overwhelmed by evil. Yet, Yahweh calls us not to be overcome by such darkness, but to actively overcome evil with good. This means seeking justice, offering comfort to the injured, and working towards a society where such acts are diminished by...",
-            "zh": "面对伤害无辜、散布恐惧的无谓暴力行为，人们很容易被邪恶所胜。然而，雅伟呼召我们不要被这样的黑暗所胜过，而是要积极地以善胜恶。这意味着寻求公义，安慰受伤者，并努力建立一个充满怜悯与和平的社会，使此类行为得以减少。"
+            "en": "The immense praise and \"ridiculous vibe\" surrounding a major performance highlight the powerful effect of public acclaim. Proverbs 27:21 reminds us that just as fire refines metals, the praise a person receives can test their character, revealing what truly lies within. It's a call to humility and self-awareness, even in moments of great success.",
+            "zh": "围绕着一场盛大演出的巨大赞誉和“不可思议的氛围”，凸显了公众赞扬的强大影响力。箴言27:21提醒我们，正如火炼净金属一样，人所受到的赞扬也能考验其品格，显露其内心深处。这呼吁我们在巨大成功之时，仍要保持谦逊和自我认知。"
           },
           "verse": {
-            "reference": "Romans 12:21",
-            "textEn": "Do not be overcome by evil, but overcome evil with good.",
-            "textZh": "你不可为恶所胜，反要以善胜恶。",
-            "themeEn": "Overcoming evil with good",
-            "themeZh": "以善胜恶"
+            "reference": "Proverbs 27:21",
+            "textEn": "The crucible for silver and the furnace for gold, but people are tested by their praise.",
+            "textZh": "鼎为炼银，炉为炼金，人的称赞也试炼人。",
+            "themeEn": "Tested by praise",
+            "themeZh": "称赞试炼人"
           },
-          "aiVerseId": "rom_12_21",
+          "aiVerseId": "prov_27_21",
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-uk-news-2026-jun-20-three-men-dead-after-west-london",
+          "id": "www-bbc-com-news-articles-cgmdw4vn7y2o-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/uk-news/2026/jun/20/three-men-dead-after-west-london-building-fire",
-          "image": "https://i.guim.co.uk/img/media/acb04207f623c6750dea45ef5c22222db210b41a/6_0_2916_2333/master/2916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3914ef5b79076b608b96e8d63a1fb436",
-          "publishedAt": "2026-06-20T22:43:17.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1768/live/91e33450-6d00-11f1-9f29-21c4f4a06079.jpg",
+          "publishedAt": "2026-06-21T00:29:51.000Z",
           "title": {
-            "en": "Three men dead after west London building fire",
-            "zh": "伦敦西部一建筑火灾致三人死亡"
+            "en": "France bans alcohol at music festival events under red heatwave alert",
+            "zh": "法国在红色高温警报下禁止音乐节活动饮酒"
           },
           "summary": {
-            "en": "Three people have died after a fire broke out in a single-storey pavilion in New Zealand Way in White City, west London, on Saturday evening, according to the London fire brigade.",
-            "zh": "据伦敦消防队称，周六晚间，伦敦西部白城新西兰路的一座单层亭子发生火灾，造成三人死亡。"
+            "en": "French authorities have banned alcohol at music festival events in areas under a red heatwave alert, where temperatures reached 40C (104F). The measure is intended to help preserve healthcare services during the annual street parties attended by millions.",
+            "zh": "法国当局已在红色高温警报区域的音乐节活动中禁止饮酒，当地气温达到40摄氏度（104华氏度）。此举旨在数百万民众参加的年度街头派对期间，帮助保护医疗服务。"
           },
           "body": {
-            "en": "Three people have died after a fire at a building in London , the London fire brigade (LFB) has said.\n\nThe fire service said it received reports of the blaze in New Zealand Way in White City, west London, at 6.52pm on Saturday.\n\nThree men were rescued from a single-storey building by firefighters and treated at the scene by paramedics close to Loftus Road, Queens Park Rangers ground.\n\nTwo were declared dead at the scene and another died later in hospital, LFB said.\n\nLFB assistant commissioner Pat Goulbourne said the cause of the blaze is under investigation by its specialist fire investigation officers and the Metropolitan police.\n\nHe said: “The fire involved a single-storey pavilion, with just over half of the structure damaged by the fire.”\n\nGoulbourne added: “Control officers mobilised crews from North Kensington, Acton, Chiswick and surrounding fire stations to the scene.",
-            "zh": "伦敦消防队（LFB）表示，伦敦一栋建筑发生火灾，已造成三人死亡。 消防部门表示，周六下午 6 点 52 分，接到了伦敦西部怀特城新西兰路 (New Zealand Way) 起火的报告。 三名男子被消防队员从一栋单层建筑中救出，并在皇后公园巡游者队球场洛夫特斯路附近的现场接受了护理人员的治疗。 LFB表示，两人当场被宣布死亡，另一人后来在医院死亡。 LFB 助理专员帕特·古尔伯恩 (Pat Goulbourne) 表示，专业火灾调查官员和大都会警察正在调查起火原因。 他说：“火灾涉及一座单层展馆，一半以上的结构被火灾损坏。” 古尔伯恩补充道：“控制人员动员了北肯辛顿、阿克顿、奇西克和周围消防站的工作人员前往现场。"
+            "en": "France has banned alcohol at some events at a massive national music festival on Sunday as a heatwave pushes temperatures towards record levels.\n\nAnnual Fête de la Musique celebrations draw millions to the streets across France. But with a third of the country covered by the most serious heatwave warnings, the government has banned alcohol consumption in public places under the red alerts.\n\n\"For all events organised by the state and its agencies, instructions have been given not to offer alcohol,\" the office of Prime Minister Sébastien Lecornu said.\n\nTemperatures of 39-40C (102-104F) are expected from the southwest through the Paris region into Burgundy on Sunday, with some areas possibly reaching 41C.\n\nTemperatures have been forecast to peak on Monday, and authorities have warned they could match historic highs.\n\nThe government has called for limits on alcohol consumption \"to preserve emergency and healthcare services and allow medical staff to focus on caring for the most vulnerable\".\n\nThe heatwave has been going for days and has disrupted the country, forcing the cancellation of dozens of trains and the suspension of classes.\n\nFrance's weather service Météo-France said it was \"uncertain\" how long the heatwave, which has been estimated to affect about three quarters of the population, would last.\n\nTo help Parisians and tourists cope with the heat, authorities are keeping parks and gardens in the French capital open through the night.\n\nFête de la Musique has been going for more than 40 years, and is always held on the summer solstice.",
+            "zh": "由于热浪将气温推向创纪录水平，法国周日在大型全国音乐节的部分活动中禁止饮酒。 一年一度的音乐节庆祝活动吸引了数百万人走上法国街头。但由于该国三分之一的地区受到最严重的热浪警告，政府已在红色警报下禁止在公共场所饮酒。 总理塞巴斯蒂安·勒科尔努办公室表示：“国家及其机构组织的所有活动均已接到指示，不得提供酒精饮料。” 预计周日从西南部经巴黎地区进入勃艮第的气温将达到 39-40 摄氏度（102-104 华氏度），部分地区可能达到 41 摄​​氏度。 预计气温将于周一达到峰值，当局警告称，气温可能会达到历史最高水平。 政府呼吁限制饮酒，“以维持紧急和医疗服务，并让医务人员专注于照顾最弱势群体”。 热浪已经持续数天，扰乱了整个国家，迫使数十列火车取消并停课。 法国气象局表示，目前“不确定”热浪会持续多久，据估计，热浪将影响约四分之三的人口。 为了帮助巴黎人和游客应对炎热天气，当局让法国首都的公园和花园通宵开放。 Fête de la Musique 已经举办了 40 多年，并且总是在夏至举行。"
           },
           "reflection": {
-            "en": "In the face of such sudden and tragic loss, our hearts ache for those affected. Revelation 21:4 offers a profound hope, pointing to a future where Yahweh Himself will wipe away every tear, and death, mourning, crying, and pain will be no more. This promise reminds us that even in deep sorrow, there is an ultimate comfort and an end to all suffering.",
-            "zh": "面对如此突然和悲惨的损失，我们的心为受影响的人感到悲痛。启示录21:4提供了一个深刻的盼望，指向一个雅伟亲自擦去一切眼泪，不再有死亡、悲哀、哭号、疼痛的未来。这个应许提醒我们，即使在深切的悲伤中，也有最终的安慰和所有痛苦的终结。"
+            "en": "The extreme heat in France prompted authorities to ban alcohol at festivals, a measure aimed at preventing a surge in heat-related illnesses and preserving vital healthcare services. This decision reflects the wisdom of foreseeing danger and taking proactive steps to protect the community. In challenging times, prudence guides us to anticipate potential...",
+            "zh": "法国极端高温促使当局禁止音乐节饮酒，此举旨在预防与高温相关的疾病激增，并保护重要的医疗服务。这一决定体现了预见危险并采取积极措施保护社区的智慧。在充满挑战的时期，审慎引导我们预见潜在的危害，并为所有人的福祉负责任地采取行动。"
           },
           "verse": {
-            "reference": "Revelation 21:4",
-            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
-            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
-            "themeEn": "End of suffering",
-            "themeZh": "苦难的终结"
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
           },
-          "aiVerseId": "rev_21_4",
+          "aiVerseId": "prov_27_12",
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-uk-news-2026-jun-20-king-charles-to-publish-personal",
+          "id": "www-bbc-com-news-articles-cr47z6ykp2xo-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/uk-news/2026/jun/20/king-charles-to-publish-personal-tax-bill-in-first-for-uk-head-of-state",
-          "image": "https://i.guim.co.uk/img/media/2ec2f739ed60cd639c3c77800ef93fae2f26af88/0_0_6247_5000/master/6247.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01ba53784dc16d5be794060d11046e8e",
-          "publishedAt": "2026-06-20T22:27:54.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cr47z6ykp2xo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4e78/live/b0e06bd0-6c05-11f1-b1db-af71d47507d6.jpg",
+          "publishedAt": "2026-06-20T23:26:45.000Z",
           "title": {
-            "en": "King Charles to publish personal tax bill in first for UK head of state",
-            "zh": "查尔斯国王将首次公布英国国家元首个人税法案"
+            "en": "At CrimeCon true crime obsessives come face-to-face with real loss",
+            "zh": "在“犯罪大会”上，真实犯罪迷们直面真实的损失"
           },
           "summary": {
-            "en": "Buckingham Palace says move is intended to increase ‘clarity and accessibility’ of monarchy’s finances King Charles will become the first head of state to reveal their personal tax bill in what the palace said was an attempt to enhance the transparency of royal finances....",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+            "en": "At CrimeCon, an event for true-crime enthusiasts, victims' families shared their perspectives on how fans can engage with their stories respectfully. They emphasized the importance of ethical consumption of true crime content, distinguishing it from exploitative practices.",
+            "zh": "在“犯罪大会”上，真实犯罪爱好者们与受害者家属面对面交流。受害者家属强调，真实犯罪的粉丝可以有道德地参与，而不是以剥削的方式。"
           },
           "body": {
-            "en": "Buckingham Palace says move is intended to increase ‘clarity and accessibility’ of monarchy’s finances King Charles will become the first head of state to reveal their personal tax bill in what the palace said was an attempt to enhance the transparency of royal finances. Charles, 77, will publish his financial details as part of the royal household increasing the “clarity and accessibility” of the monarchy’s finances by producing a new report on the subject. Continue reading...",
-            "zh": "白金汉宫表示，此举旨在提高君主制财政的“清晰度和可及性”查尔斯国王将成为第一位披露个人税单的国家元首，白金汉宫称此举是为了提高王室财政的透明度。 77 岁的查尔斯将作为王室成员公布他的财务详细信息，通过制作一份有关该主题的新报告，提高王室财务的“清晰度和可访问性”。继续阅读..."
+            "en": "Podcasters rub shoulders with prosecutors, and attendees - wearing T-shirts emblazoned with slogans like \"True Crime And Wine\" or \"I'm Only Here For An Alibi\" - carry conference-provided bags stamped with \"unsolved crime is a choice\".\n\nAmongst rows of booths, one woman stands apart, staring stoically ahead as people pass by pictures of her murdered daughter.\n\nThey are all here for CrimeCon, an annual gathering of true-crime enthusiasts, content creators, investigators, advocates, survivors and victims' relatives.\n\nBut for many - including stoic mom Dr Maggie Zingman - their reasons for being here are deeply personal.\n\nIn 2004, the trauma psychologist's daughter, Brittany Phillips, was murdered, and her case has never been solved.\n\nZingman has refused to give up her search for answers, making more than two-dozen trips across the country in a wrapped pink and purple vehicle loudly telling the world about her child's case. CrimeCon is one of her stops.\n\nZingman recognises the event's inherent contradictions, as it tries to build an audience - and turn a profit - from real-life tragedies.\n\n\"It's a balance,\" Zingman says. \"I wouldn't get 8,000 people learning about my story if it wasn't here.\"\n\nFor more than a decade, America has been gripped by a true crime obsession. Experts point to game-changing podcasts like 2014's Serial and docuseries like The Jinx and Making a Murderer, which both came out in 2015, as early examples that helped fuel the craze.\n\nAnd CrimeCon has grown alongside the true-crime genre. The inaugural event in 2017 drew just 800, but attendance jumped to 2,400 the following year, according to co-founder Kevin Balfe. This year, 6,500 people attended, with some paying more than $1,600 for a VIP experience.\n\nBut as the genre has grown, so has the criticism. Many note how much of the content has focused on the perpetrators - not the victims - of the crimes, and the inherent exploitation that comes from profiting from other people's misfortune.\n\nIt is a fine line to walk, and those who have been coming to CrimeCon for years say the event endeavours to do things right.\n\nWearing T-shirts proclaiming \"Victim exploitation does not equal victim advocacy\", the parents of Gabby Petito have their own booth to promote their foundation, which supports missing persons cases and domestic violence prevention. Their daughter made national headlines when she was murdered by her boyfriend during a cross-country van trip , sparking a nationwide manhunt.\n\n\"From the first year that we came here, we saw a lot of growth in terms of who's going to come,\" says Petito's father, Joe, who first attended in 2023, noting how groups like the National Center for Missing and Exploited Children and the Black and Missing Foundation use CrimeCon to raise awareness for their...",
+            "zh": "播客与检察官擦肩而过，与会者穿着印有“真实犯罪与美酒”或“我只是为了不在场证明”等标语的 T 恤，提着会议提供的袋子，袋子上印着“悬而未决的犯罪是一种选择”。 在一排排的摊位中，一名妇女站在一边，当人们经过她被谋杀的女儿的照片时，她坚忍地凝视着前方。 他们都来这里参加犯罪大会，这是一年一度的犯罪爱好者、内容创作者、调查人员、倡导者、幸存者和受害者亲属的聚会。 但对许多人来说——包括坚忍的妈妈玛吉·辛曼博士——他们来到这里的原因是非常个人化的。 2004年，创伤心理学家的女儿布列塔尼·菲利普斯被谋杀，她的案子一直没有侦破。 辛曼拒绝放弃寻找答案，她开着一辆粉红色和紫色包裹的汽车在全国各地进行了两次以上的旅行，大声向全世界讲述她孩子的案件。犯罪大会是她的一站。 辛曼认识到这一事件的内在矛盾，因为它试图从现实生活的悲剧中吸引观众并从中获利。 “这是一种平衡，”辛曼说。 “如果我的故事不在这里，我就不会有 8,000 人了解我的故事。” 十多年来，美国一直被真正的犯罪困扰所困扰。专家指出，2014 年推出的 Serial 等改变游戏规则的播客以及 2015 年推出的《The Jinx》和《Making a Murderer》等纪录片系列是助长这一热潮的早期例子。 CrimeCon 与真实犯罪类型一起成长。联合创始人凯文·巴尔夫 (Kevin Balfe) 表示，2017 年首届活动仅吸引了 800 人，但第二年参加人数跃升至 2,400 人。今年，有 6,500 人参加，其中一些人支付了超过 1,600 美元以获得 VIP 体验。 但随着这一类型的发展，批评也随之增加。许多人注意到，有多少内容集中在犯罪者（而不是受害者）上，以及从他人的不幸中获利所带来的固有剥削。 这是一条很难走的路，那些多年来一直参加犯罪大会的人都表示，该活动致力于做正确的事情。 加比·佩蒂托 (Gabby Petito) 的父母身穿印有“受害者剥削并不等于为受害者辩护”的 T 恤，拥有自己的摊位来宣传他们的基金会，该基金会支持失踪人员案件和预防家庭暴力。他们的女儿在越野货车旅行中被男友谋杀，成为全国头条新闻，引发了全国范围内的追捕。 Petito 的父亲 Joe 于 2023 年首次参加，他说：“从我们来到这里的第一年起，我们就看到了来者人数的大幅增长。”他指出，国家失踪和受虐儿童中心以及黑人和失踪基金会等团体如何利用 CrimeCon 来提高人们对他们的……的认识。"
           },
           "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "Engaging with stories of real loss, even for entertainment, calls for profound empathy and respect. Victims' families remind us that true compassion means honoring their pain and avoiding any form of exploitation. Yahweh calls us to be kind and tenderhearted, especially when confronting the suffering of others.",
+            "zh": "即使是为了娱乐而接触真实损失的故事，也需要深刻的同情和尊重。受害者家属提醒我们，真正的怜悯意味着尊重他们的痛苦，避免任何形式的剥削。雅伟呼召我们，尤其是在面对他人苦难时，要彼此和善，心存怜悯。"
+          },
+          "verse": {
+            "reference": "Ephesians 4:32",
+            "textEn": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+            "textZh": "并要以恩慈相待，存怜悯的心，彼此饶恕，正如神在基督里饶恕了你们一样。",
+            "themeEn": "Kind and compassionate",
+            "themeZh": "恩慈相待"
+          },
+          "aiVerseId": "eph_4_32",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-com-news-articles-cpwerjy20kyo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/570f/live/e297c6a0-6af7-11f1-8546-8f19e4fe30f4.jpg",
+          "publishedAt": "2026-06-20T23:18:55.000Z",
+          "title": {
+            "en": "Why an AI company cleaned my New York City apartment for free",
+            "zh": "一家人工智能公司为何免费清洁我的纽约公寓"
+          },
+          "summary": {
+            "en": "An AI company is providing free apartment cleaning services in New York City. The initiative aims to gather data and train robots, with the long-term goal of enabling these machines to eventually replace human cleaners.",
+            "zh": "一家人工智能公司正在纽约市提供免费公寓清洁服务。这项举措旨在收集数据并训练机器人，其长期目标是让这些机器最终取代人类清洁工。"
+          },
+          "body": {
+            "en": "Picture this: a team of camera-clad cleaners and a private chef to boot, all wired with high-tech recording apparatus show up at your home.\n\nYou are not part of a reality TV show, and have not woken up in an Aldous Huxley or Margaret Atwood novel.\n\nInstead, you are a resident of New York City, where AI companies are sending free cooking and cleaning staff straight to people's doors.\n\nBut, there is a catch: this AI company is gathering data to train the next generation of cooking and cleaning robots, and every inch of your apartment is now being recorded.\n\nThe initiative, dubbed Shift by AI firm Micro AGI, is part of a growing number of companies developing the next generation of autonomous robots, which tech bosses hope will be able to do everything from the washing up to serving as live-in personal carers.\n\nAt my apartment on New York's Upper East Side, I am greeted by two mid-twenties college graduates who have bounced around the start-up world and were looking for work.\n\nBecause demand for the free cleans is so high, they are stationed in New York indefinitely, cleaning around five apartments a day, five days a week. The only difference between these guys and a regular cleaner is they have built-in cameras attached to their caps, connected via a lead to their mobile phones.\n\nThe main aim of the offer is to perform tasks requiring dexterity, to train the robots of the future to use their hands. As a result, the cleaners were intensely focused on their hands while carrying out the job.\n\nBercan Kilic, Shift's founder, told the BBC the goal of the data-gathering exercise is \"to advance humanity\".\n\nHe pointed to existing AI models such as ChatGPT, which are able to create sentences based on previously written passages of text available online. But he said every kitchen, living room and tool is slightly different, so robots will need to be trained to adapt to being in different spaces and using different items.\n\nThe biggest difficulty, Kilic said, is that to work, its cleaners will need to collect \"tonnes\" of data.\n\n\"In the real world, every object is different, the lighting is different and nothing is the same as it was a couple of hours earlier. Models need to learn how their hands, cameras and environments work together,\" he said.\n\nThe company's business model relies on it being able to sell the valuable data it gathers from inside people's homes, anonymised, to robotics and other AI companies to train robots.\n\nEventually, Kilic said Shift could offer free or discounted services covering \"any skill humanity can demonstrate\", noting that as well as cleaning apartments in New York, the company also has mechanics fixing cars in Turkey.\n\nThere appears to be no limit to what humanoid robots will one day be able to do, and the BBC has also reported on the...",
+            "zh": "想象一下：一队戴着摄像机的清洁工和一名私人厨师出现在您的家中，所有这些都配备了高科技录音设备。 你不是真人秀节目的一部分，也没有在奥尔德斯·赫胥黎或玛格丽特·阿特伍德的小说中醒来。 相反，你是纽约市的居民，人工智能公司正在将免费的烹饪和清洁人员直接送到人们家门口。 但是，有一个问题：这家人工智能公司正在收集数据来训练下一代烹饪和清洁机器人，而你公寓的每一寸现在都被记录下来。 这项由人工智能公司 Micro AGI 称为“Shift”的举措是越来越多公司开发下一代自主机器人的一部分，科技老板们希望这些机器人能够完成从洗碗到充当居家个人护理人员的所有任务。 在我位于纽约上东区的公寓里，迎接我的是两名二十五岁左右的大学毕业生，他们在初创企业中四处奔波，正在寻找工作。 由于免费清洁的需求如此之高，他们无限期地驻扎在纽约，每周清洁五天，每天清洁大约五套公寓。这些人与普通清洁工的唯一区别是，他们的帽子上装有内置摄像头，通过导线连接到手机上。 该项目的主要目的是执行需要灵活性的任务，训练未来的机器人使用双手。因此，清洁工在工作时全神贯注于双手。 Shift 的创始人 Bercan Kilic 告诉 BBC，数据收集活动的目标是“促进人类进步”。 他指出现有的人工智能模型，例如 ChatGPT，能够根据之前在线提供的文本段落创建句子。但他表示，每个厨房、客厅和工具都略有不同，因此机器人需要接受培训，以适应不同的空间和使用不同的物品。 基利奇说，最大的困难是，清洁工需要收集“大量”数据才能工作。 “在现实世界中，每个物体都是不同的，灯光也不同，没有什么与几个小时前相同。模特需要了解他们的手、相机和环境如何协同工作，”他说。 该公司的商业模式依赖于它能够将从人们家中收集的宝贵数据（匿名）出售给机器人和其他人工智能公司来训练机器人。 最终，基利奇表示，Shift 可以提供免费或折扣服务，涵盖“人类可以展示的任何技能”，并指出，除了清洁纽约的公寓外，该公司还在土耳其拥有修理汽车的机械师。 人形机器人有一天能够做的事情似乎是没有限制的，英国广播公司也报道了……"
+          },
+          "reflection": {
+            "en": "As technology advances, we are prompted to consider the deeper purpose of our work beyond mere tasks. Colossians 3:23 reminds us that whatever we do, we are to work heartily as for Yahweh, not for human masters. This perspective can help us find dignity and meaning in our contributions, even as the landscape of labor evolves.",
+            "zh": "随着科技的进步，我们被促使思考工作除了完成任务之外的更深层目的。歌罗西书3:23提醒我们，无论做什么，都要从心里做，像是给雅伟做的，不是给人做的。这种视角能帮助我们在劳动格局不断演变时，仍能从自己的贡献中找到尊严和意义。"
           },
           "verse": {
             "reference": "Colossians 3:23",
@@ -312,73 +550,7 @@
             "themeEn": "Work for the Lord",
             "themeZh": "为主而做"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c4gy26p6pwzo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6bfd/live/e03cdc90-6ced-11f1-bb4f-2f04956fdc7f.jpg",
-          "publishedAt": "2026-06-20T21:57:36.000Z",
-          "title": {
-            "en": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-            "zh": "官员称，以色列空袭导致加沙六人死亡，其中包括半岛电视台摄影师"
-          },
-          "summary": {
-            "en": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Israeli strikes in Gaza have killed at least six people, including an Al Jazeera cameraman and at least one child, according to health officials and rescuers.\n\nAl Jazeera said it \"strongly condemns the heinous crime of targeting and killing\" of its correspondent Ahmed Wishah, who was killed in a strike on a central Gaza home on Saturday.\n\nThe Israel Defense Forces (IDF) accused Wishah of being \"a terrorist in Hamas' military wing who served as a sniper operative\".\n\nGaza's Hamas-run health ministry, whose figures the UN regards as reliable, says the Israeli military has killed 1,007 people since a ceasefire between Israel and Hamas came into effect last October.\n\nAl Jazeera said Wishah's death on Saturday \"constitutes a new and flagrant violation of all international laws and norms, and reflects a continued systematic policy of targeting journalists and silencing the voice of truth\".\n\nThe IDF said that Wishah in recent months had advanced sniper attack plans against Israeli troops, without providing evidence.\n\nTwo other people were killed along with Wishah in the strike on the home in Bureij refugee camp, according to a local hospital and the Hamas-run civil defence agency, which conducts rescue operations. The IDF also accused the two others killed of being a part of Hamas.\n\nWishah's brother Mohamed, who was also a correspondent for Al Jazeera, was killed in an Israeli strike in April. The IDF accused him of working in Hamas rocket and weapons production headquarters, without further details.\n\nMeanwhile in the Sabra neighbourhood of Gaza City, four family members were killed in an overnight strike on a home, according to the civil defence, relatives and a nearby hospital.\n\nShifa Hospital told news agencies that it had received the bodies of the family, including two children. Medics told Reuters that the dead from this strike included two women and a child.\n\nRelative Nael Safadi, who told AFP that the strike hit around 02:00 local time, said his cousins \"have no connection to Hamas, nor are they involved in anything. They're just innocent children\".\n\n\"Is this really a ceasefire?\" another cousin, Mohammad Safadi, asked the AP. \"We are civilians. I never held a weapon.\"\n\nBoth Israel and Palestinian armed group Hamas have accused one another of violating the ceasefire since October.\n\nThe deal also promised a flood of humanitarian aid into the territory, where the UN says around 81% of buildings were damaged, but aid groups say more help is needed.\n\nTom Fletcher, head of the UN's humanitarian agency, told the UN Security Council this week that the share of households reported going to bed hungry had dropped from 92% to 36% since the ceasefire as more aid trucks entered.\n\nBut he said 70% of the population still needs proper shelter, as sanitation...",
-            "zh": "据卫生官员和救援人员称，以色列对加沙的袭击已造成至少六人死亡，其中包括一名半岛电视台摄影师和至少一名儿童。 半岛电视台表示，“强烈谴责针对和杀害其记者艾哈迈德·维沙的令人发指的罪行”，他在周六加沙中部一处住宅的袭击中丧生。 以色列国防军（IDF）指责维沙赫是“哈马斯军事部门的恐怖分子，担任狙击手”。 联合国认为可靠的数据由哈马斯管理的加沙卫生部表示，自去年 10 月以色列和哈马斯之间的停火生效以来，以色列军队已经杀死了 1,007 人。 半岛电视台表示，维沙周六的死亡“构成了对所有国际法和规范的新的公然违反，反映了针对记者和压制真相声音的持续系统性政策”。 以色列国防军表示，维沙赫近几个月来对以色列军队实施了狙击手袭击计划，但没有提供证据。 据当地一家医院和负责救援行动的哈马斯管理的民防机构称，在针对布赖吉难民营房屋的袭击中，另有两人与维沙一起丧生。以色列国防军还指责另外两人是哈马斯的成员。 威沙的兄弟穆罕默德也是半岛电视台记者，他在四月份的以色列袭击中丧生。以色列国防军指控他在哈马斯火箭和武器生产总部工作，但没有提供更多细节。 与此同时，据民防部门、亲属和附近一家医院称，在加沙城萨布拉社区，四名家庭成员在夜间对一处房屋的袭击中丧生。 希发医院告诉新闻机构，他们已经收到了这家人的尸体，其中包括两名儿童。医务人员告诉路透社，这次袭击的死者包括两名妇女和一名儿童。 萨法迪的亲戚告诉法新社，袭击发生在当地时间02:00左右，他说他的表兄弟“与哈马斯没有任何关系，也没有参与任何事情。他们只是无辜的孩子”。 “这真的是停火吗？”另一位表弟穆罕默德·萨法迪 (Mohammad Safadi) 向美联社询问。 “我们是平民。我从未持有武器。” 自十月以来，以色列和巴勒斯坦武装组织哈马斯都互相指责对方违反停火协议。 该协议还承诺向该地区提供大量人道主义援助，联合国称该地区约 81% 的建筑物遭到破坏，但援助组织表示需要更多帮助。 联合国人道主义机构负责人汤姆·弗莱彻 (Tom Fletcher) 本周向联合国安理会表示，自停火以来，随着更多救援卡车进入，饥饿的家庭比例已从 92% 下降至 36%。 但他表示，70% 的人口仍然需要适当的住所，因为卫生设施......"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jun-20-lapd-releases-footage-officers-d",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog",
-          "image": "https://i.guim.co.uk/img/media/70bb6073917348221f48be01d73137eb4e1051ae/0_0_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04f40c063faf8580c8e37ed789bc1227",
-          "publishedAt": "2026-06-20T20:52:08.000Z",
-          "title": {
-            "en": "LAPD releases footage of moment officers shot and killed woman’s dog",
-            "zh": "洛杉矶警察局公布警员枪杀女子宠物狗的视频"
-          },
-          "summary": {
-            "en": "The Los Angeles Police Department has released video footage showing officers shooting and killing a woman's dog, Jameson, in the hallway outside her apartment. An officer fired his pistol four times after the dog, wearing a blue Knicks jersey, walked out into the hall.",
-            "zh": "洛杉矶警察局公布了视频片段，显示警员在一名女子公寓外的走廊里开枪射杀了她的宠物狗詹姆森。这只穿着蓝色尼克斯球衣的狗走出走廊后，一名警员向其开了四枪。"
-          },
-          "body": {
-            "en": "After Jameson the dog, wearing a blue Knicks jersey, walked out into the hallway, an officer fired his pistol four times The Los Angeles police department has released footage of the moment when officers shot and killed a woman’s dog in the hallway outside her apartment in the Canoga Park neighborhood. Police had responded to reports of a woman screaming on 13 June, which turned out to be cheering, the night that the New York Knicks defeated the San Antonio Spurs to win the NBA finals. Continue reading...",
-            "zh": "在穿着蓝色尼克斯队球衣的狗詹姆森走进走廊后，一名警察开了四枪。洛杉矶警察局公布了警察在卡诺加公园附近的公寓外走廊射杀一名妇女的狗的那一刻的镜头。 6 月 13 日，纽约尼克斯队 (New York Knicks) 击败圣安东尼奥马刺队 (San Antonio Spurs) 赢得 NBA 总决赛当晚，一名女子尖叫，结果发现她在欢呼，警方对此做出了回应。继续阅读..."
-          },
-          "reflection": {
-            "en": "This incident reminds us of the profound responsibility that comes with authority and the use of force. Yahweh calls those in power to act with justice and to avoid shedding innocent blood, even in challenging situations. Such events highlight the need for careful discernment and restraint, reflecting a commitment to righteousness and non-violence.",
-            "zh": "这起事件提醒我们，权力与武力的使用伴随着重大的责任。雅伟呼吁掌权者秉行公义，避免流无辜人的血，即使在充满挑战的情况下也是如此。此类事件凸显了谨慎判断和克制的重要性，反映出对公义和非暴力的承诺。"
-          },
-          "verse": {
-            "reference": "Jeremiah 22:3",
-            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
-            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
-            "themeEn": "Royal justice mandate",
-            "themeZh": "王者的公义责任"
-          },
-          "aiVerseId": "jer_22_3",
+          "aiVerseId": "col_3_23",
           "translationState": "localized"
         },
         {
@@ -391,28 +563,29 @@
           "publishedAt": "2026-06-20T18:59:00.000Z",
           "title": {
             "en": "Terror police probe suspected anti-Muslim attacks in Edinburgh",
-            "zh": "恐怖警察调查爱丁堡涉嫌反穆斯林袭击事件"
+            "zh": "恐怖警察调查爱丁堡疑似反穆斯林袭击事件"
           },
           "summary": {
-            "en": "Counterterrorism police have taken charge after a series of violent attacks in the Scottish capital that left five men injured.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Counterterrorism police are investigating a series of violent attacks in Edinburgh, Scotland, which resulted in five men being injured.",
+            "zh": "苏格兰首都爱丁堡发生一系列暴力袭击事件，导致五名男子受伤，反恐警察已接手调查。"
           },
           "body": {
             "en": "Counterterrorism police have taken charge after a series of violent attacks in the Scottish capital that left five men injured.\n\nCounterterrorism police have taken over an investigation into suspected anti-Muslim violence in Edinburgh, Scotland , that left five men injured, authorities said Saturday.\n\nThe unrest comes as the United Kingdom &#160;is seeing a wave of anti-migrant and anti-Muslim sentiment, including recent riots in Northern Ireland and England .\n\nEmergency services responded late Friday to reports of \"violent attacks including threats, robbery and vandalism\" across the city, according to a police statement.\n\nLocal media reported the attacks began near a mosque before spreading to other areas of the city.\n\nFootage posted to social media appeared to show a shirtless man walking along a street carrying a long weapon.\n\nAnother video seemed to show the same man being held on the ground by a police officer and shouting about \"protecting the country\" from Muslims.\n\nPolice said five people — two aged 22 and three others aged 24, 27, and 39 — sustained injuries.\n\nThree of the victims required hospital treatment, but none of the injuries were life-threatening, police said.\n\nA 36-year-old Scottish man was arrested, and authorities said there was no further threat to the public.\n\n\"Counter Terrorism Policing Scotland is investigating, supported by other specialist colleagues and local policing officers,\" the statement said.\n\nThe anti-Islamophobia non-profit MEND said several of the victims were Muslims and urged police to \"treat this as what the evidence indicates: Islamophobic, far-right terror.\"\n\nScotland's First Minister John Swinney said he was \"deeply concerned\" by the incidents.\n\nAssistant Chief Constable Catriona Paton called for calm, saying \"there is no place for racism or faith-based hate in Scotland.\" The incident follows a broader pattern of unrest across the UK, where tensions over immigration and multiculturalism remain elevated. Critics say far-right groups have been stoking anti-migrant and anti-Muslim sentiment in recent months.\n\nLast week, Belfast saw two nights of serious disorder after a brutal knife attack on a local man.\n\nVideo of the incident, allegedly carried out by a Sudanese asylum seeker, spread rapidly online and triggered protests that escalated into violence, with homes and vehicles set on fire.\n\nThe week before, protesters clashed with police in Southampton, southern England, over the handling of the murder of 18-year-old student Henry Nowak, who was fatally stabbed by a British Sikh man.\n\nThe unrest comes as Reform UK, the anti-immigration populist party led by Nigel Farage, has taken a clear lead in opinion polls.\n\nReform is ahead of both Prime Minister Keir Starmer's ruling Labour Party and the Conservatives, who...",
-            "zh": "苏格兰首都发生一系列暴力袭击事件，造成五人受伤，反恐警察已介入调查。 当局周六表示，反恐警察已接管对苏格兰爱丁堡涉嫌反穆斯林暴力事件的调查，该暴力事件导致五名男子受伤。 这场骚乱发生之际，英国正掀起一波反移民和反穆斯林情绪，包括最近在北爱尔兰和英格兰发生的骚乱。 警方声明称，周五晚间，紧急服务部门对全市发生“威胁、抢劫和破坏等暴力袭击”的报告做出了回应。 当地媒体报道称，袭击始于一座清真寺附近，然后蔓延到该市的其他地区。 社交媒体上发布的视频似乎显示一名赤裸上身的男子携带长武器在街上行走。 另一段视频似乎显示，同一名男子被一名警察按在地上，大喊“保护国家”免受穆斯林侵害。 警方称，有 5 人受伤，其中两人年龄为 22 岁，另外三人年龄分别为 24 岁、27 岁和 39 岁。 警方称，三名受害者需要住院治疗，但没有人危及生命。 一名 36 岁的苏格兰男子被捕，当局表示公众没有受到进一步的威胁。 声明称：“苏格兰反恐警务部门正在其他专家同事和当地警官的支持下进行调查。” 反伊斯兰恐惧症非营利组织 MEND 表示，其中几名受害者是穆斯林，并敦促警方“按照证据所表明的那样对待这一事件：伊斯兰恐惧症、极右恐怖”。 苏格兰首席大臣约翰·斯温尼表示，他对这些事件“深感担忧”。 助理警长卡特里奥娜·佩顿呼吁大家保持冷静，她表示“苏格兰没有种族主义或基于信仰的仇恨的容身之地”。此次事件发生之前，英国各地出现了更广泛的骚乱，移民和多元文化问题的紧张局势依然加剧。批评人士称，近几个月来，极右翼团体一直在煽动反移民和反穆斯林情绪。 上周，一名当地男子遭到残酷持刀袭击后，贝尔法斯特出现了两个晚上的严重骚乱。 该事件的视频据称是一名苏丹寻求庇护者所为，该视频在网上迅速传播，并引发抗议活动，并升级为暴力，房屋和车辆被纵火。 一周前，抗议者在英格兰南部南安普敦就 18 岁学生亨利·诺瓦克 (Henry Nowak) 被一名英国锡克教男子刺死的谋杀案处理问题与警方发生冲突。 这场骚乱发生之际，奈杰尔·法拉奇领导的反移民民粹主义政党改革英国在民意调查中明显领先。 改革领先于总理凯尔·斯塔默（Keir Starmer）领导的执政工党和保守党，他们……"
+            "zh": "苏格兰首都发生一系列暴力袭击事件，造成五人受伤，反恐警察已介入调查。 当局周六表示，反恐警察已接管对苏格兰爱丁堡涉嫌反穆斯林暴力事件的调查，该暴力事件导致五名男子受伤。 这场骚乱发生之际，英国正掀起一波反移民和反穆斯林情绪，包括最近在北爱尔兰和英格兰发生的骚乱。 警方声明称，周五晚间，紧急服务部门对全市发生“威胁、抢劫和破坏等暴力袭击”的报告做出了回应。 当地媒体报道称，袭击始于一座清真寺附近，然后蔓延到该市的其他地区。 社交媒体上发布的视频似乎显示一名赤裸上身的男子携带长武器在街上行走。 另一段视频似乎显示，同一名男子被一名警察按在地上，大喊“保护国家”免受穆斯林侵害。 警方称，有 5 人受伤，其中两人年龄为 22 岁，另外三人年龄分别为 24 岁、27 岁和 39 岁。 警方称，三名受害者需要住院治疗，但没有人危及生命。 一名 36 岁的苏格兰男子被捕，当局表示公众没有受到进一步的威胁。 声明称：“苏格兰反恐警务部门正在其他专家同事和当地警官的支持下进行调查。” 反伊斯兰恐惧症非营利组织 MEND 表示，其中几名受害者是穆斯林，并敦促警方“按照证据所表明的那样对待这一事件：伊斯兰恐惧症、极右恐怖”。 苏格兰首席大臣约翰·斯温尼表示，他对这些事件“深感担忧”。 助理警长卡特里奥娜·佩顿呼吁大家保持冷静，她表示“苏格兰没有种族主义或基于信仰的仇恨的容身之地”。此次事件发生之前，英国各地出现了更广泛的骚乱，移民和多元文化问题的紧张局势依然加剧。批评人士称，近几个月来，极右翼团体一直在煽动反移民和反穆斯林情绪。 上周，一名当地男子遭到残忍的持刀袭击，贝尔法斯特连续两个晚上出现严重骚乱。 该事件的视频据称是一名苏丹寻求庇护者所为，该视频在网上迅速传播，并引发抗议活动，并升级为暴力，房屋和车辆被纵火。 一周前，抗议者在英格兰南部南安普敦就 18 岁学生亨利·诺瓦克 (Henry Nowak) 被一名英国锡克教男子刺死的谋杀案处理问题与警方发生冲突。 这场骚乱发生之际，奈杰尔·法拉奇领导的反移民民粹主义政党改革英国在民意调查中明显领先。 改革领先于总理凯尔·斯塔默（Keir Starmer）领导的执政工党和保守党，他们……"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "News of violent attacks targeting individuals based on their identity reminds us of the persistent \"dividing wall of hostility\" that can separate communities. Yahweh calls us to seek peace and dismantle such barriers, fostering understanding and respect among all people.",
+            "zh": "针对特定身份群体的暴力袭击事件，提醒我们社会中可能存在的“敌意的墙”。雅伟呼召我们寻求和平，拆除这些障碍，促进所有人之间的理解与尊重。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Ephesians 2:14",
+            "textEn": "For he himself is our peace, who has made the two groups one and has destroyed the barrier, the dividing wall of hostility.",
+            "textZh": "因他使我们和睦，将两下合而为一，拆毁了中间隔断的墙。",
+            "themeEn": "Wall of hostility down",
+            "themeZh": "拆毁敌意的墙"
           },
-          "translationState": "fallback"
+          "aiVerseId": "eph_2_14",
+          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-are-ukraine-drones-really-exposing-gaps-in-russia-s-defens",
@@ -424,95 +597,28 @@
           "publishedAt": "2026-06-20T18:56:00.000Z",
           "title": {
             "en": "Are Ukraine drones really exposing gaps in Russia's defense?",
-            "zh": "乌克兰无人机真的暴露了俄罗斯防御的漏洞吗？"
+            "zh": "乌克兰无人机真的暴露了俄罗斯防空的漏洞吗？"
           },
           "summary": {
-            "en": "Once seen as almost impenetrable, Russian air defenses are now under growing strain from Ukrainian drones. A recent attack on Moscow has reignited debate over Russian vulnerabilities.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Russian air defenses, once considered highly effective, are reportedly struggling against Ukrainian drone attacks. A recent drone strike on Moscow has intensified discussions about Russia's military vulnerabilities.",
+            "zh": "曾被认为几乎坚不可摧的俄罗斯防空系统，据报道正面临乌克兰无人机日益增长的压力。最近对莫斯科的一次袭击重新引发了关于俄罗斯脆弱性的讨论。"
           },
           "body": {
             "en": "Once seen as almost impenetrable, Russian air defenses are now under growing strain from Ukrainian drones. A recent attack on Moscow has reignited debate over Russian vulnerabilities.\n\nUkrainian drones appear to be getting better at bypassing Russian air defenses to strike critical infrastructure.\n\nAfter Ukrainian drones hit locations across Moscow on June 18 — the largest attack since the start of Russia's full-scale invasion of Ukraine — a debate was sparked about holes in the country's defense net .&#160;\n\nA major oil refinery in Moscow, which supplies 40% of the region's fuel, was set alight and production appeared to have halted for several days after the attack. There were also evacuations at Russia's largest airport. Eyewitnesses flooded social media with footage of what looked like failed air defense interceptions of the drones.\n\n\"That impression forms among non-specialists, who see a missile fly past a drone without hitting it ,\"&#160; Ruslan Leviev, a Russian dissident, military analyst and founder of the investigative group Conflict Intelligence Team, told DW.\n\nExiled Russian journalist Ivan Filippov tracks pro-Kremlin bloggers and noted their growing alarm that Ukraine had found a gap in Russian defenses .\n\n\"They don't want the war to stop — they want a more effective war,\" Filippov told DW, meaning radical reform of the defense ministry and Russia's military-industrial complex. \"But I think they understand perfectly well that these reforms are impossible. So these texts tend to be pessimistic.\"\n\nAnatoliy Khrapchynskyi, a Ukrainian aviation expert and former air force officer, attributed the breaching of Moscow's air defense on June 18 to a combination of two factors: A systemic degradation of Russia's defense architecture and the technological evolution of Ukraine 's strike capabilities.\n\nLeviev wasn't so sure. His team did not record weakening of Russia's defenses because it actually downed more than 90% of the UAVs over Moscow. But the few that managed to get by Russian air defenses caused substantial damage.\n\nLeviev believes the core issue is quantity. As the scale of attacks is increasing, this challenge is the same for both Russia and Ukraine: Mass drone attacks demand more hardware than any industry can supply.\n\nRussian systems, including the Pantsir-S1, were designed to counter classic, large-scale attackers like cruise missiles, Khrapchynskyi told DW. They were calibrated against highly radar-reflective targets made of metal — but modern drones are often made from composite materials like plastic or plywood. This means those systems&#160; are basically \"blind\" to small drones.\n\nThe sheer size of the Russian territory is a challenge on its own. Building an unbroken \"air wall\" or a single \"dome\" is impossible, Leviev said.\n\nAnd...",
             "zh": "俄罗斯防空系统曾经被视为几乎坚不可摧，但现在却面临着来自乌克兰无人机的越来越大的压力。最近对莫斯科的袭击再次引发了关于俄罗斯脆弱性的争论。 乌克兰无人机似乎越来越擅长绕过俄罗斯防空系统攻击关键基础设施。 6 月 18 日，乌克兰无人机袭击了莫斯科各地——这是俄罗斯全面入侵乌克兰以来最大规模的一次袭击——之后，引发了一场关于该国防御网漏洞的争论。 莫斯科一家供应该地区 40% 燃料的大型炼油厂被纵火，袭击后生产似乎已停止数日。俄罗斯最大的机场也进行了疏散。目击者在社交媒体上发布了看似防空拦截无人机失败的视频。 俄罗斯持不同政见者、军事分析家、调查组织冲突情报小组创始人鲁斯兰·列维耶夫 (Ruslan Leviev) 告诉德国之声：“非专业人士会产生这种印象，他们看到导弹飞过无人机却没有击中它。” 流亡的俄罗斯记者伊万·菲利波夫（Ivan Filippov）追踪亲克里姆林宫的博主，并指出他们对乌克兰发现俄罗斯防御存在漏洞越来越感到担忧。 菲利波夫对德国之声表示：“他们不希望战争停止，他们想要一场更有效的战争。”这意味着对国防部和俄罗斯军工联合体进行彻底改革。 “但我认为他们非常清楚这些改革是不可能的。因此这些文本往往是悲观的。” 乌克兰航空专家、前空军军官阿纳托利·赫拉普琴斯基 (Anatoliy Khrapchynskyi) 将 6 月 18 日莫斯科防空系统的突破归因于两个因素：俄罗斯防御体系的系统性退化和乌克兰打击能力的技术演变。 列维耶夫不太确定。他的团队并没有记录俄罗斯防御能力的削弱，因为他们实际上击落了莫斯科上空90%以上的无人机。但少数成功突破俄罗斯防空系统的飞机造成了重大损失。 莱维耶夫认为，核心问题是数量。随着攻击规模不断扩大，俄罗斯和乌克兰面临同样的挑战：大规模无人机攻击所需的硬件超出了任何行业的供应能力。 赫拉普钦斯基告诉德国之声，包括“铠甲-S1”在内的俄罗斯系统旨在对抗巡航导弹等经典的大规模攻击目标。它们是针对金属制成的高雷达反射目标进行校准的，但现代无人机通常由塑料或胶合板等复合材料制成。这意味着这些系统基本上对小型无人机“视而不见”。 俄罗斯领土面积之大本身就是一个挑战。莱维耶夫说，建造完整的“空气墙”或单个“圆顶”是不可能的。 和..."
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "News of military defenses being challenged reminds us that even the most formidable human systems have limits. Psalm 46:9 points to a deeper truth: Yahweh ultimately makes wars cease and breaks the instruments of conflict. This offers a hopeful perspective that beyond the shifting tides of human power, a lasting peace is possible through divine intervention.",
+            "zh": "军事防御系统受到挑战的消息提醒我们，即使是最强大的属人系统也有其局限。诗篇46:9指出了一个更深层的真理：雅伟最终会止息战争，折断争战的器械。这提供了一个充满希望的视角，即超越人类力量的潮起潮落，通过神圣的干预，持久的和平是可能实现的。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Psalm 46:9",
+            "textEn": "He makes wars cease to the ends of the earth; he breaks the bow and shatters the spear.",
+            "textZh": "他止息刀兵，直到地极；他折弓断枪。",
+            "themeEn": "God ends wars",
+            "themeZh": "神止息刀兵"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-com-news-articles-cwylx1vq18zo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1117/live/35c8f160-6cc3-11f1-95c0-035571ba4bec.jpg",
-          "publishedAt": "2026-06-20T17:40:43.000Z",
-          "title": {
-            "en": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-            "zh": "黎巴嫩海龟保育人士莫娜·哈利勒在以色列袭击中丧生"
-          },
-          "summary": {
-            "en": "Mona Khalil, a Lebanese conservationist, died from injuries sustained in an Israeli strike on the beach she had dedicated years to protecting. She had refused to leave the area despite the ongoing conflict.",
-            "zh": "黎巴嫩环保主义者莫娜·哈利勒因以色列的袭击而受伤，最终不治身亡。她多年来一直致力于保护这片海滩，并拒绝离开。"
-          },
-          "body": {
-            "en": "Lebanese environmental activist Mona Khalil, whose work helped turn a stretch of coastline in southern Lebanon into one of the eastern Mediterranean's most important nesting sites for endangered sea turtles, has died after being wounded in an Israeli strike.\n\nKhalil, 76, was injured when her house on Mansouri beach, near the southern city of Tyre, was hit during Israeli attacks in southern Lebanon two weeks ago.\n\nShe died on Friday after several days in hospital, according to a local environmental group.\n\nHer death came as Israeli air strikes intensified across southern Lebanon, raising concerns about renewed violence despite diplomatic efforts to maintain a fragile regional peace.\n\n\"She is a deeply committed environmental defender,\" Hisham Younes, the founder and president of Green Southerners, told the BBC.\n\n\"She used to talk about the beach like it was a person. Her bond to the sunset, her bond to the water and the turtles….she was really into conservation, and into the soul, the spirit of conservation.\"\n\nFor more than 25 years, Khalil dedicated herself to protecting endangered loggerhead and green sea turtles that nest along Lebanon's southern coast.\n\nHer conservation work began after what her loved ones described as a life-changing encounter with a turtle laying eggs on Mansouri beach in 1999.\n\nA refugee of the Lebanese civil war, Khalil was living in the Netherlands but had returned to visit her family's seaside home.\n\nAfter learning that sea turtle populations in Lebanon were under threat, she committed herself to protecting them and later returned permanently to the country.\n\nFast forward a year to 2000, and she helped establish the Orange House Project, an eco-tourism and conservation initiative overlooking Mansouri beach.\n\nWhat began as a small guesthouse evolved into a centre for environmental education, wildlife protection and marine research, attracting volunteers and visitors from around the world.\n\nKhalil spent decades monitoring nesting sites, documenting marine life and campaigning against coastal development, pollution and destructive fishing practices.\n\nHer efforts helped secure protected status for parts of the coastline and raised awareness of the threats facing marine ecosystems in Lebanon.\n\nFriends and colleagues said she remained committed to her work despite years of conflict in southern Lebanon.\n\nHer home had previously been damaged during the 2006 war between Israel and Hezbollah, but she refused to leave the beach she had spent years protecting.\n\n\"Mona barricaded herself inside her house, receiving no visitors and believing she was safe because she is a civilian,\" environmental activist and friend of Khalil, Maha Joumaa, told local media.\n\n\"She absolutely refused to be displaced, which was fitting for someone so...",
-            "zh": "黎巴嫩环保活动人士莫娜·哈利勒在以色列的一次袭击中受伤后去世，她的工作帮助将黎巴嫩南部的一段海岸线变成了地中海东部最重要的濒危海龟筑巢地之一。 两周前，以色列对黎巴嫩南部发动袭击，76 岁的哈利勒位于南部城市提尔附近曼苏里海滩的房屋遭到袭击，她受伤。 据当地环保组织称，她在医院几天后于周五去世。 她去世之际，以色列加强了对黎巴嫩南部的空袭，引发了人们对暴力事件再次发生的担忧，尽管外交努力维持了脆弱的地区和平。 “她是一位坚定的环保卫士，”绿色南方人组织的创始人兼总裁希沙姆·尤尼斯 (Hisham Younes) 告诉英国广播公司 (BBC)。 “她过去常常像谈论一个人一样谈论海滩。她与日落的联系，她与水和海龟的联系……她真的很热衷于保护，并且热衷于保护的灵魂和精神。” 25 年多来，哈利勒致力于保护在黎巴嫩南部海岸筑巢的濒临灭绝的红海龟和绿海龟。 1999 年，她在曼苏里海滩遇到一只正在下蛋的海龟，据她的亲人描述，这改变了她的一生，之后她开始了保护工作。 卡利勒是黎巴嫩内战的难民，她住在荷兰，但后来回国探望家人的海边住宅。 在得知黎巴嫩的海龟种群受到威胁后，她致力于保护它们，后来永久返回该国。 时间快进到了 2000 年，她帮助建立了 Orange House Project，这是一项俯瞰曼苏里海滩的生态旅游和保护计划。 最初是一家小宾馆，后来发展成为环境教育、野生动物保护和海洋研究中心，吸引了来自世界各地的志愿者和游客。 哈利勒花了几十年的时间监测筑巢地点，记录海洋生物，并开展反对沿海开发、污染和破坏性捕捞活动的运动。 她的努力帮助确保了部分海岸线的受保护地位，并提高了人们对黎巴嫩海洋生态系统面临的威胁的认识。 朋友和同事表示，尽管黎巴嫩南部经历了多年的冲突，她仍然致力于工作。 她的家曾在 2006 年以色列和真主党之间的战争中遭到破坏，但她拒绝离开她多年来保护的海滩。 环保人士、哈利勒的朋友玛哈·朱玛 (Maha Joumaa) 告诉当地媒体：“莫娜把自己关在屋子里，不接待任何访客，并相信自己是安全的，因为她是平民。” “她绝对拒绝流离失所，这对于一个人来说很合适......"
-          },
-          "reflection": {
-            "en": "The tragic death of Mona Khalil, a dedicated conservationist, reminds us of the profound sorrow that conflict inflicts on innocent lives and those who quietly serve creation. In moments of such devastating loss, we remember that Yahweh himself grieves with us, as Jesus wept at the tomb of his friend.",
-            "zh": "环保主义者莫娜·哈利勒的悲惨离世，提醒我们冲突给无辜生命和那些默默服务受造物的人们带来了深切的悲痛。在如此毁灭性的损失面前，我们记得雅伟自己也与我们一同悲伤，正如耶稣在朋友的墓前哭泣一样。"
-          },
-          "verse": {
-            "reference": "John 11:35",
-            "textEn": "Jesus wept.",
-            "textZh": "耶稣哭了。",
-            "themeEn": "Jesus wept",
-            "themeZh": "耶稣哭了"
-          },
-          "aiVerseId": "jn_11_35",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-com-news-articles-c932k8010j1o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/76f2/live/a5bd9b80-6c7b-11f1-8546-8f19e4fe30f4.jpg",
-          "publishedAt": "2026-06-20T17:33:25.000Z",
-          "title": {
-            "en": "Tourist dies in Dominican Republic luxury resort fire",
-            "zh": "多米尼加共和国豪华度假村火灾致一名游客死亡"
-          },
-          "summary": {
-            "en": "A tourist died and nearly 1,700 people were evacuated after a large fire broke out at the Viva Wyndham Dominicus Beach resort in Bayahibe, a popular Caribbean coastal town in the Dominican Republic.",
-            "zh": "多米尼加共和国加勒比海岸热门度假小镇巴亚希贝的Viva Wyndham Dominicus Beach度假村发生大火，一名游客死亡，近1,700人被疏散。"
-          },
-          "body": {
-            "en": "A huge fire at a luxury beach resort in the Dominican Republic killed one woman and forced nearly 1,700 guests to be evacuated on Friday.\n\nThe woman was a 46-year-old Italian tourist, the DAEH emergency services said in a statement to local media. It added that three people were taken to medical facilities and six others were treated on site.\n\nDrone footage shows how widespread the fire was, with buildings spanning the Viva Wyndham Dominicus Beach in the town of Bayahibe on fire, and thick black smoke billowing into the air.\n\nThe cause of the early-morning blaze is not yet known, but an initial investigation found the flames spread quickly due to wind conditions and the flammable thatched roofs on some buildings.\n\nThe country's Emergency Operations Center (COE) said the fire had been brought under control and guests had been moved to other hotels.\n\nIt added that tourist activities in the town and surrounding area were not affected.\n\nItalian news agency Ansa reported that the Italian ambassador to the Dominican Republic met the deceased woman's husband at the hospital. The embassy is helping around 285 Italian tourists who were staying at the resort or nearby, issuing emergency passports to those whose travel documents were destroyed in the fire and arranging flights home.\n\nBayahibe, a popular resort town on the Caribbean coast, is known for its clear blue waters and sandy beaches.\n\nWyndham Hotels & Resorts, which franchises about 8,400 hotels around the world, said in a short statement to the BBC that while \"hotel teams safely evacuated guests and staff,\" one guest died.\n\n\"We send our thoughts to the family while we await autopsy results to determine the cause,\" it said.\n\nIt said the hotel, which is independently owned and operated, is closed and will remain so until further notice.",
-            "zh": "周五，多米尼加共和国一处豪华海滩度假村发生大火，造成一名妇女死亡，近 1,700 名客人被迫疏散。 DAEH 紧急服务部门在给当地媒体的一份声明中称，这名女子是一名 46 岁的意大利游客。声明补充说，三人被送往医疗机构，另外六人在现场接受治疗。 无人机拍摄的画面显示，火灾范围有多广，巴亚希贝镇 Viva Wyndham Dominicus 海滩上的建筑物起火，浓烟滚滚到空中。 凌晨起火的原因尚不清楚，但初步调查发现，由于风力条件和一些建筑物的易燃茅草屋顶，火势迅速蔓延。 该国紧急行动中心（COE）表示，火势已得到控制，客人已被转移到其他酒店。 它补充说，该镇及周边地区的旅游活动没有受到影响。 意大利安莎通讯社报道称，意大利驻多米尼加共和国大使在医院会见了死者的丈夫。大使馆正在帮助住在度假村或附近的约285名意大利游客，为旅行证件在火灾中被毁的游客发放紧急护照，并安排回国航班。 巴亚希贝是加勒比海岸的一个热门度假小镇，以其清澈蔚蓝的海水和沙滩而闻名。 温德姆酒店及度假村在全球拥有约 8,400 家酒店特许经营权，在给 BBC 的一份简短声明中表示，虽然“酒店团队安全疏散了客人和员工”，但仍有一名客人死亡。 声明称：“我们在等待尸检结果以确定死因的同时，将我们的想法传达给死者家属。” 该公司表示，这家独立拥有和经营的酒店已关闭，并将继续关闭，直至另行通知。"
-          },
-          "reflection": {
-            "en": "News of a resort fire and the loss of life reminds us of how quickly safety can be disrupted and how vulnerable we are to sudden events. In moments of crisis and uncertainty, Yahweh remains our steadfast refuge and strength, a constant help in times of trouble.",
-            "zh": "度假村火灾和生命逝去的消息提醒我们，安全可能瞬间被打破，我们是多么容易受到突发事件的影响。在危机和不确定时刻，雅伟仍然是我们坚定的避难所和力量，是患难中随时的帮助。"
-          },
-          "verse": {
-            "reference": "Psalm 46:1",
-            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
-            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
-            "themeEn": "Refuge in trouble",
-            "themeZh": "患难中的避难所"
-          },
-          "aiVerseId": "ps_46_1",
+          "aiVerseId": "ps_46_9",
           "translationState": "localized"
         },
         {
@@ -532,7 +638,7 @@
             "zh": "马德里一家法院裁定，有足够证据对首相佩德罗·桑切斯的妻子贝戈尼亚·戈麦斯提起腐败审判。这位55岁的大学主任已被禁止离境。"
           },
           "body": {
-            "en": "A court in Madrid ruled that there is sufficient evidence against Begona Gomez, the wife of Prime Minister Pedro Sanchez. The 55-year-old university director is banned from leaving the country.\n\nThe wife of Spain's Prime Minister Pedro Sanchez has been ordered to stand trial on corruption charges, a court order released on Saturday said.\n\nBegona Gomez is ‌accused of using her position as the head of the government's&#160;wife to secure work&#160;contracts.\n\nThe case is one of several graft cases facing the PM's center-left minority government.\n\nThe court in Madrid agreed that there was sufficient evidence to bring Gomez's&#160;case to trial in front of a jury.\n\nInvestigating judge Juan Carlos Peinado told&#160;Gomez to&#160;surrender ​her passport, barred her from leaving the country&#160;and ordered ​her ‌to report to court twice a month.\n\nThe court said \"instructions shall be issued to all border posts and civilian and military airports\" to ensure Gomez remains on home soil.\n\nSanchez's ​Socialist PSOE party&#160;reacted to the ruling on X, saying: \"[Gomez]&#160;has been subjected to&#160;judicial and political ⁠persecution ​for two years. Today's&#160;development is another step ​in that process.\"\n\nThe case began with a&#160;complaint filed by Manos Limpias (Clean Hands), a legal pressure group&#160;set up by a lawyer with ties to the far right.\n\nAn investigation was opened in April 2024 to decide whether Gomez had exploited her position as Sanchez's wife for private gain.\n\nIt centers on an academic chair at Madrid’s Complutense University that Gómez co-directed, along with allegations that she used public resources and her&#160;connections to advance private business interests.\n\nGomez was&#160; formally charged in April with embezzlement, influence peddling, corruption in business dealings and misappropriation of funds.\n\nShe has denied the allegations, while Sanchez has repeatedly refused to step down and call early elections.\n\nSeveral senior figures close to Sanchez, including the PSOE's number three and his former transport minister, are also under investigation over alleged kickbacks linked to public works contracts, oil and gas deals and the procurement of COVID-19 masks.\n\nSeparately, Spain's High Court is investigating former Prime Minister Jose&#160;Luis Rodriguez Zapatero over allegations that he headed a lobbying network which profited from influencing public authorities on behalf of third parties, including the airline Plus Ultra.\n\nThe cases&#160;threaten to bring down Sanchez's fragile coalition government,&#160;which&#160;came&#160;to power in 2018 promising to clean up Spanish politics after toppling the conservative Popular Party (PP) in a no-confidence vote over its own corruption scandal.\n\nDon't let the algorithm hide the news. If...",
+            "en": "A court in Madrid ruled that there is sufficient evidence against Begona Gomez, the wife of Prime Minister Pedro Sanchez. The 55-year-old university director is banned from leaving the country.\n\nBegona Gomez, the wife of Spain's prime minister,&#160; Pedro Sanchez , has been ordered to stand trial on corruption charges, a court order released on Saturday said.\n\nGomez is ‌accused of using her position as the head of government's&#160;wife to secure work&#160;contracts.\n\nThe case is one of several graft cases facing the prime minister's center-left minority government.\n\nThe court in Madrid agreed that there was sufficient evidence to bring Gomez's&#160;case to trial in front of a jury.\n\nInvestigating judge Juan Carlos Peinado told&#160;Gomez to&#160;surrender ​her passport, barred her from leaving the country&#160;and ordered ​her ‌to report to court twice a month.\n\nThe court said \"instructions shall be issued to all border posts and civilian and military airports\" to ensure Gomez remains on home soil.\n\nSanchez's ​Socialist PSOE party&#160;reacted to the ruling on X, saying: \"[Gomez]&#160;has been subjected to&#160;judicial and political ⁠persecution ​for two years. Today's&#160;development is another step ​in that process.\"\n\nThe case began with a&#160;complaint filed by Manos Limpias (Clean Hands), a legal pressure group&#160;set up by a lawyer with ties to the far right.\n\nAn investigation was opened in April 2024 to decide whether Gomez had exploited her position as Sanchez's wife for private gain.\n\nIt centers on an academic chair at Madrid’s Complutense University that Gómez co-directed, along with allegations that she used public resources and her&#160;connections to advance private business interests.\n\nGomez was&#160; formally charged in April with embezzlement, influence peddling, corruption in business dealings and misappropriation of funds.\n\nShe has denied the allegations, while Sanchez has repeatedly refused to step down and call early elections.\n\nSeveral senior figures close to Sanchez, including the PSOE's number three and his former transport minister, are also under investigation over alleged kickbacks linked to public works contracts, oil and gas deals and the procurement of COVID-19 masks.\n\nSeparately, Spain's High Court is investigating former Prime Minister Jose&#160;Luis Rodriguez Zapatero over allegations that he headed a lobbying network which profited from influencing public authorities on behalf of third parties, including the airline Plus Ultra.\n\nThe cases&#160;threaten to bring down Sanchez's fragile coalition government,&#160;which&#160;came&#160;to power in 2018 promising to clean up Spanish politics after toppling the conservative Popular Party (PP) in a no-confidence vote over its own corruption scandal.\n\nDon't let the...",
             "zh": "马德里一家法院裁定，有足够的证据对总理佩德罗·桑切斯的妻子贝戈娜·戈麦斯不利。这位 55 岁的大学校长被禁止出境。 周六发布的法院命令称，西班牙首相佩德罗·桑切斯的妻子已被勒令因腐败指控接受审判。 贝戈纳·戈麦斯被指控利用政府首脑妻子的职位来获取工作合同。 此案是总理中左翼少数政府面临的几起贪污案件之一。 马德里法院同意，有足够的证据将戈麦斯的案件提交陪审团审理。 调查法官胡安·卡洛斯·佩纳多要求戈麦斯交出护照，禁止她离开该国，并命令她每月两次到法庭报到。 法院表示，“应向所有边境哨所以及民用和军用机场发出指示”，以确保戈麦斯留在祖国。 桑切斯领导的社会党 PSOE 对 X 案的裁决做出反应，称：“[戈麦斯]两年来一直受到司法和政治迫害。今天的发展是这一过程中的又一步。” 此案始于马诺斯·林皮亚斯（“干净的手”）提出的投诉，这是一个由与极右翼有联系的律师成立的法律压力团体。 2024 年 4 月展开调查，以确定戈麦斯是否利用桑切斯妻子的地位谋取私利。 它以戈麦斯共同领导的马德里康普顿斯大学的一位学术主席为中心，并指控她利用公共资源和人脉关系来促进私人商业利益。 戈麦斯于四月被正式指控贪污、以权谋私、商业交易中腐败和挪用资金。 她否认了这些指控，而桑切斯则一再拒绝下台并呼吁提前选举。 与桑切斯关系密切的几位高级人物，包括社会工人党的三号人物和他的前交通部长，也因涉嫌与公共工程合同、石油和天然气交易以及采购 COVID-19 口罩有关的回扣而接受调查。 另外，西班牙高等法院正在调查前首相何塞·路易斯·罗德里格斯·萨帕特罗，指控他领导一个游说网络，该网络通过代表第三方（包括 Plus Ultra 航空公司）影响公共当局而获利。 这些案件有可能导致桑切斯脆弱的联合政府垮台，该政府于 2018 年上台，在就自身腐败丑闻进行的不信任投票中推翻了保守的人民党 (PP) 后，承诺整顿西班牙政治。 不要让算法隐藏新闻。如果..."
           },
           "reflection": {
@@ -550,39 +656,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-com-news-videos-c8r2pyv3e2po-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b3bb/live/848ad050-6cbb-11f1-8546-8f19e4fe30f4.jpg",
-          "publishedAt": "2026-06-20T16:37:03.000Z",
-          "title": {
-            "en": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-            "zh": "BBC 看到以色列占领的黎巴嫩南部村庄被毁"
-          },
-          "summary": {
-            "en": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The BBC has been given rare access to the part of southern Lebanon that is under Israeli occupation, as part of a humanitarian convoy of the Order of Malta distributing aid to Christian villages that have been isolated because of the war.\n\nThe mission happened on Thursday, a day before the announcement of a new ceasefire in the conflict between Israel and the Shia Muslim armed group Hezbollah. The team saw the Israeli military presence but was not allowed to film much of the journey.\n\nIsrael says it has no intention of withdrawing its troops from Lebanon, and that its plan is to create a security zone along the border, Hezbollah-free, to protect its northern communities from the group's rockets and drones.\n\nIn the occupied areas, mainly Shia villages have been completely destroyed by Israeli air strikes or demolitions. Human rights groups say that some of what has happened there amounts to the deliberate destruction of civilian infrastructure, a possible war crime.\n\nThe BBC's Middle East correspondent Hugo Bachega and video journalist Neha Sharma report from southern Lebanon.\n\nThe BBC’s Shaimaa Khalil was outside the Iran v New Zealand opening round match as protesters called for an end to Tehran’s clerical regime.\n\nIt's not clear if the deal means the Israelis will pause their offensive in Lebanon, BBC international editor Jeremy Bowen reports.\n\nIn a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.\n\nOne person was killed and more than 60 injured in the Iranian drone strike on Wednesday.\n\nBBC’s Sarah Smith looks at why both countries are in a tense cycle of negotiations, despite the progress President Trump consistently claims.\n\nIranian authorities have imposed an internet ban but using trusted sources, special correspondent Fergal Keane hears from those traumatised by conflict and government repression.\n\nThousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.\n\nPresident Trump has suspended anoperation to guide ships through the Strait of Hormuz - BBC Verify explains the timeline.\n\nCapt Raman Kapoor's ship is one of several to be stranded in the strait in the midst of the power struggle between the US and Iran.\n\nThe United Arab Emirates (UAE) is quitting oil cartel Opec after nearly 60 years of membership.\n\nThe US president says he saved eight Iranian women from execution, but Iran says otherwise.\n\nThe 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.\n\nThe US and Iran's rival blockades of the Strait of Hormuz have become a \"test of wills\", says Lyse Doucet.\n\nAnalysis indicates that parts of the video appear to have been filmed hours after the ships...",
-            "zh": "作为马耳他骑士团人道主义车队的一部分，英国广播公司获得了难得的机会进入以色列占领下的黎巴嫩南部地区，向因战争而孤立的基督教村庄分发援助物资。 这次任务发生在星期四，就在以色列和什叶派穆斯林武装组织真主党之间的冲突宣布新停火的前一天。该团队看到了以色列军队的存在，但不被允许拍摄大部分旅程。 以色列表示无意从黎巴嫩撤军，并计划沿边境建立一个没有真主党的安全区，以保护其北部社区免受真主党火箭弹和无人机的袭击。 在被占领地区，主要是什叶派村庄被以色列空袭或拆除完全摧毁。人权组织表示，那里发生的一些事情相当于故意破坏民用基础设施，可能构成战争罪。 BBC 中东记者雨果·巴切加 (Hugo Bachega) 和视频记者内哈·夏尔马 (Neha Sharma) 从黎巴嫩南部进行报道。 英国广播公司 (BBC) 的沙伊玛·哈利勒 (Shaimaa Khalil) 在伊朗对阵新西兰的首轮比赛外，抗议者呼吁结束德黑兰的教权政权。 据英国广播公司国际编辑杰里米·鲍文报道，目前尚不清楚该协议是否意味着以色列将暂停对黎巴嫩的攻势。 在与美国总统的通话中，英国广播公司的莎拉·史密斯向特朗普询问了伊朗战争以及他与以色列领导人的关系。 周三，伊朗无人机袭击造成 1 人死亡、60 多人受伤。 英国广播公司 (BBC) 的莎拉·史密斯 (Sarah Smith) 探讨了为什么尽管特朗普总统一直声称取得了进展，但两国仍处于紧张的谈判周期。 伊朗当局实施了互联网禁令，但特约记者费格尔·基恩通过可信来源听取了那些因冲突和政府镇压而受到创伤的人的消息。 数千人参加了巴勒斯坦马拉松比赛，该赛事在因加沙战争而暂停两年后重返伯利恒。 特朗普总统已暂停引导船只通过霍尔木兹海峡的行动 - BBC verify 解释了时间表。 拉曼·卡普尔船长的船是在美国和伊朗之间的权力斗争中滞留在海峡的几艘船之一。 阿拉伯联合酋长国 (UAE) 在成为欧佩克成员国近 60 年后，即将退出石油卡特尔组织。 美国总统称他拯救了八名伊朗妇女免遭处决，但伊朗却另有说法。 近 2,000 人参与抽签，最终选出 300 对情侣参加联合庆祝活动。 杜赛特表示，美国和伊朗对霍尔木兹海峡的相互封锁已经成为“意志的考验”。 分析表明，视频的部分内容似乎是在船舶航行数小时后拍摄的……"
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-dw-com-en-zelenskyy-returns-poland-s-highest-honor-as-row-deepens-a-",
           "section": "world",
           "source": "DW World",
@@ -592,28 +665,29 @@
           "publishedAt": "2026-06-20T13:14:00.000Z",
           "title": {
             "en": "Zelenskyy returns Poland's highest honor as row deepens",
-            "zh": "随着争执加深，泽连斯基归还波兰最高荣誉"
+            "zh": "泽连斯基退还波兰最高荣誉，两国关系日益紧张"
           },
           "summary": {
-            "en": "Ukraine's president has returned a medal to Poland after a decision to strip him of the honor. Warsaw has been one of Kyiv's key allies since Russia's war in Ukraine.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Ukraine's president returned Poland's highest honor after being stripped of it, marking a deepening diplomatic dispute between the two key allies in the war against Russia.",
+            "zh": "乌克兰总统退还了波兰的最高荣誉勋章，此前波兰决定剥夺他的这项荣誉，这标志着这两个在对俄战争中的关键盟友之间的外交争端正在加剧。"
           },
           "body": {
-            "en": "Ukraine's president has returned a medal to Poland after a decision to strip him of the honor. Warsaw has been one of Kyiv's key allies since Russia's war in Ukraine.\n\nTop Ukrainian officials, including President Volodymyr Zelenskyy, said on Saturday that they were returning Polish state honors&#160;after Polish President Karol Nawrocki stripped the Ukrainian president of Poland's highest award.\n\nZelenskyy said in a social media post that sent back the Order of the White Eagle, which he received in 2023 as a symbol of friendship between Poland and Ukraine.\n\n\"Ukraine will remain open to all meaningful formats of interaction with Poland, in order to strive to avoid misinterpretations of the complex and painful pages of the past of our peoples and to ensure due respect for all innocent victims of the 20th century,\" he wrote.\n\nHe called the medal a symbol of Poland's \"highest trust,\" but also suggested it no longer held the same meaning after Nawrocki's decision.&#160;\n\nThe Polish decision to strip the honor from Zelenskyy could further strain ties between the two close strategic partners as Kyiv seeks to rally international support to pressure Russia to end its war in Ukraine .\n\n\"This is a gift to the Moscow aggressor, who will certainly use it against both of our countries,\" Zelenskyy's chief of staff, Kyrylo Budanov, wrote on social media, saying that he was returning the Gold Officer's Cross of the Polish Order of Merit.&#160;\n\nOn Friday, Nawrocki announced that Zelenskyy would be stripped of the Order of the White Eagle — Poland's highest state honor, which had been awarded by former President Andrzej Duda in 2023.\n\nThe decision followed Zelenskyy's move to name a military unit after the Ukrainian Insurgent Army (UPA) ,&#160; a World War II militia that Warsaw accuses of participating in massacres of Poles.\n\nPoland has been one of Ukraine's key allies since Russia's full-scale invasion, hosting hundreds of thousands of Ukrainian refugees.\n\nNawrocki said the move would not affect Poland's support for Ukraine's defense against Russia.&#160;\n\nUkraine's ambassador to Warsaw, Vasyl Bodnar, described the move \"as a gesture towards all the Ukrainian people\" and announced that he was relinquishing his Knight's Cross of the Polish Order of Merit.\n\nForeign Minister Andriy Sybiga also said that he would return a Polish award he received in 2022, calling the decision \"a strategic mistake … that benefits only Moscow.\"\n\nPolish Prime Minister Donald Tusk , a political rival of Nawrocki, urged both countries to preserve their solidarity, warning that a dispute between Poland and Ukraine \"delights Putin and shocks our allies.\"&#160;\n\nMeanwhile, a Russian airstrike on the eastern Ukrainian city of Kharkiv killed at least one person and injured nine others on...",
-            "zh": "乌克兰总统在决定剥夺他的荣誉后，将一枚奖章归还给波兰。自俄罗斯乌克兰战争以来，华沙一直是基辅的主要盟友之一。 包括总统泽伦斯基在内的乌克兰高级官员周六表示，在波兰总统卡罗尔·纳罗基剥夺了乌克兰总统的波兰最高奖项后，他们将归还波兰国家荣誉。 泽伦斯基在社交媒体发文发回了白鹰勋章，他于2023年获得了这一勋章，该勋章是波兰和乌克兰之间友谊的象征。 他写道：“乌克兰将继续对与波兰进行所有有意义的互动形式持开放态度，以避免对我们两国人民复杂而痛苦的过去的误解，并确保对20世纪所有无辜受害者的应有尊重。” 他称该奖章是波兰“最高信任”的象征，但也暗示在诺罗基做出决定后，该奖章不再具有相同的含义。 波兰决定剥夺泽连斯基的荣誉可能会进一步加剧这两个密切战略伙伴之间的关系，因为基辅寻求争取国际支持，向俄罗斯施压，要求其结束乌克兰战争。 泽连斯基的幕僚长凯里洛·布达诺夫在社交媒体上写道：“这是送给莫斯科侵略者的礼物，他们肯定会用它来对付我们两国。”他表示，泽连斯基将归还波兰军官金质十字勋章。 周五，纳罗基宣布将取消泽连斯基的白鹰勋章——波兰最高国家荣誉，由前总统安杰伊·杜达于 2023 年授予。 这一决定是在泽伦斯基以乌克兰起义军（UPA）的名字命名一支军事单位之后做出的。乌克兰起义军是一支二战民兵组织，华沙指责其参与了对波兰人的屠杀。 自俄罗斯全面入侵以来，波兰一直是乌克兰的主要盟友之一，收容了数十万乌克兰难民。 纳罗基表示，此举不会影响波兰对乌克兰防御俄罗斯的支持。 乌克兰驻华沙大使瓦西里·博德纳尔称此举“是对所有乌克兰人民的一个姿态”，并宣布他将放弃波兰骑士十字勋章。 外交部长安德烈·西比加 (Andriy Sybiga) 还表示，他将归还 2022 年获得的波兰奖项，称这一决定“是一个战略错误……只会对莫斯科有利”。 诺罗基的政治对手、波兰总理唐纳德·图斯克敦促两国保持团结，并警告说，波兰和乌克兰之间的争端“让普京感到高兴，但让我们的盟友感到震惊”。 与此同时，俄罗斯对乌克兰东部城市哈尔科夫的空袭造成至少一人死亡、九人受伤。"
+            "en": "Ukraine's president has returned a medal to Poland after a decision to strip him of the country's highest honor. Warsaw has been one of Kyiv's key allies since Russia began its war in Ukraine.\n\nTop Ukrainian officials, including President Volodymyr Zelenskyy, said on Saturday that they were returning Polish state honors&#160;after Polish President Karol Nawrocki stripped the Ukrainian president of Poland's highest award.\n\nZelenskyy said in a social media post that he had sent back the Order of the White Eagle, which he received in 2023 as a symbol of friendship between Poland and Ukraine.\n\n\"Ukraine will remain open to all meaningful formats of interaction with Poland, in order to strive to avoid misinterpretations of the complex and painful pages of the past of our peoples and to ensure due respect for all innocent victims of the 20th century,\" he wrote.\n\nHe called the medal a symbol of Poland's \"highest trust,\" but also suggested it no longer held the same meaning after Nawrocki's decision.&#160;\n\nThe Polish decision to strip the honor from Zelenskyy could further strain ties between the two close strategic partners as Kyiv seeks to rally international support to pressure Russia to end its war in Ukraine .\n\n\"This is a gift to the Moscow aggressor, who will certainly use it against both of our countries,\" Zelenskyy's chief of staff, Kyrylo Budanov, wrote on social media, saying that he was returning the Gold Officer's Cross of the Polish Order of Merit.&#160;\n\nOn Friday, Nawrocki announced that Zelenskyy would be stripped of the Order of the White Eagle — Poland's highest state honor, which had been awarded by former President Andrzej Duda in 2023.\n\nThe decision followed Zelenskyy's move to name a military unit after the Ukrainian Insurgent Army (UPA) ,&#160; a World War II militia that Warsaw accuses of participating in massacres of Poles.\n\nPoland has been one of Ukraine's key allies since Russia's full-scale invasion, hosting hundreds of thousands of Ukrainian refugees.\n\nNawrocki said the move would not affect Poland's support for Ukraine's defense against Russia.&#160;\n\nUkraine's ambassador to Warsaw, Vasyl Bodnar, described the move \"as a gesture towards all the Ukrainian people\" and announced that he was relinquishing his Knight's Cross of the Polish Order of Merit.\n\nForeign Minister Andriy Sybiga also said that he would return a Polish award he received in 2022, calling the decision \"a strategic mistake … that benefits only Moscow.\"\n\nPolish Prime Minister Donald Tusk , a political rival of Nawrocki, urged both countries to preserve their solidarity, warning that a dispute between Poland and Ukraine \"delights Putin and shocks our allies.\"&#160;\n\nMeanwhile, a Russian airstrike on the eastern Ukrainian city of Kharkiv killed at least one person...",
+            "zh": "乌克兰总统在决定剥夺他的国家最高荣誉后，将一枚奖章归还给波兰。自俄罗斯在乌克兰发动战争以来，华沙一直是基辅的主要盟友之一。 包括总统泽伦斯基在内的乌克兰高级官员周六表示，在波兰总统卡罗尔·纳罗基剥夺了乌克兰总统的波兰最高奖项后，他们将归还波兰国家荣誉。 泽连斯基在社交媒体帖子中表示，他已将2023年收到的白鹰勋章寄回，作为波兰和乌克兰友谊的象征。 他写道：“乌克兰将继续对与波兰进行所有有意义的互动形式持开放态度，以避免对我们两国人民复杂而痛苦的过去的误解，并确保对20世纪所有无辜受害者的应有尊重。” 他称该奖章是波兰“最高信任”的象征，但也暗示在诺罗基做出决定后，该奖章不再具有相同的含义。 波兰决定剥夺泽连斯基的荣誉可能会进一步加剧这两个密切战略伙伴之间的关系，因为基辅寻求争取国际支持，向俄罗斯施压，要求其结束乌克兰战争。 泽连斯基的幕僚长凯里洛·布达诺夫在社交媒体上写道：“这是送给莫斯科侵略者的礼物，他们肯定会用它来对付我们两国。”他表示，泽连斯基将归还波兰军官金质十字勋章。 周五，纳罗基宣布将取消泽连斯基的白鹰勋章——波兰最高国家荣誉，由前总统安杰伊·杜达于 2023 年授予。 这一决定是在泽伦斯基以乌克兰起义军（UPA）的名字命名一支军事单位之后做出的。乌克兰起义军是一支二战民兵组织，华沙指责其参与了对波兰人的屠杀。 自俄罗斯全面入侵以来，波兰一直是乌克兰的主要盟友之一，收容了数十万乌克兰难民。 纳罗基表示，此举不会影响波兰对乌克兰防御俄罗斯的支持。 乌克兰驻华沙大使瓦西里·博德纳尔称此举“是对所有乌克兰人民的一个姿态”，并宣布他将放弃波兰骑士十字勋章。 外交部长安德烈·西比加 (Andriy Sybiga) 还表示，他将归还 2022 年获得的波兰奖项，称这一决定“是一个战略错误……只会对莫斯科有利”。 诺罗基的政治对手、波兰总理唐纳德·图斯克敦促两国保持团结，并警告说，波兰和乌克兰之间的争端“让普京感到高兴，但让我们的盟友感到震惊”。 与此同时，俄罗斯对乌克兰东部城市哈尔科夫的空袭造成至少一人死亡……"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "Even strong alliances can face strain when grievances arise, as seen in the diplomatic dispute between Ukraine and Poland. The Scripture reminds us of the importance of bearing with one another and forgiving, especially when relationships are tested by perceived slights or disagreements. Cultivating such grace is vital for maintaining unity and common...",
+            "zh": "即使是坚固的盟友关系，当出现不满时也会面临压力，正如乌克兰和波兰之间的外交争端所显示的那样。圣经提醒我们，尤其当关系因被视为轻视或分歧而受到考验时，彼此包容和饶恕是多么重要。培养这种恩典对于维持团结和共同目标至关重要。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Colossians 3:13",
+            "textEn": "Bear with each other and forgive one another if any of you has a grievance against someone.",
+            "textZh": "倘若这人与那人有嫌隙，总要彼此包容，彼此饶恕。",
+            "themeEn": "Bearing with one another",
+            "themeZh": "彼此包容"
           },
-          "translationState": "fallback"
+          "aiVerseId": "col_3_13",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-one-killed-and-dozens-hurt-in-train-collisio",
@@ -648,73 +722,6 @@
           },
           "aiVerseId": "rev_21_4",
           "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-bolivia-declares-state-of-emergency-over-blo",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/bolivia-declares-state-of-emergency-over-blockade-crisis/ah709v8do",
-          "image": "https://assets.sbs.com.au/dims4/default/2b3aa3b/2147483647/strip/false/crop/4512x2073+0+467/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F34%2Ff0%2F042b0b414f9d8e72e3616a99ea5c%2F20260618118151698550-original.jpg",
-          "publishedAt": "2026-06-20T07:56:41.000Z",
-          "title": {
-            "en": "Bolivia declares state of emergency over blockade crisis",
-            "zh": "玻利维亚因封锁危机宣布进入紧急状态"
-          },
-          "summary": {
-            "en": "Bolivia has declared a state of emergency as roadblocks and demonstrations have intensified since April, severely disrupting the nation.",
-            "zh": "玻利维亚宣布进入紧急状态，因为自四月以来，路障和示威活动加剧，严重瘫痪了该国。"
-          },
-          "body": {
-            "en": "Bolivia's military is poised to crack down on protesters after President Rodrigo Paz declared a state of emergency following weeks of crippling blockades.\n\nThe state of emergency will enable wider military deployment to clear blockades and restore order after protests brought the economy to a halt in the past 50 days.\n\nThe emergency declaration on Saturday gives Paz broader constitutional tools to restore order, such as sending armed forces to clear blockades, which have been intensifying since April.\n\nWhile the order goes into effect immediately, the president must notify Congress of the state of emergency within 24 hours &#x200C;of issuing the &#x200C;decree, which then &#x2060;has up to 72 hours to approve or reject the measure.\n\nProtesting groups, many allied to former leftist president Evo Morales, have cut off key roads, stranding trucks and choking supplies of food, fuel and medicines to many areas, including La Paz.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe conflict initially erupted after Paz abruptly cut longstanding fuel subsidies to shrink the deficit amid a worsening dollar crunch and talks with the International Monetary Fund.\n\nDespite later steps to stabilise fuel &#x2060;prices and reverse unpopular land reforms, protests intensified into broader discontent, with &#x200C;unions demanding wage increases, an end to fuel and dollar shortages, and Paz's resignation.\n\nPaz's declaration came in a live message to the &#x200C;nation just hours after he unveiled a deal struck on Friday with the main union, the Bolivian Workers Confederation, that aimed to ease tension.\n\nHowever, many roads connecting the South American nation's main production centre are under the control of rural associations aligned with Morales, who were not a part of the negotiations and are continuing to protest mainly in the area of Cochabamba.\n\nPaz said the crisis had evolved into an organised attempt to destabilise &#x200C;democracy after weeks of violence and blockades.\n\nHe said the state of emergency aims to restore order, protect citizens and ensure the flow of essential goods, while warning that those continuing disruptions would face legal consequences.\n\n\"This is not a state of emergency to restrict people's lives ... It is a state of emergency to give freedom back to the people, to free Bolivia from those who use political conflict to block roads and harm the population,\" Paz said.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "在经历了数周的严重封锁后，总统罗德里戈·帕斯宣布进入紧急状态，玻利维亚军队准备镇压抗议者。 在过去 50 天的抗议活动导致经济停滞后，紧急状态将使更广泛的军事部署能够清除封锁并恢复秩序。 周六的紧急声明为巴斯提供了更广泛的宪法工具来恢复秩序，例如派遣武装部队清除自四月以来不断加剧的封锁。 虽然该命令立即生效，但总统必须在发布该命令后 24 小时内将紧急状态通知国会，然后国会有最多 72 小时的时间批准或拒绝该措施。 许多与前左翼总统埃沃·莫拉莱斯结盟的抗议团体切断了主要道路，导致卡车滞留，并阻碍了包括拉巴斯在内的许多地区的食品、燃料和药品供应。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这场冲突最初是在美元紧缩加剧以及与国际货币基金组织谈判期间，帕斯突然削减长期燃料补贴以缩小赤字后爆发的。 尽管后来采取了稳定燃料价格和扭转不受欢迎的土地改革的措施，但抗议活动仍加剧为更广泛的不满，工会要求增加工资、结束燃料和美元短缺以及帕斯辞职。 帕斯的声明是在向全国发出的实时信息中发出的，就在他公布了周五与主要工会玻利维亚工人联合会达成的旨在缓解紧张局势的协议几小时后。 然而，连接南美国家主要生产中心的许多道路都在与莫拉莱斯结盟的农村协会的控制之下，他们没有参加谈判，并继续主要在科恰班巴地区进行抗议。 帕兹表示，经过数周的暴力和封锁，这场危机已演变成一场有组织的破坏民主稳定的企图。 他说，紧急状态的目的是恢复秩序、保护公民并确保必需品的流动，同时警告说，这些持续的干扰将面临法律后果。 帕斯说：“这不是限制人们生命的紧急状态……这是为了让人民重获自由，将玻利维亚从那些利用政治冲突封锁道路和伤害人民的人手中解放出来的紧急状态。” 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "The ongoing crisis in Bolivia, marked by blockades and demonstrations, highlights the profound challenges a nation faces when consensus and clear direction are absent. Proverbs 11:14 reminds us that without wise guidance, a nation can falter, underscoring the vital need for leaders and citizens to seek sound counsel and unity for the common good. In such...",
-            "zh": "玻利维亚持续的危机，以路障和示威为标志，凸显了一个国家在缺乏共识和明确方向时所面临的严峻挑战。箴言11:14提醒我们，没有明智的指导，国家就会衰败，这强调了领导者和公民为共同利益寻求健全的忠告和团结的至关重要性。在这样的时刻，向雅伟寻求智慧是找到前进道路的关键。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "aiVerseId": "prov_11_14",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-washington-reflection-pool-trump-rennovation",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/washington-reflection-pool-trump-rennovation-algae-green/dlmol6k6s",
-          "image": "https://assets.sbs.com.au/dims4/default/5d73a62/2147483647/strip/false/crop/2342x1076+0+120/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F46%2Fbd%2F1f18520c485f86cf4a164052112f%2Fgettyimages-2279678843.jpg",
-          "publishedAt": "2026-06-20T04:38:36.000Z",
-          "title": {
-            "en": "After Trump's makeover, the Lincoln Memorial Reflecting Pool is now green — with algae",
-            "zh": "特朗普改造后，林肯纪念堂倒影池现在变成了绿色，长满了藻类"
-          },
-          "summary": {
-            "en": "The patriotic makeover of the historic Lincoln Memorial monument has gone disastrously wrong.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Strips of \"American-flag blue\" paint are rising from the bottom of the Lincoln Memorial Reflecting Pool, videos circulating online appear to show, in the latest disaster to hit its botched $14.6 million ($20.8M) refurbishment.\n\nThe Reflecting Pool, which civil rights activist Martin Luther King Jr. looked over as he gave his famous \"I have a dream\" speech, has undergone a makeover at the direction of Donald Trump to commemorate the country's 250th birthday on 4 July this year.\n\nIn May, the pool was drained and a commercial-grade sealant was reportedly added to its granite bottom.\n\nThe Virginia-based Atlantic Industrial Coatings company was awarded a controversial US$13.1 million ($18.7M) no-bid contract for the job after having previously worked on one of Trump's golf courses.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"We did a hell of a job,\" Trump told reporters at the White House last week upon completion, claiming just US$10 million had been spent.\n\nCompany owner Eddie Wood confirmed in an email to US publication NBC that the cost had, in fact, blown out.\n\n\"But everybody&#x2019;s looking at that Reflecting Pool,\" Trump continued. \"They can&#x2019;t believe it reflects. We used a dark blue, it&#x2019;s called American flag blue.\"\n\nHowever, visitors to the iconic Washington site have noticed that the water has turned a distinct shade of green.\n\nWayne Sobey, environmental consultant at Algae Control Australia, told SBS News that \"shallow, flat, non&#x2011;circulating pools\" like the Lincoln Memorial's create \"almost perfect conditions for algal growth,\" something the administration is continuing to deny is a problem.\n\nHere's how the colour of the Lincoln Reflecting Pool became the latest political flashpoint in a politically charged United States.\n\nTrump's desired overhaul of the Reflecting Pool is part of an ongoing administration push to \"beautify\" American cities, and its capital in particular, following what it sees as years of Democrat neglect.\n\nSuch projects in Washington DC include the complete knock-down and rebuild of the East Wing of the White House, the plans to build a towering victory arch in Washington that will exceed the Arc de Triomphe in Paris, and a US$7.5 million plan to paint the Eisenhower building.\n\nThe Lincoln Memorial Reflecting Pool is a 619 by 51 metre rectangular pool built in 1922 between the Washington Monument and the Lincoln Memorial.\n\nWhile it draws millions of tourists each year, it has long had issues with water clarity. It's 6.75 million gallons of still water see blooms of the photosynthetic organism each summer, something Barack Obama spent US$34 million to fix &#x2014; unsuccessfully.\n\n\"Healthy water naturally...",
-            "zh": "网上流传的视频似乎显示，林肯纪念堂倒影池的底部正升起一条条“美国国旗蓝色”油漆，这是造价 1,460 万美元（合 2,080 万美元）的翻修工程遭遇的最新灾难。 民权活动家马丁·路德·金发表著名的“我有一个梦想”演讲时曾俯瞰的倒影池在唐纳德·特朗普的指导下进行了改造，以纪念今年 7 月 4 日美国的 250 岁生日。 据报道，五月，游泳池被排干，花岗岩底部添加了商业级密封剂。 总部位于弗吉尼亚州的大西洋工业涂料公司此前曾在特朗普的一个高尔夫球场工作过，随后获得了一份颇具争议的价值 1,310 万美元（合 1,870 万美元）的无投标合同。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “我们做得非常出色，”特朗普上周在白宫完工后对记者表示，并声称只花费了 1000 万美元。 公司老板埃迪·伍德（Eddie Wood）在给美国全国广播公司（NBC）的一封电子邮件中证实，成本实际上已经超出了预期。 “但每个人都在看着那个倒影池，”特朗普继续说道。 “他们不敢相信它会反射。我们使用了深蓝色，它被称为美国国旗蓝。” 然而，参观华盛顿标志性遗址的游客注意到，水已经变成了明显的绿色。 澳大利亚藻类控制公司的环境顾问韦恩·索贝 (Wayne Sobey) 告诉 SBS 新闻，像林肯纪念堂这样的“浅、平坦、非循环水池”为藻类生长创造了“近乎完美的条件”，但政府一直否认这是一个问题。 以下是林肯倒影池的颜色如何成为政治紧张的美国最新的政治热点。 特朗普对倒影池的彻底改造是政府持续推动“美化”美国城市，特别是首都的一部分，因为它认为民主党多年来一直忽视这一举措。 华盛顿特区的此类项目包括彻底拆除和重建白宫东翼、在华盛顿建造一座将超过巴黎凯旋门的高耸胜利拱门的计划，以及耗资750万美元粉刷艾森豪威尔大楼的计划。 林肯纪念堂倒影池是一座 619 米 x 51 米的矩形水池，建于 1922 年，位于华盛顿纪念碑和林肯纪念堂之间。 虽然它每年吸引数百万游客，但长期以来一直存在水质透明度问题。每年夏天，有 675 万加仑的静水会出现这种光合生物的繁盛，巴拉克·奥巴马 (Barack Obama) 花费了 3,400 万美元来修复这一问题，但没有成功。 “健康水自然..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         }
       ]
     },
@@ -1087,10 +1094,112 @@
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
       },
       "sourceNotes": [
-        "SBS News Australia",
-        "The Guardian Australia"
+        "The Guardian Australia",
+        "SBS News Australia"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-australia-news-live-2026-jun-21-australia-news-live-",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/337dc21629c3bd5c1f9d10d0d627268540cdc7b8/295_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=60e7e8d5086a3cb9e9df16da8d945744",
+          "publishedAt": "2026-06-21T04:09:47.000Z",
+          "title": {
+            "en": "Angus Taylor dismisses Labor’s ‘half-arsed’ tweaks to CGT reform – as it happened",
+            "zh": "安格斯·泰勒驳斥工党对资本利得税改革的“半吊子”调整"
+          },
+          "summary": {
+            "en": "The article reports on a political exchange where Angus Taylor criticized Labor's proposed capital gains tax reforms. It also notes Ted O’Brien's stance on foreign aid to Pacific countries, distinguishing his view from Pauline Hanson's suggestion regarding aid from China.",
+            "zh": "这篇文章报道了安格斯·泰勒批评工党拟议的资本利得税改革的政治交锋。文章还指出特德·奥布莱恩在向太平洋国家提供对外援助问题上的立场，他与宝琳·汉森关于接受中国援助的建议划清了界限。"
+          },
+          "body": {
+            "en": "This blog has now closed Get our breaking news email , free app or daily news podcast Ted O’Brien distanced himself from Pauline Hanson ’s suggestion that Australia shouldn’t give aid to Pacific countries that also take aid from China. He said it was a legitimate concern, but her solution was “completely wrong” for the Pacific and not in Australia’s national interest. The idea that you effectively hold a gun to the head of our Pacific neighbours – that’s not what a friend does, that’s not a way of building trust, you don’t basically create an ultimatum. You certainly don’t say it’s all about who you’re going to get money from. The relationship that we have with the Pacific islands is far deeper than development money. From Australia’s perspective, I think that’s the main thing that we should be concerned about, because that has a direct impact on the prices we pay here in Australia. A permanent toll would be bad in practice, wrong in principle, and set a dangerous precedent for how otherwise waterways should be managed internationally. Continue reading...",
+            "zh": "该博客现已关闭 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 泰德·奥布莱恩 (Ted O’Brien) 与宝琳·汉森 (Pauline Hanson) 的建议保持距离，即澳大利亚不应向同样接受中国援助的太平洋国家提供援助。他表示，这是合理的担忧，但她的解决方案对于太平洋地区来说“完全错误”，也不符合澳大利亚的国家利益。你实际上用枪指着我们太平洋邻国的头——这不是朋友该做的事，这不是建立信任的方式，你基本上不会发出最后通牒。你当然不会说这完全取决于你要从谁那里得到钱。我们与太平洋岛屿的关系远比发展资金更深厚。从澳大利亚的角度来看，我认为这是我们应该关注的主要问题，因为这对我们在澳大利亚支付的价格有直接影响。永久收费在实践中是不好的，在原则上是错误的，并且为国际上如何管理水道树立了一个危险的先例。继续阅读..."
+          },
+          "reflection": {
+            "en": "In the heat of political debate, words can easily become sharp and dismissive, as seen in the \"half-arsed\" comment. Yahweh calls us to let our speech always be gracious and seasoned with salt, even when discussing complex policy or international relations. This encourages thoughtful communication that builds understanding rather than inflaming division.",
+            "zh": "在激烈的政治辩论中，言语很容易变得尖锐和轻蔑，正如“半途而废”的评论所示。雅伟呼召我们让言语常常带着恩典，用盐调和，即使在讨论复杂的政策或国际关系时也是如此。这鼓励深思熟虑的沟通，以建立理解而非煽动分裂。"
+          },
+          "verse": {
+            "reference": "Colossians 4:6",
+            "textEn": "Let your conversation be always full of grace, seasoned with salt.",
+            "textZh": "你们的言语要常常带着和气，好像用盐调和。",
+            "themeEn": "Speech with grace",
+            "themeZh": "言语调和"
+          },
+          "aiVerseId": "col_4_6",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-albanese-warns-against-leadership-spill-as-u",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/albanese-warns-against-leadership-spill-as-uks-starmer-set-to-quit/aqf6z670x",
+          "image": "https://assets.sbs.com.au/dims4/default/c86a6a5/2147483647/strip/false/crop/3000x1378+0+311/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F55%2Ff2%2F38842d814a03a19a04ce767450b2%2F20250929123895892612-original.jpg",
+          "publishedAt": "2026-06-21T03:59:44.000Z",
+          "title": {
+            "en": "'History not positive': Albanese warns of leaders spill amid Keir Starmer resignation reports",
+            "zh": "“历史并不乐观”：阿尔巴尼斯就基尔·斯塔默辞职传闻警告领导人更迭"
+          },
+          "summary": {
+            "en": "Albanese says he will deal with whoever is in power as pressure mounts on Keir Starmer's leadership.",
+            "zh": "阿尔巴尼斯表示，随着基尔·斯塔默的领导层压力增大，他将与任何掌权者打交道。"
+          },
+          "body": {
+            "en": "Australia's Prime Minister Anthony Albanese has warned against a leadership change in the United Kingdom amid reports his British Labour counterpart Keir Starmer could be about to resign.\n\nBritain's Observer newspaper is reporting Starmer is expected to resign on Monday and set out a timetable for his departure.\n\nThe Observer report, which did not name its sources, said Starmer had reached the conclusion that his position was no longer tenable after speaking to cabinet ministers, advisers, donors and trade union leaders.\n\nHowever, a government source said Starmer remained focused on getting on with the job of governing.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nAsked about the potential change by Sky News on Sunday morning, Albanese said he will \"deal with whoever is elected\".\n\n\"But I must say that the history of just changing leaders is not a positive one,\" he said. \"I've dealt with already four British prime ministers since I've been elected as prime minister.\"\n\nSpeculation of Starmer's retirement has been building for months and has accelerated since Friday, when his rival Andy Burnham won more than 50 per cent of the vote in the Makerfield byelection, officially allowing him to now launch a formal leadership challenge.\n\nBurnham, the 56-year-old mayor of Greater Manchester, is widely seen as Starmer's most likely successor, whether through a negotiated transfer of power or a formal leadership contest.\n\nHe used his victory speech to promise a new path for the United Kingdom, rather than launching an immediate formal challenge.\n\nStarmer said on Friday he would fight any challenge to his leadership and urged Labour not to tear itself apart with infighting.\n\nStarmer led the centre-left Labour party to a landslide election win in 2024, but became deeply unpopular after a series of scandals, policy U-turns and local election defeats.\n\nMore than 100 elected lawmakers in Starmer's party - roughly a quarter of all Labour representatives in the House of Commons - have publicly said they want him to quit or set out a timetable for his exit, according to a Reuters tally.\n\nIf he were to quit or be ousted, it would be the United Kingdom's seventh prime minister in just over a decade &#x2014; the highest turnover in nearly two centuries.\n\nAlbanese has previously backed Starmer's leadership, in May saying: \"He is a friend of mine, and I hope that Keir Starmer continues to serve as prime minister of the United Kingdom\", and warning that the, \"revolving door of leaders does not lead to stability\".\n\nLast year, amid rumours about a potential leadership challenge against Starmer, Albanese made a high-profile appearance at the UK Labour Party Conference where he pitched...",
+            "zh": "澳大利亚总理安东尼·阿尔巴内斯警告英国不要更换领导层，有报道称英国工党首相基尔·斯塔默可能即将辞职。 英国《观察家报》报道称，斯塔默预计将于周一辞职，并制定了离职时间表。 《观察家报》未透露消息来源的报道称，斯塔默在与内阁部长、顾问、捐助者和工会领导人交谈后得出的结论是，他的立场不再站得住脚。 然而，一位政府消息人士表示，斯塔默仍然专注于继续治理工作。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 周日上午，当被天空新闻问及潜在的变化时，阿尔巴内塞表示，他将“与当选的任何人打交道”。 “但我必须说，仅仅更换领导人的历史并不是一个积极的历史，”他说。 “自从我当选首相以来，我已经与四位英国首相打过交道。” 关于斯塔默退休的猜测已经持续了数月，并且自周五以来愈演愈烈，当时他的竞争对手安迪·伯纳姆 (Andy Burnham) 在马克菲尔德补选中赢得了超过 50% 的选票，正式允许他现在发起正式的领导挑战。 56 岁的大曼彻斯特市长伯纳姆被广泛认为是斯塔默最有可能的继任者，无论是通过谈判进行权力移交还是正式的领导权竞争。 他在胜利演讲中承诺为英国开辟一条新道路，而不是立即发起正式挑战。 斯塔默周五表示，他将与任何对其领导地位的挑战作斗争，并敦促工党不要因内讧而分裂。 斯塔默带领中左翼工党在 2024 年选举中取得压倒性胜利，但在一系列丑闻、政策大转变和地方选举失利后，变得非常不受欢迎。 据路透社统计，斯塔默所在政党的 100 多名当选议员（约占下议院工党代表的四分之一）已公开表示希望他辞职或制定退出时间表。 如果他辞职或被赶下台，这将是英国十多年来的第七任首相——这是近两个世纪以来的最高更替率。 阿尔巴尼斯此前曾支持斯塔默的领导，5月表示：“他是我的朋友，我希望基尔·斯塔默继续担任英国首相”，并警告说，“领导人的旋转门不会带来稳定”。 去年，在有关斯塔默可能面临领导层挑战的传言中，阿尔巴尼斯在英国工党会议上高调亮相，他在会上提出了......"
+          },
+          "reflection": {
+            "en": "The shifting landscape of political leadership, where pressure can quickly mount and lead to changes, reminds us of the transient nature of human power. This verse offers a profound perspective, affirming that Yahweh ultimately determines who rises and who falls in positions of authority. It encourages us to look beyond the immediate political drama to the...",
+            "zh": "政治领导层瞬息万变，压力可能迅速累积并导致更迭，这提醒我们人类权力的短暂性。这节经文提供了一个深刻的视角，肯定了雅伟最终决定谁在权威职位上兴起，谁又会跌落。它鼓励我们超越眼前的政治纷争，看到掌管万国的神圣之手。"
+          },
+          "verse": {
+            "reference": "Psalm 75:7",
+            "textEn": "It is God who judges: He brings one down, he exalts another.",
+            "textZh": "惟有神断定；他使这人降卑，使那人升高。",
+            "themeEn": "God lifts and lowers",
+            "themeZh": "神升降"
+          },
+          "aiVerseId": "ps_75_7",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-21-one-nation-opposes-measur",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/21/one-nation-opposes-measures-that-make-a-difference-to-working-people-albanese-says",
+          "image": "https://i.guim.co.uk/img/media/1e09d3d7f92c978659718849918b43643dc5e983/542_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=216e5db8f2b2a40d55cd86d4e6d834a6",
+          "publishedAt": "2026-06-21T03:23:59.000Z",
+          "title": {
+            "en": "One Nation opposes measures that make a difference to working people, Albanese says",
+            "zh": "阿尔巴尼斯称一国党反对对工薪阶层有益的措施"
+          },
+          "summary": {
+            "en": "Prime Minister Anthony Albanese criticized Pauline Hanson's One Nation party for opposing measures beneficial to working people, while opposition leader Angus Taylor urged members not to defect, arguing One Nation aims to 'blow this country up'.",
+            "zh": "总理安东尼·阿尔巴尼斯批评宝琳·汉森的一国党反对对工薪阶层有益的措施，而反对党领袖安格斯·泰勒则敦促党员不要叛变，称一国党旨在“摧毁这个国家”。"
+          },
+          "body": {
+            "en": "Pauline Hanson criticised by PM as opposition leader Angus Taylor urges members not to defect, arguing One Nation wants to ‘blow this country up’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese says One Nation’s plans to slash migration risks exacerbating skilled worker shortages, as Labor and the Coalition push back against Pauline Hanson’s policy prescriptions . Hanson called for overseas migration levels to be cut further in a speech to the National Press Club on Wednesday. She claimed multiculturalism had failed and blamed housing shortages and infrastructure pressures on overseas arrivals. Continue reading...",
+            "zh": "保琳·汉森 (Pauline Hanson) 受到总理批评，反对党领袖安格斯·泰勒 (Angus Taylor) 敦促成员不要叛逃，认为一国党想要“炸毁这个国家” 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 安东尼·艾博尼斯 (Anthony Albanese) 表示，随着工党和联盟党反对保琳·汉森的政策规定，一国党削减移民风险的计划将加剧技术工人短缺。汉森周三在国家新闻俱乐部的演讲中呼吁进一步削减海外移民数量。她声称多元文化主义已经失败，并将住房短缺和基础设施压力归咎于海外移民。继续阅读..."
+          },
+          "reflection": {
+            "en": "Political disagreements can often feel deeply personal and intensely divisive, as seen in the strong language used in this report. Yet, the Scriptures remind us that our ultimate struggles often transcend mere human personalities or policy debates. This perspective invites us to pray for wisdom and discernment, recognizing that deeper forces may be at play...",
+            "zh": "政治分歧常常让人感觉非常私人化且极具分裂性，正如本报道中使用的强烈措辞所示。然而，圣经提醒我们，我们最终的争战往往超越了单纯的人际关系或政策辩论。这一视角邀请我们为智慧和洞察力祷告，认识到社会分裂背后可能存在更深层次的力量。"
+          },
+          "verse": {
+            "reference": "Ephesians 6:12",
+            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
+            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
+            "themeEn": "Not against flesh and blood",
+            "themeZh": "并非与血气争战"
+          },
+          "aiVerseId": "eph_6_12",
+          "translationState": "localized"
+        },
         {
           "id": "www-sbs-com-au-news-article-aged-care-predictive-tool-under-pressure-gov",
           "section": "australia",
@@ -1125,39 +1234,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-live-2026-jun-21-australia-news-live-",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/337dc21629c3bd5c1f9d10d0d627268540cdc7b8/295_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=60e7e8d5086a3cb9e9df16da8d945744",
-          "publishedAt": "2026-06-21T01:28:39.000Z",
-          "title": {
-            "en": "Australia news live: Angus Taylor dismisses Labor’s ‘half-arsed’ tweaks to CGT reform; boy, 12, dies in Cairns crash in suspected stolen car",
-            "zh": "澳大利亚新闻直播：安格斯·泰勒驳斥了工党对资本利得税改革的“半途而废”的调整；凯恩斯 12 岁男孩疑似被盗汽车撞车身亡"
-          },
-          "summary": {
-            "en": "Follow live updates Get our breaking news email, free app or daily news podcast Ted O’Brien distanced himself from Pauline Hanson’s suggestion that Australia shouldn’t give aid to Pacific countries that also take aid from China. He said it was a legitimate concern, but her...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Follow live updates Get our breaking news email , free app or daily news podcast Ted O’Brien distanced himself from Pauline Hanson ’s suggestion that Australia shouldn’t give aid to Pacific countries that also take aid from China. He said it was a legitimate concern, but her solution was “completely wrong” for the Pacific and not in Australia’s national interest. The idea that you effectively hold a gun to the head of our Pacific neighbours – that’s not what a friend does, that’s not a way of building trust, you don’t basically create an ultimatum. You certainly don’t say it’s all about who you’re going to get money from. The relationship that we have with the Pacific islands is far deeper than development money. From Australia’s perspective, I think that’s the main thing that we should be concerned about, because that has a direct impact on the prices we pay here in Australia. A permanent toll would be bad in practice, wrong in principle, and set a dangerous precedent for how otherwise waterways should be managed internationally. Continue reading...",
-            "zh": "关注实时更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 特德·奥布莱恩 (Ted O’Brien) 与宝琳·汉森 (Pauline Hanson) 的建议保持距离，即澳大利亚不应向同样接受中国援助的太平洋国家提供援助。他表示，这是合理的担忧，但她的解决方案对于太平洋地区来说“完全错误”，也不符合澳大利亚的国家利益。你实际上用枪指着我们太平洋邻国的头——这不是朋友该做的事，这不是建立信任的方式，你基本上不会发出最后通牒。你当然不会说这完全取决于你要从谁那里得到钱。我们与太平洋岛屿的关系远比发展资金更深厚。从澳大利亚的角度来看，我认为这是我们应该关注的主要问题，因为这对我们在澳大利亚支付的价格有直接影响。永久收费在实践中是不好的，在原则上是错误的，并且为国际上如何管理水道树立了一个危险的先例。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-federal-fuel-tax-discount-extended-but-not-i",
           "section": "australia",
           "source": "SBS News Australia",
@@ -1167,28 +1243,29 @@
           "publishedAt": "2026-06-20T22:05:16.000Z",
           "title": {
             "en": "The fuel excise cut has been extended. Here's how much by — and why there's a catch",
-            "zh": "燃油消费税削减期限已延长。这是多少——以及为什么有一个陷阱"
+            "zh": "燃油消费税减免已延长。这是延长了多少——以及为什么会有附加条件"
           },
           "summary": {
-            "en": "Prime Minister Anthony Albanese said he knew Australians were still \"under pressure\".",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "Prime Minister Anthony Albanese announced an extension of the fuel excise cut, acknowledging that Australians continue to face economic pressure.",
+            "zh": "澳大利亚总理安东尼·阿尔巴尼斯宣布延长燃油消费税减免，承认澳大利亚人仍面临经济压力。"
           },
           "body": {
             "en": "Cost relief at the bowser has been extended for another month, although the savings won't be as substantial.\n\nPrime Minister Anthony Albanese has announced a limited extension of the fuel excise, making petrol and diesel 16 cents per litre cheaper than the full price in July.\n\nThe current saving is 32 cents a litre after it was cut three months ago, following the outbreak of war in the Middle East and ensuing strangulation of global oil supplies.\n\nThat discount is scheduled to expire on 30 June, by which time it will have cost the federal budget an estimated $2.9 billion in foregone revenue.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nSpeaking to Sky News on Sunday morning, Albanese said the decision to halve rather than scrap the discount was about giving motorists and businesses some certainty.\n\n\"We know that families are still under pressure, and we also know that the impact of this conflict on the other side of the world will have a long economic tail to it,\" Albanese told Sky News.\n\n\"There's still some uncertainty that oil prices come down this week. We want to see that flow through, but it will take some time.\"\n\n\"This will enable some certainty going forward, and for confidence to remain in the system.\"\n\n\"We'll continue to do what we can to shield Australians from the worst impacts of this conflict, including securing additional fuel from our partners.\"\n\nAlbanese said a \"step down\", rather than a full removal of the excise was the \"sensible thing to do\".\n\nStates and territories &#x2014; who have effectively funded their share of the scheme by forgoing a GST windfall gain over the last three months&#x2014; are expected to come on board with the excise extension.\n\nTreasurer Jim Chalmers said he hoped the temporary support would still take some of the sting out of petrol prices and help with the cost of living.\n\n\"Despite the welcome and substantial drop in the price of petrol recently, we recognise people are still under pressure,\" he said.\n\n\"This extra month of fuel discount will help Australian motorists and businesses with the cost of living as this support tapers off.\"\n\nPressed on whether further extensions were possible should the US-Iran deal collapse, Albanese stopped short of guaranteeing anything.\n\n\"We do live in a volatile world, so were there to be a massive global shock again, my government will always respond,\" he said.\n\nHe also pointed to broader cost-of-living measures landing on 1 July, noting \"every Australian worker will get a tax cut\" as further relief arriving alongside the reduced fuel discount.\n\nOpposition leader Angus Taylor welcomed the extension and said he understood the logic of a graduated taper to the excise, but attributed...",
-            "zh": "Bowser 的成本减免已再延长一个月，但节省的金额不会那么大。 总理安东尼·阿尔巴内塞 (Anthony Albanese) 宣布有限度延长燃油税，使汽油和柴油每升比 7 月份的全价便宜 16 美分。 由于中东战争爆发和全球石油供应紧缩，三个月前削减了油价，目前的节约量为每升 32 美分。 该折扣计划于 6 月 30 日到期，届时联邦预算预计将损失 29 亿美元的收入。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 周日上午，阿尔巴尼斯在接受天空新闻采访时表示，将折扣减半而不是取消折扣的决定是为了给驾车者和企业带来一些确定性。 阿尔巴尼斯告诉天空新闻：“我们知道家庭仍然面临压力，我们也知道这场冲突对世界另一端的影响将产生长期的经济影响。” “本周油价下跌仍然存在一些不确定性。我们希望看到这种情况的发生，但这需要一些时间。” “这将为未来带来一定的确定性，并让人们对系统保持信心。” “我们将继续尽我们所能，保护澳大利亚人免受这场冲突最严重的影响，包括从我们的合作伙伴那里获得额外的燃料。” 阿尔巴内斯表示，“明智的做法是”降低消费税“，而不是完全取消消费税。” 过去三个月里，通过放弃商品及服务税意外收益，有效资助了该计划的各州和领地，预计将支持延长消费税。 财政部长吉姆·查尔默斯表示，他希望临时支持仍能减轻汽油价格的一些影响，并有助于降低生活成本。 他说：“尽管最近汽油价格受到欢迎且大幅下跌，但我们认识到人们仍然面临压力。” “随着这种支持逐渐减少，额外一个月的燃油折扣将帮助澳大利亚驾车者和企业降低生活成本。” 当被问及如果美伊协议破裂是否有可能进一步延期时，阿尔巴内塞没有做出任何保证。 他说：“我们确实生活在一个动荡的世界，因此，如果再次发生大规模的全球冲击，我的政府将始终做出反应。” 他还指出，7 月 1 日将实施更广泛的生活成本措施，并指出，随着燃料折扣的减少，进一步的救济措施将会到来，“每个澳大利亚工人都将获得减税”。 反对党领袖安格斯·泰勒对延期表示欢迎，并表示他理解逐步减少消费税的逻辑，但归因于……"
+            "zh": "Bowser 的成本减免已再延长一个月，但节省的金额不会那么大。 总理安东尼·阿尔巴内塞 (Anthony Albanese) 宣布有限度延长燃油税，使汽油和柴油每升比 7 月份的全价便宜 16 美分。 由于中东战争爆发和全球石油供应紧缩，三个月前削减了油价，目前的节约量为每升 32 美分。 该折扣计划于 6 月 30 日到期，届时联邦预算预计将损失 29 亿美元的收入。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 周日早上，阿尔巴尼斯在接受天空新闻采访时表示，将折扣减半而不是取消折扣的决定是为了给驾车者和企业带来一些确定性。 阿尔巴尼斯告诉天空新闻：“我们知道家庭仍然面临压力，我们也知道这场冲突对世界另一端的影响将产生长期的经济影响。” “本周油价下跌仍然存在一些不确定性。我们希望看到这种情况的发生，但这需要一些时间。” “这将为未来带来一定的确定性，并让人们对系统保持信心。” “我们将继续尽我们所能，保护澳大利亚人免受这场冲突最严重的影响，包括从我们的合作伙伴那里获得额外的燃料。” 阿尔巴内斯表示，“明智的做法是”降低消费税“，而不是完全取消消费税。” 过去三个月中，通过放弃商品及服务税意外收益，有效资助了该计划的各州和领地，预计将支持延长消费税。 财政部长吉姆·查尔默斯表示，他希望临时支持仍能减轻汽油价格的一些影响，并有助于降低生活成本。 他说：“尽管最近汽油价格受到欢迎且大幅下跌，但我们认识到人们仍然面临压力。” “随着这种支持逐渐减少，额外一个月的燃油折扣将帮助澳大利亚驾车者和企业降低生活成本。” 当被问及如果美伊协议破裂是否有可能进一步延期时，阿尔巴内塞没有做出任何保证。 他说：“我们确实生活在一个动荡的世界，因此，如果再次发生大规模的全球冲击，我的政府将始终做出反应。” 他还指出，7 月 1 日将实施更广泛的生活成本措施，并指出，随着燃料折扣的减少，进一步的救济措施将会到来，“每个澳大利亚工人都将获得减税”。 反对党领袖安格斯·泰勒对延期表示欢迎，并表示他理解逐步减少消费税的逻辑，但归因于……"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "When leaders acknowledge citizens are 'under pressure' and implement policies like a fuel excise cut, it reflects a commitment to the well-being of the populace. Yahweh's ancient call to rulers in Jeremiah 22:3 reminds us that governing justly includes protecting the vulnerable and ensuring basic fairness for all. Such actions, though temporary, can offer...",
+            "zh": "当领导人承认公民“面临压力”并实施燃油消费税减免等政策时，这反映了对民众福祉的承诺。雅伟在耶利米书22:3中对统治者的古老呼召提醒我们，公正的治理包括保护弱势群体，并确保所有人的基本公平。这些行动，尽管是暂时的，却能提供切实的帮助，并展现出对人民的关怀。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Jeremiah 22:3",
+            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
+            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
+            "themeEn": "Royal justice mandate",
+            "themeZh": "王者的公义责任"
           },
-          "translationState": "fallback"
+          "aiVerseId": "jer_22_3",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-victorian-town-yackandandah-renewable-energy",
@@ -1200,26 +1277,60 @@
           "publishedAt": "2026-06-20T20:46:45.000Z",
           "title": {
             "en": "The 'secret sauce' behind the tiny town that's cracked Australia's energy problem",
-            "zh": "解决澳大利亚能源问题的小镇背后的“秘密武器”"
+            "zh": "破解澳大利亚能源问题的“秘密武器”小镇"
           },
           "summary": {
             "en": "This town isn't waiting for the energy transition — it's powering it.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+            "zh": "这个小镇没有坐等能源转型，而是积极推动。"
           },
           "body": {
             "en": "Share your feedback and help us improve this feature. Read more about how we use AI at SBS here.\n\nDrive through Yackandandah on a clear day, and you'll notice the rooftops before anything else. House after house topped with solar panels.\n\nOn the main street of this small tourist town in Victoria's north-east, Teslas and Nissan Leafs are parked outside the pie shop.\n\nThere's a community-owned electric vehicle charger around the corner, funded by the town's own petrol station. The postie delivers his mail on an electric bike. You might even spot a car driving around with a solar panel mounted on its roof.\n\nFor the residents of Yackandandah &#x2014; or Yack, as most people call it &#x2014; a future built on renewable energy isn't merely hypothetical. It's embedded in the town's DNA.\n\nAnd it's part of a growing movement of communities across Australia experimenting with ways to cut power bills , improve energy reliability and reduce emissions.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIn Yack, that effort has turned the town into an unlikely blueprint on how Australia might navigate the shift to renewable energy &#x2014; not through major projects or government mandates, but through local ownership, community actions and decisions made around kitchen tables.\n\nHe lives in a house made of straw. While it sounds like something plucked from a fairy tale, his vision demonstrates what sustainable housing could look like.\n\n\"The beauty of straw is that it has really deep walls, so it's super insulative,\" Charles-Jones tells SBS News over a cup of peppermint tea in his home, whose thick, terracotta-coloured walls make it look cave-like.\n\n\"It's a waste product and ultimately it's organic, so it will eventually compost down. It lends itself well to unskilled builders. I'm not a builder at all. But it's quite forgiving.\"\n\nTopped with solar panels, the house reflects a philosophy Charles-Jones would go on to spread across the town.\n\nIn 2014, he co-founded Totally Renewable Yackandandah (TRY), a community energy group, with a mission as straightforward as it sounds: get the whole town running on 100 per cent renewable energy , one rooftop at a time.\n\nFor Charles-Jones, the project was always about democratising energy from the ground up.\n\n\"You can do it at a very localised scale and get an immediate benefit from it,\" he says.\n\nIn 2002, the town bought its own petrol station after it was threatened with closure. Today, half of the profits go straight back into the community &#x2014; providing grants to resurface netball courts, restore the local school's creek bed, buy the scouts a new trailer, and pay for the town's shiny new community-owned electric vehicle charger.\n\nIt's...",
             "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 在晴朗的日子开车穿过 Yackandandah，您首先会注意到屋顶。一栋又一栋的房子都装有太阳能电池板。 在维多利亚州东北部这个旅游小镇的主要街道上，馅饼店外停着特斯拉和日产聆风。 拐角处有一个社区拥有的电动汽车充电器，由该镇自己的加油站资助。邮递员骑着电动自行车送邮件。您甚至可能会发现一辆汽车在车顶上安装了太阳能电池板。 对于 Yackandandah（大多数人称之为 Yack）的居民来说，建立在可再生能源基础上的未来不仅仅是假设。它已融入这座小镇的 DNA 中。 这是澳大利亚各地社区不断开展的运动的一部分，这些社区正在尝试削减电费、提高能源可靠性和减少排放的方法。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 在雅克，这一努力已将这座小镇变成了一幅不可思议的蓝图，描绘了澳大利亚如何引导向可再生能源的转变——不是通过重大项目或政府指令，而是通过当地所有权、社区行动和餐桌旁的决策。 他住在一座用稻草搭建的房子里。虽然这听起来像是从童话故事中摘录的东西，但他的愿景展示了可持续住房的样子。 “稻草的美妙之处在于它有很深的墙壁，所以它非常隔热，”查尔斯-琼斯在他家里喝着一杯薄荷茶告诉SBS新闻，他家厚厚的赤土色墙壁使它看起来像洞穴。 “它是一种废物，最终是有机的，所以它最终会被堆肥。它很适合不熟练的建筑商。我根本不是建筑商。但它非常宽容。” 这座房子的顶部装有太阳能电池板，反映了查尔斯·琼斯后来在整个城镇传播的哲学。 2014 年，他与他人共同创立了社区能源组织 Totally Renewable Yackandandah (TRY)，其使命听起来很简单：让整个城镇使用 100% 可再生能源运行，一次一个屋顶。 对于查尔斯-琼斯来说，该项目始终是从头开始实现能源民主化。 “你可以在非常本地化的范围内进行，并立即从中受益，”他说。 2002年，该镇在面临关闭威胁后购买了自己的加油站。如今，一半的利润直接返回社区——提供赠款以重新铺设无挡板篮球场，修复当地学校的河床，为球探购买一辆新拖车，并支付该镇闪亮的新社区拥有的电动汽车充电器的费用。 它是..."
           },
           "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This town's proactive approach to energy transition echoes humanity's original calling to work and care for the earth. Their initiative demonstrates how communities can responsibly steward resources, fostering innovation for a sustainable future.",
+            "zh": "这个小镇在能源转型上的积极行动，呼应了人类最初被呼召去耕耘和看守大地的使命。他们的创举展示了社区如何负责任地管理资源，为可持续的未来促进创新。"
           },
           "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "aiVerseId": "gen_2_15",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-ng-interactive-2026-jun-21-sudden-car",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/jun/21/sudden-cardiac-arrest-leading-cause-death-young-people",
+          "image": "https://i.guim.co.uk/img/media/f97373f16b145fc467230a67ea7ece2ac2e862ff/433_0_1952_1561/master/1952.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0757295f88a9dce6950f6d0f08db6edb",
+          "publishedAt": "2026-06-20T20:00:13.000Z",
+          "title": {
+            "en": "‘A child goes to bed and doesn’t wake up’: the families left in shock after the sudden death of their healthy children",
+            "zh": "“孩子睡了就醒不来”：健康孩子突然去世后，家人感到震惊"
+          },
+          "summary": {
+            "en": "Sudden cardiac arrest is statistically rare but among the leading causes of death for children and young people. And families often have no idea of the risk until it’s too late Before Alexandra Thoms goes to sleep, she puts together a flat-pack dining table with her father,...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Sudden cardiac arrest is statistically rare but among the leading causes of death for children and young people. And families often have no idea of the risk until it’s too late Before Alexandra Thoms goes to sleep, she puts together a flat-pack dining table with her father, Gordon. She needs the table for her otherwise sparse two-bedroom Melbourne apartment which she has moved into just weeks earlier. At 23, Alexandra has met the milestones of an ambitious life at lightning speed. She is well travelled, has earned a double university degree and a graduate job at Deloitte. She is healthy; an avid skier and gymgoer. Now, she is also a homeowner. She didn’t have a formal housewarming, though, as most of her friends still live at home. Continue reading...",
+            "zh": "心脏骤停在统计上很少见，但却是儿童和年轻人死亡的主要原因之一。家人往往不知道其中的风险，直到为时已晚。亚历山德拉·汤姆斯 (Alexandra Thoms) 睡觉前，她和父亲戈登 (Gordon) 一起整理了一张平板餐桌。她需要一张桌子来安置她在墨尔本的两居室公寓，她几周前才搬进了这套公寓。 23 岁时，亚历山德拉以闪电般的速度实现了雄心勃勃的人生里程碑。她游历广泛，获得了双大学学位，并在德勤会计师事务所找到了一份研究生工作。她很健康；狂热的滑雪爱好者和健身爱好者。现在，她也是一名房主了。不过，她没有举行正式的乔迁典礼，因为她的大多数朋友仍然住在家里。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
           },
           "translationState": "fallback"
         },
@@ -1258,37 +1369,38 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-ng-interactive-2026-jun-21-sudden-car",
+          "id": "www-theguardian-com-australia-news-2026-jun-21-danes-payout-for-historic",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/jun/21/sudden-cardiac-arrest-leading-cause-death-young-people",
-          "image": "https://i.guim.co.uk/img/media/f97373f16b145fc467230a67ea7ece2ac2e862ff/433_0_1952_1561/master/1952.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0757295f88a9dce6950f6d0f08db6edb",
-          "publishedAt": "2026-06-20T20:00:13.000Z",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/21/danes-payout-for-historical-sexual-abuse-meant-the-ndis-slashed-his-funding-he-and-his-mum-are-fighting-back-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/1086c0051ac4881ad94b2b70c7e0a4d2ddb50c3a/0_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4deb714fb32adbb6498f7c79dbf94e9",
+          "publishedAt": "2026-06-20T20:00:11.000Z",
           "title": {
-            "en": "‘A child goes to bed and doesn’t wake up’: the families left in shock after the sudden death of their healthy children",
-            "zh": "“孩子睡了就醒了”：健康孩子突然去世后，家人感到震惊"
+            "en": "Dane’s payout for historical sexual abuse meant the NDIS slashed his funding. He and his mum are fighting back",
+            "zh": "戴恩因历史性性虐待赔偿被削减NDIS资金，他与母亲正在抗争"
           },
           "summary": {
-            "en": "Sudden cardiac arrest is statistically rare but among the leading causes of death for children and young people. And families often have no idea of the risk until it’s too late Before Alexandra Thoms goes to sleep, she puts together a flat-pack dining table with her father,...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+            "en": "Dane Waites, an individual with profound autism, severe intellectual disability, and bipolar disorder, had his essential support funding cut by the NDIS after receiving a payout for historical sexual abuse. His mother is now fighting this decision, as the cuts mean he can no longer afford crucial services.",
+            "zh": "戴恩·韦茨患有严重的自闭症、智力残疾和躁郁症。在获得历史性性虐待赔偿后，他的NDIS（国家残疾保险计划）支持资金被削减，导致他无法负担关键服务。他和他的母亲正在为此抗争。"
           },
           "body": {
-            "en": "Sudden cardiac arrest is statistically rare but among the leading causes of death for children and young people. And families often have no idea of the risk until it’s too late Before Alexandra Thoms goes to sleep, she puts together a flat-pack dining table with her father, Gordon. She needs the table for her otherwise sparse two-bedroom Melbourne apartment which she has moved into just weeks earlier. At 23, Alexandra has met the milestones of an ambitious life at lightning speed. She is well travelled, has earned a double university degree and a graduate job at Deloitte. She is healthy; an avid skier and gymgoer. Now, she is also a homeowner. She didn’t have a formal housewarming, though, as most of her friends still live at home. Continue reading...",
-            "zh": "心脏骤停在统计上很少见，但却是儿童和年轻人死亡的主要原因之一。家人往往不知道其中的风险，直到为时已晚。亚历山德拉·汤姆斯 (Alexandra Thoms) 睡觉前，她和父亲戈登 (Gordon) 一起整理了一张平板餐桌。她需要一张桌子来安置她在墨尔本的两居室公寓，她几周前才搬进了这套公寓。 23 岁时，亚历山德拉以闪电般的速度实现了雄心勃勃的人生里程碑。她游历广泛，获得了双大学学位，并在德勤会计师事务所找到了一份研究生工作。她很健康；狂热的滑雪爱好者和健身爱好者。现在，她也是一名房主了。不过，她没有举行正式的乔迁典礼，因为她的大多数朋友仍然住在家里。继续阅读..."
+            "en": "Dane Waites lives with profound autism, a severe intellectual disability and bipolar disorder. His support plan was cut and he can no long afford key services Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Four months ago, Dane Waites sat down at his dining room table. On a single piece of lined paper, pressed against a dark red tablecloth, he penned an urgent plea for help. Waites was born with severe intellectual disability and received support through the National Disability Insurance Scheme . Continue reading...",
+            "zh": "戴恩·韦茨患有严重的自闭症、严重的智力障碍和躁郁症。他的支持计划被削减，他再也无法负担关键服务 Christopher Knaus 2026 年 6 月 20 日星期六 16:00 EDT 最后修改时间：2026 年 6 月 20 日星期六 16:01 EDT 分享 更喜欢 Google 上的卫报 四个月前，Dane Waites 坐在他的餐桌旁。 在一张压在深红色桌布上的横格纸上，他写下了紧急求助信。 韦茨出生时患有严重的智力残疾，并通过国家残疾保险计划获得支持。 1990 年代初，他在天主教开办的 Churinga 特殊寄宿学校遭受性虐待，并于 2021 年起诉教会后获得了圣约翰的赔偿。 收到和解协议后不久，国家残障保险局通知韦特斯，这笔赔偿意味着他的 NDIS 资金将被大幅削减。 “教会给了我钱并书面道歉，”他在手写信中写道。 “这是对我的虐待。[法官]告诉我，我得到了正义……再见，坏人结束了。 该机构采用了“补偿减少金额”，这是一种复杂的方法，用于防止收到法庭付款的参与者双重领取，这些付款涵盖了以前通过 NDIS 资助的支持服务或设备。 韦茨患有三级自闭症，这是自闭症谱系障碍中最严重的一种形式，并且患有严重的智力障碍和双相情感障碍。教会的保密赔偿金额与他童年时遭受的虐待、持续的心理和身体影响以及他因虐待而需要的照顾和支持直接相关。 NDIS 计划不进行经济情况调查，旨在资助与其永久残疾相关的支持服务。 “即使你不是爱因斯坦，也能意识到天主教会不会为终身残疾提供赔偿，”他 83 岁的母亲朱妮·韦茨 (Junee Waites) 说道。 “由于戴恩的残疾，天主教会的补偿没有降临到他身上。” 澳大利亚律师联盟多次建议政府，为了公平起见，历史性虐待儿童事件的幸存者不应获得赔偿或减少赔偿。 “犯罪受害者、性虐待受害者、某些疾病的受害者，例如与石棉相关的疾病……我们有很多理由说赔偿追回根本不符合任何公平标准，”前 ALA 全国主席肖恩·马库斯 (Shaun Marcus) 表示。 “公共政策应该是我们将这些类型的索赔排除在复苏之外，这是起点。我们想说，儿童性虐待的受害者根本不应该[获得赔偿]。” Waites 的计划去年削减了 25,000 美元，今年削减了 25,000 美元。他的支持人员这么说……"
           },
           "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story highlights the vulnerability of individuals like Dane, who rely on support systems and whose voices can easily be overlooked. Yahweh calls us to speak up for those who cannot speak for themselves, ensuring justice for the poor and needy. Dane's mother's fight reminds us of the persistent advocacy required to protect the most vulnerable among us.",
+            "zh": "这个故事凸显了像戴恩这样依赖支持系统、声音容易被忽视的个体的脆弱性。雅伟呼召我们为那些无法为自己发声的人说话，确保穷人和困苦者得到公义。戴恩母亲的抗争提醒我们，保护我们当中最脆弱的人需要持续的倡导。"
           },
           "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
+            "reference": "Proverbs 31:8-9",
+            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
+            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
+            "themeEn": "Voice for the voiceless",
+            "themeZh": "为弱者发声"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_31_8",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-australia-news-2026-jun-21-pauline-hanson-women-work",
@@ -1325,40 +1437,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-jun-21-danes-payout-for-historic",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/21/danes-payout-for-historical-sexual-abuse-meant-the-ndis-slashed-his-funding-he-and-his-mum-are-fighting-back-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/1086c0051ac4881ad94b2b70c7e0a4d2ddb50c3a/0_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4deb714fb32adbb6498f7c79dbf94e9",
-          "publishedAt": "2026-06-20T20:00:11.000Z",
-          "title": {
-            "en": "Dane’s payout for historical sexual abuse meant the NDIS slashed his funding. He and his mum are fighting back",
-            "zh": "戴恩因历史性性虐待赔偿被削减NDIS资金，他与母亲正在抗争"
-          },
-          "summary": {
-            "en": "Dane Waites, an individual with profound autism, severe intellectual disability, and bipolar disorder, had his essential support funding cut by the NDIS after receiving a payout for historical sexual abuse. His mother is now fighting this decision, as the cuts mean he can no longer afford crucial services.",
-            "zh": "戴恩·韦茨患有严重的自闭症、智力残疾和躁郁症。在获得历史性性虐待赔偿后，他的NDIS（国家残疾保险计划）支持资金被削减，导致他无法负担关键服务。他和他的母亲正在为此抗争。"
-          },
-          "body": {
-            "en": "Dane Waites lives with profound autism, a severe intellectual disability and bipolar disorder. His support plan was cut and he can no long afford key services Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Four months ago, Dane Waites sat down at his dining room table. On a single piece of lined paper, pressed against a dark red tablecloth, he penned an urgent plea for help. Waites was born with severe intellectual disability and received support through the National Disability Insurance Scheme . Continue reading...",
-            "zh": "戴恩·韦茨患有严重的自闭症、严重的智力障碍和躁郁症。他的支持计划被削减，他再也无法负担关键服务 Christopher Knaus 2026 年 6 月 20 日星期六 16:00 EDT 最后修改时间：2026 年 6 月 20 日星期六 16:01 EDT 分享 更喜欢 Google 上的卫报 四个月前，Dane Waites 坐在他的餐桌旁。 在一张压在深红色桌布上的横格纸上，他写下了紧急求助信。 韦茨出生时患有严重的智力残疾，并通过国家残疾保险计划获得支持。 1990 年代初，他在天主教开办的 Churinga 特殊寄宿学校遭受性虐待，并于 2021 年起诉教会后获得了圣约翰的赔偿。 收到和解协议后不久，国家残障保险局通知韦特斯，这笔赔偿意味着他的 NDIS 资金将被大幅削减。 “教会给了我钱并书面道歉，”他在手写信中写道。 “这是对我的虐待。[法官]告诉我，我得到了正义……再见，坏人结束了。 该机构采用了“补偿减少金额”，这是一种复杂的方法，用于防止收到法庭付款的参与者双重领取，这些付款涵盖了以前通过 NDIS 资助的支持服务或设备。 韦茨患有三级自闭症，这是自闭症谱系障碍中最严重的一种形式，并且患有严重的智力障碍和双相情感障碍。教会的保密赔偿金额与他童年时遭受的虐待、持续的心理和身体影响以及他因虐待而需要的照顾和支持直接相关。 NDIS 计划不进行经济情况调查，旨在资助与其永久残疾相关的支持服务。 “即使你不是爱因斯坦，也能意识到天主教会不会为终身残疾提供赔偿，”他 83 岁的母亲朱妮·韦茨 (Junee Waites) 说道。 “由于戴恩的残疾，天主教会的补偿没有降临到他身上。” 澳大利亚律师联盟多次建议政府，为了公平起见，历史性虐待儿童事件的幸存者不应获得赔偿或减少赔偿。 “犯罪受害者、性虐待受害者、某些疾病的受害者，例如与石棉相关的疾病……我们有很多理由说赔偿追回根本不符合任何公平标准，”前 ALA 全国主席肖恩·马库斯 (Shaun Marcus) 表示。 “公共政策应该是我们将这些类型的索赔排除在复苏之外，这是起点。我们想说，儿童性虐待的受害者根本不应该[获得赔偿]。” Waites 的计划去年削减了 25,000 美元，今年削减了 25,000 美元。他的支持人员这么说……"
-          },
-          "reflection": {
-            "en": "This story highlights the vulnerability of individuals like Dane, who rely on support systems and whose voices can easily be overlooked. Yahweh calls us to speak up for those who cannot speak for themselves, ensuring justice for the poor and needy. Dane's mother's fight reminds us of the persistent advocacy required to protect the most vulnerable among us.",
-            "zh": "这个故事凸显了像戴恩这样依赖支持系统、声音容易被忽视的个体的脆弱性。雅伟呼召我们为那些无法为自己发声的人说话，确保穷人和困苦者得到公义。戴恩母亲的抗争提醒我们，保护我们当中最脆弱的人需要持续的倡导。"
-          },
-          "verse": {
-            "reference": "Proverbs 31:8-9",
-            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
-            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
-            "themeEn": "Voice for the voiceless",
-            "themeZh": "为弱者发声"
-          },
-          "aiVerseId": "prov_31_8",
-          "translationState": "localized"
-        },
-        {
           "id": "www-sbs-com-au-news-article-whats-next-for-the-socceroos-06jjx5qzf",
           "section": "australia",
           "source": "SBS News Australia",
@@ -1390,40 +1468,6 @@
             "themeZh": "能坏与不能坏的冠冕"
           },
           "aiVerseId": "1cor_9_25",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-police-socceroos-fed-square-watch-fifa-world",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/police-socceroos-fed-square-watch-fifa-world-cup-fans/tqo57ra5n",
-          "image": "https://assets.sbs.com.au/dims4/default/f871592/2147483647/strip/false/crop/3109x1429+0+160/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F18%2Fa7%2F9ccd3b5b4760b2c1eefaa3b557e3%2F20260620184203196303-original.jpg",
-          "publishedAt": "2026-06-20T03:29:04.000Z",
-          "title": {
-            "en": "Police 'disappointed' following football fan chaos at watch events",
-            "zh": "警方对球迷观赛活动中的混乱表示“失望”"
-          },
-          "summary": {
-            "en": "Arrests were made at fan sites in both Sydney and Melbourne on Friday morning following incidents of disorder during football watch events, leading police to express disappointment.",
-            "zh": "周五上午，悉尼和墨尔本的球迷观赛活动中发生骚乱，导致警方逮捕了一些人，并对此表示失望。"
-          },
-          "body": {
-            "en": "Victorian police have said that flares and fireworks were \"disappointingly\" set off by football fans gathered at Federation Square for the Australia-United States match on Saturday morning.\n\nArrests were made at fan sites in the Victorian capital as well as Sydney's Tumbalong Park, where thousands of Socceroos fans packed in to watch the event in the early hours.\n\nOne man was treated at the scene in Sydney for facial burns after being hit in the face by a flare.\n\nIn Melbourne, mounted police were forced to intervene after fans attempted to breach barriers at Fed Square when the popular site reached capacity just after 4am on Saturday.\n\nAbout 7,500 fans packed the site in cold and rainy conditions, with 14 flares and one firework set off before the match, leading to two arrests.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe pair will be charged on summons, with police reviewing CCTV to identify those responsible for setting off the remaining flares.\n\n\"Enforcing prohibited items such as flares from entering the live site remains the responsibility of the venue,\" a Victoria Police spokeswoman said.\n\nA Fed Square spokesperson told SBS News that \"while it was disappointing that this morning's match was marred by the actions of a small number of individuals, the overwhelming majority of attendees came together in great spirit to support the Socceroos\".\n\nLast month, Fed Square cancelled planned screenings of World Cup matches due to dangerous fan behaviour and the use of flares. That decision was overturned by Victorian Premier Jacinta Allen, who committed to increasing police presence at the site and enforcing a zero-tolerance approach to bad behaviour.\n\nFed Square said they would review Friday's operations with Victoria Police and apply any learnings to future screenings.\n\n\"We will continue working closely with police and other stakeholders to ensure the safest possible experience for everyone attending Federation Square,\" they said.\n\nWhile fans celebrated the atmosphere, there was disappointment as the Socceroos' campaign suffered a setback with a 2-0 loss to the American team.\n\nFormer Socceroo Craig Foster, who was the MC at the live site, urged fans to stop letting off flares.\n\nA 16-year-old boy was also arrested in relation to an alleged sexual assault of a woman about 4.55am.\n\nAlmost 9000 eager fans were redirected to AAMI Park, where the match was also livestreamed.\n\nSydney experienced similarly fiery scenes with two men, aged 20, arrested at Tumbarong Park in the city centre and later charged with possessing a bright light distress signal in a public place.\n\nThey were granted bail and are due to appear in court on Wednesday and police say investigations...",
-            "zh": "维多利亚州警方表示，周六早上聚集在联邦广场观看澳大利亚与美国比赛的球迷燃放了照明弹和烟花，这“令人失望”。 维多利亚州首府以及悉尼的 Tumbalong 公园的球迷现场都遭到了逮捕，数千名澳大利亚足球队球迷凌晨涌入那里观看比赛。 悉尼一名男子因面部被照明弹击中而烧伤，在现场接受治疗。 在墨尔本，周六凌晨 4 点刚过，联邦广场 (Fed Square) 就已经人满为患，球迷们试图冲破联邦广场 (Fed Square) 的围栏，骑警被迫介入。 大约 7,500 名球迷在寒冷多雨的情况下挤满了现场，比赛前燃放了 14 枚照明弹和 1 枚烟花，导致两人被捕。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 两人将受到传票指控，警方将审查闭路电视，以确定那些引爆剩余照明弹的人。 维多利亚警方发言人表示：“禁止携带照明弹等违禁物品进入现场仍然是现场的责任。” 联邦广场发言人告诉SBS新闻，“虽然今天早上的比赛因少数人的行为而受到损害，令人失望，但绝大多数观众都以极大的精神聚集在一起支持澳大利亚队”。 上个月，由于球迷的危险行为和照明弹的使用，联邦广场取消了世界杯比赛的放映计划。这一决定被维多利亚州州长杰辛塔·艾伦推翻，她承诺增加现场警力，并对不良行为采取零容忍态度。 联邦广场表示，他们将与维多利亚警方一起审查周五的行动，并将所学到的知识应用于未来的筛查中。 他们说：“我们将继续与警方和其他利益相关者密切合作，确保每个参加联邦广场的人都能获得最安全的体验。” 尽管球迷们庆祝了现场气氛，但澳大利亚队的比赛遭遇挫折，0-2输给了美国队，但也有人感到失望。 现场主持人、前足球运动员克雷格·福斯特敦促球迷停止燃放烟火。 凌晨 4.55 左右，一名 16 岁男孩因涉嫌性侵犯一名妇女而被捕。 近 9000 名热切的球迷被引导到 AAMI 公园球场，比赛也在那里进行了现场直播。 悉尼也经历了类似的激烈场面，两名 20 岁男子在市中心的 Tumbarong 公园被捕，后来被指控在公共场所持有强光求救信号。 他们已获准保释，定于周三出庭，警方称调查..."
-          },
-          "reflection": {
-            "en": "Even in moments of intense excitement, the call to self-control remains vital for maintaining public order and respect. The chaos witnessed at fan events reminds us that true passion is best expressed with discipline and consideration for others. Yahweh's spirit empowers us not for fear or disorder, but for power, love, and a sound mind.",
-            "zh": "即使在极度兴奋的时刻，自制力对于维护公共秩序和相互尊重仍然至关重要。球迷活动中出现的混乱提醒我们，真正的热情最好以纪律和对他人的体谅来表达。雅伟所赐的灵不是胆怯的，而是能力、仁爱和自律的灵。"
-          },
-          "verse": {
-            "reference": "2 Timothy 1:7",
-            "textEn": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
-            "textZh": "神赐给我们，不是胆怯的心，乃是刚强、仁爱、谨守的心。",
-            "themeEn": "Power, love, self-control",
-            "themeZh": "刚强、仁爱、谨守"
-          },
-          "aiVerseId": "2tim_1_7",
           "translationState": "localized"
         }
       ]
