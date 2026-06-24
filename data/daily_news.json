@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T02:11:55.329Z",
+  "generatedAt": "2026-06-24T06:37:42.111Z",
   "editionDate": "2026-06-24",
   "sources": [
     {
@@ -112,125 +112,158 @@
       ],
       "items": [
         {
+          "id": "www-theguardian-com-world-live-2026-jun-24-europe-heatwave-live-news-upd",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
+          "image": "https://i.guim.co.uk/img/media/a620a798b4f9802dcc8fa78477da192f1dda817f/378_0_4099_3278/master/4099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f4d4c4a7b2254cbf2728ccb96c8bfa26",
+          "publishedAt": "2026-06-24T06:17:47.000Z",
+          "title": {
+            "en": "Europe heatwave live: UK braces for record-breaking temperatures; Italy issues red alert for 16 cities",
+            "zh": "欧洲热浪持续：英国准备迎接破纪录高温；意大利16个城市发布红色警报"
+          },
+          "summary": {
+            "en": "Europe is experiencing a severe heatwave, with the UK anticipating record-breaking temperatures of 40C. The extreme heat has prompted red alerts in 16 Italian cities and warnings in the Netherlands, while France recorded its hottest day ever, and 40 people have drowned across the country.",
+            "zh": "欧洲正经历一场严重的持续热浪，英国部分地区预计将达到创纪录的40摄氏度高温。极端高温已导致意大利16个城市发布红色警报，荷兰也发出警告，法国则录得有史以来最热的一天，全国有40人溺水身亡。"
+          },
+          "body": {
+            "en": "Temperatures expected to hit 40C in parts of the UK, as extreme heatwave spreads slowly eastwards, sparking warnings in Italy and the Netherlands France records hottest day ever as 40 people drown across country Tell us: how is the heatwave in the UK and across Europe affecting you? London mayor Sadiq Khan has triggered a “high” air pollution alert for the capital on advice from forecasters at Imperial College, the third one this year. The heat has forced the army to cancel ceremonial operations in London and Windsor, to protect the “wellbeing” of its soldiers and horses. Continue reading...",
+            "zh": "英国部分地区气温预计将达到 40 摄氏度，极端热浪缓慢向东蔓延，引发意大利和荷兰警告 法国创下有史以来最热一天，全国 40 人溺水 告诉我们：英国和整个欧洲的热浪对您有何影响？伦敦市长萨迪克·汗根据帝国理工学院预报员的建议，对首都启动​​了“高级”空气污染警报，这是今年的第三次警报。高温迫使军队取消了在伦敦和温莎的仪式行动，以保护士兵和马匹的“健康”。继续阅读..."
+          },
+          "reflection": {
+            "en": "The widespread suffering caused by Europe's extreme heatwave reminds us of creation's vulnerability. As the earth experiences these intense conditions, we are called to reflect on the deep connection between humanity and the natural world. Yahweh's word tells us that creation itself groans, longing for renewal and freedom from decay.",
+            "zh": "欧洲极端热浪造成的广泛苦难，提醒我们受造界的脆弱。当地球经历这些严酷条件时，我们被呼召反思人类与自然世界之间深刻的联系。雅伟的话语告诉我们，受造界本身正在呻吟，渴望从败坏中得到更新和自由。"
+          },
+          "verse": {
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
+          },
+          "aiVerseId": "rom_8_22",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-politics-2026-jun-24-darren-jones-will-not-challenge",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/politics/2026/jun/24/darren-jones-will-not-challenge-andy-burnham-labour-leadership",
+          "image": "https://i.guim.co.uk/img/media/60719789ecb22ab1bb183f08bf1de751b432ec99/258_0_2470_1977/master/2470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d66ad556aacd8dcc78d1b2a60d47398d",
+          "publishedAt": "2026-06-24T06:15:04.000Z",
+          "title": {
+            "en": "Darren Jones says he will not challenge Andy Burnham for Labour leadership",
+            "zh": "达伦·琼斯表示他不会挑战安迪·伯纳姆的工党领导地位"
+          },
+          "summary": {
+            "en": "Chief secretary to PM says he had been ‘reassured’ about Burnham’s economic plans after conversation with him Darren Jones has ruled himself out of running for the Labour leadership after a conversation with Andy Burnham. Speaking to Sky News, the chief secretary to the prime...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Darren Jones has ruled himself out of running for the Labour leadership after a conversation with Andy Burnham .\n\nSpeaking to Sky News, the chief secretary to the prime minister said he had been “reassured” about Burnham’s economic plans after their conversation on Tuesday.\n\nAsked whether he would stand himself, Jones said: “I’m not. And, look, I’m flattered by the support from colleagues, whether MPs or other important stakeholders in the party, but, look, it’s not something that I’m going to do.”\n\nHe urged Burnham to set out more of his economic policy to reassure Labour MPs, saying there were “upwards of 100 MPs who have expressed concerns either around a contest or economic policy, or who were just feeling pretty depressed off the back of Keir Starmer resigning”.\n\nHe added: “My last conversation with Andy Burnham was to say, ‘look, MPs are asking me to stand. I’m not going to but they’re asking me to stand for a reason, and that’s because they want you to set out more about your economic policy’.”\n\nJones also appeared to warn Burnham against making Ed Miliband chancellor as he set out “tests” for any potential occupant of No 11.\n\nAsked for his view of Miliband as chancellor , Jones said: “I’m not going to get into personalities.”\n\nBut setting out his “tests” for who take on the role, he said: “I think the next chancellor needs to be able to have a clear view about the political economy and understand how the Treasury works.\n\n“I think they need to have an important relationship with the prime minister, because, quite frankly, in many circumstances the chancellor in the Treasury is more powerful than the prime minister in Downing Street.\n\n“So, you have to have someone that’s going to enable the delivery of the prime minister’s priorities and not try to control the prime minister. And that relationship is really critical.\n\n“You also need a chancellor that can reassure the markets, reassure the trade unions and reassure the parliamentary Labour party, and by extension the public.”\n\nAsked whether Miliband “falls short” of his tests, Jones said: “I will let you mark those tests, but those are the tests I think need to be met.”",
+            "zh": "达伦·琼斯（Darren Jones）在与安迪·伯纳姆（Andy Burnham）交谈后，排除了自己竞选工党领袖的可能性。 首相首席秘书在接受天空新闻采访时表示，在周二的谈话后，他对伯纳姆的经济计划感到“放心”。 当被问及他是否会坚持自己的立场时，琼斯说：“我不会。而且，看，我对同事们的支持感到受宠若惊，无论是议员还是党内其他重要利益相关者，但是，看，这不是我要做的事情。” 他敦促伯纳姆制定更多经济政策，以安抚工党议员，并表示“有超过 100 名议员表达了对竞选或经济政策的担忧，或者只是因基尔·斯塔默辞职而感到非常沮丧”。 他补充道：“我与安迪·伯纳姆的最后一次谈话是说，‘听着，议员们要求我参选。我不会，但他们要求我参选是有原因的，那是因为他们希望你详细阐述你的经济政策’。” 琼斯似乎还警告伯纳姆不要任命埃德·米利班德为总理，因为他对 11 号的任何潜在占用者进行了“测试”。 当被问及对米利班德担任总理的看法时，琼斯说：“我不会谈论人物。” 但他在提出对谁担任这一职位的“测试”时表示：“我认为下一任财政大臣需要能够对政治经济有清晰的认识，并了解财政部的运作方式。 “我认为他们需要与首相建立重要关系，因为坦率地说，在很多情况下，财政部长比唐宁街首相更有权力。 “所以，你必须有人能够实现总理的优先事项，而不是试图控制总理。这种关系非常重要。 “你还需要一位能够安抚市场、安抚工会、安抚议会工党以及公众的财政大臣。” 当被问及米利班德是否“达不到”他的测试时，琼斯说：“我会让你对这些测试进行评分，但这些是我认为需要满足的测试。”"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-24-one-nation-pauline-hanson",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/24/one-nation-pauline-hanson-fuel-rebates-stance-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/071d23e198f4a4b5cee28ab6dba130991a7077eb/2519_0_4384_3508/master/4384.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=220c5663a72a123c79bd79ea7e612431",
+          "publishedAt": "2026-06-24T06:14:25.000Z",
+          "title": {
+            "en": "One Nation angers miners after rookie MP sides with Greens on fuel rebates",
+            "zh": "一国党新任议员在燃油补贴问题上与绿党站队，激怒矿工"
+          },
+          "summary": {
+            "en": "A rookie Member of Parliament for One Nation, David Farley, has drawn criticism and angered miners and farmers after voting with the Greens and teals to reduce fuel tax credits for these industries. Opponents have highlighted Farley’s decision, which marks a significant divergence from his party's traditional stance.",
+            "zh": "一国党新任议员戴维·法利因投票支持绿党和青党，削减矿工、农民及其他行业的燃油税抵免，引发了矿工和农民的愤怒及批评。反对者们强调了法利的这一决定，认为这与他所在政党的传统立场大相径庭。"
+          },
+          "body": {
+            "en": "Opponents seize on Farrer MP David Farley’s decision to vote alongside teals and Greens to wind back fuel tax credits for miners, farmers and others Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast One Nation is under pressure to clarify its position on fuel tax credits after its rookie MP voted to wind back the rebates, a position opposed by mining and farming groups. The Farrer MP, David Farley , sided with the Greens and teal independents in a lower house vote to cap the scheme, which refunds miners, farmers and other industries that use heavy machinery the 52.6c a litre excise applied to petrol and diesel. Continue reading...",
+            "zh": "反对者利用法雷尔议员戴维·法利 (David Farley) 决定与青色党和绿党一起投票，取消对矿工、农民和其他人的燃油税抵免。 关注我们的澳大利亚新闻直播博客，了解最新动态。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 在新任议员投票取消燃油税抵免后，一国党面临着澄清其在燃油税抵免问题上的立场的压力，这一立场遭到了采矿和农业团体的反对。法雷尔议员戴维·法利 (David Farley) 在下议院投票中站在了绿党和蓝绿色独立人士一边，限制了该计划，该计划向矿工、农民和其他使用重型机械的行业退还每升 52.6 美分的汽油和柴油消费税。继续阅读..."
+          },
+          "reflection": {
+            "en": "Political decisions often involve complex trade-offs and can lead to significant public reaction, as seen in the anger directed at the MP's vote on fuel rebates. Proverbs 11:14 reminds us that without wise guidance, a community can falter, underscoring the importance of seeking broad counsel for the well-being of all. Leaders are called to navigate these...",
+            "zh": "政治决策常涉及复杂的权衡，并可能引发强烈的公众反应，正如这位议员在燃油补贴投票上所引发的愤怒。箴言11:14提醒我们，缺乏明智的指导，民众就会跌倒，这强调了为所有人的福祉寻求广泛建议的重要性。领袖们蒙召以洞察力驾驭这些选择，旨在实现促进稳定并造福其所服务人民的成果。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "aiVerseId": "prov_11_14",
+          "translationState": "localized"
+        },
+        {
           "id": "www-theguardian-com-australia-news-live-2026-jun-24-australia-politics-l",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/4129e121fe2484c1ec147f316eb41650c8012155/163_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d98948f0d283d252ebc1069f885776f0",
-          "publishedAt": "2026-06-24T01:58:56.000Z",
+          "image": "https://i.guim.co.uk/img/media/bbd75b44a94e78b95693a9d561e438f85b457d1d/61_184_2443_1955/master/2443.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8a6c917afaf1d7d65cf7cc7e7af17233",
+          "publishedAt": "2026-06-24T06:12:51.000Z",
           "title": {
-            "en": "Australia politics live: government to review ‘ethical soundness’ of KPMG; inflation slows to 4%, below forecasts",
-            "zh": "澳大利亚政治直播：政府将审查毕马威的“道德健全性”；通胀放缓至4%，低于预期"
+            "en": "Australia politics live: Labor accused of ‘pulling up the ladder’ over CGT as two MPs booted from question time; South Australia confirms first H5N1 case in migratory bird",
+            "zh": "澳大利亚政坛直播：工党被指控在资本利得税问题上“拉高阶梯”，两名议员在质询时间被驱逐；南澳大利亚州确认首例H5N1候鸟病例"
           },
           "summary": {
-            "en": "The Australian government plans to review the 'ethical soundness' of KPMG, a major accounting firm, while inflation has slowed to 4%, falling below forecasts.",
-            "zh": "澳大利亚政府将审查毕马威会计师事务所的“道德健全性”，同时通货膨胀率降至4%，低于预期。"
+            "en": "Follow today’s news live Get our breaking news email, free app or daily news podcast Ruston pushes for overhaul to controversial aged care tool Over to her portfolio, the shadow health and aged care minister, Anne Ruston, will introduce a private member’s bill to change the...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
             "en": "Follow today’s news live Get our breaking news email , free app or daily news podcast Ruston pushes for overhaul to controversial aged care tool Over to her portfolio, the shadow health and aged care minister, Anne Ruston , will introduce a private member’s bill to change the government’s controversial integrated assessment tool. The three things it seeks to do is to restore the discretion of a human assessor to make sure that the algorithm in their professional judgment doesn’t make an error. It also requires greater transparency so that every decision that’s made, the person can know how the algorithm was used, how professional judgment was applied, so they know why they received the level of care that they got. And we also want to make sure that anybody who has received an assessment since this algorithm computer-only decision-making mechanism has been in place, that they can have a reassessment because we believe that so many of the results have clearly been incorrect. Continue reading...",
             "zh": "关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 拉斯顿推动对有争议的老年护理工具进行彻底改革 影子卫生和老年护理部长安妮·拉斯顿 (Anne Ruston) 将提出一项私人议员法案，以改变政府有争议的综合评估工具。它试图做的三件事是恢复人类评估者的自由裁量权，以确保算法在他们的专业判断中不会出错。它还需要更大的透明度，以便做出的每一个决定，人们都可以知道如何使用算法，如何应用专业判断，这样他们就知道为什么他们得到了他们所得到的护理水平。我们还希望确保自该算法纯计算机决策机制到位以来接受过评估的任何人都可以进行重新评估，因为我们相信很多结果显然是不正确的。继续阅读..."
           },
           "reflection": {
-            "en": "The government's review of KPMG's ethical soundness highlights the ongoing need for integrity in public and corporate life. Yahweh calls us to act justly, love kindness, and walk humbly, principles that guide all our dealings. This pursuit of ethical conduct is essential for a healthy society and trustworthy institutions.",
-            "zh": "政府对毕马威会计师事务所道德健全性的审查，突显了公共和企业生活中持续需要诚信。雅伟要求我们行公义，好怜悯，存谦卑的心与祂同行，这些原则指导着我们所有的交往。这种对道德行为的追求对于健康的社会和值得信赖的机构至关重要。"
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "aiVerseId": "micah_6_8",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-technology-2026-jun-24-china-supercomputer-world-fas",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine",
-          "image": "https://i.guim.co.uk/img/media/789fcb3f16ff69cb8d10257eafbb58ed1ea4c42a/727_0_4888_3911/master/4888.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ad51712e838442477399f662c65cc09",
-          "publishedAt": "2026-06-24T01:18:11.000Z",
-          "title": {
-            "en": "Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest",
-            "zh": "中国超级计算机超越美国最好机器，跻身世界最快计算机之列"
-          },
-          "summary": {
-            "en": "China’s LineShine debuts at number one in Top500 – a list sometimes viewed as a national measure of global tech prowess A supercomputer in China now outranks its US counterparts as the world’s most powerful. It is the first time since 2017 that a Chinese computer has topped a...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "China’s LineShine debuts at number one in Top500 – a list sometimes viewed as a national measure of global tech prowess A supercomputer in China now outranks its US counterparts as the world’s most powerful. It is the first time since 2017 that a Chinese computer has topped a list sometimes viewed as a measure of a nation’s technological prowess. The LineShine computer in Shenzhen displaced top-ranked US computer El Capitan in the Top500 rankings released on Tuesday. It was LineShine’s debut on the list. Continue reading...",
-            "zh": "中国的 LineShine 首次跻身 Top500 排行榜第一名——该榜单有时被视为衡量全球科技实力的国家标准。中国的超级计算机现已超过美国同行，成为世界上最强大的计算机。这是自 2017 年以来中国计算机首次跻身有时被视为衡量一个国家技术实力的榜单榜首。在周二发布的 Top500 排名中，深圳的 LineShine 计算机取代了排名第一的美国计算机 El Capitan。这是 LineShine 首次上榜。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-jun-23-trump-immigration-courthouse-arr",
+          "id": "www-theguardian-com-australia-news-2026-jun-24-interest-rate-hikes-remai",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jun/23/trump-immigration-courthouse-arrest-policy",
-          "image": "https://i.guim.co.uk/img/media/0e0a965ee7fdd9843e0dbc5d944cccd50cf0b1d5/186_0_2550_2040/master/2550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5d98bac298d1d3215d715c38fe5cb52",
-          "publishedAt": "2026-06-24T00:39:58.000Z",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/24/interest-rate-hikes-remain-on-cards-as-underlying-inflation-climbs-economists-warn",
+          "image": "https://i.guim.co.uk/img/media/4b1895888f6e05212539927604449f9a78de3c16/277_0_4463_3570/master/4463.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ccd118bd65d883b46c11666cd02bfae",
+          "publishedAt": "2026-06-24T06:05:14.000Z",
           "title": {
-            "en": "Federal judge blocks Trump policy that allows immigration court arrests",
-            "zh": "联邦法官阻止特朗普政府的移民法庭逮捕政策"
+            "en": "Interest rate hikes remain on cards as underlying inflation climbs, economists warn",
+            "zh": "经济学家警告称，随着潜在通胀攀升，加息仍有可能"
           },
           "summary": {
-            "en": "A federal judge in California has blocked nationwide policies from the Trump administration that expanded arrests at immigration courthouses, ruling the actions of government agencies as “arbitrary and capricious.”",
-            "zh": "加州一名联邦法官阻止了特朗普政府扩大移民法庭逮捕范围的全国性政策，裁定政府机构的行为“武断和反复无常”。"
-          },
-          "body": {
-            "en": "Judge vacates administrations policies, finding actions of ICE and another government arm ‘arbitrary and capricious’ A federal ⁠judge in California vacated the ⁠Trump administration’s ​nationwide policies expanding arrests at immigration courthouses and the duration for detaining noncitizens in short-term facilities, finding the actions of US Immigration ⁠and Customs Enforcement and another government arm “arbitrary and capricious”. US district judge P Casey Pitts of the northern district of California on Tuesday vacated ICE’s ⁠policies that had rescinded previous strictures on arrests at immigration courthouses and allowed detainees to ​be held in short-term cells for up ‌to 72 hours. He ‌did the same for a similar policy undertaken by the US Department of Justice’s ‌executive office for immigration review that removed limits on courthouse arrests. Continue reading...",
-            "zh": "法官撤销了政府政策，认为 ICE 和另一政府部门的行为“任意且反复无常” 加利福尼亚州的一名联邦法官撤销了特朗普政府扩大移民法院逮捕人数和短期设施中非公民拘留期限的全国性政策，认为美国移民和海关执法局和另一政府部门的行为“任意且反复无常”。美国加州北区地区法官 P Casey Pitts 周二撤销了 ICE 的政策，该政策取消了之前对移民法院逮捕的限制，并允许被拘留者在短期牢房中关押最长 72 小时。他对美国司法部移民审查执行办公室采取的类似政策也采取了同样的做法，取消了对法院逮捕的限制。继续阅读..."
-          },
-          "reflection": {
-            "en": "Yahweh calls those in authority to do justice and righteousness, especially protecting the resident alien from wrong and violence. This judicial decision reminds us that even in complex legal systems, the pursuit of fairness and the protection of vulnerable individuals remain essential.",
-            "zh": "雅伟呼召掌权者行公义、施怜悯，特别是要保护寄居者免受不公和暴力。这项司法裁决提醒我们，即使在复杂的法律体系中，追求公平和保护弱势个体依然至关重要。"
-          },
-          "verse": {
-            "reference": "Jeremiah 22:3",
-            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
-            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
-            "themeEn": "Royal justice mandate",
-            "themeZh": "王者的公义责任"
-          },
-          "aiVerseId": "jer_22_3",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jun-23-housing-bill-bipartisan-house-tr",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jun/23/housing-bill-bipartisan-house-trump",
-          "image": "https://i.guim.co.uk/img/media/fdae772ca14fc28651287bd3c597dfd42aee24f7/446_0_4459_3568/master/4459.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=402edf84400368c580c672f4a9a22a4b",
-          "publishedAt": "2026-06-24T00:03:44.000Z",
-          "title": {
-            "en": "House gives final approval to bipartisan housing bill aimed at lowering costs",
-            "zh": "众议院最终批准旨在降低成本的两党住房法案"
-          },
-          "summary": {
-            "en": "Donald Trump has indicated he will sign rare bipartisan initiative to tackle affordability after 358-32 vote in House The House gave final approval on Tuesday to a broad bipartisan bill aimed at lowering the cost of housing, with lawmakers in both parties eager to show progress...",
+            "en": "Despite plunging fuel prices, trimmed mean inflation increased from an annual pace of 3.4% to 3.6% Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Australia’s inflation challenge is far from over and more Reserve...",
             "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Donald Trump has indicated he will sign rare bipartisan initiative to tackle affordability after 358-32 vote in House The House gave final approval on Tuesday to a broad bipartisan bill aimed at lowering the cost of housing, with lawmakers in both parties eager to show progress on affordability issues ahead of this year’s midterm elections. The 358-32 vote sends the bill to Donald Trump, who is expected to sign it into law on Wednesday at the Capitol. The Senate passed the legislation 85-5 on Monday. Continue reading...",
-            "zh": "唐纳德·特朗普表示，在众议院以 358 比 32 投票后，他将签署罕见的两党倡议，以解决负担能力问题。众议院周二最终批准了一项旨在降低住房成本的广泛两党法案，两党立法者都渴望在今年中期选举之前展示在负担能力问题上取得的进展。该法案以 358 票对 32 票的投票结果提交给唐纳德·特朗普 (Donald Trump)，预计他将于周三在国会大厦签署成为法律。参议院周一以 85 比 5 通过了该法案。继续阅读..."
+            "en": "Despite plunging fuel prices, trimmed mean inflation increased from an annual pace of 3.4% to 3.6% Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australia’s inflation challenge is far from over and more Reserve Bank rate hikes remain on the cards , economists warn, even after a plunging petrol costs drove an unexpected fall in consumer price growth in the year to May. Annual inflation dropped to 4%, from 4.2% in the year to April, according to the Australian Bureau of Statistics, dragged down in large part thanks to a nearly 12% drop in fuel prices in the month of May. Continue reading...",
+            "zh": "尽管燃油价格暴跌，调整后的平均通胀率仍从每年 3.4% 上升至 3.6% 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 经济学家警告称，澳大利亚的通胀挑战远未结束，储备银行仍可能加息，尽管汽油成本暴跌导致截至 5 月份的一年内消费者物价增速意外下滑。根据澳大利亚统计局的数据，年通胀率从截至 4 月份的一年中的 4.2% 降至 4%，这在很大程度上要归功于 5 月份燃油价格下跌近 12%。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
@@ -246,24 +279,58 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-clyedgnyn4mo-at-medium-rss-at-campaign-rss",
+          "id": "www-bbc-co-uk-news-articles-clye652m41po-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4888/live/320d54b0-6f4f-11f1-baa9-855c433fc27a.jpg",
-          "publishedAt": "2026-06-24T00:00:06.000Z",
+          "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bde8/live/87a1ba60-6f86-11f1-8546-8f19e4fe30f4.jpg",
+          "publishedAt": "2026-06-24T05:07:55.000Z",
           "title": {
-            "en": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
-            "zh": "八人因反 ICE 骚乱导致警员被枪杀而被判处 450 年监禁"
+            "en": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+            "zh": "纽约民主党初选，曼达尼支持的候选人大获全胜"
           },
           "summary": {
-            "en": "An officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
+            "en": "Brad Lander won the Democratic primary in New York, unseating Dan Goldman. The election campaign highlighted significant divisions within the city regarding the ongoing Israel-Gaza conflict.",
+            "zh": "布拉德·兰德在纽约民主党初选中击败丹·高盛。这场竞选暴露了该市在以色列-加沙战争问题上的严重分歧。"
+          },
+          "body": {
+            "en": "US congressman Dan Goldman has been defeated in a New York primary election, capping a clean sweep for candidates backed by New York's democratic socialist Mayor Zohran Mamdani.\n\nGoldman was beaten by progressive challenger Brad Lander in New York's 10th congressional district in a contest that laid bare the party's divisions over the Israel-Gaza war.\n\nLander has accused Israel of genocide in Gaza. Goldman, a two-term incumbent, was backed by pro-Israel groups.\n\nTwo other candidates, both democratic socialists endorsed by Mamdani as he seeks to tilt the Democratic party to the left, won their primary races on Tuesday, in a boost for the party's left wing in America's largest city.\n\nAssemblywoman Claire Valdez unseated Brooklyn Borough President Antonio Reynoso in the 7th district.\n\nDarializa Avila Chevalier, a doctoral student who has joined pro-Palestinian protests at Columbia University, won her race in New York's 13th district.\n\nShe toppled Adriano Espaillat, who had held the district for five terms and is chair of the Congressional Hispanic Caucus, a body that advocates for legislation and resources for Hispanic Americans.\n\nMamdani celebrated her win, describing Chevalier as a person \"of clarity, of conscience and of conviction\".\n\nLander, who was also endorsed by Vermont's democratic socialist Senator Bernie Sanders, easily beat Goldman by 65.7% to 34.1%, with most votes counted.\n\nHe also received praise from Mamdani, who touted Lander's \"vision of politics that is more than what we've seen for so long\".\n\nIn a post on X after the results, Lander said his victory showed that the people of his district covering Lower Manhattan and part of Brooklyn \"want leadership ready to fight, not fold, against authoritarianism\".\n\nThe former New York City comptroller's bid against Goldman, who was first elected to Congress in 2022, was seen as a test of Mamdani's political influence.\n\nGoldman said he had called Lander to congratulate him, according to the BBC's US news partner CBS.\n\n\"Tonight, the voters of 10th District have spoken. While this is not the outcome I worked so hard for, I respect their decision,\" Goldman said.\n\nUS President Donald Trump called Goldman \"weak and pathetic\" in the aftermath of the race, adding that the congressman \"just lost, BIG!\"\n\nGoldman, an heir to the Levi Strauss denim fortune, won plaudits from his party for leading the first impeachment inquiry of Trump in 2019.\n\nBut his defence of Israel sparked a backlash from some in New York, including a Brooklyn coffee shop that posted on social media over the weekend that the congressman was not welcome there.\n\nGoldman visited Poetica Coffee in Williamsburg, Brooklyn, with his seven-year-old daughter on Sunday, leading the coffee shop to post that it doesn't \"serve racists, fascists,...",
+            "zh": "美国国会议员丹·戈德曼(Dan Goldman)在纽约初选中落败，纽约民主社会主义市长佐赫兰·马姆达尼(Zohran Mamdani)支持的候选人大获全胜。 高盛在纽约第十国会选区的竞选中被进步挑战者布拉德·兰德击败，这场竞选暴露了该党在以色列-加沙战争问题上的分歧。 兰德指责以色列在加沙实施种族灭绝。高盛曾连任两届，得到了亲以色列团体的支持。 另外两名候选人在周二的初选中赢得了初选，这为该党在美国最大城市的左翼势力带来了提振。 女议员克莱尔·瓦尔迪兹 (Claire Valdez) 在第七选区罢免了布鲁克林区主席安东尼奥·雷诺索 (Antonio Reynoso)。 参加哥伦比亚大学亲巴勒斯坦抗议活动的博士生 Darializa Avila Chevalier 在纽约第 13 区的竞选中获胜。 她推翻了阿德里亚诺·埃斯佩拉特 (Adriano Espaillat)，后者曾担任该选区五届任期，并担任国会西班牙裔核心小组主席，该机构致力于为西班牙裔美国人提供立法和资源。 马姆达尼庆祝了她的胜利，并将谢瓦利埃描述为一个“清晰、有良心和有信念”的人。 兰德也得到了佛蒙特州民主社会主义参议员伯尼·桑德斯的支持，在大部分选票已清点的情况下，他以 65.7% 比 34.1% 轻松击败高盛。 他还得到了马姆达尼的赞扬，后者称赞兰德的“政治愿景比我们长期以来所看到的要多”。 兰德在选举结果公布后在 X 上发帖称，他的胜利表明，他所在的选区（包括曼哈顿下城和布鲁克林部分地区）的人民“希望领导层做好准备，与威权主义作斗争，而不是屈服”。 这位前纽约市审计长对 2022 年首次当选国会议员的高盛的竞购被视为对马姆达尼政治影响力的考验。 据英国广播公司(BBC)美国新闻合作伙伴哥伦比亚广播公司(CBS)报道，高盛表示，他已致电兰德表示祝贺。 “今晚，第十选区的选民发声了。虽然这不是我努力争取的结果，但我尊重他们的决定，”高盛说。 美国总统唐纳德·特朗普在竞选结束后称高盛“软弱且可悲”，并补充说这位国会议员“刚刚输了，输得很惨！” 高盛是李维斯牛仔布财富的继承人，因领导 2019 年特朗普的首次弹劾调查而赢得了党内的赞誉。 但他对以色列的辩护引发了纽约一些人的强烈反对，其中包括布鲁克林的一家咖啡店，周末在社交媒体上发帖称，那里不欢迎这位国会议员。 周日，戈德曼带着他七岁的女儿参观了布鲁克林威廉斯堡的 Poetica 咖啡店，咖啡店发帖称，它不“为种族主义者、法西斯分子、......"
+          },
+          "reflection": {
+            "en": "This election reveals how global conflicts can deeply divide local communities, turning neighbors into adversaries. Yet, Scripture reminds us that our true struggle is not against fellow human beings, but against unseen spiritual forces that fuel animosity and polarization. In such times, Yahweh calls us to look beyond surface disagreements and seek unity,...",
+            "zh": "这次选举揭示了全球冲突如何深刻地分裂地方社区，使邻里之间形同陌路。然而，圣经提醒我们，我们真正的争战并非对抗血肉之躯，而是对抗那些助长敌意和两极分化的无形属灵势力。在这样的时刻，雅伟呼召我们超越表面的分歧，寻求合一，认识到更深层的争战。"
+          },
+          "verse": {
+            "reference": "Ephesians 6:12",
+            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
+            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
+            "themeEn": "Not against flesh and blood",
+            "themeZh": "并非与血气争战"
+          },
+          "aiVerseId": "eph_6_12",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cn8q33gdgjjo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ce3/live/0c6d0f60-5ffb-11f1-a129-231866914bc9.jpg",
+          "publishedAt": "2026-06-24T04:06:51.000Z",
+          "title": {
+            "en": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
+            "zh": "邦迪海滩枪击英雄对袭击父亲的指控不认罪"
+          },
+          "summary": {
+            "en": "Ahmed al Ahmed tackled one of the gunmen who killed 15 people at a Jewish event in December.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Eight people who US prosecutors say have ties to Antifa have collectively been sentenced to 450 years in prison for their roles in a riot outside an immigration detention centre in Texas.\n\nA former US Marine Corps reservist, who was convicted of attempted murder of a law enforcement officer, was sentenced to 100 years in prison. The others' sentences range between 30 to 70 years, according to the justice department.\n\nLast year President Donald Trump designated Antifa - short for anti-fascist - a \"domestic terrorist organisation\" .\n\nA US judge called their actions on 4 July \"an assault on democracy\", while their families condemned the length of their sentences.\n\n\"The sentences handed down today make clear that Antifa terrorists who attack law enforcement and federal facilities will face swift and uncompromising justice,\" Acting US Attorney General Todd Blanche said in a statement, condemning violent extremism.\n\nThe US Department of Justice (DOJ) said the North Texas Antifa Cell operatives began shooting off and throwing fireworks at the facility in Prairieland, just south of Dallas, on the Independence Day holiday last summer, as well as vandalising vehicles and a guard kiosk on the property.\n\nThe eight were convicted on an array of charges, including rioting, using weapons and explosives, providing material support to terrorists, and obstruction.\n\nBenjamin Hanil Song, the purported leader of the group, was sentenced to 100 years in prison. According to the justice department, he had faced a minimum penalty of 20 years.\n\nSong said in a written statement on Tuesday that he fired his gun because he believed the police officer was preparing to shoot a protester, according to multiple media outlets and an advocacy group for the defendants.\n\nHis mother Hope Song has disputed claims that he shot the officer and said he didn't intend to hurt anyone, according to the Associated Press.\n\nMaricela Rueda was sentenced to 70 years in prison; Cameron Arnold (also known as Autumn Hill), Savanna Batten, Zachary Evetts, Bradford Morris (also known as Meagan Morris) and Elizabeth Soto were each sentenced to 50 years in prison; and Daniel Rolando Sanchez-Estrada was sentenced to 30 years in prison.\n\nA ninth defendant, Ines Soto, will be sentenced on 1 July. Seven others involved in the incident pleaded guilty before the trial to one count of providing material support to terrorists. They will also be sentenced on 1 July.\n\nIn a statement on Tuesday, the DOJ said the North Texas Antifa Cell was part of a network of individuals and small groups ascribing to an ideology that calls for the overthrow of the US government, law enforcement and the system of law.\n\nWhile other immigration facilities have seen numerous protests, as well as visits from Democratic lawmakers, the...",
-            "zh": "美国检察官称与 Antifa 有联系的 8 名人士因参与德克萨斯州移民拘留中心外的骚乱而被总共判处 450 年监禁。 一名前美国海军陆战队预备役军人因谋杀执法人员未遂罪被判处 100 年监禁。据司法部称，其他人的刑期在 30 至 70 年之间。 去年，唐纳德·特朗普总统将Antifa——反法西斯的缩写——指定为“国内恐怖组织”。 一名美国法官称他们 7 月 4 日的行为是“对民主的攻击”，而他们的家人则谴责了他们的刑期。 美国代理司法部长托德·布兰奇在一份声明中谴责暴力极端主义，他表示：“今天作出的判决清楚地表明，袭击执法部门和联邦设施的安提法恐怖分子将面临迅速且毫不妥协的正义审判。” 美国司法部 (DOJ) 表示，去年夏天的独立日假期，北德克萨斯 Antifa 小组特工开始在达拉斯以南 Prairieland 的设施内射击和投掷烟花，并破坏该设施内的车辆和警卫亭。 这八人因一系列罪名被定罪，包括骚乱、使用武器和爆炸物、向恐怖分子提供物质支持以及妨碍司法公正。 该组织的据称领导人本杰明·哈尼尔·宋 (Benjamin Hanil Song) 被判处 100 年监禁。据司法部门称，他面临至少20年监禁的处罚。 据多家媒体和被告辩护组织称，宋在周二的一份书面声明中表示，他开枪是因为他相信警察正准备向一名抗议者开枪。 据美联社报道，他的母亲霍普·宋(Hope Song)对他开枪射杀警察的说法提出了异议，并表示他无意伤害任何人。 马里塞拉·鲁埃达 (Maricela Rueda) 被判处 70 年监禁；卡梅伦·阿诺德（又名奥特姆·希尔）、萨凡娜·巴顿、扎卡里·埃维茨、布拉德福德·莫里斯（又名梅根·莫里斯）和伊丽莎白·索托分别被判处 50 年监禁；丹尼尔·罗兰多·桑切斯·埃斯特拉达 (Daniel Rolando Sanchez-Estrada) 被判处 30 年监禁。 第九名被告 Ines Soto 将于 7 月 1 日被判刑。参与该事件的其他七人在审判前承认了一项向恐怖分子提供物质支持的罪名。他们也将于 7 月 1 日被判刑。 美国司法部在周二的一份声明中表示，北德克萨斯州 Antifa 小组是一个由个人和小团体组成的网络的一部分，其意识形态主张推翻美国政府、执法和法律体系。 虽然其他移民设施发生了许多抗议活动，以及民主党议员的访问，但……"
+            "en": "The man hailed a hero for tackling one of the gunmen who killed 15 people at Bondi Beach has pleaded not guilty to allegedly assaulting his father, a Sydney court has heard.\n\nAhmed al Ahmed, 44, appeared before Bankstown Local Court on Wednesday to face charges of assault as well as stalking and intimidation in relation to an incident in March.\n\nOutside court, Ahmed's lawyer said the case has been \"very difficult\" for his client and it is a \"family situation he never expected\".\n\nOn 14 December, Ahmed jumped on Sajid Akram from behind as he opened fire on a crowd at a Jewish event, wrestling a long-arm gun from the gunman. A second alleged gunman shot Ahmed several times in the arm.\n\nThe attack was Australia's deadliest mass shooting since 1996 with police declaring it a terrorist incident that had targeted the Jewish community.\n\nVideo footage of Ahmed's actions received international coverage, prompting a fundraiser that collected more than A$2.5m (£1.24m; $1.7m) for him.\n\nAfter he was charged earlier this month, Ahmed told local media that the claims of assault were \"not true at all\".\n\nIn a separate matter, two of Ahmed's brothers have recently been charged over allegations they threatened him and tried to extort some of the donations he had received.\n\nHozifa al Ahmed and Sameh al Ahmed moved to Australia after the shooting and lived with Ahmed, but their relationship broke down. It is alleged that the two brothers threatened to hurt Ahmed if he did not hand over $100,000 to each of them.\n\nAs he left the court on Wednesday, Ahmed replied \"no comment\" when asked if his family was lying and if he thinks he can make peace with his father and brothers.\n\nIn the days after the Bondi Beach shooting, Australia's Prime Minister Anthony Albanese visited Ahmed as he recovered in hospital, calling him \"the best of our country\" .\n\nIn a TV interview, Ahmed - who was born and raised in Syria - described the moments before he tackled the gunman, saying he wanted to stop innocent people being killed and that \"my soul\" was \"asking me to do that\".",
+            "zh": "悉尼一家法院获悉，这名男子因击倒一名在邦迪海滩杀害 15 人的枪手而被誉为英雄，但他对袭击其父亲的指控不认罪。 44 岁的艾哈迈德·艾哈迈德 (Ahmed al Ahmed) 周三在班克斯敦地方法院出庭，面临与 3 月份发生的一起事件有关的袭击、跟踪和恐吓指控。 在法庭外，艾哈迈德的律师表示，此案对他的当事人来说“非常困难”，这是“他从未预料到的家庭情况”。 12 月 14 日，艾哈迈德在一次犹太活动中向人群开枪时，从后面跳到萨吉德·阿克拉姆身上，并从枪手手中夺走了一把长枪。第二名枪手向艾哈迈德的手臂开了数枪。 这次袭击是澳大利亚自 1996 年以来最致命的大规模枪击事件，警方宣布这是针对犹太社区的恐怖事件。 艾哈迈德行为的视频片段受到了国际媒体的报道，促使一场筹款活动为他筹集了超过 250 万澳元（124 万英镑；170 万美元）。 本月早些时候被指控后，艾哈迈德告诉当地媒体，有关袭击的指控“根本不属实”。 在另一起案件中，艾哈迈德的两个兄弟最近被指控威胁他并试图勒索他收到的部分捐款。 枪击事件后，霍齐法·艾哈迈德和萨米赫·艾哈迈德移居澳大利亚，与艾哈迈德住在一起，但他们的关系破裂了。据称，两兄弟威胁艾哈迈德，如果他不向他们每人交出 10 万美元，就会伤害他。 周三离开法庭时，当被问及他的家人是否在撒谎以及他是否认为自己可以与父亲和兄弟和解时，艾哈迈德回答说“无可奉告”。 邦迪海滩枪击事件发生后几天，澳大利亚总理安东尼·阿尔巴内斯看望了正在医院康复的艾哈迈德，称他是“我们国家最好的人”。 在一次电视采访中，在叙利亚出生和长大的艾哈迈德描述了他对付枪手之前的时刻，称他想阻止无辜者被杀害，“我的灵魂”正在“要求我这样做”。"
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -279,138 +346,103 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-jun-23-director-national-intelligence-s",
+          "id": "www-bbc-co-uk-news-articles-ce8j6g3v3r4o-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jun/23/director-national-intelligence-staff",
-          "image": "https://i.guim.co.uk/img/media/0b3aa04246e9a98605ec5c6ba8c7ec0d2b62fad5/255_0_2586_2069/master/2586.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=503b75398e574e4ccf59915a007f655c",
-          "publishedAt": "2026-06-23T23:51:41.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/340e/live/f69c8770-6f7b-11f1-8e1d-bbbb1017d210.jpg",
+          "publishedAt": "2026-06-24T03:57:59.000Z",
           "title": {
-            "en": "Trump’s acting intelligence chief fires dozens of staff members – report",
-            "zh": "特朗普代理情报局长解雇了数十名工作人员——报告"
+            "en": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+            "zh": "国会首次通过战争权力措施，谴责特朗普与伊朗的战争"
           },
           "summary": {
-            "en": "Firings come less than a week after US president appointed Bill Pulte as acting director after Tulsi Gabbard left the post Several staff members have reportedly been fired from the US office of the director of national intelligence (DNI), multiple outlets have reported. These...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Firings come less than a week after US president appointed Bill Pulte as acting director after Tulsi Gabbard left the post Several staff members have reportedly been fired from the US office of the director of national intelligence (DNI), multiple outlets have reported. These firings come less than a week after Donald Trump appointed Bill Pulte as the acting director after former director Tulsi Gabbard announced she was leaving the post in late May. According to CNN , which was first to report the firings on Monday, political appointees with ties to Gabbard were among those purged. ABC News reported that cuts to the National Terrorism Center were expected to be particularly large. Continue reading...",
-            "zh": "距离图尔西·加巴德 (Tulsi Gabbard) 离职后，美国总统任命比尔·普尔特 (Bill Pulte) 为代理局长不到一周，美国国家情报总监 (DNI) 办公室的几名工作人员被解雇，多家媒体报道称。不到一周前，前导演图尔西·加巴德 (Tulsi Gabbard) 宣布比尔·普尔特 (Bill Pulte) 于 5 月底离职，唐纳德·特朗普 (Donald Trump) 任命比尔·普尔特 (Bill Pulte) 为代理导演。据美国有线电视新闻网（CNN）周一最先报道了解雇事件，与加巴德有联系的政治任命者也在其中。美国广播公司新闻报道称，预计对国家恐怖主义中心的削减将特别大。继续阅读..."
+            "en": "The Republican-controlled US Senate has approved a measure instructing President Donald Trump to halt the war in Iran or seek congressional approval before continuing military action.\n\nA handful of Republicans joined Democrats in Tuesday's 50-48 vote. The same measure was passed by the US House of Representatives earlier this month.\n\nBut the resolution is largely symbolic because, even after passing both chambers of Congress, it will not be sent to Trump for his consideration and does not carry the force of the law.\n\nIt came as Republicans in Congress have expressed scepticism about a peace plan Trump agreed with Iran, and the unpopular conflict approaches its fifth month.\n\nTrump criticised the resolution on Tuesday night, calling it \"poorly timed and meaningless\".\n\n\"So, I have Iran on the 'ropes,' ready to go down for the fall... and the U.S. Senate decides to have a poorly timed and meaningless War Powers Act Vote,\" Trump wrote on his Truth Social platform.\n\n\"These Senators have just made my job more difficult, but I will get it done, one way or the other, because I always get it done!\"\n\nThe vote marks the first time that both chambers of Congress have approved a concurrent resolution instructing a president to end a military action since the War Powers Resolution of 1973 was enacted.\n\nA concurrent resolution expresses the sentiment or will of Congress, as opposed to other forms of legislation that go to the president to be signed into law. In 2019, Trump vetoed a joint resolution that called for the removal of armed forces from hostilities in the Yemeni civil war.\n\nMiddle East analyst Laura Blumenfeld called it \"more of a slap on a wrist than a handcuff, because it has no legal binding\".\n\nBut she told the BBC she thought what \"it does reflect is the American people's sentiments\".\n\nThe concurrent resolution's passage is significant because it adds to pressure on the White House to find an end to the Iran war, which is unpopular with the public after petrol prices spiked.\n\nThe same measure was passed earlier this month by the US House of Representatives, where four Republicans joined every Democrat to approve it in a 215-208 vote.\n\nBut a White House official told the BBC that with the ceasefire agreed on 7 April, there are no hostilities from which to withdraw American forces.\n\nThe official also said the measure only passed because two Republican senators were absent: Mitch McConnell and Dave McCormick.\n\nFour Republican senators voted with Democrats in support of the resolution: Rand Paul, Lisa Murkowski, Susan Collins and Bill Cassidy.\n\nDemocratic Senator John Fetterman was the only member of his party to vote against it.\n\nIt was the latest sign of division among Trump's fellow Republicans ahead of the midterm elections in November, which will...",
+            "zh": "共和党控制的美国参议院批准了一项措施，指示唐纳德·特朗普总统停止伊朗战争或在继续采取军事行动之前寻求国会批准。 在周二的投票中，少数共和党人以 50 比 48 的投票结果加入了民主党的行列。本月早些时候，美国众议院也通过了同样的措施。 但该决议在很大程度上是象征性的，因为即使在国会参众两院获得通过，它也不会送交特朗普审议，也不具有法律效力。 国会共和党人对特朗普与伊朗达成的和平计划表示怀疑，这场不受欢迎的冲突已进入第五个月。 特朗普周二晚间批评了该决议，称其“时机不当且毫无意义”。 特朗普在他的真相社交平台上写道：“因此，我让伊朗处于‘绳索’上，准备在秋季倒下……而美国参议院决定进行一次不合时宜且毫无意义的战争权力法案投票。” “这些参议员让我的工作变得更加困难，但我会以某种方式完成它，因为我总是能完成它！” 此次投票标志着自1973年《战争权力决议》颁布以来，国会参众两院首次同时批准一项指示总统结束军事行动的决议。 同时提出的决议表达了国会的观点或意愿，这与其他形式的立法不同，这些立法需提交总统签署成为法律。 2019年，特朗普否决了一项呼吁将武装部队撤出也门内战敌对行动的联合决议。 中东分析师劳拉·布卢门菲尔德称其“与其说是手铐，不如说是手腕上的一记耳光，因为它没有法律约束力”。 但她告诉英国广播公司，她认为“这确实反映了美国人民的情绪”。 同时通过的决议意义重大，因为它增加了白宫寻求结束伊朗战争的压力，在汽油价格飙升后，伊朗战争不受公众欢迎。 本月早些时候，美国众议院也通过了同样的措施，四名共和党议员与每位民主党议员一起以 215 票对 208 票通过了该法案。 但一名白宫官员告诉 BBC，随着 4 月 7 日达成停火协议，美军不再需要从敌对行动中撤军。 该官员还表示，该措施之所以获得通过，是因为两名共和党参议员缺席：米奇·麦康奈尔和戴夫·麦考密克。 四名共和党参议员与民主党一起投票支持该决议：兰德·保罗、丽莎·默科斯基、苏珊·柯林斯和比尔·卡西迪。 民主党参议员约翰·费特曼是该党内唯一投反对票的成员。 这是特朗普的共和党同僚在11月中期选举之前出现分歧的最新迹象，这将..."
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-crm0ek4z7ggo-at-medium-rss-at-campaign-rss",
+          "id": "www-bbc-co-uk-news-articles-cy8drk2dk3no-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/972f/live/e72ad600-6f5a-11f1-8546-8f19e4fe30f4.jpg",
-          "publishedAt": "2026-06-23T23:46:01.000Z",
+          "link": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg",
+          "publishedAt": "2026-06-24T01:42:43.000Z",
           "title": {
-            "en": "Germany rail network briefly halted nationwide due to IT malfunction",
-            "zh": "德国铁路网络因IT故障全国范围全面停运"
+            "en": "Sydney woman wakes from induced coma more than a week after shark attack",
+            "zh": "悉尼女子遭鲨鱼袭击一周多后从昏迷中醒来"
           },
           "summary": {
-            "en": "Rail services across Germany have been completely halted due to a nationwide IT disruption affecting the national rail company, Deutsche Bahn.",
-            "zh": "由于全国性的IT故障，德国国家铁路公司（Deutsche Bahn）已暂停全国范围内的火车服务。"
+            "en": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "German rail company Deutsche Bahn had to pause its train services across the country due to a nationwide IT disruption on Tuesday night.\n\nAll its trains were held at stations following a malfunction with the country's digital railway radio network, causing widespread disruption.\n\nDeutsche Bahn later said the disruption had been fixed after trains were at a complete standstill for more than two-and-a-half hours.\n\n\"Our IT experts worked tirelessly to resolve the issue – successfully. The disruption was quickly fixed, and service is now gradually resuming,\" it said. \"We thank all passengers for their patience,\" it added.\n\nAt 22:30 local time (21:30 BST), Deutsche Bahn said a nationwide disruption of the Global System for Mobile Communication for Railways (GSM-R) meant that all trains were being held at stations.\n\nIn a followup statement, Deutsche Bahn then said the cause of the disruption, which had affected internal communication channels, \"has now been identified\" and technicians were working \"diligently to resolve the issue\".\n\nPassengers were urged to find alternative modes of transport with major delays and cancellations expected.\n\nAt the time, Deutsche Bahn did not say how long the disruption could last or how many trains and passengers had been affected.\n\nSpeaking to the German newspaper Bild earlier, Deutsche Bahn CEO Evelyn Palla said \"we are now trying to get the trains into stations so that travellers can disembark\", according to Germany's international broadcaster Deutsche Welle.\n\nGSM-R, which was at the centre of the disruption, is a wireless communication tool used between train drivers and traffic control centres.\n\nDeutsche Bahn apologised to passengers for the situation, adding it would give taxi and hotel vouchers to affected passengers.\n\nThe national railway operator Deutsche Bahn provides both long-distance and regional transport.\n\nIt also operates S-Bahn trains that connect suburbs with city centres, which came to a halt on Tuesday evening as well.\n\nS-Bahn Berlin issued a separate statement that said the outage to the GSMR \"has been resolved\", and that \"S-Bahn trains can run again\".\n\n\"Please still expect that there may be delays and train cancellations on lines\", it added.",
-            "zh": "German rail company Deutsche Bahn has paused its train services across the country due to a nationwide IT disruption. All its trains are being held at stations, following a malfunction with the country's digital railway radio network on Tuesday evening. 德国铁路公司在一份声明中表示，影响内部沟通渠道的中断原因“现已确定”，技术人员正在“努力解决问题”。 Passengers have been urged to find alternative modes of transport with major delays and cancellations expected. Deutsche Bahn did not say how long the disruption could last or how many trains and passengers have been affected. 据德国国际广播公司德国之声报道，德国铁路公司首席执行官伊芙琳·帕拉在接受德国《图片报》采访时表示，“我们现在正在努力让火车进站，以便旅客下车”。 全球铁路移动通信系统 (GSM-R) 是此次中断的核心，它是火车司机和交通控制中心之间使用的无线通信工具。 Deutsche Bahn has apologised to passengers for the situation, adding it will give taxi and hotel vouchers to affected passengers."
+            "en": "A woman who was bitten by a shark more than a week ago while swimming at a popular Sydney beach has woken briefly from an induced coma, her family has said.\n\nLeah Stewart was attacked by a shark on Saturday 13 June at Coogee Beach, suffering multiple bites on her arms and legs and extreme blood loss.\n\nThe 34-year-old mother was taken to hospital in a critical condition and underwent several surgeries including having her arm amputated.\n\nOn Tuesday, her brother said doctors had reduced Stewart's medication so she could wake up briefly from an induced coma. She said \"I love you\" to her mum and partner who were both by her bedside and asked if her daughter was ok.\n\n\"This is a lot faster than anyone expected, and for us this feels like a miracle and is everything so many of us have hoped and prayed for over the past week,\" Joshua Stewart posted in an online message to his sister's supporters.\n\nHe said she remains in intensive care and had five days of surgery in the past week, with more scheduled in the coming weeks.\n\n\"Leah has a long road ahead and still remains in critical care, but this is such a positive first step and gives us hope for Leah's long term recovery.\"\n\nStewart, who works as a teacher, had gone to Coogee Beach on Saturday morning for a swim and was in the water close to the shore when the attack happened .\n\nThere have been a spate of shark attacks in Australia this year, with four attacks in a two-day period in January including a young boy who was bitten at a Sydney beach and later died from his injuries in hospital.\n\nLast month, there were two fatal shark attacks with one man killed by a shark in Queensland while spearfishing and in Western Australia, father-of-two Steven Mattaboni, 38, died after he was bitten by a 4m (13ft) shark.",
+            "zh": "一名女子的家人表示，一周多前，一名女子在悉尼一处热门海滩游泳时被鲨鱼咬伤，目前已从昏迷状态中短暂苏醒。 6 月 13 日星期六，利亚·斯图尔特 (Leah Stewart) 在库吉海滩 (Coogee Beach) 遭到鲨鱼袭击，手臂和腿部多处被咬伤，严重失血。 这位34岁的母亲被送往医院，情况危急，并接受了多次手术，包括手臂截肢。 周二，她的兄弟表示，医生已经减少了斯图尔特的用药剂量，以便她能够从诱导昏迷中短暂醒来。她对床边的妈妈和伴侣说“我爱你”，并询问女儿是否还好。 约书亚·斯图尔特在给妹妹支持者的在线消息中写道：“这比任何人预期的要快得多，对我们来说，这感觉就像一个奇迹，也是我们许多人在过去一周所希望和祈祷的一切。” 他说，她仍在重症监护室，并在过去一周接受了五天的手术，未来几周计划进行更多手术。 “莉亚还有很长的路要走，目前仍在重症监护室，但这是积极的第一步，给我们带来了莉亚长期康复的希望。” 斯图尔特是一名教师，周六早上去库吉海滩游泳，袭击发生时他正在靠近海岸的水中。 今年澳大利亚发生了多起鲨鱼袭击事件，一月份两天内发生了四起鲨鱼袭击事件，其中一名小男孩在悉尼海滩被咬伤，后来在医院伤重不治身亡。 上个月，昆士兰州发生了两起致命的鲨鱼袭击事件，其中一名男子在鱼叉捕鱼时被鲨鱼杀死；在西澳大利亚州，38 岁的两个孩子的父亲史蒂文·马塔博尼 (Steven Mattaboni) 在被一条 4 米（13 英尺）长的鲨鱼咬伤后死亡。"
           },
           "reflection": {
-            "en": "A nationwide IT malfunction bringing Germany's rail network to a halt reminds us of the fragility of complex systems we rely upon daily. Proverbs 27:12 encourages us to be prudent, foreseeing potential dangers and taking refuge, rather than simply pressing on and facing the consequences. This incident underscores the wisdom in building resilience and...",
-            "zh": "德国铁路网络因全国性IT故障而全面停运，这提醒我们日常所依赖的复杂系统是多么脆弱。箴言27:12鼓励我们要谨慎，预见潜在的危险并采取防范措施，而不是一味前行而付出代价。这起事件强调了在互联世界中建立韧性并为不可预见的干扰做好准备的智慧。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 27:12",
-            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
-            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
-            "themeEn": "Foreseeing danger",
-            "themeZh": "防患未然"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
-          "aiVerseId": "prov_27_12",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-ckg0258vpvqo-at-medium-rss-at-campaign-rss",
+          "id": "www-bbc-co-uk-news-articles-clyedgnyn4mo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bfe/live/8a2019f0-6f5c-11f1-9ab9-83454fe8fa79.jpg",
-          "publishedAt": "2026-06-23T23:25:07.000Z",
+          "link": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4888/live/320d54b0-6f4f-11f1-baa9-855c433fc27a.jpg",
+          "publishedAt": "2026-06-24T00:00:06.000Z",
           "title": {
-            "en": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
-            "zh": "中国电商巨头阿里巴巴起诉美国政府，反对其被列入国防黑名单"
+            "en": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+            "zh": "八人因反ICE骚乱中枪击警官被判450年监禁"
           },
           "summary": {
-            "en": "Chinese e-commerce giant Alibaba is suing the US defence department after it was added to a list of firms with alleged ties to the Chinese military.",
-            "zh": "中国电商巨头阿里巴巴在美国国防部将其列入与中国军方有联系的企业名单后，正在起诉美国国防部。"
+            "en": "Eight individuals have been sentenced to a combined 450 years in prison for their involvement in an anti-ICE riot in Texas, during which an officer was shot in the neck. Prosecutors identified the perpetrators as \"Antifa Cell operatives.\"",
+            "zh": "八名涉嫌在德克萨斯州反移民及海关执法局（ICE）骚乱中枪击一名警官的嫌犯，被判处总计450年监禁。检察官称这些人为“反法西斯行动（Antifa）组织成员”。"
           },
           "body": {
-            "en": "Chinese e-commerce and technology giant Alibaba has launched a high-stakes legal challenge against the US government, suing to get off a Pentagon blacklist that claims it is linked to the Chinese military.\n\nThe US Department of Defense (DoD) has said that because Alibaba complies with Chinese technology regulators, it is effectively an arm of the military.\n\nIn the lawsuit filed in a California federal court Alibaba pushed back, claiming the determinations \"have no basis in fact or law\".\n\nThe challenge comes after the Pentagon recently expanded its blacklist of companies it will not be able to do business with from the end of the month to include massive tech names like Baidu, BYD, and Nio.\n\nThe defence department put Alibaba on the so-called 1260H list, saying the firm was a \"military-civil fusion contributor to the Chinese defence industrial base\" because of its regulatory ties to Beijing.\n\nBut Alibaba countered the argument, saying none of the members of its independent board had any military affiliation.\n\nEvery multinational operating in China - including American firms - must follow the exact same local rules, it noted.\n\nIts platforms, Alibaba said, are built for retail and cloud computing, not weapons or intelligence.\n\n\"Alibaba is not a Chinese military company nor part of any military-civil fusion strategy,\" the company told the BBC.\n\n\"The decision to place Alibaba on the 1260H list is arbitrary and capricious, and we are filing a lawsuit against the Department of War to demand removal from the list,\" it added.\n\nWhile the blacklist does not freeze finances immediately, it triggers a brutal operational penalty on 30 June.\n\nStarting next week, the Pentagon is legally banned from doing business with any blacklisted firm.\n\nCrucially, the law also extends to any US contractor that shares a lobbyist or law firm with a blacklisted entity. In Alibaba's case, the company argues that this restriction creates a functional blockade, forcing its long-term American advisers to sever ties to protect their own lucrative defence contracts.\n\nThe rule effectively strips the company of its political and legal voice in Washington at the exact moment it needs to defend itself.\n\nAccording to the complaint, Alibaba had previously asked to meet with the agency to address the Chinese military affiliation concerns, which included presenting evidence of its US economic contributions.\n\nHowever, the tech giant says that even after its submissions, the agency did not raise any concerns with the firm nor did it request additional information. Rather, it \"designated Alibaba without notice or a fair hearing\", the compliant notes.\n\nThe DoD declined to comment on the matter, telling the BBC, \"We do not comment on ongoing litigation\".",
-            "zh": "中国电子商务和科技巨头阿里巴巴向美国政府发起了高风险的法律挑战，提起诉讼，要求摆脱五角大楼声称其与中国军方有联系的黑名单。 美国国防部（DoD）表示，由于阿里巴巴遵守中国技术监管机构的规定，因此它实际上是军方的一个部门。 在向加州联邦法院提起的诉讼中，阿里巴巴予以反驳，称这些决定“没有事实或法律依据”。 挑战出现之前，五角大楼最近扩大了从本月底起无法与之开展业务的公司黑名单，其中包括百度、比亚迪和蔚来等大型科技公司。 美国国防部将阿里巴巴列入所谓的 1260H 名单，称该公司因其与北京的监管关系而成为“中国国防工业基础的军民融合贡献者”。 但阿里巴巴反驳了这一说法，称其独立董事会成员均没有任何军方背景。 报告指出，每家在中国开展业务的跨国公司——包括美国公司——都必须遵守完全相同的当地规则。 阿里巴巴表示，其平台是为零售和云计算而构建的，而不是武器或情报。 “阿里巴巴不是一家中国军事公司，也不参与任何军民融合战略，”该公司告诉英国广播公司。 “将阿里巴巴列入 1260H 名单的决定是任意且反复无常的，我们正在对战争部提起诉讼，要求将其从名单中删除，”它补充道。 虽然黑名单不会立即冻结财务，但会在 6 月 30 日引发残酷的运营处罚。 从下周开始，五角大楼将被法律禁止与任何列入黑名单的公司开展业务。 至关重要的是，该法律还适用于与黑名单实体共享游说者或律师事务所的任何美国承包商。在阿里巴巴的案例中，该公司辩称，这一限制造成了功能封锁，迫使其长期美国顾问断绝关系，以保护自己利润丰厚的国防合同。 这项规则实际上剥夺了该公司在华盛顿需要捍卫自己的政治和法律发言权。 根据诉状，阿里巴巴此前曾要求与该机构会面，以解决对中国军事关系的担忧，其中包括提供其对美国经济贡献的证据。 然而，这家科技巨头表示，即使在提交意见后，该机构也没有向该公司提出任何担忧，也没有要求提供更多信息。投诉指出，相反，它“在没有通知或公平听证的情况下指定了阿里巴巴”。 美国国防部拒绝就此事发表评论，并告诉 BBC，“我们不会对正在进行的诉讼发表评论”。"
+            "en": "Eight people who US prosecutors say have ties to Antifa have collectively been sentenced to 450 years in prison for their roles in a riot outside an immigration detention centre in Texas.\n\nA former US Marine Corps reservist, who was convicted of attempted murder of a law enforcement officer, was sentenced to 100 years in prison. The others' sentences range between 30 to 70 years, according to the justice department.\n\nLast year President Donald Trump designated Antifa - short for anti-fascist - a \"domestic terrorist organisation\" .\n\nA US judge called their actions on 4 July \"an assault on democracy\", while their families condemned the length of their sentences.\n\n\"The sentences handed down today make clear that Antifa terrorists who attack law enforcement and federal facilities will face swift and uncompromising justice,\" Acting US Attorney General Todd Blanche said in a statement, condemning violent extremism.\n\nThe US Department of Justice (DOJ) said the North Texas Antifa Cell operatives began shooting off and throwing fireworks at the facility in Prairieland, just south of Dallas, on the Independence Day holiday last summer, as well as vandalising vehicles and a guard kiosk on the property.\n\nThe eight were convicted on an array of charges, including rioting, using weapons and explosives, providing material support to terrorists, and obstruction.\n\nBenjamin Hanil Song, the purported leader of the group, was sentenced to 100 years in prison. According to the justice department, he had faced a minimum penalty of 20 years.\n\nSong said in a written statement on Tuesday that he fired his gun because he believed the police officer was preparing to shoot a protester, according to multiple media outlets and an advocacy group for the defendants.\n\nHis mother Hope Song has disputed claims that he shot the officer and said he didn't intend to hurt anyone, according to the Associated Press.\n\nMaricela Rueda was sentenced to 70 years in prison; Cameron Arnold (also known as Autumn Hill), Savanna Batten, Zachary Evetts, Bradford Morris (also known as Meagan Morris) and Elizabeth Soto were each sentenced to 50 years in prison; and Daniel Rolando Sanchez-Estrada was sentenced to 30 years in prison.\n\nA ninth defendant, Ines Soto, will be sentenced on 1 July. Seven others involved in the incident pleaded guilty before the trial to one count of providing material support to terrorists. They will also be sentenced on 1 July.\n\nIn a statement on Tuesday, the DOJ said the North Texas Antifa Cell was part of a network of individuals and small groups ascribing to an ideology that calls for the overthrow of the US government, law enforcement and the system of law.\n\nWhile other immigration facilities have seen numerous protests, as well as visits from Democratic lawmakers, the...",
+            "zh": "美国检察官称与 Antifa 有联系的 8 名人士因参与德克萨斯州移民拘留中心外的骚乱而被总共判处 450 年监禁。 一名前美国海军陆战队预备役军人因谋杀执法人员未遂罪被判处 100 年监禁。据司法部称，其他人的刑期在 30 至 70 年之间。 去年，唐纳德·特朗普总统将Antifa——反法西斯的缩写——指定为“国内恐怖组织”。 一名美国法官称他们 7 月 4 日的行为是“对民主的攻击”，而他们的家人则谴责了他们的刑期。 美国代理司法部长托德·布兰奇在一份声明中谴责暴力极端主义，他表示：“今天作出的判决清楚地表明，袭击执法部门和联邦设施的安提法恐怖分子将面临迅速且毫不妥协的正义审判。” 美国司法部 (DOJ) 表示，去年夏天的独立日假期，北德克萨斯 Antifa 小组特工开始在达拉斯以南 Prairieland 的设施内射击和投掷烟花，并破坏该设施内的车辆和警卫亭。 这八人因一系列罪名被定罪，包括骚乱、使用武器和爆炸物、向恐怖分子提供物质支持以及妨碍司法公正。 该组织的据称领导人本杰明·哈尼尔·宋 (Benjamin Hanil Song) 被判处 100 年监禁。据司法部门称，他面临至少20年监禁的处罚。 据多家媒体和被告辩护组织称，宋在周二的一份书面声明中表示，他开枪是因为他相信警察正准备向一名抗议者开枪。 据美联社报道，他的母亲霍普·宋(Hope Song)对他开枪射杀警察的说法提出了异议，并表示他无意伤害任何人。 马里塞拉·鲁埃达 (Maricela Rueda) 被判处 70 年监禁；卡梅伦·阿诺德（又名奥特姆·希尔）、萨凡娜·巴顿、扎卡里·埃维茨、布拉德福德·莫里斯（又名梅根·莫里斯）和伊丽莎白·索托分别被判处 50 年监禁；丹尼尔·罗兰多·桑切斯·埃斯特拉达 (Daniel Rolando Sanchez-Estrada) 被判处 30 年监禁。 第九名被告 Ines Soto 将于 7 月 1 日被判刑。参与该事件的其他七人在审判前承认了一项向恐怖分子提供物质支持的罪名。他们也将于 7 月 1 日被判刑。 美国司法部在周二的一份声明中表示，北德克萨斯州 Antifa 小组是一个由个人和小团体组成的网络的一部分，其意识形态主张推翻美国政府、执法和法律体系。 虽然其他移民设施发生了许多抗议活动，以及民主党议员的访问，但……"
           },
           "reflection": {
-            "en": "In complex disputes like this, where accusations are made and challenged, the wisdom of hearing all sides becomes crucial. Proverbs 18:17 reminds us that initial claims may seem right until a thorough examination reveals other perspectives. This legal action underscores the importance of due process and careful discernment in reaching a just conclusion.",
-            "zh": "在这种复杂的争议中，当指控被提出并受到挑战时，倾听各方声音的智慧变得至关重要。箴言18:17提醒我们，最初的陈述可能看似有理，直到经过仔细审查才能揭示其他观点。这一法律行动强调了在得出公正结论时，正当程序和审慎判断的重要性。"
+            "en": "The severe sentences handed down after an officer was shot during a riot underscore the grave consequences of resorting to violence. Yahweh's word reminds us that those who live by the sword often face its destructive power, highlighting the tragic futility of such actions. This event serves as a somber reminder of the need for peaceful resolution and...",
+            "zh": "一名警官在骚乱中被枪击后，涉案人员被判处重刑，这突显了诉诸暴力的严重后果。雅伟的话语提醒我们，凡动刀的，必死在刀下，这揭示了此类行动的悲剧性徒劳。这一事件沉痛地提醒我们，需要和平解决问题并尊重人的生命。"
           },
           "verse": {
-            "reference": "Proverbs 18:17",
-            "textEn": "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.",
-            "textZh": "先诉情由的，似乎有理；但邻舍来到，就察出实情。",
-            "themeEn": "Hearing both sides",
-            "themeZh": "兼听则明"
+            "reference": "Matthew 26:52",
+            "textEn": "All who draw the sword will die by the sword.",
+            "textZh": "凡动刀的，必死在刀下。",
+            "themeEn": "Cycle of violence",
+            "themeZh": "动刀者必亡于刀"
           },
-          "aiVerseId": "prov_18_17",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c872j82j2qyo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3d3/live/bbd41bd0-6b4d-11f1-8e1d-bbbb1017d210.jpg",
-          "publishedAt": "2026-06-23T23:16:37.000Z",
-          "title": {
-            "en": "Stanford was their golden ticket - could AI help or hinder that?",
-            "zh": "斯坦福曾是他们的“黄金入场券”——人工智能会助益还是阻碍？"
-          },
-          "summary": {
-            "en": "The BBC interviewed graduates from Stanford University to gather their perspectives on artificial intelligence, exploring whether they believe AI will ultimately benefit or hinder their future careers and opportunities.",
-            "zh": "英国广播公司采访了斯坦福大学的毕业生，了解他们对人工智能的真实看法，探讨人工智能究竟会帮助还是阻碍他们的未来发展和机遇。"
-          },
-          "body": {
-            "en": "American college graduates have made one thing clear to this year's batch of commencement speakers - beware of bringing up artificial intelligence (AI).\n\nSome of the biggest names in tech, including former Google boss Eric Schmidt, have been booed when they mention the technology.\n\nAt Stanford University recently, in the heart of the American tech hub of Silicon Valley, Sundar Pichai - the CEO of Google, a major AI developer - joked about having been told to avoid the topic.\n\nSome students carried signs with them as they left - one sign read \"ICE spies with Google AI\", while others were seen waving Palestinian flags.\n\nStanford occupies a unique position in the American tech ecosystem. It's regarded as a hotbed of innovation and resides in the shadow of some of the most influential Big Tech companies on the planet, including many pioneers in the AI field. Its elite students enter the job market with an undeniable edge.\n\nThe BBC spoke to Stanford graduates shortly after Pichai finished his address and they expressed a wide range of views on AI. Some are scared. Some are excited. But nearly everyone agrees that AI is already changing the world around them, whether they like it or not.\n\nIfdita Hasan is among the hopeful. And she knows a thing or two about the technology - it's her degree subject.\n\n\"I feel optimistic about AI,\" said the graduating computer science and AI major. \"I think AI gives us the opportunity to learn more about the universe. It's a tool that people should try to use and try to adapt to.\"\n\nBut, she added, she's not surprised by the backlash, noting that early pessimism is common with emerging technologies.\n\n\"This is what happens. It happened with the internet,\" she said. \"But I would encourage people to be optimistic about AI - to try to learn and explore more.\"\n\nSome Stanford graduates are less sanguine about AI's arrival. They are, after all, entering the corporate world just as AI is transforming it.\n\nWhat frightens Atash Heil is the uncertainty of what an AI-dominated future might look like - and the speed of the transformation graduates have witnessed during their college years.\n\nHeil said he had just visited an exhibit featuring art made by artificial intelligence - an experience which he described as jarring.\n\n\"I thought it was scary, especially on my graduation day, to see that. The future is… that? I want art to be made by humans. That's what makes it art, right?\" said the major in Earth Systems, which focuses on environmental science and policy.\n\nHeil was one of several graduates who expressed concern about the approach many AI companies have taken towards developing the technology.\n\n\"It has to be done ethically, and it's not being done ethically these days,\" said Heil, as he waited for the ceremony to begin.\n\nAnalysis...",
-            "zh": "美国大学毕业生向今年的毕业典礼演讲者明确了一件事——小心提及人工智能（AI）。 一些科技界的大腕，包括谷歌前老板埃里克·施密特，在提到这项技术时都遭到了嘘声。 最近，在位于美国硅谷科技中心的斯坦福大学，主要人工智能开发商谷歌的首席执行官桑达尔·皮查伊 (Sundar Pichai) 开玩笑说，自己被告知要回避这个话题。 一些学生离开时带着标语——其中一个标语上写着“ICE 使用谷歌人工智能进行间谍活动”，而其他学生则挥舞着巴勒斯坦旗帜。 斯坦福大学在美国科技生态系统中占有独特的地位。它被视为创新的温床，存在于地球上一些最具影响力的大型科技公司的阴影下，其中包括人工智能领域的许多先驱。其精英学生以无可否认的优势进入就业市场。 皮查伊演讲结束后不久，BBC 就采访了斯坦福大学的毕业生，他们表达了对人工智能的广泛看法。有些人很害怕。有些人很兴奋。但几乎每个人都同意人工智能已经在改变他们周围的世界，无论他们喜欢与否。 伊夫迪塔·哈桑 (Ifdita Hasan) 是充满希望的人之一。她对这项技术略知一二——这是她的学位课程。 “我对人工智能感到乐观，”这位计算机科学和人工智能专业的毕业生说。 “我认为人工智能让我们有机会更多地了解宇宙。它是人们应该尝试使用并尝试适应的工具。” 但她补充说，她对这种强烈反对并不感到惊讶，并指出早期的悲观情绪在新兴技术中很常见。 “这就是发生的事情。它发生在互联网上，”她说。 “但我会鼓励人们对人工智能持乐观态度——尝试学习和探索更多。” 一些斯坦福大学的毕业生对人工智能的到来并不那么乐观。毕竟，他们进入企业界的同时，人工智能正在改变企业界。 让 Atash Heil 感到害怕的是人工智能主导的未来可能会是什么样子的不确定性，以及毕业生在大学期间目睹的转型速度。 海尔说，他刚刚参观了一个以人工智能艺术为主题的展览，他形容这种经历令人震惊。 “我觉得这很可怕，尤其是在我毕业那天，看到这一点。未来是……那个？我希望艺术是由人类创造的。这就是它成为艺术的原因，对吧？”地球系统专业的学生说，该专业专注于环境科学和政策。 海尔是对许多人工智能公司开发技术所采取的方法表示担忧的几位毕业生之一。 “这必须符合道德规范，但现在已经不符合道德规范了，”海尔在等待仪式开始时说道。 分析..."
-          },
-          "reflection": {
-            "en": "The rapid advancement of artificial intelligence, as discussed by Stanford graduates, reflects a time when knowledge is indeed increasing at an unprecedented pace. In navigating this evolving landscape, we are reminded that Yahweh remains sovereign over all human innovation, inviting us to seek His wisdom as we adapt to new realities.",
-            "zh": "斯坦福大学毕业生们讨论的人工智能的迅速发展，正反映了知识以前所未有的速度增长的时代。在应对这个不断变化的格局时，我们被提醒雅伟掌管着所有人类的创新，祂邀请我们在适应新现实时寻求祂的智慧。"
-          },
-          "verse": {
-            "reference": "Daniel 12:4",
-            "textEn": "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.",
-            "textZh": "但以理啊，你要隐藏这话，封闭这书，直到末时。必有多人来往奔跑，知识就必增长。",
-            "themeEn": "Knowledge increasing",
-            "themeZh": "知识增长"
-          },
-          "aiVerseId": "dan_12_4",
+          "aiVerseId": "matt_26_52",
           "translationState": "localized"
         },
         {
@@ -423,28 +455,29 @@
           "publishedAt": "2026-06-23T22:15:45.000Z",
           "title": {
             "en": "UN to evacuate sailors from Strait of Hormuz as Trump and Iran clash over deal claims",
-            "zh": "由于特朗普和伊朗就协议主张发生冲突，联合国将从霍尔木兹海峡撤离水手"
+            "zh": "联合国将从霍尔木兹海峡撤离水手，此前特朗普和伊朗就协议主张发生冲突"
           },
           "summary": {
-            "en": "The ongoing negotiations come as a growing number of Americans believe the US is in a weaker position with Iran than before the war started.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "The United Nations is preparing to evacuate sailors from the Strait of Hormuz amidst ongoing diplomatic tensions and negotiations between the US and Iran. This comes as public opinion in the US suggests a perception of a weaker American position regarding Iran compared to before the conflict.",
+            "zh": "联合国正准备从霍尔木兹海峡撤离水手，此前美国和伊朗就协议主张发生冲突并进行谈判。与此同时，越来越多的美国人认为，与战争开始前相比，美国在与伊朗的关系中处于更弱的地位。"
           },
           "body": {
             "en": "United States President Donald Trump has said Iran had agreed to nuclear inspections into \"infinity\", while Iran said it had made no such concession in negotiations, raising questions about the viability of their fragile peace deal.\n\nThe two countries, which held a first round of negotiations in Switzerland that ended on Monday, also offered conflicting accounts about financial incentives for Iran, control of the Strait of Hormuz, and Israel's parallel war in Lebanon &#x2014; all major aspects of the framework deal they signed last week that aims to end the war.\n\nIn a sign of easing tensions, the US relaxed travel restrictions on Iran's World Cup football team , allowing the squad to travel from Tijuana, Mexico, to Seattle two days before its next match instead of one.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nA Reuters/Ipsos poll found 35 per cent of Americans think the US is now in a weaker position with Iran than it was before the war, while 23 per cent believe it is in a stronger position.\n\nThe Republican-controlled Senate, meanwhile, defied Trump and voted to halt the war, in a largely symbolic move that highlighted fissures in his party.\n\nThough prospects for a lasting peace are far from certain, the initial agreement has allowed traffic to flow again through the Strait of Hormuz, which typically handles one-fifth of global oil supply.\n\nOil prices on Tuesday were at their lowest level since before the war started on 28 February, and the United Nations' shipping agency said it was working to evacuate 11,000 seafarers stranded when Iran closed the strategic waterway.\n\nThe agreement calls for Iran to allow traffic to flow freely for 60 days, but Iran has said it might impose tolls or other fees on shipping after that point.\n\nIran and Oman, which controls the other side of the strait, issued a joint statement on Tuesday stressing their \"sovereign rights\" in the waterway and saying they would work together to manage traffic, along with associated costs.\n\nUS secretary of state Marco Rubio, visiting Gulf allies unsettled by the peace deal, said Iran would not be allowed to charge tolls in the strait as part of any final agreement.\n\nThe deal calls for an immediate end to the war, including in Lebanon, lifting US sanctions on Iran and unfreezing Iranian assets held abroad. It also outlines a US$300 billion ($434 billion) investment fund for the Islamic Republic's reconstruction.\n\nThe framework itself imposes no limits on Iran's nuclear program, a subject to be tackled in 60 days of negotiations.\n\nTrump claimed that Iran had agreed to allow international inspectors indefinite access to its damaged nuclear sites.\n\n\"Iran has fully and completely agreed to...",
             "zh": "美国总统唐纳德·特朗普表示，伊朗已同意进行“无限”核检查，而伊朗则表示在谈判中没有做出此类让步，这引发了人们对其脆弱和平协议可行性的质疑。 两国在瑞士举行的第一轮谈判于周一结束，双方还就对伊朗的经济激励、霍尔木兹海峡的控制以及以色列在黎巴嫩的平行战争提出了相互矛盾的说法——这些都是两国上周签署的旨在结束战争的框架协议的所有主要方面。 作为缓解紧张局势的迹象，美国放宽了对伊朗世界杯足球队的旅行限制，允许该队在下一场比赛前两天而不是两天从墨西哥蒂华纳前往西雅图。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 路透社/益普索的一项民意调查发现，35%的美国人认为美国现在在伊朗问题上的地位比战前更弱，而23%的人认为美国在伊朗问题上的地位更强。 与此同时，共和党控制的参议院不顾特朗普的反对，投票决定停止战争，这一在很大程度上具有象征意义的举动凸显了共和党内部的分歧。 尽管持久和平的前景还远未确定，但初步协议已允许交通再次通过霍尔木兹海峡，该海峡通常处理全球石油供应的五分之一。 周二油价跌至 2 月 28 日战争爆发前以来的最低水平，联合国航运机构表示，正在努力疏散因伊朗关闭战略水道而被困的 11,000 名海员。 该协议要求伊朗允许交通自由流通 60 天，但伊朗表示，在此之后可能会对运输征收通行费或其他费用。 控制海峡另一边的伊朗和阿曼周二发表联合声明，强调两国在这条水道上的“主权”，并表示他们将共同努力管理交通，并承担相关费用。 美国国务卿卢比奥在访问对和平协议感到不安的海湾盟友时表示，作为任何最终协议的一部分，伊朗将不被允许在海峡收取通行费。 该协议要求立即结束包括黎巴嫩在内的战争，解除美国对伊朗的制裁，并解冻伊朗在海外的资产。它还概述了用于伊斯兰共和国重建的 3000 亿美元（4340 亿美元）投资基金。 该框架本身并未对伊朗核计划施加任何限制，这一主题将在 60 天的谈判中得到解决。 特朗普声称伊朗已同意允许国际检查人员无限期进入其受损的核设施。 “伊朗已经完全、完全同意......"
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In times of international tension and diplomatic clashes, the pursuit of peace can feel like an uphill battle. Yahweh calls us to strive for peaceful coexistence, even when disagreements are sharp and positions seem entrenched. This requires persistent effort and a commitment to finding common ground, as far as it depends on us.",
+            "zh": "在国际局势紧张和外交冲突时期，追求和平可能感觉像一场艰巨的战斗。雅伟呼召我们努力争取和平共处，即使分歧尖锐、立场看似根深蒂固。这需要持续的努力和致力于寻找共同点，只要这取决于我们。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
           },
-          "translationState": "fallback"
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-oldest-asteroid-impact-australia-pilbara-nor",
@@ -464,7 +497,7 @@
           },
           "body": {
             "en": "In the heart of Western Australia's arid Pilbara region stands a collection of rocks dubbed the North Pole Dome.\n\nThey stick out of the earth like an \"upside-down ice cream cone\": some rocks just a few centimetres in size, others several metres high. They're rust-coloured, like much of this region &#x2014; but researchers say the formation holds evidence of the oldest known asteroid impact on Earth.\n\n\"When we looked at the rock itself, we found older grains, older little crystals inside. Those crystals tell us about when the original rock formed about 3.5 billion years ago,\" said Professor Chris Kirkland.\n\nKirkland led a Curtin University study that examined the age of minerals, including zircon crystals about the size of a grain of sand. He described this work as \"extremely challenging\" and \"painstaking\".\n\n\"You're hunting through microscopic slices of rock to find those crystals that tell you about the various processes that have happened. Then ... you're firing laser beams into them to determine their chemistry and isotopic signatures, which is how you can work out the age.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe study builds upon previous research which analysed the stratigraphy &#x2014; or rock layers &#x2014; of these structures. Kirkland explained in the past, the exact timing of asteroid strikes remained somewhat of a mystery.\n\n\"It's like having a book, you know roughly where you are in the book &#x2014; if you're at the front, back or middle,\" Kirkland said.\n\n\"If you've got a page ripped out you can make a guess where it sits but you don't absolutely know.\n\nHe said the latest findings, which use isotopic dating, \"gives us a page number and then we can fit it back into the book, in its proper place\".\n\nCraig O'Neill is a professor of planetary geophysics at the Queensland University of Technology and acknowledged that research in this field has sparked prior \"debate\" and \"controversy\".\n\n\"I think any area where you have such little evidence ends up quite controversial and dominated by very small observations and a discussion over what they mean. That's fine, that's how we get ahead, but it's worth pointing out,\" O'Neill said.\n\nProfessor Tim Johnson from Curtin University also co-authored the Curtin University studies. He told SBS News in the past, \"we possibly got a little carried away with ourselves\".\n\nJohnson now believes: \"The data is complicated, and there are other explanations but our best estimate for the age of this impact is about three billion years ago, which makes it by far the oldest impact on Earth.\n\n\"The only one in the so-called Archean eon, where we know impacts would have been much more common than they are today.\"\n\nEarlier...",
-            "zh": "在西澳大利亚干旱的皮尔巴拉地区的中心地带，矗立着一组被称为北极穹顶的岩石。 它们像“倒置的蛋卷冰淇淋”一样伸出地面：一些岩石只有几厘米大小，另一些则有几米高。它们是铁锈色的，就像这个地区的大部分地区一样，但研究人员表示，这些地层蕴藏着已知最古老的小行星撞击地球的证据。 “当我们观察岩石本身时，我们发现里面有更古老的颗粒和更古老的小晶体。这些晶体告诉我们大约 35 亿年前原始岩石的形成时间，”克里斯·柯克兰教授说。 柯克兰领导了科廷大学的一项研究，该研究检查了矿物的年龄，其中包括沙粒大小的锆石晶体。他形容这项工作“极具挑战性”且“艰苦”。 “你在岩石的微观切片中寻找那些晶体，这些晶体告诉你已经发生的各种过程。然后......你向它们发射激光束以确定它们的化学和同位素特征，这就是你如何计算年龄的方法。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这项研究建立在之前对这些结构的地层学或岩层进行分析的研究的基础上。柯克兰过去解释说，小行星撞击的确切时间仍然是一个谜。 “这就像有一本书，你大致知道你在书中的位置——如果你在前面、后面或中间，”柯克兰说。 “如果你撕下了一页，你可以猜测它的位置，但你并不绝对知道。 他说，使用同位素测年法的最新发现“为我们提供了页码，然后我们可以将其放回书中的适当位置”。 克雷格·奥尼尔是昆士兰科技大学行星地球物理学教授，他承认该领域的研究引发了先前的“辩论”和“争议”。 “我认为任何证据如此之少的领域最终都会引起很大争议，并且主要是非常小的观察和对其含义的讨论。这很好，这就是我们取得进步的方式，但值得指出，”奥尼尔说。 科廷大学的蒂姆·约翰逊教授也是科廷大学研究的合著者。他过去告诉SBS新闻，“我们可能有点得意忘形”。 约翰逊现在认为：“数据很复杂，而且还有其他解释，但我们对这次撞击年龄的最佳估计是大约三十亿年前，这使其成为迄今为止地球上最古老的撞击。 “这是所谓的太古宙中唯一的一次，我们知道那里的影响会比今天更加普遍。” 早些时候..."
+            "zh": "在西澳大利亚干旱的皮尔巴拉地区的中心地带，矗立着一组被称为北极穹顶的岩石。 它们像“倒置的蛋卷冰淇淋”一样伸出地面：一些岩石只有几厘米大小，另一些则有几米高。它们是铁锈色的，就像这个地区的大部分地区一样，但研究人员表示，这些地层蕴藏着已知最古老的小行星撞击地球的证据。 “当我们观察岩石本身时，我们发现里面有更古老的颗粒和更古老的小晶体。这些晶体告诉我们大约 35 亿年前原始岩石的形成时间，”克里斯·柯克兰教授说。 柯克兰领导了科廷大学的一项研究，该研究检查了矿物的年龄，其中包括沙粒大小的锆石晶体。他形容这项工作“极具挑战性”且“艰苦”。 “你在岩石的微观切片中寻找那些晶体，这些晶体告诉你已经发生的各种过程。然后......你向它们发射激光束以确定它们的化学和同位素特征，这就是你如何计算年龄的方法。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这项研究建立在之前对这些结构的地层学或岩层进行分析的研究的基础上。柯克兰过去解释说，小行星撞击的确切时间仍然是一个谜。 “这就像有一本书，你大致知道你在书中的位置——如果你在前面、后面或中间，”柯克兰说。 “如果你撕下了一页，你可以猜测它的位置，但你并不绝对知道。 他说，使用同位素测年法的最新发现“为我们提供了页码，然后我们可以将其放回书中的适当位置”。 克雷格·奥尼尔是昆士兰科技大学行星地球物理学教授，他承认该领域的研究引发了先前的“争论”和“争议”。 “我认为任何证据如此之少的领域最终都会引起很大争议，并且主要是非常小的观察和对其含义的讨论。这很好，这就是我们取得进步的方式，但值得指出，”奥尼尔说。 科廷大学的蒂姆·约翰逊教授也是科廷大学研究的合著者。他过去告诉SBS新闻，“我们可能有点得意忘形”。 约翰逊现在认为：“数据很复杂，而且还有其他解释，但我们对这次撞击年龄的最佳估计是大约三十亿年前，这使其成为迄今为止地球上最古老的撞击。 “这是所谓的太古宙中唯一的一次，我们知道那里的影响会比今天更加普遍。” 早些时候..."
           },
           "reflection": {
             "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
@@ -478,40 +511,6 @@
             "themeZh": "心思的操练"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-videos-c30y6qe2qqno-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a32a/live/0376e570-6f4b-11f1-8e1d-bbbb1017d210.jpg",
-          "publishedAt": "2026-06-23T21:46:34.000Z",
-          "title": {
-            "en": "Temperatures hit record levels in western Europe",
-            "zh": "西欧气温创历史新高"
-          },
-          "summary": {
-            "en": "Western Europe, particularly France, Spain, and Italy, is experiencing record-breaking temperatures as a severe heatwave continues to affect the region.",
-            "zh": "西欧，特别是法国、西班牙和意大利，正经历创纪录的高温，一场严重的持续热浪影响着该地区。"
-          },
-          "body": {
-            "en": "Forty people have drowned in heatwave-related deaths in France since 18 June officials have said, as temperatures hit record levels in several major cities and the heatwave reached a peak in several European countries.\n\nMeasures have been put in place across western Europe in order to help people manage the heat.\n\nThe BBC's Pierre-Antoine Denis reports from Nice where a very high heat alert is in place, with temperatures peaking between 30C and 35C (86F and 95F).",
-            "zh": "官员称，自 6 月 18 日以来，法国已有 40 人因与热浪相关的死亡而溺水身亡，几个主要城市的气温达到创纪录水平，几个欧洲国家的热浪达到了顶峰。 西欧各地已采取措施帮助人们应对高温。 BBC 的皮埃尔-安托万·丹尼斯 (Pierre-Antoine Denis) 在尼斯报道，那里已经发布了非常高的高温警报，最高气温在 30 摄氏度到 35 摄氏度（86 华氏度到 95 华氏度）之间。"
-          },
-          "reflection": {
-            "en": "The record-breaking heatwave in Western Europe reminds us of the profound interconnectedness between humanity and the natural world. Yahweh's creation, groaning under strain, calls us to consider our role in its care and restoration. Even amidst environmental challenges, we hold onto the hope that Yahweh's ultimate plan includes the renewal of all things.",
-            "zh": "西欧创纪录的热浪提醒我们人类与自然世界之间深刻的相互关联。雅伟的受造物在重压之下呻吟，呼唤我们思考自己在其护理和恢复中的角色。即使在环境挑战中，我们也怀抱希望，相信雅伟的最终计划包括万物的更新。"
-          },
-          "verse": {
-            "reference": "Romans 8:22",
-            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
-            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
-            "themeEn": "Creation's groan",
-            "themeZh": "受造叹息"
-          },
-          "aiVerseId": "rom_8_22",
-          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-what-happened-to-regime-change-in-iran-jeqcx",
@@ -564,7 +563,7 @@
           },
           "body": {
             "en": "The UN says the DR Congo has reported 1,000 Ebola cases, the most ever in the first month of any Ebola outbreak in Africa. Meanwhile, Kenya's health minister says he is halting a US-backed Ebola quarantine center.\n\nA senior World Health Organization (WHO) official told a briefing in Geneva on Tuesday that the Ebola outbreak in the Democratic Republic of Congo (DRC) had&#160;the highest number of confirmed cases in its first month of any Ebola outbreak in Africa.&#160;\n\nOfficials have confirmed as of Monday more than 1,000 cases and 267 deaths from the current outbreak of the comparatively rare Bundibugyo ebolavirus.&#160;\n\n\"This is the largest number of confirmed cases in the first month of an Ebola disease outbreak in Africa,\" said the WHO's director of&#160;health emergency alert and response operations, Abdirahman Mahamud, in a press release .&#160;\n\nThe WHO formally confirmed the outbreak on May 15 , but experts believe it had been likely circulating for weeks or months prior to that.&#160;\n\n\"The response needs to expand to keep pace with the expanding outbreak — this is beginning to happen,\" the WHO's Mahamud said after returning from a visit last week to the Bunia treatment center in the outbreak's epicenter.&#160;\n\nCases have now also been confirmed in at least three of war torn eastern Congo's crowded displacement camps.&#160;\n\nThe International Organization for Migration's Abdoulaye Wone said at the same Geneva briefing on Tuesday that 25 cases had been confirmed at the camps, including 14 deaths.&#160;\n\nThere have been more than 20 Ebola outbreaks across Africa since the 1970s, according to the US Centers for Disease Control and Prevention.&#160;\n\nThe most deadly pair were in West Africa, in Guinea, Sierra Leone and Liberia, killing 11,000 people between 2014 and 2016 and another in Congo starting in 2018 with 2,229 recorded deaths.&#160;\n\nMeanwhile, Kenya's Health Minister Aden Duale assured a Kenyan court on Tuesday that he had ordered an immediate halt to the construction of a US-backed Ebola quarantine facility at an air base.&#160;\n\nDuale had been found in contempt of court on Monday for failing to observe previous orders to suspend the construction pending an evaluation by the judiciary .&#160;\n\nThe tented facility in the central town of Nanyuki was supposed to serve as a treatment center for US nationals should any contract Ebola amid the outbreak in the DR Congo.&#160;\n\nThe plans to build it, first announced in May, had led to sometimes violent protests , with a total of three people being killed in the vicinity.&#160;\n\nJustice Patricia Nyaundi Mande discharged Duale with no further punishment after receiving the assurance from the minister, but warned him&#160;against further disobedience.&#160;\n\n\"I have directed the immediate and...",
-            "zh": "联合国表示，刚果民主共和国报告了 1,000 例埃博拉病例，这是非洲埃博拉疫情爆发第一个月以来最多的病例。与此同时，肯尼亚卫生部长表示，他正在叫停美国支持的埃博拉检疫中心。 世界卫生组织 (WHO) 一名高级官员周二在日内瓦举行的新闻发布会上表示，刚果民主共和国 (DRC) 爆发的埃博拉疫情是非洲埃博拉疫情爆发第一个月以来确诊病例数最多的国家。 截至周一，官方已确认当前爆发的相对罕见的本迪布焦埃博拉病毒导致 1,000 多例病例和 267 人死亡。 世界卫生组织卫生紧急警报和响应行动主任阿卜迪拉赫曼·马哈茂德在一份新闻稿中表示：“这是非洲埃博拉疫情爆发第一个月确诊病例数量最多的一次。” 世界卫生组织于 5 月 15 日正式确认疫情爆发，但专家认为疫情可能在此之前已经传播了数周或数月。 世界卫生组织的马哈茂德上周访问了疫情中心的布尼亚治疗中心返回后表示：“应对措施需要扩大，以跟上疫情不断扩大的步伐——这种情况已经开始发生。” 目前，刚果东部至少三个饱受战争蹂躏的拥挤流离失所者营地也已确诊病例。 国际移民组织的阿卜杜拉耶·沃恩 (Abdoulaye Wone) 周二在日内瓦同一场新闻发布会上表示，难民营已确诊 25 例病例，其中 14 人死亡。 据美国疾病控制与预防中心称，自 20 世纪 70 年代以来，非洲各地已爆发 20 多起埃博拉疫情。 最致命的两起事件发生在西非的几内亚、塞拉利昂和利比里亚，2014 年至 2016 年间造成 11,000 人死亡，另一起事件发生在刚果，从 2018 年开始，有 2,229 人死亡。 与此同时，肯尼亚卫生部长亚丁·杜阿勒周二向肯尼亚法院保证，他已下令立即停止在空军基地建造美国支持的埃博拉检疫设施。 周一，杜阿勒因未能遵守先前暂停施工的命令，等待司法部门评估而被判藐视法庭。 位于纳纽基市中心的帐篷设施原本应该作为美国国民在刚果民主共和国疫情期间感染埃博拉病毒的治疗中心。 该项目于五月首次宣布，有时会引发暴力抗议，附近共有三人被杀。 在收到部长的保证后，法官帕特里夏·尼亚温迪·曼德（Patricia Nyaundi Mande）释放了杜阿莱，没有进一步的处罚，但警告他不要进一步不服从。 “我已立即指示并......"
+            "zh": "联合国表示，刚果民主共和国报告了 1,000 例埃博拉病例，这是非洲埃博拉疫情爆发第一个月以来最多的病例。与此同时，肯尼亚卫生部长表示，他正在叫停美国支持的埃博拉检疫中心。 世界卫生组织 (WHO) 一名高级官员周二在日内瓦举行的新闻发布会上表示，刚果民主共和国 (DRC) 爆发的埃博拉疫情是非洲埃博拉疫情爆发第一个月以来确诊病例数最多的国家。 截至周一，官方已确认当前爆发的相对罕见的本迪布焦埃博拉病毒导致 1,000 多例病例和 267 人死亡。 世界卫生组织卫生紧急警报和响应行动主任阿卜迪拉赫曼·马哈茂德在一份新闻稿中表示：“这是非洲埃博拉疫情爆发第一个月确诊病例数量最多的一次。” 世界卫生组织于 5 月 15 日正式确认疫情爆发，但专家认为疫情可能在此之前已经传播了数周或数月。 世界卫生组织的马哈茂德上周访问了疫情中心的布尼亚治疗中心后表示：“应对措施需要扩大，以跟上疫情不断扩大的步伐——这种情况已经开始发生。” 目前，刚果东部至少三个饱受战争蹂躏的拥挤流离失所者营地也已确诊病例。 国际移民组织的阿卜杜拉耶·沃恩 (Abdoulaye Wone) 周二在日内瓦同一场新闻发布会上表示，难民营已确诊 25 例病例，其中 14 人死亡。 据美国疾病控制与预防中心称，自 20 世纪 70 年代以来，非洲各地已爆发 20 多起埃博拉疫情。 最致命的两起事件发生在西非的几内亚、塞拉利昂和利比里亚，2014 年至 2016 年间造成 11,000 人死亡，另一起事件发生在刚果，从 2018 年开始，有 2,229 人死亡。 与此同时，肯尼亚卫生部长亚丁·杜阿勒周二向肯尼亚法院保证，他已下令立即停止在空军基地建造美国支持的埃博拉检疫设施。 周一，杜阿勒因未能遵守先前暂停施工的命令，等待司法部门评估而被判藐视法庭。 位于纳纽基市中心的帐篷设施原本应该作为美国国民在刚果民主共和国疫情期间感染埃博拉病毒的治疗中心。 该项目于五月首次宣布，有时会引发暴力抗议，附近共有三人被杀。 在收到部长的保证后，法官帕特里夏·尼亚温迪·曼德（Patricia Nyaundi Mande）释放了杜阿莱，没有进一步的处罚，但警告他不要进一步不服从。 “我已立即指示并......"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -663,7 +662,7 @@
           },
           "body": {
             "en": "Peter Murrell pleaded guilty to embezzling funds in his role as chief executive of the Scottish National Party. He held the SNP's purse strings while his then-wife, Nicola Sturgeon, was Scottish First Minister.\n\nFormer Scottish National Party (SNP) chief executive Peter Murrell was jailed for just over five years on Tuesday after admitting to embezzling just over 400,000 pounds (roughly €465,000 or $530,000 at current exchange rates) of party funds to buy items including a motorhome, cars and luxury household goods.&#160;\n\nMurrell, 61,&#160;is the now-estranged husband of former SNP leader Nicola Sturgeon, who suddenly resigned as Scotland 's First Minister in 2023, a few months before she was arrested as part of the probe into the party's finances.&#160;She was cleared of wrongdoing in March last year.&#160;\n\nThe couple's dual role within the SNP, with Sturgeon as its most senior politician for almost a decade&#160;and Murrell in charge of party administration,&#160;had prompted questions of propriety even before the crimes became public knowledge.\n\nMurrell pleaded guilty at the Edinburgh High Court last month to embezzling SNP funds beween 2010 and 2023, using the money to buy a Volkswagen and later a Jaguar, as well as items from luxury brands like Estee Lauder and Harrods and LeCreuset.&#160;\n\nJudge Andrew Young sentenced him to five years and three months in prison on Tuesday.&#160;\n\n\"Your actions involved a significant breach of trust to the organization which you led, and to the individual members and donors,\" Young told Murrell in court.&#160;\n\n\"This was a calculated crime of dishonesty. Let me make it clear to you, one factor in the sentence which I impose today will be to act as a deterrent to any senior officials in other large organizations who might be tempted to abuse their position in the way you did,\" the judge said.&#160;\n\nAuthorities will now seek to recoup the embezzled money through proceeds of crime legal action.&#160;\n\n\"In truth, it is very difficult to get a clear picture for what drove your actions,’\" Young said. \"Many of the high value items acquired by you were not even used.\"\n\nThe case prompted embarrassing questions for the pro-independence party, which has dominated Scottish politics for ​nearly two decades. However, thanks in large part to the struggles of UK Prime Minister Keir Starmer and Labour , the SNP was able to rallly and remain the strongest party&#160;in elections to the Scottish parliament last month .\n\nWhile Sturgeon was cleared of any wrongdoing by police and prosecutors last year, questions have persisted over her claim that she had \"no knowledge or suspicion whatsoever that he was using SNP funds for personal purposes.\"&#160;\n\nSmall but lower-value items connected to the case —&#160;like a pendant she...",
-            "zh": "彼得·穆雷尔承认在担任苏格兰民族党首席执行官期间挪用资金。他掌握着苏格兰民族党的财政权，而他当时的妻子尼古拉·斯特金 (Nicola Sturgeon) 则担任苏格兰首席大臣。 苏格兰民族党 (SNP) 前首席执行官彼得·穆雷尔 (Peter Murrell) 周二被判入狱五年多，他承认挪用了超过 40 万英镑（按当前汇率计算，约合 465,000 欧元或 530,000 美元）的党资金，用于购买房车、汽车和豪华家居用品等物品。 61 岁的默雷尔是前苏格兰民族党党魁尼古拉·斯特金 (Nicola Sturgeon) 现已分居的丈夫，斯特金于 2023 年突然辞去苏格兰首席部长职务，几个月后她因苏格兰民族党财务调查而被捕。 去年三月，她被洗清了无不当行为的罪名。 这对夫妇在苏格兰民族党中担任双重角色，斯特金是近十年来苏格兰民族党最资深的政治家，而穆雷尔则负责党的管理，甚至在这些罪行为公众所知之前就引发了适当性的问题。 穆雷尔上个月在爱丁堡高等法院承认在 2010 年至 2023 年间挪用苏格兰民族党资金，用这笔钱购买了一辆大众汽车，后来又购买了一辆捷豹汽车，以及雅诗兰黛、Harrods 和 LeCreuset 等奢侈品牌的商品。 周二，法官安德鲁·杨判处他五年零三个月监禁。 “你的行为严重违反了对你所领导的组织、个人成员和捐助者的信任，”杨在法庭上告诉穆雷尔。 “这是一起精心策划的不诚实罪。让我向你澄清，我今天判处的判决的一个因素是对其他大型组织的任何高级官员起到威慑作用，他们可能会像你一样滥用职权，”法官说。 当局现在将寻求通过犯罪所得法律诉讼追回被盗用的资金。 “事实上，很难清楚地了解是什么驱动了你的行为，”杨说。 “你得到的很多高价值物品根本就没有使用过。” 此案给支持独立的政党带来了尴尬的问题，该党主导苏格兰政坛近二十年。然而，在很大程度上要归功于英国首相凯尔·斯塔默和工党的努力，苏格兰民族党得以在上个月的苏格兰议会选举中重整旗鼓，并继续保持最强政党的地位。 尽管斯特金去年被警方和检察官洗清没有任何不当行为，但她声称“不知道也不怀疑他将苏格兰民族党的资金用于个人目的”的说法仍然存在疑问。 与箱子相连的小但价值较低的物品——比如她的吊坠……"
+            "zh": "彼得·穆雷尔承认在担任苏格兰民族党首席执行官期间挪用资金。他掌握着苏格兰民族党的财政权，而他当时的妻子尼古拉·斯特金 (Nicola Sturgeon) 则担任苏格兰首席部长。 苏格兰民族党 (SNP) 前首席执行官彼得·穆雷尔 (Peter Murrell) 周二被判入狱五年多，他承认挪用了超过 40 万英镑（按当前汇率计算，约合 465,000 欧元或 530,000 美元）的党资金，用于购买房车、汽车和豪华家居用品等物品。 61 岁的默雷尔是前苏格兰民族党党魁尼古拉·斯特金 (Nicola Sturgeon) 现已分居的丈夫，斯特金于 2023 年突然辞去苏格兰首席部长职务，几个月后她因苏格兰民族党财务调查而被捕。 去年三月，她被洗清了无不当行为的罪名。 这对夫妇在苏格兰民族党中担任双重角色，斯特金是近十年来苏格兰民族党最资深的政治家，而穆雷尔则负责党的管理，甚至在这些罪行为公众所知之前就引发了适当性的问题。 穆雷尔上个月在爱丁堡高等法院承认在 2010 年至 2023 年间挪用苏格兰民族党资金，用这笔钱购买了一辆大众汽车，后来又购买了一辆捷豹汽车，以及雅诗兰黛、Harrods 和 LeCreuset 等奢侈品牌的商品。 周二，法官安德鲁·杨判处他五年零三个月监禁。 “你的行为严重违反了对你所领导的组织、个人成员和捐助者的信任，”杨在法庭上告诉穆雷尔。 “这是一起精心策划的不诚实罪。让我向你澄清，我今天判处的判决的一个因素是对其他大型组织的任何高级官员起到威慑作用，他们可能会像你一样滥用职权，”法官说。 当局现在将寻求通过犯罪所得法律诉讼追回被盗用的资金。 “事实上，很难清楚地了解是什么驱动了你的行为，”杨说。 “你得到的很多高价值物品根本就没有使用过。” 此案给支持独立的政党带来了尴尬的问题，该党主导苏格兰政坛近二十年。然而，在很大程度上要归功于英国首相凯尔·斯塔默和工党的努力，苏格兰民族党得以在上个月的苏格兰议会选举中重整旗鼓，并继续保持最强政党的地位。 尽管斯特金去年被警方和检察官洗清没有任何不当行为，但她声称“不知道也不怀疑他将苏格兰民族党的资金用于个人目的”的说法仍然存在疑问。 与箱子相连的小但价值较低的物品——比如她的吊坠……"
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -814,7 +813,7 @@
           },
           "body": {
             "en": "Before being imprisoned for 20 years, Jimmy Lai founded Hong Kong's largest pro-democracy newspaper. His son said the award shows that those who fight for the freedom of others \"are never alone.\"\n\nArriving in Hong Kong as a penniless 12-year-old stowaway from southern China, Jimmy Lai sought only freedom and a future. At the time, Lai could never have imagined how his life would become forever intertwined with this former British colony.\n\n\"I'll sink with the ship, because this place gives me everything,\" said Lai in an interview about Hong Kong with DW a few months before he was taken into custody in December 2020. He was one of the first high-profile figures to be targeted under a&#160;\"national security law\" imposed on Hong Kong by Beijing following a crackdown on pro-democracy protests.\n\nBeijing had said the law would restore Hong Kong \"from chaos to order\" after demonstrations in 2019 opposing an extradition bill morphed into massive protests against Beijing encroaching on Hong Kong's civil liberties .\n\nSince then, the pro-democracy media mogul has spent more than 2,000 days in solitary confinement in Hong Kong's maximum-security Stanley Prison.\n\nLai's years-long trial ended this February, when&#160;the 78-year-old was sentenced to 20 years in prison for \"colluding with foreign forces.\" While he had pleaded not guilty to all charges, his legal team said he will not appeal.\n\nThe sentence is the heaviest punishment handed down so far under the national security law, and Lai's trial has symbolized for many people the severe erosion of press freedom in Hong Kong as part of Beijing's broader strategy to silence critical voices.\n\nIn recognition of his defense of press freedom and freedom of speech, DW honored Jimmy Lai with this year's Freedom of Speech Award &#160;at the annual Global Media Forum in Bonn, Germany, on Tuesday.\n\n\"While we have spoken freely in the defence of independent media, Jimmy, who founded an independent media company because he believed in the rights of the Hong Kong people to receive information, is locked away for those beliefs,\" Jodie Ginsberg, CEO of the Committee to Protect Journalists, said in a speech honoring Lai.\n\n\"The attacks on Apple Daily and its counterparts in Hong Kong presaged the far greater attacks on civil liberties in the years that followed. Jimmy Lai saw this and spoke out. We can honor him today not only by fighting for his freedom, but by defending the freedoms for which he was jailed.\"\n\nSince 2015, the DW Freedom of Speech Award has honored journalists and human rights defenders as a way to call attention to restrictions on press freedom and concerning human rights situations around the world.\n\nSebastien Lai, Jimmy Lai's son and a longtime advocate for his release, told DW in April that \"people who fight...",
-            "zh": "在入狱20年之前，黎智英创办了香港最大的民主报纸。他的儿子表示，该奖项表明那些为他人自由而奋斗的人“永远不会孤单”。 黎智英 (Jimmy Lai) 12 岁，身无分文，从中国南方偷渡到香港，他只寻求自由和未来。当时，黎智英无法想象他的生活将如何与这个前英国殖民地永远交织在一起。 黎智英在 2020 年 12 月被拘留前几个月接受德国之声采访时表示，“我将与船一起沉没，因为这个地方给了我一切。”黎智英是北京在镇压亲民主抗议活动后对香港实施的“国家安全法”中首批成为目标的知名人士之一。 在2019年反对引渡法案的示威演变成针对北京侵犯香港公民自由的大规模抗议活动后，北京曾表示，该法律将使香港“从混乱中恢复秩序”。 此后，这位亲民主媒体大亨在香港戒备森严的赤柱监狱中被单独监禁了 2000 多天。 黎智英长达数年的审判于今年 2 月结束，78 岁的他因“勾结外国势力”被判处 20 年徒刑。虽然他对所有指控均表示不认罪，但他的法律团队表示他不会上诉。 这一判决是迄今为止根据国家安全法作出的最重处罚，对许多人来说，黎智英的审判象征着香港新闻自由的严重侵蚀，而这是北京压制批评声音的更广泛战略的一部分。 为了表彰黎智英对新闻自由和言论自由的捍卫，周二在德国波恩举行的年度全球媒体论坛上，德国之声授予黎智英今年的言论自由奖。 保护记者委员会首席执行官朱迪·金斯伯格(Jodie Ginsberg)在向黎智英致敬的演讲中表示：“虽然我们畅所欲言地捍卫独立媒体，但吉米因为相信香港人民有权接收信息而创立了一家独立媒体公司，但他却因为这些信念而被关起来。” “对《苹果日报》及其香港同行的攻击预示着随后几年对公民自由的更大攻击。黎智英看到了这一点并大声疾呼。今天我们不仅可以通过为他的自由而奋斗，而且可以通过捍卫他被监禁的自由来向他致敬。” 自 2015 年以来，德国之声言论自由奖一直向记者和人权捍卫者授予荣誉，以此呼吁人们关注世界各地对新闻自由的限制和人权状况。 黎智英的儿子塞巴斯蒂安·赖（Sebastien Lai）是黎智英获释的长期倡导者，他在四月向德国之声表示，“那些反抗的人......"
+            "zh": "在入狱20年之前，黎智英创办了香港最大的民主报纸。他的儿子表示，该奖项表明那些为他人自由而奋斗的人“永远不会孤单”。 黎智英 (Jimmy Lai) 12 岁，身无分文，从中国南方偷渡到香港，他只寻求自由和未来。当时，黎智英无法想象他的生活将如何与这个前英国殖民地永远交织在一起。 黎智英在 2020 年 12 月被拘留前几个月接受德国之声采访时表示，“我将与船一起沉没，因为这个地方给了我一切。”黎智英是北京在镇压亲民主抗议活动后对香港实施的“国家安全法”中首批成为目标的知名人士之一。 在2019年反对引渡法案的示威演变成针对北京侵犯香港公民自由的大规模抗议活动后，北京曾表示，该法律将使香港“从混乱中恢复秩序”。 此后，这位亲民主媒体大亨在香港戒备森严的赤柱监狱中被单独监禁了 2000 多天。 黎智英长达数年的审判于今年 2 月结束，78 岁的他因“勾结外国势力”被判处 20 年徒刑。虽然他对所有指控均表示不认罪，但他的法律团队表示他不会上诉。 这一判决是迄今为止根据国家安全法作出的最重处罚，对许多人来说，黎智英的审判象征着香港新闻自由的严重侵蚀，而这是北京压制批评声音的更广泛战略的一部分。 为了表彰黎智英对新闻自由和言论自由的捍卫，周二在德国波恩举行的年度全球媒体论坛上，德国之声授予黎智英今年的言论自由奖。 保护记者委员会首席执行官朱迪·金斯伯格(Jodie Ginsberg)在向黎智英致敬的演讲中表示：“虽然我们畅所欲言地捍卫独立媒体，但吉米因为相信香港人民有权接收信息而创立了一家独立媒体公司，但他却因为这些信念而被关起来。” “对《苹果日报》及其香港同行的攻击预示着随后几年对公民自由的更大攻击。黎智英看到了这一点并大声疾呼。今天我们不仅可以通过为他的自由而奋斗，而且可以通过捍卫他被监禁的自由来向他致敬。” 自 2015 年以来，德国之声言论自由奖一直向记者和人权捍卫者授予荣誉，以此呼吁人们关注世界各地对新闻自由的限制和人权状况。 黎智英的儿子塞巴斯蒂安·赖（Sebastien Lai）是黎智英释放的长期倡导者，他在四月份告诉德国之声，“那些反抗的人......"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -1089,11 +1088,11 @@
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/4129e121fe2484c1ec147f316eb41650c8012155/163_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d98948f0d283d252ebc1069f885776f0",
-          "publishedAt": "2026-06-24T01:50:40.000Z",
+          "image": "https://i.guim.co.uk/img/media/bbd75b44a94e78b95693a9d561e438f85b457d1d/61_184_2443_1955/master/2443.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8a6c917afaf1d7d65cf7cc7e7af17233",
+          "publishedAt": "2026-06-24T06:27:34.000Z",
           "title": {
-            "en": "Australia politics live: government to review ‘ethical soundness’ of KPMG; inflation slows to 4%, below forecasts",
-            "zh": "澳大利亚政治直播：政府将审查毕马威的“道德健全性”；通胀放缓至4%，低于预期"
+            "en": "Australia politics live: Paul Hogan an ‘essential feature of Australian monoculture’, Hanson says",
+            "zh": "澳大利亚政治现场：汉森说保罗·霍根是“澳大利亚单一文化的基本特征”"
           },
           "summary": {
             "en": "Follow today’s news live Get our breaking news email, free app or daily news podcast Ruston pushes for overhaul to controversial aged care tool Over to her portfolio, the shadow health and aged care minister, Anne Ruston, will introduce a private member’s bill to change the...",
@@ -1117,24 +1116,24 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-jun-24-airbus-a380-wing-cracks-p",
+          "id": "www-theguardian-com-environment-2026-jun-24-bird-flu-case-confirmed-sout",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/24/airbus-a380-wing-cracks-planes-grounded-qantas-emirates",
-          "image": "https://i.guim.co.uk/img/media/03589855cdb7f29be367ed865954bbb74c6aaf24/141_0_1840_1472/master/1840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=44963c794069a9f9c9832e8b3e791978",
-          "publishedAt": "2026-06-23T23:01:26.000Z",
+          "link": "https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected",
+          "image": "https://i.guim.co.uk/img/media/b5223225ea5b99ba6891a0ef6a1133460888a2fc/0_664_3024_2419/master/3024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ff987471dfa37ad27f6537bea568460",
+          "publishedAt": "2026-06-24T06:19:24.000Z",
           "title": {
-            "en": "Multiple Airbus A380 planes to be grounded for urgent inspections after cracks found in wings",
-            "zh": "多架空客A380飞机机翼出现裂纹，将停飞接受紧急检查"
+            "en": "Bird flu confirmed in second Australian state as infected petrel brings deadly H5N1 cases to three",
+            "zh": "澳大利亚第二个州确诊禽流感，海燕感染导致致命 H5N1 病例增至三例"
           },
           "summary": {
-            "en": "Airbus to inspect 15 Emirates and one Qantas plane after cracks found in structural wing beam of some jets Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Airbus will inspect 16 A380 planes, five of them...",
+            "en": "An additional case is suspected in WA, which would bring the total number of bird flu infections to four Deadly H5 bird flu has been confirmed in two Australian states after a migratory seabird tested positive for the disease in South Australia. Western Australia also has...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Airbus to inspect 15 Emirates and one Qantas plane after cracks found in structural wing beam of some jets Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Airbus will inspect 16 A380 planes, five of them immediately, after cracks were found in a key wing component on aircraft used by the Emirates and Qantas airlines. The European Union Aviation Safety Agency (EASA) has ordered urgent inspections requiring airlines to examine the wing-spar structure on the affected jets after inspectors found cracks during routine maintenance checks. Continue reading...",
-            "zh": "部分喷气式飞机的结构翼梁发现裂纹后，空客将检查 15 架阿联酋航空和一架澳洲航空飞机 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 在阿联酋航空和澳洲航空使用的飞机的关键机翼部件发现裂纹后，空客将检查 16 架 A380 飞机，其中立即检查其中五架。在检查人员在例行维护检查中发现裂缝后，欧盟航空安全局（EASA）已下令进行紧急检查，要求航空公司检查受影响飞机的翼梁结构。继续阅读..."
+            "en": "Deadly H5 bird flu has been confirmed in two Australian states after a migratory seabird tested positive for the disease in South Australia.\n\nWestern Australia also has another suspected positive case, in a southern giant petrel, found in the Quindalup region in the state’s south west.\n\nThe South Australian premier, Peter Malinauskas, said a giant petrel had been found unwell on Knights Beach in Port Elliot on 14 June.\n\nSpeaking with federal agriculture minister Julie Collins in Canberra, the premier said authorities were alerted on 19 June to social media posts indicating the bird was in care with Wildlife Welfare Organisation SA.\n\nHe said authorities “responded quickly” and the animal was tested for H5 bird flu, with a positive result confirmed by the CSIRO on Wednesday.\n\nMalinauskas said the government was in contact with volunteers who had come into contact with unwell birds and would prescribe the antiviral Tamiflu if necessary.\n\n“It’s very, very important now that we have received a positive result from South Australia, that people are very aware that they can report any signs of bird life that is unwell or dead,” he said.\n\n“They can do that through our hotline, which is again something I encourage people to call if in doubt.”\n\nThe WA agriculture minister, Jackie Jarvis, also confirmed a suspected case in that state in a press conference on Wednesday afternoon.\n\nThe state has been investigating reports from the public of dead and unwell birds after two migratory birds near Esperance tested positive last week for the deadly strain that has devastated wildlife populations globally.\n\nJarvis said test samples from the third case, a southern giant petrel also from the subantarctic region, had been sent to the CSIRO for confirmation.",
+            "zh": "南澳大利亚一只候鸟海鸟检测结果呈阳性后，澳大利亚两个州确诊了致命的 H5 禽流感。 西澳大利亚州还发现了另一例疑似阳性病例，患者是在该州西南部的昆达卢普地区发现的一只南部巨海燕。 南澳大利亚州州长彼得·马利纳斯卡斯 (Peter Malinauskas) 表示，6 月 14 日，在埃利奥特港的骑士海滩发现一只巨型海燕不适。 总理在堪培拉与联邦农业部长 Julie Collins 交谈时表示，当局于 6 月 19 日收到警报，称社交媒体帖子显示这只鸟由南澳野生动物福利组织 (Wildlife Welfare Organization SA) 照顾。 他说，当局“反应迅速”，并对这只动物进行了 H5 禽流感检测，联邦科学与工业研究组织 (CSIRO) 周三确认了阳性结果。 马利瑙斯卡斯表示，政府正在与接触过不适鸟类的志愿者保持联系，如有必要，将开出抗病毒药物达菲。 他说：“现在我们从南澳大利亚收到了积极的结果，这非常非常重要，人们非常清楚他们可以报告任何不适或死亡的鸟类生命迹象。” “他们可以通过我们的热线来做到这一点，我再次鼓励人们在有疑问时致电该热线。” 西澳州农业部长杰基·贾维斯也在周三下午的新闻发布会上证实了该州的一例疑似病例。 上周，埃斯佩兰斯附近的两只候鸟检测结果呈阳性，该州一直在调查公众有关鸟类死亡和不适的报告，这种致命病毒已导致全球野生动物种群遭受重创。 贾维斯说，第三个病例是一只同样来自亚南极地区的南方巨海燕，其测试样本已被送往联邦科学与工业研究组织 (CSIRO) 进行确认。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1146,6 +1145,204 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-24-one-nation-pauline-hanson",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/24/one-nation-pauline-hanson-fuel-rebates-stance-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/071d23e198f4a4b5cee28ab6dba130991a7077eb/2519_0_4384_3508/master/4384.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=220c5663a72a123c79bd79ea7e612431",
+          "publishedAt": "2026-06-24T06:14:25.000Z",
+          "title": {
+            "en": "One Nation angers miners after rookie MP sides with Greens on fuel rebates",
+            "zh": "新议员在燃料回扣问题上支持绿党后，一国党激怒了矿工"
+          },
+          "summary": {
+            "en": "Opponents seize on Farrer MP David Farley’s decision to vote alongside teals and Greens to wind back fuel tax credits for miners, farmers and others Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast One Nation is...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Opponents seize on Farrer MP David Farley’s decision to vote alongside teals and Greens to wind back fuel tax credits for miners, farmers and others Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast One Nation is under pressure to clarify its position on fuel tax credits after its rookie MP voted to wind back the rebates, a position opposed by mining and farming groups. The Farrer MP, David Farley , sided with the Greens and teal independents in a lower-house vote to cap the scheme, which refunds miners, farmers and other industries that use heavy machinery the 52.6c a litre excise applied to petrol and diesel. Continue reading...",
+            "zh": "反对者利用法雷尔议员戴维·法利 (David Farley) 决定与青色党和绿党一起投票，取消对矿工、农民和其他人的燃油税抵免。 关注我们的澳大利亚新闻直播博客，了解最新动态。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。 在新任议员投票取消燃油税抵免后，一国党面临着澄清其在燃油税抵免问题上的立场的压力，这一立场遭到了采矿和农业团体的反对。法雷尔议员戴维·法利 (David Farley) 在下议院投票中站在了绿党和蓝绿色独立人士一边，限制了该计划，该计划向矿工、农民和其他使用重型机械的行业退还每升 52.6 美分的汽油和柴油消费税。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-24-interest-rate-hikes-remai",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/24/interest-rate-hikes-remain-on-cards-as-underlying-inflation-climbs-economists-warn",
+          "image": "https://i.guim.co.uk/img/media/4b1895888f6e05212539927604449f9a78de3c16/277_0_4463_3570/master/4463.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ccd118bd65d883b46c11666cd02bfae",
+          "publishedAt": "2026-06-24T06:05:14.000Z",
+          "title": {
+            "en": "Interest rate hikes remain on cards as Australia’s underlying inflation climbs, economists warn",
+            "zh": "经济学家警告称，随着澳大利亚潜在通胀攀升，加息仍有可能"
+          },
+          "summary": {
+            "en": "Despite plunging fuel prices, trimmed mean inflation increased from an annual pace of 3.4% to 3.6% Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Australia’s inflation challenge is far from over and more Reserve...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Despite plunging fuel prices, trimmed mean inflation increased from an annual pace of 3.4% to 3.6% Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australia’s inflation challenge is far from over and more Reserve Bank rate hikes remain on the cards , economists warn, even after a plunging petrol costs drove an unexpected fall in consumer price growth in the year to May. Annual inflation dropped to 4%, from 4.2% in the year to April, according to the Australian Bureau of Statistics, dragged down in large part thanks to a nearly 12% drop in fuel prices in the month of May. Continue reading...",
+            "zh": "尽管燃油价格暴跌，调整后的平均通胀率仍从每年 3.4% 上升至 3.6% 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 经济学家警告称，澳大利亚的通胀挑战远未结束，储备银行仍可能加息，尽管汽油成本暴跌导致截至 5 月份的一年内消费者物价增速意外下滑。根据澳大利亚统计局的数据，年通胀率从截至 4 月份的一年中的 4.2% 降至 4%，这在很大程度上要归功于 5 月份燃油价格下跌近 12%。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-24-gay-international-student",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/24/gay-international-students-extorted-threat-of-being-outed-victoria-hate-inquiry-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/e7d88580bda978144cc598bf2d1ff0b0ffde8450/2235_1369_2621_2098/master/2621.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45c6bead8987bea99b960706352d7999",
+          "publishedAt": "2026-06-24T05:43:05.000Z",
+          "title": {
+            "en": "Gay students extorted with threat of being ‘outed’ in home countries, Victorian hate crime inquiry hears",
+            "zh": "维州仇恨犯罪调查获悉，同性恋学生在本国遭到勒索，威胁要“出柜”"
+          },
+          "summary": {
+            "en": "LGBTQ+ support service says men from countries where homosexuality is illegal are targeted for attacks via dating apps Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast International students from countries where...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "LGBTQ+ support service says men from countries where homosexuality is illegal are targeted for attacks via dating apps Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast International students from countries where homosexuality is illegal are being lured into meetings via gay dating apps before being assaulted and extorted with threats of being outed, a Victorian inquiry into hate crimes has heard. Since June 2024, police identified 95 attacks targeting gay and bisexual men across Victoria, resulting in 42 arrests, Thorne Harbour Health’s chief executive, Chad Hughes, told a hate crimes inquiry on Wednesday. Continue reading...",
+            "zh": "LGBTQ+支持服务称，来自同性恋非法国家的男性成为通过约会应用程序进行攻击的目标 关注我们的澳大利亚新闻直播博客以获取最新更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 来自同性恋非法国家的国际学生通过同性恋约会应用程序被引诱参加会议，然后遭到攻击和勒索，并威胁要出柜，维多利亚州对仇恨犯罪的调查获悉。 Thorne Harbour Health 首席执行官查德·休斯 (Chad Hughes) 周三在仇恨犯罪调查中表示，自 2024 年 6 月以来，警方在维州发现了 95 起针对同性恋和双性恋男子的袭击事件，导致 42 人被捕。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-is-travel-the-new-competitve-edge-of-the-fif",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/is-travel-the-new-competitve-edge-of-the-fifa-world-cup/h1qxipi4b",
+          "image": "https://assets.sbs.com.au/dims4/default/4a768db/2147483647/strip/false/crop/3840x1764+0+198/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F5d%2F6f%2Fdbccd07344f8802a776ccce38e65%2Ftravel-heat-world-cup-lead-header-v4.png",
+          "publishedAt": "2026-06-24T05:32:46.000Z",
+          "title": {
+            "en": "Could travel impact the Socceroos' competitive 'edge' at the FIFA World Cup?",
+            "zh": "旅行会影响澳大利亚队在国际足联世界杯上的竞争“优势”吗？"
+          },
+          "summary": {
+            "en": "The Socceroos next opponents will have travelled 4,000 km less in the past fortnight. Will it make a difference?",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Before the FIFA World Cup even kicked off, the Socceroos embarked on one of the longest journeys of the competition.\n\nA direct flight from Sydney to Vancouver in Canada spans around 12,000 km, though the Socceroos' route was indirect. The Socceroos began their pre-tournament bootcamp in Florida, then headed to base camp in California, before heading to BC Place stadium, where the Socceroos defeated Türkiye earlier this month.\n\nAs the tournament enters the decisive third round of the group stages, determining who goes through to the knock-out rounds, the extensive travel at the the longest-ever World Cup and fatiguing conditions are causing debate.\n\nExperts say that generally speaking the impact of travel on players will differ for individuals, and may not necessarily impact sleep, appetite and recovery too badly.\n\nBut researcher Luke Jenkinson believes long-haul travel will definitely affect footballers throughout the World Cup, to varying extents. The head of performance at San Diego Football Club in the US told SBS News it \"will have an impact on football or the physical preparation and also recovery of athletes.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"Part of the conundrum is that there isn't only the aspect of travel but there's &#x2026; [varying] locations and weather and general topography &#x2026; across North America.\"\n\nThe 2026 competition is the largest ever edition, bringing together 48 teams across 16 cities in the United States, Canada and Mexico. But this scale could present complex logistical challenges.\n\nIn the group stage, Cura&#xE7;ao &#x2014; the smallest nation in the World Cup &#x2014; will travel over 10,000km. Over the same period, Mexico &#x2014; the first team to qualify for the knockout stage &#x2014; will travel just under 1,000km.\n\nJenkinson categorised the potential impact of travel on the Socceroos, who are based on the US West Coast, in California's San Francisco Bay area, as \"moderate\".\n\nHe has calculated the Socceroos will travel 4,815km over their three group stage games.\n\nAustralia's opponent for their decisive third group stage match on Friday, Paraguay, has only had to travel 640 km since the tournament began, the second lowest of any squad behind co-hosts Mexico.\n\nTeams will also cross as many as three time zones for a single match, according to Jenkinson's research, which has been published in the Science and Medicine in Football journal.\n\nHe admits while many footballers (including members of the Australian squad) are accustomed to travelling in Europe's top leagues, these distances are substantially shorter. They're also typically confined to a single time zone, or only have to deal with a one-hour time...",
+            "zh": "在国际足联世界杯开始之前，澳大利亚队就踏上了赛事中最长的旅程之一。 从悉尼到加拿大温哥华的直飞航班全长约 12,000 公里，尽管澳大利亚队的航线是间接的。澳大利亚队在佛罗里达州开始了他们的赛前训练营，然后前往加利福尼亚州的大本营，然后前往 BC Place 体育场，本月早些时候澳大利亚队在那里击败了土耳其队。 随着赛事进入小组赛决定性的第三轮，决定谁能进入淘汰赛，有史以来最长的世界杯的长途旅行和疲劳的条件引起了争论。 专家表示，一般来说，旅行对球员的影响因人而异，不一定会对睡眠、食欲和恢复造成太严重的影响。 但研究人员卢克·詹金森认为，长途旅行肯定会在不同程度上影响整个世界杯期间的足球运动员。美国圣地亚哥足球俱乐部的表现负责人告诉SBS新闻，这“将对足球或运动员的身体准备和恢复产生影响。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “难题的一部分在于，不仅存在旅行方面的问题，而且……北美各地的位置、天气和总体地形都不同。” 2026 年的比赛是有史以来规模最大的一届，汇聚了来自美国、加拿大和墨西哥 16 个城市的 48 支队伍。但这种规模可能会带来复杂的后勤挑战。 在小组赛阶段，库拉索岛——世界杯上最小的国家——将行驶超过10,000公里。同期，第一支晋级淘汰赛阶段的球队墨西哥队的行程将接近 1,000 公里。 詹金森将旅行对位于美国西海岸加利福尼亚州旧金山湾区的澳大利亚队的潜在影响归类为“中等”。 他计算出澳大利亚队在三场小组赛中将行驶 4,815 公里。 周五，澳大利亚将在小组赛第三场比赛中迎战对手巴拉圭，自比赛开始以来，巴拉圭只需要行驶 640 公里，是所有球队中第二短的，仅次于东道主墨西哥。 根据詹金森的研究，球队在一场比赛中也会跨越多达三个时区，该研究已发表在《足球科学与医学》杂志上。 他承认，虽然许多足球运动员（包括澳大利亚队的成员）习惯于欧洲顶级联赛旅行，但这些距离要短得多。他们通常还局限于一个时区，或者只需要处理一小时的时间......"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-24-australia-liberal-party-a",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/24/australia-liberal-party-angus-taylor-multiculturalism-comments",
+          "image": "https://i.guim.co.uk/img/media/10cf85a1a584c32cff47a153bb35e3ee83565b07/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57605547ae071b8972103ba56c306c1c",
+          "publishedAt": "2026-06-24T05:14:41.000Z",
+          "title": {
+            "en": "Liberals dumbfounded by Angus Taylor’s multiculturalism comments: ‘Embrace the reality of modern Australia’",
+            "zh": "自由主义者对安格斯·泰勒的多元文化主义评论感到惊讶：“拥抱现代澳大利亚的现实”"
+          },
+          "summary": {
+            "en": "Party colleagues concerned opposition leader was missing an opportunity to differentiate Coalition from One Nation Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Angus Taylor has attempted to clarify comments on...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及合一、和好与弥合分歧。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Party colleagues concerned opposition leader was missing an opportunity to differentiate Coalition from One Nation Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Angus Taylor has attempted to clarify comments on multiculturalism after his five non-answers on Tuesday , which left colleagues dumbfounded and questioning the opposition leader’s approach to One Nation. As senior Liberals lined up to endorse Australia’s cultural diversity on Wednesday, the outspoken backbencher Andrew McLachlan went further, challenging his leader to “embrace the reality of modern Australia”. Continue reading...",
+            "zh": "党内同事担心反对派领导人错过了区分联盟党和一国党的机会 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 安格斯·泰勒在周二五次没有回答后试图澄清对多元文化主义的评论，这让同事们目瞪口呆，并质疑反对派领导人对一国党的态度。周三，当高级自由党人士排队支持澳大利亚的文化多样性时，直言不讳的后座议员安德鲁·麦克拉克兰 (Andrew McLachlan) 更进一步，挑战他的领导人“拥抱现代澳大利亚的现实”。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到合一、和好与弥合分歧。Ephesians 4:3提醒我们，在快速变化的新闻里，仍要以缔造和平与搭建桥梁来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Galatians 3:28",
+            "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
+            "textZh": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
+            "themeEn": "One in Christ",
+            "themeZh": "基督里合一"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-treasurer-says-fuel-excise-not-the-whole-sto",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/treasurer-says-fuel-excise-not-the-whole-story-amid-underlying-inflation-rise/178ur97qy",
+          "image": "https://assets.sbs.com.au/dims4/default/aaedec9/2147483647/strip/false/crop/6221x2858+0+644/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F9b%2F6f%2F0da82dd74b27b17aca945eee8266%2F20240314001917419336-original.jpg",
+          "publishedAt": "2026-06-24T04:01:02.000Z",
+          "title": {
+            "en": "Treasurer says fuel excise 'not the whole story' amid underlying inflation rise",
+            "zh": "财政部长表示，在潜在通胀上升的情况下，燃油税“并不是全部”"
+          },
+          "summary": {
+            "en": "Jim Chalmers said the costs and consequences of the war in the Middle East \"will be felt for some time\".",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Treasurer Jim Chalmers has denied the government's fuel excise cut is masking inflation figures, after headline inflation fell while underlying price pressures continue to rise.\n\nThe annual trimmed mean, a measure of core inflation closely watched by the Reserve Bank of Australia (RBA), edged up to 3.6 per cent in May from 3.4 per cent a month earlier, the Australian Bureau of Statistics reported on Wednesday.\n\nThe result was above the consensus estimate of forecasters, who had pencilled in a rise to 3.5 per cent.\n\nHeadline inflation fell to 4 per cent annually from 4.2 per cent in April, defying economists' expectations of a slight increase.\n\nThe fall in the headline figure was driven by an 11.9 per cent dip in fuel prices for the month.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nHousing costs were the largest contributor to annual inflation, up 6.5 per cent.\n\nThe trimmed mean is the RBA's preferred measure of inflation as it removes the biggest price swings and volatility.\n\nResponding to a reporter's question about the annual trimmed mean on Wednesday, Chalmers pointed the finger at the&#xA0; conflict in the Middle East .\n\n\"You can see it reflected in our forecasts and into the private sector forecast, that the cost and consequences of the war in the Middle East will be felt for some time,\" he said.\n\nAsked if headline inflation had come down \"because of the fuel excise cut\", the treasurer said the cut had partially contributed to the fall, but denied it was wholly responsible.\n\n\"The government's efforts to cut the fuel excise are part of the story but not the whole story, even when it comes to this very welcome moderation in fuel cost reflected in the inflation figures today,\" he said.\n\nIn April, the government cut the fuel excise &#x2014; a federal tax levied on petrol &#x2014; in response to the war in the Middle East, taking it from 52 cents to 20 cents.\n\nThe cut was due to expire on 30 June, but the Albanese government has extended it by another month at a lower rate .\n\n\"Those costs were felt initially when it came to petrol prices, and that is why we stepped in and stepped up with the fuel excise cut,\" Chalmers said.\n\nHe said the flow-on effects from the conflict were \"broadening\" out in the economy.\n\nThe headline inflation rate is closely watched by the central bank because it accounts for a large share of the consumer price basket and tends to be relatively sticky.\n\nThe latest figure reflected rising costs for electricity, new dwellings and rents, according to ABS head of price statistics Rachael McCririck.\n\n\"Electricity costs are 21.1 per cent higher than 12 months ago as Commonwealth and state government rebates that reduced electricity costs...",
+            "zh": "财政部长吉姆·查尔默斯否认政府的燃油消费税削减掩盖了通胀数据，此前总体通胀率下降，而潜在价格压力继续上升。 澳大利亚统计局周三报告称，澳大利亚储备银行 (RBA) 密切关注的核心通胀指标年度调整平均值从一个月前的 3.4% 微升至 5 月份的 3.6%。 这一结果高于预测者的一致预期，预测者预计增幅将达到 3.5%。 总体通胀率从 4 月份的 4.2% 降至每年 4%，超出了经济学家小幅增长的预期。 整体数据下降的原因是当月燃油价格下跌 11.9%。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 住房成本是年度通胀的最大贡献者，上涨了 6.5%。 截尾均值是澳大利亚央行首选的通胀指标，因为它消除了最大的价格波动和波动。 周三，查尔默斯在回答记者有关年度截尾平均数的问题时，将矛头指向了中东冲突。 他说：“你可以在我们的预测和私营部门的预测中看到，中东战争的成本和后果将在一段时间内感受到。” 当被问及整体通胀是否“因为燃油消费税削减”而下降时，财政部长表示，削减是导致通胀下降的部分原因，但否认这是全部责任。 他表示：“政府削减燃油税的努力只是故事的一部分，但不是故事的全部，即使是在今天的通胀数据中反映出燃料成本的这种非常受欢迎的放缓。” 4 月份，为了应对中东战争，政府削减了燃油消费税（对汽油征收的联邦税），从 52 美分降至 20 美分。 削减原定于 6 月 30 日到期，但阿尔巴尼亚政府以较低的利率将其再延长一个月。 查尔默斯说：“这些成本最初是在汽油价格方面感受到的，这就是我们介入并加大燃油消费税削减力度的原因。” 他表示，冲突对经济的连锁影响正在“扩大”。 央行密切关注总体通胀率，因为它在消费者物价篮子中占据很大份额，而且往往具有相对粘性。 ABS 价格统计主管 Rachael McCririck 表示，最新数据反映了电力、新住宅和租金成本的上涨。 “随着联邦和州政府的回扣降低了电力成本，电力成本比 12 个月前高出 21.1%......"
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
           },
           "translationState": "fallback"
         },
@@ -1200,7 +1397,7 @@
           },
           "body": {
             "en": "In the heart of Western Australia's arid Pilbara region stands a collection of rocks dubbed the North Pole Dome.\n\nThey stick out of the earth like an \"upside-down ice cream cone\": some rocks just a few centimetres in size, others several metres high. They're rust-coloured, like much of this region &#x2014; but researchers say the formation holds evidence of the oldest known asteroid impact on Earth.\n\n\"When we looked at the rock itself, we found older grains, older little crystals inside. Those crystals tell us about when the original rock formed about 3.5 billion years ago,\" said Professor Chris Kirkland.\n\nKirkland led a Curtin University study that examined the age of minerals, including zircon crystals about the size of a grain of sand. He described this work as \"extremely challenging\" and \"painstaking\".\n\n\"You're hunting through microscopic slices of rock to find those crystals that tell you about the various processes that have happened. Then ... you're firing laser beams into them to determine their chemistry and isotopic signatures, which is how you can work out the age.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe study builds upon previous research which analysed the stratigraphy &#x2014; or rock layers &#x2014; of these structures. Kirkland explained in the past, the exact timing of asteroid strikes remained somewhat of a mystery.\n\n\"It's like having a book, you know roughly where you are in the book &#x2014; if you're at the front, back or middle,\" Kirkland said.\n\n\"If you've got a page ripped out you can make a guess where it sits but you don't absolutely know.\n\nHe said the latest findings, which use isotopic dating, \"gives us a page number and then we can fit it back into the book, in its proper place\".\n\nCraig O'Neill is a professor of planetary geophysics at the Queensland University of Technology and acknowledged that research in this field has sparked prior \"debate\" and \"controversy\".\n\n\"I think any area where you have such little evidence ends up quite controversial and dominated by very small observations and a discussion over what they mean. That's fine, that's how we get ahead, but it's worth pointing out,\" O'Neill said.\n\nProfessor Tim Johnson from Curtin University also co-authored the Curtin University studies. He told SBS News in the past, \"we possibly got a little carried away with ourselves\".\n\nJohnson now believes: \"The data is complicated, and there are other explanations but our best estimate for the age of this impact is about three billion years ago, which makes it by far the oldest impact on Earth.\n\n\"The only one in the so-called Archean eon, where we know impacts would have been much more common than they are today.\"\n\nEarlier...",
-            "zh": "在西澳大利亚干旱的皮尔巴拉地区的中心地带，矗立着一组被称为北极穹顶的岩石。 它们像“倒置的蛋卷冰淇淋”一样伸出地面：一些岩石只有几厘米大小，另一些则有几米高。它们是铁锈色的，就像这个地区的大部分地区一样，但研究人员表示，这些地层蕴藏着已知最古老的小行星撞击地球的证据。 “当我们观察岩石本身时，我们发现里面有更古老的颗粒和更古老的小晶体。这些晶体告诉我们大约 35 亿年前原始岩石的形成时间，”克里斯·柯克兰教授说。 柯克兰领导了科廷大学的一项研究，该研究检查了矿物的年龄，其中包括沙粒大小的锆石晶体。他形容这项工作“极具挑战性”且“艰苦”。 “你在岩石的微观切片中寻找那些晶体，这些晶体告诉你已经发生的各种过程。然后......你向它们发射激光束以确定它们的化学和同位素特征，这就是你如何计算年龄的方法。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这项研究建立在之前对这些结构的地层学或岩层进行分析的研究的基础上。柯克兰过去解释说，小行星撞击的确切时间仍然是一个谜。 “这就像有一本书，你大致知道你在书中的位置——如果你在前面、后面或中间，”柯克兰说。 “如果你撕下了一页，你可以猜测它的位置，但你并不绝对知道。 他说，使用同位素测年法的最新发现“为我们提供了页码，然后我们可以将其放回书中的适当位置”。 克雷格·奥尼尔是昆士兰科技大学行星地球物理学教授，他承认该领域的研究引发了先前的“辩论”和“争议”。 “我认为任何证据如此之少的领域最终都会引起很大争议，并且主要是非常小的观察和对其含义的讨论。这很好，这就是我们取得进步的方式，但值得指出，”奥尼尔说。 科廷大学的蒂姆·约翰逊教授也是科廷大学研究的合著者。他过去告诉SBS新闻，“我们可能有点得意忘形”。 约翰逊现在认为：“数据很复杂，而且还有其他解释，但我们对这次撞击年龄的最佳估计是大约三十亿年前，这使其成为迄今为止地球上最古老的撞击。 “这是所谓的太古宙中唯一的一次，我们知道那里的影响会比今天更加普遍。” 早些时候..."
+            "zh": "在西澳大利亚干旱的皮尔巴拉地区的中心地带，矗立着一组被称为北极穹顶的岩石。 它们像“倒置的蛋卷冰淇淋”一样伸出地面：一些岩石只有几厘米大小，另一些则有几米高。它们是铁锈色的，就像这个地区的大部分地区一样，但研究人员表示，这些地层蕴藏着已知最古老的小行星撞击地球的证据。 “当我们观察岩石本身时，我们发现里面有更古老的颗粒和更古老的小晶体。这些晶体告诉我们大约 35 亿年前原始岩石的形成时间，”克里斯·柯克兰教授说。 柯克兰领导了科廷大学的一项研究，该研究检查了矿物的年龄，其中包括沙粒大小的锆石晶体。他形容这项工作“极具挑战性”且“艰苦”。 “你在岩石的微观切片中寻找那些晶体，这些晶体告诉你已经发生的各种过程。然后......你向它们发射激光束以确定它们的化学和同位素特征，这就是你如何计算年龄的方法。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这项研究建立在之前对这些结构的地层学或岩层进行分析的研究的基础上。柯克兰过去解释说，小行星撞击的确切时间仍然是一个谜。 “这就像有一本书，你大致知道你在书中的位置——如果你在前面、后面或中间，”柯克兰说。 “如果你撕下了一页，你可以猜测它的位置，但你并不绝对知道。 他说，使用同位素测年法的最新发现“为我们提供了页码，然后我们可以将其放回书中的适当位置”。 克雷格·奥尼尔是昆士兰科技大学行星地球物理学教授，他承认该领域的研究引发了先前的“争论”和“争议”。 “我认为任何证据如此之少的领域最终都会引起很大争议，并且主要是非常小的观察和对其含义的讨论。这很好，这就是我们取得进步的方式，但值得指出，”奥尼尔说。 科廷大学的蒂姆·约翰逊教授也是科廷大学研究的合著者。他过去告诉SBS新闻，“我们可能有点得意忘形”。 约翰逊现在认为：“数据很复杂，而且还有其他解释，但我们对这次撞击年龄的最佳估计是大约三十亿年前，这使其成为迄今为止地球上最古老的撞击。 “这是所谓的太古宙中唯一的一次，我们知道那里的影响会比今天更加普遍。” 早些时候..."
           },
           "reflection": {
             "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
@@ -1214,106 +1411,6 @@
             "themeZh": "心思的操练"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-environment-2026-jun-24-worlds-oldest-meteorite-stri",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/environment/2026/jun/24/worlds-oldest-meteorite-strike-pilbara-western-australia",
-          "image": "https://i.guim.co.uk/img/media/03161aa52ad516647ce3a20f1d9447618ac871a5/126_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a6af0f4a9da5ccf2f1ae7965b3a7cadf",
-          "publishedAt": "2026-06-23T22:00:27.000Z",
-          "title": {
-            "en": "Scientists find ‘smoking gun’ evidence of world’s oldest meteorite strike in Western Australia",
-            "zh": "科学家在西澳大利亚发现了世界上最古老陨石撞击的“铁证”"
-          },
-          "summary": {
-            "en": "Curtin University researchers use innovative techniques to date three-billion-year-old impact crater in Pilbara region A meteorite that struck Earth three billion years ago left behind a “smoking gun” – evidence of the world’s oldest impact crater in a remote part of Australia....",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Curtin University researchers use innovative techniques to date three-billion-year-old impact crater in Pilbara region A meteorite that struck Earth three billion years ago left behind a “smoking gun” – evidence of the world’s oldest impact crater in a remote part of Australia. Ancient rocks in Western Australia’s Pilbara region record the event, which occurred during the Archean eon, a period 4 to 2.5 billion years ago, when tectonic plates were beginning to form and early life emerging. Continue reading...",
-            "zh": "科廷大学的研究人员利用创新技术测定了皮尔巴拉地区 30 亿年前的撞击坑的年代。30 亿年前撞击地球的陨石留下了“铁证”——澳大利亚偏远地区存在世界上最古老撞击坑的证据。西澳大利亚皮尔巴拉地区的古代岩石记录了这一事件，该事件发生在太古代，即 4 至 25 亿年前的时期，当时构造板块开始形成，早期生命出现。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-jun-24-morning-mail-wednesday-nt",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/24/morning-mail-wednesday-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/8d0b12a2b41bb4928d5a86e9fe16ab69d1de77b9/535_0_4375_3500/master/4375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84e56e04afc0ddadf8ce4264b8da1638",
-          "publishedAt": "2026-06-23T21:37:17.000Z",
-          "title": {
-            "en": "Morning Mail: bird flu risk to 150 native species, France roasts in heatwave, Ronaldo record",
-            "zh": "早间邮报：150个本土物种面临禽流感风险，法国遭遇热浪，罗纳尔多创纪录"
-          },
-          "summary": {
-            "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here, and finish your day with our Afternoon Update newsletter Morning everyone. A potential bird flu outbreak presents a “very high risk” of extinction to 150 of Australia’s native and unique bird...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Afternoon Update newsletter Morning everyone. A potential bird flu outbreak presents a “very high risk” of extinction to 150 of Australia’s native and unique bird species, including Perth’s black swans and the fairy tern. France has seen 40 people drown and its average daily temperature hit an all-time high in the heatwave engulfing Europe. We analyse how Labor’s Senate tax win could be costly, look at Karl Stefanovic’s encounters with the far right, and Cristiano Ronaldo has scored at a record sixth World Cup. Pod praise | The Channel Nine TV presenter Karl Stefanovic praised UK far-right activist Tommy Robinson’s “tenacity” and “courage” in his latest eponymous podcast episode, which has since been removed from YouTube. Bird flu risk | More than 150 of Australia’s native and unique bird species – including the red goshawk, shy albatross and black swan – have been assessed as being at “very high risk” of extinction or major decline if they catch the deadly H5N1 bird flu strain. Hastie security | Liberal frontbencher Andrew Hastie is set to receive extra security in what he believes is a response to a One Nation-fuelled campaign against him, including over his stance on the Ben Roberts-Smith war crimes allegations. ‘Tech bro free-for-all’ | Greens senator Sarah Hanson-Young has called for a moratorium on the building and approval of new datacentres in Australia and said the nation was “sleepwalking” into an AI crisis . Analysis | The government scored a crucial win yesterday by securing support for its tax changes through the Senate. But that victory may have dinged Labor’s chances of passing its NDIS reforms. ‘Grand and intimate’ | The 2026 Miles Franklin literary award shortlist has been announced, with four first-time nominees, two of whom are debut novelists . Continue reading...",
-            "zh": "想每个工作日将其发送到您的收件箱吗？在这里注册《晨报》，并通过我们的下午更新时事通讯结束您的一天。大家早上好。潜在的禽流感爆发会给 150 种澳大利亚本土独特鸟类带来灭绝的“极高风险”，其中包括珀斯的黑天鹅和仙燕鸥。法国已有40人溺水身亡，日平均气温在席卷欧洲的热浪中创下历史新高。我们分析了工党在参议院税收上的胜利可能会付出高昂的代价，看看卡尔·斯特凡诺维奇与极右翼的遭遇，以及克里斯蒂亚诺·罗纳尔多在创纪录的第六届世界杯上进球。豆荚好评|第九频道电视节目主持人卡尔·斯特凡诺维奇 (Karl Stefanovic) 在其最新的同名播客节目中赞扬了英国极右翼活动家汤米·罗宾逊 (Tommy Robinson) 的“坚韧”和“勇气”，该节目现已从 YouTube 上删除。禽流感风险|超过 150 种澳大利亚本土和独特的鸟类——包括红苍鹰、害羞信天翁和黑天鹅——被评估为如果感染致命的 H5N1 禽流感病毒，将面临灭绝或大幅减少的“极高风险”。哈斯蒂安全|自由党前座议员安德鲁·哈斯蒂（Andrew Hastie）将获得额外的安全保护，他认为这是对一国党发起的针对他的运动的回应，包括他对本·罗伯茨-史密斯战争罪指控的立场。 “科技兄弟免费”|绿党参议员 Sarah Hanson-Young 呼吁暂停在澳大利亚建设和批准新数据中心，并表示该国正在“梦游”陷入人工智能危机。分析|政府昨天取得了关键胜利，获得了参议院对其税收改革的支持。但这一胜利可能会削弱工党通过 NDIS 改革的机会。 “宏伟而亲密”| 2026年迈尔斯·富兰克林文学奖入围名单已经公布，有四位首次提名者，其中两位是处女作小说家。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Genesis 2:15",
-            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
-            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
-            "themeEn": "Creation care",
-            "themeZh": "看守受造界"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-media-2026-jun-23-karl-stefanovic-uk-far-right-tommy",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/media/2026/jun/23/karl-stefanovic-uk-far-right-tommy-robinson-podcast-video-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/1d1e05ca81c95def0d4110754b27aeb4a48b4118/0_227_1210_968/master/1210.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=623ae5a5e7fe5b6018dbf9f29c44d958",
-          "publishedAt": "2026-06-23T21:12:57.000Z",
-          "title": {
-            "en": "Karl Stefanovic podcast interview with UK far-right activist Tommy Robinson removed from YouTube",
-            "zh": "卡尔·斯特凡诺维奇播客对英国极右翼活动家汤米·罗宾逊的采访被YouTube下架"
-          },
-          "summary": {
-            "en": "YouTube has removed a podcast interview with UK far-right activist Tommy Robinson from the Karl Stefanovic Show, following backlash over Robinson's comments.",
-            "zh": "YouTube已将卡尔·斯特凡诺维奇节目中对英国极右翼活动家汤米·罗宾逊的播客采访下架，此前罗宾逊的言论引发了强烈反弹。"
-          },
-          "body": {
-            "en": "Robinson says Pauline Hanson has ‘carried on fighting’ despite backlash in since-deleted episode of the Karl Stefanovic Show Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Channel Nine TV presenter Karl Stefanovic has praised UK far-right activist Tommy Robinson’s “tenacity” and “courage” in his latest eponymous podcast episode, in which Robinson rails against “the media and the establishment”, Islam, multiculturalism and hate speech laws. Stefanovic posted a clip on social media on Tuesday morning Australian time in which he is walking down a London street with his arm slung around Robinson, who has spearheaded recent nationalist demonstrations in the UK. Continue reading...",
-            "zh": "罗宾逊表示，尽管卡尔·斯特凡诺维奇秀 (Karl Stefanovic Show) 节目已被删除，但遭到强烈反对，波琳·汉森 (Pauline Hanson) 仍“继续战斗”。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 第九频道电视节目主持人卡尔·斯特凡诺维奇 (Karl Stefanovic) 在他最新的同名播客节目中赞扬了英国极右翼活动人士汤米·罗宾逊 (Tommy Robinson) 的“坚韧”和“勇气”，罗宾逊在该节目中抱怨“媒体和建立”、伊斯兰教、多元文化主义和仇恨言论法。澳大利亚时间周二早上，斯特凡诺维奇在社交媒体上发布了一段视频，视频中他挽着罗宾逊走在伦敦街道上，罗宾逊最近在英国带头领导了民族主义示威活动。继续阅读..."
-          },
-          "reflection": {
-            "en": "The removal of a podcast featuring a controversial activist highlights the significant impact words can have in public discourse. Proverbs reminds us that the tongue holds immense power, capable of both destruction and life. This incident prompts reflection on the responsibility of those who speak and those who provide platforms for speech.",
-            "zh": "播客节目因争议人物的言论被下架，凸显了言语在公共讨论中的巨大影响力。箴言提醒我们，舌头拥有巨大的力量，既能带来毁灭，也能带来生命。这一事件促使我们反思言语者和提供言论平台者的责任。"
-          },
-          "verse": {
-            "reference": "Proverbs 18:21",
-            "textEn": "The tongue has the power of life and death, and those who love it will eat its fruit.",
-            "textZh": "生死在舌头的权下；喜爱它的，必吃它所结的果子。",
-            "themeEn": "Power of words",
-            "themeZh": "言语的能力"
-          },
-          "aiVerseId": "prov_18_21",
-          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-how-much-super-do-i-need-to-retire-australia",
@@ -1381,39 +1478,6 @@
           },
           "aiVerseId": "jer_22_3",
           "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-robotdebt-victims-class-action-settlement-ap",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/robotdebt-victims-class-action-settlement-approved/sd5arll0g",
-          "image": "https://assets.sbs.com.au/dims4/default/addd7e6/2147483647/strip/false/crop/7579x3482+0+785/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fe6%2Fd4%2F81664e32460498cb238d68cc6cc8%2F20260623162959697834-original.jpg",
-          "publishedAt": "2026-06-23T09:08:24.000Z",
-          "title": {
-            "en": "Robodebt victims share in millions as Australia's largest-ever class action settlement approved",
-            "zh": "澳大利亚有史以来最大的集体诉讼和解协议获得批准，Robodebt 受害者分得数百万美元"
-          },
-          "summary": {
-            "en": "The bungled Robodebt program has cost the government more than $2.4 billion following multiple class action lawsuits.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Australia's biggest class action settlement in history will be paid out to victims of the government's robodebt scheme after a lengthy court approval process.\n\nAbout 125,000 registered claimants who were affected by the federal government's unlawful debt collection method will receive $475 million in compensation between them.\n\nThe Robodebt system was designed to fix overpayment of social security benefits, but it resulted in hundreds of thousands of people being wrongly accused of owing the government money between 2015 and 2019.\n\nSome of Australia's most vulnerable people entered into extreme debt, went without food or even died by suicide as a result.\n\nThe bungled program has cost the government more than $2.4 billion following multiple class actions.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nFederal Court Justice Jonathan Beach ruled on Tuesday that an additional settlement of $548.5 million, including the approved compensation figure, was fair and reasonable.\n\nIt also includes up to $13.5 million in legal costs, to be paid by the Commonwealth.\n\nClass action representatives will be paid between $20,000 and $25,000 each for \"inconvenience occurred over a number of years\".\n\nThe settlement comes on top of an earlier $112 million agreement that lawyers successfully appealed.\n\nJustice Beach thanked victims who had been part of various class actions since 2019, particularly Jenny Miller and Kath Madgwick.\n\nThey lost their sons, Rhys Cauzzo and Jarrad Madgwick, to suicide after they were issued with robodebt notices.\n\n\"I did appreciate hearing their perspectives and the fortitude that has been shown particularly from the two mothers whose sons were lost,\" the judge said.\n\nHe added the \"fiasco\" was an opportunity to learn lessons, chastising government officials who were 'insulated and detached\" from the consequences of their actions.\n\nA settlement was first reached in 2021, but it did not consider information later uncovered in the Royal Commission into the Robodebt Scheme.\n\nThat included the revelation that government officials tried to mislead investigations into the scandal.\n\nFurther compensation was then requested in the successful appeal by law firm Gordon Legal, which led the class action.\n\nThe class action was launched by Sydney woman Katherine Prygodicz, who had twice been chased for a debt of more than $14,000.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "经过漫长的法院批准程序后，澳大利亚历史上最大的集体诉讼和解协议将支付给政府机器人债务计划的受害者。 大约125,000名受到联邦政府非法追债方式影响的登记索赔人将获得4.75亿美元的赔偿。 Robodebt 系统旨在解决社会保障福利多付问题，但导致 2015 年至 2019 年间数十万人被错误指控欠政府资金。 澳大利亚一些最脆弱的人群因此负债累累、断粮甚至自杀身亡。 在多次集体诉讼后，这项拙劣的计划已使政府损失超过 24 亿美元。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 联邦法院法官乔纳森·比奇 (Jonathan Beach) 周二裁定，包括批准的赔偿金额在内的 5.485 亿美元的额外和解是公平合理的。 它还包括由联邦政府支付的高达 1350 万美元的法律费用。 集体诉讼代表将因“多年来发生的不便”而获得每人 20,000 美元至 25,000 美元的赔偿。 此次和解是在此前达成的价值 1.12 亿美元的协议之上达成的，该协议已被律师成功上诉。 正义比奇感谢自 2019 年以来参与各种集体诉讼的受害者，特别是珍妮·米勒和凯斯·马奇威克。 他们的儿子里斯·卡佐（Rhys Cauzzo）和贾拉德·马奇威克（Jarrad Madgwick）在收到机器人债务通知后自杀身亡。 法官说：“我确实很高兴听到她们的观点，尤其是两位失去儿子的母亲所表现出的毅力。” 他补充说，这次“惨败”是一个吸取教训的机会，对那些对其行为后果“孤立且漠不关心”的政府官员进行了惩罚。 和解首次于 2021 年达成，但并未考虑皇家委员会后来在机器人债务计划中发现的信息。 其中包括政府官员试图误导丑闻调查的消息。 随后，牵头集体诉讼的 Gordon Legal 律师事务所在成功上诉后要求进一步赔偿。 该集体诉讼是由悉尼女子 Katherine Prygodicz 发起的，她曾两次因欠下超过 14,000 澳元的债务而被追捕。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
         }
       ]
     }
