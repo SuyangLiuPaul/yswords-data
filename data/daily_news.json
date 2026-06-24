@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T18:29:36.004Z",
+  "generatedAt": "2026-06-24T20:28:52.151Z",
   "editionDate": "2026-06-25",
   "sources": [
     {
@@ -106,21 +106,122 @@
       },
       "sourceNotes": [
         "The Guardian World",
-        "BBC News World",
         "DW World",
+        "BBC News World",
         "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-australia-news-live-2026-jun-25-australia-politics-l",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/95b9325110413082992e896d0237c73469a0d909/0_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=cb7ab275052fde84abd7968d70534998",
+          "publishedAt": "2026-06-24T20:19:02.000Z",
+          "title": {
+            "en": "Australia politics live: boom in home batteries means fewer new transmission lines will be needed, models show",
+            "zh": "澳大利亚政治直播：模型显示家用电池的蓬勃发展意味着所需的新输电线路将减少"
+          },
+          "summary": {
+            "en": "New modelling from the Australian Energy Market Operator (Aemo) suggests that a significant increase in home battery installations could reduce the need for extensive new electricity transmission lines, despite projections that electricity use will nearly double by 2050.",
+            "zh": "澳大利亚能源市场运营商（Aemo）的最新模型显示，尽管预计到2050年电力使用量将几乎翻倍，但家用电池安装量的显著增长可能减少对新建大型输电线路的需求。"
+          },
+          "body": {
+            "en": "Aemo modelling shows electricity use will nearly double by 2050. Follow today’s news live Get our breaking news email , free app or daily news podcast Good morning and welcome to our live politics blog. I’m Martin Farrer with the top overnight stories and then it will be Krishani Dhanji with the main action. There will be plenty of politics to come but we start with good news: thanks to the recent boom in batteries connected to the national power grid, we’re going to save money on new transmission lines. That’s despite our power use being expected to nearly double in the next decade or so. Continue reading...",
+            "zh": "Aemo 模型显示，到 2050 年，用电量将几乎翻一番。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 早上好，欢迎来到我们的实时政治博客。我是马丁·法雷尔（Martin Farrer），负责隔夜热门报道，然后由克里沙尼·丹吉（Krishani Dhanji）负责主要动作。将会有很多政治活动，但我们首先要听个好消息：由于最近连接到国家电网的电池的蓬勃发展，我们将在新的输电线路上节省资金。尽管我们的用电量预计在未来十年左右将增加近一倍。继续阅读..."
+          },
+          "reflection": {
+            "en": "The news of home batteries reducing the need for new transmission lines highlights humanity's ongoing role in stewarding creation. This foresight in energy planning reflects our call to work and care for the earth, ensuring resources are managed wisely for future generations. It reminds us that innovation can serve the well-being of both people and the...",
+            "zh": "家庭电池减少新建输电线路需求的消息，突显了人类在管理受造物方面的持续角色。这种能源规划的远见，反映了我们受召去耕耘和看守大地的责任，确保为子孙后代明智地管理资源。它提醒我们，创新可以服务于人类和地球的福祉。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "aiVerseId": "gen_2_15",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-film-2026-jun-24-new-academy-members-oscars-voters",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/film/2026/jun/24/new-academy-members-oscars-voters",
+          "image": "https://i.guim.co.uk/img/media/3ea3ea1f81aeadc237b806a0409d74ffdf1524bf/376_0_3147_2520/master/3147.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42cee23a62888c5ab1fb841b89a3dfeb",
+          "publishedAt": "2026-06-24T20:14:26.000Z",
+          "title": {
+            "en": "Jacob Elordi, Jenna Ortega and Stephen Fry among new invited Oscar voters",
+            "zh": "雅各布·艾洛迪、珍娜·奥尔特加和斯蒂芬·弗莱等获邀成为奥斯卡新评委"
+          },
+          "summary": {
+            "en": "Jacob Elordi, Jenna Ortega, and Stephen Fry are among the 529 creatives newly invited to join the Academy of Motion Picture Arts and Sciences this year.",
+            "zh": "雅各布·艾洛迪、珍娜·奥尔特加和斯蒂芬·弗莱等529位创意人士受邀加入今年的美国电影艺术与科学学院会员名单。"
+          },
+          "body": {
+            "en": "Annual list of creatives invited to join the Academy also includes Josh O’Connor, Teyana Taylor and Jon Bernthal Jacob Elordi , Jenna Ortega and Stephen Fry are among the 529 creatives invited to join this year’s member class of the Academy of Motion Picture Arts and Sciences. “We are delighted to invite this remarkable group of film artists and professionals from around the world to join the Academy,” said CEO Bill Kramer and Academy president Lynette Howell Taylor in a statement. “Through their commitment to filmmaking, this year’s exceptionally talented class has made significant contributions to our global movie industry.” Continue reading...",
+            "zh": "受邀加入学院的年度创意人员名单还包括 Josh O’Connor、Teyana Taylor、Jon Bernthal Jacob Elordi、Jenna Ortega 和 Stephen Fry 等 529 名受邀加入今年电影艺术与科学学院会员的创意人员。 “我们很高兴邀请来自世界各地的这群杰出的电影艺术家和专业人士加入学院，”首席执行官比尔·克莱默和学院院长琳内特·豪厄尔·泰勒在一份声明中表示。 “通过对电影制作的承诺，今年才华横溢的班级为我们的全球电影业做出了重大贡献。”继续阅读..."
+          },
+          "reflection": {
+            "en": "Being invited to join a prestigious body like the Academy brings significant recognition and praise. Proverbs 27:21 reminds us that while such accolades are celebrated, they also serve as a profound test of character. May these individuals navigate their increased visibility with wisdom and humility, remembering that true worth is not defined by external...",
+            "zh": "受邀加入美国电影艺术与科学学院这样的知名机构，会带来巨大的认可和赞誉。箴言27:21提醒我们，虽然这些荣誉值得庆祝，但它们也对品格构成深刻的考验。愿这些人士以智慧和谦逊来应对日益增长的关注，记住真正的价值并非由外在的荣誉所定义。"
+          },
+          "verse": {
+            "reference": "Proverbs 27:21",
+            "textEn": "The crucible for silver and the furnace for gold, but people are tested by their praise.",
+            "textZh": "鼎为炼银，炉为炼金，人的称赞也试炼人。",
+            "themeEn": "Tested by praise",
+            "themeZh": "称赞试炼人"
+          },
+          "aiVerseId": "prov_27_21",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jun-24-ice-tech-surveillance-arsenal",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal",
+          "image": "https://i.guim.co.uk/img/media/d682304bc7d2ef69459d201852e04f8ccb187aab/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=415ba4349fa5c073f5714d95bdf84fdc",
+          "publishedAt": "2026-06-24T20:07:46.000Z",
+          "title": {
+            "en": "‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools",
+            "zh": "“我们应该担心”：报告揭示了 ICE 蓬勃发展的高科技监控工具库"
+          },
+          "summary": {
+            "en": "Spending on government contracts with tech firms that use AI-powered tools to track immigrants has soared to record levels under Trump 2.0, report says A new report sheds light on the unprecedented growth of the US government’s immigration surveillance arsenal, revealing fresh...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Spending on government contracts with tech firms that use AI-powered tools to track immigrants has soared to record levels under Trump 2.0, report says A new report sheds light on the unprecedented growth of the US government’s immigration surveillance arsenal, revealing fresh details about how spending on technology and AI tools to find and track migrants has soared to record levels during Donald Trump’s second term. The report, released this week, analyzed US Immigration and Customs Enforcement (ICE) and Customs and Border Patrol (CBP) contracts with 11 companies the authors said provide surveillance tech. They found the money awarded to these firms doubled from 2024 to 2025, to just over $310m – and in 2026, that number soared to a record $513m. Continue reading...",
+            "zh": "报告称，在特朗普 2.0 时代，与使用人工智能工具追踪移民的科技公司签订的政府合同支出已飙升至创纪录水平一份新报告揭示了美国政府移民监控手段空前增长的情况，揭示了有关在唐纳德·特朗普第二任期期间用于寻找和追踪移民的技术和人工智能工具支出如何飙升至创纪录水平的新细节。本周发布的这份报告分析了美国移民和海关执法局 (ICE) 以及海关和边境巡逻队 (CBP) 与 11 家提供监控技术的公司的合同。他们发现，从 2024 年到 2025 年，授予这些公司的资金翻了一番，达到略高于 3.1 亿美元，而到 2026 年，这一数字飙升至创纪录的 5.13 亿美元。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-us-news-live-2026-jun-24-mamdani-new-york-primaries-",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/us-news/live/2026/jun/24/mamdani-new-york-primaries-midterms-democrats-republicans-trump-250-anniversary-politics-latest-updates",
-          "image": "https://i.guim.co.uk/img/media/52bafd30cccedd0cd0eff1a36a050dd0824ef1fe/559_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b37f424e76ef310109373144278d48e9",
-          "publishedAt": "2026-06-24T18:19:47.000Z",
+          "image": "https://i.guim.co.uk/img/media/905819dfd78e8bbb332bf57daa0c7a11bf600453/417_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e784c56986277f1efc5b89b103de10b5",
+          "publishedAt": "2026-06-24T20:02:49.000Z",
           "title": {
-            "en": "Trump accused of showing ‘complete indifference’ to Americans’ living costs after cancelling housing bill signing – US politics live",
+            "en": "Trump gets in shouting match with Republican senator amid standoff over housing bill and president’s anger at war powers vote - live",
             "zh": "特朗普被指在取消住房法案签署后对美国人的生活成本“完全漠不关心”——美国政治直播"
           },
           "summary": {
@@ -128,7 +229,7 @@
             "zh": "据报道，总统取消了一项旨在降低美国人生活成本的法案签署仪式。此举是为了向国会施压，以通过一项单独的、限制性的投票法案。"
           },
           "body": {
-            "en": "President was due to sign deal aimed at making life more affordable for Americans but shelved event to pressure Congress to pass restrictive voting bill Trump abruptly cancels signing of bill aimed at lowering housing cost Sign up for the Breaking News US email A man or a movement? That was the question being asked when Zohran Mamdani gambled his political capital on Tuesday’s elections in New York . The answer from voters was emphatic: they prefer Mamdani and his brand of democratic socialism to the Democratic party establishment and its lukewarm version of capitalism. America’s biggest city has swung even further to the left. This is a battle between the establishment and this insurgency. And the roof is collapsing on the Democratic party establishment tonight … This is no longer a movement; this is a movement and a machine at the same time. Continue reading...",
+            "en": "Senator Bill Cassidy said he confronted president over Iran war and Trump ‘did not particularly care for my comments’ Trump abruptly cancels signing of bill aimed at lowering housing cost Sign up for the Breaking News US email A man or a movement? That was the question being asked when Zohran Mamdani gambled his political capital on Tuesday’s elections in New York . The answer from voters was emphatic: they prefer Mamdani and his brand of democratic socialism to the Democratic party establishment and its lukewarm version of capitalism. America’s biggest city has swung even further to the left. This is a battle between the establishment and this insurgency. And the roof is collapsing on the Democratic party establishment tonight … This is no longer a movement; this is a movement and a machine at the same time. Continue reading...",
             "zh": "总统原定签署旨在让美国人生活更便宜的协议，但搁置了迫使国会通过限制性投票法案的活动 特朗普突然取消签署旨在降低住房成本的法案 订阅突发新闻美国电子邮件 一个人还是一场运动？这是佐兰·马姆达尼 (Zohran Mamdani) 在周二的纽约选举中赌上自己的政治资本时提出的问题。选民的回答很明确：他们更喜欢马姆达尼和他的民主社会主义品牌，而不是民主党建制派及其冷漠的资本主义。美国最大的城市进一步左倾。这是建制派与叛乱分子之间的一场战斗。今晚民主党建制派的屋顶正在倒塌……这不再是一场运动；而是一场运动。这既是一种运动，又是一台机器。继续阅读..."
           },
           "reflection": {
@@ -146,139 +247,70 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-environment-2026-jun-24-uk-records-hottest-june-day",
+          "id": "www-theguardian-com-uk-news-2026-jun-24-man-died-peak-district-nine-ladi",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/environment/2026/jun/24/uk-records-hottest-june-day",
-          "image": "https://i.guim.co.uk/img/media/543451de392e8aaef635a0b94e4d003bc81a9ab5/42_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d974b7b922008e0ed3f28e33cfeadbe5",
-          "publishedAt": "2026-06-24T18:03:41.000Z",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/24/man-died-peak-district-nine-ladies-stone-circle-isaac-clare-watts",
+          "image": "https://i.guim.co.uk/img/media/7ea44ec4e60a501db0e32640709ad101e0a3df22/180_436_987_790/master/987.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60ee9153959055caab95d78d1492f87f",
+          "publishedAt": "2026-06-24T19:56:43.000Z",
           "title": {
-            "en": "UK records its hottest June day and France its hottest ever as heatwave sweeps Europe",
-            "zh": "英国录得有史以来最热六月天，法国创历史新高，热浪席卷欧洲"
+            "en": "Man who died in suspected murder at Peak District stone circle named by police",
+            "zh": "警方公布在峰区石圈涉嫌谋杀案中死亡的男子名单"
           },
           "summary": {
-            "en": "The UK has recorded its hottest June day, and France its hottest day ever, as a heatwave brings temperatures above 30C to two-thirds of Europe's population.",
-            "zh": "英国录得有史以来最热的六月天，法国也连续第二天录得有史以来最高气温，一场热浪席卷欧洲，导致三分之二的人口经历30摄氏度以上的高温。"
+            "en": "A 41-year-old man has been arrested after Isaac Clare-Watts, 26, found at Nine Ladies monument on Monday A 26-year-old man who died in a suspected murder during a summer solstice event at a Bronze Age stone circle has been named by police. Isaac Clare-Watts, from Nottingham, was...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Temperature of 36.1C recorded in Hampshire, while two-thirds of Europe’s population experience temperatures above 30C The UK has broken its all-time temperature record for June and France has recorded its hottest day ever for the second day running, as a heatwave affecting more than 90 million people sweeps across swathes of Europe. As the UK and France registered record-breaking temperatures, the World Health Organization warned that the extreme temperatures are “putting lives at risk”. Continue reading...",
-            "zh": "汉普郡的气温达到 36.1 摄氏度，而欧洲三分之二的人口气温超过 30 摄氏度。英国打破了 6 月份的历史气温记录，法国连续第二天录得有史以来最热的一天，影响超过 9000 万人的热浪席卷了欧洲大片地区。随着英国和法国的气温创下历史新高，世界卫生组织警告说，极端气温正在“危及生命”。继续阅读..."
+            "en": "A 26-year-old man who died in a suspected murder during a summer solstice event at a Bronze Age stone circle has been named by police.\n\nIsaac Clare-Watts, from Nottingham, was found at the Nine Ladies stone circle in Stanton Lees in the Peak District in Derbyshire at about 1.38pm on Monday.\n\nA 41-year-old man has been arrested on suspicion of murder and remains in custody, Derbyshire police said.\n\nThe Derby Mountain Rescue team, which was called out to assist East Midlands ambulance service at the scene, said in a statement on Facebook: “Our thoughts are with the man’s friends and family at this difficult time.”\n\nOfficers have said a number of people were in the area over the weekend for the summer solstice and are urging anyone who was there between 19 and 23 June, and anyone who has any video footage from the event during the same time period, to come forward.\n\nThe force is also asking anyone with dashcam footage of vehicles arriving and leaving over the weekend to contact officers.\n\nEarlier this week, DI Tony Owen from the East Midlands special operations unit, who is leading the investigation, said: “I am urgently appealing for anyone who attended the summer solstice event over the weekend to please speak to officers as soon as they can.\n\n“A young man’s life has been taken in the most brutal way, so it is vital that myself and the team build up a clear picture of the exact circumstances surrounding his death.\n\n“This is why we urgently need to speak to everyone who was at the scene over the weekend.\n\n“You may have only been there briefly and think you can’t help, but you could hold the key piece of information we need to understand what has happened and help us to get justice for this young man’s family.\n\n“So I would ask, please, that if you attended the event, you contact us urgently so we can build up a picture of the event itself and what has led to this man’s death.”\n\nOwen added: “I also really urge anyone who captured video footage from the event over the weekend to please come forward.”\n\nAccording to English Heritage, Nine Ladies is a small early Bronze Age stone circle “traditionally believed to depict nine ladies turned to stone as a penalty for dancing on Sunday”.",
+            "zh": "警方公布了一名 26 岁男子的姓名，该男子在夏至活动期间在青铜时代石圈内涉嫌谋杀身亡。 周一下午 1 点 38 分左右，来自诺丁汉的艾萨克·克莱尔·瓦茨 (Isaac Clare-Watts) 在德比郡峰区斯坦顿利斯 (Stanton Lees) 的九位女士石圈被发现。 德比郡警方称，一名 41 岁男子因涉嫌谋杀被捕，目前仍被拘留。 德比山救援队被派往现场协助东米德兰兹救护车服务，他们在脸书上发表声明称：“在这个困难的时刻，我们的心与该男子的朋友和家人同在。” 警方表示，周末夏至期间有很多人在该地区，并敦促 6 月 19 日至 23 日期间到过该地区的任何人，以及任何持有同一时期该活动视频的人挺身而出。 警方还要求任何拥有行车记录仪记录周末车辆进出车辆的人与警方联系。 本周早些时候，负责调查的东米德兰特别行动小组的督察托尼·欧文表示：“我紧急呼吁任何参加周末夏至活动的人尽快与警方联系。 “一名年轻人的生命是以最残酷的方式被夺走的，因此我和团队必须清楚地了解他死亡的具体情况，这一点至关重要。 “这就是为什么我们迫切需要与周末在现场的每个人交谈。 “你可能只在那里短暂停留，并认为你无能为力，但你可以掌握我们需要的关键信息，以了解发生了什么，并帮助我们为这个年轻人的家人伸张正义。 “所以我想请您，如果您参加了该活动，请紧急联系我们，以便我们能够了解该事件本身以及导致该男子死亡的原因。” 欧文补充道：“我也真心敦促任何在周末拍摄该活动视频的人挺身而出。” 根据英国遗产的说法，九位女士是一个青铜时代早期的小石圈，“传统上认为描绘了九位女士变成石头，作为周日跳舞的惩罚”。"
           },
           "reflection": {
-            "en": "The record-breaking heat across Europe reminds us of creation's deep distress, as if the earth itself is groaning under the weight of change. This extreme weather invites us to reflect on our role as stewards and to seek ways to live in harmony with the natural world Yahweh has given us.",
-            "zh": "欧洲创纪录的高温提醒我们，受造界正经历深切的痛苦，仿佛大地本身在变化的重压下呻吟。这种极端天气促使我们反思作为管家的角色，并寻求与雅伟赐予我们的自然世界和谐共处的方式。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Romans 8:22",
-            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
-            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
-            "themeEn": "Creation's groan",
-            "themeZh": "受造叹息"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
-          "aiVerseId": "rom_8_22",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-business-2026-jun-24-exploit-last-north-sea-oil-gas-",
+          "id": "www-dw-com-en-what-does-british-pm-s-resignation-mean-for-european-secur",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/business/2026/jun/24/exploit-last-north-sea-oil-gas-or-risk-mass-job-losses-andy-burham-urged",
-          "image": "https://i.guim.co.uk/img/media/814ac664582c423f0ad147b4964474407168c103/188_0_4840_3872/master/4840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c61a9e2105fa789d5b13ae14d0a8693",
-          "publishedAt": "2026-06-24T18:00:52.000Z",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/72599131_6.jpg",
+          "publishedAt": "2026-06-24T19:27:00.000Z",
           "title": {
-            "en": "Exploit last North Sea oil and gas or risk mass job losses, Andy Burnham urged",
-            "zh": "安迪·伯纳姆被敦促开发北海剩余油气，否则将面临大规模失业风险"
+            "en": "What does British PM's resignation mean for European security?",
+            "zh": "英国首相辞职对欧洲安全意味着什么？"
           },
           "summary": {
-            "en": "The British Chamber of Commerce has urged Andy Burnham to prioritize exploiting remaining North Sea oil and gas resources. The call comes amidst concerns that a rapid transition to clean energy could lead to significant job losses in Scotland and the north-east of England.",
-            "zh": "英国商会敦促安迪·伯纳姆优先开发北海剩余的石油和天然气资源。此举是在担心向清洁能源的快速转型可能导致苏格兰和英格兰东北部大量失业的背景下提出的。"
+            "en": "British Prime Minister Keir Starmer has announced his resignation. He was known for his strong support for Ukraine and efforts to forge a new EU-UK defense partnership. His departure raises questions about the future of these key policies.",
+            "zh": "英国首相基尔·斯塔默宣布辞职。他以坚定支持乌克兰和致力于建立新的欧盟-英国防务伙伴关系而闻名。他的离任引发了人们对这些关键政策未来走向的疑问。"
           },
           "body": {
-            "en": "British Chamber of Commerce boss Shevaun Haviland says transition to clean energy could be handled better Andy Burnham should be ready to exploit the UK’s remaining North Sea oil and gas resources to avoid mass job losses in Scotland and the north-east, the director of the British Chambers of Commerce (BCC), Shevaun Haviland, has said. The decision about whether to allow extraction at the Jackdaw and Rosebank fields now appears likely to fall to a Burnham administration. Continue reading...",
-            "zh": "英国商会主席谢万·哈维兰 (Shevaun Haviland) 表示，向清洁能源转型可以得到更好的解决。英国商会 (BCC) 会长谢万·哈维兰 (Shevaun Haviland) 表示，安迪·伯纳姆 (Andy Burnham) 应该准备好利用英国剩余的北海石油和天然气资源，以避免苏格兰和东北部地区出现大规模失业。是否允许在寒鸦油田和罗斯班克油田开采的决定现在似乎可能由伯纳姆政府决定。继续阅读..."
+            "en": "British Prime Minister Keir Starmer was widely known for his support of Ukraine and his efforts towards a new EU–UK defense partnership. What will happen to those policies now that Starmer has announced his resignation?\n\nBritish Prime Minister Keir Starmer , who on Monday announced he would resign,&#160;may not have been that popular with his British constituents lately, but he certainly had many friends among the European Union's top politicians.\n\nAs European Commission President Ursula von der Leyen&#160;reacted to his resignation on Monday , she wrote: \"European and Ukrainian security is stronger because of you. Thank you, dear Keir.\"\n\nFrench President Emmanuel Macron also expressed gratitude for Starmer's involvement in Europe's \"coalition of the willing\" for Ukraine, and for revitalizing EU-UK relations.\n\nIt was as a supporter of Ukraine in its war against Russia that Starmer really cemented his reputation in Europe. Together with Macron, Starmer was a leader of the so-called \"coalition of the willing.\" The alliance of 35 states supports Ukraine with military aid and, should there be a ceasefire, would then help Ukraine with longer-term defense.\n\nOn social media platform X, Ukrainian President Volodymyr Zelenskyy also wrote of his gratitude to Starmer.&#160;\n\nStarmer was a very active and reliable partner within the \"coalition of the willing,\" confirms Olivia O'Sullivan, director of the UK in the World program at British think tank, Chatham House.\n\nO'Sullivan notes that Starmer worked with other leaders to consider how Europe could play a strategic role in securing peace even though he struggled to find the funds needed to meet his self-imposed military spending targets. But that's a challenge that the next British prime minister is also going to face, she points out.\n\nBritain also played a major role&#160;advocating for Ukraine within what is known as the E3 format. This framework includes Germany, France and the UK and is supposed to help coordinate the foreign and security policy of all three.\n\nO'Sullivan says the E3 is behind a lot of European strategy, not only regarding Ukraine but also in dealing with the US government, which is increasingly playing a less significant and also less predictable role in European security.\n\nFor example, the E3 format has been used to make statements in response to US demands on how Europeans should contribute to securing the Strait of Hormuz.\n\nThe fact that the Europeans will now need to adapt to a new British prime minister isn't too much of a setback, O'Sullivan says, although Starmer's departure might see some loss of momentum for the E3.\n\nExactly how the UK's relations with the EU and European leaders develop in the future is going to depend on who succeeds Starmer. Currently there are strong...",
+            "zh": "英国首相基尔·斯塔默因其对乌克兰的支持以及为建立新的欧盟-英国防务伙伴关系所做的努力而广为人知。既然斯塔默宣布辞职，这些政策将会发生什么变化？ 英国首相基尔·斯塔默周一宣布辞职，他最近可能不太受英国选民的欢迎，但他在欧盟高层政治家中肯定有很多朋友。 欧盟委员会主席乌苏拉·冯德莱恩周一对他的辞职做出回应，她写道：“欧洲和乌克兰的安全因为你而变得更加强大。谢谢你，亲爱的基尔。” 法国总统马克龙也对斯塔默参与欧洲乌克兰“意愿联盟”以及重振欧盟与英国关系表示感谢。 作为乌克兰对俄战争的支持者，斯塔默真正巩固了他在欧洲的声誉。斯塔默与马克龙一起是所谓“自愿联盟”的领导人。由 35 个国家组成的联盟向乌克兰提供军事援助，如果停火，将帮助乌克兰进行长期防御。 乌克兰总统泽连斯基也在社交媒体平台X上表达了对斯塔默的感谢。 英国智库查塔姆研究所英国参与世界项目主任奥利维亚·奥沙利文证实，斯塔默是“自愿联盟”中非常活跃和可靠的合作伙伴。 奥沙利文指出，斯塔默与其他领导人合作，考虑欧洲如何在确保和平方面发挥战略作用，尽管他很难找到实现自己设定的军事支出目标所需的资金。但她指出，这也是下一任英国首相也将面临的挑战。 英国还在所谓的 E3 形式中发挥了支持乌克兰的重要作用。该框架包括德国、法国和英国，旨在帮助协调这三个国家的外交和安全政策。 奥沙利文表示，欧洲三国是许多欧洲战略的幕后黑手，不仅涉及乌克兰，还涉及与美国政府打交道，美国政府在欧洲安全中扮演的角色越来越不那么重要，也越来越难以预测。 例如，E3 格式已被用来发表声明，以回应美国关于欧洲应如何为确保霍尔木兹海峡安全做出贡献的要求。 奥沙利文表示，欧洲现在需要适应新任英国首相这一事实并不算太大的挫折，尽管斯塔默的离开可能会导致欧洲三国失去一些动力。 英国与欧盟和欧洲领导人的关系未来如何发展将取决于谁接替斯塔默。目前有实力雄厚的..."
           },
           "reflection": {
-            "en": "Leaders face complex decisions balancing immediate economic needs with long-term environmental goals, often with significant human impact. Proverbs reminds us that wise counsel is essential to navigate such challenges, ensuring that communities are not left vulnerable during times of transition. Seeking diverse perspectives can help prevent societal...",
-            "zh": "领导者在平衡眼前经济需求与长期环境目标时，常面临复杂决策，且往往对民生影响深远。箴言提醒我们，在应对此类挑战时，明智的忠告至关重要，以确保社区在转型时期不致脆弱。寻求多方观点有助于避免社会陷阱，并指引我们找到服务共同利益的解决方案。"
+            "en": "The resignation of a national leader often brings uncertainty about future direction and policy. Proverbs 29:18 reminds us that without clear vision, a people can lose their way, highlighting the importance of wise and principled leadership in guiding nations through transitions. In times of change, we look to Yahweh for wisdom to discern the path forward...",
+            "zh": "国家领导人的辞职常给未来的方向和政策带来不确定性。箴言29:18提醒我们，若没有异象，民就放肆，这突显了在国家转型时期，智慧和有原则的领导对指引国家的重要性。在变革时期，我们仰望雅伟赐予智慧，以辨明前进的道路，并为那些追求公义与和平的领袖祷告。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Proverbs 29:18",
+            "textEn": "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom's instruction.",
+            "textZh": "没有异象，民就放肆；惟遵守律法的，便为有福。",
+            "themeEn": "Need for vision",
+            "themeZh": "国家需要异象"
           },
-          "aiVerseId": "prov_11_14",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jun-24-zizian-cult-murder-charge-michel",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jun/24/zizian-cult-murder-charge-michelle-zajko",
-          "image": "https://i.guim.co.uk/img/media/bc0deeb02ee30a199f3c103b976bd8552ddf072a/0_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3721fb3684290666d337dddf09924e0a",
-          "publishedAt": "2026-06-24T17:57:34.000Z",
-          "title": {
-            "en": "Member of cultlike Zizians group charged with murder of her parents",
-            "zh": "邪教组织“齐齐安人”成员被控谋杀父母"
-          },
-          "summary": {
-            "en": "Michelle Zajko, a member of the cultlike Zizians group, has been charged with the 2022 murders of her parents in Pennsylvania. She had been in jail since February 2025 on other charges and denies the killings.",
-            "zh": "米歇尔·扎伊科（Michelle Zajko）是自称为“齐齐安人”（Zizians）的邪教组织成员，她被指控于2022年在宾夕法尼亚州谋杀其父母。她自2025年2月以来因其他指控被捕入狱，并否认了这些杀人指控。"
-          },
-          "body": {
-            "en": "Michelle Zajko, in jail since February 2025 on other charges, has been charged in 2022 Pennsylvania killings of parents A member of the cultlike group known as Zizians, who has denied killing her parents in Pennsylvania in 2022, has been charged with murder, a prosecutor said Wednesday. Michelle Zajko, who has been jailed in Maryland on other charges since February 2025, has been charged with murder, burglary and conspiracy charges in the deaths of Rita and Richard Zajko, Delaware county district attorney Tanner Rouse said at a news conference. The prosecutor said she did not act alone. Continue reading...",
-            "zh": "因其他罪名自 2025 年 2 月起入狱的米歇尔·扎伊科 (Michelle Zajko) 被指控在 2022 年宾夕法尼亚州杀害父母。一名名为 Zizians 的邪教组织成员否认 2022 年在宾夕法尼亚州杀害了她的父母，检察官周三表示，她被指控犯有谋杀罪。特拉华州地方检察官坦纳·罗斯 (Tanner Rouse) 在新闻发布会上表示，米歇尔·扎伊科 (Michelle Zajko) 自 2025 年 2 月以来一直因其他罪名在马里兰州入狱，她被指控犯有谋杀、入室盗窃和共谋杀害丽塔·扎伊科 (Rita Zajko) 和理查德·扎伊科 (Richard Zajko) 的罪名。检察官称她并非单独行动。继续阅读..."
-          },
-          "reflection": {
-            "en": "This tragic news reminds us of the profound dangers when human allegiance is given to anything other than Yahweh. When ideologies or groups demand ultimate devotion, they can tragically distort our understanding of love, family, and even life itself. Yahweh alone is worthy of our worship, and His commands guide us toward life and true relationship.",
-            "zh": "这则悲剧性的新闻提醒我们，当人类的忠诚被赋予雅伟以外的任何事物时，会带来多么深远的危险。当意识形态或团体要求绝对的忠诚时，它们会悲剧性地扭曲我们对爱、家庭乃至生命本身的理解。唯有雅伟配得我们的敬拜，祂的诫命指引我们走向生命和真实的关系。"
-          },
-          "verse": {
-            "reference": "Exodus 20:3",
-            "textEn": "You shall have no other gods before me.",
-            "textZh": "除了我以外，你不可有别的神。",
-            "themeEn": "No other gods",
-            "themeZh": "独一真神"
-          },
-          "aiVerseId": "ex_20_3",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-jun-24-israel-defence-minister-israel-kat",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
-          "image": "https://i.guim.co.uk/img/media/4d13d32d449848563be2f4af921a0b69c39b075b/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad37f327a480972bd1c55014981389ef",
-          "publishedAt": "2026-06-24T17:57:19.000Z",
-          "title": {
-            "en": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
-            "zh": "以色列称国防军将留在黎巴嫩南部，破坏了与伊朗的和平谈判"
-          },
-          "summary": {
-            "en": "Israel's defense minister, Israel Katz, stated that Israeli troops would not withdraw from southern Lebanon. This decision complicates ongoing peace talks with Iran, which views an end to the conflict in Lebanon as a condition for any deal with the United States.",
-            "zh": "以色列国防部长以色列·卡茨表示，以色列军队不会从黎巴嫩南部撤出。这一决定使与伊朗的和平谈判进一步复杂化，因为伊朗将结束黎巴嫩冲突视为与美国达成任何协议的条件之一。"
-          },
-          "body": {
-            "en": "Defence minister says troops are not withdrawing even though Tehran sees end to conflict in Lebanon as part of any deal with US The Israeli defence minister, Israel Katz, has said that Israeli troops would not withdraw from southern Lebanon, further complicating Iran peace talks as fighting in Lebanon continues to be an obstacle to permanent peace. Speaking on stage in an interview in Tel Aviv, Katz said that Israeli troops would remain in south Lebanon – echoing sentiments from the Israeli prime minister, Benjamin Netanyahu. Continue reading...",
-            "zh": "国防部长表示，尽管德黑兰认为结束黎巴嫩冲突是与美国达成协议的一部分，但以色列军队不会撤军以色列国防部长以色列卡茨表示，以色列军队不会从黎巴嫩南部撤军，这使伊朗和谈进一步复杂化，因为黎巴嫩的战斗仍然是实现永久和平的障碍。卡茨在特拉维夫接受采访时表示，以色列军队将留在黎巴嫩南部，这呼应了以色列总理本杰明·内塔尼亚胡的观点。继续阅读..."
-          },
-          "reflection": {
-            "en": "The news of stalled peace talks reminds us how challenging it can be to live at peace when conflicting interests are at play. Yahweh's word encourages us to pursue peace diligently, recognizing that while we cannot control all circumstances, we are called to do our part. Even amidst complex geopolitical realities, striving for peaceful coexistence remains a...",
-            "zh": "和平谈判陷入僵局的消息提醒我们，当各方利益冲突时，和平共处是多么具有挑战性。雅伟的话语鼓励我们勤奋地追求和平，认识到虽然我们无法控制所有情况，但我们被呼召尽自己的本分。即使在复杂的地缘政治现实中，努力实现和平共处仍然是一项至关重要的人类事业。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
+          "aiVerseId": "prov_29_18",
           "translationState": "localized"
         },
         {
@@ -331,7 +363,7 @@
             "zh": "法国国家气象局表示，法国经历了自1947年有记录以来最热的一天，打破了本周二创下的纪录，极端高温导致全国范围内的电力中断。"
           },
           "body": {
-            "en": "France has recorded its hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday as an early summer heatwave grips western Europe.\n\nThe national temperature indicator - an average of day and night temperatures across dozens of locations - hit 30C, up from 29.8C a day earlier.\n\nMore than half the country remains under a red heat alert with tens of thousands of homes in the west without power. The temperature in Paris and many other areas broke 40C on Wednesday.\n\nIt comes as a searing European heatwave continues to cause deaths and disruption, particularly in France, Spain and Italy.\n\nClimate change is driving up temperatures around the world - but particularly in Europe. It is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus climate service , external .\n\nThis is causing increased summer heatwaves, greater pressure on Europe's water supply, and more intense wildfires.\n\nThe heatwave spread to other parts of western Europe on Wednesday, with an orange alert for dangerous weather in place for parts of the Netherlands.\n\nA rare red heat alert is in place for parts of the UK , with June records breaking on Wednesday as the English county of Hampshire recorded 36.1C. Temperatures could hit 38C on Thursday, forecasters say.\n\nMeanwhile, Météo-France recorded provisional maximum temperatures across the country that \"remained relatively stable compared to the previous day\".\n\nHighs ranged from 39C to 42C across much of western France, with 43C recorded in the Poitou-Charentes-Val de Loire region, slightly lower than the 44.3C seen in Pissos on Tuesday.\n\nOvernight, minimum temperatures had exceeded 28C in the Vendée region and over 25C in Paris.\n\nTemperatures are expected to peak in the Netherlands and Belgium on Friday, while the temperature in Germany is expected to rise to 40C over the weekend.\n\nThe heatwave will also extend to eastern Europe over the next few days, with severe heat warnings issued for countries including Poland, Croatia and Hungary for later in the week.\n\nAt least forty people have drowned in heatwave-related incidents in France since last Thursday, according to the prime minister.\n\nOn Wednesday, red alerts in France were extended to include four more regions, Météo France said, bringing the total number to 58. Thirty-one more regions are under an orange alert.\n\nSome relief from the heat in France is expected from Friday, with temperatures forecast to gradually drop over the weekend. This change will come with thunderstorms, bringing a risk of flash flooding and large hail.\n\nSpeaking to French radio, labour minister Jean-Pierre Farandou said \"we're in the process of finding out we've become a hot country\" and warned society may need to...",
+            "en": "France has recorded its hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday as an early summer heatwave grips western Europe.\n\nThe national temperature indicator - an average of day and night temperatures across dozens of locations - hit 30C, up from 29.8C a day earlier.\n\nMore than half the country remains under a red heat alert with tens of thousands of homes in the west without power.\n\nIt comes as a searing European heatwave continues to cause deaths and disruption, particularly in France, Spain and Italy.\n\nClimate change is driving up temperatures around the world - but particularly in Europe. It is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus climate service , external .\n\nThis is causing increased summer heatwaves, greater pressure on Europe's water supply, and more intense wildfires.\n\nThe heatwave spread to other parts of western Europe on Wednesday, with an orange alert for dangerous weather in place for parts of the Netherlands.\n\nA rare red heat alert is in place for parts of the UK , with June records breaking on Wednesday as the English county of Hampshire recorded 36.1C. Temperatures could hit 38C on Thursday, forecasters say.\n\nMeanwhile, Météo-France recorded provisional maximum temperatures across the country that \"remained relatively stable compared to the previous day\".\n\nHighs ranged from 39C to 43C across much of western France, with with 43C recorded in the Poitou-Charentes-Val de Loire region, slightly lower than the 44.3C seen in Pissos on Tuesday.\n\nTemperatures are expected to peak in the Netherlands, Belgium and Germany nearer the weekend.\n\nThe heatwave will also extend to eastern Europe over the next few days, with severe heat warnings issued for countries including Poland, Croatia and Hungary for later in the week.\n\nSome relief from the heat in France is expected from Friday, with temperatures expected to gradually drop.\n\nLabour minister Jean-Pierre Farandou said France is \"in the process of finding out we've become a hot country\" and warned society may need to adapt.\n\nAuthorities also warned that the risk of forest fires is higher during such a prolonged and intense heatwave.\n\nIn the Maine-et-Loire region, more than 150 firefighters were deployed to fight a major fire on Tuesday in the Breignon forest in Saint-Macaire-du-Bois. It was brought under control overnight, officials said.\n\nIn Paris, two landmarks - the Louvre and the Eiffel Tower - closed earlier than usual due to the intense heat.\n\nA spokesperson for the Louvre said the building was \"not sufficiently adapted to climate change\".\n\nAt least 40 people have drowned in heatwave-related incidents in France since last Thursday, including a six-year-old at a...",
             "zh": "法国国家气象局称，法国迎来了自 1947 年有记录以来最热的一天，打破了周二初夏热浪席卷西欧创下的纪录。 全国气温指标（数十个地点的昼夜平均气温）升至 30 摄氏度，高于前一天的 29.8 摄氏度。 该国一半以上仍处于高温警报状态，西部数以万计的家庭断电。周三，巴黎和许多其他地区的气温突破了40摄氏度。 与此同时，欧洲灼热的热浪继续造成死亡和破坏，特别是在法国、西班牙和意大利。 气候变化正在推高世界各地的气温，尤其是在欧洲。根据哥白尼气候服务机构的数据，它是变暖最快的大陆，升温速度是全球平均水平的两倍。 这导致夏季热浪加剧、欧洲供水压力更大以及野火更加猛烈。 周三，热浪蔓延到西欧其他地区，荷兰部分地区发布了危险天气橙色警报。 英国部分地区发布了罕见的赤热警报，周三英国汉普郡郡的气温达到 36.1 摄氏度，打破了 6 月份的记录。预报员称，周四气温可能达到 38 摄氏度。 与此同时，法国气象局记录的全国临时最高气温“与前一天相比保持相对稳定”。 法国西部大部分地区的最高气温在39摄氏度到42摄氏度之间，其中普瓦图-夏朗德-卢瓦尔河谷地区的气温为43摄氏度，略低于周二皮索斯的44.3摄氏度。 一夜之间，旺代地区最低气温超过 28 摄氏度，巴黎超过 25 摄氏度。 预计荷兰和比利时的气温将于周五达到峰值，而德国的气温预计周末将升至 40 摄氏度。 未来几天，热浪还将蔓延至东欧，本周晚些时候将对波兰、克罗地亚和匈牙利等国家发布严重高温警告。 据法国总理称，自上周四以来，法国已有至少 40 人在与热浪相关的事件中溺水身亡。 法国气象局表示，周三，法国的红色警报范围扩大到另外四个地区，使总数达到 58 个。另有 31 个地区处于橙色警报之下。 预计从周五开始，法国的炎热天气将有所缓解，预计周末气温将逐渐下降。这种变化将伴随雷暴天气，带来山洪和大冰雹的风险。 劳工部长让-皮埃尔·法兰杜在接受法国电台采访时表示，“我们正在发现我们已经成为一个热门国家”，并警告社会可能需要……"
           },
           "reflection": {
@@ -358,28 +390,29 @@
           "publishedAt": "2026-06-24T15:50:22.000Z",
           "title": {
             "en": "Colombia's left-wing presidential candidate concedes defeat",
-            "zh": "哥伦比亚左翼总统候选人承认失败"
+            "zh": "哥伦比亚左翼总统候选人承认败选"
           },
           "summary": {
-            "en": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "Senator Iván Cepeda, the left-wing presidential candidate in Colombia, has conceded defeat after losing to right-wing businessman Abelardo de la Espriella by less than one percentage point.",
+            "zh": "哥伦比亚左翼总统候选人伊万·塞佩达参议员承认败选，他以不到一个百分点的劣势输给了右翼商人阿贝拉多·德拉埃斯普列拉。"
           },
           "body": {
             "en": "The left-wing candidate in Colombia's presidential run-off, Iván Cepeda, has conceded defeat three days after a record number of Colombians cast their vote.\n\nPreliminary results released hours after the polls closed showed Cepeda had been beaten by less than a percentage point by his rival, right-wing businessman Abelardo de la Espriella.\n\nCepeda originally said he would wait for the legally binding final count - which is still under way - but on Wednesday announced he had \"decided to accept the result\".\n\n\"We denounce the open and undue foreign interference in Colombia's internal affairs, in particular the interventions of President Donald Trump,\" he told journalists.\n\nTrump had praised de la Espriella following his win in the first round of the election and labelled Cepeda a \"radical Left Marxist\".\n\nAfter de la Espriella beat Cepeda in the run-off, Trump said he had won \"easily\", even though his 0.96-percentage-point lead was the narrowest win in recent Colombian history for a presidential candidate.\n\nReferring to the deep polarisation in the country, Cepeda said he had decided to concede \"as an act of democratic responsibility; I do so to contribute to co-existence, to peace, and to dialogue among Colombians\".\n\nAs the second-placed candidate he is entitled to a seat in the Senate, where he said he would exercise \"a democratic, vigilant and constructive opposition\".\n\nAbelardo de la Espriella, who during the campaign had threatened to \"gut the Left\", also struck a conciliatory note during his victory speech, saying that those who thought differently from him would have nothing to fear.\n\nSince Sunday's run-off de la Espriella has already established closer ties to the Trump administration than the outgoing president, Gustavo Petro, who had repeatedly clashed with his US counterpart.\n\nColombia's president-elect said on Tuesday that he would accept an invitation for his country to join the \"Shield of the Americas\", a US-led alliance of Western Hemisphere countries created to combat criminal cartels and drug-trafficking.",
             "zh": "哥伦比亚总统决选的左翼候选人伊万·塞佩达在投票人数创纪录的三天后承认失败。 投票结束数小时后公布的初步结果显示，塞佩达的领先优势不到他的竞争对手、右翼商人阿韦拉多·德拉埃斯普里埃拉(Abelardo de la Espriella)。 塞佩达最初表示，他将等待具有法律约束力的最终计票结果，该计票仍在进行中，但周三宣布他“决定接受结果”。 他对记者说：“我们谴责外国对哥伦比亚内政的公开和不当干涉，特别是唐纳德·特朗普总统的干预。” 特朗普在第一轮选举中获胜后赞扬了德拉埃斯普里埃拉，并将塞佩达称为“激进的左翼马克思主义者”。 德拉埃斯普里埃拉在决选中击败塞佩达后，特朗普表示自己“轻松”获胜，尽管他以 0.96 个百分点的领先优势是哥伦比亚近年历史上总统候选人的最微弱优势。 在谈到该国严重的两极分化时，塞佩达表示，他决定承认“作为一种民主责任的行为；我这样做是为了为哥伦比亚人之间的共存、和平和对话做出贡献”。 作为排名第二的候选人，他有权在参议院获得一个席位，他表示他将在参议院表现出“民主、警惕和建设性的反对态度”。 阿韦拉多·德拉埃斯普里埃拉在竞选期间曾威胁要“消灭左派”，他在胜利演讲中也发表了和解言论，称那些与他想法不同的人没有什么好害怕的。 自周日的决选以来，德拉埃斯普里埃拉已经与特朗普政府建立了比即将卸任的总统古斯塔沃·佩特罗更密切的关系，后者曾多次与美国总统发生冲突。 哥伦比亚当选总统周二表示，他将接受哥伦比亚加入“美洲之盾”的邀请，这是一个由美国领导的西半球国家联盟，旨在打击犯罪卡特尔和贩毒。"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In the wake of a closely contested election, the concession of defeat reminds us that earthly power is ultimately held in Yahweh's hands. While human effort and choice are real, it is Yahweh who raises up leaders and brings others low according to His sovereign will. This outcome invites us to trust in His overarching plan for nations, regardless of who...",
+            "zh": "在一场竞争激烈的选举之后，承认败选提醒我们，地上的权力最终掌握在雅伟手中。虽然人类的努力和选择是真实的，但雅伟会根据祂至高无上的旨意，兴起领袖，也使人降卑。这一结果邀请我们，无论谁执政，都要信靠祂对万国的大局计划。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Psalm 75:7",
+            "textEn": "It is God who judges: He brings one down, he exalts another.",
+            "textZh": "惟有神断定；他使这人降卑，使那人升高。",
+            "themeEn": "God lifts and lowers",
+            "themeZh": "神升降"
           },
-          "translationState": "fallback"
+          "aiVerseId": "ps_75_7",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-articles-cj9gzr9rdjlo-at-medium-rss-at-campaign-rss",
@@ -414,39 +447,6 @@
           },
           "aiVerseId": "jas_5_14",
           "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-ce8j6g3v3r4o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/340e/live/f69c8770-6f7b-11f1-8e1d-bbbb1017d210.jpg",
-          "publishedAt": "2026-06-24T14:57:21.000Z",
-          "title": {
-            "en": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-            "zh": "国会首次通过战争权力措施，在伊朗问题上与特朗普决裂"
-          },
-          "summary": {
-            "en": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The Republican-controlled US Senate has approved a measure demanding that President Donald Trump halt the war in Iran or seek congressional approval before continuing military action.\n\nBut while the resolution is largely symbolic, it could have political ramifications and represents a rare rebuke of Trump by lawmakers who have largely fallen behind the president since his return to office.\n\nA handful of Republicans joined Democrats in Tuesday's 50-48 vote. The same measure was passed by the US House of Representatives earlier this month.\n\nIt came as Republicans in Congress have expressed scepticism about a peace plan Trump agreed with Iran, and the unpopular conflict approaches its fifth month.\n\nTrump criticised the resolution on Tuesday night, calling it \"poorly timed and meaningless\".\n\n\"So, I have Iran on the 'ropes,' ready to go down for the fall... and the U.S. Senate decides to have a poorly timed and meaningless War Powers Act Vote,\" Trump wrote on his Truth Social platform.\n\n\"These Senators have just made my job more difficult, but I will get it done, one way or the other, because I always get it done!\"\n\nThe vote marks the first time that both chambers of Congress have approved a concurrent resolution instructing a president to end a military action since the War Powers Resolution of 1973 was enacted.\n\nA concurrent resolution expresses the sentiment or will of Congress, as opposed to other forms of legislation that go to the president to be signed into law. In 2019, Trump vetoed a joint resolution that called for the removal of armed forces from hostilities in the Yemeni civil war.\n\nMiddle East analyst Laura Blumenfeld called it \"more of a slap on a wrist than a handcuff, because it has no legal binding\".\n\nBut she told the BBC she thought what \"it does reflect is the American people's sentiments\".\n\nIn practice, the vote is unlikely to have little impact on the currently frozen conflict with Iran.\n\nExperts believe he is likely to ignore it - as has every US president since it was enacted - and any legal challenges would likely produce no result.\n\n\"As a practical matter, it probably doesn't make much difference,\" said Michael Glennon, a professional law professor at Tufts University in Massachusetts. \"It's far more significant politically.\"\n\n\"You have both houses of Congress, which are under the control of the Republican Party, standing up to the president and saying no,\" Glennon added. \"That's almost unprecedented.\"\n\nTrump, Glennon noted, has been \"very effective\" in exacting retribution against dissident Republicans who oppose him.\n\nWhether the vote represents a harbinger of more opposition to the president remains unclear, however.\n\n\"I wouldn't overreact to the significance of this vote,\" said Jonathan Entin, a constitutional law professor...",
-            "zh": "共和党控制的美国参议院批准了一项措施，要求唐纳德·特朗普总统停止对伊朗的战争或在继续采取军事行动之前寻求国会批准。 不过，尽管该决议在很大程度上是象征性的，但它可能会产生政治影响，并且代表着议员们对特朗普的罕见谴责，自特朗普重返办公室以来，议员们在很大程度上已经落后于特朗普。 在周二的投票中，少数共和党人以 50 比 48 的投票结果加入了民主党的行列。本月早些时候，美国众议院也通过了同样的措施。 国会共和党人对特朗普与伊朗达成的和平计划表示怀疑，这场不受欢迎的冲突已进入第五个月。 特朗普周二晚间批评了该决议，称其“时机不当且毫无意义”。 特朗普在他的真相社交平台上写道：“因此，我让伊朗处于‘绳索’上，准备在秋季倒下……而美国参议院决定进行一次不合时宜且毫无意义的战争权力法案投票。” “这些参议员让我的工作变得更加困难，但我会以某种方式完成它，因为我总是能完成它！” 此次投票标志着自1973年《战争权力决议》颁布以来，国会参众两院首次同时批准一项指示总统结束军事行动的决议。 同时提出的决议表达了国会的观点或意愿，这与其他形式的立法不同，这些立法需提交总统签署成为法律。 2019年，特朗普否决了一项呼吁将武装部队撤出也门内战敌对行动的联合决议。 中东分析师劳拉·布卢门菲尔德称其“与其说是手铐，不如说是手腕上的一记耳光，因为它没有法律约束力”。 但她告诉英国广播公司，她认为“这确实反映了美国人民的情绪”。 实际上，这次投票不太可能对目前冻结的与伊朗的冲突产生什么影响。 专家认为，他很可能会忽视该法案——就像该法案颁布以来的每一位美国总统一样——任何法律挑战都可能不会产生任何结果。 马萨诸塞州塔夫茨大学的专业法学教授迈克尔·格伦农说：“实际上，这可能没有多大区别。” “这在政治上意义重大得多。” 格伦农补充道：“共和党控制下的国会参众两院都站起来对总统说不。” “这几乎是前所未有的。” 格伦农指出，特朗普在对反对他的持不同政见的共和党人进行报复方面“非常有效”。 然而，此次投票是否预示着将有更多人反对总统，目前尚不清楚。 宪法学教授乔纳森·恩廷（Jonathan Entin）表示：“我不会对这次投票的重要性反应过度。”"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-dw-com-en-iran-after-the-war-fragile-peace-shattered-economy-a-77690",
@@ -908,28 +908,29 @@
           "publishedAt": "2026-06-24T01:18:11.000Z",
           "title": {
             "en": "Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest",
-            "zh": "中国超级计算机超越美国最好机器，跻身世界最快计算机之列"
+            "zh": "中国超级计算机超越美国机器，位居世界第一"
           },
           "summary": {
-            "en": "China’s LineShine debuts at number one in Top500 – a list sometimes viewed as a national measure of global tech prowess A supercomputer in China now outranks its US counterparts as the world’s most powerful. It is the first time since 2017 that a Chinese computer has topped a...",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "China's LineShine supercomputer has been ranked the world's fastest, surpassing its US counterparts. This marks the first time since 2017 that a Chinese machine has topped the Top500 list, which is often seen as a measure of national technological prowess.",
+            "zh": "中国的“神威·太湖之光”超级计算机被评为全球最快，超越了美国同类机器。这是自2017年以来，中国计算机首次登上全球超级计算机500强榜首，该榜单常被视为衡量国家科技实力的指标。"
           },
           "body": {
             "en": "China’s LineShine debuts at number one in Top500 – a list sometimes viewed as a national measure of global tech prowess A supercomputer in China now outranks its US counterparts as the world’s most powerful. It is the first time since 2017 that a Chinese computer has topped a list sometimes viewed as a measure of a nation’s technological prowess. The LineShine computer in Shenzhen displaced top-ranked US computer El Capitan in the Top500 rankings released on Tuesday. It was LineShine’s debut on the list. Continue reading...",
             "zh": "中国的 LineShine 首次跻身 Top500 排行榜第一名——该榜单有时被视为衡量全球科技实力的国家标准。中国的超级计算机现已超过美国同行，成为世界上最强大的计算机。这是自 2017 年以来中国计算机首次跻身有时被视为衡量一个国家技术实力的榜单榜首。在周二发布的 Top500 排名中，深圳的 LineShine 计算机取代了排名第一的美国计算机 El Capitan。这是 LineShine 首次上榜。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The news of a new world's fastest supercomputer highlights humanity's relentless pursuit and acceleration of knowledge. This technological milestone reminds us of the prophetic words that in the end times, knowledge shall increase. It prompts reflection on how we steward such immense intellectual and computational power.",
+            "zh": "世界最快超级计算机的新闻，凸显了人类对知识不懈的追求和加速。这一技术里程碑提醒我们，在末时知识必会增长的预言。它促使我们思考如何管理如此巨大的智力和计算能力。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Daniel 12:4",
+            "textEn": "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.",
+            "textZh": "但以理啊，你要隐藏这话，封闭这书，直到末时。必有多人来往奔跑，知识就必增长。",
+            "themeEn": "Knowledge increasing",
+            "themeZh": "知识增长"
           },
-          "translationState": "fallback"
+          "aiVerseId": "dan_12_4",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-media-2026-jun-23-francis-markus-obituary",
@@ -1078,10 +1079,76 @@
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
       },
       "sourceNotes": [
-        "The Guardian Australia",
-        "SBS News Australia"
+        "SBS News Australia",
+        "The Guardian Australia"
       ],
       "items": [
+        {
+          "id": "www-sbs-com-au-news-insight-article-dan-saunders-atm-glitch-i-spent-year",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/insight/article/dan-saunders-atm-glitch-i-spent-years-expecting-a-knock-on-the-door/24czcdngs",
+          "image": "https://assets.sbs.com.au/dims4/default/a436608/2147483647/strip/false/crop/2560x1176+0+132/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fb5%2F22%2Fd1017b2d419da406d86885687585%2Fdan-saunders.png",
+          "publishedAt": "2026-06-24T19:48:43.000Z",
+          "title": {
+            "en": "I found a loophole and withdrew $1.6 million. I spent years expecting a knock on the door",
+            "zh": "我发现了一个漏洞并提取了160万美元。我花了好几年的时间等待着敲门声"
+          },
+          "summary": {
+            "en": "In 2011, Dan Saunders went on a spending spree that led to him being sentenced to a year in jail and fined $250,000.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Share your feedback and help us improve this feature. Read more about how we use AI at SBS here.\n\nDo&#x202F;you&#x202F;dream&#x202F;of&#x202F;suddenly&#x202F;coming into money &#x2014; winning&#x202F;Lotto, a quiz show, or a prize home? With rising costs of living,&#x202F;it's&#x202F;a popular fantasy; but does it always change our lives for the better? Watch Insight episode Coming Into Money on SBS On Demand.\n\nMy life course was altered one night in 2011 when I withdrew cash for a round of drinks at the pub.\n\nI was 29, earning $700 a week pulling beers at that same pub in Wangaratta in northeast Victoria. I regularly had three dollars to my name, and a gambling habit I told myself was 'just a bit of fun'.\n\nI was with friends and had just finished my shift, but I was out of cash for the next round &#x2014; so I walked around the corner to the ATM.\n\nI tried to transfer $200 from my credit card to my savings account; the screen said, \"transaction cancelled\", and spat out my card. But when I checked my balance, the money was somehow there even though the transaction said cancelled &#x2014; so I took out the $200 and went back to the bar.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nI passed the same machine on my way out. Something made me stop, and I put my card back in.\n\nI maxed out both my cards that night and went home to bed thinking I'd imagined the whole thing.\n\nIt didn't feel like a windfall at first; it felt like being part of an alternate reality.\n\nIt was exhilarating. The power I felt during that time was unlike anything I'd experienced in my entire life.\n\nThis is one of the biggest banks in the country, and I was a barman from a small regional city who had found a crack in the wall.\n\nSomething was intoxicating about that &#x2014; I felt it was the little guy getting one over on a system that never seems to work in your favour.\n\nI told myself that banks took from people every day in all sorts of ways; and for a while, that was enough to keep going.\n\nTo any shareholders still upset about it, genuinely, I'm sorry, but I feel you do profit off other people.\n\nI started betting regularly behind the bar at work, placing significantly bigger bets, and lost my job when management caught on. My relationship also ended, so I felt the 'limitless' bank card was the only good thing in my life at the time.\n\nI flew on private jets. I took mates to a remote island in Asia for a weekend &#x2014; $90,000 for the flight alone. I ate at restaurants where the bill came to more than most people earn in a month. I checked a homeless man into the Hilton on a whim. I paid friends' university fees, covered their rent, bought them cars.\n\nI shook money from a tree I had no...",
+            "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 你是否梦想突然发财——赢得乐透、智力问答节目或奖品之家？随着生活成本的上升，这是一个流行的幻想；但它总是能让我们的生活变得更好吗？观看 SBS On Demand 的 Insight 剧集《Coming Into Money》。 2011 年的一个晚上，我的人生轨迹发生了改变，当时我在酒吧里取了钱喝了一杯酒。 当时我 29 岁，在维多利亚州东北部旺加拉塔的同一家酒吧里喝啤酒，每周挣 700 美元。我的名下经常有三美元，我告诉自己赌博的习惯“只是一点乐趣”。 我和朋友在一起，刚刚下班，但下一轮的现金已经用完了，所以我绕过拐角到自动取款机。 我尝试将 200 美元从信用卡转入我的储蓄账户；屏幕显示“交易已取消”，然后吐出了我的卡。但当我检查余额时，尽管交易显示已取消，但不知怎么的，钱还是在那里——所以我拿出了 200 美元，然后回到了酒吧。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 我出去的时候也经过了同样的机器。有件事让我停了下来，我把卡放了回去。 那天晚上，我把两张卡都用光了，然后回家睡觉，以为这一切都是我想象出来的。 一开始我并不觉得这是一笔意外之财；感觉就像是另一个现实的一部分。 真是令人兴奋。那段时间我感受到的力量是我一生中从未经历过的。 这是该国最大的银行之一，我是来自一个地区小城市的酒保，发现墙上有裂缝。 这件事有些令人陶醉——我觉得这是一个小家伙在一个似乎永远不会对你有利的系统上完成的任务。 我告诉自己，银行每天都以各种方式从人们那里拿走钱。在一段时间内，这足以继续下去。 对于仍然对此感到不安的股东，我真诚地表示歉意，但我觉得你们确实从其他人身上获利。 我开始在工作时定期在吧台下注，赌注大得多，但当管理层发现后，我丢了工作。我的感情也结束了，所以我觉得‘无限’的银行卡是我当时生活中唯一的好东西。 我乘坐私人飞机。我带朋友去亚洲的一个偏远岛屿度周末——光是机票就花了 9 万美元。我在餐馆吃饭，账单比大多数人一个月的收入还要多。我一时兴起把一个无家可归的人送进了希尔顿酒店。我支付朋友的大学费用，支付他们的房租，给他们买汽车。 我从树上摇钱，我没有......"
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-ato-tax-time-warning-1000-deduction-gii74lky",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/ato-tax-time-warning-1000-deduction/gii74lky0",
+          "image": "https://assets.sbs.com.au/dims4/default/e9fb5c1/2147483647/strip/false/crop/5240x2408+0+543/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff7%2Ffa%2Ffc8ca2e04d7f87e0324d4f24f241%2F20250622163649644136-original.jpg",
+          "publishedAt": "2026-06-24T19:45:19.000Z",
+          "title": {
+            "en": "What you won't get this tax time — and the claims the ATO will be watching",
+            "zh": "这次报税时你不会得到什么——以及 ATO 将关注的索赔"
+          },
+          "summary": {
+            "en": "Australian taxpayers will have to wait until next year for a proposed deduction to come into effect.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Australians have been warned not to file bogus working from home claims, take the advice of 'finfluencers' too seriously and not to file tax returns too quickly.\n\nWith the new financial year beginning on July 1, there's also one key tax sweetener people won't be getting this year.\n\nIn its May budget, the federal government confirmed it would move to legislate a $1,000 instant tax deduction for work-related expenses as part of cost of living relief &#x2014; a measure it had announced as an election promise in 2025 .\n\nBut taxpayers won't receive the tax deduction this year, as the proposed change is expected to apply to the 2026-2027 return if legislated.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe ATO has stated that it will focus on areas where taxpayers are likely to make errors, including work-related deductions and expenses, as well as omitted income.\n\nThe agency also warns of misinformation and unverified advice on processing tax, urging taxpayers to think twice before following advice from third-party sources such as artificial intelligence, finfluencers and family and friends.\n\n\"There is a lot of misinformation out there, so checking it through a verified source is one of our key areas of focus this year,\" ATO assistant commissioner Anita Challen said.\n\nCPA Australia's tax lead Jenny Wong warns that tax time is a peak period for scam activity, with scammers using emails, text messages and phone calls impersonating the ATO or tax agents to trick people out of personal information or money.\n\n\"If something doesn't seem right, pause and verify the source.&#xA0;Access official services only through the ATO website or contact your registered tax agent directly,\" Wong told SBS News.\n\n\"With increasingly sophisticated scams, a moment of caution can prevent significant financial scams.\"\n\nGaven Ord, business and investment lead at CPA Australia, told SBS News it's important to prepare before lodging tax claims, rather than rushing.\n\n\"Cost-of-living pressures could mean some people are eager to lodge their tax return as quickly as possible this year to access a refund, but it's important to be patient, gather your receipts and evidence, then claim everything you are entitled to,&#x201D; he said.\n\nOrd also warns of another common mistake by taxpayers when filling in the forms.\n\n\"Some people go into autopilot when they do their tax returns, just cutting and pasting from their previous year's return and failing to consider any changes to their personal circumstances,\" he said.\n\n\"Take the time to reflect on your work-related expenses and collect your evidence before lodging.\"\n\nTaxpayers can continue to claim work-related expenses as usual. The money must have...",
+            "zh": "澳大利亚人被警告不要提出虚假的在家工作申请，不要太认真地对待“影响者”的建议，也不要太快提交纳税申报表。 随着新财政年度于 7 月 1 日开始，人们今年也无法获得一项关键的税收优惠。 在 5 月份的预算中，联邦政府确认将采取立法措施，对工作相关费用实行 1,000 美元的即时税收减免，作为生活成本减免的一部分——联邦政府在 2025 年的选举承诺中宣布了这一措施。 但纳税人今年不会获得税收减免，因为如果立法的话，拟议的变更预计将适用于 2026-2027 年的纳税申报表。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 ATO表示，它将重点关注纳税人可能犯错的领域，包括与工作相关的扣除和费用，以及遗漏收入。 该机构还警告有关处理税务的错误信息和未经证实的建议，敦促纳税人在遵循人工智能、金融人士、家人和朋友等第三方来源的建议之前三思而后行。 ATO 助理局长安妮塔·查伦 (Anita Challen) 表示：“市场上存在很多错误信息，因此通过经过验证的来源进行核实是我们今年的重点关注领域之一。” 澳大利亚注册会计师协会 (CPA Australia) 税务主管 Jenny Wong 警告说，报税时间是诈骗活动的高峰期，诈骗者会利用电子邮件、短信和电话冒充 ATO 或税务代理人，骗取人们的个人信息或金钱。 “如果事情看起来不对劲，请暂停并验证来源。仅通过 ATO 网站访问官方服务或直接联系您的注册税务代理人，”Wong 告诉 SBS 新闻。 “随着骗局日益复杂，只要保持警惕就可以防止重大金融诈骗。” 澳大利亚会计师公会 (CPA Australia) 商业和投资主管加文·奥德 (Gaven Ord) 告诉 SBS 新闻，在提出税务申报之前做好准备很重要，而不是操之过急。 “生活成本压力可能意味着一些人渴望今年尽快提交纳税申报表以获得退款，但重要的是要有耐心，收集收据和证据，然后索取你有权获得的一切，”他说。 奥德还警告纳税人在填写表格时常见的另一个错误。 他说：“有些人在填写纳税申报表时会陷入自动驾驶状态，只是从上一年的纳税申报表中剪切和粘贴，而没有考虑个人情况的任何变化。” “在住宿之前花点时间思考一下你与工作相关的费用并收集证据。” 纳税人可以继续照常申报与工作相关的费用。钱一定要..."
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-australia-news-2026-jun-24-the-pianist-from-the-audi",
           "section": "australia",
@@ -1112,39 +1179,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-jun-25-anti-immigration-ai-video",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jun/25/anti-immigration-ai-video-rightwing-repost-geoff-wilson-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/ff2a634b2415c8b900f7b0867884607327d72995/580_0_6225_4980/master/6225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c969334cfa6904de83ed1fedd3200c98",
-          "publishedAt": "2026-06-24T15:00:49.000Z",
-          "title": {
-            "en": "Labor tax critic deletes anti-immigration AI video reposted from rightwing nationalist account",
-            "zh": "工党税务评论家删除了从右翼民族主义账户转发的反移民人工智能视频"
-          },
-          "summary": {
-            "en": "Fund manager Geoff Wilson says he did not watch full video and deleted it after ‘inappropriate associations were identified’ Get our breaking news email, free app or daily news podcast The fund manager Geoff Wilson, a prominent public critic of the government’s tax changes, has...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Fund manager Geoff Wilson says he did not watch full video and deleted it after ‘inappropriate associations were identified’ Get our breaking news email , free app or daily news podcast The fund manager Geoff Wilson, a prominent public critic of the government’s tax changes, has deleted an inflammatory AI-generated video he reposted from a rightwing nationalist account portraying Anthony Albanese and Jim Chalmers taking money from white Australians and giving it to recently arrived migrants wearing Islamic face coverings. Wilson said he had not watched the full video before sharing it or examined other accounts, some of whose content he reposted on Wednesday morning – which included content relating to the QAnon conspiracy theory – and deleted his posts after being contacted by Guardian Australia. Continue reading...",
-            "zh": "基金经理杰夫·威尔逊 (Geoff Wilson) 表示，他没有观看完整视频，并在“发现不恰当的关联”后将其删除。 基金经理杰夫·威尔逊 (Geoff Wilson) 是政府税收改革的著名公开批评者，他删除了一段由人工智能生成的煽动性视频，该视频是他从右翼民族主义账户中转发的，该视频描绘了安东尼·阿尔巴尼斯 (Anthony Albanese) 和吉姆·查默斯 (Jim Chalmers) 从澳大利亚白人那里拿走钱，然后将其交给最近抵达的戴着伊斯兰面罩的移民。威尔逊表示，他在分享视频或检查其他帐户之前没有看过完整的视频，他在周三早上转发了其中一些内容，其中包括与 QAnon 阴谋论有关的内容，并在澳大利亚卫报联系后删除了他的帖子。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
           },
           "translationState": "fallback"
         },
@@ -1182,6 +1216,39 @@
           "translationState": "fallback"
         },
         {
+          "id": "www-theguardian-com-australia-news-2026-jun-25-anti-immigration-ai-video",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/25/anti-immigration-ai-video-rightwing-repost-geoff-wilson-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/ff2a634b2415c8b900f7b0867884607327d72995/580_0_6225_4980/master/6225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c969334cfa6904de83ed1fedd3200c98",
+          "publishedAt": "2026-06-24T15:00:49.000Z",
+          "title": {
+            "en": "Critic of Labor’s tax changes deletes anti-immigration AI video reposted from rightwing nationalist account",
+            "zh": "工党税收改革的批评者删除了从右翼民族主义账户转发的反移民人工智能视频"
+          },
+          "summary": {
+            "en": "Fund manager Geoff Wilson says he did not watch full video and deleted it after ‘inappropriate associations were identified’ Get our breaking news email, free app or daily news podcast The fund manager Geoff Wilson, a prominent public critic of the government’s tax changes, has...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Fund manager Geoff Wilson says he did not watch full video and deleted it after ‘inappropriate associations were identified’ Get our breaking news email , free app or daily news podcast The fund manager Geoff Wilson, a prominent public critic of the government’s tax changes, has deleted an inflammatory AI-generated video he reposted from a rightwing nationalist account portraying Anthony Albanese and Jim Chalmers taking money from white Australians and giving it to recently arrived migrants wearing Islamic face coverings. Wilson said he had not watched the full video before sharing it or examined other accounts, some of whose content he reposted on Wednesday morning – which included content relating to the QAnon conspiracy theory – and deleted his posts after being contacted by Guardian Australia. Continue reading...",
+            "zh": "基金经理杰夫·威尔逊 (Geoff Wilson) 表示，他没有观看完整视频，并在“发现不恰当的关联”后将其删除。 基金经理杰夫·威尔逊 (Geoff Wilson) 是政府税收改革的著名公开批评者，他删除了一段由人工智能生成的煽动性视频，该视频是他从右翼民族主义账户中转发的，该视频描绘了安东尼·阿尔巴尼斯 (Anthony Albanese) 和吉姆·查默斯 (Jim Chalmers) 从澳大利亚白人那里拿走钱，然后将其交给最近抵达的戴着伊斯兰面罩的移民。威尔逊表示，他在分享视频或检查其他帐户之前没有看过完整的视频，他在周三早上转发了其中一些内容，其中包括与 QAnon 阴谋论有关的内容，并在澳大利亚卫报联系后删除了他的帖子。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-theguardian-com-commentisfree-2026-jun-24-australia-multicultural-hi",
           "section": "australia",
           "source": "The Guardian Australia",
@@ -1199,7 +1266,7 @@
           },
           "body": {
             "en": "Multiculturalism has always been here. Like it or not, it is part of the way we are Get our breaking news email , free app or daily news podcast Pauline Hanson says Australia cannot be multicultural and must exist as a “monocultural society”. And yet Australia has never been monocultural, except as an unrealised dream. Multiculturalism means having several cultures, or ethnicities, within a single nation-state. Of course, multiculturalism is only a halfway house. You can also have various language and legal traditions under one government, which it is fair to call pluralism. The United Kingdom, for instance, including England, Scotland, Wales and Northern Ireland, is a pluralist state. Continue reading...",
-            "zh": "多元文化主义一直存在。 Like it or not, it is part of the way we are Get our breaking news email , free app or daily news podcast Pauline Hanson says Australia cannot be multicultural and must exist as a “monocultural society”.然而，除了作为一个未实现的梦想之外，澳大利亚从来都不是单一文化的。多元文化主义意味着在一个民族国家内拥有多种文化或种族。当然，多元文化主义只是一个中途之家。在一个政府的领导下，你也可以拥有多种语言和法律传统，公平地说，这就是多元化。例如，英国包括英格兰、苏格兰、威尔士和北爱尔兰，是一个多元化国家。继续阅读..."
+            "zh": "多元文化主义一直存在。不管你喜欢与否，这都是我们生活方式的一部分 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 Pauline Hanson 表示，澳大利亚不可能是多元文化的，而必须作为“单一文化社会”存在。然而，除了作为一个未实现的梦想之外，澳大利亚从来都不是单一文化的。多元文化主义意味着在一个民族国家内拥有多种文化或种族。当然，多元文化主义只是一个中途之家。在一个政府的领导下，你也可以拥有多种语言和法律传统，公平地说，这就是多元化。例如，英国包括英格兰、苏格兰、威尔士和北爱尔兰，是一个多元化国家。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1343,72 +1410,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-treasurer-says-fuel-excise-not-the-whole-sto",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/treasurer-says-fuel-excise-not-the-whole-story-amid-underlying-inflation-rise/178ur97qy",
-          "image": "https://assets.sbs.com.au/dims4/default/aaedec9/2147483647/strip/false/crop/6221x2858+0+644/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F9b%2F6f%2F0da82dd74b27b17aca945eee8266%2F20240314001917419336-original.jpg",
-          "publishedAt": "2026-06-24T04:01:02.000Z",
-          "title": {
-            "en": "Treasurer says fuel excise 'not the whole story' amid underlying inflation rise",
-            "zh": "财政部长表示，在潜在通胀上升的情况下，燃油税“并不是全部”"
-          },
-          "summary": {
-            "en": "Jim Chalmers said the costs and consequences of the war in the Middle East \"will be felt for some time\".",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Treasurer Jim Chalmers has denied the government's fuel excise cut is masking inflation figures, after headline inflation fell while underlying price pressures continue to rise.\n\nThe annual trimmed mean, a measure of core inflation closely watched by the Reserve Bank of Australia (RBA), edged up to 3.6 per cent in May from 3.4 per cent a month earlier, the Australian Bureau of Statistics reported on Wednesday.\n\nThe result was above the consensus estimate of forecasters, who had pencilled in a rise to 3.5 per cent.\n\nHeadline inflation fell to 4 per cent annually from 4.2 per cent in April, defying economists' expectations of a slight increase.\n\nThe fall in the headline figure was driven by an 11.9 per cent dip in fuel prices for the month.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nHousing costs were the largest contributor to annual inflation, up 6.5 per cent.\n\nThe trimmed mean is the RBA's preferred measure of inflation as it removes the biggest price swings and volatility.\n\nResponding to a reporter's question about the annual trimmed mean on Wednesday, Chalmers pointed the finger at the&#xA0; conflict in the Middle East .\n\n\"You can see it reflected in our forecasts and into the private sector forecast, that the cost and consequences of the war in the Middle East will be felt for some time,\" he said.\n\nAsked if headline inflation had come down \"because of the fuel excise cut\", the treasurer said the cut had partially contributed to the fall, but denied it was wholly responsible.\n\n\"The government's efforts to cut the fuel excise are part of the story but not the whole story, even when it comes to this very welcome moderation in fuel cost reflected in the inflation figures today,\" he said.\n\nIn April, the government cut the fuel excise &#x2014; a federal tax levied on petrol &#x2014; in response to the war in the Middle East, taking it from 52 cents to 20 cents.\n\nThe cut was due to expire on 30 June, but the Albanese government has extended it by another month at a lower rate .\n\n\"Those costs were felt initially when it came to petrol prices, and that is why we stepped in and stepped up with the fuel excise cut,\" Chalmers said.\n\nHe said the flow-on effects from the conflict were \"broadening\" out in the economy.\n\nThe headline inflation rate is closely watched by the central bank because it accounts for a large share of the consumer price basket and tends to be relatively sticky.\n\nThe latest figure reflected rising costs for electricity, new dwellings and rents, according to ABS head of price statistics Rachael McCririck.\n\n\"Electricity costs are 21.1 per cent higher than 12 months ago as Commonwealth and state government rebates that reduced electricity costs...",
-            "zh": "财政部长吉姆·查尔默斯否认政府的燃油消费税削减掩盖了通胀数据，此前总体通胀率下降，而潜在价格压力继续上升。 澳大利亚统计局周三报告称，澳大利亚储备银行 (RBA) 密切关注的核心通胀指标年度调整平均值从一个月前的 3.4% 微升至 5 月份的 3.6%。 这一结果高于预测者的一致预期，预测者预计增幅将达到 3.5%。 总体通胀率从 4 月份的 4.2% 降至每年 4%，超出了经济学家小幅增长的预期。 整体数据下降的原因是当月燃油价格下跌 11.9%。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 住房成本是年度通胀的最大贡献者，上涨了 6.5%。 截尾均值是澳大利亚央行首选的通胀指标，因为它消除了最大的价格波动和波动。 周三，查尔默斯在回答记者有关年度截尾平均数的问题时，将矛头指向了中东冲突。 他说：“你可以在我们的预测和私营部门的预测中看到，中东战争的成本和后果将在一段时间内感受到。” 当被问及整体通胀是否“因为燃油消费税削减”而下降时，财政部长表示，削减是导致通胀下降的部分原因，但否认这是全部责任。 他表示：“政府削减燃油税的努力只是故事的一部分，但不是故事的全部，即使是在今天的通胀数据中反映出燃料成本的这种非常受欢迎的放缓。” 4 月份，为了应对中东战争，政府削减了燃油消费税（对汽油征收的联邦税），从 52 美分降至 20 美分。 削减原定于 6 月 30 日到期，但阿尔巴尼亚政府以较低的利率将其再延长一个月。 查尔默斯说：“这些成本最初是在汽油价格方面感受到的，这就是我们介入并加大燃油消费税削减力度的原因。” 他表示，冲突对经济的连锁影响正在“扩大”。 央行密切关注总体通胀率，因为它在消费者物价篮子中占据很大份额，而且往往具有相对粘性。 ABS 价格统计主管 Rachael McCririck 表示，最新数据反映了电力、新住宅和租金成本的上涨。 “随着联邦和州政府的回扣降低了电力成本，电力成本比 12 个月前高出 21.1%......"
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-research-find-costly-ivf-addon-no-benefit-9k",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/research-find-costly-ivf-addon-no-benefit/9k5ex0urf",
-          "image": "https://assets.sbs.com.au/dims4/default/76b33f7/2147483647/strip/false/crop/800x368+0+116/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Fimages%2Fi%2Fv%2FIVF_4-3_12378975_1751813_59754b16a5398f3e36b96b5e_sd_800x600.jpg",
-          "publishedAt": "2026-06-23T22:32:25.000Z",
-          "title": {
-            "en": "'Desperate' IVF patients offered treatments with no proven fertility benefits",
-            "zh": "“绝望的”体外受精患者提供的治疗没有经过证实的生育益处"
-          },
-          "summary": {
-            "en": "Many IVF patients would pay for costly extra treatments to increase chances of pregnancy, but new research find many aren't effective.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Couples who hope to increase their fertility success by trialling in vitro fertilisation (IVF) add-ons may benefit little from the costly extra procedures, according to a new Australian-led study.\n\nResearchers at the University of Melbourne have analysed data on the effectiveness of 10 of the most popular additional procedures and techniques in the IVF process.\n\nThree common extra treatments were found to have weak evidence that they could increase chances of a successful pregnancy, including EmbryoGlue, endometrial scratching and physiological intracytoplasmic sperm injection.\n\nThe remaining seven add-ons were found to have little to no evidence of benefit.\n\nThose unproven add-ons include preimplantation genetic testing for aneuploidy, endometrial receptivity testing, corticosteroid use, platelet-rich plasma injection into the ovary, platelet-rich plasma infusion into the uterus, acupuncture and intralipid infusions.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nLead author Sarah Lensen said the findings challenge the widespread belief that additional treatments, such as intralipid infusion, improve outcomes.\n\nThis treatment involves injecting a liquid containing lipids &#x2014; fats &#x2014; into a patient's arm.\n\n\"If you look up 'intralipid' on Reddit, which is a popular social media platform for IVF patients &#x2026; there's no shortage of posts among patients discussing intralipid,\" she said.\n\n\"And similarly for the platelet-rich plasma. Again, we didn't find any evidence of benefit.\"\n\nCurrently, there are more than 20 extra IVF procedures available in IVF clinics, often advertised as add-ons that could benefit pregnancy, including acupuncture, corticosteroid use and intralipid infusions, with prices ranging from $150 to $5,000.\n\nIn 2021, the research team partnered with the Victorian IVF regulator VARTA to survey 1,590 women who undergo IVF treatment. It found 82 per cent of them had used an additional treatment alongside their IVF procedures.\n\n\"[IVF patients] often speak about that desperation that they feel and how, to some extent, that can make them vulnerable to trying out experimental things,\" Lensen said.\n\n\"So there is a lot of hope circulating in this space, but I think the hope's also important for patients to keep them going so they do try another IVF cycle if they have reasonable prognosis.\"\n\nLensen said despite the common perception that IVF could guarantee pregnancy, IVF success rates across the world remain \"modest\".\n\nShe urged IVF clinics and clinicians to provide clearer clarification on the effects of the add-ons.\n\n\"We need better safeguards to make sure patients are getting clear, balanced and evidence-based information,\" she said.\n\nFor...",
-            "zh": "澳大利亚领导的一项新研究表明，希望通过尝试体外受精（IVF）附加项目来提高生育成功率的夫妇可能不会从昂贵的额外程序中获益匪浅。 墨尔本大学的研究人员分析了 IVF 过程中 10 种最流行的附加程序和技术的有效性数据。 三种常见的额外治疗被发现没有足够的证据表明它们可以增加成功怀孕的机会，包括胚胎胶、子宫内膜刮擦和生理胞浆内单精子注射。 其余七个附加组件被发现几乎没有任何益处的证据。 这些未经证实的附加措施包括植入前非整倍体基因检测、子宫内膜容受性检测、皮质类固醇的使用、卵巢内注射富血小板血浆、子宫内输注富血小板血浆、针灸和脂肪乳输注。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 主要作者莎拉·伦森 (Sarah Lensen) 表示，这些发现挑战了人们普遍认为的额外治疗方法（例如输注脂肪乳）可以改善结果的观点。 这种治疗方法包括将含有脂质（脂肪）的液体注射到患者的手臂中。 “如果你在 Reddit 上查找‘脂肪乳’，这是一个受 IVF 患者欢迎的社交媒体平台……患者中不乏讨论脂肪乳的帖子，”她说。 “富含血小板的血浆也是如此。同样，我们没有发现任何有益的证据。” 目前，IVF 诊所提供 20 多种额外的 IVF 程序，通常被宣传为有益于怀孕的附加项目，包括针灸、皮质类固醇使用和脂肪乳输注，价格从 150 美元到 5,000 美元不等。 2021年，研究团队与维多利亚州IVF监管机构VARTA合作，对1,590名接受IVF治疗的女性进行了调查。研究发现，其中 82% 的人在进行体外受精手术的同时还使用了额外的治疗方法。 “[试管受精患者]经常谈论他们感受到的绝望，以及在某种程度上，这如何使他们容易尝试实验性事物，”伦森说。 “所以这个领域充满了希望，但我认为希望对于患者来说也很重要，让他们继续下去，所以如果他们有合理的预后，他们会尝试另一个 IVF 周期。” 伦森表示，尽管人们普遍认为体外受精可以保证怀孕，但世界各地的体外受精成功率仍然“不大”。 她敦促试管受精诊所和临床医生对附加产品的效果提供更清晰的说明。 “我们需要更好的保障措施，以确保患者获得清晰、平衡和基于证据的信息，”她说。 为了..."
-          },
-          "reflection": {
-            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "James 1:5",
-            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
-            "themeEn": "Ask God for wisdom",
-            "themeZh": "求神赐智慧"
           },
           "translationState": "fallback"
         }
