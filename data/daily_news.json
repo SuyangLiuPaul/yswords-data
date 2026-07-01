@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T21:18:31.847Z",
+  "generatedAt": "2026-07-01T23:02:56.581Z",
   "editionDate": "2026-07-02",
   "sources": [
     {
@@ -112,124 +112,191 @@
       ],
       "items": [
         {
-          "id": "www-theguardian-com-us-news-2026-jul-01-empire-state-building-banner-pro",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/01/empire-state-building-banner-proposal",
-          "image": "https://i.guim.co.uk/img/media/f0e10630b53b8ce591c37f5562dda1affdfae449/209_0_1885_1508/master/1885.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=592ad16f16a50fd90739f87cb835c8d5",
-          "publishedAt": "2026-07-01T21:05:19.000Z",
-          "title": {
-            "en": "Two people arrested in apparent marriage proposal atop Empire State Building",
-            "zh": "两人因在帝国大厦顶端求婚而被捕"
-          },
-          "summary": {
-            "en": "Two individuals were arrested after climbing the Empire State Building's spire, where they reportedly made a marriage proposal and unfurled a banner displaying a message of peace.",
-            "zh": "两人因攀爬帝国大厦尖顶而被捕，据报道，他们在那里求婚并展开了一幅带有和平信息的横幅。"
-          },
-          "body": {
-            "en": "The two people also unfurled a large black banner displaying a message of peace atop the New York landmark Two people have been arrested following an apparent marriage proposal atop the Empire State Building’s spire on Wednesday, after they climbed to the very pinnacle of the New York City landmark – well above the level open to the public. The two people, both wearing black clothing and who appeared to be masked, also unfurled a large black banner at the top of the skyscraper with the words: “When the power of love beats the love of power the ‌world knows peace.” Continue reading...",
-            "zh": "这两个人还在纽约地标建筑上展开了一面巨大的黑色横幅，上面写着和平的信息。周三，两人在登上纽约市地标建筑的最高点（远高于向公众开放的高度）后，在帝国大厦尖顶上求婚，随后被捕。两人都穿着黑色衣服，似乎都戴着面具，还在摩天大楼的顶部展开了一面巨大的黑色横幅，上面写着：“当爱的力量战胜了权力之爱时，世界就知道和平了。”继续阅读..."
-          },
-          "reflection": {
-            "en": "This unusual event, combining a personal proposal with a public message of peace, highlights the tension between individual expression and civic order. While the desire to share a message of peace is commendable, Yahweh's word reminds us to respect the governing authorities established for societal well-being.",
-            "zh": "这一将个人求婚与公共和平信息结合的非同寻常的事件，凸显了个人表达与公民秩序之间的张力。虽然传递和平信息的愿望值得称赞，但雅伟的话语提醒我们，要尊重为社会福祉而设立的执政掌权者。"
-          },
-          "verse": {
-            "reference": "Romans 13:1",
-            "textEn": "Let everyone be subject to the governing authorities, for there is no authority except that which God has established.",
-            "textZh": "在上有权柄的，人人当顺服他，因为没有权柄不是出于神的。",
-            "themeEn": "God-given authority",
-            "themeZh": "神所立的权柄"
-          },
-          "aiVerseId": "rom_13_1",
-          "translationState": "localized"
-        },
-        {
           "id": "www-theguardian-com-australia-news-live-2026-jul-02-australia-politics-l",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/59e8e822fa151002ffb89699830ff990958a72e6/1002_513_6226_4981/master/6226.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=78d4d991ca96d9dd04ff7b33a84082c3",
-          "publishedAt": "2026-07-01T20:59:13.000Z",
+          "image": "https://i.guim.co.uk/img/media/a7d20fdaeeec3d8ba879e3ceef1fc354c7c35a6a/293_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1ec000539e89f1176c156e86054c30dd",
+          "publishedAt": "2026-07-01T22:38:49.000Z",
           "title": {
-            "en": "Australia politics live: defence industry minister to spruik Labor’s ‘progressive patriotism’ as audits reveal waste",
-            "zh": "澳大利亚政治直播：审计显示浪费，国防工业部长大肆宣扬工党的“进步爱国主义”"
+            "en": "Australia politics live: Labor makes partial U-turn on controversial automated aged-care assessment tool",
+            "zh": "澳大利亚政治直播：工党部分撤回备受争议的自动化老年护理评估工具"
           },
           "summary": {
-            "en": "Pat Conroy to tell National Press Club that Labor is the true party of defence and national security. Follow today’s news live Get our breaking news email, free app or daily news podcast Taiwanese man charged over people-smuggling operation A Taiwanese man has been charged over...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "Australia's Labor government has partially reversed a controversial automated aged-care assessment tool. Separately, a minister is set to address the National Press Club on defence and national security, while another report mentions a delay in social media law and document shredding.",
+            "zh": "澳大利亚工党政府部分撤回了一项备受争议的自动化老年护理评估工具。与此同时，一位部长将在国家新闻俱乐部就国防和国家安全发表演讲，另有报道提及社交媒体法案的延迟和文件销毁。"
           },
           "body": {
-            "en": "Pat Conroy to tell National Press Club that Labor is the true party of defence and national security. Follow today’s news live Get our breaking news email , free app or daily news podcast Taiwanese man charged over people-smuggling operation A Taiwanese man has been charged over a failed people-smuggling operation that left campers startled when they saw a boat carrying foreign nationals land on a remote beach, Australian Associated Press reports. Progressive patriotism, in the eyes of the Albanese government – and the great labour movement – is confidence in, and celebration of, what our national project has built It is confidence in how it is evolving, and confidence in the future. Strong defence of our country – including the need to invest in our defence industry, people and systems – is a critical part of understanding what Australian progressive patriotism looks like today. Continue reading...",
-            "zh": "帕特·康罗伊告诉全国新闻俱乐部，工党是真正的国防和国家安全政党。关注今日新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一名台湾男子因人口走私活动被指控 据澳大利亚美联社报道，一名台湾男子因一次失败的人口走私活动而被指控，当露营者看到一艘载有外国人的船只在偏远的海滩上登陆时，他们感到震惊。在阿尔巴尼亚政府和伟大的劳工运动眼中，进步爱国主义是对我们国家项目所建立的信心和庆祝，是对它如何发展的信心，也是对未来的信心。强有力地保卫我们的国家——包括投资我们的国防工业、人民和系统的需要——是理解今天澳大利亚进步爱国主义的关键部分。继续阅读..."
+            "en": "Meanwhile, Pat Conroy to tell National Press Club that Labor is the true party of defence and national security. Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Eight weeks to shred documents’: Wells on social media law delay The main reason for Anika Wells ’ media appearances this morning is to kick the Coalition and the Greens for sending that social media bill – increasing fines for platforms and handing the eSafety commissioner more power – into an eight-week inquiry. It’s not complex, and I think Angus Taylor should explain why he is honestly giving big tech eight more weeks to prepare their case, eight more weeks to get their ducks in a row, potentially eight weeks to shred documents now that they know these changes are coming. I think this is genuinely urgent. I’m crestfallen. Angus Taylor has decided to walk away from bipartisanship and he should explain why he would make such a craven and expedient decision. If you chose to watch – I don’t want to name any particular given that we’re on the ABC – but if you are watching the football World Cup on SBS, another public broadcaster, for example, you have the ability to opt out of seeing gambling advertising and from 1 January on streaming. And we know the trend for viewing in Australia is that more than half of the population now view these things online through streamers. Continue reading...",
+            "zh": "与此同时，帕特·康罗伊告诉国家新闻俱乐部，工党是真正的国防和国家安全政党。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 “粉碎文件八周”：威尔斯谈社交媒体法延迟 阿尼卡·威尔斯今天早上出现在媒体上的主要原因是反对联盟党和绿党发送社交媒体法案——增加对平台的罚款并赋予电子安全专员更多权力——进入为期八周的调查。这并不复杂，我认为安格斯·泰勒应该解释一下为什么他诚实地给了大型科技公司八周的时间来准备他们的案子，八周的时间来让他们的鸭子排成一排，既然他们知道这些变化即将到来，那么可能需要八周的时间来粉碎文件。 I think this is genuinely urgent.我垂头丧气。安格斯·泰勒已决定放弃两党合作，他应该解释为什么他会做出如此胆怯而权宜之计的决定。如果您选择观看——鉴于我们在 ABC 上，我不想透露任何具体信息——但如果您在另一家公共广播公司 SBS 上观看足球世界杯，那么您可以从 1 月 1 日起选择不看赌博广告。我们知道澳大利亚的观看趋势是，现在有超过一半的人通过流媒体在线观看这些内容。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "News of a government's partial reversal on an aged-care assessment tool reminds us of the moral mandate of those in authority. Yahweh calls leaders to administer justice and righteousness, ensuring the vulnerable are protected from harm. This includes crafting policies that genuinely serve the elderly and uphold their dignity.",
+            "zh": "政府部分撤回一项老年护理评估工具的消息，提醒我们掌权者的道德使命。雅伟呼召领袖们秉行公义和正直，确保弱势群体免受伤害。这包括制定真正服务老年人并维护其尊严的政策。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Jeremiah 22:3",
+            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
+            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
+            "themeEn": "Royal justice mandate",
+            "themeZh": "王者的公义责任"
           },
-          "translationState": "fallback"
+          "aiVerseId": "jer_22_3",
+          "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-world-2026-jul-01-malta-yorgen-fenech-hitmen-150000-",
+          "id": "www-theguardian-com-uk-news-2026-jul-01-student-drowns-in-river-wye-whil",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/jul/01/malta-yorgen-fenech-hitmen-150000-euros-daphne-caruana-galizia-jury-hears",
-          "image": "https://i.guim.co.uk/img/media/46058c45c58b06e1f64200b5bd67be11f6b69f4a/326_49_1053_842/master/1053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=89eabf7e1fc10fb467182f299d7ce64f",
-          "publishedAt": "2026-07-01T20:28:08.000Z",
+          "link": "https://www.theguardian.com/uk-news/2026/jul/01/student-drowns-in-river-wye-while-on-duke-of-edinburghs-award-trip-to-wales",
+          "image": "https://i.guim.co.uk/img/media/5d6e43acc96474f9b109042b1f2a6d7989736c4a/32_68_3330_2664/master/3330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50bb8400eec4f6ecffbea48a7e1963bd",
+          "publishedAt": "2026-07-01T22:33:51.000Z",
           "title": {
-            "en": "Maltese businessman paid hitmen €150,000 to kill Daphne Caruana Galizia, jury hears",
-            "zh": "陪审团获悉，马耳他商人付给杀手 15 万欧元杀死达芙妮·卡鲁阿纳·加利齐亚"
+            "en": "Student drowns in River Wye while on Duke of Edinburgh’s Award trip to Wales",
+            "zh": "学生在威尔士爱丁堡公爵奖旅行中溺水身亡"
           },
           "summary": {
-            "en": "Yorgen Fenech, heir to property empire, on trial for alleged involvement in murder of journalist, which he denies One of Malta’s wealthiest businessmen plotted to kill the investigative journalist Daphne Caruana Galizia, paying €150,000 (£130,000) for three hitmen to carry out...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+            "en": "An 18-year-old student drowned in the River Wye during a Duke of Edinburgh’s Award trip in Wales, prompting a search by emergency services.",
+            "zh": "一名18岁学生在威尔士参加爱丁堡公爵奖旅行时，于怀伊河溺水身亡，紧急救援部门进行了搜寻。"
           },
           "body": {
-            "en": "Yorgen Fenech, heir to property empire, on trial for alleged involvement in murder of journalist, which he denies One of Malta’s wealthiest businessmen plotted to kill the investigative journalist Daphne Caruana Galizia, paying €150,000 (£130,000) for three hitmen to carry out the murder, a jury has heard. Yorgen Fenech, the 44-year-old heir to a property empire that includes the Hilton Malta hotel and casino, is on trial for the 2017 murder. Continue reading...",
-            "zh": "财产帝国继承人约尔根·费内奇 (Yorgen Fenech) 因涉嫌谋杀记者而受审，他否认了这一指控。陪审团获悉，马耳他最富有的商人之一密谋谋杀调查记者达芙妮·卡鲁阿纳·加利齐亚 (Daphne Caruana Galizia)，为三名杀手支付 15 万欧元（13 万英镑）进行谋杀。 44 岁的约根·费内奇 (Yorgen Fenech) 是马耳他希尔顿酒店和赌场等房地产帝国的继承人，他因 2017 年谋杀案而接受审判。继续阅读..."
+            "en": "A student has drowned while on a Duke of Edinburgh’s Award (DofE) trip in Wales , police have said.\n\nEmergency services were called to the River Wye in Glasbury, Powys on Tuesday evening after it was reported an 18-year-old male had entered the water and could not be found.\n\nDyfed-Powys police said his body was located following a search involving a mountain rescue team and the fire service.\n\nA DofE spokeswoman has since confirmed the college student was on a trip as part of his DofE expedition when he died.\n\nShe said: “We are deeply saddened to confirm that a young person has drowned while on a DofE expedition in Powys, Wales.\n\n“Our thoughts are with the young person’s family, together with all those who were taking part. We will do everything we can to support them at this difficult time.\n\n“DofE is liaising closely with the young person’s college and relevant authorities to understand how this tragic incident happened. We are offering our full support.”\n\nA spokesperson for Dyfed-Powys police said a multi-agency operation had taken place at the River Wye following a report that an 18-year-old male had entered the water and could not be located.\n\nThe spokesperson added: “Dyfed-Powys police, Mid and West Wales fire and rescue service, Mountain Rescue and the National Police Air Service have searched the area since the report was made at 6.30pm.\n\n“Sadly, the body of a male has been located. Our thoughts are with his family and loved ones at this difficult time.\n\n“Emergency services remain in the area and ask that members of the public stay away while inquiries continue.”\n\nSix people died last week after getting into difficulty swimming in open water in the UK.",
+            "zh": "警方称，一名学生在参加爱丁堡公爵奖 (DofE) 威尔士之旅时溺水身亡。 Emergency services were called to the River Wye in Glasbury, Powys on Tuesday evening after it was reported an 18-year-old male had entered the water and could not be found. Dyfed-Powys警方表示，在山区救援队和消防部门的搜查后，找到了他的尸体。 教育部发言人证实，这名大学生去世时正在参加教育部探险队的旅行。 她说：“我们深感悲痛地确认，一名年轻人在威尔士波伊斯的能源部探险途中溺水身亡。 “我们的心与这名年轻人的家人以及所有参与其中的人同在。在这个困难时刻，我们将竭尽全力支持他们。 “DofE is liaising closely with the young person’s college and relevant authorities to understand how this tragic incident happened. We are offering our full support.” A spokesperson for Dyfed-Powys police said a multi-agency operation had taken place at the River Wye following a report that an 18-year-old male had entered the water and could not be located. The spokesperson added: “Dyfed-Powys police, Mid and West Wales fire and rescue service, Mountain Rescue and the National Police Air Service have searched the area since the report was made at 6.30pm. “不幸的是，一具男性的尸体已经找到。在这个困难的时刻，我们的思念与他的家人和亲人同在。 “紧急服务仍在该地区，并要求公众在调查继续进行期间远离。” 上周，英国有六人因在开放水域游泳遇到困难而死亡。"
           },
           "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The sudden loss of a young life is a profound tragedy, leaving immense grief in its wake. In such moments, we cling to the promise that Yahweh will one day wipe away every tear, and death, sorrow, and pain will be no more. This hope reminds us that even in the deepest sorrow, there is a future where suffering is ultimately overcome.",
+            "zh": "一个年轻生命的突然逝去是一场深重的悲剧，留下了巨大的悲痛。在这样的时刻，我们紧紧抓住雅伟有一天将擦去我们一切眼泪的应许，那时死亡、悲伤和痛苦将不复存在。这个盼望提醒我们，即使在最深的悲痛中，也有一个最终战胜苦难的未来。"
           },
           "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
+            "reference": "Revelation 21:4",
+            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+            "themeEn": "End of suffering",
+            "themeZh": "苦难的终结"
+          },
+          "aiVerseId": "rev_21_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-society-2026-jul-01-us-uk-drug-deal-could-result-in-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests",
+          "image": "https://i.guim.co.uk/img/media/d900e298a9de86bc8ec3b3c967317af9f9d8584b/220_0_2575_2061/master/2575.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3825d8a382e9aa0a8978da5c76a20435",
+          "publishedAt": "2026-07-01T22:30:01.000Z",
+          "title": {
+            "en": "US-UK drug deal could result in 229,000 excess deaths in England, analysis suggests",
+            "zh": "分析显示，美英毒品交易可能导致英格兰 229,000 人超额死亡"
+          },
+          "summary": {
+            "en": "Analysis reveals extent of impact on NHS of placating Donald Trump over price of British medicine exports The NHS will have to divert £45bn from essential services to pay for new medicines under the terms of the UK-US trade deal agreed last December, leading to more than 200,000...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Analysis reveals extent of impact on NHS of placating Donald Trump over price of British medicine exports The NHS will have to divert £45bn from essential services to pay for new medicines under the terms of the UK-US trade deal agreed last December, leading to more than 200,000 avoidable deaths of patients, analysis has found. Ministers have defended the deal as a way of helping British drug exports to the US avoid tariffs, and giving patients in England access to potentially life-extending drugs that would otherwise be denied. Continue reading...",
+            "zh": "分析显示，安抚唐纳德·特朗普对英国药品出口价格的影响对 NHS 的影响程度分析发现，根据去年 12 月达成的英美贸易协议条款，NHS 将不得不从基本服务中挪用 450 亿英镑来支付新药品的费用，这将导致超过 20 万名本来可以避免的患者死亡。部长们为该协议辩护，认为这是帮助英国向美国出口药品避免关税的一种方式，并使英国患者能够获得可能延长生命的药物，否则这些药物将被拒绝。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-cx2xjwj8p39o-at-medium-rss-at-campaign-rss",
+          "id": "www-theguardian-com-us-news-2026-jul-01-los-angeles-sex-trafficking-arre",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/01/los-angeles-sex-trafficking-arrests",
+          "image": "https://i.guim.co.uk/img/media/00124fd93232d35201bebd23a1f98617f41a4ebc/468_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24ba61a873e1a29b7ac06b701744ef88",
+          "publishedAt": "2026-07-01T22:07:44.000Z",
+          "title": {
+            "en": "Authorities arrest 10 people accused of facilitating sex trafficking in Los Angeles",
+            "zh": "当局逮捕了 10 名被控在洛杉矶协助性交易的人"
+          },
+          "summary": {
+            "en": "Prosecutors said members of the a gang targeted about 51 underage girls and women along LA’s Figueroa corridor Ten people accused of facilitating a sex-trafficking operation that targeted about 51 underage girls and women have been arrested as California authorities conducted...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Prosecutors said members of the a gang targeted about 51 underage girls and women along LA’s Figueroa corridor Ten people accused of facilitating a sex-trafficking operation that targeted about 51 underage girls and women have been arrested as California authorities conducted their latest operation to curb trafficking along the Figueroa corridor in Los Angeles, according to a Wednesday news release. Prosecutors said on Wednesday that members and associates of the south Los Angeles-based gang the Hoovers acted as pimps, recruiting minors and women, some of whom were runaways or foster kids, with the “false promise” of a better life or with violence into sex work between February 2021 and June 2026. Continue reading...",
+            "zh": "检察官称，该犯罪团伙的成员以洛杉矶菲格罗亚走廊沿线的约 51 名未成年女孩和妇女为目标。据周三发布的新闻稿称，加州当局在洛杉矶菲格罗亚走廊开展最新行动，打击针对约 51 名未成年女孩和妇女的性贩运活动，十名被指控协助性贩运活动的人已被捕。检察官周三表示，2021 年 2 月至 2026 年 6 月期间，位于洛杉矶南部的胡佛团伙的成员和同伙充当皮条客，招募未成年人和妇女，其中一些是离家出走或寄养儿童，以美好生活的“虚假承诺”或对性工作实施暴力。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jul-01-ohio-children-rescue",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/01/ohio-children-rescue",
+          "image": "https://i.guim.co.uk/img/media/dda64310dc236f959bbffeefd64618781f4751a7/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb674ba5a24b3dc869437949c089570e",
+          "publishedAt": "2026-07-01T22:07:25.000Z",
+          "title": {
+            "en": "Ohio authorities rescue 16 children confined to one room for four years",
+            "zh": "俄亥俄州当局解救了16名被困在一个房间里四年的儿童"
+          },
+          "summary": {
+            "en": "Parents and grandparents charged as police say case in Hamden not human trafficking but ‘intra-family situation’ Sixteen children were rescued from a dilapidated home in rural Ohio after being confined to just one room in “deplorable conditions” for much of the past four years,...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Parents and grandparents charged as police say case in Hamden not human trafficking but ‘intra-family situation’ Sixteen children were rescued from a dilapidated home in rural Ohio after being confined to just one room in “deplorable conditions” for much of the past four years, authorities said on Wednesday. The children, who officials said are from the same family and were living in squalor with human waste all around, ranged in age from one and a half to 18 and included boys and girls. Some of them were unable to speak and one – an 18-year-old who was developmentally disabled – could not even spell her name. Continue reading...",
+            "zh": "当局周三表示，哈姆登的案件不是人口贩卖，而是“家庭内部情况”，父母和祖父母受到指控。当局周三表示，在过去四年的大部分时间里，16名儿童被限制在“条件恶劣”的一个房间里，之后从俄亥俄州农村一所破旧的房屋中获救。官员称，这些孩子来自同一个家庭，生活在肮脏的环境中，周围都是人类排泄物，年龄从一岁半到十八岁不等，其中包括男孩和女孩。其中一些人无法说话，其中一名患有发育障碍的 18 岁女孩甚至无法拼写自己的名字。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c05yv34qlnlo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0105/live/e4a221e0-7545-11f1-b976-0b9c15b0ccfc.jpg",
-          "publishedAt": "2026-07-01T20:15:59.000Z",
+          "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2078/live/ee675030-758e-11f1-92e5-efd489c4d444.jpg",
+          "publishedAt": "2026-07-01T21:27:04.000Z",
           "title": {
-            "en": "Four die in Mexico City World Cup celebrations",
-            "zh": "墨西哥城世界杯庆祝活动中有四人死亡"
+            "en": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+            "zh": "从废墟中救出的委内瑞拉男孩的姨妈告诉BBC，她会给他“母亲的温暖”"
           },
           "summary": {
-            "en": "More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.",
+            "en": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "A 19-year-old woman is among three people to have died from suffocation during World Cup celebrations in Mexico City on Tuesday.\n\nA 48-year-old woman and a 44-year-old man also died after crowds descended on the city following the country's 2-0 victory over Ecuador, the capital's health authority said on Wednesday.\n\nCity authorities later reported that a 30-year-old man also died in an epileptic crisis.\n\nMore than one million people took to the streets, mainly around the Angel of Independence monument in downtown, to mark the country's first World Cup knockout win since 1986, the city government said.\n\nCity Mayor Clara Brugada expressed her \"most sincere condolences\" to the victims' families and pledged support in the coming days.\n\nHealth authorities said emergency services had treated three unconscious people at different locations around Paseo de la Reforma before transporting them to hospital.\n\n\"After performing first aid and CPR techniques on the patients, they were transferred to a hospital for specialised medical care,\" the city's health authority said.\n\nThree people were confirmed to have died from suffocation and identified by their families, it added.\n\nIn a social media post after the deaths were announced, Brugada urged fans to \"always celebrate with responsibility, care, and empathy\".\n\nMexico's victory sparked wild celebrations in the Estadio Azteca and across large parts of the city, where fireworks could be seen being lit long after the final whistle.\n\nPrior to the football match, Brugada had told fans hoping to watch the game near the Angel of Independence monument to look elsewhere due to the huge crowds already gathered there.\n\nMore than 20 million people live in Mexico City's metropolitan area - making it one of the most densely populated places on the planet.\n\nTuesday's win sends Mexico into the World Cup's round of 16, where they now face England who beat DR Congo 2-1 on Wednesday.",
-            "zh": "周二在墨西哥城举行的世界杯庆祝活动中，三人窒息身亡，其中包括一名 19 岁女性。 首都卫生部门周三表示，在该国 2-0 战胜厄瓜多尔后，人群涌入该市，导致一名 48 岁女性和一名 44 岁男性死亡。 市政府后来报告称，一名 30 岁的男子也因癫痫危象死亡。 市政府表示，超过一百万人走上街头，主要集中在市中心的独立天使纪念碑周围，纪念该国自 1986 年以来首次在世界杯淘汰赛中获胜。 市长克拉拉·布鲁加达向遇难者家属表示“最诚挚的哀悼”，并承诺在未来几天提供支持。 卫生当局表示，紧急服务部门已在改革大道周围的不同地点救治了三名昏迷不醒的人，然后将他们送往医院。 该市卫生部门表示：“对患者进行急救和心肺复苏技术后，他们被转移到医院接受专门医疗护理。” 声明补充说，经家属确认，三人已确认死于窒息。 布鲁格达在死亡消息公布后在社交媒体上发帖，敦促粉丝“始终以责任、关怀和同理心来庆祝”。 墨西哥队的胜利在阿兹特克体育场和城市大部分地区引发了疯狂的庆祝活动，终场哨响后很长时间都可以看到烟花燃放。 在足球比赛之前，布鲁加达告诉希望在独立天使纪念碑附近观看比赛的球迷去其他地方，因为那里已经聚集了大批人群。 超过 2000 万人居住在墨西哥城大都市区 - 使其成为地球上人口最稠密的地区之一。 周二的胜利让墨西哥进入了世界杯 16 强，他们现在将面对周三以 2-1 击败刚果民主共和国的英格兰。"
+            "en": "The aunt of a two-year-old boy who was rescued after six days under rubble in Venezuela has spoken to the BBC of her elation at being reunited with her nephew and her hopes that his parents might still be found.\n\nKleiber Moran was pulled from the rubble of his home in Venezuela's northern La Guaira state by Jordanian rescuers early on Tuesday.\n\nVenezuela's interim President Delcy Rodríguez has described the rescue as a \"source of hope for our people\" as the death toll from two major earthquakes last Wednesday continues to rise.\n\nThe boy's aunt, 23-year-old Andreína Sarmiento, told the BBC she would \"take care of Kleiber with a mother's warmth until my sister appears, which is what we long for\".\n\n\"I'm praying a lot to God to give me strength because he is only two years old and I am not a mother,\" she said, sitting at Kleiber's bedside and holding his hand in a hospital in the capital Caracas.\n\n\"It hurts me a lot because my sister always used to tell me that he is my son, and now it's like she's handing him over to me and saying 'this is your son, he is your responsibility,'\" she said.\n\nWhen a friend phoned Andreína from La Guaira to tell her of Kleiber's rescue she fell to the floor and screamed and wept, before heading to meet him.\n\nShe said rescuers from the UK had also tried to reach him before the Jordanian team's efforts were successful.\n\nWhen the two were reunited, Kleiber looked at Andreína and immediately said \"she Auntie\".\n\nAndreína said Kleiber was in a \"state of shock, screaming and screaming\" when he arrived at the hospital. But he slept through the night and by Wednesday \"he had stabilised\".\n\nShe said that \"today he's giving me little kisses, he talks to me, he tells me where it hurts\".\n\nAs she spoke, Kleiber lay next to her, wrapped in a Spiderman blanket and surrounded by toys, pushing a small car around the bed. He was in a ward with other children who had also survived the earthquakes.\n\n\"He doesn't even have a single fracture. Everything is very good. All he has are some scratches here on his arms and on his legs, but nothing more,\" Andreína told the BBC with a broad smile.\n\nBut while she is elated at being reunited with her nephew, Andreína said \"it hurts because I can't find my sister\".\n\nShe said she and 31-year-old Ana Luz were extremely close and would talk every day on video calls. Her sister always had Kleiber by her side.\n\n\"Wherever she went, her son went too. Whatever Kleiber wanted, she would please him. If she didn't have money, she would call me: 'Kleiber wants this' or 'he's missing this,'\" Andreína said.\n\n\"She is my older sister and I always trusted her and could tell her my problems and whenever I spoke to her on a video call, the child was by her side.\"\n\nAndreína said she was certain that her sister would have been...",
+            "zh": "一名两岁男孩的阿姨在委内瑞拉废墟下呆了六天后获救，她向英国广播公司表示，她对与侄子重聚感到非常高兴，并希望仍能找到他的父母。 周二早些时候，约旦救援人员从委内瑞拉北部拉瓜伊拉州家中的废墟中救出了克莱伯·莫兰。 委内瑞拉临时总统德尔西·罗德里格斯将此次救援形容为“我们人民的希望之源”，因为上周三两次大地震的死亡人数持续上升。 男孩的阿姨、23 岁的安德烈娜·萨米恩托 (Andreina Sarmiento) 告诉 BBC，她会“以母亲的温暖照顾克莱伯，直到我姐姐出现，这就是我们所渴望的”。 在首都加拉加斯的一家医院里，她坐在克莱伯的床边，握着他的手，说道：“我经常向上帝祈祷，请他赐予我力量，因为他只有两岁，而我还不是母亲。” “这让我很伤心，因为我姐姐过去总是告诉我他是我的儿子，而现在她把他交给了我，并说‘这是你的儿子，他是你的责任，’”她说。 当一位朋友从拉瓜伊拉打电话给安德烈娜，告诉她克莱伯获救的消息时，她倒在地上尖叫着哭泣，然后去见他。 她说，在约旦救援队的努力取得成功之前，来自英国的救援人员也曾试图联系他。 当两人重逢时，克莱伯看着安德烈娜，立即说道“她阿姨”。 安德烈娜说，克莱伯到达医院时处于“震惊、尖叫、尖叫的状态”。但他睡了一整夜，到周三“他已经稳定下来”。 她说“今天他给了我小小的吻，他跟我说话，他告诉我哪里受伤了”。 当她说话时，克莱伯躺在她旁边，裹着蜘蛛侠毯子，周围摆满了玩具，推着一辆小车绕着床转。他和其他同样在地震中幸存的孩子们住在一个病房里。 安德烈娜微笑着告诉英国广播公司：“他甚至连一处骨折都没有。一切都很好。他只是手臂和腿上有一些擦伤，仅此而已。” 虽然安德烈娜对与侄子重聚感到高兴，但她说“这很痛苦，因为我找不到我的妹妹”。 她说她和 31 岁的安娜·卢兹关系非常亲密，每天都会通过视频通话。她姐姐总是有克莱伯在她身边。 “无论她去哪里，她的儿子也跟着去。无论克莱伯想要什么，她都会满足他。如果她没有钱，她会给我打电话：‘克莱伯想要这个’或者‘他缺少这个，’”安德烈娜说。 “她是我的姐姐，我一直信任她，可以告诉她我的问题，每当我通过视频通话与她交谈时，孩子就在她身边。” 安德烈娜说她确信她的妹妹会……"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -245,71 +312,37 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-jul-01-mamdani-new-york-democratic-soci",
+          "id": "www-bbc-co-uk-news-articles-cx2xjwj8p39o-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/01/mamdani-new-york-democratic-socialist",
-          "image": "https://i.guim.co.uk/img/media/55be6c94e16323083630614f4f9cac40ffc14295/1553_481_4157_3326/master/4157.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=486c14481a23ee2e7b237d6420d15e6e",
-          "publishedAt": "2026-07-01T20:11:03.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0105/live/e4a221e0-7545-11f1-b976-0b9c15b0ccfc.jpg",
+          "publishedAt": "2026-07-01T20:15:59.000Z",
           "title": {
-            "en": "Democratic socialists ride wave of momentum in primaries from New York to Colorado",
-            "zh": "民主社会主义者在从纽约到科罗拉多州的初选中乘势而上"
+            "en": "Four die in Mexico City World Cup celebrations",
+            "zh": "墨西哥城世界杯庆祝活动中四人死亡"
           },
           "summary": {
-            "en": "Democratic socialist candidates are gaining traction in primary elections across the U.S., with growing membership and pro-Palestinian activism influencing their campaign strategies and internal debates on governance.",
-            "zh": "民主社会主义候选人在美国各地初选中势头强劲，不断增长的成员和亲巴勒斯坦的行动主义正在影响他们的竞选策略以及关于执政方式的内部辩论。"
+            "en": "More than one million people gathered in Mexico City to celebrate their country's World Cup victory over Ecuador, but the festivities were tragically overshadowed by the deaths of four individuals.",
+            "zh": "超过一百万民众涌上墨西哥城街头，庆祝该国在世界杯比赛中战胜厄瓜多尔，然而，这场盛大的庆祝活动却因四人死亡的悲剧而蒙上阴影。"
           },
           "body": {
-            "en": "Surging membership and pro-Palestinian activism reshape debate on how campaigning movement governs in office Inside a Brooklyn industrial garage turned underground event venue, local leaders of the Democratic Socialists of America urged hundreds of mostly young people last month to avoid complacency. Sure, New York City had a socialist representative in the US Congress , and just elected a socialist mayor. But they had so much more to do. “If we only elect Zohran, we only elect AOC, our project will have been a failure,” Gustavo Gordillo, co-chair of the city’s DSA chapter, told the assembled crowd. “Our ambitions are so much higher than just a position in government. We want to transform the world.” Continue reading...",
-            "zh": "会员人数激增和亲巴勒斯坦激进主义重塑了关于竞选运动如何在办公室治理的辩论在布鲁克林工业车库改造成的地下活动场所内，美国民主社会主义者的当地领导人上个月敦促数百名主要是年轻人的人不要自满。当然，纽约市在美国国会中有一位社会主义代表，而且刚刚选出了一位社会主义市长。但他们还有很多事情要做。 “如果我们只选佐赫兰，只选 AOC，我们的项目就会失败，”该市 DSA 分会联合主席古斯塔沃·戈迪略 (Gustavo Gordillo) 告诉聚集的人群。 “我们的抱负远高于政府职位。我们想要改变世界。”继续阅读..."
+            "en": "A 19-year-old woman is among three people to have died from suffocation during World Cup celebrations in Mexico City on Tuesday.\n\nA 48-year-old woman and a 44-year-old man also died after crowds descended on the city following the country's 2-0 victory over Ecuador, the capital's health authority said on Wednesday.\n\nCity authorities later reported that a 30-year-old man also died in an epileptic crisis.\n\nMore than one million people took to the streets, mainly around the Angel of Independence monument in downtown, to mark the country's first World Cup knockout win since 1986, the city government said.\n\nCity Mayor Clara Brugada expressed her \"most sincere condolences\" to the victims' families and pledged support in the coming days.\n\nHealth authorities said emergency services had treated three unconscious people at different locations around Paseo de la Reforma before transporting them to hospital.\n\n\"After performing first aid and CPR techniques on the patients, they were transferred to a hospital for specialised medical care,\" the city's health authority said.\n\nThree people were confirmed to have died from suffocation and identified by their families, it added.\n\nIn a social media post after the deaths were announced, Brugada urged fans to \"always celebrate with responsibility, care, and empathy\".\n\nMexico's victory sparked wild celebrations in the Estadio Azteca and across large parts of the city, where fireworks could be seen being lit long after the final whistle.\n\nPrior to the football match, Brugada had told fans hoping to watch the game near the Angel of Independence monument to look elsewhere due to the huge crowds already gathered there.\n\nMore than 20 million people live in Mexico City's metropolitan area - making it one of the most densely populated places on the planet.\n\nTuesday's win sends Mexico into the World Cup's round of 16, where they now face England who beat DR Congo 2-1 on Wednesday.",
+            "zh": "周二在墨西哥城举行的世界杯庆祝活动中，三人窒息身亡，其中包括一名 19 岁女性。 首都卫生部门周三表示，在该国 2-0 战胜厄瓜多尔后，人群涌入该市，导致一名 48 岁女性和一名 44 岁男性死亡。 市政府后来报告称，一名 30 岁的男子也因癫痫危象死亡。 市政府表示，超过一百万人走上街头，主要集中在市中心的独立天使纪念碑周围，纪念该国自 1986 年以来首次在世界杯淘汰赛中获胜。 市长克拉拉·布鲁加达向遇难者家属表示“最诚挚的哀悼”，并承诺在未来几天提供支持。 卫生当局表示，紧急服务部门已在改革大道周围的不同地点救治了三名昏迷不醒的人，然后将他们送往医院。 该市卫生部门表示：“对患者进行急救和心肺复苏技术后，他们被转移到医院接受专门医疗护理。” 声明补充说，经家属确认，三人已确认死于窒息。 布鲁格达在死亡消息公布后在社交媒体上发帖，敦促粉丝“始终以责任、关怀和同理心来庆祝”。 墨西哥队的胜利在阿兹特克体育场和城市大部分地区引发了疯狂的庆祝活动，终场哨响后很长时间都可以看到烟花燃放。 在足球比赛之前，布鲁加达告诉希望在独立天使纪念碑附近观看比赛的球迷去其他地方，因为那里已经聚集了大批人群。 超过 2000 万人居住在墨西哥城大都市区 - 使其成为地球上人口最稠密的地区之一。 周二的胜利让墨西哥进入了世界杯 16 强，他们现在将面对周三以 2-1 击败刚果民主共和国的英格兰。"
           },
           "reflection": {
-            "en": "As political movements gain influence and consider how to govern, the ancient call to do justice and righteousness remains vital. Yahweh's word reminds leaders of their mandate to protect the vulnerable and ensure fair treatment for all, especially those who are often marginalized.",
-            "zh": "随着政治运动获得影响力并思考如何执政，行公义、好怜悯的古老呼召依然至关重要。雅伟的话语提醒领导者，他们的使命是保护弱势群体，并确保所有人，特别是那些常被边缘化的人，都能获得公平待遇。"
+            "en": "The immense joy of a national victory, drawing over a million people into celebration, reminds us of the powerful human desire for triumph and collective identity. Yet, the tragic loss of life amidst such jubilation also brings a sober reminder that earthly crowns, however glorious, are ultimately perishable. Yahweh invites us to pursue an imperishable...",
+            "zh": "一场国家胜利的巨大喜悦吸引了逾百万人共同庆祝，这提醒我们人类对胜利和集体认同的强烈渴望。然而，在这欢腾之中发生的悲剧性生命逝去，也清醒地提醒我们，世上的冠冕，无论多么荣耀，终究是会朽坏的。雅伟邀请我们去追求那永不朽坏的冠冕，在祂里面找到持久的胜利。"
           },
           "verse": {
-            "reference": "Jeremiah 22:3",
-            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
-            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
-            "themeEn": "Royal justice mandate",
-            "themeZh": "王者的公义责任"
+            "reference": "1 Corinthians 9:25",
+            "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
+            "textZh": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
+            "themeEn": "Perishable vs eternal crown",
+            "themeZh": "能坏与不能坏的冠冕"
           },
-          "aiVerseId": "jer_22_3",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jul-01-trump-usmca-trade-treaty",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
-          "image": "https://i.guim.co.uk/img/media/31a210d511166fa5719f31e725a7fc480c0f4e99/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c7dc2d33c94980bc3ac34af662f4299",
-          "publishedAt": "2026-07-01T20:09:01.000Z",
-          "title": {
-            "en": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
-            "zh": "特朗普拒绝续签他曾力推的美加墨贸易协定"
-          },
-          "summary": {
-            "en": "Former President Donald Trump has chosen not to renew the North American trade pact (USMCA) he previously championed, opting instead to maintain it through annual reviews rather than a longer-term commitment. This decision keeps the agreement on a short leash, departing from a more stable, extended renewal.",
-            "zh": "前总统唐纳德·特朗普选择不续签他曾力推的北美贸易协定（USMCA），而是决定通过年度审查而非长期承诺来维持该协定。这一决定使该协议处于短期限制之下，偏离了更稳定、更长期的续签模式。"
-          },
-          "body": {
-            "en": "Trump and US officials opted to keep USMCA alive on short leash of annual reviews rather than longer term renewal Donald Trump has refused to renew the North American trade pact he once championed as his signature deal, opting instead to keep it alive on a short leash of annual reviews rather than committing to another 16 years. Wednesday was the deadline built into the United States-Mexico-Canada Agreement (USMCA) for the three countries to jointly decide its fate, which is set to expire in 2036. Continue reading...",
-            "zh": "特朗普和美国官员选择通过短期年度审查来维持 USMCA，而不是长期续签 唐纳德·特朗普拒绝续签他曾经支持的标志性协议北美贸易协定，而是选择通过短期年度审查来维持该协定，而不是承诺再延长 16 年。周三是美国-墨西哥-加拿大协议 (USMCA) 中三个国家共同决定其命运的最后期限，该协议将于 2036 年到期。继续阅读..."
-          },
-          "reflection": {
-            "en": "International agreements often benefit from stability and long-term vision, reflecting the wisdom found in seeking abundant counsel for national well-being. A decision to keep a major trade pact on a short leash, rather than a long-term renewal, introduces uncertainty that can impact many. Yahweh's wisdom reminds leaders that sound guidance provides safety...",
-            "zh": "国际协议的稳定性和长远眼光往往能带来益处，这反映了为国家福祉寻求众多谋士的智慧。一项重大贸易协定若选择短期维持而非长期续签，会带来不确定性，影响深远。雅伟的智慧提醒领袖，健全的指导能为所有相关方提供安全和稳定。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "aiVerseId": "prov_11_14",
+          "aiVerseId": "1cor_9_25",
           "translationState": "localized"
         },
         {
@@ -463,39 +496,6 @@
           "body": {
             "en": "German prosecutors have filed charges against a Ukrainian national over the blowing up of the Nord Stream pipelines under the Baltic Sea in 2022.\n\nThe suspect, named only as Serhii K under German privacy laws, is alleged to have led and co-ordinated the attack on the pipelines that transported natural gas from Russia to Germany, German media reports say.\n\nThey say he is the same person arrested in Italy last summer and extradited to Germany in November. He has denied involvement.\n\nNo-one has admitted carrying out the attack, and Ukraine has denied involvement in the case which may have serious implications for its relationship with Germany.\n\nBerlin law firm Menaker, which represents the Ukrainian man, told Reuters news agency that an indictment had been served on Wednesday. It gave no details of the charges.\n\nFederal prosecutors confirmed for another news agency, AFP, that a man had been charged over the explosion.\n\nAccording to German public broadcaster DW, which cited German media reports, the suspect is accused of leading a team of seven accomplices in an operation to destroy three of the four Nord Stream gas pipelines.\n\nHe is also accused of attacking civil energy infrastructure, as well as causing an explosion and destroying infrastructure.\n\nThe attack released record-breaking amounts of methane into the Baltic Sea and left the multi-billion dollar infrastructure inoperable.\n\nA month after his arrest, a second Ukrainian suspect was detained at his home close to Poland's capital Warsaw on another arrest warrant issued by Germany.\n\nAlthough Nord Stream 2 never went into operation, Nord Stream 1's two pipelines had provided a steady supply, along a 1,200km (745-mile) stretch of the Baltic Sea, from the Russian coast to north-eastern Germany.\n\nShortly before Russia's invasion of Ukraine in February 2022, Germany cancelled its process to approve Nord Stream 2, which was 100% owned by Russian gas giant Gazprom. Months later, Russia shut down Nord Stream 1, blaming problems with equipment.\n\nThen, on 26 September 2022, several explosions were recorded that ruptured three of the four pipelines.\n\nMystery surrounded the identity of the saboteurs, with Russia itself coming under Western suspicion, and Moscow blaming the US and UK.\n\nMany Ukrainians consider whoever destroyed Nord Stream to be heroes for taking out an important revenue source for Russia, and struggle to understand why Germany - a key ally of Ukraine - is pursuing this prosecution.",
             "zh": "德国检察官因 2022 年波罗的海北溪管道爆炸事件对一名乌克兰公民提出指控。 德国媒体报道称，根据德国隐私法，这名嫌疑人的名字为 Serhii K，据称他领导并协调了对从俄罗斯向德国输送天然气的管道的袭击。 他们说，他就是去年夏天在意大利被捕并于 11 月被引渡到德国的同一个人。他否认参与其中。 没有人承认实施了这次袭击，乌克兰也否认参与此案，这可能对其与德国的关系产生严重影响。 代表这名乌克兰男子的柏林梅纳克律师事务所告诉路透社，起诉书已于周三送达。它没有透露指控的细节。 联邦检察官向另一家通讯社法新社证实，一名男子因爆炸而受到指控。 德国公共广播公司德国之声援引德国媒体报道称，嫌疑人被指控带领七名同谋组成的团队摧毁了北溪四条天然气管道中的三条。 他还被指控袭击民用能源基础设施，以及引起爆炸和破坏基础设施。 这次袭击向波罗的海释放了创纪录数量的甲烷，导致价值数十亿美元的基础设施无法运行。 被捕一个月后，第二名乌克兰嫌疑人根据德国发出的另一份逮捕令被拘留在波兰首都华沙附近的家中。 尽管北溪 2 号管道从未投入运营，但北溪 1 号管道的两条管道沿波罗的海从俄罗斯海岸到德国东北部 1,200 公里（745 英里）的范围提供了稳定的供应。 2022 年 2 月俄罗斯入侵乌克兰前不久，德国取消了北溪 2 号项目的批准程序，该项目由俄罗斯天然气巨头俄罗斯天然气工业股份公司 (Gazprom) 100% 所有。几个月后，俄罗斯因设备问题而关闭了北溪一号。 然后，2022 年 9 月 26 日，记录了几起爆炸，导致四根管道中的三根破裂。 破坏者的身份充满谜团，俄罗斯本身受到西方的怀疑，莫斯科则指责美国和英国。 许多乌克兰人认为摧毁北溪的人都是英雄，因为他们夺走了俄罗斯的重要收入来源，并且很难理解为什么德国 - 乌克兰的重要盟友 - 正在寻求这一起诉。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c9d2n8elwdlo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8094/live/c0bc61f0-7554-11f1-ad35-0b5033d4b93e.jpg",
-          "publishedAt": "2026-07-01T17:40:29.000Z",
-          "title": {
-            "en": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
-            "zh": "尼日利亚将为逃离南非的公民遗弃的财产寻求赔偿"
-          },
-          "summary": {
-            "en": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Nigeria says it will seek compensation from South Africa for its citizens who have left the country following recent protests targeting undocumented migrants.\n\nForeign ministry spokesperson Kimiebi Imomotimi Ebienfa told the BBC that the issue would be discussed between the two governments \"at the highest levels\".\n\nActing High Commissioner to South Africa Alexander Ajayi said on local television on Tuesday that the government had begun documenting businesses and properties left behind by Nigerians.\n\nOne Nigerian trader waiting to be repatriated told the BBC he had lived in South Africa for nearly a decade and had abandoned his business and home because he feared for his safety.\n\nHe is among hundreds of Nigerians still waiting to be evacuated from South Africa. More than 600 Nigerians have already been repatriated in recent weeks.\n\nThe South African authorities say those who have been flown home were in the country illegally - though this is disputed by Nigeria.\n\nAbout 25,000 nationals of other African countries have left South Africa following a wave of protests in recent weeks by groups demanding that the government does more to curb illegal migration.\n\nSome anti-migrant groups had given undocumented foreigners a deadline of 30 June to leave the country and organised marches attended by thousands of people on Tuesday. These were largely peaceful but there were isolated incidents of violence against foreigners.\n\nThe South African police say that about 900 people were arrested, mostly for immigration-related offences and looting.\n\nThe BBC has asked South Africa's government for comment on Nigeria's compensation demand.\n\nNigeria's acting high commissioner said he had asked all of those who had left South Africa \"to document very accurately those things they were leaving behind in terms of businesses, in terms of even cars, movable and immovable properties\".\n\nForeign ministry spokesperson Ebienfa told the BBC that all claims would be verified before any formal request was made.\n\n\"We have not severed ties with South Africa, we are still engaging them at the highest level, we will sort those details using our usual diplomatic channels,\" he said.\n\nWilson, the trader, said he had run a clothing business in the South African city of Centurion in Gauteng province for several years.\n\nBut he said he had now closed his shop and fled to stay near the Nigeria High Commission in South Africa's capital, Pretoria.\n\nScheduled to leave on the next repatriation flight to Nigeria on Friday, he estimates the goods left in his shop are worth more than 16,000 rand ($975; £735).\n\nWilson said his residency documents had expired in 2021 and he had been unable to renew them.\n\n\"If South Africa government can compensate it, it will be nice, but I know they won't,\" he said.",
-            "zh": "尼日利亚表示，将向南非寻求针对最近针对无证移民的抗议活动后离开该国的公民的赔偿。 外交部发言人基米比·伊莫莫蒂米·埃比恩法 (Kimiebi Imomotimi Ebienfa) 告诉 BBC，两国政府将在“最高级别”讨论这个问题。 南非代理高级专员亚历山大·阿贾伊周二在当地电视台表示，政府已开始记录尼日利亚人留下的企业和财产。 一名等待遣返的尼日利亚商人告诉英国广播公司，他在南非生活了近十年，由于担心自己的安全，他放弃了自己的生意和家庭。 他是数百名仍在等待从南非撤离的尼日利亚人之一。最近几周已有 600 多名尼日利亚人被遣返。 南非当局表示，那些被乘飞机回国的人是非法入境的，尽管尼日利亚对此有争议。 最近几周，一些团体发起一波抗议活动，要求政府采取更多措施遏制非法移民，导致大约 25,000 名其他非洲国家的国民离开南非。 一些反移民团体给无证外国人规定了 6 月 30 日离开该国的最后期限，并在周二组织了数千人参加的游行。这些事件基本上是和平的，但也有个别针对外国人的暴力事件。 南非警方表示，约有 900 人被捕，主要是因为与移民有关的犯罪和抢劫。 BBC已要求南非政府对尼日利亚的赔偿要求发表评论。 尼日利亚代理高级专员表示，他已要求所有离开南非的人“非常准确地记录他们留下的商业物品，甚至是汽车、动产和不动产”。 外交部发言人埃比恩法告诉英国广播公司，在提出任何正式请求之前，所有说法都将得到核实。 他说：“我们没有切断与南非的关系，我们仍在与他们进行最高级别的接触，我们将使用我们通常的外交渠道来处理这些细节。” 贸易商威尔逊表示，他在南非豪登省的森特恩市经营服装生意已有几年了。 但他表示，他现在已经关闭了商店，并逃到南非首都比勒陀利亚尼日利亚高级专员公署附近。 他计划于周五乘坐下一趟遣返航班飞往尼日利亚，他估计店里剩下的商品价值超过 16,000 兰特（975 美元；735 英镑）。 威尔逊表示，他的居留证件已于 2021 年到期，并且无法续签。 “如果南非政府能够补偿，那就太好了，但我知道他们不会，”他说。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1090,30 +1090,30 @@
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/59e8e822fa151002ffb89699830ff990958a72e6/1002_513_6226_4981/master/6226.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=78d4d991ca96d9dd04ff7b33a84082c3",
-          "publishedAt": "2026-07-01T20:59:13.000Z",
+          "image": "https://i.guim.co.uk/img/media/ad104ec06794ed17b449768eb7a86cac8af59b48/569_175_2674_2139/master/2674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5386d675735edc8361d0fd8381dad39c",
+          "publishedAt": "2026-07-01T22:38:49.000Z",
           "title": {
-            "en": "Australia politics live: defence industry minister to spruik Labor’s ‘progressive patriotism’ as audits reveal waste",
-            "zh": "澳大利亚政治直播：审计显示浪费，国防工业部长大肆宣扬工党的“进步爱国主义”"
+            "en": "Australia politics live: Labor makes partial U-turn on controversial automated aged-care assessment tool",
+            "zh": "澳大利亚政坛直播：工党对有争议的自动化老年护理评估工具做出部分转变"
           },
           "summary": {
-            "en": "Pat Conroy to tell National Press Club that Labor is the true party of defence and national security. Follow today’s news live Get our breaking news email, free app or daily news podcast Taiwanese man charged over people-smuggling operation A Taiwanese man has been charged over...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "Meanwhile, Pat Conroy to tell National Press Club that Labor is the true party of defence and national security. Follow today’s news live Get our breaking news email, free app or daily news podcast ‘Eight weeks to shred documents’: Wells on social media law delay The main reason...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Pat Conroy to tell National Press Club that Labor is the true party of defence and national security. Follow today’s news live Get our breaking news email , free app or daily news podcast Taiwanese man charged over people-smuggling operation A Taiwanese man has been charged over a failed people-smuggling operation that left campers startled when they saw a boat carrying foreign nationals land on a remote beach, Australian Associated Press reports. Progressive patriotism, in the eyes of the Albanese government – and the great labour movement – is confidence in, and celebration of, what our national project has built It is confidence in how it is evolving, and confidence in the future. Strong defence of our country – including the need to invest in our defence industry, people and systems – is a critical part of understanding what Australian progressive patriotism looks like today. Continue reading...",
-            "zh": "帕特·康罗伊告诉全国新闻俱乐部，工党是真正的国防和国家安全政党。关注今日新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一名台湾男子因人口走私活动被指控 据澳大利亚美联社报道，一名台湾男子因一次失败的人口走私活动而被指控，当露营者看到一艘载有外国人的船只在偏远的海滩上登陆时，他们感到震惊。在阿尔巴尼亚政府和伟大的劳工运动眼中，进步爱国主义是对我们国家项目所建立的信心和庆祝，是对它如何发展的信心，也是对未来的信心。强有力地保卫我们的国家——包括投资我们的国防工业、人民和系统的需要——是理解今天澳大利亚进步爱国主义的关键部分。继续阅读..."
+            "en": "Meanwhile, Pat Conroy to tell National Press Club that Labor is the true party of defence and national security. Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Eight weeks to shred documents’: Wells on social media law delay The main reason for Anika Wells ’ media appearances this morning is to kick the Coalition and the Greens for sending that social media bill – increasing fines for platforms and handing the eSafety commissioner more power – into an eight-week inquiry. It’s not complex, and I think Angus Taylor should explain why he is honestly giving big tech eight more weeks to prepare their case, eight more weeks to get their ducks in a row, potentially eight weeks to shred documents now that they know these changes are coming. I think this is genuinely urgent. I’m crestfallen. Angus Taylor has decided to walk away from bipartisanship and he should explain why he would make such a craven and expedient decision. If you chose to watch – I don’t want to name any particular given that we’re on the ABC – but if you are watching the football World Cup on SBS, another public broadcaster, for example, you have the ability to opt out of seeing gambling advertising and from 1 January on streaming. And we know the trend for viewing in Australia is that more than half of the population now view these things online through streamers. Continue reading...",
+            "zh": "与此同时，帕特·康罗伊告诉国家新闻俱乐部，工党是真正的国防和国家安全政党。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 “粉碎文件八周”：威尔斯谈社交媒体法延迟 阿尼卡·威尔斯今天早上出现在媒体上的主要原因是反对联盟党和绿党发送社交媒体法案——增加对平台的罚款并赋予电子安全专员更多权力——进入为期八周的调查。这并不复杂，我认为安格斯·泰勒应该解释一下为什么他诚实地给了大型科技公司八周的时间来准备他们的案子，八周的时间来让他们的鸭子排成一排，既然他们知道这些变化即将到来，那么可能需要八周的时间来粉碎文件。我认为这确实很紧迫。我垂头丧气。安格斯·泰勒已决定放弃两党合作，他应该解释为什么他会做出如此胆怯而权宜之计的决定。如果您选择观看——鉴于我们在 ABC 上，我不想透露任何具体信息——但如果您在另一家公共广播公司 SBS 上观看足球世界杯，那么您可以从 1 月 1 日起选择不看赌博广告。我们知道澳大利亚的观看趋势是，现在有超过一半的人通过流媒体在线观看这些内容。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
@@ -1126,8 +1126,8 @@
           "image": "https://i.guim.co.uk/img/media/f25b0efbd239afdd58121eb03ac2ce65ed2b0a59/1_884_4307_3446/master/4307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b01fee1e787c70a7464f2ea282791c65",
           "publishedAt": "2026-07-01T20:50:06.000Z",
           "title": {
-            "en": "Hanson and Pocock’s unlikely alliance, Trump’s crypto billion, getting ‘Murdoched’",
-            "zh": "汉森和波科克不太可能结盟，特朗普的加密货币十亿美元被“默多克”"
+            "en": "Morning Mail: Hanson and Pocock’s unlikely alliance, Trump’s crypto billion, getting ‘Murdoched’",
+            "zh": "早间邮报：汉森和波科克不太可能的联盟，特朗普的加密十亿美元，被“默多克”"
           },
           "summary": {
             "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here, and finish your day with our Afternoon Update newsletter Morning everyone. The campaigner and former senator Rex Patrick has achieved many things, but bringing together Jacqui Lambie, Pauline Hanson...",
@@ -1196,7 +1196,7 @@
             "zh": "谁的情况更糟？澳大利亚世代抵押贷款辩论背后隐藏的转变"
           },
           "summary": {
-            "en": "New research proves borrowers are under greater stress than ever — including 1989 when interest rates were 17.5 per cent.",
+            "en": "New research suggests borrowers are under greater stress than ever — including 1989 when interest rates were 17.5 per cent.",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
@@ -1296,12 +1296,12 @@
             "zh": "禽流感登陆澳大利亚对家禽意味着什么？鸡蛋会更贵吗？"
           },
           "summary": {
-            "en": "In the event of an H5 outbreak, farms would have to close for several months, with producers having to source new chickens and grow them to size Get our breaking news email, free app or daily news podcast An outbreak of the highly virulent bird flu strain H5N1 in commercial...",
+            "en": "In the event of an H5 outbreak, farms would have to close for several months, with producers having to source new chickens and grow them to size Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast An outbreak of the...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "In the event of an H5 outbreak, farms would have to close for several months, with producers having to source new chickens and grow them to size Get our breaking news email , free app or daily news podcast An outbreak of the highly virulent bird flu strain H5N1 in commercial poultry flocks could push egg prices over $10 a carton, business groups have warned. So far, there is no evidence that H5N1 bird flu has spread to poultry in Australia, following the first confirmed cases in wild birds across two states. Continue reading...",
-            "zh": "如果爆发 H5 禽流感，农场将不得不关闭几个月，生产者必须采购新鸡并将其饲养到一定尺寸。商业团体警告称，商业家禽群中爆发高毒力禽流感病毒 H5N1 可能会使每箱鸡蛋价格超过 10 美元。继澳大利亚两个州出现首例野生鸟类确诊病例后，迄今为止，尚无证据表明 H5N1 禽流感已传播至澳大利亚家禽。继续阅读..."
+            "en": "In the event of an H5 outbreak, farms would have to close for several months, with producers having to source new chickens and grow them to size Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An outbreak of the highly virulent bird flu strain H5N1 in commercial poultry flocks could push egg prices over $10 a carton, business groups have warned. So far, there is no evidence that H5N1 bird flu has spread to poultry in Australia, after the first confirmed cases in wild birds across two states. Continue reading...",
+            "zh": "如果发生 H5 疫情，农场将不得不关闭几个月，生产者必须采购新鸡并将其饲养到一定尺寸。 商业团体警告称，商业家禽群中爆发高毒力禽流感 H5N1 病毒株可能会使每箱鸡蛋价格超过 10 美元。继澳大利亚两个州出现首例野生鸟类确诊病例后，迄今为止，尚无证据表明 H5N1 禽流感已传播至澳大利亚家禽。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
