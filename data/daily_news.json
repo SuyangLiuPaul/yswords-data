@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T16:54:15.649Z",
+  "generatedAt": "2026-07-04T17:57:07.787Z",
   "editionDate": "2026-07-05",
   "sources": [
     {
@@ -106,44 +106,11 @@
       },
       "sourceNotes": [
         "BBC News World",
-        "The Guardian World",
         "DW World",
+        "The Guardian World",
         "SBS News World"
       ],
       "items": [
-        {
-          "id": "www-bbc-co-uk-news-videos-c5yz9jn0xkko-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6f6e/live/e254b5d0-77be-11f1-b976-0b9c15b0ccfc.jpg",
-          "publishedAt": "2026-07-04T16:49:36.000Z",
-          "title": {
-            "en": "BBC in Tehran as mourners gather for supreme leader's funeral",
-            "zh": "BBC 在德黑兰哀悼者聚集在一起参加最高领袖的葬礼"
-          },
-          "summary": {
-            "en": "Iranian authorities say they expect millions of people to take part in funeral commemorations for Ayatollah Ali Khamenei.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "BBC International correspondent Nawal Al Maghafi reports from Tehran, where authorities say they expect millions to take part in funeral commemorations for Ayatollah Ali Khamenei.\n\nThe former supreme leader of Iran was killed more than four months ago in US and Israeli strikes at the start of the war.\n\nHuge crowds of black-clad mourners have already gathered at Tehran's Grand Mosalla mosque, where his body is lying in state ahead of his burial in his hometown of Mashhad, next Thursday.\n\nThe BBC's Senior international correspondent Nawal Al Maghafi is reporting from Tehran on condition that none of her material is used on the BBC's Persian Service. These restrictions apply to all international media organisations operating in Iran.",
-            "zh": "BBC 国际记者 Nawal Al Maghafi 从德黑兰报道，当局表示，预计将有数百万人参加阿亚图拉阿里·哈梅内伊的葬礼纪念活动。 四个多月前，伊朗前最高领导人在战争开始时美国和以色列的袭击中丧生。 大批身着黑衣的哀悼者已经聚集在德黑兰的莫萨拉大清真寺，他的遗体安放在那里，下周四将在他的家乡马什哈德举行葬礼。 BBC 高级国际记者纳瓦尔·阿尔·马加菲 (Nawal Al Maghafi) 从德黑兰进行报道，但条件是 BBC 波斯语频道不得使用她的任何材料。这些限制适用于在伊朗运营的所有国际媒体组织。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
         {
           "id": "www-bbc-co-uk-news-articles-cvg5zn58nj2o-at-medium-rss-at-campaign-rss",
           "section": "world",
@@ -151,7 +118,7 @@
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c6f/live/aa7b3860-77a4-11f1-a627-714adb4eed6e.jpg",
-          "publishedAt": "2026-07-04T16:43:46.000Z",
+          "publishedAt": "2026-07-04T17:51:04.000Z",
           "title": {
             "en": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
             "zh": "迪奥礼服、亚当·桑德勒和一位荣誉伴郎：我们所知的泰勒和特拉维斯婚礼详情"
@@ -179,24 +146,24 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-jul-04-wisconsin-children-drown",
+          "id": "www-dw-com-en-ukraine-strikes-oil-terminals-near-st-petersburg-in-russia",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/04/wisconsin-children-drown",
-          "image": "https://i.guim.co.uk/img/media/c5ab4d5b295e7cfd5be11f966d66ed08ff837ea6/1616_0_7724_6183/master/7724.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43d1addb61e680fac2d5b23b2504a3c9",
-          "publishedAt": "2026-07-04T16:04:01.000Z",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77830722_6.jpg",
+          "publishedAt": "2026-07-04T17:48:00.000Z",
           "title": {
-            "en": "Three children dead after boat capsizes during storm in Wisconsin",
-            "zh": "威斯康星州暴风雨中船只倾覆，三名儿童死亡"
+            "en": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+            "zh": "乌克兰袭击俄罗斯圣彼得堡附近的石油码头"
           },
           "summary": {
-            "en": "Officials rescued seven other people after a sudden storm led to a boat sinking on Geneva Lake Three children died after a boat capsized on Wisconsin’s Geneva Lake during inclement weather on the eve of the US’s semiquincentennial celebrations, and seven other people had to be...",
+            "en": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Officials rescued seven other people after a sudden storm led to a boat sinking on Geneva Lake Three children died after a boat capsized on Wisconsin ’s Geneva Lake during inclement weather on the eve of the US’s semiquincentennial celebrations, and seven other people had to be rescued by emergency responders, according to officials. A recreational motor boat with 10 passengers, including four children, sank on Friday afternoon as the boat “attempted to navigate to safety as weather conditions deteriorated” amid an intense, sudden storm, the city of Lake Geneva police department said in a statement. Continue reading...",
-            "zh": "一场突如其来的暴风雨导致一艘船在日内瓦湖沉没，官员们救出了另外七人。据官员称，在美国五十周年庆典前夕，一艘船在威斯康星州日内瓦湖倾覆，天气恶劣，导致三名儿童死亡，另外七人必须由紧急救援人员救起。日内瓦湖市警察局在一份声明中表示，周五下午，一艘载有 10 名乘客（其中包括 4 名儿童）的休闲摩托艇沉没，当时该船在一场强烈、突然的风暴中“试图因天气状况恶化而驶向安全地带”。继续阅读..."
+            "en": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.\n\nUkrainian drones on Saturday struck Russian oil facilities on the Baltic Sea near &#160;St. Petersburg , according to the local governor.\n\nSt. Petersburg Governor Alexander Beglov said Russia's second-largest city had come under a \"large-scale\" drone attack, but there were no casualties.\n\nPresident Volodymyr Zelenskyy confirmed Ukraine carried out the attacks, saying they were&#160;intended to disrupt Russian energy revenues amid&#160; Moscow's war in Ukraine .&#160;\n\n\"Ukraine's defense forces struck port oil infrastructure that generates revenue for Russia's war, and also hit Kronstadt, an important military target more than 850 km (528 miles) from Ukraine's state border,\" he wrote on social media.\n\nThe attack comes weeks after Ukraine targeted St. Petersburg on the opening day of an annual economic conference where Russian President Vladimir Putin was speaking.\n\nOn Saturday, Alexander Drozdenko — the governor of the Leningrad region that surrounds the federal city of St. Petersburg — said drones had also struck the port of Vysotsk, about 170 km (105 miles) northwest of St. Petersburg on the Gulf of Finland, a facility that handles oil, grain, coal, and liquefied natural gas.\n\nThe Russian Defense Ministry said 389 Ukrainian combat drones had been intercepted overnight across the country.\n\nFinland's public broadcaster Yle reported that the country imposed temporary aviation and maritime restrictions in the eastern Gulf of Finland due to the Ukrainian drone attacks.\n\nRussia said its forces have taken control of the eastern Ukrainian city of Kostiantynivka, a key target in the Donetsk region.\n\n\"We all know that this city is a key transport and large industrial centre of Donbas,\" Putin said.\n\nChief of the General Staff Valery Gerasimov described the advance as part of a wider effort to secure all of Donetsk.\n\nZelenskyy insisted Ukrainian forces were still in control of Kostiantynivka, writing on X:&#160;\"Of course, that is ​not true. It is just another Russian&#160;lie, an attempt to generate some ​kind of a news story.\"\n\n\"If Kostiantynivka ​were ‌under Russian control, then perhaps [Russian President Vladimir]&#160;Putin would have no problem meeting&#160;me there to find a diplomatic way to finally end ‌this war,\" he&#160;added.\n\nThe Ukrainian military's General Staff also said Kostiantynivka remained ‌under Kyiv's&#160;​control.\n\n\"Military units and subunits of the 19th Army Corps of the Eastern Grouping continue to conduct defensive operations on&#160;designated lines within the town ​and on its approaches,\" it said in a statement.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted...",
+            "zh": "此次远程打击是乌克兰不断扩大的对俄罗斯造成经济损失并阻碍其战争机器的行动的最新一次齐射。 据当地州长称，乌克兰无人机周六袭击了圣彼得堡附近波罗的海的俄罗斯石油设施。 圣彼得堡州长亚历山大·别格洛夫表示，俄罗斯第二大城市遭到“大规模”无人机袭击，但没有造成人员伤亡。 总统弗拉基米尔·泽连斯基证实乌克兰实施了这些袭击，并表示这些袭击的目的是在莫斯科与乌克兰的战争期间扰乱俄罗斯的能源收入。 他在社交媒体上写道：“乌克兰国防军袭击了为俄罗斯战争带来收入的港口石油基础设施，还袭击了距乌克兰国家边境850多公里（528英里）的重要军事目标喀琅施塔得。” 此次袭击发生几周前，乌克兰在俄罗斯总统普京发表讲话的年度经济会议开幕当天袭击了圣彼得堡。 周六，包围联邦城市圣彼得堡的列宁格勒地区州长亚历山大·德罗兹登科表示，无人机还袭击了位于芬兰湾圣彼得堡西北约 170 公里（105 英里）处的维索茨克港，这是一个处理石油、谷物、煤炭和液化天然气的设施。 俄罗斯国防部表示，一夜之间，乌克兰全国范围内拦截了 389 架无人机。 芬兰公共广播公司Yle报道称，由于乌克兰无人机袭击，该国对芬兰湾东部实施了临时航空和海上限制。 俄罗斯表示，其军队已经控制了乌克兰东部城市科斯蒂安蒂尼夫卡，这是顿涅茨克地区的一个关键目标。 普京说：“我们都知道这座城市是顿巴斯的重要交通和大型工业中心。” 总参谋长瓦列里·格拉西莫夫称此次进展是确保整个顿涅茨克安全的更广泛努力的一部分。 泽连斯基坚称乌克兰军队仍控制着科斯蒂安蒂尼夫卡，并在 X 上写道：“当然，这不是真的。这只是俄罗斯的另一个谎言，试图制造某种新闻报道。” “如果科斯蒂安蒂尼夫卡在俄罗斯的控制之下，那么[俄罗斯总统弗拉基米尔]普京可能会毫无问题地在那里与我会面，以找到最终结束这场战争的外交途径，”他补充道。 乌克兰军方总参谋部还表示，科斯蒂安蒂尼夫卡仍处于基辅的控制之下。 声明中表示：“东部集团军第 19 军的部队和分队继续在该镇内的指定防线及其进近处进行防御行动。” 不要让算法隐藏新闻。如果您信赖我们的团队值得信赖..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -210,6 +177,173 @@
             "themeZh": "和睦"
           },
           "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jul-04-tens-of-thousands-march-in-london-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/jul/04/tens-of-thousands-march-in-london-for-annual-pride-parade",
+          "image": "https://i.guim.co.uk/img/media/4618756e96b1d1996e3fe7bed3d0b3911688294b/194_0_3628_2902/master/3628.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ca9683c88d8d11c185c97ca46128ac8",
+          "publishedAt": "2026-07-04T17:36:02.000Z",
+          "title": {
+            "en": "Tens of thousands march in London for annual Pride parade",
+            "zh": "数万人在伦敦参加一年一度的骄傲游行"
+          },
+          "summary": {
+            "en": "More than 35,000 people from about 600 groups made their way from Hyde Park Corner to Whitehall via Piccadilly Tens of thousands of people marched through central London for the annual LGBT+ Pride parade. Sadiq Khan, the mayor of London, joined the crowd as they proceeded...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Tens of thousands of people marched through central London for the annual LGBT+ Pride parade.\n\nSadiq Khan, the mayor of London, joined the crowd as they proceeded through the capital on Saturday afternoon.\n\nThe event’s organisers said that more than 35,000 marchers from about 600 groups made their way from Hyde Park Corner to Whitehall via Piccadilly, many carrying rainbow flags.\n\nThe activist Julian Hows , 70, who was at the front of the parade, told journalists: “Pride is important because it needs to have an underlying level of protest, and you can see the freedoms that we have can so easily be taken away.\n\n“We also always need to push further because there’s always somewhere where our rights are being taken away.”\n\nSpeaking prior to the event, a Pride spokesperson said: “The urgency is clear: NHS gender-affirming care waiting lists now exceed four years in some regions while a comprehensive trans-inclusive ban on conversion therapy remains uncodified into law despite a 2018 government pledge.\n\n“At the same time, the community infrastructure LGBTQ+ people rely on is shrinking – since 2006, 58% of London’s LGBTQ+ venues have closed.\n\n“Together, these gaps in care, protection and safe spaces are unfolding amid continued hostility, with Home Office figures showing that more than 18,000 hate crimes motivated by sexual orientation were reported to police in 2025.”\n\nBritain’s first official Pride march took place in London in July 1972, inspired by the Stonewall uprising in New York three years earlier.\n\nPolice raided a popular gay bar called the Stonewall Inn, leading to a week of demonstrations against harassment and discrimination.\n\nRebecca Paisis, the event’s interim chief executive, said she wanted to oversee “the most inclusive Pride in London event yet”.\n\nShe said: “Our movement has always been built on many voices becoming one united front – from the people who marched in 1972 to those joining us for the first time this year. That’s where our power lies.\n\n“As LGBTQ+ people, we’ve never been strangers to adversity, but neither are we strangers to collective action. This year’s campaign is a reminder that while the community often faces challenges in isolation, it is by coming together that we can change history.”\n\nHowever, in recent years, the London event has been criticised by some LGBTQ+ activists who no longer feel represented by it.\n\nIt has faced accusations of “pinkwashing” by allegedly allowing some corporations to profit from their involvement in the event without any real commitment to LGBTQ+ equality. Some activists have also suggested the event is not diverse enough.\n\nSince 2024, a number of LGBTQ+ groups have tried to distance themselves from the London march, due to concerns about sponsors’ connections to the arms trade and the war...",
+            "zh": "数万人在伦敦市中心游行，参加一年一度的 LGBT+ 骄傲游行。 周六下午，伦敦市长萨迪克·汗 (Sadiq Khan) 加入了人群穿过首都的行列。 活动组织者表示，来自约 600 个团体的 35,000 多名游行者从海德公园角经皮卡迪利大街前往白厅，其中许多人举着彩虹旗。 70 岁的活动人士朱利安·豪斯 (Julian Hows) 站在游行队伍的最前面，他告诉记者：“骄傲很重要，因为它需要有潜在的抗议，你可以看到我们拥有的自由很容易被剥夺。 “我们也总是需要进一步推动，因为总有一些地方我们的权利被剥夺。” Pride 发言人在活动前发表讲话时表示：“紧迫性显而易见：NHS 性别确认护理等候名单在某些地区已超过四年，而尽管政府在 2018 年做出了承诺，但全面禁止跨性别者接受转化治疗的禁令仍未编入法律。 “与此同时，LGBTQ+人们所依赖的社区基础设施正在萎缩——自2006年以来，伦敦58%的LGBTQ+场所已经关闭。 “总的来说，在持续的敌意中，护理、保护和安全空间方面的差距正在不断显现，内政部的数据显示，2025 年向警方报告了超过 18,000 起因性取向引发的仇恨犯罪。” 受三年前纽约石墙起义的启发，英国第一次正式的骄傲游行于 1972 年 7 月在伦敦举行。 警方突袭了一家名为 Stonewall Inn 的热门同性恋酒吧，引发了为期一周的反对骚扰和歧视的示威活动。 该活动的临时首席执行官丽贝卡·派西斯 (Rebecca Paisis) 表示，她希望监督“迄今为止最具包容性的伦敦骄傲活动”。 她说：“我们的运动始终建立在多种声音形成统一战线的基础上——从 1972 年游行的人们到今年首次加入我们的人们。这就是我们的力量所在。 “作为 LGBTQ+ 人群，我们对逆境并不陌生，但我们对集体行动也不陌生。今年的活动提醒我们，虽然社区经常孤立地面临挑战，但只有团结起来，我们才能改变历史。” 然而，近年来，伦敦活动受到了一些 LGBTQ+ 活动人士的批评，他们觉得自己不再代表该活动。 它因涉嫌允许一些企业从参与该活动中获利而没有真正致力于 LGBTQ+ 平等而面临“粉红清洗”的指控。一些活动人士还表示，该活动不够多样化。 自 2024 年以来，由于担心赞助商与军火贸易和战争的联系，许多 LGBTQ+ 团体试图与伦敦游行保持距离……"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-sport-tennis-articles-ce95mxn1rlmo-at-medium-rss-at-campai",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/afa6/live/b2249b20-77b7-11f1-a777-2740d50846c8.jpg",
+          "publishedAt": "2026-07-04T17:22:46.000Z",
+          "title": {
+            "en": "Injury ends Williams' Wimbledon comeback",
+            "zh": "伤病终结威廉姆斯温网复出之路"
+          },
+          "summary": {
+            "en": "Serena Williams has withdrawn from her planned Wimbledon doubles appearance with her sister Venus due to a knee injury, ending her comeback attempt.",
+            "zh": "小威廉姆斯因膝伤退出原计划与姐姐大威廉姆斯搭档的温网双打比赛，这标志着她的复出尝试告一段落。"
+          },
+          "body": {
+            "en": "Serena Williams has pulled out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.\n\nThe American pair, who are six-time doubles champions at the All England Club, were scheduled to reunite on a Grand Slam court for the first time since 2022 later on Saturday.\n\nHowever, 44-year-old Serena Williams is not fit enough to play after picking up a knee problem during her defeat by Australia's Maya Joint on Tuesday.\n\nThe 23-time Grand Slam singles champion did not speak to the media following the match, with Wimbledon organisers saying she was \"not able to undertake\" her duties.\n\n\"I'm heartbroken to have to withdraw from doubles,\" said Serena in a post on Instagram , external .\n\n\"Coming back to compete again has been a gift, and the opportunity to play alongside Venus once more meant the world to me.\n\n\"I did everything I could to be ready, but unfortunately my knee just isn't ready to compete.\"\n\nWilliams' hopes of playing in Saturday's doubles looked to have improved after their match was added to the order of play on Friday.\n\nTheir tie, against Colombia's Camila Osorio and Argentina's Solana Sierra, was not allocated a court and not due to be played before 16:30 BST.\n\nIt suggested Williams was being given as long as possible to declare herself fit.\n\nWilliams showed little sign of a problem during a three-set loss to 20-year-old Joint and did not ask for treatment. But the knee was said to have swelled quickly after she came off court.\n\nThe looseness of Saturday's plan also left Wimbledon with no scheduling issues in case the American superstars did withdraw.\n\nWilliams was due to practise at the All England Club at 16:00 but announced her decision to pull out about 15 minutes before.\n\nThe Williams sisters have won 12 singles titles between them, plus six doubles titles together, and the mood around the SW19 grounds was largely one of sadness and disappointment when it was announced the iconic pair would not play.\n\nIn her post announcing the decision, Serena Williams shared photographs of her wearing bandaging on the left knee and of what she said were syringes used to drain fluid from the area.\n\n\"I'm especially grateful to tournament director Jamie Baker and the entire tournament team for giving me every opportunity to play here,\" said Williams.\n\n\"Thank you to the fans after your incredible support and for making this comeback so meaningful.\n\nWilliams has not confirmed what her plans for the next stage of her comeback will be.\n\nAfter Wimbledon, the season switches to the North American hard court swing which culminates at the US Open between 30 August and 13 September.\n\nWilliams, who turns 45 in September, is a six-time singles champion at her home Grand Slam tournament and played what many expected to be the final...",
+            "zh": "由于膝盖受伤，塞雷娜·威廉姆斯退出了与姐姐维纳斯一起参加温网双打的计划。 这对美国组合是全英俱乐部六次双打冠军，定于周六晚些时候自 2022 年以来首次在大满贯赛场上重聚。 然而，44岁的塞雷娜·威廉姆斯在周二输给澳大利亚玛雅联合队的比赛中膝盖出现问题，目前身体状况不佳，无法参加比赛。 这位23届大满贯单打冠军在赛后没有接受媒体采访，温布尔登组织者称她“无法承担”自己的职责。 “不得不退出双打让我心碎，”塞雷娜在 Instagram 上的一篇帖子中说道。 “再次回来参加比赛是一份礼物，再次与维纳斯一起比赛的机会对我来说意味着整个世界。 “我竭尽全力做好准备，但不幸的是我的膝盖还没有准备好参加比赛。” 在周五的比赛被添加到比赛顺序后，威廉姆斯参加周六双打的希望似乎有所改善。 他们对阵哥伦比亚选手卡米拉·奥索里奥和阿根廷选手索拉纳·塞拉的比赛没有分配场地，也不会在英国夏令时间 16:30 之前进行。 这表明威廉姆斯在三盘英勇输给20岁的联合队的比赛中膝盖肿胀，因此需要尽可能长的时间来宣布自己健康。 宽松的计划也让温布尔登在美国超级巨星退出的情况下不存在赛程问题。 威廉姆斯原定于 16:00 在全英俱乐部训练，但在大约 15 分钟前宣布退出。 在宣布决定不参加比赛的帖子中，她分享了她左膝上缠着绷带的照片，以及她所说的用于排出该区域液体的注射器的照片。 “我特别感谢赛事总监杰米·贝克和整个赛事团队给我在这里比赛的一切机会，”威廉姆斯说。 “感谢球迷们的大力支持，让这次回归变得如此有意义。 威廉姆斯尚未确认她下一阶段的复出计划是什么。 温布尔登网球公开赛结束后，赛季将转向北美硬地赛，并在 8 月 30 日至 9 月 13 日举行的美国公开赛上达到高潮。"
+          },
+          "reflection": {
+            "en": "Even the most disciplined athletes eventually face the limits of their physical bodies and the perishable nature of earthly achievements. This news reminds us that while we strive for excellence, true victory lies in pursuing what endures beyond fleeting accolades. Yahweh invites us to seek an imperishable crown, a life lived for eternal values.",
+            "zh": "即使是最自律的运动员，最终也会面对身体的极限和世俗成就的短暂性。这则新闻提醒我们，当我们追求卓越时，真正的胜利在于追求超越短暂荣誉的永恒之物。雅伟邀请我们去寻求那永不朽坏的冠冕，一个为永恒价值而活的生命。"
+          },
+          "verse": {
+            "reference": "1 Corinthians 9:25",
+            "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
+            "textZh": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
+            "themeEn": "Perishable vs eternal crown",
+            "themeZh": "能坏与不能坏的冠冕"
+          },
+          "aiVerseId": "1cor_9_25",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jul-04-dc-state-fair-pickle-company-wit",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/04/dc-state-fair-pickle-company-withdrawal",
+          "image": "https://i.guim.co.uk/img/media/46576c06058ef568db216e369992e4440f9972c8/75_0_4716_3772/master/4716.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba369abe7b8c639b2ff8ade9c1a635e6",
+          "publishedAt": "2026-07-04T17:21:24.000Z",
+          "title": {
+            "en": "In a pickle: US pickle company pulls out of DC fair over Confederate flag",
+            "zh": "陷入困境：美国泡菜公司因南部邦联旗帜退出华盛顿特区博览会"
+          },
+          "summary": {
+            "en": "Mt Olive Pickle Company says it was unaware image of flag was included in exhibit, and cites value of ‘human dignity’ A leading vendor of the US delicacy that is the pickle has withdrawn from the Great American State Fair in Washington DC after North Carolina’s booth displayed a...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Mt Olive Pickle Company says it was unaware image of flag was included in exhibit, and cites value of ‘human dignity’ A leading vendor of the US delicacy that is the pickle has withdrawn from the Great American State Fair in Washington DC after North Carolina’s booth displayed a video containing a Confederate flag. The Mt Olive Pickle Company, which is located in eastern North Carolina and bills itself as the “#1 bestselling brand of pickles, peppers and relishes in the US”, told local news station WNCT it had been unaware that an image of the flag would be included in a video as part of the state’s exhibit. Continue reading...",
+            "zh": "橄榄山泡菜公司表示，它不知道展览中包含了国旗图像，并引用了“人类尊严”的价值。在北卡罗来纳州的展位上展示了一段包含邦联旗帜的视频后，美国泡菜美食的领先供应商已退出华盛顿特区的大美国州博览会。橄榄山泡菜公司 (Mt Olive Pickle Company) 位于北卡罗来纳州东部，自称是“美国第一大畅销泡菜、辣椒和调味品品牌”，该公司告诉当地新闻电视台 WNCT，该公司并不知道旗帜的图像会出现在视频中，作为该州展览的一部分。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-videos-c5yz9jn0xkko-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6f6e/live/e254b5d0-77be-11f1-b976-0b9c15b0ccfc.jpg",
+          "publishedAt": "2026-07-04T16:49:36.000Z",
+          "title": {
+            "en": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+            "zh": "BBC 在德黑兰哀悼者聚集在一起参加前最高领袖的葬礼"
+          },
+          "summary": {
+            "en": "Iranian authorities say they expect millions of people to take part in funeral commemorations for Ayatollah Ali Khamenei.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "BBC International correspondent Nawal Al Maghafi reports from Tehran, where authorities say they expect millions to take part in funeral commemorations for Ayatollah Ali Khamenei.\n\nThe former supreme leader of Iran was killed more than four months ago in US and Israeli strikes at the start of the war.\n\nHuge crowds of black-clad mourners have already gathered at Tehran's Grand Mosalla mosque, where his body is lying in state ahead of his burial in his hometown of Mashhad, next Thursday.\n\nThe BBC's Senior international correspondent Nawal Al Maghafi is reporting from Tehran on condition that none of her material is used on the BBC's Persian Service. These restrictions apply to all international media organisations operating in Iran.",
+            "zh": "BBC 国际记者 Nawal Al Maghafi 从德黑兰报道，当局表示，预计将有数百万人参加阿亚图拉阿里·哈梅内伊的葬礼纪念活动。 四个多月前，伊朗前最高领导人在战争开始时美国和以色列的袭击中丧生。 大批身着黑衣的哀悼者已经聚集在德黑兰的莫萨拉大清真寺，他的遗体安放在那里，下周四将在他的家乡马什哈德举行葬礼。 BBC 高级国际记者纳瓦尔·阿尔·马加菲 (Nawal Al Maghafi) 从德黑兰进行报道，但条件是 BBC 波斯语频道不得使用她的任何材料。这些限制适用于在伊朗运营的所有国际媒体组织。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jul-04-wisconsin-children-drown",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/04/wisconsin-children-drown",
+          "image": "https://i.guim.co.uk/img/media/c5ab4d5b295e7cfd5be11f966d66ed08ff837ea6/1616_0_7724_6183/master/7724.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43d1addb61e680fac2d5b23b2504a3c9",
+          "publishedAt": "2026-07-04T16:04:01.000Z",
+          "title": {
+            "en": "Three children dead after boat capsizes during storm in Wisconsin",
+            "zh": "威斯康星州风暴中船只倾覆，三名儿童死亡"
+          },
+          "summary": {
+            "en": "A boat capsized on Geneva Lake in Wisconsin during a sudden storm, resulting in the deaths of three children. Seven other individuals were rescued from the incident.",
+            "zh": "在威斯康星州的日内瓦湖，一场突如其来的风暴导致一艘船倾覆，造成三名儿童死亡。另有七人获救。"
+          },
+          "body": {
+            "en": "Officials rescued seven other people after a sudden storm led to a boat sinking on Geneva Lake Three children died after a boat capsized on Wisconsin ’s Geneva Lake during inclement weather on the eve of the US’s semiquincentennial celebrations, and seven other people had to be rescued by emergency responders, according to officials. A recreational motor boat with 10 passengers, including four children, sank on Friday afternoon as the boat “attempted to navigate to safety as weather conditions deteriorated” amid an intense, sudden storm, the city of Lake Geneva police department said in a statement. Continue reading...",
+            "zh": "一场突如其来的暴风雨导致一艘船在日内瓦湖沉没，官员们救出了另外七人。据官员称，在美国五十周年庆典前夕，一艘船在威斯康星州日内瓦湖倾覆，天气恶劣，导致三名儿童死亡，另外七人必须由紧急救援人员救起。日内瓦湖市警察局在一份声明中表示，周五下午，一艘载有 10 名乘客（其中包括 4 名儿童）的休闲摩托艇沉没，当时该船在一场强烈、突然的风暴中“试图因天气状况恶化而驶向安全地带”。继续阅读..."
+          },
+          "reflection": {
+            "en": "The tragic loss of young lives in this sudden storm brings profound sorrow to many. In moments of such deep grief, we remember that Yahweh Himself understands our pain and weeps with those who mourn. This shared sorrow reminds us to extend compassion and support to all affected by this heartbreaking event.",
+            "zh": "这场突如其来的风暴中，幼小生命的悲剧性逝去给许多人带来了深切的悲痛。在如此深重的哀伤时刻，我们记得雅伟自己理解我们的痛苦，并与哀哭的人同哭。这份共同的悲伤提醒我们，要向所有受此心碎事件影响的人伸出援手，给予同情和支持。"
+          },
+          "verse": {
+            "reference": "John 11:35",
+            "textEn": "Jesus wept.",
+            "textZh": "耶稣哭了。",
+            "themeEn": "Jesus wept",
+            "themeZh": "耶稣哭了"
+          },
+          "aiVerseId": "jn_11_35",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-articles-cd6epx607dqo-at-medium-rss-at-campaign-rss",
@@ -277,107 +411,6 @@
           },
           "aiVerseId": "lam_3_22",
           "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-sport-tennis-articles-ce95mxn1rlmo-at-medium-rss-at-campai",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/afa6/live/b2249b20-77b7-11f1-a777-2740d50846c8.jpg",
-          "publishedAt": "2026-07-04T15:06:26.000Z",
-          "title": {
-            "en": "Injury ends Williams' Wimbledon comeback",
-            "zh": "伤病终结威廉姆斯温网复出之路"
-          },
-          "summary": {
-            "en": "Serena Williams has withdrawn from her planned Wimbledon doubles appearance with her sister Venus due to a knee injury, ending her comeback attempt.",
-            "zh": "小威廉姆斯因膝伤退出原计划与姐姐大威廉姆斯搭档的温网双打比赛，这标志着她的复出尝试告一段落。"
-          },
-          "body": {
-            "en": "Serena Williams has pulled out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.\n\nThe American pair, who are six-time doubles champions at the All England Club, were scheduled to reunite on a Grand Slam court for the first time since 2022 later on Saturday.\n\nHowever, 44-year-old Serena Williams is not fit enough to play after picking up a knee problem during her defeat by Australia's Maya Joint on Tuesday.\n\nThe 23-time Grand Slam singles champion did not speak to the media following the match, with Wimbledon organisers saying she was \"not able to undertake\" her duties.\n\n\"I'm heartbroken to have to withdraw from doubles,\" said Serena in a post on Instagram , external .\n\n\"Coming back to compete again has been a gift, and the opportunity to play alongside Venus once more meant the world to me.\n\n\"I did everything I could to be ready, but unfortunately my knee just isn't ready to compete.\"\n\nWilliams' hopes of playing in Saturday's doubles looked to have improved after their match was added to the order of play on Friday.\n\nTheir tie, against Colombia's Camila Osorio and Argentina's Solana Sierra, was not allocated a court and not due to be played before 16:30 BST.\n\nIt suggested Williams was being given as long as possible to declare herself fit after her knee swelled up during a gallant three-set loss to 20-year-old Joint.\n\nThe loose plan also left Wimbledon with no scheduling issues in case the American superstars did withdraw.\n\nWilliams was due to practise at the All England Club at 16:00 but announced her decision to pull out about 15 minutes before.\n\nIn her post announcing the decision not to play, she shared photographs of her wearing bandaging on the left knee and of what she said were syringes used to drain fluid from the area.\n\n\"I'm especially grateful to tournament director Jamie Baker and the entire tournament team for giving me every opportunity to play here,\" said Williams.\n\n\"Thank you to the fans after your incredible support and for making this comeback so meaningful.\n\nWilliams has not confirmed what her plans for the next stage of her comeback will be.\n\nAfter Wimbledon, the season switches to the North American hard court swing which culminates at the US Open between 30 August and 13 September.",
-            "zh": "由于膝盖受伤，塞雷娜·威廉姆斯退出了与姐姐维纳斯一起参加温网双打的计划。 这对美国组合是全英俱乐部六次双打冠军，定于周六晚些时候自 2022 年以来首次在大满贯赛场上重聚。 然而，44岁的塞雷娜·威廉姆斯在周二输给澳大利亚玛雅联合队的比赛中膝盖出现问题，目前身体状况不佳，无法参加比赛。 这位23届大满贯单打冠军在赛后没有接受媒体采访，温布尔登组织者称她“无法承担”自己的职责。 “不得不退出双打让我心碎，”塞雷娜在 Instagram 上的一篇帖子中说道。 “再次回来参加比赛是一份礼物，再次与维纳斯一起比赛的机会对我来说意味着整个世界。 “我竭尽全力做好准备，但不幸的是我的膝盖还没有准备好参加比赛。” 在周五的比赛被添加到比赛顺序后，威廉姆斯参加周六双打的希望似乎有所改善。 他们对阵哥伦比亚选手卡米拉·奥索里奥和阿根廷选手索拉纳·塞拉的比赛没有分配场地，也不会在英国夏令时间 16:30 之前进行。 这表明威廉姆斯在三盘英勇输给20岁的联合队的比赛中膝盖肿胀，因此需要尽可能长的时间来宣布自己健康。 宽松的计划也让温布尔登在美国超级巨星退出的情况下不存在赛程问题。 威廉姆斯原定于 16:00 在全英俱乐部训练，但在大约 15 分钟前宣布退出。 在宣布决定不参加比赛的帖子中，她分享了她左膝上缠着绷带的照片，以及她所说的用于排出该区域液体的注射器的照片。 “我特别感谢赛事总监杰米·贝克和整个赛事团队给我在这里比赛的一切机会，”威廉姆斯说。 “感谢球迷们的大力支持，让这次回归变得如此有意义。 威廉姆斯尚未确认她下一阶段的复出计划是什么。 温布尔登网球公开赛结束后，赛季将转向北美硬地赛，并在 8 月 30 日至 9 月 13 日举行的美国公开赛上达到高潮。"
-          },
-          "reflection": {
-            "en": "Even the most disciplined athletes eventually face the limits of their physical bodies and the perishable nature of earthly achievements. This news reminds us that while we strive for excellence, true victory lies in pursuing what endures beyond fleeting accolades. Yahweh invites us to seek an imperishable crown, a life lived for eternal values.",
-            "zh": "即使是最自律的运动员，最终也会面对身体的极限和世俗成就的短暂性。这则新闻提醒我们，当我们追求卓越时，真正的胜利在于追求超越短暂荣誉的永恒之物。雅伟邀请我们去寻求那永不朽坏的冠冕，一个为永恒价值而活的生命。"
-          },
-          "verse": {
-            "reference": "1 Corinthians 9:25",
-            "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
-            "textZh": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
-            "themeEn": "Perishable vs eternal crown",
-            "themeZh": "能坏与不能坏的冠冕"
-          },
-          "aiVerseId": "1cor_9_25",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-technology-2026-jul-04-elon-musk-uk-race-immigration",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
-          "image": "https://i.guim.co.uk/img/media/78db83223c87d7f52d5b73180281491643fc0eac/418_0_4180_3344/master/4180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b50a4a563393e097ea91b3aadc5608aa",
-          "publishedAt": "2026-07-04T15:00:01.000Z",
-          "title": {
-            "en": "Elon Musk posted twice as often on UK race and immigration as about SpaceX in IPO run-up",
-            "zh": "埃隆·马斯克在SpaceX首次公开募股前夕，发布关于英国种族和移民的帖子数量是SpaceX的两倍"
-          },
-          "summary": {
-            "en": "A Guardian analysis revealed that Elon Musk posted twice as often about UK race and immigration on his social media platform X as he did about his company SpaceX, in the period leading up to SpaceX's IPO. The report highlights his frequent airing of views and perceived \"interference\" in British politics.",
-            "zh": "《卫报》分析显示，埃隆·马斯克在SpaceX首次公开募股前夕，在社交媒体平台X上发布关于英国种族和移民的帖子数量，是关于他旗下公司SpaceX的两倍。该报道强调了他频繁发表观点以及被认为“干预”英国政治的行为。"
-          },
-          "body": {
-            "en": "Guardian analysis of X feed shows how keen world’s richest person was to air his views and ‘interfere’ in British politics Elon Musk posted about race and immigration in the UK on his social media network X twice as often as he did about SpaceX, which he also owns, in the run-up to the aerospace and AI company’s initial public offering. A Guardian analysis of Musk’s posts, replies and reposts between 31 May and 12 June has shown the extent to which the social media activity of the world’s richest person, who lives primarily in the US, has focused on UK politics. Continue reading...",
-            "zh": "《卫报》对 X feed 的分析表明，世界首富多么热衷于发表自己的观点并“干预”英国政治。埃隆·马斯克在其社交媒体网络 X 上发布有关英国种族和移民问题的频率是他在 SpaceX 上发布的频率的两倍，在这家航空航天和人工智能公司首次公开募股之前，他也拥有该公司。 《卫报》对马斯克 5 月 31 日至 6 月 12 日期间的帖子、回复和转发进行的分析显示，这位主要居住在美国的世界首富的社交媒体活动在多大程度上关注英国政治。继续阅读..."
-          },
-          "reflection": {
-            "en": "The story reminds us that words, especially from influential platforms, carry immense weight and can have far-reaching consequences. Just as a small spark can ignite a vast forest, public statements on sensitive issues can shape narratives and stir significant public reaction. This calls for thoughtful consideration and responsibility in how we use our...",
-            "zh": "这个故事提醒我们，言语，尤其是来自有影响力平台上的言语，具有巨大的分量，并可能产生深远的影响。正如一点小火星能点燃一片大森林一样，关于敏感问题的公开言论能够塑造叙事并引发重大的公众反应。这要求我们在使用自己的声音时，特别是在涉及社区和国家的问题上，要深思熟虑并负起责任。"
-          },
-          "verse": {
-            "reference": "James 3:5",
-            "textEn": "The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark.",
-            "textZh": "舌头在百体里也是最小的，却能说大话。看哪，最小的火能点着最大的树林。",
-            "themeEn": "Small spark, big fire",
-            "themeZh": "星星之火"
-          },
-          "aiVerseId": "jas_3_5",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-ukraine-strikes-oil-terminals-near-st-petersburg-in-russia",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77830722_6.jpg",
-          "publishedAt": "2026-07-04T09:02:00.000Z",
-          "title": {
-            "en": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-            "zh": "乌克兰袭击俄罗斯圣彼得堡附近的石油码头"
-          },
-          "summary": {
-            "en": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.\n\nUkrainian drones on Saturday struck Russian oil facilities on the Baltic Sea near St. Petersburg , according to the local governor.\n\nSt. Petersburg Governor Alexander Beglov said Russia's second-largest city had come under a \"large-scale\" drone attack, but there were no casualties.\n\nPresident Volodymyr Zelenskyy confirmed Ukraine carried out the attacks, saying&#160;It was intended to disrupt Russian energy revenues amid&#160; Moscow's war in Ukraine .&#160;\n\n\"Ukraine's defense forces struck port oil infrastructure that generates revenue for Russia's war, and also hit Kronstadt, an important military target more than 850 km (528 miles) from Ukraine's state border,\" he wrote on social media.\n\nThe attack comes weeks after Ukraine targeted St. Petersburg on the opening day of an annual economic conference where Russian President Vladimir Putin was speaking.\n\nOn Saturday, Alexander Drozdenko — the governor of the Leningrad region that surrounds the federal city of St. Petersburg — said drones had also struck the port of Vysotsk, about 170 km (105 miles) northwest of St. Petersburg on the Gulf of Finland, a facility that handles oil, grain, coal, and liquefied natural gas.\n\nThe Russian Defense Ministry said 389 Ukrainian combat drones had been intercepted overnight across the country.\n\nFinland's public broadcaster Yle reported that the country imposed temporary aviation and maritime restrictions in the eastern Gulf of Finland due to the Ukrainian drone attacks.\n\nRussia said its forces have taken control of the eastern Ukrainian city of Kostiantynivka, a key target in the Donetsk region.\n\n\"We all know that this city is a key transport and large industrial centre of Donbas,\" Putin said.\n\nChief of the General Staff Valery Gerasimov described the advance as part of a wider effort to secure all of Donetsk.\n\nUkraine has not yet publicly responded to the claim of control over Kostiantynivka.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred news source on Google by clicking here , so you'll always see our verified news first.",
-            "zh": "此次远程打击是乌克兰不断扩大的对俄罗斯造成经济损失并阻碍其战争机器的行动的最新一次齐射。 据当地州长称，乌克兰无人机周六袭击了圣彼得堡附近波罗的海的俄罗斯石油设施。 圣彼得堡州长亚历山大·别格洛夫表示，俄罗斯第二大城市遭到“大规模”无人机袭击，但没有造成人员伤亡。 总统弗拉基米尔·泽连斯基证实乌克兰实施了这些袭击，称其目的是在莫斯科与乌克兰的战争期间扰乱俄罗斯的能源收入。 他在社交媒体上写道：“乌克兰国防军袭击了为俄罗斯战争带来收入的港口石油基础设施，还袭击了距乌克兰国家边境850多公里（528英里）的重要军事目标喀琅施塔得。” 此次袭击发生几周前，乌克兰在俄罗斯总统普京发表讲话的年度经济会议开幕当天袭击了圣彼得堡。 周六，包围联邦城市圣彼得堡的列宁格勒地区州长亚历山大·德罗兹登科表示，无人机还袭击了位于芬兰湾圣彼得堡西北约 170 公里（105 英里）处的维索茨克港，这是一个处理石油、谷物、煤炭和液化天然气的设施。 俄罗斯国防部表示，一夜之间，乌克兰全国范围内拦截了 389 架无人机。 芬兰公共广播公司Yle报道称，由于乌克兰无人机袭击，该国对芬兰湾东部实施了临时航空和海上限制。 俄罗斯表示，其军队已经控制了乌克兰东部城市科斯蒂安蒂尼夫卡，这是顿涅茨克地区的一个关键目标。 普京说：“我们都知道这座城市是顿巴斯的重要交通和大型工业中心。” 总参谋长瓦列里·格拉西莫夫称此次进展是确保整个顿涅茨克安全的更广泛努力的一部分。 乌克兰尚未公开回应控制科斯蒂亚尼夫卡的说法。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处将我们选为您在 Google 上的首选新闻来源，这样您始终会首先看到我们经过验证的新闻。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-dw-com-en-trump-set-to-put-nato-unity-to-the-test-at-turkey-summit-a",
@@ -481,6 +514,39 @@
           "translationState": "fallback"
         },
         {
+          "id": "www-dw-com-en-us-president-trump-pardons-11-people-including-clean-air-a",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/us-president-trump-pardons-11-people-including-clean-air-act-violators/a-77829438?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77415862_6.jpg",
+          "publishedAt": "2026-07-04T04:05:00.000Z",
+          "title": {
+            "en": "US: President Trump pardons 11 people, including Clean Air Act violators",
+            "zh": "美国：特朗普总统赦免11人，其中包括清洁空气法违规者"
+          },
+          "summary": {
+            "en": "Donald Trump has granted pardons to nine people convicted of violating a key environmental law. The US President has also pardoned an associate of convicted felon and former lobbyist Jack Abramoff.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Donald Trump has granted pardons to nine people convicted of violating a key environmental law. The US President has also pardoned an associate of convicted felon and former lobbyist Jack Abramoff.\n\nUS President Donald Trump on Friday issued pardons for a total of 11 people, including&#160; 9 individuals convicted of violating the Clean Air Act by circumventing emission controls on vehicles.\n\nThose pardoned also included a former business partner of disgraced Washington lobbyist Jack Abramoff.\n\nAccording to&#160; The Associated Press , the White House provided a list&#160; which consisted of 11 pardons. Nine of the people on the list faced charges over&#160;disabling emissions monitoring systems on vehicles or selling devices that enabled the bypassing of emissions systems.\n\nIn a post on his Truth Social platform earlier in the day, Trump spoke of granting clemency to six of the men without revealing their identities.\n\nTrump said that the men were \"persecuted\" under ‌President Joe Biden's Administration&#160; for \"fixing ‌their ​car.\"\n\nOn Monday, Trump signed a memo telling the Environmental Protection Agency &#160; that US citizens can fix their vehicles as they see fit.\n\nThe president made&#160;reference to a diesel mechanic he pardoned last year who had disabled emissions monitoring systems&#160;as he signed the memo.\n\nIn February, the Trump administration eliminated federal tailpipe emissions standards for cars ⁠and trucks as it reversed a key scientific finding from former President Barack Obama's tenure that greenhouse gas emissions endanger ​human health.\n\nThe President's slew of pardons on Friday also included Adam Kidan, who now serves as president of Empire Workforce Solutions. Kidan was jailed in 2006 with former US millionaire and lobbyist Abramoff for wire fraud.\n\nKidan had pleaded guilty to fraud and conspiracy related to the purchase of a fleet of gambling boats in 2005.\n\nIn March this year, the Newsday &#160;local daily reported that Kidan was among the people hosting a fundraiser at Trump's Mar-a-Lago resort for a Long Island Republican congressional candidate.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here &#160;and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+            "zh": "唐纳德·特朗普赦免了九名因违反关键环境法而被定罪的人。美国总统还赦免了一名被定罪重罪犯的同伙、前游说者杰克·阿布拉莫夫。 美国总统唐纳德·特朗普周五赦免了总共 11 人，其中包括 9 名因规避车辆排放管制而违反《清洁空气法》的人。 被赦免的人还包括名誉扫地的华盛顿说客杰克·阿布拉莫夫的前商业伙伴。 据美联社报道，白宫提供了一份包含 11 名赦免者的名单。名单上的九人因禁用车辆排放监测系统或销售绕过排放系统的设备而面临指控。 当天早些时候，特朗普在其“真相社交”平台上发表的一篇文章中谈到，对其中六名男子给予宽大处理，但没有透露他们的身份。 特朗普表示，这些人在乔·拜登总统的政府领导下因“修理汽车”而受到“迫害”。 周一，特朗​​普签署了一份备忘录，告诉环境保护局，美国公民可以按照自己认为合适的方式修理他们的车辆。 总统在签署备忘录时提到了他去年赦免的一名柴油机械师，该机械师禁用了排放监测系统。 今年二月，特朗普政府取消了汽车和卡车的联邦尾气排放标准，推翻了前总统巴拉克·奥巴马(Barack Obama)任期内一项重要的科学发现，即温室气体排放危及人类健康。 总统周五的一系列赦免还包括亚当·基丹（Adam Kidan），他现在担任帝国劳动力解决方案公司总裁。 2006 年，基丹因电信诈骗罪与美国前百万富翁、说客阿布拉莫夫一起入狱。 Kidan 承认犯有与 2005 年购买赌船队有关的欺诈和共谋罪。 今年 3 月，《新闻日报》当地日报报道称，基丹是在特朗普的海湖庄园为一位长岛共和党国会候选人举办筹款活动的人之一。 不要让算法隐藏新闻。如果您信赖我们团队提供的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，以便您始终能够首先看到我们经过验证的新闻。"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-sbs-com-au-news-article-millions-mourn-as-iran-begins-week-long-fune",
           "section": "world",
           "source": "SBS News World",
@@ -544,6 +610,39 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-keiko-fujimori-has-won-the-peru-presidential",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/keiko-fujimori-has-won-the-peru-presidential-race/hmf1cjh7v",
+          "image": "https://assets.sbs.com.au/dims4/default/162342e/2147483647/strip/false/crop/3756x1726+0+389/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F2c%2F27%2F038784ba4c8487f0189154c66105%2F20260704176318411289-original.jpg",
+          "publishedAt": "2026-07-03T23:52:47.000Z",
+          "title": {
+            "en": "Keiko Fujimori has won Peru's presidential race",
+            "zh": "藤森惠子赢得秘鲁总统竞选"
+          },
+          "summary": {
+            "en": "Keiko Fujimori's win reaffirms Latin America's rightward shift, while her leftist opponent Roberto Sanchez says he won't recognise her government.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Conservative Keiko Fujimori has won Peru's presidential race, following weeks of protests, fraud accusations and review of contested ballots in a razor-thin race.\n\nFujimori won 50.135 per cent of the vote in the 7 June runoff to clinch the nation's top office in her fourth run for the presidency, just ahead of leftist congressman Roberto Sanchez's 49.865 per cent, a difference of about 50,000 votes out of 18 million.\n\n\"We&#x2019;re going to identify all the best practices, initiatives, and projects that have yielded results so that they can continue,\" Fujimori said at her party headquarters alongside her staff.\n\nShe said: \"Today marks the beginning of a new era for Peru &#x2014; an era of responsibility, dialogue, and results to restore confidence in our institutions\".\n\nThe slim margin is a reversal from the narrow loss Fujimori suffered in 2021, when she fell short by about 45,000 votes to former leftist President Pedro Castillo. Castillo was impeached and jailed for trying to dissolve congress in 2022.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nSanchez is widely seen as Castillo's political heir and has said he will not recognise Fujimori's government after claiming, without providing evidence, electoral fraud.\n\nSanchez, boosted by voters from Peru's rural regions, led the race earlier in the count and also won votes cast within the country by a slim margin. He has led marches contesting the vote and filed a complaint with the Inter-American Commission on Human Rights challenging the elections.\n\nFujimori was boosted by voters in the capital region of Lima and also led votes cast by overseas ballot by a wide margin, pushing her to victory.\n\nThe tight, drawn-out race has highlighted the country's deep polarisation and political instability that led to the ousting of several presidents over the last decade.\n\nWhen Fujimori assumes power on 28 July, she will be the 10th president since 2016. She will succeed interim President Jose Balcazar, who took over in February after a series of presidential dismissals over accusations of corruption or abuse of power.\n\nFujimori's win reaffirms Latin America's rightward shift, and other conservative leaders in the region, including Argentina's Javier Milei, Chile's Jose Antonio Kast and El Salvador's Nayib Bukele, have already congratulated the president-elect.\n\nUnited States Secretary of State Marco Rubio also congratulated Fujimori in a statement on Tuesday, saying that President Donald Trump's administration looked forward to deepening cooperation on security, investment and trade.\n\nHer victory was also welcomed by markets, which had been rattled by the prospect of a Sanchez win. On Thursday, Moody's issued a report...",
+            "zh": "经过数周的抗议、欺诈指控和对有争议选票的审查，保守派藤森庆子赢得了秘鲁总统竞选。 藤森在 6 月 7 日的决选中赢得了 50.135% 的选票，第四次竞选总统，赢得了美国最高职位，领先于左翼国会议员罗伯托·桑切斯 (Roberto Sanchez) 的 49.865%，相差 1800 万张选票中的约 5 万张选票。 藤森和她的工作人员在党总部表示：“我们将确定所有已取得成果的最佳实践、举措和项目，以便它们能够继续下去。” 她说：“今天标志着秘鲁新时代的开始——一个责任、对话和结果的时代，以恢复对我们机构的信心。” 这一微弱的优势与藤森在 2021 年遭受的微弱差距有所逆转，当时她以约 45,000 票之差落后于前左翼总统佩德罗·卡斯蒂略 (Pedro Castillo)。卡斯蒂略因试图在 2022 年解散国会而被弹劾并入狱。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 桑切斯被广泛视为卡斯蒂略的政治继承人，并表示在没有提供证据的情况下声称选举舞弊后，他不会承认藤森政府。 桑切斯在秘鲁农村地区选民的支持下，在计票初期领先，并以微弱优势赢得了国内选票。他领导了抗议投票的游行，并向美洲人权委员会提出申诉，质疑选举。 藤森受到首都利马地区选民的支持，并在海外投票中大幅领先，最终获得胜利。 这场紧张而旷日持久的竞选凸显了该国严重的两极分化和政治不稳定，导致过去十年多位总统下台。 当藤森于 7 月 28 日上台时，她将成为 2016 年以来的第十任总统。她将接替临时总统何塞·巴尔卡扎 (Jose Balcazar)，巴尔卡扎在因腐败或滥用权力的指控而被一系列总统免职后于 2 月接任。 藤森的胜利重申了拉丁美洲的右倾，该地区的其他保守派领导人，包括阿根廷的哈维尔·米莱、智利的何塞·安东尼奥·卡斯特和萨尔瓦多的纳伊布·布克莱，已经向当选总统表示祝贺。 美国国务卿马可·卢比奥也在周二的声明中向藤森表示祝贺，称唐纳德·特朗普总统的政府期待深化安全、投资和贸易方面的合作。 她的胜利也受到了市场的欢迎，市场对桑切斯获胜的前景感到不安。周四，穆迪发布了一份报告..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
           },
           "translationState": "fallback"
         }
@@ -711,7 +810,7 @@
           "publishedAt": "2026-07-03T03:15:13.000Z",
           "title": {
             "en": "China says man who flew plane into Beijing skyscraper had mental health problems",
-            "zh": "中国称驾驶飞机撞上北京摩天大楼的男子有心理健康问题"
+            "zh": "中国称驾驶飞机撞向北京摩天大楼的男子有精神健康问题"
           },
           "summary": {
             "en": "Official statement offers the most detailed official account yet of the highly unusual and fatal incident in Beijing Chinese authorities said the man who flew a small plane into Beijing’s tallest skyscraper last week was a 66-year-old who had mental health problems. The...",
@@ -786,7 +885,7 @@
           },
           "body": {
             "en": "Poll also finds perception of Donald Trump has soured since his re-election, with fewer than a third of respondents viewing him positively Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australians have a more negative view of Israel than of China, the latest Guardian Essential poll has found, with women and middle-aged people exhibiting the least positive perception of Israel. The poll also finds Australians’ perceptions of Donald Trump have tumbled since his re-election, with fewer than a third of voters having a positive response to the US president. Continue reading...",
-            "zh": "民意调查还发现，自唐纳德·特朗普连任以来，对他的看法有所恶化，只有不到三分之一的受访者对他持积极态度。 最新的《卫报基本民意调查》发现，澳大利亚人对以色列的看法比对中国的看法更负面，其中女性和中年人对以色列的看法最不积极。民意调查还发现，自唐纳德·特朗普连任以来，澳大利亚人对他的看法有所下降，只有不到三分之一的选民对美国总统有积极的反应。继续阅读..."
+            "zh": "民意调查还发现，自唐纳德·特朗普连任以来，对他的看法有所恶化，只有不到三分之一的受访者对他持积极态度 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 最新的《卫报基本民意调查》发现，澳大利亚人对以色列的看法比中国更负面，其中女性和中年人对以色列的看法最不积极。民意调查还发现，自唐纳德·特朗普连任以来，澳大利亚人对他的看法有所下降，只有不到三分之一的选民对美国总统有积极的反应。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
