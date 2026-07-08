@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T22:00:15.394Z",
+  "generatedAt": "2026-07-08T23:06:11.518Z",
   "editionDate": "2026-07-09",
   "sources": [
     {
@@ -112,15 +112,83 @@
       ],
       "items": [
         {
+          "id": "www-theguardian-com-us-news-2026-jul-08-trump-air-force-one-england-trip",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip",
+          "image": "https://i.guim.co.uk/img/media/50545bb7959aa79128b61692336b002826174c75/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bb8fe852af2876687862fb6577613032",
+          "publishedAt": "2026-07-08T22:49:52.000Z",
+          "title": {
+            "en": "Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet",
+            "zh": "特朗普在前往英国的行程中改乘旧空军一号，而非新的卡塔尔喷气式飞机"
+          },
+          "summary": {
+            "en": "US President Donald Trump unexpectedly changed his travel plans for a trip to England, opting to fly on the older Air Force One instead of a new aircraft gifted by Qatar, which he had used for an earlier leg of his journey to Turkey.",
+            "zh": "美国总统唐纳德·特朗普出人意料地改变了前往英国的旅行计划，选择乘坐旧的空军一号，而不是他此前飞往土耳其时使用的卡塔尔赠送的新飞机。"
+          },
+          "body": {
+            "en": "US president unexpectedly changed plans for flight to England after using Qatari-gifted aircraft to travel to Turkey Donald Trump flew from Turkey to England onboard the older Air Force One on Wednesday, rather than the new, Qatari-gifted aircraft he used to travel to the Nato summit in Ankara, an unexpected change in plans that prompted questions about security fears. Trump later boarded the new plane at Mildenhall air force base in the United Kingdom for the trip back to Washington. Continue reading...",
+            "zh": "美国总统在使用卡塔尔赠送的飞机前往土耳其后出人意料地改变了飞往英国的计划。周三，唐纳德·特朗普乘坐旧的空军一号从土耳其飞往英国，而不是他用来参加安卡拉北约峰会的卡塔尔赠送的新飞机，这一意外的计划变化引发了人们对安全担忧的质疑。特朗普随后在英国米尔登霍尔空军基地登上这架新飞机返回华盛顿。继续阅读..."
+          },
+          "reflection": {
+            "en": "Leaders often face complex decisions where the best path forward isn't immediately clear, especially when national image and diplomatic relations are at stake. This change in travel plans highlights the ongoing process of seeking and heeding counsel to ensure wise choices that serve the nation well.",
+            "zh": "领导者常面临复杂的决策，尤其当涉及国家形象和外交关系时，最佳路径并非一目了然。这次出行计划的改变，突显了持续寻求和听取建议的过程，以确保做出明智的选择，从而更好地服务国家。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "aiVerseId": "prov_11_14",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-live-2026-jul-09-australia-news-live-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/eb282ab05af35ad2082ab566a98b279017057742/807_0_6053_4845/master/6053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=df660638e7338e0fe0f5dc04b965aaab",
+          "publishedAt": "2026-07-08T22:48:11.000Z",
+          "title": {
+            "en": "Australia news live: Telstra warns of ‘secondary issue’ after network outage; ABC stands by reporting ahead of royal commission hearing",
+            "zh": "澳大利亚新闻直播：Telstra警告网络中断后出现“次要问题”；ABC在皇家委员会听证会前坚持其报道"
+          },
+          "summary": {
+            "en": "Australia's Telstra faced ongoing network disruptions, impacting emergency services and regional trains, while public broadcaster ABC defended its reporting ahead of a royal commission hearing.",
+            "zh": "澳大利亚电信公司Telstra的网络中断持续，影响了紧急服务和区域列车，而公共广播公司ABC则在皇家委员会听证会前为其报道进行辩护。"
+          },
+          "body": {
+            "en": "Telstra says triple-zero issue reduced by 90%, while regional trains are still disrupted in Victoria and NSW. Follow today’s news live Get our breaking news email , free app or daily news podcast The ABC issued a statement last night in which it rejected claims “that its journalism has contributed to antisemitism or social division”. It comes ahead of appearances today by senior executives from the corporation and SBS executives at the royal commission on antisemitism and social cohesion. The ABC reporting has consistently centred on the experiences of Jewish Australians while providing context regarding broader social and political issues. Continue reading...",
+            "zh": "Telstra 表示，“三零”问题减少了 90%，而维多利亚州和新南威尔士州的区域列车仍然受到干扰。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 ABC 昨晚发表声明，否认“其新闻报道助长了反犹太主义或社会分裂”的说法。今天，该公司的高级管理人员和 SBS 的管理人员出席了皇家反犹太主义和社会凝聚力委员会的听证会。美国广播公司的报道始终以犹太澳大利亚人的经历为中心，同时提供更广泛的社会和政治问题的背景。继续阅读..."
+          },
+          "reflection": {
+            "en": "When essential services falter and public institutions face scrutiny, it reminds us of the profound responsibility those in authority bear. Yahweh's call to leaders is to ensure justice and protection for all, especially the vulnerable, and to avoid causing harm through negligence or wrongdoing. This principle extends to all who serve the public, urging...",
+            "zh": "当基本服务出现故障，公共机构面临审查时，这提醒我们掌权者肩负着重大的责任。雅伟呼召领袖们确保所有人的正义和保护，特别是弱势群体，并避免因疏忽或不当行为造成伤害。这一原则适用于所有服务公众的人，敦促他们在职责中保持正直和勤勉。"
+          },
+          "verse": {
+            "reference": "Jeremiah 22:3",
+            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
+            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
+            "themeEn": "Royal justice mandate",
+            "themeZh": "王者的公义责任"
+          },
+          "aiVerseId": "jer_22_3",
+          "translationState": "localized"
+        },
+        {
           "id": "www-theguardian-com-world-live-2026-jul-08-us-iran-strikes-trump-nato-su",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/world/live/2026/jul/08/us-iran-strikes-trump-nato-summit-live-updates",
           "image": "https://i.guim.co.uk/img/media/a8d06b5e53037a8b47dcb07aa89c54ff25d96e9b/0_0_4327_3461/master/4327.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7402cf75ef5ee864f5345f2212aaceb9",
-          "publishedAt": "2026-07-08T21:53:36.000Z",
+          "publishedAt": "2026-07-08T22:46:55.000Z",
           "title": {
-            "en": "US military launches fresh strikes on Iran – Middle East crisis live",
+            "en": "US military launches fresh strikes on Iran as Donald Trump threatens ‘much worse’ to come – Middle East crisis live",
             "zh": "美国军方对伊朗发动新一轮袭击——中东危机直播"
           },
           "summary": {
@@ -128,7 +196,7 @@
             "zh": "伊朗国家媒体报道，在唐纳德·特朗普前总统在北约峰会上威胁采取进一步军事行动数小时后，南部港口城市阿巴斯港多地发生爆炸。据报道，防空系统已启动应对这些袭击。"
           },
           "body": {
-            "en": "Iranian state media report explosions in several locations hours after Donald Trump threatened further military action at Nato summit US carries out another wave of strikes on Iran Wednesday’s strikes against Iran expected to be ​greater in number than those carried out on Tuesday, an unnamed U.S. official told Reuters. Sahar, a 34-year-old teacher in Tehran who uses only one name to protect her identity, said the latest attacks have left families worried about new strikes on the residential areas. “Every night we remain alert, in fear, and charge our phones, keep our packed bags near the doors, and sleep lightly because we do not know when we will have to rush and leave the house,” she said. “People here are tired and fed up; we want peace, dignity, and a normal life, not another unending war decided over our heads.” Meena, a 29-year-old graphic designer, said the fresh strikes have deepened a sense of uncertainty among young Iranians already struggling with economic crisis and limited freedoms. “My generation has grown up with sanctions, protests, internet shutdowns, and now missiles,” she said. “We are not statistics. We are people trying to work, study, love, and plan a future, but every crisis pushes that future further away.” Continue reading...",
+            "en": "US president says new strikes are ‘retribution’ after ships hit in strait of Hormuz; Iranian state media report explosions in several locations US carries out another wave of strikes on Iran Wednesday’s strikes against Iran expected to be ​greater in number than those carried out on Tuesday, an unnamed U.S. official told Reuters. Sahar, a 34-year-old teacher in Tehran who uses only one name to protect her identity, said the latest attacks have left families worried about new strikes on the residential areas. “Every night we remain alert, in fear, and charge our phones, keep our packed bags near the doors, and sleep lightly because we do not know when we will have to rush and leave the house,” she said. “People here are tired and fed up; we want peace, dignity, and a normal life, not another unending war decided over our heads.” Meena, a 29-year-old graphic designer, said the fresh strikes have deepened a sense of uncertainty among young Iranians already struggling with economic crisis and limited freedoms. “My generation has grown up with sanctions, protests, internet shutdowns, and now missiles,” she said. “We are not statistics. We are people trying to work, study, love, and plan a future, but every crisis pushes that future further away.” Continue reading...",
             "zh": "伊朗官方媒体报道称，在唐纳德·特朗普威胁在北约峰会上采取进一步军事行动几小时后，伊朗国家广播公司IRIB报道称，南部港口城市阿巴斯港发生八起爆炸，防空系统因此启动。伊朗《Nournews》援引军方消息人士的话称，伊朗武装部队很快将对该地区的美军基地发动“大规模”袭击。继续阅读..."
           },
           "reflection": {
@@ -144,6 +212,39 @@
           },
           "aiVerseId": "rom_12_21",
           "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jul-08-trump-fifa-red-card",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card",
+          "image": "https://i.guim.co.uk/img/media/58af12310d7e98a3aea39c4039c291fd958339e4/716_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b07b4ae75f167f8e5ccc64d84c8a73d",
+          "publishedAt": "2026-07-08T22:20:18.000Z",
+          "title": {
+            "en": "White House’s World Cup head defends Trump lobbying Fifa over red card",
+            "zh": "白宫世界杯负责人为特朗普游说国际足联红牌辩护"
+          },
+          "summary": {
+            "en": "Andrew Giuliani claims actions of referee Raphael Claus over US player Folarin Balogun ‘very, very highly suspicious’ Andrew Giuliani, head of the White House’s World Cup taskforce, has defended Donald Trump’s lobbying of Fifa to lift the suspension of US player Folarin Balogun...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Andrew Giuliani claims actions of referee Raphael Claus over US player Folarin Balogun ‘very, very highly suspicious’ Andrew Giuliani, head of the White House’s World Cup taskforce, has defended Donald Trump’s lobbying of Fifa to lift the suspension of US player Folarin Balogun for Monday’s game against Belgium. The US president claimed that Brazilian referee Raphael Claus , who showed Balogun a red card in the match against Bosnia and Herzegovina, was “a little bit suspect, if you check his past”. This was apparently a reference to a match-fixing investigation by Brazil’s senate in 2024 that examined how referees were assigned to games but did not accuse Claus of wrongdoing. Continue reading...",
+            "zh": "安德鲁·朱利安尼声称裁判拉斐尔·克劳斯对美国球员福拉林·巴洛贡的行为“非常非常可疑” 白宫世界杯特别工作组负责人安德鲁·朱利安尼为唐纳德·特朗普游说国际足联解除对美国球员福拉林·巴洛贡周一对阵比利时的比赛的禁赛进行了辩护。美国总统声称，在对阵波斯尼亚和黑塞哥维那的比赛中向巴洛贡出示红牌的巴西裁判拉斐尔·克劳斯“如果你检查一下他的过去”，“有点可疑”。这显然是指巴西参议院在 2024 年进行的一项假球调查，该调查调查了裁判是如何分配给比赛的，但没有指控克劳斯有不当行为。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-theguardian-com-film-2026-jul-08-louise-lasser-dies-aged-87-mary-har",
@@ -187,8 +288,8 @@
           "image": "https://assets.sbs.com.au/dims4/default/a2445e8/2147483647/strip/false/crop/5000x2297+0+156/resize/1234x567!/brightness/0x14/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fde%2Fb3%2F9ddcc6a2439383a1202b87b820a5%2Fgettyimages-2150909400.jpg",
           "publishedAt": "2026-07-08T21:52:17.000Z",
           "title": {
-            "en": "This hard-right politician quit parliament for a fight — His only rival dresses as a bin",
-            "zh": "这位极右翼政客退出议会进行斗争——他唯一的对手打扮成垃圾箱"
+            "en": "This hard-right politician quit parliament for a fight. His only rival dresses as a bin",
+            "zh": "这位极右翼政治家因斗争而退出议会。他唯一的对手打扮成垃圾箱"
           },
           "summary": {
             "en": "A man wearing a bin on his head could be the sole challenger for an infamous far-right British politician in a snap by-election.",
@@ -196,107 +297,7 @@
           },
           "body": {
             "en": "British anti-immigrant politician Nigel Farage faces the embarrassing prospect of going head-to-head with perennial joke candidate Count Binface in a by-election after he decided to quit parliament.\n\nComedian Jonathan David Harvey, better known as Count Binface, has stood in multiple UK elections wearing his trademark bin-shaped helmet.\n\nFarage's surprise move now threatens to backfire after other heavyweight parties confirmed they would not contest the vote for Farage's seat in southeast England.\n\nCount Binface, a self-described \"intergalactic space warrior\", is the only other person to have said so far that they would run.\n\nIn a televised address on Wednesday, the leader of the hard-right Reform UK party said he was resigning as the member of parliament for Clacton, the constituency he has represented since July 2024.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe shock announcement came as Farage is the subject of a parliamentary probe over the non-disclosure of a &#xA3;5 million ($9.65 million) donation from Thailand-based cryptocurrency billionaire Christopher Harborne.\n\nThe donation was made shortly before Farage was elected an MP and was revealed earlier this year by The Guardian newspaper, which reported Tuesday that bankers raised concern with the National Crime Agency that it may have been laundered money.\n\nThe agency told the Agence France-Presse news agency it would not confirm whether a complaint had been made.\n\nFarage, whose party leads national opinion polls, also faces scrutiny over separate alleged gifts from George Cottrell, a 32-year-old crypto entrepreneur previously convicted of fraud.\n\nFarage insists he has done nothing wrong and accused opponents in parliament of using sleaze investigations as a \"political tool\" against him.\n\nThe Reform UK leader did, however, discuss cryptocurrencies with Bank of England governor Andrew Bailey in September 2025.\n\nIn a letter to a Labour MP seen by AFP, Bailey said the bank was regularly subjected to lobbying and \"no policy changes have taken place as a result of interventions by Mr Farage\".\n\nIn showmanship typical of the 62-year-old Brexit campaigner, Farage said he would seek re-election, pitching the vote as a \"people versus the establishment by-election\" fight.\n\nBut his plans appeared in disarray after the ruling Labour party, the main opposition Conservatives, centrist Liberal Democrats, and fringe parties, the left-wing Greens and far-right Restore Britain, announced they would not field candidates in the by-election.\n\nOutgoing Prime Minister Keir Starmer called Farage's move a \"desperate stunt\" from someone \"up to his neck in sleaze\", while Tory leader Kemi Badenoch branded it a \"fake...",
-            "zh": "英国反移民政治家奈杰尔·法拉奇(Nigel Farage)决定退出议会后，面临着在补选中与常年开玩笑的候选人宾法斯伯爵(Count Binface)正面交锋的尴尬前景。 喜剧演员乔纳森·大卫·哈维（Jonathan David Harvey），更广为人知的名字是“宾菲斯伯爵”（Count Binface），曾多次戴着他标志性的垃圾箱形状头盔参加英国大选。 Farage's surprise move now threatens to backfire after other heavyweight parties confirmed they would not contest the vote for Farage's seat in southeast England. 自称“星际战士”的宾法斯伯爵是迄今为止唯一一个表示愿意参选的人。 In a televised address on Wednesday, the leader of the hard-right Reform UK party said he was resigning as the member of parliament for Clacton, the constituency he has represented since July 2024. 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 The shock announcement came as Farage is the subject of a parliamentary probe over the non-disclosure of a £5 million ($9.65 million) donation from Thailand-based cryptocurrency billionaire Christopher Harborne. The donation was made shortly before Farage was elected an MP and was revealed earlier this year by The Guardian newspaper, which reported Tuesday that bankers raised concern with the National Crime Agency that it may have been laundered money. 该机构告诉法新社，不会证实是否有人提出投诉。 法拉奇所在的政党在全国民意调查中领先，他还因涉嫌从 32 岁的加密货币企业家乔治·科特雷尔 (George Cottrell) 赠送礼物而面临审查，科特雷尔曾被判犯有欺诈罪。 法拉奇坚称自己没有做错任何事，并指责议会的反对者利用肮脏的调查作为针对他的“政治工具”。 然而，这位改革英国领导人确实于 2025 年 9 月与英格兰银行行长安德鲁·贝利讨论了加密货币。 In a letter to a Labour MP seen by AFP, Bailey said the bank was regularly subjected to lobbying and \"no policy changes have taken place as a result of interventions by Mr Farage\". 法拉奇以 62 岁英国退欧活动家典型的作秀风格表示，他将寻求连任，并将这次投票视为一场“人民与建制派补选”的斗争。 But his plans appeared in disarray after the ruling Labour party, the main opposition Conservatives, centrist Liberal Democrats, and fringe parties, the left-wing Greens and far-right Restore Britain, announced they would not field candidates in the by-election. Outgoing Prime Minister Keir Starmer called Farage's move a \"desperate stunt\" from someone \"up to his neck in sleaze\", while Tory leader Kemi Badenoch branded it a \"fake..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-live-2026-jul-08-graham-platner-democrats-se",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/jul/08/graham-platner-democrats-senate-bernie-sanders-maine-donald-trump-us-politics-live",
-          "image": "https://i.guim.co.uk/img/media/95ff8cc4d28a23d95183664fd1c44b15c19ad726/532_339_3670_2935/master/3670.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=19ead894bf825435eb8fba0720e26c10",
-          "publishedAt": "2026-07-08T21:51:46.000Z",
-          "title": {
-            "en": "Actor Patrick Dempsey rules out replacing Graham Platner in US Senate race – US politics live",
-            "zh": "肯塔基州州长要求更新麦康奈尔的健康状况，其住院情况引发疑问——实时报道"
-          },
-          "summary": {
-            "en": "Kentucky Governor Andy Beshear has reportedly sent a rare request to Senator Mitch McConnell's staff for an update on the 84-year-old's health since his hospitalization on June 14.",
-            "zh": "据报道，肯塔基州州长安迪·贝希尔罕见地向参议员米奇·麦康奈尔的幕僚发出了请求，要求了解这位84岁参议员自6月14日住院以来的健康状况。"
-          },
-          "body": {
-            "en": "Actor best known for Grey’s Anatomy says he gave serious thought to running for office amid frantic search for viable options to replace embattled Maine Democrat Sign up for the Breaking News US email During a bilateral meeting with Volodymyr Zelenskyy at the Nato summit in Ankara, Donald Trump was asked about Iran, and he repeated his earlier criticism. On Wednesday, while speaking to reporters alongside Mark Rutte, the Nato secretary general, Trump said that memorandum of understanding signed last month by the US and Iran is “over”, in the wake of the latest strikes. Continue reading...",
-            "zh": "安迪·贝希尔（Andy Beshear）罕见地向这位共和党参议员的工作人员发送了一份照会，要求了解这位 84 岁老人自 6 月 14 日住院以来的最新病情。在安卡拉北约峰会上与弗拉基米尔·泽伦斯基（Volodymyr Zelenskyy）举行双边会晤时，唐纳德·特朗普被问及伊朗问题，他重申了他之前的批评。周三，特朗普在与北约秘书长马克·鲁特一起接受记者采访时表示，在最近的袭击之后，美国和伊朗上个月签署的谅解备忘录已经“结束”。继续阅读..."
-          },
-          "reflection": {
-            "en": "The well-being of public servants is vital for the stability and integrity of governance. This request for an update reminds us that righteous leadership, which establishes a strong foundation for society, requires transparency and accountability regarding a leader's capacity to serve. Yahweh desires that those in authority uphold their roles with...",
-            "zh": "公职人员的健康状况对政府的稳定和廉正至关重要。这项更新请求提醒我们，正直的领导力是社会坚实基础的建立者，需要对领导者履行职责的能力保持透明和负责。雅伟期望掌权者以廉正之心履行职责，确保他们所代表的人民的信任。"
-          },
-          "verse": {
-            "reference": "Proverbs 16:12",
-            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
-            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
-            "themeEn": "Righteous rule",
-            "themeZh": "以公义治国"
-          },
-          "aiVerseId": "prov_16_12",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-live-2026-jul-09-australia-news-live-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/eb282ab05af35ad2082ab566a98b279017057742/807_0_6053_4845/master/6053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=df660638e7338e0fe0f5dc04b965aaab",
-          "publishedAt": "2026-07-08T21:51:18.000Z",
-          "title": {
-            "en": "Australia news live: Telstra warns of ‘secondary issue’ after network outage; ABC stands by reporting ahead of royal commission hearing",
-            "zh": "澳大利亚新闻直播：澳洲电信警告网络中断后出现“次要问题”； ABC 坚持在皇家委员会听证会之前进行报道"
-          },
-          "summary": {
-            "en": "Telstra says triple-zero issue reduced by 90%, while regional trains are still disrupted in Victoria and NSW. Follow today’s news live Get our breaking news email, free app or daily news podcast The ABC issued a statement last night in which it rejected claims “that its...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Telstra says triple-zero issue reduced by 90%, while regional trains are still disrupted in Victoria and NSW. Follow today’s news live Get our breaking news email , free app or daily news podcast The ABC issued a statement last night in which it rejected claims “that its journalism has contributed to antisemitism or social division”. It comes ahead of appearances today by senior executives from the corporation and SBS executives at the royal commission on antisemitism and social cohesion. The ABC reporting has consistently centred on the experiences of Jewish Australians while providing context regarding broader social and political issues. Continue reading...",
-            "zh": "Telstra 表示，“三零”问题减少了 90%，而维多利亚州和新南威尔士州的区域列车仍然受到干扰。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 ABC 昨晚发表声明，否认“其新闻报道助长了反犹太主义或社会分裂”的说法。今天，该公司的高级管理人员和 SBS 的管理人员出席了皇家反犹太主义和社会凝聚力委员会的听证会。美国广播公司的报道始终以犹太澳大利亚人的经历为中心，同时提供更广泛的社会和政治问题的背景。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-politics-2026-jul-08-andy-burnham-labour-mps-party-d",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/politics/2026/jul/08/andy-burnham-labour-mps-party-discipline-stifle-debate",
-          "image": "https://i.guim.co.uk/img/media/e477c22236479aec52f594de003b0995a28f23d2/892_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6efacc670281e25f6699929772720b8c",
-          "publishedAt": "2026-07-08T21:44:43.000Z",
-          "title": {
-            "en": "Burnham promises Labour MPs he will not use party discipline to ‘stifle debate’",
-            "zh": "伯纳姆向工党议员承诺，他不会利用党的纪律来“压制辩论”"
-          },
-          "summary": {
-            "en": "Prime minister in waiting looks to address frustrations backbenchers had with Keir Starmer’s style of party management Andy Burnham has promised MPs that he will never use party discipline to “stifle debate” and says they should raise problems and policy ideas “without fear or...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Prime minister in waiting looks to address frustrations backbenchers had with Keir Starmer’s style of party management Andy Burnham has promised MPs that he will never use party discipline to “stifle debate” and says they should raise problems and policy ideas “without fear or favour”. Nominations for the Labour leadership will open on Thursday, and Burnham is expected to be the only candidate. On Wednesday night the former armed forces minister Al Carns confirmed he would not seek to enter the race to replace Keir Starmer. Continue reading...",
-            "zh": "候任总理希望解决后座议员对凯尔·斯塔默(Keir Starmer)政党管理风格的不满。安迪·伯纳姆(Andy Burnham)向国会议员承诺，他永远不会利用党的纪律来“扼杀辩论”，并表示他们应该“毫无恐惧或偏袒”地提出问题和政策想法。工党领导层的提名将于周四开放，伯纳姆预计将是唯一的候选人。周三晚上，前武装部队部长阿尔·卡恩斯证实，他不会寻求参加取代凯尔·斯塔默的竞选。继续阅读..."
+            "zh": "英国反移民政治家奈杰尔·法拉奇(Nigel Farage)决定退出议会后，面临着在补选中与常年开玩笑的候选人宾法斯伯爵(Count Binface)正面交锋的尴尬前景。 喜剧演员乔纳森·大卫·哈维（Jonathan David Harvey），更广为人知的名字是“宾菲斯伯爵”（Count Binface），曾多次戴着他标志性的垃圾箱形状头盔参加英国大选。 在其他重量级政党确认不会争夺法拉奇在英格兰东南部席位的投票后，法拉奇的出人意料的举动现在可能会适得其反。 自称“星际战士”的宾法斯伯爵是迄今为止唯一一个表示愿意参选的人。 在周三的电视讲话中，极右翼改革英国党的领导人表示，他将辞去克拉克顿议会议员的职务，他自 2024 年 7 月以来一直代表该选区。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这一令人震惊的消息发布之际，法拉奇正因未披露来自泰国加密货币亿万富翁克里斯托弗·哈博尼 (Christopher Harborne) 的 500 万英镑（合 965 万美元）捐款而受到议会调查。 这笔捐款是在法拉奇当选议员前不久进行的，今年早些时候《卫报》披露了这笔捐款，该报周二报道称，银行家向国家犯罪局提出了关于这笔捐款可能被洗钱的担忧。 该机构告诉法新社，不会证实是否有人提出投诉。 法拉奇所在的政党在全国民意调查中领先，他还因涉嫌从 32 岁的加密货币企业家乔治·科特雷尔 (George Cottrell) 赠送礼物而面临审查，科特雷尔曾被判犯有欺诈罪。 法拉奇坚称自己没有做错任何事，并指责议会的反对者利用肮脏的调查作为针对他的“政治工具”。 然而，这位改革英国领导人确实于 2025 年 9 月与英格兰银行行长安德鲁·贝利讨论了加密货币。 贝利在法新社看到的一封致工党议员的信中表示，该银行经常受到游说，“法拉奇先生的干预并未导致政策发生变化”。 法拉奇以 62 岁英国退欧活动家典型的作秀风格表示，他将寻求连任，并将这次投票视为一场“人民与建制派补选”的斗争。 但在执政党工党、主要反对党保守党、中间派自由民主党和边缘政党左翼绿党和极右翼复兴英国宣布不会在补选中派出候选人后，他的计划显得混乱。 即将离任的总理基尔·斯塔默称法拉奇的举动是“肮脏到脖子以下”的人的“绝望的噱头”，而保守党领袖凯米·巴德诺克则将其称为“假的……”"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -423,28 +424,29 @@
           "publishedAt": "2026-07-08T19:38:55.000Z",
           "title": {
             "en": "How Norway's seemingly low-drama royals became engulfed in turmoil",
-            "zh": "挪威看似平淡无奇的王室成员是如何陷入混乱的"
+            "zh": "挪威看似低调的王室如何陷入动荡"
           },
           "summary": {
-            "en": "A criminal trial, royal controversies and a changing public mood has put Norway’s monarchy in the spotlight.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "Norway's monarchy is currently facing significant public scrutiny and turmoil, marked by a criminal trial, various royal controversies, and a shift in public sentiment.",
+            "zh": "挪威王室目前正面临公众的严格审视和动荡，其特点是一场刑事审判、各种王室争议以及公众情绪的变化。"
           },
           "body": {
             "en": "Share your feedback and help us improve this feature. Read more about how we use AI at SBS here.\n\nIf history has handed down one lesson, it's that royalty is no stranger to scandal, says Cindy McCreery, an associate professor of history at the University of Sydney.\n\nMcCreery, whose research focuses on monarchy and colonialism, tells SBS News almost no royal family has gone unscathed.\n\n\"I'm not sure that really any monarchy, that every member of every royal family, is completely seen as being trustworthy and doing good for the country,\" she says.\n\nIn Norway, a series of recent events involving some members of the royal family has put new focus on the House of Gl&#xFC;cksburg, a European dynasty that has occupied the Norwegian throne since 1905.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nRoyal experts say the developments have tested the way the Norwegian royal family navigates public scrutiny and maintains trust in the monarchy.\n\nAt four years old, Marius Borg H&#xF8;iby's picture was splashed across the pages of Norwegian newspapers, wearing a page boy suit as his mother, Mette-Marit, now 52, married Norway's Crown Prince Haakon, also 52. Mette-Marit , who became crown princess after her marriage in 2001, had conceived H&#xF8;iby during a previous relationship.\n\nAlthough he is not a member of the royal family and does not hold a royal title, he grew up in the public eye and became affectionately known as \"Little Marius\".\n\nMore than two decades later, H&#xF8;iby's image returned to Norwegian headlines as he faced criminal proceedings.\n\nIn June, the 29-year-old was sentenced to four years in prison after an Oslo district court found him guilty of 34 offences including serious bodily harm, abuse in close relationships, physical assault and violating a restraining order.\n\nHe was also convicted of raping two women, including an assault at Skaugum Estate, the private residence of Haakon and Mette-Marit, in 2018 and another in Oslo in 2014.\n\nProsecutors said the women were incapacitated or asleep during the sexual assaults.\n\nH&#xF8;iby was acquitted of two other counts of rape and two counts of violating a restraining order.\n\nH&#xF8;iby's lawyers have formally appealed the verdict, according to Norwegian news agency NTB. He will remain in detention until his appeal trial, which may not take place until next year.\n\nTove Taalesen, a royal expert at Nettavisen newspaper, told the Associated Press news agency that while Norwegians' opinions of the royal family vary, \"In general, I think we still have sympathy for the crown prince and the crown princess.\"\n\nAs the eldest son of Mette-Marit &#x2014; the woman is who is expected to become Norway's queen &#x2014;...",
             "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 悉尼大学历史学副教授辛迪·麦克里里 (Cindy McCreery) 表示，如果说历史给我们留下了一个教训，那就是皇室对丑闻并不陌生。 麦克里里的研究重点是君主制和殖民主义，他告诉 SBS 新闻，几乎没有王室家族毫发无损。 “我不确定是否真的有任何君主制，每个王室的每个成员都完全被视为值得信赖并为国家做好事，”她说。 在挪威，最近发生的一系列涉及部分王室成员的事件使格吕克斯堡家族成为新的焦点，这个欧洲王朝自 1905 年以来一直占据挪威王位。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 王室专家表示，事态发展考验了挪威王室应对公众监督和维持对君主制信任的方式。 四岁时，马吕斯·博格·霍伊比 (Marius Borg Høiby) 的照片登上了挪威报纸的版面，当时他穿着男童套装，现年 52 岁的母亲梅特·玛丽特 (Mette-Marit) 与同为 52 岁的挪威王储哈康 (Haakon) 结婚。梅特·玛丽特 (Mette-Marit) 于 2001 年结婚后成为王储妃，她在前一段恋情中怀上了霍伊比。 虽然他不是王室成员，也不拥有王室头衔，但他在公众的视野中长大，被人们亲切地称为“小马吕斯”。 二十多年后，霍伊比面临刑事诉讼，他的形象再次成为挪威的头条新闻。 今年 6 月，奥斯陆地方法院判定这名 29 岁的男子犯有 34 项罪行，包括严重身体伤害、亲密关系中的虐待、人身攻击和违反限制令，他被判处四年监禁。 他还因强奸两名妇女而被定罪，包括 2018 年在哈康和梅特-玛丽特的私人住宅 Skaugum Estate 发生的袭击事件以及 2014 年在奥斯陆发生的另一起袭击事件。 检察官表示，这些妇女在性侵犯期间丧失行为能力或睡着了。 霍伊比的另外两项强奸罪和两项违反限制令罪被无罪释放。 据挪威通讯社 NTB 报道，霍伊比的律师已对判决正式提出上诉。在上诉审判之前，他将继续被拘留，上诉审判可能要到明年才会进行。 《内塔维森报》的王室专家托夫·塔勒森告诉美联社，虽然挪威人对王室的看法各不相同，但“总的来说，我认为我们仍然对王储和王储妃抱有同情心。” 作为梅特-玛丽特的长子——这位女士有望成为挪威女王……"
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The stability of any leadership, especially a monarchy, rests on a foundation of integrity and righteous conduct. When royal controversies and legal challenges arise, they highlight the profound impact of leaders' actions on public trust and the institution itself. Yahweh's word reminds us that a throne is established through righteousness, underscoring the...",
+            "zh": "任何领导层，尤其是君主制的稳定，都建立在正直和公义行为的基础之上。当王室争议和法律挑战出现时，它们突显了领导者行为对公众信任和机构本身的深远影响。雅伟的话语提醒我们，王位是靠公义建立的，这强调了对道德治理的持久需求。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Proverbs 16:12",
+            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
+            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
+            "themeEn": "Righteous rule",
+            "themeZh": "以公义治国"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_16_12",
+          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-trump-s-support-for-venezuela-opposition-head-machado-wane",
@@ -456,28 +458,29 @@
           "publishedAt": "2026-07-08T19:25:00.000Z",
           "title": {
             "en": "Trump's support for Venezuela opposition head Machado wanes",
-            "zh": "特朗普对委内瑞拉反对派领袖马查多的支持减弱"
+            "zh": "特朗普对委内瑞拉反对派领导人马查多的支持减弱"
           },
           "summary": {
             "en": "Venezuelan opposition leader and Nobel Peace laureate María Corina Machado says she wants to return to her earthquake-ravaged homeland. Yet neither Venezuela's government nor the United States thinks that's a good idea.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及盼望、忍耐与重建。如需完整细节，请阅读英文原始报道。"
+            "zh": "委内瑞拉反对派领导人、诺贝尔和平奖得主玛丽亚·科里纳·马查多表示，她希望返回遭受地震破坏的祖国。然而，委内瑞拉政府和美国都认为这不是一个好主意。"
           },
           "body": {
             "en": "Venezuelan opposition leader and Nobel Peace laureate María Corina Machado says she wants to return to her earthquake-ravaged homeland. Yet neither Venezuela's government nor the United States thinks that's a good idea.\n\nThe opposition politician Maria Corina Machado has been planning her return from the United States to Venezuela for months. When the devastating double earthquake &#160;hit the coastal region of La Guaira in June, she believed that the time was right. In a video message, the 2025 Nobel Peace Prize winner&#160; accused &#160;Venezuela's interim government, led by Delcy Rodríguez , of actively obstructing disaster relief. This accusation is also voiced by earthquake victims and some aid organizations.\n\nMachado recorded the video in Panama City . From there, she planned to fly to Venezuela. Sources close to her allege that Venezuela's government threatened the airline with a landing ban if Machado were on board. Neither Copa Airlines nor Venezuela's government has confirmed the claim, nor have they denied it.\n\nIn the video, Machado does not mention an incident that The Wall Street Journal reported in early July. According to the article , in June Machado attempted to fly from the United States&#160;to the Dutch-held Caribbean island of Curacao by private jet and then to travel to Venezuela by boat. In December, she had secretly left traveled the same route in the opposite direction to fly to Oslo for the Nobel Prize ceremony.\n\nCiting high-level sources, The Wall Street Journal reports that the private jet provided for Machado was over the state of North Carolina when it was ordered back by the US government. The State Department justified demanding that the plane turn back over concerns that political disputes could further complicate relief efforts following the earthquakes.\n\nThe conservative Machado was long considered the most important ally within the Venezuelan opposition for US President Donald Trump . A&#160;New York Times headline on the&#160;rift between Machado and the Trump administration &#160;said: \"US Undercuts Venezuela's Opposition Leader as She Tries to Return.\"\n\nPhil Gunson, of the International Crisis Group in Venezuela , told DW that it is clear&#160;that the US government does not view Machado as a transitional politician. And he sees at least one good reason for this: \"She was really essential to the opposition victory in 2024. But she's not a negotiator. She has a lot of problems even reaching agreements with people on her own side.\"\n\nVenezuela's electoral commission declared the incumbent president,&#160; Nicolas Maduro , the winner of the 2024 vote, though the result was protested within the country and abroad.&#160;International observers said opposition candidate Edmundo Gonzalez had clearly won the election....",
             "zh": "委内瑞拉反对派领导人、诺贝尔和平奖得主玛丽亚·科里娜·马查多表示，她想返回遭受地震蹂躏的祖国。然而委内瑞拉政府和美国都不认为这是一个好主意。 几个月来，反对派政治家玛丽亚·科里娜·马查多一直在计划从美国返回委内瑞拉。当六月份毁灭性的双重地震袭击拉瓜伊拉沿海地区时，她相信时机已经成熟。这位 2025 年诺贝尔和平奖获得者在视频中指责德尔西·罗德里格斯领导的委内瑞拉临时政府积极阻挠救灾。地震灾民和一些援助组织也提出了这一指控。 马查多在巴拿马城录制了这段视频。她计划从那里飞往委内瑞拉。与她关系密切的消息人士称，委内瑞拉政府威胁该航空公司，如果马查多登机，将禁止其着陆。巴拿马航空公司和委内瑞拉政府都没有证实这一说法，也没有否认这一说法。 在视频中，马查多没有提及《华尔街日报》7月初报道的一件事。文章称，6月，马查多试图乘坐私人飞机从美国飞往荷兰控制的加勒比海岛库拉索岛，然后乘船前往委内瑞拉。 12月，她曾偷偷离开，原路反方向飞往奥斯陆参加诺贝尔奖颁奖典礼。 《华尔街日报》援引高层消息人士的话报道称，为马查多提供的私人飞机被美国政府勒令归还时正在北卡罗来纳州上空飞行。美国国务院有理由要求飞机返航，因为担心政治争端可能使地震后的救援工作进一步复杂化。 保守派马查多长期以来被认为是美国总统唐纳德·特朗普在委内瑞拉反对派中最重要的盟友。 《纽约时报》关于马查多与特朗普政府之间分歧的头条新闻称：“当委内瑞拉反对派领袖试图回归时，美国削弱了她的实力。” 委内瑞拉国际危机组织的菲尔·冈森 (Phil Gunson) 告诉德国之声，美国政府显然并不将马查多视为过渡政治家。他认为这至少有一个充分的理由：“她对于2024年反对派的胜利确实至关重要。但她不是一名谈判者。即使与自己一方的人达成协议，她也遇到很多问题。” 委内瑞拉选举委员会宣布现任总统尼古拉斯·马杜罗 (Nicolas Maduro) 在 2024 年大选中获胜，尽管这一结果遭到国内外的抗议。 国际观察家表示，反对派候选人埃德蒙多·冈萨雷斯显然赢得了选举......"
           },
           "reflection": {
-            "en": "This story draws attention to hope, endurance, and faithful rebuilding. Romans 12:12 reminds us to meet sharp headlines with steady hope and perseverance, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到盼望、忍耐与重建。Romans 12:12提醒我们，在快速变化的新闻里，仍要以坚定盼望与忍耐来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The longing of an opposition leader to return to her suffering nation highlights the profound impact of governance on a people. Proverbs 29:2 reminds us that the character of leadership directly affects the well-being of a society, bringing either joy or groaning. In times of national hardship, the need for righteous and compassionate leadership becomes...",
+            "zh": "一位反对派领导人渴望返回她苦难的祖国，这凸显了治理对人民的深远影响。箴言29:2提醒我们，领导者的品格直接影响社会的福祉，带来喜乐或叹息。在国家面临困境时，对公义和富有同情心的领导的需求变得更加明显。"
           },
           "verse": {
-            "reference": "Romans 5:3-4",
-            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
-            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
-            "themeEn": "Suffering produces hope",
-            "themeZh": "患难中的盼望"
+            "reference": "Proverbs 29:2",
+            "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
+            "textZh": "义人增多，民就喜乐；恶人掌权，民就叹息。",
+            "themeEn": "Righteous vs wicked rulers",
+            "themeZh": "义人执政与恶人当道"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_29_2",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-videos-cx2vj284415o-at-medium-rss-at-campaign-rss",
@@ -1094,7 +1097,7 @@
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb",
           "image": "https://i.guim.co.uk/img/media/eb282ab05af35ad2082ab566a98b279017057742/807_0_6053_4845/master/6053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=df660638e7338e0fe0f5dc04b965aaab",
-          "publishedAt": "2026-07-08T21:25:14.000Z",
+          "publishedAt": "2026-07-08T22:48:11.000Z",
           "title": {
             "en": "Australia news live: Telstra warns of ‘secondary issue’ after network outage; ABC stands by reporting ahead of royal commission hearing",
             "zh": "澳大利亚新闻直播：澳洲电信警告网络中断后出现“次要问题”； ABC 坚持在皇家委员会听证会之前进行报道"
@@ -1162,8 +1165,8 @@
           "image": "https://assets.sbs.com.au/dims4/default/fa362f9/2147483647/strip/false/crop/2400x1103+0+124/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ffc%2F08%2F41b2b1c94ba7b4c6aa6dd750b7b6%2Fhendri-sabri-fsx4p35rzxq-unsplash.jpg",
           "publishedAt": "2026-07-08T19:38:42.000Z",
           "title": {
-            "en": "The $10,000 health bill: what it actually costs to live longer in Australia",
-            "zh": "10,000 澳元的医疗费用：在澳大利亚长寿的实际成本"
+            "en": "'Can't treat our way out’: Why Australia’s $271 billion health spend could miss the mark",
+            "zh": "“无法通过治疗解决问题”：为什么澳大利亚 2710 亿澳元的医疗支出可能达不到目标"
           },
           "summary": {
             "en": "A major new report reveals we now live longer, but rising out-of-pocket costs and chronic disease are straining the system.",
@@ -1196,28 +1199,29 @@
           "publishedAt": "2026-07-08T15:00:37.000Z",
           "title": {
             "en": "Bed rot, doomscrolling and a single goldfish: the Melbourne art show blowing loneliness open",
-            "zh": "床腐病、末日卷轴和一条金鱼：墨尔本艺术展吹响了孤独的大门"
+            "zh": "“卧床腐烂”、末日滚动和一条金鱼：墨尔本艺术展揭示孤独"
           },
           "summary": {
-            "en": "Featuring Lucy Liu, Polly Borland and a hand-woven tapestry packed with memes, Acca’s latest exhibition is a tragicomedy for the restlessly online Sign up for a weekly email featuring our best reads A forlorn goldfish called Pao Pao stares from its sparse tank at the entry to...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "An art exhibition in Melbourne explores the theme of modern loneliness, featuring works that depict behaviors like \"bed rot\" and \"doomscrolling\" among those constantly online.",
+            "zh": "墨尔本的一个艺术展探讨了现代孤独的主题，展出的作品描绘了那些持续在线的人们所表现出的“卧床腐烂”和“末日滚动”等行为。"
           },
           "body": {
             "en": "Featuring Lucy Liu, Polly Borland and a hand-woven tapestry packed with memes, Acca’s latest exhibition is a tragicomedy for the restlessly online Sign up for a weekly email featuring our best reads A forlorn goldfish called Pao Pao stares from its sparse tank at the entry to Are you lonely tonight? I’m so lonesome I could cry – a new exhibition on loneliness at the Australian Centre for Contemporary Art (Acca) in Melbourne. “He’s part of my family, he’ll be coming back to the big tank,” says the exhibition’s co-curator, son of a veterinarian and Acca’s artistic director and CEO, Myles Russell-Cook. He owns several fish and has named this one after the hypothetical last goldfish on Earth depicted in Kelly Yu’s short film playing in the next room, Endling. Continue reading...",
             "zh": "Acca 的最新展览以 Lucy Liu、Polly Borland 和充满迷因的手工编织挂毯为特色，对于躁动不安的在线人来说是一场悲喜剧。我太孤独了，以至于想哭——墨尔本澳大利亚当代艺术中心（Acca）举办的关于孤独的新展览。 “他是我家庭的一员，他会回到大水箱里，”展览联合策展人迈尔斯·拉塞尔·库克 (Myles Russell-Cook) 说道，他是兽医的儿子，也是 Acca 的艺术总监兼首席执行官。他养了几条鱼，并以隔壁房间播放的凯莉·余 (Kelly Yu) 短片《Endling》中描绘的地球上最后一条金鱼的名字命名了这条鱼。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The exhibition highlights a pervasive modern challenge: the loneliness that can arise despite constant digital connection, often manifesting in behaviors like doomscrolling. Yahweh invites us to cultivate a disciplined mind, focusing on what is true, noble, and praiseworthy, rather than being consumed by the endless scroll of negativity. This intentional...",
+            "zh": "这个展览揭示了一个普遍的现代挑战：尽管数字连接无处不在，但孤独感依然盛行，常表现为“末日滚动”等行为。雅伟邀请我们培养自律的心思，专注于真实、高尚和值得称赞的事物，而不是被无休止的负面信息所吞噬。这种有意识的转变能帮助我们在数字喧嚣中找到平安，并培养真正的连接。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
           },
-          "translationState": "fallback"
+          "aiVerseId": "phil_4_8",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-commentisfree-2026-jul-09-ai-artificial-intelligence",
@@ -1228,7 +1232,7 @@
           "image": "https://i.guim.co.uk/img/media/b1390398cb375a0479d2ebaf93621bb278b603a4/1620_600_3555_2844/master/3555.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=eed94e78e7906beb5abc53567081efb0",
           "publishedAt": "2026-07-08T15:00:36.000Z",
           "title": {
-            "en": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
+            "en": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
             "zh": "数据中心是一颗定时炸弹。我们必须确保人工智能的收益大于成本 |尼基·赫特利"
           },
           "summary": {
