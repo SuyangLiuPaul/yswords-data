@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T09:01:54.885Z",
+  "generatedAt": "2026-07-10T11:54:53.788Z",
   "editionDate": "2026-07-10",
   "sources": [
     {
@@ -112,15 +112,83 @@
       ],
       "items": [
         {
+          "id": "www-theguardian-com-uk-news-2026-jul-10-police-warn-against-protest-misi",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/jul/10/police-warn-against-protest-misinformation-amid-glasgow-disorder",
+          "image": "https://i.guim.co.uk/img/media/3afd5391a64e82071ea620b8a8e86d760a1072f7/199_0_4163_3330/master/4163.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8caf95582276445bbfc51d3a2fcbdd92",
+          "publishedAt": "2026-07-10T11:39:38.000Z",
+          "title": {
+            "en": "Police warn against protest misinformation amid Glasgow disorder",
+            "zh": "警方警告格拉斯哥骚乱中抗议活动存在虚假信息"
+          },
+          "summary": {
+            "en": "Scottish police have issued a warning against online misinformation, stating that disturbances in Glasgow were linked to false claims spread by “bad actors” exploiting community fears. They urged the public to fact-check online information before participating in protests.",
+            "zh": "苏格兰警方警告称，格拉斯哥的骚乱与“不良分子”在网上散布的虚假信息有关，这些信息利用了社区内的恐惧。警方敦促公众在参与抗议活动前核实网上信息的真实性。"
+          },
+          "body": {
+            "en": "Disturbances linked to false claims spread online by bad actors ‘tapping into fears within the community’ Scottish police have warned people to factcheck online claims before going to protests, after crowds gathered outside two homes in Glasgow this week, in one case as a result of mistaken identity. Police Scotland said that several nights of disorder in Scotland’s biggest city had “clearly been orchestrated by individuals who are not from Glasgow”. Continue reading...",
+            "zh": "不良行为者“利用社区内部的恐惧”在网上传播与虚假指控有关的骚乱。本周，人群聚集在格拉斯哥的两处民宅外，其中一例是由于身份错误造成的，苏格兰警方警告人们在参加抗议之前要对网上的指控进行事实核查。苏格兰警方表示，苏格兰最大城市连续几个晚上的骚乱“显然是由非格拉斯哥人策划的”。继续阅读..."
+          },
+          "reflection": {
+            "en": "In an age of rapid information, it is crucial to exercise discernment and not accept every claim at face value. This wisdom reminds us to thoughtfully consider what we hear and read, especially when it stirs strong emotions or calls for action. By seeking truth, we contribute to a more stable and peaceful community.",
+            "zh": "在信息快速传播的时代，我们必须运用辨别力，不轻易相信所有说法。这智慧提醒我们，要深思熟虑所听到和读到的信息，尤其当它激起强烈情绪或号召行动时。通过寻求真相，我们为建立一个更稳定、和平的社区做出贡献。"
+          },
+          "verse": {
+            "reference": "Proverbs 14:15",
+            "textEn": "The simple believe anything, but the prudent give thought to their steps.",
+            "textZh": "愚蒙人是话都信；通达人步步谨慎。",
+            "themeEn": "Discernment",
+            "themeZh": "分辨与谨慎"
+          },
+          "aiVerseId": "prov_14_15",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-technology-2026-jul-10-eu-accuses-meta-failing-tackl",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+          "image": "https://i.guim.co.uk/img/media/afcefcf20e7c19d9b8290408e6e261cdc853a2c2/746_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d861e6e3ae4e9e12bb52379678b1be9",
+          "publishedAt": "2026-07-10T11:38:29.000Z",
+          "title": {
+            "en": "EU accuses Meta of failing to tackle mental health risks of ‘addictive design’",
+            "zh": "欧盟指控Meta未能解决“成瘾性设计”带来的心理健康风险"
+          },
+          "summary": {
+            "en": "EU regulators have accused Meta, the company behind Facebook and Instagram, of failing to address the mental health risks associated with its “addictive design” features, such as autoplay and infinite scroll, which contribute to compulsive use.",
+            "zh": "欧盟监管机构指控Meta公司未能解决其“成瘾性设计”功能（如自动播放和无限滚动）带来的心理健康风险，这些功能导致用户强迫性使用其平台。"
+          },
+          "body": {
+            "en": "Regulators say Facebook and Instagram features such as autoplay and infinite scroll contribute to ‘compulsive use’ EU regulators have accused Meta, the company behind Facebook and Instagram, of failing to tackle the risks of its “addictive design” on the physical and mental health of users. In an official charge sheet against Meta released on Friday, the European Commission said features such as video autoplay and infinite scroll, which provides an endless stream of content, “shift the brain into autopilot mode, contributing to unhealthy habits and compulsive use”. Continue reading...",
+            "zh": "监管机构称，Facebook 和 Instagram 的自动播放和无限滚动等功能助长了“强迫性使用” 欧盟监管机构指责 Facebook 和 Instagram 背后的公司 Meta 未能解决其“成瘾设计”对用户身心健康造成的风险。在周五发布的针对 Meta 的官方指控中，欧盟委员会表示，视频自动播放和无限滚动等功能提供了源源不断的内容，“使大脑进入自动驾驶模式，导致不健康的习惯和强迫性使用”。继续阅读..."
+          },
+          "reflection": {
+            "en": "The EU's accusation against Meta highlights the importance of foresight in an age of rapidly evolving technology. When platforms are designed in ways that can lead to compulsive use and mental health risks, it underscores the need for prudence to identify and address potential dangers before they cause widespread harm.",
+            "zh": "欧盟对Meta的指控，突显了在科技迅速发展的时代中，预见性的重要。当平台的设计可能导致强迫性使用和心理健康风险时，这强调了我们需要审慎地识别和解决潜在危险，以防其造成广泛的伤害。"
+          },
+          "verse": {
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
+          },
+          "aiVerseId": "prov_27_12",
+          "translationState": "localized"
+        },
+        {
           "id": "www-theguardian-com-politics-live-2026-jul-10-andy-burnham-labour-shaban",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/politics/live/2026/jul/10/andy-burnham-labour-shabana-mahmood-reform-nigel-farage-uk-politics-live-news",
-          "image": "https://i.guim.co.uk/img/media/0860d97ea3388dea5caa95d77ce189dcadbdd359/161_0_1507_1205/master/1507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ff151d3cd9edb845e5a1abdc29b1837c",
-          "publishedAt": "2026-07-10T08:46:14.000Z",
+          "image": "https://i.guim.co.uk/img/media/48b90aeb5f0ebbb5de37588e589eef7d7d283f66/649_177_4048_3238/master/4048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7b05fc2342059cc23d74abd9662fdeca",
+          "publishedAt": "2026-07-10T11:32:45.000Z",
           "title": {
-            "en": "Burnham urged to ditch Mahmood’s migrant settlement plans to stop Labour being ‘imitation’ of Reform – UK politics live",
+            "en": "More than half of voters view Farage and Reform as ‘very sleazy’ as Clacton byelection called for 13 August– UK politics live",
             "zh": "伯纳姆被敦促放弃马哈茂德的移民安置计划，以防工党成为改革党的“模仿者”——英国政治直播"
           },
           "summary": {
@@ -128,7 +196,7 @@
             "zh": "新闻报道了英国的一场政治辩论，安迪·伯纳姆被敦促放弃某些移民安置计划，以使工党与改革党区分开来。报道还提及前保守党大臣安·威迪科姆去世，享年78岁。"
           },
           "body": {
-            "en": "Burnham set to be next PM with strong support from all wings of the party as 322 Labour MPs back him The former Conservative minister Ann Widdecombe has died aged 78, her management has said. Kevin Rawlinson has the story. Good morning. Even the BBC has (almost) given up describing Andy Burnham as the person who is likely, or almost certain, to become the next PM. As of last night, it is now, barring something so unexpected it would be in the act of God category, a done deal. Labour published the names of the MPs who have already nominated Burnham, and he has got 322 nominations. There are only 81 Labour MPs left who have not nominated anyone. By coincidence (or not?), 81 is exactly the number of names a rival candidate would need to stand. But in Labour politics the outgoing leader does not nominate a successor, and so in practice Burnham has already cleared the threshold. It’s wrapped up; he is the next leader and PM. Continue reading...",
+            "en": "The negative perception of the party and its leader has grown, according to a polling expert Immigration policy (see 9.24am ) is just one area where Andy Burnham faces an acute challenge when he becomes PM. Here are some of the other stories around this morning about Burnham and what he might do when he takes power. Jim Pickard, George Parker and Jennifer Williams in the Financial Times say Burnham is considering having a deputy PM based in Manchester running his No 10 North. The deputy Labour leader, Lucy Powell, is well placed to get this job, they report. Burnham is expected to spend several days a month in Number 10 North. Caroline Simpson, chief executive of the Greater Manchester Combined Authority, has been lined up to run the new office. But the transition team has also raised the idea that the new unit could be given political direction by the next deputy prime minister, who would be based in Manchester, according to people close to the situation. John Bew, a former No 10 foreign policy adviser, has told the Times that Burnham could face an international crisis within weeks of taking office. Bew said: I’d say there’s a high likelihood of a series of quite challenging contingencies happening. One is a horizontal or vertical escalation from Putin over the course of this summer and beyond because the war [in Ukraine] is not going well for him. Some ministers are lobbying Burnham to keep their jobs. In their London Playbook briefing for Politico, Sam Francis and Megan McElroy have a good summary. Cabinet auditions continue across Westminster. Business Secretary Peter Kyle was at least direct about it, telling the Guardian ’s Richard Partington that “I want to stay, I’ll just stay where I am.” He also declared Britain needs “Manchesterism.” In another not-very-subtle intervention, David Miliband used his foreign policy speech last night to restate his support for electoral reform (he previously backed the Alternative Vote at the 2011 referendum, while still an MP ) and back a Burnham-style transfer of power out of Westminster (the Arguably substack has the full script ). Just before Miliband spoke, Yvette Cooper revealed to Chatham House that she had spoken to Andy Burnham before heading to NATO — meaning she’s already giving him foreign affairs advice. Potential candidates will … have four days, from Tuesday 14 July to Friday 17 July at 4pm, to submit their nominations. Residents not already on the electoral register have until 28 July to apply to vote in time for the byelection, and until 5pm the following day (29 July) to apply for a postal or postal proxy vote. Continue reading...",
             "zh": "伯纳姆将在党内各派的大力支持下成为下一任首相，有 322 名工党议员支持他。前保守党部长安·维德科姆 (Ann Widdecombe) 的管理层表示，她已去世，享年 78 岁。凯文·罗林森有这个故事。早上好。甚至英国广播公司（BBC）也（几乎）放弃将安迪·伯纳姆描述为可能或几乎肯定成为下一任总理的人。从昨晚开始，现在已经是板上钉钉的事了，除非出现意外的情况，否则就属于天灾范畴。工党公布了已经提名伯纳姆的议员名单，伯纳姆获得了 322 项提名。目前只剩下 81 名工党议员尚未提名任何人。巧合（或不是？），81 正是竞争对手候选人需要参选的人数。但在工党政治中，即将卸任的领导人不会提名继任者，因此伯纳姆实际上已经扫清了门槛。它被包裹起来了；他是下一任领导人和总理。继续阅读..."
           },
           "reflection": {
@@ -146,106 +214,104 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-world-2026-jul-10-wildfire-southern-spain-temperatur",
+          "id": "www-theguardian-com-us-news-2026-jul-10-bills-trump-clean-energy-coal",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar",
-          "image": "https://i.guim.co.uk/img/media/788e8308e832f313fd2a9c9fcf8e929c2414ead2/444_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6ee90b02ed7f9f478e2c6684d615413",
-          "publishedAt": "2026-07-10T08:37:02.000Z",
+          "link": "https://www.theguardian.com/us-news/2026/jul/10/bills-trump-clean-energy-coal",
+          "image": "https://i.guim.co.uk/img/media/fd5837188bec6d468d5306b293ba31e2fb4c2e97/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2958913dd5da2965d2f95dd81cb2ed97",
+          "publishedAt": "2026-07-10T11:30:19.000Z",
           "title": {
-            "en": "Wildfires in southern Spain kill at least 11 amid soaring temperatures",
-            "zh": "西班牙南部野火在高温中造成至少11人死亡"
+            "en": "‘He’s forcing higher bills’: Trump spends billions to kill clean energy and keep coal alive",
+            "zh": "“他正在强加更高的账单”：特朗普斥资数十亿扼杀清洁能源，维持煤炭产业"
           },
           "summary": {
-            "en": "Wildfires in southern Spain, exacerbated by soaring temperatures, have resulted in at least 11 deaths, with 23 people still unaccounted for. Four Britons are believed to be among those who died while attempting to escape the fast-moving blaze in the Almería region.",
-            "zh": "西班牙南部野火在高温下蔓延，已造成至少11人死亡，另有23人失踪。据信，有四名英国人在阿尔梅里亚地区试图逃离迅速蔓延的大火时丧生。"
+            "en": "The Trump administration has reportedly spent billions of taxpayer dollars to support the coal industry and oppose wind power. Critics allege these actions lead to higher energy costs for working Americans and benefit the president's associates.",
+            "zh": "据报道，特朗普政府已花费数十亿美元纳税人的钱来支持煤炭行业并反对风能。批评人士称，这些举措导致美国工薪阶层面临更高的能源费用，并使总统的亲信受益。"
           },
           "body": {
-            "en": "At least four Britons believed to be among those who died attempting to flee blaze in heatwave-struck Almería region At least 11 people have been killed and 23 are unaccounted for after a fast-moving wildfire broke out in south-east Spain as the country endures its second heatwave of the summer. The regional government of Andalucía said the victims, four of whom are believed to be British, had died while trying to flee the flames near the village of Bédar in the Los Gallardos municipality of Almería. Continue reading...",
-            "zh": "据信，至少有四名英国人在遭受热浪袭击的阿尔梅里亚地区试图逃离大火时丧生。西班牙东南部正在经历夏季第二次热浪，该国东南部爆发了一场快速蔓延的野火，造成至少 11 人死亡，23 人下落不明。安达卢西亚地方政府表示，遇难者中有四人据信是英国人，他们在阿尔梅里亚洛斯加拉多斯市贝达尔村附近试图逃离大火时死亡。继续阅读..."
+            "en": "Critics accuse president of ‘fattening the wallets of his cronies’ as working Americans face higher energy rates The Trump administration has directly spent $2.7bn of taxpayer money on its crusade against wind power while pouring $1.125bn into boosting coal, which critics say is pushing up Americans’ bills. They say the moves are evidence that the president aims to serve fossil-fuel companies like those which donated record sums to his presidential campaign , rather than the working-class Americans to whom he pledged to lower energy bills and other costs. Continue reading...",
+            "zh": "批评者指责总统在美国工薪阶层面临更高的能源价格之际“让亲信们钱包鼓起来”。特朗普政府直接花费了27亿美元纳税人的钱来打击风电，同时投入11.25亿美元来发展煤炭，批评者称这推高了美国人的电费。他们表示，这些举措证明，总统的目标是为化石燃料公司服务，比如那些为他的总统竞选活动捐赠创纪录金额的公司，而不是他承诺降低能源费用和其他成本的美国工薪阶层。继续阅读..."
           },
           "reflection": {
-            "en": "The tragic loss of life in the Spanish wildfires reminds us of the fragility of life and the deep sorrow that natural disasters can bring. In moments of such profound grief, we hold onto the promise that Yahweh will one day wipe away every tear, and death, mourning, crying, and pain will be no more. This hope offers solace to those who mourn and a vision of...",
-            "zh": "西班牙野火中生命的悲剧性逝去，提醒我们生命的脆弱以及自然灾害带来的深切悲痛。在如此深重的悲伤时刻，我们紧紧抓住雅伟有一天将擦去所有眼泪的应许，那时死亡、悲哀、哭号和疼痛都将不再有。这份盼望为哀伤者带来慰藉，并描绘了一个被更新的世界的异象。"
+            "en": "This news highlights the enduring tension between public service and private gain, where policy decisions can be influenced by financial interests. When the pursuit of wealth becomes a primary driver, it often leads to outcomes that burden the many for the benefit of a few. Yahweh calls us to consider how our economic choices impact the common good and to...",
+            "zh": "这则新闻凸显了公共服务与私人利益之间长期存在的张力，政策决策可能受到经济利益的影响。当对财富的追求成为主要驱动力时，往往会导致少数人受益而多数人受损的局面。雅伟呼召我们思考经济选择如何影响共同利益，并警惕贪婪的欺骗性力量。"
           },
           "verse": {
-            "reference": "Revelation 21:4",
-            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
-            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
-            "themeEn": "End of suffering",
-            "themeZh": "苦难的终结"
+            "reference": "1 Timothy 6:10",
+            "textEn": "For the love of money is a root of all kinds of evil.",
+            "textZh": "贪财是万恶之根。",
+            "themeEn": "Love of money",
+            "themeZh": "贪财"
           },
-          "aiVerseId": "rev_21_4",
+          "aiVerseId": "1tim_6_10",
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-politics-2026-jul-10-ann-widdecombe-former-tory-mp-a",
+          "id": "www-theguardian-com-business-2026-jul-10-legally-binding-debt-targets-en",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/politics/2026/jul/10/ann-widdecombe-former-tory-mp-and-reform-uk-member-dies-aged-78",
-          "image": "https://i.guim.co.uk/img/media/05618246208c117251cfe81243f6c82fd4174cf6/335_0_3313_2651/master/3313.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65bc52a6f8098e59463f4aa2bef3a61b",
-          "publishedAt": "2026-07-10T08:33:19.000Z",
+          "link": "https://www.theguardian.com/business/2026/jul/10/legally-binding-debt-targets-england-water-companies",
+          "image": "https://i.guim.co.uk/img/media/40c5adea32515f0a7177a8de93c9e9a6391ef904/529_130_3342_2675/master/3342.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2a7ecc331c0d001eb5a97c45812603c",
+          "publishedAt": "2026-07-10T11:23:24.000Z",
           "title": {
-            "en": "Ann Widdecombe, former Tory MP and Reform UK member, dies aged 78",
-            "zh": "前保守党议员、英国改革党成员安·威德科姆去世，享年78岁"
+            "en": "Ministers plan legally binding debt targets for England’s water companies",
+            "zh": "部长们计划为英格兰自来水公司制定具有法律约束力的债务目标"
           },
           "summary": {
-            "en": "Ann Widdecombe, a former Conservative MP and prominent Eurosceptic, has died at the age of 78. She was a social conservative who served as an MP and MEP, and was described as a 'force of nature' by Reform leader Nigel Farage.",
-            "zh": "前保守党议员、英国改革党成员安·威德科姆去世，享年78岁。这位著名的疑欧派和社会保守主义者曾担任议员和欧洲议会议员，英国改革党领袖奈杰尔·法拉奇称她为“一股自然力量”。"
+            "en": "Exclusive: Move comes as allies of Andy Burnham work on proposals to take water companies into public control Ministers are drawing up plans to set legally binding debt targets for England’s water companies as they look for ways to avoid another corporate failure such as Thames...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Prominent Eurosceptic and social conservative paid tribute to as ‘force of nature’ by Reform leader Nigel Farage The former Conservative minister Ann Widdecombe has died aged 78, her management has said. Widdecombe, who served as an MP and an MEP during a lengthy and often controversial political career, gained notoriety as a television personality in later life. Besides the Tories, she was also a member of the Brexit party and its successor, Reform UK. Continue reading...",
-            "zh": "改革领袖奈杰尔·法拉奇 (Nigel Farage) 著名的欧洲怀疑论者和社会保守派人士赞扬了“自然的力量”。 前保守党部长安·维德科姆 (Ann Widdecombe) 的管理层表示，她已去世，享年 78 岁。维德科姆在漫长且经常引起争议的政治生涯中担任过国会议员和欧洲议会议员，在晚年作为电视名人而声名狼藉。 Besides the Tories, she was also a member of the Brexit party and its successor, Reform UK.继续阅读..."
+            "en": "Exclusive: Move comes as allies of Andy Burnham work on proposals to take water companies into public control Ministers are drawing up plans to set legally binding debt targets for England’s water companies as they look for ways to avoid another corporate failure such as Thames Water. Sources say Emma Reynolds, the environment secretary, is working on proposals that would force companies to keep their debt below certain levels for the first time or face legal punishment. Continue reading...",
+            "zh": "独家报道：此举之际，安迪·伯纳姆（Andy Burnham）的盟友正在研究将自来水公司纳入公共控制的提案。部长们正在制定计划，为英格兰的自来水公司设定具有法律约束力的债务目标，同时他们正在寻找避免泰晤士水务公司等企业倒闭的方法。有消息称，环境大臣艾玛·雷诺兹正在制定提案，迫使企业首次将债务控制在一定水平以下，否则将面临法律惩罚。继续阅读..."
           },
           "reflection": {
-            "en": "The news of a long and impactful life concluding invites us to reflect on the race we are all called to run. For those who serve in public life, the end of their earthly journey marks the completion of their unique contribution. May we all strive to finish our course with integrity and purpose, trusting Yahweh with the outcome.",
-            "zh": "一段漫长而有影响力的生命走到尽头，这促使我们反思每个人被呼召去奔跑的赛程。对于那些在公共生活中服务的人来说，他们尘世旅程的结束标志着他们独特贡献的完成。愿我们都努力以正直和目标完成我们的道路，将结果交托给雅伟。"
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "2 Timothy 4:7",
-            "textEn": "I have fought the good fight, I have finished the race, I have kept the faith.",
-            "textZh": "那美好的仗我已经打过了，当跑的路我已经跑尽了，所信的道我已经守住了。",
-            "themeEn": "Race finished",
-            "themeZh": "跑尽当跑的路"
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
           },
-          "aiVerseId": "2tim_4_7",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-football-2026-jul-10-violent-disorder-in-london-fran",
+          "id": "www-bbc-co-uk-news-articles-c04y6wr03gxo-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/football/2026/jul/10/violent-disorder-in-london-france-morocco-world-cup-police-officer-hurt-arrests",
-          "image": "https://i.guim.co.uk/img/media/0670c69276045d68ab19aec1966fadc7d592a2df/429_0_2820_2256/master/2820.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3ba97ab01a2e5237e72ed9489695ef0",
-          "publishedAt": "2026-07-10T08:28:38.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe89/live/7d209130-7c45-11f1-8ccc-df652c9169a7.jpg",
+          "publishedAt": "2026-07-10T10:42:13.000Z",
           "title": {
-            "en": "Police officer hurt amid violent disorder in London after France beat Morocco",
-            "zh": "法国击败摩洛哥后伦敦发生暴力骚乱，一名警官受伤"
+            "en": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+            "zh": "菲律宾山体滑坡造成15人死亡，东亚地区正准备迎接破坏性台风"
           },
           "summary": {
-            "en": "Police reported violent disorder in London following France's World Cup victory over Morocco, leading to four arrests and a police officer being injured. Separately, a teenager died in France during celebrations.",
-            "zh": "警方报告称，法国在世界杯上击败摩洛哥后，伦敦发生了暴力骚乱，导致四人被捕，一名警官受伤。此外，一名青少年在法国的庆祝活动中死亡。"
+            "en": "Headed for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Four arrests after Edgware Road incidents, say police Teenager dies in France while celebrating team’s win A police officer has been hurt and several people were arrested after disorder in London on Thursday night in the wake of France beating Morocco 2-0 in a World Cup quarter-final in Boston in the United States. Police and fans clashed on Edgware Road. Footage on social media appears to show flares being set off and missiles being thrown at officers in the middle of a London street. The Metropolitan police said four people were arrested for violent disorder and one officer had been taken to hospital with a head injury after being hit by a glass bottle. Continue reading...",
-            "zh": "埃奇韦尔路事件后四人被捕，警察称法国青少年在庆祝球队获胜时死亡周四晚上，法国队在美国波士顿举行的世界杯四分之一决赛中以 2-0 击败摩洛哥队后，伦敦发生骚乱，一名警察受伤，数人被捕。警察和球迷在埃奇韦尔路发生冲突。社交媒体上的视频似乎显示，有人在伦敦街道中央引爆照明弹，并向警察投掷导弹。伦敦警察厅表示，四人因暴力骚乱被捕，一名警官被玻璃瓶击中头部受伤，被送往医院。继续阅读..."
+            "en": "Landslides triggered by one of the strongest storms in decades have killed at least 15 people in southern Philippines, as parts of East Asia brace themselves for the looming storm.\n\nTyphoon Bavi, which spans 1,000km (620 miles) at its widest point – roughly the width of France – is sweeping across the Pacific towards Taiwan.\n\nIt is expected to dump rain on Taiwan's north and east, and on a chain of remote Japanese islands, before making landfall in south-eastern China on Saturday.\n\nDozens of flights have been cancelled while schools have suspended classes across the region. Supermarket shelves have been wiped clean as residents stock up on supplies ahead of the typhoon.\n\nOn the Philippine island of Mindanao, families have been buried overnight by landslides, and rescuers are still searching for those missing.\n\nModerate to heavy rains will continue to drench parts of the country throughout the weekend, officials say.\n\nTaiwanese authorities have warned that Bavi could bring up to 1m (39 inches) of rainfall. Some 29,000 soldiers have been put on standby to help with relief efforts, according to the island's defence ministry.\n\nBavi is set to be the largest storm, by size, to hit the island since 1987, Taiwan's Central Weather Administration told Reuters.\n\nFarmers across the region rushed to harvest or protect their crops while the weather held earlier on Friday, while fishermen made sure to secure their vessels tightly.\n\n\"Don't be fooled by the nice and calm weather now. A storm like this could be the most terrifying,\" 60-year-old fisherman Chen Ming-hui told Reuters.\n\nThousands of sandbags have been distributed to residents and shop-owners in flood-prone areas.\n\nAcross the strait, China has also warned of \"significant impact\" from the typhoon that could move northward after smashing into the south-eastern Fujian province.\n\n\"Bavi's large size and abundant energy mean its remnants and outer rainbands could move from Jiangsu and Anhui provinces toward the Bohai Sea region,\" said Ma Jun, director of China's Institute of Public and Environmental Affairs.\n\nThe northern provinces, which have \"less experience\" dealing with typhoons in comparison with the south, should \"strengthen preparations\", he warned.\n\nIn Japan, residents on the remote Sakishima Islands are also on high alert. Photographs shared online show some of them taping up windows and draping windproof nets across their homes and shops.\n\nVarious airlines have grounded flights in the region. Japan Airlines, for instance, has axed more than 100 flights for Friday and Saturday, disrupting travel for nearly 20,000 passengers.\n\nAll Nippon Airways, another Japanese carrier, has cancelled more than 160 flights through Sunday, also affecting about 20,000 people, according to Reuters.\n\nThai Airways and...",
+            "zh": "几十年来最强烈的风暴之一引发的山体滑坡已导致菲律宾南部至少 15 人死亡，东亚部分地区正在为即将到来的风暴做好准备。 台风巴威最宽处长达 1,000 公里（620 英里）——大约相当于法国的宽度——正在横渡太平洋向台湾袭来。 预计它将给台湾北部和东部以及一系列偏远的日本岛屿带来降雨，然后于周六登陆中国东南部。 数十架航班被取消，整个地区的学校也停课。由于居民在台风来临前囤积物资，超市货架已被清理干净。 在菲律宾棉兰老岛上，许多家庭一夜之间被山体滑坡掩埋，救援人员仍在寻找失踪者。 官员称，整个周末，中到大雨将继续淹没该国部分地区。 台湾当局警告称，巴威可能带来高达 1 米（39 英寸）的降雨量。据该岛国防部称，约有 29,000 名士兵已处于待命状态，以帮助救援工作。 台湾中央气象局告诉路透社，从规模来看，巴威将成为自 1987 年以来袭击该岛的最大风暴。 周五早些时候，天气保持稳定，该地区的农民忙着收割或保护农作物，而渔民则确保紧紧固定船只。 60岁的渔民陈明辉告诉路透社：“不要被现在平静的好天气所迷惑。像这样的风暴可能是最可怕的。” 数千个沙袋已分发给洪水易发地区的居民和店主。 在海峡对岸，中国也警告说，台风袭击福建省东南部后可能会向北移动，造成“重大影响”。 中国公众环境研究所所长马军表示：“巴威面积大、能量丰富，这意味着它的残余物和外雨带可能会从江苏和安徽省向渤海地区移动。” 他警告说，与南方相比，北方省份应对台风的经验“较少”，应该“加强准备工作”。 在日本，偏远的先岛群岛的居民也处于高度戒备状态。网上分享的照片显示，其中一些人用胶带粘住了窗户，并在家里和商店上挂上了防风网。 多家航空公司已停飞该地区的航班。例如，日本航空 (Japan Airlines) 已削减了周五和周六的 100 多个航班，影响了近 2 万名乘客的出行。 据路透社报道，另一家日本航空公司全日空航空公司截至周日已取消了 160 多个航班，也影响了约 2 万人。 泰国航空和..."
           },
           "reflection": {
-            "en": "Intense emotions, even from sports, can sometimes spill over into destructive behavior, causing harm to others and leading to tragic outcomes. This incident reminds us that choosing violence, regardless of the provocation, often brings its own painful consequences. Yahweh calls us to a path of peace, recognizing that resorting to force ultimately harms all...",
-            "zh": "即使是源于体育赛事的强烈情绪，有时也可能演变为破坏性行为，对他者造成伤害并导致悲剧性后果。这起事件提醒我们，无论起因如何，选择暴力往往会带来自身的痛苦后果。雅伟呼召我们走和平之路，认识到诉诸武力最终会伤害所有相关方。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Matthew 26:52",
-            "textEn": "All who draw the sword will die by the sword.",
-            "textZh": "凡动刀的，必死在刀下。",
-            "themeEn": "Cycle of violence",
-            "themeZh": "动刀者必亡于刀"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
-          "aiVerseId": "matt_26_52",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
           "id": "www-bbc-co-uk-news-articles-ce8kkerxz74o-at-medium-rss-at-campaign-rss",
@@ -253,7 +319,7 @@
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9834/live/74796a60-7b6a-11f1-936a-038dbfe02d14.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f7b/live/c0c46b20-7c4d-11f1-912a-c3e242c0bef0.jpg",
           "publishedAt": "2026-07-10T08:26:00.000Z",
           "title": {
             "en": "We've saved £6,000 on holidays by swapping homes with strangers",
@@ -279,40 +345,6 @@
             "themeZh": "爱胜过丰盛"
           },
           "aiVerseId": "prov_15_17",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-environment-2026-jul-10-swift-nest-reportedly-thrown",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/environment/2026/jul/10/swift-nest-reportedly-thrown-in-skip-during-house-renovations-in-south-tyneside",
-          "image": "https://i.guim.co.uk/img/media/3586254d7574d944fb86b0823cce8301f3e1d07b/0_596_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f52c5d18525481ff94a9112daf781fe",
-          "publishedAt": "2026-07-10T08:00:15.000Z",
-          "title": {
-            "en": "Swift nest reportedly thrown in skip during house renovations in South Tyneside",
-            "zh": "南泰恩赛德房屋翻修期间，雨燕巢穴据报被扔进垃圾箱"
-          },
-          "summary": {
-            "en": "Conservationists in South Tyneside are concerned that swift nests, potentially containing chicks, were destroyed and discarded during house renovations by a council-appointed contractor. This incident reportedly occurred despite existing regulations designed to protect such nests.",
-            "zh": "南泰恩赛德的环保人士担心，在议会指定承包商进行房屋翻修期间，雨燕巢穴（可能含有雏鸟）被毁并丢弃。据报道，尽管有旨在保护此类巢穴的现有规定，但仍发生了这一事件。"
-          },
-          "body": {
-            "en": "Conservationists fear more nests may have been destroyed during work on Jarrow houses by council-appointed contractor Swift chicks are feared to have been thrown into a skip during house renovations in South Tyneside, despite rules that should stop the destruction of nests. The Northern Swifts Group (NSG) was alerted to the destruction of at least one nest on Tuesday, in a street in Jarrow where houses were being renovated by South Tyneside council. Continue reading...",
-            "zh": "环保人士担心，在南泰恩赛德的房屋翻修过程中，政府指定的承包商在贾罗房屋的施工过程中可能会毁坏更多的雨燕雏鸟，尽管有规定应该阻止破坏巢穴的行为，但人们担心雨燕雏鸟在南泰恩赛德的房屋翻修过程中被扔进料斗里。周二，北雨燕组织 (NSG) 接到警报称，南泰恩赛德议会正在贾罗的一条街道上翻修房屋，至少有一个鸟巢被毁。继续阅读..."
-          },
-          "reflection": {
-            "en": "The reported destruction of swift nests during renovations reminds us of our foundational call to care for creation. Yahweh placed humanity in the world not to exploit it carelessly, but to tend and protect it. This incident highlights the ongoing need for diligence and respect for all life, even amidst human development.",
-            "zh": "翻修工程中雨燕巢穴被毁的报道，提醒我们对受造物负有根本的看护责任。雅伟将人类安置在世上，并非任由我们随意开发，而是要我们耕耘和看守。这起事件凸显了在人类发展过程中，持续对所有生命保持谨慎和尊重的必要性。"
-          },
-          "verse": {
-            "reference": "Genesis 2:15",
-            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
-            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
-            "themeEn": "Creation care",
-            "themeZh": "看守受造界"
-          },
-          "aiVerseId": "gen_2_15",
           "translationState": "localized"
         },
         {
@@ -355,23 +387,23 @@
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd8f/live/aa804310-7c26-11f1-b3bb-a3d4161295ad.png",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4a8/live/00fc0710-7c54-11f1-b303-b781e40f7a76.png",
           "publishedAt": "2026-07-10T06:44:21.000Z",
           "title": {
             "en": "China lands reusable rocket for first time, state media says",
-            "zh": "官媒称中国首次成功着陆可重复使用火箭"
+            "zh": "中国首次成功着陆可重复使用火箭，官方媒体报道"
           },
           "summary": {
-            "en": "China has successfully landed a reusable rocket for the first time, according to state media, following similar achievements by US-owned companies SpaceX and Blue Origin.",
-            "zh": "据官方媒体报道，中国首次成功着陆了可重复使用的火箭，此前美国公司SpaceX和蓝色起源也实现了类似成就。"
+            "en": "China has successfully landed a reusable rocket for the first time, according to state media. This achievement follows similar successful landings by US companies SpaceX and Blue Origin.",
+            "zh": "据中国官方媒体报道，中国首次成功实现可重复使用火箭着陆。此前，美国公司SpaceX和Blue Origin也曾成功实现类似的可重复使用火箭着陆。"
           },
           "body": {
             "en": "China has successfully landed a reusable rocket for the first time in a major breakthrough for the country's space programme, according to state media.\n\nThe China Aerospace Science and Technology Corporation said the Long March 10B rocket lifted off from Hainan in southern China at 12:15 local time (04:15GMT) on Friday.\n\nAround six minutes after separating from the rocket's upper stage, its booster returned to Earth vertically and was recovered on a floating platform.\n\nIt signals that China may be able to challenge America's dominance in reusable rockets after successful landings by Elon Musk's SpaceX and Blue Origin, which is owned by Amazon founder Jeff Bezos.\n\nRockets are typically considered expendable - their various segments being discarded and destroyed during ascent - which makes launching spacecraft expensive.\n\nBy reusing boosters - which are generally seen as the most valuable part of a rocket - the cost of satellite launches and space exploration can be significantly lowered.\n\nIn December 2015, SpaceX landed a reusable Falcon 9 rocket from an orbital flight for the first time, followed by Blue Origin's New Glenn in November 2025.\n\nThe Falcon 9 now launches about 150 times a year with boosters that are capable of being reused dozens of times.\n\nChina made its first attempt at reusable rocket recovery in February, with a Long March 10A rocket. It completed a controlled descent and splashed down next to a recovery platform.\n\nThe Long March 10B, which can carry a payload of at least 16 metric tons to low-Earth orbit, has been compared to SpaceX's Falcon 9.\n\nBut unlike the Falcon 9, the Long March 10B does not autonomously land on a ground pad or drone ship. Instead \"landing hooks\" on the rocket catch a net attached to a floating platform.\n\nShares in Chinese space firms jumped following the news, with China Spacesat and China Satellite Communications each rising by 10%, the daily limit allowed by the country's financial market regulations.",
             "zh": "据官方媒体报道，中国首次成功着陆可重复使用火箭，这是中国太空计划的重大突破。 中国航天科技集团公司表示，长征十号乙运载火箭于当地时间周五中午 12 点 15 分（格林威治标准时间 04 点 15 分）从中国南部的海南岛升空。 与火箭上级分离后大约六分钟，其助推器垂直返回地球，并在浮动平台上回收。 这标志着，在埃隆·马斯克(Elon Musk)的SpaceX和亚马逊创始人杰夫·贝佐斯(Jeff Bezos)旗下的蓝色起源(Blue Origin)成功着陆后，中国可能能够挑战美国在可重复使用火箭方面的主导地位。 火箭通常被认为是消耗性的——它们的各个部分在上升过程中被丢弃和毁坏——这使得发射航天器变得昂贵。 通过重复使用助推器（通常被视为火箭最有价值的部分），可以显着降低卫星发射和太空探索的成本。 2015 年 12 月，SpaceX 首次将可重复使用的猎鹰 9 号火箭从轨道飞行中着陆，随后蓝色起源的新格伦火箭于 2025 年 11 月着陆。 目前，猎鹰 9 号火箭每年发射约 150 次，其助推器可重复使用数十次。 今年二月，中国首次尝试使用长征十号甲运载火箭进行可重复使用火箭回收。它完成了受控下降并溅落在回收平台旁边。 长征十号B可以将至少16吨的有效载荷运送到近地轨道，有人将其与SpaceX的猎鹰9号进行比较。 但与猎鹰 9 号不同的是，长征十号 B 不能自动降落在地面垫或无人机船上。相反，火箭上的“着陆钩”抓住了连接在浮动平台上的网。 消息传出后，中国航天公司的股价大幅上涨，中国航天和中国卫星通信股价均上涨 10%，这是中国金融市场法规允许的涨停板。"
           },
           "reflection": {
-            "en": "This achievement in reusable rocket technology highlights humanity's relentless drive to innovate and expand our understanding of the world. It echoes the ancient prophecy that knowledge shall increase, reflecting the accelerating pace of human discovery and capability in our time.",
-            "zh": "这项可重复使用火箭技术成就，彰显了人类不断创新和拓展对世界认知的决心。它呼应了古老的预言，即知识将不断增长，反映了我们时代人类发现和能力加速发展的步伐。"
+            "en": "This technological milestone reflects humanity's persistent drive to explore and innovate, echoing the biblical observation that knowledge will increase. Such advancements remind us of the incredible capacity for discovery Yahweh has placed within us, inviting us to steward these gifts responsibly for the good of all.",
+            "zh": "这一技术里程碑反映了人类探索和创新的不懈动力，呼应了圣经中关于知识将不断增长的论述。此类进步提醒我们雅伟赋予人类的惊人发现能力，邀请我们负责任地管理这些恩赐，造福全人类。"
           },
           "verse": {
             "reference": "Daniel 12:4",
@@ -400,7 +432,7 @@
             "zh": "芯片巨头SK海力士在美国股市成功募资265亿美元，这是外国公司在纳斯达克有史以来规模最大的一次首次亮相。"
           },
           "body": {
-            "en": "South Korean computer chip maker SK Hynix has raised $26.5bn (£19.8bn) in its New York share offering, marking the largest ever listing by a foreign firm in the US.\n\nThe company, a key supplier to artificial intelligence (AI) chip giant Nvidia, said on Thursday that it had sold 177.9 million American depositary shares for $149 each. The shares are set to begin trading on Friday on the Nasdaq.\n\nSK Hynix saw its market value top $1tn in its home country in May, lifted by the boom in demand for AI chips.\n\nIts share price has more than tripled in South Korea this year, which along with Samsung Electronics has helped boost the benchmark Kospi index by more than 70% over the same period.\n\nSK Hynix is one of the world's leading memory chip makers. The industry has been given a major boost by the hundreds of billions being spent on AI.\n\nShares in rivals Samsung Electronics and Micron have more than doubled in recent months.\n\nThe US listing gives SK Hynix easier access to huge amounts of potential investment from the world's biggest economy, which has fewer barriers than South Korea, said Seoul National University finance professor Jaewon Choi.\n\nTraders are closely watching the listing as a \"yardstick to test the water\" for whether investor enthusiasm for memory chip makers will continue, Choi said.\n\nThe AI boom has triggered a rush of companies raising money on the the stock market.\n\nIn June, GrokAI owner SpaceX became the world's biggest ever listing as it raised $85.7bn.\n\nMeanwhile, AI developers Anthropic and OpenAI are preparing to go public, with valuations of more $1tn.\n\nDemand for SK Hynix's offering was reportedly over seven times more than the number of shares available, highlighting the strong investor appetite for a key company in the AI supply chain.\n\nEach American depositary share is equivalent to a tenth of a Seoul-traded common share, SK Hynix said.\n\nThe offering gives US investors a way to buy SK Hynix shares without having to trade via an overseas stock exchange.\n\nThe company has pledged major investments to develop South Korea's chip making and AI capabilities in the coming years.\n\nThe country's government is likely to be counting on SK Hynix's US listing to raise funds that can support the firm's domestic investments, said Hanyang University business professor Yun Youngjin.\n\nBut the Nasdaq listing carries some risks, especially if investors move money towards the US and away from South Korea's stock market, Yun added.\n\nIn June, the country's government unveiled plans for more than $880bn of investments in partnership with SK Hynix and Samsung.\n\nBoth SK Hynix and Samsung have stock market valuations of more that $1tn, joining growing group of firms which includes tech giants Nvidia, Apple, Microsoft and Google-owner Alphabet.",
+            "en": "South Korean computer chip maker SK Hynix has raised $26.5bn (£19.8bn) in its New York share offering, marking the largest ever listing by a foreign firm in the US.\n\nThe company, a key supplier to artificial intelligence (AI) chip giant Nvidia, said on Thursday that it had sold 177.9 million American depositary shares for $149 each. The shares are set to begin trading on Friday on the Nasdaq.\n\nSK Hynix saw its market value top $1tn in its home country in May, lifted by the boom in demand for AI chips.\n\nIts share price has more than tripled in South Korea this year, which along with Samsung Electronics has helped boost the benchmark Kospi index by more than 70% over the same period.\n\nSK Hynix is one of the world's leading memory chip makers. The industry has been given a major boost by the hundreds of billions being spent on AI.\n\nShares in rivals Samsung Electronics and Micron have more than doubled in recent months.\n\nThe US listing gives SK Hynix easier access to huge amounts of potential investment from the world's biggest economy, which has fewer barriers than South Korea, said Seoul National University finance professor Jaewon Choi.\n\nTraders are closely watching the listing as a \"yardstick to test the water\" for whether investor enthusiasm for memory chip makers will continue, Choi said.\n\nThe AI boom has triggered a rush of companies raising money on the the stock market.\n\nIn June, GrokAI owner SpaceX became the world's biggest ever listing as it raised $85.7bn.\n\nMeanwhile, AI developers Anthropic and OpenAI are preparing to go public, with valuations of more $1tn.\n\nDemand for SK Hynix's offering was reportedly over seven times more than the number of shares available, highlighting the strong investor appetite for a key company in the AI supply chain.\n\nEach American depositary share is equivalent to a tenth of a Seoul-traded common share, SK Hynix said.\n\nThe offering gives US investors a way to buy SK Hynix shares without having to trade via an overseas stock exchange.\n\nThe company has pledged major investments to develop South Korea's chip making and AI capabilities in the coming years.\n\nThe country's government is likely to be counting on SK Hynix's US listing to raise funds that can support the firm's domestic investments, said Hanyang University business professor Yun Youngjin.\n\nBut the Nasdaq listing carries some risks, especially if investors move money towards the US and away from South Korea's stock market, Yun added.\n\nIn June, the country's government unveiled plans for more than $880bn of investments in partnership with SK Hynix and Samsung.\n\nBoth SK Hynix and Samsung have stock market valuations of more than $1tn, joining a growing group of firms which includes tech giants Nvidia, Apple, Microsoft and Google-owner Alphabet.",
             "zh": "韩国计算机芯片制造商 SK 海力士在纽约股票发行中筹集了 265 亿美元（198 亿英镑），这是外国公司在美国上市以来规模最大的一次。 该公司是人工智能（AI）芯片巨头英伟达（Nvidia）的主要供应商，该公司周四表示，已以每股 149 美元的价格出售了 1.779 亿股美国存托股票。该股票定于周五在纳斯达克开始交易。 受人工智能芯片需求旺盛的推动，SK 海力士 5 月份在本国的市值突破 1 万亿美元。 今年，该公司股价在韩国上涨了两倍多，与三星电子一起帮助基准 Kospi 指数同期上涨了 70% 以上。 SK 海力士是全球领先的存储芯片制造商之一。数千亿美元的人工智能投入极大地推动了该行业的发展。 近几个月来，竞争对手三星电子和美光科技的股价上涨了一倍多。 首尔国立大学金融学教授 Jaewon Choi 表示，在美国上市使 SK 海力士更容易获得来自世界最大经济体的巨额潜在投资，而韩国的障碍比韩国少。 Choi 表示，交易员正在密切关注此次上市，将其视为投资者对存储芯片制造商的热情是否会持续的“试水标准”。 人工智能的繁荣引发了众多公司在股市上筹集资金的热潮。 6 月，GrokAI 母公司 SpaceX 筹集了 857 亿美元资金，成为全球有史以来规模最大的上市公司。 与此同时，人工智能开发商 Anthropic 和 OpenAI 正准备上市，估值超过 1 万亿美元。 据报道，对 SK 海力士发行股票的需求是现有股票数量的七倍多，这突显了投资者对人工智能供应链中一家关键公司的强烈兴趣。 SK 海力士表示，每股美国存托股票相当于首尔交易的普通股的十分之一。 此次发行为美国投资者提供了一种购买 SK 海力士股票的方式，而无需通过海外证券交易所进行交易。 该公司已承诺在未来几年进行重大投资，发展韩国的芯片制造和人工智能能力。 汉阳大学商学教授尹永进表示，韩国政府可能指望 SK 海力士在美国上市来筹集资金，支持该公司的国内投资。 但尹补充说，纳斯达克上市存在一些风险，特别是如果投资者将资金从韩国股市转移到美国的话。 6 月，该国政府公布了与 SK 海力士和三星合作投资超过 8800 亿美元的计划。 SK 海力士和三星的股票市场估值均超过 1 万亿美元，加入了包括科技巨头英伟达、苹果、微软和谷歌母公司 Alphabet 在内的不断壮大的公司行列。"
           },
           "reflection": {
@@ -427,61 +459,28 @@
           "publishedAt": "2026-07-10T01:12:40.000Z",
           "title": {
             "en": "Factory fire kills at least 28 in China's 'shoe capital'",
-            "zh": "中国“鞋都”工厂火灾造成至少28人死亡"
+            "zh": "工厂火灾在中国“鞋都”造成至少28人死亡"
           },
           "summary": {
-            "en": "Footage shows huge flames rising from a building and thick, black smoke rising into the sky.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "A factory fire in China's \"shoe capital\" has killed at least 28 people. Footage showed large flames and thick, black smoke rising from the building.",
+            "zh": "中国“鞋都”一家工厂发生火灾，造成至少28人死亡。视频显示，大火从建筑物中蹿出，浓烟滚滚升向天空。"
           },
           "body": {
             "en": "A fire at a shoe factory in the south-eastern Chinese city of Jinjiang has killed at least 28 people, according to the state news agency.\n\nDramatic footage posted by Xinhua showed huge plumes of black smoke rising from a building as well as people who appeared to be trapped on the roof.\n\nPresident Xi Jinping said the blaze had caused \"major casualties\", adding those responsible must be held \"strictly accountable\".\n\nJinjiang, in the province of Fujian, is often referred to as China's \"shoe capital\" as it reportedly manufactures 20% of the world's sports shoes.\n\nThe blaze erupted at the Huiteng Footwear factory at around noon local time (05:00 BST) on Thursday.\n\nAuthorities dispatched more than 500 personnel to extinguish the blaze and rescue people, state media reported.\n\nState media also reported that there were nearly 240 people at the factory when the fire broke out.\n\nAmong the 213 people who were evacuated, two of them later died in hospital. Twenty-six others, who had been initially missing, were found dead.\n\nInitial reports suggest the fire may have started on the factory's ground floor where flammable materials were stored.\n\nAuthorities have detained a number of people who work for the factory's owners, and the firm's bank account was frozen, according to state media.\n\nChina started a campaign to prevent fires in high-rise buildings after a blaze ripped through several Hong Kong apartment buildings in November , killing 168 people.\n\nXi said Chinese officials must draw \"profound lessons\" from \"several major industrial safety accidents\" in the country this year.",
             "zh": "据国家通讯社报道，中国东南部城市晋江一家鞋厂发生火灾，已造成至少 28 人死亡。 新华社发布的戏剧性画面显示，一座建筑物冒出巨大的黑烟，人们似乎被困在屋顶上。 习近平主席表示，火灾造成“重大人员伤亡”，并补充说必须“严肃追究责任者”。 福建省晋江经常被称为中国的“鞋都”，因为据报道，该市生产了全球 20% 的运动鞋。 当地时间周四中午（英国夏令时 05:00）左右，辉腾鞋业工厂发生火灾。 据官方媒体报道，当局出动了 500 多名人员扑灭大火并营救人员。 官方媒体还报道称，火灾发生时工厂内有近240人。 被疏散的213人中，有两人后来在医院死亡。最初失踪的另外 26 人被发现死亡。 初步报告显示，火灾可能是从工厂存放易燃材料的底层开始的。 据官方媒体报道，当局拘留了一些为该工厂老板工作的人员，该公司的银行账户也被冻结。 11 月，香港几栋公寓楼发生火灾，造成 168 人死亡，之后中国启动了高层建筑防火行动。 习近平表示，中国官员必须从今年发生的“几起重大工业安全事故”中吸取“深刻教训”。"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The tragic loss of life in this factory fire reminds us of the profound value of every worker and the conditions in which they labor. Yahweh hears the cries of those who toil, and calls for justice and safety in all workplaces. This incident prompts us to reflect on our responsibility to ensure that all labor is conducted with dignity and protection.",
+            "zh": "这场工厂火灾中生命的悲剧性逝去，提醒我们每位工人的宝贵价值以及他们劳作的环境。雅伟听见劳苦者的呼声，并呼吁所有工作场所都应有公义和安全。这起事件促使我们反思，确保所有劳动都应在尊严和保护下进行，是我们的责任。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "James 5:4",
+            "textEn": "Look! The wages you failed to pay the workers who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of Yahweh Almighty.",
+            "textZh": "工人给你们收割庄稼，你们亏欠他们的工钱，这工钱有声音呼叫，并且那收割之人的冤声已经入了万军之主的耳了。",
+            "themeEn": "Cries of unpaid workers",
+            "themeZh": "工人的冤声"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c5yzm8m4peeo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5576/live/e2af5470-7b99-11f1-bc57-4fb8ebc9579b.jpg",
-          "publishedAt": "2026-07-09T23:18:18.000Z",
-          "title": {
-            "en": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-            "zh": "伊朗已故最高领袖下葬，马什哈德人潮涌动"
-          },
-          "summary": {
-            "en": "Ali Khamenei, Iran's late supreme leader, was buried at the Imam Reza shrine, a significant Shia Muslim site, concluding six days of public mourning.",
-            "zh": "伊朗已故最高领袖阿里·哈梅内伊在什叶派穆斯林最神圣的伊玛目礼萨圣陵下葬，为期六天的公开哀悼仪式随之结束。"
-          },
-          "body": {
-            "en": "Huge crowds lined the streets of the holy city of Mashhad for the burial of Iran's late supreme leader, Ayatollah Ali Khamenei.\n\nKhamenei was laid to rest at the shrine of Imam Reza, Iran's holiest Shia Muslim site, marking the end of six days of public mourning ceremonies in five cities across Iran and neighbouring Iraq.\n\nThe burial, reported by the state news agency IRNA, came after an exchange of strikes between Iran and the US that threatens to derail a preliminary deal to end the war in which he was killed.\n\nEarlier, Iran's Revolutionary Guards accused the US of bombing two bridges on the railway line from the capital, Tehran, to Mashhad overnight \"in an effort to overshadow\" the funeral.\n\nKhamenei and several members of his family were killed in an Israeli strike on his residence in Tehran on 28 February, the first day of Iran's war with the US and Israel.\n\nHe was succeeded as supreme leader by his son Mojtaba, who has not been seen in public since he was reportedly seriously wounded in the same attack.\n\nThe 56-year-old did not participate in the funeral ceremonies in Tehran and Qom, and there was no indication that he attended the burial.\n\nOn Thursday morning, a plane carrying the coffins of Ali Khamenei, his granddaughter, son-in-law, daughter and Mojtaba's wife landed in Mashhad after flying from Iraq, where huge crowds took part in processions to two Shia shrines in the cities of Najaf and Karbala.\n\nIn the afternoon, Iranian TV footage showed thousands of mourners dressed in black walking along a main boulevard in central Mashhad. Many were waving Iranian flags and red banners symbolising vengeance.\n\nSome people were also holding photos of the late supreme leader and placards calling for the death of US President Donald Trump, who, along with Israeli Prime Minister Benjamin Netanyahu, ordered the joint attack on Iran four months ago that triggered the war.\n\nHanging above the boulevard were banners with official slogans including \"We must rise\".\n\n\"The loss of the leader is heavier than losing our parents,\" Hoda, a 35-year-old housewife, told AFP news agency. \"Only the death of Trump and Netanyahu will soothe our pain.\"\n\nLater, a lorry transported Khamenei's coffin slowly through the crowds towards the Imam Reza shrine, eventually reaching the complex as night fell.\n\nImam Reza was the eighth Shia imam and the only one of the 12 believed to have been buried in Iran. His mausoleum, which dates to the 9th Century and has a towering golden dome and minarets, is visited by millions of pilgrims each year.\n\nKhamenei was born in Mashhad, Iran's second-largest city located in the north-east of the country, and studied at seminaries in the city before moving to Qom, the centre of Iran's Shia clerical establishment.\n\nHe was appointed supreme leader in...",
-            "zh": "大批人群聚集在圣城马什哈德的街道上，参加伊朗已故最高领袖阿亚图拉·阿里·哈梅内伊的葬礼。 哈梅内伊被安葬在伊朗最神圣的什叶派穆斯林圣地礼萨伊玛目圣地，标志着伊朗和邻国伊拉克五个城市为期六天的公众哀悼仪式的结束。 据伊朗伊斯兰共和国通讯社报道，这次葬礼是在伊朗和美国之间发生交锋之后举行的，这场交锋可能会破坏旨在结束他被杀的战争的初步协议。 早些时候，伊朗革命卫队指责美国连夜轰炸了从首都德黑兰到马什哈德的铁路线上的两座桥梁，“试图给葬礼蒙上阴影”。 2 月 28 日，即伊朗与美国和以色列战争的第一天，哈梅内伊和他的几名家人在以色列对他在德黑兰的住所的袭击中丧生。 他的最高领导人职位由他的儿子莫吉塔巴接替，自从据报道他在同一次袭击中受重伤以来，莫吉塔巴就没有在公开场合露面。 56岁的他没有参加德黑兰和库姆的葬礼，也没有迹象表明他参加了葬礼。 周四上午，一架载有阿里·哈梅内伊、他的孙女、女婿、女儿和莫吉塔巴妻子的棺材的飞机从伊拉克飞往马什哈德，降落在马什哈德，那里有大量人群参加了前往纳杰夫和卡尔巴拉市两座什叶派圣地的游行活动。 下午，伊朗电视画面显示，数千名身着黑衣的哀悼者沿着马什哈德市中心的一条主要大道行走。许多人挥舞着伊朗国旗和象征复仇的红色横幅。 一些人还举着已故最高领导人的照片和呼吁处死美国总统唐纳德·特朗普的标语牌，特朗普与以色列总理本雅明·内塔尼亚胡在四个月前下令联合攻击伊朗，引发了战争。 林荫大道上方悬挂着写有官方口号的横幅，其中包括“我们必须崛起”。 35岁的家庭主妇霍达告诉法新社：“失去领导人比失去父母更严重。” “只有特朗普和内塔尼亚胡的去世才能抚平我们的痛苦。” 随后，一辆卡车将哈梅内伊的灵柩缓慢地穿过人群运送到伊玛目礼萨圣地，最终在夜幕降临时到达了该建筑群。 礼萨伊玛目是第八位什叶派伊玛目，也是 12 名被认为埋葬在伊朗的伊玛目中唯一一位。他的陵墓可追溯至 9 世纪，拥有高耸的金色圆顶和尖塔，每年都有数百万朝圣者前来参观。 哈梅内伊出生于伊朗东北部第二大城市马什哈德，曾在该市的神学院学习，然后搬到伊朗什叶派文职机构中心库姆。 他被任命为最高领导人..."
-          },
-          "reflection": {
-            "en": "The burial of a national leader marks a profound moment of transition, bringing to an end a season of public mourning. Ecclesiastes reminds us that there is a time for every purpose under heaven, including a time to be born and a time to die, and a time to mourn. While grief is a natural human response to loss, there is also a time for its public expression...",
-            "zh": "一位国家领袖的安葬标志着一个深刻的过渡时刻，结束了一段公开哀悼的时期。《传道书》提醒我们，凡事都有定期，天下万务都有定时，包括生有时，死有时，哀恸有时。虽然悲伤是人类对失落的自然反应，但公开表达悲伤的时期也会结束，因为生命会继续其既定的进程。"
-          },
-          "verse": {
-            "reference": "Ecclesiastes 3:1",
-            "textEn": "There is a time for everything, and a season for every activity under the heavens.",
-            "textZh": "凡事都有定期，天下万务都有定时。",
-            "themeEn": "A time for everything",
-            "themeZh": "凡事有定时"
-          },
-          "aiVerseId": "ecc_3_1",
+          "aiVerseId": "jas_5_4",
           "translationState": "localized"
         },
         {
@@ -664,29 +663,28 @@
           "publishedAt": "2026-07-09T09:29:20.000Z",
           "title": {
             "en": "Uranium, universities, and 'top-tier' security: Inside the new Albanese-Modi agreements",
-            "zh": "铀、大学和“顶级”安全：阿尔巴尼斯-莫迪新协议的内幕"
+            "zh": "铀、大学和“顶级”安全：阿尔巴尼亚-莫迪新协议的内幕"
           },
           "summary": {
-            "en": "Australia and India have signed new agreements covering defence, uranium, and university partnerships, marking a shift from their traditional rivalry in sports to a strategic alliance.",
-            "zh": "澳大利亚和印度签署了新的协议，涵盖国防、铀和大学合作，标志着两国从传统的体育竞争对手转变为战略盟友。"
+            "en": "Rivals in cricket, but allies in defence. Here's what the two nations have committed to.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及合一、和好与弥合分歧。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
             "en": "A handshake and a smile sealed the deal between Australia and its \"top-tier\" security partner, as Prime Minister Anthony Albanese and his Indian counterpart, Narendra Modi, pledged to strengthen ties across trade, education, defence, science and technology.\n\n\" While we are separated by an ocean, we are indeed the closest of friends,\" Albanese told reporters in Canberra during a joint press statement.\n\n\"Australia values India as a top-tier security partner, and the Declaration reflects our shared commitment to a peaceful, stable and prosperous Indo-Pacific region.\"\n\nReferences to cricket embraced the common ground between the two nations, with Modi likening their partnership to a \"long and intense test match\".\n\nHowever, underneath the sports metaphors was an undercurrent of concern around the Indo-Pacific's defence challenges, with one eye on the fallout of war in Iran and economic disruptions, and the other on China, just days after it conducted a missile test in the Pacific .\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nCentral to the agreement is the vision of a stable, peaceful and prosperous Indo-Pacific.\n\nTo get there, Albanese and Modi both pledged to strengthen defence ties between the two nations.\n\nWhile no new partnership was announced, the two leaders confirmed their commitment to existing defence pledges, the most recent being the Comprehensive Strategic Partnership established in 2020.\n\n\" We will boost strategic coordination, increase the complexity of our defence exercises and further build interoperability between our defence forces,\" Albanese said.\n\n\" We have endorsed a joint maritime security collaboration roadmap and agreed to a new Australia-India partnership on cyber, critical technologies and supply chains.\"\n\nIndia and Australia have opened the door to greater aircraft deployment in each other's territories, and there will be more exchanges, education, and training between the defence personnel of each nation.\n\nThey will also increase information sharing on terrorist threats in the region, terrorist financing and online radicalisation.\n\nThe strengthening of defence ties comes just two days after China tested a nuclear-capable missile in the Pacific.\n\n\"There is no doubt that this is a provocative act by China which does destabilise the region,\" Albanese said at the time.\n\n\"Today we can confirm the signing of the administrative arrangement to export uranium to India for peaceful purposes under the 2015 Australia-India nuclear cooperative agreement,\" Albanese told reporters in Canberra.\n\nThe agreement \"facilitates Australian uranium exports to India to help increase the share of non-fossil fuel power capacity, providing an additional market...",
             "zh": "握手和微笑敲定了澳大利亚与其“顶级”安全伙伴之间的协议，澳大利亚总理安东尼·阿尔巴内塞和印度总理纳伦德拉·莫迪承诺加强贸易、教育、国防、科学和技术方面的关系。 “虽然我们远隔重洋，但我们确实是最亲密的朋友，”阿尔巴内斯在堪培拉的联合新闻声明中对记者说。 “澳大利亚视印度为顶级安全伙伴，该宣言反映了我们对和平、稳定和繁荣的印太地区的共同承诺。” 板球运动体现了两国之间的共同点，莫迪将他们的伙伴关系比作一场“漫长而激烈的测试赛”。 然而，体育隐喻背后隐藏着对印太地区防御挑战的担忧，一方面关注伊朗战争的后果和经济混乱，另一方面关注中国，几天前中国在太平洋进行了导弹试验。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 该协议的核心是稳定、和平与繁荣的印太愿景。 为了实现这一目标，阿尔巴尼斯和莫迪都承诺加强两国之间的防务关系。 虽然没有宣布新的伙伴关系，但两位领导人确认了对现有防务承诺的承诺，最近的是 2020 年建立的全面战略伙伴关系。 阿尔巴内塞说：“我们将加强战略协调，增加防务演习的复杂性，并进一步建立我们国防军之间的互操作性。” “我们已经批准了联合海上安全合作路线图，并同意在网络、关键技术和供应链方面建立新的澳大利亚-印度伙伴关系。” 印度和澳大利亚已经打开了在彼此领土上部署更多飞机的大门，两国国防人员之间将有更多的交流、教育和培训。 他们还将加强有关该地区恐怖主义威胁、恐怖主义融资和网络激进化的信息共享。 就在中国在太平洋试射核导弹两天后，两国加强了防务关系。 阿尔巴内塞当时表示：“毫无疑问，这是中国的挑衅行为，确实破坏了该地区的稳定。” 阿尔巴内斯在堪培拉对记者表示：“今天我们可以确认签署了根据2015年澳大利亚-印度核合作协议向印度出口用于和平目的的铀的行政安排。” 该协议“促进澳大利亚向印度出口铀，以帮助增加非化石燃料发电能力的份额，提供额外的市场......"
           },
           "reflection": {
-            "en": "Even among nations with a history of rivalry, the pursuit of peace and cooperation remains a vital endeavor. These new agreements between Australia and India demonstrate a commitment to finding common ground and building strategic partnerships. Yahweh calls us to live peaceably with all, a principle that can guide international relations toward mutual...",
-            "zh": "即使在有竞争历史的国家之间，追求和平与合作仍然是一项重要的努力。澳大利亚和印度之间的新协议表明了寻求共同点和建立战略伙伴关系的承诺。雅伟呼召我们与所有人和平相处，这一原则可以引导国际关系走向互利和稳定。"
+            "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到合一、和好与弥合分歧。Ephesians 4:3提醒我们，在快速变化的新闻里，仍要以缔造和平与搭建桥梁来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
+            "reference": "Galatians 3:28",
+            "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
+            "textZh": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
+            "themeEn": "One in Christ",
+            "themeZh": "基督里合一"
           },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
           "id": "www-dw-com-en-is-the-strait-of-hormuz-still-iran-s-trump-card-a-77870807",
@@ -735,19 +733,118 @@
         "zh": "聚焦中国内部政策走向、社会变化与国家动态。"
       },
       "sourceNotes": [
-        "BBC News China Focus",
         "DW Asia China Focus",
+        "BBC News China Focus",
         "The Guardian China",
         "SBS News China Focus"
       ],
       "items": [
+        {
+          "id": "www-dw-com-en-china-retrieves-booster-in-reusable-rocket-breakthrough-a-",
+          "section": "china",
+          "source": "DW Asia China Focus",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
+          "link": "https://www.dw.com/en/china-retrieves-booster-in-reusable-rocket-breakthrough/a-77904960?maca=en-rss-en-asia-5133-rdf",
+          "image": "https://static.dw.com/image/77902737_6.jpg",
+          "publishedAt": "2026-07-10T11:26:00.000Z",
+          "title": {
+            "en": "China retrieves booster in reusable rocket breakthrough",
+            "zh": "中国在可重复使用火箭突破中回收助推器"
+          },
+          "summary": {
+            "en": "China has joined the small group of space powers that can now recover an orbital-class booster rocket. Developers of the landing method turned to a striking alternative to that used by existing players such as SpaceX.",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及盼望、忍耐与重建。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "China has joined the small group of space powers that can now recover an orbital-class booster rocket. Developers of the landing method turned to a striking alternative to that used by existing players such as SpaceX.\n\nChina on Friday successfully recovered the booster of an orbital-class rocket for the first time, marking a major advance in its push to develop reusable launch systems.\n\nThe Long March 10B lifted off from the Hainan commercial space launch site in southern China at 12:15 p.m. on Friday and placed a satellite into its designated orbit, state media reported.\n\nAround six minutes after the booster separated from the rocket's upper stage, it descended vertically toward an offshore platform and was captured by a net-based retrieval system.\n\nUnlike the rockets used by US companies SpaceX and Blue Origin , which land autonomously on deployable legs, the Long March 10B uses four hooks to catch a net suspended above the sea platform.\n\nChina Academy of Launch Vehicle Technology expert Chen Muye said the approach simplifies the rocket's onboard structure, reduces its weight and could increase payload capacity.\n\n\"It is also highly adaptable to landing-point deviations, as coordinated ​net systems can effectively expand the capture window,\" Muye told state media agency Xinhua.\n\nChina has spent nearly a decade developing reusable rocket technology as it seeks to cut launch costs and support its rapidly expanding commercial satellite networks.\n\nPrevious recovery attempts by private company LandSpace and the state-owned China Aerospace Science and Technology Corporation failed during the final landing stage last year.\n\nThe Long March 10B is also part of the broader Long March 10 family that China is developing for planned crewed lunar missions before 2030. Data from Friday's flight could help validate technology for the country's lunar program.\n\nShares in several Chinese aerospace companies surged following the test, with China Spacesat and China Satellite Communications reaching their daily trading limits.\n\nThe Long March 10B can carry at least 16 metric tons into low-Earth orbit and has been compared to SpaceX's Falcon 9, which has a maximum payload of 22.8 metric tons.\n\nSpaceX first landed a Falcon 9 booster following an orbital mission in December 2015. It now launches the rocket around 150 times a year, frequently reusing individual boosters dozens of times.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button , so you'll always see our verified news first.",
+            "zh": "中国加入了现在能够回收轨道级助推火箭的一小批太空国家行列。着陆方法的开发者转向了一种引人注目的替代方案，以取代 SpaceX 等现有公司所使用的方法。 周五，中国首次成功回收轨道级火箭助推器，标志着中国在可重复使用发射系统开发方面取得重大进展。 中午12点15分，长征十号乙运载火箭从海南商业航天发射场发射升空。据官方媒体报道，周五，并将一颗卫星送入指定轨道。 助推器与火箭上级分离后大约六分钟，它垂直下降到海上平台，并被基于网络的检索系统捕获。 与美国SpaceX公司和蓝色起源公司使用的火箭通过可展开的腿自主着陆不同，长征十号B使用四个钩子来捕捉悬挂在海上平台上方的网。 中国运载火箭技术研究院专家陈牧野表示，这种方法简化了火箭的运载结构，减轻了重量，并可以提高有效载荷能力。 穆耶对官方媒体新华社表示：“它对着陆点偏差的适应性也很强，因为协调的网络系统可以有效地扩大捕获窗口。” 中国花了近十年的时间开发可重复使用的火箭技术，以寻求降低发射成本并支持其快速扩张的商业卫星网络。 私营公司蓝箭航天和国有的中国航天科技集团公司之前的回收尝试在去年的最后着陆阶段失败了。 长征十号B也是中国正在为2030年之前计划的载人登月任务而开发的更广泛的长征十号家族的一部分。周五飞行的数据可以帮助验证该国探月计划的技术。 测试后，几家中国航天公司的股价飙升，中国航天和中国卫星通信达到每日交易限制。 长征十号B可以携带至少16吨进入近地轨道，与SpaceX的猎鹰9号进行比较，后者的最大有效载荷为22.8吨。 SpaceX 在 2015 年 12 月执行轨道任务后首次着陆了猎鹰 9 号助推器。现在，该公司每年发射火箭约 150 次，经常重复使用单个助推器数十次。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
+          },
+          "reflection": {
+            "en": "This story draws attention to hope, endurance, and faithful rebuilding. Romans 12:12 reminds us to meet sharp headlines with steady hope and perseverance, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到盼望、忍耐与重建。Romans 12:12提醒我们，在快速变化的新闻里，仍要以坚定盼望与忍耐来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Romans 5:3-4",
+            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
+            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
+            "themeEn": "Suffering produces hope",
+            "themeZh": "患难中的盼望"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c04y6wr03gxo-at-medium-rss-at-campaign-rss",
+          "section": "china",
+          "source": "BBC News China Focus",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe89/live/7d209130-7c45-11f1-8ccc-df652c9169a7.jpg",
+          "publishedAt": "2026-07-10T10:42:13.000Z",
+          "title": {
+            "en": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+            "zh": "菲律宾山体滑坡造成15人死亡，东亚地区正准备迎接破坏性台风"
+          },
+          "summary": {
+            "en": "Headed for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Landslides triggered by one of the strongest storms in decades have killed at least 15 people in southern Philippines, as parts of East Asia brace themselves for the looming storm.\n\nTyphoon Bavi, which spans 1,000km (620 miles) at its widest point – roughly the width of France – is sweeping across the Pacific towards Taiwan.\n\nIt is expected to dump rain on Taiwan's north and east, and on a chain of remote Japanese islands, before making landfall in south-eastern China on Saturday.\n\nDozens of flights have been cancelled while schools have suspended classes across the region. Supermarket shelves have been wiped clean as residents stock up on supplies ahead of the typhoon.\n\nOn the Philippine island of Mindanao, families have been buried overnight by landslides, and rescuers are still searching for those missing.\n\nModerate to heavy rains will continue to drench parts of the country throughout the weekend, officials say.\n\nTaiwanese authorities have warned that Bavi could bring up to 1m (39 inches) of rainfall. Some 29,000 soldiers have been put on standby to help with relief efforts, according to the island's defence ministry.\n\nBavi is set to be the largest storm, by size, to hit the island since 1987, Taiwan's Central Weather Administration told Reuters.\n\nFarmers across the region rushed to harvest or protect their crops while the weather held earlier on Friday, while fishermen made sure to secure their vessels tightly.\n\n\"Don't be fooled by the nice and calm weather now. A storm like this could be the most terrifying,\" 60-year-old fisherman Chen Ming-hui told Reuters.\n\nThousands of sandbags have been distributed to residents and shop-owners in flood-prone areas.\n\nAcross the strait, China has also warned of \"significant impact\" from the typhoon that could move northward after smashing into the south-eastern Fujian province.\n\n\"Bavi's large size and abundant energy mean its remnants and outer rainbands could move from Jiangsu and Anhui provinces toward the Bohai Sea region,\" said Ma Jun, director of China's Institute of Public and Environmental Affairs.\n\nThe northern provinces, which have \"less experience\" dealing with typhoons in comparison with the south, should \"strengthen preparations\", he warned.\n\nIn Japan, residents on the remote Sakishima Islands are also on high alert. Photographs shared online show some of them taping up windows and draping windproof nets across their homes and shops.\n\nVarious airlines have grounded flights in the region. Japan Airlines, for instance, has axed more than 100 flights for Friday and Saturday, disrupting travel for nearly 20,000 passengers.\n\nAll Nippon Airways, another Japanese carrier, has cancelled more than 160 flights through Sunday, also affecting about 20,000 people, according to Reuters.\n\nThai Airways and...",
+            "zh": "几十年来最强烈的风暴之一引发的山体滑坡已导致菲律宾南部至少 15 人死亡，东亚部分地区正在为即将到来的风暴做好准备。 台风巴威最宽处长达 1,000 公里（620 英里）——大约相当于法国的宽度——正在横渡太平洋向台湾袭来。 预计它将给台湾北部和东部以及一系列偏远的日本岛屿带来降雨，然后于周六登陆中国东南部。 数十架航班被取消，整个地区的学校也停课。由于居民在台风来临前囤积物资，超市货架已被清理干净。 在菲律宾棉兰老岛上，许多家庭一夜之间被山体滑坡掩埋，救援人员仍在寻找失踪者。 官员称，整个周末，中到大雨将继续淹没该国部分地区。 台湾当局警告称，巴威可能带来高达 1 米（39 英寸）的降雨量。据该岛国防部称，约有 29,000 名士兵已处于待命状态，以帮助救援工作。 台湾中央气象局告诉路透社，从规模来看，巴威将成为自 1987 年以来袭击该岛的最大风暴。 周五早些时候，天气保持稳定，该地区的农民忙着收割或保护农作物，而渔民则确保紧紧固定船只。 60岁的渔民陈明辉告诉路透社：“不要被现在平静的好天气所迷惑。像这样的风暴可能是最可怕的。” 数千个沙袋已分发给洪水易发地区的居民和店主。 在海峡对岸，中国也警告说，台风袭击福建省东南部后可能会向北移动，造成“重大影响”。 中国公众环境研究所所长马军表示：“巴威面积大、能量丰富，这意味着它的残余物和外雨带可能会从江苏和安徽省向渤海地区移动。” 他警告说，与南方相比，北方省份应对台风的经验“较少”，应该“加强准备工作”。 在日本，偏远的先岛群岛的居民也处于高度戒备状态。网上分享的照片显示，其中一些人用胶带粘住了窗户，并在家里和商店上挂上了防风网。 多家航空公司已停飞该地区的航班。例如，日本航空 (Japan Airlines) 已削减了周五和周六的 100 多个航班，影响了近 2 万名乘客的出行。 据路透社报道，另一家日本航空公司全日空航空公司截至周日已取消了 160 多个航班，也影响了约 2 万人。 泰国航空和..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jul-10-weather-tracker-typhoon-leaves-peo",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
+          "image": "https://i.guim.co.uk/img/media/816e021a3e138f3a281271788a07c9ea3245894b/154_0_7560_6048/master/7560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fbae9655e946a78fe02c0e27e630d19",
+          "publishedAt": "2026-07-10T09:18:01.000Z",
+          "title": {
+            "en": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
+            "zh": "天气追踪：台风导致中国民众被困屋顶"
+          },
+          "summary": {
+            "en": "Eleven reported dead as flooding also brings danger of snakes, while buildings collapse in Mumbai amid heavy rain As the first typhoon to make landfall in China for the 2026 season, Maysak has caused devastating damage in southern and central regions. The Guangxi region received...",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Eleven reported dead as flooding also brings danger of snakes, while buildings collapse in Mumbai amid heavy rain As the first typhoon to make landfall in China for the 2026 season, Maysak has caused devastating damage in southern and central regions. The Guangxi region received intense downpours of up to 280mm in 12 hours, causing rivers to swell and dam walls to break. By Monday morning, flooding across the city of Nanning and surrounding areas had resulted in many people being stranded on rooftops. Flood waters pose additional threats in China because of the presence of wild and farmed snakes. On Thursday local media reported that hundreds of snakes , including cobras, had escaped from flooded breeding farms. Typhoon Maysak also aided the development of two destructive tornados that swept across central China later on Monday evening. This occurred when warm air from the south, brought up by Typhoon Maysak, collided with cold air in the north. Continue reading...",
+            "zh": "据报道，洪水还带来了蛇的危险，造成 11 人死亡，而孟买的建筑物在大雨中倒塌。 作为 2026 年登陆中国的第一场台风“美萨克”，给南部和中部地区造成了毁灭性的破坏。广西地区12小时内遭遇高达280毫米的强降雨，导致河水上涨、堤坝溃决。截至周一早上，南宁市及周边地区发生洪水，导致许多人被困在屋顶上。由于野生和养殖蛇的存在，洪水在中国构成了额外的威胁。周四，当地媒体报道称，包括眼镜蛇在内的数百条蛇从被洪水淹没的养殖场逃脱。台风美莎克还助长了周一晚间席卷中国中部的两场破坏性龙卷风。当台风美莎克带来的南方暖空气与北方的冷空气碰撞时，就会发生这种情况。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-bbc-co-uk-news-articles-cm2rmmx86pdo-at-medium-rss-at-campaign-rss",
           "section": "china",
           "source": "BBC News China Focus",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd8f/live/aa804310-7c26-11f1-b3bb-a3d4161295ad.png",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4a8/live/00fc0710-7c54-11f1-b303-b781e40f7a76.png",
           "publishedAt": "2026-07-10T06:44:21.000Z",
           "title": {
             "en": "China lands reusable rocket for first time, state media says",
@@ -912,108 +1009,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-business-2026-jul-08-german-car-industry-job-collaps",
-          "section": "china",
-          "source": "The Guardian China",
-          "sourceUrl": "https://www.theguardian.com/world/china/rss",
-          "link": "https://www.theguardian.com/business/2026/jul/08/german-car-industry-job-collapse-bold-decisions-address-chinese-threat",
-          "image": "https://i.guim.co.uk/img/media/a1d008f54c1740fd5a992da6f1c293c7f4235133/31_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02c6de4ad28b09dcce3390f397ad2ad8",
-          "publishedAt": "2026-07-08T11:45:32.000Z",
-          "title": {
-            "en": "German car industry warns of job collapse unless ‘bold decisions’ made to address Chinese threat",
-            "zh": "德国汽车工业警告称，除非做出“大胆决定”应对中国威胁，否则将面临就业岗位崩溃"
-          },
-          "summary": {
-            "en": "The German car industry has issued a stark warning about a potential collapse of employment in the sector across Europe, proposing up to 100,000 job losses at Volkswagen and suggesting that car plants might need to be placed under foreign ownership to safeguard remaining jobs amidst growing competition from China.",
-            "zh": "德国汽车工业发出严峻警告，称除非做出“大胆决定”以应对来自中国的威胁，否则欧洲汽车行业的就业岗位可能面临崩溃。大众汽车公司提议裁员多达10万人，并表示为保住剩余工作岗位，汽车工厂可能需要由外国公司持有。"
-          },
-          "body": {
-            "en": "VW to propose 100,000 job losses to board and says car plants could be put under foreign ownership to save jobs Europe live – latest updates The German car industry has warned of a potential collapse of employment in the sector in Europe unless society and workers accept that “bold decisions” are needed to address competition from the Chinese and other rivals. Volkswagen is preparing to formally propose up to 100,000 job losses , a move that has triggered a wave of protests. Continue reading...",
-            "zh": "大众汽车提议裁员10万人，并表示汽车工厂可能会被外资所有，以挽救欧洲的就业机会——最新动态 德国汽车行业警告称，除非社会和工人接受需要“大胆决定”来应对来自中国和其他竞争对手的竞争，否则欧洲该行业的就业可能会崩溃。大众汽车准备正式提出最多裁员10万人，此举引发了一波抗议浪潮。继续阅读..."
-          },
-          "reflection": {
-            "en": "As the German car industry faces significant challenges and potential job losses, this news highlights the deep human impact of economic shifts on livelihoods and communities. Colossians 3:23 reminds us to approach all our work with diligence and integrity, as if serving Yahweh Himself, finding purpose and dignity in our labor even amidst uncertainty.",
-            "zh": "随着德国汽车工业面临严峻挑战和潜在的失业危机，这则新闻凸显了经济转型对生计和社区的深刻影响。歌罗西书3:23提醒我们，无论做什么，都要从心里做，像是给雅伟做的，不是给人做的，这让我们在不确定性中也能在工作中找到目的和尊严。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
-          },
-          "aiVerseId": "col_3_23",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-jul-08-china-football-plenty-of-players-n",
-          "section": "china",
-          "source": "The Guardian China",
-          "sourceUrl": "https://www.theguardian.com/world/china/rss",
-          "link": "https://www.theguardian.com/world/2026/jul/08/china-football-plenty-of-players-no-grassroots",
-          "image": "https://i.guim.co.uk/img/media/d5339e114d04406d90647de2ea87bcce08f31689/126_0_3407_2729/master/3407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=208405c599cf9026cd96fa7539415940",
-          "publishedAt": "2026-07-07T23:53:50.000Z",
-          "title": {
-            "en": "Plenty of players but no grassroots: can China ever grow into a footballing giant?",
-            "zh": "球员众多但缺乏基层：中国能否成长为足球巨头？"
-          },
-          "summary": {
-            "en": "Experts note that despite large crowds at amateur matches, China lacks a robust grassroots system to develop players into professionals, hindering its ambition to become a footballing giant.",
-            "zh": "专家指出，尽管中国业余足球比赛吸引了大量观众，但缺乏健全的基层体系将球员培养成职业选手，这阻碍了其成为足球强国的雄心。"
-          },
-          "body": {
-            "en": "Some of its amateur matches pull in bigger crowds than European leagues but are more of a spectacle than a pathway to the professional game, say experts Michael Owen, a man who once quipped he had never drunk tea or coffee, isn’t known for his adventurous palate. Safe to assume, then, that the former England striker was out of his comfort zone sipping Roxburgh rose juice and eating chilli-wrapped rice noodle rolls during his recent visit to south-west China’s Guizhou province. The 2001 Ballon d’Or winner dusted off his boots for a match in Rongjiang county, the birthplace of viral amateur football league Cun Chao, also known as the Village Super League. Scoring twice in a 4-3 loss for local side Rongjiang Niubi, Owen endeared himself to the thousands in attendance, even if some weren’t familiar with the former Liverpool and Real Madrid player. Continue reading...",
-            "zh": "专家迈克尔·欧文(Michael Owen)表示，它的一些业余比赛比欧洲联赛吸引了更多的观众，但更多的是一场奇观，而不是进入职业比赛的途径。迈克尔·欧文曾打趣说自己从未喝过茶或咖啡，但他并不以冒险的味觉而闻名。那么，可以肯定的是，这位前英格兰前锋在最近访问中国西南部的贵州省期间，已经走出了自己的舒适区，喝着罗克斯堡玫瑰汁，吃着辣椒卷。这位2001年金球奖得主在榕江县的一场比赛中掸掉了靴子上的灰尘，那里是风靡一时的业余足球联赛存超（也称为乡村超级联赛）的发源地。在当地球队榕江牛鼻子队以4-3输球的比赛中，欧文梅开二度，赢得了数千名现场观众的喜爱，尽管有些人对这位前利物浦和皇家马德里球员并不熟悉。继续阅读..."
-          },
-          "reflection": {
-            "en": "The challenge of building a strong football culture from the ground up highlights the importance of foundational development. Just as a child needs careful guidance and training to flourish, so too does any endeavor require intentional investment in its earliest stages to achieve lasting success. This reminds us that true growth often begins with nurturing...",
-            "zh": "从基层建立强大足球文化的挑战，突显了基础发展的重要性。正如孩子需要细心引导和培养才能茁壮成长，任何事业也需要对其早期阶段进行有意识的投入，才能取得持久的成功。这提醒我们，真正的成长往往始于在基层培养潜力。"
-          },
-          "verse": {
-            "reference": "Proverbs 22:6",
-            "textEn": "Start children off on the way they should go, and even when they are old they will not turn from it.",
-            "textZh": "教养孩童，使他走当行的道，就是到老他也不偏离。",
-            "themeEn": "Forming the young",
-            "themeZh": "塑造下一代"
-          },
-          "aiVerseId": "prov_22_6",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-china-s-missile-test-builds-on-pacific-nuclear-deterrence-",
-          "section": "china",
-          "source": "DW Asia China Focus",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
-          "link": "https://www.dw.com/en/china-s-missile-test-builds-on-pacific-nuclear-deterrence/a-77861936?maca=en-rss-en-asia-5133-rdf",
-          "image": "https://static.dw.com/image/77851419_6.jpg",
-          "publishedAt": "2026-07-07T12:20:00.000Z",
-          "title": {
-            "en": "China's missile test builds on Pacific nuclear deterrence",
-            "zh": "中国导弹试验增强太平洋核威慑"
-          },
-          "summary": {
-            "en": "US allies in the Pacific have condemned China's recent intercontinental ballistic missile test, which Beijing described as routine. The test is seen as a demonstration of China's increasing military capabilities.",
-            "zh": "太平洋地区的美国盟友谴责了中国最近进行的洲际弹道导弹试验，北京称之为“例行”测试。此次试验被视为中国展示其日益增长的军事能力。"
-          },
-          "body": {
-            "en": "US allies in the Pacific condemned what Beijing has called a \"routine\" intercontinental ballistic missile test, which comes as China seeks to demonstrate its growing military capabilities.\n\nOn Monday, the Chinese Navy conducted a missile test in the South Pacific , with state media reporting that a nuclear submarine fired a missile carrying a dummy warhead into international waters.\n\nThe test quickly drew harsh criticism from US allies in the Pacific. Australia's Foreign Minister Penny Wong said the Chinese test was destabilizing for regional security. Japan called on China to reconsider its actions.\n\nNew Zealand said it does not want China to use the South Pacific as a testing ground for missiles. \"We are deeply concerned about China's tests of nuclear-capable weapons in the South Pacific,\" Foreign Minister Winston Peters said in Wellington\n\nDuring the Cold War, the US tested numerous nuclear weapons around the South Pacific's Bikini Atoll, which today is part of the Marshall Islands. Since World War II, the US has dominated the postwar security architecture in the Pacific region .\n\nChina's military buildup is now challenging this construct . Although official media have not released any details about the test, nationalist military experts are speculating on Chinese social media about how powerful the tested missile might have been.\n\n\"It is a submarine-launched intercontinental ballistic missile of the Julang (JL)-3 series,\" wrote Lieutenant Colonel Zhang Junshe a researcher with the People's Liberation Army (PLA) Naval Military Academic Research Institute.\n\nThe Julang-3, which means \"Giant Wave-3\" in English, is currently still under development.\n\nIt is said to have a maximum range of 12,000 kilometers (7,400 miles) and can carry multiple nuclear warheads. So far, three successful tests have been reported between 2018 and 2019.\n\n\"The target of this missile is not combat troops on the front lines, but strategic targets such as command centers, military bases, or energy infrastructure,\" Zhang wrote in his blog.\n\nThe \"Giant Wave-3\" is believed to have been launched from a Type 094 Jin-class nuclear-powered submarine. With a full crew of 120 sailors, the 135-meter-long submarine can sustain a submerged crew for at least 70 days. Currently, the Chinese Navy has six Type 094 submarines in service.\n\nAccording to the Nuclear Threat Initiative, a Washington-based think tank, China operates an additional 59 nuclear-powered attack submarines in addition to the Jin-class submarines.\n\n\"Even if all other military weapons were to be put out of action, the Chinese submarine would still be fully capable of launching a nuclear counterstrike,\" Zhang wrote.\n\nAs early as September 2024, China had launched an intercontinental missile carrying a dummy warhead from the...",
-            "zh": "美国在太平洋的盟友谴责北京所谓的“例行”洲际弹道导弹试验，此次试验是在中国寻求展示其不断增长的军事能力之际进行的。 周一，中国海军在南太平洋进行了一次导弹试验，官方媒体报道称，一艘核潜艇向国际水域发射了一枚携带假弹头的导弹。 这次试验很快引起了美国太平洋盟友的严厉批评。澳大利亚外交部长黄英贤表示，中国的试验破坏了地区安全的稳定。日本呼吁中国重新考虑其行动。 新西兰表示不希望中国利用南太平洋作为导弹试验场。外交部长温斯顿·彼得斯在惠灵顿表示：“我们对中国在南太平洋进行核武器试验深感担忧” 冷战期间，美国在南太平洋比基尼环礁（今天是马绍尔群岛的一部分）周围测试了许多核武器。二战以来，美国一直主导着太平洋地区的战后安全架构。 中国的军力建设现在正在挑战这种结构。尽管官方媒体尚未公布有关此次测试的任何细节，但民族主义军事专家正在中国社交媒体上猜测测试的导弹的威力可能有多大。 中国人民解放军海军军事学术研究院研究员张军社中校写道：“这是巨狼（JL）-3系列潜射洲际弹道导弹。” Julang-3，英文意思是“Giant Wave-3”，目前仍在开发中。 据称其最大射程为12,000公里（7,400英里），可携带多枚核弹头。到目前为止，2018 年至 2019 年间已报告了三项成功的测试。 张在博客中写道：“这种导弹的目标不是前线的作战部队，而是指挥中心、军事基地或能源基础设施等战略目标。” 据信“巨浪3”是从一艘094型晋级核动力潜艇上发射的。这艘135米长的潜艇共有120名水手，可以让水下船员至少生存70天。目前，中国海军有6艘094型潜艇在役。 据华盛顿智库核威胁倡议组织称，除了晋级潜艇之外，中国还拥有59艘核动力攻击潜艇。 张写道：“即使所有其他军事武器都无法发挥作用，中国潜艇仍然完全有能力发动核反击。” 早在2024年9月，中国就从...发射了一枚携带假弹头的洲际导弹。"
-          },
-          "reflection": {
-            "en": "The news of missile tests highlights the ongoing global pursuit of security through military strength. Yet, the prophet Isaiah envisioned a future where nations would transform instruments of war into tools for peace, no longer training for conflict. This vision reminds us to pray for leaders to seek true security not in escalating arms, but in pathways of...",
-            "zh": "导弹试验的消息凸显了全球通过军事力量寻求安全的持续努力。然而，先知以赛亚曾预见一个未来，各国将把战争工具变为和平工具，不再为冲突而训练。这一愿景提醒我们为领袖祷告，愿他们不在军备竞赛中寻求真正的安全，而是在相互理解和裁军的道路上。"
-          },
-          "verse": {
-            "reference": "Isaiah 2:4",
-            "textEn": "They will beat their swords into plowshares and their spears into pruning hooks.",
-            "textZh": "他们要将刀打成犁头，把枪打成镰刀。",
-            "themeEn": "Disarmament",
-            "themeZh": "化干戈为玉帛"
-          },
-          "aiVerseId": "isa_2_4",
-          "translationState": "localized"
-        },
-        {
           "id": "www-sbs-com-au-news-article-australia-pledges-1-billion-under-new-fiji-d",
           "section": "china",
           "source": "SBS News China Focus",
@@ -1099,6 +1094,73 @@
       ],
       "items": [
         {
+          "id": "www-theguardian-com-australia-news-2026-jul-10-how-pauline-hanson-courts",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/10/how-pauline-hanson-courts-uks-far-right-builds-brand-with-pseudo-events-publicity-stunts-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/9728110900adb4e99b58e62ed88c4a17b576eadf/252_0_2518_2015/master/2518.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72daaa43cde1792339aeec1f217008f4",
+          "publishedAt": "2026-07-10T11:06:40.000Z",
+          "title": {
+            "en": "How Pauline Hanson courts UK’s far-right – and builds a global brand – with ‘pseudo events’ and publicity stunts",
+            "zh": "宝琳·汉森 (Pauline Hanson) 如何通过“伪事件”和宣传噱头来讨好英国极右翼分子并打造全球品牌"
+          },
+          "summary": {
+            "en": "The One Nation leader is set to be interviewed by Tommy Robinson as part of a media strategy that seems designed to seek scandal – and reach millions Pauline Hanson’s highly publicised meetings with controversial far-right figures in the UK will drive international eyeballs to...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The One Nation leader is set to be interviewed by Tommy Robinson as part of a media strategy that seems designed to seek scandal – and reach millions Pauline Hanson’s highly publicised meetings with controversial far-right figures in the UK will drive international eyeballs to her content and continue building the global brand – and that’s by design, far-right experts say. The One Nation leader is visiting on a “fact-finding mission” with her chief-of-staff, James Ashby, ticking off a number of the country’s most divisive personalities. Continue reading...",
+            "zh": "这位一国党领导人将接受汤米·罗宾逊(Tommy Robinson)的采访，这是媒体战略的一部分，该战略似乎旨在寻求丑闻，并影响数百万人。宝琳·汉森(Pauline Hanson)与英国有争议的极右翼人物的高调会面将吸引国际眼球，并继续打造全球品牌，极右翼专家表示，这是有意为之。这位一国党领导人正在与她的幕僚长詹姆斯·阿什比一起进行“实况调查”，激怒了该国一些最具分裂性的人物。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jul-10-layla-jeffery-police-disc",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/10/layla-jeffery-police-discover-body-of-teenage-girl-in-victoria-bushland-donald-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/e03d64d7a96896afabb9dfebc01636b1c338d423/0_275_1536_1229/master/1536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58539af26a9e882c93532f9d601b6b70",
+          "publishedAt": "2026-07-10T10:09:30.000Z",
+          "title": {
+            "en": "Boy, 16, arrested after police discover body of 13-year-old girl in Victorian bushland",
+            "zh": "16岁男孩被捕，警方在维多利亚州灌木丛中发现13岁女孩尸体"
+          },
+          "summary": {
+            "en": "A 16-year-old boy has been arrested after the body of 13-year-old Layla Jeffery was discovered in Victorian bushland, with police deeming her death suspicious.",
+            "zh": "一名16岁男孩被捕，此前13岁女孩莱拉·杰弗里的尸体在维多利亚州灌木丛中被发现，警方认为她的死因可疑。"
+          },
+          "body": {
+            "en": "Police say death of Layla Jeffery ‘suspicious’ after remains found in town of Donald in western Victoria Get our breaking news email , free app or daily news podcast A 16-year-old boy has been arrested after the body of a 13-year-old girl, who went missing on the weekend, was found in bushland in regional Victoria. Victoria police said they were treating Layla Jeffery’s death as “suspicious” after her remains were found in Donald, a small town in western Victoria, late on Thursday afternoon following an extensive search. Continue reading...",
+            "zh": "警方称，在维多利亚州西部唐纳德镇发现尸体后，莱拉·杰弗里的死亡“可疑”。 一名 16 岁男孩在维多利亚州乡村地区的丛林中发现了一名周末失踪的 13 岁女孩的尸体，随后逮捕了一名 16 岁男孩。维多利亚警方表示，周四下午晚些时候，经过广泛搜查，在维多利亚州西部小镇唐纳德发现了莱拉·杰弗里的遗体，他们将其死亡视为“可疑”。继续阅读..."
+          },
+          "reflection": {
+            "en": "The tragic discovery of a young girl's body reminds us of the profound vulnerability of children and the sacred duty to protect them. Yahweh's word warns against causing harm to the innocent, underscoring the immense value of every young life.",
+            "zh": "一名年轻女孩尸体的悲惨发现提醒我们，儿童是多么脆弱，以及保护他们的神圣职责。雅伟的话语警告不要伤害无辜者，强调了每一个年轻生命的巨大价值。"
+          },
+          "verse": {
+            "reference": "Matthew 18:6",
+            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
+            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
+            "themeEn": "Woe to those who harm children",
+            "themeZh": "使小子跌倒的祸"
+          },
+          "aiVerseId": "matt_18_6",
+          "translationState": "localized"
+        },
+        {
           "id": "www-theguardian-com-australia-news-live-2026-jul-10-australia-news-live-",
           "section": "australia",
           "source": "The Guardian Australia",
@@ -1164,40 +1226,6 @@
             "themeZh": "公义与怜悯"
           },
           "aiVerseId": "micah_6_8",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-jul-10-layla-jeffery-police-disc",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jul/10/layla-jeffery-police-discover-body-of-teenage-girl-in-victoria-bushland-donald-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/fa57dc4546cb55e2ec190685dd4c55c0c9249dfe/0_3_1181_945/master/1181.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1bbc634f9a9cdba96aa83d1c7e5d1a26",
-          "publishedAt": "2026-07-10T06:20:11.000Z",
-          "title": {
-            "en": "Boy, 16, arrested after police discover body of 13-year-old girl in Victorian bushland",
-            "zh": "16岁男孩被捕，警方在维多利亚州灌木丛中发现13岁女孩尸体"
-          },
-          "summary": {
-            "en": "A 16-year-old boy has been arrested after the body of 13-year-old Layla Jeffery was discovered in Victorian bushland, with police deeming her death suspicious.",
-            "zh": "一名16岁男孩被捕，此前13岁女孩莱拉·杰弗里的尸体在维多利亚州灌木丛中被发现，警方认为她的死因可疑。"
-          },
-          "body": {
-            "en": "Police say death of Layla Jeffery ‘suspicious’ after remains found in town of Donald in western Victoria Get our breaking news email , free app or daily news podcast A 16-year-old boy has been arrested after the body of a 13-year-old girl, who went missing on the weekend, was found in bushland in regional Victoria. Victoria police said they were treating Layla Jeffery’s death as “suspicious” after her remains were found in Donald, a small town in western Victoria, late on Thursday afternoon following an extensive search. Continue reading...",
-            "zh": "警方称，在维多利亚州西部唐纳德镇发现尸体后，莱拉·杰弗里的死亡“可疑”。 一名 16 岁男孩在维多利亚州乡村地区的丛林中发现了一名周末失踪的 13 岁女孩的尸体，随后逮捕了一名 16 岁男孩。维多利亚警方表示，周四下午晚些时候，经过广泛搜查，在维多利亚州西部小镇唐纳德发现了莱拉·杰弗里的遗体，他们将其死亡视为“可疑”。继续阅读..."
-          },
-          "reflection": {
-            "en": "The tragic discovery of a young girl's body reminds us of the profound vulnerability of children and the sacred duty to protect them. Yahweh's word warns against causing harm to the innocent, underscoring the immense value of every young life.",
-            "zh": "一名年轻女孩尸体的悲惨发现提醒我们，儿童是多么脆弱，以及保护他们的神圣职责。雅伟的话语警告不要伤害无辜者，强调了每一个年轻生命的巨大价值。"
-          },
-          "verse": {
-            "reference": "Matthew 18:6",
-            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
-            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
-            "themeEn": "Woe to those who harm children",
-            "themeZh": "使小子跌倒的祸"
-          },
-          "aiVerseId": "matt_18_6",
           "translationState": "localized"
         },
         {
@@ -1267,39 +1295,6 @@
           },
           "aiVerseId": "prov_11_14",
           "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-law-2026-jul-10-christian-brothers-edmund-rice-educa",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/law/2026/jul/10/christian-brothers-edmund-rice-education-australia-abuse-survivors-supreme-court-victoria-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/6ed066add7d656cf203ac97f1c7232c85a0a3dd1/745_0_3750_3002/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fce730dca1ce62367bf9180d7d8db76a",
-          "publishedAt": "2026-07-10T05:07:17.000Z",
-          "title": {
-            "en": "Abuse survivors launch bid to transfer claims to entity that benefited from Christian Brothers’ wealth",
-            "zh": "虐待幸存者发起竞标，将索赔转移给受益于基督教兄弟财富的实体"
-          },
-          "summary": {
-            "en": "Edmund Rice Education Australia does not consent to being made a defendant, in case that has ‘high court written all over it’, Victorian judge hears Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The entity that...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Edmund Rice Education Australia does not consent to being made a defendant, in case that has ‘high court written all over it’, Victorian judge hears Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The entity that benefited from vast land and property transfers from the Christian Brothers will fight a move by abuse survivors to make it liable for compensation claims, triggering a potentially costly battle that has “high court written all over it”. The Christian Brothers has a shocking record of clergy abuse – one of the worst of any Catholic church entity – and is facing hundreds of current and future abuse cases estimated to be worth $774m. Continue reading...",
-            "zh": "澳大利亚埃德蒙·赖斯教育公司不同意成为被告，以防“高等法院写满了”，维多利亚州法官审理称，关注我们的澳大利亚新闻直播博客以获取最新更新，获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。从基督教兄弟转让大片土地和财产中受益的实体将与虐待幸存者要求其承担赔偿要求的举动作斗争，从而引发一场可能代价高昂的“高等法院写满了”的战斗。基督教兄弟会有着令人震惊的虐待神职人员的记录，是所有天主教会实体中最严重的之一，目前和未来正面临数百起虐待案件，估计价值 7.74 亿美元。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-sbs-com-au-news-article-neil-the-seal-returns-to-the-sea-but-hell-be",
@@ -1419,7 +1414,7 @@
           },
           "body": {
             "en": "Veteran broadcaster and former senator Derryn Hinch has died, aged 82, after navigating ongoing health battles in recent years.\n\nThe broadcaster's death was confirmed by his former radio station, Melbourne's 3AW, on Friday.\n\n3AW entertainment reporter Peter Ford said Hinch died in his bed at home in Melbourne on Thursday.\n\nHinch first made his mark in newspapers before moving into radio, where he flourished on 3AW in the 1980&#x2019;s before moving into television.\n\n\"The so-called 'Human Headline' was a trailblazer &#x2014; always leaving his mark,\" 3AW said in a statement online.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nHinch had earned the moniker for his outspoken and often controversial opinions that frequently landed him in hot water.\n\nThe New-Zealand born personality was remembered by listeners and 3AW colleagues for never shying away from speaking publicly about the issues he saw as important.\n\nFormer colleague and 3AW newsreader Denis O'Kane remembered Hinch as a renegade and a lot fun.\n\n\"Serious guy to a lot of people, but also when you're out with him a lot fun,\" O'Kane said.\n\nHinch took his battle to hold those in power accountable to the political arena in 2016, forming Derryn Hinch's Justice Party and being elected to the Senate at age 72.\n\nFormer federal Labor MP Emma Husar remembered Hinch in a social media post as \"a very good friend, support and mentor\".\n\nThe pair were forced to reject media claims of an inappropriate sexual advance by Hinch directed at Husar, which both said never occurred.\n\n\"The teller of a great story, a crusader for justice and things which were never spoken about but needed to be,\" Husar wrote.\n\n\"He was ahead of the #MeToo movement and the royal commission into institutional abuse.\n\n\"Today I am sad although I know he would want me to only remember the remarkable life he always said he was lucky to have.\"\n\nHinch had his fair share of off-air troubles, publicly discussing his battle with alcoholism, which would come at great cost to his health.\n\nHe was diagnosed with liver cancer in 2007 and underwent an organ transplant in 2011.\n\nIn 2008, he served five months in home detention for naming two convicted child sex offenders.\n\nHe was also jailed for 50 days for refusing to pay a $100,000 fine for revealing the criminal past of Melbourne woman Jill Meagher's killer Adrian Ernest Bayley in 2013.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "资深广播员、前参议员德林·欣奇 (Derryn Hinch) 在经历了近年来持续不断的健康斗争后去世，享年 82 岁。 周五，他的前广播电台墨尔本 3AW 证实了这位广播员的去世。 3AW 娱乐记者彼得·福特 (Peter Ford) 表示，辛奇周四在墨尔本家中的床上去世。 Hinch 首先在报纸上崭露头角，然后进入广播领域，并在 20 世纪 80 年代的 3AW 节目中崭露头角，然后进入电视领域。 3AW 在网上的一份声明中表示：“所谓的‘Human Headline’是一位开拓者，总是留下自己的印记。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 辛奇因其直言不讳且经常引起争议的观点而赢得了这个绰号，这些观点经常使他陷入困境。 这位出生于新西兰的人物因从不回避公开谈论他认为重要的问题而被听众和 3AW 同事所铭记。 前同事兼 3AW 新闻播音员丹尼斯·奥凯恩 (Denis O'Kane) 回忆道，辛奇是个叛徒，而且很有趣。 “对很多人来说他是个严肃的人，但当你和他一起出去时也很有趣，”奥凯恩说。 2016 年，欣奇发起了一场让当权者对政治舞台负责的斗争，组建了德林·辛奇的正义党，并在 72 岁时当选为参议员。 前联邦工党议员艾玛·胡萨尔 (Emma Husar) 在社交媒体帖子中回忆辛奇是“一位非常好的朋友、支持者和导师”。 两人被迫否认媒体有关欣奇针对胡萨尔进行不当性挑衅的说法，两人均表示从未发生过这种情况。 胡萨尔写道：“他讲述了一个伟大的故事，一位正义的斗士，以及那些从未被谈论过但需要被谈论的事情。” “他是 #MeToo 运动和皇家委员会调查机构滥用行为的先锋。 “今天我很伤心，尽管我知道他希望我只记住他总是说他很幸运拥有的非凡生活。” 辛奇在停播时也遇到过不少麻烦，他公开讨论他与酗酒的斗争，这会给他的健康带来巨大损失。 2007年，他被诊断出患有肝癌，并于2011年接受了器官移植。 2008年，他因点名两名被定罪的儿童性犯罪者而被在家拘留五个月。 2013年，他因揭露杀害墨尔本女子吉尔·梅格(Jill Meagher)的凶手阿德里安·欧内斯特·贝利(Adrian Ernest Bayley)的犯罪历史而被罚款10万澳元，因此拒绝支付，被判入狱50天。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+            "zh": "资深广播员、前参议员德林·欣奇 (Derryn Hinch) 在经历了近年来持续不断的健康斗争后去世，享年 82 岁。 周五，他的前广播电台墨尔本 3AW 证实了这位广播员的去世。 3AW 娱乐记者彼得·福特 (Peter Ford) 表示，辛奇周四在墨尔本家中的床上去世。 Hinch 最初在报纸上崭露头角，然后进入广播领域，并在 20 世纪 80 年代的 3AW 节目中崭露头角，然后进入电视领域。 3AW 在网上的一份声明中表示：“所谓的‘Human Headline’是一位开拓者，总是留下自己的印记。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 辛奇因其直言不讳且经常引起争议的观点而赢得了这个绰号，这些观点经常使他陷入困境。 这位出生于新西兰的人物因从不回避公开谈论他认为重要的问题而被听众和 3AW 同事所铭记。 前同事兼 3AW 新闻播音员丹尼斯·奥凯恩 (Denis O'Kane) 回忆道，辛奇是个叛徒，而且很有趣。 “对很多人来说他是个严肃的人，但当你和他一起出去时也很有趣，”奥凯恩说。 2016 年，欣奇发起了一场让当权者对政治舞台负责的斗争，组建了德林·辛奇的正义党，并在 72 岁时当选为参议员。 前联邦工党议员艾玛·胡萨尔 (Emma Husar) 在社交媒体帖子中回忆辛奇是“一位非常好的朋友、支持者和导师”。 两人被迫否认媒体有关欣奇针对胡萨尔进行不当性挑衅的说法，两人均表示从未发生过这种情况。 胡萨尔写道：“他讲述了一个伟大的故事，一位正义的斗士，以及那些从未被谈论过但需要被谈论的事情。” “他是 #MeToo 运动和皇家委员会调查机构滥用行为的先锋。 “今天我很伤心，尽管我知道他希望我只记住他总是说他很幸运拥有的非凡生活。” 辛奇在停播时也遇到过不少麻烦，他公开讨论他与酗酒的斗争，这会给他的健康带来巨大损失。 2007年，他被诊断出患有肝癌，并于2011年接受了器官移植。 2008年，他因点名两名被定罪的儿童性犯罪者而被在家拘留五个月。 2013年，他因揭露杀害墨尔本女子吉尔·梅格(Jill Meagher)的凶手阿德里安·欧内斯特·贝利(Adrian Ernest Bayley)的犯罪历史而被罚款10万澳元，因此拒绝支付，被判入狱50天。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -1452,7 +1447,7 @@
           },
           "body": {
             "en": "The H5 strain of bird flu has been detected in an Australian seabird for the first time.\n\nUntil now, confirmed cases of bird flu in Australia have all been detected in migratory birds that had flown in from the sub-Antarctic region.\n\nAgriculture Minister Julie Collins has said that lab testing confirmed the strain was found in a bird in the town of Robe in south-eastern South Australia.\n\nTwo further cases have also been confirmed in South Australia and another in Western Australia, bringing the total number of detections to 12.\n\nCollins said there is still no evidence of mass mortality among local wildlife and that there is no evidence of the virus having spread to agricultural settings.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"While this, of course, is a concerning development, it is not unexpected and is another sign that our strong biosecurity system is working,\" Collins said at a press conference on Friday.\n\n\"The South Australian Government, who is leading the response on the ground in South Australia, is implementing enhanced surveillance in the area where this bird was found. This will help to establish if there has been further spread of the H5 bird flu.\"\n\nThe bird in question is a greater crested tern that shared an overlapping coastal range with those migratory seabird species that have previously tested positive for H5.\n\n\"There is no evidence currently of any infection in our poultry or agricultural system and there remains a low risk to human health,\" Collins said.\n\nThe South Australian government is leading an enhanced surveillance operation around Robe, about 340km southeast of Adelaide, to check for any further spread, while federal experts &#x2014; including Australia's chief veterinary officer &#x2014; continue to monitor the situation.\n\nOfficials are urging people not to touch sick or dead birds or wildlife, to keep pets away, and to report unusual bird deaths or behaviour to the Emergency Animal Disease Hotline on 1800 675 888.\n\nExperts have warned Australia must be prepared for the potential \"devastating\" impact on local wildlife.\n\n''It's extremely nerve&#x2011;wracking,\" Dr Carol Booth from the Invasive Species Council told the Australian Associated Press news agency.\n\n\"We really need to be prepared for what could be a really devastating time ahead of us,\" she said.\n\nThe virus was first detected on the Australian mainland on 14 June in a brown skua found at Esperance on Western Australia's south coast.\n\nBooth said the virus was so versatile it could spread through close contact, contaminated water and even inanimate objects.\n\nIt can also jump from birds to scavenging and predatory animals, such as cats, dogs, foxes, raptors and even...",
-            "zh": "首次在澳大利亚海鸟中检测到 H5 型禽流感病毒。 到目前为止，澳大利亚确诊的禽流感病例都是在从亚南极地区飞来的候鸟中发现的。 农业部长朱莉·柯林斯表示，实验室测试证实，在南澳大利亚东南部罗布镇的一只鸟身上发现了该菌株。 南澳大利亚州和西澳大利亚州还确诊了另外两例病例，使检测总数达到 12 例。 柯林斯说，仍然没有证据表明当地野生动物大规模死亡，也没有证据表明该病毒已传播到农业环境。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 柯林斯在周五的新闻发布会上表示：“当然，这是一个令人担忧的事态发展，但这并不意外，也是我们强大的生物安全系统正在发挥作用的另一个迹象。” “南澳大利亚州政府正在领导南澳大利亚州的实地应对工作，正在对发现这只鸟的地区实施加强监测。这将有助于确定 H5 禽流感是否进一步传播。” 这只大凤头燕鸥与此前 H5 检测呈阳性的迁徙海鸟共享海岸范围重叠的区域。 柯林斯说：“目前没有证据表明我们的家禽或农业系统受到任何感染，对人类健康的风险仍然较低。” 南澳大利亚政府正在牵头在阿德莱德东南约 340 公里处的罗布周围加强监视行动，以检查是否有任何进一步传播，而包括澳大利亚首席兽医官在内的联邦专家则继续监测局势。 官员们敦促人们不要触摸生病或死亡的鸟类或野生动物，让宠物远离，并拨打紧急动物疾病热线 1800 675 888 报告异常鸟类死亡或行为。 专家警告澳大利亚必须为当地野生动物潜在的“毁灭性”影响做好准备。 “这非常令人伤脑筋，”入侵物种委员会的卡罗尔·布斯博士告诉澳大利亚美联社。 她说：“我们确实需要为即将到来的毁灭性时刻做好准备。” 该病毒于 6 月 14 日在澳大利亚大陆首次在西澳大利亚南海岸埃斯佩兰斯发现的一只棕色贼鸥中被发现。 布斯说，这种病毒用途广泛，可以通过密切接触、受污染的水甚至无生命的物体传播。 它还可以从鸟类跳到食腐动物和掠食性动物，如猫、狗、狐狸、猛禽，甚至......"
+            "zh": "首次在澳大利亚海鸟中检测到 H5 型禽流感病毒。 到目前为止，澳大利亚确诊的禽流感病例都是在从亚南极地区飞来的候鸟中发现的。 农业部长朱莉·柯林斯表示，实验室测试证实，在南澳大利亚东南部罗布镇的一只鸟身上发现了该菌株。 南澳大利亚州和西澳大利亚州还确诊了另外两例病例，使检测总数达到 12 例。 柯林斯说，仍然没有证据表明当地野生动物大规模死亡，也没有证据表明该病毒已传播到农业环境。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 柯林斯在周五的新闻发布会上表示：“当然，这是一个令人担忧的事态发展，但这并不意外，也是我们强大的生物安全系统正在发挥作用的另一个迹象。” “南澳大利亚州政府正在领导南澳大利亚州的实地应对工作，正在对发现这只鸟的地区实施加强监测。这将有助于确定 H5 禽流感是否进一步传播。” 这只大凤头燕鸥与此前 H5 检测呈阳性的迁徙海鸟共享海岸范围重叠的区域。 柯林斯说：“目前没有证据表明我们的家禽或农业系统受到任何感染，对人类健康的风险仍然较低。” 南澳大利亚政府正在牵头在阿德莱德东南约 340 公里处的罗布周围加强监视行动，以检查是否有任何进一步传播，而包括澳大利亚首席兽医官在内的联邦专家则继续监测情况。 官员们敦促人们不要触摸生病或死亡的鸟类或野生动物，让宠物远离，并拨打紧急动物疾病热线 1800 675 888 报告异常鸟类死亡或行为。 专家警告澳大利亚必须为当地野生动物潜在的“毁灭性”影响做好准备。 “这非常令人伤脑筋，”入侵物种委员会的卡罗尔·布斯博士告诉澳大利亚美联社。 她说：“我们确实需要为即将到来的毁灭性时刻做好准备。” 该病毒于 6 月 14 日在澳大利亚大陆首次在西澳大利亚南海岸埃斯佩兰斯发现的一只棕色贼鸥中被发现。 布斯说，这种病毒用途广泛，可以通过密切接触、受污染的水甚至无生命的物体传播。 它还可以从鸟类跳到食腐动物和掠食性动物，如猫、狗、狐狸、猛禽，甚至......"
           },
           "reflection": {
             "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
@@ -1518,7 +1513,7 @@
           },
           "body": {
             "en": "Darcy Byrne is the Labor mayor of Sydney’s Inner West Council and he’s helping lead a grassroots movement on curbing gambling harm in the community – including pushing for a reduction in the number of poker machines in licensed clubs in New South Wales. This momentum comes while the federal Labor party continues to face criticism about the scale of its commitment to online gambling reform. The rising Labor star speaks to Guardian Australia political editor, Tom McIlroy , about why he compares the poker machine lobby to the US National Rifle Association, and his successful motion at this month’s NSW Labor conference on gambling policy at the next state election Read more: NSW Labor toughens pokies stance as Sydney inner west mayor points to ‘unstoppable’ momentum for reform We’ve had a gutful of politicians failing to act on harm from the pokies. This is a critical moment for NSW Labor by Darcy Byrne Surging pokies revenue proves NSW Labor has failed to reduce gambling harm as promised, advocates say Continue reading...",
-            "zh": "达西·伯恩 (Darcy Byrne) 是悉尼内西区议会的工党市长，他正在帮助领导一场遏制社区赌博危害的草根运动，包括推动减少新南威尔士州持牌俱乐部的扑克机数量。这一势头出现之际，联邦工党继续面临对其在线博彩改革承诺规模的批评。这位冉冉升起的工党新星接受澳大利亚卫报政治编辑 Tom McIlroy 的采访，了解他为何将扑克机游说团体与美国全国步枪协会进行比较，以及他在本月新南威尔士州工党会议上关于下次州选举赌博政策的成功动议。这是新南威尔士州工党的关键时刻 作者：达西·伯恩 老虎机收入激增证明新南威尔士州工党未能按照承诺减少赌博危害，倡导者表示继续阅读..."
+            "zh": "达西·伯恩 (Darcy Byrne) 是悉尼内西区议会的工党市长，他正在帮助领导一场遏制社区赌博危害的草根运动，包括推动减少新南威尔士州持牌俱乐部的扑克机数量。这一势头出现之际，联邦工党继续面临对其在线赌博改革承诺规模的批评。这位冉冉升起的工党新星接受澳大利亚卫报政治编辑 Tom McIlroy 的采访，了解他为何将扑克机游说团体与美国全国步枪协会进行比较，以及他在本月新南威尔士州工党会议上关于下次州选举赌博政策的成功动议。这是新南威尔士州工党的关键时刻 作者：达西·伯恩 老虎机收入激增证明新南威尔士州工党未能按照承诺减少赌博危害，倡导者表示继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to hope, endurance, and faithful rebuilding. Romans 12:12 reminds us to meet sharp headlines with steady hope and perseverance, asking how faithful people can respond with wisdom instead of noise.",
@@ -1617,7 +1612,7 @@
           },
           "body": {
             "en": "The Melbourne Symphony Orchestra (MSO) did not unfairly dismiss pianist Jayson Lloyd Gillham over his comments about Gaza, the Federal Court has ruled.\n\nFederal Court judge Graeme Hill delivered his judgment on Friday after British-Australian performer took the MSO to court in a three-week trial.\n\nThe international concert pianist claimed he was unfairly dismissed by the orchestra after expressing his political beliefs at an August 2024 recital.\n\nBefore playing a composition piece dedicated to Gazan journalists, Gillham told the audience that Israel had deliberately targeted some journalists to prevent the reporting of war crimes.\n\nThe orchestra cancelled a subsequent concert at the Melbourne Town Hall, citing safety concerns.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nJudge Hill found the MSO did not take action against Gillham because of his political beliefs, rather it was protecting its own business interests and reputation.\n\nDuring the trial, Gillham's barrister Sheryn Omeri KC, argued the case was fundamentally about the right to freedom of expression for workers and whether those rights could be limited by the implied terms of a contract.\n\nThe pianist's comments were lawful and audience members who did not want to listen to them could have left the Southbank venue, she said.\n\nBut MSO barrister Justin Bourke KC argued an unfettered right to free speech on the stage could have profound consequences, affecting ticket sales, sponsors and donors.\n\nIt would ultimately be unworkable, especially if an artist wanted to speak on stage for an hour, and the MSO was \"entitled to have control\" over its own stage, he said.\n\nIn oral evidence, the pianist agreed he had not told the orchestra or his agent about his intentions to play the piece titled Witness, worried they would have found an excuse to disallow the performance.\n\nThe MSO argued Gillham would have anticipated people would be upset by his comments, with management responding to the incident within minutes.\n\nThe orchestra received one written and two verbal complaints after the concert, followed by 487 complaints about the cancellation decision, the court was told.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "联邦法院裁定，墨尔本交响乐团（MSO）并没有因钢琴家杰森·劳埃德·吉勒姆对加沙的评论而不公平地解雇他。 联邦法院法官格雷姆·希尔 (Graeme Hill) 在英裔澳大利亚表演者将 MSO 告上法庭并进行为期三周的审判后，于周五做出了判决。 这位国际音乐会钢琴家声称，他在 2024 年 8 月的一场独奏会上表达了自己的政治信仰后，被乐团不公平地解雇。 在演奏一首献给加沙记者的乐曲之前，吉勒姆告诉观众，以色列故意针对一些记者，以阻止报道战争罪行。 出于安全考虑，乐团取消了随后在墨尔本市政厅举行的音乐会。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 希尔法官发现，MSO 对吉勒姆采取行动并不是因为他的政治信仰，而是为了保护自己的商业利益和声誉。 在审判期间，吉勒姆的律师 Sheryn Omeri KC 辩称，该案从根本上讲是关于工人的言论自由权以及这些权利是否会受到合同默示条款的限制。 她说，钢琴家的评论是合法的，不想听的观众可以离开南岸场地。 但 MSO 律师 Justin Bourke KC 认为，舞台上不受限制的言论自由权可能会产生深远的影响，影响门票销售、赞助商和捐助者。 他说，这最终是行不通的，特别是如果一位艺术家想在舞台上演讲一个小时，而 MSO “有权控制”自己的舞台。 在口头证据中，钢琴家承认他没有告诉乐团或他的经纪人他打算演奏名为《见证》的作品，担心他们会找到借口禁止演出。 MSO 辩称，吉勒姆预计人们会对他的言论感到不安，管理层在几分钟内就对此事件做出了回应。 法庭获悉，音乐会结束后，乐团收到了一份书面投诉和两份口头投诉，随后又收到了 487 份关于取消决定​​的投诉。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+            "zh": "联邦法院裁定，墨尔本交响乐团（MSO）并没有因钢琴家杰森·劳埃德·吉勒姆对加沙的评论而不公平地解雇他。 联邦法院法官格雷姆·希尔 (Graeme Hill) 在英裔澳大利亚表演者将 MSO 告上法庭并经过三周的审判后于周五做出了判决。 这位国际音乐会钢琴家声称，他在 2024 年 8 月的一场独奏会上表达了自己的政治信仰后，被乐团不公平地解雇。 在演奏一首献给加沙记者的乐曲之前，吉勒姆告诉观众，以色列故意针对一些记者，以阻止报道战争罪行。 出于安全考虑，乐团取消了随后在墨尔本市政厅举行的音乐会。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 希尔法官发现，MSO 对吉勒姆采取行动并不是因为他的政治信仰，而是为了保护自己的商业利益和声誉。 在审判期间，吉勒姆的律师 Sheryn Omeri KC 辩称，该案从根本上讲是关于工人的言论自由权以及这些权利是否会受到合同默示条款的限制。 她说，钢琴家的评论是合法的，不想听的观众可以离开南岸场地。 但 MSO 律师 Justin Bourke KC 认为，舞台上不受限制的言论自由权可能会产生深远的影响，影响门票销售、赞助商和捐助者。 他说，这最终是行不通的，特别是如果一位艺术家想在舞台上演讲一个小时，而 MSO “有权控制”自己的舞台。 在口头证据中，钢琴家承认他没有告诉乐团或他的经纪人他打算演奏名为《见证》的作品，担心他们会找到借口禁止演出。 MSO 辩称，吉勒姆预计人们会对他的言论感到不安，管理层在几分钟内就对此事件做出了回应。 法庭获悉，音乐会结束后，乐团收到了一份书面投诉和两份口头投诉，随后又收到了 487 份关于取消决定​​的投诉。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
