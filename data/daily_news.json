@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T18:04:40.615Z",
+  "generatedAt": "2026-07-17T19:59:09.492Z",
   "editionDate": "2026-07-18",
   "sources": [
     {
@@ -106,8 +106,8 @@
       },
       "sourceNotes": [
         "The Guardian World",
-        "BBC News World",
         "DW World",
+        "BBC News World",
         "SBS News World"
       ],
       "items": [
@@ -118,7 +118,7 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
           "image": "https://i.guim.co.uk/img/media/db9f554322370756757b1690cd7e7a7a743a7ce0/347_0_4183_3348/master/4183.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d828f53516a3534adf9b5b297a537756",
-          "publishedAt": "2026-07-17T17:51:38.000Z",
+          "publishedAt": "2026-07-17T19:40:00.000Z",
           "title": {
             "en": "DHS chief threatens states that refuse Trump’s election demands after president’s widely condemned speech – live",
             "zh": "国土安全部部长威胁拒绝特朗普选举要求的州，此前总统发表了广受谴责的讲话"
@@ -146,13 +146,114 @@
           "translationState": "localized"
         },
         {
+          "id": "www-theguardian-com-us-news-2026-jul-17-canada-wildfire-smoke-midwest-mi",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+          "image": "https://i.guim.co.uk/img/media/3c48b75e08a12165709b2e264eb0d86e516dcf5b/480_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c572d6e12b66f1e56b877834dd5b4ec3",
+          "publishedAt": "2026-07-17T19:38:52.000Z",
+          "title": {
+            "en": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+            "zh": "更多加拿大野火烟雾笼罩美国中西部、中大西洋和东北部地区"
+          },
+          "summary": {
+            "en": "Smoke from Canadian wildfires continues to drift over the US Midwest, Mid-Atlantic, and Northeast, leading to another day of poor air quality for an estimated 109 million people. Residents are experiencing smoky skies and irritated eyes due to the blazes in Ontario.",
+            "zh": "加拿大野火产生的烟雾继续飘向美国中西部、中大西洋和东北部地区，导致约1.09亿人再次面临空气质量不佳的一天。由于安大略省的火灾，当地居民正经历烟雾弥漫的天空和眼睛不适。"
+          },
+          "body": {
+            "en": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans are enduring another day of smoky skies, irritated eyes and bad air quality, as Canadian wildfire smoke spread again over huge swathes of the US, affecting about 109 million people across the midwest, mid-Atlantic and north-east. The pungent wildfire blanketed cities such as Chicago and Detroit , where residents on Friday were warned to stay indoors and reduce activity levels after the air quality index reached a “hazardous” 361, according to the government website AirNow . Continue reading...",
+            "zh": "安大略省大火烟雾飘过美国，1.09 亿人又面临空气质量不佳的一天 加拿大野火烟雾再次在美国大片地区蔓延，影响了中西部、大西洋中部和东北部约 1.09 亿人，数以千万计的美国人又面临着烟雾弥漫的天空、眼睛发炎和空气质量不佳的日子。据政府网站 AirNow 报道，刺鼻的野火覆盖了芝加哥和底特律等城市，周五空气质量指数达到“危险”361，居民被警告留在室内并减少活动水平。继续阅读..."
+          },
+          "reflection": {
+            "en": "The widespread smoke from wildfires, affecting millions with poor air quality, reminds us of creation's vulnerability. Romans 8:22 speaks to the groaning of the natural world, a shared experience of distress that calls for our attention and care. In these moments, we are reminded of our interconnectedness with the environment and our responsibility to it.",
+            "zh": "广阔的野火烟雾影响数百万人，导致空气质量不佳，这提醒我们受造界的脆弱性。罗马书8:22谈到受造界一同劳苦叹息，这是一种共同的痛苦经历，呼唤我们的关注和关怀。在这些时刻，我们被提醒与环境的相互关联以及我们对环境的责任。"
+          },
+          "verse": {
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
+          },
+          "aiVerseId": "rom_8_22",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-germany-s-5-000-heat-deaths-what-the-numbers-reveal-a-7801",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/germany-s-5-000-heat-deaths-what-the-numbers-reveal/a-78010353?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77993834_6.jpg",
+          "publishedAt": "2026-07-17T19:11:00.000Z",
+          "title": {
+            "en": "Germany’s 5,000 heat deaths: What the numbers reveal",
+            "zh": "德国5000人死于高温：数字揭示了什么"
+          },
+          "summary": {
+            "en": "The Robert Koch Institute reported that over 5,100 people in Germany died from heat-related causes by the end of June this year, raising questions about how researchers confirm such deaths.",
+            "zh": "罗伯特·科赫研究所报告称，截至今年6月底，德国有超过5100人死于与高温相关的原因，这引发了研究人员如何确认此类死亡的疑问。"
+          },
+          "body": {
+            "en": "More than 5,100 people in Germany died from heat-related causes this year until the end of June, the Robert Koch Institute reports. But how can researchers prove that someone died because of soaring temperatures?\n\nA heatstroke begins with headaches , dizziness and loss of awareness. The body’s regulation system fails, causing body temperature to rise to life-threatening levels. Multiple organ failure and death can follow. But doctors rarely record deaths that can be directly attributed to heat. According to Germany’s Federal Statistical Office, an average of 21 such cases were recorded each year between 2004 and 2014.\n\nThe&#160;5,120 heat-related deaths in Germany in 2026 through June 28, published by the Robert Koch Institute (RKI) , is therefore an estimate. But that does not mean the figure is pulled out of thin air. \"It is based on a statistical correlation,\" says Alexandra Schneider, a meteorologist, epidemiologist and deputy director of the Institute of Epidemiology at Helmholtz Munich.\n\nThis estimate was found&#160;by comparing death figures collected by Germany’s Federal Statistical Office with temperature trends over a given period measured by the German Weather Service. In the final week of June alone, around 23,600 people died. The weekly average temperature — meaning the average daytime and nighttime temperature over the course of a week — was 26 degrees Celsius. The RKI assumes that heat-related deaths occur from a weekly average temperature of 20 degrees Celsius onward.\n\nThe number of deaths in that final week of June was nearly 30% higher than the average for comparable periods in previous years, when around 18,200 people died. To estimate the number of heat-related deaths, researchers modeled how many deaths would have occurred under conditions with temperatures of no more than 20 degrees Celsius.\n\nResearchers also adjust for certain confounding factors, Schneider explains. Using this method, the RKI estimates that there were 5,120 heat-related deaths — with 4,310 of those occurring in the final week of June alone.\n\nAlexandra Schneider considers the estimate plausible and says she expected a figure of this magnitude. In the past, the epidemiologist has criticized the RKI’s methodology. \"If temperatures fluctuate sharply within a week, using a weekly average can smooth out those extremes and lead to an underestimation of deaths,\" she explains. \"This time, however, it was consistently hot.\"\n\nThe same applies to cold-related deaths as to heat-related deaths: they are estimates based on a plausible statistical link. During colder months, respiratory illnesses become more common. Cold temperatures also contribute to cardiovascular diseases, just as heat does, explains epidemiologist Schneider.\n\n\"In Europe, cold-associated mortality is...",
+            "zh": "罗伯特·科赫研究所报告称，截至 6 月底，今年德国已有 5,100 多人死于高温。但研究人员如何证明有人因气温飙升而死亡呢？ 中暑始于头痛、头晕和意识丧失。身体的调节系统出现故障，导致体温升高至危及生命的水平。随之而来的是多器官衰竭和死亡。但医生很少记录可直接归因于高温的死亡。据德国联邦统计局称，2004年至2014年间，平均每年记录21起此类案件。 因此，罗伯特·科赫研究所 (RKI) 发布的 2026 年至 6 月 28 日期间德国有 5,120 人因高温死亡的数字是估计值。但这并不意味着这个数字是凭空捏造的。 “它是基于统计相关性，”气象学家、流行病学家兼亥姆霍兹慕尼黑流行病学研究所副所长亚历山德拉·施奈德说。 这一估计是通过将德国联邦统计局收集的死亡数据与德国气象局测量的特定时期内的气温趋势进行比较得出的。仅 6 月最后一周，就有约 23,600 人死亡。周平均气温（即一周内白天和夜间的平均气温）为 26 摄氏度。 RKI 假设每周平均气温达到 20 摄氏度之后就会发生与高温相关的死亡。 6 月最后一周的死亡人数比往年同期的平均死亡人数高出近 30%，当时约有 18,200 人死亡。为了估计与高温相关的死亡人数，研究人员模拟了在气温不超过 20 摄氏度的条件下会发生多少死亡情况。 施耐德解释说，研究人员还针对某些混杂因素进行了调整。使用这种方法，RKI 估计有 5,120 人死于高温，其中 4,310 人发生在 6 月最后一周。 亚历山德拉·施奈德 (Alexandra Schneider) 认为这一估计是合理的，并表示她预计会有如此规模的数字。过去，这位流行病学家曾批评过 RKI 的方法论。 “如果气温在一周内急剧波动，使用每周平均值可以消除这些极端情况，并导致低估死亡人数，”她解释道。 “然而，这一次，天气一直很热。” 这同样适用于与寒冷相关的死亡和与炎热相关的死亡：它们是基于合理的统计联系的估计。在寒冷的月份，呼吸道疾病变得更加常见。流行病学家施奈德解释说，寒冷的气温也会导致心血管疾病，就像高温一样。 “在欧洲，与寒冷相关的死亡率是......"
+          },
+          "reflection": {
+            "en": "The news of thousands of heat-related deaths reminds us of the fragility of life and the deep sorrow that accompanies such loss. Yet, for those who trust in Yahweh, there is a profound hope that one day, He will wipe away every tear, and death and pain will be no more.",
+            "zh": "数千人死于高温的消息提醒我们生命的脆弱以及随之而来的深切悲痛。然而，对于那些信靠雅伟的人来说，有一个深刻的盼望，就是有一天，祂将擦去所有的眼泪，死亡和痛苦将不复存在。"
+          },
+          "verse": {
+            "reference": "Revelation 21:4",
+            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+            "themeEn": "End of suffering",
+            "themeZh": "苦难的终结"
+          },
+          "aiVerseId": "rev_21_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jul-17-markwayne-mullin-trump-baseless-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/17/markwayne-mullin-trump-baseless-election-claims",
+          "image": "https://i.guim.co.uk/img/media/be5264e95bad7b1b73bb041a57e61cfb7d6ed72e/420_0_4180_3346/master/4180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cba28c01fb56ec48ea671a3802d395f4",
+          "publishedAt": "2026-07-17T19:10:38.000Z",
+          "title": {
+            "en": "DHS secretary doubles down on Trump’s baseless 2020 election claims",
+            "zh": "国土安全部部长对特朗普毫无根据的 2020 年大选主张加大力度"
+          },
+          "summary": {
+            "en": "Markwayne Mullin at presser repeated many of Trump’s unverified claims from controversial primetime speech The US homeland security secretary, Markwayne Mullin, doubled down on Donald Trump’s unsubstantiated election claims on Friday amid his agency’s efforts to support the...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Markwayne Mullin at presser repeated many of Trump’s unverified claims from controversial primetime speech The US homeland security secretary, Markwayne Mullin, doubled down on Donald Trump’s unsubstantiated election claims on Friday amid his agency’s efforts to support the president’s agenda. Trump used a review compiled by the Department of Homeland Security (DHS) as the basis of many of his unsubstantiated claims on Thursday during his televised primetime address to the nation. Continue reading...",
+            "zh": "马克韦恩·穆林 (Markwayne Mullin) 在新闻发布会上重申了特朗普在有争议的黄金时段演讲中提出的许多未经证实的说法美国国土安全部部长马克韦恩·穆林 (Markwayne Mullin) 周五在其机构努力支持总统议程的同时，加大了唐纳德·特朗普未经证实的选举言论的力度。周四，特朗普在黄金时段向全国发表电视讲话时，使用了国土安全部（DHS）编制的一份审查作为其许多未经证实的主张的基础。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-theguardian-com-politics-2026-jul-17-andy-burnham-becomes-labour-lea",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm",
           "image": "https://i.guim.co.uk/img/media/bb4abda30568205983929cfc4ff1b236ae750508/2283_788_5489_4391/master/5489.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=015cc41831c2974595eb978bbf87924b",
-          "publishedAt": "2026-07-17T17:48:46.000Z",
+          "publishedAt": "2026-07-17T18:55:42.000Z",
           "title": {
             "en": "Andy Burnham promises to end Labour infighting as he becomes party’s leader",
             "zh": "安迪·伯纳姆承诺成为工党领袖后将结束工党内讧"
@@ -179,15 +280,48 @@
           "translationState": "fallback"
         },
         {
+          "id": "www-bbc-co-uk-news-articles-ckgv0zd497zo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bda/live/48708610-8204-11f1-a09e-7710dfe15161.jpg",
+          "publishedAt": "2026-07-17T18:34:04.000Z",
+          "title": {
+            "en": "EU proposes slowing down cuts to carbon emissions for businesses",
+            "zh": "欧盟提议放慢企业碳排放削减速度"
+          },
+          "summary": {
+            "en": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The European Union has unveiled proposals that would slow cuts to businesses' greenhouse gas emissions limits, as part of a major climate policy overhaul.\n\nThe reforms would relax the rules of the bloc's emissions trading system (ETS) to give businesses more time to reduce their carbon output than previously planned.\n\nThe changes would mean some industries could obtain emission allowances until 2038 instead of 2034, if they commit to investing in decarbonisation efforts.\n\nThe proposals still need to be approved by EU countries and lawmakers - a process that could take a year.\n\n\"We are adopting a more business-friendly and, may I say so, savvy approach,\" said EU climate commissioner Wopke Hoekstra.\n\nThe European Commission, which develops legislation for the EU's 27 member states, said the changes would ensure the ETS was aligned with the EU's goal to reduce carbon emissions by 90% by 2040, compared with 1990 levels.\n\nThe ETS, which was introduced in 2005, is the EU's main tool for curbing greenhouse gases.\n\nBut it has come under criticism from a number of member states, with Italy in particular condemning the trading scheme as a de facto tax that has helped keep energy prices artificially high.\n\nUnder the ETS, Europe's industries and power plants are required to buy a permit, or allowance, for every tonne of carbon dioxide they emit, creating a financial incentive to invest in cleaner technologies.\n\nCompanies can buy extra permits or trade them. Some businesses are given permits for free to help them compete with foreign firms that do not pay carbon costs.\n\nThe ETS also caps the number of permits released each year to make sure missions decrease.\n\nThe Commission has proposed slowing the rate at which this cap is lowered each year to around 3.7% from 2031 and then to 1.7% from 2036 - down from 4.3% currently.\n\nAs part of the changes, the EU also proposes continuing free permits until 2038, rather than ending them in 2034, when they were to be replaced by a carbon border charge on imports for some sectors.\n\nThe Commission would also offer 80% of free permits up front to companies with plans to invest in decarbonisation in Europe. Businesses would get the remaining 20% once those investments are made.\n\nResponding to the proposals, Polish climate minister Paulina Hennig-Kloska said Poland would push to weaken the policy further.\n\n\"For the first time, we are seeing a softening of the stance rather than a toughening of it - this is a huge success for Poland. Although we will fight for more,\" she said.\n\nBut Green politicians were less impressed. A German member of the European Parliament, Michael Bloss, said the plans would result in \"gigantic climate pollution\" and the next generation would have a worse quality of life as a result.\n\nGlobal temperatures...",
+            "zh": "作为重大气候政策改革的一部分，欧盟公布了减缓企业温室气体排放限制削减的提案。 这些改革将放宽欧盟排放交易体系（ETS）的规则，为企业提供比先前计划更多的时间来减少碳排放。 这些变化意味着，如果一些行业承诺投资脱碳工作，则可以在 2038 年（而不是 2034 年）之前获得排放配额。 这些提案仍需要得到欧盟国家和立法者的批准，这一过程可能需要一年的时间。 欧盟气候委员沃普克·霍克斯特拉 (Wopke Hoekstra) 表示：“我们正在采取一种对商业更加友好、而且可以说是精明的方法。” 为欧盟 27 个成员国制定立法的欧盟委员会表示，这些变化将确保 ETS 符合欧盟的目标，即到 2040 年将碳排放量较 1990 年的水平减少 90%。 ETS于2005年推出，是欧盟遏制温室气体排放的主要工具。 但它遭到了一些成员国的批评，意大利尤其谴责该贸易计划是一种事实上的税收，有助于人为地维持高能源价格。 根据排放交易体系，欧洲的工业和发电厂必须为其排放的每吨二氧化碳购买许可证或补贴，从而为投资清洁技术创造经济激励。 公司可以购买额外的许可证或进行交易。一些企业免费获得许可证，以帮助他们与不支付碳成本的外国公司竞争。 ETS 还限制了每年发放的许可证数量，以确保减少任务。 欧盟委员会提议从 2031 年起每年将这一上限降低至 3.7% 左右，然后从 2036 年起降低至 1.7%，低于目前的 4.3%。 作为改革的一部分，欧盟还提议继续免费许可证直至 2038 年，而不是在 2034 年终止，届时将对某些行业的进口征收碳边境税。 欧盟委员会还将向计划在欧洲投资脱碳的公司预先提供 80% 的免费许可证。一旦这些投资完成，企业将获得剩余的 20%。 针对这些提议，波兰气候部长宝琳娜·亨尼格-克洛斯卡表示，波兰将推动进一步削弱该政策。 “我们第一次看到立场软化而不是强硬——这对波兰来说是一个巨大的成功。尽管我们会争取更多，”她说。 但绿党政客们对此并不以为然。欧洲议会德国议员迈克尔·布洛斯表示，这些计划将导致“巨大的气候污染”，下一代的生活质量将因此恶化。 全球气温..."
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-bbc-co-uk-news-articles-c151gdjwd10o-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3349/live/d949cc00-81d7-11f1-926f-c90d1bcfbc84.jpg",
-          "publishedAt": "2026-07-17T17:46:24.000Z",
+          "publishedAt": "2026-07-17T18:33:12.000Z",
           "title": {
-            "en": "Iran accuses US of hitting civilian infrastructure",
+            "en": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
             "zh": "美国发动新一轮袭击，伊朗境内传出爆炸声"
           },
           "summary": {
@@ -195,7 +329,7 @@
             "zh": "据报道，美国对伊朗军事目标发动了新一轮袭击，伊朗境内传出爆炸声。这已是双方连续第六天发生冲突。"
           },
           "body": {
-            "en": "Iran has accused the US of hitting civilian infrastructure in the latest wave of air strikes since peace talks collapsed.\n\nState media and provincial authorities said bridges, a train station and an airport were hit. BBC Verify has confirmed an attack on a bridge in Hormozgan province.\n\nA White House spokesperson told the BBC the US had \"carried out strikes exclusively on military targets, including military logistics infrastructure\".\n\nPresident Donald Trump has threatened to hit Iranian bridges and power stations to force Tehran to return to talks to end the war that began on 28 February with US-Israeli attacks - prompting Iran to retaliate against Israel and US targets and allies in the Gulf.\n\nFor six nights in a row, the US has been carrying out air strikes against Iranian targets.\n\nIranian state media and local officials said Iranshahr Airport in south-eastern Iran, a railway station and six bridges in the Hormozgan province were hit on Thursday night.\n\nBBC Verify and BBC Persian have verified footage of damage to Gariveh Bridge, after night videos showed a ball of flames on top of it.\n\nDaylight images show a crumbled stretch of road with rubble around the broken bridge.\n\nUS Central Command (Centcom) has not provided a list of targets, but said the attacks were intended to \"further degrade Iranian military capabilities\".\n\nAfter Trump said in April that the US would bomb civilian infrastructure in Iran, including bridges and power plants, UN human rights chief Volker Türk said \"deliberately attacking civilians and civilian infrastructure is a war crime\".\n\nIn its response to the latest US attacks, Iran's Revolutionary Guard Corps (IRGC) said it had struck US maritime surveillance radar sites in Oman as well as targets in Kuwait and Bahrain. It also claims to have attacked a US special operations command centre at al-Tanf in Syria.\n\nKuwaiti authorities said Iranian strikes had hit power generation and water desalination stations, and Kuwait's army said several personnel were wounded as a result of Iranian drones targeting facilities and camps on Friday morning.\n\nA White House spokesperson told the BBC the Iranian regime has \"intentionally targeted civilian vessels in the Strait of Hormuz and lashed out against its neighbors who have no role in this conflict\".\n\nAs attacks escalate, the Strait of Hormuz - a critical waterway off Iran's coast that Tehran has effectively blocked throughout the war - has remained shut.\n\nA fifth of the world's oil and liquefied natural gas used to transit through the strait and the head of the International Energy Agency, Fatih Birol, said he had concerns about global energy supplies.\n\n\"We should be worried, and I am worried, if the situation does not improve in the next few weeks,\" Birol said on Thursday night.\n\nThe...",
+            "en": "The US has denied Iranian accusations that it hit civilian infrastructure in the latest wave of air strikes since peace talks collapsed.\n\nIran's state media and provincial authorities said bridges, a train station and an airport were hit. BBC Verify has confirmed an attack on a bridge in Hormozgan province.\n\nBut a White House spokesperson told the BBC the US had \"carried out strikes exclusively on military targets, including military logistics infrastructure\".\n\nPresident Donald Trump has threatened to hit Iranian bridges and power stations to force Tehran to return to talks to end the war that began on 28 February with US-Israeli attacks - prompting Iran to retaliate against Israel and US targets and allies in the Gulf.\n\nUnder international law, attacking civilians or civilian areas is illegal. However, in certain circumstances, civilian objects - like a bridge or a power plant - lose their protection if they are used to support the enemy's war effort.\n\nIranian state media and local officials said Iranshahr Airport in south-eastern Iran, a railway station and six bridges in the Hormozgan province were hit on Thursday night - the sixth consecutive night of US strikes.\n\nBBC Verify and BBC Persian have verified footage of damage to Gariveh Bridge, after night videos showed a ball of flames on top of it.\n\nDaylight images showed a crumbled stretch of road with rubble around the broken bridge.\n\nUS Central Command (Centcom) has not provided a list of targets, but said the attacks were intended to \"further degrade Iranian military capabilities\".\n\nAfter Trump said in April that the US would bomb civilian infrastructure in Iran, including bridges and power plants, UN human rights chief Volker Türk said \"deliberately attacking civilians and civilian infrastructure is a war crime\".\n\nUN Secretary-General Antonio Guterres expressed concern about escalation in the conflict, particularly over \"attacks on civilian infrastructure in Iran and across the region,\" his spokesperson said on Friday.\n\nIn its response to the latest US attacks, Iran's Revolutionary Guard Corps (IRGC) said it had struck US maritime surveillance radar sites in Oman as well as targets in Kuwait and Bahrain. It also claims to have attacked a US special operations command centre at al-Tanf in Syria.\n\nSyria has not commented on the claim. Centcom said in a post on X that no US troops in the region had recently been killed or captured.\n\nKuwaiti authorities said Iranian strikes had hit power generation and water desalination stations, and Kuwait's army said several personnel were wounded as a result of Iranian drones targeting facilities and camps on Friday morning.\n\nA White House spokesperson told the BBC the Iranian regime has \"intentionally targeted civilian vessels in the Strait of Hormuz and...",
             "zh": "美国军方表示，美国连续第六晚对伊朗发动新一波打击，双方仍在争夺霍尔木兹海峡的控制权。 美国中央司令部（Centcom）周四表示，这些袭击的目的是“进一步削弱伊朗的军事能力”。 伊朗官方媒体报道称，美国导弹袭击了靠近霍尔木兹海峡的海湾格什姆岛以及阿巴斯港和布什尔核电站所在地。 此前，双方隔夜交锋，新一轮的敌对行动进一步加剧了双方结束战争的初步协议。 白宫新闻秘书卡罗琳·莱维特周四表示，美国总统唐纳德·特朗普仍对与伊朗进行谈判持开放态度。 “当他们背弃对美国所说的话时，总统将追究他们的责任。但与此同时，他总是对外交持开放态度，”她告诉记者。 她说，伊朗已表示仍希望与美国达成协议，并补充道：“我们正在与他们交谈，但总统不会允许他们在不承担后果的情况下向海峡内的船只开火。” 随着袭击升级，霍尔木兹海峡仍然关闭。霍尔木兹海峡是伊朗海岸附近的一条重要水道，德黑兰为应对美以袭击而有效封锁了该海峡。 周四早些时候，德黑兰表示袭击了美国在约旦、科威特和巴林的军事基地，而美国则表示对海峡多个地点发动了长达六个小时的袭击。 在这些交流之前，特朗普警告伊朗，如果伊朗不重返谈判，它必须“表现得更好”，否则将面临进一步的军事行动。 伊朗最高谈判代表穆罕默德·巴格尔·加利巴夫对官方媒体表示，德黑兰“没有理由”遵守任何不利于该国的协议。 他补充说，伊朗的国家安全取决于维持他所说的霍尔木兹海峡的“伊朗安排”。 与此同时，特朗普周三赞扬伊朗释放了美国被拘留者德纳·卡拉里(Dena Karari)，他称德纳·卡拉里于2024年12月被“错误拘留”。 “美利坚合众国赞赏伊朗的这一善意姿态！”特朗普在《真相社会》上撰文。 然而，据伊朗官方媒体报道，伊朗司法部门周四表示，尚未从其监狱释放或交换任何美国囚犯。"
           },
           "reflection": {
@@ -213,101 +347,101 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-fashion-2026-jul-17-kitten-heel-flip-flops-winning-o",
+          "id": "www-theguardian-com-uk-news-2026-jul-17-jeffrey-donaldson-to-appeal-agai",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/fashion/2026/jul/17/kitten-heel-flip-flops-winning-over-flats-only-gen-z",
-          "image": "https://i.guim.co.uk/img/media/9461b6f09c26f58fcc3a8c4eb1983f81cf9b5cbb/1605_1196_4265_3412/master/4265.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5dfdd138a72721371f7a36dd186fc46f",
-          "publishedAt": "2026-07-17T17:20:52.000Z",
+          "link": "https://www.theguardian.com/uk-news/2026/jul/17/jeffrey-donaldson-to-appeal-against-conviction-for-child-sexual-offences",
+          "image": "https://i.guim.co.uk/img/media/6d1225a09cdbe504fbfa91acddd99452c902bf60/980_16_2767_2214/master/2767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47bb226f279af3831805d7ae91946ea4",
+          "publishedAt": "2026-07-17T18:32:03.000Z",
           "title": {
-            "en": "Feline good: why kitten heel flip-flops are winning over flats-only gen Z",
-            "zh": "猫科动物的优点：为什么猫跟人字拖能赢得只穿平底鞋的 Z 世代的青睐"
+            "en": "Jeffrey Donaldson to appeal against conviction for child sexual offences",
+            "zh": "杰弗里·唐纳森将对儿童性犯罪定罪提出上诉"
           },
           "summary": {
-            "en": "From Lily Collins at Wimbledon to the cast of Love Island, heels-averse cohort is stepping it up a notch Gen Z, the flats-only generation, has finally succumbed to the heel – albeit a tiny one. Long vocally anti-heel, the cohort who were born between 1997 and 2012 have famously...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Former Democratic Unionist party leader’s legal team has lodged documents with the court of appeal in Belfast Jeffrey Donaldson is to appeal against his conviction for rape and other sexual offences against two children. The former Democratic Unionist party (DUP) leader’s legal...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "From Lily Collins at Wimbledon to the cast of Love Island, heels-averse cohort is stepping it up a notch Gen Z, the flats-only generation, has finally succumbed to the heel – albeit a tiny one. Long vocally anti-heel, the cohort who were born between 1997 and 2012 have famously shunned millennials’ obsession with Jimmy Choos in favour of pancake-flat shoes, from the Adidas Samba “It-trainer” to the split-toe Margiela Tabi and so-called “French girl ballet flats” . But they now appear to be embracing a potential gateway heel, typically measuring in the region of 1.5in (3.8cm) or the height of a triple-A battery. Continue reading...",
-            "zh": "从温网的莉莉·柯林斯 (Lily Collins) 到《爱情岛》(Love Island) 的演员们，厌恶高跟鞋的人群正在将这一趋势提升到一个新的高度。 Z 世代，即只穿平底鞋的一代，终于屈服于高跟鞋了——尽管脚跟很小。众所周知，1997 年至 2012 年间出生的这群人长期反对高跟鞋，他们避开了千禧一代对 Jimmy Choos 的痴迷，转而青睐煎饼式平底鞋，从 Adidas Samba“It-trainer”到分趾 Margiela Tabi 和所谓的“法国女孩芭蕾平底鞋”。但他们现在似乎正在拥抱一个潜在的门户鞋跟，通常测量在 1.5 英寸（3.8 厘米）或 3A 电池的高度。继续阅读..."
+            "en": "Jeffrey Donaldson is to appeal against his conviction for rape and other sexual offences against two children.\n\nThe former Democratic Unionist party (DUP) leader’s legal team lodged documents with the court of appeal in Belfast on Friday, his solicitor, John McBurney, said.\n\nIf granted the appeal will add another chapter to a case that stunned Northern Ireland and engulfed the DUP in crisis.\n\nA jury at Newry crown court found Donaldson, 63, guilty last month of 18 sexual offences against two victims who were children at the time of the abuse more than 30 years ago.\n\nDonaldson denied all the accusations – one count of rape plus gross indecency and indecent assault – which spanned 1985 and 2008.\n\nHe has been held at Maghaberry prison in his former parliamentary constituency of Lagan Valley in County Down in advance of sentencing in September. The trial judge, Paul Ramsey, said a custodial sentence was inevitable and would be lengthy.\n\nDonaldson’s arrest in 2024, followed by the four-week trial and verdict, was a sensational downfall for an establishment figure who had dominated unionism and played a key role at Westminster during post-Brexit negotiations over Northern Ireland’s position in the UK.\n\nThe grounds for appeal potentially include an unsuccessful attempt by Donaldson’s lawyers to separate his criminal trial from the trial of the facts of his wife, Eleanor Donaldson, the BBC reported .\n\nDeemed unfit to stand trial on mental health grounds, the 60-year-old faced a trial of the facts, which can test evidence but not result in a criminal conviction, and was found to have aided and abetted her husband’s offending.\n\nSince the verdict senior DUP figures have gone public with claims of Donaldson being a drunken sex pest during his long political career – stories that contradicted his previous image as a God-fearing teetotaller in line with the legacy of the party’s late founder, Ian Paisley .\n\nThe party has set up a review to establish what people knew about the former leader’s behaviour. It will be led by Jim Gamble, a former senior police officer.\n\nThe Stormont assembly has also launched a review into alleged abuse or inappropriate behaviour by Donaldson during his tenure as an MLA from 2003 to 2010.\n\nIn the UK, the NSPCC offers support to children on 0800 1111, and adults concerned about a child on 0808 800 5000. The National Association for People Abused in Childhood ( Napac ) offers support for adult survivors on 0808 801 0331. In the US, call or text the Childhelp abuse hotline on 800-422-4453. In Australia, children, young adults, parents and teachers can contact the Kids Helpline on 1800 55 1800; adult survivors can seek help at Blue Knot Foundation on 1300 657 380. Other sources of help can be found at Child Helpline International",
+            "zh": "杰弗里·唐纳森将对他对两名儿童的强奸和其他性犯罪定罪提出上诉。 他的律师约翰·麦克伯尼 (John McBurney) 表示，这位前民主统一党 (DUP) 领导人的法律团队于周五向贝尔法斯特上诉法院提交了文件。 如果上诉获得批准，将为这起震惊北爱尔兰并使民主统一党陷入危机的案件增添新的篇章。 纽里皇家法院的陪审团裁定，63 岁的唐纳森上个月对两名受害者实施了 18 项性犯罪，而这两名受害者在 30 多年前性侵时还是儿童。 唐纳森否认了 1985 年至 2008 年的所有指控，包括一项强奸罪、严重猥亵罪和猥亵攻击罪。 在 9 月份宣判之前，他一直被关押在唐郡拉甘谷前议会选区的 Maghaberry 监狱。主审法官保罗·拉姆齐 (Paul Ramsey) 表示，监禁判决是不可避免的，而且时间会很长。 唐纳森于 2024 年被捕，随后进行了为期 4 周的审判和判决，对于一位主导工会主义并在英国脱欧后北爱尔兰在英国地位问题的威斯敏斯特谈判中发挥关键作用的建制派人物来说，这是一次轰动的失败。 据英国广播公司报道，上诉的理由可能包括唐纳森的律师试图将他的刑事审判与其妻子埃莉诺·唐纳森的事实审判分开，但没有成功。 这位 60 岁的女子因精神健康原因被认为不适合接受审判，因此接受了事实审判，该审判可以检验证据，但不能导致刑事定罪，并被发现协助和教唆其丈夫犯罪。 自判决结果公布以来，民主统一党的高级人士公开声称唐纳森在其漫长的政治生涯中是一个醉酒的性害虫，这些故事与他之前作为敬畏上帝的禁酒主义者的形象相矛盾，这与该党已故创始人伊恩·佩斯利的遗产是一致的。 该党已开展一项审查，以确定人们对这位前领导人行为的了解程度。该委员会将由前高级警官吉姆·甘布尔领导。 斯托蒙特议会还对唐纳森 2003 年至 2010 年担任议员期间涉嫌虐待或不当行为展开了审查。 在英国，NSPCC 致电 0800 1111 为儿童提供支持，关心儿童的成年人则致电 0808 800 5000。全国儿童受虐者协会 (Napac) 为成年幸存者提供支持，电话：0808 801 0331。在美国，请致电或发短信至 Childhelp 虐待热线 800-422-4453。在澳大利亚，儿童、青少年、家长和教师可以拨打儿童帮助热线 1800 55 1800；成年幸存者可以拨打 1300 657 380 向蓝结基金会寻求帮助。其他帮助来源可以通过国际儿童帮助热线找到"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-jul-17-markwayne-mullin-trump-baseless-",
+          "id": "www-dw-com-en-japan-revises-imperial-succession-rules-but-still-excludes",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/17/markwayne-mullin-trump-baseless-election-claims",
-          "image": "https://i.guim.co.uk/img/media/be5264e95bad7b1b73bb041a57e61cfb7d6ed72e/420_0_4180_3346/master/4180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cba28c01fb56ec48ea671a3802d395f4",
-          "publishedAt": "2026-07-17T17:12:08.000Z",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/japan-revises-imperial-succession-rules-but-still-excludes-women/a-78009893?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/78012689_6.jpg",
+          "publishedAt": "2026-07-17T18:15:00.000Z",
           "title": {
-            "en": "DHS secretary doubles down on Trump’s baseless 2020 election claims",
-            "zh": "国土安全部部长对特朗普毫无根据的 2020 年大选主张加大力度"
+            "en": "Japan revises imperial succession rules, but still excludes women",
+            "zh": "日本修改天皇继承规则，但仍将女性排除在外"
           },
           "summary": {
-            "en": "Markwayne Mullin at presser repeated many of Trump’s unverified claims from controversial primetime speech The US homeland security secretary, Markwayne Mullin, doubled down on Donald Trump’s unsubstantiated election claims on Friday amid his agency’s efforts to support the...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "Parliament has adjusted imperial succession laws in the country, seeking to ensure the royal line endures, but maintained the bar on women emperors. A popular princess, Aiko, would be next in line if sex was no issue.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Markwayne Mullin at presser repeated many of Trump’s unverified claims from controversial primetime speech The US homeland security secretary, Markwayne Mullin, doubled down on Donald Trump’s unsubstantiated election claims on Friday amid his agency’s efforts to support the president’s agenda. Trump used a memo compiled by the Department of Homeland Security (DHS) as the basis of many of his unsubstantiated claims on Thursday during his televised primetime address to the nation. Continue reading...",
-            "zh": "马克韦恩·穆林 (Markwayne Mullin) 在新闻发布会上重申了特朗普在有争议的黄金时段演讲中提出的许多未经证实的说法美国国土安全部部长马克韦恩·穆林 (Markwayne Mullin) 周五在其机构努力支持总统议程的同时，加大了唐纳德·特朗普未经证实的选举言论的力度。特朗普周四在黄金时段向全国发表电视讲话时，使用了国土安全部（DHS）编制的一份备忘录作为其许多未经证实的主张的基础。继续阅读..."
+            "en": "Parliament has adjusted imperial succession laws in the country, seeking to ensure the royal line endures, but maintained the bar on women emperors. A popular princess, Aiko, would be next in line if sex was no issue.\n\nJapan 's parliament on Friday altered the imperial succession laws, making a change designed to safeguard against the eventuality of the only young male prince left in the family line failing to have a son.&#160;\n\nThe imperial family household's numbers have famously been dwindling for decades, not least because of rules that exclude all female heirs and their children from the purely patrilineal line of succession .&#160;\n\nOpinion polls suggest that the compromise reached by parliament —&#160;while endorsed by Prime Minister Sanae Takaichi —&#160;is unpopular with much of the wider public, who would rather see Emperor Naruhito's daughter inherit the throne.&#160;\n\nNaruhito, a 66-year-old who acceded to the Chrysanthemum Throne in&#160;2019 , and his wife Empress Masako have one child, 24-year-old Princess Aiko. She cannot inherit the throne under the current system.&#160;\n\nNaruhito's younger brother&#160;Akishino (also known as Fumihito)&#160;is next in line to the throne, and himself 60 years old. He has two elder daughters and only one son, 19-year-old Prince Hisahito , who is the last male heir in the bloodline as it stands and the only man aged under 60.&#160;\n\nIf Hisahito, who is not yet married,&#160;did not have a son, the line would end.&#160;\n\nThe reforms to Japan's succession agreed on Friday make no change to the purely patrilineal nature of the line of succession.&#160;\n\nThis means that Princess Aiko and her children will remain ineligible to ever accede to the throne, even in the event of the male line ending.&#160;\n\nTwo other rules have been altered instead.&#160;Firstly, Japanese princesses will be permitted to marry \"commoner\" husbands in future without losing their royal status. This issue came to the fore in 2021 when Fumihito's daughter Princess Mako married her university sweetheart and gave up her royal titles .&#160;\n\nThe rule change that seeks to enable the possibility to recruit more men to the bloodline is more complex and contentious.&#160;\n\nThe bill allows the royal family to adopt distant male relatives aged over 15 back into the imperial family — as long as they are unmarried — and for their future sons to become eligible heirs to the throne.&#160;\n\nA total of 11 families left the imperial register after Japan's defeat in World War II, to alleviate the financial burden on the monarchy. Those eligible to be adopted back into the fold only share a common ancestry with Emperor Naruhito if tracked back to the 15th century, or more than 30 generations, according to the Imperial Household Agency.&#160;\n\nSanae...",
+            "zh": "议会调整了该国的帝国继承法，寻求确保王室血统得以延续，但保留了对女皇帝的限制。如果性不成问题，那么受欢迎的公主爱子将是下一个继承人。 日本议会周五修改了天皇继承法，旨在防止家族中唯一的年轻男性王子无法生育的情况。 几十年来，皇室成员的数量一直在减少，这尤其是因为规定将所有女性继承人及其子女排除在纯粹父系继承之外。 民意调查显示，议会达成的妥协方案虽然得到了首相高市早苗的支持，但不受广大公众的欢迎，他们宁愿看到德仁天皇的女儿继承王位。 66 岁的德仁于 2019 年继承了菊花王位，他和妻子雅子皇后育有一个孩子，即 24 岁的爱子公主。在现行制度下她无法继承王位。 德仁的弟弟秋筱（也称为文仁）是王位的第二顺位继承人，他本人今年 60 岁。他有两个大女儿，只有一个儿子，即 19 岁的久仁亲王，他是目前血统中最后一位男性继承人，也是唯一年龄在 60 岁以下的男性。 如果尚未结婚的久仁没有儿子，那么这条血统就会结束。 周五达成的日本继承改革并未改变继承顺序的纯粹父系性质。 这意味着即使男性血统结束，爱子公主和她的孩子们仍然没有资格继承王位。 另外两条规则已被更改。 首先，日本公主未来将被允许嫁给“平民”丈夫，而不会失去皇室身份。 2021 年，文仁的女儿真子公主与她的大学恋人结婚并放弃了王室头衔，这个问题就变得引人注目。 旨在招募更多男性加入血统的规则变更更加复杂和有争议。 该法案允许皇室将 15 岁以上的远房男性亲戚收养回皇室——只要他们未婚——并让他们未来的儿子成为合格的王位继承人。 日本在二战中战败后，为了减轻皇室的经济负担，共有11个家庭退出了皇籍。据日本宫内厅称，那些有资格被收养的人，如果追溯到 15 世纪，或者超过 30 代，则只能与德仁天皇有共同的血统。 早苗..."
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-business-2026-jul-17-ribena-owner-invests-uk-blackcu",
+          "id": "www-bbc-co-uk-news-articles-cwyjv3815yxo-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/business/2026/jul/17/ribena-owner-invests-uk-blackcurrant-bushes-extreme-weather",
-          "image": "https://i.guim.co.uk/img/media/c555720b6f391d89092a382f22094c83feada3d6/0_0_4412_3529/master/4412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16c829c44df403f6fdb89d6f08251374",
-          "publishedAt": "2026-07-17T17:08:07.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7777/live/efb32c20-81fa-11f1-a927-670d17f8e943.jpg",
+          "publishedAt": "2026-07-17T18:12:54.000Z",
           "title": {
-            "en": "Berry tough: Ribena seeks to make hardier blackcurrants to beat extreme weather",
-            "zh": "浆果坚韧：Ribena 寻求生产更耐寒的黑醋栗来抵御极端天气"
+            "en": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+            "zh": "墨西哥海岸发生里氏7.3级地震"
           },
           "summary": {
-            "en": "£200,000 investment comes after harvests in Britain hit by wet winter, spring frost and hail, then heatwaves The owner of Ribena is to invest £200,000 in helping blackcurrant bushes withstand stress after extreme weather put a squeeze on this year’s UK harvest. That harvest is...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+            "en": "The US Tsunami Warning Center issued a warning and has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "£200,000 investment comes after harvests in Britain hit by wet winter, spring frost and hail, then heatwaves The owner of Ribena is to invest £200,000 in helping blackcurrant bushes withstand stress after extreme weather put a squeeze on this year’s UK harvest. That harvest is now under way in the berry’s main growing regions including East Anglia, Gloucestershire, Herefordshire, Kent and Scotland. It is expected to be about 10% below the average of 10,000 tonnes, as the climate crisis drives extreme weather across Britain and elsewhere. Continue reading...",
-            "zh": "英国的收成遭受了潮湿的冬季、春季霜冻和冰雹，然后是热浪的影响，因此投资了 20 万英镑。在极端天气影响了今年英国的收成之后，Ribena 的所有者将投资 20 万英镑帮助黑加仑灌木承受压力。该浆果的主要种植区目前正在采收，包括东安格利亚、格洛斯特郡、赫里福德郡、肯特郡和苏格兰。由于气候危机导致英国和其他地方出现极端天气，预计产量将比平均水平 10,000 吨减少约 10%。继续阅读..."
+            "en": "A powerful magnitude 7.3 earthquake struck off the coast of southern Mexico on Friday, triggering a tsunami warning for parts of the Pacific.\n\nNo fatalities or significant damage have been reported in Mexico or Guatemala from the quake, which was also felt in El Salvador.\n\nMexico's navy secretary Admiral Raymundo Morales told a press conference that there was \"no serious impact\", but that people were being advised to stay away from beaches.\n\nThe US Tsunami Warning System had warned of possible \" hazardous tsunami waves\" along the nearby coasts of Mexico and Guatemala. It later recorded waves of 0.3m (1.1 feet) above tide level in Puerto Madero and Chiapas in Mexico.\n\nSeveral hours after the initial warning was issued, the centre said the threat had passed but advised people in affected areas to \"remain observant and exercise normal caution near the sea\".\n\nThe quake, which struck near the fishing town of Puerto Madero in Mexico at 08:49 local time (14:49 GMT) on Friday, had a depth of 15.2 km (9 miles), according to the United States Geological Survey (USGS).\n\nGovernor Salomón Jara Cruz, of the southern Mexican state Oaxaca, said the quake was felt with \"moderate intensity\" but no significant damage had been reported.\n\nEduardo Ramírez, governor of the state of Chiapas closest to the epicentre, also said there had been no serious impact, but added he had instructed his cabinet to suspend administrative activities and urged the private sector to do the same.\n\nIn Guatemala and El Salvador, the tremor shook buildings, triggering evacuations and causing some people to run from their homes, Reuters news agency reported.\n\nGuatemala's President Bernardo Arévalo said the country's emergency management agency had been deployed in response to a magnitude 5.6 earthquake with its epicenter in Quetzaltenango. No fatalities have been recorded so far, he added.\n\n\"I call on the population to remain calm and to follow the recommendations,\" he said on X.\n\nThe U.S. National Oceanic and Atmospheric Administration (NOAA), which operates the tsunami warning center, forecast waves of less than 0.3m above tide level along the coasts of El Salvador, Colombia, Costa Rice, Ecuador, Nicaragua, Panama, Peru and Honduras.\n\nA tsunami is a series of waves, with times between crests ranging from five minutes to an hour, that can persist for many hours, according to the agency. In this case, the waves lasted for 12 minutes in Puerto Madero and 28 minutes in Chiapas.\n\n\"Persons caught in the water of a tsunami may drown, be crushed by debris in the water, or be swept out to sea,\" NOAA said.\n\nIt added that government agencies in the threatened coastal areas should instruct populations at risk, and advised people located in those areas to \"stay alert for information and follow...",
+            "zh": "周五，墨西哥南部海岸发生7.3级强烈地震，引发太平洋部分地区海啸警报。 墨西哥和危地马拉尚未收到地震造成人员死亡或重大损失的报告，萨尔瓦多也有震感。 墨西哥海军部长雷蒙多·莫拉莱斯上将在新闻发布会上表示，“没有造成严重影响”，但建议人们远离海滩。 美国海啸预警系统警告墨西哥和危地马拉附近海岸可能出现“危险海啸”。随后在墨西哥马德罗港和恰帕斯州记录到了高出潮位 0.3m（1.1 英尺）的波浪。 在发出初步警告几个小时后，该中心表示威胁已经过去，但建议受影响地区的人们“保持观察并在海边保持正常的警惕”。 据美国地质调查局 (USGS) 称，当地时间周五 08:49（格林尼治标准时间 14:49），地震发生在墨西哥马德罗港渔镇附近，震源深度为 15.2 公里（9 英里）。 墨西哥南部瓦哈卡州州长萨洛蒙·哈拉·克鲁斯表示，此次地震震感“中等强度”，但尚未报告造成重大损失。 距离震中最近的恰帕斯州州长爱德华多·拉米雷斯也表示，没有造成严重影响，但他补充说，他已指示内阁暂停行政活动，并敦促私营部门也这样做。 据路透社报道，在危地马拉和萨尔瓦多，地震震动了建筑物，引发疏散并导致一些人逃离家园。 危地马拉总统贝尔纳多·阿雷瓦洛表示，该国应急管理机构已部署应对震中位于克萨尔特南戈的 5.6 级地震。他补充说，到目前为止尚未有死亡记录。 他在 X 上表示：“我呼吁民众保持冷静并遵循建议。” 负责运营海啸预警中心的美国国家海洋和大气管理局 (NOAA) 预测，萨尔瓦多、哥伦比亚、哥斯达黎加、厄瓜多尔、尼加拉瓜、巴拿马、秘鲁和洪都拉斯沿岸的波浪将低于潮位 0.3m。 该机构表示，海啸是一系列波浪，波峰之间的时间从五分钟到一个小时不等，可以持续数小时。此次海浪在马德罗港持续了 12 分钟，在恰帕斯州持续了 28 分钟。 美国国家海洋和大气管理局表示：“被海啸淹没的人可能会被淹死、被水中的碎片压碎，或者被卷入大海。” 它补充说，受威胁沿海地区的政府机构应指导处于危险中的人群，并建议这些地区的人们“对信息保持警惕并遵循……"
           },
           "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
           },
           "translationState": "fallback"
         },
@@ -378,73 +512,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-cjd4kvxpd3do-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1b8/live/e08168e0-81e4-11f1-bee8-53ce494e1abc.jpg",
-          "publishedAt": "2026-07-17T16:44:22.000Z",
-          "title": {
-            "en": "China hits out at British Steel nationalisation",
-            "zh": "中国抨击英国钢铁国有化"
-          },
-          "summary": {
-            "en": "The UK government announced the nationalization of British Steel, stating the move was to protect a crucial national capability. China subsequently expressed strong disapproval of this decision.",
-            "zh": "英国政府宣布将英国钢铁公司收归国有，称此举旨在维护“一项重要的国家能力”。中国随后对此决定表示强烈不满。"
-          },
-          "body": {
-            "en": "China has hit out at the nationalisation of British Steel, saying it \"firmly opposes and is strongly dissatisfied with the British government's decision\".\n\nOn Thursday, the UK government said that taking the loss-making firm into public hands would protect jobs and safeguard a \"vital national capability\".\n\nThe UK took control of British Steel's operations in Scunthorpe last year, though it was still owned by China's Jingye Group, limiting the government's ability to steer its future.\n\nChina's commerce ministry said on Friday that the moves \"seriously infringed upon Jingye's legitimate rights and interests and severely undermined the confidence of Chinese companies investing in the UK\".\n\nIt also called on Britain to \"faithfully fulfil\" its obligations under the China–UK Bilateral Investment Treaty.\n\n\"Disregarding Jingye's significant contribution to the UK economy and society, the British side forcibly took control of the company in the name of national security,\" the ministry said.\n\nThe statement added that Beijing would monitor developments closely and support Chinese firms to protect their rights, but did not specify what protecting Chinese companies' rights might involve.\n\nThe decision to nationalise British Steel threatens to strain the relationship between London and Beijing just as Andy Burnham is set to enter Downing Street on Monday.\n\nThe incoming prime minister will have to weigh his approach to the issue with the economic benefits of ties with the world's second largest economy.\n\nThe China-UK Bilateral Investment Treaty is a legally binding agreement that was signed in 1986. It was designed to promote and protect investments between the two countries.\n\nOn Friday, a UK government spokesperson said it had held negotiations with Jingye but it \"wasn't possible to reach an agreement that represented value to the taxpayer\".\n\n\"We highly value our relationship with China and remain open to Chinese investment,\" the spokesperson added.\n\nThe nationalisation came after Parliament on Wednesday passed legislation allowing the government to bring the steel industry into public ownership under circumstances where it met a public interest test.\n\nJingye is seeking compensation, having previously said the business was losing £700,000 a day. The BBC has been unable to get a response from Jingye itself to Thursday's announcement.\n\nSmall Business Minister Blair McDougall told the House of Commons on Thursday that the government will appoint an independent valuer in the autumn \"to make a judgment on any compensation that is due, and that could be nil\".\n\nBy taking British Steel into public ownership the government now has the power and freedom to decide on the future of the plant, while keeping the blast furnaces going.\n\nIt is unlikely the government will want to...",
-            "zh": "中方对英国钢铁公司国有化予以猛烈抨击，称“坚决反对，对英国政府的决定表示强烈不满”。 周四，英国政府表示，将这家亏损公司纳入公众手中将保护就业并维护“重要的国家能力”。 英国去年控制了英国钢铁公司在斯肯索普的业务，尽管该公司仍由中国敬业集团所有，这限制了政府掌控其未来的能力。 中国商务部周五表示，此举“严重侵犯敬业公司的合法权益，严重损害中国企业对英国投资的信心”。 它还呼吁英国“忠实履行”中英双边投资条约规定的义务。 英方无视敬业公司对英国经济社会的重大贡献，以国家安全为名，强行控制敬业公司。 声明补充说，北京将密切关注事态发展并支持中国企业保护自身权利，但没有具体说明保护中国企业权利可能涉及哪些内容。 就在安迪·伯纳姆将于周一就任英国首相之际，英国钢铁公司国有化的决定可能会导致伦敦和北京之间的关系紧张。 即将上任的总理必须权衡自己处理这一问题的方法与与世界第二大经济体建立联系的经济利益。 《中英双边投资条约》是1986年签署的具有法律约束力的协议，旨在促进和保护两国之间的投资。 周三，议会通过了一项立法，允许政府在满足公共利益要求的情况下将钢铁行业纳入公有制。 敬业正在寻求赔偿，此前曾表示该业务每天损失 70 万英镑。 BBC 尚未得到敬业本身对周四的公告的回应。 通过将英国钢铁公司纳入公有制，政府现在拥有决定工厂未来的权力和自由，同时保持高炉的运转。 从长远来看，政府不太可能继续经营该业务，因为每天的成本超过一百万英镑。 3 月份，国家审计办公室表示，斯肯索普钢铁厂每天给政府造成的损失约为 130 万英镑。 商务大臣彼得·凯尔告诉英国广播公司，政府需要“在不久的将来”承担运营成本。"
-          },
-          "reflection": {
-            "en": "International disagreements, like the one between China and the UK over nationalization, often appear to be about policy or economics. Yet, Scripture reminds us that deeper forces can influence human interactions and national decisions. This perspective encourages us to look beyond surface-level disputes and pray for wisdom and understanding in global...",
-            "zh": "国际间的纷争，例如中国和英国在国有化问题上的分歧，表面上常是政策或经济议题。然而，圣经提醒我们，更深层的力量可能影响着人类的互动和国家的决策。这种视角鼓励我们超越表面的争执，为全球事务中的智慧和理解祷告。"
-          },
-          "verse": {
-            "reference": "Ephesians 6:12",
-            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
-            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
-            "themeEn": "Not against flesh and blood",
-            "themeZh": "并非与血气争战"
-          },
-          "aiVerseId": "eph_6_12",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c9d8ylw60e9o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e69/live/819e1710-81f8-11f1-926f-c90d1bcfbc84.jpg",
-          "publishedAt": "2026-07-17T16:20:45.000Z",
-          "title": {
-            "en": "Air conditioner sparked deadly blaze at children's orphanage - police",
-            "zh": "儿童孤儿院空调引发致命火灾 - 警方"
-          },
-          "summary": {
-            "en": "Eleven people, including children, died in the fire that also injured 19 others.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "A fire that killed 11 people at an orphanage in Algeria's capital was caused by an electrical spark from a faulty air-conditioning unit, police in the North African country have said.\n\nAmid the summer heat, the air conditioner had been running continuously before the blaze broke out in the early hours of Thursday morning, according to forensic investigators.\n\nThe civil protection department has not specified the ages of those killed or the 19 injured, but in a social media post Algeria's President Abdelmajid Tebboune said children were among the dead.\n\nThe fire service battled the flames at the children's care home in Mohammadia, an eastern suburb of Algiers, for at least three hours.\n\nA carer working at the orphanage was amongst those who died, according to the AFP news agency quoting a police report.\n\nPrime Minister Sifi Ghrieb has visited survivors at two hospitals, where they are being treated for burns, smoke inhalation and shock.\n\nAlgeria is experiencing an intense summer heatwave with firefighters also battling several wildfires across the north of the country.\n\n\"May God have mercy on them,\" the civil defence unit said , external as it announced the death toll on Thursday, several hours after the blaze began.\n\nPresident Tebboune said in a statement: \"It is with a heart resigned to the will of God that I learned of the death of children and the injury of others.\"\n\nThe authorities said five children with reduced mobility had been safely rescued from the blaze.\n\nThe fire has prompted opposition figures, critical media and social media users to demand answers over possible negligence.\n\nThe opposition Jil Jadid party called for a transparent investigation into the incident and legal accountability for any negligence or safety failures.\n\nIt also demanded a nationwide review of fire safety standards at orphanages, care homes, hospitals and schools.\n\nJournalist Akram Kharief described the fire as a \"national tragedy\", called for fire safety audits at all public institutions and questioned why Algerians could not live \"a normal life in a normal country\".\n\nComments on the social media pages of several news outlets wanted to know who had been supervising the children overnight, while some called for resignations.\n\nMeanwhile, Le Matin d'Algérie - a website critical of the government - noted the absence of the mayor and provincial governor during the initial rescue operation.\n\nPro-government news site Algerie Patriotique said the country should establish the truth \"without complacency\" and determine whether the deaths could have been prevented.",
-            "zh": "北非国家警方称，阿尔及利亚首都一家孤儿院因空调故障产生的电火花引发火灾，造成 11 人死亡。 据法医调查人员称，在周四凌晨起火之前，在炎热的夏季，空调一直在连续运行。 民防部门没有具体说明遇难者或 19 名受伤者的年龄，但阿尔及利亚总统阿卜杜勒马吉德·特布恩 (Abdelmajid Tebboune) 在社交媒体上发帖称，死者中有儿童。 消防部门在阿尔及尔东郊穆罕默迪亚儿童疗养院与大火搏斗了至少三个小时。 据法新社援引警方报告称，死者中有一名在孤儿院工作的护理人员。 总理西菲·格里布探望了两家医院的幸存者，他们正在医院接受烧伤、吸入烟雾和休克的治疗。 阿尔及利亚正在经历强烈的夏季热浪，消防队员也在该国北部与多场野火作斗争。 “愿上帝怜悯他们，”周四，在火灾发生几个小时后，民防部队在对外宣布死亡人数时说道。 特布恩总统在一份声明中表示：“我怀着一颗顺从上帝旨意的心得知儿童死亡和其他人受伤的消息。” 当局表示，五名行动不便的儿童已从大火中安全获救。 这场火灾促使反对派人士、批评媒体和社交媒体用户要求对可能存在的疏忽作出答复。 反对党吉尔贾迪德党呼吁对这一事件进行透明调查，并对任何疏忽或安全失误追究法律责任。 它还要求在全国范围内审查孤儿院、疗养院、医院和学校的消防安全标准。 记者阿克拉姆·哈利夫将这场火灾描述为“国家悲剧”，呼吁对所有公共机构进行消防安全审计，并质疑为什么阿尔及利亚人无法“在正常国家过上正常生活”。 多家新闻媒体的社交媒体页面上的评论想知道谁在夜间监督孩子们，还有一些人呼吁辞职。 与此同时，批评政府的网站《阿尔及利亚晨报》指出，在最初的救援行动中，市长和省长缺席。 亲政府新闻网站阿尔及利亚爱国者表示，该国应该“毫不自满”地查明真相，并确定死亡是否可以避免。"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-dw-com-en-uganda-halts-school-trips-as-bus-crash-kills-20-kids-a-780",
           "section": "world",
           "source": "DW World",
@@ -479,40 +546,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-c3v0xe5elzyo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7e/live/26ca8eb0-81ec-11f1-b7bc-5dd9ae7a9918.jpg",
-          "publishedAt": "2026-07-17T14:56:26.000Z",
-          "title": {
-            "en": "At least two dead in Texas floods ravaging same area where campers died",
-            "zh": "德克萨斯州洪水再次肆虐去年受灾地区，至少两人死亡"
-          },
-          "summary": {
-            "en": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
-            "zh": "去年曾遭受洪水重创并导致130多人死亡的同一地区，再次受到洪灾袭击。"
-          },
-          "body": {
-            "en": "At least two people have died in flooding across central Texas - the same area that saw more than 130 deaths in flash floods last summer.\n\n\"Large and deadly\" flooding from the Guadalupe River is expected to ravage the region, following days of torrential rain, the National Weather Service (NWS) in San Antonio reported. Last year's flash floods originated from the same river.\n\nBoth victims were killed in vehicles swept away by the currents. Emergency responders have saved at least 230 people from the floods.\n\nMore than 130 people died in South Texas floods last July, including 25 children and two counsellors at Camp Mystic, an all-girls camp near Kerrville, Texas, located along the river.\n\nIn a Thursday afternoon update, Texas Governor Greg Abbott announced at least two people have died in the torrents.\n\nOne man was swept away in his camper van, and a woman was caught in the current as she drove her car down flooded roads.\n\n\"Through the weekend, we are expecting 30 inches of total rain,\" Abbott wrote in a social media post. \"This is higher than last year's precipitation.\"\n\nHe added that there have been about 230 rescues. Rescuers used boats and helicopters, and waded through flooded streets to help those trapped in the water.\n\nOne moment caught on body cam footage showed a rescuer saving a family of three and their dogs, who were sheltering in their destroyed home. A girl was airlifted to safety, with the rescuer telling the rest of the family that another helicopter was on the way.\n\nThe NWS has offered constant updates, noting the urgent threat and urging for people to get to safety. Flash flood warning remain in place in several areas across the region.\n\n\"CATASTROPHIC flooding is occurring. Move to higher ground now! Guadalupe River is rapidly rising and will continue!\" The San Antonio NWS posted on X on Thursday.\n\nThe Guadalupe River surged 32ft (975cm) in a four-hour span, according to the Texas Tribune.\n\nThe flooding has impacted several counties in Texas, including Uvalde, Kerr and Kendall.\n\nVideo from the area shows cars slowly driving through flooded roads, with the brown water reaching up to their windows. A group of deer drifted with the current, stretching to hold their heads above water.\n\nRescuers lifted small children out of the rising waters, carrying them in their arms as they waded back to dry land.\n\nThe rain continued to splatter cars parked in a residential area, half-submerged in a brown soup.\n\nCarter Lopez, 30, lives in Boerne, Texas, one of the areas affected by the floods. He helped pull people out of the water near his apartment, he told BBC News.\n\nLopez's downstairs neighbours had nearly four inches of water flood their home after Thursday's storm. They had to take shelter in Lopez apartment, he said.\n\nLast year's floods...",
-            "zh": "德克萨斯州中部地区至少有两人在洪水中丧生，去年夏天该地区的山洪暴发导致 130 多人死亡。 圣安东尼奥国家气象局（NWS）报告称，在连续几天的暴雨之后，瓜达卢佩河的“大规模而致命”的洪水预计将席卷该地区。去年的山洪暴发源于同一条河流。 两名受害者均在被水流冲走的车辆中身亡。紧急救援人员已从洪水中救出了至少 230 人。 去年 7 月，德克萨斯州南部的洪水造成 130 多人死亡，其中包括米斯蒂克营 (Camp Mystic) 的 25 名儿童和两名辅导员。米斯蒂克营是德克萨斯州克尔维尔 (Kerrville) 附近沿河的一处全女孩营地。 在周四下午的更新中，德克萨斯州州长格雷格·阿博特宣布至少两人在洪流中丧生。 一名男子在露营车中被冲走，一名女子在被洪水淹没的道路上驾驶汽车时被水流卷入。 阿博特在社交媒体帖子中写道：“整个周末，我们预计总降雨量将达到 30 英寸。” “这比去年的降水量要高。” 他补充说，已有约230人获救。救援人员使用船只和直升机，涉水穿过被洪水淹没的街道来帮助被困在水中的人。 随身摄像机拍摄到的一个瞬间显示，一名救援人员拯救了一个三口之家和他们的狗，他们正在被毁坏的家中避难。一名女孩被空运到安全地带，救援人员告诉家人其他人，另一架直升机正在路上。 国家气象局不断提供最新消息，指出紧急威胁并敦促人们前往安全地带。该地区多个地区仍然发出山洪警报。 “灾难性的洪水正在发生。现在转移到地势较高的地方！瓜达卢佩河正在迅速上涨，并将继续上涨！”圣安东尼奥国家气象局周四在 X 上发布了这一消息。 据《德克萨斯论坛报》报道，瓜达卢佩河在 4 小时内上涨了 32 英尺（975 厘米）。 洪水影响了德克萨斯州的几个县，包括尤瓦尔迪、克尔和肯德尔。 该地区的视频显示，汽车缓慢行驶在被洪水淹没的道路上，棕色的水漫到了车窗。一群鹿随水流漂流，伸展身体将头露出水面。 救援人员将小孩子从上涨的海水中救出，并在他们涉水返回陆地时将他们抱在怀里。 雨水继续溅落在停在住宅区的汽车上，半淹没在棕色的汤里。 30 岁的卡特·洛佩兹 (Carter Lopez) 住在德克萨斯州博恩 (Boerne)，这里是受洪水影响的地区之一。他告诉英国广播公司新闻，他帮助将他公寓附近的人们从水中救了出来。 周四的暴风雨过后，洛佩兹楼下的邻居家被淹没了近四英寸深的水。他说，他们不得不在洛佩兹的公寓避难。 去年的洪水..."
-          },
-          "reflection": {
-            "en": "The repeated devastation of floods in the same region reminds us of the profound suffering within creation itself. In these moments of recurring hardship, we are called to lament with a world that groans, yet also to hold onto the hope of ultimate renewal.",
-            "zh": "同一地区反复遭受洪灾的破坏，提醒我们受造界本身所承受的深重苦难。在这些反复出现的艰难时刻，我们被呼召与这呻吟的世界一同哀叹，同时也要持守最终更新的盼望。"
-          },
-          "verse": {
-            "reference": "Romans 8:22",
-            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
-            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
-            "themeEn": "Creation's groan",
-            "themeZh": "受造叹息"
-          },
-          "aiVerseId": "rom_8_22",
-          "translationState": "localized"
-        },
-        {
           "id": "www-dw-com-en-sao-tome-and-principe-balances-global-powers-a-77884067-ma",
           "section": "world",
           "source": "DW World",
@@ -544,40 +577,6 @@
             "themeZh": "求神赐智慧"
           },
           "aiVerseId": "jas_1_5",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-meet-andy-burnham-britain-s-next-prime-minister-a-77664543",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/meet-andy-burnham-britain-s-next-prime-minister/a-77664543?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77645769_6.jpg",
-          "publishedAt": "2026-07-17T11:51:00.000Z",
-          "title": {
-            "en": "Meet Andy Burnham, Britain's next prime minister",
-            "zh": "认识安迪·伯纳姆，英国下一任首相"
-          },
-          "summary": {
-            "en": "Andy Burnham was confirmed as Keir Starmer's successor as British prime minister. The former Manchester mayor became a leading figure in the Labour Party and one of the UK's most popular politicians.",
-            "zh": "安迪·伯纳姆被确认为凯尔·斯塔默的继任者，成为英国首相。这位前曼彻斯特市长已成为工党的重要人物，也是英国最受欢迎的政治家之一。"
-          },
-          "body": {
-            "en": "Andy Burnham was confirmed as Keir Starmer's successor as British prime minister. The former Manchester mayor became a leading figure in the Labour Party and one of the UK's most popular politicians.\n\nNearly a month after Keir&#160;Starmer 's resignation , former Manchester Mayor Andy Burnham , one of the&#160; most popular politicians in Britain , will become the country's seventh prime minister&#160;in 10 years.\n\nThe move was made possible after Burnham won a byelection in the Makerfield constituency by a wide margin. He was then appointed as the leader of the ruling Labour Party on Friday, confirming him as Starmer's successor.\n\n\"Everyone can feel the country isn't where it should be,\" 56-year-old Burnham said after his Makerfield election victory, in remarks that already sounded distinctly prime ministerial. \"From here on I will give everything I have got to make it so. To ensure the name Makerfield is forever synonymous with bringing about the change this country needs, bringing back something we've lost ―&#160;hope ―&#160;hope for the future.\"\n\nBurnham is seen as a leading figure on Labour's moderate-left wing and has decades of experience in both national and regional politics. He first entered Parliament in 2001. Under Prime Minister Tony Blair , he served as a junior minister at the Home Office before Blair's successor, Gordon Brown, appointed him to roles at the Finance Ministry, the Department for Culture, and later as health secretary.\n\nBurnham even ran for the Labour leadership twice, in 2010 and 2015. In 2017, he left Parliament to become mayor of Greater Manchester, a region of around 2.8 million people in northern&#160;England. He has since won reelection twice, most recently getting nearly two-thirds of the vote.\n\nAmong Burnham's most notable achievements in Manchester is the expansion of affordable public transportation. Housing and health care have also been central priorities throughout his time as mayor. He is critical of Brexit, the UK's exit from the European Union in 2020, and describes himself as an advocate of \"pro-business socialism.\"\n\nDuring the COVID pandemic, Burnham locked horns with then-Prime Minister Boris Johnson, demanding greater financial support for businesses and workers affected by lockdown restrictions. The confrontation&#160;and his general success in Manchester&#160;earned him the nickname \"King of the North.\"\n\nIn the past few years, Burnham's main criticism of his Labour Party colleague Keir Starmer has focused on the prime minister's cuts to welfare spending. Which policies Burnham would pursue should he succeed as prime minister has&#160;so far largely remained undefined.\n\nBurnham is deeply rooted in the former mining and industrial communities of northern England. Born in 1970 in Aintree, near...",
-            "zh": "安迪·伯纳姆被确认为凯尔·斯塔默的继任者，担任英国首相。这位前曼彻斯特市长成为工党的领导人物和英国最受欢迎的政治家之一。 凯尔·斯塔默辞职近一个月后，英国最受欢迎的政治家之一、曼彻斯特前市长安迪·伯纳姆将成为该国十年内第七位首相。 伯纳姆以大幅优势赢得梅克菲尔德选区补选后，此举成为可能。周五，他被任命为执政党工党领袖，确认他为斯塔默的继任者。 “每个人都能感觉到这个国家没有达到应有的水平，”56 岁的伯纳姆在梅克菲尔德选举获胜后说道，他的言论听起来已经明显是首相的风格。 “从现在开始，我将竭尽全力实现这一目标。确保 Makerfield 这个名字永远成为这个国家所需变革的代名词，带回我们失去的东西——希望——对未来的希望。” 伯纳姆被视为工党温和左翼的领军人物，在国家和地区政治方面拥有数十年的经验。他于 2001 年首次进入议会。在托尼·布莱尔 (Tony Blair) 首相任内，他曾担任内政部副部长，之后布莱尔的继任者戈登·布朗 (Gordon Brown) 任命他在财政部、文化部任职，后来又担任卫生部长。 伯纳姆甚至于 2010 年和 2015 年两次竞选工党领袖。2017 年，他离开议会，成为大曼彻斯特市长，该地区位于英格兰北部，约有 280 万人口。此后他两次赢得连任，最近一次获得了近三分之二的选票。 伯纳姆在曼彻斯特最显着的成就之一是扩大负担得起的公共交通。住房和医疗保健也是他担任市长期间的核心优先事项。他对英国脱欧（英国将于 2020 年退出欧盟）持批评态度，并将自己描述为“亲商业社会主义”的倡导者。 新冠疫情期间，伯纳姆与时任首相鲍里斯·约翰逊发生争执，要求为受封锁限制影响的企业和工人提供更多财政支持。这次对抗以及他在曼彻斯特的普遍成功为他赢得了“北方之王”的绰号。 过去几年，伯纳姆对其工党同事凯尔·斯塔默的主要批评集中在首相削减福利支出上。如果伯纳姆成功担任总理，他将采取哪些政策，到目前为止基本上还没有确定。 伯纳姆深深扎根于英格兰北部的前采矿和工业社区。 1970 年出生于安特里 (Aintree)，靠近..."
-          },
-          "reflection": {
-            "en": "As a new leader steps into the role of prime minister, the hopes and expectations of a nation often rest on their shoulders. Proverbs 29:2 reminds us that the character of those in authority profoundly impacts the well-being of the people. May Yahweh grant wisdom and integrity to all who govern, that their leadership may bring joy and flourishing to the...",
-            "zh": "当一位新领袖担任首相一职时，一个国家的希望和期待常常寄托在他们身上。箴言29:2提醒我们，掌权者的品格深刻影响着人民的福祉。愿雅伟赐予所有执政者智慧和正直，使他们的领导能为国家带来喜乐和繁荣。"
-          },
-          "verse": {
-            "reference": "Proverbs 29:2",
-            "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
-            "textZh": "义人增多，民就喜乐；恶人掌权，民就叹息。",
-            "themeEn": "Righteous vs wicked rulers",
-            "themeZh": "义人执政与恶人当道"
-          },
-          "aiVerseId": "prov_29_2",
           "translationState": "localized"
         },
         {
@@ -741,7 +740,7 @@
           "sourceUrl": "https://www.theguardian.com/world/china/rss",
           "link": "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
           "image": "https://i.guim.co.uk/img/media/db9f554322370756757b1690cd7e7a7a743a7ce0/347_0_4183_3348/master/4183.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d828f53516a3534adf9b5b297a537756",
-          "publishedAt": "2026-07-17T17:58:23.000Z",
+          "publishedAt": "2026-07-17T19:40:00.000Z",
           "title": {
             "en": "DHS chief threatens states that refuse Trump’s election demands after president’s widely condemned speech – live",
             "zh": "国土安全部部长威胁拒绝特朗普选举要求的州，此前总统发表了广受谴责的讲话"
@@ -938,6 +937,39 @@
           "translationState": "localized"
         },
         {
+          "id": "www-theguardian-com-us-news-2026-jul-16-trump-tv-address-thursday",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday",
+          "image": "https://i.guim.co.uk/img/media/0ac1de21f05f41b13224e1f58b48664934a0d423/790_0_6197_4959/master/6197.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=847c927454b286f974d08a539f84aa47",
+          "publishedAt": "2026-07-17T07:51:56.000Z",
+          "title": {
+            "en": "Trump makes unverified claims of China ‘election meddling’ as critics fear ploy to challenge midterm results",
+            "zh": "特朗普未经证实声称中国“干预选举”，批评者担心其采取挑战中期结果的策略"
+          },
+          "summary": {
+            "en": "Opponents say president’s address about 2020 election loss is attempt to sow confusion ahead of midterms that could deliver big losses for Republicans Donald Trump accused China of interfering with the 2020 election in a primetime televised address that laid bare his continuing...",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Opponents say president’s address about 2020 election loss is attempt to sow confusion ahead of midterms that could deliver big losses for Republicans Donald Trump accused China of interfering with the 2020 election in a primetime televised address that laid bare his continuing obsession with his defeat to Joe Biden, but which opponents warned was a smokescreen for him to meddle in the forthcoming congressional midterms. In a 25-minute speech on Thursday that had been hyped by Trump himself, the US president cast extraordinary doubts on the integrity of the US electoral process, saying it was “catastrophically” short of standards of fairness and trust, and vulnerable to trespassing by foreign powers. Continue reading...",
+            "zh": "反对者表示，总统关于 2020 年选举失利的讲话试图在中期选举前制造混乱，这可能会给共和党带来巨大损失。唐纳德·特朗普在黄金时段电视讲话中指责中国干扰 2020 年选举，暴露了他对输给乔·拜登的持续困扰，但反对者警告说，这是他干预即将到来的国会中期选举的烟幕弹。在特朗普本人炒作的周四长达25分钟的演讲中，这位美国总统对美国选举程序的完整性提出了极大的质疑，称其“严重”缺乏公平和信任标准，并且容易受到外国势力的入侵。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-dw-com-en-xi-jinping-calls-for-international-cooperation-in-ai-devel",
           "section": "china",
           "source": "DW Asia China Focus",
@@ -1037,40 +1069,6 @@
             "themeZh": "待寄居者如本族"
           },
           "aiVerseId": "lev_19_33",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-hong-kong-police-raid-two-bookstores-arrest-five-people-a-",
-          "section": "china",
-          "source": "DW Asia China Focus",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
-          "link": "https://www.dw.com/en/hong-kong-police-raid-two-bookstores-arrest-five-people/a-77976983?maca=en-rss-en-asia-5133-rdf",
-          "image": "https://static.dw.com/image/77976806_6.jpg",
-          "publishedAt": "2026-07-16T04:13:00.000Z",
-          "title": {
-            "en": "Hong Kong police raid two bookstores, arrest five people",
-            "zh": "香港警方突袭两家书店，逮捕五人"
-          },
-          "summary": {
-            "en": "Hong Kong police have arrested five booksellers and raided two independent bookstores, citing the sale of allegedly \"seditious\" publications. This action marks the latest step in an ongoing crackdown on independent bookshops in the city.",
-            "zh": "香港警方逮捕了五名书商，并搜查了两家独立书店，理由是这些书店涉嫌销售“煽动性”出版物。此举是香港持续打击独立书店的最新行动。"
-          },
-          "body": {
-            "en": "Five booksellers have been arrested in Hong Kong over the sale of allegedly \"seditious\" publications. Two bookstores have become the latest target in a continued crackdown on independent bookshops\n\nPolice in Hong Kong carried out raids on two bookshops, arresting five people under suspicion of displaying and selling seditious publications, reports said Wednesday.\n\nThe move marks a third round of arrests in a clampdown on independent bookstores, with similar operations conducted in March and June.&#160;\n\nThe raids are widely seen as an attempt to crush free speech and dissent under the semi-autonomous city's stringent national security law .\n\nAccording to media reports, police raided Have A Nice Stay bookshop —&#160; founded by former journalists —&#160; and Greenfield Book Store.\n\nFootage shared by media outlets showed officers in vests marked with \"Police\" seizing boxes from&#160; Have A Nice Stay while the AFP news agency said its reporters saw a woman in handcuffs being taken to the van from the store.&#160;\n\nSimilar events were reported a few streets away, as boxes were carried out of the building that houses Greenfield Book Store, a video posted by&#160; The Collective online news outlet showed.\n\nA police statement later confirmed that two stores in Mong Kok district were raided, without naming the shops.&#160;\n\nThe raid on Have A Nice Stay came a day after it announced in a Facebook post that it was shutting down on August&#160; 30, over reasons including \"uncertainties regarding the social environment\" and financial difficulties.\n\nThe police said the stores were searched by the National Security Department after customs officials alerted them to the discovery of allegedly seditious books in a shipment to Hong Kong from overseas.\n\nThe police statement said the publications' content included&#160;stirring up hatred against the city's government, judiciary and law enforcement agencies.\n\nThey said that the five people —&#160; two men and three women —&#160; were arrested on suspicion of violating the 2024 national security law.\n\nThe offense is punishable with up to seven years in prison under Hong Kong's national security law, which was enforced in 2024 on top of a 2020 legislation imposed by China after massive pro-democracy protests.\n\nHong Kong's independent bookstore industry once flourished, but it has dwindled since the enactment of the sweeping security law.&#160;\n\nIn June, two employees of Hong Kong's Hunter bookstore were arrested, while four workers of the Book Punch were detained in March for selling \"seditious\" publications.\n\nAmnesty International said in a statement on Wednesday that the use of \"sedition\" offenses to target bookstores is again a demonstration of how Hong Kong's national security is \"being weaponized to silence...",
-            "zh": "五名书商因销售涉嫌“煽动性”出版物而在香港被捕。两家书店成为持续打击独立书店的最新目标 周三有报道称，香港警方突击搜查了两家书店，逮捕了五名涉嫌展示和销售煽动性出版物的人。 此举标志着打击独立书店的第三轮逮捕行动，三月和六月也进行过类似行动。 人们普遍认为，这些突袭行动是为了根据这座半自治城市严格的国家安全法压制言论自由和异议。 据媒体报道，警方突击搜查了由前记者创办的“Have A Nice Stay”书店和 Greenfield 书店。 媒体分享的视频显示，身穿标有“警察”字样的背心的警察没收了“Have A Nice Stay”的箱子，而法新社表示，其记者看到一名戴着手铐的妇女被从商店带到货车上。 The Collective 在线新闻媒体发布的一段视频显示，几条街之外也发生了类似的事件，格林菲尔德书店所在的大楼被搬出箱子。 警方其后发表声明证实，旺角区有两家店铺遭到突击搜查，但没有透露具体店铺名称。 在“Have A Nice Stay”遭到突击搜查的前一天，该公司在 Facebook 上发帖宣布，由于“社会环境的不确定性”和财务困难等原因，将于 8 月 30 日关闭。 警方表示，在海关官员提醒他们在从海外运往香港的一批货物中发现涉嫌煽动性书籍后，国家安全部门对这些商店进行了搜查。 警方声明称，这些出版物的内容包括煽动对该市政府、司法和执法机构的仇恨。 他们表示，这五人——两男三女——因涉嫌违反 2024 年国家安全法而被捕。 根据香港国家安全法，这种罪行最高可被判处七年监禁。该法是在中国在大规模民主抗议活动后于 2020 年实施的立法基础上于 2024 年实施的。 香港的独立书店行业曾经一度繁荣，但自从全面的国安法颁布以来，它已经萎缩。 6月，香港亨特书店的两名员工被捕，而Book Punch的四名员工则于3月因出售“煽动性”出版物而被拘留。 国际特赦组织周三在一份声明中表示，利用“煽动叛乱”罪来针对书店，再次表明香港的国家安全正在“被武器化以压制......"
-          },
-          "reflection": {
-            "en": "The raid on bookstores and arrest of booksellers in Hong Kong highlights the vulnerability of a people when rulers wield power without restraint. Yahweh's word reminds us that unchecked authority can be like a dangerous predator, causing distress and fear among the populace. This situation calls for prayer for those affected and for justice to prevail.",
-            "zh": "香港书店遭突袭和书商被捕的事件，凸显了当统治者不受约束地行使权力时，民众的脆弱性。雅伟的话语提醒我们，不受制约的权威可能像危险的捕食者，给民众带来痛苦和恐惧。这种情况呼吁我们为受影响的人祷告，并祈求公义得以伸张。"
-          },
-          "verse": {
-            "reference": "Proverbs 28:15",
-            "textEn": "Like a roaring lion or a charging bear is a wicked ruler over a helpless people.",
-            "textZh": "暴虐的君王辖制贫民，好像吼叫的狮子、觅食的熊。",
-            "themeEn": "Tyranny",
-            "themeZh": "暴政"
-          },
-          "aiVerseId": "prov_28_15",
           "translationState": "localized"
         }
       ]
@@ -1374,7 +1372,7 @@
           },
           "body": {
             "en": "The federal government will establish an education taskforce aimed at tackling Islamophobia and training politicians and public servants as part of its response to the special envoy to combat Islamophobia's landmark report .\n\nBut SBS News understands the government will not endorse several of the 54 recommendations Aftab Malik put forward in his report handed to the prime minister 10 months ago, casting doubt from Muslim community leaders over the government's commitments to adequately tackle Islamophobia.\n\nMalik called for a ban on religious discrimination, for Muslims to join Sikhs and Jews in being explicitly protected in existing racial discrimination laws, and an independent review into counterterrorism laws to investigate whether Muslims in Australia were discriminated against.\n\nHe also recommended the government set up a commission of inquiry into Islamophobia, as well as a separate inquiry into anti-Palestinian and anti-Arab racism, which he said increased as a result of the government's lack of \"moral action\" for Middle Eastern diaspora.\n\nThe government's response, expected to be released on Saturday, will outline other measures to help tackle the rise in anti-Muslim behaviour in the country.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nA spokesperson told SBS the government is \"focused on combating Islamophobia and is carefully considering Mr Malik's report and recommendations, with a response to be provided soon\".\n\n\"The Albanese government has zero tolerance for Islamophobia. Every Australian, regardless of race or religion, deserves to feel safe, respected, and included in our community,\" the government spokesperson said.\n\nAustralian Federal Police community liaison teams will be expanded to respond to Islamophobia in the community and there will be targeted support as well a boost in multicultural grants to bolster Muslim community organisations.\n\nThe response could further test Prime Minister Anthony Albanese's relationship with some Muslim Australians, many of whom have expressed disappointment in what they say is the government&#x2019;s failure to address Islamophobia.\n\nThere has been a 650 per cent rise in Islamophobic attacks from October 2023 to June 2026, according to the Islamophobia Register. The organisation said the total number of reports in that time was more than 2,600.\n\nRelations between the government and some Muslim Australians have been strained following the government's response to conflict in the Middle East and what critics perceive as a lack of support for Lebanese and Palestinian people.\n\nIn March, Albanese, joined by Home Affairs Minister Tony Burke, was heckled in a hostile reception at one of his most recent public...",
-            "zh": "联邦政府将成立一个教育工作组，旨在应对伊斯兰恐惧症并培训政治家和公务员，作为对打击伊斯兰恐惧症特使具有里程碑意义的报告的回应的一部分。 但SBS新闻了解到，政府不会批准阿夫塔布·马利克在10个月前提交给总理的报告中提出的54项建议中的几项，这让穆斯林社区领导人对政府充分解决伊斯兰恐惧症问题的承诺产生了怀疑。 马利克呼吁禁止宗教歧视，让穆斯林与锡克教徒和犹太人一起受到现有种族歧视法的明确保护，并对反恐法进行独立审查，调查澳大利亚的穆斯林是否受到歧视。 他还建议政府成立一个针对伊斯兰恐惧症的调查委员会，并对反巴勒斯坦和反阿拉伯种族主义进行单独调查。他说，由于政府对中东侨民缺乏“道德行动”，调查有所增加。 政府的回应预计将于周六发布，其中将概述其他措施，以帮助解决该国反穆斯林行为的上升问题。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 一位发言人告诉 SBS，政府“专注于打击伊斯兰恐惧症，并正在仔细考虑马利克先生的报告和建议，很快就会做出回应”。 “阿尔巴尼亚政府对伊斯兰恐惧症采取零容忍态度。每个澳大利亚人，无论种族或宗教信仰如何，都应该感到安全、受到尊重并融入我们的社区，”政府发言人说。 澳大利亚联邦警察社区联络小组将扩大，以应对社区中的伊斯兰恐惧症，并将提供有针对性的支持并增加多元文化拨款，以支持穆斯林社区组织。 这一回应可能会进一步考验总理安东尼·阿尔巴内塞与一些穆斯林澳大利亚人的关系，其中许多人对政府未能解决伊斯兰恐惧症问题表示失望。 根据仇视伊斯兰登记处的数据，从 2023 年 10 月到 2026 年 6 月，仇视伊斯兰的袭击增加了 650%。该组织称，当时收到的举报总数超过2600份。 由于政府对中东冲突的反应以及批评者认为缺乏对黎巴嫩和巴勒斯坦人民的支持，政府与一些澳大利亚穆斯林之间的关系变得紧张。 今年三月，阿尔巴尼斯与内政部长托尼·伯克一起，在他最近的一次公开活动中遭到敌意的质问……"
+            "zh": "联邦政府将成立一个教育工作组，旨在应对伊斯兰恐惧症并培训政治家和公务员，作为对打击伊斯兰恐惧症特使具有里程碑意义的报告的回应的一部分。 但SBS新闻了解到，政府不会批准阿夫塔布·马利克在10个月前提交给总理的报告中提出的54项建议中的几项，这让穆斯林社区领导人对政府充分解决伊斯兰恐惧症问题的承诺产生了怀疑。 马利克呼吁禁止宗教歧视，让穆斯林与锡克教徒和犹太人一起受到现有种族歧视法的明确保护，并对反恐法进行独立审查，调查澳大利亚的穆斯林是否受到歧视。 他还建议政府成立一个针对伊斯兰恐惧症的调查委员会，并对反巴勒斯坦和反阿拉伯种族主义进行单独调查。他说，由于政府对中东侨民缺乏“道德行动”，调查有所增加。 政府的回应预计将于周六发布，其中将概述其他措施，以帮助解决该国反穆斯林行为的上升问题。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 一位发言人告诉 SBS，政府“专注于打击伊斯兰恐惧症，并正在仔细考虑马利克先生的报告和建议，并将很快做出回应”。 “阿尔巴尼亚政府对伊斯兰恐惧症采取零容忍态度。每个澳大利亚人，无论种族或宗教信仰如何，都应该感到安全、受到尊重并融入我们的社区，”政府发言人说。 澳大利亚联邦警察社区联络小组将扩大，以应对社区中的伊斯兰恐惧症，并将提供有针对性的支持并增加多元文化拨款，以支持穆斯林社区组织。 这一回应可能会进一步考验总理安东尼·阿尔巴内塞与一些穆斯林澳大利亚人的关系，其中许多人对政府未能解决伊斯兰恐惧症问题表示失望。 根据仇视伊斯兰登记处的数据，从 2023 年 10 月到 2026 年 6 月，仇视伊斯兰的袭击增加了 650%。该组织称，当时收到的举报总数超过2600份。 由于政府对中东冲突的反应以及批评者认为缺乏对黎巴嫩和巴勒斯坦人民的支持，政府与一些澳大利亚穆斯林之间的关系变得紧张。 今年三月，阿尔巴尼斯与内政部长托尼·伯克一起，在他最近的一次公开活动中遭到敌意的质问……"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
