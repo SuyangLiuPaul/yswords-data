@@ -67,3 +67,16 @@
   [headers.values]
     Access-Control-Allow-Origin = "*"
     Cache-Control = "public, max-age=31536000, immutable"
+
+# Mirrored news-article images (news_insights consumer, added 2026-07-22).
+# Some source CDNs (SBS) send Access-Control-Allow-Origin: null on their
+# own images, which blocks Flutter Web's CanvasKit renderer from decoding
+# them. refresh-news.mjs mirrors those specific images here so they get a
+# real CORS grant. Filenames are keyed by article id, which can recur
+# across a story's multiple same-day regenerations, so this is a normal
+# overwrite target, not an ever-growing immutable set — short cache.
+[[headers]]
+  for = "/images/news/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=3600"

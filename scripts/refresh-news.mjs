@@ -10,6 +10,7 @@ const projectRoot = path.resolve(__dirname, '..');
 const outputPath = path.join(projectRoot, 'data', 'daily_news.json');
 const archiveDir = path.join(projectRoot, 'data', 'archive');
 const archiveIndexPath = path.join(archiveDir, 'index.json');
+const newsImageDir = path.join(projectRoot, 'images', 'news');
 // How many past daily editions to keep archived for infinite-scroll
 // consumers (news_insights). Bounded so the git repo doesn't grow
 // forever — 90 days is generous scrollback without unbounded history.
@@ -1597,6 +1598,36 @@ async function fetchOgImage(url) {
 	}
 }
 
+// Some source CDNs send `Access-Control-Allow-Origin: null` on their
+// images — an explicit deny, not just a missing header — which blocks
+// Flutter Web's CanvasKit renderer from decoding them (it needs a real
+// CORS grant to fetch the bytes, unlike a plain <img> tag). Confirmed for
+// assets.sbs.com.au (2026-07-22): ~1/3 of all article images are SBS,
+// so this silently broke a third of the feed's photos. Fix mirrors the
+// bytes into our own CDN (same pattern already used for Bible Evidence
+// images in /images/evidence/*, which carries a wide-open CORS header).
+const CORS_RESTRICTED_SOURCE_PATTERN = /SBS/i;
+
+async function mirrorImageForCors(item, imageUrl) {
+	try {
+		const response = await fetch(imageUrl, {
+			headers: { 'User-Agent': 'DailyMannaDispatchBot/1.0' },
+			signal: AbortSignal.timeout(15000),
+		});
+		if (!response.ok) return null;
+		const buffer = Buffer.from(await response.arrayBuffer());
+		const extMatch = imageUrl.match(/\.(jpe?g|png|webp|gif)(?:[?#]|$)/i);
+		const ext = (extMatch?.[1] || 'jpg').toLowerCase().replace('jpeg', 'jpg');
+		const filename = `${item.id}.${ext}`;
+		await fs.mkdir(newsImageDir, { recursive: true });
+		await fs.writeFile(path.join(newsImageDir, filename), buffer);
+		return `https://yswords-data.netlify.app/images/news/${filename}`;
+	} catch (error) {
+		console.warn(`Image mirror failed for "${item.title.slice(0, 50)}": ${error.message}`);
+		return null;
+	}
+}
+
 async function buildStory(item, index, ctx = {}) {
 	const {
 		verseCorpus = [],
@@ -1705,6 +1736,11 @@ async function buildStory(item, index, ctx = {}) {
 
 	if (!imageUrl && item.link) {
 		imageUrl = await fetchOgImage(item.link);
+	}
+
+	if (imageUrl && CORS_RESTRICTED_SOURCE_PATTERN.test(item.source || '')) {
+		const mirrored = await mirrorImageForCors(item, imageUrl);
+		if (mirrored) imageUrl = mirrored;
 	}
 
 	if (!imageUrl && process.env.NEWS_GENERATE_IMAGE_QUERY === '1') {
