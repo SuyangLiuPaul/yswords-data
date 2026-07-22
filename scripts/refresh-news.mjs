@@ -8,9 +8,21 @@ const projectRoot = path.resolve(__dirname, '..');
 // Output to data/daily_news.json — the canonical home in yswords-data.
 // (In the legacy DailyNews repo this used to be src/data/latest-news.json.)
 const outputPath = path.join(projectRoot, 'data', 'daily_news.json');
+const archiveDir = path.join(projectRoot, 'data', 'archive');
+const archiveIndexPath = path.join(archiveDir, 'index.json');
+// How many past daily editions to keep archived for infinite-scroll
+// consumers (news_insights). Bounded so the git repo doesn't grow
+// forever — 90 days is generous scrollback without unbounded history.
+const ARCHIVE_RETENTION_DAYS = 90;
 const parser = new Parser();
 const minItemsPerSection = Math.max(1, Number(process.env.NEWS_MIN_ITEMS_PER_SECTION || 10));
-const maxItemsPerSection = Math.max(minItemsPerSection, Number(process.env.NEWS_MAX_ITEMS_PER_SECTION || 18));
+// 2026-07-22: raised default max from 18 to 30. The `world` section was
+// consistently hitting the old 18 cap (i.e. same-day supply regularly
+// exceeded it across the 4 world feeds) while china/australia stayed
+// floor-bound at minItemsPerSection — so this surfaces more of what's
+// already being fetched rather than padding with lower-quality items;
+// determineTargetCount() still bounds by real same-day supply.
+const maxItemsPerSection = Math.max(minItemsPerSection, Number(process.env.NEWS_MAX_ITEMS_PER_SECTION || 30));
 
 // --- AI Configuration (Gemini via OpenAI-compatible endpoint) ---
 //
@@ -971,6 +983,12 @@ async function main() {
 
 	const now = new Date();
 	const editionDate = getSydneyDateString(now);
+
+	if (existingData?.editionDate && existingData.editionDate !== editionDate) {
+		await archiveOutgoingEdition(existingData);
+		await pruneOldArchives();
+	}
+
 	const fetchedGroups = await Promise.all(sourceCatalog.map(fetchFeed));
 	const rawItems = fetchedGroups.flat();
 
@@ -1111,6 +1129,106 @@ async function readExistingData() {
 		return JSON.parse(raw);
 	} catch {
 		return null;
+	}
+}
+
+// 2026-07-22: daily archive for infinite-scroll consumers. Every run
+// overwrites data/daily_news.json in place (the "live" edition) and
+// always has done — this never retained history. When the computed
+// editionDate rolls past whatever was previously live, snapshot that
+// outgoing edition into data/archive/{date}.json before it's lost,
+// and keep data/archive/index.json (newest first) so a client can
+// discover what's available without a directory listing (static
+// hosting can't provide one). Idempotent: re-running on the same day
+// after the rollover already happened is a no-op.
+async function readArchiveIndex() {
+	try {
+		const raw = await fs.readFile(archiveIndexPath, 'utf8');
+		const parsed = JSON.parse(raw);
+		return Array.isArray(parsed?.dates) ? parsed.dates : [];
+	} catch {
+		return [];
+	}
+}
+
+async function writeArchiveIndex(dates) {
+	const payload = { updatedAt: new Date().toISOString(), dates };
+	await fs.writeFile(
+		archiveIndexPath,
+		`${JSON.stringify(payload, null, 2)}\n`,
+		'utf8',
+	);
+}
+
+// Pure: merge a newly-archived date into the existing index, deduped
+// and sorted newest-first. YYYY-MM-DD strings sort correctly with
+// plain string comparison. Exported for unit testing.
+export function mergeArchiveDates(newDate, existingDates) {
+	return Array.from(new Set([newDate, ...existingDates])).sort(
+		(a, b) => (a < b ? 1 : a > b ? -1 : 0),
+	);
+}
+
+// Pure: split archive dates into {kept, pruned} against a retention
+// cutoff (YYYY-MM-DD, exclusive — dates before it are pruned).
+// Exported for unit testing.
+export function partitionArchiveDates(dates, cutoffDateStr) {
+	const kept = [];
+	const pruned = [];
+	for (const date of dates) {
+		(date < cutoffDateStr ? pruned : kept).push(date);
+	}
+	return { kept, pruned };
+}
+
+async function archiveOutgoingEdition(outgoingPayload) {
+	const date = outgoingPayload?.editionDate;
+	if (!date) return;
+
+	await fs.mkdir(archiveDir, { recursive: true });
+	const archivePath = path.join(archiveDir, `${date}.json`);
+
+	let alreadyArchived = false;
+	try {
+		await fs.access(archivePath);
+		alreadyArchived = true;
+	} catch {
+		// doesn't exist yet — proceed
+	}
+
+	if (!alreadyArchived) {
+		await fs.writeFile(
+			archivePath,
+			`${JSON.stringify(outgoingPayload, null, 2)}\n`,
+			'utf8',
+		);
+		console.log(`Archived outgoing edition ${date} -> data/archive/${date}.json`);
+	}
+
+	const existingDates = await readArchiveIndex();
+	await writeArchiveIndex(mergeArchiveDates(date, existingDates));
+}
+
+async function pruneOldArchives() {
+	const dates = await readArchiveIndex();
+	if (dates.length === 0) return;
+
+	const cutoff = new Date();
+	cutoff.setUTCDate(cutoff.getUTCDate() - ARCHIVE_RETENTION_DAYS);
+	const cutoffStr = getSydneyDateString(cutoff);
+
+	const { kept, pruned } = partitionArchiveDates(dates, cutoffStr);
+	for (const date of pruned) {
+		try {
+			await fs.unlink(path.join(archiveDir, `${date}.json`));
+		} catch {
+			// already gone — fine
+		}
+	}
+
+	if (pruned.length > 0) {
+		await writeArchiveIndex(kept);
+		console.log(`Pruned ${pruned.length} archive(s) older than ${ARCHIVE_RETENTION_DAYS} days.`);
 	}
 }
 

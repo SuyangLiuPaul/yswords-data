@@ -23,6 +23,26 @@
     Cache-Control = "public, max-age=300"
     Content-Type = "application/json; charset=utf-8"
 
+# Daily archive snapshots (news_insights infinite-scroll consumer,
+# added 2026-07-22). Each dated file is immutable once written, so it
+# gets a long/immutable cache unlike the 5-minute live daily_news.json
+# above. index.json DOES change (a new date gets prepended once a day)
+# so it keeps the short live-data cache — this block is intentionally
+# placed after the archive wildcard so it wins for that one path.
+[[headers]]
+  for = "/data/archive/*.json"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=31536000, immutable"
+    Content-Type = "application/json; charset=utf-8"
+
+[[headers]]
+  for = "/data/archive/index.json"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=300"
+    Content-Type = "application/json; charset=utf-8"
+
 # Schemas are also public so external integrators can validate.
 [[headers]]
   for = "/schemas/*.json"

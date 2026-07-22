@@ -16,6 +16,8 @@ import {
 	KEYWORD_THEME_FALLBACK_VERSE_ID,
 	DEEP_MATCH_FEW_SHOT_EXAMPLES,
 	applyPreferredDivineName,
+	mergeArchiveDates,
+	partitionArchiveDates,
 } from '../scripts/refresh-news.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -269,4 +271,31 @@ test('reuseDeepMatchFromCache rejects when reflections are missing', () => {
 		[],
 	);
 	assert.equal(result, null);
+});
+
+test('mergeArchiveDates prepends a new date and sorts newest-first', () => {
+	const result = mergeArchiveDates('2026-07-22', ['2026-07-20', '2026-07-21']);
+	assert.deepEqual(result, ['2026-07-22', '2026-07-21', '2026-07-20']);
+});
+
+test('mergeArchiveDates dedupes when the date is already present (idempotent re-run)', () => {
+	const result = mergeArchiveDates('2026-07-21', ['2026-07-21', '2026-07-20']);
+	assert.deepEqual(result, ['2026-07-21', '2026-07-20']);
+});
+
+test('mergeArchiveDates handles an empty existing index', () => {
+	assert.deepEqual(mergeArchiveDates('2026-07-22', []), ['2026-07-22']);
+});
+
+test('partitionArchiveDates keeps dates on/after the cutoff, prunes before it', () => {
+	const dates = ['2026-07-22', '2026-07-21', '2026-04-01', '2026-01-01'];
+	const { kept, pruned } = partitionArchiveDates(dates, '2026-04-24');
+	assert.deepEqual(kept, ['2026-07-22', '2026-07-21']);
+	assert.deepEqual(pruned, ['2026-04-01', '2026-01-01']);
+});
+
+test('partitionArchiveDates prunes nothing when every date is within retention', () => {
+	const { kept, pruned } = partitionArchiveDates(['2026-07-22', '2026-07-21'], '2026-01-01');
+	assert.deepEqual(kept, ['2026-07-22', '2026-07-21']);
+	assert.deepEqual(pruned, []);
 });
