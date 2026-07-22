@@ -1,0 +1,1500 @@
+{
+  "generatedAt": "2026-06-28T13:15:42.930Z",
+  "editionDate": "2026-06-28",
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "BBC News World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "SBS News World",
+      "url": "https://www.sbs.com.au/news/topic/world/feed",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "DW World",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "The Guardian China",
+      "url": "https://www.theguardian.com/world/china/rss",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "BBC News China Focus",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "SBS News China Focus",
+      "url": "https://www.sbs.com.au/news/topic/world/feed",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "DW Asia China Focus",
+      "url": "https://rss.dw.com/rdf/rss-en-asia",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "The Guardian Australia",
+      "url": "https://www.theguardian.com/australia-news/rss",
+      "category": "australia",
+      "categoryLabel": {
+        "en": "Australia",
+        "zh": "澳洲"
+      }
+    },
+    {
+      "name": "SBS News Australia",
+      "url": "https://www.sbs.com.au/news/topic/australia/feed",
+      "category": "australia",
+      "categoryLabel": {
+        "en": "Australia",
+        "zh": "澳洲"
+      }
+    }
+  ],
+  "sections": {
+    "world": {
+      "id": "world",
+      "title": {
+        "en": "World Desk",
+        "zh": "全球焦点"
+      },
+      "strap": {
+        "en": "A fast view of global affairs, conflict, diplomacy, and human need.",
+        "zh": "快速掌握国际局势、冲突、外交与人类处境。"
+      },
+      "sourceNotes": [
+        "The Guardian World",
+        "BBC News World",
+        "DW World",
+        "SBS News World"
+      ],
+      "items": [
+        {
+          "id": "www-theguardian-com-world-live-2026-jun-28-iran-strait-of-hormuz-donald-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/5626b60b813dd1369a1a12b6f09ce10f63207e51/338_0_3380_2704/master/3380.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=de849dd2876ca309bbbc66aed914e77c",
+          "publishedAt": "2026-06-28T13:09:14.000Z",
+          "title": {
+            "en": "Donald Trump threatens to annihilate Iran after crossfire over Hormuz – Middle East crisis live",
+            "zh": "唐纳德·特朗普在霍尔木兹海峡交火后威胁要“歼灭”伊朗——中东危机直播"
+          },
+          "summary": {
+            "en": "Following US strikes, Iran attacked Bahrain and Kuwait and threatened to halt talks. Both the US and Iran are trading strikes and accusing each other of jeopardizing a ceasefire, while Iran's foreign minister is in Baghdad for diplomatic meetings.",
+            "zh": "在美国发动袭击后，伊朗袭击了巴林和科威特，并威胁要中止谈判。美国和伊朗正在相互攻击，并指责对方危及停火，同时伊朗外长正在巴格达进行外交会晤。"
+          },
+          "body": {
+            "en": "Iran attacked Bahrain and Kuwait after US strikes, and threatened a ‘complete halt’ to talks US and Iran trade strikes as both sides accuse the other of endangering ceasefire New Israeli strikes have been reported in Lebanon, only two days after a US-brokered agreement was signed between Israel, Lebanon and the US – according to CNN . The deal was designed to work towards an end to fighting between Israel and Hezbollah. Included in the deal is plans to disarm Hezbollah. Continue reading...",
+            "zh": "在美国发动袭击后，伊朗袭击了巴林和科威特，并威胁“完全停止”美国和伊朗的贸易打击谈判，因为双方都指责对方危及停火。伊朗外交部长阿巴斯·阿拉格奇正在巴格达与伊拉克外长会面。据路透社报道，两人一直在讨论最新的袭击事件以及至关重要的霍尔木兹问题。海湾国家公开表示霍尔木兹海峡必须保持免费。阿拉格奇则表示，他在联席会议上强调了开放通道的重要性，并要求伊朗解除海上封锁。继续阅读..."
+          },
+          "reflection": {
+            "en": "The escalating tensions and mutual accusations described in the news highlight the profound challenge of maintaining peace. Yahweh's word reminds us of our responsibility to pursue peace whenever possible, even amidst conflict. It calls each party to consider their own role in de-escalation and reconciliation.",
+            "zh": "新闻中描述的紧张局势升级和相互指责，凸显了维持和平的巨大挑战。雅伟的话语提醒我们，即使在冲突中，也要尽力追求和平。它呼吁各方思考自己在局势降级与和解中的角色。"
+          },
+          "verse": {
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
+          },
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-business-2026-jun-28-ministers-urged-to-curb-energy-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/business/2026/jun/28/ministers-urged-to-curb-energy-costs-as-great-british-homes-face-bill-surge",
+          "image": "https://i.guim.co.uk/img/media/1fe870be421eefc56063dbb1f0e4978c4390fa43/400_0_2701_2162/master/2701.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81f2f93d745d18348c2571eb0605a0e9",
+          "publishedAt": "2026-06-28T13:04:02.000Z",
+          "title": {
+            "en": "Ministers urged to curb energy costs as Great British homes face 13% bill surge",
+            "zh": "部长们被敦促控制能源成本，因为英国家庭面临13%的账单飙升"
+          },
+          "summary": {
+            "en": "Households in Great Britain are facing a 13% surge in energy bills from July 1, as the quarterly Ofgem price cap rises to the equivalent of £1,862 a year. Ministers are under increasing pressure to address these rising costs amidst growing consumer energy debt.",
+            "zh": "从7月1日起，由于Ofgem季度价格上限上调至每年1,862英镑，英国家庭将面临13%的能源账单上涨。在消费者能源债务不断增加的情况下，部长们正面临越来越大的压力，要求他们控制这些不断上涨的成本。"
+          },
+          "body": {
+            "en": "Quarterly Ofgem price cap rises to equivalent of £1,862 a year from 1 July amid growing consumer energy debt Ministers are facing growing pressure to lower energy costs as households in Great Britain face the steepest rise in summer bills in four years this week. The quarterly cap on gas and electricity charges will rise by 13% from Wednesday to the equivalent of £1,862 a year for an average household, just days after figures revealed that consumer energy debt had reached fresh record highs. Continue reading...",
+            "zh": "由于消费者能源债务不断增加，天然气电力市场办公室季度价格上限从 7 月 1 日起升至相当于每年 1,862 英镑。本周，英国家庭面临四年来最大幅度的夏季电费上涨，部长们面临着降低能源成本的越来越大的压力。天然气和电费的季度上限将从周三起上涨 13%，相当于普通家庭每年 1,862 英镑，而就在几天前，数据显示消费者能源债务已创下新高。继续阅读..."
+          },
+          "reflection": {
+            "en": "The rising energy costs highlight the financial pressures many households face, leading to increased consumer debt. Proverbs 22:7 reminds us that economic burdens can create a form of servitude, underscoring the need for systems that protect the vulnerable from overwhelming financial strain. Yahweh calls us to seek justice and compassion for those...",
+            "zh": "不断上涨的能源成本凸显了许多家庭面临的经济压力，导致消费者债务增加。箴言22:7提醒我们，经济负担可能造成一种束缚，强调需要建立保护弱势群体免受沉重经济压力的制度。雅伟呼召我们为那些努力满足基本需求的人寻求公义和怜悯。"
+          },
+          "verse": {
+            "reference": "Proverbs 22:7",
+            "textEn": "The rich rule over the poor, and the borrower is slave to the lender.",
+            "textZh": "富户管辖穷人；欠债的是债主的仆人。",
+            "themeEn": "Debt's burden",
+            "themeZh": "债务的重轭"
+          },
+          "aiVerseId": "prov_22_7",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c5yz9yj9x74o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f645/live/c3ce2a40-72ed-11f1-a52b-4f9c73b26afb.jpg",
+          "publishedAt": "2026-06-28T12:51:59.000Z",
+          "title": {
+            "en": "Eleven killed after plane carrying skydivers crashes in eastern France",
+            "zh": "法国东部一架载有跳伞者的飞机坠毁，造成十一人死亡"
+          },
+          "summary": {
+            "en": "Eleven people, including the pilot and ten passengers, died after a plane carrying skydivers crashed in eastern France, according to local officials.",
+            "zh": "据当地官员称，一架载有跳伞者的飞机在法国东部坠毁，造成包括飞行员和十名乘客在内的十一人死亡。"
+          },
+          "body": {
+            "en": "Eleven people have died after a civilian aircraft carrying skydivers crashed in the town of Tomblaine in eastern France, local authorities said.\n\nThe pilot and 10 passengers died in the incident, including five students and five instructors, local officials said.\n\nThe plane, which was being used by a parachutist school, had taken off from Nancy-Essey airfield when it crashed, local media reported.\n\nPolice have urged the public to avoid the area around the airport in the Meurthe-et-Moselle department.\n\nThe French interior minister was on his way to the scene, the interior ministry said.\n\nYves Seguy, the prefect of the eastern department of Meurthe-et-Moselle, said that no bystanders were injured in the incident, according to news agency AFP.\n\nLocal officials also said relatives of the victims were present at the airfield when the crash happened.\n\nThis breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\n\nYou can receive Breaking News on a smartphone or tablet via the BBC News App . You can also follow @BBCBreaking on X , external to get the latest alerts.",
+            "zh": "地方当局称，一架载有跳伞员的民用飞机在法国东部汤布兰镇坠毁，造成 11 人死亡。 当地官员称，飞行员和 10 名乘客在事件中死亡，其中包括 5 名学生和 5 名教练。 据当地媒体报道，这架由一所跳伞学校使用的飞机坠毁时是从南希-埃西机场起飞的。 警方敦促公众避开默尔特-摩泽尔省机场周围地区。 法国内政部表示，法国内政部长正在前往现场的路上。 据法新社报道，默尔特-摩泽尔省东部省长伊夫·塞吉表示，事件中没有旁观者受伤。 当地官员还表示，坠机事件发生时，遇难者亲属就在机场。 此突发新闻报道正在更新，更多详细信息将很快发布。请刷新页面以获得完整版本。 您可以通过 BBC 新闻应用程序在智能手机或平板电脑上接收突发新闻。您还可以在外部 X 上关注 @BBCBreaking 以获取最新警报。"
+          },
+          "reflection": {
+            "en": "This tragic loss of life reminds us of the fragility of our earthly existence and the profound sorrow that accompanies sudden departure. In moments of deep grief, we hold onto the promise that Yahweh will one day wipe away every tear, bringing an end to all pain and mourning. This hope anchors us, even when our hearts are heavy with loss.",
+            "zh": "这场悲剧性的生命逝去提醒我们，我们尘世生命何其脆弱，突如其来的离去带来何等深沉的悲伤。在深切的悲痛时刻，我们紧紧抓住雅伟的应许，祂终有一天会擦去我们所有的眼泪，结束一切痛苦和哀伤。这份盼望成为我们的锚，即便我们的心因失落而沉重。"
+          },
+          "verse": {
+            "reference": "Revelation 21:4",
+            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+            "themeEn": "End of suffering",
+            "themeZh": "苦难的终结"
+          },
+          "aiVerseId": "rev_21_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cr47dvywvy5o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png",
+          "publishedAt": "2026-06-28T12:39:41.000Z",
+          "title": {
+            "en": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+            "zh": "两名男孩被困几天后从委内瑞拉地震废墟中获救"
+          },
+          "summary": {
+            "en": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Two 11-year-old boys have separately been rescued from the rubble of collapsed buildings within hours of each other, after powerful earthquakes struck Venezuela.\n\nVideo footage of the first boy, named as Moises, showed him being pulled from the twisted debris - his eyes covered to protect them from the sun - to the applause of rescuers.\n\nHours later, interim President Delcy Rodríquez announced another 11-year-old boy had been rescued, and posted a video of him on X, being carried down a huge mound of wreckage on a stretcher.\n\nSince the magnitude 7.2 and 7.5 quakes on Wednesday, officials have confirmed at least 1,430 deaths. Tens of thousands of people are still missing.\n\nIt has now been more than 85 hours since the first quake, but rescuers are not giving up hope, saying people could still be alive, especially if they have access to food and water under the rubble.\n\nThe two earthquakes, which struck within 39 seconds, caused hundreds of buildings to collapse and many people remain trapped inside. Desperate families have been digging through the debris by hand, trying to find their loved ones.\n\nSome have told the BBC that they can hear people under the rubble , but cannot move the heavy slabs of concrete, and are waiting anxiously for heavy machinery to arrive.\n\nColumbia's National Unit for Disaster Risk Management (UNGRD) said Moises was buried under about 3m (9.8ft) of debris, and the rescue team spent six hours conducting \"high-precision work\" on Saturday to reach him.\n\nReuters reported that a rescuer was overheard on a walkie-talkie saying the young boy was found near his sister and mother, who had both died.\n\nHours later, Delcy Rodríguez posted a video on X, purportedly showing the rescue of the second 11-year-old boy in the town of Caraballeda.\n\nOfficials said the coastal region of La Guaira, where Caraballeda is located, has been hit the hardest.\n\nRescuers' efforts have been hampered by aftershocks, which are in turn terrifying residents.\n\n\"To be honest, it makes you feel kind of nervous. Any little noise... horrible,\" Jesús Andueza, a 64-year-old bus driver told BBC Mundo.\n\nThousands of people are living in their cars or camping at places like the airport and golf course, away from buildings that could collapse.\n\nThe golf course in Caraballeda has become an epicentre for the emergency response.\n\nIts green lawn, which used to be perfectly manicured, is now a makeshift hospital and donation centre, where residents who have lost everything are sifting through piles of donated clothing and boxes of humanitarian aid.\n\nIn another part of the golf course, next to a small lagoon, a strip of land has been set up as a landing pad for helicopters arriving with supplies and emergency personnel from within Venezuela and abroad.\n\nIn the area surrounding...",
+            "zh": "委内瑞拉发生强烈地震后，两名 11 岁男孩在数小时内分别从倒塌建筑物的废墟中被救出。 第一个名叫莫伊塞斯的男孩的视频片段显示，他被从扭曲的废墟中拉了出来，他的眼睛被遮住以保护眼睛免受阳光照射，救援人员报以热烈的掌声。 几小时后，临时总统德尔西·罗德里克斯宣布另一名 11 岁男孩获救，并在 X 上发布了一段视频，视频显示他被担架抬下一大堆残骸。 自周三发生 7.2 级和 7.5 级地震以来，官方已确认至少 1,430 人死亡。仍有数万人失踪。 自第一次地震以来已经过去了 85 个多小时，但救援人员并没有放弃希望，他们表示人们仍然可能活着，特别是如果他们能够在废墟下获得食物和水的话。 两次地震在 39 秒内发生，导致数百座建筑物倒塌，许多人仍被困在里面。绝望的家庭用手在废墟中挖掘，试图找到亲人。 一些人告诉英国广播公司，他们可以听到瓦砾下有人的声音，但无法移动沉重的混凝土板，正在焦急地等待重型机械到达。 哥伦比亚国家灾害风险管理部门 (UNGRD) 表示，莫伊塞斯被埋在约 3m（9.8 英尺）深的废墟下，救援队周六花了六个小时进行“高精度工作”才找到他。 路透社报道称，一名救援人员通过对讲机无意中听到，这名小男孩被发现在他已经去世的姐姐和母亲附近。 几个小时后，德尔西·罗德里格斯 (Delcy Rodríguez) 在 X 上发布了一段视频，据称展示了卡拉巴莱达镇第二名 11 岁男孩被营救的情况。 官员们表示，卡拉巴莱达所在的拉瓜伊拉沿海地区受到的打击最为严重。 救援人员的努力因余震而受到阻碍，这反过来又让居民感到恐惧。 64 岁的公交车司机赫苏斯·安杜埃萨 (Jesús Andueza) 告诉 BBC Mundo：“说实话，这会让你感到有点紧张。任何一点小小的噪音……都很可怕。” 成千上万的人住在车里或在机场和高尔夫球场等地方露营，远离可能倒塌的建筑物。 卡拉巴莱达的高尔夫球场已成为紧急响应中心。 曾经修剪整齐的绿色草坪现在成了临时医院和捐赠中心，失去一切的居民正在那里筛选成堆的捐赠衣物和人道主义援助物资。 在高尔夫球场的另一部分，靠近一个小泻湖的地方，已设立了一块土地作为停机坪，供从委内瑞拉国内外运送物资和应急人员抵达的直升机降落。 在周边地区..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-28-french-skydiving-plane-crashes-nea",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/28/french-skydiving-plane-crashes-near-nancy-killing-all-11-on-board-says-prefect",
+          "image": "https://i.guim.co.uk/img/media/112282a0be0f84f6429f54614d4b5445b53b3a17/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a88bca56c370ee71a07a0749d33de95a",
+          "publishedAt": "2026-06-28T12:37:39.000Z",
+          "title": {
+            "en": "French skydiving plane crashes near Nancy, reportedly killing all 11 onboard",
+            "zh": "法国跳伞飞机在南锡附近坠毁，据报机上11人全部遇难"
+          },
+          "summary": {
+            "en": "A skydiving plane crashed near Nancy, France, reportedly killing all 11 people onboard, including five pairs of students and instructors, along with the pilot. Officials stated the plane fell suddenly near an aerodrome.",
+            "zh": "据报道，一架跳伞飞机在法国南锡附近坠毁，机上包括五对学生和教练以及飞行员在内的11人全部遇难。官员称，这架飞机在机场附近突然坠落。"
+          },
+          "body": {
+            "en": "A skydiving plane has crashed in north-eastern France , killing all 11 people onboard, according to the region’s prefect.\n\nThe parachuting-school plane crashed near Nancy at 11am, said Yves Séguy, the prefect of the Meurthe-et-Moselle region.\n\nThe pilot and 10 passengers – five ‌students and five instructors – died, the prefecture reported.\n\nSéguy said: “The plane, which was transporting 11 people, fell suddenly immediately next to the aerodrome. There were no collateral victims.”\n\nEmergency services responded immediately, and authorities were collecting witness statements, he said.\n\nThe French interior minister, Laurent Nuñez, was on his ​way to ​the ​scene, his staff ‌said.",
+            "zh": "据该地区州长称，一架跳伞飞机在法国东北部坠毁，机上 11 人全部遇难。 默尔特-摩泽尔地区州长伊夫·塞吉 (Yves Séguy) 表示，这架跳伞学校飞机于上午 11 点在南希附近坠毁。 据该县报道，飞行员和 10 名乘客（五名学生和五名教练）死亡。 塞吉说：“这架载有 11 人的飞机在机场附近突然坠落。没有造成人员伤亡。” 他说，紧急服务部门立即做出反应，当局正在收集证人证词。 法国内政部长洛朗·努涅斯 (Laurent Nuñez) 的工作人员表示，他正在前往现场的路上。"
+          },
+          "reflection": {
+            "en": "The sudden loss of eleven lives in this tragic accident brings immense sorrow. In moments of profound grief, we remember that even Yahweh, in human form, wept at the death of a friend, showing us that tears are a natural and sacred response to loss. This shared sorrow reminds us of our common humanity and the depth of compassion.",
+            "zh": "这场悲剧性事故中十一条生命的突然逝去带来了巨大的悲痛。在极度悲伤的时刻，我们记得即使是道成肉身的雅伟，也曾为朋友的离世而哭泣，这向我们表明眼泪是对失落的自然而神圣的回应。这种共同的悲伤提醒我们共同的人性以及同情的深度。"
+          },
+          "verse": {
+            "reference": "John 11:35",
+            "textEn": "Jesus wept.",
+            "textZh": "耶稣哭了。",
+            "themeEn": "Jesus wept",
+            "themeZh": "耶稣哭了"
+          },
+          "aiVerseId": "jn_11_35",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-uk-news-2026-jun-28-complaints-iopc-met-police-moham",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/28/complaints-iopc-met-police-mohamed-al-fayed-harrods",
+          "image": "https://i.guim.co.uk/img/media/c7b42afc8f85b05a3f8dc4c81afa969f07708a6b/0_458_2807_2246/master/2807.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=384701b00d38307682afe3dfb2a2f763",
+          "publishedAt": "2026-06-28T12:24:19.000Z",
+          "title": {
+            "en": "Complaints filed to police watchdog over Met’s handling of Al Fayed abuse allegations",
+            "zh": "就大都会博物馆处理阿尔法耶德虐待指控的方式向警方监管机构提出投诉"
+          },
+          "summary": {
+            "en": "IOPC confirms complaints from three survivors of alleged sexual misconduct by late Harrods owner in addition to ongoing investigation Survivors of abuse at the hands of the late Harrods owner Mohamed Al Fayed have complained to a watchdog about how the Metropolitan police...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "IOPC confirms complaints from three survivors of alleged sexual misconduct by late Harrods owner in addition to ongoing investigation Survivors of abuse at the hands of the late Harrods owner Mohamed Al Fayed have complained to a watchdog about how the Metropolitan police handled allegations. More than 400 claims of sexual misconduct have been made against Al Fayed, including rape and human trafficking , dating between 1977 and 2014. Continue reading...",
+            "zh": "除了正在进行的调查之外，IOPC 还确认了三名幸存者对已故 Harrods 店主 Mohamed Al Fayed 性行为不当的投诉。 遭受已故 Harrods 店主 Mohamed Al Fayed 虐待的幸存者已向监管机构投诉大都会警察处理指控的方式。 1977 年至 2014 年间，已有 400 多起针对 Al Fayed 的不当性行为指控，包括强奸和人口贩卖。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jun-28-lds-church-mormon-lawsuit",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit",
+          "image": "https://i.guim.co.uk/img/media/7c8f3bc59abb0905ba445ed32ff46e25f695e7a4/457_0_4363_3492/master/4363.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83aa682415aafe8089a26f0732ee0adb",
+          "publishedAt": "2026-06-28T12:00:09.000Z",
+          "title": {
+            "en": "Good-faith lawsuit? LDS church in fight with podcaster over Mormon name",
+            "zh": "善意诉讼？耶稣基督后期圣徒教会与播客主就“摩门教”名称展开争执"
+          },
+          "summary": {
+            "en": "The Church of Jesus Christ of Latter-day Saints is suing an excommunicated former member over the use of the term “Mormon” in the title of his podcast, “Mormon Stories.” The podcaster, John Dehlin, asserts that the name is freely available for public use, leading to a dispute over trademark and copyright.",
+            "zh": "耶稣基督后期圣徒教会正在起诉一名前被开除教籍的成员，原因是其播客“摩门教故事”使用了“摩门教”一词。播客主持人约翰·德林声称该名称可供公众自由使用，从而引发了商标和版权纠纷。"
+          },
+          "body": {
+            "en": "Church sues excommunicated member over Mormon Stories podcast but John Dehlin says name free for all to use Trademark changes and copyright infringement disputes take many forms. Dunkin’ Donuts changed its name to Dunkin’ because Donuts did not suggest the vigorous, on-the-go attitude the coffee company wants to project. But what happens when a church changes its name, but former adherents continue to use the original term in ways it may not like? Continue reading...",
+            "zh": "教会因摩门教故事播客起诉被逐出教会的成员，但约翰·德林表示所有人都可以免费使用名称商标变更和版权侵权纠纷有多种形式。 Dunkin’ Donuts 更名为 Dunkin’，因为 Donuts 并没有体现这家咖啡公司想要展现的充满活力、忙碌的态度。但是，当教会更改名称，但以前的信徒继续以它可能不喜欢的方式使用原来的术语时，会发生什么？继续阅读..."
+          },
+          "reflection": {
+            "en": "This news highlights the complexities that arise when disagreements within a faith community escalate into legal disputes over identity and naming. The call to “bear with each other and forgive one another” reminds us that even when relationships are strained or broken, the way we handle grievances reflects a deeper commitment to peace and understanding. It...",
+            "zh": "这则新闻揭示了当信仰群体内部的分歧升级为关于身份和名称的法律纠纷时所产生的复杂性。经文呼吁我们“彼此包容，互相饶恕”，提醒我们即使关系紧张或破裂，处理不满的方式也反映了对和平与理解的更深承诺。它挑战所有相关方思考，法律行动是否真正符合和解的精神。"
+          },
+          "verse": {
+            "reference": "Colossians 3:13",
+            "textEn": "Bear with each other and forgive one another if any of you has a grievance against someone.",
+            "textZh": "倘若这人与那人有嫌隙，总要彼此包容，彼此饶恕。",
+            "themeEn": "Bearing with one another",
+            "themeZh": "彼此包容"
+          },
+          "aiVerseId": "col_3_13",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cj9gyk1z7ngo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/286b/live/b6c739c0-fc48-11f0-a087-459dd8e000af.jpg",
+          "publishedAt": "2026-06-28T10:11:35.000Z",
+          "title": {
+            "en": "Uganda's leading media outlets shut down by army chief",
+            "zh": "乌干达主要媒体机构被陆军司令关闭"
+          },
+          "summary": {
+            "en": "NTV和《每日监测报》称，他们在首都的办公室正处于“军事围困”之下。",
+            "zh": "NTV和《每日监测报》称，他们在首都的办公室正处于“军事围困”之下。"
+          },
+          "body": {
+            "en": "Uganda's leading independent media group says it is under \"military siege\" after the army chief - who is the son of President Yoweri Museveni - ordered the closure of TV stations, newspapers and radio outlets.\n\nThe Daily Monitor newspaper said that armed soldiers were stationed outside its headquarters in the capital Kampala and both NTV and Spark TV had been taken off air.\n\nThe outlets are part of the Nation Media Group, one of the most influential media companies in East Africa.\n\nIt is unclear what exactly led to the crackdown, but in posts on X, Gen Muhoozi Kainerugaba said: \"I DO NOT believe in a free press! The press should be guided by cadres of the revolution.\"\n\nOpposition and human rights groups accuse Gen Kainerugaba of being a central figure in a highly repressive regime led by his father.\n\nSupporters of the president and his family say they have guaranteed stability in Uganda, and the economy has improved under their rule.\n\nPresident Museveni, 81, is a former rebel leader who took power about 40 years ago.\n\nHe won a record seventh term in disputed elections in January, with widespread speculation that he is grooming his son to succeed him one day.\n\nGen Kainerugaba said on X that his \"great father\" had given him the \"power to shut down any media house I want to\".\n\nHe said that both NTV and Daily Monitor would \"not re-open without my permission\".\n\nThe Daily Monitor said on X that the newspaper and its fellow outlets were ordered to close \"in a crackdown during the wee hours of Sunday\".\n\nIt did not give reasons for the crackdown, but covered the story on its website , external .\n\nIt said staff had reported that \"no-one was allowed to enter or leave the compound\", while NTV Uganda and Spark TV viewers \"were met with blank screens displaying the message 'video unavailable'.\"\n\nThe article pointed out that the Daily Monitor had also been raided by police in 2013 over the publication of a letter allegedly linking senior government officials to a succession plan dubbed the 'Muhoozi Project', while NTV had been forced off air in 2007 following accusations by the government that its news coverage was negative.\n\n\"Over the years, Museveni has also repeatedly criticised the Daily Monitor, at one point referring to it as an 'enemy and evil newspaper' over its critical journalism,\" the article said.\n\nDuring January's fiercely contested election, Gen Kainerugaba caused outrage when in posts which were subsequently deleted, he threatened to have the testicles of defeated opposition candidate Bobi Wine removed.\n\nBefore the polls, opposition rallies were disrupted, with security forces at times opening fire.\n\nThe United Nations said the election was held in an \"environment marked by widespread repression and intimidation against the political...",
+            "zh": "乌干达主要的独立媒体集团表示，在陆军参谋长（总统约韦里·穆塞韦尼的儿子）下令关闭电视台、报纸和广播电台后，该集团正受到“军事围困”。 《每日监察报》称，武装士兵驻扎在首都坎帕拉总部外，NTV 和 Spark TV 均已停播。 这些媒体隶属于国家媒体集团，该集团是东非最有影响力的媒体公司之一。 目前尚不清楚到底是什么导致了镇压，但穆胡齐·凯内鲁加巴将军在 X 的帖子中表示：“我不相信新闻自由！媒体应该受到革命干部的指导。” 反对派和人权组织指责凯内鲁加巴将军是其父亲领导的高度镇压政权的核心人物。 总统及其家人的支持者表示，他们保证了乌干达的稳定，经济在他们的统治下有所改善。 81 岁的穆塞韦尼总统是一名前叛乱领导人，大约 40 年前掌权。 他在一月份有争议的选举中赢得了创纪录的第七个任期，人们普遍猜测他正在培养他的儿子有一天接替他。 凯内鲁加巴将军在 X 上表示，他的“伟大父亲”赋予了他“关闭任何我想要关闭的媒体机构的权力”。 他表示，NTV 和 Daily Monitor 都“未经我的许可，不会重新开放”。 《每日监察报》X 日称，该报及其其他媒体被勒令关闭，“在周日凌晨进行镇压”。 它没有给出镇压的理由，但在其网站 external 上报道了这个故事。 报道称，工作人员报告称，“任何人都不得进入或离开该院落”，而 NTV Uganda 和 Spark TV 的观众“则看到空白屏幕，显示‘视频不可用’的信息。” 文章指出，《每日监察报》在 2013 年也因发表一封据称将政府高级官员与被称为“Muhoozi 计划”的继任计划联系起来的信件而遭到警方突击搜查，而 NTV 则因政府指控其新闻报道负面而于 2007 年被迫停播。 文章称：“多年来，穆塞韦尼还多次批评《每日监察报》，一度因其批评性的新闻报道而将其称为‘敌人和邪恶的报纸’。” 在一月份竞争激烈的选举中，凯内鲁加巴将军在帖子中威胁要切除落败的反对派候选人波比·瓦恩的睾丸，随后被删除，这引起了愤怒。 投票前，反对派集会遭到扰乱，安全部队有时开枪。 联合国表示，这次选举是在“对政治人物普遍镇压和恐吓的环境下举行的”。"
+          },
+          "reflection": {
+            "en": "The military siege on Uganda's leading media outlets tragically illustrates how unchecked power can become oppressive. A ruler who silences the press acts like a predator, causing fear and hardship for the people by denying them access to information. This reminds us to pray for leaders who serve with integrity and for the protection of those who seek to...",
+            "zh": "乌干达主要媒体机构遭到军事围困，悲剧性地表明不受制约的权力如何变得具有压迫性。一个压制媒体的统治者，如同捕食者一般，通过剥夺民众获取信息的权利，给他们带来恐惧和困苦。这提醒我们为那些秉持正直服务的领袖祷告，并为那些寻求报道真相的人祈求保护。"
+          },
+          "verse": {
+            "reference": "Proverbs 28:15",
+            "textEn": "Like a roaring lion or a charging bear is a wicked ruler over a helpless people.",
+            "textZh": "暴虐的君王辖制贫民，好像吼叫的狮子、觅食的熊。",
+            "themeEn": "Tyranny",
+            "themeZh": "暴政"
+          },
+          "aiVerseId": "prov_28_15",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-fact-check-as-europe-bakes-should-you-trust-your-sunscreen",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/fact-check-as-europe-bakes-should-you-trust-your-sunscreen/a-77707226?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77695760_6.jpg",
+          "publishedAt": "2026-06-28T10:06:00.000Z",
+          "title": {
+            "en": "Fact check: As Europe bakes, should you trust your sunscreen?",
+            "zh": "事实核查：随着欧洲的烘烤，您应该相信您的防晒霜吗？"
+          },
+          "summary": {
+            "en": "As a heat wave sweeps across Europe, claims are resurfacing online questioning whether sunscreen is safe or linked to skin cancer risk.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "As a heat wave sweeps across Europe, claims are resurfacing online questioning whether sunscreen is safe or linked to skin cancer risk.\n\nMillions of people&#160;across Europe are dealing with&#160; temperatures above 40 degrees Celsius &#160;(104 degrees Fahrenheit), baking under a heat dome. Hot nights are making recovery harder.\n\nWhile many recognize the need to use sunscreen to protect themselves from the sun , some people, particularly on social media, have been asking whether it could actually be harmful.\n\nThe discussion centers around the question of whether sunscreen could increase the risk of skin cancer, rather than reduce it.\n\nAnd while the debate is not new, it does seem to be resurfacing more frequently, as global temperatures continue to rise and droughts and extreme heat become the new normal.\n\nClaim: \"According to the National Cancer Institute, since the introduction of sunscreen in 1940, melanoma has increased by over 200%.\"\n\nThis claim, archived here , has appeared on several social media platforms. It further describes sunscreen as&#160;a \"poison\" that&#160;prevents the body from properly absorbing sunlight.\n\nFirst, several studies &#160;have shown that regularly using sunscreen actually reduces the risk of developing melanoma.\n\n\"There is no scientific evidence that supports the association of sunscreen use with a higher risk of cancer,\" said Brittany Schaefer, public information officer with the Connecticut State Department of Public Health.\n\nSchaefer spoke with DW in 2025, when the Fact check team debunked similar claims around sunscreen, especially the false&#160;assumption that the countries that use the most sunscreen have the highest incidence of skin cancer.\n\nSecond, the US National Cancer Institute &#160;has not said sunscreen use caused a 200%&#160;increase in melanoma since 1940.\n\nAccording to the data, the rate of newly diagnosed melanoma cases has increased by more than 220%&#160;from then to 2023.\n\nHowever, there is no evidence linking the rise in melanoma cases to sunscreen use.\n\nA 2023 study &#160;involving scientists from the US, Germany, Switzerland and Hungary can provide some clues to understand why cases are on the rise.\n\nThis final point has also been highlighted by public surveys across several countries, despite&#160;recommendations that sunscreen should be used regularly.\n\nIn Germany, for example, 51% of respondents said in 2024 that they only use sunscreen in summer or when exposed to direct sunlight, while 17%&#160;said they never use it.\n\nAnd in the United States, a poll conducted in the same year &#160;found that 33%&#160;of adults admitted to never using sunscreen at all.\n\nGuidance&#160;from the US Food and Drug Administration , which&#160;regulates sunscreens to ensure they meet safety and...",
+            "zh": "随着热浪席卷欧洲，有关防晒霜是否安全或与皮肤癌风险有关的说法在网上重新出现。 欧洲各地数百万人正在热穹顶下忍受 40 摄氏度（104 华氏度）以上的高温。炎热的夜晚让恢复变得更加困难。 尽管许多人认识到需要使用防晒霜来保护自己免受阳光照射，但有些人，特别是在社交媒体上，一直在询问防晒霜是否真的有害。 讨论的核心问题是防晒霜是否会增加而不是降低患皮肤癌的风险。 尽管这场争论并不新鲜，但随着全球气温持续上升、干旱和极端高温成为新常态，它似乎确实越来越频繁地重新出现。 声称：“根据美国国家癌症研究所的数据，自 1940 年推出防晒霜以来，黑色素瘤的发病率增加了 200% 以上。” 此声明已存档于此处，已出现在多个社交媒体平台上。它将防晒霜进一步描述为一种“毒药”，会阻止身体正确吸收阳光。 首先，多项研究表明，定期使用防晒霜实际上可以降低患黑色素瘤的风险。 康涅狄格州公共卫生部公共信息官员布列塔尼·谢弗 (Brittany Schaefer) 表示：“没有科学证据支持使用防晒霜与较高的癌症风险之间存在关联。” 2025 年，谢弗接受了德国之声的采访，当时事实核查小组驳斥了有关防晒霜的类似说法，尤其是“使用防晒霜最多的国家皮肤癌发病率最高”的错误假设。 其次，美国国家癌症研究所并未表示自 1940 年以来使用防晒霜导致黑色素瘤增加 200%。 数据显示，从那时到 2023 年，新诊断的黑色素瘤病例率增加了 220% 以上。 然而，没有证据表明黑色素瘤病例的增加与防晒霜的使用有关。 来自美国、德国、瑞士和匈牙利的科学家参与的一项 2023 年研究可以提供一些线索，以了解病例为何不断增加。 尽管建议定期使用防晒霜，但多个国家/地区的公共调查也强调了最后一点。 例如，在德国，2024 年有 51% 的受访者表示，他们只在夏季或暴露在阳光直射时使用防晒霜，而 17% 的受访者表示从不使用防晒霜。 在美国，同年进行的一项民意调查发现，33% 的成年人承认从未使用过防晒霜。 美国食品和药物管理局的指导意见，该机构对防晒霜进行监管，以确保其符合安全性和..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-with-operation-purgatory-magyar-moves-to-demolish-orban-sy",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/with-operation-purgatory-magyar-moves-to-demolish-orban-system/a-77726207?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77487106_6.jpg",
+          "publishedAt": "2026-06-28T09:25:00.000Z",
+          "title": {
+            "en": "With 'Operation Purgatory,' Magyar moves to demolish Orban system",
+            "zh": "匈牙利“炼狱行动”旨在拆除欧尔班体系"
+          },
+          "summary": {
+            "en": "The new Hungarian government has launched 'Operation Purgatory' to dismantle the system of former Prime Minister Viktor Orban, focusing on anti-corruption efforts, media reform, and protecting democracy.",
+            "zh": "匈牙利新政府启动“炼狱行动”，旨在拆除前总理维克托·欧尔班的执政体系，重点打击腐败、改革媒体并保护民主。"
+          },
+          "body": {
+            "en": "The new Hungarian government is moving swiftly to dismantle the system of former Prime Minister Viktor Orban. The focus: fighting corruption, reforming the media and protecting democracy.\n\nHungarian Prime Minister Peter Magyar &#160;and his government are setting a fast pace of reform.\n\nIn his first few weeks in office, Magyar lifted EU blockades introduced by his predecessor, Viktor Orban , and launched a dialogue with Ukraine , which Orban had labeled \"The Empire of Evil.\"\n\nBack home in Budapest,&#160;parliament has approved cuts to the salaries of lawmakers and ministers and limited a prime minister's time in office to a maximum of&#160;two terms.\n\nMuch of this was anti-Orban symbolism.&#160;But with these changes under his belt, Magyar has now turned his attention to the substance of his predecessor's regime.\n\nOrban had laid out plans that stretched decades into the future: In the event of his party losing the election, civil servants who would be difficult to replace would sabotage the work of new governments. In addition, billions were squirreled away to continue financing Orban's network.\n\nBut thanks to a comfortable two-thirds majority in parliament, the government of Magyar and his Tisza party can now dismantle these structures.\n\nIn an address to parliament on Monday, Magyar called Orban's style of rule the \"mafia system.\" &#160;He promised to root it out completely using what he called \"Operation Purgatory,\" a name that likely comes from Magyar's penchant for religious and historical symbols.\n\nMagyar has promised that comprehensive investigations will be done to establish how Orban's family and friends, as well as oligarchs and high-ranking party members, lined their pockets, and vowed that illegally obtained assets will be recovered.\n\nHe has also pledged that state institutions, the judiciary and the media will be reformed in such a way that renders it impossible to return to the Orban system, which saw political control of state institutions and the public.\n\n\"Orban wanted to tie the hands of the next 10 governments,\" said the online news outlet 444.hu.&#160;\"The Magyar administration is now ripping up that plan.\"\n\nOn Tuesday, the parliament passed a first large package of laws relating to \"Operation Purgatory.\"\n\nMost of them were anti-corruption measures. These were key to ensuring that the European Union releases about €17 billion ($19.3 billion) in EU funding for Hungary that was frozen by Brussels because of a perceived risk of corruption during Orban's time in power.\n\nThe timing was very important, because a deadline for the payment of one large tranche of these funds, some €10.4 billion, is in August.\n\nOne of the most important measures is the abolition of what is known as public interest asset management foundations&#160;(KEKVA),...",
+            "zh": "匈牙利新政府正在迅速采取行动，废除前总理欧尔班·维克多的制度。重点：打击腐败、改革媒体和保护民主。 匈牙利总理彼得·马扎尔和他的政府正在加快改革步伐。 在上任的头几周内，马扎尔解除了其前任欧尔班·维克多(Viktor Orban)实行的欧盟封锁，并与被欧尔班称为“邪恶帝国”的乌克兰展开对话。 回到布达佩斯，议会批准削减议员和部长的工资，并将总理的任期限制为最多两届。 其中大部分是反欧尔班的象征意义。 但随着这些变化，马扎尔现在将注意力转向了前任政权的实质内容。 欧尔班制定了未来几十年的计划：如果他的政党在选举中失败，难以替代的公务员将破坏新政府的工作。此外，还储备了数十亿美元来继续为欧尔班的网络提供资金。 但由于在议会中获得了三分之二的多数席位，马扎尔政府和他的蒂萨党现在可以拆除这些结构。 在周一向议会发表的讲话中，马扎尔将欧尔班的统治方式称为“黑手党体系”。 他承诺将通过他所谓的“炼狱行动”彻底根除它，这个名字可能来自马扎尔对宗教和历史符号的偏爱。 马扎尔承诺将进行全面调查，查明欧尔班的家人和朋友以及寡头和高级党员如何中饱私囊，并誓言将追回非法获得的资产。 他还承诺，将对国家机构、司法机构和媒体进行改革，使其不可能回到欧尔班体系，因为该体系对国家机构和公众进行了政治控制。 在线新闻媒体 444.hu 表示，“欧尔班希望束缚接下来 10 届政府的手脚”。 “马扎尔政府现在正在撕毁该计划。” 周二，议会通过了第一套与“炼狱行动”相关的大型法律。 其中大部分是反腐败措施。这些对于确保欧盟向匈牙利发放约 170 亿欧元（193 亿美元）的欧盟资金至关重要，这些资金因欧尔班执政期间存在腐败风险而被布鲁塞尔冻结。 时机非常重要，因为其中一大笔资金（约 104 亿欧元）的最后期限是 8 月份。 最重要的措施之一是废除所谓的公共利益资产管理基金会（KEKVA）……"
+          },
+          "reflection": {
+            "en": "The transition of power in Hungary, with a new government aiming to dismantle a previous system, highlights the profound impact of leadership on a nation. As Proverbs 29:2 suggests, the nature of governance directly affects the well-being and spirit of the people. May this new chapter bring forth integrity and justice, fostering an environment where all...",
+            "zh": "匈牙利政权的更迭，新政府旨在拆除旧有体系，这突显了领导力对一个国家产生的深远影响。正如箴言29:2所言，治理的性质直接关系到人民的福祉和精神状态。愿这个新篇章带来廉正与公义，营造一个所有公民都能繁荣发展的环境。"
+          },
+          "verse": {
+            "reference": "Proverbs 29:2",
+            "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
+            "textZh": "义人增多，民就喜乐；恶人掌权，民就叹息。",
+            "themeEn": "Righteous vs wicked rulers",
+            "themeZh": "义人执政与恶人当道"
+          },
+          "aiVerseId": "prov_29_2",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cdxdwkgqgq0o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
+          "publishedAt": "2026-06-28T04:54:50.000Z",
+          "title": {
+            "en": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+            "zh": "美国和伊朗交换打击，并相互指责对方违反停火协议"
+          },
+          "summary": {
+            "en": "Iran reported launching retaliatory attacks on US infrastructure in Kuwait and Bahrain, following earlier US strikes on multiple targets across Iran. Both nations accuse each other of violating a ceasefire agreement.",
+            "zh": "伊朗表示，在美国袭击了伊朗境内的多个目标后，伊朗已对美国在科威特和巴林的设施发动了报复性袭击。两国相互指责对方违反了停火协议。"
+          },
+          "body": {
+            "en": "The US has conducted new strikes on Iran, following a drone attack on a Panama-flagged vessel in the Strait of Hormuz on Saturday.\n\nUS Central Command (Centcom) said it hit multiple targets across Iran in direct response to \"continued aggression\" against commercial shipping.\n\nIn retaliation, Iran's Islamic Revolutionary Guard Corps (IRGC) said it has launched missiles and drones at US infrastructure in Kuwait and Bahrain, in a statement shared to state media.\n\nFollowing the exchange of fire, the US and Iran accused each other of violating the ceasefire agreement.\n\nCentcom said in a statement, \"Iran was given a chance to honor the ceasefire agreement but elected not to when its forces launched a one-way attack drone that hit MT Kiku,\" a Panama-flagged tanker.\n\nIn response, it said, US fighter jets conducted strikes on 10 Iranian military targets at multiple locations in and near the Strait of Hormuz. These included military equipment, communication systems, air defense sites and drone storage facilities.\n\nIn the IRGC's statement, it said the US had attacked five coastal posts in Iran under what it called \"the pretext of the IRGC Navy confronting the offending ship\".\n\nIn retaliation, the IRGC said it had launched ballistic missiles and drones at \"eight key pieces of infrastructure\" at the Ali al-Salem base in Kuwait and the Fifth Naval Fleet in Port Salman, Bahrain, \"destroying them\".\n\nA US official has told Reuters that there were no reported US casualties or major impacts or damage to US facilities in the Middle East.\n\nThe IRGC said that under the Memorandum of Understanding (MoU) signed earlier this month, Iran has arrangements for controlling passage and navigation in the Strait of Hormuz, and from now on, violating ships will be dealt with more forcefully than in the past.\n\n\"Any potential enemy aggression, under any pretext, even if the aggressions are against minor targets, as happened last night and tonight, will have a crushing response,\" read the statement.\n\nIt also accused the US of violating the ceasefire agreed to in the MoU between the two nations, warning that it \"will lead to a complete halt to the process\".\n\nThe Iranian Foreign Ministry has also condemned what it described as the \"brutal attacks\" a violation of the ceasefire, adding it showed that the US \"does not place the slightest value and credibility on its commitments, and breaking promises is part of its nature.\"\n\nShortly after the latest US strikes on Iran were announced, Trump said on Truth Social that it was \"very possible\" that Tehran would \"never learn\".\n\n\"There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started,\" he wrote on Saturday evening.\n\nThe post went on: \"If that happens,...",
+            "zh": "周六，一艘悬挂巴拿马国旗的船只在霍尔木兹海峡遭到无人机袭击后，美国对伊朗进行了新的打击。 美国中央司令部（Centcom）表示，它袭击了伊朗各地的多个目标，以直接回应针对商业航运的“持续侵略”。 作为报复，伊朗伊斯兰革命卫队（IRGC）在向官方媒体分享的一份声明中表示，它已向科威特和巴林的美国基础设施发射了导弹和无人机。 交火后，美国和伊朗互相指责对方违反停火协议。 中央司令部在一份声明中表示，“伊朗本来有机会遵守停火协议，但当伊朗军队发射一架单向攻击无人机击中一艘悬挂巴拿马国旗的油轮 MT Kiku 时，伊朗选择不这样做。” 作为回应，美国战斗机对霍尔木兹海峡及其附近多个地点的 10 个伊朗军事目标进行了袭击。其中包括军事装备、通信系统、防空场地和无人机存储设施。 伊朗革命卫队在声明中表示，美国以“伊朗革命卫队海军与违规船只对峙为借口”袭击了伊朗的五个沿海哨所。 作为报复，伊朗革命卫队表示，已向科威特阿里萨勒姆基地和巴林萨勒曼港第五海军舰队的“八个关键基础设施”发射弹道导弹和无人机，“摧毁它们”。 一名美国官员告诉路透社，目前没有美国人员伤亡的报道，也没有美国在中东的设施受到重大影响或损坏的报道。 伊朗革命卫队表示，根据本月早些时候签署的谅解备忘录，伊朗对霍尔木兹海峡的通行和航行进行了控制安排，从现在开始，违规船只将受到比以往更严厉的处理。 声明中写道：“任何潜在的敌人侵略，无论以任何借口，即使侵略是针对小目标，就像昨晚和今晚发生的那样，都将得到毁灭性的回应。” 它还指责美国违反了两国谅解备忘录中商定的停火协议，并警告称，这“将导致这一进程完全停止”。 伊朗外交部也谴责了所谓的“野蛮袭击”，违反了停火协议，并补充说，这表明美国“不重视自己的承诺，不相信自己的承诺，违背承诺是其本质的一部分”。 在美国宣布对伊朗进行最新打击后不久，特朗普在《真相社会》上表示，德黑兰“很可能”永远不会吸取教训。 他在周六晚上写道：“可能有一天，我们不再能够保持理性，并将被迫以军事方式完成我们非常成功地开始的工作。” 帖子继续说道：..."
+          },
+          "reflection": {
+            "en": "The cycle of accusation and retaliation described in the news highlights the enduring challenge of breaking patterns of hostility. Yahweh's word reminds us that true strength lies not in mirroring evil, but in choosing a different path to overcome it with good. This calls for a profound shift in how nations, and individuals, respond to perceived wrongs.",
+            "zh": "新闻中描述的相互指责和报复循环，凸显了打破敌对模式的持久挑战。雅伟的话语提醒我们，真正的力量不在于以恶报恶，而在于选择不同的道路，以善胜恶。这呼唤着国家和个人在回应所认为的错误时，能有深刻的转变。"
+          },
+          "verse": {
+            "reference": "Romans 12:21",
+            "textEn": "Do not be overcome by evil, but overcome evil with good.",
+            "textZh": "你不可为恶所胜，反要以善胜恶。",
+            "themeEn": "Overcoming evil with good",
+            "themeZh": "以善胜恶"
+          },
+          "aiVerseId": "rom_12_21",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-trump-us-iran-deal-latest-lebanon-israel-net",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/trump-us-iran-deal-latest-lebanon-israel-netanyahu-strait-of-hormuz/k6sqp0o9h",
+          "image": "https://assets.sbs.com.au/dims4/default/62f582e/2147483647/strip/false/crop/5226x2401+0+0/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fd8%2F61%2Ff25f3b284f0d92cedccd9f5f8b13%2F20260628150130369770-original.jpg",
+          "publishedAt": "2026-06-28T03:24:56.000Z",
+          "title": {
+            "en": "Iran again asserts control over Strait of Hormuz after Trump's Truth Social annihilation threat",
+            "zh": "特朗普言辞升级，称“伊朗伊斯兰共和国将不复存在”，休战协议受考验"
+          },
+          "summary": {
+            "en": "Iran has fired missiles and drones at US military bases in Kuwait and Bahrain, leading to an escalation in rhetoric from former President Trump, who stated the \"Islamic Republic of Iran will no longer exist,\" further testing a fragile truce.",
+            "zh": "伊朗向科威特和巴林境内的美国军事基地发射了导弹和无人机，导致前总统特朗普的言辞升级，他声称“伊朗伊斯兰共和国将不复存在”，这进一步考验了脆弱的休战协议。"
+          },
+          "body": {
+            "en": "The Iranian foreign minister has warned that any challenge to his country's control of the Strait of Hormuz would increase tensions after a series of tit-for-tat attacks with the United States and social media threats of annihilation from the US president.\n\nDuring a visit to Iraq on Sunday, Abbas Araghchi said: \"Any attempt to adopt new or separate arrangements compared to what is underway by the Islamic Republic of Iran will only lead to more complicated situations and delays in the reopening of the Strait of Hormuz, and will increase the tensions, as we witnessed in the past two nights.\"\n\nAraghchi called on all parties to \"adhere to the memorandum of understanding and not to allow this MoU to deviate from its course\" while proposing a new security framework with Gulf countries.\n\n\"We should reach a new framework that includes all countries in the region &#x2014; and without the presence or interference of any country from outside the region,\" he said.\n\nThe comments came after US President Donald Trump said on Sunday that \"the Islamic Republic of Iran will no longer exist\" if the US was \"forced\" to resume the war, accusing Iran of violating the ceasefire.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"United States aircraft just struck Iranian missile and drone storage locations, and coastal radar sites, for violating the Cease Fire Agreement, AGAIN!\" Trump wrote on Truth Social.\n\n\"There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started,\" he continued.\n\nThe clashes brought new tension to the negotiating process meant to end a war launched by the US and Israel at the end of February.\n\nThey also underlined the risks still facing one of the world's most important sea lanes for oil and other commodities.\n\nUS Central Command said it had struck 10 Iranian military targets in response to an Iranian drone attack on the Panama-flagged oil tanker Kiku, which was carrying some two million barrels of crude.\n\nThe US military said the response targeted \"surveillance infrastructure, communication systems, air defense sites, drone storage facilities, and minelayer capabilities\".\n\nIranian media reported several explosions in the Sirik and Qeshm areas of southern Iran.\n\nIn retaliation, Iran launched multiple missiles and drones toward neighbouring countries, including Bahrain and Kuwait.\n\nThe Bahraini military said it had \"intercepted and destroyed a number of projectiles used in these treacherous Iranian attacks\", adding that it was on \"maximum alert\".\n\nKuwait's foreign ministry said in a statement that it \"expresses its condemnation and denunciation of... in the strongest terms,...",
+            "zh": "美国总统唐纳德·特朗普周日指责伊朗违反停火协议，表示如果美国“被迫”恢复战争，伊朗将“不复存在”。 在发出这一威胁之前，美国军队表示，他们袭击了“多个”伊朗目标，这是对重要的霍尔木兹海峡航运袭击的又一次针锋相对的回应。 “美国飞机刚刚袭击了伊朗导弹和无人机储存地点以及沿海雷达站点，再次违反了停火协议！”特朗普在《真相社会》上撰文。 他继续说道：“可能有一天，我们不再能够保持理性，并将被迫以军事方式完成我们非常成功地开始的工作。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这些冲突给旨在结束美国和以色列二月底发动的战争的谈判进程带来了新的紧张局势。 他们还强调了世界上最重要的石油和其他商品海上通道之一仍然面临的风险。 美国中央司令部表示，针对伊朗无人机袭击悬挂巴拿马国旗的 Kiku 号油轮（该油轮载有约 200 万桶原油），美国中央司令部袭击了 10 个伊朗军事目标。 美国军方表示，此次反应针对的是“监视基础设施、通信系统、防空站点、无人机存储设施和雷雷能力”。 伊朗媒体报道称，伊朗南部的希里克和格什姆地区发生多起爆炸。 一名美国官员向路透社证实，作为报复，伊朗向巴林和科威特等邻国发射了多枚导弹和无人机。 这位不愿透露姓名的官员表示，目前没有关于美国人员伤亡或美国在中东的设施受到重大影响或损坏的报道。 伊朗伊斯兰革命卫队（IRGC）在一份声明中表示，美国违反停火协议的行为“违反”了最近签署的“谅解备忘录”，“将导致所有外交进程完全停止”。 该组织还表示，他们正在采取措施控制重要的霍尔木兹海峡的交通，并将比以前更严厉地处理违规船只。德黑兰授权的唯一通道穿过伊朗海岸的走廊。 伊朗伊斯兰革命卫队表示，伊朗的报复性袭击“摧毁了位于科威特阿里萨勒姆基地和巴林萨勒曼港第五舰队海军基地的八个重要的美国军事设施”。 该组织表示：“任何敌人的侵略，无论以什么借口，即使是针对无关紧要的目标……都会遭到毁灭性的回应。” 据海湾报道，巴林周日两次响起空袭警报。"
+          },
+          "reflection": {
+            "en": "The escalation of conflict, marked by both military action and sharp rhetoric, reminds us of the perilous cycle of violence. Yahweh's word warns that those who live by the sword often perish by it, urging us to seek paths that break this destructive pattern. True security is found not in escalating force, but in pursuing peace and understanding.",
+            "zh": "冲突的升级，无论是军事行动还是激烈言辞，都提醒我们暴力循环的危险。雅伟的话语警告说，凡动刀的，必死在刀下，这敦促我们寻求打破这种破坏性模式的道路。真正的安全不在于升级武力，而在于追求和平与理解。"
+          },
+          "verse": {
+            "reference": "Matthew 26:52",
+            "textEn": "All who draw the sword will die by the sword.",
+            "textZh": "凡动刀的，必死在刀下。",
+            "themeEn": "Cycle of violence",
+            "themeZh": "动刀者必亡于刀"
+          },
+          "aiVerseId": "matt_26_52",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-6-7-million-people-affected-by-venezuela-ear",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/6-7-million-people-affected-by-venezuela-earthquake-locals-plead-for-more-aid/my822z5i8",
+          "image": "https://assets.sbs.com.au/dims4/default/c74b858/2147483647/strip/false/crop/6000x2757+0+309/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fd4%2F08%2F9382e168461d92191b7c361a1b16%2Fgettyimages-2283116603.jpg",
+          "publishedAt": "2026-06-28T01:52:26.000Z",
+          "title": {
+            "en": "6.7 million people affected by Venezuela earthquakes, UN says, locals plead for more aid",
+            "zh": "联合国称委内瑞拉地震影响670万人，当地居民恳求更多援助"
+          },
+          "summary": {
+            "en": "A powerful earthquake in Venezuela has led to a rising death toll of nearly 1,500, with the United Nations reporting that 6.7 million people have been affected. Local residents are urgently appealing for increased humanitarian aid.",
+            "zh": "联合国表示，委内瑞拉地震已造成近1,500人死亡，670万人受灾。当地居民正紧急呼吁提供更多援助。"
+          },
+          "body": {
+            "en": "Close to seven million people may have been impacted by the twin earthquakes that struck Venezuela on Thursday, leaving nearly 1,500 dead.\n\nThe United Nations migration agency estimated on Sunday that \"up to 6.76 million people could be affected by the devastating earthquakes\".\n\nThe International Organization for Migration (IOM) projection highlights the \"potentially vast humanitarian impact\" of the disaster as locals on the ground claim the government is not responding quickly enough.\n\nVenezuela's interim leader Delcy Rodriguez was booed during a visit to a neighbourhood in the capital Caracas that had been badly affected by the natural disaster.\n\n\"The government isn't doing anything for the people,\" residents yelled on Saturday, many of whom had loved ones trapped under the debris.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThree days after two powerful tremors of magnitude 7.2 and 7.5 hit , 50,000 people are still missing. The death toll has risen to 1,430 people &#x2014; according to National Assembly president Jorge Rodr&#xED;guez &#x2014; and fury with perceived governmental inaction is mounting.\n\nAs the first US aid flight landed in Caracas, millions of Venezuelans are feared to lack sanitation and other basic needs.\n\nRodriguez has thanked the international community for the significant outpouring of aid.\n\nHowever, local residents are being forced to desperately claw away rubble from collapsed apartment buildings.\n\nExperts say the first 72 hours after natural disasters are the key, narrow window for finding the living.\n\n\"It's just very chaotic, hot and unorganised,\" Australian firefighter Craig De Meillon, 43, told the Agence France-Presse (AFP) news agency. He travelled alone to La Guaira from Miami to help.\n\nUN aid chief Tom Fletcher on Friday told AFP the death toll could continue to soar.\n\nOne runway at Simon Bolivar International Airport is partially functioning for aid landings. A US naval ship has also arrived off the coast.\n\nThere was joy in the hardest-hit coastal area of La Guaira, north of Caracas, when locals pulled an infant alive out of the wreckage on Saturday, 32 hours after the initial shocks.\n\nIn one social media video, a man welled up in tears as he held the baby in his arms.\n\nAlready battered by years of a failing economy and the turbulence of the US intervention to abduct leader Nicolas Maduro in January , Venezuelans are increasingly expressing their anger with the government.\n\nYessica Mendoza was forced to transport her own daughter to a morgue in Caracas after 25-year-old Yesimar Rodriguez and her husband Jhomel Anaya, 26, did not survive the tumbling debris of their home in La Guaira on Wednesday.\n\n\"We were the ones who...",
+            "zh": "周四委内瑞拉发生的两次地震可能影响了近 700 万人，造成近 1,500 人死亡。 联合国移民机构周日估计，“多达 676 万人可能受到毁灭性地震的影响”。 国际移民组织（IOM）的预测强调了这场灾难“潜在的巨大人道主义影响”，当地当地人声称政府反应不够迅速。 委内瑞拉临时领导人德尔西·罗德里格斯在视察首都加拉加斯遭受自然灾害严重打击的一个社区时遭到嘘声。 “政府没有为人民做任何事情，”居民周六大喊道，其中许多人的亲人被困在废墟下。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 两次7.2级和7.5级强烈地震袭击三天后，仍有5万人失踪。国民议会议长豪尔赫·罗德里格斯 (Jorge Rodriguez) 表示，死亡人数已上升至 1,430 人，人们对政府无所作为的愤怒与日俱增。 随着美国第一架援助飞机降落在加拉加斯，数百万委内瑞拉人担心缺乏卫生设施和其他基本需求。 罗德里格斯感谢国际社会提供的大量援助。 然而，当地居民被迫拼命铲除倒塌公寓楼的瓦砾。 专家表示，自然灾害发生后的前 72 小时是寻找生还者的关键且狭窄的窗口。 43 岁的澳大利亚消防员克雷格·德·梅永 (Craig De Meil​​lon) 告诉法新社 (AFP)：“现场非常混乱、炎热且无组织。”他独自从迈阿密前往拉瓜伊拉提供帮助。 联合国援助负责人汤姆·弗莱彻周五告诉法新社，死亡人数可能会继续飙升。 西蒙·玻利瓦尔国际机场的一条跑道已部分运行，可供救援物资降落。一艘美国海军舰艇也抵达近海。 周六，在最初的震动发生 32 小时后，加拉加斯以北受灾最严重的拉瓜伊拉沿海地区，当地人从废墟中救出了一名活着的婴儿，人们感到非常高兴。 在一段社交媒体视频中，一名男子抱着婴儿，泪流满面。 委内瑞拉人已经受到多年经济衰退和美国一月份绑架领导人尼古拉斯·马杜罗干预的动荡的打击，越来越多地表达对政府的愤怒。 周三，25 岁​​的耶西马尔·罗德里格斯 (Yesimar Rodriguez) 和她 26 岁的丈夫乔梅尔·阿纳亚 (Jhomel Anaya) 在拉瓜伊拉 (La Guaira) 房屋倒塌的废墟中丧生，耶西卡·门多萨 (Yessica Mendoza) 被迫将自己的女儿送往加拉加斯的停尸房。 “我们是那些..."
+          },
+          "reflection": {
+            "en": "In the wake of such widespread devastation, the plea for aid from affected communities reminds us of our shared human responsibility. Yahweh calls us to share our resources with the hungry and shelter the homeless, seeing their needs as our own. This tragedy underscores the urgent call to extend practical compassion to those facing immense hardship.",
+            "zh": "面对如此广泛的灾难，受灾社区的援助呼吁提醒我们共同的人类责任。雅伟呼召我们与饥饿者分享食物，为无家可归者提供住所，将他们的需要视为我们自己的需要。这场悲剧强调了向那些面临巨大困难的人伸出援手、给予实际关怀的紧迫呼吁。"
+          },
+          "verse": {
+            "reference": "Isaiah 58:7",
+            "textEn": "Is it not to share your food with the hungry and to provide the poor wanderer with shelter — when you see the naked, to clothe them?",
+            "textZh": "不是要把你的饼分给饥饿的人，将飘流的穷人接到你家中，见赤身的给他衣服遮体？",
+            "themeEn": "True fasting",
+            "themeZh": "真禁食"
+          },
+          "aiVerseId": "isa_58_7",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c2dyrk56dg9o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e70/live/88460510-72c5-11f1-b1db-af71d47507d6.jpg",
+          "publishedAt": "2026-06-28T01:46:24.000Z",
+          "title": {
+            "en": "Bad Bunny lights up London with history-making stadium show",
+            "zh": "坏痞兔：拉丁巨星点亮伦敦，创造体育场演出历史"
+          },
+          "summary": {
+            "en": "Puerto Rican artist Bad Bunny made history by becoming the first Latin artist to headline a stadium show in the UK, a moment celebrated with pride and festivity in London.",
+            "zh": "波多黎各艺人坏痞兔在伦敦创造了历史，成为首位在英国体育场举办个人演唱会的拉丁裔艺人，这一刻充满了自豪和庆祝。"
+          },
+          "body": {
+            "en": "Bad Bunny brought Latin America to London on Saturday night, as he became the first artist from that part of the world to headline a UK stadium.\n\nThe Puerto Rican rapper captivated a star-studded crowd of about 50,000 on the first of two sold-out nights in Tottenham, with a celebration of Central and South American culture, communities - and even the climate.\n\nThe fans' energy levels defied the hot and humid conditions with a fiesta from start to finish.\n\nBut as the singer sent a message of solidarity to Venezuela following its devastating earthquakes, it was also an evening of contrasting emotions.\n\nBad Bunny - whose real name is Benito Antonio Martínez Ocasio - is approaching the end of his Debí Tirar Más Fotos world tour.\n\nAnd the 32-year-old performed with the low-key confidence and charisma of an artist now completely comfortable on the world's biggest stages.\n\nThe setlist was unsurprisingly dominated by the album that gives the tour its name.\n\nDTMF, as it's also known, made history at the Grammy Awards in February as the first sung entirely in Spanish to win album of the year.\n\nStarting the show where the record ends, La Mudanza (The Move) set the tone for the evening - showcasing his ability to blur genre boundaries, blending modern Latin rap with old-school salsa, supported by a live traditional band.\n\nBut several songs later, it was Nuevayol that really got the party started, as one of the standout singles to help Bad Bunny break through into more mainstream British audiences.\n\nYou don't need to understand the lyrics - or to have grown up with the more native sounds - to be swept up in his universally danceable rhythms, cinematic samples and infectious hooks.\n\nBut for those who are invested in the words, DTMF is also a deeply personal record - exploring loss and longing, against a backdrop of nostalgia and identity.\n\nThe themes have been brought to visual life on this tour through stunning stadium-scale production, with a Puerto Rican-style home at the back of the stadium floor serving as a second stage.\n\nKnown as La Casita, it gives the show a communal and intimate feel, putting him among the crowd - as though performing at the world's biggest house party in the local town the design evokes.\n\nDespite the size (and, no doubt, cost) of the spectacle, it has a humble character - favouring homely and traditional imagery, over the high-tech mega-runways of other contemporary stadium shows.\n\nAnd the three-hour performance was a reminder that his global success didn't happen overnight, with him digging deep into his eight-year discography - traversing trap and reggaeton fusions.\n\nNaturally, this created relative lulls in the set for those newer to the singer and a welcome chance to catch a breath.\n\nAnd the night's only anticlimactic moment came...",
+            "zh": "周六晚上，Bad Bunny 将拉丁美洲带到了伦敦，成为世界上第一位在英国体育场担任主角的来自该地区的艺术家。 这位波多黎各说唱歌手在托特纳姆热刺的两晚门票全部售完的第一晚，吸引了大约 50,000 名明星云集的观众，庆祝了中美洲和南美洲的文化、社区甚至气候。 球迷们的能量水平从始至终都在对抗炎热和潮湿的环境，充满了节日气氛。 但当这位歌手在遭受毁灭性地震后向委内瑞拉发出声援信息时，这也是一个充满对比情绪的夜晚。 Bad Bunny（坏兔子）的真名是 Benito Antonio Martínez Ocasio（贝尼托·安东尼奥·马丁内斯·奥卡西奥），他的 Debí Tirar Más Fotos 世界巡演即将结束。 这位 32 岁的艺术家的表演充满了低调的自信和魅力，就像一位现在在世界最大的舞台上完全自在的艺术家。 毫不奇怪，专辑中以巡演命名的专辑为主。 DTMF（也称为 DTMF）在二月份的格莱美奖上创造了历史，成为第一张完全用西班牙语演唱的年度专辑。 在唱片结束的地方开始演出，La Mudanza (The Move) 为当晚定下了基调 - 展示了他模糊流派界限的能力，在现场传统乐队的支持下，将现代拉丁说唱与老式萨尔萨舞融为一体。 但几首歌之后，真正让派对开始的是《Nuevayol》，它是帮助《Bad Bunny》打入更多英国主流听众的杰出单曲之一。 你不需要理解歌词，也不需要在更本土的声音中长大，就能被他普遍适合跳舞的节奏、电影样本和富有感染力的旋律所吸引。 但对于那些热衷于文字的人来说，DTMF 也是一份深刻的个人记录——在怀旧和身份的背景下探索失落和渴望。 通过令人惊叹的体育场规模制作，这些主题在这次巡演中被带入了视觉生活，体育场地板后面的波多黎各风格的住宅作为第二舞台。 它被称为“La Casita”，给这场演出带来了一种公共和亲密的感觉，让他置身于人群之中——就像在设计所唤起的当地小镇上世界上最大的家庭聚会上表演一样。 尽管这场盛会的规模很大（毫无疑问，成本也很高），但它有一个谦虚的性格——与其他当代体育场表演的高科技巨型跑道相比，它更喜欢朴素和传统的形象。 三个小时的表演提醒人们，他的全球成功并非一朝一夕之事，他深入挖掘了八年的唱片记录——穿越 trap 和雷鬼融合。 自然地，这为那些刚接触这位歌手的人带来了相对平静的气氛，也是一个喘口气的好机会。 当晚唯一虎头蛇尾的时刻到来了……"
+          },
+          "reflection": {
+            "en": "The excitement surrounding Bad Bunny's historic performance reminds us of the dedication and effort required to achieve such milestones. While earthly accolades bring joy and recognition, Yahweh's word encourages us to pursue a lasting crown that transcends temporary fame. This perspective helps us celebrate human achievement while anchoring our ultimate...",
+            "zh": "坏痞兔历史性演出的激动人心，提醒我们达成如此里程碑所需的奉献与努力。虽然世俗的荣誉带来喜悦和认可，但雅伟的话语鼓励我们追求超越短暂名声的永恒冠冕。这种视角帮助我们庆祝人类的成就，同时将我们最终的希望锚定在永恒的事物上。"
+          },
+          "verse": {
+            "reference": "1 Corinthians 9:25",
+            "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
+            "textZh": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
+            "themeEn": "Perishable vs eternal crown",
+            "themeZh": "能坏与不能坏的冠冕"
+          },
+          "aiVerseId": "1cor_9_25",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-albania-s-flamingo-revolution-what-s-behind-the-protests-a",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77542099_6.jpg",
+          "publishedAt": "2026-06-27T20:46:00.000Z",
+          "title": {
+            "en": "Albania's 'Flamingo Revolution': What's behind the protests?",
+            "zh": "阿尔巴尼亚的“火烈鸟革命”：抗议背后的原因是什么？"
+          },
+          "summary": {
+            "en": "For weeks now, images of crowds of Albanians protesting on the streets have been relayed around the world. The protesters say they are fighting for democracy. PM Edi Rama insists the movement is part of a hybrid war.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "For weeks now, images of crowds of Albanians protesting on the streets have been relayed around the world. The protesters say they are fighting for democracy. PM Edi Rama insists the movement is part of a hybrid war.\n\nEvery evening at 7 p.m., protesters return to the same square in the Albanian capital, Tirana, with the same symbols, making&#160;the same demands.\n\nMore than three weeks of uninterrupted daily demonstrations have turned the \"Flamingo Revolution\" into Albania's largest civic protest movement since the fall of communism.\n\nIt began when a government-approved luxury tourism project in Zvernec, a protected coastal area in southern Albania , triggered protests that soon evolved into a broader political movement.\n\nInitially driven by environmental concerns, the demonstrations have expanded into broader demands, including calls for the resignation of Prime Minister Edi Rama .\n\nRama has rejected&#160;the idea that the unrest can be explained by domestic political grievances alone. Instead, he has argued&#160;that protests are unfolding within what he describes as a \"hybrid war\" driven by external influences and digital manipulation.\n\nFor Rama, the controversy gained international visibility only after it became associated with Jared Kushner, the son-in-law of US President Donald Trump , who is planning to build a luxury tourism project in Zvernec.\n\n\"The world did not wake up because of the fate of Narta, but because of the name of Jared Kushner,\" Rama said at a meeting of the Socialist Party's parliamentary group on June 20.\n\nThe prime minister has argued&#160;that what he referred to as the \"digital cyclone\" has allowed the protests to be amplified by a broad constellation of external actors, including Trump opponents, anti-Israel groups and what he calls state-sponsored \"digital mercenaries.\"\n\n\"State-sponsored actors have been identified, including those from Iran ,\" he said.\n\nJonila Godole, scholar of political communication and collective memory at the University of Tirana, said&#160;Rama's interpretation of the protests reflects a familiar communications strategy: shifting the focus from the protesters' demands to the alleged forces behind them.\n\n\"When a civic protest is presented as Iranian, anti-Israeli&#160;or driven by Trump's opponents, attention shifts away from what protesters are demanding. The debate moves instead to the alleged authors of the protest — the external enemy,\" she told DW.\n\nGodole also sees echoes of Albania's communist past in Rama's rhetoric. During Albania's communist period , political dissent was routinely portrayed as the work of hostile foreign forces.\n\nShe argued&#160;that the language of external enemies continues to resurface whenever those in power face sustained domestic pressure.\n\n\"Fear was the...",
+            "zh": "几周以来，阿尔巴尼亚人上街抗议的画面已在世界各地流传。抗议者称他们正在为民主而战。总理埃迪·拉玛坚称，这场运动是混合战争的一部分。 每天晚上 7 点，抗议者都会带着同样的标志回到阿尔巴尼亚首都地拉那的同一个广场，提出同样的要求。 三周多不间断的日常示威活动使“火烈鸟革命”成为阿尔巴尼亚自共产主义垮台以来最大规模的公民抗议运动。 它始于政府批准的阿尔巴尼亚南部沿海保护区兹韦尔内克的一个豪华旅游项目引发的抗议活动，并很快演变成一场更广泛的政治运动。 示威活动最初是出于环境问题，后来扩大为更广泛的要求，包括要求总理埃迪·拉马辞职。 拉玛拒绝认为骚乱只能用国内政治不满来解释。相反，他认为抗议活动正在他所描述的由外部影响和数字操纵驱动的“混合战争”中展开。 对于拉玛来说，这场争议是在与美国总统唐纳德·特朗普的女婿贾里德·库什纳联系在一起后才获得国际关注的，后者正计划在兹韦尔内克建设一个豪华旅游项目。 6月20日，拉玛在社会党议会小组会议上表示：“世界醒悟不是因为纳尔塔的命运，而是因为贾里德·库什纳的名字。” 总理辩称，他所说的“数字旋风”使得抗议活动被一系列广泛的外部行为者放大，其中包括特朗普的反对者、反以色列团体以及他所说的国家支持的“数字雇佣军”。 他说：“已经确定了国家资助的行为者，其中包括来自伊朗的行为者。” 地拉那大学政治传播和集体记忆学者乔尼拉·戈多尔表示，拉玛对抗议活动的解释反映了一种熟悉的传播策略：将焦点从抗议者的要求转移到所谓的抗议者背后的力量。 她告诉德国之声：“当公民抗议被描述为伊朗、反以色列或由特朗普的反对者推动时，人们的注意力就会从抗议者的要求上转移。辩论会转向所谓的抗议发起者——外部敌人。” 戈多尔还在拉玛的言论中看到了阿尔巴尼亚共产主义历史的回响。在阿尔巴尼亚共产主义时期，政治异议通常被描述为外国敌对势力的产物。 她认为，每当当权者面临持续的国内压力时，外部敌人的语言就会继续重新出现。 “恐惧是..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-ukraine-strikes-russian-weapons-plant-moscow-fuel-hub-a-77",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77735421_6.jpg",
+          "publishedAt": "2026-06-27T16:41:00.000Z",
+          "title": {
+            "en": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
+            "zh": "乌克兰袭击俄罗斯武器工厂和莫斯科燃料枢纽"
+          },
+          "summary": {
+            "en": "Ukraine has launched drone attacks on a Russian weapons plant and a fuel hub in the Volgograd and Vladimir regions. These strikes are part of President Zelenskyy's stated strategy to extend the conflict to Russian territory and compel President Putin to engage in peace negotiations.",
+            "zh": "乌克兰对俄罗斯伏尔加格勒和弗拉基米尔地区的武器工厂和燃料枢纽发动了无人机袭击。泽连斯基总统表示，这些袭击是其战略的一部分，旨在将战火引向俄罗斯人民，迫使普京进行和平谈判。"
+          },
+          "body": {
+            "en": "The two attacks, in Volgograd and Vladimir regions, are part of President Zelenskyy's strategy to bring the war to the Russian people and force Putin into peace negotiations.\n\nUkraine continued attacks deep in Russian territory on Saturday, striking&#160;premises&#160;in the city of Volgograd that produce&#160;advanced weapons,&#160;Ukrainian President Volodymyr Zelenskyy said.\n\nIn a second major strike, Kyiv said Ukrainian drones hit an oil pumping station that delivers fuel to Russia's &#160;capital, Moscow .&#160;\n\nThe two attacks came a day after Ukraine launched one of its biggest drone assaults in the four-and-a-half-year-old war , targeting a dozen Russian regions, Crimea and shipping at sea.\n\nZelenskyy wrote on X that Ukrainian-made FP-5 Flamingo missiles hit the Titan-Barrikady facility in Volgograd in southwestern Russia, which he described&#160;as a “major industrial complex.”\n\nHe said Russia produces \"artillery systems and specialized military equipment, including components for missile launch systems\" at the site.\n\nUkraine's General Staff said the facility makes equipment for missile systems, including self-propelled launchers and transport-loading vehicles for the Iskander-M missile system.\n\nRussia confirmed the attack, with regional Governor Andrei Bocharov writing on Telegram that at least 10 people were wounded and taken to the hospital.\n\nAround the same time Saturday, Ukrainian drones attacked a&#160;Russian oil pumping station crucial for Moscow's fuel supply,&#160;Ukraine's SBU&#160;Security Service said.\n\nThe strikes hit a technical building at the facility owned by the state-owned oil pipeline giant,&#160;Transneft.\n\nThe facility is based in Vtorovo, near the capital of the Vladimir region, east of Moscow.\n\nThe Kremlin has yet to comment on the strike, the second successful attack on the pumping station in a month.\n\nRussia, meanwhile, launched strikes on at least three regions of Ukraine overnight, killing two people and wounding more than 20, according to Ukrainian authorities.\n\nIn the central eastern Dnipropetrovsk&#160;region, one person was killed and two were injured when drones and aerial bombs struck two districts more than 30 times, an official wrote on Telegram .\n\nA 66-year-old man was killed&#160;in a Russian drone attack on a house in the northern Sumy region, according to the&#160;regional military governor.\n\nThe governor&#160;spoke of \"a massive attack\" elsewhere in the same region bordering Russia that&#160;injured 10 people.\n\nStrikes on the southeastern town of Zaporizhzhia injured nine, including two children, Ukraine's State Emergency Service said.\n\nAlso on Saturday, the RIA news agency reported that&#160;Russian forces ‌have seized the village ​of ​Novoskeliuvate ‌in Ukraine's&#160;Dnipropetrovsk...",
+            "zh": "伏尔加格勒和弗拉基米尔地区的这两起袭击是泽连斯基总统将战争带给俄罗斯人民并迫使普京进行和平谈判的战略的一部分。 乌克兰总统泽连斯基表示，周六，乌克兰继续深入俄罗斯领土发动袭击，袭击了伏尔加格勒市生产先进武器的场所。 基辅表示，在第二次重大袭击中，乌克兰无人机袭击了向俄罗斯首都莫斯科输送燃料的一个石油泵站。 这两起袭击发生前一天，乌克兰发动了四年半战争中最大规模的无人机袭击之一，目标是俄罗斯十几个地区、克里米亚和海上航运。 泽连斯基在 X 上写道，乌克兰制造的 FP-5 火烈鸟导弹击中了俄罗斯西南部伏尔加格勒的泰坦-巴里卡迪工厂，他称该工厂为“主要工业综合体”。 他说，俄罗斯在该基地生产“火炮系统和特种军事装备，包括导弹发射系统的部件”。 乌克兰总参谋部表示，该工厂生产导弹系统设备，包括伊斯坎德尔-M导弹系统的自行式发射器和运输装载车。 俄罗斯证实了这起袭击事件，地区州长安德烈·博恰洛夫 (Andrei Bocharov) 在 Telegram 上写道，至少有 10 人受伤并被送往医院。 乌克兰 SBU 安全部门表示，周六大约同一时间，乌克兰无人机袭击了对莫斯科燃料供应至关重要的俄罗斯石油泵站。 罢工袭击了国有石油管道巨头 Transneft 旗下设施的一座技术大楼。 该设施位于莫斯科以东弗拉基米尔地区首府附近的沃托罗沃。 克里姆林宫尚未对这次袭击发表评论，这是一个月内第二次成功袭击泵站。 与此同时，据乌克兰当局称，俄罗斯连夜对乌克兰至少三个地区发动袭击，造成两人死亡、二十多人受伤。 一名官员在 Telegram 上写道，在第聂伯罗彼得罗夫斯克州中东部地区，无人机和航空炸弹对两个地区进行了 30 多次袭击，造成 1 人死亡、2 人受伤。 据苏梅北部地区军事州长称，一名 66 岁男子在俄罗斯无人机袭击苏梅北部地区一所房屋时丧生。 州长谈到与俄罗斯接壤的同一地区的其他地方发生了“大规模袭击”，造成 10 人受伤。 乌克兰国家紧急服务部门表示，东南部城镇扎波罗热的袭击造成九人受伤，其中包括两名儿童。 同样在周六，俄新社报道称，俄罗斯军队占领了乌克兰第聂伯罗彼得罗夫斯克的 Novoskeliuvate 村......"
+          },
+          "reflection": {
+            "en": "This news highlights the grim reality of war, where escalating violence is sometimes employed with the hope of forcing peace. Yahweh's words remind us that those who live by the sword often perish by it, pointing to the perilous cycle inherent in armed conflict. It prompts us to reflect on whether true peace can ever be forged through the very means that...",
+            "zh": "这则新闻揭示了战争的残酷现实，即有时会通过升级暴力来试图迫使和平。雅伟的话语提醒我们，凡动刀的，必死在刀下，这指出了武装冲突中固有的危险循环。它促使我们思考，真正的和平是否能通过那些本身就延续毁灭的手段来铸就。"
+          },
+          "verse": {
+            "reference": "Matthew 26:52",
+            "textEn": "All who draw the sword will die by the sword.",
+            "textZh": "凡动刀的，必死在刀下。",
+            "themeEn": "Cycle of violence",
+            "themeZh": "动刀者必亡于刀"
+          },
+          "aiVerseId": "matt_26_52",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-fifa-world-cup-2026-socceroos-round-of-32-op",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/fifa-world-cup-2026-socceroos-round-of-32-opponent/76wwjel32",
+          "image": "https://assets.sbs.com.au/dims4/default/8561c2d/2147483647/strip/false/crop/5403x2483+0+560/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fa9%2F12%2F5f2a097949c88890789acdac89d4%2Fgettyimages-2282851277-1.jpg",
+          "publishedAt": "2026-06-27T05:05:46.000Z",
+          "title": {
+            "en": "Socceroos knockout opponent confirmed after dramatic Group G finish",
+            "zh": "澳大利亚队在G组戏剧性收官后将在世界杯淘汰赛中对阵埃及队"
+          },
+          "summary": {
+            "en": "Australia's World Cup knockout opponent was only decided in the dying moments of the final Group G matches, setting the stage for a dramatic clash with Egypt.",
+            "zh": "澳大利亚队的世界杯淘汰赛对手在G组最后一场比赛的最后时刻才确定，这将是一场与埃及队的激烈对决。"
+          },
+          "body": {
+            "en": "Australia will face Egypt in the World Cup Round of 32 after the Pharaohs held on to finish second in Group G following a dramatic final round of matches.\n\nEgypt sealed its place in the knockout rounds on Saturday afternoon (AEST) with a 1-1 draw against Iran, but was denied top spot in Group G after Belgium thrashed New Zealand 5-1 to edge the Pharaohs on goal difference.\n\nThat means Australia will face Egypt in the Round of 32 at Arlington, Texas, at 4am AEST next Saturday. The two sides have never met at a World Cup before.\n\nIt's still unclear whether Egyptian star player Mohamed Salah will play in the match.\n\nSalah &#x2014; who became one of the English Premier League's most celebrated players after signing with Liverpool in 2017 &#x2014; came off in the 57th minute in the Egypt-Iran match and was seen having his left leg bandaged.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"The doctor will write his report when we get back to the hotel and will carry out a second examination. I spoke with Salah and, God willing, the injury doesn't seem serious,\" Hassan said.\n\nThe Group G standings changed several times throughout the simultaneous matches, with Belgium, Iran and Egypt all sitting second in the group at various times.\n\nIn their match against Egypt , Iran scored a stoppage-time goal, which was ruled offside by VAR. Had the goal stood, Iran would have finished second and played Australia next Saturday.\n\nThey now face an agonising wait to see if they qualify as one of the top eight third-placed teams.\n\nAfter a 1-5 defeat to Belgium, New Zealand finished last in the group with one point and were eliminated from the tournament.\n\nFormer Socceroo Harry Kewell, speaking before the results were announced, told SBS that Belgium and Egypt looked to be the most dangerous of Australia's opponents.\n\n\"Once you get through the group stages, which they successfully navigated through, it's all about now.\n\n\"This is where you have to play your best football. This is where you have to strike when your chances are low, you've got to be able to be clinical, and hopefully we can do that and progress one step further.\"\n\nThe challenge for the Australian side will be to play their best football with a couple of players out of action.\n\nThe Socceroos are down to a 24-player squad after the injured Jacob Italiano and Mathew Leckie left camp for Austria and Melbourne, respectively.\n\nItaliano played against T&#xFC;rkiye and the United States but was injured at training, while Leckie hurt his hamstring in the side's 2-0 defeat to the US.\n\nAustralia have played Egypt twice before, winning a President's Cup match on penalties in 1987. They lost a friendly in Cairo 3-0 in 2010.\n\nThe...",
+            "zh": "澳大利亚队将在世界杯 32 强赛中对阵埃及队，法老队在最后一轮比赛中戏剧性地保住了 G 组第二名的成绩。 周六下午（澳大利亚东部标准时间），埃及以 1-1 战平伊朗队锁定了淘汰赛席位，但在比利时 5-1 击败新西兰队，以净胜球优势击败法老队后，埃及队未能获得 G 组头名位置。 这意味着澳大利亚将于下周六凌晨 4 点在德克萨斯州阿灵顿举行的 32 强赛中对阵埃及。此前，两队从未在世界杯上交手过。 目前还不清楚埃及明星球员穆罕默德·萨拉赫是否会参加比赛。 萨拉赫在 2017 年与利物浦签约后成为英超最著名的球员之一，他在对阵伊朗的比赛中第 57 分钟下场，人们看到他的左腿缠着绷带。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 在同时进行的比赛中，G组的排名发生了多次变化，比利时、伊朗和埃及在不同时期都位居小组第二。 在对阵埃及的比赛中，伊朗队补时阶段打入一球，但被VAR判定越位。如果进球有效，伊朗队将获得第二名，并在下周六对阵澳大利亚队。 他们现在面临着痛苦的等待，看看自己是否有资格成为前八名第三名的球队之一。 新西兰队1-5负于比利时队后，积1分小组垫底，被淘汰出局。 前足球运动员哈里·科威尔在结果公布前告诉SBS，比利时和埃及看起来是澳大利亚最危险的对手。 “一旦你通过了小组赛阶段，他们也成功地通过了，现在就是一切了。 “这是你必须踢出最好足球的地方。这是当你的机会很低时你必须出击的地方，你必须能够保持冷静，希望我们能够做到这一点并更进一步。” 澳大利亚队面临的挑战是在几名球员缺阵的情况下踢出最好的足球。 在雅各布·意大利（Jacob Italiano）和马修·莱基（Mathew Leckie）受伤分别离开训练营前往奥地利和墨尔本后，澳大利亚队的阵容只剩下 24 名球员。 意大利人在对阵土耳其队和美国队的比赛中在训练中受伤，而莱基则在球队0-2输给美国队的比赛中腿筋受伤。 澳大利亚此前曾与埃及交手过两次，并于 1987 年在总统杯点球大战中获胜。2010 年，他们在开罗的一场友谊赛中以 3-0 落败。 澳大利亚队在卡塔尔 16 强赛中不敌最终冠军阿根廷队，他们渴望获得历史上首场淘汰赛胜利。 您可以观看 FIFA 世界杯的全部 104 场比赛..."
+          },
+          "reflection": {
+            "en": "The dramatic conclusion to the World Cup group stage, with teams pushing until the final whistle to secure their place, mirrors the focused effort athletes pour into their pursuit of victory. This striving reminds us of the biblical call to run our own races with purpose and discipline, aiming for the prize with all our might.",
+            "zh": "世界杯小组赛的戏剧性结局，各队拼搏到最后一刻才确定晋级资格，这反映了运动员为追求胜利所付出的专注努力。这种拼搏精神提醒我们，圣经呼召我们带着目标和纪律跑完自己的赛程，竭尽全力争取奖赏。"
+          },
+          "verse": {
+            "reference": "1 Corinthians 9:24",
+            "textEn": "Do you not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize.",
+            "textZh": "岂不知在场上赛跑的都跑，但得奖赏的只有一人？你们也当这样跑，好叫你们得着奖赏。",
+            "themeEn": "Run for the prize",
+            "themeZh": "为奖赏而跑"
+          },
+          "aiVerseId": "1cor_9_24",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-1-5-million-aussies-tuned-in-to-watch-austra",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/1-5-million-aussies-tuned-in-to-watch-australia-v-paraguay/l27ev9m3q",
+          "image": "https://assets.sbs.com.au/dims4/default/e73baab/2147483647/strip/false/crop/3270x1503+0+0/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F72%2Fc5%2Fc8b4f072408caf95ca0cd92b7dc5%2F20260626136675099967-original.jpg",
+          "publishedAt": "2026-06-27T04:00:14.000Z",
+          "title": {
+            "en": "Socceroos stop the nation as Australia v Paraguay smashes World Cup viewing records",
+            "zh": "澳大利亚队对巴拉圭的比赛打破世界杯收视纪录，举国关注"
+          },
+          "summary": {
+            "en": "Australia's national football team, the Socceroos, drew a record-breaking 4.8 million viewers for their World Cup match against Paraguay, making it a significant national event.",
+            "zh": "澳大利亚国家足球队“袋鼠军团”与巴拉圭的世界杯比赛吸引了创纪录的480万观众收看，成为一项重要的全国性盛事。"
+          },
+          "body": {
+            "en": "On Friday, records were broken when millions of Australians tuned in to see the Socceroos play their highest-stakes FIFA World Cup 2026 match so far.\n\nAttracting nearly five million viewers, it was the most-watched World Cup match in history on SBS, according to national ratings rankings from Virtual Australia (VOZ).\n\nThrilled fans clamoured in pubs and live sites across the nation at midday on Friday, skipping work and school to witness Australia qualify for the knockout stage of the tournament with a draw against Paraguay,\n\nAfter a crushing loss to the USA in their second group match of the tournament last week, Australia needed to either beat or tie with Paraguay to secure its spot in the next stage, the Round of 32.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nA total of 4.844 million viewers and a total TV average audience of 3.086 million across linear television and digital streaming watched the Australia v Paraguay match.\n\nIt is the second most-watched broadcast in SBS history, behind the Socceroos' World Cup play-off victory against Uruguay in 2006 (3.416 million, national average audience).\n\nThe Paraguay-Australia post-match program attracted 2.872 million viewers, and the pre-match program attracted 2.277 million viewers.\n\nBetween live matches and pre- and post-match shows, SBS had the top three programs of the day and five of the top ten.\n\nCumulatively, 13.9 million Australians, or about half the population, have watched some of the matches in the FIFA World Cup tournament.\n\nThe Socceroos' next game is at 4am Saturday, 4 July (AEST) in Arlington, Texas, near Dallas, when they will face Egypt.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "周五，数以百万计的澳大利亚人收看澳大利亚队进行迄今为止风险最高的 2026 年 FIFA 世界杯比赛，这一纪录被打破。 根据 Virtual Australia (VOZ) 的全国收视率排名，这场比赛吸引了近 500 万观众，是 SBS 历史上收视率最高的世界杯比赛。 周五中午，兴奋的球迷们在全国各地的酒吧和现场欢呼雀跃，翘班翘课，见证澳大利亚队与巴拉圭队战平，晋级世界杯淘汰赛阶段， 继上周小组赛第二场惨败给美国队之后，澳大利亚需要击败或打平巴拉圭才能确保进入下一阶段32强赛。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 共有 484.4 万观众观看了澳大利亚对阵巴拉圭的比赛，线性电视和数字流媒体的电视平均观众总数为 308.6 万。 这是SBS历史上收视率第二高的节目，仅次于2006年澳大利亚队在世界杯附加赛中战胜乌拉圭的比赛（全国平均收视率341.6万人）。 巴拉圭对澳大利亚赛后节目吸引了287.2万人次观看，赛前节目吸引了227.7万人次观看。 在现场比赛和赛前赛后节目中，SBS 拥有当天排名前三的节目以及前十名中的五个节目。 累计有 1,390 万澳大利亚人（约占总人口的一半）观看了 FIFA 世界杯的部分比赛。 澳大利亚队的下一场比赛将于 7 月 4 日（澳大利亚东部时间）星期六凌晨 4 点在达拉斯附近的德克萨斯州阿灵顿举行，届时他们将对阵埃及。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+          },
+          "reflection": {
+            "en": "A national sporting event can unite millions in shared excitement, offering a glimpse of collective passion and the pursuit of a common goal. While the cheers and records of such moments are thrilling, Yahweh reminds us to also seek the imperishable crown of eternal values. This perspective helps us appreciate temporary joys while anchoring our deepest...",
+            "zh": "一场全国性的体育赛事能让数百万人团结在共同的兴奋之中，展现出集体的热情和对共同目标的追求。虽然这些时刻的欢呼和纪录令人激动，但雅伟提醒我们也要寻求那永不朽坏的、永恒价值的冠冕。这种视角帮助我们欣赏暂时的喜乐，同时将我们最深的盼望根植于真正持久的事物。"
+          },
+          "verse": {
+            "reference": "1 Corinthians 9:25",
+            "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
+            "textZh": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
+            "themeEn": "Perishable vs eternal crown",
+            "themeZh": "能坏与不能坏的冠冕"
+          },
+          "aiVerseId": "1cor_9_25",
+          "translationState": "localized"
+        }
+      ]
+    },
+    "china": {
+      "id": "china",
+      "title": {
+        "en": "China Desk",
+        "zh": "中国观察"
+      },
+      "strap": {
+        "en": "Policy signals, social change, and national developments inside China.",
+        "zh": "聚焦中国内部政策走向、社会变化与国家动态。"
+      },
+      "sourceNotes": [
+        "The Guardian China",
+        "DW Asia China Focus"
+      ],
+      "items": [
+        {
+          "id": "www-theguardian-com-environment-2026-jun-26-weather-tracker-heatwave-ger",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures",
+          "image": "https://i.guim.co.uk/img/media/9ca939259c24906af5e1117aa8d61cd38492ea41/231_0_3528_2823/master/3528.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d6ba0c29e6d893affde88dd274956bd",
+          "publishedAt": "2026-06-26T08:22:52.000Z",
+          "title": {
+            "en": "Weather tracker: Heatwave expected to bring Germany and Poland to 40C",
+            "zh": "天气追踪：德国和波兰预计将迎来40摄氏度高温热浪"
+          },
+          "summary": {
+            "en": "An intense heatwave is expected to bring temperatures up to 40C in parts of central and northern Europe, including Germany and Poland. The Austrian Grand Prix has declared a heat hazard due to the dramatic rise in temperatures.",
+            "zh": "预计一股强烈的热浪将使中欧和北欧部分地区（包括德国和波兰）的气温升至40摄氏度。由于气温急剧上升，奥地利大奖赛已宣布高温危险。"
+          },
+          "body": {
+            "en": "Austrian Grand Prix declares heat hazard as dramatic rise in temperatures forecast in central and northern Europe Temperatures are forecast to rise dramatically in parts of central and northern Europe this weekend as the intense heatwave continues . In Germany and Poland, highs up to or exceeding 40C (104F) are expected on both Saturday and Sunday, days after swathes of France experienced similar extreme temperatures. The Austrian Grand Prix, taking place this weekend in Spielberg, has declared a heat hazard , the first race to do so this season. Temperatures are expected to rise into the low 30s celsius during the race, almost 10C warmer than usual for the venue. Across Europe, the intense heat has led to severe thunderstorms. In the Sverdlovsk region of central Russia, a strong tornado was reported on the evening of 22 June. Rated a 3 out of 5 on the international Fujita scale, the twister injured 16 people and destroyed or damaged about 100 homes and businesses in the town of Kushva. Emergency services have been working on restoring power to the town. Tornadoes are not unheard of in Russia but are rare. Forecasters say they may become more common in future as the climate breaks down. Storm warnings remained in effect in the southern part of the country on Friday. Continue reading...",
+            "zh": "预计中欧和北欧气温将急剧上升，奥地利大奖赛宣布存在热危险 随着强烈热浪的持续，预计本周末中欧和北欧部分地区气温将大幅上升。在德国和波兰，预计周六和周日气温将达到或超过 40 摄氏度（104 华氏度），几天前法国大片地区也经历了类似的极端气温。本周末在斯皮尔伯格举行的奥地利大奖赛已宣布出现高温危险，这是本赛季第一场这样做的比赛。预计比赛期间气温将升至 30 摄氏度，比平时高出近 10 摄氏度。在整个欧洲，酷热导致了严重的雷暴天气。 6月22日晚，俄罗斯中部斯维尔德洛夫斯克地区报告出现强烈龙卷风。国际藤田等级评定为 3 级（满分 5 级），龙卷风造成 16 人受伤，并摧毁或损坏了库什瓦镇约 100 所房屋和企业。紧急服务部门一直致力于恢复该镇的供电。龙卷风在俄罗斯并非闻所未闻，但很罕见。预报员表示，随着气候的恶化，它们未来可能会变得更加普遍。周五，该国南部地区的风暴警告仍然有效。继续阅读..."
+          },
+          "reflection": {
+            "en": "The dramatic rise in temperatures across Europe reminds us that creation itself is experiencing distress. As the natural world groans under changing conditions, we are called to reflect on our interconnectedness with the earth and its well-being. This intense heatwave serves as a poignant reminder of the broader challenges facing our shared home.",
+            "zh": "欧洲气温的急剧上升提醒我们，受造界本身正在经历痛苦。当自然界在不断变化的环境下发出呻吟时，我们被呼召反思我们与地球及其福祉的相互关联。这场强烈热浪是对我们共同家园所面临的更广泛挑战的深刻提醒。"
+          },
+          "verse": {
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
+          },
+          "aiVerseId": "rom_8_22",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-26-xi-jinping-china-host-of-world-lea",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers",
+          "image": "https://i.guim.co.uk/img/media/cced5e8d877235ab62a03c59fed11947410c432d/740_496_2749_2198/master/2749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ecb2eb4d61b12cd7c5dacdc45a49dac",
+          "publishedAt": "2026-06-26T01:28:11.000Z",
+          "title": {
+            "en": "Xi Jinping has hosted more than a dozen leaders this year, as ‘middle powers’ look beyond the US",
+            "zh": "习近平今年接待了十几位领导人，‘中间力量’超越美国寻求合作"
+          },
+          "summary": {
+            "en": "China's leader, Xi Jinping, has hosted numerous world leaders this year, aiming to promote an alternative global order. This effort is reportedly aided by the perceived unpredictability of the United States, prompting 'middle powers' to explore new international alignments.",
+            "zh": "中国领导人习近平今年接待了多位世界各国领导人，旨在推动一种替代性的全球秩序。据报道，美国的反复无常助长了这一努力，促使“中等强国”寻求新的国际结盟。"
+          },
+          "body": {
+            "en": "China’s leader wants to promote his alternative to the current world order, and his efforts are being assisted by a capricious US Xi Jinping meets Bangladesh’s new prime minister on Friday, the latest in a wave of world leaders to visit Beijing this year as the Chinese leader builds his influence and economic ties, and seeks to “shift the balance of power” away from the west. Xi’s meeting with Tarique Rahman comes less than two weeks after the Chinese leader welcomed Myanmar’s military chief-turned-president, Min Aung Hlaing, in Beijing. Continue reading...",
+            "zh": "中国领导人希望推行他对当前世界秩序的替代方案，他的努力得到了反复无常的美国的协助。习近平周五会见了孟加拉国新总理，这是今年访问北京的一波世界领导人中最新的一位，中国领导人正在建立影响力和经济联系，并寻求“改变力量平衡”，远离西方。习近平与塔里克·拉赫曼的会面是在中国领导人在北京欢迎缅甸军方最高领导人、现任总统敏昂莱之后不到两周。继续阅读..."
+          },
+          "reflection": {
+            "en": "The news highlights how nations are drawn to leaders who articulate a clear vision for the future, especially when existing global structures seem uncertain. Proverbs 29:18 reminds us that without a guiding vision, people and nations can lose their way. This underscores the profound impact of leadership that offers a coherent path forward.",
+            "zh": "这则新闻强调，当现有的全球秩序显得不确定时，各国会被那些为未来描绘清晰愿景的领导人所吸引。箴言29:18提醒我们，没有指引的异象，人民和国家就会迷失方向。这突显了提供连贯前进道路的领导力所产生的深远影响。"
+          },
+          "verse": {
+            "reference": "Proverbs 29:18",
+            "textEn": "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom's instruction.",
+            "textZh": "没有异象，民就放肆；惟遵守律法的，便为有福。",
+            "themeEn": "Need for vision",
+            "themeZh": "国家需要异象"
+          },
+          "aiVerseId": "prov_29_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-business-2026-jun-25-uk-to-halve-tariff-free-steel-i",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal",
+          "image": "https://i.guim.co.uk/img/media/ba25b2c9a003e87e4d2f3bc493ac7e78c2b90d53/625_0_2934_2348/master/2934.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f1a9ec7c9b5d37be5a91497b0b85b61",
+          "publishedAt": "2026-06-25T11:53:20.000Z",
+          "title": {
+            "en": "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
+            "zh": "英国将削减免关税钢材进口量以应对廉价中国金属过剩"
+          },
+          "summary": {
+            "en": "The UK government announced it will halve the amount of tariff-free steel imports, doubling duties on quantities exceeding the new quota. This measure, mirrored by similar changes in EU limits, aims to counter a global oversupply of cheap Chinese metal and support domestic industry.",
+            "zh": "英国政府宣布将把免关税钢材进口量减半，超出新配额的进口将加倍征收关税。此举与欧盟的类似调整相呼应，旨在应对全球廉价中国金属的过剩供应，并扶持本国产业。"
+          },
+          "body": {
+            "en": "Duty on imports outside new quota will double in move echoing similar changes in EU limits Business live – latest updates The UK government will halve the amount of tariff-free steel imports allowed in an attempt to counter a global oversupply of cheap Chinese metal and bolster its beleaguered local industry. New “safeguards” will be introduced on 1 July and will coincide with similar new limits being introduced by the EU for the same purposes. The UK said it and the EU had agreed an approach that reflected each other’s “highly interconnected supply chains” after months of negotiations over retaining tariff-free access between the markets. Continue reading...",
+            "zh": "新配额之外的进口关税将翻倍，与欧盟限制的类似变化相呼应英国政府将允许的免关税钢铁进口量减半，以应对全球廉价中国金属供应过剩的问题，并提振陷入困境的当地工业。新的“保障措施”将于 7 月 1 日推出，并将与欧盟出于相同目的推出的类似新限制同时实施。继续阅读..."
+          },
+          "reflection": {
+            "en": "Nations often grapple with balancing economic interests and ensuring fair trade practices. Proverbs 11:1 reminds us that Yahweh values honest dealings and just measures in commerce. This principle encourages leaders to seek equitable solutions that promote integrity in global markets.",
+            "zh": "国家常在经济利益与确保公平贸易实践之间寻求平衡。箴言11:1提醒我们，雅伟看重商业中的诚实交易和公正的度量。这一原则鼓励领导者寻求公平的解决方案，以促进全球市场的诚信。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:1",
+            "textEn": "Yahweh detests dishonest scales, but accurate weights find favor with him.",
+            "textZh": "诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。",
+            "themeEn": "Yahweh hates fraud",
+            "themeZh": "雅伟厌恶诡诈"
+          },
+          "aiVerseId": "prov_11_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-25-china-spacesail-rival-elon-musk-st",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/25/china-spacesail-rival-elon-musk-starlink-space-satelites-low-earth-orbit",
+          "image": "https://i.guim.co.uk/img/media/6b0da2af99836567391c3a2d5caf77fd28ea017f/808_88_2903_2322/master/2903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5343e3d72d01ca6847caeaa4bb4edb3b",
+          "publishedAt": "2026-06-25T01:02:55.000Z",
+          "title": {
+            "en": "What is China’s SpaceSail, and could it rival Elon Musk’s Starlink?",
+            "zh": "中国的“太空帆”是什么？它能与埃隆·马斯克的星链竞争吗？"
+          },
+          "summary": {
+            "en": "China's state-backed SpaceSail project is developing a satellite internet constellation to compete with Elon Musk's Starlink. With hundreds of satellites in low Earth orbit, the company is reportedly negotiating with dozens of countries.",
+            "zh": "中国国家支持的“太空帆”项目正在开发一个卫星互联网星座，旨在与埃隆·马斯克的星链竞争。该公司目前在近地轨道拥有数百颗卫星，据报道正在与数十个国家进行谈判。"
+          },
+          "body": {
+            "en": "The company has just a few hundred satellites in low Earth orbit but has state backing and is already reportedly negotiating with dozens of countries Elon Musk’s Starlink has long dominated the satellite internet industry, but a Chinese government-backed project is aiming to challenge its position. SpaceSail has just a few hundred satellites in low Earth orbit compared with Starlink’s 10,000-plus. But the company says it now has enough satellites to begin its first commercial application, is scaling up at speed, and is reportedly negotiating with dozens of countries to provide satellite internet coverage. Continue reading...",
+            "zh": "该公司在近地轨道上只有几百颗卫星，但有国家支持，据报道已经与数十个国家进行谈判。埃隆·马斯克的星链长期以来一直主导着卫星互联网行业，但一个中国政府支持的项目旨在挑战其地位。与 Starlink 的 10,000 多颗卫星相比，SpaceSail 在近地轨道上只有几百颗卫星。但该公司表示，它现在拥有足够的卫星来开始其首次商业应用，并且正在快速扩大规模，据报道正在与数十个国家进行谈判以提供卫星互联网覆盖。继续阅读..."
+          },
+          "reflection": {
+            "en": "As nations and companies embark on ambitious technological ventures like SpaceSail, it reminds us of the human drive to innovate and connect the world. Proverbs 16:3 encourages us to commit our plans to Yahweh, trusting that our efforts, when aligned with His purposes, will find success. This perspective can guide us in all our endeavors, from grand...",
+            "zh": "当各国和公司着手像“太空帆”这样雄心勃勃的技术项目时，这提醒我们人类创新和连接世界的动力。箴言16:3鼓励我们将我们的计划交托给雅伟，相信我们的努力，若与祂的旨意相符，必将成功。这种视角可以指导我们所有的努力，无论是宏伟的项目还是日常任务。"
+          },
+          "verse": {
+            "reference": "Proverbs 16:3",
+            "textEn": "Commit to Yahweh whatever you do, and he will establish your plans.",
+            "textZh": "你所做的，要交托雅伟，你所谋的，就必成立。",
+            "themeEn": "Committing work to God",
+            "themeZh": "将工作交托"
+          },
+          "aiVerseId": "prov_16_3",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-film-2026-jun-24-dear-you-review-chinese-romantic-dr",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/film/2026/jun/24/dear-you-review-chinese-romantic-drama-lan-hongchun",
+          "image": "https://i.guim.co.uk/img/media/fdd4fc8d4d73a3e0925be0a9f3e55f9379e76b01/318_0_3247_2597/master/3247.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=5dc5cee802ac5bdf5a4a1b1431983c13",
+          "publishedAt": "2026-06-24T08:00:39.000Z",
+          "title": {
+            "en": "Dear You review – enjoyable Chinese romdram crosses generations as it tracks down a missing husband",
+            "zh": "《亲爱的你》影评：一部跨越世代、追寻失踪丈夫的感人华语爱情剧情片"
+          },
+          "summary": {
+            "en": "The Guardian China reviews \"Dear You,\" a Chinese romantic drama by director Lan Hongchun. The film is a multi-generational family saga, spanning from the 1940s to the present, primarily set in Bangkok, and follows the search for a husband who disappeared in Thailand.",
+            "zh": "《卫报中国》评论了导演蓝鸿春的华语爱情剧情片《亲爱的你》。这部电影是一部跨越几代人的家族传奇，故事从20世纪40年代至今，主要背景设在曼谷，讲述了一个家庭寻找在泰国失踪的丈夫的故事。"
+          },
+          "body": {
+            "en": "Director Lan Hongchun’s family saga feels like a good old-fashioned novel as it goes in search of a man who has disappeared in Thailand With a story that ranges from the 1940s to the present and, although mostly set in Bangkok, revolving largely around Teochew-speaking Chinese from Guangdong, this generations-spanning drama feels like a good old-fashioned novel. A romantic beach read, perhaps, the kind in which coincidences and random accidents cause misunderstandings that last for decades until the truth is finally revealed. It’s sentimental in places, sure, but there’s also a fair bit of salty, bawdy humour to cut the sweetness, lashings of period colour, and impressively naturalistic performances from a mostly non-professional cast. All that has helped to make this an unexpectedly large box-office hit in the People’s Republic last month; and for non-Chinese or Thai rom-dram aficionados anywhere, it’s well worth looking out for. As the story opens in the 21st century in the Chinese city of Shantou, octogenarian Shurou (Iap Sok-jiu) is celebrating her 87th birthday, surrounded by adoring friends, family and neighbours who revere the matriarch, not least for managing to raise three kids on her own in the 1940s and 50s. Her shifty grandson Xiaowei (Hiau-ui), however, is less of a solid citizen and, having got into debt, he decides to travel to Bangkok to find out if Shurou’s husband Zheng Musheng, not seen for decades, could help out since he’s reputed to have made a fortune out there, endowed schools all over Thailand, and had a second family after abandoning Shurou. Continue reading...",
+            "zh": "导演兰鸿春的家庭传奇感觉就像一部优秀的老式小说，讲述了在泰国寻找失踪男子的故事。故事范围从 20 世纪 40 年代至今，虽然主要以曼谷为背景，但主要围绕来自广东的潮州华人展开，这部跨越几代人的戏剧感觉就像一部优秀的老式小说。浪漫的海滩读物，也许是那种巧合和偶然的事故会导致持续数十年的误会，直到真相最终揭晓的类型。当然，它在某些地方是感伤的，但也有一些咸味、下流的幽默来削弱甜蜜，充满时代色彩，以及来自大多数非专业演员的令人印象深刻的自然主义表演。所有这些都使得该片上个月在中华人民共和国取得了意想不到的票房大成功。对于任何地方的非中国或泰国的浪漫剧爱好者来说，这都非常值得一看。故事发生在 21 世纪的中国汕头市，八十多岁的淑柔（叶淑如饰）正在庆祝她的 87 岁生日，周围都是崇拜这位女族长的朋友、家人和邻居，尤其是她在 20 世纪 40 年代和 50 年代设法独自抚养三个孩子。然而，她狡猾的孙子小伟（孝仪饰）却不是一个踏实的公民，负债累累，他决定前往曼谷，看看书柔数十年未见的丈夫郑木胜是否可以帮忙，因为他在外面发了大财，为泰国各地的学校捐款，并在抛弃书柔后有了第二个家庭。继续阅读..."
+          },
+          "reflection": {
+            "en": "The multi-generational search for a missing husband in \"Dear You\" powerfully illustrates the enduring nature of family bonds. This long quest reflects the deep commitment inherent in marriage, where two become one, a union that transcends time and distance. It reminds us that true connection often calls for steadfastness, even in the face of profound...",
+            "zh": "电影《亲爱的你》中跨越几代人寻找失踪丈夫的故事，有力地展现了家庭纽带的持久性。这场漫长的寻觅反映了婚姻中固有的深刻承诺，夫妻二人成为一体，这种结合超越了时间和距离。它提醒我们，真正的连接往往需要坚韧不拔，即使面对巨大的不确定性也是如此。"
+          },
+          "verse": {
+            "reference": "Genesis 2:24",
+            "textEn": "That is why a man leaves his father and mother and is united to his wife, and they become one flesh.",
+            "textZh": "因此，人要离开父母，与妻子连合，二人成为一体。",
+            "themeEn": "Marriage's foundation",
+            "themeZh": "婚姻的根基"
+          },
+          "aiVerseId": "gen_2_24",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-24-dettol-apologises-toxic-men-advert",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/24/dettol-apologises-toxic-men-advert-backlash-china",
+          "image": "https://i.guim.co.uk/img/media/9c294021920d9704a28025832e8ef7ff1d105492/142_0_5049_4040/master/5049.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f69b8478bdfcd385b59cf5304e375ee",
+          "publishedAt": "2026-06-24T07:16:22.000Z",
+          "title": {
+            "en": "Dettol apologises after ‘toxic men’ advert sparks backlash in China",
+            "zh": "滴露因“有毒男性”广告在中国引发反弹后致歉"
+          },
+          "summary": {
+            "en": "British hygiene brand Dettol has apologized and withdrawn an advertisement in China that sparked widespread condemnation. The advert, which the company stated was intended to criticize “toxic men,” featured a man seeking a “clean and untouched” woman.",
+            "zh": "英国卫生品牌滴露在中国发布的一则广告引发广泛谴责后，已致歉并撤回该广告。滴露公司称该广告旨在批评“有毒男性”，但其内容却描绘了一名男子寻找“干净纯洁”女性的情节。"
+          },
+          "body": {
+            "en": "British disinfectant brand withdraws advert about a man’s efforts to find a ‘clean and untouched’ woman The British hygiene brand Dettol has apologised after an advertisement released in China, which it said was intended to criticise “toxic men”, was widely condemned on social media as offensive to women. The five-minute advert for a multipurpose disinfectant, released across many online platforms at the end of May, features a man comparing his girlfriend with his former partner. Learning that his former girlfriend previously lived with someone else, the man likens their relationship to a “secondhand service”. He then tells his friends that he intends to find a “clean and untouched” woman for whom he can be the first sexual partner. Continue reading...",
+            "zh": "英国消毒剂品牌撤回有关男性努力寻找“干净、未受影响”女性的广告英国卫生品牌滴露在中国发布的一则广告道歉，称该广告旨在批评“有毒男性”，该广告在社交媒体上受到广泛谴责，认为该广告冒犯了女性。五月底，多用途消毒剂的五分钟广告在多个在线平台上发布，其中一名男子将他的女朋友与他的前伴侣进行了比较。当得知他的前女友以前与别人住在一起时，该男子将他们的关系比作“二手服务”。然后他告诉他的朋友，他打算找一个“干净、未受污染”的女人作为他的第一个性伴侣。继续阅读..."
+          },
+          "reflection": {
+            "en": "The controversy surrounding Dettol's advertisement highlights the importance of recognizing the inherent dignity of every individual. When an advert reduces women to an object defined by their perceived “purity” or “untouched” status, it diminishes the profound truth that all people, male and female, are created in the image of Yahweh. This reminds us to...",
+            "zh": "滴露广告引发的争议，凸显了承认每个人固有尊严的重要性。当一个广告将女性贬低为由其所谓的“纯洁”或“未被触碰”状态来定义的客体时，它就削弱了一个深刻的真理：所有的人，无论男女，都是按雅伟的形象被造的。这提醒我们要维护他人的价值，反映出神赋予每个生命的尊贵。"
+          },
+          "verse": {
+            "reference": "Genesis 1:27",
+            "textEn": "So God created mankind in his own image, in the image of God he created them; male and female he created them.",
+            "textZh": "神就照着自己的形象造人，乃是照着他的形象造男造女。",
+            "themeEn": "Image of God",
+            "themeZh": "神的形象"
+          },
+          "aiVerseId": "gen_1_27",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-technology-2026-jun-24-china-supercomputer-world-fas",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine",
+          "image": "https://i.guim.co.uk/img/media/789fcb3f16ff69cb8d10257eafbb58ed1ea4c42a/727_0_4888_3911/master/4888.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ad51712e838442477399f662c65cc09",
+          "publishedAt": "2026-06-24T01:18:11.000Z",
+          "title": {
+            "en": "Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest",
+            "zh": "中国超级计算机超越美国最强机器，位居世界第一"
+          },
+          "summary": {
+            "en": "China's LineShine supercomputer has been ranked the world's fastest, marking the first time since 2017 that a Chinese machine has topped the global Top500 list, which measures technological prowess.",
+            "zh": "中国的LineShine超级计算机被评为全球最快，这是自2017年以来，中国机器首次在衡量全球科技实力的全球超级计算机500强榜单中位居榜首。"
+          },
+          "body": {
+            "en": "China’s LineShine debuts at number one in Top500 – a list sometimes viewed as a national measure of global tech prowess A supercomputer in China now outranks its US counterparts as the world’s most powerful. It is the first time since 2017 that a Chinese computer has topped a list sometimes viewed as a measure of a nation’s technological prowess. The LineShine computer in Shenzhen displaced top-ranked US computer El Capitan in the Top500 rankings released on Tuesday. It was LineShine’s debut on the list. Continue reading...",
+            "zh": "中国的 LineShine 首次跻身 Top500 排行榜第一名——该榜单有时被视为衡量全球科技实力的国家标准。中国的超级计算机现已超过美国同行，成为世界上最强大的计算机。这是自 2017 年以来中国计算机首次跻身有时被视为衡量一个国家技术实力的榜单榜首。在周二发布的 Top500 排名中，深圳的 LineShine 计算机取代了排名第一的美国计算机 El Capitan。这是 LineShine 首次上榜。继续阅读..."
+          },
+          "reflection": {
+            "en": "This news highlights humanity's remarkable capacity for innovation and the accelerating pace of technological advancement. As knowledge increases, we are reminded to seek Yahweh's wisdom to guide how we use these powerful tools for the good of all.",
+            "zh": "这则新闻突显了人类卓越的创新能力和科技进步的加速步伐。随着知识的增长，我们被提醒要寻求雅伟的智慧，以指导我们如何运用这些强大的工具造福所有人。"
+          },
+          "verse": {
+            "reference": "Daniel 12:4",
+            "textEn": "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.",
+            "textZh": "但以理啊，你要隐藏这话，封闭这书，直到末时。必有多人来往奔跑，知识就必增长。",
+            "themeEn": "Knowledge increasing",
+            "themeZh": "知识增长"
+          },
+          "aiVerseId": "dan_12_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-media-2026-jun-23-francis-markus-obituary",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/media/2026/jun/23/francis-markus-obituary",
+          "image": "https://i.guim.co.uk/img/media/a3b751fd700c9f399a3f6594b08ee6a74839aeb8/148_0_1103_882/master/1103.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4911de121081ff4761daf93b45361d34",
+          "publishedAt": "2026-06-23T16:22:00.000Z",
+          "title": {
+            "en": "Francis Markus obituary",
+            "zh": "弗朗西斯·马库斯讣告"
+          },
+          "summary": {
+            "en": "Francis Markus, former BBC Shanghai correspondent, has died at 65 from cancer. Driven by compassion for those he reported on, he dedicated the last two decades of his life to working for humanitarian organizations across Asia.",
+            "zh": "前英国广播公司上海记者弗朗西斯·马库斯因癌症去世，享年65岁。出于对他所报道人群的同情，他将生命中最后二十年奉献给亚洲各地的人道主义组织工作。"
+          },
+          "body": {
+            "en": "My friend the former BBC Shanghai correspondent Francis Markus, who has died aged 65 of cancer, was a talented journalist whose compassion for those he reported on led him to spend the last two decades of his life working for humanitarian organisations throughout Asia. After being posted to Shanghai in 2002, Francis demonstrated not just an unerring news sense, covering protests in Hong Kong and social change in China, but a deep interest in human stories, from the suicide-watchers patrolling one of China’s highest bridges over the Yangtze River, to the lives of those dealing with HIV. Continue reading...",
+            "zh": "我的朋友、前 BBC 上海记者弗朗西斯·马库斯 (Francis Markus) 因癌症去世，享年 65 岁。他是一位才华横溢的记者，他对报道对象的同情心促使他在生命的最后 20 年里为亚洲各地的人道主义组织工作。 2002年被派往上海后，方济各不仅表现出了准确无误的新闻嗅觉，报道了香港的抗议活动和中国的社会变革，而且对人类故事有着浓厚的兴趣，从在中国最高的长江大桥之一巡逻的自杀观察者，到那些与艾滋病毒打交道的人的生活。继续阅读..."
+          },
+          "reflection": {
+            "en": "Francis Markus's life exemplifies a profound compassion that moved beyond observation to active service for the vulnerable. His dedication to humanitarian work in Asia reminds us that Yahweh sees and values every act of kindness shown to those in need. Such a life, marked by selfless care, reflects a deep understanding of what it means to truly love our...",
+            "zh": "弗朗西斯·马库斯的一生展现了深刻的同情心，他超越了观察，积极地为弱势群体服务。他在亚洲投身人道主义工作的奉献提醒我们，雅伟看重并珍视对有需要之人所施行的每一份善举。这样以无私关怀为标志的生命，反映了对真正爱邻舍的深刻理解。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "aiVerseId": "matt_25_40",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-hong-kong-pro-democracy-publisher-jimmy-lai-honored-by-dw-",
+          "section": "china",
+          "source": "DW Asia China Focus",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
+          "link": "https://www.dw.com/en/hong-kong-pro-democracy-publisher-jimmy-lai-honored-by-dw/a-76991604?maca=en-rss-en-asia-5133-rdf",
+          "image": "https://static.dw.com/image/76129758_6.jpg",
+          "publishedAt": "2026-06-23T15:33:00.000Z",
+          "title": {
+            "en": "Hong Kong pro-democracy publisher Jimmy Lai honored by DW",
+            "zh": "香港亲民主派出版商黎智英获德国之声表彰"
+          },
+          "summary": {
+            "en": "Jimmy Lai, a Hong Kong pro-democracy publisher, has been honored by DW. He founded Hong Kong's largest pro-democracy newspaper before being sentenced to 20 years in prison. His son stated that the award signifies that those who advocate for the freedom of others are not alone.",
+            "zh": "香港亲民主派出版商黎智英获得德国之声表彰。他在被判处20年监禁前，创办了香港最大的亲民主报纸。他的儿子表示，这个奖项表明那些为他人自由而奋斗的人“从不孤单”。"
+          },
+          "body": {
+            "en": "Before being imprisoned for 20 years, Jimmy Lai founded Hong Kong's largest pro-democracy newspaper. His son said the award shows that those who fight for the freedom of others \"are never alone.\"\n\nArriving in Hong Kong as a penniless 12-year-old stowaway from southern China, Jimmy Lai sought only freedom and a future. At the time, Lai could never have imagined how his life would become forever intertwined with this former British colony.\n\n\"I'll sink with the ship, because this place gives me everything,\" said Lai in an interview about Hong Kong with DW a few months before he was taken into custody in December 2020. He was one of the first high-profile figures to be targeted under a&#160;\"national security law\" imposed on Hong Kong by Beijing following a crackdown on pro-democracy protests.\n\nBeijing had said the law would restore Hong Kong \"from chaos to order\" after demonstrations in 2019 opposing an extradition bill morphed into massive protests against Beijing encroaching on Hong Kong's civil liberties .\n\nSince then, the pro-democracy media mogul has spent more than 2,000 days in solitary confinement in Hong Kong's maximum-security Stanley Prison.\n\nLai's years-long trial ended this February, when&#160;the 78-year-old was sentenced to 20 years in prison for \"colluding with foreign forces.\" While he had pleaded not guilty to all charges, his legal team said he will not appeal.\n\nThe sentence is the heaviest punishment handed down so far under the national security law, and Lai's trial has symbolized for many people the severe erosion of press freedom in Hong Kong as part of Beijing's broader strategy to silence critical voices.\n\nIn recognition of his defense of press freedom and freedom of speech, DW honored Jimmy Lai with this year's Freedom of Speech Award &#160;at the annual Global Media Forum in Bonn, Germany, on Tuesday.\n\n\"While we have spoken freely in the defence of independent media, Jimmy, who founded an independent media company because he believed in the rights of the Hong Kong people to receive information, is locked away for those beliefs,\" Jodie Ginsberg, CEO of the Committee to Protect Journalists, said in a speech honoring Lai.\n\n\"The attacks on Apple Daily and its counterparts in Hong Kong presaged the far greater attacks on civil liberties in the years that followed. Jimmy Lai saw this and spoke out. We can honor him today not only by fighting for his freedom, but by defending the freedoms for which he was jailed.\"\n\nSince 2015, the DW Freedom of Speech Award has honored journalists and human rights defenders as a way to call attention to restrictions on press freedom and concerning human rights situations around the world.\n\nSebastien Lai, Jimmy Lai's son and a longtime advocate for his release, told DW in April that \"people who fight...",
+            "zh": "在入狱20年之前，黎智英创办了香港最大的民主报纸。他的儿子表示，该奖项表明那些为他人自由而奋斗的人“永远不会孤单”。 黎智英 (Jimmy Lai) 12 岁，身无分文，从中国南方偷渡到香港，他只寻求自由和未来。当时，黎智英无法想象他的生活将如何与这个前英国殖民地永远交织在一起。 黎智英在 2020 年 12 月被拘留前几个月接受德国之声采访时表示，“我将与船一起沉没，因为这个地方给了我一切。”黎智英是北京在镇压亲民主抗议活动后对香港实施的“国家安全法”中首批成为目标的知名人士之一。 在2019年反对引渡法案的示威演变成针对北京侵犯香港公民自由的大规模抗议活动后，北京曾表示，该法律将使香港“从混乱中恢复秩序”。 此后，这位亲民主媒体大亨在香港戒备森严的赤柱监狱中被单独监禁了 2000 多天。 黎智英长达数年的审判于今年 2 月结束，78 岁的他因“勾结外国势力”被判处 20 年徒刑。虽然他对所有指控均表示不认罪，但他的法律团队表示他不会上诉。 这一判决是迄今为止根据国家安全法作出的最重处罚，对许多人来说，黎智英的审判象征着香港新闻自由的严重侵蚀，而这是北京压制批评声音的更广泛战略的一部分。 为了表彰黎智英对新闻自由和言论自由的捍卫，周二在德国波恩举行的年度全球媒体论坛上，德国之声授予黎智英今年的言论自由奖。 保护记者委员会首席执行官朱迪·金斯伯格(Jodie Ginsberg)在向黎智英致敬的演讲中表示：“虽然我们畅所欲言地捍卫独立媒体，但吉米因为相信香港人民有权接收信息而创立了一家独立媒体公司，但他却因为这些信念而被关起来。” “对《苹果日报》及其香港同行的攻击预示着随后几年对公民自由的更大攻击。黎智英看到了这一点并大声疾呼。今天我们不仅可以通过为他的自由而奋斗，而且可以通过捍卫他被监禁的自由来向他致敬。” 自 2015 年以来，德国之声言论自由奖一直向记者和人权捍卫者授予荣誉，以此呼吁人们关注世界各地对新闻自由的限制和人权状况。 黎智英的儿子塞巴斯蒂安·赖（Sebastien Lai）是黎智英释放的长期倡导者，他在四月份告诉德国之声，“那些反抗的人......"
+          },
+          "reflection": {
+            "en": "Jimmy Lai's recognition, even amidst his imprisonment, highlights the enduring cost of standing for truth and freedom. Yahweh's word reminds us that those who face persecution for righteousness are truly blessed, finding a profound solidarity that transcends their circumstances. This spiritual truth offers hope that their sacrifices are seen and honored,...",
+            "zh": "黎智英在狱中获得表彰，凸显了为真理和自由挺身而出的持久代价。雅伟的话语提醒我们，那些因行义而受逼迫的人是有福的，他们会找到一种超越境况的深刻团结。这个属灵真理带来希望，他们的牺牲是被看见和尊重的，即便人间的公义有时会失落。"
+          },
+          "verse": {
+            "reference": "Matthew 5:10",
+            "textEn": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+            "textZh": "为义受逼迫的人有福了，因为天国是他们的。",
+            "themeEn": "Blessed persecution",
+            "themeZh": "为义受迫"
+          },
+          "aiVerseId": "matt_5_10",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-charging-ahead-evs-outpace-growth-predictions-a-77486417-m",
+          "section": "china",
+          "source": "DW Asia China Focus",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
+          "link": "https://www.dw.com/en/charging-ahead-evs-outpace-growth-predictions/a-77486417?maca=en-rss-en-asia-5133-rdf",
+          "image": "https://static.dw.com/image/77411026_6.jpg",
+          "publishedAt": "2026-06-19T14:03:00.000Z",
+          "title": {
+            "en": "Charging ahead: EVs outpace growth predictions",
+            "zh": "充电加速：电动汽车增长超预期"
+          },
+          "summary": {
+            "en": "China is driving the electric vehicle transition but Europe and other countries are catching up fast. EVs are getting cheaper, more efficient and can travel farther than ever.",
+            "zh": "中国正在推动电动汽车转型，但欧洲和其他国家也正在迅速追赶。电动汽车变得更便宜、更高效，续航里程也比以往任何时候都更远。"
+          },
+          "body": {
+            "en": "China is driving the electric vehicle transition but Europe and other countries are catching up fast. EVs are getting cheaper, more efficient and can travel farther than ever.\n\nThe global market for electric vehicles &#160;(EVs) is growing much faster than expected. In just six years, sales have increased tenfold, with around 21 million electric cars sold worldwide in 2025.&#160;\n\nChina &#160;and Europe are leading the charge, but the market is growing rapidly in other parts of the world, too.&#160;\n\nChina has long been investing in solar &#160;and wind &#160;energy, as well as battery technology&#160;—&#160;the most critical component in electric vehicles.&#160;\n\nThanks to advanced research and mass production, electric car battery costs have dropped dramatically. Today, they cost just a quarter of what they did 10 years ago, and prices continue to fall.&#160;\n\nChina is the world's largest car market, and&#160;consumers are reaping the benefits of their government's industrial strategy. EVs have cost less than combustion engine cars since 2024, the state has been rapidly expanding charging infrastructure for years, and electricity in China is very affordable.&#160;\n\nIn 2015, electric vehicles made up just 1% of new car sales in China. By April 2026, that share had climbed to 61%.&#160;\n\nElectric cars run on electricity and charge with a cable. Globally, two thirds of these EVs are so-called Battery Electric Vehicles (BEVs), which are powered by&#160;electricity alone. The remaining third also have a gas engine for backup on longer trips — these are known as Extended Range Electric Vehicles (EREVs) or Plug-in Hybrid Electric Vehicles (PHEVs).&#160;\n\nSo-called Hybrid Electric Vehicles (HEVs), by contrast, always require gas or diesel to power their combustion engine. An electric motor provides some assistance, with the electricity generated solely through regenerative braking. This technology reduces fuel consumption somewhat in city driving — but HEVs are not counted as electric vehicles in international statistics.&#160;\n\nIn 2018, electric vehicles accounted for just 1% of new car registrations in the EU. By April 2026, almost one in three new cars sold was an EV.&#160;\n\nNorthern Europe is taking the lead. In Norway , nearly all new cars sold are now electric (99%), followed by Denmark &#160;at 82% and Sweden &#160;at 65%. Governments across the region support climate-friendly mobility and are expanding charging infrastructure.&#160;\n\nIn the UK, 39% of new cars registered in April 2026 were electric, followed by Germany &#160;at 37% and France &#160;at 32%. Across all three countries, EV sales doubled compared to the same month the previous year.&#160;\n\nThe US &#160;market has stagnated in recent years. Between 2023 and 2025, EVs&#160;accounted for...",
+            "zh": "中国正在推动电动汽车转型，但欧洲和其他国家正在快速追赶。电动汽车变得越来越便宜、效率越来越高，而且行驶距离比以往任何时候都更远。 全球电动汽车 (EV) 市场的增长速度远远快于预期。短短六年内，销量增长了十倍，到 2025 年，全球电动汽车销量将达到约 2100 万辆。 中国和欧洲处于领先地位，但世界其他地区的市场也在快速增长。 中国长期以来一直在投资太阳能和风能以及电池技术——电动汽车最关键的组成部分。 得益于先进的研究和大规模生产，电动汽车电池成本大幅下降。如今，它们的成本仅为 10 年前的四分之一，而且价格还在继续下降。 中国是世界上最大的汽车市场，消费者正在从政府的产业战略中获益。自 2024 年以来，电动汽车的成本低于内燃机汽车，国家多年来一直在迅速扩大充电基础设施，而且中国的电力非常实惠。 2015年，电动汽车仅占中国新车销量的1%。到 2026 年 4 月，这一比例已攀升至 61%。 电动汽车依靠电力运行并通过电缆充电。在全球范围内，三分之二的电动汽车是所谓的电池电动汽车 (BEV)，仅由电力驱动。剩下的三分之一还配备了燃气发动机，用于长途旅行时的备用——这些被称为增程电动汽车 (EREV) 或插电式混合动力电动汽车 (PHEV)。 相比之下，所谓的混合动力电动汽车 (HEV) 始终需要汽油或柴油来为其内燃机提供动力。电动机提供一些帮助，仅通过再生制动产生电力。这项技术在一定程度上降低了城市驾驶的燃油消耗，但混合动力汽车在国际统计中并未被算作电动汽车。 2018年，电动汽车仅占欧盟新车注册量的1%。到 2026 年 4 月，售出的新车中近三分之一是电动汽车。 北欧处于领先地位。在挪威，现在销售的几乎所有新车都是电动汽车（99%），其次是丹麦（82%）和瑞典（65%）。该地区各国政府支持气候友好型出行，并正在扩大充电基础设施。 在英国，2026 年 4 月注册的新车中有 39% 是电动汽车，其次是德国（37%）和法国（32%）。在这三个国家，电动汽车销量与去年同月相比都翻了一番。 近年来，美国市场陷入停滞。 2023 年至 2025 年间，电动汽车占..."
+          },
+          "reflection": {
+            "en": "The rapid advancements in electric vehicle technology, making them cheaper, more efficient, and capable of traveling farther, reflect a remarkable increase in human knowledge and ingenuity. This progress reminds us of the prophetic vision that in the end times, knowledge shall increase, enabling new forms of mobility and understanding.",
+            "zh": "电动汽车技术日新月异，变得更便宜、更高效、续航里程更远，这反映出人类知识和创造力的显著增长。这种进步提醒我们，先知性的异象指出，在末时，知识必将增长，从而实现新的出行方式和理解。"
+          },
+          "verse": {
+            "reference": "Daniel 12:4",
+            "textEn": "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.",
+            "textZh": "但以理啊，你要隐藏这话，封闭这书，直到末时。必有多人来往奔跑，知识就必增长。",
+            "themeEn": "Knowledge increasing",
+            "themeZh": "知识增长"
+          },
+          "aiVerseId": "dan_12_4",
+          "translationState": "localized"
+        }
+      ]
+    },
+    "australia": {
+      "id": "australia",
+      "title": {
+        "en": "Australia Desk",
+        "zh": "澳洲栏目"
+      },
+      "strap": {
+        "en": "Public life, policy, and community stories shaping Australia now.",
+        "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
+      },
+      "sourceNotes": [
+        "The Guardian Australia",
+        "SBS News Australia"
+      ],
+      "items": [
+        {
+          "id": "www-theguardian-com-world-2026-jun-28-tech-firms-are-losing-the-public-s",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/28/tech-firms-are-losing-the-public-social-media-age-bans-near-tipping-point",
+          "image": "https://i.guim.co.uk/img/media/ea503ade6ee6157d7267471bc11c2b8cbd80df59/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ad27852f21ed69a18d45c953bf74ef6",
+          "publishedAt": "2026-06-28T10:00:06.000Z",
+          "title": {
+            "en": "‘Tech firms are losing the public’: social media age bans near tipping point",
+            "zh": "“科技公司正在失去公众”：社交媒体时代的禁令接近临界点"
+          },
+          "summary": {
+            "en": "UK is latest country to set minimum age for social media access but big tech is fighting back globally against curbs Social media bans go global: big tech faces a reckoning after Australia’s crackdown Arturo Béjar, a former employee turned whistleblower at Mark Zuckerberg’s...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "UK is latest country to set minimum age for social media access but big tech is fighting back globally against curbs Social media bans go global: big tech faces a reckoning after Australia’s crackdown Arturo Béjar, a former employee turned whistleblower at Mark Zuckerberg’s Meta, has talked to parents around the world. He says they share the same perspective: they dread the day their children are old enough to go online. Governments appear to be listening too. This month the UK became the latest country to state that it would set a minimum age of 16 for accessing major social media platforms. Social media bans are becoming a legislative trend after the precedent set by Australia last year, when it imposed an age limit on platforms including Meta’s Instagram and Facebook, Google’s YouTube, Elon Musk’s X, TikTok and Snapchat. Continue reading...",
+            "zh": "英国是最新设定社交媒体使用最低年龄的国家，但大型科技公司正在全球范围内反击限制社交媒体禁令走向全球：在澳大利亚的镇压行动之后，大型科技公司面临着清算马克·扎克伯格 Meta 的前雇员、后来成为举报人的阿图罗·贝哈尔 (Arturo Béjar) 与世界各地的家长进行了交谈。他说他们有着相同的观点：他们害怕孩子长大到可以上网的那一天。各国政府似乎也在倾听。本月，英国成为最新一个宣布将访问主要社交媒体平台的最低年龄设定为 16 岁的国家。继澳大利亚去年开创先例之后，社交媒体禁令正在成为一种立法趋势，当时澳大利亚对 Meta 的 Instagram 和 Facebook、谷歌的 YouTube、埃隆·马斯克的 X、TikTok 和 Snapchat 等平台施加了年龄限制。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-28-australian-man-charged-th",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/28/australian-man-charged-thailand-teenage-girl-body-found-in-suitcase-pattaya-city-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/11876f2cc998b58d66e9a1d6f29c4720af7b4c9f/195_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04cb92304920ce93adfc92e09855b689",
+          "publishedAt": "2026-06-28T09:25:27.000Z",
+          "title": {
+            "en": "Australian man charged with murder in Thailand after teenage girl’s body found in suitcase",
+            "zh": "澳大利亚男子在泰国被控谋杀，此前一名少女的尸体在行李箱中被发现"
+          },
+          "summary": {
+            "en": "An Australian man, Simon Peter Carman, 46, has been charged with the murder of a teenage girl after her naked body was discovered in a suitcase in Pattaya City, Thailand. Carman has denied the charges against him.",
+            "zh": "一名46岁的澳大利亚男子西蒙·彼得·卡曼在泰国芭堤雅市被控谋杀一名少女，此前这名少女的裸体尸体在一个行李箱中被发现。卡曼否认了对他的指控。"
+          },
+          "body": {
+            "en": "An Australian man has been charged with the murder of a teenage girl whose naked body was found in a suitcase in Thailand .\n\nPattaya City police told the Guardian the man, identified as Simon Peter Carman, 46, has denied the charges against him.\n\nIn video footage of Carman in custody obtained by the ABC and other media, Carman says what occurred was “out of my control”. Local Thai media have reported the alleged crime began with a disagreement over money.\n\nCarman was arrested at Bangkok’s Suvarnabhumi airport on Friday evening in connection with the disappearance of Tunchanok Donhomla, 17, in Pattaya on Thailand’s eastern Gulf coast.\n\nAfter questioning Carman in the early hours of Saturday morning, local police in Pattaya found a naked body in a suitcase near railway tracks, which they identified as Donhomla.\n\nPolice said they have laid three charges against Carman of murder, concealing a corpse in an attempt to hide the cause of death, and abduction of a minor over 15 but not yet 18 years of age for indecent purposes.\n\nIn videos taken while Carman was in custody he addresses the victim’s family: “I feel bad for what happened to your daughter. It was out of my control.”\n\n“I hope you – I know you’ll be very sad, upset. Same, same me. It shouldn’t happen. I hope you’re OK – I know you’re not – but I hope and tell other girls just to be … careful …” Carman says in the video.\n\nThe footage appears to show scratch marks on Carman’s upper arms and neck which he describes as spider bites: “I think it’s a spider; they always get in here.”\n\nCCTV footage, also seen by the Guardian and verified by police, allegedly shows Carman and Donhomla holding hands in a condo lobby while waiting for an elevator shortly after 3.30am on Thursday.\n\nCCTV footage from later Thursday evening – between 9.25pm and 9.48pm – allegedly shows Carman dragging the suitcase out of the building and leaving on a motorbike with it strapped behind him, and between 9.57pm and 10.06pm returning without the suitcase.\n\nThe local Thairath news website reported that Carman pleaded not guilty to police, saying that he acted in self defence which resulted in Donhomla’s death.\n\nThairath reported that a struggle ensued because of a disagreement over the charge for Donhomla’s time.\n\nIn Thailand’s criminal code , being convicted for murder can carry the death penalty or between 15 and 20 years’ inprisonment.\n\nThe victim’s father, Thongchai Donhomla, 46, said he was struggling to come to terms with the loss, Reuters reported.\n\n“I am deeply saddened. My daughter had ⁠no mother, so whenever she wanted anything, she would find a ​way herself, and she ​always helped me too,” he ​said.\n\nCarman remained in custody at Pattaya City court on Sunday. He will appear in court at a date to be determined.",
+            "zh": "一名澳大利亚男子被指控谋杀一名十几岁的女孩，该女孩的裸体在泰国的一个手提箱中被发现。 芭堤雅市警方告诉《卫报》，这名 46 岁的男子名叫西蒙·彼得·卡曼 (Simon Peter Carman)，他否认对他的指控。 在美国广播公司和其他媒体获得的卡曼被拘留的视频片段中，卡曼说发生的事情“超出了我的控制范围”。泰国当地媒体报道称，这起犯罪事件始于金钱纠纷。 周五晚上，卡曼在曼谷素万那普机场被捕，原因是 17 岁的通查诺克·唐霍姆拉 (Tunchanok Donhomla) 在泰国东部海湾沿岸芭堤雅失踪。 周六凌晨，芭堤雅当地警方在审问卡曼后，在铁轨附近的一个手提箱中发现了一具赤裸的尸体，他们确认该尸体为Donhomla。 警方表示，他们对卡曼提出三项指控，包括谋杀、隐藏尸体以掩盖死因以及出于不雅目的绑架一名 15 岁以上但未满 18 岁的未成年人。 在卡曼被拘留期间拍摄的视频中，他对受害者的家人说：“我对你女儿的遭遇感到难过。这超出了我的控制范围。” “我希望你——我知道你会非常悲伤、不安。我也一样。这不应该发生。我希望你没事——我知道你不好——但我希望并告诉其他女孩要……小心……”卡曼在视频中说道。 这段视频似乎显示卡曼的上臂和脖子上有划痕，他将其描述为蜘蛛咬伤：“我认为这是一只蜘蛛；它们总是进来这里。” 《卫报》也看到并经警方证实的闭路电视录像显示，周四凌晨 3 点 30 分后不久，卡曼和多霍姆拉在公寓大厅里手牵手等待电梯。 周四晚上 9 点 25 分到 9 点 48 分之间的闭路电视录像显示，卡曼将手提箱拖出大楼，然后将行李箱绑在摩托车上离开，并在晚上 9 点 57 分到 10 点 06 分之间返回，但没有携带手提箱。 当地Thairath新闻网站报道称，卡曼向警方表示无罪，称他的行为是出于自卫，导致了多霍姆拉的死亡。 泰拉特报告说，由于对多霍姆拉时间的指控存在分歧，随后发生了一场争斗。 根据泰国刑法，谋杀罪成立可判处死刑或 15 至 20 年监禁。 据路透社报道，受害者的父亲 46 岁的通猜·多霍姆拉 (Thongchai Donhomla) 表示，他很难接受失去亲人的事实。 “我深感悲痛。我的女儿没有母亲，所以每当她想要什么时，她都会自己想办法，而且她也总是帮助我，”他说。 周日，卡曼仍被关押在芭堤雅市法院。他将在待确定的日期出庭。"
+          },
+          "reflection": {
+            "en": "The tragic discovery of a teenage girl's body in a suitcase is a stark reminder of the profound evil that can be inflicted upon the most vulnerable. Yahweh's word warns of severe consequences for those who harm \"little ones,\" underscoring the sacred value of every young life. This heartbreaking news calls us to grieve for the lost and to uphold justice for...",
+            "zh": "一名少女的尸体在行李箱中被发现，这一悲剧性事件严酷地提醒我们，最脆弱的人可能遭受的深重邪恶。雅伟的话语警告，那些伤害“小孩子”的人将面临严厉的后果，这强调了每一个年轻生命的圣洁价值。这个令人心碎的消息呼唤我们为逝者哀悼，并为那些生命被如此残忍夺走的人伸张正义。"
+          },
+          "verse": {
+            "reference": "Matthew 18:6",
+            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
+            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
+            "themeEn": "Woe to those who harm children",
+            "themeZh": "使小子跌倒的祸"
+          },
+          "aiVerseId": "matt_18_6",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-28-paul-hogan-pauline-hanson",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/28/paul-hogan-pauline-hanson-pelican-insult-australian-slang-please-explain",
+          "image": "https://i.guim.co.uk/img/media/d38fa47a060aec3cd6a4bfc74c2d2a509e23405e/0_0_5160_4129/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6783c91860b7ff297addd67fe6637e9",
+          "publishedAt": "2026-06-28T07:41:24.000Z",
+          "title": {
+            "en": "Paul Hogan has reportedly called Pauline Hanson a ‘pelican’. Please explain?",
+            "zh": "据报道，保罗·霍根称波琳·汉森为“鹈鹕”。请解释一下？"
+          },
+          "summary": {
+            "en": "Crocodile Dundee was held up by the One Nation leader as an exemplar of ‘Australian monoculture’. Hoges had other ideas Get our breaking news email, free app or daily news podcast In one swift rhetorical blow, Crocodile Dundee has disarmed Pauline Hanson’s latest attack on...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Crocodile Dundee was held up by the One Nation leader as an exemplar of ‘Australian monoculture’. Hoges had other ideas\n\nIn one swift rhetorical blow, Crocodile Dundee has disarmed Pauline Hanson’s latest attack on multiculturalism.\n\nAustralian politics has spent a week recovering from the rightwing One Nation leader’s attempt to explain her controversial concept of “Australian monoculture”, first introduced at this month’s National Press Club address .\n\nOn Wednesday, in a Senate speech, the One Nation leader said: “Bring back Paul Hogan and Norman Gunston . These are the essential features of Australian monoculture, and there’s nothing remotely exclusionary about them.”\n\nIn response, Crocodile Dundee star Hogan, tracked down by the Australian Financial Review to Venice Beach, California, reached for a bird metaphor.\n\n“She’s a pelican, yeah,” he reportedly said (adding that Hanson “sounds very much like this stupid boofhead over here, Trump”).\n\nHogan’s role in the Australian vernacular is contested. The 86-year-old national treasure is yet to fully recover from volunteering to throw “an extra shrimp on the barbie ”.\n\nBut he’s a deep well of Australian slang, and is credited by academics for giving “G’day” international prominence .\n\nFair dinkum. So going back to “pelican”, what does he mean exactly? Well, Hogan has prior form. In 1986’s Crocodile Dundee itself, his titular character tells a New York driver: “Get on the right side of the road, ya pelican!”\n\nAnother Australian actor, Russell Crowe, reportedly tweeted after the Rabbitohs’ 2014 NRL grand final win that one of the club’s sponsors was a “pelican” after he was overhead to back the opposing team, the Canterbury-Bankstown Bulldogs. The executive said he had been misconstrued, and Crowe deleted the tweet.\n\nIts usage as an insult goes back much further. In Act III scene 4 of King Lear, the eponymous character says of the grasping, power-hungry Goneril and Regan “‘twas this flesh begot/Those pelican daughters”. The New Oxford Shakespeare says of this line: “young pelicans supposedly fed on their mother’s blood”.\n\nWas Hogan reaching to Shakespeare to criticise Hanson’s ruthless political ambition? It seems … unlikely.\n\nAustralians are no strangers to using native wildlife, and particularly birds, as insults: see also galah, bin chicken, drongo.\n\nA specific entry for “pelican” is absent from the Australian National Dictionary, but the consensus online is that it means a fool or a clown, based on perceptions of the bird as slow-moving, with an ungainly physiognomy.\n\nOf course, this is all quite unfair to an animal that BirdLife Australia calls “highly mobile”, that works cooperatively in groups “to drive fish into a concentrated mass”, and can “soar to heights of up to 3,000m” – all positive...",
+            "zh": "鳄鱼邓迪被一国党领导人视为“澳大利亚单一文化”的典范。霍格斯还有其他想法 鳄鱼邓迪以迅速的言辞一击，化解了宝琳·汉森对多元文化主义的最新攻击。 澳大利亚政坛花了一周的时间从右翼一国党领导人试图解释她有争议的“澳大利亚单一文化”概念中恢复过来，该概念首次在本月的全国新闻俱乐部演讲中提出。 周三，在参议院演讲中，这位一国党领导人表示：“请带回保罗·霍根和诺曼·冈斯顿。这些是澳大利亚单一文化的基本特征，他们没有任何排斥之处。” 作为回应，鳄鱼邓迪明星霍根被《澳大利亚金融评论》追踪到加利福尼亚州威尼斯海滩，用鸟来比喻。 据报道，他说：“她是一只鹈鹕，是的，”（并补充说汉森“听起来很像特朗普这里的这个愚蠢的笨蛋”）。 霍根在澳大利亚方言中的作用是有争议的。这位86岁的国宝还没有完全从志愿“向芭比娃娃扔一只额外的虾”的过程中恢复过来。 但他精通澳大利亚俚语，并因让“G’day”在国际上享有盛誉而受到学者的赞誉。 公平纯粹。那么回到“鹈鹕”，他到底是什么意思？嗯，霍根有先验形态。在 1986 年的《鳄鱼邓迪》中，他的同名角色告诉一位纽约司机：“走在路的右侧，鹈鹕！” 据报道，另一位澳大利亚演员罗素·克劳 (Russell Crowe) 在 Rabbitohs 赢得 2014 年 NRL 总决赛后发推文称，该俱乐部的一位赞助商是一只“鹈鹕”，因为他在头顶上支持了对方球队坎特伯雷-班克斯敦斗牛犬队 (Canterbury-Bankstown Bulldogs)。这位高管表示他被误解了，克罗删除了这条推文。 它作为一种侮辱的用法可以追溯到更早的时候。在《李尔王》第三幕第四场中，同名人物谈到贪婪、渴望权力的戈纳里尔和里根时说“这就是肉身所生的/那些鹈鹕女儿”。 《新牛津莎士比亚》这样评价这句话：“据说年轻的鹈鹕以母亲的血为食”。 霍根是否向莎士比亚批评汉森无情的政治野心？看来……不太可能。 澳大利亚人对使用本土野生动物（尤其是鸟类）进行侮辱并不陌生：另请参阅加拉（galah）、宾鸡（bin Chicken）、龙戈（drongo）。 《澳大利亚国家词典》中没有“鹈鹕”的具体词条，但网上的共识是，它的意思是傻瓜或小丑，因为人们认为这种鸟行动缓慢，相貌笨拙。 当然，这对于被澳大利亚鸟类保护协会称为“高度流动”的动物来说是相当不公平的，这种动物通过群体合作“将鱼驱赶成一个集中的团块”，并且可以“飙升至 3,000m 的高度”——所有这些都是积极的......"
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-28-enforcement-mode-australi",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/28/enforcement-mode-australia-must-take-fight-to-tech-giants-to-make-social-media-ban-stick-experts-warn",
+          "image": "https://i.guim.co.uk/img/media/e4b1600890d37357e9d916f924bb6b1454ed1db8/746_319_4217_3373/master/4217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b995b6b7d8b1cdfc1902c44905b7d8a0",
+          "publishedAt": "2026-06-28T05:51:15.000Z",
+          "title": {
+            "en": "‘Enforcement mode’: Australia must take fight to tech giants to make social media ban stick, experts warn",
+            "zh": "“执行模式”：专家警告称，澳大利亚必须向科技巨头发起斗争，以维持社交媒体禁令"
+          },
+          "summary": {
+            "en": "Doubled penalties will have little effect if platforms not held to account for the content they carry, observers say Get our breaking news email, free app or daily news podcast The government needs to switch into “enforcement mode” and take on tech giants over its social media...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Doubled penalties will have little effect if platforms not held to account for the content they carry, observers say Get our breaking news email , free app or daily news podcast The government needs to switch into “enforcement mode” and take on tech giants over its social media ban after doubling fines, experts have warned. The federal government announced on Sunday it would introduce new legislation to double fines to $99m for platforms that breach the social media ban, and give the eSafety commissioner, Julie Inman Grant, stronger information-gathering powers. Continue reading...",
+            "zh": "观察人士称，如果平台不对其所承载的内容负责，那么加倍的处罚将不会产生什么效果专家警告说，政府需要切换到“执法模式”，在加倍罚款后针对科技巨头的社交媒体禁令对其进行打击。联邦政府周日宣布，将推出新立法，对违反社交媒体禁令的平台处以双倍罚款，达到 9900 万美元，并赋予电子安全专员朱莉·英曼·格兰特 (Julie Inman Grant) 更强的信息收集权力。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-nsw-to-give-34-million-boost-to-shark-spotti",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/nsw-to-give-34-million-boost-to-shark-spotting-drones-with-hope-of-eventual-ai-automation/0tkspb2my",
+          "image": "https://assets.sbs.com.au/dims4/default/bf1f25b/2147483647/strip/false/crop/8192x3764+0+397/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F3c%2F8e%2F43b00d264562acfc3099a6591c7f%2F20260615190914903798-original.jpg",
+          "publishedAt": "2026-06-28T05:18:50.000Z",
+          "title": {
+            "en": "NSW to give $34 million boost to shark-spotting drones with hope of eventual AI automation",
+            "zh": "新南威尔士州将拨款 3400 万澳元用于鲨鱼识别无人机，希望最终实现人工智能自动化"
+          },
+          "summary": {
+            "en": "Under the expanded monitoring program, 72 beaches will now have a fleet of drones watching over them 365 days a year.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A fleet of drones will patrol NSW beaches from dawn to dusk to spot sharks as artificial intelligence is touted as a long-term solution to saving lives.\n\nNSW Premier Chris Minns said his government would invest an extra $34 million in a major scale-up of drone coverage across beaches in Sydney and along the state's coast.\n\nThe plan follows a great white shark attack on a woman swimming between the flags at Sydney's popular Coogee Beach on 13 June.\n\nTeacher Leah Stewart, 34, was critically injured and later had her arm amputated following the mauling.\n\nUnder the expanded monitoring program, announced on Sunday, 72 beaches &#x2014; including at least one in every coastal local government area &#x2014; will benefit from a fleet of drones watching over them 365 days a year.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"No one can promise a shark mitigation program that can guarantee that there will be zero encounters with sharks,\" Minns told reporters at Cronulla.\n\n\"But our plan here is to reduce the risk for swimmers and surfers in NSW beaches by using the latest technology ... so that you get earlier warning if you're in the water that there is a shark in the vicinity.\"\n\nThe program could eventually culminate in the use of autonomous, AI-enabled drones, rather than human-controlled craft.\n\n\"When we can roll out automated drones and AI-assisted monitoring, (it) will make a big difference ... because we'll be able to identify and distinguish between different kinds of marine life for the first time.\"\n\nBeaches with high numbers of water users will be prioritised for the additional monitoring.\n\nThe bolstered surveillance will kick off on Wednesday and include year-round coverage of all of Sydney's main beaches.\n\nSome 500,000 drone flights were expected to be logged annually, Surf Life Saving NSW head Steve Pearce said while pointing to a drone being tested overhead.\n\n\"This is just one of a fleet of drones ... that will be rolled out, up and down the NSW coastline, that allows our pilots to pilot drones hundreds of kilometres away from where they're actually situated,\" he said.\n\nControversial shark nets will be retained at some beaches, but they will be fortified by aerial surveillance.\n\nHumane World for Animals Australia marine biologist Lawrence Chlebeck welcomed the world-leading commitment to drones, which he said were the best way to watch for sharks and reduce the risk of bites.\n\nBut he urged the government to scrap shark nets because they entangle other animals and are considered outdated and ineffective by the scientific community.\n\nThe nets, which are removed during the winter whale migration season, will be reinstalled in September.\n\nA fundraiser to cover...",
+            "zh": "一支无人机舰队将从黎明到黄昏在新南威尔士州海滩巡逻，以发现鲨鱼，因为人工智能被吹捧为拯救生命的长期解决方案。 新州州长 Chris Minns 表示，政府将额外投资 3400 万澳元，大规模扩大无人机在悉尼海滩和该州海岸的覆盖范围。 该计划是在 6 月 13 日，一名在悉尼受欢迎的库吉海滩的旗帜之间游泳的妇女遭到大白鲨袭击后制定的。 34 岁的莉亚·斯图尔特 (Leah Stewart) 老师受重伤，随后在殴打后手臂被截肢。 根据周日宣布的扩大监测计划，72 个海滩（包括每个沿海地方政府区域中至少一个）将受益于无人机舰队一年 365 天的监视。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 明斯在克罗纳拉对记者说：“没有人能够承诺一项鲨鱼缓解计划能够保证与鲨鱼的零接触。” “但我们的计划是通过使用最新技术来降低新南威尔士州海滩游泳者和冲浪者的风险……这样，如果你在水中，你就能尽早收到附近有鲨鱼的警告。” 该计划最终可能会使用具有人工智能功能的自主无人机，而不是人类控制的飞行器。 “当我们推出自动化无人机和人工智能辅助监测时，将会产生巨大的影响……因为我们将首次能够识别和区分不同种类的海洋生物。” 将优先对用水人数较多的海滩进行额外监测。 加强的监控将于周三开始，包括对悉尼所有主要海滩的全年覆盖。 新南威尔士州冲浪救生组织负责人 Steve Pearce 指着一架正在上空测试的无人机表示，预计每年将记录约 50 万次无人机飞行。 他说：“这只是无人机机队中的一架……将在新南威尔士州海岸线上下部署，使我们的飞行员能够在距离实际位置数百公里的地方驾驶无人机。” 一些海滩将保留有争议的防鲨网，但将通过空中监视进行加固。 澳大利亚动物人道世界海洋生物学家劳伦斯·切勒贝克（Lawrence Chlebeck）对世界领先的无人机承诺表示欢迎，他说这是监视鲨鱼和降低被咬伤风险的最佳方式。 但他敦促政府废弃防鲨网，因为它们会缠住其他动物，并且被科学界认为已经过时且无效。 这些渔网在冬季鲸鱼迁徙季节被拆除，将于九月重新安装。 筹款活动涵盖..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-live-2026-jun-28-australia-news-live-",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/ce01225d2fb02d7f979d1e48d5867b5f2d85af40/565_0_6468_5177/master/6468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2aea1f918bf9193989709296d12454bb",
+          "publishedAt": "2026-06-28T03:46:39.000Z",
+          "title": {
+            "en": "Auction clearance rates continue to hover under 50% – as it happened",
+            "zh": "拍卖清盘率继续徘徊在 50% 以下——事实确实如此"
+          },
+          "summary": {
+            "en": "This blog is now closed Get our breaking news email, free app or daily news podcast Big tech not cooperating ‘as much as we’d like them to’: Watt Federal cabinet minister Murray Watt, says the government knows it’s needed to take more action to ensure social media giants are...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "This blog is now closed Get our breaking news email , free app or daily news podcast Big tech not cooperating ‘as much as we’d like them to’: Watt Federal cabinet minister Murray Watt , says the government knows it’s needed to take more action to ensure social media giants are complying with a ban for under 16s that came into effect in December. These laws were brand new, never developed anywhere in the world. And what we’ve learned is that the powers that the safety commissioner has do need to be beefed up, also to give her powers across things like age assurance tools. So things that sit outside the social media platforms themselves, but compelling them to provide information so that she can do her job even better. The pace of change is accelerating, the global and generational pressures are intensifying, and people have got legitimate concerns about where they fit in that, and then we’ve got the anger industry, and parties of the populist right trying to make that worse rather than trying to make that better. It is a difficult time around the world to be an incumbent government, from our point of view. We are using the power of incumbency to take real action, to deliver cost-of-living help, to deliver real change. The best antidote to anger is action … The Albanese Labour government has chosen to address those concerns rather than dismiss them. Continue reading...",
+            "zh": "此博客现已关闭 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 大型科技公司并未“像我们希望的那样”合作：瓦特 联邦内阁部长默里·瓦特 (Murray Watt) 表示，政府知道需要采取更多行动，以确保社交媒体巨头遵守 12 月生效的针对 16 岁以下儿童的禁令。这些法律是全新的，从未在世界任何地方制定过。我们了解到，安全专员的权力确实需要加强，也需要赋予她在年龄保证工具等方面的权力。因此，这些事情位于社交媒体平台本身之外，但却迫使他们提供信息，以便她可以更好地完成工作。变革的步伐正在加快，全球和代际压力正在加剧，人们对自己所处的位置产生了合理的担忧，然后我们就有了愤怒产业，民粹主义右翼政党试图让情况变得更糟，而不是试图让情况变得更好。从我们的角度来看，对于世界各地的现任政府来说，现在都是一个艰难的时期。我们正在利用现任者的力量采取实际行动，提供生活费用帮助，带来真正的变革。消除愤怒的最佳解药就是行动……阿尔巴尼亚工党政府选择解决这些担忧，而不是忽视它们。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-28-nsw-beaches-to-get-dawn-t",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/28/nsw-beaches-to-get-dawn-to-dusk-drone-patrols-in-34m-anti-shark-program",
+          "image": "https://i.guim.co.uk/img/media/6b09ccbdc8c6268b0553747aabfc5c7dde15e17a/473_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1fd042168173ec9133adcd309980a99",
+          "publishedAt": "2026-06-28T01:03:12.000Z",
+          "title": {
+            "en": "NSW beaches to get dawn-to-dusk drone patrols in $34m anti-shark program",
+            "zh": "新南威尔士州海滩将在耗资 3400 万美元的反鲨鱼计划中进行从黎明到黄昏的无人机巡逻"
+          },
+          "summary": {
+            "en": "Premier Chris Minns says he wants to restore confidence to beachgoers after series of shark sightings and attacks Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Shark-spotting drones will fly from dawn to dusk...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Premier Chris Minns says he wants to restore confidence to beachgoers after series of shark sightings and attacks Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Shark-spotting drones will fly from dawn to dusk throughout the year at 70 beaches in New South Wales under an expanded monitoring program, the state government says. The NSW premier, Chris Minns, said the $34m initiative would restore confidence to beachgoers after a series of shark sightings and attacks. They include one by a great white shark on Sydney mother Leah Stewart, who is no longer in a critical condition following the attack at Coogee beach earlier this month. Continue reading...",
+            "zh": "州长克里斯·明斯 (Chris Minns) 表示，在发生一系列鲨鱼目击事件和袭击事件后，他希望恢复海滩游客的信心 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 州政府表示，根据扩大的监控计划，鲨鱼观测无人机将全年从黎明到黄昏在新南威尔士州的 70 个海滩飞行。新南威尔士州州长克里斯·明斯 (Chris Minns) 表示，在一系列鲨鱼目击事件和袭击事件发生后，这项耗资 3400 万美元的举措将恢复海滩游客的信心。其中包括悉尼母亲莉亚·斯图尔特 (Leah Stewart) 身上的大白鲨，本月早些时候库吉海滩发生袭击事件后，她的情况已不再危急。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-high-speed-rail-australian-dream-one-factor-",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/high-speed-rail-australian-dream-one-factor-could-make-it-real/6b1d60lga",
+          "image": "https://assets.sbs.com.au/dims4/default/06b3841/2147483647/strip/false/crop/1920x882+0+67/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc9%2F59%2F82964af040e782276a102e5318ad%2Faus-high-speed-rail-header.png",
+          "publishedAt": "2026-06-27T20:35:39.000Z",
+          "title": {
+            "en": "High-speed rail is a decades-old Australian dream. One factor could finally make it real",
+            "zh": "高铁是澳大利亚几十年的梦想。一个因素可能最终使其成为现实"
+          },
+          "summary": {
+            "en": "It's been debated for decades, but some experts say conditions may finally be right for high-speed rail in Australia.",
+            "zh": "澳大利亚的高铁项目已经讨论了几十年，但一些专家表示，现在条件可能终于成熟，使其成为现实。"
+          },
+          "body": {
+            "en": "Share your feedback and help us improve this feature. Read more about how we use AI at SBS here.\n\nJon Staniland is one of many commuters on the 4.33pm train to Newcastle who has settled in for a long journey home.\n\nDoor to door, it can take Staniland up to two hours to travel home from work in Sydney's CBD to Woy Woy on the Central Coast, although the trip can be as short as one hour and 40 minutes if he gets an express train.\n\nWhen SBS News meets him on a Monday afternoon, Staniland is working on his laptop. His employer allows him to leave the office early &#x2014; around 3pm &#x2014; and finish the rest of his work while in transit.\n\nThe 51-year-old makes this four-hour return journey twice a week, but Staniland says he wouldn't have it any other way. He has lived in Woy Woy for 10 years and loves the lifestyle.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nStaniland is one of the growing number of Australians choosing to live in regional areas for lifestyle and cost of living reasons, while maintaining jobs in the capital cities.\n\nHe's also among the commuters who stand to benefit from a proposed high-speed rail line between Newcastle and Sydney, a project described as a once-in-a-century opportunity to reshape Australia and redefine how people live, work and travel.\n\nThe project has progressed to a two-year development phase following the release of a partially redacted business case by the High Speed Rail Authority in February.\n\nThe new rail line would slash travel times from Sydney to the Central Coast to around 30 minutes, while the journey to Newcastle would take less than an hour &#x2014; compared with about two and a half hours by train today.\n\nIt would also allow passengers to travel from Newcastle to the new airport in Western Sydney in about 90 minutes.\n\nThe federal government announced the start of a two-year development phase in March. Last week, expressions of interest closed for the design and construction of the rail line between the Central Coast township of Ourimbah and Central Station in Sydney's CBD.\n\nIn an opinion piece published on 4 March, Prime Minister Anthony Albanese said: \"The time has come for high-speed rail in Australia &#x2014; for the good of Australians and, as the business case now shows, for the good of the economy.\"\n\nWhile the project still faces significant engineering, funding and political challenges, some experts believe this is the closest Australia has come to getting a high-speed rail project off the ground, and the timing may finally be right.\n\nThe idea of high-speed rail excites many Australians, but previous plans have often been stymied by the high costs required.\n\nWollongong University associate professor...",
+            "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 乔恩·斯坦尼兰 (Jon Staniland) 是乘坐下午 4.33 开往纽卡斯尔的火车的众多通勤者之一，他已经做好了回家的长途旅行。 斯坦尼兰从悉尼中央商务区上班到中央海岸的沃伊沃伊，挨家挨户最多需要两个小时才能回家，但如果他乘坐特快列车，行程可能会短至一小时四十分钟。 当 SBS 新闻周一下午见到他时，斯坦尼兰正在他的笔记本电脑上工作。他的雇主允许他提前离开办公室——下午 3 点左右——并在途中完成剩余的工作。 这位 51 岁的老人每周都会进行两次每次 4 小时的往返旅程，但斯坦尼兰表示他不会选择其他方式。他在 Woy Woy 生活了 10 年，热爱这里的生活方式。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 出于生活方式和生活成本的原因，越来越多的澳大利亚人选择居住在偏远地区，同时保留首府城市的工作机会，斯坦尼兰就是其中之一。 他也是受益于拟议中的纽卡斯尔和悉尼之间高铁线的通勤者之一，该项目被描述为重塑澳大利亚并重新定义人们生活、工作和旅行方式的百年一遇的机会。 自二月份高铁管理局发布部分经过编辑的业务案例后，该项目已进入为期两年的开发阶段。 新铁路线将从悉尼到中央海岸的旅行时间缩短至约 30 分钟，而到纽卡斯尔的旅程将需要不到一个小时，而目前乘火车大约需要两个半小时。 它还将使乘客在大约 90 分钟内从纽卡斯尔到达西悉尼新机场。 联邦政府于三月份宣布开始为期两年的开发阶段。上周，中央海岸小镇乌林巴 (Ourimbah) 和悉尼中央商务区中央车站之间的铁路线设计和建设意向书已截止。 澳大利亚总理安东尼·艾博尼斯 (Anthony Albanese) 在 3 月 4 日发表的一篇评论文章中表示：“澳大利亚建设高铁的时机已经到来，这不仅是为了澳大利亚人民的利益，而且正如现在的商业案例所表明的那样，也是为了经济的利益。” 尽管该项目仍面临重大的工程、资金和政治挑战，但一些专家认为，这是澳大利亚最接近启动高铁项目的一次，时机可能最终是正确的。 高铁的想法让许多澳大利亚人兴奋不已，但之前的计划往往因所需的高成本而受阻。 卧龙岗大学副教授..."
+          },
+          "reflection": {
+            "en": "For decades, Australians have envisioned high-speed rail, a dream that offers a sense of national direction and progress. This story reminds us that a clear vision is vital for a society to move forward with purpose and hope. When a shared aspiration begins to materialize, it can inspire renewed energy and focus for a nation.",
+            "zh": "几十年来，澳大利亚人一直梦想着高速铁路，这个梦想为国家提供了方向感和进步的希望。这个故事提醒我们，清晰的愿景对于一个社会带着目标和希望前进至关重要。当一个共同的愿望开始实现时，它能为国家注入新的活力和专注。"
+          },
+          "verse": {
+            "reference": "Proverbs 29:18",
+            "textEn": "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom's instruction.",
+            "textZh": "没有异象，民就放肆；惟遵守律法的，便为有福。",
+            "themeEn": "Need for vision",
+            "themeZh": "国家需要异象"
+          },
+          "aiVerseId": "prov_29_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-dateline-article-suz-makes-a-birthday-cake-for-her-d",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/dateline/article/suz-makes-a-birthday-cake-for-her-daughter-each-year-though-she-knows-shell-never-eat-it/h0a3jvwef",
+          "image": "https://assets.sbs.com.au/dims4/default/79b59b6/2147483647/strip/false/crop/1920x882+0+99/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F7d%2F2e%2F2714a5e9462fbe9ce40d00c3f579%2Fthinfluencers-header-v02.png",
+          "publishedAt": "2026-06-27T20:35:17.000Z",
+          "title": {
+            "en": "Luka's healthy eating became an obsession. Her mum Suze blames 'thinfluencers'",
+            "zh": "苏兹每年为女儿做生日蛋糕，尽管她知道女儿永远不会吃"
+          },
+          "summary": {
+            "en": "A new generation of influencers is promoting extreme thinness to millions online, leading to often-tragic consequences for vulnerable individuals.",
+            "zh": "新一代网红正在网上向数百万人宣传极度瘦身，这给脆弱的个体带来了往往是悲剧性的后果。"
+          },
+          "body": {
+            "en": "A new generation of influencers is promoting extreme thinness to millions online. Dateline investigates the growing trend and meets the families taking on Big Tech. Watch Under the Thinfluence on Tuesday 30 June at 9.30pm (AEST) on SBS or SBS On Demand.\n\nContent warning: This article contains references to body image and eating disorders.\n\nFor Luka and her family, Christmases and special events like birthdays are fraught.\n\nEvery year, Luka wants her mum to make her a birthday cake, even though she knows she'll never eat it.\n\nThe 23-year-old from Hervey Bay in southern Queensland has lived with anorexia nervosa &#x2014; one of Australia's deadliest mental illnesses &#x2014; for nearly a decade. She's been in treatment for six years and is now in recovery.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"I had nurses checking on me in the night because I was at risk of my bones protruding through my skin,\" Luka tells Dateline.\n\nIt's&#x202F;a far cry from&#x202F;the little girl she once was &#x2014; fascinated with healthy eating and nutritious recipes she found on social media.&#x202F;\n\n\"I remember seeing people's exercise routines, their diets and what they ate. And I don't think I was, as a nine-year-old, actively looking for that stuff; I think that's what came up.\"\n\nWhen Luka was scouted to become a model at age 13, her interest in her appearance grew; she wanted to look like the models she saw on social media.\n\nHer mother Suze watched in dismay at the constant information Luka was exposed to.\n\n\"Whether it's fasting, whether it's eating eight small meals a day, whether it's eating this many grams of protein ... you just get bombarded,\" she says.\n\nOver time, Luka's interest in healthy eating became an obsession, and she became ill.\n\n\"Every birthday, every Easter, we've got all these other alternative Easter presents for Luka that aren't related to food because I didn't want her to miss out,\" Suze says.\n\n\"It's like eating disorder Olympics. You strive for that one goal. To be the thinnest, to be the most in control, to be the sickest, to be suffering the most, to be the most underweight.\n\nFor some online content creators, thinness means rising in the ranks on social media.\n\nPopular videos that include commentary on 'What I eat in a day' have become so common that they've been shortened to 'WIEIAD' &#x2014; typically featuring clean and whole foods, aesthetically plated and presented.\n\nA growing number of social media accounts have built their brand around thinness, weaving it into fitness content, fashion and 'wellness' posts. Known as 'thinfluencers', these influencers centre their content on the pursuit of being thin.\n\nFour United States influencers agreed to...",
+            "zh": "新一代的影响者正在网上向数百万人宣传极度瘦身。 Dateline 调查了这一增长趋势，并会见了挑战大型科技公司的家庭。 6 月 30 日星期二晚上 9 点 30 分（澳大利亚东部标准时间）在 SBS 或 SBS On Demand 观看《Under the Thinfluence》。 内容警告：本文包含对身体形象和饮食失调的引用。 对于卢卡和她的家人来说，圣诞节和生日等特殊活动令人担忧。 每年，卢卡都希望妈妈为她做一个生日蛋糕，尽管她知道自己永远不会吃它。 这位来自昆士兰州南部赫维湾的 23 岁男子近十年来一直患有神经性厌食症——澳大利亚最致命的精神疾病之一。她已经接受了六年的治疗，目前正在康复中。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 卢卡告诉《日期线》：“晚上有护士对我进行检查，因为我的骨头有从皮肤中突出的危险。” 这与她曾经的小女孩相去甚远——她对在社交媒体上找到的健康饮食和营养食谱着迷。 “我记得看到人们的锻炼习惯、他们的饮食和他们吃的东西。而且我不认为我在九岁的时候会积极寻找这些东西；我认为这就是结果。” 当卢卡 (Luka) 13 岁时被星探发掘成为一名模特时，她对自己外表的兴趣与日俱增；她希望自己看起来像她在社交媒体上看到的模特。 她的母亲苏西沮丧地看着卢卡不断接触到的信息。 “无论是禁食，还是每天吃八顿小餐，无论是吃这么多克蛋白质……你都会受到轰炸，”她说。 随着时间的推移，卢卡对健康饮食的兴趣变成了一种痴迷，她病倒了。 “每个生日，每个复活节，我们都会为卢卡准备所有其他与食物无关的替代复活节礼物，因为我不想让她错过，”苏兹说。 “这就像饮食失调奥运会。你为这个目标而奋斗。成为最瘦的人，成为最能控制的人，成为最病的人，成为受苦最深的人，成为体重最轻的人。 对于一些在线内容创作者来说，瘦意味着在社交媒体上的排名上升。 包含“我一天吃什么”评论的热门视频已变得如此普遍，以至于它们被缩写为“WIEIAD”——通常以干净、天然的食物为特色，并以美观的方式摆盘和呈现。 越来越多的社交媒体账户围绕“瘦”打造自己的品牌，将其融入健身内容、时尚和“健康”帖子中。这些影响者被称为“瘦身影响者”，他们的内容集中在追求瘦身上。 四位美国有影响力人士同意..."
+          },
+          "reflection": {
+            "en": "The heartbreaking reality of a mother making a cake her daughter will never eat underscores the profound harm caused by online content promoting dangerous ideals. Yahweh's word warns against leading vulnerable ones astray, reminding us of the grave responsibility that comes with influence, especially over young minds.",
+            "zh": "一位母亲为女儿制作她永远无法品尝的蛋糕，这一令人心碎的现实凸显了网上宣传危险观念所造成的深远伤害。雅伟的话语警告我们不要使脆弱的人误入歧途，提醒我们影响力所带来的重大责任，尤其是在影响年轻人思想方面。"
+          },
+          "verse": {
+            "reference": "Matthew 18:6",
+            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
+            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
+            "themeEn": "Woe to those who harm children",
+            "themeZh": "使小子跌倒的祸"
+          },
+          "aiVerseId": "matt_18_6",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-fourth-positive-bird-flu-case-confirmed-amid",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/fourth-positive-bird-flu-case-confirmed-amid-surge-of-calls-to-animal-disease-hotline/ya542agrr",
+          "image": "https://assets.sbs.com.au/dims4/default/717835c/2147483647/strip/false/crop/3729x1713+0+267/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F95%2F28%2Fa7158d84463aa87042f98ec73e27%2F20130204000882252660-original.jpg",
+          "publishedAt": "2026-06-27T07:29:28.000Z",
+          "title": {
+            "en": "Fourth positive bird flu case confirmed amid surge of calls to animal disease hotline",
+            "zh": "第四例禽流感病例确诊，动物疾病热线接报量激增"
+          },
+          "summary": {
+            "en": "Officials have confirmed a fourth case of bird flu, leading to over four hundred reports to the emergency animal hotline in just over a week.",
+            "zh": "官员已确认第四例禽流感病例，导致在一周多时间内，紧急动物热线接到超过四百个报告。"
+          },
+          "body": {
+            "en": "Western Australia has confirmed its third positive bird flu case, the fourth recorded in Australia in one week.\n\nThe deadly H5 strain of avian influenza was found in a giant petrel discovered in Quindalup, on the state's south-west coast, and confirmed by the CSIRO's Australian Centre for Disease Preparedness on Saturday morning.\n\nThere have been four positive cases of H5 bird flu in Australia since 20 June, when the federal government confirmed that two migratory seabirds suspected to be infected with the virus returned positive results.\n\nThese first two cases, a brown skua and a giant petrel, were found in the remote Cape Le Grand area, east of Esperance.\n\nThe government said on Saturday that the results of a fifth possible positive case, in another giant petrel found west of Esperance, were pending.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIn the week since reports first emerged of a suspected H5 influenza case on 19 June, Western Australians have made more than 400 reports to the Emergency Animal Disease hotline.\n\nOf these reports, 53 have been prioritised for further investigation by the Department of Primary Industries and Regional Development.\n\nAcross the state, 17 negative results have been recorded in the Esperance area, Mid West, Great Southern, South West, Peel and the Perth metropolitan area.\n\nAustralia was the last continent to record cases of the highly contagious and deadly strain of bird flu.\n\nSo far, three of four confirmed cases were in migratory seabirds found in Western Australia.\n\nSouth Australia also detected a case in a giant petrel found in the Fleurieu Peninsula on 14 June.\n\nAustralia's chief veterinary officer, Dr Beth Cookson, said on Saturday that there was so far no indication the disease had spread to domesticated animals.\n\n\"At this stage, there have only been detections in vagrant migratory seabirds that occasionally visit southern Australia,\" Cookson said.\n\n\"There remains no evidence of any mass mortality events and there are no detections in poultry or in our agricultural production system.\n\nCookson said genomic sequencing indicated that the virus infecting the first confirmed wild bird case in Australia was related to an outbreak on the Heard and McDonald Islands, about 4,100km south-west of Perth.\n\nA recent study found the disease killed 13,000 elephant seal pups on the sub-Antarctic islands, which are Australian external territories.\n\nThe arrival of H5 bird flu in Australia prompted grave concerns from scientists over its potential to devastate native wildlife and domesticated bird species.\n\nIn both poultry and wild birds, H5 viruses can spread rapidly and cause severe disease, neurological defects, and sudden death....",
+            "zh": "西澳大利亚州确认了第三例禽流感阳性病例，这是澳大利亚一周内记录的第四例。 在该州西南海岸昆达卢普发现的一只巨型海燕身上发现了致命的 H5 禽流感病毒，并于周六上午得到了 CSIRO 澳大利亚疾病预防中心的证实。 自6月20日联邦政府确认两只疑似感染该病毒的候鸟海鸟返回阳性结果以来，澳大利亚已出现四例H5禽流感阳性病例。 前两个病例是一只棕色贼鸥和一只巨型海燕，是在埃斯佩兰斯以东偏远的勒格兰德角地区发现的。 政府周六表示，第五例可能呈阳性的病例（在埃斯佩兰斯以西发现的另一只巨型海燕）的结果仍在等待中。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 自 6 月 19 日首次报告疑似 H5 流感病例以来的一周内，西澳大利亚人已向动物疾病紧急热线报告了 400 多份报告。 在这些报告中，第一产业和区域发展部已优先对 53 份报告进行进一步调查。 全州范围内，埃斯佩兰斯地区、中西部、大南部、西南、皮尔和珀斯大都市区已录得 17 例阴性结果。 澳大利亚是最后一个记录高度传染性和致命性禽流感病例的大陆。 到目前为止，四分之三的确诊病例是在西澳大利亚发现的候鸟海鸟中。 6 月 14 日，南澳大利亚州在弗勒里厄半岛发现的一只巨型海燕中也发现了病例。 澳大利亚首席兽医官贝丝·库克森博士周六表示，到目前为止，没有迹象表明这种疾病已传播给家养动物。 库克森说：“现阶段，仅检测到偶尔访问澳大利亚南部的流浪迁徙海鸟。” “目前还没有任何大规模死亡事件的证据，在家禽或我们的农业生产系统中也没有检测到任何病毒。 库克森说，基因组测序表明，感染澳大利亚首例确诊野鸟病例的病毒与珀斯西南约4100公里处的赫德岛和麦克唐纳岛的疫情有关。 最近的一项研究发现，这种疾病导致亚南极岛屿（澳大利亚的外部领土）上的 13,000 只象海豹幼崽死亡。 H5 禽流感在澳大利亚的到来引起了科学家的严重担忧，担心它有可能破坏本土野生动物和驯养鸟类。 在家禽和野鸟中，H5 病毒可以迅速传播并导致严重疾病、神经缺陷和猝死……"
+          },
+          "reflection": {
+            "en": "The rapid spread of bird flu among animals reminds us that creation itself groans under the weight of brokenness, awaiting full redemption. Our vigilance in reporting and responding to such outbreaks reflects a compassionate concern for the well-being of all life. Yahweh hears the cries of creation and calls us to be attentive stewards.",
+            "zh": "禽流感在动物中迅速传播，提醒我们受造界本身在破碎的重压下叹息，等候完全的救赎。我们警惕地报告并应对此类疫情，反映了对所有生命福祉的怜悯关怀。雅伟垂听受造界的呼声，并呼召我们作警醒的管家。"
+          },
+          "verse": {
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
+          },
+          "aiVerseId": "rom_8_22",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-1-5-million-aussies-tuned-in-to-watch-austra",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/1-5-million-aussies-tuned-in-to-watch-australia-v-paraguay/l27ev9m3q",
+          "image": "https://assets.sbs.com.au/dims4/default/e73baab/2147483647/strip/false/crop/3270x1503+0+0/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F72%2Fc5%2Fc8b4f072408caf95ca0cd92b7dc5%2F20260626136675099967-original.jpg",
+          "publishedAt": "2026-06-27T04:00:14.000Z",
+          "title": {
+            "en": "Socceroos stop the nation as Australia v Paraguay smashes World Cup viewing records",
+            "zh": "澳大利亚队对巴拉圭的比赛打破世界杯收视纪录，举国关注"
+          },
+          "summary": {
+            "en": "Australia's national football team, the Socceroos, drew a record-breaking 4.8 million viewers for their World Cup match against Paraguay, making it a significant national event.",
+            "zh": "澳大利亚国家足球队“袋鼠军团”与巴拉圭的世界杯比赛吸引了创纪录的480万观众收看，成为一项重要的全国性盛事。"
+          },
+          "body": {
+            "en": "On Friday, records were broken when millions of Australians tuned in to see the Socceroos play their highest-stakes FIFA World Cup 2026 match so far.\n\nAttracting nearly five million viewers, it was the most-watched World Cup match in history on SBS, according to national ratings rankings from Virtual Australia (VOZ).\n\nThrilled fans clamoured in pubs and live sites across the nation at midday on Friday, skipping work and school to witness Australia qualify for the knockout stage of the tournament with a draw against Paraguay,\n\nAfter a crushing loss to the USA in their second group match of the tournament last week, Australia needed to either beat or tie with Paraguay to secure its spot in the next stage, the Round of 32.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nA total of 4.844 million viewers and a total TV average audience of 3.086 million across linear television and digital streaming watched the Australia v Paraguay match.\n\nIt is the second most-watched broadcast in SBS history, behind the Socceroos' World Cup play-off victory against Uruguay in 2006 (3.416 million, national average audience).\n\nThe Paraguay-Australia post-match program attracted 2.872 million viewers, and the pre-match program attracted 2.277 million viewers.\n\nBetween live matches and pre- and post-match shows, SBS had the top three programs of the day and five of the top ten.\n\nCumulatively, 13.9 million Australians, or about half the population, have watched some of the matches in the FIFA World Cup tournament.\n\nThe Socceroos' next game is at 4am Saturday, 4 July (AEST) in Arlington, Texas, near Dallas, when they will face Egypt.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "周五，数以百万计的澳大利亚人收看澳大利亚队进行迄今为止风险最高的 2026 年 FIFA 世界杯比赛，这一纪录被打破。 根据 Virtual Australia (VOZ) 的全国收视率排名，这场比赛吸引了近 500 万观众，是 SBS 历史上收视率最高的世界杯比赛。 周五中午，兴奋的球迷们在全国各地的酒吧和现场欢呼雀跃，翘班翘课，见证澳大利亚队与巴拉圭队战平，晋级世界杯淘汰赛阶段， 继上周小组赛第二场惨败给美国队之后，澳大利亚需要击败或打平巴拉圭才能确保进入下一阶段32强赛。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 共有 484.4 万观众观看了澳大利亚对阵巴拉圭的比赛，线性电视和数字流媒体的电视平均观众总数为 308.6 万。 这是SBS历史上收视率第二高的节目，仅次于2006年澳大利亚队在世界杯附加赛中战胜乌拉圭的比赛（全国平均收视率341.6万人）。 巴拉圭对澳大利亚赛后节目吸引了287.2万人次观看，赛前节目吸引了227.7万人次观看。 在现场比赛和赛前赛后节目中，SBS 拥有当天排名前三的节目以及前十名中的五个节目。 累计有 1,390 万澳大利亚人（约占总人口的一半）观看了 FIFA 世界杯的部分比赛。 澳大利亚队的下一场比赛将于 7 月 4 日（澳大利亚东部时间）星期六凌晨 4 点在达拉斯附近的德克萨斯州阿灵顿举行，届时他们将对阵埃及。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+          },
+          "reflection": {
+            "en": "A national sporting event can unite millions in shared excitement, offering a glimpse of collective passion and the pursuit of a common goal. While the cheers and records of such moments are thrilling, Yahweh reminds us to also seek the imperishable crown of eternal values. This perspective helps us appreciate temporary joys while anchoring our deepest...",
+            "zh": "一场全国性的体育赛事能让数百万人团结在共同的兴奋之中，展现出集体的热情和对共同目标的追求。虽然这些时刻的欢呼和纪录令人激动，但雅伟提醒我们也要寻求那永不朽坏的、永恒价值的冠冕。这种视角帮助我们欣赏暂时的喜乐，同时将我们最深的盼望根植于真正持久的事物。"
+          },
+          "verse": {
+            "reference": "1 Corinthians 9:25",
+            "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
+            "textZh": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
+            "themeEn": "Perishable vs eternal crown",
+            "themeZh": "能坏与不能坏的冠冕"
+          },
+          "aiVerseId": "1cor_9_25",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-small-business-secrets-article-chefs-put-modern-twis",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/small-business-secrets/article/chefs-put-modern-twist-on-old-classic-chinese-cuisine/l5pgpvymc",
+          "image": "https://assets.sbs.com.au/dims4/default/6df7424/2147483647/strip/false/crop/2573x1182+0+133/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F9b%2Fce%2F24c20b1641ce87c131451ee8ced5%2Fprocessed-434582e3-16d1-41b2-b600-8436e698408e.jpeg",
+          "publishedAt": "2026-06-27T01:58:40.000Z",
+          "title": {
+            "en": "Why Chinese restaurants are disappearing — and evolving",
+            "zh": "为什么中餐馆正在消失——又在演变"
+          },
+          "summary": {
+            "en": "As costs rise and tastes shift, a new generation is redefining Chinese food in Australia.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Food has always held a fascination for chef Victor Liong &#x2014; and the deeper he dug into his Chinese heritage, the more he realised there was a missing ingredient.\n\nAfter training in some of Australia's leading European-style kitchens, the 41-year-old realised he knew surprisingly little about the cuisine that had flavoured his childhood.\n\nHis Chinese family left Malaysia and settled in Brunei before migrating to Australia in the early 1990s, when Liong was six years old.\n\n\"As a chef, I realised the food that I loved and grew up eating, I had no connection with in terms of technical ability,\" he tells SBS News.\n\nSo, Liong set out to discover the flavours of China, travelling through different regions and exploring cuisines firsthand. The journey helped crystallise his culinary identity.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"My style is based around a flavour memory of my childhood and my cultural heritage and then trying to interpret that in a modern Australian dining and cultural context,\" he says.\n\nLiong's search for these flavours reflects a broader evolution in Chinese Australian food . From gold rush cooks adapting recipes for hungry miners to a new generation of chefs reimagining regional dishes with local produce, reinvention has long been part of the cuisine's story.\n\nNow, as rising costs force some long-standing restaurants to close and diners seek new experiences, industry insiders say Chinese food in Australia is entering another period of transformation.\n\nChefs like Liong are adapting dishes to entice a new generation of diners, fusing European techniques with local produce while preserving traditional Chinese flavours.\n\nThe shift comes as Australia's Chinese restaurant sector faces significant challenges.\n\nIn recent years, several high-profile Chinese restaurants have closed, including in Sydney and Melbourne.\n\nNew data from CreditorWatch highlights the pressure facing the industry. Cafes, restaurants and privately owned takeaway outlets recorded a closure rate of 12.2 per cent in the year to 31 May &#x2014; roughly one in eight businesses &#x2014; compared with the national average of 6.7 per cent.\n\nAccording to the fintech, the sector has been hit by rising wages, energy bills, rents, insurance premiums, interest rates and food and beverage costs. At the same time, the cost of living pressures are prompting many consumers to cut back on dining out or stop altogether.\n\n\"We expect conditions in the food services sector to remain challenging until consumers begin to feel relief from cost of living pressures, which is nowhere in sight at this stage,\" CreditorWatch said in a statement to SBS News.\n\nSophie Loy-Wilson is a senior lecturer...",
+            "zh": "厨师 Victor Liong 一直对食物着迷，随着他对中国传统的挖掘越深入，他就越意识到其中缺少一种成分。 在澳大利亚一些领先的欧式厨房接受培训后，这位 41 岁的人意识到自己对童年时期的美食知之甚少。 他的华人家人离开马来西亚，定居在文莱，然后于 20 世纪 90 年代初移居澳大利亚，当时梁六岁。 他告诉 SBS 新闻：“作为一名厨师，我意识到我喜欢的食物和我从小到大吃的食物，在技术能力方面与我无关。” 于是，梁开始探索中国的风味，走遍不同的地区，亲自探索美食。这次旅行帮助他明确了自己的烹饪身份。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “我的风格基于我童年的风味记忆和我的文化遗产，然后尝试在现代澳大利亚餐饮和文化背景中诠释它，”他说。 梁对这些口味的探索反映了澳大利亚中餐的更广泛的演变。从淘金热时期的厨师为饥饿的矿工调整菜谱，到新一代厨师用当地食材重新演绎地方菜肴，重塑一直是美食故事的一部分。 如今，随着成本上涨迫使一些老店关门，食客寻求新体验，业内人士表示，澳大利亚的中餐正在进入另一个转型时期。 像梁这样的厨师正在调整菜肴以吸引新一代食客，将欧洲技术与当地食材融合在一起，同时保留传统的中国风味。 这一转变发生之际，澳大利亚的中餐馆业面临着重大挑战。 近年来，包括悉尼和墨尔本在内的几家知名中餐馆纷纷关门。 CreditorWatch 的新数据突显了该行业面临的压力。截至 5 月 31 日的一年里，咖啡馆、餐馆和私营外卖店的倒闭率为 12.2%（大约八分之一），而全国平均水平为 6.7%。 据金融科技公司称，该行业受到工资、能源费用、租金、保险费、利率以及食品和饮料成本上涨的打击。与此同时，生活成本压力正促使许多消费者减少外出就餐或完全停止外出就餐。 CreditorWatch在给SBS新闻的一份声明中表示：“我们预计食品服务行业的状况仍将充满挑战，直到消费者开始感受到生活成本压力的缓解，而目前阶段还看不到这种压力。” 索菲·洛伊-威尔逊 (Sophie Loy-Wilson) 是一名高级讲师……"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        }
+      ]
+    }
+  }
+}

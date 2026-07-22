@@ -1,0 +1,1537 @@
+{
+  "generatedAt": "2026-07-05T13:07:04.300Z",
+  "editionDate": "2026-07-05",
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "BBC News World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "SBS News World",
+      "url": "https://www.sbs.com.au/news/topic/world/feed",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "DW World",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "The Guardian China",
+      "url": "https://www.theguardian.com/world/china/rss",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "BBC News China Focus",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "SBS News China Focus",
+      "url": "https://www.sbs.com.au/news/topic/world/feed",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "DW Asia China Focus",
+      "url": "https://rss.dw.com/rdf/rss-en-asia",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "The Guardian Australia",
+      "url": "https://www.theguardian.com/australia-news/rss",
+      "category": "australia",
+      "categoryLabel": {
+        "en": "Australia",
+        "zh": "澳洲"
+      }
+    },
+    {
+      "name": "SBS News Australia",
+      "url": "https://www.sbs.com.au/news/topic/australia/feed",
+      "category": "australia",
+      "categoryLabel": {
+        "en": "Australia",
+        "zh": "澳洲"
+      }
+    }
+  ],
+  "sections": {
+    "world": {
+      "id": "world",
+      "title": {
+        "en": "World Desk",
+        "zh": "全球焦点"
+      },
+      "strap": {
+        "en": "A fast view of global affairs, conflict, diplomacy, and human need.",
+        "zh": "快速掌握国际局势、冲突、外交与人类处境。"
+      },
+      "sourceNotes": [
+        "BBC News World",
+        "DW World",
+        "The Guardian World",
+        "SBS News World"
+      ],
+      "items": [
+        {
+          "id": "www-bbc-co-uk-news-articles-c1jyydr7jnjo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc2d/live/4062f360-7866-11f1-ab53-3dbca6ef5ee1.jpg",
+          "publishedAt": "2026-07-05T12:55:58.000Z",
+          "title": {
+            "en": "Australia probes mystery space balls that washed up on beach",
+            "zh": "澳大利亚调查冲上沙滩的神秘太空球"
+          },
+          "summary": {
+            "en": "Officials in Australia are investigating the origin of six pieces of space debris found on Forrest Beach in Queensland.",
+            "zh": "澳大利亚官员正在调查在昆士兰州福雷斯特海滩发现的六块太空碎片来源。"
+          },
+          "body": {
+            "en": "The authorities in Australia are investigating the origins of mysterious large silver spheres that washed up on a beach in northern Queensland this weekend.\n\nThe six solid objects discovered on Forrest Beach, to the north of Townsville, are thought to be space debris, and the Australian Space Agency (ASA) is now trying to determine where they came from. The BBC has approached the agency for comment.\n\nCrews in protective suits were reportedly seen placing the spheres in hazmat barrels under police guard, over concerns they may contain hazardous substances.\n\nQueensland's fire department said on Sunday that a 50m exclusion zone remained in place, urging anyone who found a suspicious object in the area not to touch them.\n\nIt said members of the public who encounter them should immediately move away and call the emergency services.\n\nThere has been some speculation online that the spheres are propellant tanks for spacecraft, and so could contain residual amounts of a highly flammable or reactive substance.\n\nForrest Beach Takeaway owner Lisa Scobie said the local community was curious to know their origin.\n\n\"It's very quiet, not a lot happens here. So having a lot of extra activity... that definitely created a little bit of excitement,\" she told public broadcaster ABC.\n\nIt is not the first time, however, that such mysterious objects have been spotted on Australia's shoreline.\n\nIn 2023, India confirmed that a giant metal dome that washed up on a Western Australian beach near Perth was from one of its rockets.\n\nIndia's space agency spokesman later told the BBC that it was from one of its Polar Satellite Launch Vehicles (PSLV).\n\nA spherical object similar to those discovered this weekend was also found in remote grassland in Namibia, southern Africa, in 2011.\n\nExperts at the time said they believed it was most likely a fuel tank or bladder tank containing hydrazine - a highly volatile propellant - from an unmanned rocket.",
+            "zh": "澳大利亚当局正在调查本周末被冲上昆士兰州北部海滩的神秘大银球的起源。 在汤斯维尔北部的福雷斯特海滩发现的六个固体物体被认为是太空碎片，澳大利亚航天局 (ASA) 目前正在试图确定它们的来源。 BBC 已联系该机构征求意见。 据报道，身穿防护服的工作人员将这些球体放入危险品桶中，由警察看守，因为担心它们可能含有危险物质。 昆士兰州消防部门周日表示，50m 的禁区仍然存在，敦促任何在该地区发现可疑物体的人不要触摸它们。 声明称，遇到它们的公众应立即离开并致电紧急服务部门。 网上有人猜测这些球体是航天器的推进剂罐，因此可能含有残留量的高度易燃或反应性物质。 福雷斯特海滩外卖店老板丽莎·斯考比 (Lisa Scobie) 表示，当地社区很想知道它们的起源。 “这里非常安静，没有太多事情发生。所以有很多额外的活动......这肯定会产生一点兴奋，”她告诉公共广播公司 ABC。 然而，在澳大利亚海岸线上发现此类神秘物体并不是第一次。 2023 年，印度证实，被冲上珀斯附近西澳大利亚海滩的一个巨大金属圆顶来自印度的一枚火箭。 印度航天局发言人后来告诉英国广播公司，它来自印度的一辆极地卫星运载火箭（PSLV）。 2011年，在南部非洲纳米比亚的偏远草原上也发现了与本周末发现的类似的球形物体。 当时的专家表示，他们认为这很可能是无人驾驶火箭中含有联氨（一种高度挥发性推进剂）的燃料箱或气囊箱。"
+          },
+          "reflection": {
+            "en": "The discovery of mysterious objects from space reminds us of the vastness of creation and the ongoing human quest for understanding. Yahweh invites us to observe the world around us, learning from all that is seen and unseen, and recognizing His hand in every mystery.",
+            "zh": "发现来自太空的神秘物体，提醒我们创造的浩瀚以及人类对理解的持续探索。雅伟邀请我们观察周围的世界，从一切可见和不可见的事物中学习，并在每一个奥秘中认识祂的作为。"
+          },
+          "verse": {
+            "reference": "Job 12:7-9",
+            "textEn": "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you.",
+            "textZh": "你且问走兽，走兽必指教你；又问空中的飞鸟，飞鸟必告诉你。或与地说话，地必指教你；海中的鱼也必向你说明。",
+            "themeEn": "Wisdom from creation",
+            "themeZh": "受造之物的教导"
+          },
+          "aiVerseId": "job_12_7",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-china-s-tech-rise-reshapes-the-global-space-race-a-7779003",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/china-s-tech-rise-reshapes-the-global-space-race/a-77790036?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/55844094_6.jpg",
+          "publishedAt": "2026-07-05T12:31:00.000Z",
+          "title": {
+            "en": "China's tech rise reshapes the global space race",
+            "zh": "中国科技崛起重塑全球太空竞赛"
+          },
+          "summary": {
+            "en": "China is pulling ahead in global research rankings and expanding its ambitions in space. With growing technological leadership, Beijing is positioning itself as a rival to the United States on a global scale.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "China is pulling ahead in global research rankings and expanding its ambitions in space. With growing technological leadership, Beijing is positioning itself as a rival to the United States on a global scale.\n\nLai Kai-ying, the first female Chinese civilian to reach outer space, is currently on board China's crewed Tiangong space station , where she orbits the Earth 16 times a day, alongside two other Chinese astronauts.\n\nTiangong is a unique microgravity laboratory for scientific experiments, designed to provide new insights into humanity's future.\n\nToday, aviation and spaceflight are once again shaped by ideological rivalry, echoing the mid-20th-century space race between the United States and the Soviet Union. In the 21st century, however, Washington's primary competitor is no longer Moscow, but Beijing.\n\nUS space agency NASA intends to retire its landmark research outpost, the International Space Station (ISS), by 2032. When that happens, China will be the only country operating a permanently crewed orbital station.\n\nSpace travel is just one of many fields worldwide in which China now holds a technological lead, according to Nature.\n\nThe journal's latest index of research leaders , which reveals the leading institutions and countries/territories, puts China in first place — well ahead of the United States and Germany .&#160;\n\nNine of the Top 10 research institutions were from China, with the US' Harvard ranking third. Germany's Max Planck Society (MPG), Germany's preeminent research organization,&#160;ranked in 13th place.\n\n\"It is now almost irrelevant which global rankings you consult. Universities and research institutions in China lead in many fields,\" observed Christina Beck, spokesperson for the MPG.\n\nThe Nature Index also shows that Chinese research institutions are the clear leaders in biology, chemistry and physics, as well as in other applied sciences. Only in health sciences and the social sciences have they been surpassed by US institutions.\n\nChina's rise has taken place steadily over the past two decades, said Richard Heidler, director of information management at the German Research Foundation (DFG), Germany's largest research funding organization.\n\n\"While in the early 2000s it was primarily the volume of publications that increased significantly, bibliometric analyses over the past decade have also shown growing gains in impact-related indicators, such as the share and number of highly cited publications,\" Heidler said.\n\nIn other words, China is not only publishing more, but is becoming increasingly better and more visible, which the MPG's Beck said is based on a long-term development process.\n\n\"Key to this has been sustained, systematic funding for scientific institutions and universities in China sustained over many years —...",
+            "zh": "中国在全球研究排名中处于领先地位，并扩大了其在太空领域的雄心。随着技术领先地位的不断增强，北京正在将自己定位为美国在全球范围内的竞争对手。 赖凯英是第一位到达外太空的中国女性平民，目前正在中国载人天宫空间站上，与另外两名中国宇航员一起每天绕地球运行 16 圈。 天宫是一个独特的微重力科学实验实验室，旨在为人类的未来提供新的见解。 如今，航空和航天再次受到意识形态竞争的影响，与20世纪中叶美国和苏联之间的太空竞赛相呼应。然而，进入21世纪，华盛顿的主要竞争对手不再是莫斯科，而是北京。 美国航天局 (NASA) 计划在 2032 年之前退役其具有里程碑意义的研究前哨站——国际空间站 (ISS)。届时，中国将成为唯一运营永久载人轨道站的国家。 据《自然》杂志报道，太空旅行只是中国目前在全球拥有技术领先地位的众多领域之一。 该杂志最新的研究领袖指数揭示了领先的机构和国家/地区，其中中国位居榜首，远远领先于美国和德国。 排名前十的研究机构中有九家来自中国，美国哈佛大学排名第三。德国杰出的研究组织德国马克斯·普朗克学会 (MPG) 排名第 13 位。 MPG发言人克里斯蒂娜·贝克(Christina Beck)表示：“现在，你参考哪个全球排名几乎已经无关紧要了。中国的大学和研究机构在许多领域都处于领先地位。” 自然指数还显示，中国研究机构在生物学、化学和物理学以及其他应用科学领域处于明显领先地位。只有在健康科学和社会科学领域被美国机构超越。 德国最大的研究资助机构德国研究基金会（DFG）信息管理部主任理查德·海德勒表示，中国在过去二十年中稳步崛起。 海德勒说：“虽然在 2000 年代初期，主要是出版物数量显着增加，但过去十年的文献计量分析也显示，与影响力相关的指标不断增长，例如高被引出版物的份额和数量。” 换句话说，中国不仅出版得更多，而且变得越来越好、越来越引人注目，MPG的贝克表示，这是基于长期发展过程的。 “其中的关键是多年来对中国科研机构和大学持续、系统的资助——......"
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cevllyj9vv3o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/74a2/live/459df790-7860-11f1-ab53-3dbca6ef5ee1.jpg",
+          "publishedAt": "2026-07-05T12:29:18.000Z",
+          "title": {
+            "en": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+            "zh": "伊朗最高领袖缺席其父葬礼，高级官员出席"
+          },
+          "summary": {
+            "en": "Iran's supreme leader, Ali Khamenei, was absent from his father's funeral, with his son Mojtaba also notably missing, fueling speculation about the leader's health and potential succession.",
+            "zh": "伊朗最高领袖阿里·哈梅内伊缺席了他父亲的葬礼，其子莫吉塔巴也明显缺席，引发了外界对其健康状况和潜在继任者的猜测。"
+          },
+          "body": {
+            "en": "Iran's Supreme Leader Mojtaba Khamenei was conspicuously absent from his father's funeral, as senior regime figures joined thousands paying their respects to the late ayatollah on Sunday.\n\nAli Khamenei's other three sons - Masoud, Mostafa and Meysam - all attended the service on Sunday, alongside officials including President Masoud Pezeshkian and Revolutionary Guards chief Ahmad Vahidi.\n\nSpeculation about Mojtaba's condition - fuelled by rumours he was wounded in the same US-Israel air strikes that killed his father - has continued as he has not appeared in public since his appointment in early March.\n\nThe elder Khamenei ruled the Islamic republic from 1989 until his death in February.\n\nOfficial funeral proceedings for late supreme leader began on Friday, with events planned across Iran and Iraq over the coming week.\n\nIranian authorities say 12-20 million people are expected to attend the ceremonies, which they are calling the \"funeral of the century\".\n\nKhamenei's body is currently lying in state at Tehran's Grand Mosalla religious complex, with a funeral service led by prominent Shia cleric Jafar Sobhani, a 97-year-old scholar who teaches at seminaries in the holy city of Qom.\n\nSunday was declared a public holiday across Iran, and later in the day Khamenei's body will be moved out of the Grand Mosalla ahead of a processions through the capital on Monday.\n\nThe ceremonies have been carefully choreographed and Mojtaba Khamenei's absence from the proceedings comes on a backdrop of threats from Israel to assassinate him as well.\n\nA fragile ceasefire between the warring countries is currently holding while talks on a permanent peace deal continue - though both sides have warned they were ready to resume military action.\n\nNews website Axios quoted US President Donald Trump on Saturday as saying that peace talks had been paused for a week for the events surrounding the funeral.\n\nWith many of the Iranian regime's senior officials attending, Washington could take them all out with \"one shot\", it quoted Trump as saying, adding: \"But we are not going to do that because then we would have nobody to negotiate with.\"\n\nThe president also said he had been surprised to see Iranians crying, saying he thought people hated Khamenei. \"Maybe it's fake tears,\" he said.\n\nIn response to Trump's claim, mourner Zahra Safaei, 50, told Reuters: \"We did not make a revolution 47 years ago to shed fake tears. We did not sacrifice all these martyrs to shed fake tears.\"\n\nThe Associated Press and Guardian report that people were calling for US President Donald Trump's death on Sunday, with poet Mohammad Rasouli saying at a poetry recitation before the prayer that \"Trump's murder is our responsibility\".\n\nRasouli could also be heard drawing calls of \"death to America\" and \"death to...",
+            "zh": "伊朗最高领袖哈梅内伊明显缺席了他父亲的葬礼，周日，政权高级官员与数千人一起向已故的阿亚图拉表示敬意。 阿里·哈梅内伊的另外三个儿子——马苏德、穆斯塔法和梅萨姆——都参加了周日的仪式，其他官员包括总统马苏德·佩泽什基安和革命卫队首领艾哈迈德·瓦希迪。 关于 Mojtaba 病情的猜测一直持续不断，因为有传言说他在美国和以色列的空袭中受伤，导致他的父亲丧生，因为自 3 月初上任以来，他一直没有在公开场合露面。 老哈梅内伊从 1989 年开始统治这个伊斯兰共和国，直到今年 2 月去世。 已故最高领导人的正式葬礼程序于周五开始，计划在未来一周在伊朗和伊拉克各地举行葬礼。 伊朗当局表示，预计将有 12 至 2000 万人参加这些仪式，他们称之为“世纪葬礼”。 哈梅内伊的遗体目前安葬于德黑兰的大摩萨拉宗教建筑群中，葬礼由什叶派著名神职人员贾法尔·索巴尼主持。贾法尔·索巴尼是一位 97 岁的学者，在圣城库姆的神学院任教。 周日被宣布为伊朗全国公共假日，当天晚些时候，哈梅内伊的遗体将被移出大摩萨拉，周一将在首都举行游行。 仪式经过精心设计，莫吉塔巴·哈梅内伊缺席仪式的背景是以色列也威胁要暗杀他。 交战国家之间目前正在维持脆弱的停火，同时关于永久和平协议的谈判仍在继续，尽管双方都警告说他们准备恢复军事行动。 新闻网站 Axios 周六援引美国总统唐纳德·特朗普的话说，由于葬礼相关事件，和谈已暂停一周。 报道援引特朗普的话说，由于伊朗政权的许多高级官员都出席了会议，华盛顿可以“一枪”将他们全部消灭，并补充道：“但我们不会这样做，因为那样我们就没有人可以与之谈判了。” 总统还表示，他很惊讶地看到伊朗人哭泣，并表示他认为人们讨厌哈梅内伊。 “也许这是假眼泪，”他说。 针对特朗普的说法，50岁的哀悼者扎赫拉·萨法伊(Zahra Safaei)对路透社表示：“47年前，我们发动革命不是为了流假眼泪。我们牺牲所有这些烈士不是为了流假眼泪。” 美联社和卫报报道称，周日，人们呼吁美国总统唐纳德·特朗普去世，诗人穆罕默德·拉苏利在祈祷前的诗歌朗诵中表示，“特朗普被谋杀是我们的责任”。 还可以听到拉苏利呼吁“美国去死”和“……去死”。"
+          },
+          "reflection": {
+            "en": "The passing of a leader, even amidst political speculation, reminds us that there is \"a time to be born and a time to die.\" This moment of transition underscores the transient nature of all human power and the inevitability of change. It invites reflection on the seasons of life and leadership, and how Yahweh remains constant through them all.",
+            "zh": "即使在政治猜测中，一位领袖的离世也提醒我们，“生有时，死有时”。这一过渡时刻突显了所有人类权力的短暂性以及变化的必然性。它邀请我们反思生命和领导力的季节，以及雅伟如何在其中始终如一。"
+          },
+          "verse": {
+            "reference": "Ecclesiastes 3:1",
+            "textEn": "There is a time for everything, and a season for every activity under the heavens.",
+            "textZh": "凡事都有定期，天下万务都有定时。",
+            "themeEn": "A time for everything",
+            "themeZh": "凡事有定时"
+          },
+          "aiVerseId": "ecc_3_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jul-05-micropenis-man-to-get-surgery",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/05/micropenis-man-to-get-surgery",
+          "image": "https://i.guim.co.uk/img/media/ce2cd1b4737d069b71e929d5b10b91bf1600dafa/0_0_4367_3494/master/4367.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9448a9fe30e75c999c9a5064508410bc",
+          "publishedAt": "2026-07-05T11:00:27.000Z",
+          "title": {
+            "en": "Man claiming world’s smallest penis says he’s booked enhancement surgery after public’s help",
+            "zh": "自称拥有世界最小阴茎的男子在公众帮助下预订了增强手术"
+          },
+          "summary": {
+            "en": "Michael Phillips, a US man who claims to have the world's smallest penis, has successfully fundraised enough money to book an enhancement surgery. He states he suffers from micropenis and has now secured the procedure to increase its girth.",
+            "zh": "美国男子迈克尔·菲利普斯自称拥有世界上最小的阴茎，他已成功筹集到足够的资金，预订了增强手术。他表示自己患有小阴茎症，现在已确定进行手术以增加其周长。"
+          },
+          "body": {
+            "en": "Michael Phillips says he suffers from micropenis – but he’s now fundraised enough to increase his member’s girth A US man who has staked the uncontested claim of having the smallest penis in the world says he has booked a procedure to enhance his member at least somewhat after soliciting the online public’s financial support for that purpose. In a brief interview on Saturday, 38-year-old Michael Phillips described himself as “really thankful and surprised” over the GoFundMe platform users who supported his campaign for help to pay for the procedure in question. Continue reading...",
+            "zh": "迈克尔·菲利普斯 (Michael Phillips) 表示，他患有小阴茎，但他现在已经筹集了足够的资金来增加其会员的周长。一名毫无争议地宣称自己拥有世界上最小阴茎的美国男子表示，在征求网上公众为此目的提供的财政支持后，他已经预订了一项手术，以至少在一定程度上增强其会员的体型。在周六的一次简短采访中，38 岁的迈克尔·菲利普斯 (Michael Phillips) 表示，自己对 GoFundMe 平台用户支持他寻求帮助支付相关手术费用的活动感到“非常感激和惊讶”。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story highlights the deep human desire for acceptance and the struggles many face with body image, often amplified by public perception. Yahweh's word reminds us that each person is fearfully and wonderfully made, possessing inherent dignity and worth regardless of physical attributes. Our true value is found not in outward appearance, but in being...",
+            "zh": "这个故事凸显了人类对被接纳的深切渴望，以及许多人面临的身体形象困扰，这常因公众看法而被放大。雅伟的话语提醒我们，每个人都是被奇妙而可畏地造作的，无论外在特征如何，都拥有内在的尊严和价值。我们真正的价值不在于外表，而在于我们是雅伟独特的创造。"
+          },
+          "verse": {
+            "reference": "Psalm 139:14",
+            "textEn": "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.",
+            "textZh": "我要称谢你，因我受造奇妙可畏；你的作为奇妙，这是我心深知道的。",
+            "themeEn": "Wonderfully made",
+            "themeZh": "奇妙可畏的受造"
+          },
+          "aiVerseId": "ps_139_14",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-environment-2026-jul-05-british-swallowtail-butterfl",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/environment/2026/jul/05/british-swallowtail-butterfly-distinct-subspecies-study-conservation",
+          "image": "https://i.guim.co.uk/img/media/f392dfa89d69539f01e8c6d70ab5de9751174a26/308_0_3135_2508/master/3135.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1bb67142315abdc6094deb55a4b89f92",
+          "publishedAt": "2026-07-05T11:00:25.000Z",
+          "title": {
+            "en": "British swallowtail split from European cousins much earlier than thought, study finds",
+            "zh": "研究发现，英国凤蝶与欧洲近亲的分化远早于预期"
+          },
+          "summary": {
+            "en": "A new study indicates that the British swallowtail butterfly, found primarily in the Norfolk Broads, has been a distinct subspecies for 200,000 years, a finding that could significantly alter conservation strategies.",
+            "zh": "一项新研究表明，主要在诺福克湖区发现的英国凤蝶，作为独立的亚种已有20万年历史，这一发现可能会显著改变其保护策略。"
+          },
+          "body": {
+            "en": "Finding that Norfolk butterfly has been distinct subspecies for 200,000 years could transform conservation approach The endangered swallowtail butterfly Papilio machaon britannicus , which is only regularly found breeding in Britain on the Norfolk Broads, has been a distinct subspecies for at least 200,000 years, according to a study. Smaller, darker in colour and much rarer than the continental swallowtail, britannicus was previously considered to have developed its distinctive form during its confinement in the wetlands of eastern England over the last 8,000 years, after the flooding of Doggerland. Continue reading...",
+            "zh": "一项研究表明，诺福克蝴蝶在 20 万年里一直是一个独特的亚种，这可能会改变保护方法。 一项研究表明，濒临灭绝的燕尾蝴蝶 Papilio machaon Britannicus 只在英国诺福克湖区经常被发现繁殖，它作为一个独特的亚种至少有 20 万年的历史。与大陆燕尾相比，不列颠燕尾更小，颜色更深，也更稀有，此前人们认为不列颠燕尾在多格兰洪水泛滥后的过去8000年里，在英格兰东部湿地的限制中形成了其独特的形态。继续阅读..."
+          },
+          "reflection": {
+            "en": "The discovery of the British swallowtail's ancient distinctiveness reminds us of the profound wisdom embedded in creation. Yahweh's intricate designs are revealed through patient observation, inviting us to learn from even the smallest creatures. This ongoing revelation calls us to appreciate and protect the unique biodiversity of our world.",
+            "zh": "英国凤蝶古老而独特的发现提醒我们，创造中蕴含着深奥的智慧。雅伟精妙的设计通过耐心的观察得以揭示，邀请我们从最小的生物那里学习。这一持续的启示呼吁我们珍视并保护世界独特的生物多样性。"
+          },
+          "verse": {
+            "reference": "Job 12:7-9",
+            "textEn": "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you.",
+            "textZh": "你且问走兽，走兽必指教你；又问空中的飞鸟，飞鸟必告诉你。或与地说话，地必指教你；海中的鱼也必向你说明。",
+            "themeEn": "Wisdom from creation",
+            "themeZh": "受造之物的教导"
+          },
+          "aiVerseId": "job_12_7",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-why-us-train-travel-lags-behind-asia-and-europe-a-77430370",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/why-us-train-travel-lags-behind-asia-and-europe/a-77430370?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/76839546_6.jpg",
+          "publishedAt": "2026-07-05T10:43:00.000Z",
+          "title": {
+            "en": "Why US train travel lags behind Asia and Europe",
+            "zh": "美国火车旅行为何落后于亚洲和欧洲"
+          },
+          "summary": {
+            "en": "As flights get pricier and gas prices stay high, more US travelers are turning to trains — and hitting a system built for freight, not people.",
+            "zh": "随着机票价格上涨和汽油价格居高不下，越来越多的美国旅客转向火车出行——却发现铁路系统是为货运而非客运而建。"
+          },
+          "body": {
+            "en": "As flights get pricier and gas prices stay high, more US travelers are turning to trains — and hitting a system built for freight, not people.\n\nHistorically overlooked, train travel in the US is having a moment. Passenger numbers have hit new records for the past two years. With aviation fuel and gas prices still running well above pre-Iran war levels, even more travelers may be looking to passenger rails to avoid costly airfare and trips to the gas pump this summer travel season.\n\nBut those unfamiliar with the country's train network may be disappointed. Many cities don't have good rail connections, or the kind of high-speed services common in European and East Asian countries.\n\nAnd there's a paradox here, because the US actually has more railroads than anywhere in the world. So where is the disconnect?\n\nThe mid-to-late 19th century was something of a heyday for rail travel in the US. Thousands of miles of track were laid to connect the coasts and ferry both people and goods from one side of the country to the other. But it didn't last. By the middle of the 20th century, the US had prioritized federal funding for highway and airport development over that for railroads, making automobile and plane travel far more efficient than passenger rail lines.\n\nSo unlike many European countries, which have long seen passenger trains as a critical public good , the US prioritized more profitable freight trains. That legacy lives on today with much of the nation's track infrastructure now designed for carrying heavy goods rather than passengers at high speeds.\n\nUS passenger rail company Amtrak's most popular route is a case in point. Known as the Northeast corridor, it connects cities between Boston and&#160;Washington&#160;DC, taking around seven&#160;hours to cover the full 457 miles (735 kilometers). By comparison, trains can complete the slightly longer route between the Italian cities of Napoli and Milan in just under five hours.\n\nAllan Zarembski, director of the University of Delaware's railroad engineering and safety program, says part of the reason the Northeast corridor's rails cannot accommodate high-speed trains&#160;is because they curve to the shape of the land. And that would be complex to change.\n\n\"Straightening out the track is a very expensive proposition,\" he said. \"I have to acquire the land. The land is owned by somebody, and often that somebody doesn't want to sell it. … We're talking about going through the most densely populated portion of the United States.\"\n\nWhile the Northeast corridor is not currently capable of supporting high-speed rail, California had hoped to set a positive example.\n\nIn 2008, the state launched an initiative to link Los Angeles and San Francisco by bullet train. Sold as a massive upgrade from the 12-hour non-direct...",
+            "zh": "随着航班价格上涨和汽油价格居高不下，越来越多的美国旅客转向火车，并选择了为货运而不是客运而建立的系统。 历史上被忽视的火车旅行在美国现在正迎来一个时刻。过去两年，客运量屡创新高。由于航空燃油和天然气价格仍远高于伊朗战争前的水平，今年夏季旅游旺季，更多旅客可能会寻求客运铁路，以避免昂贵的机票和前往加油站。 但那些不熟悉该国火车网络的人可能会感到失望。许多城市没有良好的铁路连接，也没有欧洲和东亚国家常见的高速服务。 这里有一个悖论，因为美国实际上拥有比世界上任何地方都多的铁路。那么脱节在哪里呢？ 十九世纪中后期是美国铁路旅行的鼎盛时期。铺设了数千英里的轨道来连接海岸，并将人员和货物从该国的一侧运送到另一侧。但这种情况并没有持续多久。到 20 世纪中叶，美国将联邦资金优先用于高速公路和机场的开发，而不是铁路的开发，这使得汽车和飞机旅行的效率远远高于客运铁路。 因此，与许多长期以来将客运列车视为重要公共产品的欧洲国家不同，美国优先考虑利润更高的货运列车。这一传统至今仍在延续，美国的大部分轨道基础设施现在都设计用于高速运输重型货物而不是乘客。 美国客运铁路公司Amtrak最受欢迎的路线就是一个很好的例子。它被称为东北走廊，连接波士顿和华盛顿特区之间的城市，大约需要七个小时才能走完全程 457 英里（735 公里）。相比之下，火车可以在不到五个小时内完成意大利城市那不勒斯和米兰之间稍长的路线。 特拉华大学铁路工程和安全项目主任艾伦·扎伦斯基 (Allan Zarembski) 表示，东北走廊的铁轨无法容纳高速列车的部分原因是它们会根据地形而弯曲。改变这一点会很复杂。 “修直赛道是一项非常昂贵的提议，”他说。 “我必须获得土地。土地归某人所有，而且通常有人不想出售它。……我们正在谈论穿越美国人口最稠密的地区。” 虽然东北走廊目前还没有能力支持高铁，但加州曾希望树立一个积极的榜样。 2008年，该州发起了一项通过子弹头列车连接洛杉矶和旧金山的倡议。作为 12 小时非直达航班的大规模升级出售。"
+          },
+          "reflection": {
+            "en": "The challenge of a train system built primarily for freight, not passengers, highlights the importance of a clear vision for public service. Without a guiding purpose focused on the common good, essential infrastructure can fail to meet the needs of the people it is meant to serve. Yahweh calls leaders to have foresight and prioritize the well-being of all...",
+            "zh": "铁路系统主要为货运而非客运而建的挑战，凸显了公共服务明确愿景的重要性。若缺乏以公共利益为导向的指引性目的，重要的基础设施可能无法满足其本应服务的人民的需求。雅伟呼召领袖们在规划和发展中，要有远见并优先考虑所有公民的福祉。"
+          },
+          "verse": {
+            "reference": "Proverbs 29:18",
+            "textEn": "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom's instruction.",
+            "textZh": "没有异象，民就放肆；惟遵守律法的，便为有福。",
+            "themeEn": "Need for vision",
+            "themeZh": "国家需要异象"
+          },
+          "aiVerseId": "prov_29_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jul-05-iran-ali-khamenei-funeral-supreme-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
+          "image": "https://i.guim.co.uk/img/media/cb63635388112a8548c1e633a37e4bb58b189fb0/654_0_6514_5214/master/6514.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4edcac1a70c87fcd5d8c5b2569415c81",
+          "publishedAt": "2026-07-05T10:40:23.000Z",
+          "title": {
+            "en": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
+            "zh": "伊朗最高领袖缺席阿里·哈梅内伊父亲的葬礼"
+          },
+          "summary": {
+            "en": "The funeral of a prominent ayatollah drew large crowds in Tehran, with three of his sons seen beside the coffin. Notably, Iran's supreme leader was absent from the ceremonies.",
+            "zh": "一位著名阿亚图拉的葬礼在德黑兰举行，吸引了大量人群，他的三位儿子在棺木旁。值得注意的是，伊朗最高领袖缺席了这些仪式。"
+          },
+          "body": {
+            "en": "New supreme leader Mojtaba Khamenei still absent from public view as his three brothers stand beside father’s coffin Beside the coffin of the assassinated former Iranian supreme leader Ali Khamenei at a packed prayer hall in Tehran on Sunday there were calls for the killing of Donald Trump. Iran is staging a week of mass funeral processions ⁠for Khamenei, who was killed along with other members of his family on the first day of the US and Israeli war on 28 February. The funeral was delayed because of the war. Continue reading...",
+            "zh": "在德黑兰举行的吸引大批人群的仪式上，被害阿亚图拉的三个儿子出现在棺材旁周日，伊朗前领导人阿亚图拉·阿里·哈梅内伊的三个儿子在哈梅内伊和其他四名家庭成员的棺材旁祈祷，但接替他成为伊朗最高领导人的儿子莫伊塔巴没有露面。国家电视台显示，穆斯塔法、梅萨姆和马苏德·哈梅内伊在德黑兰伊玛目霍梅尼·莫萨拉（Imam Khomeini Mosalla）广阔的庭院里的棺材后面祈祷，这是一个庞大的宗教建筑群。为了表达公众对神权国家的忠诚和革命热情，该国正在为哈梅内伊举行为期一周的大规模葬礼游行，包括将他的遗体运往邻国伊拉克的什叶派宗教场所。继续阅读..."
+          },
+          "reflection": {
+            "en": "Funerals are profound moments where we confront the universal reality of loss and grief. The simple truth that Yahweh Himself wept at the death of a friend reminds us that sorrow is a deeply human and sacred response to mortality. In such times, our shared humanity often transcends public roles and expectations.",
+            "zh": "葬礼是深刻的时刻，我们面对失去和悲伤的普遍现实。雅伟自己也曾为朋友的离世而哭泣，这个简单的真理提醒我们，悲伤是对死亡深刻的人性和神圣的回应。在这样的时刻，我们共同的人性往往超越了公共角色和期望。"
+          },
+          "verse": {
+            "reference": "John 11:35",
+            "textEn": "Jesus wept.",
+            "textZh": "耶稣哭了。",
+            "themeEn": "Jesus wept",
+            "themeZh": "耶稣哭了"
+          },
+          "aiVerseId": "jn_11_35",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-iran-pressure-on-persecuted-baha-i-community-intensifies-a",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/iran-pressure-on-persecuted-baha-i-community-intensifies/a-77824095?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77743473_6.jpg",
+          "publishedAt": "2026-07-05T10:22:00.000Z",
+          "title": {
+            "en": "Iran: Pressure on persecuted Baha'i community intensifies",
+            "zh": "伊朗：受迫害的巴哈伊社区面临的压力加剧"
+          },
+          "summary": {
+            "en": "The Iranian regime has intensified its crackdown on dissidents, including members of the Baha'i faith, who are facing worsening persecution with arrests, torture, and mock executions.",
+            "zh": "伊朗政权加大了对异议人士的镇压，其中包括巴哈伊信仰的成员，他们正面临日益恶化的迫害，包括逮捕、酷刑和模拟处决。"
+          },
+          "body": {
+            "en": "Arrests, torture, mock executions: War has seen the Iranian regime crack down on dissidents of all kinds. Members of the country's Baha'i faith have long been persecuted, but their situation is now worsening.\n\nAtossa Najafi tries to keep her composure as she describes what happened. \"About three weeks ago, security forces searched our apartment, confiscated personal belongings, and took my brother away,\" she recounts.\n\nSince that day — June 6 — she has been plagued by worry for her brother Parsa, 19, and their parents in Isfahan, Iran.\n\nNajafi herself is in Germany . The 23-year-old came here as a student three years ago and has been studying dentistry at the Charite hospital in Berlin. \"Since then, we have been living with uncertainty,\" she told DW. \"We know nothing about his whereabouts.\"\n\nNajafi's family are members of the Baha'i faith, a religion that originated in the mid-19th century in what was then Persia (now Iran) and is considered a monotheistic world religion. However, it isn't recognized in Iran, and the Shiite Muslim regime there consider&#160;Baha'is heretics. As a result, the Baha'i population in Iran has been persecuted for decades.\n\nMany Muslim countries do not recognize the Baha'i faith because its founder claimed to be a prophet, following Islam's most important prophet Mohammed.\n\nAccording to Amnesty International, the Baha'is, who are Iran's largest non-Muslim religious minority, are particularly badly treated in Iran.\n\nFor decades, they have been denied educational and professional opportunities, arrested, had their property confiscated and seen their cemeteries and holy sites desecrated. In Iran, business licenses can be denied on the grounds of affiliation with the Baha'i faith. Businesses can also be arbitrarily closed, with the owners summoned to appear before disciplinary committees.\n\nIn the 1990s, German newspapers regularly featured obituaries that German Baha'is had published, memorializing fellow believers who had been executed in Iran .\n\nAt the start, it was hard for Najafi to find out anything about her family's fate. The authorities took the parents'&#160;mobile phone and she couldn't reach them. Najafi now occasionally has contact with them in Isfahan. But the authorities have still not provided&#160;any information about her brother.\n\n\"We are very worried about what's happening to him and his mental and physical state,\" she noted.\n\nNajafi is sitting in a central Berlin office belonging to the local Baha'i community . Photos of important holy sites hang on the walls: The mausoleum of the faith's founder on the slopes of Mount Carmel in Haifa, Israel, and the House of Worship in Hofheim am Taunus, in the state of Hesse. The latter is the only Baha'i temple in Europe.\n\nThe German Bahai community's commissioner for...",
+            "zh": "逮捕、酷刑、模拟处决：伊朗政权在战争中镇压各种异见人士。该国的巴哈伊信仰成员长期以来一直受到迫害，但他们的处境现在正在恶化。 阿托莎·纳杰菲在描述所发生的事情时试图保持镇定。 “大约三周前，安全部队搜查了我们的公寓，没收了个人物品，并带走了我的兄弟，”她回忆道。 自 6 月 6 日那天起，她就一直为伊朗伊斯法罕 19 岁的弟弟 Parsa 和他们的父母担心。 纳杰菲本人在德国。这位23岁的年轻人三年前作为一名学生来到这里，一直在柏林的Charite医院学习牙科。 “从那时起，我们就一直生活在不确定之中，”她告诉德国之声。 “我们对他的下落一无所知。” 纳杰菲的家人是巴哈伊信仰的成员，巴哈伊信仰起源于 19 世纪中叶当时的波斯（现伊朗），被认为是一神论的世界宗教。然而，它在伊朗并未得到承认，那里的什叶派穆斯林政权认为巴哈伊是异端。结果，伊朗的巴哈伊教徒几十年来一直遭受迫害。 许多穆斯林国家不承认巴哈伊信仰，因为其创始人自称是继伊斯兰教最重要的先知穆罕默德之后的先知。 据国际特赦组织称，巴哈伊教徒是伊朗最大的非穆斯林宗教少数群体，他们在伊朗受到的待遇尤其恶劣。 几十年来，他们被剥夺了教育和职业机会，被捕，财产被没收，墓地和圣地遭到亵渎。在伊朗，营业执照可能会因信仰巴哈伊信仰而被拒绝。企业也可能被任意关闭，业主被传唤出席纪律委员会。 20 世纪 90 年代，德国报纸定期刊登德国巴哈伊教徒发表的讣告，纪念在伊朗被处决的信徒同胞。 一开始，纳杰菲很难了解家人的命运。当局拿走了父母的手机，她无法联系到他们。纳杰菲现在偶尔会在伊斯法罕与他们接触。但当局仍未提供有关她兄弟的任何信息。 “我们非常担心他的情况以及他的精神和身体状况，”她指出。 纳杰菲坐在柏林市中心属于当地巴哈伊社区的办公室里。墙上挂着重要圣地的照片：以色列海法卡梅尔山山坡上的信仰创始人陵墓，以及黑森州陶努斯山麓霍夫海姆的礼拜堂。后者是欧洲唯一的巴哈伊寺庙。 德国巴哈伊社团的专员..."
+          },
+          "reflection": {
+            "en": "The intensifying persecution of the Baha'i community in Iran reminds us of the profound cost of living faithfully in hostile environments. Matthew 5:10 offers a challenging yet hopeful perspective, affirming that those who suffer for righteousness are blessed and belong to the kingdom of Yahweh. This verse encourages us to pray for those enduring such...",
+            "zh": "伊朗巴哈伊社区日益加剧的迫害提醒我们，在充满敌意的环境中忠心生活需要付出沉重代价。马太福音5:10提供了一个既具挑战性又充满希望的视角，肯定了那些为义受苦的人是有福的，因为天国是他们的。这节经文鼓励我们为那些正在经历此类磨难的人祷告，信靠超越世间苦难的雅伟的应许。"
+          },
+          "verse": {
+            "reference": "Matthew 5:10",
+            "textEn": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+            "textZh": "为义受逼迫的人有福了，因为天国是他们的。",
+            "themeEn": "Blessed persecution",
+            "themeZh": "为义受迫"
+          },
+          "aiVerseId": "matt_5_10",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jul-05-shooting-children-new-york-coney",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/05/shooting-children-new-york-coney-island",
+          "image": "https://i.guim.co.uk/img/media/967b535211c090dce981ba7d95e448033da6b162/270_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0cbfdfb26ee15b8085ae8f7a83813fe8",
+          "publishedAt": "2026-07-05T09:54:10.000Z",
+          "title": {
+            "en": "At least eight shot, including four children, in New York’s Coney Island",
+            "zh": "纽约康尼岛至少有八人中枪，其中包括四名儿童"
+          },
+          "summary": {
+            "en": "Incident took place late in the evening on Independence Day, reports say, with woman said to be in critical condition At ⁠least eight people, including four children, were shot and injured during the ⁠US ​Independence Day holiday in New York City’s Coney Island neighbourhood,...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Incident took place late in the evening on Independence Day, reports say, with woman said to be in critical condition At ⁠least eight people, including four children, were shot and injured during the ⁠US ​Independence Day holiday in New York City’s Coney Island neighbourhood, ABC News ⁠said on Sunday, citing the New York City police department (NYPD). Police officers responded to reports of a shooting ​at about 10.37pm on the Brooklyn neighbourhood’s West 31st Street, ‌the NYPD said in a statement to ABC News. Continue reading...",
+            "zh": "据报道，事件发生在独立日深夜，据称一名妇女情况危急。美国广播公司新闻周日援引纽约市警察局的消息称，美国独立日假期期间，纽约市康尼岛附近至少有 8 人中枪受伤，其中包括 4 名儿童。纽约警察局在给 ABC 新闻的一份声明中表示，警察对晚上 10 点 37 分左右布鲁克林社区西 31 街发生枪击事件的报道做出了回应。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cr7xpgx50jxo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ccc/live/14f8dd50-7840-11f1-a9d9-f754ec615ffe.jpg",
+          "publishedAt": "2026-07-05T09:26:56.000Z",
+          "title": {
+            "en": "Evacuations in Guam as super typhoon Bavi approaches",
+            "zh": "超级台风巴威逼近关岛，居民撤离"
+          },
+          "summary": {
+            "en": "Residents of Guam are evacuating as Super Typhoon Bavi approaches, with forecasts predicting winds over 160mph and waves nearly 11m high upon its Monday landfall.",
+            "zh": "随着超级台风巴威逼近，关岛居民正在撤离，预计该风暴在周一登陆时将带来超过每小时160英里的风速和近11米高的海浪。"
+          },
+          "body": {
+            "en": "Emergency evacuations are taking place in Guam and the Northern Mariana Islands as a super typhoon bears down on the US Pacific territories.\n\nBavi is forecast to make landfall early on Monday morning, with winds of up to 257km/h (160mph), according to the US National Weather Service (NWS).\n\nIt warned the \"very dangerous\" storm could cause \"catastrophic\" damage, with \"significant flooding from torrential rains\" possible and waves potentially nearly 11m (35ft) high on Monday.\n\nThe western Pacific region is particularly prone to tropical cyclones. While storms of this strength are unusual for the US islands, scientists say climate change is making powerful typhoons more common.\n\nBavi is expected to pass directly over Guam and the Northern Mariana Islands by Monday afternoon, but the NWS warned that destructive conditions could be expected for eight to 10 hours prior to or after the arrival of the storm's centre.\n\n\"The window is rapidly closing to evacuate if directed to do so by local officials, or if your home is vulnerable to high winds or flooding,\" the agency said, adding that winds \"will pose a deadly threat to those venturing outside\".\n\nGuam, usually a sun-soaked tourist destination with a population of about 170,000, has opened five evacuation centres in its schools. These sites have a maximum capacity of around 1,700 and are primarily intended for vulnerable people.\n\nThe island's civil defence office said at 13:00 local time (03:00 GMT) on Sunday that one of the evacuation sites had already reached maximum capacity and that people were being redirected to another site.\n\nBavi has been classified as a super typhoon by the Joint Typhoon Warning Center (JTWC), a part of the US Navy responsible for monitoring tropical storms in the western Pacific.\n\nA super typhoon has winds in excess of 130 knots (150mph). JTWC predicts that Bavi will have winds of 150 knots (173mph) when it arrives over the islands, with gusts reaching as high as 180 knots (207mph).\n\nThe NWS considers super typhoons to have the equivalent destructive potential as a category four or five hurricane.\n\nPinky Cubacub, 55, told news agency AFP that she had been boarding up the windows of her eatery in Guam with $500 (£373) worth of plywood.\n\n\"I cannot afford to lose so many days. It hurts,\" she said. \"Because I just started, whatever we're making right now is just for rent, utilities, and my people, and supplies. I don't even pay myself yet.\"\n\nJapanese tourist Miku Sakurai, 25, told AFP that her return flight to Tokyo on Sunday had been cancelled.\n\nBavi will be the 11th category four or five tropical cyclone to hit US territory in the past decade - one more than the total recorded in the prior 57 years.\n\nA strong El Niño event - a periodic warming of an area of surface water in the...",
+            "zh": "随着超强台风袭击美国太平洋领土，关岛和北马里亚纳群岛正在紧急疏散。 据美国国家气象局 (NWS) 预计，巴维将于周一清晨登陆，风速高达 257 公里/小时（160 英里/小时）。 它警告称，这场“非常危险”的风暴可能会造成“灾难性”破坏，“暴雨可能引发严重洪水”，周一海浪可能高达近 11m（35 英尺）。 西太平洋地区特别容易受到热带气旋的影响。虽然这种强度的风暴对美国岛屿来说并不常见，但科学家表示，气候变化正在使强台风变得更加常见。 预计巴维将在周一下午直接掠过关岛和北马里亚纳群岛，但国家气象局警告称，在风暴中心到达之前或之后的八到十小时内，预计会出现破坏性情况。 该机构表示：“如果当地官员指示这样做，或者如果你的家容易受到大风或洪水的影响，疏散窗口将迅速关闭。”并补充说，大风“将对那些冒险外出的人构成致命威胁”。 关岛通常是一个阳光明媚的旅游胜地，人口约 17 万，目前已在学校内开设了五个疏散中心。这些站点最多可容纳 1,700 人左右，主要面向弱势群体。 该岛民防办公室周日当地时间 13:00（格林威治标准时间 03:00）表示，其中一个疏散地点已经达到最大容量，人们正在被转移到另一个地点。 巴威已被美国海军联合台风预警中心（JTWC）列为超强台风，该中心隶属于美国海军，负责监测西太平洋的热带风暴。 超级台风的风速超过 130 节（150 英里/小时）。 JTWC 预测，巴威抵达群岛时风力将达到 150 节（173 英里/小时），阵风将达到 180 节（207 英里/小时）。 美国国家气象局认为超强台风具有与四级或五级飓风同等的破坏力。 55 岁的 Pinky Cubacub 告诉法新社，她用价值 500 美元（373 英镑）的胶合板封住了关岛餐馆的窗户。 “我不能失去这么多天。这很痛苦，”她说。 “因为我刚刚开始，我们现在所做的一切都只是为了租金、水电费、我的人员和物资。我什至还没有支付自己的费用。” 25 岁的日本游客樱井未来告诉法新社，她周日返回东京的航班已被取消。 巴威将成为过去十年中第 11 个袭击美国领土的四级或五级热带气旋，比过去 57 年记录的总数多了一个。 强烈的厄尔尼诺事件 - 地区地表水的周期性变暖......"
+          },
+          "reflection": {
+            "en": "As a super typhoon threatens Guam, communities face the immense power of nature and the urgent need for safety. In such moments of vulnerability, we are reminded that Yahweh is our refuge and strength, a constant help in times of trouble. May those affected find shelter and peace amidst the storm.",
+            "zh": "当超级台风威胁关岛时，社区面临着大自然的巨大力量和对安全的迫切需求。在这样脆弱的时刻，我们被提醒雅伟是我们的避难所和力量，是患难中随时的帮助。愿受影响的人们在风暴中找到庇护和平安。"
+          },
+          "verse": {
+            "reference": "Psalm 46:1",
+            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
+            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
+            "themeEn": "Refuge in trouble",
+            "themeZh": "患难中的避难所"
+          },
+          "aiVerseId": "ps_46_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cp9lppvkmz5o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a55a/live/28e7ea40-7845-11f1-a62d-b782ecdb6ead.jpg",
+          "publishedAt": "2026-07-05T08:24:32.000Z",
+          "title": {
+            "en": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+            "zh": "美国以烟花、飞行表演和极端天气庆祝建国250周年"
+          },
+          "summary": {
+            "en": "The United States marked its 250th birthday with various celebrations, including fireworks and flyovers. President Donald Trump's speech for the occasion covered aspects of his political agenda while also paying tribute to war veterans and American history.",
+            "zh": "美国以烟花和飞行表演等多种庆祝活动纪念其建国250周年。唐纳德·特朗普总统在庆典上的讲话既包含了他的政治议程，也向退伍军人及美国历史致敬。"
+          },
+          "body": {
+            "en": "The US has marked its 250th birthday with fireworks and flyovers - but celebrations across the country were complicated by extreme weather.\n\n\"The American dream is back,\" US President Donald Trump told a cheering crowd during a delayed rally in Washington's National Mall, before what he described as the world's largest firework display.\n\nThe 4 July federal holiday commemorates the 13 US colonies signing the Declaration of Independence in 1776 to end British rule.\n\nDespite the celebrations, Trump has been criticised for making himself central to the milestone and politicising the celebrations.\n\nThe president's speech, which wrapped up just before midnight, touched on political themes including the rejection of communism, his backing of the Save America Act and the right to bear arms.\n\n\"Long live the cause of independence,\" he said. \"May it reign forever and ever and ever. We will always be on top, we will never let our country fall, we will always be the best.\"\n\nTrump capped off his remarks by calling the moment \"only the dawn of the golden age of America\" with its destiny \"written by God\".\n\nCelebrations in Washington DC were delayed because of a thunderstorm, which forced an evacuation of the National Mall earlier in the evening.\n\nGuests attending the Salute to America, the Great American State Fair and Fifa fan zone were asked to seek temporary shelter in nearby buildings.\n\nOnce the storm had passed, festivities began again, including a flyover featuring the new Air Force One and a concert.\n\nThe grande finale - the fireworks show - was marked by a massive flurry of blasts, concluding at about 01:00 local time (05:00 GMT). The small crowd on Capitol Hill cheered before rapidly walking towards the exits as it began to lightly rain.\n\nPeople travelled across the country to attend, including Tammy Wapshott, who travelled from South Carolina and had been planning her trip to Washington DC since last November.\n\nShe told the BBC she had come to celebrate \"the best country in the world\" where all were \"free to do what we wanna do\".\n\nAround 400 members of the white nationalist group Patriot Front were seen carrying US flags while marching in unison through the streets of the capital.\n\nVideos posted on social media show the masked, uniformed members marching near the Capitol building and Union Station, the city's main passenger rail hub.\n\nAccusations that Trump had politicised the anniversary arose from his launching Freedom 250, a privately funded events committee to compete with the America 250 commission established by the US Congress.\n\nAs part of the bipartisan America 250 celebrations, communities across the country took part in \"America's Block Party\" and hosted local gatherings.\n\nMusicians including Ne-Yo, Mary J Blige, The Smashing Pumpkins, Chaka...",
+            "zh": "美国以烟花和立交桥庆祝建国 250 周年，但全国各地的庆祝活动因极端天气而变得复杂。 “美国梦回来了，”美国总统唐纳德·特朗普在华盛顿国家广场举行的一次推迟的集会上对欢呼的人群说道，随后他称这是世界上最大的烟花表演。 7 月 4 日联邦假日是为了纪念 1776 年美国 13 个殖民地签署《独立宣言》以结束英国统治。 尽管举行了庆祝活动，但特朗普仍因将自己置于这一里程碑的中心并将庆祝活动政治化而受到批评。 总统的演讲在午夜前结束，涉及政治主题，包括拒绝共产主义、支持《拯救美国法案》以及携带武器的权利。 “独立事业万岁，”他说。 “愿它永远统治，永远，永远。我们将永远处于领先地位，我们永远不会让我们的国家垮台，我们将永远是最好的。” 特朗普在讲话结束时称，这一时刻“只是美国黄金时代的黎明”，其命运“由上帝书写”。 由于雷暴雨，华盛顿特区的庆祝活动被推迟，迫使国家广场在晚上早些时候疏散。 参加致敬美国、伟大的美国州博览会和国际足联球迷区的客人被要求在附近的建筑物中寻求临时庇护。 暴风雨过后，庆祝活动再次开始，包括新空军一号的天桥和音乐会。 压轴戏——烟花表演——伴随着一阵巨大的爆炸声，于当地时间 01:00 左右（格林尼治标准时间 06:00）结束。天开始下小雨，国会山上的一小群人欢呼雀跃，然后迅速走向出口。 人们从全国各地赶来参加，其中包括塔米·瓦普肖特 (Tammy Wapshott)，她从南卡罗来纳州赶来，自去年 11 月以来一直计划前往华盛顿特区。 她告诉英国广播公司，她来这里是为了庆祝“世界上最好的国家”，在那里所有人都可以“自由地做我们想做的事”。 人们看到大约 400 名白人民族主义组织爱国者阵线成员举着美国国旗在首都街道上齐声游行。 社交媒体上发布的视频显示，戴着面具、身穿制服的成员在国会大厦和该市主要客运铁路枢纽联合车站附近游行。 特朗普发起“自由 250”活动委员会，旨在与美国国会设立的“美国 250”委员会展开竞争，由此引发了对特朗普将周年纪念活动政治化的指控。 作为两党庆祝“美国 250 周年”活动的一部分，全国各地的社区都参加了“美国街区派对”并举办了当地聚会。 音乐家包括 Ne-Yo、Mary J Blige、The Smashing Pumpkins、Chaka..."
+          },
+          "reflection": {
+            "en": "A nation's celebration often prompts reflection on its character and future. Proverbs reminds us that true national strength and honor come not from power or prosperity alone, but from a commitment to righteousness. As citizens, our pursuit of justice and integrity contributes to the well-being and exaltation of our collective life before Yahweh.",
+            "zh": "一个国家的庆典常促使人们反思其品格与未来。箴言提醒我们，真正的国家力量和荣耀并非仅来自权势或繁荣，而是源于对公义的委身。作为公民，我们对公义和正直的追求，有助于我们集体生活在雅伟面前的福祉和提升。"
+          },
+          "verse": {
+            "reference": "Proverbs 14:34",
+            "textEn": "Righteousness exalts a nation, but sin condemns any people.",
+            "textZh": "公义使邦国高举；罪恶是人民的羞辱。",
+            "themeEn": "National righteousness",
+            "themeZh": "国家公义"
+          },
+          "aiVerseId": "prov_14_34",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-videos-cwyk2ypj014o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f9fa/live/25cb0190-783f-11f1-9510-1546718f668b.jpg",
+          "publishedAt": "2026-07-05T07:19:08.000Z",
+          "title": {
+            "en": "Scorching heat and delays: How Washington DC marked America 250",
+            "zh": "酷热与延误：华盛顿特区如何庆祝美国250周年"
+          },
+          "summary": {
+            "en": "The United States of America marked its 250th birthday with national events in Washington D.C., including fireworks and flyovers, amidst challenging weather conditions across the country.",
+            "zh": "美利坚合众国在华盛顿特区举行了全国性活动，包括烟花和飞行表演，庆祝其成立250周年，尽管全国各地天气状况严峻。"
+          },
+          "body": {
+            "en": "Thousands of people gathered in the US capital to celebrate the country's 250th birthday in a day that was marked by extreme weather, delays, and a huge display of fireworks.\n\nThe celebration, which included a flyover, a concert, as well as a speech by US President Donald Trump, was delayed by a thunderstorm that forced an evacuation of the National Mall in the early evening.\n\nThe night ended with the skies being lit up by the reputed largest fireworks display ever in the US.\n\nThe 4 July federal holiday commemorates the 13 US colonies signing the Declaration of Independence in 1776 to end British rule.",
+            "zh": "数千人聚集在美国首都庆祝美国成立 250 周年，这一天经历了极端天气、航班延误和大型烟花表演。 庆祝活动包括天桥、音乐会以及美国总统唐纳德·特朗普的演讲，但因雷暴雨而推迟，迫使国家广场在傍晚疏散。 当晚结束时，天空被美国有史以来最大的烟花表演照亮。 7 月 4 日联邦假日是为了纪念 1776 年美国 13 个殖民地签署《独立宣言》以结束英国统治。"
+          },
+          "reflection": {
+            "en": "As the United States marks a significant milestone, it's a moment to reflect on the nation's journey and the stories that have shaped it. Yahweh calls us to remember the past and faithfully transmit its lessons and hopes to future generations.",
+            "zh": "当美国迎来一个重要的里程碑时，这是一个反思国家历程和塑造其故事的时刻。雅伟呼召我们铭记过去，并忠实地将其中的教训和希望传承给后代。"
+          },
+          "verse": {
+            "reference": "Psalm 78:4",
+            "textEn": "We will not hide them from their descendants; we will tell the next generation the praiseworthy deeds of Yahweh, his power, and the wonders he has done.",
+            "textZh": "我们不将这些事向他们的子孙隐瞒，要将雅伟的美德和他的能力，并他奇妙的作为，述说给后代听。",
+            "themeEn": "Telling the next generation",
+            "themeZh": "传给后代"
+          },
+          "aiVerseId": "ps_78_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-trump-set-to-put-nato-unity-to-the-test-at-turkey-summit-a",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/76715188_6.jpg",
+          "publishedAt": "2026-07-05T06:48:00.000Z",
+          "title": {
+            "en": "Trump set to put NATO unity to the test at Turkey summit",
+            "zh": "特朗普将在土耳其峰会上考验北约团结"
+          },
+          "summary": {
+            "en": "NATO Secretary-General Mark Rutte is working to maintain the alliance's unity and keep Donald Trump engaged amidst upcoming summit challenges. Disputes over burden sharing, US military commitments, and the Iran war are creating significant tests for the alliance.",
+            "zh": "北约秘书长马克·吕特正努力在即将到来的土耳其峰会上保持联盟团结并争取唐纳德·特朗普的参与。关于责任分担、美国军事承诺和伊朗战争的争议正在给北约的团结带来重大考验。"
+          },
+          "body": {
+            "en": "NATO Secretary-General Mark Rutte is working to keep the alliance united and Donald Trump engaged. But disputes over burden sharing, US military commitments, and the Iran war are creating a major test for NATO unity.\n\nAs Donald Trump complained about European allies and their reluctance to support the United States during the war against Iran, the&#160;&#160; NATO secretary-general responded with praise. Lots of it. And pointed to large display boards emblazoned with gold-colored headlines, one titled: \"The Trump Trillion.\"\n\nIn front of the cameras, Rutte was in full pitch mode. \"I want to show you what this president was able to achieve,\" Rutte told the press, highlighting an additional $1.2 trillion (€1 trillion) in defense spending by European allies and Canada since 2017, when Trump first took office.\n\nJust days before a crucial NATO summit kicks off&#160; in Ankara on July 7 , Rutte was doing what has become one of, if not his most, important tasks: keeping Donald Trump on board. The summit will bring together the leaders of NATO's 32 allied countries at a moment of growing uncertainty amid heightened tensions in the Middle East and&#160; Russia's ongoing war with Ukraine .\n\nAs the US reviews its military posture in Europe , many European governments are worried about how committed Trump remains to the security alliance.\n\nRutte's strategy to keep the alliance together is to flatter Trump, emphasize the benefits NATO brings to the US and highlight the efforts European allies have made to increase defense spending. The NATO chief wants to avoid public disputes in Ankara and showcase allied unity.\n\nClaudia Major, a trans-Atlantic security expert at the German Marshall Fund think tank, told DW that worried leaders will be trying to send the message that the alliance is still strong — and looking \"to please Trump and to make a case for NATO.\"\n\nThis may explain why Rutte — desperately looking for common ground — has placed defense production at the center of this year's summit.\n\nHe is expected to unveil what he calls a \"defense industrial revolution,\" including tens of billions of dollars in new contracts and procurement deals for Europeans looking to boost weapons production.\n\nRutte's goal, said Major, is \"to show that there is a market for the US industry and also to make an economic case in favor of NATO that Trump hopefully will find attractive.\"\n\nWhether that approach will work remains unclear. \"If we have learned one thing about the US president over the last one-and-a-half years,\" Major said, \"it is that he can be very disruptive and it is difficult to predict what he is going to do.\"\n\nThat unpredictability was on display at a NATO defense ministers' meeting in Brussels on June 18, when Trump's defense secretary, Pete Hegseth, announced a...",
+            "zh": "北约秘书长马克·吕特正在努力保持联盟的团结和唐纳德·特朗普的参与。但关于责任分担、美国军事承诺和伊朗战争的争端正在对北约的团结构成重大考验。 当唐纳德·特朗普抱怨欧洲盟友及其在伊朗战争期间不愿支持美国时，北约秘书长对此予以赞扬。很多。并指着印有金色标题的大型展示板，标题为：“特朗普万亿”。 在镜头前，吕特处于全投模式。吕特对媒体表示：“我想向你们展示这位总统所取得的成就。”他强调，自 2017 年特朗普首次上任以来，欧洲盟国和加拿大的国防开支增加了 1.2 万亿美元（1 万亿欧元）。 就在关键的北约峰会 7 月 7 日在安卡拉开幕的前几天，吕特正在做的事情即使不是他最重要的任务，也是最重要的任务之一：让唐纳德·特朗普留在船上。此次峰会将汇集北约 32 个盟国的领导人，目前中东紧张局势加剧，俄罗斯与乌克兰的战争持续不断，不确定性日益增加。 随着美国重新审视其在欧洲的军事态势，许多欧洲国家政府担心特朗普对安全联盟的承诺程度。 吕特保持联盟团结的策略是奉承特朗普，强调北约给美国带来的好处，并强调欧洲盟国为增加国防开支所做的努力。北约领导人希望避免安卡拉的公开争端并展示盟国的团结。 德国马歇尔基金会智库跨大西洋安全专家克劳迪娅·梅杰 (Claudia Major) 告诉德国之声，忧心忡忡的领导人将试图传递这样的信息：联盟仍然强大，并希望“取悦特朗普并为北约辩护”。 这或许可以解释为什么吕特拼命寻找共同点，将国防生产置于今年峰会的中心位置。 预计他将推出他所谓的“国防工业革命”，其中包括为寻求提高武器生产的欧洲人提供数百亿美元的新合同和采购协议。 梅杰表示，吕特的目标是“表明美国工业有市场，并提出有利于北约的经济理由，希望特朗普会觉得有吸引力。” 这种方法是否有效仍不清楚。梅杰说：“如果说我们在过去一年半的时间里了解到了美国总统的一件事，那就是他可能具有很强的破坏性，而且很难预测他会做什么。” 这种不可预测性在 6 月 18 日于布鲁塞尔举行的北约国防部长会议上得到了体现，当时特朗普的国防部长皮特·赫格斯 (Pete Hegseth) 宣布了一项……"
+          },
+          "reflection": {
+            "en": "International alliances often face internal tensions and differing national interests, requiring diligent effort to maintain harmony. The pursuit of peace, as far as it depends on each party, is a continuous call to seek common ground and mutual respect even amidst significant disagreements. This commitment to peaceful coexistence strengthens bonds and...",
+            "zh": "国际联盟常面临内部紧张和国家利益分歧，需要不懈努力来维持和谐。在力所能及的范围内追求和平，是持续呼吁在重大分歧中寻求共同点和相互尊重的。这种对和平共处的承诺能加强联系，并促成全球挑战的协作解决方案。"
+          },
+          "verse": {
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
+          },
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-albania-pm-rama-protests-a-stage-for-anti-trump-forces-a-7",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/albania-pm-rama-protests-a-stage-for-anti-trump-forces/a-77833383?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77556930_6.jpg",
+          "publishedAt": "2026-07-05T06:27:00.000Z",
+          "title": {
+            "en": "Albania PM Rama: Protests a stage for anti-Trump forces",
+            "zh": "阿尔巴尼亚总理拉马：抗议是反特朗普势力的舞台"
+          },
+          "summary": {
+            "en": "Protesters in Albania are voicing concerns that their government is allowing foreign investors and luxury developers to exploit the nation's natural resources. Prime Minister Edi Rama, however, suggests the demonstrations are driven by anti-Trump sentiment.",
+            "zh": "阿尔巴尼亚的抗议者表示，他们的政府正在将国家的自然资源出售给外国投资者和豪华开发商。然而，阿尔巴尼亚总理埃迪·拉马认为，这些抗议活动是受反特朗普情绪驱动的。"
+          },
+          "body": {
+            "en": "Protesters in Albania say their government is selling the country its nature out to foreign investors and luxury developers. Albanian Prime Minister Edi Rama tells DW why he thinks people are so upset.\n\nFor the first time in his nearly 13 years as prime minister of Albania, Edi Rama is under serious pressure. For over a month now, thousands of Albanians have been taking to the streets daily, demanding his resignation .\n\nThe demonstrators accuse Rama and his government of cronyism and corruption, with many saying that for a long time now, the Albanian government has been making decisions that will help it stay in power, rather than in the interests of Albanian citizens.\n\nThe protests are often directed specifically at Rama and his policies, with demonstrators outside his office in the capital, Tirana, shouting \"Rama, resign!\"\n\nBut somehow Rama remains comparatively unfazed by it all. In an interview with DW on the sidelines of the r26 Business and Innovation festival held in Bochum, Germany, in early June, Rama insisted \"there is not a breakdown of trust in Albania.\"\n\nHe doesn't see the protests as a problem for his country, rather they are \"a beautiful example of freedom, of democracy in action.\"\n\nIn fact, the protests indicate just how far Albania has come in recent decades, since the end of the Soviet era. During Albania's dictatorship, people were killed for protesting on the streets of Tirana where they are now gathering.\n\nDiscontent with Albania's political establishment has been simmering but these protests were first sparked by anger at the planned construction of luxury resorts in the area of Vjose-Narta. This stretch of the Adriatic coast is home to rare animals like flamingoes and the Mediterranean monk seal and also serves as a resting place for millions of migratory birds every year. The untouched nature of the area is what makes it so attractive to foreign developers and the demonstrations have been nicknamed \"the flamingo revolution\" in honor of the inhabitants of Vjose-Narta.\n\nOn the uninhabited island of Sazan and along the coastline, there were plans to build several luxury resorts. Among the investors involved is US President Donald Trump's son-in-law, Jared Kushner , and his investment company, Affinity Partners. It was expected that more than €4 billion ($4.6 billion) would have gone into developing the area.\n\n\"My fight is to bring in Albania foreign direct investment,\" Rama explained. \"Developments that will be not simply great for Albania, but it will be a gift to Europe.\"\n\nThe development project was first announced in 2024, and initially drew complaints mostly from environmentalists. The current protests only started about a month ago when a previously public part of the coastline was fenced off. This led to protesters saying...",
+            "zh": "阿尔巴尼亚的抗议者表示，他们的政府正在向外国投资者和奢侈品开发商出卖该国的本质。阿尔巴尼亚总理埃迪·拉马告诉德国之声，他认为人们为何如此不安。 埃迪·拉马担任阿尔巴尼亚总理近13年来首次面临巨大压力。一个多月以来，每天都有数千名阿尔巴尼亚人走上街头，要求他辞职。 示威者指责拉马及其政府任人唯亲和腐败，许多人表示，长期以来，阿尔巴尼亚政府一直在做出有助于其继续执政的决定，而不是为了阿尔巴尼亚公民的利益。 抗议活动往往专门针对拉玛及其政策，首都地拉那的示威者在他的办公室外高喊“拉玛，辞职！” 但不知何故，罗摩仍然对这一切保持着相对平静的态度。 6月初，拉马在德国波鸿举行的r26商业与创新节间隙接受德国之声采访时坚称“阿尔巴尼亚的信任并未崩溃”。 他并不认为抗议活动对他的国家构成问题，相反，它们是“自由和民主行动的美丽典范”。 事实上，这些抗议活动表明了自苏联时代结束以来阿尔巴尼亚近几十年来所取得的进步。在阿尔巴尼亚独裁统治期间，人们因在地拉那街头举行抗议活动而被杀害。 对阿尔巴尼亚政治体制的不满一直在酝酿，但这些抗议活动最初是由对维约斯-纳尔塔地区计划建设豪华度假村的愤怒引发的。这片亚得里亚海海岸是火烈鸟和地中海僧海豹等珍稀动物的家园，也是每年数百万候鸟的栖息地。该地区未受破坏的自然环境使其对外国开发商如此有吸引力，为了纪念维约斯-纳尔塔的居民，示威活动被昵称为“火烈鸟革命”。 在无人居住的萨赞岛及其海岸线上，计划建造数个豪华度假村。参与其中的投资者包括美国总统唐纳德·特朗普的女婿贾里德·库什纳及其投资公司 Affinity Partners。预计该地区的开发将投入超过 40 亿欧元（46 亿美元）。 “我的目​​标是吸引阿尔巴尼亚的外国直接投资，”拉马解释道。 “这些发展不仅对阿尔巴尼亚有利，而且将成为送给欧洲的礼物。” 该开发项目于 2024 年首次宣布，最初引起的投诉主要来自环保人士。目前的抗议活动大约是在一个月前开始的，当时海岸线以前的公共部分被围栏围起来。这导致抗议者说..."
+          },
+          "reflection": {
+            "en": "When citizens protest the perceived selling off of national resources, it raises questions about stewardship and ultimate ownership. Yahweh's Word reminds us that the earth and everything in it belongs to Him, calling all leaders and people to responsible care for creation. This perspective encourages us to consider the long-term well-being of the land and...",
+            "zh": "当公民抗议国家资源被出售时，这引发了关于管理和最终所有权的问题。雅伟的话语提醒我们，大地和其中所充满的都属于祂，呼吁所有领袖和人民负责任地看顾受造物。这一视角鼓励我们思考土地及其居民的长期福祉，而非短期利益。"
+          },
+          "verse": {
+            "reference": "Psalm 24:1",
+            "textEn": "The earth is Yahweh's, and everything in it, the world, and all who live in it.",
+            "textZh": "地和其中所充满的，世界和住在其间的，都属雅伟。",
+            "themeEn": "Earth belongs to God",
+            "themeZh": "全地属神"
+          },
+          "aiVerseId": "ps_24_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-us-independence-day-fourth-of-july-celebrati",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/us-independence-day-fourth-of-july-celebrations-2026/gqjebri6x",
+          "image": "https://assets.sbs.com.au/dims4/default/3c8737f/2147483647/strip/false/crop/8192x3764+0+105/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F4e%2F63%2Fa1531fdc43dabd441b012e46e776%2Findependence-day-parade-california.jpg",
+          "publishedAt": "2026-07-05T06:17:49.000Z",
+          "title": {
+            "en": "Trump's patriotic speech, colossal fireworks and white nationalists: US marks 250 years",
+            "zh": "特朗普发表爱国演说，巨型烟花与白人民族主义者：美国纪念250周年"
+          },
+          "summary": {
+            "en": "Donald Trump marked the 250th anniversary of America's independence with a patriotic speech and fireworks, following a two-hour evacuation of the National Mall due to storms. The event also saw the presence of white nationalists.",
+            "zh": "唐纳德·特朗普在美国独立250周年纪念活动上发表了爱国演说并举行了盛大烟花表演，此前国家广场因暴风雨而疏散了大约两小时。活动中也有白人民族主义者出现。"
+          },
+          "body": {
+            "en": "Donald Trump praised the United States on its 250th birthday Sunday (AEST) as the \"crowning achievement\" of human history, as one of the world's largest fireworks displays lit up Washington and thousands of Americans saluted their country in nation-wide festivities.\n\nIn a speech delayed by several hours when storms forced the temporary evacuation of crowds in Washington, the US President claimed in his much-hyped speech that under his presidency the United States was \"prouder than ever before\".\n\n\"For two and a half centuries, our American republic has stood as the crowning achievement of human history,\" Trump told tens of thousands of people on the National Mall.\n\n\"Over 250 years the world has seen great empires, vast kingdoms, mighty nations, and terrible tyrants. They came and they went. But after two and a half centuries, this American republic still stands tall and strong.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe US leader also used the speech to renew attacks on domestic opponents he branded communists, push new voting restrictions and boast of the recent military campaigns against Iran and Venezuela, claiming that US had \"wiped out\" Iran's military.\n\nA 40-minute long fireworks display, which organisers hope will break world records, then lit up the night sky over the National Mall.\n\nAlong with opposition against the politicisation of US indpendence day from some quarters in a country that has been deeply divided by his second term in office, Trump faced resistance from the elements.\n\nAuthorities allowed the crowd to return to an open field near the Washington Monument where Trump was due to speak, after ordering a weather-related evacuation that forced spectators to shelter in nearby museums and government buildings for a few hours.\n\nWhile many streamed toward exits after the evacuation order, chaos broke out as other attendees refused to leave or tried to surge back in, shouting \"charge!\" and \"Trump! Trump!\"\n\nVisitors had waited for hours to get into the event, contending with stepped-up security and temperatures reaching 39C. The record-breaking heat wave forced the cancellation of several parades and other events in the area.\n\nThe group posted on social media that it had arrived in the capital, and hundreds of people wearing the group's outfits travelled to the city on metro trains serving the District of Columbia region.\n\nPast presidents have generally avoided in-person appearances at 4 July celebrations, but Trump has blurred the line between official commemoration and campaign-style politics.\n\nThe Trump administration's Freedom 250 group has largely sidelined a nonpartisan body set up in 2016 to handle the 250th anniversary and has...",
+            "zh": "周日（澳大利亚东部标准时间），唐纳德·特朗普称赞美国是人类历史上的“最高成就”，世界上最大的烟花表演之一照亮了华盛顿，成千上万的美国人在全国范围内的庆祝活动中向国家致敬。 由于暴风雨迫使华盛顿人群暂时疏散，演讲被推迟了几个小时，美国总统在大肆宣传的演讲中声称，在他的总统任期内，美国“比以往任何时候都更加自豪”。 “两个半世纪以来，我们的美利坚共和国一直是人类历史的最高成就，”特朗普在国家广场上对数万人说道。 “250多年来，世界上出现了伟大的帝国、幅员辽阔的王国、强大的国家和可怕的暴君。他们来了又走。但两个半世纪过去了，这个美利坚共和国仍然巍然屹立。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这位美国领导人还利用这次演讲再次攻击他称之为共产主义者的国内对手，推行新的投票限制，并吹嘘最近针对伊朗和委内瑞拉的军事行动，声称美国已经“消灭”了伊朗的军队。 组织者希望长达 40 分钟的烟花表演能够打破世界纪录，随后照亮了国家广场上空的夜空。 在这个因第二任期而陷入严重分裂的国家，除了一些人反对将美国独立日政治化之外，特朗普还面临着来自外界的阻力。 当局下令因天气原因进行疏散，迫使观众在附近的博物馆和政府大楼避难几个小时，随后当局允许人群返回华盛顿纪念碑附近的一片空地，特朗普将在那里发表讲话。 虽然许多人在疏散命令后涌向出口，但由于其他与会者拒绝离开或试图冲回来，大喊“冲锋！”，混乱爆发了。和“特朗普！特朗普！” 游客们在加强安保措施和高达 39 摄氏度的气温下等待了几个小时才进入活动现场。破纪录的热浪迫使该地区的多次游行和其他活动被取消。 该组织在社交媒体上发布消息称，他们已经抵达首都，数百名穿着该组织服装的人乘坐服务于哥伦比亚特区地区的地铁前往该市。 历任总统通常都会避免亲自出席 7 月 4 日的庆祝活动，但特朗普模糊了官方纪念活动与竞选式政治之间的界限。 特朗普政府的自由 250 组织基本上将一个于 2016 年为庆祝 250 周年而成立的无党派机构置于一边，并......"
+          },
+          "reflection": {
+            "en": "As nations celebrate their heritage, the presence of groups like white nationalists reminds us of the ongoing challenge to define national identity inclusively. Yahweh's word reminds us that all nations are made from one human origin, calling us to recognize the shared humanity that transcends national or racial distinctions. This truth invites us to build...",
+            "zh": "当各国庆祝其传统时，白人民族主义者等群体的出现提醒我们，以包容的方式定义国家认同仍是一项持续的挑战。雅伟的话语提醒我们，万国都源于同一人类，呼召我们认识超越国家或种族区别的共同人性。这一真理邀请我们建立一个珍视每个人的社会，反映出尊荣我们共同造物主的合一。"
+          },
+          "verse": {
+            "reference": "Acts 17:26",
+            "textEn": "From one man he made all the nations, that they should inhabit the whole earth.",
+            "textZh": "他从一本造出万族的人，住在全地上。",
+            "themeEn": "All nations from one",
+            "themeZh": "万族同源"
+          },
+          "aiVerseId": "acts_17_26",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-pope-visits-us-ambassador-prays-for-migrants",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/pope-visits-us-ambassador-prays-for-migrants-in-lampedusa/sj2ctngog",
+          "image": "https://assets.sbs.com.au/dims4/default/72ce1ef/2147483647/strip/false/crop/3072x1412+0+48/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F83%2F66%2F2b577e4c42478a5815a6aa24d066%2Fpope-leo-xiv-fourth-of-july.jpg",
+          "publishedAt": "2026-07-05T03:12:32.000Z",
+          "title": {
+            "en": "On fourth of July, an American pope sends a symbolic letter to the US about immigrants",
+            "zh": "在七月四日，一位美国籍教宗向美国发出一封关于移民的象征性信函"
+          },
+          "summary": {
+            "en": "The American pope spent 4 July praying for migrants at the epicentre of Europe's migration debate.",
+            "zh": "这位美国籍教宗在7月4日为欧洲移民辩论中心的移民祈祷，并向美国发出一封关于移民的象征性信函。"
+          },
+          "body": {
+            "en": "Pope Leo XIV, who has sparred with the Trump administration over its immigration crackdown , has spent the fourth of July in the epicentre of Europe's migration debate to honour the tens of thousands of people who have died trying to reach Europe.\n\nWhile the United States marks the 250th anniversary of the Declaration of Independence with rallies, parties and fireworks, the US-born Pope travelled to the Sicilian island of Lampedusa to pray at a migrant cemetery and celebrate a solemn Mass for the island's residents and newest arrivals.\n\nLater on Sunday AEST, he got into the 4 July spirit with a visit to the residence of the US ambassador to the Holy See, Brian Burch, a rarity for popes who usually don't call on ambassadors.\n\nThe US embassy said Burch gave Leo a commemorative baseball, an apple pie and a US World Cup jersey.\n\nLeo confirmed he was rooting for the US team, the embassy wrote on X, adding that the two discussed \"American efforts to pursue peace, religious freedom and the need for moral clarity and courage around the world\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nA treeless strip of rock nine kilometres long, Lampedusa is closer to Africa than the Italian mainland and is the main port of entry into Europe for hundreds of thousands of migrants who crossed by boat from Libya or Tunisia, often smuggled by human traffickers.\n\nLeo met with some migrants at the port and then walked alone onto the jagged jetty rocks, the wind whipping his cassock and blowing his zucchetto skullcap off as he looked out to the sea.\n\nHe then blessed a plaque dedicating the dock to Pope Francis, who visited in 2013, before celebrating Mass on land.\n\nIn making the visit on this particular day, Leo was sending a powerfully symbolic message to the United States and Europe of the Christian obligation to uphold the dignity of every human being, migrants and the most vulnerable especially, while reminding the United States that it was founded by immigrants.\n\nIn a letter sent to Americans on the 4 July anniversary, Leo insisted that protecting the unborn and all human life also means \"welcoming, protecting and assisting immigrants, whose hopes, sacrifices and contribution have formed part of the history of this country from its very beginning\".\n\n\"To receive them with compassion and generosity is not only an act of charity, but also a recognition of the dignity that belongs to every human person,\" Leo wrote.\n\nIn recent years, Lampedusa has become ground zero of Europe's migration debate as the continent struggles to police its borders while honouring its legal obligations to welcome refugees fleeing conflict, climate change and poverty.\n\nIn his homily, Leo thanked the...",
+            "zh": "教皇利奥十四世一直与特朗普政府就移民镇压问题发生争执，他在 7 月 4 日度过了欧洲移民辩论的中心，向数以万计在试图到达欧洲时丧生的人表示敬意。 在美国通过集会、派对和烟花庆祝《独立宣言》250周年之际，这位出生于美国的教皇前往西西里岛兰佩杜萨岛的移民墓地祈祷，并为岛上的居民和新来者举行庄严的弥撒。 澳大利亚东部时间周日晚些时候，他融入了 7 月 4 日的气氛，参观了美国驻罗马教廷大使布莱恩·伯奇 (Brian Burch) 的官邸，这对于通常不拜访大使的教皇来说是罕见的。 美国大使馆表示，伯奇送给利奥一个纪念棒球、一个苹果派和一件美国世界杯球衣。 大使馆在 X 上写道，利奥证实他支持美国队，并补充说，两人讨论了“美国为追求和平、宗教自由以及世界各地道德清晰和勇气的需要所做的努力”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 兰佩杜萨岛是一片长九公里的无树岩石地带，距离非洲比意大利大陆更近，是数十万从利比亚或突尼斯乘船穿越的移民进入欧洲的主要港口，这些移民经常被人贩子偷运。 利奥在港口遇到了一些移民，然后独自走上锯齿状的码头岩石，当他眺望大海时，风拍打着他的长袍，吹落了他的南瓜无边帽。 随后，他祝福了一块牌匾，将码头献给曾于 2013 年访问过的教皇方济各，然后在陆地上庆祝弥撒。 在这一天的访问中，利奥向美国和欧洲发出了强有力的象征性信息，即基督教有义务维护每个人、移民和最弱势群体的尊严，同时提醒美国，它是由移民建立的。 在7月4日周年纪念日致美国人的一封信中，利奥坚称，保护未出生的婴儿和所有人类的生命也意味着“欢迎、保护和援助移民，他们的希望、牺牲和贡献从一开始就构成了这个国家历史的一部分”。 利奥写道：“以同情和慷慨的态度接待他们不仅是一种慈善行为，也是对属于每个人的尊严的认可。” 近年来，兰佩杜萨岛已成为欧洲移民辩论的归零地，因为欧洲大陆在努力维持边境治安的同时，还履行其欢迎逃离冲突、气候变化和贫困的难民的法律义务。 利奥在讲道中感谢..."
+          },
+          "reflection": {
+            "en": "The pope's gesture on a national holiday reminds us of the biblical call to welcome those who are not native-born. Yahweh's command to treat foreigners as ourselves, remembering our own history as sojourners, challenges nations to extend compassion and justice. This act underscores the spiritual imperative to love and integrate those seeking new homes among...",
+            "zh": "教宗在一个国家假日所做的姿态，提醒我们圣经中欢迎非本地居民的呼召。雅伟命令我们善待寄居者如同本地人，并记住我们自己也曾是寄居者的历史，这挑战着各国去施予怜悯和公义。这一行动强调了爱护和接纳那些在我们中间寻求新家园之人的属灵责任。"
+          },
+          "verse": {
+            "reference": "Leviticus 19:33-34",
+            "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
+            "textZh": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
+            "themeEn": "Foreigner as native-born",
+            "themeZh": "待寄居者如本族"
+          },
+          "aiVerseId": "lev_19_33",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-world-cup-round-of-16-every-team-qualified-l",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/world-cup-round-of-16-every-team-qualified-list/kylettsmw",
+          "image": "https://assets.sbs.com.au/dims4/default/298cc62/2147483647/strip/false/crop/3806x1749+0+139/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fd5%2F33%2F44dab3c2442fb66b53a05fc35663%2Fgettyimages-2283521435.jpg",
+          "publishedAt": "2026-07-04T06:03:06.000Z",
+          "title": {
+            "en": "The World Cup Round of 16 is set. Here's every qualified team",
+            "zh": "世界杯十六强已确定。这是所有晋级球队"
+          },
+          "summary": {
+            "en": "The World Cup Round of 16 is set to begin, featuring the qualified teams in a series of upcoming matches.",
+            "zh": "世界杯十六强赛即将开赛，各支晋级球队将展开一系列激动人心的比赛。"
+          },
+          "body": {
+            "en": "After a dramatic Round of 32, with some big names being knocked out of the running, the race for the FIFA World Cup 2026 trophy is now down to 16 teams.\n\nThe first round knockout stage has now wrapped up, delivering no shortage of surprises.\n\nHeavyweights Germany and the Netherlands were both eliminated after shock defeats to Paraguay and Morocco, respectively, in matches that both ended in penalty shootouts.\n\nWhile Spain and France advanced with comfortable wins, England, Argentina, Portugal and Brazil had to fight tooth and nail to secure their places in the next stage.\n\nFor the Socceroos, it was the end of their World Cup journey after losing to Egypt in a nail-biting contest that ended in a penalty shootout.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nWhile Australian fans may still be licking their wounds, the tournament goes on &#x2014; and it's only going to get more exciting.\n\nThe Round of 16's first day kicks off with host-nation Canada versus Morocco at 3am Sunday morning (this and all following times are AEST).\n\nCanada likely faces a tough challenge against the North African side, which made it all the way to the semi-final of the 2022 World Cup and is so far unbeaten in this year's tournament.\n\nThe victor of that match will take on whichever side emerges from the France-Paraguay stand-off, set for 7am Sunday.\n\nFrance has performed strongly in this year's tournament and enters the Round of 16 undefeated, while Paraguay achieved the unexpected by eliminating Germany in the first knockout round.\n\nBrazil has won more World Cups than any other nation and, save for a 1-1 draw with Morocco, has won every match of the tournament thus far.\n\nStill, the South American champions are unlikely to have a walk in the park against the Norwegians and star striker Erling Haaland.\n\nThe winner of that match will advance to the quarter-finals, where they will face either Mexico or England, who meet at 10am on Monday at Mexico City Stadium, a venue that has already hosted some of the tournament's most memorable matches.\n\nIf you're only planning to watch some of the Round of 16, it's fair to say it could be worth setting your alarm for 5am on Tuesday to witness Spain and Portugal go head to head.\n\nAfter being held to a draw by underdogs Cape Verde in the first group-stage game, Spain has gone on to win every match since.\n\nWhile Portugal had a less flattering set of group-stage results, Cristiano Ronaldo's squad pulled out a dramatic comeback against Croatia in their Round of 32 match.\n\nThe other match of the day will be the United States against Belgium at 10am, with the hosts looking to secure a place in the quarter-finals against Portugal or Spain.\n\nThis is the match...",
+            "zh": "经过戏剧性的 32 强淘汰赛，一些大牌球队被淘汰出局，2026 年 FIFA 世界杯奖杯的争夺现在只剩下 16 支球队。 目前首轮淘汰赛已经结束，不乏惊喜。 重量级球队德国队和荷兰队分别惨败给巴拉圭和摩洛哥后双双惨遭淘汰，比赛均以点球大战告终。 西班牙和法国轻松获胜晋级，而英格兰、阿根廷、葡萄牙和巴西则必须拼尽全力才能确保下一阶段的席位。 对于澳大利亚队来说，在一场紧张的比赛中以点球大战告终，他们的世界杯之旅就此结束。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 虽然澳大利亚球迷可能仍在舔舐伤口，但比赛仍在继续，而且只会变得更加令人兴奋。 16 强赛第一天的比赛将于周日凌晨 3 点由东道国加拿大队对阵摩洛哥队拉开帷幕（此时及之后的所有时间均为澳大利亚东部标准时间）。 加拿大队可能会面临对北非队的严峻挑战，该队在 2022 年世界杯上一路杀入半决赛，并且在今年的赛事中迄今为止保持不败。 这场比赛的胜利者将对阵定于周日上午 7 点举行的法国与巴拉圭对决中的哪一方。 法国队在今年的赛事中表现强劲，以不败战绩进入16强，而巴拉圭则出人意料地在淘汰赛第一轮就淘汰了德国队。 巴西赢得世界杯的次数比任何其他国家都多，除了 1-1 战平摩洛哥之外，迄今为止，巴西赢得了世界杯的所有比赛。 尽管如此，南美冠军球队不太可能在公园里与挪威队和明星前锋埃尔林·哈兰德对抗。 这场比赛的获胜者将晋级四分之一决赛，他们将对阵墨西哥队或英格兰队，两支球队将于周一上午 10 点在墨西哥城体育场相遇，这里已经举办了一些本届世界杯上最令人难忘的比赛。 如果您只打算观看 16 强赛的部分比赛，那么可以公平地说，您值得将闹钟定在周二凌晨 5 点，观看西班牙和葡萄牙的对决。 在第一场小组赛中被弱旅佛得角逼平后，西班牙队此后每场比赛都获胜。 尽管葡萄牙小组赛的成绩不太理想，但克里斯蒂亚诺·罗纳尔多的球队在 ​​32 强赛中戏剧性地逆转了克罗地亚。 当天的另一场比赛将是上午 10 点美国队对阵比利时队，东道主希望与葡萄牙或西班牙队争夺四分之一决赛席位。 这就是比赛..."
+          },
+          "reflection": {
+            "en": "The World Cup showcases incredible athletic discipline and the pursuit of a coveted trophy. This verse reminds us that while such earthly crowns are celebrated, true lasting reward comes from striving for an imperishable prize. It encourages us to find purpose in our efforts that transcends temporary victories.",
+            "zh": "世界杯展现了运动员们惊人的纪律和对奖杯的追求。这节经文提醒我们，虽然这些世上的桂冠值得庆祝，但真正持久的奖赏来自对不朽奖赏的追求。它鼓励我们在努力中找到超越暂时胜利的意义。"
+          },
+          "verse": {
+            "reference": "1 Corinthians 9:25",
+            "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
+            "textZh": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
+            "themeEn": "Perishable vs eternal crown",
+            "themeZh": "能坏与不能坏的冠冕"
+          },
+          "aiVerseId": "1cor_9_25",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-millions-mourn-as-iran-begins-week-long-fune",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/millions-mourn-as-iran-begins-week-long-funeral-for-slain-supreme-leader-ali-khamenei/lfc5ycoqp",
+          "image": "https://assets.sbs.com.au/dims4/default/df8fbd7/2147483647/strip/false/crop/4483x2060+0+465/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F9e%2Fc4%2F5a2acdaf4c69af6c8e5a125ab01e%2F20260704132274541577-original.jpg",
+          "publishedAt": "2026-07-04T02:37:19.000Z",
+          "title": {
+            "en": "Millions mourn as Iran begins week-long funeral for slain Supreme Leader Ali Khamenei",
+            "zh": "伊朗开始为期一周的最高领袖哈梅内伊葬礼，数百万人哀悼"
+          },
+          "summary": {
+            "en": "Iran has begun a week-long funeral for its late Supreme Leader, Ayatollah Ali Khamenei, who is being honored as a martyr after his death. Millions are participating in the mourning ceremonies across the country.",
+            "zh": "伊朗已开始为期一周的已故最高领袖阿亚图拉·阿里·哈梅内伊的葬礼，他被尊为殉道者。数百万民众正在全国各地参加悼念仪式。"
+          },
+          "body": {
+            "en": "Iran is holding a week of mass funeral processions for Ayatollah Ali&#xA0;Khamenei, whose 37-year reign was brought to an end in February by the first airstrike of the war in the Middle East.\n\nHis body lies in state in a vast hall in Tehran on Friday as clerics, officials, foreign dignitaries and other mourners pay their respects to Iran's late supreme leader , slain by United States and Israeli bombs on 28 February.\n\nKhamenei's body was expected to be taken to Qom, Najaf and Kerbala, the great Shi'ite centres of Iran and Iraq, before being laid to rest on Thursday in Mashhad, home to the country's holiest pilgrim shrine.\n\nHis coffin was unveiled late on Thursday to a throng of sobbing supporters, swaying and beating their heads in time to a sung lament as flowers were thrown from the bier into the crowd.\n\nOn Friday, the coffin &#x2014; and those of family members killed with him &#x2014; was laid in state in the great prayer hall built to honour his predecessor, Ayatollah Ruhollah Khomeini.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe funeral is taking place at a critical moment for Iran, where the clerical rulers backed by the Islamic Revolutionary Guard Corps are riding high from surviving what they saw as an existential war against their greatest and most powerful foes.\n\nAuthorities aim to mobilise millions of people for the big processions over the coming days, offering transport, food and lodging to buoy the numbers.\n\nHowever, the new supreme leader, Khamenei's son Mojtaba Khamenei , has not been seen in any new image since being wounded in the strike that killed his father.\n\nYears of sanctions have paralysed Iran's economy as accelerating bouts of mass nationwide protests have been put down by security forces with increasing force, culminating in the killing of demonstrators in January.\n\nThose deep problems have been brushed aside this week, as the authorities have mounted a display of state power and mass support.\n\nTehran streets were tightly controlled, with military and police vehicles lining the major roads and police and members of the black-shirted volunteer Basij paramilitary force patrolling on motorbikes. Iran warned the US and Israel against any attacks during the funeral.\n\nAfter the coffins arrived on Friday, borne high across the upraised hands of a waiting crowd, they were laid in the prayer hall on a white, stepped dais before a high, intricately tiled, arched recess, flanked by national and black mourning flags.\n\nA black turban, worn by clerics claiming descent from Islam's Prophet Mohammed, lay on the coffin on a folded chequered scarf, a symbol in Iran of militant revolutionary ideals and solidarity with Palestinians.\n\nFormer...",
+            "zh": "伊朗正在为阿亚图拉阿里·哈梅内伊举行为期一周的大规模葬礼游行，他37年的统治于2月份因中东战争的第一次空袭而结束。 周五，他的遗体安放在德黑兰的一个巨大大厅里，神职人员、官员、外国政要和其他哀悼者向已故的伊朗最高领导人表示敬意，他于 2 月 28 日被美国和以色列的炸弹炸死。 哈梅内伊的遗体预计将被运往伊朗和伊拉克重要的什叶派中心库姆、纳杰夫和卡尔巴拉，然后于周四安葬在该国最神圣的朝圣地马什哈德。 周四晚，他的棺材向一群哭泣的支持者揭幕，当鲜花从棺材里扔到人群中时，他们随着歌声摇晃和敲打头。 周五，这具棺材以及与他一起遇害的家人的棺材被安放在为纪念他的前任阿亚图拉鲁霍拉·霍梅尼而建的祈祷大厅中。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这场葬礼是在伊朗的关键时刻举行的，伊朗伊斯兰革命卫队支持的教权统治者在他们看来是一场针对最强大敌人的生死存亡战争​​中幸存下来，正处于胜利之中。 当局计划在未来几天动员数百万人参加大型游行，并提供交通、食物和住宿以增加人数。 但 1979 年革命过去近 50 年后，尽管官方在哈梅内伊葬礼前宣布了民族团结，但伊斯兰共和国内部却很少出现如此分裂。 分析人士称，对教士领导层的支持微乎其微，而新任最高领袖哈梅内伊的儿子莫伊塔巴·哈梅内伊自从在导致其父亲死亡的罢工中受伤以来，就再也没有出现过任何新形象。 多年来严厉的制裁已经使经济陷入瘫痪，安全部队加大力度镇压全国范围内的大规模抗议活动，最终导致一月份数千名示威者被杀。 随着当局不断展示国家权力和群众支持，这些深层次的问题本周已被抛在一边。 德黑兰街道受到严格控制，军车和警车在主要道路上排列，警察和身穿黑衫的志愿者巴斯基准军事部队成员骑着摩托车巡逻。伊朗警告美国和以色列不要在葬礼期间进行任何袭击。 周五，棺材抵达后，等待的人群高举双手，将它们安放在祈祷厅的白色阶梯讲台上，前面是一座高高的、错综复杂的瓷砖……"
+          },
+          "reflection": {
+            "en": "The passing of any leader, especially one declared a martyr, reminds us of the universal truth of human mortality. Yahweh's word reminds us that it is appointed for everyone to die once, and after this, judgment. This shared human experience calls us to reflect on the ultimate meaning of life and the legacy we leave behind.",
+            "zh": "任何一位领袖的离世，尤其是一位被宣布为殉道者的领袖，都提醒我们人类死亡的普遍真理。雅伟的话语提醒我们，人人都有一死，死后且有审判。这一共同的人类经历呼唤我们反思生命的最终意义以及我们留下的遗产。"
+          },
+          "verse": {
+            "reference": "Hebrews 9:27",
+            "textEn": "Just as people are destined to die once, and after that to face judgment.",
+            "textZh": "按着定命，人人都有一死，死后且有审判。",
+            "themeEn": "Mortality",
+            "themeZh": "必有一死"
+          },
+          "aiVerseId": "heb_9_27",
+          "translationState": "localized"
+        }
+      ]
+    },
+    "china": {
+      "id": "china",
+      "title": {
+        "en": "China Desk",
+        "zh": "中国观察"
+      },
+      "strap": {
+        "en": "Policy signals, social change, and national developments inside China.",
+        "zh": "聚焦中国内部政策走向、社会变化与国家动态。"
+      },
+      "sourceNotes": [
+        "DW Asia China Focus",
+        "BBC News China Focus",
+        "The Guardian China"
+      ],
+      "items": [
+        {
+          "id": "www-dw-com-en-china-s-tech-rise-reshapes-the-global-space-race-a-7779003",
+          "section": "china",
+          "source": "DW Asia China Focus",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
+          "link": "https://www.dw.com/en/china-s-tech-rise-reshapes-the-global-space-race/a-77790036?maca=en-rss-en-asia-5133-rdf",
+          "image": "https://static.dw.com/image/55844094_6.jpg",
+          "publishedAt": "2026-07-05T12:31:00.000Z",
+          "title": {
+            "en": "China's tech rise reshapes the global space race",
+            "zh": "中国科技崛起重塑全球太空竞赛"
+          },
+          "summary": {
+            "en": "China is pulling ahead in global research rankings and expanding its ambitions in space. With growing technological leadership, Beijing is positioning itself as a rival to the United States on a global scale.",
+            "zh": "中国在全球研究排名中领先，并扩大了其在太空领域的雄心。随着技术领导力的增强，北京正将自己定位为全球范围内美国的竞争对手。"
+          },
+          "body": {
+            "en": "China is pulling ahead in global research rankings and expanding its ambitions in space. With growing technological leadership, Beijing is positioning itself as a rival to the United States on a global scale.\n\nLai Kai-ying, the first female Chinese civilian to reach outer space, is currently on board China's crewed Tiangong space station , where she orbits the Earth 16 times a day, alongside two other Chinese astronauts.\n\nTiangong is a unique microgravity laboratory for scientific experiments, designed to provide new insights into humanity's future.\n\nToday, aviation and spaceflight are once again shaped by ideological rivalry, echoing the mid-20th-century space race between the United States and the Soviet Union. In the 21st century, however, Washington's primary competitor is no longer Moscow, but Beijing.\n\nUS space agency NASA intends to retire its landmark research outpost, the International Space Station (ISS), by 2032. When that happens, China will be the only country operating a permanently crewed orbital station.\n\nSpace travel is just one of many fields worldwide in which China now holds a technological lead, according to Nature.\n\nThe journal's latest index of research leaders , which reveals the leading institutions and countries/territories, puts China in first place — well ahead of the United States and Germany .&#160;\n\nNine of the Top 10 research institutions were from China, with the US' Harvard ranking third. Germany's Max Planck Society (MPG), Germany's preeminent research organization,&#160;ranked in 13th place.\n\n\"It is now almost irrelevant which global rankings you consult. Universities and research institutions in China lead in many fields,\" observed Christina Beck, spokesperson for the MPG.\n\nThe Nature Index also shows that Chinese research institutions are the clear leaders in biology, chemistry and physics, as well as in other applied sciences. Only in health sciences and the social sciences have they been surpassed by US institutions.\n\nChina's rise has taken place steadily over the past two decades, said Richard Heidler, director of information management at the German Research Foundation (DFG), Germany's largest research funding organization.\n\n\"While in the early 2000s it was primarily the volume of publications that increased significantly, bibliometric analyses over the past decade have also shown growing gains in impact-related indicators, such as the share and number of highly cited publications,\" Heidler said.\n\nIn other words, China is not only publishing more, but is becoming increasingly better and more visible, which the MPG's Beck said is based on a long-term development process.\n\n\"Key to this has been sustained, systematic funding for scientific institutions and universities in China sustained over many years —...",
+            "zh": "中国在全球研究排名中处于领先地位，并扩大了其在太空领域的雄心。随着技术领先地位的不断增强，北京正在将自己定位为美国在全球范围内的竞争对手。 赖凯英是第一位到达外太空的中国女性平民，目前正在中国载人天宫空间站上，与另外两名中国宇航员一起每天绕地球运行 16 圈。 天宫是一个独特的微重力科学实验实验室，旨在为人类的未来提供新的见解。 如今，航空和航天再次受到意识形态竞争的影响，与20世纪中叶美国和苏联之间的太空竞赛相呼应。然而，进入21世纪，华盛顿的主要竞争对手不再是莫斯科，而是北京。 美国航天局 (NASA) 计划在 2032 年之前退役其具有里程碑意义的研究前哨站——国际空间站 (ISS)。届时，中国将成为唯一运营永久载人轨道站的国家。 据《自然》杂志报道，太空旅行只是中国目前在全球拥有技术领先地位的众多领域之一。 该杂志最新的研究领袖指数揭示了领先的机构和国家/地区，其中中国位居榜首，远远领先于美国和德国。 排名前十的研究机构中有九家来自中国，美国哈佛大学排名第三。德国杰出的研究组织德国马克斯·普朗克学会 (MPG) 排名第 13 位。 MPG发言人克里斯蒂娜·贝克(Christina Beck)表示：“现在，你参考哪个全球排名几乎已经无关紧要了。中国的大学和研究机构在许多领域都处于领先地位。” 自然指数还显示，中国研究机构在生物学、化学和物理学以及其他应用科学领域处于明显领先地位。只有在健康科学和社会科学领域被美国机构超越。 德国最大的研究资助机构德国研究基金会（DFG）信息管理部主任理查德·海德勒表示，中国在过去二十年中稳步崛起。 海德勒说：“虽然在 2000 年代初期，主要是出版物数量显着增加，但过去十年的文献计量分析也显示，与影响力相关的指标不断增长，例如高被引出版物的份额和数量。” 换句话说，中国不仅出版得更多，而且变得越来越好、越来越引人注目，MPG的贝克表示，这是基于长期发展过程的。 “其中的关键是多年来对中国科研机构和大学持续、系统的资助——......"
+          },
+          "reflection": {
+            "en": "Humanity's drive to innovate and achieve remarkable feats, like advancing in space and technology, is a powerful force. Yet, the story of Babel reminds us to reflect on the ultimate purpose of our collective ambitions and whether they serve a greater good or merely fuel rivalry. It encourages us to consider the heart behind our grandest endeavors.",
+            "zh": "人类在太空和科技领域不断创新并取得非凡成就的动力是强大的。然而，巴别塔的故事提醒我们反思集体雄心的最终目的，以及它们是为了更大的益处，还是仅仅助长了竞争。它鼓励我们思考我们最宏伟事业背后的心志。"
+          },
+          "verse": {
+            "reference": "Genesis 11:6",
+            "textEn": "Yahweh said, 'If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them.'",
+            "textZh": "雅伟说：「看哪，他们成为一样的人民，都是一样的言语，如今既做起这事来，以后他们所要做的事就没有不成就的了。」",
+            "themeEn": "Babel's ambition",
+            "themeZh": "巴别的雄心"
+          },
+          "aiVerseId": "gen_11_6",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-china-frees-pastor-after-trump-raised-case-with-xi-a-77836",
+          "section": "china",
+          "source": "DW Asia China Focus",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
+          "link": "https://www.dw.com/en/china-frees-pastor-after-trump-raised-case-with-xi/a-77836084?maca=en-rss-en-asia-5133-rdf",
+          "image": "https://static.dw.com/image/77836009_6.jpg",
+          "publishedAt": "2026-07-05T09:21:00.000Z",
+          "title": {
+            "en": "China frees pastor after Trump raised case with Xi",
+            "zh": "特朗普向习近平提起诉讼后，中国释放了牧师"
+          },
+          "summary": {
+            "en": "China has released the pastor of a prominent underground church after US President Donald Trump pressed his case with Chinese leader Xi Jinping. His family hailed the move as a hopeful sign for religious freedom.",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及在压力下的忠信与属灵勇气。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "China has released the pastor of a prominent underground church after US President Donald Trump pressed his case with Chinese leader Xi Jinping. His family hailed the move as a hopeful sign for religious freedom.\n\nChina released underground church pastor Ezra Jin Mingri, who had been detained since October, his family and rights groups said on Sunday after he arrived in Los Angeles.\n\nThe release came less than two months after US President Donald Trump raised Jin's case with his Chinese counterpart&#160;Xi Jinping during a visit to Beijing.\n\nJin founded Zion Church in Beijing in 2007, and it grew to around 1,500 members before authorities forced it to close in 2018.\n\nHe moved his family to the United States after officials targeted the church but later returned to China despite the risks. His daughter told US&#160;lawmakers last year that she had not seen her father in six years.\n\nJin's case gained international attention after Trump said he had also discussed the detention of Hong Kong pro-democracy publisher Jimmy Lai with Xi during the Beijing visit. Lai is serving a 20-year prison sentence in Hong Kong.\n\nJin's family said his release happened unexpectedly and credited both Trump and Xi with making it possible.\n\n\"We thank God for this tremendous miracle,\" Jin's daughter Grace said in a statement shared by a church member with the AFP news agency.&#160;\n\n\"We hope this is a signal of a positive turn for people of faith in China and relations between our two nations.\"&#160;\n\nTrump said after returning from Beijing in May that he had asked Xi to release Jin. According to Trump, Xi replied that he would \"strongly consider\" the request.\n\nChristian advocacy group ChinaAid welcomed Jin's release, saying he arrived safely in Los Angeles on Saturday after being held in the southern Chinese city of Beihai since October.\n\nChina's Foreign Ministry did not immediately respond to requests for comment. The White House also did not immediately comment.\n\nJin was among 18 leaders of Beijing's underground Zion Church who were detained in October and accused of illegally using information networks. His daughter Grace Jin said eight church members remain in detention.\n\n\"At least eight members of Zion Church remain detained in China,\" Maya Wang of Human Rights Watch wrote on X. \"They should all be freed.\"\n\nZion Church is one of China's largest unregistered Protestant churches. Like other house churches, it operates outside the state-approved religious system, which requires worshippers to attend officially registered congregations.\n\nChina's ruling Communist Party, which is officially atheist, has tightened controls over religion under Xi, promoting the \"Sinicization\" of faith groups by demanding greater loyalty to the state.",
+            "zh": "在美国总统唐纳德·特朗普向中国领导人习近平施压后，中国释放了一家著名地下教会的牧师。他的家人称赞此举是宗教自由的一个充满希望的迹象。 中国释放了地下教会牧师金明日 (Ezra Jin Mingri)，他自 10 月以来一直被拘留，他的家人和人权组织周日抵达洛杉矶后表示。 美国总统唐纳德·特朗普在访问北京期间向中国国家主席习近平提出了金的案件后不到两个月，就发布了这一消息。 金于 2007 年在北京创立了锡安教会，在当局于 2018 年强制关闭之前，该教会的成员人数已发展到约 1,500 名。 在官员袭击该教堂后，他举家移居美国，但后来不顾风险返回中国。他的女儿去年告诉美国立法者，她已经六年没有见到父亲了。 特朗普表示，他在北京访问期间还与习近平讨论了香港亲民主出版商黎智英的拘留问题，此后金的案件引起了国际关注。黎智英正在香港服刑 20 年。 金的家人表示，他的获释出乎意料，并称赞特朗普和习近平使之成为可能。 “我们感谢上帝创造了这个巨大的奇迹，”金的女儿格蕾丝在一名教会成员向法新社分享的声明中说。 “我们希望这是中国信仰人士和我们两国关系出现积极转变的信号。” 特朗普5月份从北京回来后表示，他已要求习近平释放金。据特朗普称，习近平回答说，他将“认真考虑”这一请求。 基督教倡导组织对华援助协会对金的获释表示欢迎，称金自十月以来一直被关押在中国南方城市北海，并于周六安全抵达洛杉矶。 中国外交部没有立即回应置评请求。白宫也没有立即发表评论。 金是10月份被拘留并被指控非法使用信息网络的北京地下锡安教会的18名领导人之一。他的女儿 Grace Jin 说，八名教会成员仍被拘留。 “至少八名锡安教会成员仍被拘留在中国，”人权观察组织的玛雅·王在X上写道，“他们都应该被释放。” 锡安教会是中国最大的未注册新教教堂之一。与其他家庭教会一样，它在国家批准的宗教体系之外运作，该体系要求信徒参加正式注册的教会。 中国执政的共产党是官方的无神论者，在习近平的领导下加强了对宗教的控制，通过要求对国家更加忠诚来促进信仰团体的“中国化”。"
+          },
+          "reflection": {
+            "en": "This story draws attention to faithfulness under pressure and spiritual courage. Hebrews 10:23 reminds us to meet sharp headlines with steadfast faith and prayerful witness, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到在压力下的忠信与属灵勇气。Hebrews 10:23提醒我们，在快速变化的新闻里，仍要以坚定的信心与祷告见证来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:10",
+            "textEn": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+            "textZh": "为义受逼迫的人有福了，因为天国是他们的。",
+            "themeEn": "Blessed persecution",
+            "themeZh": "为义受迫"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c4gy51ky75vo-at-medium-rss-at-campaign-rss",
+          "section": "china",
+          "source": "BBC News China Focus",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a119/live/d5d21d80-782b-11f1-b976-0b9c15b0ccfc.jpg",
+          "publishedAt": "2026-07-05T05:58:21.000Z",
+          "title": {
+            "en": "Chinese underground church figure Jin Mingri freed from prison",
+            "zh": "中国地下教会领袖金明日获释"
+          },
+          "summary": {
+            "en": "The founder of Zion Church, Jin Mingri, has been released from prison in China, following a direct plea to Xi Jinping from Donald Trump.",
+            "zh": "锡安教会创始人金明日在中国获释，此前唐纳德·特朗普曾直接向习近平提出请求。"
+          },
+          "body": {
+            "en": "Underground church leader Jin Mingri has been released from prison in China and has travelled to the US, less than two months after his incarceration was raised directly by Donald Trump.\n\nThe pastor and founder of the Zion Church had been imprisoned following overnight raids across China in October, described by Christian groups as one of the strictest crackdowns on religious activity in the country's modern history.\n\nThe Chinese government tightly controls religion and officially promotes atheism.\n\nJin's family thanked supporters in a statement, adding: \"We truly witnessed a miracle and we are feeling so overwhelmed with joy\". The Chinese foreign ministry has not officially commented on his case.\n\nThe family thanked the US president and the Trump administration \"for their tremendous leadership\", and said they knew \"this could not have happened without the direct intervention from [Chinese President] Xi Jinping\".\n\n\"We hope this is a signal of a positive turn for people of faith in China and relations between our two nations.\"\n\nUS-based rights group ChinaAid, which monitors relgious persecution, confirmed Jin, also known as Ezra Jin, had arrived in Los Angeles in the US following his release.\n\nIts founder Bob Fu welcomed his release, while noting that \"countless\" religious practitioners, including eight belonging to the Zion Church, remained incarcerated in China.\n\nThe Inter-Parliamentary Alliance on China, a group of Western lawmakers that includes dozens of UK MPs, said it was \"overjoyed\" with the news.\n\nTrump had urged Xi to release Jin during direct talks between the two while in Beijing for a state visit in May.\n\n\"He said he's gonna strongly consider the pastor,\" the US president said afterward.\n\nTrump also raised the detention of pro-democracy Hong Kong media tycoon Jimmy Lai, who was sentenced earlier this year to 20 years in prison for colluding with foreign forces under the city's controversial national security law.\n\nJin started the Zion Church in 2007 with just 20 people. It grew into one of China's largest unregistered churches, with a network of some 10,000 people in 40 cities across the country.\n\nIt was officially banned by the Chinese Communist Party in 2018 after resisting government pressure to install security cameras at its property in Beijing.\n\nMany of its branch congregations across the country have since been investigated and shut down.\n\nChristians have long been pressured to join only state-sanctioned churches that are led by government-approved pastors and toe the party line.\n\nThirty church leaders were reported to have been detained in overnight raids last October.\n\nThis was followed by a similar crackdown against another church in January, in which nine people were detained.",
+            "zh": "地下教会领袖金明日已从中国监狱获释并前往美国，距离唐纳德·特朗普直接提出他的监禁还不到两个月。 锡安教会的牧师兼创始人在十月份中国各地连夜突击搜查后被监禁，基督教团体称这是中国现代历史上对宗教活动最严厉的镇压之一。 中国政府严格控制宗教并正式宣扬无神论。 金的家人在一份声明中感谢支持者，并补充道：“我们真正见证了奇迹，我们感到无比喜悦”。中国外交部尚未对他的案件发表正式评论。 家人感谢美国总统和特朗普政府“的巨大领导”，并表示他们知道“如果没有习近平的直接干预，这一切就不可能发生”。 “我们希望这是中国信仰人士和我们两国关系出现积极转变的信号。” 监测宗教迫害的美国人权组织对华援助协会证实，金（又名埃兹拉·金）获释后已抵达美国洛杉矶。 其创始人傅希秋对他的获释表示欢迎，同时指出“无数”宗教信徒，其中包括锡安教会的八名信徒，仍被关押在中国。 由包括数十名英国议员在内的西方立法者组成的议会间中国联盟表示，对这一消息感到“欣喜若狂”。 特朗普五月份在北京进行国事访问期间，在两人直接会谈期间敦促习近平释放金正恩。 “他说他会强烈考虑这位牧师，”美国总统随后说道。 特朗普还提到了香港民主派媒体大亨黎智英的拘留问题，今年早些时候，根据香港有争议的国家安全法，黎智英因与外国势力勾结而被判处20年监禁。 金于 2007 年创立了锡安教会，当时只有 20 人。它发展成为中国最大的未注册教会之一，在全国 40 个城市拥有约 10,000 名信徒的网络。 2018年，该公司顶住政府要求其在北京的物业安装安全摄像头的压力，被中国共产党正式取缔。 此后，其在全国各地的许多分会都已受到调查并被关闭。 基督徒长期以来一直被迫加入国家认可的教会，这些教会由政府批准的牧师领导，并遵守党的路线。 据报道，去年 10 月有 30 名教会领袖在连夜突袭中被拘留。 随后，一月份另一座教堂也遭到类似镇压，九人被拘留。"
+          },
+          "reflection": {
+            "en": "The release of a church leader reminds us of the enduring faith of those who face hardship for their convictions. Matthew 5:10 speaks to the spiritual blessing found even amidst persecution for righteousness' sake. Such stories highlight the resilience of faith in challenging circumstances.",
+            "zh": "一位教会领袖的获释提醒我们，那些因信仰而面临困境的人所持守的坚韧信心。马太福音5:10谈到，即使为义受逼迫，也能找到属灵的福分。这样的故事凸显了信仰在挑战性环境中的韧性。"
+          },
+          "verse": {
+            "reference": "Matthew 5:10",
+            "textEn": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+            "textZh": "为义受逼迫的人有福了，因为天国是他们的。",
+            "themeEn": "Blessed persecution",
+            "themeZh": "为义受迫"
+          },
+          "aiVerseId": "matt_5_10",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jul-05-founder-of-prominent-underground-c",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china",
+          "image": "https://i.guim.co.uk/img/media/50e10a77d9b79b23bad025794b01db3ca3db88f5/173_149_666_533/master/666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a89924c625a24dc57bb467d987d44ce8",
+          "publishedAt": "2026-07-05T01:40:15.000Z",
+          "title": {
+            "en": "Founder of prominent underground church released from prison in China",
+            "zh": "中国著名地下教会创始人获释出狱"
+          },
+          "summary": {
+            "en": "Ezra Jin, the founder of Zion Church, a prominent underground church in China, has been released from prison. He has since arrived in the United States and reunited with his family, who expressed immense joy.",
+            "zh": "中国著名地下教会锡安教会的创始人金某某已获释出狱。他已抵达美国并与家人团聚，家人对此感到无比喜悦。"
+          },
+          "body": {
+            "en": "Ezra Jin, founder of Zion Church, lands in the US and reunites with family who are ‘overwhelmed with joy’ The founder of one of China’s most prominent underground churches has been released from prison and reunited with his family in the United States. Ezra Jin, the founder of Zion Church, landed in the US on Friday evening. He was one of dozens of church members who were detained in a sweeping crackdown on Christians in October . Continue reading...",
+            "zh": "锡安教会创始人金以斯拉抵达美国并与家人团聚，他们“欣喜若狂”。这位中国最著名的地下教会之一的创始人已出狱，并在美国与家人团聚。锡安教会创始人埃兹拉·金于周五晚上抵达美国。他是十月份在一场针对基督徒的大规模镇压中被拘留的数十名教会成员之一。继续阅读..."
+          },
+          "reflection": {
+            "en": "After a period of imprisonment for his faith, Ezra Jin's release and reunion with his family bring a profound sense of relief and joy. This reminds us that even through long nights of hardship, Yahweh's faithfulness can bring a morning of rejoicing. His story testifies to the enduring hope found in Yahweh's presence, even in the face of adversity.",
+            "zh": "金某某因信仰入狱后获释并与家人团聚，带来了深深的宽慰和喜悦。这提醒我们，即使经历漫长的苦难之夜，雅伟的信实也能带来喜乐的清晨。他的故事见证了即使面对逆境，在雅伟的同在中也能找到持久的盼望。"
+          },
+          "verse": {
+            "reference": "Psalm 30:5",
+            "textEn": "Weeping may stay for the night, but rejoicing comes in the morning.",
+            "textZh": "一宿虽然有哭泣，早晨便必欢呼。",
+            "themeEn": "Joy after the night",
+            "themeZh": "清晨的喜乐"
+          },
+          "aiVerseId": "ps_30_5",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-environment-2026-jul-03-weather-tracker-heatwave-bre",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/environment/2026/jul/03/weather-tracker-heatwave-breaks-june-temperature-records-across-europe",
+          "image": "https://i.guim.co.uk/img/media/ee1eec52ee651f93c4f745fe81725e281ef6deaa/390_0_3610_2888/master/3610.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02061c3ac7a3f3d497868c972debd21d",
+          "publishedAt": "2026-07-03T09:20:03.000Z",
+          "title": {
+            "en": "Weather tracker: Heatwave breaks June temperature records across Europe",
+            "zh": "天气追踪：热浪打破欧洲各地六月气温记录"
+          },
+          "summary": {
+            "en": "Western Europe experienced a severe heatwave last week, breaking national June temperature records and setting new all-time highs. The UK recorded a provisional peak of 37.7C, significantly surpassing its previous record, while Germany reached an unprecedented 41.7C.",
+            "zh": "上周，西欧遭遇严重热浪，打破了各国6月份的气温记录，并创下新的历史最高点。英国临时最高气温达到37.7摄氏度，大幅超过了此前的记录，而德国则达到了前所未有的41.7摄氏度。"
+          },
+          "body": {
+            "en": "UK provisional peak of 37.7C shatters previous record by huge margin, while Germany hits all-time high of 41.7C Last week’s heatwave across western Europe shattered national June records and set new all-time highs. The UK recorded a provisional high of 37.7C at Lingwood in Norfolk on Friday 27 June, smashing the previous June record of 35.6C, set in 1976. Such a margin is exceptionally rare: temperature records are typically broken by 0.1C or 0.2C, not a remarkable 2.1C. Continue reading...",
+            "zh": "英国37.7摄氏度的临时峰值大幅打破了之前的记录，而德国则创下了41.7摄氏度的历史新高。上周席卷西欧的热浪打破了全国6月份的记录，并创下了新的历史新高。 6 月 27 日星期五，英国诺福克灵伍德创下了 37.7 摄氏度的临时最高气温，打破了 1976 年创下的 35.6 摄氏度的六月纪录。这样的差距非常罕见：温度记录通常会被打破 0.1 摄氏度或 0.2 摄氏度，而不是显着的 2.1 摄氏度。继续阅读..."
+          },
+          "reflection": {
+            "en": "The record-breaking heatwave across Europe reminds us of creation's deep distress. Yahweh's word tells us that the whole creation groans, longing for renewal. This extreme weather calls us to reflect on our role in stewarding the Earth and to hope for its ultimate restoration.",
+            "zh": "欧洲创纪录的热浪提醒我们，受造界正经历着深切的痛苦。雅伟的话语告诉我们，整个受造界都在一同叹息，切盼更新。这极端天气呼吁我们反思自己在管理地球上的角色，并盼望它最终的复兴。"
+          },
+          "verse": {
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
+          },
+          "aiVerseId": "rom_8_22",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-ng-interactive-2026-jul-03-us-at-250-global-",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/03/us-at-250-global-reputation",
+          "image": "https://i.guim.co.uk/img/media/ea132bc4a14668cf1716b902084a5eddba19cb79/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13978335ff3ce2e16575030e5331b7ac",
+          "publishedAt": "2026-07-03T09:00:24.000Z",
+          "title": {
+            "en": "For allies and adversaries alike, America at 250 is a solid global citizen gone rogue",
+            "zh": "对于盟友和对手而言，250岁高龄的美国从一个可靠的全球公民变成了“流氓”"
+          },
+          "summary": {
+            "en": "The article reports on how the United States, as it approaches its 250th anniversary, is now perceived globally. Once seen as a reliable international partner, its behavior under the current administration, characterized by insults, threats, and unpredictability, has led allies and adversaries alike to view it as...",
+            "zh": "这篇文章报道了美国在即将迎来建国250周年之际，其在全球范围内的形象如何被看待。曾经被视为可靠的国际伙伴，但在本届政府领导下，其以侮辱、威胁和不可预测性为特征的行为，已导致盟友和对手都认为它偏离了传统角色。"
+          },
+          "body": {
+            "en": "America has long stood for freedom and prosperity, but under Trump insults, threats and unpredictability have become the new norm. As the US marks its 250th anniversary, Guardian correspondents around the world report on how it is perceived elsewhere\n\nOn the shores of Beijing’s central lakes, elderly Beijingers relax under the shade of willow trees. Some swim, some play mahjong, and one old man plays darts: US and Chinese-flagged arrows competing for the bullseye.\n\nThe adversarial view of US-China relations is typical among people like these who lived through the cold war. Wen Feng, a 60-year-old retiree, described the US as a “troublemaker” – a viewpoint fanned by years of state propaganda casting Uncle Sam as a villainous, hypocritical force on the world stage.\n\nNevertheless, the US’s wealth and abundance has long attracted even the most ardent Chinese nationalists. For years, the political and business elites – including China’s president, Xi Jinping – have sent their children to study there.\n\nAcross Chinese society, it used to be the case that everyone wanted a slice of the American dream. Dissidents flocked to the US for freedom and democracy, especially after the 1989 crackdown on protesters. Businesspeople sought out opportunities as China opened up in the 1990s and joined the World Trade Organization in 2001. For top students, studying in the US – where the schools outrank Chinese institutions and where academic freedom is encouraged – was the natural choice.\n\nDonald Trump has a lot to answer for. In both his administrations, he has weaponised the US economy to impose painful tariffs, punishing Chinese people for what many see as their own virtue: their ability to produce goods that US customers will buy. “Chinese people are very hardworking. We are willing to endure hardship to make money, unlike Americans,” said Liu Cheng, 47.\n\nBut it’s not just Trump that has damaged the US’s reputation in China. Since the financial crisis in 2008, the default perspective that a life in the US would be better has shifted.\n\nFed by propaganda social media accounts but also by their own personal experiences, more and more Chinese people look at the US and see gun violence, homelessness, police brutality and rampant populism. Chinese students are treated with increased suspicion that to many feels racist. In recent months, the term “ kill line ”, to describe the precariousness of life in the US, has been popular on Chinese social media.\n\nAt the same time, China’s self-confidence has grown. Consumerism, once one of the major draws of the capitalist west, is the engine of China’s big cities. It’s hard to find a product that cannot be delivered to your door within days, if not hours. China’s own economy remains beset by problems: the hyper-convenience is the...",
+            "zh": "美国长期以来一直主张自由和繁荣，但在特朗普的领导下，侮辱、威胁和不可预测性已成为新常态。在美国庆祝建国 250 周年之际，《卫报》世界各地的记者报道了其他地方对美国的看法 在北京中心湖畔，老北京人在柳树荫下休息。有的在游泳，有的在打麻将，还有一位老人在玩飞镖：美国和中国国旗的箭在争夺靶心。 对中美关系的敌对态度在经历过冷战的人们中很常见。 60 岁的退休人员文峰将美国描述为“麻烦制造者”——多年来国家宣传将山姆大叔描绘成世界舞台上邪恶、虚伪的力量，从而煽动了这种观点。 然而，美国的财富和富裕长期以来甚至吸引了最热心的中国民族主义者。多年来，包括中国国家主席习近平在内的政界和商界精英都将自己的孩子送到那里学习。 在整个中国社会，曾经人人都想分一杯羹美国梦。持不同政见者涌入美国寻求自由和民主，特别是在 1989 年镇压抗议者之后。随着中国在 20 世纪 90 年代开放并于 2001 年加入世界贸易组织，商界人士纷纷寻求机会。对于顶尖学生来说，去美国学习是自然的选择——美国的学校排名高于中国院校，而且鼓励学术自由。 唐纳德·特朗普有很多事情要负责。在他的两届政府中，他都将美国经济武器化，征收痛苦的关税，惩罚中国人民，因为他们有能力生产美国客户会购买的商品，这在许多人看来是他们自己的美德。 “中国人很勤奋，我们愿意吃苦赚钱，不像美国人，”47岁的刘成说。 但损害美国在中国声誉的不仅仅是特朗普。自2008年金融危机以来，人们认为在美国生活会更好的默认观点已经发生了转变。 受到社交媒体宣传账户和自身经历的影响，越来越多的中国人看到美国，看到枪支暴力、无家可归、警察暴行和猖獗的民粹主义。中国学生受到越来越多的怀疑，许多人感到种族歧视。近几个月来，描述美国生活不稳定的“杀线”一词在中国社交媒体上流行。 与此同时，中国的自信心也增强了。消费主义曾经是资本主义西方的主要吸引力之一，现在是中国大城市的引擎。很难找到无法在几天甚至几小时内送货上门的产品。中国自身的经济仍然受到问题的困扰：过度便利是......"
+          },
+          "reflection": {
+            "en": "A nation's character and actions profoundly shape its global standing and relationships. As this report highlights, a departure from established norms can lead to a reevaluation of its role by both friends and foes. Yahweh's word reminds us that righteousness elevates a nation, while unrighteousness can bring disgrace.",
+            "zh": "一个国家的品格和行为深刻地塑造其全球地位和国际关系。正如这篇报道所强调的，偏离既定规范可能导致其盟友和对手重新评估其角色。雅伟的话语提醒我们，公义使邦国高举，罪恶却是任何民族的羞辱。"
+          },
+          "verse": {
+            "reference": "Proverbs 14:34",
+            "textEn": "Righteousness exalts a nation, but sin condemns any people.",
+            "textZh": "公义使邦国高举；罪恶是人民的羞辱。",
+            "themeEn": "National righteousness",
+            "themeZh": "国家公义"
+          },
+          "aiVerseId": "prov_14_34",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jul-03-tibet-china-man-tibetan-flag-set-h",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jul/03/tibet-china-man-tibetan-flag-set-himself-on-fire-dies-un-united-nations-new-york",
+          "image": "https://i.guim.co.uk/img/media/48bf9339f34d519ff5f74db3ee592d67b756bf8e/131_0_1800_1440/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d7a444d54aa18b6642da9ff6fcf12f8",
+          "publishedAt": "2026-07-03T05:26:40.000Z",
+          "title": {
+            "en": "Tibetan man dies after setting himself on fire outside UN in New York, activists say",
+            "zh": "活动人士称，一名藏人男子在纽约联合国总部外自焚身亡"
+          },
+          "summary": {
+            "en": "An exiled Tibetan man died from severe burns after setting himself on fire near the United Nations headquarters in New York. Activists stated his self-immolation was an appeal for Tibetan independence from China.",
+            "zh": "一名流亡藏人男子在纽约联合国总部附近自焚，因严重烧伤不治身亡。活动人士称，他的自焚是为了呼吁西藏从中国独立。"
+          },
+          "body": {
+            "en": "Exiled Tibetans say the man’s self-immolation was an appeal for Tibetan independence from China Police in New York said a man has died from severe burns near the United Nations headquarters, and activists ⁠and a media outlet ⁠of exiled Tibetans identified ​him as a Tibetan who set himself on fire in an appeal for independence. A New York City police department spokesperson said police found the man badly burned after responding to an emergency call ⁠made at about 6.30pm ET . Continue reading...",
+            "zh": "流亡藏人表示，这名男子的自焚是为了呼吁西藏独立于中国。纽约警方表示，一名男子在联合国总部附近因严重烧伤而死亡，活动人士和一家流亡藏人媒体确认他是一名自焚的藏人，呼吁独立。纽约市警察局发言人表示，警方在接到美国东部时间下午 6 点 30 分左右拨打的紧急电话后发现该男子严重烧伤。继续阅读..."
+          },
+          "reflection": {
+            "en": "This tragic act highlights the profound desperation felt by those who believe their voices are unheard in the pursuit of justice. Proverbs 31:8 calls us to speak up for those who cannot speak for themselves, reminding us of the moral imperative to advocate for the voiceless. May Yahweh inspire compassion and wisdom in addressing the deep-seated grievances...",
+            "zh": "这一悲剧性事件凸显了那些在寻求公义时感到声音被压制的人们所承受的深切绝望。箴言31:8呼吁我们为不能为自己说话的人发声，提醒我们有道德责任为无声者倡导。愿雅伟在处理导致如此极端行为的根深蒂固的不满时，赐予我们怜悯和智慧。"
+          },
+          "verse": {
+            "reference": "Proverbs 31:8-9",
+            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
+            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
+            "themeEn": "Voice for the voiceless",
+            "themeZh": "为弱者发声"
+          },
+          "aiVerseId": "prov_31_8",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jul-03-china-man-small-plane-beijing-skys",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement",
+          "image": "https://i.guim.co.uk/img/media/2f4a4838b18bf2ed184d0c5a9cb6d2c844accc24/1053_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae0e95407a68aff88f83d68345b4c1cd",
+          "publishedAt": "2026-07-03T03:15:13.000Z",
+          "title": {
+            "en": "China says man who flew plane into Beijing skyscraper had mental health problems",
+            "zh": "中国称驾驶飞机撞向北京摩天大楼的男子有精神健康问题"
+          },
+          "summary": {
+            "en": "Chinese authorities have released details about a fatal incident in Beijing, stating that a 66-year-old man with mental health problems flew a small plane into the city's tallest skyscraper.",
+            "zh": "中国当局公布了北京一起致命事件的更多细节，称一名患有精神健康问题的66岁男子驾驶一架小型飞机撞向该市最高的摩天大楼。"
+          },
+          "body": {
+            "en": "Official statement offers the most detailed official account yet of the highly unusual and fatal incident in Beijing Chinese authorities said the man who flew a small plane into Beijing’s tallest skyscraper last week was a 66-year-old who had mental health problems. The statement published on Thursday offered the most detailed official account yet of the highly unusual incident that occurred in Beijing’s central business district on the evening of 26 June. Continue reading...",
+            "zh": "官方声明对北京发生的这起极不寻常的致命事件提供了迄今为止最详细的官方描述。中国当局表示，上周驾驶小型飞机撞向北京最高摩天大楼的男子是一名 66 岁的男子，患有精神健康问题。周四发布的声明对 6 月 26 日晚在北京中央商务区发生的这一极不寻常的事件提供了迄今为止最详细的官方描述。继续阅读..."
+          },
+          "reflection": {
+            "en": "This tragic incident highlights the profound impact of mental health struggles on individuals and society. The biblical account reminds us of Yahweh's power to restore a person to their right mind, offering a vision of peace and clarity. It calls us to extend compassion and prayer for all who grapple with mental anguish, trusting in Yahweh's capacity for...",
+            "zh": "这起悲剧事件凸显了精神健康问题对个人和社会造成的深远影响。这节经文提醒我们雅伟有能力使人恢复正常心智，提供了一个平安与清醒的异象。它呼吁我们对所有与精神痛苦搏斗的人怀有怜悯之心并为他们祷告，信靠雅伟医治和恢复的能力。"
+          },
+          "verse": {
+            "reference": "Mark 5:15",
+            "textEn": "When they came to Jesus, they saw the man who had been possessed by the legion of demons, sitting there, dressed and in his right mind; and they were afraid.",
+            "textZh": "他们来到耶稣那里，看见那被鬼附着的人，就是从前被群鬼所附的，坐着，穿上衣服，心里明白过来，他们就害怕。",
+            "themeEn": "Restored to right mind",
+            "themeZh": "恢复清醒"
+          },
+          "aiVerseId": "mark_5_15",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-eu-targets-chinese-imports-amid-trade-talks-a-77800366-mac",
+          "section": "china",
+          "source": "DW Asia China Focus",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
+          "link": "https://www.dw.com/en/eu-targets-chinese-imports-amid-trade-talks/a-77800366?maca=en-rss-en-asia-5133-rdf",
+          "image": "https://static.dw.com/image/68356169_6.jpg",
+          "publishedAt": "2026-07-02T14:54:00.000Z",
+          "title": {
+            "en": "EU targets Chinese imports amid trade talks",
+            "zh": "欧盟在中欧贸易谈判中瞄准中国进口商品"
+          },
+          "summary": {
+            "en": "Brussels has ended a customs exemption for low-value imports from China while agreeing with Beijing to monitor trade flows and improve access to rare earth materials.",
+            "zh": "欧盟已终止对来自中国的低价值进口商品的海关豁免，同时与北京达成协议，将监测贸易流量并改善稀土材料的市场准入。"
+          },
+          "body": {
+            "en": "Brussels has ended a customs exemption for low-value imports from China while agreeing with Beijing to monitor trade flows and improve access to rare earth materials.\n\nEvery day, around 16 million small, low-value packages arrive in the EU , 91% of which come from China .\n\nMany of those parcels contain items that European shoppers order from cheap Chinese online shopping platforms such as Temu , Shein &#160;and AliExpress. Until now, parcels valued at less than €150 ($171) were exempt from customs duties.\n\nHowever, the EU this week ended that exemption and imposed a €3 levy on low-value imports in a move to curb what it sees as unfair competition, and to keep products that do not meet the bloc's safety standards out of the European market.\n\n\"Temu and Shein often fail to comply with legal and regulatory requirements, introduce unsafe products into our market that may pose health risks, and are driving many domestic retailers to the brink of ruin,\" said Alexander von Preen, president of the German Retail Association (HDE).\n\nThe customs duty exemption cost public finances at least €400 million annually, according to the association.\n\nIn 2025, Temu overtook Allegro as Poland's most-visited e-commerce platform, according to Mediapanel data. Justyna Szczudlik, a China analyst with the&#160;Polish Institute of International Affairs&#160;(PISM), pointed to data protection risks, intellectual property violations, and the possibility that Chinese platforms may collect large amounts of consumer data from Polish users.\n\nThe new €3 flat-rate charge is a temporary measure that is expected to remain in place until July 1, 2028, while the EU develops a new digital services platform. Once the new system is operational, standard customs duties based on a product's value, origin and classification will apply.\n\nThe EU also plans a handling fee to start in November 2026 to help customs authorities with their surging costs as more and more parcels arrive . The amount has yet to be decided.\n\n\"The status quo is not an option,\" EU Trade Commissioner Maros Sefcovic said after meeting Chinese Commerce Minister Wang Wentao in Brussels.\n\n\"My objective from the outset has been clear: to begin balancing the trade relationship between the European Union and China. The gap is widening. China's exports to the EU keep rising&#160;while our market share in China keeps shrinking. This trend is not sustainable.\"\n\nIn 2025, the EU exported goods worth €199.6 billion to China and imported goods worth €559.4 billion, resulting in a trade deficit of €359.8 billion.\n\nRafael Jimenez Buendia, a senior researcher at the Mercator Institute for China Studies (MERICS), noted that China has been speaking for more than a decade about creating balanced trade relations with Europe. However, the trade...",
+            "zh": "布鲁塞尔终止了对来自中国的低价值进口产品的关税豁免，同时与北京方面达成协议，监控贸易流动并改善稀土材料的获取。 每天约有1600万件小件、低价值包裹抵达欧盟，其中91%来自中国。 其中许多包裹包含欧洲购物者从 Temu、Shein 和 AliExpress 等廉价中国在线购物平台订购的商品。到目前为止，价值低于 150 欧元（171 美元）的包裹可免征关税。 然而，欧盟本周终止了这项豁免，并对低价值进口产品征收 3 欧元的关税，以遏制其认为的不公平竞争，并将不符合欧盟安全标准的产品排除在欧洲市场之外。 德国零售协会 (HDE) 主席亚历山大·冯·普林 (Alexander von Preen) 表示：“Temu 和 Shein 经常不遵守法律和监管要求，将可能造成健康风险的不安全产品引入我们的市场，并将许多国内零售商推向破产的边缘。” 据该协会称，关税豁免每年至少花费 4 亿欧元的公共财政。 根据 Mediapanel 的数据，到 2025 年，Temu 取代 Allegro 成为波兰访问量最大的电子商务平台。波兰国际事务研究所 (PISM) 的中国分析师 Justyna Szczudlik 指出了数据保护风险、知识产权侵权以及中国平台可能从波兰用户收集大量消费者数据的可能性。 新的 3 欧元统一费率收费是一项临时措施，预计将持续到 2028 年 7 月 1 日，同时欧盟将开发新的数字服务平台。新系统投入运行后，将适用基于产品价值、原产地和分类的标准关税。 欧盟还计划从 2026 年 11 月开始征收手续费，以帮助海关当局应对随着越来越多包裹到达而不断上涨的成本。金额尚未确定。 “维持现状不是一种选择，”欧盟贸易委员马罗斯·塞夫科维奇在布鲁塞尔会见中国商务部长王文涛后表示。 “我的目​​标从一开始就很明确：开始平衡欧盟和中国之间的贸易关系。差距正在扩大。中国对欧盟的出口不断增加，而我们在中国的市场份额不断缩小。这种趋势是不可持续的。” 2025年，欧盟向中国出口商品1996亿欧元，进口商品5594亿欧元，贸易逆差3598亿欧元。 墨卡托中国研究所（MERICS）高级研究员拉斐尔·希门尼斯·布恩迪亚（Rafael Jimenez Buendia）指出，十多年来，中国一直在谈论与欧洲建立平衡的贸易关系。然而，贸易..."
+          },
+          "reflection": {
+            "en": "International trade negotiations often highlight the importance of fair and balanced dealings between nations. Yahweh's word reminds us that integrity in commerce, like a just weight, is valued and brings delight. May these discussions lead to equitable agreements that benefit all parties involved.",
+            "zh": "国际贸易谈判常凸显国家间公平与平衡交易的重要性。雅伟的话语提醒我们，商业中的诚信，如同公正的砝码，是受珍视并带来喜悦的。愿这些讨论能促成惠及所有相关方的公平协议。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:1",
+            "textEn": "Yahweh detests dishonest scales, but accurate weights find favor with him.",
+            "textZh": "诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。",
+            "themeEn": "Yahweh hates fraud",
+            "themeZh": "雅伟厌恶诡诈"
+          },
+          "aiVerseId": "prov_11_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-videos-cx2xw52ng5do-at-medium-rss-at-campaign-rss",
+          "section": "china",
+          "source": "BBC News China Focus",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/437e/live/066f07f0-75bb-11f1-b976-0b9c15b0ccfc.jpg",
+          "publishedAt": "2026-07-02T01:54:26.000Z",
+          "title": {
+            "en": "Did this AI anti-drug video make drugs look appealing?",
+            "zh": "这部AI禁毒视频是否反而让毒品看起来很有吸引力？"
+          },
+          "summary": {
+            "en": "Hong Kong’s Correctional Services Department removed an AI-generated K-pop video intended to deter drug use, following public criticism that it inadvertently made illicit substances appear attractive.",
+            "zh": "香港惩教署撤下了一段旨在劝阻吸毒的AI生成韩流视频，此前该视频因被公众批评无意中使非法物质看起来具有吸引力。"
+          },
+          "body": {
+            "en": "An AI-generated anti-drug video from Hong Kong's Correctional Services Department is facing backlash for allegedly making substances look too appealing. The video was released by authorities on 26 June for International Day Against Drug Abuse and Illicit Trafficking. The BBC's Chinese service reporter Martin Yip explains how the controversy unfolded.",
+            "zh": "香港惩教署的一段人工智能生成的禁毒视频因涉嫌使物质看起来太有吸引力而面临强烈反对。该视频由当局于 6 月 26 日国际禁止药物滥用和非法贩运日发布。 BBC 中文台记者 Martin Yip 解释了这场争议是如何展开的。"
+          },
+          "reflection": {
+            "en": "This incident reminds us of the importance of foresight and careful discernment in our communications, especially when addressing sensitive topics. What seems like a straightforward message can carry unintended implications if we fail to anticipate how it might be perceived. Yahweh calls us to prudence, to consider potential dangers before acting, ensuring...",
+            "zh": "这起事件提醒我们，在沟通中，尤其是在处理敏感话题时，预见性和谨慎的辨别力至关重要。如果我们未能预料信息可能被如何解读，一个看似直接的讯息也可能带来意想不到的后果。雅伟呼召我们保持审慎，在行动前考虑潜在的危险，以确保我们的努力真正达到预期的良善目的。"
+          },
+          "verse": {
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
+          },
+          "aiVerseId": "prov_27_12",
+          "translationState": "localized"
+        }
+      ]
+    },
+    "australia": {
+      "id": "australia",
+      "title": {
+        "en": "Australia Desk",
+        "zh": "澳洲栏目"
+      },
+      "strap": {
+        "en": "Public life, policy, and community stories shaping Australia now.",
+        "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
+      },
+      "sourceNotes": [
+        "The Guardian Australia",
+        "SBS News Australia"
+      ],
+      "items": [
+        {
+          "id": "www-theguardian-com-australia-news-2026-jul-05-woman-arrested-after-body",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/05/woman-arrested-after-body-of-four-year-old-boy-found-wyong-central-coast-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/0dd8d500bb82d23f4f62b813daf1d506d5751ec9/335_0_2155_1724/master/2155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=738796b418ffb9cf822345fefe2ce69a",
+          "publishedAt": "2026-07-05T06:40:39.000Z",
+          "title": {
+            "en": "Woman charged with murder after body of four-year-old boy found in Central Coast home",
+            "zh": "四岁男童尸体在中海岸家中被发现，一女子被控谋杀"
+          },
+          "summary": {
+            "en": "Police are investigating the death of a four-year-old boy found with significant injuries in a Central Coast home. A woman has been charged with murder in connection with the case.",
+            "zh": "警方正在调查一名四岁男童的死亡事件，该男童被发现时身上有严重伤势，地点在中海岸的一处住宅内。一名女子已被控谋杀罪。"
+          },
+          "body": {
+            "en": "Police are investigating what happened to a boy who was found with significant arm injuries Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A woman has been charged with murder after police found the body of a preschooler at a home on the New South Wales Central Coast. Police rushed to the home at Wyong after a 32-year-old woman presented to the local police station on Saturday. Continue reading...",
+            "zh": "警方正在调查一名被发现手臂严重受伤的男孩的下落。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 警方在新南威尔士州中央海岸的一处住宅中发现一名学龄前儿童的尸体后，一名妇女被指控犯有谋杀罪。周六，一名 32 岁的妇女被送往当地警察局，警方立即赶往怀昂 (Wyong) 的家中。继续阅读..."
+          },
+          "reflection": {
+            "en": "The tragic news of a child's death brings profound sorrow and highlights the sacred duty to protect the most vulnerable among us. Yahweh's word warns of severe consequences for those who cause harm to children, underscoring the immense value He places on their safety and well-being. May we all be moved to ensure that every child is cherished and kept safe...",
+            "zh": "一名儿童不幸离世的悲剧性新闻带来了深切的悲痛，并凸显了保护我们中最脆弱群体的神圣职责。雅伟的话语警告，那些伤害儿童的人将面临严重的后果，这强调了祂对儿童安全和福祉的无比重视。愿我们都被感动，确保每个孩子都受到珍爱并免受伤害。"
+          },
+          "verse": {
+            "reference": "Matthew 18:6",
+            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
+            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
+            "themeEn": "Woe to those who harm children",
+            "themeZh": "使小子跌倒的祸"
+          },
+          "aiVerseId": "matt_18_6",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jul-05-nsw-labor-to-adopt-toughe",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/05/nsw-labor-to-adopt-tougher-pokies-stance-as-sydney-inner-west-mayor-says-momentum-for-real-reform-unstoppable",
+          "image": "https://i.guim.co.uk/img/media/6f6b9ed84a95172b199c1ab51e5f6758027ef874/516_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd4f5e773802b9e14fe0f33ae2e98480",
+          "publishedAt": "2026-07-05T06:34:52.000Z",
+          "title": {
+            "en": "NSW Labor toughens pokies stance as Sydney inner west mayor points to ‘unstoppable’ momentum for reform",
+            "zh": "新南威尔士州工党对老虎机采取强硬立场，悉尼内西区市长指出改革势头“不可阻挡”"
+          },
+          "summary": {
+            "en": "The New South Wales Labor party has adopted a stronger position on poker machines, with a state conference motion supporting higher taxes on some clubs and a halt on new machine licenses. This move reflects growing momentum for reform in the state.",
+            "zh": "新南威尔士州工党已采取更强硬的立场对待老虎机，州会议通过了一项动议，承诺对部分俱乐部征收更高的税，并暂停发放新机器的牌照。此举反映了该州改革势头日益增强。"
+          },
+          "body": {
+            "en": "State Labor conference passes motion committing to higher taxes on some clubs and moratorium on licenses for new machines Get our breaking news email , free app or daily news podcast The New South Wales premier, Chris Minns, will take a tougher stance on poker machines to the next election after being pushed to adopt the approach by the party’s left. A motion which passed the NSW Labor conference with unanimous support on Sunday afternoon has added a plan to take “decisive action” on problem gambling and the growing use of poker machines to its policy platform, amid surging profits for operators and accusations of inaction on reform. Continue reading...",
+            "zh": "州工党会议通过了一项动议，承诺对一些俱乐部征收更高的税，并暂停新机器的许可。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 新南威尔士州州长克里斯·明斯 (Chris Minns) 在被党内左翼推动采取这一做法后，将在下一次选举中对扑克机采取更强硬的立场。周日下午，新南威尔士州工党会议获得一致支持通过了一项动议，该动议在其政策平台上增加了一项针对问题赌博和扑克机使用增加采取“果断行动”的计划，同时运营商的利润激增，而且有人指责他们在改革方面不采取行动。继续阅读..."
+          },
+          "reflection": {
+            "en": "When governments take action to curb practices that exploit the vulnerable, they fulfill a vital role in society. Yahweh's call to leaders is to do justice and righteousness, protecting those who are easily harmed. This policy shift reflects a commitment to safeguard communities from the potential harms of unchecked gambling.",
+            "zh": "当政府采取行动遏制剥削弱势群体的行为时，他们就履行了社会中的重要职责。雅伟呼召领袖们行公义、好怜悯，保护那些容易受伤害的人。这项政策转变反映了保护社区免受无节制赌博潜在危害的承诺。"
+          },
+          "verse": {
+            "reference": "Jeremiah 22:3",
+            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
+            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
+            "themeEn": "Royal justice mandate",
+            "themeZh": "王者的公义责任"
+          },
+          "aiVerseId": "jer_22_3",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jul-05-mysterious-debris-found-o",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel",
+          "image": "https://i.guim.co.uk/img/media/e6998a28e4d9cc051f1a87ac994645dd7700c9d3/0_262_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceaee92d24564a4aed6ed731f2aa4de9",
+          "publishedAt": "2026-07-05T05:52:24.000Z",
+          "title": {
+            "en": "Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel",
+            "zh": "昆士兰海滩发现的神秘碎片可能是“太空球”，或含剧毒火箭燃料"
+          },
+          "summary": {
+            "en": "Six pieces of mysterious debris, possibly \"space balls\" containing toxic rocket fuel, have washed ashore on north Queensland beaches. The Australian Space Agency is investigating their origin, with a space archaeologist suggesting a connection to a rocket launch.",
+            "zh": "六块神秘碎片，可能是含有有毒火箭燃料的“太空球”，被冲上昆士兰北部海滩。澳大利亚航天局正在调查其来源，一位太空考古学家认为它们可能与火箭发射有关。"
+          },
+          "body": {
+            "en": "Australian Space Agency working to confirm origin of objects as space archaeologist says they may be connected to a rocket launch Get our breaking news email , free app or daily news podcast Six pieces of suspected space debris found washed up on north Queensland beaches could be “space balls” that are often left over from rocket launches, according to one expert. The Australian Space Agency confirmed on Sunday it was working to determine the nature and origin of the mysterious objects, which police said were suspected of containing hazardous chemicals. Continue reading...",
+            "zh": "澳大利亚航天局正在努力确认物体的起源，因为太空考古学家称它们可能与火箭发射有关 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一位专家表示，昆士兰北部海滩上发现的六块疑似太空碎片可能是火箭发射时经常留下的“太空球”。澳大利亚航天局周日证实，正在努力确定这些神秘物体的性质和来源，警方称这些物体疑似含有危险化学物质。继续阅读..."
+          },
+          "reflection": {
+            "en": "The discovery of mysterious debris, potentially containing toxic rocket fuel, reminds us that human innovation often carries unforeseen consequences. Yahweh's wisdom encourages us to foresee danger and take refuge, urging careful stewardship of our planet as we advance technologically. This calls for prudence in all our endeavors, considering the potential...",
+            "zh": "发现神秘碎片，可能含有有毒火箭燃料，提醒我们人类的创新往往带来意想不到的后果。雅伟的智慧鼓励我们预见危险并采取避难措施，敦促我们在技术进步的同时，要谨慎管理我们的地球。这要求我们在所有努力中保持审慎，考虑对受造物和后代可能产生的影响。"
+          },
+          "verse": {
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
+          },
+          "aiVerseId": "prov_27_12",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jul-05-liberal-frontbencher-dan-",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/05/liberal-frontbencher-dan-tehan-says-coalition-with-one-nation-not-even-being-talked-about-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/0661d56a319a030935becaf27598cebec508d440/827_0_2683_2146/master/2683.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eff5891f61b42c1d0a3ac17827e7d2a2",
+          "publishedAt": "2026-07-05T05:07:24.000Z",
+          "title": {
+            "en": "Liberal frontbencher Dan Tehan says coalition with One Nation ‘not even being talked about’",
+            "zh": "自由党前座议员丹·特汉表示，与一国党的联盟“甚至没有被谈论”"
+          },
+          "summary": {
+            "en": "Anthony Albanese mocks ructions on conservative side of politics and says three rightwing parties are caught up in ‘race to the bottom’ Get our breaking news email, free app or daily news podcast Liberal frontbencher Dan Tehan says he does not want to be in a rightwing coalition...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及合一、和好与弥合分歧。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Anthony Albanese mocks ructions on conservative side of politics and says three rightwing parties are caught up in ‘race to the bottom’ Get our breaking news email , free app or daily news podcast Liberal frontbencher Dan Tehan says he does not want to be in a rightwing coalition with One Nation, despite senior colleagues urging closer ties with Pauline Hanson and polls suggesting her rise will make it difficult for the opposition party to ever govern in its own right again. The prime minister, Anthony Albanese, on Sunday mocked the Liberal, National and One Nation parties as an “axis of grievance” on the conservative side of politics, but Tehan said a formal alliance was not being discussed among his colleagues. Continue reading...",
+            "zh": "安东尼·艾博尼斯 (Anthony Albanese) 嘲笑政治保守派的骚乱，并表示三个右翼政党陷入了“逐底竞争”。 自由党前座议员丹·特汉 (Dan Tehan) 表示，他不想与一国党组成右翼联盟，尽管高级同事敦促与宝琳·汉森 (Pauline Hanson) 建立更密切的关系，而且民意调查显示，她的崛起将使反对党很难再次凭借自己的权利执政。周日，总理安东尼·阿尔巴内斯嘲笑自由党、国家党和一国党是政治保守派的“不满轴心”，但特汉表示，他的同事们并未讨论正式结盟的问题。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到合一、和好与弥合分歧。Ephesians 4:3提醒我们，在快速变化的新闻里，仍要以缔造和平与搭建桥梁来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Galatians 3:28",
+            "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
+            "textZh": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
+            "themeEn": "One in Christ",
+            "themeZh": "基督里合一"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-29-h5n1-bird-flu-australia-r",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/29/h5n1-bird-flu-australia-risk-to-pets",
+          "image": "https://i.guim.co.uk/img/media/49c6a48237ef383b780ad0491d8002dcca17417a/867_695_2372_1898/master/2372.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=254a7fc6c1723f2e3704a7ceb26bca82",
+          "publishedAt": "2026-07-05T04:49:15.000Z",
+          "title": {
+            "en": "A deadly strain of bird flu has landed on Australian shores. Does it pose a risk to pets?",
+            "zh": "致命禽流感病毒已登陆澳大利亚，对宠物构成风险吗？"
+          },
+          "summary": {
+            "en": "H5N1禽流感病毒已抵达澳大利亚，对猫狗具有致命风险，但目前病例不常见，且可能被误诊为其他疾病。",
+            "zh": "H5N1禽流感病毒已抵达澳大利亚，对猫狗具有致命风险，但目前病例不常见，且可能被误诊为其他疾病。"
+          },
+          "body": {
+            "en": "The H5N1 virus can be fatal to cats and dogs but cases are infrequent and may be mistaken for other illnesses Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The deadly H5N1 strain of bird flu has arrived on the Australian mainland and, while there’s no evidence yet of mass animal mortality, authorities are on high alert. The virus has killed millions of birds and thousands of marine mammals since it began spreading around the globe in 2021. The risk to humans is low – but should we be worried about our pets? Continue reading...",
+            "zh": "H5N1 病毒可能对猫和狗致命，但病例很少见，可能会被误认为是其他疾病 关注我们的澳大利亚新闻直播博客以获取最新更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 致命的 H5N1 禽流感病毒已抵达澳大利亚大陆，虽然尚无证据表明动物大规模死亡，但当局仍处于高度戒备状态。自 2021 年开始在全球传播以来，该病毒已导致数百万鸟类和数千种海洋哺乳动物死亡。该病毒对人类的风险很低，但我们应该担心我们的宠物吗？继续阅读..."
+          },
+          "reflection": {
+            "en": "The arrival of a new virus strain reminds us of the intricate and sometimes challenging aspects of the natural world. As we observe the patterns of life and disease, we are called to seek wisdom and understanding from creation itself. Yahweh's hand is evident in all things, prompting us to learn and respond with care.",
+            "zh": "新病毒株的到来提醒我们自然界错综复杂且有时充满挑战。当我们观察生命和疾病的模式时，我们被呼召从受造物本身寻求智慧和理解。雅伟的作为在万物中显而易见，促使我们以谨慎的态度学习和回应。"
+          },
+          "verse": {
+            "reference": "Job 12:7-9",
+            "textEn": "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you.",
+            "textZh": "你且问走兽，走兽必指教你；又问空中的飞鸟，飞鸟必告诉你。或与地说话，地必指教你；海中的鱼也必向你说明。",
+            "themeEn": "Wisdom from creation",
+            "themeZh": "受造之物的教导"
+          },
+          "aiVerseId": "job_12_7",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-environment-2026-jul-02-what-does-the-arrival-of-bir",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/environment/2026/jul/02/what-does-the-arrival-of-bird-flu-in-australia-mean-for-poultry-and-will-eggs-be-more-expensive",
+          "image": "https://i.guim.co.uk/img/media/a2f35406dac6d4d3723768f59946fd760217a7d3/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1dcb897cccb4da09a60ef5b0af73f0e5",
+          "publishedAt": "2026-07-05T04:45:36.000Z",
+          "title": {
+            "en": "What does the arrival of bird flu in Australia mean for poultry and will eggs be more expensive?",
+            "zh": "禽流感抵达澳大利亚对家禽意味着什么？鸡蛋会更贵吗？"
+          },
+          "summary": {
+            "en": "An H5 bird flu outbreak in Australia could lead to the closure of poultry farms for several months, requiring producers to replace their stock and grow new chickens. This situation is expected to cause disruptions in the poultry industry and potentially increase egg prices.",
+            "zh": "澳大利亚禽流感H5疫情的爆发，可能导致家禽养殖场关闭数月，养殖户需要重新采购鸡只并饲养至成熟。这种情况预计将对家禽业造成干扰，并可能导致鸡蛋价格上涨。"
+          },
+          "body": {
+            "en": "In the event of an H5 outbreak, farms would have to close for several months, with producers having to source new chickens and grow them to size Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An outbreak of the highly virulent bird flu strain H5N1 in commercial poultry flocks could push egg prices over $10 a carton, business groups have warned. So far, there is no evidence that H5N1 bird flu has spread to poultry in Australia, after the first confirmed cases in wild birds across three states. Continue reading...",
+            "zh": "如果发生 H5 疫情，农场将不得不关闭几个月，生产者必须采购新鸡并将其饲养到一定尺寸。 商业团体警告称，商业家禽群中爆发高毒力禽流感 H5N1 病毒株可能会使每箱鸡蛋价格超过 10 美元。继三个州出现首例野生鸟类确诊病例后，迄今为止，尚无证据表明 H5N1 禽流感已传播至澳大利亚家禽。继续阅读..."
+          },
+          "reflection": {
+            "en": "The potential bird flu outbreak highlights the fragility of our food systems and the economic challenges faced by producers and consumers. In times when our usual provisions are threatened, the prophet Habakkuk reminds us that our deepest joy can remain rooted in Yahweh, even amidst scarcity. This perspective offers a steadfast hope beyond immediate...",
+            "zh": "禽流感爆发的潜在影响，凸显了我们食物系统的脆弱性以及生产者和消费者可能面临的经济挑战。在日常供应受到威胁时，先知哈巴谷提醒我们，即使在匮乏之中，我们最深的喜乐仍能扎根于雅伟。这种视角在即时环境之外提供了坚定的盼望。"
+          },
+          "verse": {
+            "reference": "Habakkuk 3:17-18",
+            "textEn": "Though the fig tree does not bud and there are no grapes on the vines... yet I will rejoice in Yahweh.",
+            "textZh": "虽然无花果树不发旺，葡萄树不结果……然而，我要因雅伟欢欣。",
+            "themeEn": "Joy in scarcity",
+            "themeZh": "在缺乏中喜乐"
+          },
+          "aiVerseId": "hab_3_17",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-football-australia-popovic-criticism-st597j3",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/football-australia-popovic-criticism/st597j3h8",
+          "image": "https://assets.sbs.com.au/dims4/default/ab50b19/2147483647/strip/false/crop/2995x1376+0+310/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F8a%2F8f%2Fa93eeb9e483396657bf618dc313a%2F20260704145712001919-original.jpg",
+          "publishedAt": "2026-07-05T03:55:22.000Z",
+          "title": {
+            "en": "Football Australia backs 'brave' Popovic amid criticism of Egypt calls",
+            "zh": "澳大利亚足球队在埃及呼吁批评之际支持“勇敢”的波波维奇"
+          },
+          "summary": {
+            "en": "Football Australia's senior leadership defended Popovic, calling his World Cup run an \"enormous success\".",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Football Australia (FA) leadership say Socceroos coach Tony Popovic \"absolutely has our confidence\", as criticism mounts over strategy in the wake of the national team's World Cup exit.\n\n\"Tony Popovic is a brave coach,\" FA's executive director of football Heather Garriock told the media on Sunday.\n\nPopovic has come under scrutiny for his decision to substitute in-form goalkeeper Patrick Beach for skipper Maty Ryan &#x2014; who hadn't played a minute all tournament &#x2014; for the penalty shootout.\n\nRyan failed to save a single penalty during the tense shootout, which Australia lost 4-2 after scores were locked at 1-1 after regular and extra time. In addition, defenders Harry Souttar and Lucas Herrington were called upon as penalty takers &#x2014; both ending up missing the net.\n\nFA chief executive Martin Kugeler and Garriock told reporters they had no qualms with the goalkeeper switch, nor the calls to have two defenders as penalty takers.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"Every fan will think about what can be done better, but the coaching staff and Tony Popovic are always in the best place to judge in that moment what is needed for the team,\" Kugeler said.\n\n\"In hindsight, everyone always knows better, but you have to make those calls in the moment based on what you've seen in training, what is your impression in talking to the players.\n\nGoalkeeper Patrick Beach, whose lightning-fast deflection in extra time could be a firm contender for \"save of the tournament\", was substituted in the 119th minute as the team prepared for a looming penalty shootout.\n\n\"I didn't know [about the substitution], I found out at the same time you guys did. I just saw, obviously, my name came up, and just jogged off,\" he told SBS .\n\nThe move was criticised by former Socceroos goalkeeper Mark Schwarzer, who said a new goalkeeper \"can't just go in there\".\n\n\"Bringing players on to take a penalty, I get that, but I don't get the goalkeeper thing. As a goalkeeper, you can't just go in there,\" he told ABC News.\n\nBeach later said he supported Popovic's decision, as did Garriock, who said the decision would have been \"thought out\".\n\n\"I wasn&#x2019;t surprised when he substituted Beach for Ryan ... It was more the experience side of things that he focused on,\" Garriock said.\n\n\"So that would have been thought out, and I have full belief in what Tony decides.\"\n\nFormer Scotland midfielder Scott Brown was among those criticising the decision to have two defenders in the penalty lineup.\n\n\"[Mo] Toure has been on fire for Norwich this season, scoring nine goals,\" he told the BBC.\n\nDefenders Souttar and 18-year-old Herrington failed to convert their penalties , with Souttar sending...",
+            "zh": "澳大利亚足协（FA）领导层表示，澳大利亚队主教练托尼·波波维奇“我们绝对有信心”，因为在国家队退出世界杯后，对战略的批评越来越多。 “托尼·波波维奇是一位勇敢的教练，”英足总足球执行董事希瑟·加里克周日告诉媒体。 波波维奇因在点球大战中用状态良好的门将帕特里克·比奇替换队长马蒂·瑞安而受到密切关注，后者整场比赛都没有打过一分钟。 在紧张的点球大战中，瑞安未能扑出一个点球，常规时间和加时赛双方比分锁定为1-1，澳大利亚队以2-4落败。此外，后卫哈里·苏塔尔和卢卡斯·赫林顿也被罚去罚点球，但最终两人都未能进球。 英足总首席执行官马丁·库格勒和加里克告诉记者，他们对守门员的换防没有任何疑虑，也没有要求让两名后卫担任点球手。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “每个球迷都会思考哪些方面可以做得更好，但教练组和托尼·波波维奇总是处于最佳位置，能够在那一刻判断球队需要什么，”库格勒说。 “事后看来，每个人总是更清楚，但你必须根据你在训练中看到的情况以及你与球员交谈时的印象来做出这些决定。 门将帕特里克·比奇在加时赛中闪电般的速度偏转可能是“拯救比赛”的有力竞争者，但他在第 119 分钟被换下，球队正在为迫在眉睫的点球大战做准备。 “我不知道（关于替换），我是和你们同时知道的。显然，我只是看到我的名字出现了，然后就慢跑了，”他告诉 SBS。 此举遭到前澳大利亚队门将马克·施瓦泽的批评，他表示新门将“不能就这样进去”。 “让球员上场罚点球，我明白这一点，但我不明白守门员的事情。作为一名守门员，你不能只是进去，”他告诉美国广播公司新闻。 比奇后来说他支持波波维奇的决定，加里克也表示支持，他说这个决定是经过“深思熟虑”的。 “当他用比奇代替瑞恩时，我并不感到惊讶......他更关注的是体验方面的事情，”加里克说。 “所以这是经过深思熟虑的，我完全相信托尼的决定。” 前苏格兰中场球员斯科特·布朗是批评在点球阵容中安排两名后卫的决定的人之一。 “[莫]图雷本赛季在诺维奇表现出色，打进了九个进球，”他告诉英国广播公司。 后卫苏塔尔和 18 岁的赫林顿未能罚进点球，苏塔尔送出..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-world-cup-woes-how-to-help-a-child-deal-with",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/world-cup-woes-how-to-help-a-child-deal-with-distress-about-the-socceroos-exit/vmo6ewdp1",
+          "image": "https://assets.sbs.com.au/dims4/default/10d6460/2147483647/strip/false/crop/4500x2068+0+135/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff3%2F12%2F8b66f0c84cb6944b517648e39263%2Fgettyimages-2284530409.jpg",
+          "publishedAt": "2026-07-04T20:42:45.000Z",
+          "title": {
+            "en": "World Cup woes: How to help a child deal with distress about the Socceroos' exit",
+            "zh": "世界杯失利之痛：如何帮助孩子应对澳足队出局的沮丧情绪"
+          },
+          "summary": {
+            "en": "Parents often find it difficult to see their children upset, but a recent news report suggests that moments of distress, such as disappointment over a favorite sports team's exit from the World Cup, can be valuable opportunities. These situations allow parents to help their children develop stronger emotional...",
+            "zh": "父母通常不愿看到孩子不开心，但一份最新报道指出，孩子感到沮丧的时刻，例如因喜爱的球队在世界杯中出局而感到失望，可以成为宝贵的机会。这些情境能让父母帮助孩子培养更强的情绪调节能力。"
+          },
+          "body": {
+            "en": "Over the last three weeks, they have watched the Socceroos with family and friends, talked about the games at school, worn green and gold, and held high hopes for Australian victory.\n\nNow the Socceroos' campaign has ended , some children will be very disappointed. It's not just about the score, but also the end of the excitement, shared family rituals, conversations with friends, and hope Australia might do something special.\n\nSome children may also feel sad seeing their favourite players disappointed and upset.\n\nThese reactions are normal and OK. They show just how much kids cared about the tournament.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nNo parent likes seeing their child upset. But moments like these can also be opportunities to help children strengthen their emotional regulation skills.\n\nResearch in developmental psychology shows children learn to understand and manage difficult emotions through supportive interactions with trusted adults.\n\nWhen children are upset, our first instinct is often to make them feel better. Comments such as, \"It's only soccer,\" or, \"Don't worry about it,\" are usually well-intentioned, but can dismiss how a child is feeling.\n\nOne evidence-based approach is called emotion coaching. Rather than trying to make the emotion disappear, the goal is to help children recognise, understand and gradually learn to manage it.\n\nStart by acknowledging how they feel. You might say, \"I know you were really hoping Australia would win. I'm disappointed too.\" or, \"It's OK to feel upset. You were really excited about the tournament.\"\n\nOnce children feel heard, help them make sense of what they're feeling. You might ask, \"What do you think has made you the most upset?\"\n\nIt might be that Australia lost, or it could be that there are no more matches to look forward to.\n\nOnce children have had a chance to talk about how they feel, it can help to reflect on the whole tournament.\n\nYou might ask about their favourite moment, which goal they'll remember most, or which player they enjoyed watching the most.\n\nThese conversations remind children that, while the result was disappointing, it doesn't erase all the excitement and enjoyment that came before it.\n\nParents can also help children look beyond the result. You might say, \"It wasn't the ending we were hoping for, but wasn't it exciting watching the Socceroos get this far?\" or, \"We'll always remember that amazing goal,\" or, \"I loved watching the games with you.\"\n\nThe goal isn't to make the disappointment disappear. It's to help children recognise the disappointment is only one part of a much bigger experience.\n\nHow parents and adults respond to disappointment can shape how children learn to respond...",
+            "zh": "在过去的三周里，他们与家人和朋友一起观看了澳大利亚队的比赛，在学校谈论了比赛，穿着绿色和金色的衣服，并对澳大利亚队的胜利寄予厚望。 现在澳大利亚队的竞选已经结束了，一些孩子会非常失望。这不仅仅是分数，还包括兴奋的结束、分享的家庭仪式、与朋友的交谈，以及希望澳大利亚能做一些特别的事情。 有些孩子看到他们最喜欢的球员失望和不安也会感到难过。 这些反应都是正常的，没有问题。他们展示了孩子们对比赛的关心程度。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 没有哪个父母喜欢看到自己的孩子难过。但这样的时刻也可以成为帮助孩子增强情绪调节技能的机会。 发展心理学研究表明，孩子们通过与值得信赖的成年人的支持性互动来学会理解和管理困难的情绪。 当孩子感到不安时，我们的第一本能往往是让他们感觉好一点。诸如“这只是足球”或“别担心”之类的评论通常是善意的，但可能会忽视孩子的感受。 一种基于证据的方法称为情绪辅导。我们的目标不是试图让情绪消失，而是帮助孩子认识、理解并逐渐学会管理它。 首先承认他们的感受。你可能会说，“我知道你真的希望澳大利亚获胜。我也很失望。”或者，“感到沮丧是正常的。你对比赛感到非常兴奋。” 一旦孩子们感到自己被倾听，就帮助他们理解自己的感受。你可能会问：“你认为什么事情让你最难过？” 可能是澳大利亚输了，也可能是没有更多的比赛可以期待了。 一旦孩子们有机会谈论他们的感受，就可以帮助他们反思整个比赛。 您可能会问他们最喜欢的时刻，他们最记得哪个进球，或者他们最喜欢观看哪位球员的比赛。 这些对话提醒孩子们，虽然结果令人失望，但它并没有抹去之前的所有兴奋和享受。 父母还可以帮助孩子超越结果。你可能会说，“这不是我们所希望的结局，但是看到澳大利亚队走到这一步不是很令人兴奋吗？”或者，“我们会永远记住那个令人惊叹的进球”，或者，“我喜欢和你一起看比赛。” 我们的目标不是让失望消失。这是为了帮助孩子们认识到失望只是更大经历的一部分。 父母和成人如何应对失望可以影响孩子如何学习应对......"
+          },
+          "reflection": {
+            "en": "While the disappointment of a sports loss can feel significant, it offers a chance to cultivate resilience. Yahweh's word reminds us that even in moments of distress, enduring through them can build character and foster hope. Guiding children through these feelings helps them learn that setbacks, though painful, can ultimately strengthen them.",
+            "zh": "尽管体育赛事失利带来的失望可能令人沮丧，但这却是一个培养韧性的机会。雅伟的话语提醒我们，即使在痛苦的时刻，忍耐也能塑造品格并带来盼望。引导孩子经历这些感受，能帮助他们明白，挫折虽然痛苦，但最终能使他们变得更坚强。"
+          },
+          "verse": {
+            "reference": "Romans 5:3-4",
+            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
+            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
+            "themeEn": "Suffering produces hope",
+            "themeZh": "患难中的盼望"
+          },
+          "aiVerseId": "rom_5_3",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-the-surprising-factor-shaping-young-australi",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/the-surprising-factor-shaping-young-australians-family-plans/b42rygeir",
+          "image": "https://assets.sbs.com.au/dims4/default/8b6c478/2147483647/strip/false/crop/5349x2458+0+556/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F02%2F13%2Fa82dca77440cbd2afa3111fb064f%2Fgettyimages-1248929156.jpg",
+          "publishedAt": "2026-07-04T20:41:23.000Z",
+          "title": {
+            "en": "The surprising factor shaping young Australians' family plans",
+            "zh": "影响澳大利亚年轻人家庭计划的令人惊讶的因素"
+          },
+          "summary": {
+            "en": "New research finds most young Australians still want children, but a lack of trust in society is emerging as a surprising influence.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "New data suggests that confidence in society may be just as important as financial security when planning a family. The data found nearly 79 per cent of young Australians who trust Australia's institutions hope to have children one day, compared with 59 per cent who don't.\n\nThe research comes as Australia continues to grapple with record-low fertility rates, which fell to 1.48 babies per woman in 2024, the lowest since records began and well below the replacement rate of 2.1.\n\nRising living costs, housing affordability and childcare expenses are being widely blamed for Australians delaying or having fewer children.\n\nBut researchers from the Australian Institute of Family Studies (AIFS) say the conversation has been missing another important piece of the puzzle: whether young Australians believe the institutions around them will help support them in parenthood.\n\nDrawing on longitudinal data which they've been tracking since 2004, researchers found around 7 in 10 Australians aged 19 to 20 and 23 to 24 still hope to become parents.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nJust 17 per cent said they did not want children , while 13 per cent had not yet considered it.\n\nDr Kristen Power, lead author of the report, which analyses data from the AIFS' Longitudinal Study of Australian Children, told SBS News that the findings indicate family planning is shaped by a much broader sense of security than simply what's in someone's bank account.\n\n\"I think what we'd like people to take away is that a lot of the narrative around people's decisions about having children looks at financial security, but what we found is that security is a whole range of factors beyond just people's immediate financial situation,\" she said.\n\nThe study has tracked thousands of Australian children and their families since 2004, with researchers analysing responses from participants aged 19 to 20 and 23 to 24.\n\nPower said this method of data collection provided a \"life course perspective\" with researchers able to account for childhood experiences, including family structure and the number of siblings participants grew up with.\n\nThe strongest relationship uncovered by the research was trust in systems and institutions, which Power believes is a reflection of what researchers describe as the \"modern village\".\n\n\"These days people don't necessarily have their extended family around them helping to raise children, so they're relying more on this modern village, which includes hospitals, childcare services, schools and the welfare system.\n\n\"People who trusted those supports would be there when they needed them were more likely to say they wanted children.\"\n\nUniversity of Melbourne professor Dan...",
+            "zh": "新数据表明，在计划家庭时，对社会的信心可能与经济保障同样重要。数据发现，近 79% 信任澳大利亚机构的澳大利亚年轻人希望有一天能生孩子，而不相信的比例为 59%。 这项研究发布之际，澳大利亚仍在努力应对创纪录的低生育率，到 2024 年，生育率将降至每名妇女 1.48 个孩子，这是有记录以来的最低水平，远低于 2.1 的更替率。 生活成本、住房负担能力和儿童保育费用的上升被广泛归咎于澳大利亚人推迟或减少生育。 但澳大利亚家庭研究所（AIFS）的研究人员表示，这场对话忽略了另一个重要的难题：年轻的澳大利亚人是否相信他们周围的机构会帮助他们为人父母。 研究人员利用自 2004 年以来追踪的纵向数据发现，19 至 20 岁和 23 至 24 岁的澳大利亚人中，大约十分之七的人仍然希望成为父母。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 只有 17% 的人表示他们不想要孩子，而 13% 的人尚未考虑过。 该报告的主要作者 Kristen Power 博士分析了 AIFS 澳大利亚儿童纵向研究的数据，她告诉 SBS 新闻，研究结果表明，计划生育是由更广泛的安全感决定的，而不仅仅是某人银行账户里的钱。 她说：“我认为我们希望人们了解的是，关于人们关于生孩子的决定的很多说法都着眼于财务安全，但我们发现，安全是一系列因素，而不仅仅是人们当前的财务状况。” 自 2004 年以来，这项研究已经追踪了数千名澳大利亚儿童及其家庭，研究人员分析了 19 至 20 岁和 23 至 24 岁参与者的反应。 鲍尔表示，这种数据收集方法提供了“生命历程视角”，研究人员能够解释童年经历，包括家庭结构和参与者成长过程中的兄弟姐妹数量。 研究发现，最牢固的关系是对系统和机构的信任，鲍尔认为这反映了研究人员所描述的“现代村庄”。 “如今，人们不一定有大家庭在身边帮助抚养孩子，所以他们更多地依赖这个现代化的村庄，其中包括医院、托儿服务、学校和福利系统。 “那些相信这些支持会在需要时出现的人更有可能说他们想要孩子。” 墨尔本大学教授丹..."
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-what-is-an-indigenous-protected-area-bpr7xj1",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/what-is-an-indigenous-protected-area/bpr7xj16a",
+          "image": "https://assets.sbs.com.au/dims4/default/fea744a/2147483647/strip/false/crop/940x432+0+178/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fd9%2Fc6%2F312394604b8fb4bd9f21a5ad65b1%2Fdenis-web-seo-images-3.png",
+          "publishedAt": "2026-07-04T20:41:13.000Z",
+          "title": {
+            "en": "Denis watched his ancestral lands be ravaged as a kid. It sparked a major change",
+            "zh": "丹尼斯小时候目睹了他祖先的土地被蹂躏。它引发了重大变化"
+          },
+          "summary": {
+            "en": "Indigenous Protected Areas are a homegrown but relatively unheard-of conservation model, making waves in Australia and around the world.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Denis Rose grew up fishing for kooyang (eel) in the dams, weirs and rivers of Budj Bim, home to one of the world's oldest aquaculture systems.&#xA0;\n\nIt was the 1970s when Gunditjmara Traditional Owners, like Rose, were only allowed to manage a small parcel of the World Heritage-listed site in south-west Victoria &#x2013; a cemetery spanning two hectares.\n\nAs a boy, he recalls admiring the intricate fish traps of generations past, but he had no say in how his ancestral home was cared for.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nHe decided to do something about it. At 27, Rose became one of the first Indigenous Rangers hired by National Parks in Australia. In the mid-1990s, he began advocating for a new conservation model that would flip the script: a completely novel concept known as the Indigenous Protected Area (IPA) program.\n\nThe program created a blueprint to conserve land and ocean, drawing on traditional knowledge systems and approaches to caring for Country, led by Traditional Owners.\n\n\"We had sceptical landowners who were worried about a land grab. We had government agencies who reckoned that no one else could manage land.\"\n\nAlmost three decades later, a jigsaw of more than 90 IPAs covers 115 million hectares of Australian land and sea &#x2013; an area the size of Colombia. From tropical rainforests and arid deserts to coral reefs and salt marshes, these protected areas span the country's most iconic ecosystems.\n\nIPAs are a refuge for hundreds of threatened species, including turtles, koalas and birds, in every jurisdiction from the Top End down to Tasmania. Many are run by Indigenous Rangers who practice two-way conservation, where cultural wisdom meets modern science.\n\nThe program's reach now extends far beyond Australia. First Nations communities around the world, including those in Canada and parts of Central America, have looked to Australia's IPA model as inspiration for how conservation and Indigenous self-determination can work together.\n\nBefore the first IPAs were established in the late 1990s, the management of protected areas was mostly restricted to government-run national parks and marine reserves.\n\nBut many of these models did not work for Traditional Owners, who had sustainably managed these ecosystems for tens of thousands of years.\n\n\"These were very fraught relationships, because it was like a forced partnership, where the government says, 'you can come and join us, but remember, it's our table',\" says Dermot Smyth, a non-Indigenous environmental consultant who helped establish the IPA network.\n\nFirst Nations peoples around the world have a rich history of protecting the world's biodiversity.\n\nA recent study published in the...",
+            "zh": "丹尼斯·罗斯 (Denis Rose) 从小就在布吉比姆 (Budj Bim) 的水坝、堰和河流中捕捞鳗鱼，这里是世界上最古老的水产养殖系统之一。 20 世纪 70 年代，像 Rose 这样的 Gunditjmara 传统业主只被允许管理维多利亚州西南部列入世界遗产名录的一小块土地——一个占地两公顷的墓地。 当他还是个孩子的时候，他回忆起自己对过去几代人错综复杂的鱼笼的欣赏，但对于如何照顾他的祖屋，他却没有发言权。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 他决定为此做点什么。 27 岁时，罗斯成为澳大利亚国家公园雇用的第一批原住民护林员之一。 20 世纪 90 年代中期，他开始倡导一种颠覆传统的新保护模式：一个全新的概念，称为土著保护区 (IPA) 计划。 该计划利用传统知识体系和由传统所有者领导的关心国家的方法，制定了保护土地和海洋的蓝图。 “我们有持怀疑态度的土地所有者，他们担心土地被掠夺。我们有政府机构，他们认为没有其他人可以管理土地。” 近三十年后，超过 90 个 IPA 组成的拼图覆盖了 1.15 亿公顷的澳大利亚陆地和海洋——相当于哥伦比亚的面积。从热带雨林和干旱沙漠到珊瑚礁和盐沼，这些保护区跨越了该国最具标志性的生态系统。 从北端地区到塔斯马尼亚州，IPA 是数百种受威胁物种的避难所，其中包括海龟、考拉和鸟类。许多都由土著护林员管理，他们实行双向保护，将文化智慧与现代科学结合起来。 该计划的影响范围现已远远超出了澳大利亚。世界各地的原住民社区，包括加拿大和中美洲部分地区的原住民社区，都将澳大利亚的 IPA 模式视为保护和土著自决如何协同工作的灵感来源。 在 20 世纪 90 年代末第一个 IPA 建立之前，保护区的管理主要限于政府运营的国家公园和海洋保护区。 但其中许多模式并不适合传统所有者，他们已经可持续地管理了这些生态系统数万年。 “这些关系非常令人担忧，因为这就像一种被迫的伙伴关系，政府说，‘你可以来加入我们，但请记住，这是我们的桌子’，”帮助建立 IPA 网络的非原住民环境顾问德莫特·史密斯 (Dermot Smyth) 说。 世界各地的原住民有着保护世界生物多样性的丰富历史。 最近发表在《..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-commentisfree-2026-jul-05-australia-r",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/05/australia-rise-of-populism-around-the-world-learnings-pauline-hanson-one-nation-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/b84c82b32eb350997f2f4a07bbfb3f37ddb8e343/357_0_2945_2357/master/2945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a8465a7f3d413948edb46e5b550853e5",
+          "publishedAt": "2026-07-04T20:00:08.000Z",
+          "title": {
+            "en": "What Australia can learn from the rise of populists around the world to avoid following Hanson down her rabbit hole | Julianne Schultz",
+            "zh": "澳大利亚可以从世界各地民粹主义者的崛起中学到什么，以避免追随汉森的脚步|朱丽安·舒尔茨"
+          },
+          "summary": {
+            "en": "A quarter of the world’s democracies are now led by authoritarian regimes and almost none have media systems that are able to hold power to account Get our breaking news email, free app or daily news podcast We must face it. The political system has changed. Playing catch-up...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A quarter of the world’s democracies are now led by authoritarian regimes and almost none have media systems that are able to hold power to account Get our breaking news email , free app or daily news podcast We must face it. The political system has changed. Playing catch-up won’t bring back the old order. At its heart is an epochal transformation in the means of communication. In its wake this has remade the skill set required for political success. Continue reading...",
+            "zh": "世界上四分之一的民主国家现在由独裁政权领导，几乎没有一个拥有能够掌握权力的媒体系统。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客，我们必须面对它。政治制度已经改变。追赶不会恢复旧秩序。其核心是通信方式的划时代变革。随之而来的是，这重塑了政治成功所需的技能。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-fifa-world-cup-2026-bright-future-for-the-so",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/fifa-world-cup-2026-bright-future-for-the-socceroos/4a8xkfhkt",
+          "image": "https://assets.sbs.com.au/dims4/default/d0c3e6e/2147483647/strip/false/crop/6000x2757+0+622/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc3%2F6f%2F9f765f5a48f0882258dfc011efe8%2Fgettyimages-2283921051.jpg",
+          "publishedAt": "2026-07-04T01:06:28.000Z",
+          "title": {
+            "en": "'Set the bar': Why the Socceroos' next World Cup campaign could go one better",
+            "zh": "“设定标杆”：为什么澳大利亚男足的下一届世界杯征程会更进一步"
+          },
+          "summary": {
+            "en": "The Socceroos fell short against Egypt, but their emerging stars suggest the best is still to come.",
+            "zh": "澳大利亚男足在对阵埃及的比赛中未能获胜，但他们崭露头角的球星预示着未来会更好。"
+          },
+          "body": {
+            "en": "The dream may be over, but the Socceroos have once again captured the hearts of Australians.\n\nThousands braved the winter chill to pack live sites and pubs across the country for the pre-dawn World Cup Round of 32 clash against Egypt.\n\nMillions more watched from home, sharing in the players' heartbreak after they were beaten in a penalty shootout .\n\nIt brought to an end a historic campaign that saw the Socceroos finish second in their group and reach the knockout stage of a World Cup for just the third time and contest their first-ever penalty shootout in the tournament .\n\nWhile the ending was cruel, the Socceroos and Australian football can take plenty of encouragement in what lies ahead.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe 26-man squad had an average age of 26.8 &#x2014; the second-youngest Australia has taken to a World Cup.\n\nSome of the team's standout performers were also among its youngest, including Nestory Irankunda, 20, Jordy Bos, 23, Patrick Beach, 22, Paul Okon-Engstler, 21, Cristian Volpato, 22, Alessandro Circati, 22, and Lucas Herrington, 18.\n\nThose players are expected to attract growing interest from top European clubs in the years ahead &#x2014; Barcelona lodged a bid for Herrington on the eve of the tournament &#x2014; and they will only continue to improve with age and experience.\n\nBy the time the 2030 World Cup rolls around, many will be entering their physical and tactical prime. They will play key roles for the national team, with several World Cups potentially still ahead of them.\n\nThe diversity of the 26-man squad &#x2014; comprising at least 15 cultural and ethnic backgrounds &#x2014; also became a focal point of the team's World Cup campaign, with the players releasing a video celebrating their migrant roots on the eve of the tournament.\n\nMigrant advocates said the team's diversity offered an important counterpoint to anti-migrant sentiment and political attacks on multiculturalism.\n\nSpeaking after the loss, veteran Socceroo Aziz Behich said the side had \"set the bar\" for the future.\n\n\"No one else has set the bar for us. That's us as a squad and as players and staff.\n\n\"We've done that from the way we've worked and the way we've played to get ourselves in this position.\n\n\"So I think that's got to be the standard from now on, getting out of the group and hopefully next World Cup we'll be knocking on the door and getting out the knockout stages.\"\n\n\"I think we have the most exciting young squad that we've had in a number of years, since I can remember,\" he told SBS News.\n\n\"Maybe the Golden Generation players [from the 2006 World Cup] playing at very good clubs across the world, but also at the very start of their...",
+            "zh": "梦想可能结束了，但澳大利亚队再次俘获了澳大利亚人的心。 成千上万的人冒着冬日的寒冷，涌入全国各地的现场和酒吧，观看黎明前世界杯 32 强对阵埃及的比赛。 还有数百万人在家观看比赛，分享球员们在点球大战中被击败后的心碎。 它结束了一场历史性的战役，澳大利亚队在小组中获得第二名，第三次进入世界杯淘汰赛阶段，并在世界杯上首次进行点球大战。 虽然结局是残酷的，但澳大利亚足协和澳大利亚足球队在未来的日子里仍会受到很大的鼓舞。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这支 26 人阵容的平均年龄为 26.8 岁，是参加世界杯的第二年轻的澳大利亚队。 该队的一些表现出色的球员也是最年轻的球员，包括 20 岁的 Nestory Irankunda、23 岁的 Jordy Bos、22 岁的 Patrick Beach、21 岁的 Paul Okon-Engstler、22 岁的 Cristian Volpato、22 岁的 Alessandro Circati 和 18 岁的 Lucas Herrington。 预计这些球员在未来几年将吸引欧洲顶级俱乐部越来越多的兴趣——巴塞罗那在比赛前夕对赫林顿提出了报价——而且他们只会随着年龄和经验的增长而不断进步。 到 2030 年世界杯来临之际，许多人将进入身体和战术的巅峰期。他们将在国家队中发挥关键作用，他们还可能参加几届世界杯。 这支 26 人阵容的多元化——至少包含 15 种文化和种族背景——也成为了球队世界杯征程的焦点，球员们在比赛前夕发布了一段视频，庆祝他们的移民根源。 移民倡导者表示，该团队的多样性为反移民情绪和对多元文化主义的政治攻击提供了重要的对照。 失利后，老将Socceroo Aziz Behich表示球队已经为未来“设定了标准”。 “没有其他人为我们设定了标准。那就是我们作为一支球队、作为球员和工作人员。 “我们通过我们的工作方式和比赛方式做到了这一点，让自己达到了这个位置。 “所以我认为从现在开始，这必须成为标准，从小组出线，希望下届世界杯我们能够敲开淘汰赛的大门。” “我认为我们拥有自我记事以来多年来最令人兴奋的年轻阵容，”他告诉SBS新闻。 “也许（2006年世界杯的）黄金一代球员在世界各地非常好的俱乐部踢球，但也在他们的职业生涯的开始……"
+          },
+          "reflection": {
+            "en": "The Socceroos' journey, marked by both setbacks and emerging talent, reminds us of the disciplined effort required to pursue any significant goal. Just as athletes run to win a prize, we are called to strive with purpose, knowing that dedication today can lead to greater achievements tomorrow. Yahweh encourages us to run our races with such intent, always...",
+            "zh": "澳大利亚男足的征程，既有挫折也有新星涌现，这提醒我们，追求任何重要目标都需要有纪律的努力。正如运动员奔跑是为了赢得奖品，我们也蒙召要带着目标去奋斗，深知今天的奉献能带来明日更大的成就。雅伟鼓励我们带着这样的决心去跑我们的赛程，永远期待着尚未实现的成就。"
+          },
+          "verse": {
+            "reference": "1 Corinthians 9:24",
+            "textEn": "Do you not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize.",
+            "textZh": "岂不知在场上赛跑的都跑，但得奖赏的只有一人？你们也当这样跑，好叫你们得着奖赏。",
+            "themeEn": "Run for the prize",
+            "themeZh": "为奖赏而跑"
+          },
+          "aiVerseId": "1cor_9_24",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-dont-panic-vigilance-urged-as-bird-flu-sprea",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/dont-panic-vigilance-urged-as-bird-flu-spread-grows/hnxzhwo8r",
+          "image": "https://assets.sbs.com.au/dims4/default/5fc2001/2147483647/strip/false/crop/5138x2361+0+97/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fde%2F9c%2Fafb0583a4103802e710c042475a9%2Fgettyimages-165946410.jpg",
+          "publishedAt": "2026-07-03T22:24:41.000Z",
+          "title": {
+            "en": "Free-range chicken owners advised to keep hens inside as bird flu threat spreads",
+            "zh": "随着禽流感威胁蔓延，散养鸡主人建议将母鸡留在室内"
+          },
+          "summary": {
+            "en": "Australia's animal health emergency body says poultry producers may want to keep free-range birds indoors for the next two weeks.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Poultry farmers have been advised to keep free-range hens inside temporarily as authorities respond to an emerging bird flu threat.\n\nA suspected case of the deadly H5N1 strain detected in a migratory bird in NSW suggests the virus has made it to the east coast, with five others already confirmed in Western Australia and South Australia.\n\nAnother suspected case was detected on Friday in a migratory bird in the northern Perth suburb of Mullaloo.\n\nIn response, Australia's technical body for animal health emergencies said commercial poultry producers might want to keep free-range birds indoors for the next two weeks while the biosecurity threat was fully assessed.\n\nConsultative Committee on Emergency Animal Diseases acting chair Sam Hamilton said farmers should only consider housing hens if it was practical and did not impinge on animal welfare.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nDr Hamilton, Australia's acting chief veterinary officer, said it would be up to states and territories to endorse the body's non-mandatory recommendation.\n\n\"There have only been detections in migratory seabirds that occasionally visit Australia,\" he said after the emergency animal diseases committee met on Friday.\n\n\"There&#x202F;remains no evidence of any mass mortality events and there are no detections&#x202F;in&#x202F;poultry&#x202F;or in our agricultural production system.\n\nBurnet Institute scientific director for research translation Heidi Drummer said the suspected case in Hawks Nest, on the NSW Mid-North Coast, was significant, but there was no reason to panic.\n\n\"Avian influenza viruses do not easily infect people, and human infections usually occur after close contact with infected birds, infected animals or heavily contaminated environments.\"\n\nDrummer said careful surveillance and testing were crucial as authorities tried to determine whether the detections in migratory seabirds were isolated events or part of a broader pattern of virus movement in wild bird populations.\n\n\"It is important to be clear that detection in wild birds does not mean the virus is widespread in Australia, or that it has entered commercial poultry,\" she said.\n\n\"Detecting the virus early gives authorities the best chance to understand where it is, limit spread where possible, and protect poultry, wildlife and people.\"\n\nThe strain was first detected on the Australian mainland on 14 June in a brown skua found in Esperance, on Western Australia's south coast.\n\nEmma Grant, from La Trobe University's Institute for Molecular Science, said the virus could spread very quickly.\n\n\"It can also be quite severe in different animals, so what it means for the wildlife in Australia is yet to be seen,\" Grant...",
+            "zh": "随着当局应对新出现的禽流感威胁，建议家禽养殖户暂时将散养母鸡留在室内。 新南威尔士州一只候鸟身上检测到的一例疑似致命 H5N1 病毒株表明该病毒已传播到东海岸，西澳大利亚和南澳大利亚已确诊另外 5 例。 周五，在珀斯北部郊区穆拉卢的一只候鸟身上发现了另一起疑似病例。 作为回应，澳大利亚动物卫生紧急情况技术机构表示，在充分评估生物安全威胁的同时，商业家禽生产商可能希望在未来两周内将散养鸟类留在室内。 紧急动物疾病咨询委员会代理主席萨姆·汉密尔顿表示，农民只有在可行且不影响动物福利的情况下才应考虑饲养母鸡。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 澳大利亚代理首席兽医官汉密尔顿博士表示，将由各州和领地批准该机构的非强制性建议。 “仅在偶尔访问澳大利亚的迁徙海鸟中检测到，”他在紧急动物疾病委员会周五召开会议后表示。 “目前还没有任何大规模死亡事件的证据，在家禽或我们的农业生产系统中也没有检测到任何情况。 伯内特研究所研究翻译科学主任海蒂·德鲁默（Heidi Drummer）表示，新南威尔士州中北海岸霍克斯内斯特的疑似病例意义重大，但没有理由恐慌。 “禽流感病毒不易感染人，人类感染通常发生在与受感染的鸟类、受感染的动物或严重污染的环境密切接触后。” 德拉默表示，仔细的监测和测试至关重要，因为当局试图确定在迁徙海鸟中检测到的病毒是否是孤立事件，还是野生鸟类群体中更广泛的病毒移动模式的一部分。 她说：“重要的是要明确，在野生鸟类中检测到该病毒并不意味着该病毒在澳大利亚广泛传播，也不意味着它已进入商业家禽。” “及早发现病毒让当局有最好的机会了解病毒所在位置，尽可能限制传播，并保护家禽、野生动物和人类。” 6 月 14 日，澳大利亚大陆首次在西澳大利亚南海岸埃斯佩兰斯发现的一只棕色贼鸥中发现了这种菌株。 拉筹伯大学分子科学研究所的艾玛·格兰特表示，这种病毒可能传播得非常快。 格兰特说：“对于不同的动物来说，这种情况也可能相当严重，因此这对澳大利亚的野生动物意味着什么还有待观察。”"
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        }
+      ]
+    }
+  }
+}

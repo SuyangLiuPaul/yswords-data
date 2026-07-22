@@ -1,0 +1,1541 @@
+{
+  "generatedAt": "2026-06-30T13:04:54.441Z",
+  "editionDate": "2026-06-30",
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "BBC News World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "SBS News World",
+      "url": "https://www.sbs.com.au/news/topic/world/feed",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "DW World",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "category": "world",
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      }
+    },
+    {
+      "name": "The Guardian China",
+      "url": "https://www.theguardian.com/world/china/rss",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "BBC News China Focus",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "SBS News China Focus",
+      "url": "https://www.sbs.com.au/news/topic/world/feed",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "DW Asia China Focus",
+      "url": "https://rss.dw.com/rdf/rss-en-asia",
+      "category": "china",
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "name": "The Guardian Australia",
+      "url": "https://www.theguardian.com/australia-news/rss",
+      "category": "australia",
+      "categoryLabel": {
+        "en": "Australia",
+        "zh": "澳洲"
+      }
+    },
+    {
+      "name": "SBS News Australia",
+      "url": "https://www.sbs.com.au/news/topic/australia/feed",
+      "category": "australia",
+      "categoryLabel": {
+        "en": "Australia",
+        "zh": "澳洲"
+      }
+    }
+  ],
+  "sections": {
+    "world": {
+      "id": "world",
+      "title": {
+        "en": "World Desk",
+        "zh": "全球焦点"
+      },
+      "strap": {
+        "en": "A fast view of global affairs, conflict, diplomacy, and human need.",
+        "zh": "快速掌握国际局势、冲突、外交与人类处境。"
+      },
+      "sourceNotes": [
+        "The Guardian World",
+        "BBC News World",
+        "DW World",
+        "SBS News World"
+      ],
+      "items": [
+        {
+          "id": "www-theguardian-com-politics-live-2026-jun-30-defence-investment-plan-ke",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/30/defence-investment-plan-keir-starmer-dan-jarvis-labour-andy-burnham-uk-politics-latest-news",
+          "image": "https://i.guim.co.uk/img/media/79a0ac0a65b6765522257434701812373a22688e/520_327_3712_2969/master/3712.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fe1c5c473efb765bd20174dd8856cc3e",
+          "publishedAt": "2026-06-30T12:44:54.000Z",
+          "title": {
+            "en": "Starmer unveils extra £15bn for UK defence, with some road and energy projects scrapped to fund rise – politics live",
+            "zh": "斯塔默公布为英国武装部队额外拨款150亿英镑，但表示国防开支不能是‘无底洞’——英国政治直播"
+          },
+          "summary": {
+            "en": "Labour leader Keir Starmer announced an additional £15 billion for the UK armed forces, stating that some capital projects in roads and energy have been postponed to fund this long-delayed defense investment plan. He emphasized that defense spending cannot be a \"bottomless pit.\"",
+            "zh": "工党领袖基尔·斯塔默宣布为英国武装部队额外拨款150亿英镑，并表示一些道路和能源领域的基建项目已被搁置，以资助这项长期拖延的国防投资计划。他强调国防开支不能是一个“无底洞”。"
+          },
+          "body": {
+            "en": "Starmer says defence spending cannot be ‘bottomless pit’ and MoD has to ‘spend better’ Keir Starmer is speaking now. They are at Malloy Aeronautics, a firm that designs heavy-lift drones, and Starmer says this morning they showed him one of the heaviest drones he had ever seen. Last year, I made the decision in the national interest to reprioritise aid spending towards defence and achieve the biggest uplift in defence spending since the end of the cold war. That was the right choice because the world has changed. National security is economic security. Continue reading...",
+            "zh": "斯塔默表示，一些道路和能源方面的资本项目已被搁置，以资助拖延已久的国防投资计划。他们在马洛伊航空公司，一家设计重型无人机的公司，斯塔默说今天早上他们向他展示了他见过的最重的无人机之一。去年，我从国家利益出发，决定重新调整国防援助支出的优先顺序，实现冷战结束以来国防支出的最大增幅。这是正确的选择，因为世界已经改变。国家安全就是经济安全。继续阅读..."
+          },
+          "reflection": {
+            "en": "As nations weigh the necessity of defense spending against other vital public investments, Isaiah's vision calls us to consider a future where resources are transformed. The prophet speaks of a time when swords are beaten into plowshares, reminding us that true security ultimately lies in peace and the flourishing of all.",
+            "zh": "当各国权衡国防开支与其他重要公共投资的必要性时，以赛亚的异象呼吁我们思考一个资源被转化的未来。先知谈到有一天刀剑将打成犁头，提醒我们真正的安全最终在于和平与万物的繁荣。"
+          },
+          "verse": {
+            "reference": "Isaiah 2:4",
+            "textEn": "They will beat their swords into plowshares and their spears into pruning hooks.",
+            "textZh": "他们要将刀打成犁头，把枪打成镰刀。",
+            "themeEn": "Disarmament",
+            "themeZh": "化干戈为玉帛"
+          },
+          "aiVerseId": "isa_2_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-live-2026-jun-30-monaco-bombing-ukraine-gerany",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/live/2026/jun/30/monaco-bombing-ukraine-gerany-hungary-poland-baltics-heat-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/94d5c9147cd78ea95e16371f77bb4d31ba0df459/411_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=216d727ad37adb6af83b2f616fecbf61",
+          "publishedAt": "2026-06-30T12:44:11.000Z",
+          "title": {
+            "en": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – Europe live",
+            "zh": "检察官称摩纳哥爆炸案是“未遂暗杀”，而非恐怖袭击——欧洲直播"
+          },
+          "summary": {
+            "en": "Prosecutors have stated that a bombing in Monaco, which injured three people of Ukrainian descent, was an attempted assassination rather than a terror attack. Authorities are actively searching for the suspect involved in the alleged attempt on a Ukrainian business tycoon.",
+            "zh": "检察官表示，摩纳哥发生的一起炸弹袭击事件，造成三名乌克兰裔人士受伤，这是一起未遂的暗杀，而非恐怖袭击。当局正在积极搜捕涉嫌针对一名乌克兰商业巨头的袭击嫌犯。"
+          },
+          "body": {
+            "en": "Authorities are still searching to identify the suspect of an alleged assassination attempt of a Ukrainian business tycoon Ukraine is in touch ⁠with authorities ⁠in Monaco ​after a bomb ⁠attack there injured three people ⁠of Ukrainian ​descent, the ‌country’s foreign ministry said. All three are members of one family, ‌the ministry said, citing information it ​received from local emergency services, Reuters reported. Continue reading...",
+            "zh": "乌克兰外交部表示，在摩纳哥发生炸弹袭击事件，造成三名乌克兰裔人受伤后，乌克兰正在与摩纳哥当局保持联系，当局仍在寻找涉嫌暗杀一名乌克兰商业大亨的嫌疑人。据路透社报道，该部援引从当地紧急服务部门收到的信息称，这三人都是一个家庭的成员。继续阅读..."
+          },
+          "reflection": {
+            "en": "An attempted assassination is a stark reminder of the evil that can target individuals, even in unexpected places. In such moments, the call to not be overcome by evil, but to overcome evil with good, offers a profound challenge. It encourages us to seek pathways that do not perpetuate cycles of harm, but rather uphold human dignity and peace.",
+            "zh": "一次未遂的暗杀提醒我们，邪恶可能针对个人，甚至在意想不到的地方。在这样的时刻，不要被邪恶所胜，反要以善胜恶的呼召，提出了深刻的挑战。它鼓励我们寻求不延续伤害循环的道路，而是维护人类尊严与和平。"
+          },
+          "verse": {
+            "reference": "Romans 12:21",
+            "textEn": "Do not be overcome by evil, but overcome evil with good.",
+            "textZh": "你不可为恶所胜，反要以善胜恶。",
+            "themeEn": "Overcoming evil with good",
+            "themeZh": "以善胜恶"
+          },
+          "aiVerseId": "rom_12_21",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-30-million-migrants-spain-apply-regul",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/30/million-migrants-spain-apply-regularise-status-new-scheme",
+          "image": "https://i.guim.co.uk/img/media/267ad7fbb4920c0ce3ca93f865b4c5e5cf64c9f6/724_0_5683_4546/master/5683.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ecab491488ec9787d5a255e36c63f2b",
+          "publishedAt": "2026-06-30T12:43:47.000Z",
+          "title": {
+            "en": "One million migrants in Spain apply to regularise status in new scheme",
+            "zh": "西班牙一百万移民申请新计划中的身份合法化"
+          },
+          "summary": {
+            "en": "Programme defending benefits of immigration attracts double number of applicants expected More than one million undocumented migrants and asylum seekers have applied to regularise their status in Spain under a government programme to harness and defend the benefits of...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Programme defending benefits of immigration attracts double number of applicants expected More than one million undocumented migrants and asylum seekers have applied to regularise their status in Spain under a government programme to harness and defend the benefits of immigration at a time when most European countries are pulling up the drawbridge. Although the massive regularisation initiative, announced by the socialist-led government in January, was originally intended to benefit around 500,000 people, it had attracted more than twice that number of applicants by the time the registration period ended on Tuesday. Continue reading...",
+            "zh": "捍卫移民福利的计划吸引了预期申请人数的两倍在大多数欧洲国家拉起吊桥之际，超过一百万无证移民和寻求庇护者已根据一项政府计划申请使自己在西班牙的身份合法化，以利用和捍卫移民的福利。尽管社会主义领导的政府在一月份宣布的大规模正规化举措最初旨在使约 50 万人受益，但到周二登记期结束时，其吸引的申请人数已是这一数字的两倍多。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-community-live-2026-jun-30-reader-qa-ask-ajit-niranj",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/community/live/2026/jun/30/reader-qa-ask-ajit-niranjan-anything-about-europes-hellish-week-of-heat",
+          "image": "https://i.guim.co.uk/img/media/d7786609ba049bed7978783ea57d63fd83cc5bde/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=948b7954e7225e9b9489b65ac1f16ae4",
+          "publishedAt": "2026-06-30T12:39:37.000Z",
+          "title": {
+            "en": "Reader Q&A live: we answer your questions about Europe’s hellish week of heat",
+            "zh": "读者现场问答：我们回答您有关欧洲地狱般炎热一周的问题"
+          },
+          "summary": {
+            "en": "Our European environment correspondent Ajit Niranjan answers your questions on the climate after reporting on the shocking heatwave that continues to scorch its way across Europe, covering everything from the lack of preparation to ways to deal with the heat eammonmcc asks: This...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Our European environment correspondent Ajit Niranjan answers your questions on the climate after reporting on the shocking heatwave that continues to scorch its way across Europe, covering everything from the lack of preparation to ways to deal with the heat eammonmcc asks: This current brain-poaching heat is being treated as a surprise by many – there’s nothing surprising about it as this and worse has been predicted for years. Why are so many ignoring the warnings? And why do western governments and political movements peddle fairytales about it? It can’t all be because the fossil fuel industry is controlling the agenda. Ajit: I share your bewilderment at the surprise some people and politicians have expressed in the last week. Still, it’s worth saying we have made some meaningful progress on heat even as temperatures have risen. Europe was hit by a horrific heatwave in 2003, with 70,000 heat-related deaths that summer. Scientists think if a heatwave of similar strength were to hit today, the death toll would be about 75% smaller. They can’t easily isolate the causes weakening the temperature-mortality relationship, but experts point to a mix of early warning systems, heat action plans and people adapting their behaviour when temperatures rise. More broadly, though, I think you’re right that there’s much more going on than just fossil fuel industry influence on public debate. We are now at a point where active denial of climate change is in the single digit percentages across western Europe, yet far-right parties who engage in exactly that are polling well above 20%. In most cases, the dominant centre-right parties in those countries are actively campaigning to weaken existing climate ambition, though outside the UK they have refrained from calling to abandon net zero emissions targets. Ajit: Climate action does not require a greater level of corporate capture or autocratic governance than the fossil fuel status quo - and the solutions on offer today already come from a broad range of actors. Autocracies are building wind turbines and solar panels in poor countries, publicly traded companies in democracies are getting state support to capture carbon from cement plants , cities are turning car parking into bike lanes , and individuals are swapping steak for tofu . All of these are important actions in scientific roadmaps to clean the economy by the middle of the century. Continue reading...",
+            "zh": "我们的欧洲环境通讯员 Ajit Niranjan 在报道了持续席卷欧洲的令人震惊的热浪后，回答了大家关于气候的问题，内容涵盖了从缺乏准备到应对高温的方法等各个方面。 eammonmcc 提出：目前的这种夺脑人心的高温被许多人视为意外——这并不奇怪，因为多年来人们就已经预测到了这种情况，甚至更糟糕的情况。为什么这么多人忽视警告？为什么西方政府和政治运动要兜售有关它的童话故事？这不可能全是因为化石燃料行业正在控制议程。阿吉特：我和你一样对一些人和政客上周表达的惊讶感到困惑。尽管如此，值得一提的是，即使气温有所上升，我们在热量方面也取得了一些有意义的进展。 2003 年，欧洲遭受了可怕的热浪袭击，当年夏天有 7 万人因高温死亡。科学家认为，如果今天发生类似强度的热浪，死亡人数将减少约 75%。他们无法轻易找出削弱气温与死亡率关系的原因，但专家指出，需要结合早期预警系统、高温行动计划以及人们在气温升高时调整自己的行为。但更广泛地说，我认为你是对的，除了化石燃料行业对公众辩论的影响之外，还有更多的事情发生。目前，整个西欧积极否认气候变化的比例仅为个位数，但积极否认气候变化的极右政党的民意调查结果却远高于 20%。在大多数情况下，这些国家的占主导地位的中右翼政党正在积极开展运动，削弱现有的气候雄心，尽管在英国之外，他们没有呼吁放弃净零排放目标。阿吉特：气候行动并不需要比化石燃料现状更高水平的企业捕获或独裁治理，而且今天提供的解决方案已经来自广泛的参与者。专制国家正在贫穷国家建造风力涡轮机和太阳能电池板，民主国家的上市公司正在获得国家支持以从水泥厂捕获碳，城市正在将停车场变成自行车道，个人正在用牛排换豆腐。所有这些都是到本世纪中叶清洁经济的科学路线图中的重要行动。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-videos-cjeg1g82gz8o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eced/live/7cf85520-73f4-11f1-8e1d-bbbb1017d210.jpg",
+          "publishedAt": "2026-06-30T12:21:38.000Z",
+          "title": {
+            "en": "Canadians share hopes and wishes for America's 250th birthday",
+            "zh": "加拿大人分享对美国250周年生日的期盼与祝福"
+          },
+          "summary": {
+            "en": "Canadians across the country were asked to share their hopes and wishes for the United States as it approaches its 250th anniversary.",
+            "zh": "加拿大全国各地的民众被问及，在美国即将迎来250周年之际，他们对这个南方邻居有何期盼和祝福。"
+          },
+          "body": {
+            "en": "For America’s 250th birthday, BBC journalists in Toronto, Montreal and Vancouver asked Canadians what they would gift the US and what birthday wishes they’d send their southern neighbour. People from across the country shared how they see the Canada-US relationship today, reflecting on their friendship and their frustrations.",
+            "zh": "在美国诞辰 250 周年之际，多伦多、蒙特利尔和温哥华的 BBC 记者询问加拿大人会向美国赠送什么礼物，以及向南方邻国送上什么生日祝福。来自全国各地的人们分享了他们对当今加美关系的看法，反思了他们的友谊和挫折。"
+          },
+          "reflection": {
+            "en": "The act of a neighboring nation sharing hopes and wishes for another reflects the biblical call to love our neighbors. This goodwill reminds us that even across borders, we are called to seek the well-being and flourishing of others. Such expressions of care strengthen bonds and foster a spirit of mutual respect.",
+            "zh": "一个邻国为另一个国家分享期盼与祝福，这反映了圣经中爱邻如己的呼召。这种善意提醒我们，即使跨越国界，我们也被呼召去寻求他人的福祉和兴盛。这种关怀的表达能加强彼此的联系，并培养相互尊重的精神。"
+          },
+          "verse": {
+            "reference": "Matthew 22:39",
+            "textEn": "Love your neighbor as yourself.",
+            "textZh": "要爱人如己。",
+            "themeEn": "Love neighbor",
+            "themeZh": "爱人如己"
+          },
+          "aiVerseId": "matt_22_39",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-live-2026-jun-30-birthright-citizenship-supr",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news",
+          "image": "https://i.guim.co.uk/img/media/faa1537b51799d6555c55744d81f28091d18bf31/1131_0_6467_5174/master/6467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=348f54395c1f85d3d778e934b80366b0",
+          "publishedAt": "2026-06-30T12:16:38.000Z",
+          "title": {
+            "en": "Supreme court expected to rule on birthright citizenship and trans athletes – US politics live",
+            "zh": "最高法院对特朗普解雇机构负责人权力的裁决引发愤怒——美国政治直播"
+          },
+          "summary": {
+            "en": "The US Supreme Court is expected to deliver its final rulings for the term, including a decision on the President's authority to dismiss agency heads. This ruling has sparked anger regarding the scope of executive power. The court is also due to rule on birthright citizenship.",
+            "zh": "美国最高法院预计将公布本届任期的最后裁决，其中包括一项关于总统解雇机构负责人权力的决定。这项裁决引发了对行政权力范围的愤怒。法院还将就出生公民权作出裁决。"
+          },
+          "body": {
+            "en": "Anger grows over Monday’s ruling over Trump’s power to fire agency heads as court due to rule on president’s desire to withhold citizenship from those born in US Sign up for the Breaking News US email Donald Trump doesn’t have any public events today. He’ll spend the morning in executive time and policy meetings. The president will later speak at a Rose Club garden dinner at 7pm ET, but right now that is not open to the press. We’ll keep you updated if anything changes. Continue reading...",
+            "zh": "今天是最高法院公布其九个月任期最后裁决的最后一天 今天，美国最高法院将对特朗普的核心政策之一做出裁决：几乎所有在美国领土上出生的人都有权获得公民身份。这项权利被载入美国宪法第十四修正案。该修正案是在美国内战后通过的，旨在确定美国出生的被奴役者的公民身份。特朗普在第二任期的第一天签署了一项总统行政命令，试图剥夺无证移民的子女和一些临时美国游客的公民身份。他的政府辩称，出生公民权源于对第十四修正案的误解。继续阅读..."
+          },
+          "reflection": {
+            "en": "Supreme Court rulings often highlight the complex nature of governmental authority and its limits. Romans 13:1 reminds us that all authority is established by Yahweh, calling us to reflect on how power is exercised and interpreted within a just society. Even amidst disagreement, this truth provides a foundation for understanding the role of governing bodies.",
+            "zh": "最高法院的裁决常凸显政府权力的复杂性及其界限。罗马书13:1提醒我们，一切权柄都是雅伟所设立的，这促使我们反思在一个公正的社会中，权力应如何行使和诠释。即使存在分歧，这一真理也为理解执政机构的角色提供了基础。"
+          },
+          "verse": {
+            "reference": "Romans 13:1",
+            "textEn": "Let everyone be subject to the governing authorities, for there is no authority except that which God has established.",
+            "textZh": "在上有权柄的，人人当顺服他，因为没有权柄不是出于神的。",
+            "themeEn": "God-given authority",
+            "themeZh": "神所立的权柄"
+          },
+          "aiVerseId": "rom_13_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cpv37wx03v7o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9081/live/0f042230-7479-11f1-b1db-af71d47507d6.jpg",
+          "publishedAt": "2026-06-30T11:36:05.000Z",
+          "title": {
+            "en": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
+            "zh": "摩纳哥发生炸弹袭击，一名乌克兰寡头及其家人受伤，搜捕行动正在进行"
+          },
+          "summary": {
+            "en": "A manhunt is underway in Monaco after a bomb injured a Ukrainian oligarch and his family. The blast, described by Monaco's government head, was caused by an explosive device containing bolts and pellets.",
+            "zh": "摩纳哥政府首脑表示，一枚含有螺栓和弹丸的爆炸装置导致一名乌克兰寡头及其家人受伤，目前正在进行搜捕。"
+          },
+          "body": {
+            "en": "A manhunt is under way in southern France after a parcel bomb exploded at a residential building in neighbouring Monaco, severely injuring a wealthy Ukrainian businessman and two others.\n\nVadym Yermolaiev and two others are believed to have been injured in the attack, according to French media reports. The victims' identities have not been officially announced by authorities.\n\nTwo of the victims are in a critical condition in hospital in Nice, Monaco's public prosecutor Stéphane Thibault said, adding that the woman was most seriously hurt.\n\nThe blast occurred shortly before 21:00 local time (19:00 GMT) at an apartment building on Rue Révérend Père Louis Frolla, near the border with France.\n\nMonaco's government said the explosion was caused by a parcel bomb, while the Minister of State of Monaco Christophe Mirmand told AFP news agency the explosive device appeared to contain bolts and pellets.\n\nSpeaking at a news conference on Tuesday, Thibault said four others were treated by emergency services - one for shock and three for cuts from debris from nearby shop windows as a result of the blast.\n\nHe said authorities were searching for a single suspect and that the incident was being investigated as attempted murder, not as a terrorist attack.\n\nOn Tuesday morning, Mirmand told French broadcaster BFM TV the suspect \"appears to have left for France\".\n\nThe Monaco government has said a suspect was seen on a video surveillance system fleeing towards the French commune of Beausoleil on foot after the explosion, where a major police effort to find them is now taking place.\n\nVideo surveillance images of the moments before the attack showed a man dropping a backpack in the lobby of a building shortly before the explosion, French newspaper Le Figaro reported.\n\nMore than 100 police and emergency personnel were deployed to the scene of the blast on Monday evening.\n\nHarri Richie, who lives around 100m away from the targeted building, told the BBC she heard an \"unbelievably loud explosion\" at about 21:00 local time from the underground car park she was in.\n\nShe then went up to her 11th floor apartment, where she said she saw emergency services \"dragging two people out [from the building] who looked badly injured\".\n\nEmergency services arrived around five minutes after the explosion, she said, adding that there was a helicopter overhead throughout Monday night.\n\n\"This is the first time in history, to my knowledge, that such an act has taken place in the principality,\" Mirmand, the head of Monaco's government, said.\n\nMonaco's Prince Albert II described the incident as a \"heinous crime\" and \"a shock to the entire Monaco community\".\n\nCiting anonymous sources, French newspaper Le Figaro reports that the three victims seriously hurt in the attack are Yermolaiev, his partner...",
+            "zh": "邻国摩纳哥一座住宅楼发生包裹炸弹爆炸，一名乌克兰富商受重伤，法国南部正在进行搜捕行动。 据法国媒体报道，瓦迪姆·耶尔莫拉耶夫、他的妻子和 13 岁的儿子在袭击中全部受伤，目前正在尼斯一家医院接受治疗。他们说，叶尔莫拉耶夫和他的搭档情况危急。 爆炸发生在当地时间 21:00（格林威治标准时间 19:00）前不久，地点为靠近法国边境的 Révérend Père Louis Frolla 街的一栋公寓楼。 摩纳哥国务大臣克里斯托夫·米尔芒 (Christophe Mirmand) 告诉法国广播公司 BFM TV，嫌疑人“似乎已前往法国”。 摩纳哥政府表示，视频监控系统显示，爆炸发生后，一名嫌疑人徒步逃往法国博索莱伊公社，目前警方正在全力寻找他。 据法国报纸《费加罗报》报道，袭击发生前的视频监控图像显示，爆炸前不久，一名男子将一个背包扔在一栋大楼的大厅里。 米尔曼德告诉法新社，爆炸装置似乎包含螺栓和弹丸。 周一晚上，100 多名警察和急救人员被部署到爆炸现场。 哈里·里奇 (Harri Richie) 住在距离目标建筑约 100m 的地方，她告诉 BBC，当地时间 21:00 左右，她从所在的地下停车场听到了“令人难以置信的巨大爆炸声”。 然后她回到了自己位于 11 楼的公寓，在那里她说她看到紧急服务人员“从大楼里拖出了两个看上去受了重伤的人”。 她说，爆炸发生后五分钟左右，紧急服务人员赶到，并补充说，整个周一晚上都有一架直升机在头顶上空停留。 摩纳哥政府首脑米尔芒表示：“据我所知，这种行为在公国历史上还是第一次。” 摩纳哥亲王阿尔贝二世形容这一事件是“令人发指的罪行”，“震惊了整个摩纳哥社会”。 他表示，“目前正在动员所有相关的国家部门”与法国有关当局合作。 叶尔莫拉耶夫是一位来自乌克兰第四大城市第聂伯罗的58岁富有的房地产开发商，一直居住在摩纳哥。 他对俄罗斯吞并的克里米亚的葡萄酒和烈酒业务有着浓厚的兴趣，自 2023 年以来一直受到基辅政府制裁。 2020 年，他被福布斯杂志评为乌克兰第 39 位富豪，拥有 2.3 亿美元（1.738 亿英镑）的财富。"
+          },
+          "reflection": {
+            "en": "This violent act reminds us of the destructive cycle that often follows when disputes escalate to physical harm. Yahweh's word warns that those who resort to violence often find themselves caught in its perilous grip. May we seek paths that break this cycle, rather than perpetuate it.",
+            "zh": "这种暴力行为提醒我们，当争端升级为身体伤害时，往往会陷入破坏性的循环。雅伟的话语警告说，那些诉诸暴力的人常常发现自己被其危险的掌控所困。愿我们寻求打破而非延续这一循环的道路。"
+          },
+          "verse": {
+            "reference": "Matthew 26:52",
+            "textEn": "All who draw the sword will die by the sword.",
+            "textZh": "凡动刀的，必死在刀下。",
+            "themeEn": "Cycle of violence",
+            "themeZh": "动刀者必亡于刀"
+          },
+          "aiVerseId": "matt_26_52",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cy4eq1l184po-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96ee/live/afdc2940-746b-11f1-8546-8f19e4fe30f4.jpg",
+          "publishedAt": "2026-06-30T11:29:24.000Z",
+          "title": {
+            "en": "Heavy security in South Africa as anti-migrant protesters take to the streets",
+            "zh": "南非反移民抗议者上街，安保严密"
+          },
+          "summary": {
+            "en": "Heavy security measures were in place in South Africa as anti-migrant protesters took to the streets, leading thousands of people to leave the country ahead of a deadline set by these groups.",
+            "zh": "南非部署了严密安保，以应对走上街头的反移民抗议者，数千人已在这些团体设定的最后期限前离开了南非。"
+          },
+          "body": {
+            "en": "Police officers have been deployed across South Africa because of fears that anti-immigration protests could turn violent as President Cyril Ramaphosa urged demonstrators to refrain from \"intimidation, threats or ultimatums\".\n\nThe protests mark an unofficial deadline set by campaigners for all undocumented foreigners to leave the country.\n\nMany have already fled to escape violence and intimidation. South African police say 25,000 have been repatriated so far. Most are from other African countries.\n\nOne undocumented Malawian told the BBC he was \"happy to be going back\" but \"heartbroken\" to be leaving behind four young children.\n\nThe Ministry of Police said the protests were largely peaceful across the country, with isolated incidents of looting and attempted looting.\n\nJohannesburg, where one of the protests is taking place, is unusually quiet. Shops in the city centre are closed, while police visibility is high on major streets.\n\nSome protesters threw bricks, breaking the windows of some flats in Yeoville, a suburb in Johannesburg where many African migrants live.\n\nPolice said that five people were arrested in Johannesburg's biggest township, Soweto, for allegedly looting a foreign-owned shop.\n\nFive people were also arrested for allegedly breaking into a tuck shop in Hammarsdale in KwaZulu-Natal province.\n\nMany businesses in central Durban, the main city in the province, are also shut. A police helicopter has been circling the city.\n\nRamaphosa met some of the protest leaders on the eve of the marches in a bid to defuse tensions.\n\nHe has repeatedly warned demonstrators to act peacefully, while also accepting the need for immigration reforms.\n\n\"Some foreign nationals who live in South Africa are here lawfully,\" he reminded citizens in his weekly newsletter , external .\n\n\"They work, study, raise families, invest in our economy and contribute positively to our society. They too are entitled to the protection of our laws and our Constitution.\n\n\"The right to protest and freedom of expression does not allow people to threaten or intimidate others, or to engage in acts of vandalism or violence,\" he wrote.\n\nThere are more than three million documented foreign nationals in South Africa, according to official figures.\n\nThe statistics do not record the many more migrants believed to be in the country without papers - a bone of contention for the protesters.\n\nPolice said that about 50,000 migrants had been arrested since January for being in the country illegally.\n\nA Soweto resident told the BBC that protesters merely wanted foreigners \"to comply\" with the laws of South Africa.\n\nShe said that with the heavy police presence, she did not believe the march in Johannesburg would turn violent.\n\nAnother protester, who is part of anti-migrant group Operation Dudula,...",
+            "zh": "由于担心反移民抗议可能演变成暴力，南非总统西里尔·拉马福萨敦促示威者不要进行“恐吓、威胁或最后通牒”，南非各地部署了警察。 抗议活动标志着活动人士为所有无证外国人设定的离开该国的非正式最后期限。 许多人已经逃离暴力和恐吓。南非警方表示，迄今为止已有 25,000 人被遣返。大多数来自其他非洲国家。 一名无证马拉维人告诉英国广播公司，他“很高兴能回去”，但对留下四个年幼的孩子感到“心碎”。 其中一场抗议活动发生地约翰内斯堡异常安静。市中心的商店都关门了，而主要街道上的警察可见度很高。 警方称，五人因涉嫌抢劫一家外资商店而在约翰内斯堡最大的城镇索韦托被捕。 五人还因涉嫌闯入夸祖鲁-纳塔尔省哈马斯代尔的一家小卖店而被捕。 该省主要城市德班市中心的许多企业也被关闭。 拉马福萨在游行前夕会见了一些抗议领导人，以缓和紧张局势。 他多次警告示威者和平行动，同时也承认移民改革的必要性。 “一些居住在南非的外国人是合法的，”他在他的每周通讯《外部》中提醒公民。 “他们工作、学习、养家糊口、投资我们的经济并为我们的社会做出积极贡献。他们也有权受到我们的法律和宪法的保护。 他写道：“抗议权和言论自由不允许人们威胁或恐吓他人，或进行破坏或暴力行为。” 根据官方数据，南非有超过 300 万有证件的外国人。 统计数据并没有记录据信在该国没有证件的移民数量——这是抗议者争论的焦点。 一名索韦托居民告诉英国广播公司，抗议者只是希望外国人“遵守”南非的法律。 她说，她并不担心约翰内斯堡的游行会因为大量警察的存在而变得暴力。 另一位属于反移民组织“杜杜拉行动”的抗议者表示，如果无证移民不离开南非，他们将“敦促警察完成他们的”工作。 在截止日期之前，出于对自身安全的担忧，数千名移民已经在临时营地等待处理数周。 在德班，发生了一些最大规模的抗议活动，随着当局竞相清理中转营，大多数马拉维人居住的白色帐篷正在被拆除。 身着色彩缤纷纱笼的妇女们坐在..."
+          },
+          "reflection": {
+            "en": "The news of anti-migrant protests and people leaving South Africa highlights the tension societies often face regarding those who are perceived as outsiders. Yahweh's ancient command reminds us to treat the stranger residing among us as one of our own, loving them as ourselves. This principle calls us to compassion and justice, especially when fear or...",
+            "zh": "南非反移民抗议活动以及人们被迫离开的消息，凸显了社会在对待被视为外来者时常面临的紧张关系。雅伟古老的诫命提醒我们，要善待居住在我们土地上的寄居者，视他们如同本地人，爱他们如同自己。这一原则呼唤我们实践怜悯和公义，尤其当恐惧或偏见威胁要分裂社群时。"
+          },
+          "verse": {
+            "reference": "Leviticus 19:33-34",
+            "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
+            "textZh": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
+            "themeEn": "Foreigner as native-born",
+            "themeZh": "待寄居者如本族"
+          },
+          "aiVerseId": "lev_19_33",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cn4r8zlv8edo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19dc/live/8d57b7c0-745e-11f1-81eb-e7f1f1b252ec.jpg",
+          "publishedAt": "2026-06-30T11:20:44.000Z",
+          "title": {
+            "en": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+            "zh": "加纳首都遭洪水袭击，造成 13 人死亡 - 预计将再次发生暴风雨"
+          },
+          "summary": {
+            "en": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "At least 13 people have died in Ghana's capital, Accra, after torrential rain resulted in severe flooding, according to the fire service which has been involved in rescue efforts.\n\nThe government has urged people to stay indoors or move to higher ground, as the meteorological agency warned further rain was expected with a big storm approaching from the east.\n\nMuch of the water from Sunday night's downpours has begun to recede, but as the recovery operation continues, the Ghana National Fire Service (GNF) said the death toll could rise.\n\nLow-lying areas were particularly impacted. Videos circulating on social media show homes and vehicles submerged, while many buildings have been destroyed.\n\nEmergency response teams have been deployed to the flood-affected region, including from the police, fire service, the military and the National Disaster Management Organisation.\n\nThe interior ministry said they had been deployed to monitor the situation and to safeguard lives and property.\n\nSome residents have also become trapped at home. The government has called for people to relocate to higher safe grounds and to avoid travelling in flooded areas.\n\n''Stay indoors if you are in a safe location,\" the president's office said in a statement.\n\n\"Do not attempt to cross flooded roads, whether on foot or in a vehicle. If your home is being inundated, move immediately to higher ground and call 112 for emergency assistance.''\n\nAccording to Mahama, preliminary data indicated that around 140mm of rain descended on Accra.\n\n\"By comparison, the highest single-day rainfall recorded last year was about 56 mm,\" he wrote on X, adding the increase pointed to climate change.\n\nThe Ghana Meteorological Agency also warned that more rain was expected to affect parts of southern Ghana - where Accra is located - on Tuesday morning into the afternoon, raising the risk of further flooding.\n\n\"Avoid sheltering under trees, stay clear of loose electrical wires, and do not walk or drive through floodwaters,\" the agency advised.\n\nAccra is one of the fastest-growing cities in Africa, with a population of more than four million, according to the World Health Organization (WHO).\n\nResident Philip Mensah said his house had been flooded, telling AFP news agency that his \"1970s collection of vinyl records is now underwater\".\n\nSchoolteacher Patience Naa Adjeley Adjei said she had spent hours trying to keep water out of her room.\n\n\"I have mopped my room more than eight times,\" she told AFP. \"I can't even step out because my room is flooded, and outside is flooded.\"\n\nThe Ghana Grid Company Limited (GRIDCo) and the Electricity Company of Ghana (ECG) have temporarily shut down power supply to parts of the capital affected by the floods as a precautionary measure.\n\nIn a joint statement, they said the...",
+            "zh": "据参与救援工作的加纳消防部门称，暴雨导致严重洪水，加纳首都阿克拉至少有13人死亡。 政府敦促人们呆在室内或转移到地势较高的地方，气象机构警告称，一场大风暴将从东部逼近，预计还会有更多降雨。 加纳国家消防局（GNF）表示，周日晚上的倾盆大雨造成的大部分水已经开始消退，但随着恢复行动的继续，死亡人数可能会上升。 低洼地区受到的影响尤其严重。社交媒体上流传的视频显示，房屋和车辆被淹没，许多建筑物被毁。 警方、消防部门、军队和国家灾害管理组织等应急小组已被部署到受洪水影响的地区。 内政部表示，他们已被部署来监视局势并保护生命和财产。 一些居民也被困在家中。政府呼吁人们搬迁到地势较高的安全地带，并避免前往洪水泛滥的地区。 总统办公室在一份声明中说：“如果你在安全的地方，请呆在室内。” “无论是步行还是乘车，都不要试图穿过被洪水淹没的道路。如果您的家被淹没，请立即转移到地势较高的地方，并拨打 112 寻求紧急援助。” Mahama称，初步数据显示阿克拉降雨量约为140毫米。 “相比之下，去年记录的最高单日降雨量约为 56 毫米，”他在 X 上写道，并补充说降雨量的增加表明气候变化。 加纳气象局还警告称，预计周二上午至下午，更多降雨将影响加纳南部部分地区（阿克拉所在的地区），从而增加进一步洪水的风险。 该机构建议：“避免在树下避难，远离松动的电线，不要步行或开车穿过洪水。” 据世界卫生组织 (WHO) 称，阿克拉是非洲发展最快的城市之一，人口超过 400 万。 居民菲利普·门萨 (Philip Mensah) 表示，他的房子已被洪水淹没，他告诉法新社，他的“1970 年代黑胶唱片收藏现已淹没在水下”。 学校老师帕蒂斯·纳阿·阿杰利·阿杰伊 (Patience Naa Adjeley Adjei) 表示，她花了几个小时试图阻止水进入她的房间。 她告诉法新社：“我已经拖了房间八次以上。” “我什至无法走出去，因为我的房间被水淹没了，外面也被水淹没了。” 作为预防措施，加纳电网有限公司（GRIDCo）和加纳电力公司（ECG）已暂时关闭受洪水影响的首都部分地区的供电。 他们在一份联合声明中表示..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c79yvw23yr9o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edd5/live/b80a6be0-745c-11f1-9d0e-3bf8d84f830e.jpg",
+          "publishedAt": "2026-06-30T11:16:20.000Z",
+          "title": {
+            "en": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
+            "zh": "亚洲超级应用Gojek创始人因腐败被判入狱数年"
+          },
+          "summary": {
+            "en": "Gojek founder Nadiem Makarim has been sentenced to prison for corruption related to a laptop deal made during his tenure as Indonesia's education minister.",
+            "zh": "Gojek创始人纳迪姆·马卡里姆因在担任印度尼西亚教育部长期间的一项笔记本电脑交易中的腐败行为被判入狱。"
+          },
+          "body": {
+            "en": "The co-founder of super-app Gojek who became Indonesia's education minister has been sentenced to several years in jail.\n\nNadiem Makarim, 41, was found guilty of corruption over a controversial laptop deal. He received a 10-year prison sentence, but faces more jailtime as he is unable to pay restitution. He had pleaded not guilty.\n\nNadiem left Gojek in 2019 to join the government of previous president Joko Widodo, and served as education minister until 2024.\n\nCritics of the Indonesian authorities say the case against him was based on little evidence and that he is the victim of a government campaign targeting political opponents.\n\nGojek is a popular app in South East Asia with more than 170 million people using it for transport and digital payments. Nadiem has gained a large following as the co- founder of one of Indonesia's most successful tech companies.\n\nIn addition to the 10-year prison term, Nadiem was ordered to pay restitution of 809 billion rupiah ($45m, £34m) - the amount he was accused of enriching himself with - or serve an additional five years.\n\nNadiem has said that as he is unable to pay this amount, he has effectively been sentenced to 15 years.\n\nHe also faces a one billion rupiah fine. If unpaid, he will serve an additional 190 days in jail.\n\nThe case centres on the education ministry's procurement of Chromebook laptops for schools in Indonesia from 2021 to 2022.\n\nProsecutors alleged that the Chromebooks were purchased even though the ministry had determined in 2018 that the computers required an internet connection to be used, which made them unsuitable in remote areas of Indonesia where internet connectivity is difficult.\n\nThe ministry went ahead with the purchase after Nadiem met with Google representatives in 2020, said prosecutors.\n\nProsecutors alleged that Nadiem favoured Google - a Gojek investor - when the procurement was made, saying he created tender specifications that only fit the Chrome system to \"make Google the sole controller of the education ecosystem in Indonesia\".\n\nNadiem had remained as a minority shareholder in Gojek while he was the education minister.\n\nThey said Nadiem's actions violated the government's anti-corruption pledges and harmed the education system. He was accused of causing $125m in state losses.\n\nHe was also accused of benefiting from 809 billion rupiah worth of transactions involving Gojek's holding company.\n\nNadiem denied that Google's investments in Gojek were connected to the procurement, and argued that the ministry's choice to purchase the Chromebooks resulted in reduced costs for the government.\n\nHe also argued that the 809 billion rupiah had always remained within company accounts and that he had never touched the money personally.\n\nIn the end a panel of judges ruled that it was not proven...",
+            "zh": "超级应用程序 Gojek 的联合创始人后来成为印度尼西亚教育部长，因腐败被判处几年监禁。 41 岁的纳迪姆·马卡里姆 (Nadiem Makarim) 因在政府任职期间操纵学校笔记本电脑采购交易以谋取私利而被判有罪。他不认罪。 他被判处 10 年监禁，但由于无法支付赔偿金，将面临更多监禁。 纳迪姆于 2019 年离开戈耶克，加入前总统佐科维多多的政府，并担任教育部长直至 2024 年。印度尼西亚当局的批评者表示，针对他的案件缺乏证据，而且他是政府针对政治对手的运动的受害者。 Gojek 是一款在东南亚很受欢迎的应用程序，有超过 1.7 亿人使用它进行交通和数字支付。作为印度尼西亚最成功的科技公司之一的联合创始人，纳迪姆赢得了大批追随者。 除了 10 年监禁外，纳迪姆还被勒令赔偿 8090 亿卢比（4500 万美元，3400 万英镑）——他因利用这笔钱致富——否则再服刑 5 年。 Nadiem 表示，由于他无法支付这笔款项，因此他实际上被判处 15 年徒刑。 他还面临 10 亿卢比的罚款。如果未支付报酬，他将再入狱 190 天。 该案件的重点是教育部在 2021 年至 2022 年期间为印度尼西亚学校采购 Chromebook 笔记本电脑。 检察官称，尽管该部在 2018 年确定这些电脑需要互联网连接才能使用，但这些 Chromebook 仍然被购买，这使得它们不适合在互联网连接困难的印尼偏远地区使用。 检察官称，纳迪姆在 2020 年与谷歌代表会面后，该部继续进行了收购。 检察官称，纳迪姆在采购时偏向 Gojek 投资者谷歌，称他制定了仅适合 Chrome 系统的招标规范，以“使谷歌成为印度尼西亚教育生态系统的唯一控制者”。 在担任教育部长期间，纳迪姆仍然是 Gojek 的少数股东。 他们表示纳迪姆的行为违反了政府的反腐败承诺，并损害了教育系统。他被指控造成 1.25 亿美元的国家损失。 他还被指控从涉及 Gojek 控股公司的价值 8090 亿卢比的交易中受益。 Nadiem 否认 Google 对 Gojek 的投资与采购有关，并认为该部选择购买 Chromebook 导致政府成本降低。 他还辩称，这8090亿卢比一直留在公司账户内，他从未动过这笔钱……"
+          },
+          "reflection": {
+            "en": "The sentencing of a former public official for corruption underscores the critical importance of integrity in leadership. Yahweh declares that righteous rule establishes authority, and evil acts are an abomination to those entrusted with public service. This reminds us that true governance is built on ethical conduct and accountability.",
+            "zh": "一位前公职人员因腐败被判刑，凸显了领导层诚信的至关重要性。雅伟宣告，公义的统治才能建立权柄，而邪恶的行为对受托公共服务的人来说是可憎的。这提醒我们，真正的治理是建立在道德行为和问责制之上的。"
+          },
+          "verse": {
+            "reference": "Proverbs 16:12",
+            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
+            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
+            "themeEn": "Righteous rule",
+            "themeZh": "以公义治国"
+          },
+          "aiVerseId": "prov_16_12",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-pope-pleads-with-breakaway-catholics-before-possible-schis",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/pope-pleads-with-breakaway-catholics-before-possible-schism/a-77767568?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77528051_6.jpg",
+          "publishedAt": "2026-06-30T10:52:00.000Z",
+          "title": {
+            "en": "Pope pleads with breakaway Catholics before possible schism",
+            "zh": "教皇在可能的分裂之前恳求脱离天主教徒"
+          },
+          "summary": {
+            "en": "Pope Leo XIV has called on a rebel Catholic group to call off a planned consecration of bishops. Such a move could trigger a full schism with the mainstream Catholic Church.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及在压力下的忠信与属灵勇气。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Pope Leo XIV has called on a rebel Catholic group to call off a planned consecration of bishops. Such a move could trigger a full schism with the mainstream Catholic Church.\n\nWorld Catholic leader Pope Leo XIV on Tuesday appealed to&#160;a group of ultra-traditionalist Catholics not to go ahead with its&#160;planned consecration of bishops on Wednesday, an act that could lead to a full schism with the Vatican.\n\nThe group, the Society of St. Pius X (SSPX) ,&#160;was founded in 1970 by Catholics who opposed the liberal reforms to the church introduced by&#160;the 1960s Second Vatican Council.\n\n\"I plead with you and ask you with all my heart: Please turn back!” Leo wrote in a letter to the Rev. Davide Pagliarani, the superior of the Society of St. Pius X, calling the plan a schismatic act and a \"sin of extreme gravity.\"\n\nIn the letter, the pontiff repeated that the Vatican was prepared to enter into a dialogue and warned of negative impacts for those involved.\n\n\"I urge you to consider carefully the spiritual good of the faithful, because the schismatic act you are about to undertake would deprive them of the licit, and in some cases, even valid reception of the sacraments,” he wrote.\n\nUnder Catholic Church law, any consecration of bishops that is not authorized by the Vatican must result in&#160;the automatic excommunication of both the newly consecrated bishops and those who consecrated them.&#160;\n\nIn the church, being excommunicated excludes an individual from the sacraments, rites and spiritual fellowship of fellow Catholics.\n\nThe Society of Saint Pius X already celebrated the ordination of five new priests on Monday near&#160;its seminary in Econe, Switzerland.\n\nHowever, the consecration of bishops without papal consent is seen as a much graver violation of church law.\n\nIn 1988, SSPX founder Archbishop Marcel Lefebvre of France consecrated four bishops and was immediately excommunicated along with the new bishops, a measure lifted in 2009.\n\nSSPX boasts presence&#160;in more than 75 countries across six continents, claiming over 750 priests and nearly half a million faithful.\n\nThe society&#160;adheres to&#160;a strict interpretation of doctrinal and liturgical tradition, including the celebration of the Latin Mass.\n\n&#160;It also rejects&#160;the ecumenism — working for closer unity with other Christian traditions — imposed by the Second Vatican Council.",
+            "zh": "教皇利奥十四世呼吁反叛天主教组织取消主教祝圣计划。此举可能引发与主流天主教会的全面分裂。 世界天主教领袖教皇利奥十四世周二呼吁一群极端传统主义天主教徒不要继续按计划在周三举行主教祝圣仪式，这一行为可能会导致与梵蒂冈的全面分裂。 该团体名为圣庇护十世协会 (SSPX)，由天主教徒于 1970 年创立，他们反对 1960 年代梵蒂冈第二届大公会议对教会进行的自由主义改革。 “我恳求你，真心请求你：请你回头吧！”利奥在写给圣庇护十世协会会长达维德·帕利亚拉尼牧师的信中称该计划是分裂行为和“极其严重的罪恶”。 教宗在信中重申，梵蒂冈准备进行对话，并警告相关人员可能会受到负面影响。 他写道：“我敦促你们仔细考虑信徒的精神利益，因为你们即将采取的分裂行为将剥夺他们合法的、在某些情况下甚至是有效接受圣礼的权利。” 根据天主教会法律，任何未经梵蒂冈授权的主教祝圣都必须导致新祝圣的主教和祝圣主教的人自动被逐出教会。 在教会中，被逐出教会意味着个人无法参加天主教徒的圣礼、仪式和精神团契。 圣庇护十世协会已于周一在其位于瑞士埃科内的神学院附近庆祝了五位新神父的任命。 然而，未经教皇同意而祝圣主教被视为严重违反教会法。 1988年，SSPX创始人法国大主教马塞尔·列斐伏尔祝圣了四位主教，并立即与新主教一起被逐出教会，这一措施于2009年取消。 SSPX 的业务遍及六大洲超过 75 个国家，拥有超过 750 名牧师和近 50 万信徒。 该协会坚持对教义和礼拜传统的严格解释，包括庆祝拉丁弥撒。 它还拒绝梵蒂冈第二届大公会议强加的普世主义——致力于与其他基督教传统更紧密的团结。"
+          },
+          "reflection": {
+            "en": "This story draws attention to faithfulness under pressure and spiritual courage. Hebrews 10:23 reminds us to meet sharp headlines with steadfast faith and prayerful witness, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到在压力下的忠信与属灵勇气。Hebrews 10:23提醒我们，在快速变化的新闻里，仍要以坚定的信心与祷告见证来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:10",
+            "textEn": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+            "textZh": "为义受逼迫的人有福了，因为天国是他们的。",
+            "themeEn": "Blessed persecution",
+            "themeZh": "为义受迫"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-india-congress-ajay-rai-claims-arrest-amid-ram-temple-embe",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/india-congress-ajay-rai-claims-arrest-amid-ram-temple-embezzlement-row/a-77764170?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/74874859_6.jpg",
+          "publishedAt": "2026-06-30T09:30:00.000Z",
+          "title": {
+            "en": "India: Congress' Ajay Rai claims 'arrest' amid Ram temple embezzlement row",
+            "zh": "印度：国大党领导人阿贾伊·拉伊在罗摩神庙贪污丑闻中声称“被捕”"
+          },
+          "summary": {
+            "en": "Uttar Pradesh Congress leader Ajay Rai claimed he was detained in Ayodhya while attempting to visit the Ram temple amidst an ongoing embezzlement controversy.",
+            "zh": "印度北方邦国大党领导人阿贾伊·拉伊声称，在围绕罗摩神庙的贪污丑闻持续发酵之际，他试图参观该神庙时被拘留。"
+          },
+          "body": {
+            "en": "Uttar Pradesh Congress leader Ajay Rai claimed he was being detained in Ayodhya as he tried to visit the Ram temple amid an ongoing embezzlement controversy.\n\nThe head of India's opposition Congress party in the state of&#160;Uttar Pradesh,&#160;Ajay Rai, alleged that he was held by police authorities at his hotel in the northern city of Ayodhya, just as he arrived with a party delegation on Monday to visit the Shri Ram Janmabhoomi Mandir amid an ongoing graft row.&#160;\n\n\"The BJP government's dictatorship has reached its peak!\" Rai said in a post on X, blaming Prime Minister Narendra Modi's Bharatiya Janata Party for the \"arrest.\"&#160;\n\n\"I had just arrived in Ayodhya when the BJP government got so scared that the police arrested me from the hotel and are taking me away in their jeep,\" he said in the post.\n\nRai's post included a video which showed the regional opposition leader seated on a chair in a hotel room while at least two police officers in uniform stood by.\n\nThe leader questioned the officers&#160;why the government had an issue with him offering prayers at the temple. Officers, cordial and smiling, said they would ensure he offered&#160;prayers but requested him to understand their position.&#160;\n\nRai's wife released a video statement&#160;late Monday night saying she feared for his safety.&#160;\n\nRai and a larger Congress party delegation are&#160;scheduled to visit the Ram Mandir on Tuesday, amid a growing controversy over claims that donations to the temple have been embezeled. It is unclear if opposition politicians will now visit the temple.\n\nInaugurated by Prime Minister Narendra Modi in January 2024, the Shri Ram Janmabhoomi Mandir is a symbol of success for India's ruling Hindu nationalist government.\n\nThe construction of the temple itself was controversial&#160;as it was built on the grounds of the Babri mosque, demolished by violent&#160;Hindu nationalist mobs in 1992. Building this grand temple was a central promise of Modi and his ministers' campaign before coming to power in 2014 and then again in 2019.&#160;\n\nThe temple trust was set up under the Home Ministry's notification, and its trustees include known associates of Prime Minister Narendra Modi and his government.\n\nOpposition leaders and critics are now trying to draw links between the Modi government and the alleged theft, with the controversy turning into a political battleground between&#160;the ruling&#160;Bharatiya Janata Party&#160;(BJP) government and opposition parties.\n\nUttar Pradesh state officials are currently looking into the graft allegations. On Monday, a local court in Ayodhya sent all accused in the so-called donation scam to two weeks of judicial custody, according to a Hindustan Times report.\n\nDon't let the algorithm hide the news. If you rely on our...",
+            "zh": "北方邦国大党领袖阿贾伊·拉伊 (Ajay Rai) 声称，他在阿约提亚 (Ayodhya) 被拘留，因为他在一场持续的贪污争议中试图参观拉姆神庙。 印度北方邦反对党国大党主席阿贾伊·拉伊 (Ajay Rai) 声称，周一，他在北部城市阿约提亚 (Ayodhya) 的酒店内被警方拘留，当时他正与该党代表团一起抵达 Shri Ram Janmabhoomi Mandir，当时正值一场持续的贪污纠纷。 “人民党政府的独裁已经达到了顶峰！”拉伊在 X 上发帖称，指责总理纳伦德拉·莫迪领导的印度人民党实施了“逮捕”。 他在帖子中说：“我刚抵达阿约提亚，印度人民党政府就非常害怕，以至于警察从酒店逮捕了我，并用吉普车将我带走。” 拉伊的帖子包括一段视频，显示该地区反对派领导人坐在酒店房间的椅子上，至少两名身穿制服的警察站在旁边。 领导人质问官员为什么政府对他在寺庙祈祷有异议。官员们亲切而微笑，表示他们会确保他祈祷，但要求他理解他们的立场。 拉伊的妻子周一晚间发布了一份视频声明，表示她担心他的安全。 拉伊和一个规模更大的国大党代表团定于周二访问拉姆神庙，目前有关寺庙捐款被挪用的争议日益激烈。目前还不清楚反对派政客现在是否会参观这座寺庙。 Shri Ram Janmabhoomi Mandir 于 2024 年 1 月由纳伦德拉·莫迪总理揭幕，是印度执政的印度教民族主义政府成功的象征。 寺庙的建设本身就存在争议，因为它是在巴布里清真寺的基础上建造的，该清真寺于 1992 年被印度教民族主义暴徒暴力拆除。建造这座宏伟的寺庙是莫迪及其部长们在 2014 年上台和 2019 年上台之前的竞选活动中的核心承诺。 该寺庙信托基金是根据内政部的通知成立的，其受托人包括总理纳伦德拉·莫迪及其政府的知名助手。 反对派领导人和批评者现在试图将莫迪政府与所谓的盗窃行为联系起来，这场争议已成为执政的印度人民党 (BJP) 政府和反对党之间的政治战场。 北方邦州官员目前正在调查腐败指控。据《印度斯坦时报》报道，周一，阿约提亚当地法院将所有涉嫌所谓捐赠诈骗的被告判处两周司法拘留。 不要让算法隐藏新闻。如果您信赖我们的..."
+          },
+          "reflection": {
+            "en": "An embezzlement controversy surrounding a religious site raises questions about integrity and accountability in public life. Yahweh's word reminds us that faithfulness in small matters reflects one's character and trustworthiness in larger responsibilities. This principle calls all, especially leaders, to uphold honesty in their dealings.",
+            "zh": "围绕宗教场所的贪污丑闻引发了人们对公共生活中诚信和问责制的质疑。雅伟的话语提醒我们，在小事上的忠心反映了一个人在更大责任上的品格和可信度。这一原则呼吁所有人，特别是领导者，在他们的交往中坚持诚实。"
+          },
+          "verse": {
+            "reference": "Luke 16:10",
+            "textEn": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.",
+            "textZh": "人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。",
+            "themeEn": "Faithful in little",
+            "themeZh": "小事上忠心"
+          },
+          "aiVerseId": "luke_16_10",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-pauline-hanson-australia-monoculture-debate-",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/pauline-hanson-australia-monoculture-debate-japan-immigration/8k12lxkox",
+          "image": "https://assets.sbs.com.au/dims4/default/e637659/2147483647/strip/false/crop/1920x882+0+99/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fd7%2Fda%2Ff3bd81124626b3ce8bf66d9afd51%2Fgfx-290626-japan-monoculture-lead-image.png",
+          "publishedAt": "2026-06-30T04:58:02.000Z",
+          "title": {
+            "en": "The country that's been dragged in to Australia's 'monoculture' debate",
+            "zh": "被卷入澳大利亚“单一文化”辩论的国家"
+          },
+          "summary": {
+            "en": "Pauline Hanson has cited Japan as an example of monoculturalism in Australia's ongoing debate about national identity and cultural diversity. However, experts contend that Japan's cultural reality is far more intricate than a simple monocultural label suggests.",
+            "zh": "宝琳·汉森在澳大利亚关于国家认同和文化多样性的持续辩论中，将日本视为单一文化的典范。然而，专家们认为，日本的文化现实远比简单的单一文化标签所暗示的要复杂得多。"
+          },
+          "body": {
+            "en": "When Pauline Hanson called for Australia to become a \"monocultural\" society at the National Press Club earlier this month, she reached for Japan.\n\nBut as the country became shorthand in Australia's debate over immigration and multiculturalism, experts say the comparison obscures more than it explains.\n\nJapan, with a population around four times larger than Australia &#x2014; was praised by the One Nation leader as a model of monoculturalism .\n\n\"Japan has a monoculture, so what's wrong with Australia having a monoculture?\" Hanson told Seven's Sunrise program last week.\n\nOpposition leader Angus Taylor was asked what he thought of the statement but told Channel Nine's Today show last week \"I don't know what a monoculture means\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nBut he did make clear, \"I hear ... it's something like looking like Japan. I don't want Australia to look like Japan.\"\n\nOn Monday Liberal backbencher Andrew Hastie sought to criticise Hanson's vision, but also dampened the idea of multiculturalism, which the prime minister gave an impassioned defence of on the same day.\n\n\"How do you police that (a monoculture)? Do we want government more involved in our lives, policing who fits into Pauline Hanson&#x2019;s definition of Australian culture and who doesn&#x2019;t?\n\n\"Monoculture and multicultural &#x2014; they&#x2019;re two extremes in a sense,\" Hastie told the ABC's Background Briefing programme.\n\nExperts have cast doubt on the characterisation and pointed to the economic uplift migration has brought Japan's manufacturing industries.\n\nPeter Chai, a research associate in political science and economics at Waseda University in Tokyo told SBS News that population data shows that Japan is not a monoculture.\n\n\"Right now, foreign labour makes up around three to four per cent of the population. So, compared to some Western countries, that level is still low, but compared to historical levels in Japan, that is actually a very high level,\" Chai said.\n\n\"There's been a huge increase in [immigration] in recent years and with that ... Japan is becoming more diverse in terms of its population and ethnicity\".\n\nIn agriculture and farming, a monoculture can be simply defined. It's the practice of growing a single species of crop over an area of land.\n\nWhen applied to sociology, the term can take on multiple meanings. It can reference limited diversity within ethnic, linguistic or religious groups and even describe norms in food and fashion.\n\nBut Professor Alan Gamlen, director of the Australian National University's Migration Hub, believes the notion of a monocultural population is a myth.\n\n\"A monocultural society is a made-up term ... there are no existing...",
+            "zh": "当宝琳·汉森本月早些时候在国家新闻俱乐部呼吁澳大利亚成为一个“单一文化”社会时，她把目光投向了日本。 但随着这个国家成为澳大利亚关于移民和多元文化主义辩论的速记，专家表示，这种比较掩盖的内容多于它所解释的内容。 日本的人口大约是澳大利亚的四倍，被一国党领导人称赞为单一文化主义的典范。 “日本是单一文化，那么澳大利亚也有单一文化有什么问题吗？”汉森上周接受了七号台的日出节目采访。 反对党领袖安格斯·泰勒被问及他对这一声明有何看法，但他上周告诉第九频道的“今日”节目“我不知道单一文化意味着什么”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 但他确实明确表示，“我听说……这有点像日本。我不希望澳大利亚看起来像日本。” 周一，自由党后座议员安德鲁·哈斯蒂试图批评汉森的愿景，但也削弱了多元文化主义的理念，而总理在同一天对此进行了热情的辩护。 “你如何监管（单一文化）？我们是否希望政府更多地参与我们的生活，监管谁符合宝琳·汉森对澳大利亚文化的定义，谁不符合？ “单一文化和多元文化——从某种意义上说，它们是两个极端，”哈斯蒂告诉美国广播公司的背景简报节目。 专家们对这种描述提出了质疑，并指出移民给日本制造业带来了经济提升。 东京早稻田大学政治学和经济学助理研究员 Peter Chai 告诉 SBS 新闻，人口数据表明日本并不是一个单一文化国家。 “目前，外籍劳工约占人口的百分之三到四。因此，与一些西方国家相比，这个水平仍然很低，但与日本的历史水平相比，这实际上是一个非常高的水平，”柴说。 “近年来[移民]大幅增加……日本的人口和种族变得更加多样化”。 在农业和种植业中，可以简单地定义单一栽培。这是在一块土地上种植单一品种作物的做法。 当应用于社会学时，该术语可以具有多种含义。它可以提及种族、语言或宗教群体内有限的多样性，甚至可以描述食品和时尚的规范。 但澳大利亚国立大学移民中心主任艾伦·加姆伦教授认为，单一文化人口的概念是一个神话。 “单一文化社会是一个虚构的术语……不存在现有的……"
+          },
+          "reflection": {
+            "en": "The debate over national \"monoculture\" invites us to consider how we treat those who reside among us but are perceived as different. Yahweh's ancient command reminds us to welcome foreigners as if they were native-born, extending love and remembering our shared human experience of being outsiders at some point. This perspective encourages a society that...",
+            "zh": "关于国家“单一文化”的辩论促使我们思考如何对待那些居住在我们中间却被视为异乡的人。雅伟古老的诫命提醒我们，要像对待本地人一样欢迎寄居者，爱他们，并记住我们都曾是异乡人的共同经历。这种视角鼓励一个拥抱多元贡献的丰富性，而非坚持僵硬单一性的社会。"
+          },
+          "verse": {
+            "reference": "Leviticus 19:33-34",
+            "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
+            "textZh": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
+            "themeEn": "Foreigner as native-born",
+            "themeZh": "待寄居者如本族"
+          },
+          "aiVerseId": "lev_19_33",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-deliberate-explosion-rocks-monaco-ukrainian-",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/deliberate-explosion-rocks-monaco-ukrainian-oligarch-injured/n0b4267v8",
+          "image": "https://assets.sbs.com.au/dims4/default/f61a214/2147483647/strip/false/crop/5924x2722+0+614/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Faf%2F9f%2F9b202a6c423fa301865a4ddcda6b%2F20260609169549893888-original.jpg",
+          "publishedAt": "2026-06-30T01:55:49.000Z",
+          "title": {
+            "en": "'Deliberate' explosion rocks Monaco, Ukrainian oligarch injured",
+            "zh": "摩纳哥发生“蓄意”爆炸，乌克兰寡头受伤"
+          },
+          "summary": {
+            "en": "Monaco's minister of state reported that a \"deliberate\" explosion, which injured a Ukrainian oligarch, was the first such incident ever recorded in the principality.",
+            "zh": "摩纳哥国务大臣报告称，一起“蓄意”爆炸事件造成一名乌克兰寡头受伤，这是该公国首次发生此类事件。"
+          },
+          "body": {
+            "en": "A blast from an explosive device wounded Ukrainian oligarch Vadym Yermolaiev and two others in Monaco on Tuesday, authorities said, in a \"deliberate\" act unprecedented in the principality.\n\nThree people, including a teenager, were wounded in the explosion that struck around 9pm Monday local time (5am Tuesday AEST) in a residential building on a street along the border with France.\n\nA source close to the investigation who asked not to be named told the Agence France-Presse (AFP) news agency that one of those wounded was Yermolaiev.\n\nMonaco's minister of state Christophe Mirmand initially told AFP the blast appeared to be \"an attack\", but later dropped that term, describing it as a \"deliberate explosion\".\n\nMonaco's Prince Albert II described the incident as a \"heinous crime\" and \"a shock to the entire Monegasque community\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nAn aide to France's interior minister Laurent Nunez said police were working \"to find the perpetrator, who has fled\".\n\nAn AFP photographer at the scene saw a heavy police presence with access to the area cordoned off, while a helicopter circled overhead.\n\nPublic prosecutor Stephane Thibault said a suspect had left a bag or package in the building's lobby before leaving.\n\nNothing appeared for the moment to indicate why the building might have been targeted, he said.\n\nA couple in their 50s or 60s wounded in the blast were in life-threatening conditions, while a 13-year-old who was \"very likely related to the couple\" suffered less serious injuries, Mirmand said, without disclosing their identities.\n\nEmergency services treated four other people for shock and cuts from windows shattered in the blast.\n\n\"This is the first time in history, to my knowledge, that such an act has taken place in the principality,\" he said.\n\nYermolaiev, a multi-millionaire Monaco resident, has been subject to sanctions from Kyiv since December 2023, which Ukrainian security services reportedly said stemmed from his alcohol business activity in Russian-occupied Crimea.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "当局称，摩纳哥周二发生爆炸装置爆炸，造成乌克兰寡头瓦迪姆·耶尔莫拉耶夫和另外两人受伤，这是该公国前所未有的“蓄意”行为。 当地时间周一晚上 9 点左右（澳大利亚东部标准时间周二上午 5 点），中法边境街道上的一栋住宅楼发生爆炸，造成三人受伤，其中包括一名青少年。 一位不愿透露姓名的知情人士告诉法新社，其中一名受伤者是叶尔莫拉耶夫。 摩纳哥国务大臣克里斯托夫·米尔芒最初告诉法新社，爆炸似乎是“一次袭击”，但后来放弃了这个词，将其描述为“故意爆炸”。 摩纳哥阿尔贝二世亲王形容这一事件是“令人发指的罪行”，“震惊了整个摩纳哥社区”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 法国内政部长洛朗·努涅斯的一名助手表示，警方正在努力“寻找已逃亡的肇事者”。 现场的法新社摄影师看到大量警察驻守，进入该地区的通道被封锁，一架直升机在头顶盘旋。 检察官斯蒂芬·蒂博表示，嫌疑人在离开前将包或包裹留在了大楼的大厅里。 他说，目前没有任何迹象表明该建筑可能成为袭击目标。 米尔曼德表示，爆炸中受伤的一对 50 多岁或 60 多岁的夫妇生命垂危，而一名“很可能与这对夫妇有亲戚关系”的 13 岁青少年伤势较轻，但没有透露他们的身份。 紧急服务人员对另外四人进行了救治，他们因爆炸中窗户破碎而受到惊吓，并被割伤。 他说：“据我所知，这是历史上第一次在公国发生这样的行为。” 亿万富翁摩纳哥居民耶尔莫拉耶夫自 2023 年 12 月以来一直受到基辅的制裁，据报道乌克兰安全部门称，制裁源于他在俄罗斯占领的克里米亚的酒类商业活动。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+          },
+          "reflection": {
+            "en": "A deliberate act of violence, especially in a place known for peace, reminds us of the persistent presence of evil in the world. Even when confronted with such darkness, Yahweh calls us not to be overcome by it, but to seek ways to overcome evil with good. This requires a steadfast commitment to peace and justice, even amidst disruption.",
+            "zh": "在一个以和平著称的地方发生蓄意暴力事件，提醒我们世上邪恶的持续存在。即使面对这样的黑暗，雅伟也呼召我们不要被邪恶所胜，而是要寻求以善胜恶的方法。这要求我们即使在混乱中，也要坚定不移地致力于和平与公义。"
+          },
+          "verse": {
+            "reference": "Romans 12:21",
+            "textEn": "Do not be overcome by evil, but overcome evil with good.",
+            "textZh": "你不可为恶所胜，反要以善胜恶。",
+            "themeEn": "Overcoming evil with good",
+            "themeZh": "以善胜恶"
+          },
+          "aiVerseId": "rom_12_21",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-venezuela-earthquake-death-toll-tops-1700-in",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/venezuela-earthquake-death-toll-tops-1700/inaji0sw7",
+          "image": "https://assets.sbs.com.au/dims4/default/6fe25bf/2147483647/strip/false/crop/5210x2394+0+540/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F41%2F56%2Fdac7a86a40b890984ef8a6134cd2%2F20260630178290941044-original.jpg",
+          "publishedAt": "2026-06-29T20:59:31.000Z",
+          "title": {
+            "en": "Venezuela earthquake death toll tops 1,700 as public anger over government response grows",
+            "zh": "委内瑞拉地震死亡人数超1,700人，公众对政府反应的愤怒日益增长"
+          },
+          "summary": {
+            "en": "An earthquake in Venezuela has led to over 1,700 deaths, and public frustration is mounting due to the government's slow disaster response.",
+            "zh": "委内瑞拉地震已造成逾1,700人死亡，公众对政府迟缓的救灾反应日益不满。"
+          },
+          "body": {
+            "en": "The United States military raced to reopen a major port in Venezuela to ease aid deliveries on Tuesday, as deaths from last week's twin earthquakes reached more than 1,700, with tens of thousands still reported missing.\n\nFive days after powerful back-to-back quakes flattened entire neighbourhoods of multi-story buildings in the coastal state of La Guaira, hopes of finding survivors are fading.\n\nAt a makeshift morgue set up in a port warehouse in La Guaira, hundreds of bodies were stored in white and black body bags and coffins waiting to be identified, a correspondent for the Agence France-Presse (AFP) news agency reported.\n\nDozens of relatives waited outside for news of their families as forensic personnel in blue uniforms examined the corpses.\n\n\"There were 11 people in my household; only two of us survived because we were at work,\" Wilker Molalla told AFP.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"My family is there &#x2014; I'm told my sister and her children are there, as well as the children of my brother.\"\n\nMeanwhile, US Marines were working to repair the quake-hit port to allow the delivery of supplies and equipment, a US administration official told journalists in Washington.\n\nUS Air Force personnel were already helping to restore traffic at Sim&#xF3;n Bol&#xED;var International Airport near Caracas, which was also damaged in one of the worst quake disasters in Latin American history.\n\nUS helicopters have been ferrying in aid, and US Marines have used a landing craft to deliver supplies from the USS Fort Lauderdale, an amphibious transport dock ship docked at La Guaira.\n\nThe chances of finding anyone alive beneath metres-deep rubble have dwindled since the critical 72-hour window passed.\n\nBut a WhatsApp message ignited hopes of a miraculous find beneath the rubble, more than 120 hours after the disaster.\n\nA woman wrote to the caretaker of a collapsed apartment building in Caraballeda, one of the worst-hit areas, about 40km from Caracas, to say she was still alive, volunteer rescuer Daniel Pino told AFP.\n\nAlso on Monday, a 21-year-old identified as Aaron Levi was rescued in the nearby town of Tanaguarena, according to a video released by a photographer who witnessed the complex operation to extract him.\n\nVenezuelans are growing increasingly frustrated with what they see as the sluggish response of their US-backed government to the disaster.\n\nSome 3,150 people were injured in Thursday's 7.2- and 7.5-magnitude quakes, which were also felt in neighbouring Colombia. They were Venezuela's worst earthquakes in more than a century.\n\nA strong aftershock on Monday shortly after 7am local time (9pm AEST) was measured by the US Geological Survey at magnitude...",
+            "zh": "周二，美国军方竞相重新开放委内瑞拉的一个主要港口，以缓解援助物资的运送，上周两次地震造成的死亡人数已超过 1,700 人，据报道仍有数万人失踪。 五天后，沿海国家拉瓜伊拉的连续发生强烈地震，整个街区的多层建筑被夷为平地，寻找幸存者的希望正在破灭。 据法新社记者报道，在拉瓜伊拉港口仓库搭建的临时停尸房里，数百具尸体被存放在白色和黑色的尸袋和棺材中等待辨认。 数十名亲属在外面等待家人的消息，身着蓝色制服的法医人员正在检查尸体。 威尔克·莫拉拉告诉法新社：“我家里有 11 口人；只有我们两个人幸存，因为我们正在工作。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “我的家人在那里——有人告诉我，我姐姐和她的孩子们都在那里，还有我哥哥的孩子们。” 与此同时，一名美国政府官员在华盛顿告诉记者，美国海军陆战队正在努力修复受地震影响的港口，以便运送物资和设备。 美国飞行员已经在帮助恢复加拉加斯附近西蒙·玻利瓦尔国际机场的交通，该机场也在拉丁美洲历史上最严重的地震灾难之一中受损。 美国直升机一直在运送援助物资，美国海军陆战队使用登陆艇从停靠在拉瓜伊拉的两栖船坞运输舰劳德代尔堡号运送物资。 自关键的 72 小时窗口期过去以来，在数米深的废墟下找到生还者的机会已经减少。 但灾难发生 120 多个小时后，一条 WhatsApp 消息点燃了人们对在废墟下发现奇迹的希望。 志愿者救援人员丹尼尔·皮诺告诉法新社，一名妇女写信给卡拉巴莱达一栋倒塌公寓楼的管理员，卡拉巴莱达是受灾最严重的地区之一，距离加拉加斯约 40 公里。 同样在周一，一名 21 岁的亚伦·莱维 (Aaron Levi) 在附近的塔纳瓜雷纳 (Tanaguarena) 镇获救，一名目睹了营救过程的摄影师发布的视频显示，他目睹了营救过程的复杂过程。 委内瑞拉人对美国支持的政府对灾难反应迟缓感到越来越沮丧。 周三晚上发生的 7.2 级和 7.5 级地震造成约 3,150 人受伤，邻国哥伦比亚也有震感。这是委内瑞拉一个多世纪以来最严重的地震。 美国地质调查局测量到周一上午 7 点（澳大利亚东部标准时间晚上 9 点）后不久发生了 4.6 级强烈余震，并补充道..."
+          },
+          "reflection": {
+            "en": "In the wake of a devastating earthquake, the growing public anger in Venezuela highlights the deep human expectation for leaders to act swiftly and compassionately in times of crisis. Proverbs reminds us that when those in authority fail to serve their people effectively, especially the suffering, it often leads to widespread distress and groaning.",
+            "zh": "在毁灭性地震之后，委内瑞拉日益增长的公众愤怒凸显了人们对领导者在危机时刻迅速而富有同情心地采取行动的深切期望。箴言提醒我们，当掌权者未能有效服务他们的人民，特别是那些受苦之人时，往往会导致普遍的痛苦和哀叹。"
+          },
+          "verse": {
+            "reference": "Proverbs 29:2",
+            "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
+            "textZh": "义人增多，民就喜乐；恶人掌权，民就叹息。",
+            "themeEn": "Righteous vs wicked rulers",
+            "themeZh": "义人执政与恶人当道"
+          },
+          "aiVerseId": "prov_29_2",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-alarm-over-alleged-abuse-in-french-schools-and-nurseries-a",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/alarm-over-alleged-abuse-in-french-schools-and-nurseries/a-77729372?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/65811473_6.jpg",
+          "publishedAt": "2026-06-29T19:43:00.000Z",
+          "title": {
+            "en": "Alarm over alleged abuse in French schools and nurseries",
+            "zh": "法国学校和幼儿园涉嫌虐待儿童事件引发警报"
+          },
+          "summary": {
+            "en": "Hundreds of alleged cases of physical and sexual assault against children in French nurseries and elementary schools have revealed flaws in the system, experts say. They argue that reforms are urgently needed.",
+            "zh": "专家表示，法国幼儿园和小学数百起针对儿童的身体和性侵犯指控暴露了系统性缺陷，亟需改革。"
+          },
+          "body": {
+            "en": "Hundreds of alleged cases of physical and sexual assault against children in French nurseries and elementary schools have revealed flaws in the system, experts say. They argue that reforms are urgently needed.\n\nA series of alleged cases of sexual and physical assault is shining a light on fundamental problems in France 's nursery and junior school system. Politicians have promised&#160;reform&#160;— but experts say their plans&#160;don't go far enough.\n\nEver since April 8, 2026, Charlotte, who doesn't want her real name revealed to protect her son's identity, feels like she's cut off from her emotions.\n\nThat day, her 4-year-old son told her that a teaching assistant, called Ryan, had sexually assaulted him. At his elementary school Gustave Bienvetu in the Parisian suburb of Colombes.\n\n\"At first, I thought I had misunderstood — it seemed unimaginable that this should happen to my son. When it finally sunk in, it felt like the heavens were falling down on me,\" she told DW.\n\nCharlotte and her husband alerted the school and town hall to the events. The teaching assistant was almost instantly suspended.\n\n\"According to the law, the mayor's office should have immediately alerted the prosecutor but it only did so two weeks later,\" she said, adding that other families at the school should have also been informed quickly.\n\n\"When this didn't happen, we pressed charges for sexual assault and told other parents about what had occurred,\" Charlotte said.\n\nTwo other families lodged complaints against Ryan: one for exhibitionism, as their son allegedly witnessed the scene with Charlotte's son. A&#160;second child also reported&#160;being&#160;sexually assaulted by the teaching assistant.\n\nThe town hall has refuted&#160;Charlotte's allegations. \"The prosecutor was alerted after an incompressible time span needed for the drafting of a report that had to be written in a just and precise manner,\" the&#160;mayor's office wrote in an email to DW, adding that support was provided to the affected families.\n\nBut Anne, the co-founder of SOS Periscolaires, a collective that's taking stock of reports of physical and sexual molestation of children in nurseries and junior schools, said authorities across France are often&#160;slow to react. Her public sector job prohibits her from revealing her last name.\n\n\"It's a recurring pattern that we've seen in many of the more than 500 cases of sexual or physical violence we've registered since our foundation in 2021,\" she told DW.\n\nAnne thinks France's teaching assistant sector has become a playground for predators , as it's very easy to get employed there.\n\n\"Non-teaching staff are managed by the town hall or an external company. In the latter case, which we think makes up about 40%, playground assistants don't need to be trained and...",
+            "zh": "专家表示，法国托儿所和小学发生的数百起针对儿童的身体和性侵犯案件暴露了该系统的缺陷。他们认为迫切需要改革。 一系列涉嫌性侵犯和身体侵犯的案件揭示了法国托儿所和初中系统的根本问题。政客们承诺进行改革，但专家表示他们的计划还不够。 自2026年4月8日起，为了保护儿子的身份而不愿透露自己真实姓名的夏洛特，感觉自己的情感被切断了。 那天，她 4 岁的儿子告诉她，一名名叫瑞安 (Ryan) 的助教对他进行了性侵犯。他在位于巴黎郊区科伦布的 Gustave Bienvetu 小学就读。 她告诉德国之声：“起初，我以为我误会了——这似乎难以想象会发生在我儿子身上。当我最终明白这一点时，我感觉天塌下来了。” 夏洛特和她的丈夫向学校和市政厅通报了这一事件。助教几乎立即被停职。 她说：“根据法律，市长办公室应该立即通知检察官，但他们只是在两周后才这样做。”她补充说，学校的其他家庭也应该很快得到通知。 夏洛特说：“当这种情况没有发生时，我们提出性侵犯指控，并将发生的事情告诉其他家长。” 另外两个家庭对瑞安提出了投诉：其中一个家庭因暴露癖而投诉，因为他们的儿子据称目睹了与夏洛特儿子的场景。第二个孩子也报告说遭到助教的性侵犯。 市政厅驳斥了夏洛特的指控。市长办公室在给德国之声的电子邮件中写道：“起草报告所需的时间难以压缩，因此检察官收到了通知，报告必须以公正和准确的方式撰写。”并补充说，已经向受影响的家庭提供了支持。 但 SOS Periscolaires 的联合创始人安妮表示，法国各地当局往往反应迟缓。SOS Periscolaires 是一个正在盘点托儿所和初中儿童身体和性骚扰报告的组织。她的公共部门工作禁止她透露自己的姓氏。 她告诉德国之声：“自 2021 年成立以来，我们已登记了 500 多起性暴力或身体暴力案件，在许多案件中，这种模式反复出现。” 安妮认为法国的助教行业已经成为掠夺者的游乐场，因为那里很容易找到工作。 “非教学人员由市政厅或外部公司管理。在后一种情况下，我们认为约占 40%，操场助理不需要接受培训，而且……"
+          },
+          "reflection": {
+            "en": "The reports of alleged abuse in schools highlight the profound vulnerability of children and the sacred trust placed in those who care for them. Yahweh's word reminds us of the severe consequences for anyone who causes a child to stumble, underscoring the urgent need for robust protections and accountability in all institutions.",
+            "zh": "学校中被指控的虐待事件凸显了儿童的极度脆弱性，以及对看护者所寄予的神圣信任。雅伟的话语提醒我们，任何使儿童跌倒的人都将面临严重的后果，这强调了所有机构都迫切需要健全的保护措施和问责制。"
+          },
+          "verse": {
+            "reference": "Matthew 18:6",
+            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
+            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
+            "themeEn": "Woe to those who harm children",
+            "themeZh": "使小子跌倒的祸"
+          },
+          "aiVerseId": "matt_18_6",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-pride-month-has-great-significance-for-those-who-feel-invi",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/pride-month-has-great-significance-for-those-who-feel-invisible-in-slovenia-many-lgbtq-people-understand-just-what-that-means/a-77753587?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/77759115_6.jpg",
+          "publishedAt": "2026-06-29T17:40:00.000Z",
+          "title": {
+            "en": "Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means",
+            "zh": "骄傲月对那些感到被忽视的人意义重大。在斯洛文尼亚，许多LGBTQ+群体深知这意味着什么"
+          },
+          "summary": {
+            "en": "Slovenia's new right-wing government removed the rainbow flag from outside the Culture Ministry, an action that has drawn attention to the situation of the LGBTQ+ community in the country as Pride Month concludes.",
+            "zh": "斯洛文尼亚新任右翼政府将文化部外的彩虹旗撤下，此举在骄傲月临近尾声之际，引发了人们对该国LGBTQ+群体境况的关注。"
+          },
+          "body": {
+            "en": "One of the first steps taken by Slovenia's new right-wing government in June was to remove the rainbow flag outside the Culture Ministry. As Pride Month draws to a close, DW surveys the situation of the LGBTQ+ community.\n\nPride Month, in June,&#160;assumes greater significance if you feel invisible for the rest of the year. And many LGBTQ+ people in Slovenia understand just what that means.\n\nThere is no district — or even a single street — in the picturesque capital, Ljubljana, which could truly qualify as \"gay friendly.\" The same goes for the country's other, smaller cities.\n\n\"In the sense of physical places that would be explicitly LGBT-friendly, there are not a lot,\" said Barbara Rajgelj, a lawyer who also co-runs a city center bar that stages events for gay people in Ljubljana.\n\nRajgelj is concerned that intolerance encouraged by political leaders is having a growing impact in her country.\n\n\"Safe spaces will be more and more important, because the violence is coming from the top down, from parliament to the digital media and to the physical spaces. And I can see that people are more and more courageous in explicitly expressing their hate,\" she told DW.\n\nIn previous years, Pride Month and its various&#160;events would have offered some of those safe spaces.\n\nIt has also served as an annual reminder that despite the dearth of physical infrastructure,&#160;Slovenia has a thriving LGBTQ+ community.\n\nBut this year, Pride Month has been less joyous than usual — in large part due to Slovenia's recently-installed right-wing government .\n\nIt decided that the run-up to the centerpiece Pride Parade in Ljubljana on June 13 was the perfect time to take down the rainbow flag, which had been flying outside the Culture Ministry.\n\nAs justification, an official statement insisted that the ministry \"must represent all citizens and all cultural creators, regardless of their personal beliefs, identities or worldviews.\"\n\nIt did not elaborate on how it was representing LGBTQ+ people by removing the rainbow flag or whether appeasing homophobic views was now official policy.\n\nUnder the previous, center-left government of Robert Golob , the flag had always flown throughout Pride Month. Indeed, the outgoing government raised it at the start of June, before the new prime minister, Janez Jansa , took office a few days later.\n\nRemoving the rainbow flag was one of the first actions of his new administration. And as far as campaigners for LGBTQ+ rights in Slovenia are concerned, that sent a powerful signal.\n\n\"Even though we expected this would happen, it was still extremely symbolic, making sure that we understand — within the LGBT&#160;community and society — that things have changed,\" said Simona Mursec, the organizer of Ljubljana Pride .\n\nThose changes are already being...",
+            "zh": "斯洛文尼亚新右翼政府六月采取的首要措施之一就是拆除文化部外的彩虹旗。随着骄傲月接近尾声，德国之声对 LGBTQ+ 群体的状况进行了调查。 如果您在这一年余下的时间里感到隐形，那么六月的骄傲月就显得更加重要。斯洛文尼亚的许多 LGBTQ+ 人士都明白这意味着什么。 在风景如画的首都卢布尔雅那，没有一个地区——甚至是一条街道——可以真正成为“同性恋友好区”。该国其他较小的城市也是如此。 “就明确对 LGBT 友好的实体场所而言，并不多，”律师芭芭拉·拉杰杰 (Barbara Rajgelj) 说，她也是卢布尔雅那一家市中心酒吧的共同经营者，该酒吧为同性恋者举办活动。 Rajgelj 担心政治领导人鼓励的不宽容现象在她的国家产生越来越大的影响。 “安全空间将变得越来越重要，因为暴力是自上而下，从议会到数字媒体再到实体空间。我可以看到人们越来越勇敢地明确表达他们的仇恨，”她告诉德国之声。 在前几年，骄傲月及其各种活动会提供一些安全空间。 它还每年提醒人们，尽管斯洛文尼亚缺乏物质基础设施，但拥有蓬勃发展的 LGBTQ+ 社区。 但今年的骄傲月没有往常那么欢乐——这在很大程度上是由于斯洛文尼亚最近上台的右翼政府。 委员会决定，6 月 13 日在卢布尔雅那举行的核心骄傲游行前夕，是摘下一直飘扬在文化部外的彩虹旗的最佳时机。 作为理由，一份官方声明坚称文化部“必须代表所有公民和所有文化创造者，无论他们的个人信仰、身份或世界观如何。” 它没有详细说明如何通过移除彩虹旗来代表 LGBTQ+ 人群，也没有详细说明安抚仇视同性恋的观点是否已成为官方政策。 在前任罗伯特·戈洛布（Robert Golob）的中左翼政府领导下，这面旗帜在整个骄傲月期间一直飘扬。事实上，即将卸任的政府在六月初提出了这个问题，几天后新总理雅内兹·扬萨就职。 摘掉彩虹旗是他的新政府的首要行动之一。对于斯洛文尼亚 LGBTQ+ 权利活动人士而言，这发出了一个强有力的信号。 卢布尔雅那骄傲节的组织者西莫娜·穆塞克 (Simona Mursec) 表示：“尽管我们预计会发生这种情况，但这仍然极具象征意义，可以确保 LGBT 社区和社会内部了解情况已经发生变化。” 这些改变已经在……"
+          },
+          "reflection": {
+            "en": "The feeling of invisibility can be deeply painful, especially when a community's presence is symbolically erased. Yahweh's word reminds us that every person is created in His image, bearing inherent dignity and worth. This truth calls us to recognize and honor the unique value of all individuals, ensuring no one feels unseen or unheard.",
+            "zh": "当一个群体的存在被象征性地抹去时，那种被忽视的感觉会带来深刻的痛苦。雅伟的话语提醒我们，每个人都是按祂的形象所造，拥有固有的尊严和价值。这一真理呼召我们去承认并尊重所有个体的独特价值，确保没有人感到被忽视或不被听见。"
+          },
+          "verse": {
+            "reference": "Genesis 1:27",
+            "textEn": "So God created mankind in his own image, in the image of God he created them; male and female he created them.",
+            "textZh": "神就照着自己的形象造人，乃是照着他的形象造男造女。",
+            "themeEn": "Image of God",
+            "themeZh": "神的形象"
+          },
+          "aiVerseId": "gen_1_27",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-simon-peter-carman-thailand-murder-charge-tu",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/simon-peter-carman-thailand-murder-charge-tunchanok-donhomla-june-2026/814cvnpe6",
+          "image": "https://assets.sbs.com.au/dims4/default/727941b/2147483647/strip/false/crop/2048x941+0+224/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F3a%2Fa0%2F184a02974adc932ff5539020c493%2F20260629121455144638-original.jpg",
+          "publishedAt": "2026-06-29T10:22:24.000Z",
+          "title": {
+            "en": "Police reveal final messages of Thai teenager before she was allegedly killed by Australian",
+            "zh": "警方披露泰国少女遇害前最后信息，嫌犯为澳大利亚人"
+          },
+          "summary": {
+            "en": "Police in Thailand have provided details regarding the murder case of a Thai teenager, for which an Australian man has been charged.",
+            "zh": "泰国警方公布了一名泰国青少年被谋杀案的详细信息，一名澳大利亚男子已被控谋杀罪。"
+          },
+          "body": {
+            "en": "Thai teenager Tunchanok Donhomla texted her friends that she was safe just hours before she died, the Thai police chief overseeing the case of a 46-year-old Australian man charged with murder in the country has told SBS News.\n\nSimon Peter Carman, from the Victorian town of Ballarat, was arrested at Bangkok's main international airport on Friday evening while allegedly trying to leave the country on a Jetstar flight to Perth.\n\nHe was charged with murder after the body of Donhomla,17, was found stuffed into a black suitcase and left beside a railway line in the resort town of Pattaya, according to local media reports.\n\nThe Australian denies the charge and issued a message to the victim's family saying he \"feels bad\" for her death.\n\nHe also denies further charges related to taking a minor for sexual purposes and moving or concealing a body.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThai police colonel Anek Srathongyoo, superintendent of Pattaya City Police, has described to SBS News the hours leading up to the death of the young girl nicknamed \"Cake\".\n\n\"According to Simon&#x2019;s interrogation, Simon said he had strangled her until she was motionless, then brought her body into the bathroom. He must have been clueless to find a solution, so he stuffed her in the suitcase and left it [next to the railway track],\" Srathongyoo said.\n\nPolice allege that Carman picked up the teenager near the Jomtien Beach area of Pattaya in the early hours of Thursday morning. CCTV footage shows the pair walking hand in hand at the entrance of a residential building.\n\nThai media and police say a violent argument broke out between the pair, allegedly over the payment of sexual services, which escalated into a fatal struggle.\n\nSrathongyoo said the couple was \"probably\" arguing about their \"private relationship\", but that this was Carman's version of events.\n\nWhen she arrived at his room, Donhomla messaged her friends via the locally popular Line messaging app that she was going to stay with Carman, Srathongyoo said.\n\n\"'I've arrived at [his] apartment. The room is so messy,'\" Srathongyoo said the message read. He said it was sent so her friends knew \"she had arrived so they didn't have to worry\".\n\nCarman initially denied involvement but later claimed to have acted in self-defence and alleges the teenager threatened him with a kitchen knife.\n\nIn footage taken by police, Carman expressed regret to the girl's family, while also denying he killed their loved one.\n\n\"I feel bad for what happened to your daughter. It was out of my control,\" he said.\n\nSrathongyoo added that, while police operate across Pattaya to ensure safety, protecting people in private spaces such as hotel rooms is...",
+            "zh": "负责监督一名在该国被控谋杀的 46 岁澳大利亚男子案件的泰国警察局长告诉 SBS 新闻，泰国青少年 Tunchanok Donhomla 在去世前几小时给朋友发短信说她很安全。 来自维多利亚小镇巴拉瑞特的西蒙·彼得·卡曼于周五晚上在曼谷主要国际机场被捕，据称当时他试图乘坐捷星航空飞往珀斯的航班离开该国。 据当地媒体报道，17 岁的 Donhomla 的尸体被发现塞在一个黑色手提箱中，并被留在度假胜地芭堤雅的一条铁路线旁，随后他被指控犯有谋杀罪。 《澳大利亚人报》否认这一指控，并向受害者家属发出信息，称他对她的死亡“感到难过”。 他还否认了与未成年人发生性行为以及移动或隐藏尸体有关的进一步指控。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 泰国警察上校、芭堤雅市警察局局长 Anek Srathongyoo 向 SBS 新闻描述了这名绰号为“蛋糕”的年轻女孩死亡前的几个小时。 “根据西蒙的审讯，西蒙说他勒死了她，直到她一动不动，然后把她的尸体带进浴室。他一定是找不到解决办法，所以他把她塞进了手提箱，然后把它留在了[铁轨旁边]，”Srathongyoo说。 警方称，卡曼周四凌晨在芭堤雅乔木提恩海滩地区附近接走了这名少年。闭路电视录像显示，两人手牵着手在一栋住宅楼的入口处行走。 泰国媒体和警方称，两人之间爆发了暴力争吵，据称是为了支付性服务费用，最终升级为一场致命的争斗。 斯拉通尤说，这对夫妇“可能”正在争论他们的“私人关系”，但这是卡曼对事件的版本。 斯拉通尤说，当她到达他的房间时，多霍拉通过当地流行的 Line 消息应用程序向她的朋友发消息，她将和卡曼住在一起。 “‘我已经到了（他的）公寓。房间太乱了’，”Srathongyoo 说，信息中写道。他说，发送这封信是为了让她的朋友们知道“她已经到了，这样他们就不用担心”。 卡曼最初否认参与，但后来声称自己的行为是出于自卫，并声称这名少年用菜刀威胁他。 在警方拍摄的视频中，卡曼向女孩的家人表示遗憾，同时否认自己杀害了他们的亲人。 “我为你女儿的遭遇感到难过。这超出了我的控制范围，”他说。 Srathongyoo 补充说，虽然警察在芭堤雅各地行动以确保安全，但保护私人空间中的人们，例如......"
+          },
+          "reflection": {
+            "en": "The tragic news of a teenager's alleged murder reminds us of the profound vulnerability of the young and the sacred duty to protect them. Yahweh's word warns against causing harm to children, highlighting the severe moral gravity of such acts. As investigations unfold, we pray for justice and for comfort for all who mourn this senseless loss.",
+            "zh": "这名青少年被谋杀的悲剧性新闻提醒我们，年轻人是多么脆弱，以及保护他们的神圣职责。雅伟的话语警告我们不要伤害儿童，强调此类行为的严重道德后果。随着调查的展开，我们为正义祈祷，也为所有为这毫无意义的损失而悲伤的人祈求安慰。"
+          },
+          "verse": {
+            "reference": "Matthew 18:6",
+            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
+            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
+            "themeEn": "Woe to those who harm children",
+            "themeZh": "使小子跌倒的祸"
+          },
+          "aiVerseId": "matt_18_6",
+          "translationState": "localized"
+        }
+      ]
+    },
+    "china": {
+      "id": "china",
+      "title": {
+        "en": "China Desk",
+        "zh": "中国观察"
+      },
+      "strap": {
+        "en": "Policy signals, social change, and national developments inside China.",
+        "zh": "聚焦中国内部政策走向、社会变化与国家动态。"
+      },
+      "sourceNotes": [
+        "The Guardian China",
+        "BBC News China Focus",
+        "DW Asia China Focus"
+      ],
+      "items": [
+        {
+          "id": "www-theguardian-com-world-2026-jun-30-china-clear-winner-trump-war-middl",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz",
+          "image": "https://i.guim.co.uk/img/media/d0af69917e2dc253bffcc793ffcce5046de4279e/411_0_2725_2180/master/2725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ef3a0df1452ff1e32714823005665ce",
+          "publishedAt": "2026-06-30T11:11:58.000Z",
+          "title": {
+            "en": "China is a clear winner from Trump’s war in Middle East, report concludes",
+            "zh": "报告得出结论，中国是特朗普中东战争的明显赢家"
+          },
+          "summary": {
+            "en": "Beijing, whose stockpiles and renewables industry allowed it to withstand energy shock, is now gaining from global solar and EV push China has emerged as the sole winner in Asia from the strait of Hormuz crisis, according to a report published on Tuesday. The report by the Asia...",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Beijing, whose stockpiles and renewables industry allowed it to withstand energy shock, is now gaining from global solar and EV push China has emerged as the sole winner in Asia from the strait of Hormuz crisis, according to a report published on Tuesday. The report by the Asia Group thinktank concluded that China had weathered the storm of the global commodities crisis resulting from the closure of the Middle Eastern waterway, and also stood to gain from the economic and geopolitical trends sparked by the wider conflict. Continue reading...",
+            "zh": "北京的库存和可再生能源产业使其能够抵御能源冲击，目前正从全球太阳能和电动汽车的推动中获益。根据周二发布的一份报告，中国已成为亚洲摆脱霍尔木兹海峡危机的唯一赢家。亚洲集团智囊团的报告得出的结论是，中国经受住了因中东航道关闭而引发的全球大宗商品危机风暴，也将从更广泛的冲突引发的经济和地缘政治趋势中受益。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-30-guo-wengui-chinese-tycoon-sentence",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
+          "image": "https://i.guim.co.uk/img/media/f5f90f5bcbe9e5f984816e15175fd926b63386cd/565_0_4038_3231/master/4038.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e17a3da83823471679ed9cf7a49d1c22",
+          "publishedAt": "2026-06-30T04:22:07.000Z",
+          "title": {
+            "en": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
+            "zh": "中国大亨郭文贵因欺诈罪在美国被判30年监禁"
+          },
+          "summary": {
+            "en": "Exiled Chinese tycoon Guo Wengui has been sentenced to 30 years in a US federal prison after being convicted on nine charges, including money laundering, for defrauding thousands of people.",
+            "zh": "流亡海外的中国大亨郭文贵因欺诈数千人，被判犯有包括洗钱在内的九项罪名，被美国联邦法院判处30年监禁。"
+          },
+          "body": {
+            "en": "Guo Wengui, who gained fans for criticising China’s Communist party, was found guilty in 2024 on nine charges including money laundering A US federal court has sentenced exiled Chinese tycoon Guo Wengui to 30 years in prison, after he was convicted of defrauding thousands of people out of more than $1bn. In July 2024 , a jury unanimously found Guo, also known as Ho Wan Kwok and Miles Guo, guilty on nine of 12 charges, including securities offences, wire fraud and money laundering. The FBI arrested Guo, who is in his fifties, in March 2023 at his luxury Manhattan apartment overlooking Central Park. Continue reading...",
+            "zh": "因批评中国共产党而赢得粉丝的郭文贵于 2024 年被判犯有包括洗钱在内的 9 项罪名。美国联邦法院判处流亡中国大亨郭文贵 30 年监禁，此前他被判诈骗数千人超过 10 亿美元。 2024 年 7 月，陪审团一致裁定郭（又名何万郭和文贵先生）犯有 12 项罪名中的 9 项，包括证券犯罪、电汇欺诈和洗钱。 2023 年 3 月，联邦调查局 (FBI) 在郭先生位于曼哈顿、俯瞰中央公园的豪华公寓逮捕了五十多岁的郭先生。继续阅读..."
+          },
+          "reflection": {
+            "en": "This news reminds us of the destructive power of greed, as the pursuit of wealth can lead individuals to betray trust and cause widespread harm. Yahweh's word warns that the love of money is a root of all kinds of evil, often leading to sorrow and ruin.",
+            "zh": "这则新闻提醒我们贪婪的破坏力，对财富的追求可能导致个人背弃信任并造成广泛的伤害。雅伟的话语警告说，贪财是万恶之根，常常带来悲伤和毁灭。"
+          },
+          "verse": {
+            "reference": "1 Timothy 6:10",
+            "textEn": "For the love of money is a root of all kinds of evil.",
+            "textZh": "贪财是万恶之根。",
+            "themeEn": "Love of money",
+            "themeZh": "贪财"
+          },
+          "aiVerseId": "1tim_6_10",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cjeg15vw3z9o-at-medium-rss-at-campaign-rss",
+          "section": "china",
+          "source": "BBC News China Focus",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c1d/live/f85c62b0-7417-11f1-8709-f3ededd8395d.jpg",
+          "publishedAt": "2026-06-30T02:08:21.000Z",
+          "title": {
+            "en": "Chinese tycoon sentenced to 30 years in US jail",
+            "zh": "中国大亨在美国被判30年监禁"
+          },
+          "summary": {
+            "en": "A Chinese tycoon, Guo Wengui, who presented himself as a critic of China, has been sentenced to 30 years in a US prison for orchestrating fraudulent schemes that attracted numerous followers.",
+            "zh": "中国大亨郭文贵自称是中国批评者，通过欺诈性计划吸引追随者，现已被判处在美国监狱服刑30年。"
+          },
+          "body": {
+            "en": "Guo Wengui, who was once believed to be one of China's richest businessmen, has been sentenced to 30 years in jail in the US for running a billion dollar scam.\n\nThe former property tycoon fled China to the US in 2017, where he reinvented himself as a Communist Party critic and built a loyal online following.\n\nBut Guo was later convicted on charges of racketeering, fraud and money laundering .\n\nNew York court judge Analisa Torres said Guo had \"preyed on those seeking to bring democracy to China\", taking their money to fund his lavish lifestyle.\n\nGuo - who goes by several names, including Miles Guo and Ho Wan Kwok - was sentenced in a courtroom packed with his supporters.\n\nUS attorney Sean S Buckley told the BBC: \"Rather than being satisfied with the many legitimate opportunities afforded to him, Guo exploited the trust that thousands had placed in him for his own greed.\"\n\n\"Today's sentence shows that fame and wealth do not place you above the law, and that fraudsters who victimise families to enrich themselves will be met with significant consequences,\" Buckley said.\n\nBefore fleeing China, Guo built a fortune as a property developer and had good ties with the country's government.\n\nBut he sought asylum in the US after being accused by top Chinese officials of corruption.\n\nGuo became a critic of China's Communist regime and cultivated a wide online following among the Chinese community in the US.\n\nProsecutors said Guo raised more than $1bn (£760m) from online followers, who joined him in investment and cryptocurrency schemes between 2018 and 2023.\n\nThe money he raised was used to fund Guo's lavish lifestyle which included a 50,000 square foot mansion, a $1m Lamborghini and a $37m yacht, they said.\n\nGuo denied the allegations, saying the funds were used for his political activism.\n\nHe had built ties with other China critics, including Steve Bannon, a former adviser to US President Donald Trump.\n\nBannon and Guo often appeared in online videos and, in 2020, launched a campaign called the New Federal State of China, with the goal of overthrowing the Chinese Communist Party.\n\nLater that year, Bannon was arrested on Guo's yacht in Connecticut. Bannon was charged in an unrelated case with fraud in an alleged scheme to defraud people who funded a not-for-profit company to build a US-Mexico border wall.\n\nBannon entered a guilty plea in a Manhattan court to a first degree scheme to defraud charge and received a sentence of conditional discharge for three years.\n\nHe also faced federal charges over the wall campaign after he was indicted by a federal grand jury, but the prosecution came to a halt after Trump pardoned him in the final hours of his first White House term .",
+            "zh": "曾被认为是中国最富有的商人之一的郭文贵因诈骗10亿美元而在美国被判处30年监禁。 这位前房地产大亨于 2017 年逃离中国前往美国，在那里他将自己重塑为一名共产党批评者，并在网上建立了一批忠实的追随者。 但郭后来因敲诈勒索、欺诈和洗钱罪被定罪。 纽约法院法官阿娜丽莎·托雷斯 (Analisa Torres) 表示，郭文贵“掠夺了那些寻求为中国带来民主的人”，拿走他们的钱来资助他奢华的生活方式。 郭文贵有多个名字，包括郭文贵和何云国，他在法庭上被判刑，法庭上挤满了他的支持者。 美国律师肖恩·S·巴克利 (Sean S Buckley) 告诉英国广播公司 (BBC)：“郭并没有满足于为他提供的许多合法机会，而是利用了数千人对他的信任来满足自己的贪婪。” 巴克利说：“今天的判决表明，名誉和财富并不能让你凌驾于法律之上，那些为了自己中饱私囊而伤害家庭的诈骗犯将面临严重后果。” 在逃离中国之前，郭作为房地产开发商积累了巨额财富，并与中国政府关系良好。 但在被中国高级官员指控腐败后，他在美国寻求庇护。 郭成为中国共产党政权的批评者，并在美国华人社区中培养了广泛的网络追随者。 检察官称，郭从在线追随者那里筹集了超过 10 亿美元（7.6 亿英镑），这些追随者在 2018 年至 2023 年间与他一起参与了投资和加密货币计划。 他们说，他筹集的资金用于资助郭的奢华生活方式，其中包括一座 50,000 平方英尺的豪宅、一辆价值 100 万美元的兰博基尼和一艘价值 3700 万美元的游艇。 郭否认这些指控，称这些资金用于他的政治活动。 他与其他中国批评者建立了联系，其中包括美国总统唐纳德·特朗普的前顾问史蒂夫·班农。 班农和郭文贵经常出现在网络视频中，并在2020年发起了一场名为“新中国联邦”的运动，目标是推翻中国共产党。 同年晚些时候，班农在郭文贵在康涅狄格州的游艇上被捕。班农在另一起不相关的案件中被指控犯有欺诈罪，涉嫌诈骗资助一家非营利公司修建美墨边境墙的人。 班农在曼哈顿一家法院对一级诈骗指控认罪，并被判处有条件释放三年。 在被联邦大陪审团起诉后，他还因筑墙运动而面临联邦指控，但在特朗普在第一个白宫任期的最后几个小时赦免他后，起诉停止了。"
+          },
+          "reflection": {
+            "en": "This story reminds us that Yahweh values integrity and truthfulness in all dealings, especially in financial matters. While the pursuit of wealth can be tempting, true prosperity is built on honesty and ethical conduct, which delights Yahweh.",
+            "zh": "这个故事提醒我们，雅伟在一切交易中都看重正直和诚实，尤其是在财务方面。虽然追求财富可能充满诱惑，但真正的昌盛是建立在正直和道德行为之上的，这令雅伟喜悦。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:1",
+            "textEn": "Yahweh detests dishonest scales, but accurate weights find favor with him.",
+            "textZh": "诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。",
+            "themeEn": "Yahweh hates fraud",
+            "themeZh": "雅伟厌恶诡诈"
+          },
+          "aiVerseId": "prov_11_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-29-eu-sets-up-three-months-of-talks-w",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
+          "image": "https://i.guim.co.uk/img/media/ce68f51760a2b21baac17b06024a53e4c4759b97/0_0_3318_2657/master/3318.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b66f47e8bae416551bb047843290b710",
+          "publishedAt": "2026-06-29T18:33:51.000Z",
+          "title": {
+            "en": "EU sets up three months of talks with China over €360bn trade deficit",
+            "zh": "欧盟就3600亿欧元贸易逆差与中国展开为期三个月的谈判"
+          },
+          "summary": {
+            "en": "The European Union and China have agreed to three months of talks to address a significant €360bn trade deficit, aiming to create a more balanced bilateral relationship and avert a potential trade war after weeks of rising tensions.",
+            "zh": "欧盟与中国已同意进行为期三个月的谈判，以解决高达3600亿欧元的贸易逆差问题，旨在建立更平衡的双边关系，并在数周的紧张局势后避免潜在的贸易战。"
+          },
+          "body": {
+            "en": "Two sides agree to try to make bilateral relationship ‘more balanced’ after weeks of threats The EU and China have agreed to enter three months of talks to try to avoid a trade war over the bloc’s €360bn (£310bn) annual import/export imbalance. In their first joint statement in seven years, the two sides agreed in Brussels to open a formal trade consultation after weeks of threats and recriminations from China if the EU imposed any measures to stop the flood of goods and components into the bloc. Continue reading...",
+            "zh": "经过数周的威胁，双方同意努力使双边关系“更加平衡” 欧盟和中国同意进行为期三个月的谈判，以避免因欧盟每年 3600 亿欧元（3100 亿英镑）的进出口失衡而爆发贸易战。在七年来的首份联合声明中，双方同意在布鲁塞尔举行正式贸易磋商，此前中国连续数周发出威胁和指责，如果欧盟采取任何措施阻止商品和零部件大量涌入欧盟，两国将启动正式贸易磋商。继续阅读..."
+          },
+          "reflection": {
+            "en": "In a world often quick to escalate disputes, the agreement between the EU and China to engage in talks to resolve trade imbalances offers a hopeful example of pursuing peace. Yahweh's word encourages us to live at peace with everyone, as far as it depends on us, seeking common ground even amidst significant disagreements. This diplomatic effort reflects a...",
+            "zh": "在一个常常迅速升级争端的世界里，欧盟与中国同意通过谈判解决贸易不平衡问题，提供了一个追求和平的充满希望的范例。雅伟的话语鼓励我们，只要我们能做到，就尽力与所有人和平相处，即使在重大分歧中也要寻求共同点。这种外交努力体现了对话而非冲突的承诺，通过耐心的谈判争取建立平衡的关系。"
+          },
+          "verse": {
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
+          },
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-environment-2026-jun-26-weather-tracker-heatwave-ger",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures",
+          "image": "https://i.guim.co.uk/img/media/9ca939259c24906af5e1117aa8d61cd38492ea41/231_0_3528_2823/master/3528.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d6ba0c29e6d893affde88dd274956bd",
+          "publishedAt": "2026-06-26T08:22:52.000Z",
+          "title": {
+            "en": "Weather tracker: Heatwave expected to bring Germany and Poland to 40C",
+            "zh": "天气追踪：德国和波兰预计将迎来40摄氏度高温热浪"
+          },
+          "summary": {
+            "en": "An intense heatwave is expected to bring temperatures up to 40C in parts of central and northern Europe, including Germany and Poland. The Austrian Grand Prix has declared a heat hazard due to the dramatic rise in temperatures.",
+            "zh": "预计一股强烈的热浪将使中欧和北欧部分地区（包括德国和波兰）的气温升至40摄氏度。由于气温急剧上升，奥地利大奖赛已宣布高温危险。"
+          },
+          "body": {
+            "en": "Austrian Grand Prix declares heat hazard as dramatic rise in temperatures forecast in central and northern Europe Temperatures are forecast to rise dramatically in parts of central and northern Europe this weekend as the intense heatwave continues . In Germany and Poland, highs up to or exceeding 40C (104F) are expected on both Saturday and Sunday, days after swathes of France experienced similar extreme temperatures. The Austrian Grand Prix, taking place this weekend in Spielberg, has declared a heat hazard , the first race to do so this season. Temperatures are expected to rise into the low 30s celsius during the race, almost 10C warmer than usual for the venue. Across Europe, the intense heat has led to severe thunderstorms. In the Sverdlovsk region of central Russia, a strong tornado was reported on the evening of 22 June. Rated a 3 out of 5 on the international Fujita scale, the twister injured 16 people and destroyed or damaged about 100 homes and businesses in the town of Kushva. Emergency services have been working on restoring power to the town. Tornadoes are not unheard of in Russia but are rare. Forecasters say they may become more common in future as the climate breaks down. Storm warnings remained in effect in the southern part of the country on Friday. Continue reading...",
+            "zh": "预计中欧和北欧气温将急剧上升，奥地利大奖赛宣布存在热危险 随着强烈热浪的持续，预计本周末中欧和北欧部分地区气温将大幅上升。在德国和波兰，预计周六和周日气温将达到或超过 40 摄氏度（104 华氏度），几天前法国大片地区也经历了类似的极端气温。本周末在斯皮尔伯格举行的奥地利大奖赛已宣布出现高温危险，这是本赛季第一场这样做的比赛。预计比赛期间气温将升至 30 摄氏度，比平时高出近 10 摄氏度。在整个欧洲，酷热导致了严重的雷暴天气。 6月22日晚，俄罗斯中部斯维尔德洛夫斯克地区报告出现强烈龙卷风。国际藤田等级评定为 3 级（满分 5 级），龙卷风造成 16 人受伤，并摧毁或损坏了库什瓦镇约 100 所房屋和企业。紧急服务部门一直致力于恢复该镇的供电。龙卷风在俄罗斯并非闻所未闻，但很罕见。预报员表示，随着气候的恶化，它们未来可能会变得更加普遍。周五，该国南部地区的风暴警告仍然有效。继续阅读..."
+          },
+          "reflection": {
+            "en": "The dramatic rise in temperatures across Europe reminds us that creation itself is experiencing distress. As the natural world groans under changing conditions, we are called to reflect on our interconnectedness with the earth and its well-being. This intense heatwave serves as a poignant reminder of the broader challenges facing our shared home.",
+            "zh": "欧洲气温的急剧上升提醒我们，受造界本身正在经历痛苦。当自然界在不断变化的环境下发出呻吟时，我们被呼召反思我们与地球及其福祉的相互关联。这场强烈热浪是对我们共同家园所面临的更广泛挑战的深刻提醒。"
+          },
+          "verse": {
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
+          },
+          "aiVerseId": "rom_8_22",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-26-xi-jinping-china-host-of-world-lea",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers",
+          "image": "https://i.guim.co.uk/img/media/cced5e8d877235ab62a03c59fed11947410c432d/740_496_2749_2198/master/2749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ecb2eb4d61b12cd7c5dacdc45a49dac",
+          "publishedAt": "2026-06-26T01:28:11.000Z",
+          "title": {
+            "en": "Xi Jinping has hosted more than a dozen leaders this year, as ‘middle powers’ look beyond the US",
+            "zh": "习近平今年接待了十几位领导人，‘中间力量’超越美国寻求合作"
+          },
+          "summary": {
+            "en": "China's leader, Xi Jinping, has hosted numerous world leaders this year, aiming to promote an alternative global order. This effort is reportedly aided by the perceived unpredictability of the United States, prompting 'middle powers' to explore new international alignments.",
+            "zh": "中国领导人习近平今年接待了多位世界各国领导人，旨在推动一种替代性的全球秩序。据报道，美国的反复无常助长了这一努力，促使“中等强国”寻求新的国际结盟。"
+          },
+          "body": {
+            "en": "China’s leader wants to promote his alternative to the current world order, and his efforts are being assisted by a capricious US Xi Jinping meets Bangladesh’s new prime minister on Friday, the latest in a wave of world leaders to visit Beijing this year as the Chinese leader builds his influence and economic ties, and seeks to “shift the balance of power” away from the west. Xi’s meeting with Tarique Rahman comes less than two weeks after the Chinese leader welcomed Myanmar’s military chief-turned-president, Min Aung Hlaing, in Beijing. Continue reading...",
+            "zh": "中国领导人希望推行他对当前世界秩序的替代方案，他的努力得到了反复无常的美国的协助。习近平周五会见了孟加拉国新总理，这是今年访问北京的一波世界领导人中最新的一位，中国领导人正在建立影响力和经济联系，并寻求“改变力量平衡”，远离西方。习近平与塔里克·拉赫曼的会面是在中国领导人在北京欢迎缅甸军方最高领导人、现任总统敏昂莱之后不到两周。继续阅读..."
+          },
+          "reflection": {
+            "en": "The news highlights how nations are drawn to leaders who articulate a clear vision for the future, especially when existing global structures seem uncertain. Proverbs 29:18 reminds us that without a guiding vision, people and nations can lose their way. This underscores the profound impact of leadership that offers a coherent path forward.",
+            "zh": "这则新闻强调，当现有的全球秩序显得不确定时，各国会被那些为未来描绘清晰愿景的领导人所吸引。箴言29:18提醒我们，没有指引的异象，人民和国家就会迷失方向。这突显了提供连贯前进道路的领导力所产生的深远影响。"
+          },
+          "verse": {
+            "reference": "Proverbs 29:18",
+            "textEn": "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom's instruction.",
+            "textZh": "没有异象，民就放肆；惟遵守律法的，便为有福。",
+            "themeEn": "Need for vision",
+            "themeZh": "国家需要异象"
+          },
+          "aiVerseId": "prov_29_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-business-2026-jun-25-uk-to-halve-tariff-free-steel-i",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal",
+          "image": "https://i.guim.co.uk/img/media/ba25b2c9a003e87e4d2f3bc493ac7e78c2b90d53/625_0_2934_2348/master/2934.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f1a9ec7c9b5d37be5a91497b0b85b61",
+          "publishedAt": "2026-06-25T11:53:20.000Z",
+          "title": {
+            "en": "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
+            "zh": "英国将削减免关税钢材进口量以应对廉价中国金属过剩"
+          },
+          "summary": {
+            "en": "The UK government announced it will halve the amount of tariff-free steel imports, doubling duties on quantities exceeding the new quota. This measure, mirrored by similar changes in EU limits, aims to counter a global oversupply of cheap Chinese metal and support domestic industry.",
+            "zh": "英国政府宣布将把免关税钢材进口量减半，超出新配额的进口将加倍征收关税。此举与欧盟的类似调整相呼应，旨在应对全球廉价中国金属的过剩供应，并扶持本国产业。"
+          },
+          "body": {
+            "en": "Duty on imports outside new quota will double in move echoing similar changes in EU limits Business live – latest updates The UK government will halve the amount of tariff-free steel imports allowed in an attempt to counter a global oversupply of cheap Chinese metal and bolster its beleaguered local industry. New “safeguards” will be introduced on 1 July and will coincide with similar new limits being introduced by the EU for the same purposes. The UK said it and the EU had agreed an approach that reflected each other’s “highly interconnected supply chains” after months of negotiations over retaining tariff-free access between the markets. Continue reading...",
+            "zh": "新配额之外的进口关税将翻倍，与欧盟限制的类似变化相呼应英国政府将允许的免关税钢铁进口量减半，以应对全球廉价中国金属供应过剩的问题，并提振陷入困境的当地工业。新的“保障措施”将于 7 月 1 日推出，并将与欧盟出于相同目的推出的类似新限制同时实施。继续阅读..."
+          },
+          "reflection": {
+            "en": "Nations often grapple with balancing economic interests and ensuring fair trade practices. Proverbs 11:1 reminds us that Yahweh values honest dealings and just measures in commerce. This principle encourages leaders to seek equitable solutions that promote integrity in global markets.",
+            "zh": "国家常在经济利益与确保公平贸易实践之间寻求平衡。箴言11:1提醒我们，雅伟看重商业中的诚实交易和公正的度量。这一原则鼓励领导者寻求公平的解决方案，以促进全球市场的诚信。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:1",
+            "textEn": "Yahweh detests dishonest scales, but accurate weights find favor with him.",
+            "textZh": "诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。",
+            "themeEn": "Yahweh hates fraud",
+            "themeZh": "雅伟厌恶诡诈"
+          },
+          "aiVerseId": "prov_11_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jun-25-china-spacesail-rival-elon-musk-st",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/25/china-spacesail-rival-elon-musk-starlink-space-satelites-low-earth-orbit",
+          "image": "https://i.guim.co.uk/img/media/6b0da2af99836567391c3a2d5caf77fd28ea017f/808_88_2903_2322/master/2903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5343e3d72d01ca6847caeaa4bb4edb3b",
+          "publishedAt": "2026-06-25T01:02:55.000Z",
+          "title": {
+            "en": "What is China’s SpaceSail, and could it rival Elon Musk’s Starlink?",
+            "zh": "中国的“太空帆”是什么？它能与埃隆·马斯克的星链竞争吗？"
+          },
+          "summary": {
+            "en": "China's state-backed SpaceSail project is developing a satellite internet constellation to compete with Elon Musk's Starlink. With hundreds of satellites in low Earth orbit, the company is reportedly negotiating with dozens of countries.",
+            "zh": "中国国家支持的“太空帆”项目正在开发一个卫星互联网星座，旨在与埃隆·马斯克的星链竞争。该公司目前在近地轨道拥有数百颗卫星，据报道正在与数十个国家进行谈判。"
+          },
+          "body": {
+            "en": "The company has just a few hundred satellites in low Earth orbit but has state backing and is already reportedly negotiating with dozens of countries Elon Musk’s Starlink has long dominated the satellite internet industry, but a Chinese government-backed project is aiming to challenge its position. SpaceSail has just a few hundred satellites in low Earth orbit compared with Starlink’s 10,000-plus. But the company says it now has enough satellites to begin its first commercial application, is scaling up at speed, and is reportedly negotiating with dozens of countries to provide satellite internet coverage. Continue reading...",
+            "zh": "该公司在近地轨道上只有几百颗卫星，但有国家支持，据报道已经与数十个国家进行谈判。埃隆·马斯克的星链长期以来一直主导着卫星互联网行业，但一个中国政府支持的项目旨在挑战其地位。与 Starlink 的 10,000 多颗卫星相比，SpaceSail 在近地轨道上只有几百颗卫星。但该公司表示，它现在拥有足够的卫星来开始其首次商业应用，并且正在快速扩大规模，据报道正在与数十个国家进行谈判以提供卫星互联网覆盖。继续阅读..."
+          },
+          "reflection": {
+            "en": "As nations and companies embark on ambitious technological ventures like SpaceSail, it reminds us of the human drive to innovate and connect the world. Proverbs 16:3 encourages us to commit our plans to Yahweh, trusting that our efforts, when aligned with His purposes, will find success. This perspective can guide us in all our endeavors, from grand...",
+            "zh": "当各国和公司着手像“太空帆”这样雄心勃勃的技术项目时，这提醒我们人类创新和连接世界的动力。箴言16:3鼓励我们将我们的计划交托给雅伟，相信我们的努力，若与祂的旨意相符，必将成功。这种视角可以指导我们所有的努力，无论是宏伟的项目还是日常任务。"
+          },
+          "verse": {
+            "reference": "Proverbs 16:3",
+            "textEn": "Commit to Yahweh whatever you do, and he will establish your plans.",
+            "textZh": "你所做的，要交托雅伟，你所谋的，就必成立。",
+            "themeEn": "Committing work to God",
+            "themeZh": "将工作交托"
+          },
+          "aiVerseId": "prov_16_3",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-film-2026-jun-24-dear-you-review-chinese-romantic-dr",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/film/2026/jun/24/dear-you-review-chinese-romantic-drama-lan-hongchun",
+          "image": "https://i.guim.co.uk/img/media/fdd4fc8d4d73a3e0925be0a9f3e55f9379e76b01/318_0_3247_2597/master/3247.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=5dc5cee802ac5bdf5a4a1b1431983c13",
+          "publishedAt": "2026-06-24T08:00:39.000Z",
+          "title": {
+            "en": "Dear You review – enjoyable Chinese romdram crosses generations as it tracks down a missing husband",
+            "zh": "《亲爱的你》影评：一部跨越世代、追寻失踪丈夫的感人华语爱情剧情片"
+          },
+          "summary": {
+            "en": "The Guardian China reviews \"Dear You,\" a Chinese romantic drama by director Lan Hongchun. The film is a multi-generational family saga, spanning from the 1940s to the present, primarily set in Bangkok, and follows the search for a husband who disappeared in Thailand.",
+            "zh": "《卫报中国》评论了导演蓝鸿春的华语爱情剧情片《亲爱的你》。这部电影是一部跨越几代人的家族传奇，故事从20世纪40年代至今，主要背景设在曼谷，讲述了一个家庭寻找在泰国失踪的丈夫的故事。"
+          },
+          "body": {
+            "en": "Director Lan Hongchun’s family saga feels like a good old-fashioned novel as it goes in search of a man who has disappeared in Thailand With a story that ranges from the 1940s to the present and, although mostly set in Bangkok, revolving largely around Teochew-speaking Chinese from Guangdong, this generations-spanning drama feels like a good old-fashioned novel. A romantic beach read, perhaps, the kind in which coincidences and random accidents cause misunderstandings that last for decades until the truth is finally revealed. It’s sentimental in places, sure, but there’s also a fair bit of salty, bawdy humour to cut the sweetness, lashings of period colour, and impressively naturalistic performances from a mostly non-professional cast. All that has helped to make this an unexpectedly large box-office hit in the People’s Republic last month; and for non-Chinese or Thai rom-dram aficionados anywhere, it’s well worth looking out for. As the story opens in the 21st century in the Chinese city of Shantou, octogenarian Shurou (Iap Sok-jiu) is celebrating her 87th birthday, surrounded by adoring friends, family and neighbours who revere the matriarch, not least for managing to raise three kids on her own in the 1940s and 50s. Her shifty grandson Xiaowei (Hiau-ui), however, is less of a solid citizen and, having got into debt, he decides to travel to Bangkok to find out if Shurou’s husband Zheng Musheng, not seen for decades, could help out since he’s reputed to have made a fortune out there, endowed schools all over Thailand, and had a second family after abandoning Shurou. Continue reading...",
+            "zh": "导演兰鸿春的家庭传奇感觉就像一部优秀的老式小说，讲述了在泰国寻找失踪男子的故事。故事范围从 20 世纪 40 年代至今，虽然主要以曼谷为背景，但主要围绕来自广东的潮州华人展开，这部跨越几代人的戏剧感觉就像一部优秀的老式小说。浪漫的海滩读物，也许是那种巧合和偶然的事故会导致持续数十年的误会，直到真相最终揭晓的类型。当然，它在某些地方是感伤的，但也有一些咸味、下流的幽默来削弱甜蜜，充满时代色彩，以及来自大多数非专业演员的令人印象深刻的自然主义表演。所有这些都使得该片上个月在中华人民共和国取得了意想不到的票房大成功。对于任何地方的非中国或泰国的浪漫剧爱好者来说，这都非常值得一看。故事发生在 21 世纪的中国汕头市，八十多岁的淑柔（叶淑如饰）正在庆祝她的 87 岁生日，周围都是崇拜这位女族长的朋友、家人和邻居，尤其是她在 20 世纪 40 年代和 50 年代设法独自抚养三个孩子。然而，她狡猾的孙子小伟（孝仪饰）却不是一个踏实的公民，负债累累，他决定前往曼谷，看看书柔数十年未见的丈夫郑木胜是否可以帮忙，因为他在外面发了大财，为泰国各地的学校捐款，并在抛弃书柔后有了第二个家庭。继续阅读..."
+          },
+          "reflection": {
+            "en": "The multi-generational search for a missing husband in \"Dear You\" powerfully illustrates the enduring nature of family bonds. This long quest reflects the deep commitment inherent in marriage, where two become one, a union that transcends time and distance. It reminds us that true connection often calls for steadfastness, even in the face of profound...",
+            "zh": "电影《亲爱的你》中跨越几代人寻找失踪丈夫的故事，有力地展现了家庭纽带的持久性。这场漫长的寻觅反映了婚姻中固有的深刻承诺，夫妻二人成为一体，这种结合超越了时间和距离。它提醒我们，真正的连接往往需要坚韧不拔，即使面对巨大的不确定性也是如此。"
+          },
+          "verse": {
+            "reference": "Genesis 2:24",
+            "textEn": "That is why a man leaves his father and mother and is united to his wife, and they become one flesh.",
+            "textZh": "因此，人要离开父母，与妻子连合，二人成为一体。",
+            "themeEn": "Marriage's foundation",
+            "themeZh": "婚姻的根基"
+          },
+          "aiVerseId": "gen_2_24",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-hong-kong-pro-democracy-publisher-jimmy-lai-honored-by-dw-",
+          "section": "china",
+          "source": "DW Asia China Focus",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-asia",
+          "link": "https://www.dw.com/en/hong-kong-pro-democracy-publisher-jimmy-lai-honored-by-dw/a-76991604?maca=en-rss-en-asia-5133-rdf",
+          "image": "https://static.dw.com/image/76129758_6.jpg",
+          "publishedAt": "2026-06-23T15:33:00.000Z",
+          "title": {
+            "en": "Hong Kong pro-democracy publisher Jimmy Lai honored by DW",
+            "zh": "香港亲民主派出版商黎智英获德国之声表彰"
+          },
+          "summary": {
+            "en": "Jimmy Lai, a Hong Kong pro-democracy publisher, has been honored by DW. He founded Hong Kong's largest pro-democracy newspaper before being sentenced to 20 years in prison. His son stated that the award signifies that those who advocate for the freedom of others are not alone.",
+            "zh": "香港亲民主派出版商黎智英获得德国之声表彰。他在被判处20年监禁前，创办了香港最大的亲民主报纸。他的儿子表示，这个奖项表明那些为他人自由而奋斗的人“从不孤单”。"
+          },
+          "body": {
+            "en": "Before being imprisoned for 20 years, Jimmy Lai founded Hong Kong's largest pro-democracy newspaper. His son said the award shows that those who fight for the freedom of others \"are never alone.\"\n\nArriving in Hong Kong as a penniless 12-year-old stowaway from southern China, Jimmy Lai sought only freedom and a future. At the time, Lai could never have imagined how his life would become forever intertwined with this former British colony.\n\n\"I'll sink with the ship, because this place gives me everything,\" said Lai in an interview about Hong Kong with DW a few months before he was taken into custody in December 2020. He was one of the first high-profile figures to be targeted under a&#160;\"national security law\" imposed on Hong Kong by Beijing following a crackdown on pro-democracy protests.\n\nBeijing had said the law would restore Hong Kong \"from chaos to order\" after demonstrations in 2019 opposing an extradition bill morphed into massive protests against Beijing encroaching on Hong Kong's civil liberties .\n\nSince then, the pro-democracy media mogul has spent more than 2,000 days in solitary confinement in Hong Kong's maximum-security Stanley Prison.\n\nLai's years-long trial ended this February, when&#160;the 78-year-old was sentenced to 20 years in prison for \"colluding with foreign forces.\" While he had pleaded not guilty to all charges, his legal team said he will not appeal.\n\nThe sentence is the heaviest punishment handed down so far under the national security law, and Lai's trial has symbolized for many people the severe erosion of press freedom in Hong Kong as part of Beijing's broader strategy to silence critical voices.\n\nIn recognition of his defense of press freedom and freedom of speech, DW honored Jimmy Lai with this year's Freedom of Speech Award &#160;at the annual Global Media Forum in Bonn, Germany, on Tuesday.\n\n\"While we have spoken freely in the defence of independent media, Jimmy, who founded an independent media company because he believed in the rights of the Hong Kong people to receive information, is locked away for those beliefs,\" Jodie Ginsberg, CEO of the Committee to Protect Journalists, said in a speech honoring Lai.\n\n\"The attacks on Apple Daily and its counterparts in Hong Kong presaged the far greater attacks on civil liberties in the years that followed. Jimmy Lai saw this and spoke out. We can honor him today not only by fighting for his freedom, but by defending the freedoms for which he was jailed.\"\n\nSince 2015, the DW Freedom of Speech Award has honored journalists and human rights defenders as a way to call attention to restrictions on press freedom and concerning human rights situations around the world.\n\nSebastien Lai, Jimmy Lai's son and a longtime advocate for his release, told DW in April that \"people who fight...",
+            "zh": "在入狱20年之前，黎智英创办了香港最大的民主报纸。他的儿子表示，该奖项表明那些为他人自由而奋斗的人“永远不会孤单”。 黎智英 (Jimmy Lai) 12 岁，身无分文，从中国南方偷渡到香港，他只寻求自由和未来。当时，黎智英无法想象他的生活将如何与这个前英国殖民地永远交织在一起。 黎智英在 2020 年 12 月被拘留前几个月接受德国之声采访时表示，“我将与船一起沉没，因为这个地方给了我一切。”黎智英是北京在镇压亲民主抗议活动后对香港实施的“国家安全法”中首批成为目标的知名人士之一。 在2019年反对引渡法案的示威演变成针对北京侵犯香港公民自由的大规模抗议活动后，北京曾表示，该法律将使香港“从混乱中恢复秩序”。 此后，这位亲民主媒体大亨在香港戒备森严的赤柱监狱中被单独监禁了 2000 多天。 黎智英长达数年的审判于今年 2 月结束，78 岁的他因“勾结外国势力”被判处 20 年徒刑。虽然他对所有指控均表示不认罪，但他的法律团队表示他不会上诉。 这一判决是迄今为止根据国家安全法作出的最重处罚，对许多人来说，黎智英的审判象征着香港新闻自由的严重侵蚀，而这是北京压制批评声音的更广泛战略的一部分。 为了表彰黎智英对新闻自由和言论自由的捍卫，周二在德国波恩举行的年度全球媒体论坛上，德国之声授予黎智英今年的言论自由奖。 保护记者委员会首席执行官朱迪·金斯伯格(Jodie Ginsberg)在向黎智英致敬的演讲中表示：“虽然我们畅所欲言地捍卫独立媒体，但吉米因为相信香港人民有权接收信息而创立了一家独立媒体公司，但他却因为这些信念而被关起来。” “对《苹果日报》及其香港同行的攻击预示着随后几年对公民自由的更大攻击。黎智英看到了这一点并大声疾呼。今天我们不仅可以通过为他的自由而奋斗，而且可以通过捍卫他被监禁的自由来向他致敬。” 自 2015 年以来，德国之声言论自由奖一直向记者和人权捍卫者授予荣誉，以此呼吁人们关注世界各地对新闻自由的限制和人权状况。 黎智英的儿子塞巴斯蒂安·赖（Sebastien Lai）是黎智英释放的长期倡导者，他在四月份告诉德国之声，“那些反抗的人......"
+          },
+          "reflection": {
+            "en": "Jimmy Lai's recognition, even amidst his imprisonment, highlights the enduring cost of standing for truth and freedom. Yahweh's word reminds us that those who face persecution for righteousness are truly blessed, finding a profound solidarity that transcends their circumstances. This spiritual truth offers hope that their sacrifices are seen and honored,...",
+            "zh": "黎智英在狱中获得表彰，凸显了为真理和自由挺身而出的持久代价。雅伟的话语提醒我们，那些因行义而受逼迫的人是有福的，他们会找到一种超越境况的深刻团结。这个属灵真理带来希望，他们的牺牲是被看见和尊重的，即便人间的公义有时会失落。"
+          },
+          "verse": {
+            "reference": "Matthew 5:10",
+            "textEn": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+            "textZh": "为义受逼迫的人有福了，因为天国是他们的。",
+            "themeEn": "Blessed persecution",
+            "themeZh": "为义受迫"
+          },
+          "aiVerseId": "matt_5_10",
+          "translationState": "localized"
+        }
+      ]
+    },
+    "australia": {
+      "id": "australia",
+      "title": {
+        "en": "Australia Desk",
+        "zh": "澳洲栏目"
+      },
+      "strap": {
+        "en": "Public life, policy, and community stories shaping Australia now.",
+        "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
+      },
+      "sourceNotes": [
+        "The Guardian Australia",
+        "SBS News Australia"
+      ],
+      "items": [
+        {
+          "id": "www-theguardian-com-world-2026-jun-30-thai-teen-girl-murder-australian-m",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/world/2026/jun/30/thai-teen-girl-murder-australian-man-charged-police-investigate-other-unsolved-cases-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/1f03bfe1131fabf1741b2b6a87e377855f96ef58/711_0_1616_1292/master/1616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=034b9ddaf3eda42c98f2af6734483d6a",
+          "publishedAt": "2026-06-30T10:41:40.000Z",
+          "title": {
+            "en": "Thai police investigate if Australian man charged over 17-year-old girl’s murder linked to other unsolved cases",
+            "zh": "泰国警方调查澳籍男子被控谋杀17岁少女案是否与其他未侦破案件有关联"
+          },
+          "summary": {
+            "en": "Thai police are investigating an Australian man charged with the murder of a 17-year-old girl, Thunchanok Donhomla. Authorities are examining potential links between this case and two other unsolved deaths in the same region over the past two years, noting similarities but no definitive evidence yet.",
+            "zh": "泰国警方正在调查一名被控谋杀17岁女孩Thunchanok Donhomla的澳大利亚男子。当局正在审查此案与过去两年在该地区发生的另外两起未侦破死亡案件之间是否存在潜在联系，警方指出存在相似之处，但尚未有确凿证据。"
+          },
+          "body": {
+            "en": "Police say there are similarities but no evidence of links between Thunchanok Donhomla’s alleged murder and two other deaths in past two years in same region Get our breaking news email , free app or daily news podcast Thai police are investigating whether an Australian man charged with murdering a 17-year-old girl could be linked to two unsolved cases in the region. Police colonel Anek Srathongyoo, a superintendent of Pattaya City police station, told the Guardian on Tuesday that although there was no evidence linking Simon Peter Carman to the cases in neighbouring regions, they were investigating the possibility given similarities between the cases. Continue reading...",
+            "zh": "警方表示，Thunchanok Donhomla 涉嫌谋杀案与过去两年同一地区的另外两起死亡事件之间存在相似之处，但没有证据表明存在联系。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 泰国警方正在调查一名被指控谋杀一名 17 岁女孩的澳大利亚男子是否与该地区两起未侦破的案件有关。芭堤雅市警察局局长阿内克·斯拉通尤 (Anek Srathongyoo) 上校周二告诉《卫报》，虽然没有证据表明西蒙·彼得·卡曼与邻近地区的案件有关，但鉴于两起案件有相似之处，他们正在调查这种可能性。继续阅读..."
+          },
+          "reflection": {
+            "en": "The tragic death of a young person reminds us of the profound vulnerability of the innocent and the deep pain caused by such acts. Yahweh's word warns of severe consequences for those who cause harm to the young, underscoring our collective responsibility to protect them.",
+            "zh": "一位年轻生命的悲惨逝去，提醒我们无辜者的脆弱，以及此类行为所造成的深切痛苦。雅伟的话语严厉警告那些伤害孩童的人将面临的后果，强调了我们保护他们的集体责任。"
+          },
+          "verse": {
+            "reference": "Matthew 18:6",
+            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
+            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
+            "themeEn": "Woe to those who harm children",
+            "themeZh": "使小子跌倒的祸"
+          },
+          "aiVerseId": "matt_18_6",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-30-labors-gambling-ad-legisl",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/30/labors-gambling-ad-legislation-a-capitulation-to-industry-lobby-liberal-mp-says",
+          "image": "https://i.guim.co.uk/img/media/0784a73ad362bd4dba4c2e2363df9a10bd6f8180/843_0_6673_5341/master/6673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9a0f7aaf546bbe71ea6e6007f461f8b",
+          "publishedAt": "2026-06-30T09:27:20.000Z",
+          "title": {
+            "en": "Labor’s gambling ad legislation a ‘capitulation’ to industry lobby, Liberal MP says",
+            "zh": "工党赌博广告立法被自由党议员称为向行业游说团体“屈服”"
+          },
+          "summary": {
+            "en": "Opposition parties and crossbenchers have criticized the government's proposed reforms to gambling advertising, calling them insufficient and a \"capitulation\" to industry lobbyists. They argue the measures are too weak to effectively address the issue.",
+            "zh": "反对党和独立议员批评政府提出的赌博广告改革措施，称其力度不足，是对行业游说团体的“屈服”。他们认为这些措施过于软弱，无法有效解决问题。"
+          },
+          "body": {
+            "en": "Coalition, Greens and crossbenchers all say the planned reforms are too weak and the proposals are ‘half-arsed’ Get our breaking news email , free app or daily news podcast Labor’s reforms to gambling advertising have been branded a “capitulation” and “half-arsed” by opponents, as the Liberals and Greens combine to urge the government to go further in cracking down on wagering. Three years this week since the Murphy report recommended a full ad ban, Labor’s proposed wagering reforms have underwhelmed the parliament, with the Coalition, Greens and crossbenchers all saying the changes are too weak – making it unclear whether the government’s bill will have enough support to pass into law. Continue reading...",
+            "zh": "联盟党、绿党和中立议员都表示，计划中的改革太软弱，提案“半途而废”。 工党对赌博广告的改革被反对者称为“投降”和“半途而废”，而自由党和绿党联手敦促政府进一步打击博彩。自墨菲报告建议全面禁止广告以来的本周，工党提出的投注改革方案并未给议会留下深刻的印象，联盟党、绿党和中立议员都表示这些改革力度太弱，这使得政府的法案是否能获得足够的支持以通过成为法律尚不清楚。继续阅读..."
+          },
+          "reflection": {
+            "en": "When leaders are perceived to yield to powerful interests rather than protect the vulnerable, it raises questions about their commitment to justice. Yahweh calls those in authority to actively do what is right, ensuring the oppressed are delivered and no wrong is done to the weak. This story reminds us of the constant need for leaders to prioritize the...",
+            "zh": "当领导者被认为屈服于强大势力而非保护弱势群体时，这引发了对其对正义承诺的质疑。雅伟呼召掌权者积极行义，确保受压迫者得到解救，弱者不受侵害。这个故事提醒我们，领导者需要始终将所有公民的福祉置于特殊利益之上。"
+          },
+          "verse": {
+            "reference": "Jeremiah 22:3",
+            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
+            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
+            "themeEn": "Royal justice mandate",
+            "themeZh": "王者的公义责任"
+          },
+          "aiVerseId": "jer_22_3",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-30-georgie-purcell-antisemit",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/30/georgie-purcell-antisemitic-misogynistic-abuse-jewish-partner-commission-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/59cab8d7dbf2e079e42859c772d05591e6d3099d/585_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6168e9ec8e31ddcbce877b5c0b50eb54",
+          "publishedAt": "2026-06-30T08:42:02.000Z",
+          "title": {
+            "en": "Georgie Purcell facing antisemitic and misogynistic abuse due to having Jewish partner, commission hears",
+            "zh": "乔治·珀塞尔因其犹太伴侣而面临反犹太和厌女辱骂，委员会听证会获悉"
+          },
+          "summary": {
+            "en": "A royal commission investigating antisemitism and social cohesion in Australia has heard evidence that politician Georgie Purcell has been subjected to antisemitic and misogynistic abuse online due to her Jewish partner. The commission is examining the prevalence of hateful speech in digital environments.",
+            "zh": "澳大利亚一项调查反犹太主义和社会凝聚力的皇家委员会听取了证据，指出政治家乔治·珀塞尔因其犹太伴侣而在网上遭受了反犹太和厌女的辱骂。该委员会正在审查数字环境中仇恨言论的普遍性。"
+          },
+          "body": {
+            "en": "The royal commission into antisemitism and social cohesion is hearing evidence about hateful speech in the online environment Get our breaking news email , free app or daily news podcast Vile, threatening abuse is being levelled at witnesses to the antisemitism royal commission, the inquiry has heard, while a Labor MP has said attacks on his partner were heightened because they were stacked with misogyny. Meanwhile, data analysis has shown how quickly factual reports are transformed into conspiracy theories online, and that while there was a spike in antisemitism after the Bondi terror attack, there was a “huge spike” in anti-Muslim hate. Continue reading...",
+            "zh": "反犹太主义和社会凝聚力皇家委员会正在听取关于网络环境中仇恨言论的证据，调查获悉，反犹太主义皇家委员会的证人正在受到威胁性虐待，而一名工党议员表示，针对他伴侣的攻击加剧了，因为这些言论充满了厌女症。与此同时，数据分析显示，事实报道在网上转变为阴谋论的速度有多快，虽然邦迪恐怖袭击后反犹太主义激增，但反穆斯林仇恨也“大幅飙升”。继续阅读..."
+          },
+          "reflection": {
+            "en": "The online abuse faced by Georgie Purcell highlights how words, when wielded with malice, can inflict deep wounds. Yahweh's wisdom reminds us that while reckless words can pierce like swords, wise and gracious speech offers healing and builds up rather than tears down. May we seek to use our words to uplift and unite, especially in public discourse.",
+            "zh": "乔治·珀塞尔所面临的网络辱骂，凸显了言语在恶意驱使下能够造成多深的伤害。雅伟的智慧提醒我们，鲁莽的言语如刀剑刺人，而智慧和恩慈的言语则带来医治，是建造而非拆毁。愿我们在公共言论中，努力用言语去提升和团结他人。"
+          },
+          "verse": {
+            "reference": "Proverbs 12:18",
+            "textEn": "The words of the reckless pierce like swords, but the tongue of the wise brings healing.",
+            "textZh": "说话浮躁的，如刀刺人；智慧人的舌头却为医人的良药。",
+            "themeEn": "Reckless words pierce",
+            "themeZh": "言语如刀"
+          },
+          "aiVerseId": "prov_12_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-30-lismore-floods-northern-r",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/30/lismore-floods-northern-rivers-flooding-nsw-2022-two-metres-lower-with-dams",
+          "image": "https://i.guim.co.uk/img/media/74a03a0bffa33d6458ac2e17b17b6a60d692d163/0_800_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e19e376566eedacc5128f46f66e05f9",
+          "publishedAt": "2026-06-30T08:18:24.000Z",
+          "title": {
+            "en": "NSW’s deadly one-in-100-years floods could have been slashed by two metres using dams, CSIRO finds",
+            "zh": "联邦科学与工业研究组织发现，新南威尔士州百年一遇的致命洪水本可通过水坝削减两米"
+          },
+          "summary": {
+            "en": "A CSIRO report found that building 10 new dams in New South Wales's northern rivers could have reduced flood levels by two meters during Lismore's 2022 floods, which killed 13 people. Governments have not yet committed to these recommended measures.",
+            "zh": "澳大利亚联邦科学与工业研究组织（CSIRO）的一份报告发现，在新南威尔士州北部河流建造10座新水坝，本可以使利斯莫尔2022年洪水的水平降低两米，那次洪水导致13人死亡。政府尚未承诺采取报告中建议的措施。"
+          },
+          "body": {
+            "en": "Governments have not committed to measures modelled in the report on Lismore’s 2022 floods, which led to the deaths of 13 people Get our breaking news email , free app or daily news podcast Building 10 new dams in New South Wales’s northern rivers could have reduced flood levels by up to two metres during devastating floods in 2022, but not enough to prevent a key levee overspilling, a report has found. The CSIRO report was released on Tuesday, four years after it was commissioned by the Morrison government following NSW’s one-in-100-years floods. Continue reading...",
+            "zh": "各国政府尚未承诺采取报告中针对利斯莫尔 2022 年洪水的措施，该洪水导致 13 人死亡 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一份报告发现，在新南威尔士州北部河流修建 10 座新水坝，可以在 2022 年毁灭性洪水期间将洪水水位降低最多两米，但不足以防止关键堤坝溢出。联邦科学与工业研究组织 (CSIRO) 的报告于周二发布，距莫里森政府在新南威尔士州发生一百年一遇的洪水后委托编写该报告已有四年。继续阅读..."
+          },
+          "reflection": {
+            "en": "The report on Lismore's devastating floods highlights the critical role of wise counsel in governance. When expert advice on preventative measures is available, the failure to act can lead to tragic consequences and loss of life. Yahweh's word reminds us that safety and success often depend on heeding sound guidance.",
+            "zh": "关于利斯莫尔毁灭性洪水的报告，凸显了明智建议在治理中的关键作用。当有关于预防措施的专家建议时，未能采取行动可能导致悲剧性后果和生命损失。雅伟的话语提醒我们，安全和成功往往取决于听从健全的指导。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "aiVerseId": "prov_11_14",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-live-2026-jun-30-australia-politics-l",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/jun/30/australia-politics-live-anthony-albanese-tax-reform-pauline-hanson-one-nation-multiculturalism-question-time-angus-taylor-coalition-royal-commission-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/d3d0afe1a241aad26b551939bfd8354d017d24e9/660_145_6394_5118/master/6394.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f9b77f9b0fa097cec3b2fbc5191cb062",
+          "publishedAt": "2026-06-30T08:14:40.000Z",
+          "title": {
+            "en": "Garth Hamilton storms out of question time after outburst – as it happened",
+            "zh": "澳大利亚政治直播：加思·汉密尔顿在质询时间情绪失控后离场；查尔默斯称反对党正经历“崩溃”而非营销问题"
+          },
+          "summary": {
+            "en": "An Australian politician, Garth Hamilton, reportedly stormed out of question time after an outburst, prompting Treasurer Chalmers to describe the opposition's behavior as a \"meltdown.\" This occurred amidst government scrutiny over cooling house market forecasts and falling auction clearance rates.",
+            "zh": "澳大利亚政治家加思·汉密尔顿据报道在质询时间因情绪失控而离场，财政部长查尔默斯将反对党的行为描述为“崩溃”。此事发生在政府因澳大利亚房地产市场降温预测和拍卖清盘率下降而面临审查之际。"
+          },
+          "body": {
+            "en": "This blog is now closed Get our breaking news email , free app or daily news podcast Chalmers defends house price forecasts The government has been facing some heat over the cooling house market around Australia with falling auction clearance rates, and forecasts that house prices in Sydney and Melbourne could fall more than $100,000. Auction clearance rates in Brisbane came up on the weekend, if you compare the preliminary numbers from the week before. They also came up in Adelaide. They came up nationally in aggregate, as I understand it. But in Sydney and Melbourne, we saw some softness there, that actually predated the budget announcements. It doesn’t make a lot of sense to replace one big distortion that Howard and Costello introduced when they made that big policy mistake in 1999 and ruined the housing market for too many people, especially young people; [it] doesn’t make sense to replace that big distortion with another big distortion. And so we’re applying this CGT discount – there’s still a discount, just calculated differently to reflect real gains – we’re applying it fairly and neutrally across the board so that we don’t introduce another big distortion and repeat the mistakes. Some people think that we’re stuck in the past and our policies need to resonate with the Australia of today and the future. So I think it’d be a really good time for us to revisit our values. If things aren’t resonating, and if people are actually latching on to our policies and believing in that, but they’re not wanting to vote for us, then maybe we need to do something about the brand, I want us to have more cut-through on our policies. I worked for John Howard back in the day, and my patch, we were the Howard battlers, we’re the Menzies Forgotten people, and we’re Tony Tradie. So we are pretty much the heartland of Australia. And when the heartland of Australia tells you that you need to get more cut-through to get more voters on your side, then you need to listen to the people. Continue reading...",
+            "zh": "关注今日新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 查默斯为房价预测辩护 政府一直面临着澳大利亚各地房屋市场降温、拍卖清盘率下降的压力，并预测悉尼和墨尔本的房价可能下跌超过 10 万澳元。如果你比较前一周的初步数据，布里斯班的拍卖清盘率在周末出现了上升。他们也出现在阿德莱德。据我了解，他们在全国范围内总体上出现了。但在悉尼和墨尔本，我们看到了一些疲软的情况，这实际上早于预算公布之前。取代霍华德和科斯特洛在 1999 年犯下的重大政策错误并毁掉了太多人（尤其是年轻人）的房地产市场时引入的一项重大扭曲没有多大意义；用另一种大扭曲来代替那种大扭曲是没有意义的。因此，我们正在应用这个资本利得税折扣——仍然有折扣，只是以不同的方式计算以反映实际收益——我们正在全面公平、中立地应用它，这样我们就不会引入另一个大的扭曲并重复错误。有些人认为我们陷入了过去，我们的政策需要与澳大利亚的今天和未来产生共鸣。所以我认为现在是我们重新审视我们的价值观的好时机。如果事情没有引起共鸣，如果人们确实关注我们的政策并相信这一点，但他们不想投票给我们，那么也许我们需要对品牌做一些事情，我希望我们在政策上有更多的切入点。我当时为约翰·霍华德工作，在我的补丁中，我们是霍华德的斗士，我们是被遗忘的孟席斯人，我们是托尼·特拉迪。所以我们几乎是澳大利亚的中心地带。当澳大利亚的中心地带告诉你，你需要获得更多的支持才能获得更多选民支持时，你就需要倾听人民的声音。继续阅读..."
+          },
+          "reflection": {
+            "en": "In the heat of political debate, words can easily escalate tensions, as seen in the recent parliamentary outburst. Yahweh's wisdom reminds us that a gentle answer has the power to de-escalate conflict, while harsh words only fuel anger and division. May leaders and citizens alike seek to engage with grace and respect, even amidst strong disagreements.",
+            "zh": "在激烈的政治辩论中，言语很容易加剧紧张局势，正如最近议会中的情绪失控所见。雅伟的智慧提醒我们，温柔的回答有能力化解冲突，而严厉的言语只会煽动愤怒和分裂。愿领袖和公民都能在强烈分歧中，以恩典和尊重进行交流。"
+          },
+          "verse": {
+            "reference": "Proverbs 15:1",
+            "textEn": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+            "textZh": "回答柔和，使怒消退；言语暴戾，触动怒气。",
+            "themeEn": "Gentle answer",
+            "themeZh": "柔和的回答"
+          },
+          "aiVerseId": "prov_15_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-could-australia-have-a-record-breaking-warm-",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/could-australia-have-a-record-breaking-warm-winter/5pcsafsku",
+          "image": "https://assets.sbs.com.au/dims4/default/b3d8dcc/2147483647/strip/false/crop/4425x2033+0+456/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff0%2Fa8%2F3e95abc5432ebfe888a746600871%2F20160905001282300432-original.jpg",
+          "publishedAt": "2026-06-30T07:59:48.000Z",
+          "title": {
+            "en": "Could this be Australia’s warmest winter ever?",
+            "zh": "这会是澳大利亚有史以来最暖的冬天吗？"
+          },
+          "summary": {
+            "en": "Australia is experiencing an unusually warm winter, leading to concerns that it could be the warmest on record. This unseasonable weather is impacting the start of the ski season, making conditions unsuitable for hitting the slopes.",
+            "zh": "澳大利亚正经历一个异常温暖的冬季，引发了人们对其可能成为有记录以来最暖冬季的担忧。这种不合时宜的天气正在影响滑雪季的开始，使得滑雪条件不佳。"
+          },
+          "body": {
+            "en": "Many parts of Australia have already broken early winter maximum and minimum temperature records.\n\nIn southern Australia, Sydney and Melbourne had their warmest-ever starts to winter. Daily observations show both cities experienced above-average June temperatures almost every day of the month.\n\nAdelaide has also recorded above-average June temperatures in its first three weeks. Hobart and Canberra had mild starts to winter, with temperatures well above normal. So far, Perth is the only southern capital with typical June temperatures.\n\nThe world is experiencing a trend of unseasonably high temperatures driven by global heating, including the early summer heatwave in western Europe and parts of Asia.\n\nSo, what can we expect for the rest of the winter season? And does a warm winter have consequences for Australia&#x2019;s next summer?\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nAbnormally warm conditions in Australia are likely to continue for at least the coming weeks, according to the Bureau of Meteorology&#x2019;s seasonal outlooks . Long periods of dry weather are likely, especially in late winter and spring, following the recent El Niño development .\n\nHowever, infrequent cold polar outbreaks still can impact southern Australia due to jet stream \"waviness\" south of Australia. Here, waviness is the meandering of the air currents as they form the jet stream. If this occurs in a north-south direction instead of west to east, this can affect the movement of cold air and low pressure systems.\n\nA poor 2026 Australian ski season has just started, and the outlook for sufficiently deep snow cover is unfavourable. However, just one or two unexpected heavy snowstorms can produce a major season turnaround.\n\nThe seasons underway in Australia exemplify a worldwide trend of unseasonably high temperatures, including the early summer heatwave in western Europe .\n\nPreviously, extreme summer temperatures occurred later in the European summer, during July or August. But the present heatwave has produced record June maximum temperatures throughout Europe.\n\nOn 26 June, the United Kingdom&#x2019;s hottest ever June day, temperatures reached 37.3C. The previous all-time UK June record was 36.1C in 1976. During the heatwave, much of France, Spain, Italy and Germany reached or exceeded 40C. Humidity levels have also been high. This unusually early and intense heatwave confirms climate extremes are the new normal.\n\nMany nations are facing their warmest winters on record. The extreme heat is due to accelerated global warming since the 1990s, caused by human-made climate change. The United Nations predicts hot and cold extremes in nearly all inhabited regions with increasing global...",
+            "zh": "澳大利亚许多地区已经打破了初冬最高和最低气温记录。 在澳大利亚南部，悉尼和墨尔本迎来了有史以来最温暖的冬季。每日观测显示，这两个城市几乎每个月的每一天都经历了高于平均水平的气温。 阿德莱德在前三周的六月气温也高于平均水平。霍巴特和堪培拉入冬初期气候温和，气温远高于正常水平。到目前为止，珀斯是唯一拥有典型六月气温的南方首府。 世界正在经历由全球变暖驱动的反常高温趋势，包括西欧和亚洲部分地区的初夏热浪。 那么，我们对冬季剩下的时间可以期待什么呢？温暖的冬天会对澳大利亚明年的夏天产生影响吗？ 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 根据气象局的季节性展望，澳大利亚异常温暖的天气可能至少在未来几周内持续。随着最近厄尔尼诺现象的发展，可能会出现长期干旱天气，特别是在冬末和春季。 然而，由于澳大利亚南部的急流“波状”，罕见的寒冷极地爆发仍然会影响澳大利亚南部。在这里，波纹度是气流形成喷射流时的蜿蜒曲折。如果这种情况发生在南北方向而不是从西向东，则会影响冷空气和低压系统的运动。 2026 年澳大利亚滑雪季刚刚开始，雪况不佳，积雪深度不够的前景不容乐观。然而，只要一两次意外的暴风雪就可以带来重大的季节转变。 澳大利亚正在经历的季节体现了全球反常高温的趋势，包括西欧的初夏热浪。 此前，极端夏季气温发生在欧洲夏季晚些时候，即七月或八月。但目前的热浪已经在整个欧洲创造了六月份创纪录的最高气温。 6月26日，英国六月以来最热的一天，气温达到37.3摄氏度。英国6月最高气温纪录是1976年的36.1摄氏度。在热浪期间，法国、西班牙、意大利和德国的大部分地区达到或超过40摄氏度。湿度也很高。这场异常早且强烈的热浪证实极端气候已成为新常态。 许多国家正面临有记录以来最暖的冬天。极端高温是由于20世纪90年代以来人为气候变化导致的全球变暖加速造成的。联合国预测，随着全球变暖的加剧，几乎所有有人居住的地区都会出现极端炎热和寒冷的天气。"
+          },
+          "reflection": {
+            "en": "The news of an unusually warm winter affecting the ski season reminds us of the subtle shifts occurring in our natural world. Romans 8:22 speaks of creation groaning, a poignant image that resonates when natural rhythms seem disrupted. It invites us to consider our role in caring for the earth Yahweh has entrusted to us.",
+            "zh": "澳大利亚冬季异常温暖，影响滑雪季的消息，提醒我们自然界正在发生的微妙变化。罗马书8:22提到受造之物一同叹息，这幅画面在自然节律被打乱时尤为深刻。它邀请我们思考在看顾雅伟所托付的地球上的责任。"
+          },
+          "verse": {
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
+          },
+          "aiVerseId": "rom_8_22",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jun-30-ernst-and-young-ey-gradua",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/30/ernst-and-young-ey-graduate-employee-allegedly-accessed-australian-prime-minister-albanese-bank-account-sacked-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/5bac1e18271bf629d107db5c6dba7cafa1edbd3f/1192_0_6300_5043/master/6300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0066671b811525f48ffbacc6f1373625",
+          "publishedAt": "2026-06-30T07:39:57.000Z",
+          "title": {
+            "en": "EY sacks graduate employee after he allegedly accessed Australian PM’s bank account",
+            "zh": "安永解雇涉嫌访问澳大利亚总理银行账户的毕业生员工"
+          },
+          "summary": {
+            "en": "An employee of a major Australian accounting firm, EY, has been dismissed after allegedly accessing the Australian Prime Minister's bank account. He and another man have appeared in court facing charges related to accessing restricted data.",
+            "zh": "澳大利亚一家大型会计师事务所安永（EY）的一名员工因涉嫌访问澳大利亚总理的银行账户而被解雇。他与另一名男子已出庭受审，面临与访问受限数据相关的指控。"
+          },
+          "body": {
+            "en": "Two men – including one who worked for EY – appear in court after being charged over accessing restricted data Get our breaking news email , free app or daily news podcast An employee at one of Australia’s big four accounting firms has been sacked after he and another man allegedly accessed the prime minister Anthony Albanese’s personal banking account. The men, aged 21 and 25, faced court on Tuesday over the breach, which Australian federal police alleged occurred when the EY graduate was on secondment at the Commonwealth Bank. Continue reading...",
+            "zh": "两名男子（其中一名是安永员工）因访问受限数据而被指控出庭。 澳大利亚四大会计师事务所之一的一名员工被解雇，因为他和另一名男子涉嫌访问总理安东尼·阿尔巴内塞的个人银行账户。周二，这两名年龄分别为 21 岁和 25 岁的男子因违规行为而受审。澳大利亚联邦警方称，这名安永毕业生在联邦银行借调期间发生了违规行为。继续阅读..."
+          },
+          "reflection": {
+            "en": "This incident reminds us of the profound trust placed in individuals who handle sensitive information. Yahweh's word encourages faithfulness in all matters, great or small, for integrity in the seemingly minor details builds a foundation of trustworthiness. Our actions, even when unseen, reflect our character and commitment to ethical conduct.",
+            "zh": "这起事件提醒我们，处理敏感信息的人被寄予了深厚的信任。雅伟的话语鼓励我们在所有事情上，无论大小，都要忠心，因为在看似微小的细节中展现的正直，能建立起信任的根基。我们的行为，即使无人看见，也反映出我们的品格和对道德行为的承诺。"
+          },
+          "verse": {
+            "reference": "Luke 16:10",
+            "textEn": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.",
+            "textZh": "人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。",
+            "themeEn": "Faithful in little",
+            "themeZh": "小事上忠心"
+          },
+          "aiVerseId": "luke_16_10",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-commentisfree-2026-jun-30-victoria-big-build-royal-c",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/commentisfree/2026/jun/30/victoria-big-build-royal-commission-jacinta-allan-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/1924a907d43687912339558500aba1caff654f05/329_0_2930_2345/master/2930.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=192a6817c4c736641e287971727ec885",
+          "publishedAt": "2026-06-30T05:30:39.000Z",
+          "title": {
+            "en": "Only a royal commission can get to the bottom of mounting claims of misconduct on Victoria’s Big Build | Deborah Glass",
+            "zh": "黛博拉·格拉斯：只有皇家委员会才能查清维多利亚州“大型建设项目”日益增多的不当行为指控"
+          },
+          "summary": {
+            "en": "Premier Jacinta Allan attributes the escalating costs of Victoria's \"Big Build\" projects to inflation, dismissing claims of misconduct and asserting that current oversight bodies are sufficient. However, a columnist argues that only a royal commission can fully investigate the growing allegations of wrongdoing.",
+            "zh": "维多利亚州州长雅辛塔·艾伦将“大型建设项目”成本飙升归咎于通货膨胀，否认存在不当行为，并坚称现有监管机构足以处理此事。然而，一位专栏作家认为，只有皇家委员会才能彻底调查日益增多的不当行为指控。"
+          },
+          "body": {
+            "en": "Premier Jacinta Allan blames inflation, not corruption, for the rising cost and says existing agencies have the matter in hand. But do they? Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The revelations keep rolling in – organised crime gangs, underworld figures and a raft of unsavoury characters on building sites, profiting from Victoria’s massive spend on infrastructure – the much-vaunted Big Build. Evidence of intimidation, extortion, fraud and bribery among the myriad of misdeeds. All on government construction sites funded by the public purse, at an escalating cost. Yet the Victorian premier’s latest response is to blame inflation, not corruption, and to claim that existing agencies have the matter in hand. Continue reading...",
+            "zh": "州长杰辛塔·艾伦将成本上升归咎于通货膨胀，而不是腐败，并表示现有机构正在处理此事。但他们真的吗？关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 揭露的内容不断涌现——有组织的犯罪团伙、黑社会人物和建筑工地上的大量令人讨厌的人物，从维多利亚州在基础设施上的巨额支出——备受吹捧的大建筑中获利。无数不当行为中存在恐吓、勒索、欺诈和贿赂的证据。所有这些都在由公共资金资助的政府建筑工地进行，成本不断上升。然而，维多利亚州州长的最新回应是指责通货膨胀，而不是腐败，并声称现有机构已经处理好此事。继续阅读..."
+          },
+          "reflection": {
+            "en": "When public trust in governance is questioned due to allegations of misconduct and rising costs, there is a deep longing for truth and accountability. The prophet Amos reminds us that Yahweh desires justice to flow powerfully and consistently, like an unfailing stream, ensuring integrity in all public affairs. This calls leaders to uphold righteousness and...",
+            "zh": "当公众对政府的信任因不当行为指控和成本上升而受到质疑时，人们渴望真相和问责。先知阿摩司提醒我们，雅伟渴望公义像江河般涌流，正直像永不枯竭的溪流，确保所有公共事务的廉正。这呼吁领导者维护公义，也呼吁公民寻求透明和公平的程序。"
+          },
+          "verse": {
+            "reference": "Amos 5:24",
+            "textEn": "Let justice roll on like a river, righteousness like a never-failing stream!",
+            "textZh": "惟愿公平如大水滚滚，使公义如江河滔滔。",
+            "themeEn": "Demand for justice",
+            "themeZh": "伸张公义"
+          },
+          "aiVerseId": "amos_5_24",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-pauline-hanson-australia-monoculture-debate-",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/pauline-hanson-australia-monoculture-debate-japan-immigration/8k12lxkox",
+          "image": "https://assets.sbs.com.au/dims4/default/e637659/2147483647/strip/false/crop/1920x882+0+99/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fd7%2Fda%2Ff3bd81124626b3ce8bf66d9afd51%2Fgfx-290626-japan-monoculture-lead-image.png",
+          "publishedAt": "2026-06-30T04:58:02.000Z",
+          "title": {
+            "en": "The country that's been dragged in to Australia's 'monoculture' debate",
+            "zh": "被卷入澳大利亚“单一文化”辩论的国家"
+          },
+          "summary": {
+            "en": "Pauline Hanson has cited Japan as an example of monoculturalism in Australia's ongoing debate about national identity and cultural diversity. However, experts contend that Japan's cultural reality is far more intricate than a simple monocultural label suggests.",
+            "zh": "宝琳·汉森在澳大利亚关于国家认同和文化多样性的持续辩论中，将日本视为单一文化的典范。然而，专家们认为，日本的文化现实远比简单的单一文化标签所暗示的要复杂得多。"
+          },
+          "body": {
+            "en": "When Pauline Hanson called for Australia to become a \"monocultural\" society at the National Press Club earlier this month, she reached for Japan.\n\nBut as the country became shorthand in Australia's debate over immigration and multiculturalism, experts say the comparison obscures more than it explains.\n\nJapan, with a population around four times larger than Australia &#x2014; was praised by the One Nation leader as a model of monoculturalism .\n\n\"Japan has a monoculture, so what's wrong with Australia having a monoculture?\" Hanson told Seven's Sunrise program last week.\n\nOpposition leader Angus Taylor was asked what he thought of the statement but told Channel Nine's Today show last week \"I don't know what a monoculture means\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nBut he did make clear, \"I hear ... it's something like looking like Japan. I don't want Australia to look like Japan.\"\n\nOn Monday Liberal backbencher Andrew Hastie sought to criticise Hanson's vision, but also dampened the idea of multiculturalism, which the prime minister gave an impassioned defence of on the same day.\n\n\"How do you police that (a monoculture)? Do we want government more involved in our lives, policing who fits into Pauline Hanson&#x2019;s definition of Australian culture and who doesn&#x2019;t?\n\n\"Monoculture and multicultural &#x2014; they&#x2019;re two extremes in a sense,\" Hastie told the ABC's Background Briefing programme.\n\nExperts have cast doubt on the characterisation and pointed to the economic uplift migration has brought Japan's manufacturing industries.\n\nPeter Chai, a research associate in political science and economics at Waseda University in Tokyo told SBS News that population data shows that Japan is not a monoculture.\n\n\"Right now, foreign labour makes up around three to four per cent of the population. So, compared to some Western countries, that level is still low, but compared to historical levels in Japan, that is actually a very high level,\" Chai said.\n\n\"There's been a huge increase in [immigration] in recent years and with that ... Japan is becoming more diverse in terms of its population and ethnicity\".\n\nIn agriculture and farming, a monoculture can be simply defined. It's the practice of growing a single species of crop over an area of land.\n\nWhen applied to sociology, the term can take on multiple meanings. It can reference limited diversity within ethnic, linguistic or religious groups and even describe norms in food and fashion.\n\nBut Professor Alan Gamlen, director of the Australian National University's Migration Hub, believes the notion of a monocultural population is a myth.\n\n\"A monocultural society is a made-up term ... there are no existing...",
+            "zh": "当宝琳·汉森本月早些时候在国家新闻俱乐部呼吁澳大利亚成为一个“单一文化”社会时，她把目光投向了日本。 但随着这个国家成为澳大利亚关于移民和多元文化主义辩论的速记，专家表示，这种比较掩盖的内容多于它所解释的内容。 日本的人口大约是澳大利亚的四倍，被一国党领导人称赞为单一文化主义的典范。 “日本是单一文化，那么澳大利亚也有单一文化有什么问题吗？”汉森上周接受了七号台的日出节目采访。 反对党领袖安格斯·泰勒被问及他对这一声明有何看法，但他上周告诉第九频道的“今日”节目“我不知道单一文化意味着什么”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 但他确实明确表示，“我听说……这有点像日本。我不希望澳大利亚看起来像日本。” 周一，自由党后座议员安德鲁·哈斯蒂试图批评汉森的愿景，但也削弱了多元文化主义的理念，而总理在同一天对此进行了热情的辩护。 “你如何监管（单一文化）？我们是否希望政府更多地参与我们的生活，监管谁符合宝琳·汉森对澳大利亚文化的定义，谁不符合？ “单一文化和多元文化——从某种意义上说，它们是两个极端，”哈斯蒂告诉美国广播公司的背景简报节目。 专家们对这种描述提出了质疑，并指出移民给日本制造业带来了经济提升。 东京早稻田大学政治学和经济学助理研究员 Peter Chai 告诉 SBS 新闻，人口数据表明日本并不是一个单一文化国家。 “目前，外籍劳工约占人口的百分之三到四。因此，与一些西方国家相比，这个水平仍然很低，但与日本的历史水平相比，这实际上是一个非常高的水平，”柴说。 “近年来[移民]大幅增加……日本的人口和种族变得更加多样化”。 在农业和种植业中，可以简单地定义单一栽培。这是在一块土地上种植单一品种作物的做法。 当应用于社会学时，该术语可以具有多种含义。它可以提及种族、语言或宗教群体内有限的多样性，甚至可以描述食品和时尚的规范。 但澳大利亚国立大学移民中心主任艾伦·加姆伦教授认为，单一文化人口的概念是一个神话。 “单一文化社会是一个虚构的术语……不存在现有的……"
+          },
+          "reflection": {
+            "en": "The debate over national \"monoculture\" invites us to consider how we treat those who reside among us but are perceived as different. Yahweh's ancient command reminds us to welcome foreigners as if they were native-born, extending love and remembering our shared human experience of being outsiders at some point. This perspective encourages a society that...",
+            "zh": "关于国家“单一文化”的辩论促使我们思考如何对待那些居住在我们中间却被视为异乡的人。雅伟古老的诫命提醒我们，要像对待本地人一样欢迎寄居者，爱他们，并记住我们都曾是异乡人的共同经历。这种视角鼓励一个拥抱多元贡献的丰富性，而非坚持僵硬单一性的社会。"
+          },
+          "verse": {
+            "reference": "Leviticus 19:33-34",
+            "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
+            "textZh": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
+            "themeEn": "Foreigner as native-born",
+            "themeZh": "待寄居者如本族"
+          },
+          "aiVerseId": "lev_19_33",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-australia-and-vanuatu-sign-long-awaited-deal",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/australia-and-vanuatu-sign-long-awaited-deal/17k7s7n4f",
+          "image": "https://assets.sbs.com.au/dims4/default/3809ad3/2147483647/strip/false/crop/6255x2874+0+648/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F34%2Faa%2Fe9099e16439986b98555d06d5627%2F20260629194218813907-original.jpg",
+          "publishedAt": "2026-06-29T10:14:31.000Z",
+          "title": {
+            "en": "Australia has signed a long-awaited Vanuatu security deal. Here's what's in it",
+            "zh": "澳大利亚签署期待已久的瓦努阿图安全协议。内容是什么？"
+          },
+          "summary": {
+            "en": "Australia and Vanuatu have finalized a security deal after ten months of negotiations. The agreement, described as lucrative, is expected to have significant implications for the Pacific region.",
+            "zh": "经过十个月的谈判，澳大利亚和瓦努阿图最终签署了一项安全协议。这项被形容为利润丰厚的协议预计将对太平洋地区产生重大影响。"
+          },
+          "body": {
+            "en": "After months of negotiations, Australia and Vanuatu have signed a watered-down $500 million security deal.\n\nThe Nakamal Agreement was signed by Prime Minister Anthony Albanese and Vanuatu Prime Minister Jotham Napat in Canberra on Monday.\n\nThe deal was inked almost 10 months after Napat pulled out of a signing ceremony due to concerns that Vanuatu's sovereignty would be undermined.\n\nAlbanese said the agreement \"reflects and confirms\" Australia's role as Vanuatu's \"largest and most comprehensive economic security and development partner, a responsibility that we take seriously\".\n\n\"This agreement advances a consensus that security is the shared responsibility of the Pacific family ... and encapsulates Vanuatu's sovereign decision not to permit its territory to be used for any foreign military base or infrastructure.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"With the signing of the long-awaited Nakamal Agreement, Australia and Vanuatu are close neighbours, trusted partners,\" he said.\n\nThe Nakamal Agreement cements Australia as the Pacific island nation's primary aid and policing partner.\n\nIt's a bid to steer the nation away from China, which is currently pursuing a deal with Vanuatu, known as the Namele Agreement.\n\nIt's a refurbished version of the 2025 agreement, which gave Australia the power to veto Chinese involvement in Vanuatu's critical infrastructure, including ports, telecommunications, digital, aviation, and energy.\n\nThat agreement, which was set to be finalised in September 2025, was abandoned by Vanuatu after members of the government raised concerns for the nation's sovereignty.\n\nAustralia originally pledged $500 million across ten years to support Vanuatu's government. Now, that money will be spread across a longer, unspecified period.\n\nThe agreement requires the Nakamal committee to convene at least every six months to address and resolve any issues or disputes between the two nations.\n\nThe agreement requires Vanuatu to consult Australia on \"proposed third-party engagement in Vanuatu's critical infrastructure\".\n\nAny critical infrastructure must also remain free from \"militarisation, any form of foreign interference or unauthorised access\".\n\nIt also requires Vanuatu to prioritise the Pacific Forum, an alliance of 18 Pacific nations, for policing requests.\n\nIn the event of a humanitarian disaster, Vanuatu will first request foreign aid from FRANZ &#x2014; a humanitarian coalition comprising France, Australia and New Zealand.\n\nAustralia and Vanuatu will collaborate on cyber infrastructure and renewable energy transition and Australia will support shortfalls in Vanuatu's workforce.\n\nAlbanese is expected to travel to Fiji and the Solomon Islands...",
+            "zh": "经过几个月的谈判，澳大利亚和瓦努阿图签署了一份价值 5 亿美元的安全协议。 周一，瓦努阿图总理安东尼·阿尔巴内塞和瓦努阿图总理乔萨姆·纳帕特在堪培拉签署了《纳卡马尔协议》。 该协议是在纳帕特因担心瓦努阿图主权受到损害而退出签字仪式近十个月后签署的。 阿尔巴内塞表示，该协议“反映并确认了”澳大利亚作为瓦努阿图“最大、最全面的经济安全与发展伙伴的角色，我们认真对待这一责任”。 “这项协议达成了共识，即安全是太平洋大家庭的共同责任……并体现了瓦努阿图的主权决定，不允许其领土被用于任何外国军事基地或基础设施。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “随着期待已久的纳卡马尔协议的签署，澳大利亚和瓦努阿图成为近邻、值得信赖的合作伙伴，”他说。 《纳卡马尔协议》巩固了澳大利亚作为太平洋岛国主要援助和治安伙伴的地位。 这是为了让该国远离中国，中国目前正在寻求与瓦努阿图达成一项名为《纳梅莱协议》的协议。 这是2025年协议的翻新版本，该协议赋予澳大利亚否决中国参与瓦努阿图关键基础设施建设的权力，包括港口、电信、数字、航空和能源。 该协议原定于 2025 年 9 月敲定，但在政府成员对国家主权表示担忧后，瓦努阿图放弃了该协议。 澳大利亚最初承诺在十年内提供 5 亿美元支持瓦努阿图政府。现在，这笔钱将分摊到更长的、未指定的时期。 该协议要求纳卡马尔委员会至少每六个月召开一次会议，以处理和解决两国之间的任何问题或争端。 该协议要求瓦努阿图就“提议的第三方参与瓦努阿图关键基础设施”与澳大利亚进行磋商。 任何关键基础设施还必须免受“军事化、任何形式的外国干涉或未经授权的访问”。 它还要求瓦努阿图优先考虑由 18 个太平洋国家组成的太平洋论坛来处理治安请求。 一旦发生人道主义灾难，瓦努阿图将首先向由法国、澳大利亚和新西兰组成的人道主义联盟FRANZ请求外援。 澳大利亚和瓦努阿图将在网络基础设施和可再生能源转型方面进行合作，澳大利亚将支持瓦努阿图劳动力短缺。 阿尔巴尼斯预计将前往斐济和所罗门群岛......"
+          },
+          "reflection": {
+            "en": "National leaders bear a weighty responsibility in forging agreements that shape regional stability and security. Proverbs 11:14 reminds us that a nation's safety is found in the abundance of wise counsel. As Australia and Vanuatu formalize this security deal, we pray for discernment and foresight for all involved, that their decisions may truly foster...",
+            "zh": "国家领导人在达成影响区域稳定与安全的协议方面肩负着重大的责任。箴言11:14提醒我们，国家安全在于谋士众多。当澳大利亚和瓦努阿图正式签署这项安全协议时，我们为所有参与者祈求洞察力和远见，愿他们的决定能真正促进太平洋地区的持久和平与福祉。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "aiVerseId": "prov_11_14",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-fossil-fuel-companies-sponsoring-childrens-p",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/fossil-fuel-companies-sponsoring-childrens-programs-australia/ls5aieth3",
+          "image": "https://assets.sbs.com.au/dims4/default/f663ff7/2147483647/strip/false/crop/1920x882+0+99/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F02%2Fa2%2Fa062d8e24c6bb9d4413a15c46f58%2Fgfx-290626-fossil-fuel-kids-lead-image.png",
+          "publishedAt": "2026-06-29T04:35:09.000Z",
+          "title": {
+            "en": "The $54 million sponsorships raising questions about influence over Aussie kids",
+            "zh": "5400万澳元赞助引发对澳儿童影响力质疑"
+          },
+          "summary": {
+            "en": "Six children's programs in Australia received $54 million in sponsorships from resource companies, with hundreds of additional deals. This has led to calls for scrutiny regarding the extent of corporate influence on children's content.",
+            "zh": "澳大利亚的六个儿童节目获得了资源公司5400万澳元的赞助，另有数百项交易，引发了对企业对澳大利亚儿童影响力的审查呼吁。"
+          },
+          "body": {
+            "en": "Across 31 lifesaving clubs in Western Australia, thousands of children learn beach safety and surf skills in their iconic singlets and caps. Since 2019, those uniforms have been emblazoned with the name of the country's largest independent oil and gas company: Woodside.\n\nThis sponsorship, worth approximately $5 million, is just one of around 260 programs designed for Australian children sponsored by fossil fuel companies, according to a new report.\n\nThe report, published on Monday by climate communication charity, Comms Declare, found fossil fuel money was behind a broad range of programs aimed at children in schools, museums, and sporting clubs across the country.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"This report lays bare just how much effort is going into [fossil fuel companies'] buying a social licence,\" independent senator David Pocock told the media on Monday.\n\n\"[It lays bare] how much effort is going into shaping what young Australians think and understand about fossil fuel companies' contribution to a changing climate.\"\n\nWoodside pointed SBS News to its 2025 Social Contribution Report, which said its social investments raised awareness and understanding of the environment; supported early childhood development and education; and created resilient and sustainable communities.\n\nPocock, along with senators Penny Allman-Payne and Steph Hodgins-May, have called on the government to launch a Senate inquiry into the influence of fossil fuel companies over children's public life.\n\nThe report named Santos as the biggest sponsor of children's programs with 71 programs, as well as BHP, Woodside, Glencore, Chevron, and Shell.\n\nWhile Western Australia had the highest concentration of sponsorships, with 120 programs, researchers found the programs clustered in remote areas where the mining industry had a stronger presence.\n\nIn some instances, oil and gas companies were sponsoring the production of climate education materials in ways that minimised the role of burning fossil fuels as the main driver of global warming .\n\nLast year, the Queensland Museum retired materials from Shell's sponsored \"Future Makers\" learning program, after Comms Declare found its explanation of carbon dioxide absorption in the oceans failed to mention where excess carbon dioxide comes from .\n\nAnother activity asked students to design technological responses to carbon reduction, such as carbon capture and storage, which critics argue shifts responsibility from reducing emissions .\n\nThe materials, designed for students in grades 7-10, had been downloaded 400,000 times, according to reporting by The Guardian.\n\n\"Oil and gas companies sponsoring climate education is like a tobacco...",
+            "zh": "在西澳大利亚州的 31 个救生俱乐部中，数千名儿童穿着标志性背心和帽子学习海滩安全和冲浪技能。自 2019 年以来，这些制服上都印有该国最大的独立石油和天然气公司的名字：Woodside。 根据一份新报告，这项价值约 500 万美元的赞助只是化石燃料公司赞助的约 260 个为澳大利亚儿童设计的项目之一。 气候传播慈善机构 Comms Declare 周一发布的这份报告发现，化石燃料资金支持了全国各地学校、博物馆和体育俱乐部针对儿童的一系列广泛项目。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “这份报告揭示了[化石燃料公司]为购买社会许可证付出了多少努力，”独立参议员戴维·波科克周一对媒体表示。 “[它暴露了]为了塑造澳大利亚年轻人对化石燃料公司对气候变化贡献的看法和理解，我们付出了多少努力。” Woodside向SBS新闻指出其2025年社会贡献报告，该报告称其社会投资提高了人们对环境的认识和理解；支持幼儿发展和教育；并创建了有弹性和可持续的社区。 波科克与参议员彭妮·奥尔曼-佩恩和斯蒂芬·霍金斯-梅一起呼吁政府启动参议院调查，调查化石燃料公司对儿童公共生活的影响。 该报告将桑托斯列为儿童项目的最大赞助商，共有 71 个项目，此外还有必和必拓、伍德赛德、嘉能可、雪佛龙和壳牌。 虽然西澳大利亚州的赞助最为集中，有 120 个项目，但研究人员发现这些项目集中在采矿业较为活跃的偏远地区。 在某些情况下，石油和天然气公司赞助气候教育材料的制作，以尽量减少燃烧化石燃料作为全球变暖主要驱动因素的作用。 去年，昆士兰博物馆退役了壳牌赞助的“未来创客”学习计划中的材料，因为 Comms Declare 发现其对海洋中二氧化碳吸收的解释未能提及过量二氧化碳的来源。 另一项活动要求学生设计减少碳排放的技术对策，例如碳捕获和储存，批评者认为这转移了减少排放的责任。 据《卫报》报道，这些材料是为 7 至 10 年级的学生设计的，已被下载 40 万次。 “石油和天然气公司赞助气候教育就像烟草......"
+          },
+          "reflection": {
+            "en": "When powerful interests fund children's content, it naturally raises questions about the nature of the influence being exerted. Yahweh calls us to speak up for the vulnerable, especially children, ensuring their well-being is prioritized over commercial agendas. This story reminds us of our collective responsibility to protect the innocence and development...",
+            "zh": "当强大的利益集团资助儿童内容时，自然会引发对其所施加影响性质的疑问。雅伟呼召我们为弱势群体，特别是儿童发声，确保他们的福祉优先于商业议程。这个故事提醒我们，保护年轻一代的纯真和成长是我们共同的责任。"
+          },
+          "verse": {
+            "reference": "Proverbs 31:8-9",
+            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
+            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
+            "themeEn": "Voice for the voiceless",
+            "themeZh": "为弱者发声"
+          },
+          "aiVerseId": "prov_31_8",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-free-electricity-three-hours-solar-sharer-of",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/free-electricity-three-hours-solar-sharer-offer-explained/vwdpnz5vz",
+          "image": "https://assets.sbs.com.au/dims4/default/e96aba5/2147483647/strip/false/crop/3500x1608+0+277/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F82%2F5d%2F9261bbdf41d3a7d6c2e7ff24887c%2F20260628195424563719-original.jpg",
+          "publishedAt": "2026-06-29T02:22:45.000Z",
+          "title": {
+            "en": "Some households can get free electricity from Wednesday. Are you eligible?",
+            "zh": "部分家庭可从周三起获得免费电力。您符合条件吗？"
+          },
+          "summary": {
+            "en": "A new scheme in Australia will provide eligible households with three hours of free electricity daily, regardless of whether they have rooftop solar panels.",
+            "zh": "澳大利亚一项新计划将为符合条件的家庭每天提供三小时免费电力，无论他们是否安装了屋顶太阳能。"
+          },
+          "body": {
+            "en": "Some Australians in the country's east will soon be able to receive free electricity for three hours per day, as part of the federal government's Solar Sharer Offer.\n\nStarting Wednesday, the scheme is designed to give more households access to solar power when it's most abundant during the day, the scheme will be available to renters and homeowners living in NSW, South Australia and south-east Queensland, all of which are covered by the Default Market Offer (DMO).\n\nSet by the Australian Energy Regulator, the DMO is the maximum price that energy retailers can charge residential and small business customers on a standing offer electricity contract. Other states and territories have their own systems.\n\nHouseholds don't need to have their own rooftop solar to be eligible, but they do need to live in one of the three areas and have a household smart meter installed. They also have to use a retailer that is required to offer the Solar Sharer Offer &#x2014; any in the DMO areas with more than 1,000 customers &#x2014; and not be supplied through an embedded network.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nEligible households will be able to access up to 24kWh of free electricity during a three-hour window each day. For NSW and south-east Queensland, the window is from 11am to 2pm AEST. In South Australia, the window will be from 12pm to 3pm ACST.\n\nThe offer isn't automatic. Eligible households will need to opt in through their energy retailer.\n\nBack in January, Energy Minister Chris Bowen said the Solar Sharer Offer was about \"making sure we make the most of our huge solar generation\".\n\n\"It will provide direct bill savings for households who sign up and can move their energy use into the zero-cost power period, while also taking pressure off evening peak demand, lowering network and system security costs,\" he said.\n\nOn its website, Australia's energy department says households eligible for the Solar Sharer Offer can take advantage of it by planning around the three-hour daily window.\n\nIt suggests running larger appliances during the free-power period \"where it is safe and practical to do so\". That may include heating and cooling, using clothes dryers, washing machines, dishwashers and EV chargers.\n\nIt also suggests planning to complete regular household tasks, such as laundry or dishwashing, during the period.\n\nIn Victoria, where the DMO doesn&#x2019;t apply, the state government has announced that it will roll out the Midday Energy Saver from October.\n\nThe scheme will offer a free power window between 11am and 2pm every day. Victorians interested in accessing the scheme will need to contact their own retailers to sign up by 1 October.\n\nThe state government...",
+            "zh": "作为联邦政府太阳能共享者优惠的一部分，该国东部的一些澳大利亚人很快将能够每天获得三个小时的免费电力。 从周三开始，该计划旨在让更多家庭在白天最充足的时候获得太阳能，该计划将适用于居住在新南威尔士州、南澳大利亚州和昆士兰州东南部的租户和房主，所有这些地区都包含在默认市场报价（DMO）范围内。 DMO 由澳大利亚能源监管机构制定，是能源零售商可以根据长期报价电力合同向住宅和小型企业客户收取的最高价格。其他州和地区也有自己的系统。 家庭不需要拥有自己的屋顶太阳能才有资格，但他们确实需要居住在这三个区域之一并安装家庭智能电表。他们还必须使用需要提供太阳能共享者优惠的零售商——任何位于 DMO 地区且拥有超过 1,000 名客户的零售商——并且不能通过嵌入式网络提供。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 符合条件的家庭每天将能够在三小时内获得高达 24 千瓦时的免费电力。对于新南威尔士州和昆士兰州东南部，开放时间为澳大利亚东部标准时间上午 11 点至下午 2 点。在南澳大利亚，窗口时间为中午 12 点至下午 3 点（澳大利亚标准时间）。 该优惠不是自动的。符合条件的家庭需要通过能源零售商选择加入。 早在一月份，能源部长克里斯·鲍文(Chris Bowen)表示，太阳能共享者提议是为了“确保我们充分利用我们庞大的太阳能发电”。 他说：“它将为签约的家庭提供直接的账单节省，并将其能源使用转移到零成本电力时期，同时还减轻晚间高峰需求的压力，降低网络和系统安全成本。” 澳大利亚能源部门在其网站上表示，有资格获得太阳能共享者优惠的家庭可以通过每天围绕三个小时的时间进行规划来利用这一优惠。 它建议在免费供电期间运行更大的电器，“这样做是安全和实用的”。这可能包括使用干衣机、洗衣机、洗碗机和电动汽车充电器进行供暖和制冷。 它还建议计划在此期间完成常规家务，例如洗衣或洗碗。 在不适用 DMO 的维多利亚州，州政府宣布将从 10 月起推出午间节能计划。 该计划将在每天上午 11 点至下午 2 点之间提供免费电动车窗。有兴趣参与该计划的维州人需要在 10 月 1 日之前联系自己的零售商进行注册。 州政府..."
+          },
+          "reflection": {
+            "en": "This new scheme offering free electricity to some households reflects a societal effort to ease burdens and provide for basic needs. Yahweh reminds us that acts of kindness towards those in need are seen as lending to Him, promising a divine reward for such generosity. It's a reminder that caring for the vulnerable is a principle valued by Yahweh.",
+            "zh": "这项为部分家庭提供免费电力的新计划，体现了社会减轻负担、满足基本需求的努力。雅伟提醒我们，对有需要的人施以援手，如同借贷给祂，祂必会为此慷慨之举赐予回报。这提醒我们，关怀弱势群体是雅伟所珍视的原则。"
+          },
+          "verse": {
+            "reference": "Proverbs 19:17",
+            "textEn": "Whoever is kind to the poor lends to Yahweh, and he will reward them for what they have done.",
+            "textZh": "怜悯贫穷的，就是借给雅伟；他的善行，雅伟必偿还。",
+            "themeEn": "Lending to God",
+            "themeZh": "善待贫穷"
+          },
+          "aiVerseId": "prov_19_17",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-paul-hogan-pelican-pauline-hanson-polls-h6wm",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/paul-hogan-pelican-pauline-hanson-polls/h6wm4uc0b",
+          "image": "https://assets.sbs.com.au/dims4/default/0df4a30/2147483647/strip/false/crop/2285x1050+0+207/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F10%2F8b%2F6d95013f4b1cb9c039a325141bdf%2F20091109000275344571-original.jpg",
+          "publishedAt": "2026-06-28T21:43:14.000Z",
+          "title": {
+            "en": "Paul Hogan hits back at 'pelican' Hanson over 'monoculture' claim",
+            "zh": "保罗·霍根回击“鹈鹕”汉森的“单一文化”主张"
+          },
+          "summary": {
+            "en": "The One Nation leader's approval ratings dropped after her National Press Club speech.",
+            "zh": "“一国党”领导人在国家新闻俱乐部发表演讲后，其支持率有所下降。"
+          },
+          "body": {
+            "en": "Australian acting legend Paul Hogan has rejected Pauline Hanson's \"monoculture\" comments , accusing the One Nation leader of \"living in the past\" in an interview with the Australian Financial Review.\n\n\"She's a pelican, yeah. Outrageous, so racist. It sounds very much like this stupid boofhead over here, Trump,\" Hogan told the Australian Financial Review on Sunday.\n\nThe 86-year-old actor is best known for playing leather-clad larrikin Mick Dundee in the Crocodile Dundee movies, which have shaped an enduring image of Australians in United States popular culture.\n\nHis comments came after Hanson's speech at the National Press Club , where she called for the end of multiculturalism, in favour of \"monoculturalism\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"We are a multiracial society, but we must be monocultural. Australians must live under the one cultural umbrella,\" she said.\n\nWhen later asked to clarify what she meant by \"monoculture\", Hanson told the Senate last week: \"Bring back Paul Hogan and Norman Gunston. These are the essential features of Australian monoculture, and there's nothing remotely exclusionary about them.\"\n\n\"We're all migrants, except the Aboriginals, who as far as we know have been [in Australia] for 60,000 years.\"\n\nMost Australians &#x2014; 75 per cent &#x2014; agree that multiculturalism is good for society, according to Australian Bureau of Statistics polling released in May this year.\n\nHowever, that sentiment has decreased by 10 per cent since 2020, with similar declines in Australians' overall trust in institutions and life satisfaction.\n\nHogan, who lives in California, praised his home country's diverse roots and said that he couldn't wait to return to Australia.\n\nA pair of polls, conducted since Hanson's expansive speech at the National Press Club, have indicated a post-Press Club headache for One Nation and its leader.\n\nLabor has reclaimed a narrow lead in both the Newspoll and RedBridge surveys, released on Sunday night.\n\nNewspoll, printed in The Australian, has Labor on 33 per cent (up three), with One Nation on 29 (down two) and the Greens on 14 (up two).\n\nThe RedBridge poll had Labor on 30 per cent support (up two) compared to One Nation's 29 (down two), with the Coalition on just 18 (down two) and the Greens on 14 (up two).\n\nThey have even worse news for the Coalition, with the Newspoll putting Opposition support at a historic low of 17 per cent.\n\nThe RedBridge poll, reported in the Australian Financial Review, also had Hanson's net approval falling 10 points from a neutral position to (-10).\n\nIn the fortnight since Hanson's press club appearance, Opposition leader Angus Taylor also struggled to articulate his party's...",
+            "zh": "澳大利亚演艺界传奇人物保罗·霍根在接受《澳大利亚金融评论报》采访时驳斥了宝琳·汉森的“单一文化”言论，批评这位一国党领导人“活在过去”。 “她是一只鹈鹕，是的。太令人震惊了，太种族主义了。这听起来很像特朗普这里的这个愚蠢的笨蛋，”霍根周日告诉澳大利亚金融评论报。 这位 86 岁的演员因在电影《鳄鱼邓迪》中扮演皮衣拉里金·米克·邓迪而闻名，这部电影在美国流行文化中塑造了澳大利亚人的持久形象。 他的评论是在汉森在国家新闻俱乐部发表演讲之后发表的，她呼吁结束多元文化主义，支持“单一文化主义”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “我们是一个多种族社会，但我们必须单一文化。澳大利亚人必须生活在同一个文化的保护伞下，”她说。 当后来被要求澄清她所说的“单一文化”的含义时，汉森上周告诉参议院：“带回保罗·霍根和诺曼·冈斯顿。这些是澳大利亚单一文化的基本特征，他们没有任何排斥之处。” “我们都是移民，除了原住民，据我们所知，原住民已经[在澳大利亚]生活了 6 万年。” 根据澳大利亚统计局今年 5 月发布的民意调查，大多数澳大利亚人（75％）认为多元文化主义对社会有益。 然而，自 2020 年以来，情绪下降了 10%，澳大利亚人对机构的整体信任度和生活满意度也出现了类似的下降。 这位居住在加利福尼亚州的 86 岁演员赞扬了他的祖国的多元化根源，并表示他迫不及待地想返回澳大利亚。 自汉森在国家新闻俱乐部发表广泛演讲以来进行的两项民意调查证实，宝琳·汉森和一国党在新闻俱乐部发表后感到头疼。 工党在周日晚间公布的新闻民意调查和雷德布里奇调查中都重新以微弱优势领先。 《澳大利亚人报》发表的新闻民意调查显示，工党的支持率为 33%（上升 3%），一国党为 29%（下降 2%），绿党为 14%（上升 2%）。 雷德布里奇民意调查显示，工党的支持率为 30%（上升两位），而一国党的支持率为 29%（下降两位），联盟党只有 18%（下降两位），绿党则为 14%（上升两位）。 对于联盟党来说，还有更糟糕的消息，备受推崇的新闻民意调查显示，反对党的支持率降至 17% 的历史低点。 《澳大利亚金融评论报》报道的雷德布里奇民意调查显示，汉森的净支持率也从中立位置下降了 10 个百分点至 (-10)。 汉森出现在新闻发布会后的两周内，反对党领袖安格斯·泰勒也努力......"
+          },
+          "reflection": {
+            "en": "The debate over a 'monoculture' claim touches on fundamental questions of national identity and diversity. Yahweh's design, as revealed in Acts 17:26, reminds us that all nations originate from one source, intended to inhabit the whole earth in their distinctness. This perspective encourages us to embrace the rich tapestry of humanity, recognizing our...",
+            "zh": "关于“单一文化”主张的辩论触及了国家认同和多样性的根本问题。雅伟在使徒行传17:26中启示的设计提醒我们，万国都源于一个根源，旨在以其独特的面貌居住在整个地球上。这一视角鼓励我们拥抱人类丰富的多样性，在承认共同起源的同时珍视文化差异。"
+          },
+          "verse": {
+            "reference": "Acts 17:26",
+            "textEn": "From one man he made all the nations, that they should inhabit the whole earth.",
+            "textZh": "他从一本造出万族的人，住在全地上。",
+            "themeEn": "All nations from one",
+            "themeZh": "万族同源"
+          },
+          "aiVerseId": "acts_17_26",
+          "translationState": "localized"
+        }
+      ]
+    }
+  }
+}
