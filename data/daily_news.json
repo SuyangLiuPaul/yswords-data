@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T18:59:42.105Z",
+  "generatedAt": "2026-07-23T20:11:45.052Z",
   "editionDate": "2026-07-24",
   "sources": [
     {
@@ -106,11 +106,78 @@
       },
       "sourceNotes": [
         "The Guardian World",
-        "DW World",
+        "SBS News World",
         "BBC News World",
-        "SBS News World"
+        "DW World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-us-news-live-2026-jul-23-us-house-defense-spending-b",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/live/2026/jul/23/us-house-defense-spending-bill-donald-trump-iran-rubio-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/ad70213b1b8b5f1a9d0778bd102d77a4c2618f72/290_0_2947_2359/master/2947.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fbd7e067579154f03814ad59f22e50b5",
+          "publishedAt": "2026-07-23T20:00:27.000Z",
+          "title": {
+            "en": "White House says if Saudi Arabia does not join Abraham accords, nuclear deal ‘is off’ – US politics live",
+            "zh": "众议院再次通过战争权力决议，反制伊朗战争，1.15万亿美元国防法案面临参议院艰难战役——实时报道"
+          },
+          "summary": {
+            "en": "The US House of Representatives passed a war powers resolution, with some Republican defections, to limit presidential military action in Iran. This legislative pushback comes amidst controversy surrounding a $1.15 trillion defense bill.",
+            "zh": "美国众议院通过了一项战争权力决议，旨在限制总统在伊朗的军事行动，部分共和党议员投了反对票。这项立法上的反制行动是在一项1.15万亿美元的国防法案引发争议之际进行的。"
+          },
+          "body": {
+            "en": "Karoline Leavitt insisted nuclear deal is ‘contingent’ on condition revealed by Trump in a social post US House passes second war powers resolution Sign up for the Breaking News US email By a vote of 214-208 lawmakers in the House passed a war powers resolution to curb the Trump administration’s military action in Iran, ahead of the lower chamber’s August reccess. Four Republicans, Brian Fitzpatrick, Warren Davidson, Tom Barrett and Thomas Massie , voted yes, alongside all Democrats. Continue reading...",
+            "zh": "四名共和党人投票支持遏制特朗普在伊朗的军事行动；国防授权法案引发争议 美国众议院通过第二次战争权力决议 众议院 8 月休会前，众议院议员以 214 票对 208 票通过了一项战争权力决议，以遏制特朗普政府对伊朗的军事行动。四名共和党人布莱恩·菲茨帕特里克、沃伦·戴维森、汤姆·巴雷特和托马斯·马西与所有民主党人一起投了赞成票。继续阅读..."
+          },
+          "reflection": {
+            "en": "In moments of intense political debate over war and peace, it's easy to see only human adversaries. This verse reminds us that deeper spiritual forces often influence earthly conflicts and the decisions of leaders. As we pray for wisdom in governance, we are called to remember the unseen battles and seek Yahweh's intervention for peace.",
+            "zh": "在围绕战争与和平展开激烈政治辩论的时刻，我们很容易只看到人间的对手。这节经文提醒我们，更深层的属灵力量常常影响着地上的冲突和领袖的决策。当我们为治理中的智慧祷告时，我们被呼召去记住那些看不见的争战，并寻求雅伟为和平的介入。"
+          },
+          "verse": {
+            "reference": "Ephesians 6:12",
+            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
+            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
+            "themeEn": "Not against flesh and blood",
+            "themeZh": "并非与血气争战"
+          },
+          "aiVerseId": "eph_6_12",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jul-23-trump-datacenter-costs-big-tech",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
+          "image": "https://i.guim.co.uk/img/media/709f37ee82378c1cce26d50bcb1c27bb6a1d4af2/404_0_3055_2445/master/3055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=825a10ed08e0d4d1450763a7d70103e1",
+          "publishedAt": "2026-07-23T19:56:50.000Z",
+          "title": {
+            "en": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
+            "zh": "特朗普表示，近 200 家公司已签署承诺，保护美国人免受数据中心成本的影响"
+          },
+          "summary": {
+            "en": "‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising bills Donald Trump has announced that some 200 entities have signed onto his non-binding “Ratepayer Protection Pledge,” expanding a voluntary commitment which claims to...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising bills Donald Trump has announced that some 200 entities have signed onto his non-binding “Ratepayer Protection Pledge,” expanding a voluntary commitment which claims to ensure US consumers will not bear the cost of the AI datacenter build-out. Trump delivered remarks on Thursday at the Environmental Protection Agency (EPA) headquarters, alongside Lee Zeldin, the agency’s administrator, and Chris Wright, the energy secretary. Other attendees included governors who signed onto the pledge, including Brian Kemp of Georgia, Mike DeWine of Ohio, Spencer Cox of Utah and Jeff Landry of Louisiana. Continue reading...",
+            "zh": "随着人们继续与不断上涨的账单作斗争，总统宣称的“纳税人保护承诺”不具约束力唐纳德·特朗普宣布，约 200 个实体已签署了他的不具约束力的“纳税人保护承诺”，扩大了一项自愿承诺，该承诺声称确保美国消费者不会承担人工智能数据中心扩建的成本。周四，特朗普在美国环境保护局 (EPA) 总部发表了讲话，该机构局长李·泽尔丁 (Lee Zeldin) 和能源部长克里斯·赖特 (Chris Wright) 也在场。其他出席者包括签署承诺书的州长，包括佐治亚州的布莱恩·坎普、俄亥俄州的迈克·德温、犹他州的斯宾塞·考克斯和路易斯安那州的杰夫·兰德里。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-world-live-2026-jul-23-us-iran-war-live-updates-stri",
           "section": "world",
@@ -118,7 +185,7 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
           "image": "https://i.guim.co.uk/img/media/d47979ce45ceca581d7d0593607c38f0ec10aa4b/200_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fe9250038d72ee1627128658e18622b1",
-          "publishedAt": "2026-07-23T18:25:23.000Z",
+          "publishedAt": "2026-07-23T19:53:57.000Z",
           "title": {
             "en": "Middle East crisis is ‘getting out of control’, UN chief warns, as fears mount of escalation spiral – live updates",
             "zh": "也门胡塞武装声称袭击红海油轮，美国对伊朗发动第十二晚空袭——中东危机直播"
@@ -146,38 +213,104 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-us-news-live-2026-jul-23-us-house-defense-spending-b",
+          "id": "www-sbs-com-au-news-article-us-166-billion-refund-comes-with-much-bigger",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/us-166-billion-refund-comes-with-much-bigger-cost/a5h8qoufi",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-us-166-billion-refund-comes-with-much-bigger.jpg",
+          "publishedAt": "2026-07-23T19:45:52.000Z",
+          "title": {
+            "en": "The US' $166 billion refund comes with a much bigger cost",
+            "zh": "美国1660亿美元的退款代价更高昂"
+          },
+          "summary": {
+            "en": "Trump's willingness to use tariffs to create persistent uncertainty signals a greater economic and legal danger.",
+            "zh": "特朗普愿意利用关税制造持续的不确定性，这预示着更大的经济和法律风险。"
+          },
+          "body": {
+            "en": "An Australian clothing company, Nashie, recently received a six-figure refund from the US government, including 6 per cent interest, for tariffs it had paid on US imports. It&#x2019;s just one of thousands of businesses reclaiming tariffs imposed on what President Donald Trump called \"Liberation Day\".\n\nOf the roughly US$166 billion (AU$237 billion) due to be refunded, more than US$85 billion (AU$121 billion) has already been returned to businesses.\n\nBut while a US Supreme Court ruling in February reversed the tariffs, much of the economic and political damage, and perhaps some of the Trump administration&#x2019;s gains, will be hard to undo.\n\nTrump&#x2019;s April 2025 tariffs relied on the International Emergency Economic Powers Act (IEEPA), a 1977 law that lets presidents respond to extraordinary foreign threats &#x2014; yet never mentions the word \"tariff\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nOn 20 February 2026, the US Supreme Court ruled in a 6-3 decision that IEEPA did not authorise tariffs &#x2014; under the Constitution, only Congress has the power to impose taxes and duties.\n\nThe decision placed an important limit on the president&#x2019;s power to impose tariffs. But it did not end Trump&#x2019;s tariff policy, which was, from the beginning, designed to buy time to rewrite US trade relations with the rest of the world.\n\nTrump responded with a temporary 10 per cent global tariff, which expires on 24 July after the statutory 150-day limit.\n\nTrump has also pursued more targeted tariffs under laws dealing with unfair trade practices, national security and anti-slavery claims.\n\nThese require investigations into foreign trade practices and lengthy procedures, which slow the process and also create a record that can be scrutinised in court.\n\nThe US Trade Representative&#x2019;s findings on alleged forced labour have prepared the ground for a 12.5 per cent tariff on exports from 54 countries, including Australia, China, New Zealand and the United Kingdom, starting on 24 July 2026.\n\nSo while the Supreme Court closed one legal door, the Trump administration was already preparing to walk through another. And it has bought itself yet more time.\n\nThe refunds paid out contributed to a US$120 billion (AU$171 billion) federal deficit this June, in sharp contrast to the US$27 billion (AU$38 billion) surplus in June 2025.\n\nThat said, the US$166 billion (AU$236 billion) being paid out is not a fine. Much of it is money the government collected without legal authority and must now return. This is real money, but it&#x2019;s less than 2 per cent of the projected 2026 federal government spending.\n\nWithout any fanfare to match \"Liberation Day\" , the political...",
+            "zh": "澳大利亚服装公司 Nashie 最近从美国政府收到了六位数的退款，其中包括 6% 的利息，用于支付其对美国进口产品征收的关税。这只是数千家收回在唐纳德·特朗普总统所谓的“解放日”期间征收的关税的企业之一。 在应退还的约 1,660 亿美元（2,370 亿澳元）资金中，超过 850 亿美元（1,210 亿澳元）已返还给企业。 不过，尽管美国最高法院二月份的裁决推翻了关税，但大部分经济和政治损失，或许还有特朗普政府的一些收获，都将难以挽回。 特朗普 2025 年 4 月的关税依赖于《国际紧急经济权力法案》(IEEPA)，该法案于 1977 年颁布，允许总统应对特殊的外国威胁，但从未提及“关税”一词。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 2026 年 2 月 20 日，美国最高法院以 6 比 3 的裁决裁定 IEEPA 未授权征收关税——根据宪法，只有国会有权征收税收和关税。 该决定对总统征收关税的权力施加了重要限制。但这并没有结束特朗普的关税政策，该政策从一开始就是为了争取时间来重写美国与世界其他国家的贸易关系。 特朗普以临时征收 10% 的全球关税作为回应，该关税将于 7 月 24 日在法定 150 天限制后到期。 特朗普还根据涉及不公平贸易行为、国家安全和反奴隶制主张的法律寻求更有针对性的关税。 这些需要对外贸行为进行调查，程序冗长，这不仅会减慢进程，还会留下可以在法庭上审查的记录。 美国贸易代表关于强迫劳动指控的调查结果为自 2026 年 7 月 24 日起对澳大利亚、中国、新西兰和英国等 54 个国家的出口产品征收 12.5% 的关税奠定了基础。 因此，在最高法院关闭一扇法律大门的同时，特朗普政府已经准备打开另一扇法律大门。它为自己赢得了更多的时间。 今年 6 月支付的退款造成了 1200 亿美元（1710 亿澳元）的联邦赤字，与 2025 年 6 月的 270 亿美元（380 亿澳元）盈余形成鲜明对比。 也就是说，支付的 1,660 亿美元（2,360 亿澳元）并不是罚款。其中大部分是政府未经合法授权收集的资金，现在必须归还。这是真金白银，但还不到 2026 年联邦政府预计支出的 2%。 没有任何与“解放日”相匹配的大肆宣传，政治......"
+          },
+          "reflection": {
+            "en": "The news highlights how policy choices can generate widespread uncertainty and risk. Proverbs reminds us that a prudent person foresees danger and takes precautions, while the naive press on and suffer the consequences. This calls leaders to consider the full impact of their decisions, seeking stability and well-being for all.",
+            "zh": "这则新闻指出，政策选择可能带来广泛的不确定性和风险。箴言提醒我们，明智的人预见危险并采取预防措施，而愚昧人则继续前行并为此受苦。这呼吁领导者在做决策时，要全面考量其影响，为所有人寻求稳定和福祉。"
+          },
+          "verse": {
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
+          },
+          "aiVerseId": "prov_27_12",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-jul-23-child-cancer-california-ladera-r",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/jul/23/us-house-defense-spending-bill-donald-trump-iran-rubio-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/ad70213b1b8b5f1a9d0778bd102d77a4c2618f72/290_0_2947_2359/master/2947.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fbd7e067579154f03814ad59f22e50b5",
-          "publishedAt": "2026-07-23T18:17:12.000Z",
+          "link": "https://www.theguardian.com/us-news/2026/jul/23/child-cancer-california-ladera-ranch",
+          "image": "https://i.guim.co.uk/img/media/9a9170a8be6eac6f73a77c60379b873451de868e/741_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a28f40bb30b02eb8074ddcd86b569f2",
+          "publishedAt": "2026-07-23T19:34:45.000Z",
           "title": {
-            "en": "White House says if Saudi Arabia does not join Abraham accords, nuclear deal ‘is off’ – US politics live",
-            "zh": "众议院再次通过战争权力决议，反制伊朗战争，1.15万亿美元国防法案面临参议院艰难战役——实时报道"
+            "en": "Southern California suburb alarmed as ‘exceptionally rare’ cancer sickens multiple children",
+            "zh": "南加州郊区因“极其罕见”的癌症导致多名儿童患病而感到震惊"
           },
           "summary": {
-            "en": "The US House of Representatives passed a war powers resolution, with some Republican defections, to limit presidential military action in Iran. This legislative pushback comes amidst controversy surrounding a $1.15 trillion defense bill.",
-            "zh": "美国众议院通过了一项战争权力决议，旨在限制总统在伊朗的军事行动，部分共和党议员投了反对票。这项立法上的反制行动是在一项1.15万亿美元的国防法案引发争议之际进行的。"
+            "en": "Residents in Ladera Ranch in Orange county voice concerns after six children diagnosed with Ewing sarcoma Sign up for the Breaking News US newsletter email Concerns are growing in southern California over a cluster of “exceptionally rare” cancer cases that has sickened multiple...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Karoline Leavitt insisted nuclear deal is ‘contingent’ on condition revealed by Trump in a social post US House passes second war powers resolution Sign up for the Breaking News US email By a vote of 214-208 lawmakers in the House passed a war powers resolution to curb the Trump administration’s military action in Iran, ahead of the lower chamber’s August reccess. Four Republicans, Brian Fitzpatrick, Warren Davidson, Tom Barrett and Thomas Massie , voted yes, alongside all Democrats. Continue reading...",
-            "zh": "四名共和党人投票支持遏制特朗普在伊朗的军事行动；国防授权法案引发争议 美国众议院通过第二次战争权力决议 众议院 8 月休会前，众议院议员以 214 票对 208 票通过了一项战争权力决议，以遏制特朗普政府对伊朗的军事行动。四名共和党人布莱恩·菲茨帕特里克、沃伦·戴维森、汤姆·巴雷特和托马斯·马西与所有民主党人一起投了赞成票。继续阅读..."
+            "en": "Residents in Ladera Ranch in Orange county voice concerns after six children diagnosed with Ewing sarcoma Sign up for the Breaking News US newsletter email Concerns are growing in southern California over a cluster of “exceptionally rare” cancer cases that has sickened multiple children in a suburban community. Families living in the Orange county neighborhood of Ladera Ranch, home to about 26,000 people, have reported that six children in the community were diagnosed with Ewing sarcoma, Katrina Foley, the vice-chair of the county board of supervisors, said in a statement . Continue reading...",
+            "zh": "奥兰治县拉德拉牧场的居民对六名儿童被诊断出患有尤文肉瘤表示担忧 在南加州，人们对一系列“极其罕见”的癌症病例的担忧日益加剧，这些病例已导致郊区社区的多名儿童患病。奥兰治县监事会副主席卡特里娜·弗利 (Katrina Foley) 在一份声明中表示，居住在奥兰治县拉德拉牧场 (Ladera Ranch) 附近的家庭报告称，该社区有 6 名儿童被诊断出患有尤文肉瘤。该地区约有 26,000 人。继续阅读..."
           },
           "reflection": {
-            "en": "In moments of intense political debate over war and peace, it's easy to see only human adversaries. This verse reminds us that deeper spiritual forces often influence earthly conflicts and the decisions of leaders. As we pray for wisdom in governance, we are called to remember the unseen battles and seek Yahweh's intervention for peace.",
-            "zh": "在围绕战争与和平展开激烈政治辩论的时刻，我们很容易只看到人间的对手。这节经文提醒我们，更深层的属灵力量常常影响着地上的冲突和领袖的决策。当我们为治理中的智慧祷告时，我们被呼召去记住那些看不见的争战，并寻求雅伟为和平的介入。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Ephesians 6:12",
-            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
-            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
-            "themeEn": "Not against flesh and blood",
-            "themeZh": "并非与血气争战"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
-          "aiVerseId": "eph_6_12",
-          "translationState": "localized"
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cy4kmr82n44o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7df8/live/48d08300-867b-11f1-8c77-df97511a6b05.jpg",
+          "publishedAt": "2026-07-23T19:17:42.000Z",
+          "title": {
+            "en": "France evacuates 20,000 as wildfires spread in south-west",
+            "zh": "野火在西南部蔓延 法国疏散2万人"
+          },
+          "summary": {
+            "en": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "About 12,000 people have been evacuated from the south-west of France and authorities are moving 8,800 others as wildfires spread in the Gironde region.\n\nLocal officials said some 3,400 hectares (8,400 acres) of land have already been destroyed around the Bay of Arcachon, as about 700 firefighters battle the flames.\n\nMany of those who had to leave the area overnight were visitors to campsites on the Lège-Cap-Ferret peninsula.\n\nWildfires have also recently broken out in Spain and Italy. Several thousand people have been ordered to leave their homes in several locations west and south of Madrid, and a firefighter died after falling ill while tackling a blaze in Sicily.\n\nThe Gironde prefect, Sophie Brocas, said 10,000 visitors were among those evacuated from campsites overnight and the latest evacuations were going ahead \"calmly\" in the village of Claouey, on the shore of Arcachon Bay.\n\nBrocas said no injuries had been reported. Some sites and roads were being closed in exposed forest areas.\n\n\"The work was relentless all night,\" said Gironde fire service chief Marc Vermeulen, who warned that temperatures were rising and the wind was getting stronger. \"It'll peak at 20:00 [18:00 GMT]. Then we'll have to deal with... highly variable winds so we're currently tackling a fire that is going to be difficult to predict and that's why we cannot relax our guard.\"\n\nTwo local firefighters died earlier this week fighting another fire close to Bordeaux airport.\n\nYassmina de Freitas, 19, who lives in the coastal town of Le Porge, said she noticed smoke and the smell of burning at lunchtime on Wednesday.\n\nBy the afternoon \"ash… [and] half-burned tree bark\" were falling, the sky was \"very dark\" and the smoke was getting \"thicker and thicker\".\n\nAt around 20:00 local time (19:00 BST), her family was evacuated by law enforcement and taken to a gymnasium in a neighbouring town. They had to leave two of their cats and four chickens behind as they could not be found in the flurry to leave.\n\nShe said she could not sleep at all and was waking up every hour to check the fire's progress.\n\nBBC South presenter Jo Kent is on holiday with her family in France, staying at the Les Pastourelles campsite in Claouey, next to Lège.\n\nShe said many people at the campsite who were very anxious about the situation had already left.\n\nThe main road down to the south of the peninsula, which is normally filled with \"nose to tail traffic\", was empty and the supermarket is \"unnervingly quiet\", Kent added.\n\nIn the Var region in south-east France, evacuated residents were told they could go home to assess potential damage to properties on Thursday morning. However, it warned people to limit their movements in the area due to the risk of the fire re-igniting as the wind picks up through the...",
+            "zh": "随着野火在吉伦特省蔓延，法国西南部约 12,000 人已被疏散，当局正在转移另外 8,800 人。 当地官员表示，阿卡雄湾周围约 3,400 公顷（8,400 英亩）的土地已被毁，约 700 名消防员正在与大火搏斗。 许多不得不过夜离开该地区的人都是前往雷日卡普费雷半岛露营地的游客。 西班牙和意大利最近也爆发了野火。马德里西部和南部多个地点的数千人被勒令离开家园，一名消防员在西西里岛扑灭大火时生病死亡。 吉伦特省省长索菲·布罗卡斯(Sophie Brocas)表示，一万名游客连夜从露营地撤离，最新的撤离工作正在阿卡雄湾岸边的克劳埃村“平静地”进行。 布罗卡斯表示，目前还没有人员受伤的报告。裸露森林地区的一些地点和道路被关闭。 吉伦特省消防局局长马克·韦尔默伦(Marc Vermeulen)表示，“整个晚上的工作都在无情地进行”，他警告说，气温正在上升，风也越来越强。 “它将在 20:00 [18:00 GMT] 达到峰值。然后我们将不得不应对……多变的风，因此我们目前正在应对一场难以预测的火灾，这就是为什么我们不能放松警惕。” 本周早些时候，两名当地消防员在波尔多机场附近的另一场火灾中丧生。 19 岁的亚斯米娜·德·弗雷塔斯 (Yassmina de Freitas) 住在沿海小镇勒波热 (Le Porge)，她说周三午餐时她注意到烟雾和烧焦的气味。 到了下午，“灰烬......[和]半烧焦的树皮”正在落下，天空“非常黑暗”，烟雾变得“越来越浓”。 当地时间 20:00 左右（英国夏令时 19:00），她的家人被执法人员疏散，并被带到邻近城镇的一家体育馆。他们不得不留下两只猫和四只鸡，因为在匆忙中找不到它们离开。 她说她根本无法入睡，每小时都会醒来检查火势的进展。 BBC 南方频道主持人乔·肯特 (Jo Kent) 与家人在法国度假，住在莱日 (Lège) 旁边的克劳埃 (Claouey) 的 Les Pastourelles 露营地。 她说，营地里许多对局势感到非常焦虑的人已经离开了。 肯特补充说，半岛南部的主要道路通常挤满了“从头到尾的交通”，但现在却空无一人，超市“安静得令人不安”。 在法国东南部的瓦尔地区，疏散的居民被告知他们可以在周四早上回家评估潜在的财产损失。然而，它警告人们限制在该地区的活动，因为随着风吹过，火灾可能会重新点燃……"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-theguardian-com-politics-2026-jul-23-kemi-badenoch-has-to-adapt-her-",
@@ -230,8 +363,8 @@
             "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Sweden has declared the mining of critical minerals and rare earths a national security interest. This will ease and expedite the permit process. The government said the step was needed to counter dependence on China.\n\nSweden on Thursday announced plans to try to boost its mining sector, particularly when it comes to rare earths , and counter European dependence on China .&#160;\n\nResource-rich Sweden is already home to Europe's largest iron ore mine, and has since found considerable rare earth deposits at the same Arctic Circle site in Kiruna .&#160;\n\nRare earth minerals are essential for renewable energy generation, defense and electric vehicle production, modern computer manufacturing and other core industries. China accounts for roughly 70% of global mining and refining .\n\nThe government in Stockholm on Thursday declared the mining of critical metals and rare earth minerals to be a national security interest.&#160;\n\nThis should ease and accelerate the permit process for new extraction projects&#160;and help attract investments, according to Energy Minister Ebba Busch, who is also deputy prime minister.&#160;\n\n\"Sweden must become a leading mining nation,\" she said as she outlined the new strategy, saying the government intended to \"streamline authorization procedures so decisions can be taken more quickly.\"&#160;\n\n\"We believe that this can contribute significantly to both Sweden's the EU's and NATO's defense capabilities,\" Busch said, calling European industry's dependence on China a \"systemic risk.\"&#160;\n\nBusch also said the move would make it easier for the state to assign land for mining projects, an area of tension with the Sami reindeer-herding indigenous people, who say the expansion of mining could spell the end for their traditional way of life.\n\nThe energy minister also said the government was looking into setting up a state-owned investment company for the mining sector.&#160;\n\n\"Today, to put it plainly, the governemnt lacks concrete tools to wisely contribute to accelerating and attracting investments in crucial strategic projects,\" she said.&#160;\n\nSweden has been a European mining giant since the 10th century and the opening of the vast Falun copper mine, which at one point produced as much as two-thirds of the continent's copper. The distinctive deep red color that adorns many houses, churches and other buildings in the country is called Falu Red and hails from the disused mine. It's now a museum and UNESCO World Heritage Site.&#160;\n\nSweden's modern-day Falun is the vast LKAB iron ore mine in Kiruna in the Arctic Circle. Sweden holds around 60% of Europe's known iron ore deposits and, as of 2021, was responsible for around 90% of the continent's iron ore extraction, around one-third of that from Kiruna alone.&#160;\n\nThe vast frozen...",
-            "zh": "瑞典已宣布关键矿物和稀土的开采属于国家安全利益。这将简化并加快许可流程。政府表示，需要采取这一措施来对抗对中国的依赖。 瑞典周四宣布了计划，试图推动其采矿业，特别是稀土行业，并对抗欧洲对中国的依赖。 资源丰富的瑞典已经成为欧洲最大铁矿的所在地，并在基律纳的同一北极圈地点发现了大量稀土矿藏。 稀土矿物对于可再生能源发电、国防和电动汽车生产、现代计算机制造和其他核心产业至关重要。中国约占全球采矿和炼油业的70%。 斯德哥尔摩政府周四宣布，关键金属和稀土矿物的开采符合国家安全利益。 兼任副总理的能源部长埃巴·布希 (Ebba Busch) 表示，这应该会简化和加快新开采项目的许可流程，并有助于吸引投资。 “瑞典必须成为领先的矿业国家，”她在概述新战略时表示，政府打算“简化授权程序，以便更快地做出决定。” 布希表示：“我们相信，这可以对瑞典、欧盟和北约的防御能力做出重大贡献。”他称欧洲工业对中国的依赖是一种“系统性风险”。 布施还表示，此举将使国家更容易为采矿项目分配土地，这是一个与放牧驯鹿的萨米原住民关系紧张的领域，他们表示采矿业的扩张可能意味着他们传统生活方式的终结。 能源部长还表示，政府正在考虑为采矿业设立一家国有投资公司。 她说：“今天，坦白地说，政府缺乏具体工具来明智地促进关键战略项目的加速和吸引投资。” 自 10 世纪和大型法伦铜矿开采以来，瑞典一直是欧洲矿业巨头，该矿一度生产了欧洲大陆三分之二的铜。该国许多房屋、教堂和其他建筑物所装饰的独特深红色被称为“法鲁红”，来自废弃的矿山。它现在是一个博物馆和联合国教科文组织世界遗产。 瑞典现代的法伦是位于北极圈基律纳的巨大LKAB铁矿。瑞典拥有欧洲约 60% 的已知铁矿石储量，截至 2021 年，瑞典开采了欧洲大陆约 90% 的铁矿石，其中仅基律纳就占了约三分之一。 广阔的冰冻..."
+            "en": "Sweden has declared the mining of critical minerals and rare earths a national security interest. This will ease and expedite the permit process. The government said the step was needed to counter dependence on China.\n\nSweden on Thursday announced plans to try to boost its mining sector, particularly when it comes to rare earths , and counter European dependence on China .&#160;\n\nResource-rich Sweden is already home to Europe's largest iron ore mine, and has since found considerable rare earth deposits at the same Arctic Circle site in Kiruna .&#160;\n\nRare earth minerals are essential for renewable energy generation, defense and electric vehicle production, modern computer manufacturing and other core industries. China accounts for roughly 70% of global mining and refining .\n\nThe government in Stockholm on Thursday declared the mining of critical metals and rare earth minerals to be a national security interest.&#160;\n\nThis should ease and accelerate the permit process for new extraction projects&#160;and help attract investments, according to Energy Minister Ebba Busch, who is also deputy prime minister.&#160;\n\n\"Sweden must become a leading mining nation,\" she said as she outlined the new strategy, saying the government intended to \"streamline authorization procedures so decisions can be taken more quickly.\"&#160;\n\n\"We believe that this can contribute significantly to both Sweden's the EU's and NATO's defense capabilities,\" Busch said, calling European industry's dependence on China a \"systemic risk.\"&#160;\n\nBusch also said the move would make it easier for the state to assign land for mining projects, an area of tension with the Sami reindeer-herding indigenous people, who say the expansion of mining could spell the end for their traditional way of life.\n\nThe energy minister also said the government was looking into setting up a state-owned investment company for the mining sector.&#160;\n\n\"Today, to put it plainly, the governemnt lacks concrete tools to wisely contribute to accelerating and attracting investments in crucial strategic projects,\" she said.&#160;\n\nSweden has been a European mining giant since the 10th century and the opening of the vast Falun copper mine, which at one point produced as much as two-thirds of the continent's copper. The distinctive deep red color that adorns many houses, churches and other buildings in the country is called Falun Red and hails from the disused mine. It's now a museum and UNESCO World Heritage Site.&#160;\n\nSweden's modern-day Falun is the vast LKAB iron ore mine in Kiruna in the Arctic Circle. Sweden holds around 60% of Europe's known iron ore deposits and, as of 2021, was responsible for around 90% of the continent's iron ore extraction, around one-third of that from Kiruna alone.&#160;\n\nThe vast...",
+            "zh": "瑞典已宣布关键矿物和稀土的开采属于国家安全利益。这将简化并加快许可流程。政府表示，需要采取这一措施来对抗对中国的依赖。 瑞典周四宣布了计划，试图推动其采矿业，特别是稀土行业，并对抗欧洲对中国的依赖。 资源丰富的瑞典已经成为欧洲最大铁矿的所在地，并在基律纳的同一北极圈地点发现了大量稀土矿藏。 稀土矿物对于可再生能源发电、国防和电动汽车生产、现代计算机制造和其他核心产业至关重要。中国约占全球采矿和炼油业的70%。 斯德哥尔摩政府周四宣布，关键金属和稀土矿物的开采符合国家安全利益。 兼任副总理的能源部长埃巴·布希 (Ebba Busch) 表示，这应该会简化和加快新开采项目的许可流程，并有助于吸引投资。 “瑞典必须成为领先的矿业国家，”她在概述新战略时表示，政府打算“简化授权程序，以便更快地做出决定。” 布希表示：“我们相信，这可以对瑞典、欧盟和北约的防御能力做出重大贡献。”他称欧洲工业对中国的依赖是一种“系统性风险”。 布施还表示，此举将使国家更容易为采矿项目分配土地，这是一个与放牧驯鹿的萨米原住民关系紧张的领域，他们表示采矿业的扩张可能意味着他们传统生活方式的终结。 能源部长还表示，政府正在考虑为采矿业设立一家国有投资公司。 她说：“今天，坦白地说，政府缺乏具体工具来明智地促进关键战略项目的加速和吸引投资。” 自 10 世纪和大型法伦铜矿开采以来，瑞典一直是欧洲矿业巨头，该矿一度生产了欧洲大陆三分之二的铜。该国许多房屋、教堂和其他建筑物所装饰的独特深红色被称为法轮红，来自废弃的矿山。它现在是一个博物馆和联合国教科文组织世界遗产。 瑞典现代的法伦是位于北极圈基律纳的巨大LKAB铁矿。瑞典拥有欧洲约 60% 的已知铁矿石储量，截至 2021 年，瑞典开采了欧洲大陆约 90% 的铁矿石，其中仅基律纳就占了约三分之一。 广阔的..."
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -264,7 +397,7 @@
           },
           "body": {
             "en": "The deal between the US and Saudi Arabia to help the Gulf kingdom develop nuclear energy is dependent on Riyadh recognising the State of Israel, President Donald Trump has said.\n\n\"The Civil Nuclear Deal (There will be no enrichment of material!)... which pertains only to non-military use... will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords,\" Trump said on Truth Social.\n\nIt was not immediately clear if the condition of joining the accords was stipulated in the text of the nuclear deal - which has not been released - or that Saudi Arabia had agreed to that condition.\n\nWhite House press secretary Karoline Leavitt said on Thursday that Trump had discussed the condition to Saudi leaders on numerous previous occasions.\n\n\"He has said if they don't join the Abraham Accords, the deal is off,\" she said. \"So we'll continue to have those conversations with our Saudi counterparts moving forward.\"\n\nTrump's comments come come after criticism from experts that the US-Saudi deal announced on Wednesday could run the risk of future nuclear proliferation in an already unstable region.\n\nSome Republican and Democratic lawmakers expressed similar concerns, though Trump's Republican Party controls both the upper and lower chambers and opponents of the deal do not appear to have the votes needed to block it.\n\nAccording to the US Department of Energy, it includes a \"peaceful nuclear co-operation agreement\" and a \"bilateral safeguards agreement\".\n\n\"Together, these two agreements lay the legal foundation for a decades-long, multi-billion-dollar partnership that advances several priority economic and strategic objectives, including nuclear nonproliferation,\" a statement from the department said.\n\nThe International Atomic Energy Agency (IAEA) said on Thursday that it was aware of US and Saudi plans for a \"bilateral civil nuclear cooperation agreement and the plan to ask the IAEA to implement verification measures in relation to this\".\n\n\"We look forward to receiving the request for such verification and to working with the US and KSA [Kingdom of Saudi Arabia] in ensuring the implementation of those measures.\"\n\nDuring Trump's first term as US president, the United Arab Emirates (UAE) and Bahrain signed the Abraham Accords, resulting in a historic normalisation of relations between Israel and two Arab nations - the first in decades.\n\nSaudi Arabia has previously said it will not do so without the establishment of a Palestinian state, but the White House said the deal would be off if Riyadh did not join the accords.\n\nPosting on X, Prime Minister Benjamin Netanyahu's office said Saudi Arabia joining the accords \"would be an historic leap forward for peace in the Middle East\".\n\nThe statement did not mention the nuclear...",
-            "zh": "美国总统特朗普表示，美国和沙特阿拉伯之间帮助海湾王国发展核能的协议取决于利雅得是否承认以色列国。 特朗普在《Truth Social》上表示：“民用核协议（不会有任何物质浓缩！）......仅涉及非军事用途......将获得批准，但完全取决于沙特阿拉伯加入非常受尊重和成功的亚伯拉罕协议。” 目前尚不清楚核协议文本（尚未公布）是否规定了加入协议的条件，或者沙特阿拉伯是否已同意该条件。 白宫新闻秘书卡罗琳·莱维特周四表示，特朗普此前曾多次与沙特领导人讨论过这一情况。 “他说过，如果他们不加入《亚伯拉罕协议》，交易就会失败，”她说。 “因此，我们将继续与沙特同行进行这些对话。” 特朗普发表此番言论之前，专家批评称，周三宣布的美国与沙特协议可能会给本已不稳定的地区带来未来核扩散的风险。 一些共和党和民主党议员表达了类似的担忧，尽管特朗普的共和党控制着参众两院，而且该协议的反对者似乎没有足够的票数来阻止该协议。 美国能源部称，其中包括“和平核合作协议”和“双边保障协议”。 美国国防部的一份声明称：“这两项协议共同为长达数十年、价值数十亿美元的伙伴关系奠定了法律基础，推动了包括核不扩散在内的多项优先经济和战略目标。” 国际原子能机构（IAEA）周四表示，它知道美国和沙特计划达成“双边民用核合作协议，并计划要求国际原子能机构实施与此相关的核查措施”。 “我们期待收到此类核查的请求，并与美国和沙特阿拉伯王国合作，确保这些措施的实施。” 在特朗普担任美国总统的第一个任期内，阿拉伯联合酋长国（阿联酋）和巴林签署了《亚伯拉罕协议》，导致以色列与两个阿拉伯国家之间的关系实现历史性正常化，这是几十年来的首次。 沙特阿拉伯此前曾表示，如果不建立巴勒斯坦国，它就不会这样做，但白宫表示，如果利雅得不加入该协议，该协议将被取消。 总理本杰明·内塔尼亚胡的办公室在 X 上发帖称，沙特阿拉伯加入该协议“将是中东和平的历史性飞跃”。 声明没有提及核..."
+            "zh": "美国总统特朗普表示，美国和沙特阿拉伯之间帮助海湾王国发展核能的协议取决于利雅得是否承认以色列国。 特朗普在《Truth Social》节目中表示：“民用核协议（不会进行物质浓缩！）……仅涉及非军事用途……将获得批准，但完全取决于沙特阿拉伯是否加入备受推崇且成功的《亚伯拉罕协议》。” 目前尚不清楚核协议文本（尚未公布）是否规定了加入协议的条件，或者沙特阿拉伯是否已同意该条件。 白宫新闻秘书卡罗琳·莱维特周四表示，特朗普此前曾多次与沙特领导人讨论过这一情况。 “他说过，如果他们不加入《亚伯拉罕协议》，交易就会失败，”她说。 “因此，我们将继续与沙特同行进行这些对话。” 特朗普发表此番言论之前，专家批评称，周三宣布的美国与沙特协议可能会给本已不稳定的地区带来未来核扩散的风险。 一些共和党和民主党议员表达了类似的担忧，尽管特朗普的共和党控制着参众两院，而且该协议的反对者似乎没有足够的票数来阻止该协议。 美国能源部称，其中包括“和平核合作协议”和“双边保障协议”。 美国国防部的一份声明称：“这两项协议共同为长达数十年、价值数十亿美元的伙伴关系奠定了法律基础，推动了包括核不扩散在内的多项优先经济和战略目标。” 国际原子能机构（IAEA）周四表示，它知道美国和沙特计划达成“双边民用核合作协议，并计划要求国际原子能机构实施与此相关的核查措施”。 “我们期待收到此类核查的请求，并与美国和沙特阿拉伯王国合作，确保这些措施的实施。” 在特朗普担任美国总统的第一个任期内，阿拉伯联合酋长国（阿联酋）和巴林签署了《亚伯拉罕协议》，导致以色列与两个阿拉伯国家之间的关系实现历史性正常化，这是几十年来的首次。 沙特阿拉伯此前曾表示，如果不建立巴勒斯坦国，它就不会这样做，但白宫表示，如果利雅得不加入该协议，该协议将被取消。 总理本杰明·内塔尼亚胡的办公室在 X 上发帖称，沙特阿拉伯加入该协议“将是中东和平的历史性飞跃”。 声明没有提及核..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -278,74 +411,6 @@
             "themeZh": "和睦"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-politics-2026-jul-23-lobbying-firm-pressed-for-detai",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/politics/2026/jul/23/lobbying-firm-pressed-for-details-about-payments-to-journalists-for-favourable-stories",
-          "image": "https://i.guim.co.uk/img/media/96abd846ceed37f2e659b1703e07e30e814b2a9e/372_0_1816_1452/master/1816.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=201f201cfbd39a5922f460f7b341d9cf",
-          "publishedAt": "2026-07-23T17:52:11.000Z",
-          "title": {
-            "en": "Lobbying firm pressed for details about payments to journalists for favourable stories",
-            "zh": "游说公司因向记者支付费用以获取有利报道而受到调查"
-          },
-          "summary": {
-            "en": "A political lobbying firm, CT Group, is facing condemnation and calls for full disclosure after it was revealed to have secretly paid journalists for positive coverage of its clients. MPs and other officials have denounced the practice as unethical.",
-            "zh": "政治游说公司CT Group被揭露秘密向记者支付费用，以换取对其客户的正面报道，目前正面临谴责和要求全面披露的呼吁。议员及其他官员谴责这种做法不道德。"
-          },
-          "body": {
-            "en": "MPs and others condemn behaviour of CT Group, which offered cash for positive coverage of clients A political lobbying firm secretly paying journalists for articles favourable to its clients is facing calls to reveal full details of the payments, after the practice was denounced as a dangerous “attack on democracy”. MPs, senior lobbyists and transparency campaigners all condemned the behaviour of CT Group, the firm co-founded by the campaign strategist Lynton Crosby , an election guru previously hired by David Cameron and Boris Johnson. Continue reading...",
-            "zh": "国会议员和其他人士谴责 CT 集团的行为，该集团为客户的正面报道提供现金 一家政治游说公司秘密向记者支付对其客户有利的文章的费用，该公司正面临要求披露付款全部细节的呼声，此前这种做法被谴责为危险的“对民主的攻击”。国会议员、高级游说者和透明度活动家都谴责了 CT 集团的行为，该公司由竞选策略师林顿·克罗斯比 (Lynton Crosby) 共同创立，林顿·克罗斯比是戴维·卡梅伦 (David Cameron) 和鲍里斯·约翰逊 (Boris Johnson) 之前聘用的选举大师。继续阅读..."
-          },
-          "reflection": {
-            "en": "The news of a lobbying firm secretly paying for favorable stories highlights the danger of hidden agendas distorting public information. Yahweh detests dishonest dealings and delights in integrity, reminding us that truth and transparency are foundational for trust in any society. This incident calls us to seek and uphold honesty in all our interactions,...",
-            "zh": "游说公司秘密付费获取有利报道的消息，凸显了隐藏议程扭曲公共信息的危险。雅伟憎恶不诚实的交易，喜悦正直，提醒我们真理和透明是任何社会信任的基石。这一事件呼吁我们在所有互动中，尤其是在塑造公众舆论的领域，寻求并维护诚实。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:1",
-            "textEn": "Yahweh detests dishonest scales, but accurate weights find favor with him.",
-            "textZh": "诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。",
-            "themeEn": "Yahweh hates fraud",
-            "themeZh": "雅伟厌恶诡诈"
-          },
-          "aiVerseId": "prov_11_1",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jul-23-secret-service-agent-vance-inves",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/23/secret-service-agent-vance-investigation",
-          "image": "https://i.guim.co.uk/img/media/bb0f78536b7b5b23899a97a83c6dad3b34ef6edc/0_302_5655_4523/master/5655.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d67de2464d83281994be95c04bdf669",
-          "publishedAt": "2026-07-23T17:52:02.000Z",
-          "title": {
-            "en": "Secret Service agent on Vance’s detail under investigation",
-            "zh": "特勤局特工因涉嫌泄密接受调查"
-          },
-          "summary": {
-            "en": "A Secret Service agent assigned to JD Vance’s protective detail is under administrative and potential criminal investigation for allegedly providing information for a news report about the vice-president’s helicopter trip.",
-            "zh": "一名负责保护JD·万斯副总统的特勤局特工，因涉嫌向新闻报道提供有关副总统直升机行程的信息，正面临行政和潜在的刑事调查。"
-          },
-          "body": {
-            "en": "Agent came under suspicion after allegedly providing info in MS Now report about vice-president’s helicopter trip A Secret Service agent assigned to JD Vance’s protective detail is “the subject of an administrative investigation, and potential criminal inquiry, involving allegations of compromising operational and information security”, according to the Secret Service chief of communications. The agent came under suspicion after allegedly providing information that appeared in an MS Now report about the vice-president’s planned Marine Corps helicopter trip with his son to a golf lesson, a source told CNN . Continue reading...",
-            "zh": "特工因涉嫌在《MS Now》报告中提供有关副总统直升机旅行的信息而受到怀疑 根据特勤局通讯主管的说法，一名负责 JD 万斯保护细节的特勤局特工“正在接受行政调查和潜在的刑事调查，涉及损害行动和信息安全的指控”。一位消息人士告诉美国有线电视新闻网，这名特工据称提供了 MS Now 报道中有关副总统计划与儿子乘坐海军陆战队直升机去参加高尔夫球课的信息，因此受到怀疑。继续阅读..."
-          },
-          "reflection": {
-            "en": "The investigation into a Secret Service agent highlights the critical importance of integrity in roles of public trust. Luke 16:10 reminds us that faithfulness in seemingly small duties reflects a deeper character, and a breach of trust, however minor it may appear, can have significant consequences for accountability and public confidence.",
-            "zh": "对一名特勤局特工的调查，凸显了公职人员在信任岗位上保持正直的重要性。路加福音16:10提醒我们，在看似微小的事情上忠心，反映了一个人更深层的品格，而任何信任的背弃，无论看起来多么微不足道，都可能对问责制和公众信任产生重大影响。"
-          },
-          "verse": {
-            "reference": "Luke 16:10",
-            "textEn": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.",
-            "textZh": "人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。",
-            "themeEn": "Faithful in little",
-            "themeZh": "小事上忠心"
-          },
-          "aiVerseId": "luke_16_10",
-          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-articles-ce97nm53pgxo-at-medium-rss-at-campaign-rss",
@@ -414,40 +479,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-cvgve0vxy1yo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39c0/live/60bb5b90-86b5-11f1-bb58-d3ffca85db6d.jpg",
-          "publishedAt": "2026-07-23T17:06:08.000Z",
-          "title": {
-            "en": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-            "zh": "胡塞武装袭击引发对中东冲突扩大和全球经济损害加剧的担忧"
-          },
-          "summary": {
-            "en": "The Iran-backed Houthi group in Yemen has issued threats to target Saudi vessels in a crucial shipping route, intensifying concerns about a broader Middle East conflict and increased global economic disruption.",
-            "zh": "得到伊朗支持的也门胡塞武装威胁要袭击重要航线上的沙特船只，这加剧了人们对中东地区冲突扩大和全球经济遭受更大损害的担忧。"
-          },
-          "body": {
-            "en": "Yemen's Houthi fighters claim to have attacked shipping in the Red Sea - a move that threatens to further escalate the already volatile situation in the Middle East.\n\nBy forcing ships to turn back from the narrow Bab El Mandeb strait, they have threatened to choke off the main maritime route from Europe to Asia.\n\nIt comes as US-Iran strikes continue and while a deal to develop Saudi Arabia's nuclear industry prompts fears of an arms race.\n\nSo far, 2026 is sadly proving to be one of the more violent years for parts of the Middle East.\n\nFor 12 consecutive nights, US Central Command (Centcom) has carried out air strikes on Iranian coastal radar, drone and missile bases.\n\nThe Gulf Arab states, in normal times a haven of low-crime tranquility and minimal taxation, are having to learn to live with constant attacks from their well-armed neighbour across the water: the Islamic Republic of Iran.\n\nAnd now the Iran-backed Houthis of Yemen have entered the fray, after a 2022 ceasefire with neighbouring Saudi Arabia appeared to have broken down.\n\nTwo Saudi vessels were hit by missiles in the Red Sea this week , while the Houthis claim to have turned back 10 others after warning ships to avoid Saudi ports, disrupting shipping passing through the strategic Bab El Mandeb Strait that links the southern end of the Red Sea with the Indian Ocean.\n\nThis matters because, on top of the ongoing disruption to global energy and fertiliser supplies caused by Iran effectively closing the Strait of Hormuz , it is a further obstacle to vital maritime trade that will soon impact the global economy.\n\nSaudi Arabia has been trying to distance itself from the Iran-US war and has been largely spared the Iranian drone and ballistic missile attacks that have rained down this month on Bahrain, Kuwait and Jordan.\n\nWith the Strait of Hormuz closed, the Saudis have been able to partially mitigate the disruption to their oil exports by shipping millions of barrels a day through the East-West Pipeline that traverses the entire breadth of their huge country, from the oilfields of Eastern Province to the Red Sea export terminal at Yanbu' Al-Bahr.\n\nFrom there, they have been able to ship oil in bulk to customers in Asia using tankers that depart south, past Yemen and that Bab El Mandeb Strait, and out into the open Indian Ocean.\n\nBut not anymore - at least not while the Houthis are threatening vessels that pass by their coast.\n\nUS President Donald Trump has vowed to \"take care of the Houthis\" but that has not worked before - and without a deal, it will not work this time.\n\nThe Houthis are a Shia tribal group from the far north of Yemen, based around the city of Saada.\n\nIn 2014, taking advantage of the turmoil of the recent Arab Spring protests that rocked the Middle East, they marched south and...",
-            "zh": "也门胡塞武装声称袭击了红海航运，此举有可能使中东本已动荡的局势进一步升级。 通过迫使船只从狭窄的曼德海峡返回，他们威胁要切断从欧洲到亚洲的主要海上航线。 在此之际，美国和伊朗的袭击仍在继续，而发展沙特阿拉伯核工业的协议引发了人们对军备竞赛的担忧。 令人遗憾的是，到目前为止，2026 年对于中东部分地区来说是最暴力的一年。 美国中央司令部（Centcom）连续12晚对伊朗沿海雷达、无人机和导弹基地进行空袭。 海湾阿拉伯国家在正常情况下是低犯罪率、宁静的避风港和最低税收的避风港，但现在却不得不学会忍受来自水对岸装备精良的邻国伊朗伊斯兰共和国的不断袭击。 现在，在 2022 年与邻国沙特阿拉伯达成的停火似乎破裂后，伊朗支持的也门胡塞武装也加入了战斗。 本周，两艘沙特船只在红海遭到导弹袭击，而胡塞武装则声称，在警告船只避开沙特港口、扰乱通过连接红海南端与印度洋的战略性曼德海峡的航运后，已击退了另外 10 艘船只。 这很重要，因为除了伊朗有效关闭霍尔木兹海峡造成的全球能源和化肥供应持续中断之外，这还进一步阻碍了重要的海上贸易，并将很快影响全球经济。 沙特阿拉伯一直试图与伊朗和美国的战争保持距离，并且基本上没有受到伊朗无人机和弹道导弹本月对巴林、科威特和约旦的袭击。 随着霍尔木兹海峡的关闭，沙特通过东西向管道每天运输数百万桶石油，从而部分缓解了对其石油出口的干扰。该管道横贯整个国家，从东部省的油田到延布巴赫尔的红海出口码头。 从那里，他们能够使用油轮向亚洲批量运输石油，油轮向南出发，经过也门和曼德海峡，进入开阔的印度洋。 但现在不再是了——至少在胡塞武装威胁经过其海岸的船只时不再如此。 美国总统唐纳德·特朗普发誓要“对付胡塞武装”，但这之前没有奏效，如果没有达成协议，这一次也不会奏效。 胡塞武装是来自也门最北部的一个什叶派部落团体，以萨达市为基地。 2014年，他们利用近期震撼中东的“阿拉伯之春”抗议活动的混乱，向南进军……"
-          },
-          "reflection": {
-            "en": "The rising tensions and threats of wider conflict in the Middle East remind us of the constant human call to pursue peace. In a world where escalation often seems imminent, Yahweh's word encourages us to strive for peaceful coexistence as far as it depends on us. This pursuit is vital for stability and the well-being of all.",
-            "zh": "中东地区日益紧张的局势和冲突扩大的威胁，提醒我们人类需要不断追求和平。在一个冲突升级似乎迫在眉睫的世界里，雅伟的话语鼓励我们，只要力所能及，就要与所有人和平相处。这种追求对于稳定和所有人的福祉至关重要。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
-        },
-        {
           "id": "www-dw-com-en-us-saudi-nuclear-deal-how-will-it-impact-middle-east-us-ir",
           "section": "world",
           "source": "DW World",
@@ -465,7 +496,7 @@
           },
           "body": {
             "en": "Critics say the US-Saudi deal could spark a nuclear arms race in the Middle East. It's certainly not making US allies, like Israel and the UAE, happy. And reports suggest the US may already be backtracking on the deal.\n\nAfter new statements by US President Donald Trump on Thursday morning, it is still unclear whether a controversial new deal with Saudi Arabia that allows the Middle Eastern autocracy to establish a civilian nuclear program will go ahead.\n\nTrump said the deal could only progress if Saudi Arabia normalized diplomatic relations with Israel. In the recent past, the Saudi government has repeatedly stated it would only do this if the Israelis make genuine moves toward establishing a Palestinian state. With the current Israeli government, that is unlikely to happen.\n\nThe deal must also be voted on by the US Congress and there's been backlash already, with critics saying it could set off a nuclear arms race in the Middle East.\n\nOne of the main reasons&#160;experts are so worried is that&#160;in several years' time, the deal, as it stands now, may let the Saudis enrich their own uranium. The more uranium is enriched,&#160;the more it could potentially be diverted to make weapons. And in the past Saudi Arabian ruler Mohammed bin Salman has said that if Iran produces a nuclear bomb, then Saudi Arabia would need to have one too.&#160;\n\nThe majority of the approximately 38 countries with civilian nuclear energy programs don't enrich uranium. Instead they import it.\n\nThe US-Saudi deal also has regional implications, especially because&#160;it seems to have been formulated in a far less rigorous way than similar deals.\n\nThe&#160;less strict deal the US has made with Saudi Arabia is likely to upset the&#160; United Arab Emirates , who often compete with the Saudis for geopolitical influence.\n\nThe UAE&#160;already has a nuclear power plant, Barakah, as a result of arrangements made with the Americans back in 2009.&#160;\n\nAs with almost all of the 26 nuclear cooperation agreements the US has, the UAE's deal also included what's known as an \"additional protocol\" signed with the International Atomic Energy Agency, or&#160;IAEA. This means the IAEA can thoroughly inspect all nuclear facilities. The UAE also agreed to forgo uranium enrichment.\n\nThe Saudi deal is bilateral only — that is,&#160;just between the US and the Saudis and doesn't include the IAEA — and the Saudis may eventually be allowed to enrich their own uranium.\n\nFor the UAE , nuclear power was always more about the prestige of being the first Arab nation to develop it than about military ambitions, Nour Eid told DW earlier this year .&#160;Eid is an independent researcher based in Paris who has&#160;published papers&#160;on nuclear ambitions in the Middle East for a number of think...",
-            "zh": "批评人士称，美国与沙特的协议可能引发中东核军备竞赛。这肯定不会让以色列和阿联酋等美国盟友感到高兴。有报道称，美国可能已经在该协议上撤回。 在美国总统唐纳德·特朗普周四上午发表新声明后，目前尚不清楚与沙特阿拉伯达成的一项有争议的新协议是否会继续进行，该新协议允许中东独裁政权建立民用核计划。 特朗普表示，只有沙特阿拉伯与以色列实现外交关系正常化，该协议才能取得进展。最近，沙特政府一再表示，只有以色列真正采取行动建立巴勒斯坦国，沙特才会这样做。对于现任以色列政府来说，这种情况不太可能发生。 该协议还必须由美国国会投票表决，并且已经引起了强烈反对，批评者称这可能引发中东核军备竞赛。 专家们如此担心的主要原因之一是，几年后，按照目前的协议，沙特可能会浓缩自己的铀。铀浓缩得越多，就越有可能被用来制造武器。沙特阿拉伯统治者穆罕默德·本·萨勒曼过去曾表示，如果伊朗生产核弹，那么沙特阿拉伯也需要拥有一枚。 大约 38 个拥有民用核能计划的国家中的大多数国家不进行铀浓缩。相反，他们导入它。 美国与沙特的协议也具有区域影响，特别是因为它的制定方式似乎远不如类似协议那么严格。 美国与沙特阿拉伯达成的不那么严格的协议可能会让阿拉伯联合酋长国感到不安，因为阿联酋经常与沙特争夺地缘政治影响力。 由于 2009 年与美国达成的安排，阿联酋已经拥有巴拉卡核电站。 与美国签署的几乎所有 26 项核合作协议一样，阿联酋的协议还包括与国际原子能机构 (IAEA) 签署的所谓“附加议定书”。这意味着国际原子能机构可以彻底检查所有核设施。阿联酋还同意放弃铀浓缩活动。 沙特协议只是双边协议——也就是说，仅在美国和沙特之间达成，不包括国际原子能机构——沙特最终可能被允许浓缩自己的铀。 努尔·艾德今年早些时候告诉德国之声，对阿联酋来说，核电更多的是作为第一个开发核电的阿拉伯国家的声誉，而不是军事野心。 Eid 是一位驻巴黎的独立研究员，他为许多思想家发表了有关中东核野心的论文......"
+            "zh": "批评人士称，美国与沙特的协议可能引发中东核军备竞赛。这肯定不会让以色列和阿联酋等美国盟友感到高兴。有报道称，美国可能已经在该协议上撤回。 在美国总统唐纳德·特朗普周四上午发表新声明后，目前尚不清楚与沙特阿拉伯达成的一项有争议的新协议是否会继续进行，该新协议允许中东独裁政权建立民用核计划。 特朗普表示，只有沙特阿拉伯与以色列实现外交关系正常化，该协议才能取得进展。最近，沙特政府一再表示，只有以色列真正采取行动建立巴勒斯坦国，沙特才会这样做。对于现任以色列政府来说，这种情况不太可能发生。 该协议还必须由美国国会投票表决，并且已经引起了强烈反对，批评者称这可能引发中东核军备竞赛。 专家们如此担心的主要原因之一是，几年后，按照目前的协议，沙特可能会浓缩自己的铀。铀浓缩得越多，就越有可能被转用于制造武器。沙特阿拉伯统治者穆罕默德·本·萨勒曼过去曾表示，如果伊朗生产核弹，那么沙特阿拉伯也需要拥有一枚。 大约 38 个拥有民用核能计划的国家中的大多数国家不进行铀浓缩。相反，他们导入它。 美国与沙特的协议也具有区域影响，特别是因为它的制定方式似乎远不如类似协议那么严格。 美国与沙特阿拉伯达成的不那么严格的协议可能会让阿拉伯联合酋长国感到不安，因为阿联酋经常与沙特争夺地缘政治影响力。 由于 2009 年与美国达成的安排，阿联酋已经拥有巴拉卡核电站。 与美国签署的几乎所有 26 项核合作协议一样，阿联酋的协议还包括与国际原子能机构 (IAEA) 签署的所谓“附加议定书”。这意味着国际原子能机构可以彻底检查所有核设施。阿联酋还同意放弃铀浓缩活动。 沙特协议只是双边协议——也就是说，仅在美国和沙特之间达成，不包括国际原子能机构——沙特最终可能被允许浓缩自己的铀。 努尔·艾德今年早些时候告诉德国之声，对阿联酋来说，核电更多的是作为第一个开发核电的阿拉伯国家的声誉，而不是军事野心。 Eid 是一位驻巴黎的独立研究员，他为许多思想家发表了有关中东核野心的论文......"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -543,39 +574,6 @@
             "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
             "themeEn": "Christ in the least",
             "themeZh": "基督在至微者中"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-dw-com-en-can-india-s-cockroach-protest-movement-go-nationwide-a-780",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/can-india-s-cockroach-protest-movement-go-nationwide/a-78086081?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/78082138_6.jpg",
-          "publishedAt": "2026-07-23T14:29:00.000Z",
-          "title": {
-            "en": "Can India's 'Cockroach' protest movement go nationwide?",
-            "zh": "印度“蟑螂”抗议运动能否走向全国？"
-          },
-          "summary": {
-            "en": "What began as satire on social media has turned into a massive Gen Z-led protest movement driven by anger over corruption and high youth unemployment. There are signs it is finding traction outside of Delhi.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "What began as satire on social media has turned into a massive Gen Z-led protest movement driven by anger over corruption and high youth unemployment. There are signs it is finding traction outside of Delhi.\n\nA youth-led protest movement that calls itself the \"Cockroach Janta Party (CJP)\" is beginning to find supporters beyond the Indian capital, after tens of thousands of young demonstrators marched on Parliament in New Delhi early this week.\n\nThe youth led Cockroach&#160;movement began in May after Indian Supreme Court Chief Justice Surya Kant publicly referred to unemployed young people as \"cockroaches\" in an offhand remark during an unrelated court hearing.\n\nYoung people embraced the moniker, which has become a banner for young people's anger over what they see as failings in the country's education system and its&#160;massive youth unemployment problem.\n\nThe protests are putting public pressure on Prime Minister Narendra Modi's Hindu nationalist Bharatiya Janata Party (BJP).\n\nAnd solidarity protests have sprung up beyond New Delhi across India as support for the campaign continues to grow.\n\nFrustrations began to mount during a campaign calling for accountability over a scandal involving a highly competitive university entrance exam. The news that the question sheet had been leaked ahead of the exam date in early May exposed long-running grievances over privileged access for some students.\n\nFueled by millions of young followers on social media, the movement soon tapped into wider frustrations over unemployment , shrinking opportunities and an education system many young Indians believe has failed them.\n\nUntil recently, however, many in the ruling BJP dismissed the Cockroach movement as little more than a social media phenomenon.\n\nThat changed after activist Sonam Wangchuk staged a three-week hunger strike , and&#160;&#160; police launched a crackdown in response to this week's march to India's parliament.\n\nImages of tear gas, baton charges and injured students spread rapidly online, prompting solidarity rallies across India and forcing the government onto the political defensive.\n\nAmong other things, protesters are demanding Education Minister Dharmendra Pradhan step down.\n\nIndia's main opposition leader, Rahul Gandhi, said on Wednesday that&#160; he backed the students' demands , including Pradhan's resignation and an apology to students from Modi.\n\nWhile Delhi remains the nerve center of the movement, rallies and marches have been staged&#160;in several other states.&#160;\n\nAnjali Bhardwaj, a social activist and transparency campaigner, said the movement was no longer confined to the capital.\n\nBhardwaj told DW that \"the contagion has spread even to remote areas of central Chhattisgarh,\" a rural state in central India. \"The anger is palpable....",
-            "zh": "最初是社交媒体上的讽刺，现在已经演变成一场由 Z 世代领导的大规模抗议运动，其驱动力是对腐败和高青年失业率的愤怒。有迹象表明，它正在德里以外的地区受到欢迎。 本周初，数万名年轻示威者在新德里议会游行后，一场自称为“蟑螂简塔党（CJP）”的青年领导的抗议运动开始在印度首都以外寻找支持者。 印度最高法院首席法官苏里亚·康德在一场无关的法庭听证会上随口发表言论，公开称失业年轻人为“蟑螂”，之后，年轻人领导的蟑螂运动于五月开始。 年轻人接受了这个绰号，它已成为年轻人对国家教育体系的失败和大规模的青年失业问题感到愤怒的一面旗帜。 抗议活动给总理纳伦德拉·莫迪领导的印度教民族主义印度人民党（BJP）带来了公众压力。 随着对该运动的支持不断增长，团结抗议活动在新德里以外的印度各地如雨后春笋般涌现。 在一场呼吁对涉及竞争激烈的大学入学考试的丑闻进行问责的运动中，人们的沮丧情绪开始加剧。试卷在五月初的考试日期之前被泄露的消息暴露了一些学生长期以来对享有特权的不满。 在社交媒体上数百万年轻追随者的推动下，这场运动很快就引发了对失业、机会减少以及许多印度年轻人认为让他们失望的教育制度等更广泛的不满。 然而，直到最近，执政的印度人民党中的许多人仍认为蟑螂运动只不过是一种社交媒体现象。 在活动人士索南·旺楚克 (Sonam Wangchuk) 进行为期三周的绝食抗议后，情况发生了变化，警方针对本周前往印度议会的游行发起了镇压。 催泪瓦斯、警棍冲锋和受伤学生的图片在网上迅速传播，促使印度各地举行声援集会，迫使政府采取政治守势。 除此之外，抗议者还要求教育部长达门德拉·普拉丹(Dharmendra Pradhan)下台。 印度主要反对派领导人拉胡尔·甘地周三表示，他支持学生的要求，包括普拉丹的辞职以及莫迪向学生道歉。 虽然德里仍然是这场运动的神经中心，但其他几个邦也举行了集会和游行。 社会活动家和透明度活动家安贾利·巴德瓦吉 (Anjali Bhardwaj) 表示，这场运动不再局限于首都。 巴德瓦吉告诉德国之声，“疫情甚至已经蔓延到印度中部农村邦恰蒂斯加尔邦中部的偏远地区”。 “愤怒之情溢于言表......"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
@@ -1083,10 +1081,43 @@
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
       },
       "sourceNotes": [
-        "The Guardian Australia",
-        "SBS News Australia"
+        "SBS News Australia",
+        "The Guardian Australia"
       ],
       "items": [
+        {
+          "id": "www-sbs-com-au-news-article-as-temperatures-flip-australias-ski-resorts-",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/as-temperatures-flip-australias-ski-resorts-rely-on-overnight-saviour/n5n3nn2tb",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-as-temperatures-flip-australias-ski-resorts-.jpg",
+          "publishedAt": "2026-07-23T19:47:18.000Z",
+          "title": {
+            "en": "As temperatures flip, Australia's ski resorts rely on overnight 'saviour'",
+            "zh": "随着气温翻转，澳大利亚滑雪胜地依赖夜间“救星”"
+          },
+          "summary": {
+            "en": "As winters become less predictable, Australia's ski resorts are turning to manufactured snow to keep the slopes open.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "As the sun rises over Mount Buller in Victoria's High Country, the hum of snow guns echoes across the mountain, blanketing ski runs in artificial snow.\n\nAs winters become less predictable, operators are investing heavily in snowmaking technology, effectively an insurance policy keeping lifts turning and visitors coming when natural snowfall falls short.\n\nWith little natural snow falling until 3 July, one of the slowest starts to winter in decades, several resorts still managed to turn lifts on the traditional June long weekend opening thanks to artificial snowmaking &#x2014; even if only thin stripes of beginner's terrain were open.\n\nAmong them was Mount Buller, which has invested $17 million in snowmaking in the past 25 years.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe resort now operates more than 300 snow guns across almost 80km of ski runs, which can generally operate only at a wet-bulb temperature of -2C or below.\n\nMount Buller also has five snow factories &#x2014; shipping container-like buildings capable of producing snow around the clock, regardless of temperature.\n\n\"Snowmaking has progressively become more and more significant around the world because it smooths out the variability from season to season,\" Mount Buller spokesperson Rhylla Morgan told SBS News.\n\n\"We haven't had many of those big snow events yet. There have only been a handful so far this season, so snowmaking helps us fill in those gaps.\n\n\"It allows us to maintain snow cover across the ski area and steadily build that base, which has enabled us to progressively open more terrain and keep our guests skiing and snowboarding.\"\n\nMorgan said snowmaking technology &#x2014; which is both water-and energy-intensive &#x2014; had improved significantly in the decades since its introduction, allowing resorts to produce higher-quality snow more efficiently.\n\n\"The technology has really become very finessed; there are amazing companies around the world working to improve that every year,\" she said.\n\nResorts also rely on \"snow farming\" to extend their seasons by creating snow stockpiles in south-facing and shaded areas, which are then groomed to top up runs.\n\nShe said Australia's ski industry &#x2014; which supports more than 22,000 jobs and contributes billions of dollars to the economy &#x2014; was continuously adapting to the changing climate.\n\nWhile snowmaking has helped resorts cope with poor natural conditions, it hasn't changed the weather.\n\nAfter an early July dump of snow, the Spencers Creek measuring site &#x2014; considered the most reliable site for natural snow depth in NSW &#x2014; recorded a depth of 68cm on 21 July. A good year would exceed a metre.\n\nExperts say a combination...",
+            "zh": "当太阳从维多利亚高地的布勒山升起时，造雪枪的嗡嗡声在山上回响，人造雪覆盖了滑雪道。 随着冬季变得越来越难以预测，运营商正在大力投资造雪技术，这实际上是一种保险政策，可以在自然降雪量不足时保持电梯运转并吸引游客前来。 直到 7 月 3 日为止，自然降雪量很少，这是几十年来入冬速度最慢的冬季之一，但由于人工造雪，一些度假村仍然设法在传统的 6 月长周末开放时打开电梯——即使只有一小部分初学者地形开放。 其中包括布勒山 (Mount Buller)，该山在过去 25 年里已投资 1700 万美元用于造雪。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 该度假村目前在近 80 公里的滑雪道上使用了 300 多台造雪机，这些造雪机通常只能在 -2 摄氏度或以下的湿球温度下运行。 布勒山还有五个造雪工厂——集装箱式建筑，无论温度如何，都能够全天候造雪。 布勒山发言人 Rhylla Morgan 告诉 SBS 新闻：“造雪在世界范围内逐渐变得越来越重要，因为它消除了季节之间的变化。” “我们还没有举办过很多这样的大型降雪活动。本赛季到目前为止，只有少数活动，因此造雪可以帮助我们填补这些空白。 “它使我们能够维持整个滑雪场的积雪并稳步建立基地，这使我们能够逐步开放更多地形并让我们的客人继续滑雪和单板滑雪。” 摩根表示，造雪技术（既是水又是能源密集型）自推出以来的几十年里已经取得了显着进步，使度假村能够更有效地生产更高质量的雪。 “技术确实变得非常精细；世界各地都有令人惊叹的公司每年都在努力改进这一点，”她说。 度假村还依靠“造雪”来延长季节，在朝南和阴凉的区域建立积雪，然后将其整理以补充雪量。 她表示，澳大利亚的滑雪产业提供了超过 22,000 个就业岗位，为经济贡献了数十亿美元，正在不断适应不断变化的气候。 虽然造雪帮助度假村应对恶劣的自然条件，但它并没有改变天气。 在 7 月初的降雪之后，斯宾塞溪测量点（被认为是新南威尔士州自然雪深最可靠的地点）在 7 月 21 日记录的深度为 68 厘米。好的一年将超过一米。 专家称，组合..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-commentisfree-2026-jul-23-canberra-winter-australia",
           "section": "australia",
@@ -1197,28 +1228,29 @@
           "publishedAt": "2026-07-23T08:53:38.000Z",
           "title": {
             "en": "Origin Energy reports customer bank, credit card details caught up in data breach",
-            "zh": "Origin Energy 报告客户银行、信用卡详细信息遭遇数据泄露"
+            "zh": "Origin Energy报告客户银行和信用卡详细信息在数据泄露中被盗"
           },
           "summary": {
-            "en": "After advising it had been caught up in a data breach on Wednesday, Origin Energy has revealed the full extent of stolen materials.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "Origin Energy has confirmed that customer bank and credit card details were compromised in a recent data breach. The company had initially reported being affected by a breach earlier in the week, and has now disclosed the full extent of the stolen information.",
+            "zh": "Origin Energy已证实，客户的银行和信用卡详细信息在最近的一次数据泄露中被盗。该公司此前曾于本周早些时候报告受到数据泄露的影响，现已披露了被盗信息的全部范围。"
           },
           "body": {
             "en": "A cyberattack on Origin Energy has included unauthorised access and disclosure of customer data, the energy giant says, a day after it revealed it was caught up in the breach.\n\nThe Sydney-based company said on Thursday it was working to understand how many of its almost five million customers were affected by the privacy incursion.\n\nNames, addresses, dates of birth, phone numbers and account information could all have been viewed in the breach, Origin said in an ASX statement.\n\nAlso at risk were the last four digits of credit cards, or the last three digits of bank accounts.\n\nOrigin chief executive Frank Calabria apologised to customers and said the company was working to contact those affected.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe company has set up a contact number and \"additional resources to help manage our response to this incident\".\n\n\"One of our key priorities is taking action to secure our systems and ensure no further unauthorised access,\" Mr Calabria said.\n\n\"We are working with independent cyber experts to support Origin, and that work is continuing alongside the work of authorities.\"\n\nThe company continued to engage with federal cyber and information agencies on the incident as well as police, according to the statement.\n\nOrigin, which has 4.8 million customer accounts in Australia and provides electricity, natural gas, LPG and internet services, said on Wednesday it did not believe the data obtained included credit card or bank details.\n\nGriffith University's Graeme Hughes, an expert on business and consumer issues, said the breach was unlikely to cause cases of payment fraud but marked a \"social engineering problem\".\n\n\"The last four digits for a card, a date of birth, and an authentic billing history are the exact trust signals a businesses uses to verify itself over the phone,\" Professor Hughes told AAP.\n\n\"That makes an unsolicited call about an energy account far more convincing than it should be.\n\n\"If comparable Australian breaches have taught us anything, the confirmed scope (of the breach) usually widens rather than narrows.\"\n\nThe breach represents the country's most high-profile cyber incident since Partnered Health, owned by private equity firm Quadrant, said earlier in July that its medical records were breached clinics in Sydney, Melbourne and Canberra.\n\nIn 2025, airline Qantas said it had customer data published by cybercriminals, while telco giant Optus and health insurer Medibank were hit in attacks in 2022 that sparked cyber-resilience laws.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
             "zh": "该能源巨头表示，针对 Origin Energy 的网络攻击包括未经授权的访问和泄露客户数据，一天前该公司透露自己陷入了此次泄露事件。 这家总部位于悉尼的公司周四表示，正在努力了解其近 500 万客户中有多少人受到隐私侵犯的影响。 Origin 在澳大利亚证券交易所声明中表示，姓名、地址、出生日期、电话号码和帐户信息都可能在此次泄露中被查看。 同样面临风险的还有信用卡的最后四位数字或银行账户的最后三位数字。 Origin 首席执行官弗兰克·卡拉布里亚 (Frank Calabria) 向顾客道歉，并表示公司正在努力联系受影响的顾客。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 该公司已经设立了联系电话和“额外资源来帮助管理我们对这一事件的反应”。 卡拉布里亚先生说：“我们的首要任务之一是采取行动保护我们的系统并确保不再出现未经授权的访问。” “我们正在与独立网络专家合作来支持 Origin，这项工作正在与当局的工作一起继续进行。” 声明称，该公司继续就该事件与联邦网络和信息机构以及警方进行接触。 Origin 在澳大利亚拥有 480 万个客户账户，提供电力、天然气、液化石油气和互联网服务。该公司周三表示，不认为获得的数据包括信用卡或银行详细信息。 格里菲斯大学商业和消费者问题专家格雷姆·休斯表示，此次泄露不太可能导致支付欺诈案件，但标志着一个“社会工程问题”。 休斯教授告诉澳联社：“卡的最后四位数字、出生日期和真实的账单历史记录是企业用来通过电话验证自身的确切信任信号。” “这使得关于能源账户的主动电话比应有的更有说服力。 “如果说澳大利亚的类似违规行为给了我们什么教训的话，那就是（违规行为）已确认的范围通常会扩大而不是缩小。” 此次泄露是自私募股权公司 Quadrant 旗下的 Partnered Health 7 月初表示其悉尼、墨尔本和堪培拉诊所的医疗记录遭到泄露以来，该国最引人注目的网络事件。 2025 年，澳洲航空公司表示其拥有网络犯罪分子公布的客户数据，而电信巨头 Optus 和健康保险公司 Medibank 在 2022 年遭受攻击，引发了网络弹性法律。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "A data breach, exposing sensitive customer details, reminds us of the profound trust placed in organizations to safeguard our information. Yahweh's word encourages faithfulness in all matters, great or small, for integrity in handling even 'a very little' reflects our character. This incident underscores the vital importance of diligent stewardship and...",
+            "zh": "客户敏感信息的数据泄露提醒我们，人们对机构保护个人信息寄予了深厚的信任。雅伟的话语鼓励我们在所有事情上，无论大小，都要忠心，因为在处理“极小的”事情上的正直反映了我们的品格。这一事件强调了在我们互联世界中，勤勉的管家职责和问责制至关重要。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Luke 16:10",
+            "textEn": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.",
+            "textZh": "人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。",
+            "themeEn": "Faithful in little",
+            "themeZh": "小事上忠心"
           },
-          "translationState": "fallback"
+          "aiVerseId": "luke_16_10",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-australia-news-2026-jul-23-pauline-hanson-said-domes",
@@ -1305,7 +1337,7 @@
           },
           "body": {
             "en": "Pauline Hanson has denied downplaying the scourge of domestic violence after labelling the issue a \"two-way street\", as advocates warn the politician's framing is dangerous.\n\nThe One Nation leader is facing criticism from experts over comments she made about domestic violence , which Hanson claimed had been taken out of context by media outlets.\n\n\"Domestic violence is wrong, but it's also a two-way street,\" she told 4BC radio on Wednesday.\n\n\"Domestic violence is a scourge, but look ... if you're not in a house where you feel safe ... then you shouldn't put up with it.\n\n\"If these women are getting abused by men out there, then don't put up with it.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nSex Discrimination Commissioner Anna Cody said she was sorry Hanson had also experienced domestic violence, with the national crisis affecting one in four women and girls in Australia, but criticised her message.\n\n\"Any suggestion that victim-survivors share the blame is harmful, wrong, and dangerous,\" she said.\n\n\"Domestic violence is never the responsibility of the person experiencing it. Just this month, two women and two girls have been allegedly murdered.\"\n\nWomen's Community Shelters chief executive Annabelle Daniel said the evidence was clear that domestic &#xA0; and family violence is a gendered issue.\n\n\"With Australia in the grip of a housing affordability crisis, it's nowhere near as easy as 'just leave',\" she said.\n\n\"Affordable housing, professional support and community inclusion prevent women becoming homeless because of domestic and family violence in the first place and support their recovery after abuse.\"\n\nIn a Facebook post on Thursday, Hanson said there is a \"concerted effort by some in the media to constantly take my comments out of context\".\n\n\"But some within rival media decided to use only a few quotes and made out that I downplayed domestic violence,\" she said.\n\nThe One Nation leader linked the declining trust in media to recently announced job cuts at Nine newspapers.\n\n\"I'm growing less tolerant of many journalists within the [mainstream media] and so too are the public,\" she said.\n\nHanson also walked back a number of comments on different issues, including paid parental leave and increasing defence spending to 5 per cent of the nation's economic output.\n\nIf you or someone you know is impacted by family and domestic violence, call 1800RESPECT on 1800 737 732, text 0458 737 732, or visit&#xA0; 1800RESPECT.org.au . In an emergency, call 000.\n\nThe Men’s Referral Service , operated by No to Violence, can be contacted on 1300 766 491.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "宝琳·汉森 (Pauline Hanson) 否认淡化家庭暴力的祸害，并将这一问题贴上了“双向路”的标签，而支持者警告说，这位政客的陷害是危险的。 这位一国党领导人因对家庭暴力发表的评论而面临专家的批评，汉森声称媒体断章取义。 “家庭暴力是错误的，但这也是一条双向路，”她周三对 4BC 电台说道。 “家庭暴力是一种祸害，但是你看……如果你不在一个让你感到安全的房子里……那么你就不应该忍受它。 “如果这些女性受到男性的虐待，那就不要忍受。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 性别歧视专员安娜·科迪表示，她对汉森也经历过家庭暴力表示遗憾，这场国家危机影响了澳大利亚四分之一的妇女和女孩，但她批评了她的信息。 “任何认为受害者幸存者分担责任的说法都是有害的、错误的和危险的，”她说。 “家庭暴力从来都不是遭受暴力的人的责任。就在这个月，据称有两名妇女和两名女孩被谋杀。” 妇女社区庇护所首席执行官安娜贝尔丹尼尔表示，证据明确表明家庭暴力是一个性别问题。 “随着澳大利亚陷入住房负担能力危机，这远不是‘离开’那么容易，”她说。 “经济适用房、专业支持和社区包容首先可以防止妇女因家庭暴力而无家可归，并支持她们在受虐待后康复。” 汉森周四在脸书上发帖称，“一些媒体齐心协力，不断断章取义我的言论”。 “但竞争对手媒体中的一些人决定只引用几句话，并表明我淡化了家庭暴力，”她说。 这位一国党领导人将对媒体信任度下降与九号报纸最近宣布的裁员联系起来。 “我对[主流媒体]的许多记者越来越不宽容，公众也是如此，”她说。 汉森还收回了有关不同问题的一些评论，包括带薪产假和将国防开支增加到国家经济产出的 5%。 如果您或您认识的人受到家庭暴力的影响，请致电 1800RESPECT：1800 737 732、发短信 0458 737 732 或访问 1800RESPECT.org.au。紧急情况请拨打 000。 男士转介服务由 No to Violence 运营，可拨打 1300 766 491 联系。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+            "zh": "宝琳·汉森 (Pauline Hanson) 否认淡化家庭暴力的祸害，并将这一问题贴上了“双向路”的标签，而支持者警告说，这位政客的陷害是危险的。 这位一国党领导人因对家庭暴力发表的评论而面临专家的批评，汉森声称媒体断章取义。 “家庭暴力是错误的，但这也是一条双向路，”她周三对 4BC 电台说道。 “家庭暴力是一种祸害，但是看……如果你不在一个让你感到安全的房子里……那么你就不应该忍受它。 “如果这些女性受到男性的虐待，那就不要忍受。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 性别歧视专员安娜·科迪表示，她对汉森也经历过家庭暴力表示遗憾，这场国家危机影响了澳大利亚四分之一的妇女和女孩，但她批评了她的信息。 “任何认为受害者幸存者分担责任的说法都是有害的、错误的和危险的，”她说。 “家庭暴力从来都不是遭受暴力的人的责任。就在这个月，据称有两名妇女和两名女孩被谋杀。” 妇女社区庇护所首席执行官安娜贝尔丹尼尔表示，证据明确表明家庭暴力是一个性别问题。 “随着澳大利亚陷入住房负担能力危机，这远不是‘离开’那么容易，”她说。 “经济适用房、专业支持和社区包容首先可以防止妇女因家庭暴力而无家可归，并支持她们在受虐待后康复。” 汉森周四在脸书上发帖称，“一些媒体齐心协力，不断断章取义我的言论”。 “但竞争对手媒体中的一些人决定只引用几句话，并表明我淡化了家庭暴力，”她说。 这位一国党领导人将对媒体信任度下降与九号报纸最近宣布的裁员联系起来。 “我对[主流媒体]的许多记者越来越不宽容，公众也是如此，”她说。 汉森还收回了有关不同问题的一些评论，包括带薪产假和将国防开支增加到国家经济产出的 5%。 如果您或您认识的人受到家庭暴力的影响，请致电 1800RESPECT：1800 737 732、发短信 0458 737 732 或访问 1800RESPECT.org.au。紧急情况请拨打 000。 男士转介服务由 No to Violence 运营，可拨打 1300 766 491 联系。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
             "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
@@ -1371,7 +1403,7 @@
           },
           "body": {
             "en": "Paid practical placements are being rolled out to university students in 10 frontline allied health fields under a major Commonwealth expansion.\n\nFrom July next year, eligible students will receive up to $338.60 a week, with the program forecast to cost $745 million by the end of the decade.\n\nThe payments build on an existing scheme for teaching, nursing, midwifery and social work students introduced just over a year ago.\n\nPrime Minister Anthony Albanese used the first day of Labor&#x2019;s 50th National Conference to announce the new measure, which he said will provide cost of living relief for students and support the future healthcare workforce.\n\nAlbanese addressed the conference to outline the expanded payments, make several other announcements, and criticise One Nation.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe prime minister said it is \"surprising\" such a scheme doesn&#x2019;t already exist.\n\n\"Paid prac is already making a real difference, it&#x2019;s helping students with the cost of living while they train and that&#x2019;s why we&#x2019;re expanding it,\" he said on Thursday.\n\n\"This is an investment in our future healthcare workforce. We need more of them, and this will help more Australians get the qualifications our nation needs.\"\n\nHundreds of delegates have converged on Adelaide for the three-day conference, which sets out the party's agenda and policy stances.\n\nAlbanese said it was up to Labor to show the difference the government was making to people's lives, rather than just airing grievances.\n\n\"People's genuine frustrations deserve a practical response, not just an emotional one,\" he said.\n\n\"You can go a long way in politics, for a long time, by raging against a system that you are part of, without a plan to fix it ... that doesn't build anything.\"\n\nAlbanese stressed the need to tackle long-term challenges as well as deal with daily issues.\n\n\"Our focus remains squarely on helping with the cost of living, on the practical measures that matter to people and make a positive difference to their lives,\" he said.\n\nAlbanese also used the speech to hit out at One Nation, which has polled above Labor in some recent voter surveys.\n\n\"All those attention-seeking culture wars imported from overseas, all those trips around the world to talk Australia down, cannot disguise the fact that none of them have anything new or anything positive to offer our country,\" he said.\n\nThe prime minister also announced the creation of a Fair Work Court aimed at resolving workplace disputes.\n\nWhile the 50th Labor conference is not expected to be confrontational, several major policy issues will be on the agenda for debate.\n\nAmong them will be artificial intelligence...",
-            "zh": "根据英联邦的一项重大扩张，正在向 10 个前线联合医疗领域的大学生推出带薪实践实习。 从明年 7 月开始，符合条件的学生每周将获得高达 338.60 美元的资助，预计到本世纪末该计划的成本将达到 7.45 亿美元。 这些付款建立在一年多前推出的针对教学、护理、助产和社会工作学生的现有计划的基础上。 总理安东尼·艾博内塞 (Anthony Albanese) 在工党第 50 届全国代表大会的第一天宣布了这项新措施，他表示该措施将为学生提供生活费用减免，并为未来的医疗保健人员提供支持。 阿尔巴尼斯在会议上发表讲话，概述了扩大的付款，发布了其他几项公告，并对一国党提出了批评。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 总理表示，这样的计划尚不存在，这“令人惊讶”。 他周四表示：“付费实习已经产生了真正的影响，它帮助学生减轻了训练期间的生活成本，这就是我们扩大这一项目的原因。” “这是对我们未来医疗保健劳动力的投资。我们需要更多的医疗保健人员，这将帮助更多的澳大利亚人获得我们国家所需的资格。” 数百名代表齐聚阿德莱德参加为期三天的会议，会议确定了该党的议程和政策立场。 阿尔巴尼斯表示，工党有责任展示政府为人们的生活带来的改变，而不仅仅是表达不满。 他说：“人们真正的挫败感应该得到实际的回应，而不仅仅是情感上的回应。” “如果你对自己所属的体系发怒，却没有计划去修复它，那么你可以在很长一段时间内在政治上走得很远……这不会产生任何东西。” 阿尔巴尼斯强调需要应对长期挑战以及处理日常问题。 他说：“我们的重点仍然是帮助降低生活成本，采取对人们重要并给他们的生活带来积极影响的实际措施。” 阿尔巴尼斯还利用这次演讲猛烈抨击一国党，该党在最近的一些选民调查中的民调高于工党。 他说：“所有那些从海外引进的寻求关注的文化战争，所有那些在世界各地贬低澳大利亚的旅行，都无法掩盖这样一个事实，即它们都没有给我们的国家带来任何新的或积极的东西。” 总理还宣布成立公平工作法庭，旨在解决工作场所纠纷。 虽然第 50 届工党大会预计不会出现对抗性的情况，但几个重大政策问题将被列入辩论议程。 其中将包括人工智能……"
+            "zh": "根据英联邦的一项重大扩张，正在向 10 个前线联合医疗领域的大学生推出带薪实践实习。 从明年 7 月开始，符合条件的学生每周将获得高达 338.60 美元的资助，预计到本世纪末该计划的成本将达到 7.45 亿美元。 这些付款建立在一年多前推出的针对教学、护理、助产和社会工作学生的现有计划的基础上。 总理安东尼·艾博内塞 (Anthony Albanese) 在工党第 50 届全国代表大会的第一天宣布了这项新措施，他表示该措施将为学生提供生活费用减免，并为未来的医疗保健人员提供支持。 阿尔巴尼斯在会议上发表讲话，概述了扩大的付款，发布了其他几项公告，并对一国党提出了批评。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 总理表示，这样的计划尚不存在，这“令人惊讶”。 他周四表示：“付费实习已经产生了真正的影响，它帮助学生减轻了训练期间的生活成本，这就是我们扩大这一项目的原因。” “这是对我们未来医疗保健劳动力的投资。我们需要更多的医疗保健人员，这将帮助更多的澳大利亚人获得我们国家所需的资格。” 数百名代表齐聚阿德莱德参加为期三天的会议，会议确定了该党的议程和政策立场。 阿尔巴尼斯表示，工党有责任展示政府为人们的生活带来的改变，而不仅仅是表达不满。 他说：“人们真正的挫败感应该得到实际的回应，而不仅仅是情感上的回应。” “如果你对自己所属的体系发怒，却没有计划去修复它，那么你可以在很长一段时间内在政治上走得很远……这不会产生任何东西。” 阿尔巴尼斯强调需要应对长期挑战以及处理日常问题。 他说：“我们的重点仍然是帮助降低生活成本，采取对人们重要并给他们的生活带来积极影响的实际措施。” 阿尔巴尼斯还利用这次演讲对一国党进行了猛烈抨击，该党在最近的一些选民调查中的支持率高于工党。 他说：“所有那些从海外引进的寻求关注的文化战争，所有那些在世界各地贬低澳大利亚的旅行，都无法掩盖这样一个事实，即它们都没有给我们的国家带来任何新的或积极的东西。” 总理还宣布成立公平工作法庭，旨在解决工作场所纠纷。 虽然第 50 届工党大会预计不会出现对抗性的情况，但几个重大政策问题将被列入辩论议程。 其中将包括人工智能……"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -1383,39 +1415,6 @@
             "textZh": "无智谋，民就败落；谋士多，人便安居。",
             "themeEn": "Wise counsel",
             "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-the-superannuation-blind-spot-funding-austra",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/the-superannuation-blind-spot-funding-australian-gambling-companies/kchkschv8",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-the-superannuation-blind-spot-funding-austra.jpg",
-          "publishedAt": "2026-07-22T21:25:47.000Z",
-          "title": {
-            "en": "The superannuation 'blind spot' funding Australian gambling companies",
-            "zh": "澳大利亚博彩公司的养老金“盲点”"
-          },
-          "summary": {
-            "en": "Australians are losing more money per capita to gambling than any other country — about $32 billion a year.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Australia's 20 biggest superannuation funds have almost $15 billion invested in gambling-related companies, despite growing concern about the social harm caused by the industry.\n\nA report released on Thursday by the Alliance for Gambling Reform found the sector holds $14.8 billion in gambling stocks.\n\nAustralia's largest fund, Australian Super, has the biggest exposure at $4.9 billion &#x2014; more than double any other fund &#x2014; while Australian Retirement Trust, Colonial First State, UniSuper and Aware Super round out the top five.\n\nGambling company Aristocrat Leisure is just one of the companies into which retirement funds are flowing.\n\nDespite many funds having responsible investment policies, approaches to gambling-related risks remain \"limited, inconsistent and largely inadequate\", according to chief executive of the Alliance for Gambling Reform, Martin Thomas.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nHe said many Australians would be shocked to learn how much of their money was being invested into the industry.\n\n\"There's starting to be a realisation just of how socially damaging gambling is,\" he told the Australian Associated Press.\n\nHarms from gambling are not consistently treated the same way as harms arising from other industries such as tobacco and alcohol, he said, with the latter routinely screened out of superannuation investments.\n\nAustralians are losing more money per capita to gambling than any other country &#x2014; about $32 billion a year.\n\nA spokesperson for Australian Super said apart from its Socially Aware option, the fund does not apply investment screens to gambling companies.\n\n\"We invest to help members achieve their best financial position in retirement,\" they said.\n\n\"We engage with certain ASX-listed companies either directly or with other investors to better understand their initiatives to deliver responsible gaming practices and appropriate governance practices.\"\n\nSuper funds could make more ethical choices about where they put their money, he said, noting gambling investment was a relatively small part of their overall investments, which may range in the hundreds of billions of dollars.\n\n\"There is so much opportunity out there for them to do the right thing,\" he said.\n\nThomas urged those who were concerned to contact their super fund to find out how much they were investing in gambling.\n\n\"We're not looking to ban gambling; we just think it's a harmful legal adult product and should be regulated,\" he said.\n\n\"But we do think it should be shunned by the investment community, particularly super funds, particularly because we're all made to contribute to these super funds.\"\n\nGambling reforms and government support for...",
-            "zh": "尽管人们越来越担心该行业造成的社会危害，但澳大利亚 20 家最大的养老基金已向赌博相关公司投资了近 150 亿澳元。 赌博改革联盟周四发布的一份报告发现，该行业持有价值 148 亿美元的赌博股票。 澳大利亚最大的基金 Australian Super 的风险敞口最大，达 49 亿美元，是其他基金的两倍多，而澳大利亚退休信托基金 (Australian Retirement Trust)、Colonial First State、UniSuper 和 Aware Super 也位列前五。 赌博公司 Aristocrat Leisure 只是退休资金流入的公司之一。 赌博改革联盟首席执行官马丁·托马斯表示，尽管许多基金制定了负责任的投资政策，但应对赌博相关风险的方法仍然“有限、不一致且很大程度上不足”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 他说，许多澳大利亚人在得知自己有多少资金投入到该行业时会感到震惊。 “人们开始意识到赌博对社会的危害性有多大，”他告诉澳大利亚美联社。 他说，赌博造成的危害并不总是像烟草和酒精等其他行业造成的危害那样对待，后者通常被排除在养老金投资之外。 澳大利亚人因赌博造成的人均损失比任何其他国家都多——每年约 320 亿美元。 Australian Super 的一位发言人表示，除了“社会意识”选项外，该基金不会对赌博公司进行投资筛选。 他们表示：“我们投资是为了帮助会员在退休后实现最佳的财务状况。” “我们直接或与其他投资者接触某些在澳大利亚证券交易所上市的公司，以更好地了解他们提供负责任的博彩实践和适当治理实践的举措。” 他说，超级基金可以在资金投入方面做出更合乎道德的选择，并指出赌博投资在其总投资中所占的比例相对较小，总投资可能高达数千亿美元。 “他们有很多机会做正确的事，”他说。 托马斯敦促那些担心的人联系他们的超级基金，了解他们在赌博上投资了多少。 “我们并不是要禁止赌博；我们只是认为这是一种有害的合法成人产品，应该受到监管，”他说。 “但我们确实认为投资界，尤其是超级基金应该回避它，特别是因为我们都注定要为这些超级基金做出贡献。” 赌博改革和政府支持..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
           },
           "translationState": "fallback"
         }
