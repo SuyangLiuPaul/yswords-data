@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T13:00:07.718Z",
-  "editionDate": "2026-07-25",
+  "generatedAt": "2026-07-25T14:31:09.694Z",
+  "editionDate": "2026-07-26",
   "sources": [
     {
       "name": "The Guardian World",
@@ -106,19 +106,53 @@
       },
       "sourceNotes": [
         "The Guardian World",
+        "BBC News World",
         "DW World",
-        "SBS News World",
-        "BBC News World"
+        "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-us-news-2026-jul-25-former-trump-administration-food",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/jul/25/former-trump-administration-food-safety-official-federal-response-cyclospora",
+          "image": "https://i.guim.co.uk/img/media/e274dbb13c53c5a43d38766d861f04a1c7716536/753_0_2160_1728/master/2160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7f9563d21a733fbc209a31ebeba20e8",
+          "publishedAt": "2026-07-25T14:04:43.000Z",
+          "title": {
+            "en": "Former top US food safety official says Trump’s handling of cyclospora is ‘catastrophic’",
+            "zh": "前美国食品安全高级官员称特朗普政府对环孢子虫病的处理“灾难性”"
+          },
+          "summary": {
+            "en": "Frank Yiannas, a former top food safety official for the US, has criticized the Trump administration's handling of a cyclospora outbreak, describing it as \"catastrophic mismanagement\" and calling for an independent review of the federal response to the illness.",
+            "zh": "美国前高级食品安全官员弗兰克·亚纳斯指责特朗普政府对环孢子虫病疫情的处理“近乎灾难性”，并呼吁对联邦政府的应对措施进行独立审查。"
+          },
+          "body": {
+            "en": "Frank Yiannas, formerly of the FDA, calls for an independent review of federal response to illness causing explosive diarrhea Donald Trump’s former top food safety official has accused the administration of a near “catastrophic” mismanagement of the cyclospora outbreak that has sickened thousands of people in the US. There should be an independent review of the federal government’s response to the rash of illnesses caused by the spread of a parasite found on raw produce, according to Frank Yiannas, who was deputy commissioner for food policy at the Food and Drug Administration (FDA) across the presidencies of both Trump and Joe Biden from 2018 to 2023. Continue reading...",
+            "zh": "前美国食品和药物管理局 (FDA) 成员弗兰克·伊安娜斯 (Frank Yiannas) 呼吁对联邦对引起爆发性腹泻的疾病的反应进行独立审查。唐纳德·特朗普 (Donald Trump) 的前食品安全高级官员指责政府对环孢子虫疫情管理不善，导致美国数千人患病。弗兰克·伊安娜斯 (Frank Yiannas) 曾在 2018 年至 2023 年特朗普和乔·拜登的总统任期内担任美国食品和药物管理局 (FDA) 负责食品政策的副局长，他表示，应该对联邦政府对生鲜农产品上发现的寄生虫传播引起的一系列疾病的反应进行独立审查。继续阅读..."
+          },
+          "reflection": {
+            "en": "Effective leadership requires seeking and heeding wise counsel, especially when public health is at stake. When guidance is lacking or ignored, communities can face significant challenges and suffering. Yahweh calls leaders to govern with wisdom, ensuring the well-being of all.",
+            "zh": "有效的领导力需要寻求并听取明智的建议，尤其是在公共健康面临风险时。当缺乏指导或忽视建议时，社区可能会面临重大的挑战和痛苦。雅伟呼召领袖以智慧治理，确保所有人的福祉。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "aiVerseId": "prov_11_14",
+          "translationState": "localized"
+        },
         {
           "id": "www-theguardian-com-world-live-2026-jul-25-france-spain-wildfires-latest",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
-          "image": "https://i.guim.co.uk/img/media/08b7cb2d9e5a0d2a9248e48588bdb5277885d17a/346_326_2405_1924/master/2405.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bd1a4f7fc297cdad0f6b4de333d5a437",
-          "publishedAt": "2026-07-25T12:44:08.000Z",
+          "image": "https://i.guim.co.uk/img/media/578e9b040e4040d69c71fdccd9aeb8b2744179d2/618_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=61fd156ffae59b1c94aafbeace69496f",
+          "publishedAt": "2026-07-25T14:03:50.000Z",
           "title": {
             "en": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
             "zh": "法国和西班牙竞相控制野火，波尔多郊区开始疏散——实时报道"
@@ -146,72 +180,139 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-jul-25-democrats-troy-jackson-susan-col",
+          "id": "www-theguardian-com-world-2026-jul-25-dharmendra-pradhan-india-education",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine",
-          "image": "https://i.guim.co.uk/img/media/2d0d5e611f2556b7832b99f8f6eff4e64908d868/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c2040fc62c212235de50854b1091430",
-          "publishedAt": "2026-07-25T12:00:43.000Z",
+          "link": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement",
+          "image": "https://i.guim.co.uk/img/media/e452065a79f3fccbd9748b75d237ea4e2ec1c845/1218_0_4282_3426/master/4282.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cecdbda7eda1aefaf3a078ab7aec4ca6",
+          "publishedAt": "2026-07-25T13:54:33.000Z",
           "title": {
-            "en": "Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins",
-            "zh": "特洛伊·杰克逊：缅因州民主党人相信他能击败苏珊·柯林斯"
+            "en": "India’s education minister resigns in victory for Cockroach youth movement protests",
+            "zh": "印度教育部长辞职，蟑螂青年运动抗议取得胜利"
           },
           "summary": {
-            "en": "Troy Jackson, a prominent workers' rights advocate and progressive voice, is set to be nominated by Democrats in Maine. He is seen as a potential candidate to challenge Susan Collins in an upcoming election.",
-            "zh": "缅因州民主党人将提名特洛伊·杰克逊，他是一位杰出的工人权利倡导者和进步派代表。他被视为一位有望挑战苏珊·柯林斯（Susan Collins）的候选人。"
+            "en": "India's education minister, Dharmendra Pradhan, has resigned following a week of widespread protests by a new youth movement, known as the \"Cockroach youth movement,\" over an exam leak scandal. This marks a significant victory for the thousands of demonstrators.",
+            "zh": "印度教育部长达门德拉·普拉丹在一周的大规模抗议活动后辞职，抗议由一个名为“蟑螂青年运动”的新青年运动发起，起因是考试泄题丑闻。这标志着数千名示威者取得了一项重大胜利。"
           },
           "body": {
-            "en": "Jackson, set to replace Graham Platner, is prominent workers’ rights advocate and a leading progressive voice As cinemagoers flock to The Odyssey , Democrats in Maine are hoping that their long and perilous quest for a political hero ends in Troy. They are set to nominate lumberjack Troy Jackson this weekend as their candidate to challenge Susan Collins, a veteran Republican in the US Senate, after the implosion of the party’s original candidate left them scrambling for a replacement less than four months before the midterm elections. Continue reading...",
-            "zh": "即将接替格雷厄姆·普拉特纳的杰克逊是著名的工人权利倡导者和领先的进步声音。随着电影观众涌向《奥德赛》，缅因州的民主党人希望他们对政治英雄的长期而危险的追求能够在特洛伊结束。他们将于本周末提名伐木工人特洛伊·杰克逊(Troy Jackson)作为候选人，挑战美国参议院资深共和党人苏珊·柯林斯(Susan Collins)，因为该党最初的候选人的内爆让他们在中期选举前不到四个月的时间里忙着寻找替代者。继续阅读..."
+            "en": "Dharmendra Pradhan steps down after demonstrations over exam leak scandal, prompting celebrations among thousands of protesters India’s education minister, Dharmendra Pradhan, has resigned after a week of mass demonstrations, handing a major victory to a new youth movement that has posed an unprecedented challenge to Narendra Modi’s government. In a statement on Saturday afternoon, Pradhan said he had submitted his letter of resignation to the prime minister after student pressure. Continue reading...",
+            "zh": "印度教育部长达门德拉·普拉丹 (Dharmendra Pradhan) 在因考试泄密丑闻举行示威后辞职，引发数千名抗议者庆祝 印度教育部长达门德拉·普拉丹 (Dharmendra Pradhan) 在经过一周的大规模示威后辞职，为一场新的青年运动取得了重大胜利，这场运动对纳伦德拉·莫迪政府构成了前所未有的挑战。普拉丹在周六下午的一份声明中表示，迫于学生压力，他已向总理提交了辞职信。继续阅读..."
           },
           "reflection": {
-            "en": "This news highlights a leader stepping forward to advocate for workers' rights, embodying a call to speak for those who are often overlooked. Yahweh's Word reminds us of the profound responsibility to be a voice for the vulnerable and to champion justice for the destitute. Such advocacy reflects a heart aligned with divine compassion, seeking to ensure that...",
-            "zh": "这则新闻聚焦一位站出来倡导工人权利的领袖，体现了为那些常被忽视之人发声的呼召。雅伟的话语提醒我们，为弱势群体发声并为困苦之人争取公义，是何等重大的责任。这样的倡导反映了一颗与神圣怜悯相符的心，力求确保所有人都能得到尊严和公平的对待。"
+            "en": "The protests in India highlight a deep societal longing for integrity and fairness, echoing the biblical call for justice to flow like a river. When systems fail and trust erodes, the demand for righteousness can become a powerful force for change, reminding us of Yahweh's desire for uprightness in all spheres of life.",
+            "zh": "印度的抗议活动凸显了社会对诚信和公平的深切渴望，这与圣经中呼吁让公义如江河般涌流的教导相呼应。当制度失灵、信任受损时，对公义的诉求能成为一股强大的变革力量，提醒我们雅伟渴望生命各领域都充满正直。"
           },
           "verse": {
-            "reference": "Proverbs 31:8-9",
-            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
-            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
-            "themeEn": "Voice for the voiceless",
-            "themeZh": "为弱者发声"
+            "reference": "Amos 5:24",
+            "textEn": "Let justice roll on like a river, righteousness like a never-failing stream!",
+            "textZh": "惟愿公平如大水滚滚，使公义如江河滔滔。",
+            "themeEn": "Demand for justice",
+            "themeZh": "伸张公义"
           },
-          "aiVerseId": "prov_31_8",
+          "aiVerseId": "amos_5_24",
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-jul-25-new-york-humanoid-robot-teachers",
+          "id": "www-bbc-co-uk-news-articles-cd7le4ylev2o-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school",
-          "image": "https://i.guim.co.uk/img/media/b24b690481766c62dd187387fc844933e29afe5f/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2d466421472590e68695e30f9ae27ca",
-          "publishedAt": "2026-07-25T12:00:42.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31ee/live/b6cd03e0-8826-11f1-b2ab-0dd01740f9f6.jpg",
+          "publishedAt": "2026-07-25T13:51:07.000Z",
           "title": {
-            "en": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
-            "zh": "“非常不恰当”：教师们谴责纽约高中引入类人机器人的计划"
+            "en": "Trump takes swipes at press during White House Correspondents' Dinner",
+            "zh": "特朗普在白宫记者晚宴上抨击新闻界"
           },
           "summary": {
-            "en": "Teachers in New York's Salamanca high school are protesting a pilot program to introduce a humanoid robot and an AI teaching assistant. Their concern stems from the robot's manufacturer having acquired a sex doll maker, deeming the plan “really inappropriate” for a school, especially one with a large Native American...",
-            "zh": "纽约萨拉曼卡高中的教师们正在抗议一项试点计划，该计划拟引入一个类人机器人和一名人工智能助教。他们的担忧源于该机器人制造商收购了一家性玩偶制造商，认为该计划对于学校，尤其是一个拥有大量美洲原住民学生的学校来说，“非常不恰当”。"
+            "en": "Former President Donald Trump criticized journalists during the White House Correspondents' Dinner, an event that honored press freedom. The dinner was held after a previous event was canceled due to a shooting in April.",
+            "zh": "前总统唐纳德·特朗普在白宫记者晚宴上抨击新闻界，该活动旨在庆祝新闻自由。此前，由于四月发生的一起枪击事件，第一次晚宴被取消。"
           },
           "body": {
-            "en": "Robot from company that acquired sex doll maker to be introduced in school with large Native American population A humanoid robot is being introduced as part of a pilot program, along with an AI teaching assistant, at Salamanca high school in Salamanca, New York, located on the Allegany territory of the Seneca nation. Teachers have criticized the program, deeming it “inappropriate” and claiming it dehumanizes the profession with the introduction of human-like robots. Some local Native American residents have also criticized the pilot program, citing its implementation as “culturally tone deaf”. Continue reading...",
-            "zh": "收购性玩偶制造商的公司的机器人将被引入有大量美洲原住民人口的学校 在纽约州萨拉曼卡的萨拉曼卡高中（位于塞内卡族阿勒格尼领地），作为试点项目的一部分，将引入人形机器人和人工智能助教。教师们批评该计划，认为它“不合适”，并声称它引入类人机器人，使这个职业失去人性。一些当地的美国原住民也批评了该试点计划，称其实施“在文化上充耳不闻”。继续阅读..."
+            "en": "US President Donald Trump took swipes at the media at the White House Correspondents' Association (WHCA) dinner, a night celebrating press freedom, after the first event was cancelled by a shooting three months ago.\n\nThe president sat as reporters from outlets he has sparred with and even sued, including the New York Times, CNN and the Wall Street Journal, came up to be honoured with awards.\n\nTypically the president takes a lighter-hearted tone at the annual dinner, and Trump joked \"the second time is always better\" and praised the media - saying he respects \"most of them\".\n\nBut the tone shifted as he aimed barbs at \"fake news\" and accused many in the room of having \"Trump Derangement Syndrome\".\n\nIn her remarks, WHCA President Weijia Jiang of CBS News said the event would return to the scene of the April shooting, the Washington Hilton, next year. Friday's rescheduled event was held at the Waldorf Astoria a few miles away from that site, following criticisms that security at the Hilton was inadequate.\n\nThe outgoing WHCA head said she would \"refuse to let an act of violence have the final word\", referring to the gunman tackled at the first dinner in April.\n\nThe officer shot at the scene, officer Victor Gonzalez of the US Secret Service, was given an award by Trump for his actions on the night of the shooting .\n\n\"Just like my presidency, the second time is always better – and the third time will be better yet … I'm only kidding,\" Trump said, joking that he would run for a third term in office.\n\nTrump stood and shook hands with award winners, including a Wall Street Journal team who was given an award for coverage of Trump's links to disgraced financier Jeffrey Epstein .\n\nAhead of the event, many in the White House press corps theorised that Trump - who often criticises many of the reporters seated just metres away in the room - would deliver a stern rebuke of the media.\n\nTrump's speech included pointed insults directed at several journalists, some of whom were in the room. The harsher tone and personal attacks extended to Democratic politicians and celebrities as his hour-long speech also took aim at familiar targets.\n\n\"We settle our differences not with bullets, but with open and vigorous debate,\" Trump said. \"And no deranged loser with a gun will ever change that. We can't let that ever happen.\"\n\nTrump appeared to be in a good mood throughout the event, jokingly telling the media that \"sometimes I really do think that some of you don't like me\".\n\n\"This place [the dinner] is really the largest group of 'Trump derangement syndrome' people ever put together at one time,\" he said. \"I suspect some of you are lucky that our last dinner was cut short...I was going to go after you.\"\n\nThe president joked the news industry would \"be broke\" after he leaves...",
+            "zh": "美国总统唐纳德·特朗普在白宫记者协会 (WHCA) 晚宴上对媒体进行了猛烈抨击。三个月前，首次活动因枪击事件而取消，这次晚宴庆祝了新闻自由。 与总统发生争执甚至起诉的媒体的记者，包括《纽约时报》、美国有线电视新闻网 (CNN) 和《华尔街日报》，都上台领奖。 即将离任的 WHCA 负责人表示，她将“拒绝让暴力行为做出最终决定”，她指的是 4 月份第一次晚宴上抓获的枪手。 但随着特朗普对“假新闻”进行讽刺，并指责房间里的许多记者患有“特朗普精神错乱综合症”，语气发生了变化。 哥伦比亚广播公司新闻频道的 WHCA 主席姜维佳在致辞中表示，该活动将于明年重返 4 月枪击事件发生的华盛顿希尔顿酒店现场。 现场被枪杀的美国国务卿官员维克多·冈萨雷斯(Victor Gonzalez)因其在枪击当晚的行动而获得了特朗普的嘉奖。 特朗普站起来与获奖者握手，其中包括《华尔街日报》的一个团队，该团队因报道特朗普与名誉扫地的金融家杰弗里·爱泼斯坦的联系而获奖。 活动开始前，白宫记者团中的许多人推测，经常批评坐在房间几米外的许多记者的特朗普将对媒体进行严厉谴责。 特朗普在讲话中时而亲切又安抚，他说“第二次总是更好”，开玩笑并赞扬媒体——称他尊重“他们中的大多数人”。 但也有一些针对几名记者的尖锐侮辱，其中一些记者就在房间里。当他长达一小时的演讲针对一些熟悉的目标时，更严厉的语气和人身攻击延伸到了民主党政客和名人。 特朗普表示：“我们不是用子弹，而是通过公开、激烈的辩论来解决分歧。” “任何持枪的疯狂失败者都不会改变这一点。我们不能让这种情况发生。” 特朗普在整个活动中似乎心情很好，开玩笑地告诉媒体“有时我确实认为你们中的一些人不喜欢我”。 “这个地方（晚餐）确实是有史以来最大的‘特朗普精神错乱综合症’人群聚集在一起的地方，”他说。 “我怀疑你们中的一些人很幸运，我们的最后一顿晚餐被缩短了……我本来要追你们的。” 总统开玩笑说，在他不再任职后，新闻业将“破产”，因为“不会有任何人可以报道”，然后设定了特朗普 2028 年的上限，并表示他将竞选连任。 这次晚宴是在白宫与媒体之间的关系仍然紧张之际举行的。 上周，特朗普威胁要吊销几个美国网络的许可证，这些网络没有..."
           },
           "reflection": {
-            "en": "The introduction of new technologies in schools requires careful discernment, especially when the source company has controversial associations. This situation reminds us that every person, particularly children, is created in the image of Yahweh and possesses inherent dignity that must be honored and protected. Our pursuit of innovation should always be...",
-            "zh": "在学校引入新技术需要仔细辨别，特别是当其来源公司存在争议性关联时。这种情况提醒我们，每个人，尤其是儿童，都是按照雅伟的形象创造的，拥有必须得到尊重和保护的固有尊严。我们对创新的追求应始终以对人类价值的深刻尊重和致力于维护这种价值的环境为指导。"
+            "en": "In a public forum meant to celebrate press freedom, sharp words were exchanged, highlighting the tension between powerful figures and the media. Proverbs reminds us that while some words can wound like a sword, wise speech aims to bring healing and understanding.",
+            "zh": "在一个旨在庆祝新闻自由的公共场合，尖锐的言辞被抛出，凸显了权力人物与媒体之间的紧张关系。雅伟的箴言提醒我们，有些话语能像刀剑一样伤人，而智慧的言语则旨在带来医治与理解。"
           },
           "verse": {
-            "reference": "Genesis 1:27",
-            "textEn": "So God created mankind in his own image, in the image of God he created them; male and female he created them.",
-            "textZh": "神就照着自己的形象造人，乃是照着他的形象造男造女。",
-            "themeEn": "Image of God",
-            "themeZh": "神的形象"
+            "reference": "Proverbs 12:18",
+            "textEn": "The words of the reckless pierce like swords, but the tongue of the wise brings healing.",
+            "textZh": "说话浮躁的，如刀刺人；智慧人的舌头却为医人的良药。",
+            "themeEn": "Reckless words pierce",
+            "themeZh": "言语如刀"
           },
-          "aiVerseId": "gen_1_27",
+          "aiVerseId": "prov_12_18",
           "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-videos-cly949k3g1do-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16d6/live/3284c7d0-882b-11f1-b8ee-9b3c26ad07bb.jpg",
+          "publishedAt": "2026-07-25T13:44:01.000Z",
+          "title": {
+            "en": "Protesters celebrate resignation of India's education minister",
+            "zh": "印度教育部长辞职，抗议者庆祝"
+          },
+          "summary": {
+            "en": "Youth-led protests in India have concluded following the resignation of the country's education minister, with the Cockroach Janta Party (CJP) calling off its demonstrations.",
+            "zh": "印度青年主导的抗议活动在印度教育部长辞职后宣告结束，蟑螂人民党（CJP）已停止示威。"
+          },
+          "body": {
+            "en": "Protesters in India are celebrating after the resignation of the country's education minister, Dharmendra Pradhan.\n\nTens of thousands of young people had been demonstrating in Delhi, demanding Pradhan resign after exam paper leaks and testing irregularities.\n\nNow Pradhan has resigned, the protests organised by the Cockroach Janta Party (CJP) have been called off.\n\nCJP is a national movement born out of a satirical campaign, rather than an actual party, and has faced heavy police crackdowns.",
+            "zh": "印度的抗议者正在庆祝该国教育部长达门德拉·普拉丹 (Dharmendra Pradhan) 辞职。 数以万计的年轻人在德里举行示威，要求普拉丹在试卷泄露和考试违规行为后辞职。 现在普拉丹已经辞职，蟑螂简塔党（CJP）组织的抗议活动也被取消。 CJP 是一个诞生于讽刺运动的全国性运动，而不是一个真正的政党，并面临警方的严厉镇压。"
+          },
+          "reflection": {
+            "en": "The celebration of a minister's resignation after public protest reminds us that leadership is ultimately accountable. While human actions drive political change, this verse points to Yahweh as the one who ultimately determines who rises and falls in authority. It offers a perspective that even in political shifts, a divine hand is at work.",
+            "zh": "部长因民众抗议而辞职并受到庆祝，这提醒我们领导者最终需要承担责任。虽然人类行动推动政治变革，但这节经文指出，雅伟才是最终决定谁掌权、谁下台的那一位。它提供了一个视角，即即使在政治变动中，也有神圣之手在运作。"
+          },
+          "verse": {
+            "reference": "Psalm 75:7",
+            "textEn": "It is God who judges: He brings one down, he exalts another.",
+            "textZh": "惟有神断定；他使这人降卑，使那人升高。",
+            "themeEn": "God lifts and lowers",
+            "themeZh": "神升降"
+          },
+          "aiVerseId": "ps_75_7",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c07rgpxe51no-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6c7/live/dbcb6ca0-869f-11f1-926f-c90d1bcfbc84.jpg",
+          "publishedAt": "2026-07-25T13:26:04.000Z",
+          "title": {
+            "en": "CJP protest: The youth movement India's Modi didn't see coming",
+            "zh": "CJP抗议：印度莫迪没有预见到青年运动的到来"
+          },
+          "summary": {
+            "en": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years - why?",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "It began with a fear familiar to millions of young Indians: if the examinations that determine their future cannot be trusted, what can?\n\nWeeks later, on Monday, tens of thousands of young men and women tried to march on India's parliament. Police responded with tear gas and baton charges. Thousands more have returned to the streets in the days since.\n\nThe Cockroach Janta Party (CJP), a youth-led movement born out of anger over repeated examination paper leaks, quickly became India's biggest student mobilisation in years.\n\nIt demanded education reforms and the resignation of Education Minister Dharmendra Pradhan. Hours after Pradhan resigned on Saturday following weeks of protests over exam paper leaks and testing irregularities, the CJP called off its agitation, saying the government had accepted its demands.\n\nAt its centre was activist Sonam Wangchuk, who lost 11kg (24lb) during a 26-day hunger strike in support of the movement before ending his fast on Thursday.\n\nThe obvious question is whether this is simply another student protest - or the beginning of something larger.\n\nStudent movements have periodically transformed Indian politics. The Nav Nirman agitation in Gujarat helped trigger veteran socialist leader Jayaprakash Narayan's movement against former prime minister Indira Gandhi in the 1970s. Others have erupted dramatically before fading away.\n\nWhat makes the CJP unusual, however, is not simply its scale but the nature and breadth of its grievance.\n\nUnlike many of the biggest protests against Prime Minister Narendra Modi's government over the past decade - whether over citizenship , farm laws or other contentious policies - this movement is not fundamentally about ideology. Nor is it rooted in the interests of a single community or social group.\n\nInstead, it questions whether the state can still guarantee fairness in the examination system that millions of young Indians see as their principal route to social mobility.\n\n\"The exam and education system cuts across caste, class and gender to quite a large degree,\" Yamini Aiyar, Senior Visiting Fellow at Brown University, told the BBC. \"The core constituency coming to these protests doesn't represent a singular interest group.\"\n\n\"This movement centres on administrative failure,\" Rahul Verma, a fellow at the Centre for Policy Research, a Delhi-based think tank, told the BBC. \"The state's inability to conduct examinations fairly and prevent paper leaks makes it a very different kind of political challenge to the BJP.\"\n\nThat difference, he argues, changes the politics. Unlike earlier protests rooted in ideology or policy, this one questions the BJP's ability to govern. \"They must recalibrate their strategy,\" Verma says.\n\nThey are \"aspirational young Indians and their parents who see these exams as...",
+            "zh": "它始于数百万印度年轻人所熟悉的恐惧：如果决定他们未来的考试不可信，那还有什么可以相信呢？ 几周后的周一，数万名年轻男女试图在印度议会游行。警方以催泪瓦斯和警棍回应。此后几天，又有数千人重返街头。 蟑螂简塔党（CJP）是一个由年轻人领导的运动，其诞生是出于对试卷屡次泄露的愤怒，很快就成为印度多年来最大的学生动员活动。 它要求教育改革并要求教育部长达门德拉·普拉丹(Dharmendra Pradhan)辞职。由于试卷泄露和考试违规行为引发了数周的抗议，普拉丹于周六辞职数小时后，CJP 停止了煽动，称政府已接受其要求。 该运动的核心人物是活动人士索南·旺楚克 (Sonam Wangchuk)，他在为期 26 天的绝食抗议中减重 11 公斤（24 磅），以支持该运动，然后于周四结束禁食。 显而易见的问题是，这是否只是另一次学生抗议，还是更大事件的开始。 学生运动周期性地改变了印度政治。古吉拉特邦的纳夫·尼尔曼 (Nav Nirman) 骚乱引发了 20 世纪 70 年代资深社会主义领导人贾亚普拉卡什·纳拉扬 (Jayaprakash Narayan) 反对前总理英迪拉·甘地 (Indira Gandhi) 的运动。其他的则在消失之前急剧爆发。 然而，CJP 的不同寻常之处不仅在于其规模，还在于其不满的性质和广度。 与过去十年中针对总理纳伦德拉·莫迪政府的许多规模最大的抗议活动不同——无论是针对公民身份、农业法还是其他有争议的政策——这场运动从根本上来说并不是关于意识形态的。它也不植根于单一社区或社会群体的利益。 相反，它质疑国家是否仍然能够保证考试制度的公平性，数百万印度年轻人将考试制度视为他们获得社会流动的主要途径。 布朗大学高级访问学者亚米尼·艾亚尔 (Yamini Aiyar) 告诉 BBC：“考试和教育体系在很大程度上跨越了种姓、阶级和性别。” “参加这些抗议活动的核心选民并不代表单一的利益集团。” 德里智库政策研究中心研究员拉胡尔·维尔马告诉英国广播公司：“这场运动的核心是行政失败。” “国家无法公平地进行考试并防止试卷泄露，这对印度人民党来说是一种截然不同的政治挑战。” 他认为，这种差异改变了政治。与早期植根于意识形态或政策的抗议活动不同，这次抗议活动质疑印度人民党的执政能力。 “他们必须重新调整策略，”维尔马说。 他们是“有抱负的年轻印度人和他们的父母，他们将这些考试视为......"
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-dw-com-en-could-mesh-networks-help-overcome-authoritarians-internet-",
@@ -223,94 +324,29 @@
           "publishedAt": "2026-07-25T11:08:00.000Z",
           "title": {
             "en": "Could 'mesh networks' help overcome authoritarians' internet blocks?",
-            "zh": "“网状网络”能否帮助克服独裁者的互联网封锁？"
+            "zh": "“网状网络”能否帮助克服威权国家的互联网封锁？"
           },
           "summary": {
-            "en": "In authoritarian countries, the state is often either monitoring online communications or has the ability to shut them down in a political crisis. But there are other ways that activists can keep in touch.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+            "en": "In countries with authoritarian regimes, governments often monitor or shut down online communications during political crises. However, new technologies like mesh networks offer alternative ways for activists to maintain contact.",
+            "zh": "在威权国家，政府经常在政治危机期间监控或关闭在线通信。然而，像网状网络这样的新技术为活动家提供了保持联系的替代方式。"
           },
           "body": {
             "en": "In authoritarian countries, the state is often either monitoring online communications or has the ability to shut them down in a political crisis. But there are other ways that activists can keep in touch.\n\nIran, January 2026: During some of the country's largest protests in decades, the Iranian government shut down the internet.\n\nUS-based internet monitor, IODA — short for Internet&#160;Outage Detection and Analysis — registered almost no data traffic at all and US internet infrastructure analyst Doug Madory described it as \"one of the largest government-directed communication shutdowns in history.\"\n\nDuring that time, the Iranian government killed and arrested thousands of people but to this day, nobody knows exactly how many. Estimates of the death toll have been&#160;anywhere between 7,000 and 40,000, though&#160;many observers suspect its closer to the higher number. The lack of clarity is partially because the internet blackout meant that communication with the outside world was all but impossible.\n\nThe Iranian government's behavior is not unusual . In Russia, Belarus, Myanmar and Sudan, particularly when governments fear resistance, the internet has become a weapon — because those who cannot communicate&#160;cannot organize.\n\nOne solution for these sorts of communications crises could be what is known as a \"LoRa mesh network.\"\n\nLoRa, which is short for \"long range,\" is based on a simple principle invented for industrial purposes. Small radio modules, also known as LoRa transmitters, have regularly been embedded into physical silicon chips that are used for industrial devices that connect to the internet , things such as smoke alarms, smart water or power meters and environmental sensors — basically any device that requires long battery life and long-range data transmission but only for small amounts of data.\n\nTo transmit information, these devices use license-free radio frequencies of the sort available for civilian use, the same frequencies used by weather stations and garage door openers.\n\nTo form an internet-free communications network, users first need to purchase a transmitting device that uses LoRa; these can cost anything from about €30 ($35) to €80 ($91). Then users can connect their phone to the device using special software.\n\nThe LoRa devices&#160;transmit encrypted data packets over a distance of several kilometers. Each device automatically forwards messages to the next one, like a baton being passed through a crowd. If any single device fails, the message finds the next nearby device, via a different route. This means the communications network that is formed can repair itself.\n\nThe different transmitting devices are called \"nodes\" in the network and because there is no central node, there's no way the communications network can...",
             "zh": "在专制国家，国家通常要么监控在线通信，要么有能力在政治危机中关闭它们。但活动人士还可以通过其他方式保持联系。 伊朗，2026 年 1 月：在该国数十年来最大规模的抗议活动中，伊朗政府关闭了互联网。 总部位于美国的互联网监测机构 IODA（互联网中断检测和分析的缩写）几乎没有记录任何数据流量，美国互联网基础设施分析师 Doug Madory 将其描述为“历史上最大的政府主导的通信关闭之一”。 在那段时间里，伊朗政府杀害和逮捕了数千人，但直到今天，没有人知道到底有多少人。死亡人数估计在 7,000 至 40,000 人之间，但许多观察家怀疑这个数字更接近更高的数字。缺乏清晰度的部分原因是互联网中断意味着与外界的沟通几乎不可能。 伊朗政府的行为并不罕见。在俄罗斯、白俄罗斯、缅甸和苏丹，特别是当政府担心遭到阻力时，互联网已成为一种武器——因为那些无法沟通的人无法组织起来。 解决此类通信危机的一种解决方案可能是所谓的“LoRa 网状网络”。 LoRa 是“long range”的缩写，基于为工业目的而发明的简单原理。小型无线电模块，也称为 LoRa 发射器，通常嵌入到物理硅芯片中，用于连接到互联网的工业设备，例如烟雾报警器、智能水表或电表以及环境传感器 - 基本上任何需要长电池寿命和远程数据传输但仅限于少量数据的设备。 为了传输信息，这些设备使用民用的免许可无线电频率，与气象站和车库门开启器使用的频率相同。 要组建一个无互联网的通信网络，用户首先需要购买使用LoRa的传输设备；这些费用从 30 欧元（35 美元）到 80 欧元（91 美元）不等。然后用户可以使用特殊软件将手机连接到设备。 LoRa 设备在几公里的距离上传输加密的数据包。每个设备都会自动将消息转发给下一个设备，就像一根接力棒在人群中传递一样。如果任何单个设备发生故障，消息会通过不同的路线找到附近的下一个设备。这意味着所形成的通信网络可以自我修复。 不同的传输设备在网络中被称为“节点”，因为没有中心节点，所以通信网络无法..."
           },
           "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In an age where information is both powerful and vulnerable, the development of technologies like mesh networks reflects humanity's persistent drive to connect and share. Daniel's prophecy reminds us that knowledge will increase, suggesting a divine hand in the unfolding of human ingenuity, even in the face of attempts to suppress communication. This offers...",
+            "zh": "在一个信息既强大又脆弱的时代，网状网络等技术的发展反映了人类连接和分享的持久动力。但以理的预言提醒我们，知识必会增长，这暗示了雅伟在人类智慧发展中的作为，即使面对压制通信的企图。这为真理和连接终将盛行提供了希望。"
           },
           "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
+            "reference": "Daniel 12:4",
+            "textEn": "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.",
+            "textZh": "但以理啊，你要隐藏这话，封闭这书，直到末时。必有多人来往奔跑，知识就必增长。",
+            "themeEn": "Knowledge increasing",
+            "themeZh": "知识增长"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jul-25-zohran-mamdani-small-business-po",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/25/zohran-mamdani-small-business-policies",
-          "image": "https://i.guim.co.uk/img/media/747c310e975b708d94d76672fca3e47982fc9ee5/633_0_6331_5065/master/6331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46a4996fb46d6dd6e5f8eb1b858b2b3a",
-          "publishedAt": "2026-07-25T11:00:41.000Z",
-          "title": {
-            "en": "‘I’m over the moon’: New York’s small business owners rejoice as Mamdani cuts red tape",
-            "zh": "“我欣喜若狂”：纽约小企业主因马姆达尼削减繁文缛节而欢欣鼓舞"
-          },
-          "summary": {
-            "en": "Initiatives including cutting permits just to serve ice-cream amount to a sweeping program of deregulation Red Scare? The democratic socialist mayor of New York City spent this week talking about red tape. On Tuesday, Zohran Mamdani – the politician at the center of a revived...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Initiatives including cutting permits just to serve ice-cream amount to a sweeping program of deregulation Red Scare? The democratic socialist mayor of New York City spent this week talking about red tape. On Tuesday, Zohran Mamdani – the politician at the center of a revived rightwing panic about socialists and purported communists winning elections across America - posted a video on X of himself putting a sheet of paper with the phrase “RED TAPE” into a paper shredder. Other pieces of paper, with phrases like “cumbersome fees and fines” and “a permit you need just to serve ice-cream”, were shredded too. The video, set to Wu Tang Clan’s If Time Is Money, shows Mamdani joining a handful of city officials and small business owners throwing the resulting paper shreds into the air like confetti. Continue reading...",
-            "zh": "包括削减冰淇淋许可证在内的举措相当于一项全面的放松管制计划红色恐慌？纽约市民主社会主义市长本周一直在谈论繁文缛节。周二，佐兰·马姆达尼（Zohran Mamdani）——在美国各地对社会主义者和所谓的共产主义者赢得选举的右翼恐慌重新抬头的政治家——在 X 上发布了一段视频，视频中他自己将一张写有“RED TAPE”的纸放入碎纸机中。其他写有“繁琐的费用和罚款”和“提供冰淇淋所需的许可证”等短语的纸片也被撕碎。这段视频以 Wu Tang Clan 的《如果时间就是金钱》为背景，视频中，马姆达尼与一些城市官员和小企业主一起将产生的纸碎片像五彩纸屑一样扔到空中。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-culture-2026-jul-25-treasure-as-trinkets-zendayas-ea",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/culture/2026/jul/25/treasure-as-trinkets-zendayas-earrings-renew-debate-on-ownership-of-ancient-artefacts",
-          "image": "https://i.guim.co.uk/img/media/c90f1dd66d6ba1c5d30bdeaa7169b7c1d2b31ce2/252_0_2944_2355/master/2944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d456cc3e7de54a3d023c3ee527ffcd84",
-          "publishedAt": "2026-07-25T11:00:40.000Z",
-          "title": {
-            "en": "Treasure as trinkets: Zendaya’s earrings renew debate on ownership of ancient artefacts",
-            "zh": "作为小饰品的宝藏：赞达亚的耳环重新引发了关于古代文物所有权的争论"
-          },
-          "summary": {
-            "en": "Jewellery made from BC Iran worn at Odyssey photocall throws spotlight on the trade of rare archeological finds The Odyssey has stormed cinemas, but while its take on the Homeric epic has created ripples among western classicists, it is an actor’s earrings that have made waves...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Jewellery made from BC Iran worn at Odyssey photocall throws spotlight on the trade of rare archeological finds The Odyssey has stormed cinemas, but while its take on the Homeric epic has created ripples among western classicists, it is an actor’s earrings that have made waves further afield. Zendaya, who portrays the goddess Athena in the movie, provoked outrage when she appeared at a London photocall wearing earrings that were allegedly made from Iranian artefacts dating back to the 1st millennium BC. Continue reading...",
-            "zh": "《奥德赛》拍照时佩戴的来自不列颠哥伦比亚省伊朗制造的珠宝让稀有考古发现的交易成为人们关注的焦点。《奥德赛》席卷了电影院，虽然它对荷马史诗的演绎在西方古典主义者中引起了轩然大波，但演员的耳环却在更远的地方掀起了波澜。赞达亚在电影中扮演雅典娜女神，她在伦敦的一次拍照活动中佩戴据称是由可追溯到公元前一千年的伊朗手工艺品制成的耳环出现，引起了愤怒。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
-          },
-          "translationState": "fallback"
+          "aiVerseId": "dan_12_4",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-dharmendra-pradhan-resigns-in-victory-for-in",
@@ -345,39 +381,6 @@
           },
           "aiVerseId": "amos_5_24",
           "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cd9w22n9e4go-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
-          "publishedAt": "2026-07-25T10:14:41.000Z",
-          "title": {
-            "en": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-            "zh": "警告镜头或宣传噱头——我们应该对 OpenAI 黑客攻击有多担心？"
-          },
-          "summary": {
-            "en": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "This week the tech world was gripped by a story that has it all - and which started like a sci-fi thriller.\n\nHugging Face - a kind of app store for artificial intelligence tools - announced on 16 July it had been hacked by a cyber criminal wielding enormously powerful AI.\n\nThe bombshell announcement was full of scary, highly technical terms: \"a swarm of sandboxes\", \"agentic attacker\", and \"self-migrating command and control\".\n\nHugging Face said the hack was different from anything it had handled before because it was done at superhuman speed by an AI with little or no human guidance.\n\nThe AI performed 17,000 actions in less than two days, successfully breaching the large wealthy tech company to steal secrets.\n\nHugging Face researchers guessed the mysterious attackers had used one of the big AI models but they had no idea who or where the criminals were.\n\nCommentators and analysts took to their podcasts and social media accounts to guess which cyber crime group or nation state hacker might be behind it.\n\nThen on Wednesday, nearly a week after Hugging Face raised the alarm, the true culprit was unmasked.\n\nThe Scooby-Doo-style reveal was made even more bizarre - and worrying - because OpenAI said its bot did the whole thing on its own, without permission.\n\nTwo new versions of ChatGPT, designed to be master hackers, broke out of a supposedly secure test environment and gained access to the internet.\n\nThey then attacked Hugging Face to get access to the information to help them ace their exam.\n\nOpenAI issued a press release explaining what had happened and said it was \"partnering with Hugging Face\" to address the security incident and share lessons learned.\n\nWas it truly a stark warning about the future of AI? Or was it a publicity stunt by OpenAI to show off how powerful their models are?\n\nIt's the kind of scare marketing AI companies have been accused of for years and, since the much discussed launch of Anthropic's Mythos model, cyber-security prowess has been a focal point.\n\nOne of the top comments on OpenAI boss Sam Altman's X post about the incident summarises this scepticism: \"If y'all can't understand that this was written to purely brag about the model then I don't know what to tell you.\"\n\nCyber-security consultant Daniel Card said sarcastically on LinkedIn: \"Isn't it lucky [that] out of the millions of sites that got pwn3d [hacked], OpenAI managed to pwn someone who also could benefit from the marketing exposure…\"\n\nThe message is: \"Aren't my AI tools really powerful? Buy them so you can protect yourself from other people's AI attacks.\"\n\nWe can't know the truth, but the opposing point of view posed by other commentators is just as dramatic. Is this a sign that OpenAI made a potentially dangerous error in judgement and planning?\n\nAn OpenAI...",
-            "zh": "本周，科技界被一个包罗万象的故事所吸引，而这个故事的开头就像一部科幻惊悚片。 Hugging Face——一种人工智能工具应用商店——于 7 月 16 日宣布，它已被一名拥有强大人工智能的网络犯罪分子入侵。 这个爆炸性的公告充满了可怕的、技术性很强的术语：“沙箱群”、“代理攻击者”和“自我迁移的命令和控制”。 Hugging Face 表示，这次黑客攻击与之前处理过的任何事情都不同，因为它是由人工智能以超人的速度完成的，几乎没有或没有人类指导。 AI 在不到两天的时间里执行了 17,000 次操作，成功入侵了这家富有的大型科技公司并窃取了机密。 Hugging Face 研究人员猜测神秘攻击者使用了一种大型人工智能模型，但他们不知道罪犯是谁或在哪里。 评论员和分析师通过他们的播客和社交媒体账户来猜测幕后黑手可能是哪个网络犯罪组织或国家黑客。 然后在周三，也就是“拥抱脸”发出警报近一周后，真正的罪魁祸首被揭露了。 史酷比式的揭露变得更加离奇和令人担忧，因为 OpenAI 表示其机器人在未经许可的情况下自行完成了整件事。 ChatGPT 的两个新版本，旨在成为黑客大师，突破了所谓的安全测试环境并获得了互联网访问权限。 然后，他们攻击 Hugging Face，以获取信息以帮助他们在考试中取得好成绩。 OpenAI 发布了一份新闻稿，解释了所发生的情况，并表示正在“与 Hugging Face 合作”解决安全事件并分享经验教训。 这真的是对人工智能未来的严厉警告吗？还是 OpenAI 的一个宣传噱头，旨在炫耀他们的模型有多强大？ 多年来，人工智能公司一直被指责进行这种恐吓营销，自从 Anthropic 的 Mythos 模型推出引发广泛讨论以来，网络安全能力一直成为焦点。 OpenAI 老板 Sam Altman 关于该事件的 X 帖子中的热门评论之一总结了这种怀疑：“如果你们都不能理解这篇文章纯粹是为了吹嘘该模型，那么我不知道该告诉你们什么。” 网络安全顾问丹尼尔·卡德 (Daniel Card) 在 LinkedIn 上讽刺道：“在数百万个被 pwn3d [黑客攻击] 的网站中，OpenAI 成功地攻击了一个同样可以从营销曝光中受益的人，这不是很幸运吗……” 传达的信息是：“我的人工智能工具不是很强大吗？购买它们，这样你就可以保护自己免受其他人的人工智能攻击。” 我们无法知道真相，但其他评论员提出的相反观点同样引人注目。这是否表明 OpenAI 在判断和规划方面犯了潜在危险的错误？ 一个开放人工智能..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-sbs-com-au-news-article-very-volatile-stock-musk-doubles-down-on-ai-",
@@ -444,278 +447,6 @@
             "themeZh": "义人执政与恶人当道"
           },
           "aiVerseId": "prov_29_2",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cd7le4ylev2o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31ee/live/b6cd03e0-8826-11f1-b2ab-0dd01740f9f6.jpg",
-          "publishedAt": "2026-07-25T06:41:42.000Z",
-          "title": {
-            "en": "Trump takes swipes at press during White House Correspondents' Dinner",
-            "zh": "特朗普在白宫记者晚宴上抨击新闻界"
-          },
-          "summary": {
-            "en": "Former President Donald Trump criticized journalists during the White House Correspondents' Dinner, an event that honored press freedom. The dinner was held after a previous event was canceled due to a shooting in April.",
-            "zh": "前总统唐纳德·特朗普在白宫记者晚宴上抨击新闻界，该活动旨在庆祝新闻自由。此前，由于四月发生的一起枪击事件，第一次晚宴被取消。"
-          },
-          "body": {
-            "en": "US President Donald Trump has taken swipes at the media at the White House Correspondents' Association (WHCA) dinner, a night that celebrated press freedom after the first event was cancelled by a shooting three months ago.\n\nThe president sat as reporters from outlets he has sparred with and even sued, including the New York Times, CNN and the Wall Street Journal, came up to be honoured with awards.\n\nThe outgoing WHCA head said she would \"refuse to let an act of violence have the final word\", referring to the gunman tackled at the first dinner in April.\n\nBut the tone shifted as Trump aimed barbs at the \"fake news\" and accused many journalists in the room of having \"Trump Derangement Syndrome\".\n\nIn her remarks, WHCA President Weijia Jiang of CBS News said the event would return to the scene of the April shooting, the Washington Hilton, next year.\n\nThe officer shot at the scene, officer Victor Gonzalez of the US Secret Service, was given an award by Trump for his actions on the night of the shooting .\n\nTrump stood and shook hands with award winners, including a Wall Street Journal team who was given an award for coverage of Trump's links to disgraced financier Jeffrey Epstein .\n\nAhead of the event, many in the White House press corps theorised that Trump - who often criticises many of the reporters seated just metres away in the room - would deliver a stern rebuke of the media.\n\nIn his remarks, Trump was at times cordial and conciliatory, saying \"the second time is always better\", joking and praising the media - saying he respects \"most of them\".\n\nBut there were also some pointed insults directed at several journalists, some of whom were in the room. The harsher tone and personal attacks extended to Democratic politicians and celebrities as his hour-long speech took aim at some familiar targets.\n\n\"We settle our differences not with bullets, but with open and vigorous debate,\" Trump said. \"And no deranged loser with a gun will ever change that. We can't let that ever happen.\"\n\nTrump appeared to be in a good mood throughout the event, jokingly telling the media that \"sometimes I really do think that some of you don't like me\".\n\n\"This place [the dinner] is really the largest group of 'Trump derangement syndrome' people ever put together at one time,\" he said. \"I suspect some of you are lucky that our last dinner was cut short...I was going to go after you.\"\n\nThe president joked the news industry would \"be broke\" after he is no longer in office because \"there's not going to be anybody to report on\", before putting on a Trump 2028 hat and saying he would run for another term.\n\nThe gala dinner came as relations between the White House and the media remain fraught.\n\nLast week, Trump threatened to revoke the licences of several US networks which did not carry...",
-            "zh": "美国总统唐纳德·特朗普在白宫记者协会 (WHCA) 晚宴上对媒体进行了猛烈抨击。三个月前，首次活动因枪击事件而取消，这次晚宴庆祝了新闻自由。 与总统发生争执甚至起诉的媒体的记者，包括《纽约时报》、美国有线电视新闻网 (CNN) 和《华尔街日报》，都上台领奖。 即将离任的 WHCA 负责人表示，她将“拒绝让暴力行为做出最终决定”，她指的是 4 月份第一次晚宴上抓获的枪手。 但随着特朗普对“假新闻”进行讽刺，并指责房间里的许多记者患有“特朗普精神错乱综合症”，语气发生了变化。 哥伦比亚广播公司新闻频道的 WHCA 主席姜维佳在致辞中表示，该活动将于明年重返 4 月枪击事件发生的华盛顿希尔顿酒店现场。 现场被枪杀的美国国务卿官员维克多·冈萨雷斯(Victor Gonzalez)因其在枪击当晚的行动而获得了特朗普的嘉奖。 特朗普站起来与获奖者握手，其中包括《华尔街日报》的一个团队，该团队因报道特朗普与名誉扫地的金融家杰弗里·爱泼斯坦的联系而获奖。 活动开始前，白宫记者团中的许多人推测，经常批评坐在房间几米外的许多记者的特朗普将对媒体进行严厉谴责。 特朗普在讲话中时而亲切又安抚，他说“第二次总是更好”，开玩笑并赞扬媒体——称他尊重“他们中的大多数人”。 但也有一些针对几名记者的尖锐侮辱，其中一些记者就在房间里。当他长达一小时的演讲针对一些熟悉的目标时，更严厉的语气和人身攻击延伸到了民主党政客和名人。 特朗普表示：“我们不是用子弹，而是通过公开、激烈的辩论来解决分歧。” “任何持枪的疯狂失败者都不会改变这一点。我们不能让这种情况发生。” 特朗普在整个活动中似乎心情很好，开玩笑地告诉媒体“有时我确实认为你们中的一些人不喜欢我”。 “这个地方（晚餐）确实是有史以来最大的‘特朗普精神错乱综合症’人群聚集在一起的地方，”他说。 “我怀疑你们中的一些人很幸运，我们的最后一顿晚餐被缩短了……我本来要追你们的。” 总统开玩笑说，在他不再任职后，新闻业将“破产”，因为“不会有任何人可以报道”，然后设定了特朗普 2028 年的上限，并表示他将竞选连任。 这次晚宴是在白宫与媒体之间的关系仍然紧张之际举行的。 上周，特朗普威胁要吊销几个美国网络的许可证，这些网络没有..."
-          },
-          "reflection": {
-            "en": "In a public forum meant to celebrate press freedom, sharp words were exchanged, highlighting the tension between powerful figures and the media. Proverbs reminds us that while some words can wound like a sword, wise speech aims to bring healing and understanding.",
-            "zh": "在一个旨在庆祝新闻自由的公共场合，尖锐的言辞被抛出，凸显了权力人物与媒体之间的紧张关系。雅伟的箴言提醒我们，有些话语能像刀剑一样伤人，而智慧的言语则旨在带来医治与理解。"
-          },
-          "verse": {
-            "reference": "Proverbs 12:18",
-            "textEn": "The words of the reckless pierce like swords, but the tongue of the wise brings healing.",
-            "textZh": "说话浮躁的，如刀刺人；智慧人的舌头却为医人的良药。",
-            "themeEn": "Reckless words pierce",
-            "themeZh": "言语如刀"
-          },
-          "aiVerseId": "prov_12_18",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cj9d27v70j1o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg",
-          "publishedAt": "2026-07-25T06:34:40.000Z",
-          "title": {
-            "en": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-            "zh": "沙特阿拉伯与胡塞武装交火，美国在霍尔木兹海峡袭击油轮"
-          },
-          "summary": {
-            "en": "US military forces attacked and disabled a tanker in the Strait of Hormuz, stating the vessel was attempting to evade an American blockade on Iranian ports. This incident occurred amidst an exchange of fire between Saudi Arabia and Houthi forces.",
-            "zh": "美国军方袭击并瘫痪了一艘在霍尔木兹海峡试图规避美国对伊朗港口封锁的油轮。此次事件发生之际，沙特阿拉伯与胡塞武装之间也正在交火。"
-          },
-          "body": {
-            "en": "The Iranian-backed Houthis have claimed a missile attack on Saudi Arabia, after Riyadh launched strikes on targets linked to the group on Friday.\n\nEarly on Saturday, the Houthis' Ansarollah media said on Telegram that a \"Yemeni missile strike\" had caused fires in the Saudi city of Jizan. Saudi authorities had issued emergency alerts for the province.\n\nThe group had vowed retaliation after Saudi Arabia launched air strikes on Houthi targets in the Yemeni port city of Hodeida and a nearby island on Friday.\n\nIt came as there were no overnight reports of air strikes in the wider region by the US or Iran for the first time in two weeks.\n\nThe US military did not announce fresh strikes on Iran on Saturday, having carried out 13 consecutive nights of attacks on the country. During this time, Iran has also launched drone strikes on US military facilities and bases across the Middle East.\n\nEarlier, a delegation from Oman arrived in Iran's capital Tehran for talks on the Strait of Hormuz, Iran's state-run IRNA news agency reported. Oman controls the strait's southern coastline.\n\nSpeaking to reporters at the White House on Friday afternoon, Trump continued to threaten further attacks while saying that negotiations were continuing.\n\n\"We are talking to them. I think they're being serious. I think ... they are being by far the most serious that we've seen them, but that doesn't mean we get there,\" he said.\n\nAsked about his exit strategy for the Iran war, Trump said: \"There's a military exit where we just keep going just the way we are, and we can even make it a heavier dose, and it's knocking out everything they have. Or there's a smarter strategy that you make a deal.\"\n\nIn the Strait of Hormuz on Friday, the US military said it had fired on and disabled a tanker ship in the Gulf of Oman that was attempting to evade the American blockade on Iranian ports.\n\nThe vessel attacked by the US is the second commercial ship the US has disabled since it reimposed its blockade earlier this month.\n\n\"We disabled the tanker after the crew attempted to run the blockade at least four times prior,\" Navy Captain Tim Hawkins, spokesman for US Central Command, told AFP.\n\n\"The crew was repeatedly warned, didn't comply, and US forces on scene disabled the ship after firing into its engine room,\" he said. \"The ship is no longer transiting to Iran.\"\n\nGrowing concern over new threats to shipping in the Red Sea from Yemen's Houthis helped push the price of crude oil back over $100 (£74.96) a barrel this week - the highest level since May.\n\nBut it dropped again on Friday afternoon, with Brent futures down more than US$4 (£3.00) to a little over $96 (£72.07), according to the Reuters news agency, which reported the fall occurred after the successful passage through the Bab el-Mandeb Strait...",
-            "zh": "周五，在伊朗支持的胡塞武装宣布海上封锁并袭击沙特船只后，沙特阿拉伯对也门港口城市荷台达和附近岛屿的胡塞武装目标发动空袭。 沙特当局随后向吉赞省发出紧急警报，因为胡塞武装声称对吉赞市的导弹袭击负责。 周六早些时候，胡塞武装的 Ansarollah 媒体在 Telegram 上称，“也门导弹袭击”导致沙特城市吉赞起火。 与此同时，在霍尔木兹海峡，美国军方周五表示，它向阿曼湾一艘试图逃避美国对伊朗港口封锁的油轮开火并使其瘫痪。 这艘被美国袭击的船只是美国本月早些时候重新实施封锁以来击毁的第二艘商船。 美国中央司令部发言人、海军上校蒂姆·霍金斯告诉法新社：“在船员们之前至少四次试图突破封锁后，我们使这艘油轮瘫痪了。” 他说：“船员们多次受到警告，但他们没有遵守，现场的美军在向轮机舱开火后使该船瘫痪。” “这艘船不再过境伊朗。” 据伊朗国营伊斯兰通讯社报道，早些时候，阿曼代表团抵达伊朗首都德黑兰，就霍尔木兹海峡问题进行会谈。阿曼控制着该海峡的南部海岸线。 美国和伊朗交火已近两周，伊朗周五表示，对美国在中东的军事设施和基地进行了无人机袭击，以报复美国连续第13晚对该国发动袭击。 周五下午，特朗普在白宫对记者发表讲话时，继续威胁发动进一步袭击，同时表示谈判仍在继续。 “我们正在与他们交谈。我认为他们是认真的。我认为......他们是迄今为止我们见过的最认真的人，但这并不意味着我们能做到这一点，”他说。 当被问及他对伊朗战争的退出策略时，特朗普说：“有一种军事退出方式，我们就继续按照我们现在的方式行事，我们甚至可以加大剂量，这会摧毁他们拥有的一切。或者有一个更明智的策略，那就是达成协议。” 人们越来越担心也门胡塞武装对红海航运造成的新威胁，促使本周原油价格回升至每桶 100 美元（74.96 英镑）以上，为 5 月份以来的最高水平。 但据路透社报道，周五下午布伦特原油期货价格再次下跌，跌幅超过 4 美元（3.00 英镑），至 96 美元多一点（72.07 英镑）。路透社报道称，布伦特原油期货价格下跌是在两艘中国特许的超级油轮成功通过曼德海峡之后发生的。 周六早些时候交火后，胡塞武装安萨罗拉媒体发布..."
-          },
-          "reflection": {
-            "en": "The ongoing use of force, whether in exchanges of fire or in enforcing blockades, highlights the perilous cycle of violence that often escalates rather than resolves conflict. Yahweh's word reminds us that those who live by the sword often perish by it, urging us to seek paths that break this destructive pattern.",
-            "zh": "无论是交火还是强制封锁，持续使用武力都凸显了暴力循环的危险性，这种循环往往会升级冲突而非解决问题。雅伟的话语提醒我们，凡动刀的必死在刀下，敦促我们寻求打破这种破坏性模式的道路。"
-          },
-          "verse": {
-            "reference": "Matthew 26:52",
-            "textEn": "All who draw the sword will die by the sword.",
-            "textZh": "凡动刀的，必死在刀下。",
-            "themeEn": "Cycle of violence",
-            "themeZh": "动刀者必亡于刀"
-          },
-          "aiVerseId": "matt_26_52",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-how-vanessa-learned-shed-been-sold-by-a-crim",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/how-vanessa-learned-shed-been-sold-by-a-criminal-network/8192ofmzp",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-how-vanessa-learned-shed-been-sold-by-a-crim.jpg",
-          "publishedAt": "2026-07-25T05:31:38.000Z",
-          "title": {
-            "en": "Decades after being adopted, Vanessa learned she'd been 'sold' by a criminal network",
-            "zh": "凡妮莎在被收养数十年后得知自己被一个犯罪网络“贩卖”"
-          },
-          "summary": {
-            "en": "Vanessa is among dozens across the world who have been linked to a single illegal overseas adoption network.",
-            "zh": "凡妮莎是全球数十名与同一个非法海外收养网络有关联的人之一。"
-          },
-          "body": {
-            "en": "For most of her life, Vanessa Miles believed the official documents that accompanied her adoption from Taiwan told the story of who she was.\n\nThe 46-year-old Adelaide woman was adopted by an Australian couple when she was just three months old.\n\nShe had kept her birth certificate and Taiwanese passport, and later discovered she was connected to one of Taiwan's most notorious illegal international adoption scandals.\n\n\"The details around my adoption and my birth are quite unknown. Unfortunately, I was sold as a small baby by a woman named Chu Li-ching and an illegal adoption network,\" she said.\n\nTo this day, she has been unable to find her biological mother, and her birth documents have only become part of the mystery.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe alleged masterminds, Chu Li-ching and her husband, were accused of falsifying babies' identities and illegally arranging overseas adoptions.\n\nSome of the children involved came from disadvantaged families or were voluntarily relinquished by single mothers unable to raise them.\n\nAt least 63 babies were reportedly sent to families in Australia, the United States and Europe.\n\nIt was only last year, after beginning an online search into her past, that Miles realised she was among them.\n\n\"From my baby Taiwanese passport, I know that I was one of the Chu Li-ching babies,\" Miles said.\n\nInternational Social Service Australia deputy CEO Damon Martin said many adoptive families had assumed the documents they received from overseas agencies were legitimate.\n\nAfter discovering their paperwork was fraudulent, adoptees trying to trace their origins faced an enormous challenge, he said.\n\n\"It's extremely difficult, especially if there's fraudulent papers or there's been illicit activities. It's difficult to find someone when you don't know their name,\" he said.\n\nMiles' birth certificate lists her name as Wen and identifies her mother as Li Mei.\n\nHoping those details would lead her to the truth, she travelled to Taiwan for the first time in May 2025.\n\n\"We went to the police station where I left my DNA hoping for a match, and I also met with the competent authority, and I spoke in front of the media. However, none of these avenues returned any result,\" Miles said.\n\nAfter returning to Australia, Miles also applied for a Taiwanese passport, believing her original baby passport would make the process straightforward.\n\n\"However, after a period of time, it was discovered that there was actually another woman with the same name as me: Wen, the daughter of Li Mei,\" Miles said.\n\nMeanwhile, Taiwanese officials contacted Li Mei, who denied being Miles' birth mother and declined to undergo DNA testing.\n\n\"They said to her, 'We...",
-            "zh": "在瓦妮莎·迈尔斯一生的大部分时间里，她相信从台湾收养她时附带的官方文件讲述了她的故事。 这位46岁的阿德莱德女子在她三个月大时就被一对澳大利亚夫妇收养。 她保留了自己的出生证明和台湾护照，后来发现自己与台湾最臭名昭著的非法国际收养丑闻之一有关。 “关于我的收养和出生的细节都不太清楚。不幸的是，我在还是个小婴儿的时候就被一个名叫朱立青的女人和一个非法收养网络卖掉了，”她说。 时至今日，她一直无法找到自己的亲生母亲，她的出生文件也只是成为谜团的一部分。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 所谓的主谋朱立青和她的丈夫被指控伪造婴儿身份并非法安排海外收养。 部分涉案儿童来自贫困家庭，或被无力抚养的单亲母亲自愿抛弃。 据报道，至少有 63 名婴儿被送往澳大利亚、美国和欧洲的家庭。 直到去年，在开始在线搜索她的过去后，迈尔斯才意识到自己也在其中。 “从我婴儿的台湾护照上，我知道我是朱立庆婴儿之一，”迈尔斯说。 澳大利亚国际社会服务社副首席执行官达蒙·马丁表示，许多收养家庭都认为他们从海外机构收到的文件是合法的。 他说，在发现他们的文件是欺诈性的后，被收养者试图追踪他们的起源面临着巨大的挑战。 “这非常困难，特别是如果存在欺诈性文件或存在非法活动。当你不知道某人的名字时，很难找到他们，”他说。 迈尔斯的出生证明上写着她的名字叫文，她的母亲叫李梅。 希望这些细节能让她了解真相，她于 2025 年 5 月首次前往台湾。 “我们去了警察局，我在那里留下了我的DNA，希望进行匹配，我也见了主管当局，我在媒体面前发表了讲话。但是，这些途径都没有得到任何结果，”迈尔斯说。 返回澳大利亚后，迈尔斯还申请了台湾护照，她相信她原来的婴儿护照会让整个过程变得简单。 “然而，一段时间后，人们发现其实还有一个和我同名的女人：李梅的女儿文。”迈尔斯说道。 与此同时，台湾官员联系了李梅，她否认自己是迈尔斯的亲生母亲，并拒绝接受DNA检测。 “他们对她说，‘我们..."
-          },
-          "reflection": {
-            "en": "The news of individuals discovering their adoptions were part of a criminal network highlights a profound violation of identity and belonging. For those like Vanessa, the very foundation of their family history is shaken by deceit and exploitation. Yet, Yahweh is described as a father to the fatherless, one who sets the lonely in families, offering a deep...",
-            "zh": "凡妮莎等人发现自己的收养竟是犯罪网络的一部分，这揭示了身份和归属感被严重侵犯的痛苦。当家庭历史的根基被欺骗和剥削动摇时，雅伟却被描述为孤儿的父，使孤独的有家。这在人类系统失灵时，仍能提供深刻的归属感和关怀。"
-          },
-          "verse": {
-            "reference": "Psalm 68:5-6",
-            "textEn": "A father to the fatherless, a defender of widows, is God in his holy dwelling. God sets the lonely in families.",
-            "textZh": "神在他的圣所作孤儿的父，作寡妇的伸冤者。神叫孤独的有家。",
-            "themeEn": "Family for the lonely",
-            "themeZh": "为孤独者立家"
-          },
-          "aiVerseId": "ps_68_5",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-more-fuel-price-pain-ahead-for-australians-a",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/more-fuel-price-pain-ahead-for-australians-as-war-ramps-up-and-de-escalation-dims/liu71xlm1",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-more-fuel-price-pain-ahead-for-australians-a.jpg",
-          "publishedAt": "2026-07-25T02:30:55.000Z",
-          "title": {
-            "en": "More fuel price pain ahead as Houthis widen war's front line, Trump considers fresh strikes",
-            "zh": "随着战争升级和局势缓和希望渺茫，澳大利亚人将面临更多燃油价格之痛"
-          },
-          "summary": {
-            "en": "Escalating tensions between the US and Iran, with the Houthis joining the conflict, are expected to lead to further fuel price increases for Australians.",
-            "zh": "美国和伊朗之间的紧张局势升级，胡塞武装也加入了冲突，预计这将导致澳大利亚人的燃油价格进一步上涨。"
-          },
-          "body": {
-            "en": "Higher prices at the bowser are likely to continue to flow to motorists, experts say, with the Houthi rebels widening the front line of conflict in the Middle East and little sign of an imminent d&#xE9;tente between the United States and Iran.\n\nThe Houthis had accused US ally Saudi Arabia of a \"dangerous escalation\" after it struck military targets belonging to the group on Friday, following the rebels announcing a maritime blockade of the top oil producer and hitting its ships in the Red Sea.\n\nThe flare-up marks a new front in a war that has engulfed the region following US-Israeli strikes on Tehran in February, and comes on top of Iran's parallel blockade of the Strait of Hormuz, Riyadh's only other maritime route.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nSaudi Arabia did not immediately comment on the Houthis' Ansarollah media post on Telegram on Saturday that a \"Yemeni missile strike\" had sparked fires in Jizan. But Riyadh's civil defence agency issued brief warnings to residents in the city &#x2014; as well as another city, Yanbu &#x2014; early on Saturday.\n\nThe warning came after the Saudi-led coalition said Friday it had hit Houthi sites and destroyed targets threatening commercial vessels in response to attacks on Red Sea shipping.\n\nA Yemeni security source told AFP a naval base in the port city of Hodeida and a military camp on Kamaran island were among the Saudi targets.\n\nThe Houthis claimed attacks on two Saudi ships earlier this week, with Saudi Arabia confirming one of the attacks in the Red Sea.\n\nThe escalation came after Trump suggested he was holding off on a major operation as Tehran was now getting \"serious\" in talks with Washington.\n\n\"No, I haven't,\" Trump told journalists in the Oval Office when asked if he had made a decision on hitting Iran hard, for now dialling back reports that he was increasingly frustrated with the war and mulling a large-scale military operation.\n\n\"We are talking to them. &#x200C;I think they're being serious. I think ... they are being by far the most serious that we've seen them, but that doesn't mean we get there,\" Trump told reporters at the White House.\n\nTrump has in recent days threatened to expand targets being struck in Iran to include energy plants and bridges, to send ground forces to seize its Kharg Island oil hub and to bomb a deep-underground nuclear-linked site known as Pickaxe Mountain.\n\nTrump told Axios on &#x200C;Thursday that he was considering relaunching major combat against Iran. \"They haven't received enough pain yet,\" the US news outlet quoted him as saying.\n\nHowever, on Saturday, the US military broke its daily announcement of fresh strikes on Iran, following 13 nights in a row hitting...",
-            "zh": "美国导弹袭击了伊朗各地的目标，唐纳德·特朗普总统誓言对伊朗及其在也门的胡塞武装盟友进行“重大军事惩罚”。 尽管他再次为与伊朗达成外交协议敞开了大门，但持续的战斗意味着澳大利亚人应该为鲍瑟的另一轮价格上涨做好准备。 在旨在结束战争的临时休战协议破裂两周后，伊朗武装部队连夜向邻国阿拉伯国家的美国基地开火作为回应，并警告那里的人们可以袭击美国人员使用的非军事建筑。 特朗普最近几天威胁要扩大伊朗境内的袭击目标，包括能源工厂和桥梁，派遣地面部队夺取其哈格岛石油中心，并轰炸一个名为镐山的地下深处与核有关的地点。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 特朗普在白宫对记者说：“我们正在与他们交谈。我认为他们是认真的。我认为……他们是迄今为止我们见过的最认真的人，但这并不意味着我们能做到这一点。” 当被问及伊朗战争的退出策略是什么时，他说：“有一种军事退出策略，我们就继续按现有方式前进，我们甚至可以加大剂量，这会摧毁他们拥有的一切。或者有一个更明智的策略，那就是达成协议。” 迄今为止，海湾入口处一直是一场战争的焦点，这场战争在近五个月内造成数千人死亡，加剧了全球通货膨胀，并加剧了人们对经济衰退的担忧。 控制也门北部和西部的胡塞武装宣布对沙特阿拉伯实施海上封锁，沙特阿拉伯每天通过管道将数百万桶石油转移到红海，以规避伊朗对霍尔木兹海峡的近乎全面封锁。 在胡塞武装表示周四袭击了两艘沙特油轮后，特朗普表示，他将追究伊朗对武装分子进一步袭击的责任。 目击者称，周六，也门荷台达港遭受数次袭击。沙特领导的也门联军表示，针对荷台达省的胡塞军事基地开展了“适当的军事反应行动”。 美军连续第13晚对伊朗发动空袭，促使伊朗向设有美军基地的阿拉伯邻国开火。 在伊朗法尔斯通讯社发表的一份声明中，革命卫队警告海湾国家民众，美国军事人员可能会遭到袭击，因为他们可能利用“城市建筑物作为犯罪地点”。 特朗普周四告诉 Axios，他..."
-          },
-          "reflection": {
-            "en": "The news of escalating global tensions and dimming hopes for peace can feel overwhelming, leading to tangible burdens like rising fuel prices. Romans 12:21 reminds us that even when evil seems to gain momentum, we are called not to be overcome by it, but to seek ways to overcome evil with good. This principle encourages us to look for paths of constructive...",
-            "zh": "全球紧张局势升级、和平希望渺茫的消息令人感到沉重，并带来燃油价格上涨等实际负担。罗马书12:21提醒我们，即使邪恶似乎势头正盛，我们仍蒙召不要被邪恶所胜，而是要以善胜恶。这一原则鼓励我们在充满挑战的环境中，寻求建设性行动与和平的道路。"
-          },
-          "verse": {
-            "reference": "Romans 12:21",
-            "textEn": "Do not be overcome by evil, but overcome evil with good.",
-            "textZh": "你不可为恶所胜，反要以善胜恶。",
-            "themeEn": "Overcoming evil with good",
-            "themeZh": "以善胜恶"
-          },
-          "aiVerseId": "rom_12_21",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c1w10gwnj74o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ada/live/69a18890-87cf-11f1-b948-61d0d1524256.jpg",
-          "publishedAt": "2026-07-25T02:23:09.000Z",
-          "title": {
-            "en": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-            "zh": "特朗普命令史密森尼学会就“不准确”的美国历史发布警告"
-          },
-          "summary": {
-            "en": "The Trump administration has directed the Smithsonian Institution to include warnings about \"inaccurate\" US history in its exhibits. This move comes after repeated accusations from the administration that the world's largest research museum exhibits an anti-American bias.",
-            "zh": "特朗普政府已命令史密森尼学会，在其展览中加入关于“不准确”美国历史的警告。此前，该政府多次指责这个全球最大的研究型博物馆存在反美偏见。"
-          },
-          "body": {
-            "en": "President Donald Trump has ordered signs to be placed outside the Smithsonian National Museum of American History, to caution visitors about exhibits his administration views as \"inaccurate\".\n\nThe order directs the Department of Interior to issue the warnings, and also to direct people about where they can find \"accurate information regarding America's history\".\n\nThe Trump administration has often accused the Smithsonian Institution, the world's largest research museum, as well as other academic organisations of harbouring an anti-American bias.\n\nThe order on Friday - titled Restoring Trust in the Smithsonian Institution - accuses museum leadership of not doing enough to celebrate America's founders on the country's 250th anniversary of independence, which took place on 4 July.\n\nIt says the museum's leadership team \"views American history as a 'prime tool' to advance ideas of social justice and the radical transformation of our society\".\n\nAn accompanying White House statement , external also accused the museum of veering \"toward extreme political activism, rooted in Marxism, to divide, dispirit, and discourage Americans\".\n\n\"This EO is a clear political overreach, driven by an ideological agenda to rewrite American history,\" congresswoman Melanie Stansbury, ranking member of the House Administration Committee, wrote on X.\n\n\"Our Smithsonian institutions do not belong to the President, but to the American people and so does our nation's history.\"\n\nThe executive order comes just days after Smithsonian director Anthea Hartig was grilled by Republican lawmakers in two congressional hearings, where the museum was accused of being \"infected by a woke ideology that seeped into public displays, educational materials and planning documents\".\n\nEarlier this month, the White House Domestic Policy Council released a scathing report, claiming that the museum \"erases our heritage\".\n\nTrump has set out to radically reshape American culture, which he says has been contaminated by \"woke\" left-wing ideology.\n\nHe has signed several orders that are intended to eliminate diversity, equity and inclusion programmes from the federal government - some of which led to legal challenges.\n\nIn March, he issued a separate order against the Smithsonian, directing it to \"eliminate improper, divisive, or anti-American ideology\".\n\nThe Smithsonian is largely funded by the federal government. Its museums offer free entry to some 15 to 30 million visitors each year. It operates 21 museums in Washington, Virginia and New York.\n\nThey include the National Museum of American History, the National Portrait Gallery, the American Art Museum, the National Zoo and more than a dozen others.",
-            "zh": "唐纳德·特朗普总统已下令在史密森尼美国历史国家博物馆外放置标志，以警告游客注意他的政府观点“不准确”的展览。 该命令指示内政部发出警告，并指导人们在哪里可以找到“有关美国历史的准确信息”。 特朗普政府经常指责世界上最大的研究博物馆史密森学会以及其他学术组织怀有反美偏见。 周五发布的命令名为“恢复对史密森尼学会的信任”，指责博物馆领导层在庆祝美国独立 250 周年（7 月 4 日）之际没有采取足够措施来庆祝美国开国元勋。 博物馆的领导团队“将美国历史视为推进社会正义理念和社会彻底变革的‘主要工具’”。 白宫随后发表的一份声明还指责博物馆“转向植根于马克思主义的极端政治活动主义，以分裂、沮丧和挫败美国人”。 众议院管理委员会高级成员、女议员梅兰妮·斯坦斯伯里 (Melanie Stansbury) 在 X 上写道：“这份行政命令明显是政治越权行为，是由重写美国历史的意识形态议程驱动的。” “我们的史密森尼机构不属于总统，而是属于美国人民，我们国家的历史也是如此。” 就在这项行政命令发布的几天前，史密森尼博物馆馆长安西娅·哈蒂格在两次国会听证会上受到共和党议员的质询，该博物馆被指控“受到渗透到公共展览、教育材料和规划文件中的觉醒意识形态的感染”。 本月早些时候，白宫国内政策委员会发布了一份措辞严厉的报告，声称该博物馆“抹去了我们的遗产”。 特朗普已着手从根本上重塑美国文化，他称美国文化已受到“觉醒”的左翼意识形态的污染。 他签署了几项旨在消除联邦政府多元化、公平和包容性计划的命令，其中一些导致了法律挑战。 今年三月，他针对史密森学会发布了一项单独的命令，指示其“消除不正当、分裂或反美的意识形态”。 史密森学会主要由联邦政府资助。其博物馆每年向约 15 至 3000 万游客免费开放。它在华盛顿、弗吉尼亚和纽约运营着 21 家博物馆。 其中包括美国国家历史博物馆、国家肖像画廊、美国艺术博物馆、国家动物园等十多个博物馆。"
-          },
-          "reflection": {
-            "en": "In public discourse, the pursuit of truth is vital, especially when interpreting history. Yahweh calls us to put away falsehood and speak truth with one another, fostering an environment where facts are respected and narratives are honestly presented. This reminds us that integrity in historical accounts is crucial for a healthy society.",
-            "zh": "在公共论述中，对真相的追求至关重要，尤其是在解读历史时。雅伟呼召我们弃绝谎言，与邻舍说实话，从而营造一个尊重事实、诚实呈现叙事的环境。这提醒我们，历史记述的完整性对一个健康的社会至关重要。"
-          },
-          "verse": {
-            "reference": "Ephesians 4:25",
-            "textEn": "Therefore each of you must put off falsehood and speak truthfully to your neighbor.",
-            "textZh": "所以你们要弃绝谎言，各人与邻舍说实话。",
-            "themeEn": "Truth-telling",
-            "themeZh": "说诚实话"
-          },
-          "aiVerseId": "eph_4_25",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-poland-s-main-opposition-collapses-over-far-right-slide-a-",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/poland-s-main-opposition-collapses-over-far-right-slide/a-78106475?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/68765665_6.jpg",
-          "publishedAt": "2026-07-24T19:41:00.000Z",
-          "title": {
-            "en": "Poland's main opposition collapses over far-right slide",
-            "zh": "波兰主要反对党因极右翼倾向而瓦解"
-          },
-          "summary": {
-            "en": "Poland's main opposition party is experiencing a significant internal power struggle, culminating in a move to expel former Prime Minister Mateusz Morawiecki. This internal conflict, alongside a perceived shift towards the far-right, is expected to severely diminish the party's public appeal.",
-            "zh": "波兰主要反对党内部的权力斗争已达到白热化。开除前总理马特乌什·莫拉维茨基的举动，加上该党被认为向极右翼倾斜，可能会大大削弱其受欢迎程度。"
-          },
-          "body": {
-            "en": "A power struggle within Poland's main opposition force has come to a head. But a move to expel former Prime Minister Mateusz Morawiecki may greatly weaken the right-wing party's popularity.\n\n\"Over 30 delegates of our group have effectively forfeited their membership,\"&#160;Jaroslaw Kaczynski, the head of the Law and Justice (PiS) party, said on Friday.&#160;He's accusing Poland 's former Prime Minister Mateusz Morawiecki, as well as dozens of his followers, of attempting to split the party.\n\n\"We couldn't accept that,\" Kaczynski continued.&#160;\"It's all done.\" For their part, the rebels alleged they have not resigned but been \"expelled.\"&#160;\n\nA three-hour \"last chance\" talk between Kaczynski and Morawiecki ended on Thursday without results. \"We were looking for understanding, but couldn't accept subjugation,\" Piotr Mueller, an EU delegate close to Morawiecki, later said about the talks on X .\n\nThe ultimatum that Kacynski had placed on rebel party members ended at midnight. By then, they were expected to deliver a written declaration that they would refrain from activities in the Rozwoj Plus (Development Plus) association led by Morawiecki. In Kaczynski's view, the breakaway association has undermined&#160;his party's primacy.&#160;\n\n\"I'm not signing any loyalty pledge,\" Morawiecki told the Polish television station TVN. \"That's something one might have required of me in the 1980s,\" he added, alluding to his persecution for his father's prominent opposition to the regime at the time.&#160;\n\nFor a quarter of a century, Kaczynski and his PiS party have dominated the right wing of Poland's party landscape. Any attempt to establish a new, more radical right was successfully quashed. Since 2001, PiS has been in power twice, from 2005-2007 and again from 2015-2023, and has occupied the office of state president with Kaczynski's twin brother, Lech, then Andrzej Duda and — since mid-2025 — Karol Nawrocki .&#160;\n\nJust over a year before the next parliamentary election, the party is facing its greatest crisis since it got its start in 2001.&#160;\n\nBy now, two parties have established themselves to the right of PiS: the far-right nationalist and libertarian alliance Confederation Liberty and Independence (KWIN), and the extreme right-wing, ultranationalist, traditionalist Confederation of the Polish Crown (KKP). Taken together, they enjoy more support in the polls than the PiS party alone. Kaczynski's party has lost many voters to these two radical groups.&#160;\n\nTo win them back, Kaczynski has pushed&#160;his party ever further to the right. In March, he nominated Przemyslaw Czarnek ,&#160;the ultraconservative, ultra-Catholic former minister of education and science,&#160;as the party's lead candidate for the 2027 parliamentary election. Morawiecki and his...",
-            "zh": "波兰主要反对派内部的权力斗争已经达到白热化阶段。但驱逐前总理马特乌什·莫拉维茨基的举动可能会大大削弱右翼政党的声望。 法律与正义党 (PiS) 党魁雅罗斯瓦夫·卡钦斯基 (Jaroslaw Kaczynski) 周五表示：“我们团体的 30 多名代表实际上已经丧失了党员资格。” 他指责波兰前总理马特乌什·莫拉维茨基以及他的数十名追随者试图分裂该党。 “我们无法接受这一点，”卡钦斯基继续说道。 “都完成了。”叛乱分子则声称他们并没有辞职，而是被“驱逐”。 卡钦斯基和莫拉维茨基之间长达三个小时的“最后机会”会谈于周四结束，但没有结果。 “我们寻求理解，但不能接受屈服，”与莫拉维茨基关系密切的欧盟代表彼得·穆勒(Piotr Mueller)后来谈到X的谈判时说道。 卡辛​​斯基对叛乱党成员发出的最后通牒于午夜结束。届时，他们将提交一份书面声明，表示将不再参与莫拉维茨基领导的 Rozwoj Plus（发展+）协会的活动。卡钦斯基认为，脱离联盟削弱了该党的首要地位。 “我不会签署任何忠诚承诺，”莫拉维茨基告诉波兰电视台 TVN。 “这可能是 20 世纪 80 年代人们对我的要求，”他补充道，暗指他因父亲当时强烈反对现政权而受到迫害。 四分之一个世纪以来，卡钦斯基和他的法律与正义党一直主导着波兰政党版图的右翼。任何建立新的、更激进的右翼的尝试都被成功镇压了。自 2001 年以来，法律与正义党已经两次执政，分别是 2005 年至 2007 年和 2015 年至 2023 年，并与卡钦斯基的双胞胎兄弟莱赫、然后是安杰伊·杜达以及自 2025 年中以来的卡罗尔·纳罗基一起担任国家总统。 距离下一次议会选举还有一年多的时间，该党正面临自 2001 年成立以来最严重的危机。 到目前为止，两个政党已经确立了法律与正义党的右翼地位：极右民族主义和自由主义联盟自由与独立联盟（KWIN），以及极右翼、极端民族主义、传统主义的波兰国王联盟（KKP）。总的来说，他们在民意调查中获得的支持比单独的法律与正义党还要多。卡钦斯基的政党因这两个激进团体而失去了许多选民。 为了赢回他们，卡钦斯基将他的政党进一步推向右翼。 3 月，他提名极端保守、极端天主教徒的前教育和科学部长 Przemyslaw Czarnek 作为该党 2027 年议会选举的主要候选人。莫拉维茨基和他的..."
-          },
-          "reflection": {
-            "en": "Political power struggles often appear to be about personalities or factions, but this verse reminds us that deeper ideological and spiritual forces are often at play. When a party experiences a \"far-right slide\" and internal collapse, it prompts us to consider the unseen influences shaping public life and political discourse.",
-            "zh": "政治权力斗争表面上常关乎个人或派系，但这节经文提醒我们，更深层的意识形态和属灵力量往往在起作用。当一个政党经历“极右翼倾斜”和内部瓦解时，这促使我们思考塑造公共生活和政治话语的无形影响。"
-          },
-          "verse": {
-            "reference": "Ephesians 6:12",
-            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
-            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
-            "themeEn": "Not against flesh and blood",
-            "themeZh": "并非与血气争战"
-          },
-          "aiVerseId": "eph_6_12",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-trump-threatens-eu-with-tariff-probe-over-google-tech-fine",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/77592190_6.jpg",
-          "publishedAt": "2026-07-24T18:46:00.000Z",
-          "title": {
-            "en": "Trump threatens EU with tariff probe over Google, tech fines",
-            "zh": "特朗普就谷歌和科技公司罚款问题威胁对欧盟进行关税调查"
-          },
-          "summary": {
-            "en": "US President Donald Trump has threatened to launch a tariff investigation against the European Union. This action comes in response to fines imposed by the EU on US technology companies, including a recent case involving Google.",
-            "zh": "美国总统唐纳德·特朗普威胁将对欧盟发起关税调查。此举是对欧盟对美国科技公司处以罚款的回应，其中包括谷歌最近输掉的一个案件。"
-          },
-          "body": {
-            "en": "US President Donald Trump has said he will initiate a tariff investigation against the EU in response to fines against US tech companies. He cited the latest case that Google lost on Thursday, as well as others.\n\nUS President Donald Trump on Friday threatened to launch a tariff investigation against the EU in response to the bloc's anti-competition fines and other penalties levied against US tech giants like Google , Apple , Amazon and Meta .&#160;\n\nIn particular, he cited Thursday's latest fine of €890 million (roughly $1 billion) issued against Google for allegedly giving unfair preference to its own search engine and its Play app.&#160;\n\nTrump's threats come just a few hours after his administration imposed its latest tariffs on the EU , and many other countries, for supposedly not doing enough to prevent imports made using forced labor from their supply chains.\n\nUS trading partners and allies like the EU, Japan and Australia have responded to these with a mixture of outrage and bafflement &#160;at the new tariffs.\n\nTrump issued the warning in a lengthy&#160;post on his Truth Social online platform.\n\n\"The European Union is at it again and, as usual, taking direct aim at GREAT American Companies!,\" he wrote.&#160;\n\nHe then listed a series of fines — or cumulative totals of supposed fines — against various tech companies, which he falsely alleged were issued \"for no reason at all\" and \"without explanation.\"&#160;\n\nHe mentioned the latest penalty to hit Google, and claimed this took the total of their fines to \"over 18 Billion Dollars!\" without specifying a timeframe or evidence of any sort.\n\nEU courts did recently uphold a record fine of over $4 billion for Google — in a process that had been under review for almost eight&#160;years — in one case among several in recent years.\n\n\"The United States of America is not a 'PIGGYBANK' for Europe, nor will we allow it to be! Please let this TRUTH serve to represent that we will immediately initiate a 301 Investigation in the practice of 'ROBBING' American Companies and, in turn, the American Taxpayer,\" Trump wrote.\n\nThe&#160;301 Investigations are the new means Trump relies on to impose tariffs, after the Supreme Court declared he had overstepped his authority with the near-global levies he imposed on what he called \"Liberation Day\" in 2025.\n\nThe so-called investigation relies on the US internally demonstrating what it deems to be unfair trade practices against it in order to issue retaliatory sanctions and refers to Section 301 of the Trade Act of 1974. Dozens of such investigations are in the pipeline.&#160;\n\n\"The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about,\" Trump wrote. \"The penalties will be entirely reveresed and,...",
-            "zh": "美国总统唐纳德·特朗普表示，他将对欧盟发起关税调查，以回应对美国科技公司的罚款。他引用了谷歌周四败诉的最新案件以及其他案件。 美国总统唐纳德·特朗普周五威胁要对欧盟发起关税调查，以回应欧盟对谷歌、苹果、亚马逊和 Meta 等美国科技巨头征收的反竞争罚款和其他处罚。 他特别提到了周四对谷歌处以 8.9 亿欧元（约合 10 亿美元）的最新罚款，原因是谷歌涉嫌对其自己的搜索引擎及其 Play 应用程序给予不公平的优惠。 特朗普发出威胁的几个小时前，他的政府对欧盟和许多其他国家征收了最新的关税，据称原因是没有采取足够措施阻止供应链中使用强迫劳动制造的进口产品。 美国的贸易伙伴和盟友，如欧盟、日本和澳大利亚，对新关税的反应既愤怒又困惑。 特朗普在他的“真相社交”在线平台上发布了一篇长文，发出了这一警告。 “欧盟再次出手，像往常一样，直接瞄准伟大的美国公司！”他写道。 然后，他列出了针对多家科技公司的一系列罚款——或者所谓罚款的累计总额——他错误地声称这些罚款是“毫无理由”且“没有解释”的。 他提到了谷歌最近受到的处罚，并声称这使得他们的罚款总额“超过 180 亿美元！”没有指定时间范围或任何类型的证据。 欧盟法院最近确实维持了对谷歌超过 40 亿美元创纪录的罚款——这一过程已经接受了近八年的审查——这是近年来发生的多起案件中的一个。 特朗普写道：“美利坚合众国不是欧洲的‘存钱罐’，我们也不会允许它成为这样的情况！请让这个事实表明，我们将立即对‘抢劫’美国公司进而掠夺美国纳税人的行为发起301调查。” 301 调查是特朗普赖以征收关税的新手段，此前最高法院宣布他在 2025 年“解放日”征收近乎全球性的关税，超出了他的权力。 所谓调查是指美国在内部证明其认为不公平的贸易行为，从而实施报复性制裁，并指的是1974年贸易法第301条。目前有数十项此类调查正在进行中。 特朗普写道：“欧盟将为这种非法和极不道德的行为付出巨大代价，我一直警告他们这一点。” “处罚将完全撤销，并且......"
-          },
-          "reflection": {
-            "en": "International relations often involve complex disagreements, and the threat of retaliatory tariffs highlights the challenge of maintaining peace. Yahweh's word encourages us to pursue peaceful coexistence with all, as far as it depends on us. In moments of tension, seeking common ground and de-escalation can prevent further division.",
-            "zh": "国际关系常涉及复杂的争议，报复性关税的威胁凸显了维持和平的挑战。雅伟的话语鼓励我们，只要我们能做到，就与所有人和平相处。在紧张时刻，寻求共同点和避免升级可以防止进一步的分裂。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-russia-hits-drone-demonstration-near-kyiv-killing-10-a-781",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/78100422_6.jpg",
-          "publishedAt": "2026-07-24T17:55:00.000Z",
-          "title": {
-            "en": "Russia hits drone demonstration near Kyiv, killing 10",
-            "zh": "俄罗斯袭击基辅附近无人机示威活动，造成10人死亡"
-          },
-          "summary": {
-            "en": "Ukraine reported 10 fatalities and approximately 100 injuries from a Russian drone strike near Kyiv, occurring shortly after Ukrainian President Zelenskyy met with executives from a US arms manufacturer. Separately, a warehouse in St. Petersburg was also targeted by drone fire.",
-            "zh": "乌克兰报告称，俄罗斯无人机袭击基辅附近，造成10人死亡，约100人受伤。此次袭击发生在乌克兰总统泽连斯基会见美国军火巨头雷神公司官员的次日。与此同时，圣彼得堡的一处Wildberries仓库也遭到无人机袭击。"
-          },
-          "body": {
-            "en": "Ukraine says 10 were killed and around 100 injured in the strike, a day after Zelenskyy met with officials from US arms giant Raytheon. Meanwhile, in St. Petersburg, another Wildberries warehouse came under drone fire.\n\nRussia struck various sites in Ukraine on Friday, including a defense event on the outskirts of Kyiv thought to be showcasing aerial defense technologies like drones.\n\nSometimes fatal attacks elsewhere in the country disrupted power supplies in five separate regions.&#160;&#160;\n\nMeanwhile, Ukraine again struck facilities belonging to Russia's largest online retailer, Wildberries , this time in President Vladimir Putin's hometown of St. Petersburg.&#160;\n\nAnd in the skies over Romania, NATO jets downed a stray drone on Friday morning, with no immediate reports of casualties or damage.&#160;\n\nAcross the Atlantic, the White House said President Donald Trump and President Volodymyr Zelenskyy would hold talks on Tuesday of next week, almost four and a half years after Russia's full scale invasion .\n\nActing regional military administration head Ruslan Oliinyk said the strike hit the grounds of a privately operated military training site that was hosting an event at the time. The site is some 20-30 kilometers (12-18 miles) from central Kyiv, in the Bucha district.&#160;\n\nAttorney General Ruslan Kravchenko called the attack a war crime, saying that 10 people were killed and around 100 more were injured.&#160;\n\nThe surrounding area was also struck repeatedly, with&#160; &#160;Zelenskyy posting images of destruction and rescue efforts from the wider Kyiv region.\n\nHe said,&#160;\" Interceptors for Patriot systems are the number one priority,\" a reference to the air defense systems made by US arms giant Raytheon, which had sent a delegation to Kyiv on Thursday.&#160;\n\nRussia's Defense Ministry also acknowledged the attack online, saying it had used \"high-precision long-range weapons\" to target \"a demonstration of unmanned aerial vehicles [UAVs or drones], including promising ones, of Ukrainian and foreign production, used to strike civilian targets in Russia.\"&#160;\n\nRussia's Defense Ministry claimed that at the time of the strike, leading defense industry officials and Ukrainian military members were at the site, saying these people were \"directly planning and carrying out strikes on Russian territory.\"\n\nFive people were reported killed in the eastern region of Slovyansk on Friday. The EU's foreign policy chief, Kaja Kallas, bemoaned one such strike that she said hit \"Latvia's Honorary Consulate\" in Slovyansk, saying, \"We will summon Russia's envoy to the EU over today's strikes,\" and that she would propose further EU sanctions to target Russia's \"military-industrial complex.\" &#160;\n\nUkraine's energy company Ukrenergo reported damage to power...",
-            "zh": "乌克兰称，泽连斯基会见美国军火巨头雷神公司官员的第二天，袭击造成 10 人死亡、约 100 人受伤。与此同时，在圣彼得堡，另一个 Wildberry 仓库遭到无人机袭击。 俄罗斯周五袭击了乌克兰的多个地点，其中包括基辅郊区的一场防御活动，据信该活动正在展示无人机等防空技术。 有时，该国其他地方发生的致命袭击会中断五个不同地区的电力供应。 与此同时，乌克兰再次袭击了俄罗斯最大在线零售商 Wildberry 的设施，这次是在弗拉基米尔·普京总统的家乡圣彼得堡。 周五早上，北约战机在罗马尼亚上空击落了一架迷失的无人机，目前还没有人员伤亡或财产损失的报告。 在大西洋彼岸，白宫表示，唐纳德·特朗普总统和弗拉基米尔·泽伦斯基总统将于下周二举行会谈，距俄罗斯全面入侵近四年半。 地区军事管理局代理负责人鲁斯兰·奥利尼克表示，袭击发生在一个私人经营的军事训练场，当时该训练场正在举办一场活动。该地点距离基辅市中心约 20-30 公里（12-18 英里），位于 Bucha 区。 总检察长鲁斯兰·克拉夫琴科称这次袭击是战争罪，并称造成 10 人死亡、约 100 人受伤。 周边地区也多次遭到袭击，泽连斯基发布了基辅更广泛地区的破坏和救援工作的图片。 他说，“爱国者系统的拦截器是第一要务”，他指的是美国军火巨头雷神公司制造的防空系统，该公司周四派代表团前往基辅。 俄罗斯国防部也在网上承认了这次袭击，称其使用“高精度远程武器”瞄准“无人机演示，包括乌克兰和外国生产的用于攻击俄罗斯民用目标的有前途的无人机”。 俄罗斯国防部声称，袭击发生时，国防工业高级官员和乌克兰军方人员都在现场，称这些人“直接策划和对俄罗斯领土实施袭击”。 据报道，周五斯拉维扬斯克东部地区有五人死亡。欧盟外交政策负责人卡娅·卡拉斯(Kaja Kallas)对袭击“拉脱维亚驻斯拉维扬斯克名誉领事馆”的袭击表示遗憾，并表示“我们将就今天的袭击召集俄罗斯驻欧盟特使”，并表示她将提议欧盟进一步制裁俄罗斯的“军工联合体”。 乌克兰能源公司 Ukrenergo 报告电力受损..."
-          },
-          "reflection": {
-            "en": "The ongoing cycle of strikes and counter-strikes highlights the destructive nature of responding to evil with more evil. In such times, Yahweh's word reminds us not to be overcome by the darkness, but to seek ways to overcome evil with good. This calls for a profound commitment to peace, even amidst conflict and suffering.",
-            "zh": "持续的袭击与反击循环，凸显了以恶报恶的毁灭性本质。在这样的时刻，雅伟的话语提醒我们不要被黑暗所胜，而要寻求以善胜恶的途径。这呼唤着即使在冲突和苦难中，也要对和平作出深刻的承诺。"
-          },
-          "verse": {
-            "reference": "Romans 12:21",
-            "textEn": "Do not be overcome by evil, but overcome evil with good.",
-            "textZh": "你不可为恶所胜，反要以善胜恶。",
-            "themeEn": "Overcoming evil with good",
-            "themeZh": "以善胜恶"
-          },
-          "aiVerseId": "rom_12_21",
           "translationState": "localized"
         }
       ]
@@ -1365,40 +1096,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-audio-2026-jul-25-sa-premier-peter-ma",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/audio/2026/jul/25/sa-premier-peter-malinauskas-at-the-alp-national-conference-australian-politics-podcast",
-          "image": "https://i.guim.co.uk/img/media/ea82d74b62f560cdf232606558eda80172d2858f/784_67_6364_5094/master/6364.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=908516d84154a7826973e2a4f36444aa",
-          "publishedAt": "2026-07-25T02:06:05.000Z",
-          "title": {
-            "en": "SA premier Peter Malinauskas at the ALP national conference - podcast",
-            "zh": "南澳州州长彼得·马利瑙斯卡斯在工党全国大会上发表播客讲话"
-          },
-          "summary": {
-            "en": "South Australian Premier Peter Malinauskas, speaking at the 50th Labor conference, discussed his state's political contest with One Nation. He advised progressives against adopting a condescending tone when engaging with opponents like Pauline Hanson's party.",
-            "zh": "南澳大利亚州州长彼得·马利瑙斯卡斯在第50届工党大会上发言时，谈到了他所在州与“一国党”的政治竞争。他建议进步人士在与保琳·汉森的政党等对手打交道时，应避免采取居高临下的态度。"
-          },
-          "body": {
-            "en": "Speaking with political editor Tom McIlroy and chief political correspondent Dan Jervis-Bardy at the 50th Labor conference in Adelaide, Peter Malinauskas talks about his own state contest with One Nation and why progressives should avoid speaking down to Pauline Hanson’s supporters. And despite the US admitting this week that the production rate of Virginia-class submarines has not increased, the SA premier argues that abandoning Aukus would pose an even greater risk than the controversial agreement’s potential problems Continue reading...",
-            "zh": "在阿德莱德举行的第 50 届工党会议上，彼得·马利纳斯卡斯 (Peter Malinauskas) 与政治编辑汤姆·麦克罗伊 (Tom McIlroy) 和首席政治记者丹·杰维斯·巴迪 (Dan Jervis-Bardy) 交谈，谈论了他自己与一国党的州竞争，以及为什么进步派应该避免居高临下地对宝琳·汉森 (Pauline Hanson) 的支持者发表言论。尽管美国本周承认弗吉尼亚级潜艇的生产率没有增加，但南非总理认为放弃奥库斯将带来比有争议的协议的潜在问题更大的风险继续阅读..."
-          },
-          "reflection": {
-            "en": "In public discourse, especially across political divides, the way we speak can either build bridges or deepen chasms. Premier Malinauskas's call to avoid speaking down to opponents reminds us of the importance of gracious and respectful communication. Yahweh calls us to let our speech always be gracious, seasoned with salt, so we may know how to answer...",
-            "zh": "在公共讨论中，尤其是在政治分歧之间，我们的言语方式可以搭建桥梁，也可以加深鸿沟。马利瑙斯卡斯州长呼吁避免对对手采取居高临下的态度，这提醒我们优雅和尊重的沟通至关重要。雅伟呼召我们，要让我们的言语常常带着恩典，用盐调和，好叫我们知道该怎样回答各人。"
-          },
-          "verse": {
-            "reference": "Colossians 4:6",
-            "textEn": "Let your conversation be always full of grace, seasoned with salt.",
-            "textZh": "你们的言语要常常带着和气，好像用盐调和。",
-            "themeEn": "Speech with grace",
-            "themeZh": "言语调和"
-          },
-          "aiVerseId": "col_4_6",
-          "translationState": "localized"
-        },
-        {
           "id": "www-sbs-com-au-news-article-2026-census-australia-key-date-whats-include",
           "section": "australia",
           "source": "SBS News Australia",
@@ -1433,39 +1130,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-jul-25-lofty-ambitions-can-puffe",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jul/25/lofty-ambitions-can-puffer-jackets-be-made-more-sustainable",
-          "image": "https://i.guim.co.uk/img/media/f025de4cc07e8df407808206c6e900e96a7792b0/889_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4506ca667f81cfc9ddfc3c914fb3edef",
-          "publishedAt": "2026-07-25T00:00:27.000Z",
-          "title": {
-            "en": "Lofty ambitions: can puffer jackets be made more sustainable?",
-            "zh": "远大抱负：羽绒服能否变得更加可持续？"
-          },
-          "summary": {
-            "en": "As temperatures dip, the puffer’s appeal inflates. But quality and filler are factors to consider before buying new Change by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprint Got a question or tip for reducing...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "As temperatures dip, the puffer’s appeal inflates. But quality and filler are factors to consider before buying new Change by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprint Got a question or tip for reducing household emissions? Email us at changebydegrees@theguardian.com Whether you call it a parka, puffer or Tassie tuxedo, the insulated jacket has become a cold-weather closet staple. A 1920s version by Australian mountaineer George Finch was constructed from hot air balloon fabric and eiderdown, but most modern designs are a mix of petroleum-based synthetics as well as animal and plant fibres, with varying environmental and ethical impacts. Continue reading...",
-            "zh": "随着气温下降，河豚的吸引力就会增强。但质量和填充物是购买新产品之前需要考虑的因素。 Change by Degrees 每周六都会提供生活窍门和可持续生活技巧，以帮助减少家庭的碳足迹 对于减少家庭排放有疑问或建议吗？给我们发电子邮件：changeby Degrees@theguardian.com 无论您将其称为派克大衣、羽绒服还是 Tassie 燕尾服，这款保暖夹克已成为寒冷天气衣橱的必备单品。澳大利亚登山家乔治·芬奇 (George Finch) 在 1920 年代设计的版本是用热气球织物和鸭绒制成的，但大多数现代设计都是石油基合成材料以及动植物纤维的混合，对环境和道德影响各不相同。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Genesis 2:15",
-            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
-            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
-            "themeEn": "Creation care",
-            "themeZh": "看守受造界"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-australian-partner-visa-high-fee-long-waitin",
           "section": "australia",
           "source": "SBS News Australia",
@@ -1498,205 +1162,6 @@
           },
           "aiVerseId": "gen_2_24",
           "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-why-your-super-funds-strong-run-is-unlikely-",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/why-your-super-funds-strong-run-is-unlikely-to-last/gm0ye3a5w",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-why-your-super-funds-strong-run-is-unlikely-.jpg",
-          "publishedAt": "2026-07-24T20:40:48.000Z",
-          "title": {
-            "en": "Why your super fund's strong run is unlikely to last",
-            "zh": "为什么你的超级基金的强劲表现不太可能持续"
-          },
-          "summary": {
-            "en": "The key money stories this week, broken down simply — and what they mean for you.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "A rate rise warning amid a strong jobs market, super news for retirees despite a property downturn, and records broken for Australia&#x2019;s avocado industry.\n\nSBS Finance Editor Ricardo Gon&#xE7;alves takes a look at three finance news stories of the week and explains how they&#x2019;ll impact you.\n\nSuperannuation funds have delivered another standout year for Australians, but experts say investors shouldn't expect these returns to continue.\n\nAustralia's jobs market remains stronger than expected, fuelling speculation the Reserve Bank could raise interest rates again, and avocado lovers have been given some welcome news with prices tipped to stay low.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nAustralia's superannuation funds have delivered another impressive year, but experts are warning members not to expect these returns every year.\n\nNew data from superannuation research firm Chant West shows the median growth fund returned 9.5 per cent over the past financial year, marking four consecutive years of returns above 9 per cent.\n\nChant West head of superannuation investment Mano Mohankumar told the SBS On the Money podcast that while recent performance has been strong, it's unlikely to continue indefinitely.\n\nStrong international sharemarket gains helped drive returns, with global shares rising more than 25 per cent over the year. Australian shares also posted solid gains of around 6 per cent.\n\nOne of the few weaker spots was Australian listed property, which comes as new figures from Domain showed national median house and unit prices recorded their first quarterly decline in more than three years.\n\nThe chance of another interest rate rise increased this week after stronger-than-expected employment figures.\n\nMore than 76,000 jobs were created last month, while the unemployment rate held steady at 4.4 per cent because more Australians entered the workforce, pushing the participation rate to a one-year high of 67 per cent.\n\nThe participation rate measures the share of working-age Australians who are either employed or actively looking for work. Economists say the increase could reflect ongoing demand for workers or more people seeking employment as cost of living pressures persist.\n\nCiti Australia senior economist Faraz Syed told the SBS On the Money podcast the key concern for the Reserve Bank is whether a tight labour market starts driving wages significantly higher.\n\nThe next official inflation figures will be released on Wednesday, ahead of the Reserve Bank's next board meeting on 10 August.\n\nIf you've noticed cheaper avocados at the supermarket, that trend looks set to continue.\n\nNew research from Rabobank found Australian avocado production has...",
-            "zh": "在强劲的就业市场中发出加息警告，尽管房地产市场低迷，但对退休人员来说是个好消息，澳大利亚鳄梨行业也打破了记录。 SBS 财经编辑里卡多·贡萨尔维斯 (Ricardo Gonçalves) 回顾了本周的三则财经新闻报道，并解释了它们将如何影响您。 养老金基金为澳大利亚人带来了又一个出色的一年，但专家表示，投资者不应指望这种回报会持续下去。 澳大利亚就业市场仍然强于预期，引发了对储备银行可能再次加息的猜测，牛油果爱好者得到了一些可喜的消息，价格有望保持在低位。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 澳大利亚的养老金基金又迎来了令人印象深刻的一年，但专家警告会员不要期望每年都有这样的回报。 养老金研究公司 Chant West 的最新数据显示，增长型基金在上一财年的回报率中位数为 9.5%，连续四年回报率超过 9%。 Chant West 养老金投资主管 Mano Mohankumar 告诉 SBS On the Money 播客，虽然近期表现强劲，但不太可能无限期地持续下去。 国际股市的强劲上涨有助于推动回报，全年全球股市上涨超过 25%。澳大利亚股市也强劲上涨约 6%。 为数不多的弱点之一是澳大利亚上市房地产，Domain 的最新数据显示，全国独立屋和单元房中位价录得三年多以来的首次季度下跌。 由于就业数据强于预期，本周再次加息的可能性增加。 上个月创造了超过76,000个就业岗位，而失业率稳定在4.4%，因为更多的澳大利亚人进入劳动力市场，将参与率推至一年高点67%。 参与率衡量的是处于工作年龄的澳大利亚人中就业或积极寻找工作的比例。经济学家表示，这一增长可能反映了由于生活成本压力持续存在，对工人或更多寻求就业的人的持续需求。 花旗澳大利亚高级经济学家法拉兹·赛义德 (Faraz Syed) 告诉 SBS On the Money 播客，储备银行的主要担忧是劳动力市场紧张是否会开始导致工资大幅上涨。 下一次官方通胀数据将于周三公布，随后将于 8 月 10 日召开下一次央行董事会会议。 如果您在超市注意到更便宜的牛油果，那么这种趋势似乎将继续下去。 荷兰合作银行的新研究发现澳大利亚鳄梨生产..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-film-2026-jul-25-rebel-wilson-had-a-legal-win-but-di",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/film/2026/jul/25/rebel-wilson-had-a-legal-win-but-didnt-come-out-of-the-deb-defamation-trial-unscathed",
-          "image": "https://i.guim.co.uk/img/media/57a8842c64106138dd09424683c221b9e3b63627/425_0_6123_4902/master/6123.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1b47314632c06565ee5cddfd8faa591",
-          "publishedAt": "2026-07-24T20:30:22.000Z",
-          "title": {
-            "en": "Rebel Wilson had a legal win but didn’t come out of The Deb defamation trial unscathed",
-            "zh": "瑞贝尔·威尔逊 (Rebel Wilson) 在法律上取得了胜利，但在 The Deb 诽谤案审判中并未毫发无伤。"
-          },
-          "summary": {
-            "en": "Judgment dismissing Charlotte MacInnes’s case expressed doubts about credibility of three key witnesses, and is likely to be appealed Rebel Wilson’s self-styled brand as a truth teller was put to the test during a fiery defamation feud where rivals called her a bully. But the...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Judgment dismissing Charlotte MacInnes’s case expressed doubts about credibility of three key witnesses, and is likely to be appealed Rebel Wilson’s self-styled brand as a truth teller was put to the test during a fiery defamation feud where rivals called her a bully. But the Hollywood A-lister, referred to as “very difficult to be around” and “fucking nuts” during an at-times bruising trial, emerged from the federal court battle with the last laugh . Continue reading...",
-            "zh": "驳回夏洛特·麦金尼斯案件的判决对三名关键证人的可信度表示怀疑，并且很可能会上诉。 瑞贝尔·威尔逊自封的“说真话者”品牌在一场激烈的诽谤争斗中受到了考验，竞争对手称她为恶霸。但这位好莱坞一线明星在一场时常令人痛苦的审判中被称为“很难相处”和“他妈的疯子”，却在联邦法院的斗争中笑到了最后。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-jul-25-it-took-months-for-an-lgb",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jul/25/it-took-months-for-an-lgbtq-arts-pop-up-to-resurrect-an-old-church-but-just-three-days-to-shut-it-down-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/56a83818592d5f2b0d04ff6dae46c879ec20cf16/487_0_2461_1970/master/2461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bca689dc74e1fda69c8baae45fce079e",
-          "publishedAt": "2026-07-24T15:00:20.000Z",
-          "title": {
-            "en": "It took months for an LGBTQ+ arts pop-up to resurrect an old church – but just three days to shut it down",
-            "zh": "一个LGBTQ+艺术快闪活动耗时数月复活一座老教堂，却在三天内被关闭"
-          },
-          "summary": {
-            "en": "An LGBTQ+ arts pop-up, after months of preparation to open in an old church, was shut down within three days following religious protests. The group behind the Divine Playhouse is now considering legal action and filing a discrimination complaint, as the situation escalated into a broader culture war.",
-            "zh": "一个LGBTQ+艺术快闪活动，经过数月筹备在一座老教堂开幕后，因宗教抗议在三天内被迫关闭。Divine Playhouse背后的团体正在考虑提起法律诉讼并提出歧视投诉，因为局势已演变为一场更广泛的文化战争。"
-          },
-          "body": {
-            "en": "Group behind Divine Playhouse considering legal challenge and discrimination complaint after religious protests turned venue into culture war Get our breaking news email , free app or daily news podcast It takes months of love and care to make an empty building come alive, but only three days to tear it all down. This week, the gothic signage and queer absurdist art commissioned for Divine Playhouse had to be removed and placed into storage, as volunteers whitewashed a vibrant mural that had been painted on its walls. Continue reading...",
-            "zh": "在宗教抗议将场所变成文化战争后，神圣剧场背后的组织正在考虑法律挑战和歧视投诉 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 需要数月的爱和关怀才能让一座空荡荡的建筑焕发活力，但只需三天就能将其全部拆除。本周，为神圣剧场委托的哥特式标牌和酷儿荒诞主义艺术必须被拆除并存放起来，志愿者们正在粉刷墙壁上的一幅充满活力的壁画。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story highlights the deep divisions that can arise when different worldviews clash, turning a community space into a battleground. For believers, it's a reminder that our true struggle often lies beyond mere human disagreement, against unseen forces that fuel polarization and hostility. In such moments, Yahweh calls us to discern the spiritual roots of...",
-            "zh": "这个故事凸显了当不同世界观发生冲突时可能产生的深刻分歧，将一个社区空间变成了战场。对于信徒而言，这提醒我们，真正的争战往往超越了人与人之间的分歧，而是对抗那些助长两极分化和敌意的无形力量。在这样的时刻，雅伟呼召我们辨明冲突的属灵根源，并以智慧和恩典回应。"
-          },
-          "verse": {
-            "reference": "Ephesians 6:12",
-            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
-            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
-            "themeEn": "Not against flesh and blood",
-            "themeZh": "并非与血气争战"
-          },
-          "aiVerseId": "eph_6_12",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-antisemitism-royal-commission-wraps-fifth-he",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/antisemitism-royal-commission-wraps-fifth-hearing-block-in-melbourne/nv8dgn7xd",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-antisemitism-royal-commission-wraps-fifth-he.jpg",
-          "publishedAt": "2026-07-24T08:50:28.000Z",
-          "title": {
-            "en": "Police confirm abusive phone call to synagogue not logged, at antisemitism royal commission",
-            "zh": "警方证实皇家反犹太主义委员会未记录打给犹太教堂的辱骂电话"
-          },
-          "summary": {
-            "en": "Police, security and funding concerns dominated the Royal Commission on Antisemitism and Social Cohesion this weke.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The relationship between police and Jewish community security groups came under scrutiny as the Royal Commission on Antisemitism and Social Cohesion wrapped up its fifth hearing block in Melbourne.\n\nAcross five days, the inquiry heard evidence about the growing financial burden of security for Jewish Australians, police responses to antisemitic incidents, media coverage of the Hamas-Israel war and preparations for future hearings into last year's Bondi terror attack.\n\nToday's hearings focused on the relationship between police and Jewish community security organisations, with Liberal MP Julian Leeser, Dor Foundation chief executive Tahli Blicblau, AFP assistant commissioner Stephen Nutt and Victoria Police assistant commissioner Martin O'Brien among those appearing before the commission.\n\nThe evidence is expected to help shape the commission's understanding of police data collection, security risk assessments and the role of emergency preparedness in responding to threats against the Jewish community.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nVictoria Police also faced scrutiny over how antisemitic incidents are recorded. The commission heard an abusive phone call to a synagogue, in which the congregation was allegedly described as \"genocidal\" and \"maggot rat Jews\", was not recorded as a prejudice-motivated incident.\n\nO'Brien confirmed no incident fact sheet had been logged for the call, which is required for any prejudice-motivated crime that relates to racial, political or ideological circumstances.\n\nO'Brien said the force had \"automatic scanning\" every day of incidents, along with human analysts to consider threats.\n\nA separate incident involving a 5.5m Nazi hakenkreuz symbol painted on a construction site was also not categorised under the relevant reporting system.\n\nSecurity funding emerged as one of the dominant themes of the week's hearings, with Jewish community leaders telling the commission families, schools, places of worship and community organisations continue to bear much of the cost of keeping their communities safe.\n\nOn Thursday, the commission heard government funding since 2023 has covered about half of the security costs incurred by the Executive Council of Australian Jewry, which received $25 million to distribute to community organisations, places of worship and events.\n\nExecutive Council of Australian Jewry co-chief executive Peter Wertheim told the inquiry governments should ideally reimburse the council for all security costs it handles, while almost 200 organisations have applied for the latest federal funding allocation of $124 million over three years.\n\nThe inquiry also heard vulnerable synagogues and Jewish organisations in...",
-            "zh": "随着皇家反犹太主义和社会凝聚力委员会结束在墨尔本举行的第五次听证会，警察和犹太社区安全组织之间的关系受到密切关注。 在五天内，调查听取了有关犹太澳大利亚人日益增加的安全经济负担、警方对反犹太事件的反应、媒体对哈马斯-以色列战争的报道以及去年邦迪恐怖袭击未来听证会的准备工作的证据。 今天的听证会重点讨论警察和犹太社区安全组织之间的关系，出席委员会听证会的包括自由党议员 Julian Leeser、Dor 基金会首席执行官 Tahli Blicblau、法新社助理局长 Stephen Nutt 和维多利亚警察局助理局长 Martin O'Brien。 预计这些证据将有助于委员会了解警方数据收集、安全风险评估以及应急准备在应对犹太社区威胁方面的作用。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 维多利亚警方还因如何记录反犹太主义事件而面临审查。委员会听到了对一座犹太教堂的辱骂电话，据称该会众被描述为“种族灭绝”和“蛆鼠犹太人”，但并未被记录为出于偏见的事件。 奥布莱恩证实，电话中没有记录任何事件情况说明书，这是任何与种族、政治或意识形态情况有关的偏见动机犯罪所必需的。 奥布莱恩表示，警方每天都会“自动扫描”事件，并由人工分析人员来考虑威胁。 另一起涉及在建筑工地绘制 550 万纳粹哈肯十字符号的事件也没有被归入相关报告系统。 安全资金成为本周听证会的主要主题之一，犹太社区领导人告诉委员会，家庭、学校、礼拜场所和社区组织继续承担维护社区安全的大部分成本。 周四，该委员会获悉，自 2023 年以来，政府资金已经覆盖了澳大利亚犹太人执行委员会约一半的安全费用，该委员会收到了 2500 万澳元，用于分配给社区组织、礼拜场所和活动。 澳大利亚犹太人执行委员会联席首席执行官彼得·沃特海姆 (Peter Wertheim) 告诉调查委员会，政府最好偿还该委员会处理的所有安全费用，而近 200 个组织已申请最新的三年内 1.24 亿美元的联邦拨款。 调查还听取了脆弱的犹太教堂和犹太组织的情况……"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-cristian-volpato-allegedly-tests-positive-fo",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/cristian-volpato-allegedly-tests-positive-for-cocaine/tmj4q3geo",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-cristian-volpato-allegedly-tests-positive-fo.jpg",
-          "publishedAt": "2026-07-24T05:41:32.000Z",
-          "title": {
-            "en": "Police allege Socceroos star tested positive for cocaine after speeding twice",
-            "zh": "警方称澳大利亚足球明星在两次超速后检测出可卡因呈阳性"
-          },
-          "summary": {
-            "en": "Police said Volpato was travelling nearly 50km/h over the speed limit when he was pulled over.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Socceroos star Cristian Volpato has allegedly tested positive for cocaine, after police stopped him while speeding over a bridge.\n\nThe 22-year-old, who represented Australia at the World Cup , was caught speeding twice overnight, NSW Police said on Friday.\n\nDriving a BMW, Volpato was allegedly clocked at 109 km/h &#x2014; nearly 50 km/h over the designated speed limit &#x2014; when police stopped him on Sydney's Anzac Bridge at 1.10am on Friday.\n\nHe was subjected to a roadside drug test which allegedly returned a positive result for cocaine, police said in a statement.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nVolpato had earlier been stopped at 11.05pm on Thursday, police said, for travelling between 86 and 94km/h in a 60 zone.\n\nVolpato returned a negative result when he was given the initial roadside breath test.\n\nVolpato, who plays club football for Italian side Sassuolo, made three appearances for the Socceroos at the World Cup.\n\nHe made headlines shortly before the tournament when he switched his international allegiance from Italy to Australia.\n\nVolpato, who was born and raised in Sydney and played his junior football at Sydney United 58, Sydney FC and Western Sydney before moving overseas, represented Italy at U19 and U20 level.\n\nThe 22-year-old, who has scored seven goals in his three seasons with Sassuolo after two seasons with fellow Serie A club Roma, said in March he was \"waiting for Italy\" to select him for the senior side, who subsequently failed to qualify for the World Cup.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "据称，澳大利亚足球队球星克里斯蒂安·沃尔帕托（Cristian Volpato）在一座桥上超速行驶时被警察拦下，他的可卡因检测结果呈阳性。 新南威尔士州警方周五表示，这名代表澳大利亚参加世界杯的 22 岁男子在一夜之间两次超速行驶被抓获。 周五凌晨 1 点 10 分，警方在悉尼安扎克大桥拦下沃尔帕托时，他驾驶着一辆宝马，据称他的时速为 109 公里，比指定速度限制近 50 公里/小时。 警方在一份声明中称，他接受了路边药物测试，据称可卡因呈阳性。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 警方称，沃尔帕托早些时候于周四晚上 11 点 05 分被拦下，原因是他在 60 公里的区域内以 86 至 94 公里/小时的速度行驶。 沃尔帕托在接受最初的路边呼气测试时，结果呈阴性。 沃尔帕托效力于意大利萨索洛俱乐部，曾三度代表澳大利亚队参加世界杯。 比赛前不久，当他将自己的国家队忠诚度从意大利转为澳大利亚时，他成为了头条新闻。 沃尔帕托在悉尼出生和长大，在移居海外之前曾在悉尼联 58、悉尼足球俱乐部和西悉尼踢过青少年足球，曾代表意大利参加 U19 和 U20 级别比赛。 这位22岁的球员在意甲俱乐部罗马效力了两个赛季后，在萨索洛的三个赛季中攻入了7个进球。他在三月份表示，他正在“等待意大利”选择他进入成年队，但意大利队随后未能获得世界杯参赛资格。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-bird-flu-queensland-first-case-fub12jlzo",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/bird-flu-queensland-first-case/fub12jlzo",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-bird-flu-queensland-first-case-fub12jlzo.jpg",
-          "publishedAt": "2026-07-24T03:28:34.000Z",
-          "title": {
-            "en": "'We can't stop this virus': Another state records first suspected bird flu case",
-            "zh": "“我们无法阻止这种病毒”：另一个州记录了首例疑似禽流感病例"
-          },
-          "summary": {
-            "en": "If confirmed, it will bring Australia's total H5 bird flu case tally to 18.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Deadly H5 bird flu appears to have reached Queensland's coastline for the first time as detections in wild seabirds across Australia climb to 17, sparking fresh warnings for vulnerable wildlife.\n\nA deceased petrel found on Moreton Island returned an initial positive result for highly pathogenic H5 avian influenza at the Queensland government's Biosecurity Sciences Laboratory.\n\nSamples have been sent to CSIRO's Australian Centre for Disease Preparedness for confirmatory testing.\n\nInvasive Species Council policy director Carol Booth said the arrival of H5 bird flu in Queensland should alarm anybody concerned about Australia's native animals.\n\n\"Bird flu has now reached Queensland's coastline, and that should concern every Australian who cares about our wildlife,\" Booth said.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"We can't stop this virus, but we can boost the capacity of wildlife to survive and recover from outbreaks.\"\n\nAustralia reported its first case of H5 bird flu on 20 June, and there are now 17 confirmed detections of the serious H5 strain in wild seabirds &#x2014; 10 in Western Australia, five in South Australia and two in NSW.\n\nBooth said surveillance efforts were working but warned they would not be enough once the virus hit vulnerable species.\n\n\"Finding cases is only the first step &#x2014; once this disease reaches vulnerable wildlife populations, surveillance won't prevent the devastating impacts we've seen overseas,\" she said.\n\n\"Millions of wild birds and marine mammals have died, and unless we do everything we can to strengthen the resilience of at-risk populations, there's every reason to fear Australia could face similar losses.\"\n\nThere have been no detections in poultry and no evidence of large-scale deaths in any animals in Queensland, according to the Department of Primary Industries.\n\n\"It is safe to continue to eat chicken meat or eggs, and I would encourage Queenslanders to purchase these products as they normally would,\" said Queensland's Primary Industries Minister Tony Perrett.\n\nQueensland's Chief Veterinary Officer, Allison Crook, said the suspected positive result was anticipated and the state was well prepared.\n\n\"We have known that a H5 bird flu detection in Queensland was a matter of when, not if,\" Crook said.\n\n\"This suspect positive result has not impacted our poultry sector or native wildlife and we are continuing our enhanced passive surveillance program throughout the state and would encourage the community and industry to continue to be vigilant.\"\n\nBooth continued to urge the federal government to back a major \"wildlife resilience\" package to help species withstand bird flu and other threats.\n\n\"We are urgently calling on...",
-            "zh": "随着澳大利亚各地野生海鸟的检测数量攀升至 17 只，致命的 H5 禽流感似乎首次抵达昆士兰州海岸线，引发了针对脆弱野生动物的新警告。 昆士兰州政府生物安全科学实验室在摩顿岛发现的一只死去的海燕的高致病性 H5 禽流感初步呈阳性结果。 样本已被送往澳大利亚联邦科学与工业研究组织（CSIRO）的澳大利亚疾病预防中心进行验证性检测。 入侵物种委员会政策主任卡罗尔·布斯（Carol Booth）表示，昆士兰州H5禽流感的到来应该让任何关心澳大利亚本土动物的人感到震惊。 布斯说：“禽流感现已蔓延到昆士兰州海岸线，这应该引起每一个关心野生动物的澳大利亚人的关注。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “我们无法阻止这种病毒，但我们可以提高野生动物的生存能力和从疫情中恢复的能力。” 澳大利亚于 6 月 20 日报告了第一例 H5 禽流感病例，目前已确认在野生海鸟中检测到严重的 H5 病毒株 17 例，其中西澳大利亚州 10 例，南澳大利亚州 5 例，新南威尔士州 2 例。 布斯表示，监视工作正在发挥作用，但警告说，一旦病毒袭击脆弱物种，这些监视工作就不够了。 “发现病例只是第一步——一旦这种疾病蔓延到脆弱的野生动物种群，监测就无法阻止我们在海外看到的破坏性影响，”她说。 “数以百万计的野生鸟类和海洋哺乳动物已经死亡，除非我们尽一切努力增强高危人群的恢复能力，否则我们完全有理由担心澳大利亚可能面临类似的损失。” 据第一产业部称，昆士兰州尚未检测到家禽，也没有任何动物大规模死亡的证据。 昆士兰州第一产业部长托尼·佩雷特（Tony Perrett）表示：“继续吃鸡肉或鸡蛋是安全的，我鼓励昆士兰人像往常一样购买这些产品。” 昆士兰州首席兽医官艾莉森·克鲁克（Allison Crook）表示，疑似阳性结果是预料之中的，该州已做好充分准备。 克鲁克说：“我们知道昆士兰州检测到 H5 禽流感只是时间问题，而不是是否会发生的问题。” “这一可疑的阳性结果并未影响我们的家禽业或本土野生动物，我们正在全州范围内继续加强被动监测计划，并鼓励社区和行业继续保持警惕。” 布斯继续敦促联邦政府支持一项重大的“野生动物恢复力”计划，以帮助物种抵御禽流感和其他威胁。 “我们紧急呼吁..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         }
       ]
     }
