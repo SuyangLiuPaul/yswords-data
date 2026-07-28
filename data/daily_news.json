@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:24:54.122Z",
+  "generatedAt": "2026-07-28T12:31:51.979Z",
   "editionDate": "2026-07-28",
   "sources": [
     {
@@ -107,20 +107,54 @@
       "sourceNotes": [
         "The Guardian World",
         "BBC News World",
-        "SBS News World",
-        "DW World"
+        "DW World",
+        "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-uk-news-2026-jul-28-rail-services-train-england-slow",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/jul/28/rail-services-train-england-slow-heatwave-south-western-railway-greater-anglia",
+          "image": "https://i.guim.co.uk/img/media/d83542f2b44d4dcb0c475140a3e3e0b4ffa3a40c/90_0_2418_1935/master/2418.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd5d3fb44f558a687c936388b4cc0720",
+          "publishedAt": "2026-07-28T12:14:34.000Z",
+          "title": {
+            "en": "More rail services in England set to slow as heatwave shrinks soil",
+            "zh": "热浪导致土壤收缩，英格兰更多铁路服务将减速"
+          },
+          "summary": {
+            "en": "South Western Railway is set to reduce train speeds and alter timetables, following other operators in England. This disruption is attributed to persistent drought conditions caused by the climate crisis, which is causing soil to shrink and affecting rail infrastructure.",
+            "zh": "英国西南铁路公司预计将效仿英格兰东部的其他运营商，降低列车速度并调整时刻表。此次中断归因于气候危机造成的持续干旱，导致土壤收缩并影响铁路基础设施。"
+          },
+          "body": {
+            "en": "South Western Railway expected to join operators in east of England in reducing train speeds and changing timetables Business live – latest updates Persistent drought conditions caused by the climate crisis are expected to cause further disruption to trains across southern England, as the lack of rainfall affects the ground supporting railway embankments. South Western Railway is expected to become the latest large rail company to announce timetable changes and reduced speeds to cope with the effects of hot and dry weather, after operators in the east of England said they were going to take similar steps. Continue reading...",
+            "zh": "西南铁路预计将与英格兰东部的运营商一起降低火车速度并改变时刻表 商业实时 - 最新动态 气候危机造成的持续干旱状况预计将导致英格兰南部的火车进一步中断，因为降雨不足影响了支撑铁路路堤的地面。西南铁路预计将成为最新一家宣布改变时刻表和降低速度以应对炎热和干燥天气影响的大型铁路公司，此前英格兰东部的运营商表示将采取类似措施。继续阅读..."
+          },
+          "reflection": {
+            "en": "The news of rail services slowing due to shrinking soil reminds us that creation itself is affected by environmental changes. Romans 8:22 speaks of creation groaning, awaiting redemption from Yahweh, a poignant image as our infrastructure struggles under persistent drought. This situation calls us to reflect on our interconnectedness with the natural world...",
+            "zh": "铁路服务因土壤收缩而减速的消息提醒我们，受环境变化影响的不仅是人类，受造界本身也深受其害。罗马书8:22提到受造界一同叹息，等候雅伟的救赎，这幅画面与我们的基础设施在持续干旱下挣扎的现状形成鲜明对比。这促使我们反思与自然世界的相互关联以及我们作为雅伟大地管家的责任。"
+          },
+          "verse": {
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
+          },
+          "aiVerseId": "rom_8_22",
+          "translationState": "localized"
+        },
         {
           "id": "www-theguardian-com-politics-live-2026-jul-28-andy-burnham-education-tor",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/5951aaf764e1a00be82dcfc202660ec84d655732/554_0_6937_5550/master/6937.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=806b4bf642c7a26989813b5410880f47",
-          "publishedAt": "2026-07-28T10:14:46.000Z",
+          "image": "https://i.guim.co.uk/img/media/5ce6f278d476ca506ad757b04c72df673ca56f43/344_0_3701_2961/master/3701.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5b66a6d62771aeb707b26e214bcac0d3",
+          "publishedAt": "2026-07-28T12:13:12.000Z",
           "title": {
-            "en": "Badenoch urges Burnham to cancel prisoners’ early release scheme – UK politics live",
+            "en": "Burnham has clear lead over other party leaders on who would make best PM, poll suggests – UK politics live",
             "zh": "巴德诺赫敦促伯纳姆取消囚犯提前释放计划——英国政治直播"
           },
           "summary": {
@@ -128,7 +162,7 @@
             "zh": "一位保守党领袖敦促工党官员取消一项囚犯提前释放计划，认为该计划允许过多重罪犯过早获释。"
           },
           "body": {
-            "en": "The Conservative party leader said that Labour’s plan allows for too many serious offenders to be freed early Reform UK has issued its response to Andy Burnham’s proposal for more localised, vocational education. It is in the form of a statement from Suella Braverman , the former Tory home secretary who is now Reform’s education spokesperson. She is a bit more positive about it than her old party. (See 9.16am .) She says: Reform UK has long argued that Britain needs a technical and vocational renaissance alongside a genuine skills revolution. For too long, the philosopher has been valued more than the plumber. We welcome any effort to rebalance the scales, but we’ve been here before. Successive prime ministers have promised parity of esteem and failed to deliver. Spot the difference: “A new ‘T-level’ system, which overhauls how technical education is taught and administered, aims to put the courses on an equal footing with academic work,” announced in Philip Hammond’s 2017 budget … “We need finally to do what we always promise we will — to elevate practical and technical qualifications, so that we recognize their immense value to society and to the individual,” Boris Johnson, 2019 … “Technical education is not given the respect it deserves but today, I am changing all of that, pulling one of the biggest levers we have to change the direction of our country,” Rishi Sunak in 2023 as he announced plans for a British baccalaureate … “While you will never hear me denigrate the aspiration to go to university, I don’t think the way we currently measure success in education — that ambition to get 50 per cent of kids to uni — I don’t think that’s right for our times,” Keir Starmer, 2025 … “That’s why today we’re putting technical education back where it belongs — not as a second thought, but as a first choice,” Andy Burnham, 2026 . The home secretary [Shabana Mahmood] has brought forward a very rigorous plan in relation to this, and let’s remember, the numbers can fluctuate but overall boat crossings are down, down quite significantly year on year. So that does suggest that the plan is working. The public wants to see control being exerted, and while we’ve made progress, there is more to do, and I recognise that completely. But the trend is down, and the number of people being removed is up, so the figures are pointing in a better direction. But there is much more to do. Continue reading...",
+            "en": "Figures from YouGov also suggest support for Farage is falling It is not just the Russians firing on Brits in the English Channel ; Chris Philp , the shadow home secretary, has accused a French warship of firing “warning shots” near him while he was on a boat in the Channel monitoring small boat crossings. In a post on social media , he says: On the channel today monitoring illegal migrant crossings … as I was being interviewed by the BBC just now a French warship approached close and fired 17 live rounds behind us. There was no notice or training exercise in place. Felt like warning shots or attempted intimidation On the crisis in prison places, this has been a long time coming. We did some things, as I said [see 10.11am ], it wasn’t enough, and I’m sorry about that. But I can’t fix the past, but what I can do is come up with solutions for now, and for tomorrow. This was something which we were doing in government. We had plans to rent prison places, just like Sweden has done with Estonia, so that we didn’t have to just release these sorts of violent criminals early. We could have put them in other countries. If everybody says ‘no prison near me’, we won’t get these [prison places] built, so this is something the public can help with … We cannot say ‘no’ to every potential site for a prison. Continue reading...",
             "zh": "这位保守党领袖表示，工党的计划允许太多严重犯罪者提前获释。改革英国已对安迪·伯纳姆提出的更加本地化的职业教育提案做出回应。这是前保守党内政大臣苏埃拉·布雷弗曼 (Suella Braverman) 的一份声明，她现在是改革党的教育发言人。她对此比她以前的聚会更积极一些。 （见上午 9.16 点。）她说：英国改革组织长期以来一直认为，英国需要技术和职业复兴以及真正的技能革命。长期以来，哲学家比水管工更受重视。我们欢迎任何重新平衡天平的努力，但我们以前就遇到过这种情况。历任总理都承诺给予平等尊重，但都未能兑现。找出区别：“新的‘T 级’系统彻底改革了技术教育的教学和管理方式，旨在使课程与学术工作处于平等地位，”菲利普·哈蒙德 (Philip Hammond) 2017 年预算中宣布……“我们最终需要做我们一直承诺的事情——提高实践和技术资格，以便我们认识到它们对社会和个人的巨大价值，”鲍里斯·约翰逊 (Boris Johnson)，2019 年……“技术教育没有得到应有的尊重但今天，我正在改变这一切，拉动我们必须改变国家方向的最大杠杆之一，”里希·苏纳克 (Rishi Sunak) 在 2023 年宣布英国学士学位计划时说。 2025 年……“这就是为什么今天我们将技术教育放回到它所属的位置——不是作为第二个想法，而是作为首选，”Andy Burnham，2026 年。内政大臣[沙巴纳·马哈茂德]对此提出了一项非常严格的计划，让我们记住，数字可能会波动，但总体渡船量有所下降，同比下降相当显着。所以这确实表明该计划正在发挥作用。公众希望看到控制得到实施，虽然我们已经取得了进展，但还有更多工作要做，我完全认识到这一点。但趋势是下降的，被驱逐的人数是上升的，所以数字正朝着更好的方向发展。但还有很多事情要做。继续阅读..."
           },
           "reflection": {
@@ -146,139 +180,270 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-jul-28-jacinta-allan-resigns-qui",
+          "id": "www-theguardian-com-business-2026-jul-28-marmite-dove-unilever-price-ris",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
-          "image": "https://i.guim.co.uk/img/media/f379c2b04bb66cddde5b073f13ca3c0657976c62/2086_1103_2057_1646/master/2057.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17a20b07f89c0c819e28341b4c51d984",
-          "publishedAt": "2026-07-28T10:12:07.000Z",
+          "link": "https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup",
+          "image": "https://i.guim.co.uk/img/media/cb885d2c164b4ceb8d1c5ffc6c41bb7e13926e0e/0_1_3328_2662/master/3328.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e24b281df5c5e95ab4916653ee1f05e",
+          "publishedAt": "2026-07-28T12:12:41.000Z",
           "title": {
-            "en": "Ben Carroll announces royal commission into construction sector in first act as new Victorian premier",
-            "zh": "本·卡罗尔就任维多利亚州新州长后首次宣布成立建筑业皇家委员会"
+            "en": "Marmite and Dove owner Unilever warns of price rises due to growing costs",
+            "zh": "Marmite 和 Dove 所有者联合利华警告称，成本上涨导致价格上涨"
           },
           "summary": {
-            "en": "Ben Carroll has been sworn in as the new Premier of Victoria, succeeding Jacinta Allan, who stepped down and offered her full support. In his first official act, Premier Carroll announced a royal commission to investigate the construction sector.",
-            "zh": "本·卡罗尔宣誓就任维多利亚州新州长，接替辞职并表示全力支持的雅辛塔·艾伦。卡罗尔州长上任后的首个举动是宣布成立皇家委员会，对建筑行业进行调查。"
+            "en": "Consumer goods group reports strong sales growth, owing in part to World Cup marketing campaigns Business live – latest updates Unilever has warned it will push through further price rises over the coming months, as the Marmite, Dove and Hellmann’s owner tries to recoup its own...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Jacinta Allan steps down from top job before expected spill, saying her deputy has her ‘unqualified support’ Live updates: Jacinta Allan quits as premier of Victoria Who is Ben Carroll? Get our breaking news email , free app or daily news podcast Ben Carroll has been sworn in as the premier of Victoria after Jacinta Allan resigned, with his first act as leader to announce a royal commission into alleged corruption in the construction sector. Carroll’s elevation comes just four months before the state election and follows a tumultuous 48 hours for Labor, during which Allan resigned and a surprise challenger emerged in the leadership contest. Continue reading...",
-            "zh": "杰辛塔·艾伦 (Jacinta Allan) 在预计泄露之前辞去最高职务，称她的副手得到了她的“无条件支持” 实时更新：杰辛塔·艾伦 (Jacinta Allan) 辞去维多利亚州州长职务 本·卡罗尔 (Ben Carroll) 是谁？获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 在杰辛塔·艾伦 (Jacinta Allan) 辞职后，本·卡罗尔 (Ben Carroll) 宣誓就任维多利亚州州长，这是他作为领导人首次宣布成立皇家委员会，调查建筑行业涉嫌腐败的情况。卡罗尔的升职距离州选举仅四个月，此前工党经历了动荡的 48 小时，期间艾伦辞职，领导权竞争中出现了一位出人意料的挑战者。继续阅读..."
+            "en": "Consumer goods group reports strong sales growth, owing in part to World Cup marketing campaigns Business live – latest updates Unilever has warned it will push through further price rises over the coming months, as the Marmite, Dove and Hellmann’s owner tries to recoup its own growing costs. The Anglo-Dutch company said that while the pace of price rises slowed in the second quarter, owing in part to World Cup-related discounts and efforts to stay competitive in Brazil, these were “temporary factors” and would not shield consumers for long. Continue reading...",
+            "zh": "消费品集团报告强劲的销售增长，部分原因是世界杯营销活动 Business live – 最新动态 联合利华警告称，随着 Marmite、Dove 和 Hellmann 的所有者试图收回自身不断增长的成本，它将在未来几个月推动进一步提价。这家英荷公司表示，虽然第二季度价格上涨的步伐放缓，部分原因是世界杯相关的折扣和巴西保持竞争力的努力，但这些都是“暂时因素”，不会长期保护消费者。继续阅读..."
           },
           "reflection": {
-            "en": "A new leader's first actions often set the tone for their administration, and the announcement of a royal commission signals a commitment to integrity. Proverbs 16:12 reminds us that a leader's authority is strengthened when founded on righteousness and justice. This pursuit of ethical governance helps build public trust and ensures accountability within...",
-            "zh": "新任领导者的首个举动常为其执政定下基调，而宣布成立皇家委员会则表明了对廉正的承诺。箴言16:12提醒我们，当领导者的权柄建立在公义和正直之上时，它便得以坚固。这种对道德治理的追求有助于建立公众信任，并确保重要行业的问责制。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 16:12",
-            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
-            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
-            "themeEn": "Righteous rule",
-            "themeZh": "以公义治国"
-          },
-          "aiVerseId": "prov_16_12",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jul-28-us-iran-war-cost-of-living",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/28/us-iran-war-cost-of-living",
-          "image": "https://i.guim.co.uk/img/media/737fc509dd21e110fbb85429da882fc1a8c602e6/499_0_4840_3873/master/4840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05bf2e311c51463423a4adf973b0fa80",
-          "publishedAt": "2026-07-28T10:00:02.000Z",
-          "title": {
-            "en": "Americans feel pinch of continued Iran war: ‘It’s screwed everything up’",
-            "zh": "美国人感受到持续伊朗战争的压力：“一切都搞砸了”"
-          },
-          "summary": {
-            "en": "Whether in favor of or against the US-Israel war on Iran, people across the country are left holding the bill and wondering on its purpose Five months after the United States and Israel started a historically unpopular war against Iran that was going to supposedly last weeks,...",
-            "zh": "无论支持还是反对美国-以色列对伊朗的战争，全国各地的人们都在承担费用，并质疑其目的。在美国和以色列发动一场原本预计持续数周、但历史上不受欢迎的对伊朗战争五个月后，..."
-          },
-          "body": {
-            "en": "Whether in favor of or against the US-Israel war on Iran, people across the country are left holding the bill and wondering on its purpose Five months after the United States and Israel started a historically unpopular war against Iran that was going to supposedly last weeks, the fighting has refused to resolve in victory, defeat or peace. Iran’s Supreme Leader had been killed in the opening strikes, ceasefires broke down, and the strait of Hormuz has been closed and re-opened. For voters interviewed across the country, while the damage may be distant, the residual effects have shown up at the pump, on the grocery bill and in a phone call telling a spouse they have a day to report for deployment. And for a country still absorbing the aftermath of Israel’s war on Gaza – funded to the tune of billions of dollars by the United States – the war in Iran lands on top of an already raw argument about what American power is for. Continue reading...",
-            "zh": "无论是支持还是反对美以对伊朗发动战争，全国各地的人们都在持有该法案，并想知道其目的。在美国和以色列对伊朗发动历史上不受欢迎的战争五个月后，这场战争据称将在上周进行，但战斗却拒绝以胜利、失败或和平来解决。伊朗最高领袖在最初的空袭中被杀，停火协议被打破，霍尔木兹海峡被关闭并重新开放。对于全国各地接受采访的选民来说，虽然损害可能很遥远，但残余影响已经体现在加油站、杂货账单上以及告诉配偶他们有一天报告部署的电话中。对于一个仍在承受以色列加沙战争后果的国家来说——美国资助了数十亿美元——伊朗战争又引发了一场关于美国实力为何而生的激烈争论。继续阅读..."
-          },
-          "reflection": {
-            "en": "The ongoing costs of conflict can leave communities feeling deeply burdened, financially and spiritually, as if everything has gone wrong. Habakkuk reminds us that even when our material circumstances are dire and our expectations are unmet, we can still find our joy and salvation in Yahweh. This perspective helps us endure hardship, trusting in a hope...",
-            "zh": "持续的冲突代价可能让社区在经济和精神上都感到沉重，仿佛一切都出了问题。哈巴谷书提醒我们，即使物质环境严峻，期望落空，我们仍然可以在雅伟里找到喜乐和救恩。这种视角帮助我们忍受困境，信靠超越眼前环境的盼望。"
-          },
-          "verse": {
-            "reference": "Habakkuk 3:17-18",
-            "textEn": "Though the fig tree does not bud and there are no grapes on the vines... yet I will rejoice in Yahweh.",
-            "textZh": "虽然无花果树不发旺，葡萄树不结果……然而，我要因雅伟欢欣。",
-            "themeEn": "Joy in scarcity",
-            "themeZh": "在缺乏中喜乐"
-          },
-          "aiVerseId": "hab_3_17",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jul-28-kentucky-teen-defended-girl-shot",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/28/kentucky-teen-defended-girl-shot",
-          "image": "https://i.guim.co.uk/img/media/ebdb9065a08b8aefbd0c2d9c77f31f1b342de840/0_126_1170_936/master/1170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4da36e51f5a56cacfa5698d20dbf1ebd",
-          "publishedAt": "2026-07-28T10:00:01.000Z",
-          "title": {
-            "en": "Kentucky teen lauded for defending girl from sexual harassment fatally shot",
-            "zh": "肯塔基州少年因保护受性骚扰女孩而受表彰后遭枪杀"
-          },
-          "summary": {
-            "en": "A Kentucky teenager, Da’Jon Anthony Hayes-Burr, who had previously received a municipal commendation for defending a 12-year-old girl from sexual harassment, was fatally shot by another teenager. The city is mourning the loss of the young man.",
-            "zh": "肯塔基州一名少年达琼·安东尼·海耶斯-伯尔因此前曾阻止一名45岁男子骚扰一名12岁女孩而获得市政表彰，近日却被另一名少年枪杀。该市正在哀悼这位年轻生命的逝去。"
-          },
-          "body": {
-            "en": "Da’Jon Anthony Hayes-Burr, shot by another teenager, had stopped a 45-year-old man from harassing a 12-year-old girl Kentucky ’s largest city is mourning the recent shooting death of a teenage boy who had earned a municipal commendation months earlier for defending a young girl from sexual harassment – and survived being stabbed in the process. Da’Jon Anthony Hayes-Burr, 15, was shot on Saturday night in Louisville’s Shawnee neighborhood, according to authorities there. He was later pronounced dead at a hospital, and police booked a 14-year-old on a count of murder, as the Louisville news outlet WAVE first reported . Continue reading...",
-            "zh": "达乔恩·安东尼·海耶斯-伯尔 (Da’Jon Anthony Hayes-Burr) 被另一名青少年枪杀，阻止一名 45 岁男子骚扰一名 12 岁女孩。肯塔基州最大的城市正在哀悼最近发生的一名十几岁男孩被枪杀的事件，这名男孩几个月前因保护一名年轻女孩免受性骚扰而获得市政府嘉奖，但在此过程中被刺伤，幸免于难。据路易斯维尔当局称，15 岁的达乔恩·安东尼·海耶斯-伯尔于周六晚在路易斯维尔的肖尼社区被枪杀。据路易斯维尔新闻媒体 WAVE 最先报道，他后来在医院被宣布死亡，警方以谋杀罪对一名 14 岁少年进行了登记。继续阅读..."
-          },
-          "reflection": {
-            "en": "Da’Jon Anthony Hayes-Burr’s courageous act of defending a vulnerable child embodies the call to speak up for those who cannot speak for themselves. His tragic death reminds us of the profound cost of violence and the importance of protecting the innocent. May his selfless spirit inspire us to advocate for justice and safety in our communities.",
-            "zh": "达琼·安东尼·海耶斯-伯尔勇敢地保护弱势儿童的行为，体现了为不能自言者发声的呼召。他不幸的离世提醒我们，暴力代价沉重，保护无辜者至关重要。愿他无私的精神激励我们为社区的公义与安全而努力。"
-          },
-          "verse": {
-            "reference": "Proverbs 31:8-9",
-            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
-            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
-            "themeEn": "Voice for the voiceless",
-            "themeZh": "为弱者发声"
-          },
-          "aiVerseId": "prov_31_8",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-jul-28-lindsey-graham-funeral",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/28/lindsey-graham-funeral",
-          "image": "https://i.guim.co.uk/img/media/6d8009182b73a38a5dd315b7dc2bb7a699df0eb0/304_0_4446_3558/master/4446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad1f33435d836938c81264f465fd47f5",
-          "publishedAt": "2026-07-28T10:00:00.000Z",
-          "title": {
-            "en": "Lindsey Graham’s funeral ceremonies to begin with Netanyahu and Zelenskyy in attendance",
-            "zh": "林赛·格雷厄姆的葬礼将由内塔尼亚胡和泽连斯基出席"
-          },
-          "summary": {
-            "en": "Memorials for the Republican senator to start in US Capitol as Israeli and Ukrainian leaders are set to meet with Trump Two days of funeral ceremonies for Lindsey Graham, the late South Carolina Republican senator, will begin in Washington on Tuesday, with mourners set to...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Memorials for the Republican senator to start in US Capitol as Israeli and Ukrainian leaders are set to meet with Trump Two days of funeral ceremonies for Lindsey Graham , the late South Carolina Republican senator, will begin in Washington on Tuesday, with mourners set to include Israeli prime minister Benjamin Netanyahu and Ukrainian president Volodymyr Zelenskyy. Both leaders will also meet Donald Trump at the White House. Continue reading...",
-            "zh": "已故南卡罗来纳州共和党参议员林赛·格雷厄姆的为期两天的葬礼将于周二在华盛顿开始，哀悼者包括以色列总理本杰明·内塔尼亚胡和乌克兰总统弗拉基米尔·泽伦斯基。两位领导人还将在白宫会见唐纳德·特朗普。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c235m71mrreo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/6b019120-8a69-11f1-a086-7507d7c35703.jpg",
+          "publishedAt": "2026-07-28T12:03:50.000Z",
+          "title": {
+            "en": "'It's a hell of a situation': Spain grapples with devastating wildfires",
+            "zh": "西班牙与毁灭性野火搏斗，情况“如同地狱”"
+          },
+          "summary": {
+            "en": "Spain is currently battling devastating wildfires, with three fires in the Madrid region causing particular concern. A new heatwave is anticipated to hit the country from Wednesday, exacerbating the challenging conditions.",
+            "zh": "西班牙目前正在与毁灭性的野火作斗争，马德里地区的其中三场火灾尤其令人担忧。预计从周三开始，新一轮热浪将袭击西班牙，使严峻的局势进一步恶化。"
+          },
+          "body": {
+            "en": "For the past week, firefighters have been tackling a series of wildfires ravaging the Spanish countryside, threatening dozens of communities and forcing more than 70,000 people to evacuate their homes.\n\nThree fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday, fuelling fears that firefighting efforts could be hindered.\n\n\"It's a hell of a situation,\" said Madrid regional leader Isabel Díaz Ayuso, as she visited affected areas on Monday alongside Prime Minister Pedro Sánchez.\n\nSánchez spoke on Tuesday of highly challenging hours and days ahead but of light beginning to appear \"at the end of the tunnel\".\n\nTemperatures are expected to approach 40C in some regions in the coming days, with the heatwave forecast to last at least until Sunday.\n\nSpain's state meteorological agency Aemet has warned the \"fire danger level will continue to rise to extreme levels, hindering firefighting efforts\".\n\nAyuso confirmed that four municipalities remained under lockdown orders while another 12 were evacuated. She had earlier described the wildfires as \"the biggest natural catastrophe in the history of Spain\" and of flames turning the area into a \"war zone\".\n\nIn the Madrid region alone, more than 56,500 people have been evacuated since the fires broke out last week. A further 27,797 people have been ordered to stay at home.\n\nAyuso wrote on X that the situation was now \"improving little by little\" and some residents may soon be allowed to return home.\n\nInterior Minister Fernando Grande-Marlaska told Spain's La 1 TV channel that firefighting efforts on Monday night had resulted in \"relatively positive progress\".\n\n\"This morning, we are very satisfied with the work done. We are going to consolidate the work that has been done,\" he said.\n\nHe maintained that \"we must be positive; we have the emergency under control\" but conceded that \"weather conditions are not helping us at all\".\n\nPedro Sánchez announced on Tuesday that areas affected by the wildfires have been declared \"disaster zones\".\n\n\"The climate emergency is worsening year after year, and we are required to be united to fight against fire, as well as in prevention and reconstruction,\" he told reporters during a briefing in Madrid.\n\n\"Therefore, I make an explicit request, a single appeal to all regional governments: Climate denial is the worst fuel for the fight against the climate emergency.\"\n\nSpanish journalist Juan Navarro, who is in Cebreros - a town around 40 miles west of Madrid – told the BBC that people were looking on with fear before the next heatwave.\n\nWhen you drive through villages in the area around Cebreros, \"everything is black\", he said.\n\nAhead of the latest meeting of the Integrated Operational Coordination Centre (Cecopi), the mayors of two...",
+            "zh": "过去一周，消防队员一直在扑灭肆虐西班牙乡村的一系列野火，威胁了数十个社区，迫使超过 70,000 人撤离家园。 马德里地区的三起火灾引起了特别关注，预计新的热浪将从周三开始袭击西班牙，引发人们对消防工作可能受到阻碍的担忧。 马德里地区领导人伊莎贝尔·迪亚斯·阿尤索周一与总理佩德罗·桑切斯一起访问受影响地区时表示：“情况非常糟糕。” 桑切斯周二表示，未来几小时和几天充满挑战，但“隧道尽头”开始出现曙光。 预计未来几天部分地区气温将接近 40 摄氏度，热浪预计至少将持续到周日。 西班牙国家气象局Aemet警告称，“火灾危险级别将继续升至极端水平，阻碍消防工作”。 阿尤索证实，4 个城市仍处于封锁令之下，另有 12 个城市被疏散。她早些时候将野火描述为“西班牙历史上最大的自然灾害”，火焰将该地区变成了“战区”。 自上周火灾爆发以来，仅马德里地区就有超过 56,500 人被疏散。另有 27,797 人被命令留在家中。 阿尤索在 X 上写道，情况现在“正在一点点好转”，一些居民可能很快就会被允许返回家园。 内政部长费尔南多·格兰德-马拉斯卡告诉西班牙 La 1 电视频道，周一晚间的消防工作取得了“相对积极的进展”。 “今天早上，我们对所做的工作非常满意。我们将巩固已经完成的工作，”他说。 他坚持认为“我们必须保持积极态度；我们已经控制住了紧急情况”，但也承认“天气状况对我们根本没有帮助”。 佩德罗·桑切斯周二宣布，受山火影响的地区已被宣布为“灾区”。 他在马德里举行的新闻发布会上对记者说：“气候紧急情况逐年恶化，我们需要团结起来扑灭火灾、预防和重建。” “因此，我向所有地区政府提出一个明确的要求和单一的呼吁：否认气候变化是应对气候紧急情况的最糟糕的燃料。” 位于马德里以西约 40 英里的塞布雷罗斯小镇的西班牙记者胡安·纳瓦罗 (Juan Navarro) 告诉 BBC，在下一次热浪到来之前，人们都在恐惧地注视着。 当你开车经过塞布雷罗斯周围地区的村庄时，“一切都是黑色的”，他说。 在综合运营协调中心 (Cecopi) 最新会议之前，两个城市的市长..."
+          },
+          "reflection": {
+            "en": "As Spain grapples with devastating wildfires and an impending heatwave, the sheer scale of the crisis can feel overwhelming. In such moments of intense trouble, we are reminded that Yahweh is our refuge and strength, a constant source of help.",
+            "zh": "当西班牙与毁灭性的野火和即将到来的热浪搏斗时，这场危机的巨大规模可能令人感到难以承受。在如此严峻的时刻，我们被提醒雅伟是我们的避难所和力量，是随时可得的帮助。"
+          },
+          "verse": {
+            "reference": "Psalm 46:1",
+            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
+            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
+            "themeEn": "Refuge in trouble",
+            "themeZh": "患难中的避难所"
+          },
+          "aiVerseId": "ps_46_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-live-2026-jul-28-people-trapped-japan-earthqua",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/3e7cb28fbd87f15e320c8f85d4eff8aea0cc2788/333_0_3303_2643/master/3303.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f6f3ddfc95316ddbb9e2c7194616f63f",
+          "publishedAt": "2026-07-28T12:00:55.000Z",
+          "title": {
+            "en": "Multiple people trapped inside shopping centre in Japan after earthquake – live updates",
+            "zh": "日本地震后多人被困购物中心——实时更新"
+          },
+          "summary": {
+            "en": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌7.1 ‌struck ‌the country’s Kumamoto prefecture Kyushu Electric Power said ​48,000 homes had lost power as a result of the latest ​quake, while railway company JR Kyushu said that it had ​suspended services, including its...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "People are trapped inside a shopping mall that was damaged in a major earthquake today in southwestern Japan , emergency services have said.\n\nIn “Kashima town, a shopping complex’s second floor collapsed, leaving many people trapped inside,” the local fire department said in a statement.\n\nEarlier, police said they had received reports of what sounded like an explosion at the Aeon Mall outlet in the Kumamoto region, but were unable to supply additional information on damage or any casualties.\n\nAccording to the Japan Meteorological Agency (JMA), the earthquake had a depth of 10km and hit the country’s Kumamoto prefecture at 4.27pm local time (8.27am BST).\n\nThe tremor measured at the highest possible level seven on Japan’s Shindo scale of shaking, the agency said. While the agency initially issued a tsunami warning for ​a wave measuring one metre, it has since rescinded that.\n\nIn 2016, Kumamoto was hit by two devastating earthquakes – one of magnitude 6.5, followed by one of magnitude 7.3 two days later – which killed 273 people and injured over 2,800 others.",
+            "zh": "紧急服务部门表示，今天日本西南部发生大地震，一座购物中心受损，人们被困在购物中心内。 当地消防部门在一份声明中表示，“鹿岛镇一座购物中心的二楼倒塌，许多人被困在里面”。 早些时候，警方表示，他们收到了熊本地区永旺购物中心门店发生爆炸的报告，但无法提供有关损失或人员伤亡的更多信息。 据日本气象厅（JMA）称，地震深度为 10 公里，于当地时间下午 4 点 27 分（英国夏令时上午 8 点 27 分）袭击了该国熊本县。 该机构表示，根据日本新岛地震震级测得的最高震级为七级。虽然该机构最初针对一米高的海浪发布了海啸警报，但后来取消了这一警告。 2016 年，熊本遭受了两次毁灭性地震，其中一次是 6.5 级地震，两天后又发生了一场 7.3 级地震，造成 273 人死亡、2,800 多人受伤。"
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-will-pakistan-intervene-amid-houthi-attacks-on-saudi-ships",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/will-pakistan-intervene-amid-houthi-attacks-on-saudi-ships/a-78144890?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/78107474_6.jpg",
+          "publishedAt": "2026-07-28T11:54:00.000Z",
+          "title": {
+            "en": "Will Pakistan intervene amid Houthi attacks on Saudi ships?",
+            "zh": "巴基斯坦会干预胡塞武装袭击沙特船只吗？"
+          },
+          "summary": {
+            "en": "Pakistan and Saudi Arabia are strategic defense partners, but experts say there are limits to how far Islamabad can go in opposing Iran-backed Houthis.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Pakistan and Saudi Arabia are strategic defense partners, but experts say there are limits to how far Islamabad can go in opposing Iran-backed Houthis.\n\nPakistan condemned attacks on Saudi oil tankers in the Red Sea by Iran-backed Yemeni Houthi militia &#160;last week as the conflict in the Middle East threatens to expand.\n\nIn a statement, the Pakistani Foreign Ministry warned that any Houthi threat to Pakistani maritime interests in the Red Sea could be met with the \"lawful use of force.\"\n\nPakistan enjoys a trade and security relationship with Saudi Arabia, and Pakistani-flagged vessels frequent Saudi ports in the Red Sea. Last September, Pakistan and Saudi Arabia signed a mutual defense agreement that contains a \"collective security\" clause, meaning attack on one country is considered an attack on both.\n\nAfter the Houthis launched missiles at southern Saudi Arabia last week, Pakistan's Foreign Ministry expressed its \"unwavering commitment\" to the security pact.\n\nAt the same time, Pakistan also has ties with Iran, and has been a key mediator between Tehran and Washington to end the Iran war.\n\nAny military act against the Iran-backed Houthis could place Islamabad in one of the most complicated foreign policy situations it has faced in years.\n\nHistorically, Saudi Arabia and Pakistan have long shared close military and strategic relations. Pakistani military generals and advisers have aided the Kingdom for decades.\n\nFarea Al-Muslimi, a Yemen expert at London-based think tank Chatham House, told DW that Pakistani troops are already inside Yemen in support of the Saudis, \"carrying out security and training-related duties alongside Saudi forces.\" A Pakistani official DW spoke to categorically denied this claim.\n\nNevertheless, if Houthi attacks on oil tankers and commercial shipping escalate in the Red Sea, Saudi Arabia could turn to Pakistan for help.\n\n\"Pakistan is one of Riyadh's closest defense partners, and their mutual defense pact makes such a request plausible. Having also come under Iranian attack, Saudi Arabia may increasingly look to Islamabad for military assistance if it feels under growing security pressure,\" Michael Kugelman, senior fellow at the Washington-based Atlantic Council, told DW.\n\nHowever, Pakistan's improving ties with Iran and its mediation to end the US-Iran conflict could complicate any Pakistani military role on Saudi Arabia's behalf.&#160;\n\n\"Pakistan and Iran have a complicated relationship based on the calculation of tactical gains by either side. In any case, Pakistan has warned Iran several times that in case of conflict it will support Saudi Arabia,\" Ayesha Siddiqa, a Pakistani military analyst and senior fellow at King's College London, told DW.\n\nAfter a period of unprecedented tensions in 2024, when Iran and Pakistan...",
+            "zh": "巴基斯坦和沙特阿拉伯是战略防御伙伴，但专家表示，伊斯兰堡在反对伊朗支持的胡塞武装方面能走多远是有限的。 由于中东冲突有可能扩大，巴基斯坦谴责伊朗支持的也门胡塞民兵上周在红海袭击沙特油轮。 巴基斯坦外交部在一份声明中警告说，胡塞武装对巴基斯坦在红海的海上利益的任何威胁都可以通过“合法使用武力”来应对。 巴基斯坦与沙特阿拉伯有着贸易和安全关系，悬挂巴基斯坦国旗的船只频繁出入红海的沙特港口。去年9月，巴基斯坦和沙特阿拉伯签署了一项共同防御协议，其中包含“集体安全”条款，这意味着对一个国家的攻击被视为对两个国家的攻击。 胡塞武装上周向沙特阿拉伯南部发射导弹后，巴基斯坦外交部表达了对该安全协议的“坚定承诺”。 与此同时，巴基斯坦也与伊朗有联系，并一直是德黑兰和华盛顿之间结束伊朗战争的关键调解人。 任何针对伊朗支持的胡塞武装的军事行动都可能使伊斯兰堡陷入多年来面临的最复杂的外交政策局势之一。 历史上，沙特和巴基斯坦长期以来有着密切的军事和战略关系。数十年来，巴基斯坦军事将领和顾问一直在援助沙特王国。 伦敦智库查塔姆研究所的也门专家法雷亚·穆斯利米告诉德国之声，巴基斯坦军队已经在也门境内支持沙特，“与沙特军队一起执行安全和训练相关的职责”。德国之声采访的一名巴基斯坦官员断然否认了这一说法。 然而，如果胡塞武装在红海对油轮和商业航运的袭击升级，沙特阿拉伯可能会向巴基斯坦寻求帮助。 华盛顿大西洋理事会高级研究员迈克尔·库格曼（Michael Kugelman）告诉德国之声：“巴基斯坦是利雅得最亲密的防务伙伴之一，他们的共同防御协议使这一要求变得合理。沙特阿拉伯也受到伊朗的攻击，如果它感到安全压力越来越大，它可能会越来越多地向伊斯兰堡寻求军事援助。” 然而，巴基斯坦改善与伊朗的关系以及为结束美伊冲突而进行的调解可能会使巴基斯坦代表沙特阿拉伯发挥的军事作用变得复杂化。 伦敦国王学院高级研究员、巴基斯坦军事分析家阿耶莎·西迪卡 (Ayesha Siddiqa) 告诉德国之声：“巴基斯坦和伊朗之间的关系很复杂，双方都会考虑双方的战术收益。无论如何，巴基斯坦已多次警告伊朗，如果发生冲突，它将支持沙特阿拉伯。” 在 2024 年经历了前所未有的紧张局势之后，伊朗和巴基斯坦......"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cvgv7m5z4n0o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d93/live/2033abe0-8a75-11f1-a7ab-8b30adf0800a.jpg",
+          "publishedAt": "2026-07-28T11:50:59.000Z",
+          "title": {
+            "en": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+            "zh": "“热爱生活”——西雅图向美食节枪击事件受害者致敬"
+          },
+          "summary": {
+            "en": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Much of the city of Seattle was in mourning on Monday as residents paid tribute to the three lives that were lost during a deadly street gunfight that had erupted the day before.\n\nThe city's mayor and police chief were among dozens gathered at a local fountain for a candlelight vigil, while online fundraisers for two of the victims received tens-of-thousands of dollars in donations.\n\nThe three people who died on Sunday at the annual Bite of Seattle food festival were Junior Cee Niko Semo, 19, Carlos Israel Sanchez Villalba, 44, and Ashley Whitehead, 56.\n\nA GoFundMe for Villalba described him as \"a devoted husband, loving father of three, and a loyal friend who would do anything for anyone\".\n\n\"His kindness and generosity touched countless lives, and everyone who knew him remembers his gentle spirit and willingness to help others,\" the write-up said.\n\n\"His sudden passing has left his family heartbroken and facing an uncertain future.\"\n\nThe family has said the funds will go towards funeral expenses and help fill the void in his absence. He leaves behind a wife and three children.\n\nFamily members of Ashley Whitehead said she was standing in line with her daughter, waiting for cotton candy, as gunshots rang out and ended her life.\n\nShe died in hospital during surgery, after exchanging \"heartfelt 'I love you's with her eldest daughter\", her family said in the GoFundMe page launched after her death.\n\n\"Family was everything to Ashley - she had recently moved to the west coast from Alabama to be closer to Zoie,\" the writeup said, referring to her eldest daughter.\n\nAt the vigil on Monday evening, people laid flowers and lit candles as they gathered in grief. There was a call for a moment of a silence.\n\n\"This is not acceptable,\" Seattle Mayor Katie Wilson said, condemning gun violence in the community. \"No father, no parent should have to bury their child.\"\n\nPolice suspect the third deceased victim, Junior Cee Niko Semo, was involved in the gunfight. Another suspect is in custody. A third suspect is still on the loose.\n\nThe shots fired on Sunday at the annual food festival near Seattle's Space Needle left three dead and four others injured, during a suspected \"gunfight\", police said.\n\nSunday was the final day of the annual three-day free food festival, which draws some 350,000 people each year.\n\nWashington state Governor Bob Ferguson said in a social media post on Monday that the community was shocked and \"struggling to make sense of how an iconic community celebration could end in gunfire\".",
+            "zh": "周一，西雅图市大部分地区陷入哀悼，居民向前一天爆发的致命街头枪战中丧生的三人致哀。 该市市长和警察局长等数十人聚集在当地的一个喷泉旁举行烛光守夜活动，同时为两名受害者进行的在线筹款活动收到了数万美元的捐款。 周日，在一年一度的西雅图美食节上去世的三人分别是 19 岁的 Junior Cee Niko Semo、44 岁的卡洛斯·伊斯雷尔·桑切斯·维拉巴 (Carlos Israel Sanchez Villalba) 和 56 岁的阿什利·怀特海德 (Ashley Whitehead)。 维拉尔巴的 GoFundMe 网站将他描述为“一位忠诚的丈夫、三个孩子的慈父、一位愿意为任何人做任何事的忠诚朋友”。 文章中写道：“他的善良和慷慨感动了无数人，每个认识他的人都记得他温柔的精神和乐于助人的意愿。” “他的突然去世让他的家人心碎，并面临着不确定的未来。” 家人表示，这笔资金将用于支付葬礼费用，并帮助填补他缺席期间的空缺。他留下了妻子和三个孩子。 阿什利·怀特黑德的家人说，她当时和女儿一起排队等待棉花糖，突然枪声响起，结束了她的生命。 她的家人在她去世后推出的GoFundMe页面上表示，她在手术期间在医院去世，并与她的大女儿衷心地表达了“我爱你”。 “家庭对阿什利来说就是一切——她最近从阿拉巴马州搬到了西海岸，以便离佐伊更近，”这篇文章指的是她的大女儿。 在周一晚上的守夜活动中，人们在悲伤中聚集在一起，献上鲜花并点燃蜡烛。有人要求大家默哀片刻。 西雅图市长凯蒂·威尔逊表示：“这是不可接受的。”她谴责社区中的枪支暴力。 “任何父亲、任何父母都不应该埋葬他们的孩子。” 警方怀疑第三名死者 Junior Cee Niko Semo 参与了枪战。另一名嫌疑人已被拘留。第三名嫌疑人仍然在逃。 警方称，西雅图太空针塔附近的年度美食节周日发生枪击事件，造成三人死亡、四人受伤，疑似发生“枪战”。 周日是一年一度的为期三天的免费美食节的最后一天，每年都会吸引约 35 万人参加。 华盛顿州州长鲍勃·弗格森周一在社交媒体帖子中表示，社区感到震惊，“很难理解标志性的社区庆祝活动如何以枪声结束”。"
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-live-2026-jul-28-europe-wildfires-fires-heatwa",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/c835f639710117bb64cdf5beeb669599eb5c8e24/354_0_7356_5886/master/7356.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d8450517bac99b03aefe308f9df23c50",
+          "publishedAt": "2026-07-28T11:42:54.000Z",
+          "title": {
+            "en": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – Europe live",
+            "zh": "​随着新一轮热浪袭来，法国和西班牙竞相控制野火，联合国警告“气候警报已拉响”——欧洲直播"
+          },
+          "summary": {
+            "en": "Spanish prime minister also says the fires serve as a reminder to plan for the ‘worsening’ climate emergency France and Spain race to contain huge wildfires before fresh heatwave begins Joe Pinner and Jane Clinton Tourists caught up in the wildfires spoke to us about their...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Spanish prime minister also says the fires serve as a reminder to plan for the ‘worsening’ climate emergency France and Spain race to contain huge wildfires before fresh heatwave begins Joe Pinner and Jane Clinton Tourists caught up in the wildfires spoke to us about their experiences. “My main memory is how bizarre it was to watch people enjoying holidays on the beach while a major catastrophe was unfolding in full view, not far away. Is this how the world ends?” Continue reading...",
+            "zh": "西班牙首相还表示，火灾提醒人们要为“日益恶化”的气候紧急情况做好准备。法国和西班牙竞相在新的热浪开始之前遏制巨大的野火。乔·平纳和简·克林顿陷入野火的游客向我们讲述了他们的经历。 “我的主要记忆是，看到人们在海滩上享受假期，而一场重大灾难正在不远处众目睽睽之下展开，这是多么奇怪的事情。世界就是这样结束的吗？”继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-tsunami-warnings-issued-for-southern-japan-a",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/tsunami-warnings-issued-for-southern-japan-after-major-earthquake/xo7hmymhb",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-tsunami-warnings-issued-for-southern-japan-a.jpg",
+          "publishedAt": "2026-07-28T10:46:32.000Z",
+          "title": {
+            "en": "Tsunami warnings issued for southern Japan after major earthquake",
+            "zh": "大地震后日本南部发布海啸警报"
+          },
+          "summary": {
+            "en": "Thousands of homes are without power, and a tsunami warning was issued after an earthquake shook Japan's southern Kyushu island.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "An earthquake with a preliminary magnitude of &#x200C;7.1 has struck Japan's southern Kumamoto prefecture, knocking out power to &#x200C;thousands of homes, stopping rail services and triggering warnings for tsunamis and &#x200C;aftershocks.\n\nCompanies including Sony and TSMC, the world's largest contract chipmaker, have plants in the area of the quake.\n\nThe &#x200C;Japanese government &#x200C;issued emergency &#x2060;earthquake warnings on Tuesday for Kumamoto, Nagasaki, Kagoshima, Fukuoka, Saga, Oita, and Miyazaki prefectures, all on Japan's southern Kyushu island.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nA tsunami warning for a wave measuring one metre was briefly issued after the earthquake, the Japan Meteorological Agency said.\n\nJapan is one of the world's most earthquake-prone &#x2060;countries, with a tremor occurring at &#x200C;least every five minutes.\n\nLocated along the \"Ring of Fire\" of volcanoes and oceanic trenches partly encircling &#x200C;th Pacific Basin, Japan accounts for about 20 per cent of the world's earthquakes of magnitude 6.0 or more.\n\nA massive earthquake in Kumamoto 10 years ago killed 275 people and injured a further 2739, according to an official count.\n\nKyushu Electric Power said about 40,000 homes &#x200C;had lost power as a result of the quake, while railway company JR Kyushu said it had suspended services, including its high-speed bullet trains.\n\nNo irregularities were reported at the nuclear power stations in the area, Japan's nuclear regulation authority said.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "日本南部熊本县发生了一场初步震级为 7.1 级的地震，导致数千户家庭断电、铁路服务停止，并引发海啸和余震警报。 索尼和全球最大芯片代工厂台积电等公司都在地震地区设有工厂。 日本政府周二向日本南部九州岛的熊本县、长崎县、鹿儿岛县、福冈县、佐贺县、大分县和宫崎县发布紧急地震警报。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 日本气象厅表示，地震发生后短暂发布了一米海啸警报。 日本是世界上地震最频繁的国家之一，至少每五分钟就会发生一次地震。 日本位于部分环绕太平洋盆地的火山和海沟“火环”沿线，日本发生的 6.0 级或以上地震约占世界地震的 20%。 据官方统计，10 年前熊本发生的大地震造成 275 人死亡、2739 人受伤。 九州电力表示，约 4 万户家庭因地震断电，而铁路公司 JR 九州表示已暂停服务，包括高速子弹头列车。 日本核监管机构表示，该地区的核电站没有发现任何异常情况。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c9v4g7e047zo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce2e/live/eef58e80-8a6b-11f1-924e-bfa32777c3ff.jpg",
+          "publishedAt": "2026-07-28T10:41:41.000Z",
+          "title": {
+            "en": "Zelensky to press Trump on air defences while in Washington",
+            "zh": "泽连斯基将在华盛顿向特朗普施压，要求提供防空系统"
+          },
+          "summary": {
+            "en": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+            "zh": "乌克兰领导人希望巩固美国对加强基辅反弹道导弹防御系统的承诺，因为俄罗斯已升级了致命袭击。"
+          },
+          "body": {
+            "en": "Ukraine's Volodymyr Zelensky is due to hold important talks with US President Donald Trump at the White House, where he is hoping to firm up commitments to bolstering Kyiv's anti-ballistic missile defences.\n\nZelensky has arrived in the US at a significant stage in Russia's full-scale war in Ukraine, with Moscow's mayor saying the capital was targeted by 390 drones in a matter of hours overnight.\n\nThe Ukrainian leader is expected to press Trump over support he gave earlier this month for Kyiv to be given a licence to produce Patriot interceptor missiles.\n\nRussia has escalated deadly ballistic missile attacks on Ukraine's capital recently, and Zelensky has said interceptors are urgently needed.\n\nPatriot missiles have been at the top of Zelensky's wish-list for some time, but after the wars in Ukraine and the Middle East, these US air defence interceptors are in very short supply .\n\nPromising a licence is one thing, but co-producing the highly sophisticated PAC-2 and PAC-3 interceptors on Ukrainian soil is another, because it involves a lengthy political, legal and technical process.\n\nA delegation from US manufacturer Raytheon visited Kyiv last week and Zelensky said the defence firm had expressed \"readiness to take our partnership to an even higher level\".\n\nAfter he speaks with Zelensky, Trump will have another important meeting - with Israel's Benjamin Netanyahu. It is the first time the two have met in person since the war on Iran started in late February.\n\nZelensky and Netanyahu are in Washington to attend the funeral of Senator Lindsey Graham, who died this month aged 71 .\n\nThe Ukraine war appeared to coincide with the US-Israel war with Iran at the weekend, when Ukrainian forces targeted an Iranian cargo ship in the Caspian Sea .\n\nKyiv has described Iran as a \"direct accomplice to Russian aggression against Ukraine\" and Zelensky has said Ukrainian intelligence has evidence that Russia has shared satellite imagery with Tehran, enabling Iran to attack US military facilities and Gulf states.\n\nTrump has said he will \"find out if that's true. I'll ask Putin about it\", while saying if true, it had no impact at all.\n\nMeanwhile, in Moscow, Mayor Sergei Sobyanin said more than 390 Ukrainian drones had targeted the region between 20:30 on Monday and 06:30 on Tuesday local time, and that most had been intercepted by air defences.\n\nFootage confirmed by BBC Verify showed damage to a high-rise building in Chekhov, south of the capital and a fire at a warehouse in Berezhki to the west. Local officials in Chekhov said there had been no casualties.\n\nSince Zelensky last spoke to Trump in early July, Ukraine has repeatedly targeted logistics hubs, many belonging to Russian e-commerce company Wildberries , exacerbating issues faced by small and medium-sized business...",
+            "zh": "乌克兰总统弗拉基米尔·泽伦斯基将于白宫与美国总统唐纳德·特朗普举行重要会谈，他希望在白宫坚定承诺加强基辅的反弹道导弹防御系统。 泽连斯基抵达美国时正值俄罗斯全面乌克兰战争的关键阶段，莫斯科市长表示，首都在短短几小时内就遭到了 390 架无人机的攻击。 预计乌克兰领导人将就特朗普本月早些时候支持基辅获得生产爱国者拦截导弹的许可证向特朗普施压。 俄罗斯最近升级了对乌克兰首都的致命弹道导弹袭击，泽连斯基表示迫切需要拦截器。 一段时间以来，爱国者导弹一直是泽连斯基的首选，但在乌克兰和中东战争之后，这些美国防空拦截弹的供应非常短缺。 承诺获得许可是一回事，但在乌克兰土地上联合生产高度先进的 PAC-2 和 PAC-3 拦截弹则是另一回事，因为这涉及漫长的政治、法律和技术流程。 美国制造商雷神公司的代表团上周访问了基辅，泽连斯基表示，该国防公司已表示“准备将我们的合作伙伴关系提升到更高的水平”。 在与泽连斯基交谈后，特朗普将与以色列总理本杰明·内塔尼亚胡进行另一场重要会晤。这是自二月底伊朗战争爆发以来两人首次面对面会面。 泽伦斯基和内塔尼亚胡正在华盛顿参加参议员林赛·格雷厄姆的葬礼，格雷厄姆于本月去世，享年 71 岁。 乌克兰战争似乎与周末美以与伊朗的战争同时发生，当时乌克兰军队瞄准了里海的一艘伊朗货船。 基辅将伊朗描述为“俄罗斯侵略乌克兰的直接帮凶”，泽连斯基表示，乌克兰情报部门有证据表明，俄罗斯与德黑兰共享卫星图像，使伊朗能够攻击美国军事设施和海湾国家。 特朗普表示，他将“查明这是否属实。我会向普京询问此事”，同时表示，如果属实，则完全没有影响。 与此同时，莫斯科市长谢尔盖·索比亚宁表示，当地时间周一 20:30 至周二 06:30 期间，超过 390 架乌克兰无人机袭击了该地区，其中大部分被防空部队拦截。 BBC verify 证实的视频显示，首都南部契诃夫的一座高层建筑遭到破坏，西部别列日基的一座仓库起火。契诃夫当地官员表示，没有人员伤亡。 自泽连斯基上次7月初与特朗普通话以来，乌克兰多次针对物流中心，其中许多属于俄罗斯电子商务公司Wildberry，加剧了中小企业面临的问题......"
+          },
+          "reflection": {
+            "en": "The ongoing conflict and escalated attacks highlight the daily struggle for survival and the need for sustained protection. In such times, this verse reminds us of Yahweh's unfailing compassion, which offers hope that we will not be consumed even amidst devastation. Seeking defenses is a tangible expression of this hope for continued existence and renewal.",
+            "zh": "持续的冲突和升级的袭击凸显了生存的日常挣扎和持续保护的必要性。在这样的时刻，这节经文提醒我们雅伟永不失败的慈爱，它带来希望，即使在毁灭之中，我们也不会被吞噬。寻求防御是这种对持续存在和更新的希望的具体体现。"
+          },
+          "verse": {
+            "reference": "Lamentations 3:22-23",
+            "textEn": "Because of Yahweh's great love we are not consumed, for his compassions never fail. They are new every morning.",
+            "textZh": "我们不至消灭，是出于雅伟诸般的慈爱；是因他的怜悯不至断绝。每早晨这都是新的。",
+            "themeEn": "Mercy every morning",
+            "themeZh": "清晨的怜悯"
+          },
+          "aiVerseId": "lam_3_22",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-articles-cd692n215ndo-at-medium-rss-at-campaign-rss",
@@ -286,7 +451,7 @@
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e39/live/98b7fd70-8a69-11f1-b8ee-9b3c26ad07bb.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04e4/live/96aaeb30-8a70-11f1-b2ab-0dd01740f9f6.jpg",
           "publishedAt": "2026-07-28T09:45:10.000Z",
           "title": {
             "en": "Odyssey translator writes scathing review of Nolan film adaptation",
@@ -297,8 +462,8 @@
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Sir Christopher Nolan's latest film, The Odyssey, may have won rave reviews from critics and done storming business at the box office - but one person is definitely not happy.\n\nEmily Wilson, the academic whose 2017 translation of Homer's Odyssey was cited by the director as an influence on his adaptation of the poem, has written a scathing review of the movie.\n\nPublished in the London Review of Books , external , Wilson said she \"would be ashamed to have written any of this script\", describing the film's narrative structure as \"gimmicky.\"\n\n\"The writing is abysmal,\" she said. \"None of the characters has convincing motivation for their actions or words. There are no sex scenes, and all the food looks horrible.\"\n\n\"It lacks psychological, emotional, political and ethical depth,\" Wilson wrote, while also acknowledging that Sir Chriostopher 's work had sparked renewed interest in Homer's classic.\n\n\"This epic is bringing audiences back to cinemas... translations of Odyssey, including mine, are flying off the shelves... [and] perhaps the film will persuade a few college administrators not to cut their literature, language and history departments.\n\n\"Nolan... is doing his best to get the general public reading again, and I am grateful.\"\n\n\"I had hoped that Nolan's affinity with these Homeric themes might push him to new creative heights, and enable him to conjure more believable characters,\" she wrote.\n\n\"But The Odyssey features his usual combination of grandiosity and superficiality... the film's vision is too confused, its characters too underdeveloped, to deliver what it half-promises in terms of big ideas – although it is very good at conveying big bangs and big giants.\"\n\nWilson added that her teenagers had \"had a good time\" seeing the blockbuster at the cinema.\n\n\"It's a family-friendly audiovisual spectacle, like an elaborate Fourth of July fireworks display - and with about the same level of narrative and emotional depth,\" she said.\n\n\"There are more female characters than in most Nolan movies, thanks to the source material. But none of them has much to say, in contrast to the characterisations in the poem.\"\n\nDuring his press tour for the film, Sir Christopher told Empire magazine , external that he used the opening line of Wilson's translation (\"Tell me about a complicated man\") as a guide for his Odysseus, played by Matt Damon.\n\nIn contrast to Wilson's take, the latest adaptation has received rapturous reviews from film critics.\n\nIt is the director's first movie since 2023's Oppenheimer, which won the Academy Award for best picture.\n\nThe Telegraph declared The Odyssey the \"film of the year\", while Metro added that the movie would \"change cinema forever\".\n\nThe Times described it as \"a masterpiece in every way\", and the Standard praised the film as a...",
-            "zh": "克里斯托弗·诺兰爵士的最新电影《奥德赛》也许赢得了影评人的好评并取得了票房上的骄人成绩，但有人绝对不高兴。 艾米丽·威尔逊 (Emily Wilson) 是一位学者，她 2017 年翻译的荷马史诗《奥德赛》被导演认为对他改编这首诗的影响很大，她为这部电影写了一篇严厉的评论。 威尔逊在《伦敦书评》（外部）上发表文章称，她“会为写出这个剧本而感到羞耻”，并形容这部电影的叙事结构“有噱头”。 “文笔很糟糕，”她说。 “没有一个角色的行为或言语有令人信服的动机。没有性爱场面，所有的食物看起来都很糟糕。” “它缺乏心理、情感、政治和伦理的深度，”威尔逊写道，同时也承认克里斯托弗爵士的作品重新激发了人们对荷马经典的兴趣。 “这部史诗片正在把观众带回电影院……《奥德赛》的翻译版，包括我的，正在热销……[并且]也许这部电影会说服一些大学管理人员不要削减他们的文学、语言和历史系。 “诺兰……正在尽最大努力让公众再次阅读，我很感激。” “我曾希望诺兰对这些荷马主题的喜爱能够将他推向新的创作高度，并使他能够塑造出更可信的角色，”她写道。 “但《奥德赛》的特点是他一贯的浮夸与肤浅的结合……这部电影的愿景太混乱了，角色太不发达，无法兑现它在大创意方面的半承诺——尽管它非常擅长传达大爆炸和大巨人。” 威尔逊补充说，她的孩子们在电影院观看这部大片“玩得很开心”。 她说：“这是一场适合家庭观看的视听盛宴，就像一场精心制作的国庆日烟花表演一样，并且具有大致相同的叙事水平和情感深度。” “由于原材料的原因，影片中的女性角色比大多数诺兰电影中的都要多。但与诗中的特征相比，他们都没有太多可说的。” 在电影的新闻发布会上，克里斯托弗爵士告诉帝国杂志外部，他使用了威尔逊翻译的开场白（“告诉我一个复杂的人”）作为他由马特·达蒙饰演的奥德修斯的指导。 与威尔逊的看法相反，最新的改编作品受到了影评人的好评。 这是继2023年获得奥斯卡最佳影片奖的《奥本海默》之后导演的第一部电影。 《每日电讯报》宣布《奥德赛》为“年度最佳电影”，而《麦德龙》则补充说这部电影将“永远改变电影界”。 《泰晤士报》将其描述为“从各方面来说都是一部杰作”，《标准报》则称赞这部电影是……"
+            "en": "Sir Christopher Nolan's latest film, The Odyssey, may have won rave reviews from critics and done storming business at the box office - but one person is definitely not happy.\n\nEmily Wilson, the academic whose 2017 translation of Homer's Odyssey was cited by the director as an influence on his adaptation of the poem, has written a scathing review of the movie.\n\nPublished in the London Review of Books , external , Wilson said she \"would be ashamed to have written any of this script\", describing the film's narrative structure as \"gimmicky.\"\n\n\"The writing is abysmal,\" she said. \"None of the characters has convincing motivation for their actions or words. There are no sex scenes, and all the food looks horrible.\"\n\n\"It lacks psychological, emotional, political and ethical depth,\" Wilson wrote, while also acknowledging that Sir Christopher's work had sparked renewed interest in Homer's classic.\n\n\"This epic is bringing audiences back to cinemas... translations of Odyssey, including mine, are flying off the shelves... [and] perhaps the film will persuade a few college administrators not to cut their literature, language and history departments.\n\n\"Nolan... is doing his best to get the general public reading again, and I am grateful.\"\n\n\"I had hoped that Nolan's affinity with these Homeric themes might push him to new creative heights, and enable him to conjure more believable characters,\" she wrote.\n\n\"But The Odyssey features his usual combination of grandiosity and superficiality... the film's vision is too confused, its characters too underdeveloped, to deliver what it half-promises in terms of big ideas – although it is very good at conveying big bangs and big giants.\"\n\nWilson added that her teenagers had \"had a good time\" seeing the blockbuster at the cinema.\n\n\"It's a family-friendly audiovisual spectacle, like an elaborate Fourth of July fireworks display - and with about the same level of narrative and emotional depth,\" she said.\n\n\"There are more female characters than in most Nolan movies, thanks to the source material. But none of them has much to say, in contrast to the characterisations in the poem.\"\n\nDuring his press tour for the film, Sir Christopher told Empire magazine , external that he used the opening line of Wilson's translation (\"Tell me about a complicated man\") as a guide for his Odysseus, played by Matt Damon.\n\nIn contrast to Wilson's take, the latest adaptation has received rapturous reviews from film critics.\n\nIt is the director's first movie since 2023's Oppenheimer, which won the Academy Award for best picture.\n\nThe Telegraph declared The Odyssey the \"film of the year\", while Metro added that the movie would \"change cinema forever\".\n\nThe Times described it as \"a masterpiece in every way\", and the Standard praised the film as a...",
+            "zh": "克里斯托弗·诺兰爵士的最新电影《奥德赛》也许赢得了影评人的好评并取得了票房上的骄人成绩，但有人绝对不高兴。 艾米丽·威尔逊 (Emily Wilson) 是一位学者，她 2017 年翻译的荷马史诗《奥德赛》被导演认为对他改编这首诗的影响很大，她为这部电影写了一篇严厉的评论。 威尔逊在《伦敦书评》（外部）上发表文章称，她“会为写出这个剧本而感到羞耻”，并形容这部电影的叙事结构“有噱头”。 “文笔很糟糕，”她说。 “没有一个角色的行为或言语有令人信服的动机。没有性爱场面，所有的食物看起来都很糟糕。” “它缺乏心理、情感、政治和伦理的深度，”威尔逊写道，同时也承认克里斯托弗爵士的作品重新激发了人们对荷马经典的兴趣。 “这部史诗片正在把观众带回电影院……《奥德赛》的翻译版，包括我的，正在热销……[并且]也许这部电影会说服一些大学管理人员不要削减他们的文学、语言和历史系。 “诺兰……正在尽最大努力让公众再次阅读，我很感激。” “我曾希望诺兰对这些荷马主题的喜爱能够将他推向新的创作高度，并使他能够塑造出更可信的角色，”她写道。 “但《奥德赛》的特点是他一贯的浮夸与肤浅的结合……这部电影的愿景太混乱了，角色太不发达，无法兑现它在大创意方面的半承诺——尽管它非常擅长传达大爆炸和大巨人。” 威尔逊补充说，她的孩子们在电影院观看这部大片“玩得很开心”。 她说：“这是一场适合家庭观看的视听盛宴，就像一场精心制作的国庆日烟花表演一样，并且具有大致相同的叙事水平和情感深度。” “由于原材料的原因，影片中的女性角色比大多数诺兰电影中的都要多。但与诗中的特征相比，他们都没有太多可说的。” 在电影的新闻发布会上，克里斯托弗爵士告诉帝国杂志外部，他使用了威尔逊翻译的开场白（“告诉我一个复杂的人”）作为他由马特·达蒙饰演的奥德修斯的指导。 与威尔逊的看法相反，最新的改编作品受到了影评人的好评。 这是继2023年获得奥斯卡最佳影片奖的《奥本海默》之后导演的第一部电影。 《每日电讯报》宣布《奥德赛》为“年度最佳电影”，而《麦德龙》则补充说这部电影将“永远改变电影界”。 《泰晤士报》将其描述为“从各方面来说都是一部杰作”，《标准报》则称赞这部电影是..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -331,7 +496,7 @@
           },
           "body": {
             "en": "The US delegation walked out of a UN Security Council meeting on Monday, in protest at comments made by France that compared Washington's voting on human rights to that of authoritarian states.\n\nThe diplomatic row was initially sparked last week, when the US joined North Korea and Russia in voting against extending Volker Turk's term as UN High Commissioner for Human Rights.\n\nAfter the vote on Friday, France's UN mission criticised the US and compared it to North Korea and Russia. \"The US used to be a beacon of human rights. Not anymore,\" it posted on X , external .\n\nIn response, US ambassador Mike Waltz accused France of voting for a human rights chief who had been \"lecturing\" democratic countries while \"cozying up to the world's worst oppressors\", without elaborating on what he meant.\n\nTurk has criticised Russia's war in Ukraine and Israel's military conduct in Gaza.\n\nThe US team's walkout came while France's ambassador Jerome Bonnafont was speaking during an emergency Security Council meeting on Russia's war in Ukraine.\n\nUS ambassador Dan Negrea said the delegation would continue to make similar protests until France \"renounces their condescending and disrespectful rhetoric\".\n\nThe fight over Turk's second term, which was passed with 144 states in favour, 10 against and 13 abstentions, reflects tensions between Washington and the United Nations.\n\nThe Trump administration has cut funding for UN agencies and withdrawn from dozens of its entities.\n\nOn Friday, US ambassador Jeff Bartos criticised Turk's reappointment and said \"there will be consequences\" to the assembly which \"tolerates procedural overreach, backroom deals, and the misuse of UN posts\".\n\n\"The United States will immediately reassess our engagement, participation, and funding,\" he said.\n\nHowever, French ambassador Bonnafont described Turk as \"a voice of conscience\" who demonstrated \"rigor and impartiality\" during his first term.\n\nDeputy UN spokesperson Farhan Haq declined to comment on the US walkout, adding the UN expected all member states to respect the decision.",
-            "zh": "美国代表团周一退出联合国安理会会议，抗议法国将华盛顿的人权投票与独裁国家的投票相比较的言论。 这场外交争端最初是在上周引发的，当时美国与朝鲜和俄罗斯一起投票反对延长沃尔克·特克作为联合国人权事务高级专员的任期。 周五投票后，法国驻联合国代表团批评美国，并将其与朝鲜和俄罗斯进行比较。 “美国曾经是人权的灯塔。现在不再了，”它在 X , external 上发布。 作为回应，美国大使迈克·沃尔兹指责法国投票选举了一位人权事务负责人，他一直在“教训”民主国家，同时“巴结世界上最严重的压迫者”，但没有详细说明他的意思。 土耳其批评俄罗斯在乌克兰的战争和以色列在加沙的军事行为。 美国队退出时，法国大使杰罗姆·博纳丰在安理会紧急会议上就俄罗斯乌克兰战争问题发表讲话。 美国大使丹·内格里亚表示，代表团将继续提出类似的抗议，直到法国“放弃他们居高临下和不尊重的言论”。 围绕特克第二任期的斗争以 144 个州赞成、10 个州反对、13 个州弃权获得通过，反映出华盛顿与联合国之间的紧张关系。 特朗普政府削减了对联合国机构的资助，并退出了数十个实体。 周五，美国大使杰夫·巴托斯批评特克的连任，并表示大会“将会承担后果”，因为大会“容忍程序越权、幕后交易和滥用联合国职位”。 “美国将立即重新评估我们的接触、参与和资金，”他说。 然而，法国大使博纳丰形容特克是“良知的声音”，他在第一个任期内表现出“严谨和公正”。 联合国副发言人法尔汉·哈克拒绝就美国的罢工发表评论，并补充说联合国希望所有成员国尊重这一决定。"
+            "zh": "美国代表团周一退出联合国安理会会议，抗议法国将华盛顿的人权投票与独裁国家的投票相比较的言论。 这场外交争端最初是在上周引发的，当时美国与朝鲜和俄罗斯一起投票反对延长沃尔克·特克作为联合国人权事务高级专员的任期。 周五投票后，法国驻联合国代表团批评美国，并将其与朝鲜和俄罗斯进行比较。 “美国曾经是人权的灯塔。现在不再了，”它在 X , external 上发布。 作为回应，美国大使迈克·沃尔兹指责法国投票选举了一位人权事务负责人，他一直在“教训”民主国家，同时“巴结世界上最严重的压迫者”，但没有详细说明他的意思。 土耳其批评俄罗斯在乌克兰的战争和以色列在加沙的军事行为。 美国队退出时，法国大使杰罗姆·博纳丰在安理会紧急会议上就俄罗斯乌克兰战争问题发表讲话。 美国大使丹·内格里亚表示，代表团将继续提出类似的抗议，直到法国“放弃他们居高临下和不尊重的言论”。 围绕特克第二任期的斗争以 144 个州赞成、10 个州反对、13 个州弃权获得通过，反映出华盛顿与联合国之间的紧张关系。 特朗普政府削减了对联合国机构的资助，并退出了数十个实体。 周五，美国大使杰夫·巴托斯批评特克的连任，并表示大会“将会承担后果”，因为大会“容忍程序越权、幕后交易和滥用联合国职位”。 “美国将立即重新评估我们的接触、参与和资金，”他说。 然而，法国大使博纳丰形容特克是“良心的声音”，他在第一个任期内表现出“严谨和公正”。 联合国副发言人法尔汉·哈克拒绝就美国的罢工发表评论，并补充说联合国希望所有成员国尊重这一决定。"
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -343,105 +508,6 @@
             "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
             "themeEn": "Justice and mercy",
             "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-sport-football-articles-cpd741qn2y9o-at-medium-rss-at-camp",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef95/live/876e9fa0-8a65-11f1-ac9f-1f034932402d.jpg",
-          "publishedAt": "2026-07-28T09:03:49.000Z",
-          "title": {
-            "en": "Zidane confirmed as France head coach",
-            "zh": "齐达内确认出任法国队主教练"
-          },
-          "summary": {
-            "en": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.\n\nDidier Deschamps , France's longest-serving manager, ended his 14-year stint in charge after the nation's semi-final exit to Spain at the 2026 World Cup.\n\nZidane, a World Cup winner with France in 1998, has been out of management since leaving Real Madrid for a second time as head coach in 2021.\n\nThe 54-year-old, widely considered to be France's greatest player, will sign a contract that will see him lead the nation through the 2030 World Cup qualifiers.\n\nOn being appointed, he said it was \"a great source of pride\" to lead the French national side following their fourth-place finish at the World Cup.\n\n\"I've often said it: there's nothing greater than the French national team. So it's a joy and obviously a great source of pride to become the manager of this French national team,\" he added.\n\n\"It's also a responsibility. I want to thank [French Football Federation] president Philippe Diallo, the executive committee, and the French Football Federation for their confidence and acknowledge the 14 years of service from Didier and his staff.\n\n\"I also have a special thought today for all my coaches. Needless to say, I have high ambitions for the French national team.\"\n\n\"The appointment of Zinedine Zidane as head coach of the French national team is a source of immense pride for the French Football Federation,\" he said.\n\n\"It marks the meeting of a legend in the history of Les Bleus, who has become one of the most decorated and respected coaches of his generation, and a team with rare potential, driven by the highest ambitions.\"\n\nZidane's predecessor Deschamps guided France to three major finals over his 14-year reign, helping the country to their second World Cup success with victory in 2018.\n\nZidane's first competitive fixture in charge will be a Nations League trip to Turkey on 25 September.\n\nAfter retiring as a player following the 2006 World Cup, Zidane did not enter management until 2014, when he became coach of Real Madrid Castilla - the club's B team.\n\nHe stepped up to become the first team manager in January 2016, and by the end of that season had led them to Champions League success with a victory over city rivals Atletico Madrid in the final on penalties.\n\nThat was the first of three successive Champions League titles for Madrid, making them the first club to win back-to-back European crowns in the Champions League era, and the first to win three titles in a row since Bayern Munich in 1976.\n\nHe also won La Liga in 2016-17, but departed after the following season, saying change was needed at the Bernabeu.\n\nHowever, Zidane returned to Madrid in March 2019 with the club in poor form, and won another Spanish league title in 2019-20.\n\nHe also...",
-            "zh": "前皇马主帅齐达内已被确认为法国国家队主教练。 法国队在2026年世界杯半决赛输给西班牙队后，执教时间最长的法国主教练迪迪埃·德尚结束了他长达14年的执教生涯。 齐达内曾随法国队夺得 1998 年世界杯冠军，自 2021 年第二次担任主教练离开皇马以来，他一直处于失职状态。 这位被广泛认为是法国最伟大球员的 54 岁球员将签署一份合同，带领法国队参加 2030 年世界杯预选赛。 在被任命后，他表示在世界杯上获得第四名后带领法国国家队“感到非常自豪”。 “我经常说：没有什么比法国国家队更伟大了。因此，成为法国国家队的主教练是一种快乐，显然也是一种自豪，”他补充道。 “这也是一种责任。我要感谢[法国足协]主席菲利普·迪亚洛、执行委员会和法国足协的信任，并感谢迪迪埃和他的员工14年来的服务。 “今天我对我所有的教练也有一个特别的想法。不用说，我对法国国家队抱有很高的抱负。” “任命齐达内为法国国家队主教练让法国足协感到无比自豪，”他说。 “这标志着高卢雄鸡历史上一位传奇人物的相遇，他已成为这一代人中最受尊敬和最受尊敬的教练之一，也是一支拥有罕见潜力、由最高雄心壮志驱动的球队。” 齐达内的前任德尚在他的 14 年统治期间带领法国队三次闯入重要决赛，并帮助该国在 2018 年第二次夺得世界杯冠军。 齐达内执教的首场正式比赛将于 9 月 25 日前往土耳其进行国联之旅。 2006年世界杯后以球员身份退役后，齐达内直到2014年才进入管理层，当时他成为皇家马德里卡斯蒂利亚队（俱乐部B队）的教练。 2016年1月，他成为一线队主教练，并在该赛季结束时带领球队在决赛点球大战中击败同城对手马德里竞技队，夺得冠军联赛冠军。 这是马德里队连续三届欧冠冠军中的第一个，使他们成为欧冠时代第一支连续夺得欧洲冠军的球队，也是自1976年拜仁慕尼黑以来第一支连续三届夺冠的球队。 他还在2016-17赛季赢得了西甲冠军，但在接下来的赛季后离开，称伯纳乌需要改变。 然而，齐达内于2019年3月在俱乐部状态不佳的情况下回到马德里，并在2019-20赛季再次夺得西班牙联赛冠军。 他还..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cwyq7e5d1gko-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/326c/live/14cfef50-8a59-11f1-b6c7-397f42881d1e.png",
-          "publishedAt": "2026-07-28T08:50:20.000Z",
-          "title": {
-            "en": "Zoo staff rescue near-extinct snails from remote rock",
-            "zh": "动物园工作人员从偏远的岩石中拯救濒临灭绝的蜗牛"
-          },
-          "summary": {
-            "en": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Zoo conservationists have bred 300 near-extinct tiny snails and introduced them back into the wild.\n\nJust 21 Madeiran lands snails were found clinging to a rock on Portugal's Bugio Island. They were believed to be the last of their kind.\n\nExperts at Chester Zoo said they had to brave treacherous conditions and climb cliffs to return them to their natural home, which is part of the Madeira archipelago in the Atlantic ocean.\n\nThe Madeira government had asked the Chester Zoo experts to help with the snail conservation.\n\nThe conservationists had scramble from the water up a cliff face in the dark to find cracks in the rocks where the snails could be safely left.\n\nTamas Papp, assistant team manager for invertebrates at Chester Zoo, said: \"We knew we had one shot to save them.\n\n\"We had a short window due to rough weather, and there's no jetty on the island.\n\n\"We had to jump straight into the water, climb out, put helmets and harnesses on, and start scrambling up the cliff face.\"\n\nThe snails, which measure no bigger than a third of an inch or 8mm in size, are important as they eat vegetation and enrich the soil.\n\nRead more stories from Cheshire on the BBC website, watch BBC North West Tonight on BBC iPlayer and follow BBC North West on X , external . You can also send story ideas via Whatsapp to 0808 100 2230.",
-            "zh": "动物园保护主义者饲养了 300 只濒临灭绝的小蜗牛，并将它们放回野外。 在葡萄牙布吉奥岛的一块岩石上仅发现了 21 只马德拉蜗牛。他们被认为是同类中的最后一个。 切斯特动物园的专家表示，它们必须勇敢地面对危险的环境，爬上悬崖才能回到它们的自然家园，这是大西洋马德拉群岛的一部分。 马德拉政府已请求切斯特动物园专家帮助保护蜗牛。 自然资源保护者在黑暗中从水中爬上悬崖表面，寻找可以安全地留下蜗牛的岩石裂缝。 切斯特动物园无脊椎动物团队助理经理塔马斯·帕普 (Tamas Papp) 说：“我们知道我们有机会拯救它们。 “由于天气恶劣，我们的时间很短，而且岛上没有码头。 “我们必须直接跳入水中，爬出来，戴上头盔和安全带，然后开始爬上悬崖面。” 这种蜗牛的尺寸不超过三分之一英寸或 8 毫米，它们非常重要，因为它们以植物为食并肥沃土壤。 在 BBC 网站上阅读来自柴郡的更多故事，在 BBC iPlayer 上观看 BBC North West Tonight，并在 X , external 上关注 BBC North West。您还可以通过 Whatsapp 将故事创意发送至 0808 100 2230。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-videos-c98v94dmmz0o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/08df/live/2131d810-8a1f-11f1-9974-9b804ec8347c.jpg",
-          "publishedAt": "2026-07-28T08:39:17.000Z",
-          "title": {
-            "en": "Why Netanyahu's visit with Trump at the White House is high-stakes",
-            "zh": "为什么内塔尼亚胡在白宫会见特朗普是高风险的"
-          },
-          "summary": {
-            "en": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及盼望、忍耐与重建。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Israel's Prime Minister Benjamin Netanyahu has arrived in Washington DC for talks with President Donald Trump about the future of the conflict with Iran.\n\nThe meeting comes amid signs of growing friction between the two leaders. Trump has publicly criticised Israel for continuing strikes in Lebanon and ignoring a ceasefire.\n\nAnd recent polling suggests public backing for Israel is decreasing in the US. Support of Israel and Netanyahu himself have become significant issues as voters take part in primaries ahead of this year's midterm elections.",
-            "zh": "以色列总理本杰明·内塔尼亚胡已抵达华盛顿特区，与唐纳德·特朗普总统就与伊朗冲突的未来进行会谈。 此次会面正值两国领导人之间的摩擦日益加剧之际。特朗普公开批评以色列继续袭击黎巴嫩并无视停火协议。 最近的民意调查显示，美国公众对以色列的支持正在下降。随着选民在今年中期选举前参加初选，以色列和内塔尼亚胡本人的支持已成为重要问题。"
-          },
-          "reflection": {
-            "en": "This story draws attention to hope, endurance, and faithful rebuilding. Romans 12:12 reminds us to meet sharp headlines with steady hope and perseverance, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到盼望、忍耐与重建。Romans 12:12提醒我们，在快速变化的新闻里，仍要以坚定盼望与忍耐来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Romans 5:3-4",
-            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
-            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
-            "themeEn": "Suffering produces hope",
-            "themeZh": "患难中的盼望"
           },
           "translationState": "fallback"
         },
@@ -648,74 +714,6 @@
           },
           "aiVerseId": "luke_4_18",
           "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-fujimori-takes-charge-in-peru-amid-china-us-balancing-act-",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/78113405_6.jpg",
-          "publishedAt": "2026-07-27T13:38:00.000Z",
-          "title": {
-            "en": "Fujimori takes charge in Peru amid China, US balancing act",
-            "zh": "藤森在秘鲁掌权，在中美之间寻求平衡"
-          },
-          "summary": {
-            "en": "Peru's new president, Keiko Fujimori, has assumed office, pledging to enhance security and investment. Her tenure will involve navigating Peru's position amidst the geopolitical competition between Washington and Beijing.",
-            "zh": "秘鲁新任总统藤森惠子已宣誓就职，承诺将加强国家安全和投资。她上任后，需要在华盛顿和北京的地缘政治竞争中为秘鲁找到定位。"
-          },
-          "body": {
-            "en": "Peru's new president, Keiko Fujimori, has promised more security and investment. As she takes office, she'll have to find space for the South American nation amid Washington and Beijing's geopolitical rivalry.\n\nWhen Keiko Fujimori steps into the presidential office on Tuesday, she'll bring back a political movement that hasn't been in power for more than a quarter century.\n\nFujimorism, a mix of neoliberalism, populism and strict government policies, characterized the 1990-2000 presidency of her father, the late Alberto Fujimori. Keiko Fujimori is stepping in amid a climate of social polarization, with promises to deliver more security, economic recovery and improvements in the health and education sectors.\n\nBut beyond those domestic projects, Fujimori is taking charge at a time of increased strategic importance for Peru . The country has become one of the key battlegrounds in the growing competition between the United States and China for political influence in South America.\n\nFujimori has already signaled that security will be the top priority for her government.\n\nOn the agenda: more video surveillance, a stronger police presence, tougher punishment for crimes and organized gangs, and command and control centers across the country. Part of the crackdown includes the construction of four mega-prisons, like those in El Salvador .\n\nEliana Carlin, a political science expert at the Pontifical Catholic University of Peru in Lima, is concerned by how Fujimori's plans will affect human rights .\n\n\"Behind [these measures] lie strong ideological positions intended to justify making the police and the armed forces solely subject&#160;to military jurisdiction,\" she said.\n\nIn addition to a stronger focus on security, Fujimori has said she intends to advance infrastructure projects, attract private investment, build new schools and hospitals and modernize the country with the help of technology and artificial intelligence .\n\nBut delivering on these pledges depends largely on whether the government can find the necessary funds. Infrastructure and essential services continue to face significant deficits. Added to that is the surging crime rate and the threat of the strengthening El Nino weather pattern , which could hit Peru with increased drought, extreme heat , flooding and other climate-related disruptions.\n\nForeign policy will also be a major challenge for Fujimori's administration. The opening of the Chancay port and logistics hub has turned Peru into a strategic player in regional trade — and made it a central focus in the geopolitical rivalry between Washington and Beijing.\n\nThe estimated $3.5 billion (€3 billion) project is part of China's world-spanning Belt ⁠and Road Initiative . Once fully operational, the port is expected to reduce the shipping time...",
-            "zh": "秘鲁新总统藤森庆子承诺提供更多安全和投资。当她上任时，她必须在华盛顿和北京的地缘政治竞争中为这个南美国家找到空间。 当藤森惠子周二步入总统府时，她将带回一场已经超过四分之一个世纪没有掌权的政治运动。 藤森主义是新自由主义、民粹主义和严格政府政策的混合体，是她父亲、已故阿尔贝托·藤森 1990 年至 2000 年总统任期的特征。藤森庆子在社会两极分化的气氛中介入，承诺提供更多安全、经济复苏以及卫生和教育部门的改善。 但除了这些国内项目之外，藤森在秘鲁的战略重要性日益增加之际负责这一项目。该国已成为美国和中国争夺南美政治影响力日益激烈的竞争的关键战场之一。 藤森已经表示，安全将是她的政府的首要任务。 议程包括：更多的视频监控、更强大的警察力量、对犯罪和有组织团伙更严厉的惩罚，以及全国各地的指挥和控制中心。镇压行动的一部分包括建造四座大型监狱，就像萨尔瓦多的监狱一样。 利马秘鲁天主教大学政治学专家埃利安娜·卡林 (Eliana Carlin) 对藤森的计划将如何影响人权表示担忧。 “[这些措施]背后隐藏着强烈的意识形态立场，旨在证明警察和武装部队完全受军事管辖是合理的，”她说。 除了更加关注安全之外，藤森还表示，她打算推进基础设施项目，吸引私人投资，建设新学校和医院，并借助技术和人工智能实现国家现代化。 但兑现这些承诺很大程度上取决于政府能否找到必要的资金。基础设施和基本服务继续面临严重赤字。除此之外，犯罪率飙升以及厄尔尼诺天气模式加强的威胁可能会给秘鲁带来更多的干旱、酷热、洪水和其他与气候相关的破坏。 外交政策也将成为藤森政府面临的重大挑战。钱凯港口和物流中心的开放使秘鲁成为区域贸易的战略参与者，并使其成为华盛顿和北京之间地缘政治竞争的焦点。 该项目预计耗资 35 亿美元（30 亿欧元），是中国覆盖全球的“一带一路”倡议的一部分。一旦全面投入运营，该港口预计将减少运输时间......"
-          },
-          "reflection": {
-            "en": "As President Fujimori takes on the complex task of leading Peru and balancing global powers, the need for profound wisdom is evident. Yahweh generously grants wisdom to those who ask, offering guidance for navigating intricate international relations and making decisions that serve the nation's best interests.",
-            "zh": "藤森总统肩负领导秘鲁并在全球大国间寻求平衡的复杂任务，对深层智慧的需求显而易见。雅伟慷慨地赐予寻求祂的人智慧，为她指引方向，以应对错综复杂的国际关系，并作出最符合国家利益的决策。"
-          },
-          "verse": {
-            "reference": "James 1:5",
-            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
-            "themeEn": "Ask God for wisdom",
-            "themeZh": "求神赐智慧"
-          },
-          "aiVerseId": "jas_1_5",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-iran-controls-the-strait-rejects-peace-talks",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/iran-controls-the-strait-rejects-peace-talks/g1ye2krv2",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-iran-controls-the-strait-rejects-peace-talks.jpg",
-          "publishedAt": "2026-07-27T11:35:56.000Z",
-          "title": {
-            "en": "Iran claims control of the Strait of Hormuz and rejects peace talks",
-            "zh": "伊朗声称控制霍尔木兹海峡并拒绝和谈"
-          },
-          "summary": {
-            "en": "Iran has asserted control over the Strait of Hormuz and declined an offer for negotiations, which followed a two-week pause in attacks by the Trump administration.",
-            "zh": "伊朗声称控制霍尔木兹海峡，并拒绝了特朗普政府在暂停两周袭击后提出的谈判机会。"
-          },
-          "body": {
-            "en": "Iran says it is still in control of the Strait of Hormuz and not &#x200C;seeking to resume peace talks with the United States.\n\nFollowing 13 successive nights of intensifying bombing that provoked Iran to fire &#x200C;on US bases in response, Trump halted the campaign over the weekend.\n\nIran said it would pause its own attacks for as long as the US pause in bombing endures.\n\nTrump's decision to suspend the campaign reflected advice from his top brass &#x200C;that the bombing, aimed at breaking Iran's grip on the strait, had reached the limits of what it could achieve, according to a US official and widespread US media reports.\n\nThe US official told Reuters that military commanders had advised the president they were running out of targets.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe official said the chairman of the Joint Chiefs of Staff, General Dan Caine, had also expressed concern over the depletion of air defence weapons used to protect US bases in the region.\n\nSimilar reports indicating that civilian and military aides had advised Trump to halt the campaign were carried over the weekend by the New York Times, CNN, Axios and other news outlets.\n\nThe US ambassador to the United Nations, Mike Waltz, said on &#x200C;Sunday Trump had paused &#x200C;the campaign to allow room for negotiations.\n\nBut &#x2060;the spokesperson for Iran's Foreign Ministry, Esmail Baghaei, said in a televised press conference on Monday that Iran had not asked to resume peace talks with the United States.\n\nThe end of the US bombing campaign sent oil prices tumbling in the hope that disrupted global supplies could resume flowing.\n\nBrent crude, which had briefly ticked above AU$150 a barrel last week for the first time since May, fell around 7.8 per cent by mid-morning on Monday to just under AU$130.\n\nBut in a clear bid to signal that the US bombing had failed in its objective, Tehran indicated it was still in control of the world's most important waterway for energy markets.\n\nSeveral Iranian state media outlets carried the same report, citing an \"informed source\" as saying that Iran had turned around six \"offending ships\" on Monday morning that had attempted to cross the strait without &#x2060;its permission.\n\n\"As previously announced, the traffic route in the Strait &#x200C;of Hormuz is the route specified by Iran, and other routes are contaminated and have no way out,\" the Iranian state media reports quoted the source as saying.\n\nTrump launched his renewed bombing campaign to punish Iran after Tehran fired on ships using a route through the strait that &#x200C;has been promoted by the United States, which has told vessels to sail close to the coast of Oman.\n\nIran says ships...",
-            "zh": "伊朗表示，它仍然控制着霍尔木兹海峡，并且不寻求恢复与美国的和谈。 连续 13 个晚上的密集轰炸导致伊朗向美国基地开火作为回应，特朗普在周末停止了这一行动。 伊朗表示，只要美国暂停轰炸，伊朗就会暂停自己的袭击。 据美国官员和广泛的美国媒体报道，特朗普暂停竞选活动的决定反映了他高层的建议，即旨在打破伊朗对海峡控制的轰炸已经达到了其所能达到的极限。 这位美国官员告诉路透社，军事指挥官已告知总统他们已经没有目标了。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这位官员表示，参谋长联席会议主席丹·凯恩将军也对用于保护该地区美国基地的防空武器的耗尽表示担忧。 《纽约时报》、CNN、Axios 和其他新闻媒体周末也发表了类似的报道，表明文职和军事助手建议特朗普停止竞选活动。 美国驻联合国大使迈克·沃尔兹周日表示，特朗普已暂停竞选活动，以留出谈判空间。 但伊朗外交部发言人埃斯梅尔·巴加伊周一在电视新闻发布会上表示，伊朗并未要求恢复与美国的和谈。 美国轰炸行动的结束导致油价暴跌，人们希望中断的全球供应能够恢复流动。 布伦特原油上周一度短暂突破每桶 150 澳元，为 5 月份以来首次，但到周一上午中旬下跌约 7.8%，至略低于 130 澳元。 但为了明确表明美国的轰炸未能达到其目标，德黑兰表示它仍然控制着世界上能源市场最重要的水道。 几家伊朗官方媒体也发表了同样的报道，援引“知情人士”的话说，伊朗周一早上拦截了六艘未经伊朗许可试图穿越海峡的“违规船只”。 伊朗官方媒体报道援引消息人士的话说：“正如之前宣布的那样，霍尔木兹海峡的交通路线是伊朗指定的路线，其他路线都受到污染，没有出路。” 在德黑兰向使用美国推动的穿过该海峡的航线的船只开火后，特朗普发起了新一轮的轰炸行动，以惩罚伊朗。美国要求船只靠近阿曼海岸航行。 伊朗称船只..."
-          },
-          "reflection": {
-            "en": "The rejection of peace talks highlights the profound challenge of living at peace when one party is unwilling to engage. Yahweh's word encourages us to pursue peace whenever possible, recognizing that true reconciliation requires mutual effort and a willingness to engage in dialogue. Even when one side closes the door, the call to seek peace remains a...",
-            "zh": "拒绝和谈凸显了当一方不愿参与时，和平共处的巨大挑战。雅伟的话语鼓励我们，只要可能，就尽力与众人和睦，认识到真正的和解需要双方的努力和对话的意愿。即使一方关闭了和谈的大门，寻求和平的呼召仍然是所有人的指导原则。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
         }
       ]
     },
@@ -732,8 +730,7 @@
       "sourceNotes": [
         "The Guardian China",
         "BBC News China Focus",
-        "DW Asia China Focus",
-        "SBS News China Focus"
+        "DW Asia China Focus"
       ],
       "items": [
         {
@@ -745,16 +742,16 @@
           "image": "https://i.guim.co.uk/img/media/a1aef521f6bcbf35a38430abf8d3cba535f18191/1014_0_5012_4010/master/5012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=3fb984fce1de24a342d23018880c8574",
           "publishedAt": "2026-07-28T09:01:13.000Z",
           "title": {
-            "en": "Britain promised to protect Hongkongers from China. Why does it now seem ready to sacrifice us? | Nathan Law",
-            "zh": "英国承诺保护香港人免受中国侵害。为什么它现在似乎准备牺牲我们？ |罗冠聪"
+            "en": "Britain promised to protect Hongkongers from China. Why does it now seem ready to sacrifice them? | Nathan Law",
+            "zh": "英国承诺保护香港人免受中国侵害。为什么它现在似乎准备牺牲他们？ |罗冠聪"
           },
           "summary": {
-            "en": "Activists under threat from Beijing are facing strange difficulties with UK immigration. Our safety must not be traded for warmer relations with China Nathan Law is a pro-democracy activist and former legislator from Hong Kong. He is currently a political refugee in the UK As...",
+            "en": "Activists under threat from Beijing are facing strange difficulties with UK immigration. Their safety must not be traded for warmer relations with China Nathan Law is a pro-democracy activist and former legislator from Hong Kong. He is currently a political refugee in the UK As...",
             "zh": "这是一则来自中国栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Activists under threat from Beijing are facing strange difficulties with UK immigration. Our safety must not be traded for warmer relations with China Nathan Law is a pro-democracy activist and former legislator from Hong Kong. He is currently a political refugee in the UK As authoritarian countries such as Russia, China and Iran are more active in engaging in long-arm strategies to silence their critics in the UK, transnational repression is garnering more attention. It is right that the Metropolitan police and other British law enforcement agencies have specific units and mechanisms to counter it. But it takes more than just confronting this long-distance repression to make political dissidents of these authoritarian countries feel safe in the UK, and the UK government is not living up to expectations. The threat is real. Members of the Hongkonger community have received threats from the Chinese regime – some have had threatening letters, some people were deepfaked into sexual content, some even had families questioned and arrested back home. With the level of this targeting linked to the deterioration of Hong Kong politics, many have utilised the humanitarian pathway enabled by the previous government to relocate. Continue reading...",
-            "zh": "受到北京威胁的活动人士在英国移民问题上面临着奇怪的困难。不能以我们的安全来换取与中国关系的缓和。罗冠聪是一位民主活动人士，也是香港前立法会议员。他目前是英国的政治难民。随着俄罗斯、中国和伊朗等独裁国家更加积极地采取长臂战略来压制英国的批评者，跨国镇压正在引起更多关注。伦敦警察厅和其他英国执法机构确实有专门的单位和机制来应对。但要让这些独裁国家的政治异见人士在英国感到安全，仅仅面对这种远程镇压是不够的，而英国政府并没有达到人们的期望。威胁是真实的。香港人社区的成员受到了来自中国政权的威胁——有些人收到了恐吓信，有些人被深度伪造色情内容，有些人甚至在国内遭到盘问和逮捕。由于这种目标的程度与香港政治的恶化有关，许多人利用前任政府允许的人道主义途径搬迁。继续阅读..."
+            "en": "Activists under threat from Beijing are facing strange difficulties with UK immigration. Their safety must not be traded for warmer relations with China Nathan Law is a pro-democracy activist and former legislator from Hong Kong. He is currently a political refugee in the UK As authoritarian countries such as Russia, China and Iran are more active in engaging in long-arm strategies to silence their critics in the UK, transnational repression is garnering more attention. It is right that the Metropolitan police and other British law enforcement agencies have specific units and mechanisms to counter it. But it takes more than just confronting this long-distance repression to make political dissidents of these authoritarian countries feel safe in the UK, and the UK government is not living up to expectations. The threat is real. Members of the Hongkonger community have received threats from the Chinese regime – some have had threatening letters, some people were deepfaked into sexual content, some even had families questioned and arrested back home. With the level of this targeting linked to the deterioration of Hong Kong politics, many have utilised the humanitarian pathway enabled by the previous government to relocate. Continue reading...",
+            "zh": "受到北京威胁的活动人士在英国移民问题上面临着奇怪的困难。不能用他们的安全来换取与中国关系的缓和。罗冠聪 (Nathan Law) 是一名香港民主活动人士、前立法会议员。他目前是英国的政治难民。随着俄罗斯、中国和伊朗等独裁国家更加积极地采取长臂战略来压制英国的批评者，跨国镇压正在引起更多关注。伦敦警察厅和其他英国执法机构确实有专门的单位和机制来应对。但要让这些独裁国家的政治异见人士在英国感到安全，仅仅面对这种远程镇压是不够的，而英国政府并没有达到人们的期望。威胁是真实的。香港人社区的成员受到了来自中国政权的威胁——有些人收到了恐吓信，有些人被深度伪造色情内容，有些人甚至在国内遭到盘问和逮捕。由于这种目标的程度与香港政治的恶化有关，许多人利用前任政府允许的人道主义途径搬迁。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -1007,6 +1004,39 @@
           "translationState": "localized"
         },
         {
+          "id": "www-theguardian-com-world-2026-jul-26-typhoon-noul-china-hong-kong",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/jul/26/typhoon-noul-china-hong-kong",
+          "image": "https://i.guim.co.uk/img/media/eaa5cddb4db24a9287b87cbceaf50e4060c472e2/556_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5ef579b9981c211af59483ddcc8e0cb",
+          "publishedAt": "2026-07-26T04:28:39.000Z",
+          "title": {
+            "en": "Typhoon Noul forces more than 715,000 from homes and cancels hundreds of flights in China and Hong Kong",
+            "zh": "台风诺尔迫使中国和香港超过 715,000 人逃离家园，并取消数百架航班"
+          },
+          "summary": {
+            "en": "Noul is the strongest typhoon to make landfall in China so far this year, state media reported Typhoon Noul made landfall early Sunday bringing strong winds and heavy rain to southern China, including Hong Kong, over the weekend. It prompted the evacuation of hundreds of...",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Typhoon Noul made landfall early Sunday bringing strong winds and heavy rain to southern China, including Hong Kong , over the weekend.\n\nIt prompted the evacuation of hundreds of thousands of people in Guangdong province with the region on high alert and hundreds of flights cancelled.\n\nThe typhoon – the strongest to make landfall in China so far this year – will dump heavy to torrential rains across much of southern China for two days, authorities said, after ⁠sweeping the province of ⁠Guangdong ​and neighbouring Hong Kong with gale-force winds.\n\nThe ⁠year’s 12th tropical cyclone and China’s third this month, Noul, which ​means the glow of sunrise ‌or sunset in Korean, struck ‌the coast of Huidong county about 3.50am, officials ‌said.\n\nIt is expected to bring strong winds and heavy rain to nearby provinces such as Jiangxi and Hunan as it moves inland, state media said, with the rains likely to persist until Tuesday.\n\nExtremely heavy to exceptional downpours are expected to lash some areas including the ‌province of Fujian, as the National Meteorological Centre forecast heavy to torrential rain from Sunday until Monday morning across ​much of China’s south.\n\nAuthorities urged local governments to pay special attention to flood-prone areas such as zones of mountains and rivers, building sites, valleys and bridges.\n\nHong Kong’s Observatory said Noul, with maximum sustained winds of 110 km/h (68 mph) near its centre, was moving Sunday into inland Guangdong and weakening progressively.\n\nMore than 715,000 people had been relocated for safety in Guangdong province, according to state media. Train services in the province were cancelled for Sunday, according to China News Service.\n\nChina’s National Meteorological Center expected parts of southern Guangdong and south-eastern Fujian provinces to experience heavy rain and strong winds. Many trees were seen uprooted in Huilai county, located on the coast of Guangdong province, state broadcaster CCTV reported.\n\nHong Kong’s airport authority said about 350 flights were cancelled Sunday. At least nine people were injured across the city during the typhoon period, according to authorities. Officials said flights will gradually begin resuming on Sunday afternoon.\n\nAs Noul approached Hong Kong, parts of a large scaffolding on a high-rise building collapsed on Saturday, police said, although initial reports indicated there were no injuries.\n\nTaiwan’s Central Weather Administration said Noul was bringing rainfall to parts of southern and eastern Taiwan. It was passing over waters south of Taiwan, and was moving away from the island on Saturday.\n\nThis month, Typhoon Bavi brought strong winds and rain to eastern China, leading to the evacuation of more than 2 million people. It made landfall on 11 July. Another, Maysak,...",
+            "zh": "台风诺尔周日早些时候登陆，周末给包括香港在内的中国南部地区带来强风和大雨。 这促使广东省数十万人撤离，该地区处于高度戒备状态，数百个航班被取消。 当局表示，这场台风是今年迄今为止在中国登陆的最强台风，在强风席卷广东省和邻近的香港后，将为中国南方大部分地区带来持续两天的强降雨。 官员称，今年第 12 个热带气旋、本月中国第 3 个热带气旋“Noul”（韩语的意思是日出或日落的光芒）于凌晨 3 点 50 分左右袭击了惠东县海岸。 官方媒体称，随着它向内陆移动，预计将给江西和湖南等附近省份带来强风和暴雨，降雨可能会持续到周二。 国家气象中心预计，从周日到周一上午，中国南方大部分地区将有大到暴雨，预计包括福建省在内的部分地区将出现特大到特大暴雨。 有关部门敦促地方政府特别关注山地河流、建筑工地、山谷和桥梁等洪水易发地区。 香港天文台表示，努尔中心附近的最大持续风速为每小时 110 公里（每小时 68 英里），周日正向广东内陆移动，并逐渐减弱。 据官方媒体报道，广东省已有超过 715,000 人被转移到安全地点。据中新社报道，周日该省的火车服务被取消。 中国国家气象中心预计，广东南部、福建东南部等地部分地区将有大雨、大风。据中央电视台报道，位于广东省沿海的惠来县，许多树木被连根拔起。 香港机场管理局表示，周日约有 350 架航班被取消。据当局称，台风期间全市至少有九人受伤。官员们表示，航班将于周日下午逐步恢复。 警方表示，当努尔接近香港时，一座高层建筑的大型脚手架的部分设施倒塌，不过初步报告显示无人受伤。 台湾中央气象局表示，努尔将为台湾南部和东部部分地区带来降雨。它当时正飞越台湾以南海域，并于周六远离台湾岛。 本月，台风“巴威”给中国东部地区带来强风暴雨，导致超过200万人疏散。它于7月11日登陆。另一个，梅萨克，..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-dw-com-en-us-china-ai-rivalry-heats-up-as-chinese-models-gain-ground",
           "section": "china",
           "source": "DW Asia China Focus",
@@ -1039,40 +1069,6 @@
           },
           "aiVerseId": "rom_12_18",
           "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-strong-concerns-australia-meets-with-china-f",
-          "section": "china",
-          "source": "SBS News China Focus",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/strong-concerns-australia-meets-with-china-following-ballistic-missile-test/txaw5k5uv",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-strong-concerns-australia-meets-with-china-f.jpg",
-          "publishedAt": "2026-07-22T02:08:12.000Z",
-          "title": {
-            "en": "'Strong concerns': Australia meets with China following ballistic missile test",
-            "zh": "“强烈关切”：澳大利亚在中国弹道导弹试验后与中方会晤"
-          },
-          "summary": {
-            "en": "Australia's Foreign Minister Penny Wong met with her Chinese counterpart, expressing \"strong concerns\" and reiterating the importance of transparency following a recent ballistic missile test.",
-            "zh": "澳大利亚外交部长黄英贤与中国外长举行会晤，对近期弹道导弹试验表达了“强烈关切”，并重申了透明度的重要性。"
-          },
-          "body": {
-            "en": "Australia has raised its concerns with China over its nuclear-capable missile test in the South Pacific, noting many of the region's nations also shared the same view.\n\nForeign Minister Penny Wong met with her Chinese counterpart, Wang Yi, on the sidelines of ASEAN talks in the Philippines capital, Manila, on Tuesday evening.\n\n\"You speak about the importance of mutual understanding. I agree, and I expect we will discuss our concerns ... including around peace and stability in our region, safe and professional military conduct, and the importance of transparency and reassurance of intent,\" Wong said in opening remarks.\n\nWong noted the \"strong concerns\" expressed by many Pacific Island countries about the submarine-launched missile earlier in July.\n\nThe two foreign ministers also discussed the importance of peace and stability in the Indo-Pacific.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"You've often heard me say that we will cooperate where we can and disagree where we must, and we want to continue to engage because we believe that is in our national interest,\" Wong said.\n\nAustralia was only given a few hours' notice by China of the test, which was launched within hours of Prime Minister Anthony Albanese signing a new defence alliance with Fiji.\n\nAlbanese slammed the launch as a \"provocative act\" while other Pacific nations including New Zealand, Tuvalu and Fiji condemned the incident.\n\nSolomon Islands Prime Minister Matthew Wale was standing beside his Australian counterpart in his country's capital Honiara in early July when he said the test was \"not the act of a friend\".\n\nAlbanese has previously flagged a strong statement would be issued by the Pacific Islands Forum, but the group's disagreement on the wording of the text has resulted in a delay.\n\nA foreign ministers' meeting of the forum will be held in August, where the issue is likely to be discussed.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "澳大利亚就中国在南太平洋进行的核导弹试验向中国表达了担忧，并指出该地区许多国家也持有同样的观点。 周二晚上，外交部长黄英贤在菲律宾首都马尼拉举行的东盟会谈期间会见了中国外交部长王毅。 黄在开场白中表示：“你谈到了相互理解的重要性。我同意，并且我希望我们能够讨论我们所关心的问题……包括我们地区的和平与稳定、安全和专业的军事行为，以及透明度和保证意图的重要性。” 黄指出，许多太平洋岛国7月初对潜射导弹表达了“强烈担忧”。 两国外长还讨论了印太地区和平与稳定的重要性。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 黄说：“你们经常听我说，我们将在能够合作的地方合作，在必须反对的地方反对，我们希望继续参与，因为我们相信这符合我们的国家利益。” 中国仅在几个小时内向澳大利亚发出了此次试验的通知，此次试验是在澳大利亚总理安东尼·阿尔巴内塞与斐济签署新的防务联盟后数小时内启动的。 阿尔巴内斯抨击这次发射是“挑衅行为”，而新西兰、图瓦卢和斐济等其他太平洋国家则谴责这一事件。 7月初，所罗门群岛总理马修·威尔在首都霍尼亚拉站在澳大利亚总理旁边，他表示这次测试“不是朋友的行为”。 阿尔巴内塞此前曾表示太平洋岛屿论坛将发表一份强硬声明，但该组织对文本措辞的分歧导致了这一声明的推迟。 论坛外长会议将于8月举行，届时可能会讨论这一问题。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "In the wake of a ballistic missile test, diplomatic efforts to ensure transparency reflect a commitment to de-escalation and peaceful coexistence. Yahweh's word encourages us to pursue peace with all, as far as it depends on us, even amidst challenging international relations. Such dialogue, though difficult, is vital for fostering stability and...",
-            "zh": "在弹道导弹试验之后，旨在确保透明度的外交努力体现了对缓和局势与和平共处的承诺。雅伟的话语鼓励我们，只要力所能及，就要与所有人和平相处，即使在充满挑战的国际关系中也是如此。这种对话，尽管艰难，但对于促进国家间的稳定和理解至关重要。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
-          "translationState": "localized"
         }
       ]
     },
@@ -1087,10 +1083,43 @@
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
       },
       "sourceNotes": [
-        "The Guardian Australia",
-        "SBS News Australia"
+        "SBS News Australia",
+        "The Guardian Australia"
       ],
       "items": [
+        {
+          "id": "www-sbs-com-au-news-article-gina-rinehart-funded-flights-and-fashion-sho",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/gina-rinehart-funded-flights-and-fashion-show-for-pauline-hanson/kgmh8psur",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-gina-rinehart-funded-flights-and-fashion-sho.jpg",
+          "publishedAt": "2026-07-28T11:16:13.000Z",
+          "title": {
+            "en": "Gina Rinehart funded flights and fashion show for Pauline Hanson",
+            "zh": "吉娜·莱因哈特 (Gina Rinehart) 资助宝琳·汉森 (Pauline Hanson) 的航班和时装秀"
+          },
+          "summary": {
+            "en": "While Gina Rinehart supported her trip, the One Nation leader said she paid for accommodation, meals and daily expenses.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Mining magnate Gina Rinehart flew One Nation leader Pauline Hanson around Europe and paid for her tickets to a luxury fashion show while she was there.\n\nHanson's flights from London to Sicily via Rome, and back again, were all funded by Rinehart, the senator's parliamentary register of interests revealed after being updated on Tuesday.\n\nHowever, Hanson reported paying for accommodation, meals and daily expenses herself during the July 11 to 16 trip, as first reported by Fairfax outlets.\n\nHanson drew criticism after she and Rinehart were sighted at a luxury Italian resort and attending a Dolce & Gabbana fashion event in Sicily.\n\nQuestioned when she returned to Australia, Senator Hanson did not go into detail on how the bill was split, but insisted taxpayers had not paid for the luxury weekend.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"It didn't cost the taxpayer one cent for my trip overseas. Not one cent,\" she told a Seven West Media event.\n\nHanson, who was also gifted a private plane by Rinehart in April, defended her billionaire friend, who inherited Hancock Prospecting from her late father, saying she had \"done it tough\".\n\n\"She had to borrow everything and was flat out in the very start to pay the bills. She's built up that company,\" she said.\n\nOn Monday, Hanson lost an appeal over a Federal Court finding she had made a racist remark towards deputy Greens leader Mehreen Faruqi.\n\nIn response to a post on social media soon after the death of Queen Elizabeth II in 2022, Hanson told Faruqi to \"piss off back to Pakistan\".\n\nIn his initial decision handed down in 2024, Justice Angus Stewart ruled the post was \"seriously offensive\" and a \"strong form of racism\".\n\nHanson said she was disappointed by Monday's outcome and was considering lodging a final appeal in the High Court.\n\n\"Public discussion in Australia has become almost totally silenced by laws and rules which prevent ordinary people expressing their personal views in case some small part of our society takes some sort of offence or feels hurt or 'distressed',\" she said in a statement.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "矿业巨头吉娜·莱因哈特 (Gina Rinehart) 乘坐一国党领导人宝琳·汉森 (Pauline Hanson) 飞往欧洲各地，并为她支付了一场豪华时装秀的门票。 汉森从伦敦经罗马飞往西西里岛然后再返回的航班全部由莱因哈特资助，这位参议员的议会利益登记册于周二更新后透露。 然而，据费尔法克斯媒体首次报道，汉森表示，7 月 11 日至 16 日的旅行期间，她自己支付了住宿、餐饮和日常开支。 汉森和莱因哈特被发现出现在意大利豪华度假胜地并参加西西里岛的杜嘉班纳时装活动后，汉森受到了批评。 汉森参议员返回澳大利亚后接受质询时，没有详细说明这笔费用是如何分配的，但坚称纳税人没有为这个豪华周末买单。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “我的海外旅行没有花费纳税人一分钱。一分钱都没有，”她在七西媒体的一次活动中说。 汉森在四月份还收到了莱因哈特赠送的一架私人飞机，她为她从已故父亲那里继承了汉考克勘探公司的亿万富翁朋友辩护，称她“做得很艰难”。 “她不得不借所有的东西，一开始就全力以赴来支付账单。她建立了那家公司，”她说。 周一，汉森因联邦法院裁定她对绿党副领袖梅林·法鲁奇发表种族主义言论而上诉失败。 2022 年伊丽莎白二世女王去世后不久，汉森在社交媒体上回应了一条帖子，要求法鲁奇“滚回巴基斯坦去”。 法官安格斯·斯图尔特 (Angus Stewart) 在 2024 年做出的初步裁决中裁定，该职位“具有严重冒犯性”，是“强烈的种族主义形式”。 汉森表示，她对周一的结果感到失望，并正在考虑向高等法院提出最终上诉。 她在一份声明中说：“澳大利亚的公共讨论几乎完全被法律和规则压制，这些法律和规则阻止普通人表达个人观点，以防我们社会的一小部分人受到某种冒犯或感到受伤或‘痛苦’。” 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-australia-news-2026-jul-28-jacinta-allan-resigns-qui",
           "section": "australia",
@@ -1474,7 +1503,7 @@
           },
           "body": {
             "en": "Australia's most powerful union figures have stepped down after almost a decade, saying a new generation of leaders was needed amid ongoing turbulence in the movement.\n\nSally McManus has been secretary of the Australian Council of Trade Unions (ACTU) since 2017, and Michele O'Neil its president since 2018.\n\nThe pair announced on Monday that they would leave their posts, making way for younger leaders to \"take (the) movement forward\".\n\n''The ACTU's union affiliates will decide on the next leadership team, initially with the ACTU Executive filling the casual vacancies and then through an election at next year's congress, which will coincide with the ACTU's 100th anniversary,\" the pair said in a statement.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nMcManus will finish in the role at the end of August, while O'Neil will depart before the end of the year to ''assist with the leadership transition''.\n\nWhile the pair have been praised for their work in securing deals for workers, the ACTU has been plagued by difficulties after alleged infiltration of criminals in the Construction, Forestry and Maritime Employees Union (CMFEU).\n\nIn 2024, McManus denied she knew of any of the behaviour in the Victorian branch, and also oversaw the ACTU's suspension of CFMEU divisions while it sorted itself out.\n\nIt was \"essential\" the sector emerged from that turbulent period under new leadership, O'Neil told ABC RN on Tuesday.\n\n\"Workers who work in the construction industry around this country, by and large, are hardworking, good people who work in tough and dangerous jobs, and they deserve a great union,\" she said.\n\n\"They deserve a union that is completely free of any violence or corruption or organised crime,\" she said.\n\nPrime Minister Anthony Albanese thanked the pair for their \"tireless advocacy\" for workers, and their support to him personally.\n\n\"It is fitting that Sally and Michele announce they're stepping down from their respective positions at a time when there have been significant wage increases in critical and long-undervalued sectors, the gender pay gap is at a record low and union membership is growing for the first time in decades\", he said in a statement.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "澳大利亚最有权势的工会人物在近十年后辞职，称在运动持续动荡的情况下需要新一代领导人。 Sally McManus 自 2017 年起担任澳大利亚工会理事会 (ACTU) 秘书，Michele O'Neil 自 2018 年起担任主席。 两人周一宣布将离职，为年轻领导人“推动运动前进”让路。 两人在一份声明中表示，“ACTU 的工会附属机构将决定下一个领导团队，首先由 ACTU 执行官填补临时空缺，然后在明年的代表大会上进行选举，届时恰逢 ACTU 成立 100 周年。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 麦克马纳斯将于八月底结束这一职务，而奥尼尔将在年底前离职，以“协助领导层过渡”。 尽管两人在为工人争取交易方面所做的工作受到赞扬，但由于涉嫌犯罪分子渗透到建筑、林业和海事雇员工会（CMFEU）中，ACTU 陷入了困境。 2024 年，麦克马纳斯否认她知道维州分会的任何行为，并监督 ACTU 在 CFMEU 部门自行解决问题时暂停其业务。 奥尼尔周二对美国广播公司 RN 表示，该行业在新领导层的领导下走出动荡时期是“至关重要的”。 她说：“总的来说，在全国各地建筑行业工作的工人都是勤劳、善良的人，他们从事艰苦而危险的工作，他们应该有一个伟大的工会。” “他们应该建立一个完全没有任何暴力、腐败或有组织犯罪的工会，”她说。 总理安东尼·阿尔巴内塞感谢两人对工人的“不懈倡导”以及对他个人的支持。 他在一份声明中表示：“在关键和长期被低估的行业工资大幅上涨、性别工资差距创历史新低、工会成员数十年来首次增长之际，萨莉和米歇尔宣布辞去各自职务，这是恰当的。” 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+            "zh": "澳大利亚最有权势的工会人物在近十年后辞职，称在运动持续动荡的情况下需要新一代领导人。 Sally McManus 自 2017 年起担任澳大利亚工会理事会 (ACTU) 秘书，Michele O'Neil 自 2018 年起担任主席。 两人周一宣布将离职，为年轻领导人“推动运动前进”让路。 两人在一份声明中表示，“ACTU 的工会附属机构将决定下一个领导团队，首先由 ACTU 执行官填补临时空缺，然后在明年的代表大会上进行选举，届时恰逢 ACTU 成立 100 周年。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 麦克马纳斯将于八月底结束这一职务，而奥尼尔将在年底前离职，以“协助领导层过渡”。 尽管两人在为工人争取交易方面所做的工作受到赞扬，但由于涉嫌犯罪分子渗透到建筑、林业和海事雇员工会（CMFEU）中，ACTU 陷入了困境。 2024 年，麦克马纳斯否认她知道维州分会的任何行为，并监督 ACTU 在 CFMEU 部门自行解决问题时暂停其业务。 奥尼尔周二对 ABC RN 表示，该行业在新领导层的领导下摆脱动荡时期是“至关重要的”。 她说：“总的来说，在全国各地建筑行业工作的工人都是勤劳、善良的人，他们从事艰苦而危险的工作，他们应该有一个伟大的工会。” “他们应该建立一个完全没有任何暴力、腐败或有组织犯罪的工会，”她说。 总理安东尼·阿尔巴内塞感谢两人对工人的“不懈倡导”以及对他个人的支持。 他在一份声明中表示：“在关键和长期被低估的行业工资大幅上涨、性别工资差距创历史新低、工会成员数十年来首次增长之际，萨莉和米歇尔宣布辞去各自职务，这是恰当的。” 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -1507,7 +1536,7 @@
           },
           "body": {
             "en": "New Victorian Premier Ben Carroll has declared he will lead his government in a \"new direction\", while distancing himself from his predecessors Jacinta Allan and Daniel Andrews.\n\nIn his first comments after being elected state Labor leader, Carroll also announced a royal commission into the construction sector, which has been marred by corruption allegations, and the strengthening of Victoria's anti-corruption watchdog.\n\n\"Let me make one thing very clear: I am not Daniel Andrews. I am not Jacinta Allan,\" he said on Tuesday afternoon, just hours after Allan's resignation.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe former deputy premier said \"circumstances changed\" in the six weeks since he promised Allan he would not challenge her for the top job. He thanked Allan for her service to the Labor Party and the state.\n\nCarroll was elected to the top job after a chaotic party room meeting triggered by Allan's resignation, following her loss of party support amid dire polling.\n\nPolls showed voters are frustrated with the high cost of living, rising state debt, infrastructure delays and alleged corruption on the state's Big Build projects.\n\nCarroll was expected to secure the leadership unopposed before Victorian Attorney-General Sonya Kilkenny mounted a late challenge.\n\nUnder Labor rules, a contested leadership ballot must be put to a vote of the party's rank-and-file members.\n\nThe process could take weeks and would plunge the government into political instability just months before the November state election.\n\nBut after a lengthy meeting, during which both yelling and cheering could be heard at various stages, Carroll emerged as premier. State Transport Minister Gabrielle Williams was elected his deputy.\n\nAnnouncing her resignation on Tuesday morning, Allan said it had been an honour to serve as leader.\n\n\"Thank you to the Victorian people. It has been the honour of my life to serve you as your premier. I stepped down after 1,036 days in this role. Not one of them wasted, not one of them easy.\"\n\nAllan said she believed she would have won a rank-and-file membership vote, but said the process would have been damaging in the lead-up to the November election.\n\n\"More importantly, it puts the state in a position of uncertainty. That hurts the Victorian people, and I just won't do that. At the end of the day, I am, and always have been, a team player.\"\n\nAllan reflected on her nearly three years as premier, saying her biggest priority had been tackling the cost of living.\n\n\"We not only made public transport free during a fuel crisis, we made public transport free for kids forever.\n\n\"We cut car rego for three and a half million people, and we doubled food relief so...",
-            "zh": "新维多利亚州州长本·卡罗尔宣布，他将领导政府走向“新方向”，同时与前任杰辛塔·艾伦和丹尼尔·安德鲁斯保持距离。 卡罗尔在当选州工党领袖后的首次评论中还宣布成立皇家委员会，调查因腐败指控而受到损害的建筑行业，并加强维州反腐败监管机构。 “让我澄清一件事：我不是丹尼尔·安德鲁斯。我不是杰辛塔·艾伦，”他在周二下午，就在艾伦辞职几小时后说道。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这位前副总理表示，自从他向艾伦承诺不会挑战她的最高职位以来，六周内“情况发生了变化”。他感谢艾伦为工党和国家做出的贡献。 卡罗尔在可怕的民意调查中失去了党内支持，艾伦辞职引发了一场混乱的党室会议，之后卡罗尔当选为最高职位。 民意调查显示，选民对该州高生活成本、不断上升的州债务、基础设施延误以及该州大型建设项目涉嫌腐败感到沮丧。 在维多利亚州总检察长索尼娅·基尔肯尼 (Sonya Kilkenny) 提出挑战之前，卡罗尔预计将在没有反对的情况下确保领导地位。 根据工党的规定，有争议的领导投票必须由该党的普通成员投票。 这一过程可能需要数周时间，并且在 11 月州选举前几个月，政府将陷入政治不稳定。 但在漫长的会议之后，在会议的各个阶段都可以听到喊叫声和欢呼声，卡罗尔最终成为总理。州交通部长加布里埃尔·威廉姆斯当选为副部长。 艾伦周二早上宣布辞职，她表示很荣幸担任领导人。 “感谢维州人民。能够担任你们的总理是我一生的荣幸。在担任这一职务 1,036 天后，我辞去了职务。没有一天是浪费的，也没有一天是轻松的。” 艾伦表示，她相信自己会赢得普通会员投票，但她表示，这一过程会对 11 月的选举造成损害。 “更重要的是，这让维州处于不确定的境地。这伤害了维州人民，我不会那样做。归根结底，我现在是、而且一直都是一名团队合作者。” 艾伦回顾了她担任总理近三年的经历，称她的首要任务是解决生活成本问题。 “我们不仅在燃料危机期间免费提供公共交通，还为孩子们提供永远免费的公共交通。 “我们减少了三十五十万人的汽车重修，并将粮食救济增加了一倍，所以......"
+            "zh": "新维多利亚州州长本·卡罗尔宣布，他将领导政府走向“新方向”，同时与前任杰辛塔·艾伦和丹尼尔·安德鲁斯保持距离。 卡罗尔在当选州工党领袖后的首次评论中还宣布成立皇家委员会，调查因腐败指控而受到损害的建筑行业，并加强维州反腐败监管机构。 “让我澄清一件事：我不是丹尼尔·安德鲁斯。我不是杰辛塔·艾伦，”他在周二下午，就在艾伦辞职几小时后说道。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 这位前副总理表示，自从他向艾伦承诺不会挑战她的最高职位以来，六周内“情况发生了变化”。他感谢艾伦为工党和国家做出的贡献。 卡罗尔在可怕的民意调查中失去了党内支持，艾伦辞职引发了一场混乱的党室会议，之后卡罗尔当选为最高职位。 民意调查显示，选民对该州高生活成本、不断上升的州债务、基础设施延误以及该州大型建设项目涉嫌腐败感到沮丧。 在维多利亚州总检察长索尼娅·基尔肯尼 (Sonya Kilkenny) 提出挑战之前，卡罗尔预计将在没有反对的情况下确保领导权。 根据工党的规定，有争议的领导投票必须由该党的普通成员投票。 这一过程可能需要数周时间，并且在 11 月州选举前几个月，政府将陷入政治不稳定。 但在漫长的会议之后，在会议的各个阶段都可以听到喊叫声和欢呼声，卡罗尔最终成为总理。州交通部长加布里埃尔·威廉姆斯当选为副部长。 艾伦周二早上宣布辞职，她表示很荣幸担任领导人。 “感谢维州人民。能够担任你们的总理是我一生的荣幸。在担任这一职务 1,036 天后，我辞去了职务。没有一天是浪费的，也没有一天是轻松的。” 艾伦表示，她相信自己会赢得普通会员投票，但她表示，这一过程会对 11 月的选举造成损害。 “更重要的是，这让维州处于不确定的境地。这伤害了维州人民，我不会那样做。归根结底，我现在是、而且一直都是一名团队合作者。” 艾伦回顾了她担任总理近三年的经历，称她的首要任务是解决生活成本问题。 “我们不仅在燃料危机期间免费提供公共交通，还为孩子们提供永远免费的公共交通。 “我们减少了三十五十万人的汽车重修，并将粮食救济增加了一倍，所以......"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1640,7 +1669,7 @@
           },
           "body": {
             "en": "One Nation leader Pauline Hanson has failed to overturn a court ruling that she made a racist remark when she told a fellow senator to go \"back to Pakistan\".\n\nAfter spending much of her decades-long career rejecting accusations of racism, One Nation founder Pauline Hanson has failed to quash a court ruling that she made a racist remark online.\n\nShe was found in 2024 to have racially vilified deputy Greens leader Mehreen Faruqi by telling her to \"piss off back to Pakistan\" in a tweet posted shortly after the death of Queen Elizabeth II.\n\nIn his Federal Court decision handed down in 2024, Justice Angus Stewart ruled it was \"seriously offensive\" and a \"strong form of racism\".\n\nSenator Hanson launched an appeal against the finding, with her barrister arguing the remarks might not have been pleasant but they did not intimidate people of colour.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe appeal was dismissed by the Full Court of the Federal Court on Monday, nearly four years after the social media post that landed the firebrand politician in hot water.\n\nIt came in response to a post on X, formerly Twitter, from Senator Faruqi on the day of the Queen's death in which she offered her condolences to those who knew the monarch.\n\nBut she added she could not mourn the passing of the leader of a \"racist empire built on stolen lives, land and wealth of colonised peoples\".\n\nIn a heated retort, Senator Hanson said she was appalled and disgusted by the comments.\n\n\"When you immigrated to Australia you took every advantage of this country,\" she wrote.\n\nThe remark was the \"ultimate racist slur\", Senator Faruqi noted after her victory in the Federal Court two years ago.\n\nThe social media stoush isn't the only time the two politicians have clashed, with some of Senator Hanson's more eye-catching stunts in the Senate drawing her colleague's ire.\n\nThe Greens senator accused the right-winger of blatant racism and Islamophobia when the latter w ore a burqa into parliament , just six days after the appeal hearing in November.\n\nThe 72-year-old has recently come under fire since returning from a European trip, where she was seen holidaying in Italy with billionaire donor Gina Rinehart.\n\nSenator Hanson also met with anti-immigration activist and convicted criminal Tommy Robinson and told a conservative conference Australia had been flooded with migrants.\n\nSince returning, she has attracted criticism for describing domestic violence as a \"two-way street\" in comments she insists have been taken out of context .\n\nA Roy Morgan poll published on Tuesday showed her anti-immigration party's primary vote had dipped more than 5 percentage points to 22.5 per cent in the space of a week.\n\nFor...",
-            "zh": "一国党领导人宝琳·汉森未能推翻法院的一项裁决，即她在告诉一位参议员同事“滚回巴基斯坦”时发表了种族主义言论。 一国党创始人宝琳·汉森 (Pauline Hanson) 在长达数十年的职业生涯中一直否认种族主义指控，但未能撤销法院关于她在网上发表种族主义言论的裁决。 2024 年，她被发现在英国女王伊丽莎白二世去世后不久发布的一条推文中对绿党副领袖 Mehreen Faruqi 进行种族诽谤，要求她“滚回巴基斯坦去”。 法官安格斯·斯图尔特 (Angus Stewart) 在联邦法院 2024 年做出的裁决中裁定，这是“严重冒犯”和“强烈形式的种族主义”。 汉森参议员对这一发现提出上诉，她的律师辩称，这些言论可能并不令人愉快，但并没有恐吓​​有色人种。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 周一，联邦法院合议庭驳回了上诉，距这位煽动政客陷入困境的社交媒体帖子已经过去近四年了。 这是对女王去世当天参议员法鲁奇在 X（以前的推特）上发布的帖子的回应，她在帖子中向认识女王的人表示哀悼。 但她补充说，她无法哀悼“建立在被盗的殖民地人民的生命、土地和财富之上的种族主义帝国”领导人的去世。 汉森参议员激烈反驳说，她对这些言论感到震惊和厌恶。 “当你移民到澳大利亚时，你充分利用了这个国家的优势，”她写道。 法鲁奇参议员两年前在联邦法院获胜后指出，这句话是“终极种族主义诽谤”。 社交媒体上的争论并不是两位政客唯一一次发生冲突，参议员汉森在参议院的一些更引人注目的举动引起了她同事的愤怒。 11 月上诉听证会结束后仅六天，这位绿党参议员就穿着罩袍进入议会，指责这位右翼分子公然的种族主义和伊斯兰恐惧症。 这位 72 岁的老人最近从欧洲旅行归来后受到了批评，有人看到她与亿万富翁捐赠者吉娜·莱因哈特 (Gina Rinehart) 一起在意大利度假。 汉森参议员还会见了反移民活动人士和被定罪的罪犯汤米·罗宾逊，并在一次保守派会议上表示，澳大利亚已经挤满了移民。 回国后，她因在评论中将家庭暴力描述为“双向街道”而招致批评，她坚称这些评论是断章取义的。 周二公布的罗伊·摩根民意调查显示，她所在的反移民党的初选得票率在一周内下降了 5 个百分点以上，至 22.5%。 为了..."
+            "zh": "一国党领导人宝琳·汉森未能推翻法院的一项裁决，即她在告诉一位参议员同事“滚回巴基斯坦”时发表了种族主义言论。 一国党创始人宝琳·汉森 (Pauline Hanson) 在长达数十年的职业生涯中花了大部分时间否认种族主义指控，但未能撤销法院关于她在网上发表种族主义言论的裁决。 2024年，她被发现在英国女王伊丽莎白二世去世后不久发布的一条推文中对绿党副领袖梅林·法鲁奇进行种族诽谤，要求她“滚回巴基斯坦去”。 法官安格斯·斯图尔特 (Angus Stewart) 在联邦法院 2024 年做出的裁决中裁定，这是“严重冒犯”和“强烈形式的种族主义”。 汉森参议员对这一调查结果提出上诉，她的律师辩称，这些言论可能并不令人愉快，但并没有吓到有色人种。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 周一，联邦法院合议庭驳回了上诉，距这位煽动政客陷入困境的社交媒体帖子已经过去近四年了。 这是对女王去世当天参议员法鲁奇在 X（以前的推特）上发布的帖子的回应，她在帖子中向认识女王的人表示哀悼。 但她补充说，她无法哀悼“建立在被盗的殖民地人民的生命、土地和财富之上的种族主义帝国”领导人的去世。 汉森参议员激烈反驳说，她对这些言论感到震惊和厌恶。 “当你移民到澳大利亚时，你充分利用了这个国家的优势，”她写道。 法鲁奇参议员两年前在联邦法院获胜后指出，这句话是“终极种族主义诽谤”。 社交媒体上的争论并不是两位政客唯一一次发生冲突，参议员汉森在参议院的一些更引人注目的举动引起了她同事的愤怒。 这位绿党参议员指责这位右翼分子公然的种族主义和伊斯兰恐惧症，当时后者在 11 月上诉听证会后仅六天就穿着罩袍进入议会。 这位 72 岁的老人最近从欧洲旅行归来后受到了批评，有人看到她与亿万富翁捐赠者吉娜·莱因哈特 (Gina Rinehart) 一起在意大利度假。 汉森参议员还会见了反移民活动人士和被定罪的罪犯汤米·罗宾逊，并在一次保守派会议上表示，澳大利亚已经挤满了移民。 回国后，她因将家庭暴力描述为“双向路”而招致批评，她坚称这些评论是断章取义的。 周二公布的罗伊·摩根民意调查显示，她的反移民政党的初选得票率在一周内下降了 5 个百分点以上，至 22.5%。 为了..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
