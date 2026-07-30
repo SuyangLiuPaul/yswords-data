@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T04:48:30.986Z",
+  "generatedAt": "2026-07-30T07:28:30.590Z",
   "editionDate": "2026-07-30",
   "sources": [
     {
@@ -105,12 +105,46 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "The Guardian World",
         "BBC News World",
-        "SBS News World",
-        "DW World"
+        "The Guardian World",
+        "DW World",
+        "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-bbc-co-uk-news-articles-c20dppq3y90o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg",
+          "publishedAt": "2026-07-30T07:23:11.000Z",
+          "title": {
+            "en": "Trump considering AI controls after OpenAI hacking incidents",
+            "zh": "特朗普在OpenAI黑客事件后考虑人工智能管控"
+          },
+          "summary": {
+            "en": "Former President Trump is now reportedly considering imposing controls on artificial intelligence, a shift from his administration's previous hands-off approach to the technology, following recent hacking incidents involving OpenAI.",
+            "zh": "据报道，前总统特朗普正在考虑对人工智能实施管控，这标志着他的政府此前对该技术采取的放任态度有所转变，此前OpenAI发生了多起黑客事件。"
+          },
+          "body": {
+            "en": "US President Donald Trump said on Wednesday that his administration is considering asserting more power over artificial intelligence tools after recent cybersecurity incidents.\n\nAsked about OpenAI's tools being responsible for improperly breaching the private technology of other companies, Trump said: \"We're looking at AI, we're looking at controls, we're also making sure that we lead.\"\n\nIt marks a change of tone for his administration, which has taken a more hands-off approach to the technology.\n\nTrump's comments come after an escalation of not only the apparent hacking capabilities of popular AI tools, but White House threats aimed at competing Chinese tech.\n\nTrump added that while some kind of control around AI tools was on the table, such a move would have to be done carefully.\n\n\"We don't want to restrict them where all of the sudden we come in second to China,\" he said.\n\n\"China has virtually no [AI] controls. It's freewheeling a little bit,\" Trump added.\n\nThe White House has been contacted for additional comment. The BBC has also contacted the Chinese embassy in Washington for comment.\n\nIn the last week, OpenAI has taken responsibility for at least two hacking incidents involving its AI tools acting outside of what they were designed and directed to do.\n\nDuring a trip to Washington on Wednesday, OpenAI's chief executive Sam Altman was asked by a reporter if there were more systems that had been breached by the company's tools.\n\nThe US government intervened when Anthropic, OpenAI's main American rival, decided to release to the public a model that it had previously said was too much of a risk to be made widely available.\n\nMeanwhile, in an internal White House memo from April, Trump's senior tech advisor Michael Kratsios accused China's AI firms of \"industrial-scale\" theft of US AI technology. He did so again last week, claiming that the popular Kimi 3 AI model from China's Moonshot AI was developed by stealing information from Anthropic.\n\nUS Treasury Secretary Scott Bessent has also warned that Chinese AI firms could face sanctions for such activity. And the Federal Communications Commission this week banned the importation of new foreign-made humanoid robots .\n\nMost AI models being developed in China are open source, meaning they are built and then made freely available online for anyone with the proper computer equipment to download and use.\n\nRecently, executives from most major US tech companies have signed onto public statements of support for open-source models , external .\n\nWarning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+            "zh": "美国总统唐纳德·特朗普周三表示，在最近的网络安全事件发生后，他的政府正在考虑对人工智能（AI）工具行使更多权力。 当被问及 OpenAI 的工具不当侵犯其他公司的私有技术时，特朗普表示：“我们正在研究人工智能，我们正在研究控制，我们也在确保我们的领先地位。” 这标志着他的政府基调的改变，对这项技术采取了更加不干涉的态度。 特朗普发表此番言论之前，不仅流行人工智能工具的明显黑客能力不断升级，而且白宫还针对中国竞争技术发出了威胁。 特朗普补充说，虽然对人工智能工具的某种控制已经摆在桌面上，但此举必须谨慎行事。 “我们不想限制他们，让我们突然落后于中国，”他说。 “中国几乎没有[人工智能]控制。它有点随心所欲，”特朗普补充道。 已联系白宫征求更多评论。 BBC还联系了中国驻华盛顿大使馆请其置评。 上周，OpenAI 承担了至少两起黑客事件的责任，涉及其人工智能工具的行为超出了其设计和指示的范围。 周三前往华盛顿期间，OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 被记者询问是否还有更多系统被该公司的工具攻破。 当 OpenAI 在美国的主要竞争对手 Anthropic 决定向公众发布一个模型时，美国政府进行了干预，该模型此前曾表示该模型风险太大，无法广泛使用。 与此同时，在 4 月份的一份白宫内部备忘录中，特朗普的高级技术顾问 Michael Kratsios 指责中国的人工智能公司“工业规模”窃取美国人工智能技术。上周他再次这样做，声称中国Moonshot AI流行的Kimi 3人工智能模型是通过窃取Anthropic的信息而开发的。 美国财政部长斯科特·贝森特也警告说，中国人工智能公司可能因此类活动而面临制裁。美国联邦通信委员会本周禁止进口新型外国制造的人形机器人。 中国正在开发的大多数人工智能模型都是开源的，这意味着它们是构建出来的，然后免费在线供任何拥有适当计算机设备的人下载和使用。 最近，美国大多数主要科技公司的高管都签署了支持开源模式的公开声明。"
+          },
+          "reflection": {
+            "en": "The news of considering AI controls after hacking incidents highlights the importance of foresight and prudence in navigating powerful new technologies. As we develop tools with immense potential, wisdom calls us to anticipate dangers and implement safeguards for the common good.",
+            "zh": "在黑客事件之后考虑对人工智能进行管控的消息，突显了在驾驭强大新技术时，预见性和审慎的重要性。当我们开发具有巨大潜力的工具时，智慧呼唤我们预见危险并为共同利益实施保障措施。"
+          },
+          "verse": {
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
+          },
+          "aiVerseId": "prov_27_12",
+          "translationState": "localized"
+        },
         {
           "id": "www-theguardian-com-australia-news-live-2026-jul-30-antisemitism-royal-c",
           "section": "world",
@@ -118,31 +152,133 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
           "image": "https://i.guim.co.uk/img/media/f1ff7bf2bc04d5e59c5502c3f93cfc9898ec594f/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5411562d7f88857b0e76a56bae1c38e4",
-          "publishedAt": "2026-07-30T04:28:38.000Z",
+          "publishedAt": "2026-07-30T07:13:46.000Z",
           "title": {
             "en": "Australia news live: Taylor ‘definitely wasn’t opposed’ to rightwing Liberal faction’s activities, Icac hears; Neil the seal’s Tasmanian antics cost $36,000",
-            "zh": "澳大利亚新闻直播：Icac听证会称泰勒‘绝对不反对’右翼自由党派系活动；海豹尼尔在塔斯马尼亚的滑稽行为耗资3.6万澳元"
+            "zh": "澳大利亚新闻直播：Icac听证会称泰勒“绝对不反对”右翼自由党派系活动；海豹尼尔在塔斯马尼亚的滑稽行为耗资3.6万澳元"
           },
           "summary": {
-            "en": "An Independent Commission Against Corruption (Icac) hearing in Australia has heard testimony regarding a Liberal faction's activities. Separately, the Minister for Indigenous Australians, Malarndirri McCarthy, acknowledged progress on some 'Closing the Gap' targets, while noting that more work is needed on others,...",
-            "zh": "澳大利亚独立反腐委员会（Icac）听证会听取了有关自由党派系活动的证词。此外，澳大利亚原住民事务部长马拉恩迪里·麦卡锡承认，在实现一些‘缩小差距’目标方面取得了进展，但指出在其他方面，如幼儿教育入学率，仍需更多努力。"
+            "en": "An Independent Commission Against Corruption (ICAC) hearing in Australia heard testimony suggesting a former minister was not opposed to the activities of a right-wing Liberal faction. Separately, a seal named Neil caused $36,000 worth of damage during its antics in Tasmania.",
+            "zh": "澳大利亚独立反腐委员会（ICAC）听证会听取证词，暗示一名前部长不反对右翼自由党派系的活动。此外，一只名叫尼尔的海豹在塔斯马尼亚的滑稽行为造成了3.6万澳元的损失。"
           },
           "body": {
             "en": "Follow updates live Get our breaking news email , free app or daily news podcast Minister says meeting Closing the Gap target a major step, but more work needed on others Malarndirri McCarthy , the minister for Indigenous Australians, said early childhood education enrolment for First Nations children was a milestone in the effort to reach the Closing the Gap targets. It is important to see this milestone achieved, and that is because of the work of the Aboriginal and community controlled sector and those involved in the preschool sector. … Clearly, the challenges with all the other targets remain, but I do take heart at the fact that this has been achieved. It’s very, very difficult to deal with these situations where you have particular pieces of legislation that see the high incarceration rates of First Nations people. What that means is that we have to go harder, we have to keep pushing the states and territories around the justice factors. Clearly, that is a real concern. Continue reading...",
             "zh": "关注实时更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 部长表示，会议缩小差距目标是重要一步，但其他方面还需要做更多工作 澳大利亚原住民部长 Malarndirri McCarthy 表示，原住民儿童的幼儿教育入学率是实现缩小差距目标的一个里程碑。看到这一里程碑的实现非常重要，这要归功于原住民和社区控制部门以及学前教育部门的工作。 ……显然，所有其他目标的挑战仍然存在，但我确实对这一目标已经实现这一事实感到鼓舞。当你有特定的立法规定原住民的监禁率很高时，处理这些情况是非常非常困难的。这意味着我们必须更加努力，我们必须继续围绕正义因素推动各州和地区。显然，这是一个真正令人担忧的问题。继续阅读..."
           },
           "reflection": {
-            "en": "The call for leaders to 'do justice and righteousness' resonates deeply when public officials are scrutinized for their conduct and accountability. Yahweh's ancient mandate reminds those in power of their sacred duty to protect the vulnerable and ensure equitable treatment for all, especially as efforts continue to address long-standing disparities.",
-            "zh": "当公职人员的行为和问责制受到审查时，对领导者‘施行公义和正直’的呼召引起了深刻共鸣。雅伟的古老诫命提醒掌权者，他们有神圣的职责去保护弱势群体，并确保所有人受到公平对待，尤其是在持续努力解决长期存在的不平等问题时。"
+            "en": "Public office demands integrity, as a throne is established by righteousness, not by aligning with questionable activities. This hearing reminds us that leaders are called to uphold ethical standards, ensuring their actions reflect what is good and just for all. Yahweh desires that those in authority govern with uprightness, for evil conduct undermines the...",
+            "zh": "公职要求廉正，因为王位是靠公义建立的，而不是通过与可疑活动结盟。这次听证会提醒我们，领袖被呼召维护道德标准，确保他们的行为反映对所有人而言是良善和公义的。雅伟期望掌权者以正直治理，因为邪恶的行为会破坏信任的根基。"
           },
           "verse": {
-            "reference": "Jeremiah 22:3",
-            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
-            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
-            "themeEn": "Royal justice mandate",
-            "themeZh": "王者的公义责任"
+            "reference": "Proverbs 16:12",
+            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
+            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
+            "themeEn": "Righteous rule",
+            "themeZh": "以公义治国"
           },
-          "aiVerseId": "jer_22_3",
+          "aiVerseId": "prov_16_12",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-business-2026-jul-30-shell-profits-double-jump-oil-g",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/business/2026/jul/30/shell-profits-double-jump-oil-gas-prices",
+          "image": "https://i.guim.co.uk/img/media/377f5d0d34842f9e43249096b1b96762485a0bbe/493_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab1e8143a64a05fc06fdf5d2bfad385c",
+          "publishedAt": "2026-07-30T07:08:01.000Z",
+          "title": {
+            "en": "Shell’s profits more than double after jump in oil and gas prices",
+            "zh": "壳牌利润翻倍，油气价格飙升"
+          },
+          "summary": {
+            "en": "Shell reported its second-quarter profits more than doubled to $9.84 billion, benefiting significantly from increased oil and gas prices. This surge in earnings has led environmental groups to reiterate their demands for a windfall tax to help support households struggling with rising energy costs.",
+            "zh": "壳牌公司公布第二季度利润翻倍，达到98.4亿美元，主要得益于油气价格的飙升。鉴于家庭正面临能源成本上涨的困境，环保团体再次呼吁对这些超额利润征收暴利税以支持民众。"
+          },
+          "body": {
+            "en": "Environmental groups renew calls for windfall tax to support households following Q2 earnings rise to $9.84bn Shell more than doubled its profit in its second quarter of the year, as Europe’s biggest oil and gas company reaped the benefits from the jump in oil and gas prices triggered by war in the Middle East. The FTSE 100 company’s net profit hit $9.84bn (£7.4bn) in the three months ended in June, more than double compared with the same period last year. Continue reading...",
+            "zh": "继第二季度盈利增至 98.4 亿美元之后，环保组织再次呼吁征收暴利税以支持家庭。壳牌今年第二季度的利润增长了一倍多，这家欧洲最大的石油和天然气公司从中东战争引发的石油和天然气价格上涨中获益。截至 6 月份的三个月内，富时 100 指数公司的净利润达到 98.4 亿美元（74 亿英镑），比去年同期增长了一倍多。继续阅读..."
+          },
+          "reflection": {
+            "en": "As Shell reports soaring profits while households face rising energy costs, the story highlights the tension between corporate gain and public well-being. Proverbs 11:1 reminds us that Yahweh values honest measures and just dealings in commerce, urging us to consider fairness in economic systems. This calls for reflection on how wealth is generated and...",
+            "zh": "壳牌公司公布利润飙升，而家庭却面临能源成本上涨，这则新闻凸显了企业收益与公众福祉之间的张力。箴言11:1提醒我们，雅伟看重商业中的诚实尺度和公正交易，敦促我们思考经济体系中的公平性。这促使我们反思财富是如何产生和分配的，尤其是在涉及基本资源时。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:1",
+            "textEn": "Yahweh detests dishonest scales, but accurate weights find favor with him.",
+            "textZh": "诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。",
+            "themeEn": "Yahweh hates fraud",
+            "themeZh": "雅伟厌恶诡诈"
+          },
+          "aiVerseId": "prov_11_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-live-2026-jul-30-europe-ukraine-russia-poland-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/live/2026/jul/30/europe-ukraine-russia-poland-wildfires-france-spain-greece-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/045a986ce399db1acbdc03aac286c8e5ff35c09c/409_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f7e93d96f38d34dbf8a700734eac6150",
+          "publishedAt": "2026-07-30T07:04:40.000Z",
+          "title": {
+            "en": "At least 13 killed in Russian attacks on Ukraine as Poland investigates airspace violation – Europe live",
+            "zh": "俄罗斯袭击乌克兰造成至少13人死亡，波兰调查领空侵犯事件——欧洲直播"
+          },
+          "summary": {
+            "en": "Russian forces launched a major missile and drone attack on Ukraine, killing at least 13 people and injuring dozens. Neighboring Poland is also investigating an airspace violation related to the attacks.",
+            "zh": "俄罗斯军队对乌克兰发动了大规模导弹和无人机袭击，造成至少13人死亡，数十人受伤。邻国波兰也正在调查一起与此次袭击有关的领空侵犯事件。"
+          },
+          "body": {
+            "en": "Huge missile and drone attack on Ukraine as Poland’s Tusk prepares to travel to impact site discovered in east of country At least 13 people were killed and dozens injured in another night of heavy Russian attacks on Ukraine, with neighbouring Poland also investigating an reported airspace violation and explosion on its territory. Russia launched 74 missiles and 284 drones against targets in Ukraine, with casualties reported primarily in Dnipropetrovsk and Lviv regions. Continue reading...",
+            "zh": "波兰图斯克准备前往该国东部发现的撞击地点，对乌克兰发动大规模导弹和无人机袭击 俄罗斯在另一晚对乌克兰发动猛烈袭击，造成至少 13 人死亡、数十人受伤，邻国波兰也在调查据报道其领土上发生的领空侵犯和爆炸事件。俄罗斯向乌克兰目标发射了 74 枚导弹和 284 架无人机，据报道伤亡主要发生在第聂伯罗彼得罗夫斯克和利沃夫地区。继续阅读..."
+          },
+          "reflection": {
+            "en": "The ongoing heavy attacks in Ukraine bring immense sorrow and loss, reminding us of the deep pain and suffering that conflict inflicts. In moments of such profound grief, we hold onto the hope that Yahweh promises a future where death, mourning, crying, and pain will be no more.",
+            "zh": "乌克兰持续遭受的猛烈袭击带来了巨大的悲伤和损失，提醒我们冲突所造成的深重痛苦。在如此深切的悲痛时刻，我们紧紧抓住雅伟所应许的盼望，知道将来死亡、悲哀、哭号和疼痛都将不再有。"
+          },
+          "verse": {
+            "reference": "Revelation 21:4",
+            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+            "themeEn": "End of suffering",
+            "themeZh": "苦难的终结"
+          },
+          "aiVerseId": "rev_21_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-jul-30-italian-elixir-coca-cola-precursor",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/jul/30/italian-elixir-coca-cola-precursor",
+          "image": "https://i.guim.co.uk/img/media/ee3b6a4a52171d82389a65e79374fe52c9a62254/0_0_3937_3150/master/3937.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=506e4bd578124f97a4a580398d398d2b",
+          "publishedAt": "2026-07-30T07:00:55.000Z",
+          "title": {
+            "en": "Was Florentine friars’ fatigue-fighting elixir a precursor to Coca-Cola?",
+            "zh": "佛罗伦萨修士的提神药水是可口可乐的前身吗？"
+          },
+          "summary": {
+            "en": "An Italian friar has discovered a 19th-century document in a Florentine convent's pharmacy archives, detailing a medicinal potion recipe. The concoction includes Bolivian coca leaves, kola nuts, and wine, leading to speculation that it could be a precursor to Coca-Cola.",
+            "zh": "一位意大利修士在佛罗伦萨一座古老修道院的药房档案中发现了一份19世纪的文件。这份文件详细记载了一种药用药水的配方，其中包含玻利维亚古柯叶、可乐果和葡萄酒，这引发了人们对其可能是可口可乐前身的猜测。"
+          },
+          "body": {
+            "en": "Document believed to be from 19th century details recipe using Bolivian coca leaves, kola nuts and wine An Italian friar has unearthed a document from the pharmacy archives of an ancient convent in Florence describing a medicinal potion made from Bolivian coca leaves and kola nuts, prompting suggestions it could have been a precursor to the famous US soft drink, Coca-Cola. Father Manuel Russo, rector of the San Marco convent, said he stumbled across the yellowed document, a sort-of promotional flyer, while sorting out the archives. Continue reading...",
+            "zh": "据信来自 19 世纪的文件详细介绍了使用玻利维亚古柯叶、可乐果和葡萄酒的配方一位意大利修道士从佛罗伦萨一座古老修道院的药房档案中发现了一份文件，描述了一种由玻利维亚古柯叶和可乐果制成的药水，这促使人们认为它可能是美国著名软饮料可口可乐的前身。圣马可修道院院长曼努埃尔·鲁索神父说，他在整理档案时偶然发现了这份泛黄的文件，这是一种宣传传单。继续阅读..."
+          },
+          "reflection": {
+            "en": "This discovery of an ancient recipe reminds us that knowledge often lies hidden, waiting to be unearthed from unexpected places. Just as Job suggests wisdom can be found by observing creation, human ingenuity and discovery also reveal insights from the past. It highlights the ongoing human quest to understand and innovate, drawing from the world around us.",
+            "zh": "这份古老配方的发现提醒我们，知识常常隐藏在意想不到的地方，等待被发掘。正如约伯所言，智慧可以从观察创造中获得，人类的智慧和发现也揭示了来自过去的洞察。它突显了人类不断探索和创新的追求，从我们周围的世界中汲取灵感。"
+          },
+          "verse": {
+            "reference": "Job 12:7-9",
+            "textEn": "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you.",
+            "textZh": "你且问走兽，走兽必指教你；又问空中的飞鸟，飞鸟必告诉你。或与地说话，地必指教你；海中的鱼也必向你说明。",
+            "themeEn": "Wisdom from creation",
+            "themeZh": "受造之物的教导"
+          },
+          "aiVerseId": "job_12_7",
           "translationState": "localized"
         },
         {
@@ -152,9 +288,9 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
           "image": "https://i.guim.co.uk/img/media/b9cd31be409236e6a4f7ec829de9e6f0e2910980/586_0_7136_5712/master/7136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=df0094d0aeedd3db6461941a87cfec76",
-          "publishedAt": "2026-07-30T04:25:18.000Z",
+          "publishedAt": "2026-07-30T06:51:55.000Z",
           "title": {
-            "en": "Middle East crisis live: US launches ‘heavy waves of strikes’ on Iran after days-long pause in attacks",
+            "en": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
             "zh": "中东危机：美国在暂停数日后对伊朗发动新一轮袭击"
           },
           "summary": {
@@ -162,7 +298,7 @@
             "zh": "在短暂暂停袭击后，美国对伊朗发动了新一轮打击。分析人士警告称，双方的这些军事行动大大增加了全面战争再次爆发的风险，将该地区推向“未知领域”。"
           },
           "body": {
-            "en": "US says attacks on Thursday morning hit dozens of Revolutionary Guard targets while experts say earlier strikes by both sides increase risk of return to all-out war US launches fresh strikes on Iran after days-long pause, amid fears the war is widening A liquefied natural gas tanker exited the strait of Hormuz overnight – the first such vessel ⁠visible on ship-tracking data to ⁠leave the waterway ​since 11 July, data from analytics firms showed on Thursday. The Al Areesh tanker, which is controlled by QatarEnergy and loaded a cargo at Qatar’s Ras Laffan terminal around 4-6 July, sailed ⁠out of the strait overnight on 29 July, according to Kpler and LSEG data. Continue reading...",
+            "en": "Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on Thursday US launches fresh strikes on Iran after days-long pause, amid fears the war is widening A liquefied natural gas tanker controlled by QatarEnergy exited the strait of Hormuz overnight – the first such vessel ⁠visible on ship-tracking data to ⁠leave the waterway ​since 11 July, data from analytics firms showed on Thursday. The Al Areesh tanker , which loaded a cargo at Qatar’s Ras Laffan terminal around 4-6 July, sailed ⁠out of the strait overnight on 29 July, according to Kpler and LSEG data. Continue reading...",
             "zh": "美国周四早些时候宣布发动袭击，专家表示，双方前一天进行的袭击增加了全面战争爆发的风险。分析人士警告称，美国和沙特对伊拉克的袭击将地区推向“未知领域”。伊朗半官方通讯社塔斯尼姆通讯社称，伊朗格什姆岛发生三起爆炸。霍尔木兹海峡附近的海湾岛屿是伊朗攻击艇、无人机、水雷和其他用于破坏重要能源路线运输的材料的储存地点。继续阅读..."
           },
           "reflection": {
@@ -180,71 +316,38 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-jul-30-anthony-faucis-diaries-take-aim-",
+          "id": "www-dw-com-en-french-student-fined-over-singapore-straw-licking-prank-a-",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/30/anthony-faucis-diaries-take-aim-at-news-corp-journalist-sharri-marksons-nonsense-covid-19-investigation",
-          "image": "https://i.guim.co.uk/img/media/969db45db46ab60e55ef68b0d5e6ef74ffc64ed4/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0af0bf3367fd46fb6ac22570db877c5a",
-          "publishedAt": "2026-07-30T04:10:53.000Z",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/french-student-fined-over-singapore-straw-licking-prank/a-78167837?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/78167824_6.jpg",
+          "publishedAt": "2026-07-30T05:40:00.000Z",
           "title": {
-            "en": "Anthony Fauci’s diaries take aim at News Corp journalist Sharri Markson’s ‘nonsense’ Covid-19 investigation",
-            "zh": "安东尼·福奇日记抨击新闻集团记者莎莉·马克森“胡说八道”的新冠病毒调查"
+            "en": "French student fined over Singapore straw licking prank",
+            "zh": "法国学生因新加坡舔吸管恶作剧被罚款"
           },
           "summary": {
-            "en": "Former US top health official Dr. Anthony Fauci has criticized journalist Sharri Markson's investigation into the origins of Covid-19 in his diaries, calling her reporting \"nonsense.\" Fauci, who has been subpoenaed for a Senate hearing on the pandemic, stated that Markson's claims \"do not make any sense.\"",
-            "zh": "美国前高级卫生官员安东尼·福奇博士在他的日记中批评了记者莎莉·马克森对新冠病毒起源的调查，称她的报道是“胡说八道”。福奇已被传唤出席参议院关于新冠疫情的听证会，他表示马克森的说法“没有任何意义”。"
+            "en": "A French student faces a substantial fine and potential deportation from Singapore after a social media prank involving licking a straw went viral.",
+            "zh": "一名法国学生因在社交媒体上发布舔吸管的恶作剧视频而面临巨额罚款，并可能影响其在新加坡的居留权。"
           },
           "body": {
-            "en": "US former top health official, who was subpoenaed to appear at a Senate hearing into Covid-19, says Markson’s reporting about virus’s origin ‘does not make any sense’ Get our breaking news email , free app or daily news podcast Dr Anthony Fauci , the US’s chief medical adviser at the start of the pandemic, has described a book by News Corp investigative journalist Sharri Markson backing the “lab leak” theory of Covid-19’s origins as a “bunch of nonsense” in his newly released diaries. This week, Fauci, 85, was subpoenaed by the Republican senator Rand Paul to appear at a Senate hearing into Covid-19 and his handling of the pandemic. Continue reading...",
-            "zh": "被传唤出席参议院关于 Covid-19 的听证会的美国前高级卫生官员表示，马克森关于病毒起源的报道“没有任何意义”。 大流行开始时，美国首席医疗顾问安东尼·福奇博士将新闻集团调查记者莎莉·马克森 (Sharri Markson) 的一本支持 Covid-19 起源“实验室泄露”理论的书描述为在他新发表的日记中，“一堆废话”。本周，85 岁的福奇接到共和党参议员兰德·保罗的传票，出席参议院关于 Covid-19 及其处理疫情的听证会。继续阅读..."
+            "en": "A social media stunt involving a single straw has left a French student facing a hefty fine — and possible consequences for his right to remain in Singapore.\n\nA French student has been fined 600 Singapore dollars (€400, $458) after licking a drinking straw and returning it to a dispenser in a prank filmed for social media.\n\nThe 19-year-old, Didier Gaspard Owen Maximilien, pleaded guilty to a public nuisance charge.\n\nHe avoided a possible prison sentence, but it remains unclear whether authorities will revoke his student pass. The French national studies at Singapore's ESSEC Business School.\n\nMaximilien removed a straw from a freshly squeezed orange juice vending machine in March, licked it and placed it back in the dispenser.\n\nAn employee of the company operating the machine saw the footage and contacted police. As a result, all 500 straws in the dispenser had to be replaced.\n\nThe direct cost amounted to just 5 Singapore dollars, or around €3.30, according to court documents, but the case attracted nationwide attention.\n\nMaximilien could have faced several months in prison, a fine, or both after being convicted of disturbing public order.\n\nHis lawyer told the court that he was remorseful and now understood that an apparently harmless prank could have far-reaching consequences.\n\nThe wealthy city-state is known for its strict laws and rigorous enforcement, with cleanliness and tightly regulated public spaces forming part of its image for decades.\n\nThe import of chewing gum, for example, remains largely prohibited as part of efforts to prevent littering and vandalism.\n\nSingapore also retains judicial caning for certain serious offenses, although the punishment was not applicable in the student's case.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here&#160;and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+            "zh": "涉及一根吸管的社交媒体噱头导致一名法国学生面临巨额罚款，并可能影响他留在新加坡的权利。 一名法国学生在社交媒体上拍摄的恶作剧中舔了吸管并将其放回饮水机后，被罚款 600 新元（400 欧元，458 美元）。 19 岁的迪迪埃·加斯帕德·欧文·马克西米连 (Didier Gaspard Owen Maximilien) 承认了一项公共滋扰指控。 他避免了可能的监禁，但目前尚不清楚当局是否会吊销他的学生证。法国国民就读于新加坡ESSEC商学院。 三月份，马克西米连从鲜榨橙汁自动售货机中取出一根吸管，舔了舔，然后将其放回饮水机中。 操作该机器的公司员工看到了这段视频并联系了警方。结果，饮水机中的 500 根吸管全部被更换。 根据法庭文件，直接成本仅为 5 新加坡元，约合 3.30 欧元，但此案引起了全国关注。 马克西米连在被判扰乱公共秩序罪后，可能会面临几个月的监禁、罚款，或两者兼施。 他的律师告诉法庭，他很悔恨，现在明白一个看似无害的恶作剧可能会产生深远的后果。 这个富裕的城邦以其严格的法律和严格的执法而闻名，几十年来清洁和严格监管的公共空间一直是其形象的一部分。 例如，为了防止乱扔垃圾和故意破坏行为，口香糖的进口在很大程度上仍然被禁止。 新加坡还保留对某些严重罪行的司法鞭刑，尽管这种处罚不适用于该学生的案件。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
           },
           "reflection": {
-            "en": "In public discourse, especially concerning complex issues like a pandemic's origins, it is vital to hear all sides and examine claims thoroughly. As one perspective challenges another, the pursuit of truth requires careful consideration of every argument and evidence presented. This process helps us move beyond initial impressions to a more complete...",
-            "zh": "在公共讨论中，尤其是在涉及大流行病起源等复杂问题时，倾听各方意见并彻底审查主张至关重要。当一种观点挑战另一种观点时，对真相的追求需要仔细考虑所提出的每一个论点和证据。这个过程帮助我们超越最初的印象，获得更全面的理解，并信靠雅伟最终的明晰。"
+            "en": "A seemingly harmless social media prank has led to serious legal repercussions, reminding us how quickly a small act can ignite a significant problem. Just as a tiny spark can set a large forest ablaze, our actions, especially online, can have far-reaching and unintended consequences. Yahweh calls us to wisdom, considering the potential impact of our...",
+            "zh": "一个看似无伤大雅的社交媒体恶作剧，却带来了严重的法律后果，提醒我们一个微小的举动能多快地引发大麻烦。正如星星之火可以燎原，我们的行为，尤其是在网络上，可能产生深远且意想不到的后果。雅伟呼召我们要有智慧，在行动之前深思熟虑我们选择的潜在影响。"
           },
           "verse": {
-            "reference": "Proverbs 18:17",
-            "textEn": "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.",
-            "textZh": "先诉情由的，似乎有理；但邻舍来到，就察出实情。",
-            "themeEn": "Hearing both sides",
-            "themeZh": "兼听则明"
+            "reference": "James 3:5",
+            "textEn": "The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark.",
+            "textZh": "舌头在百体里也是最小的，却能说大话。看哪，最小的火能点着最大的树林。",
+            "themeEn": "Small spark, big fire",
+            "themeZh": "星星之火"
           },
-          "aiVerseId": "prov_18_17",
+          "aiVerseId": "jas_3_5",
           "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-business-2026-jul-30-carmakers-delaying-investment-i",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/business/2026/jul/30/carmakers-delaying-investment-in-uk-factories-until-ev-sales-rules-relaxed",
-          "image": "https://i.guim.co.uk/img/media/1c325193edeb916f01927f8bde4476795ee3e705/1205_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb6f60917c92a1300cc8c2ad5f5d8b2e",
-          "publishedAt": "2026-07-30T04:00:52.000Z",
-          "title": {
-            "en": "Carmakers ‘delaying investment in UK factories until EV sales rules relaxed’",
-            "zh": "汽车制造商“推迟对英国工厂的投资，直到电动汽车销售规则放宽”"
-          },
-          "summary": {
-            "en": "Industry wants mandate forcing manufacturers to sell increasing share of electric cars each year to be eased Carmakers are delaying final decisions to invest in UK factories until electric car sales rules are relaxed, according to the head of the British car industry’s lobby...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Industry wants mandate forcing manufacturers to sell increasing share of electric cars each year to be eased Carmakers are delaying final decisions to invest in UK factories until electric car sales rules are relaxed, according to the head of the British car industry’s lobby group. The chief executive of the Society of Motor Manufacturers and Traders (SMMT), Mike Hawes, said those with existing UK operations were considering building new models, but had held back so far. Continue reading...",
-            "zh": "英国汽车行业游说团体负责人表示，汽车制造商正在推迟投资英国工厂的最终决定，直到放宽电动汽车销售规则。汽车制造商和贸易商协会 (SMMT) 首席执行官迈克·霍斯 (Mike Hawes) 表示，那些在英国现有业务的公司正在考虑生产新车型，但迄今为止尚未实现。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-bbc-co-uk-news-articles-c74gwdzywmeo-at-medium-rss-at-campaign-rss",
@@ -252,8 +355,8 @@
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg",
-          "publishedAt": "2026-07-30T03:33:01.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/104e/live/d24da650-8be2-11f1-a7ab-8b30adf0800a.jpg",
+          "publishedAt": "2026-07-30T05:36:27.000Z",
           "title": {
             "en": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
             "zh": "美国在美军遇袭后对伊朗发动“猛烈”打击"
@@ -263,7 +366,7 @@
             "zh": "美国军方对伊朗发动了袭击，称此举是对伊朗本周早些时候向中东美军发射导弹的回应。"
           },
           "body": {
-            "en": "The US military says it launched \"heavy\" strikes against Iran on Wednesday in retaliation for attempted Iranian ballistic missile attacks on American forces.\n\nCentcom said it hit \"dozens\" of Islamic Revolutionary Guard Corps (IRGC) targets in response to Tuesday's firing by Iran on US bases in Jordan and at ships in the Strait of Hormuz.\n\nThe latest hostilities came a day after the conflict expanded, with the first publicly announced joint US-Saudi strikes targeting Iranian proxies in Iraq.\n\nWhen the US and Israel launched military strikes on Iran in February, President Donald Trump said the war would last only a few weeks, but it has gone on for five months with no end in sight.\n\nOn Wednesday, Axios reported, citing an unnamed US official, that Trump had met with Saudi defence minister Prince Khalid bin Salman, who had conveyed that Saudi Arabia wants to de-escalate tensions. The BBC has contacted the White House for comment.\n\nFor days, both sides halted strikes as talks apparently restarted in hopes of some type of diplomatic solution. Trump called them \"very friendly negotiations\", though Tehran denied any discussions were happening.\n\nThe strikes on Wednesday started at 20:00 ET (01:00 BST on Thursday) and lasted about an hour, with Centcom calling them a \"powerful response to yesterday's attempted Iranian attacks on US forces based in the Middle East\". All of Iran's missiles were intercepted, Centcom said.\n\nThe attack by the US targeted \"military command centers, missile and drone facilities, coastal surveillance and defense sites, and maritime capabilities,\" Centcom wrote once the strikes were complete.\n\nHours before the announced strikes, Trump vowed to retaliate against Iran for their attempted attack on US troops a day earlier.\n\nThe US president told reporters at the White House: \"We're going to be hitting them very hard because it's our turn to hit them.\n\nThe IRGC said it had targeted a US air base and a command centre in Jordan \"in response to the acts of aggression of the American child-killing army\".\n\nIt also said naval forces had struck three oil tankers in the Strait of Hormuz after they \"ignored warnings\" and sailed along what it described as an \"unsafe and illegal route\" through the vital Gulf waterway.\n\nLast Friday, Trump suspended an intensive bombing campaign that had lasted for 13 consecutive nights. The US said it had targeted Iranian weapons and military sites. Scores of people were reported to have died.\n\nOn Tuesday, Centcom said the joint US-Saudi strikes hit \"multiple terrorist logistics and weapons sites across eastern Iraq in a strong response to over 30 IRGC-directed aerial drone attacks in the last 72 hours\".\n\nIraq's paramilitary Popular Mobilisation Forces (PMF), which is dominated by Iran-backed Shia militias, said at...",
+            "en": "The US military says it has completed a \"heavy wave\" of strikes against Iran in retaliation for Tuesday's attempted ballistic missile attacks on American forces.\n\nCentcom said it hit \"dozens\" of Islamic Revolutionary Guard Corps (IRGC) targets in response to Iran's firing on US bases in Jordan and at ships in the Strait of Hormuz.\n\nIranian state media said the latest strikes had killed three people, including a two-year-old child, on Qeshm island, while other locations were also hit in the south and west of the country.\n\nThe latest hostilities come on a week that has seen the conflict expand, with the first publicly announced joint US-Saudi strikes targeting Iranian proxies in Iraq.\n\nWhen the US and Israel launched military strikes on Iran in February, President Donald Trump said the war would last only a few weeks, but it has gone on for five months with no end in sight.\n\nOn Wednesday, news outlet Axios cited an unnamed US official as saying that Trump had met Saudi defence minister Prince Khalid bin Salman, who had conveyed that Saudi Arabia wants to de-escalate tensions. The BBC has contacted the White House for comment.\n\nFor days, both sides halted strikes as talks apparently restarted in hopes of some type of diplomatic solution. Trump called them \"very friendly negotiations\", though Tehran denied any discussions were happening.\n\nBut following the Iranian missile attack on a US base in Jordan on Tuesday, Trump vowed to retaliate, telling reporters at the White House: \"We're going to be hitting them very hard because it's our turn to hit them. They know it's coming. They asked us not to do it.\"\n\nThe latest wave of US strikes started at 20:00 ET on Wednesday (01:00 BST on Thursday) and lasted about an hour, with Centcom calling them a \"powerful response to yesterday's attempted Iranian attacks on US forces based in the Middle East\". All of Iran's missiles were intercepted, Centcom said.\n\nThe attack by the US targeted \"military command centers, missile and drone facilities, coastal surveillance and defense sites, and maritime capabilities,\" Centcom wrote once the strikes were complete.\n\nIranian state media agency Irib reported that the islands of Qeshm and Abadan, both central to the oil industry, were among the areas hit.\n\n\"A US attack on a residential home in the Chah Tangu neighbourhood of Qeshm killed three members of a family: the father, the mother, and their 2-year-old child,\" Fars reported citing the Hormozgan University of Medical Sciences.\n\nMeanwhile, Jordan's armed forces said that air defence systems had successfully shot down five Iranian missiles targeting the Kingdom's territory on Thursday.\n\nOn Tuesday, the IRGC said it had targeted a US air base and a command centre in Jordan \"in response to the acts of aggression of the American...",
             "zh": "美国军方表示，周三对伊朗发动了“猛烈”打击，以报复伊朗企图对美军发动弹道导弹袭击。 中央司令部表示，针对伊朗周二向驻约旦的美国基地和霍尔木兹海峡的船只开火的事件，它袭击了“数十个”伊斯兰革命卫队（IRGC）目标。 最新的敌对行动发生在冲突扩大的第二天，美国和沙特首次公开宣布针对伊朗在伊拉克​​的代理人进行联合打击。 当美国和以色列二月份对伊朗发动军事打击时，唐纳德·特朗普总统表示战争只会持续几周，但战争已经持续了五个月，而且看不到结束的迹象。 周三，Axios 援引一位未透露姓名的美国官员的话说，特朗普会见了沙特国防部长哈立德·本·萨勒曼亲王，后者表示沙特阿拉伯希望缓和紧张局势。 BBC 已联系白宫请其置评。 几天来，双方都停止了罢工，谈判显然重新开始，希望能找到某种形式的外交解决方案。特朗普称他们是“非常友好的谈判”，尽管德黑兰否认正在进行任何讨论。 周三的袭击于美国东部时间 20:00（周四英国夏令时间 01:00）开始，持续了大约一个小时，中央司令部称此次袭击是“对伊朗昨天试图袭击驻中东美军的有力回应”。中央司令部表示，伊朗的所有导弹均被拦截。 美国中央司令部在袭击完成后写道，美国的袭击目标是“军事指挥中心、导弹和无人机设施、沿海监视和防御站点以及海上能力”。 在宣布发动袭击的几个小时前，特朗普发誓要对伊朗一天前企图袭击美军进行报复。 美国总统在白宫对记者说：“我们将严厉打击他们，因为现在轮到我们打击他们了。 伊朗伊斯兰革命卫队表示，“为了回应美国屠杀儿童军队的侵略行为”，它袭击了约旦的一个美国空军基地和一个指挥中心。 它还表示，海军部队在霍尔木兹海峡袭击了三艘油轮，因为它们“无视警告”，并沿着所谓的“不安全和非法路线”穿过重要的海湾水道航行。 上周五，特朗普暂停了连续13晚的密集轰炸行动。美国表示，其目标是伊朗的武器和军事地点。据报道，已有数十人死亡。 周二，中央司令部表示，美国和沙特的联合袭击袭击了“伊拉克东部多个恐怖分子后勤和武器基地，这是对过去 72 小时内 30 多次由伊斯兰革命卫队指挥的无人机袭击的强烈回应”。 由伊朗支持的什叶派民兵主导的伊拉克准军事民众动员部队（PMF）在..."
           },
           "reflection": {
@@ -281,39 +384,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-jul-30-luke-gosling-labor-mp-arr",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jul/30/luke-gosling-labor-mp-arrested-northern-territory-nt-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/df6488547114916af5bad7c2360ddbec8d145998/1342_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13e2a9b5efdd5f34e5c31ba126a3d1f5",
-          "publishedAt": "2026-07-30T03:23:04.000Z",
-          "title": {
-            "en": "Federal Labor MP Luke Gosling charged with assaulting NT administrator",
-            "zh": "联邦工党议员卢克·高斯林被控袭击北领地行政长官"
-          },
-          "summary": {
-            "en": "Member for Solomon previously denied alleged incident with administrator David Connolly and says he will contest charges Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Luke Gosling, the federal Labor member for...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Member for Solomon previously denied alleged incident with administrator David Connolly and says he will contest charges Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Luke Gosling, the federal Labor member for Solomon, has been charged over an alleged assault on the Northern Territory’s administrator earlier this month, NT police have said. “The Northern Territory police force has charged the 54-year-old federal member for Solomon, Luke Gosling, in relation to an alleged assault on the administrator of the Northern Territory,” police said in a statement on Thursday. Continue reading...",
-            "zh": "所罗门议员此前否认与管理员大卫·康诺利发生事件，并表示将对指控提出异议 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 据北领地警方称，所罗门联邦工党议员卢克·高斯林本月早些时候因涉嫌袭击北领地管理员而被指控。警方在周四的一份声明中表示，“北领地警察部队已对 54 岁的所罗门联邦议员卢克·高斯林提出指控，涉嫌袭击北领地行政长官。”继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-bbc-co-uk-news-articles-crmrv4pnexmo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
@@ -323,28 +393,29 @@
           "publishedAt": "2026-07-30T03:03:12.000Z",
           "title": {
             "en": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
-            "zh": "澳大利亚因 Telegram 未能删除“支持恐怖分子”材料而将 Telegram 告上法庭"
+            "zh": "澳大利亚就Telegram涉嫌未能删除“支持恐怖主义”材料将其告上法庭"
           },
           "summary": {
-            "en": "Telegram told the BBC it rejects the allegations and will contest them in court.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "Australia has initiated legal proceedings against the messaging app Telegram, alleging that the platform has failed to remove material that promotes terrorism. Telegram has denied these accusations and stated its intention to challenge them in court.",
+            "zh": "澳大利亚已对即时通讯应用Telegram提起法律诉讼，指控该平台未能删除“支持恐怖主义”的材料。Telegram否认了这些指控，并表示将在法庭上抗辩。"
           },
           "body": {
             "en": "Australia is taking Telegram to court over its alleged failure to remove \"pro-terror\" material, including video of the Christchurch shootings, the country's eSafety commissioner has said.\n\nJulie Inman-Grant, who last year led Australia's world-first ban on social media for under-16s, said the platform faced a fine of up to to A$54.6m (£28m, US$38m) for failing to comply with its safety obligations under the Online Safety Act.\n\nThe platform had left content \"linked to some of the most notorious acts of known extremist violence in recent history\" online long after it had been put on notice, she alleged.\n\n\"This should concern all of us,\" she said, adding \"no platform is above the law\".\n\nThe announcement comes a day after Russia charged Telegram's founder Pavel Durov with facilitating terrorism, based on allegations that the messenger app had been used for recruitment by Ukrainian secret services.\n\nDurov was also arrested and placed under formal investigation in France in 2024 for his alleged failure to properly moderate the app to reduce criminality. He was allowed to go home months later, while the investigation continues.\n\nInman-Grant said her agency had begun inquiring what Telegram was doing to combat terrorist and extremist material in March 2024, and had endured \"five very difficult months of unresponsiveness\".\n\nThough the platform later started engaging, she said it had retained a \"permissive environment\" for hosting extremist content that was \"very easy to find\".\n\n\"This only serves to desensitise, to normalise and to sometimes radicalise\" users, she said. She also alleged that the platform was \"sometimes used to plan attacks\".\n\nA Telegram spokesperson said the platform's \"extensive\" anti-terrorism efforts were \"well documented\", adding: \"We reject these allegations and will contest them in court.\"\n\nExtremist content that was allegedly accessible on Telegram included video of the 2019 Christchurch mosque and Buffalo shooting in New York in May 2022, as well as videos of terrorist executions, according to Inman-Grant.\n\nWith the \"painful aftermath\" of the attack that targeted a Jewish festival in Bondi in December fresh in Australians' minds, it \"is more important than ever that digital platforms meet their obligations to protect the community\", she said.\n\nInman-Grant noted that Australia does not issue licences for platforms like Telegram, but said \"we could apply to the federal court and ask that the service be ceased\".\n\n\"We've never used those powers,\" she said. \"We'll see how this all plays out and whether that kind of action is warranted.\"\n\nThe eSafety regulator also fined Telegram A$1m in February 2025 for failing to respond on time to questions about how it was tackling child abuse and extremist material on the platform.",
             "zh": "澳大利亚电子安全专员表示，澳大利亚正在将 Telegram 告上法庭，指控其未能删除“支持恐怖分子”的材料，其中包括基督城枪击事件的视频。 去年，澳大利亚全球首个针对 16 岁以下青少年实施社交媒体禁令的朱莉·英曼-格兰特 (Julie Inman-Grant) 表示，该平台因未能遵守《在线安全法》规定的安全义务而面临高达 5460 万澳元（2800 万英镑，3800 万美元）的罚款。 她声称，该平台在发出通知后很久就在网上留下了“与近代历史上一些最臭名昭著的已知极端主义暴力行为有关的内容”。 “这应该引起我们所有人的关注，”她说，并补充说“没有任何平台可以凌驾于法律之上”。 就在这一消息发布的前一天，俄罗斯指控 Telegram 创始人帕维尔·杜罗夫 (Pavel Durov) 协助恐怖主义，理由是该通讯应用程序被乌克兰特勤局用于招募人员。 杜罗夫还于 2024 年在法国被捕并接受正式调查，原因是他涉嫌未能适当监管该应用程序以减少犯罪行为。几个月后，他被允许回家，调查仍在继续。 英曼-格兰特表示，她的机构已于 2024 年 3 月开始询问 Telegram 正在采取哪些措施来打击恐怖主义和极端主义材料，并经历了“非常艰难的五个月没有回应”。 尽管该平台后来开始参与，但她表示，它保留了一个“宽松的环境”来托管“很容易找到”的极端主义内容。 她说，“这只会让用户变得麻木、正常化，有时甚至变得激进”。她还声称该平台“有时被用来策划攻击”。 Telegram 发言人表示，该平台“广泛”的反恐努力“有据可查”，并补充道：“我们拒绝这些指控，并将在法庭上对其提出质疑。” 据英曼-格兰特称，据称可以在 Telegram 上访问的极端主义内容包括 2019 年基督城清真寺和 2022 年 5 月纽约布法罗枪击事件的视频，以及处决恐怖分子的视频。 她说，去年 12 月针对邦迪犹太节日的袭击造成的“痛苦后果”还让澳大利亚人记忆犹新，“数字平台履行保护社区的义务比以往任何时候都更加重要”。 英曼-格兰特指出，澳大利亚不会为 Telegram 等平台颁发许可证，但表示“我们可以向联邦法院申请并要求停止该服务”。 “我们从未使用过这些权力，”她说。 “我们将看看这一切如何展开，以及这种行动是否有必要。” eSafety 监管机构还于 2025 年 2 月对 Telegram 处以 100 万澳元罚款，原因是 Telegram 未能及时回应有关其如何处理平台上虐待儿童和极端主义材料的问题。"
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This news highlights the profound impact words can have, especially when they are used recklessly to incite harm. As Proverbs reminds us, rash words can wound like a sword, underscoring the responsibility platforms bear in moderating content that could lead to real-world violence. May Yahweh guide us to use our words for healing and peace, rather than for...",
+            "zh": "这则新闻凸显了言语可能造成的深远影响，尤其当它们被鲁莽地用于煽动伤害时。正如箴言提醒我们的，轻率的言语如同刀剑刺人，这强调了平台在管理可能导致现实世界暴力的内容方面所承担的责任。愿雅伟引导我们用言语带来医治与和平，而非破坏。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Proverbs 12:18",
+            "textEn": "The words of the reckless pierce like swords, but the tongue of the wise brings healing.",
+            "textZh": "说话浮躁的，如刀刺人；智慧人的舌头却为医人的良药。",
+            "themeEn": "Reckless words pierce",
+            "themeZh": "言语如刀"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_12_18",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-articles-crrvqjw8epko-at-medium-rss-at-campaign-rss",
@@ -356,28 +427,29 @@
           "publishedAt": "2026-07-30T02:54:54.000Z",
           "title": {
             "en": "Singapore fines French teen $465 for viral straw-licking stunt",
-            "zh": "法国青少年因舔吸管特技被新加坡罚款 465 美元"
+            "zh": "新加坡对法国青少年因舔吸管特技视频走红罚款465美元"
           },
           "summary": {
-            "en": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "A 19-year-old French tourist was fined $465 in Singapore for licking a straw in a public transport carriage, an act that went viral online. His lawyers stated he was genuinely remorseful for the trouble caused.",
+            "zh": "一名19岁的法国游客在新加坡因在公共交通车厢内舔吸管的视频在网上疯传而被罚款465美元。他的律师表示，他对自己造成的麻烦深感抱歉。"
           },
           "body": {
             "en": "A Singapore court has fined a French student S$600 ($465; £348) for licking a straw from an orange juice vending machine and putting it back into its dispenser.\n\nDidier Gaspard Owen Maximilien, 19, pleaded guilty to one count of public nuisance.\n\nMaximilien, who is studying in Singapore, posted the video of himself licking the straw on Instagram with the caption \"city is not safe\".\n\nMany online reacted with disgust to his video, which was reposted on a community page and picked up by local news outlets.\n\nThe company that owns the vending machine, iJooz, said it replaced all 500 straws in the machine dispenser after Maximilien's stunt.\n\nPublic nuisance offenders in Singapore face up to a S$2,000 fine, three months in jail, or both.\n\nMaximilien is \"truly sorry for having caused all this trouble and he realises that what appeared to him at that time as something perhaps playful has turned out to be something very consequential,\" a defence lawyer was quoted as saying by The Straits Times.\n\nServing freshly-squeezed orange juice at S$2 per cup, iJooz vending machines are a common sight in shopping districts, train stations and housing blocks in Singapore.\n\nMaximilien licked the straw from an iJooz machine in Goldhill Centre on 12 March, in one of the city-state's more affluent neighbourhoods, after a boxing workout, Channel News Asia reported.",
             "zh": "新加坡法院对一名法国学生处以 600 新元（465 美元；348 英镑）的罚款，原因是他舔了橙汁自动售货机上的吸管并将其放回饮水机中。 19 岁的迪迪埃·加斯帕德·欧文·马克西米连 (Didier Gaspard Owen Maximilien) 承认一项公共滋扰罪。 在新加坡读书的马克西米连在Instagram上发布了自己舔吸管的视频，并配文“城市不安全”。 许多网友对他的视频表示厌恶，该视频被转发到社区页面并被当地新闻媒体转载。 自动售货机的所有者 iJooz 表示，在马克西米连的表演之后，该公司更换了自动售货机中所有 500 根吸管。 在新加坡，公共滋扰犯罪者将面临最高 2,000 新元的罚款、三个月的监禁，或两者并罚。 《海峡时报》援引辩护律师的话说，马克西米连“对造成所有这些麻烦感到非常抱歉，他意识到当时在他看来可能是好玩的事情后来变成了非常重要的事情”。 iJooz 自动售货机以每杯 2 新元的价格供应鲜榨橙汁，在新加坡的购物区、火车站和住宅区随处可见。 据亚洲新闻台报道，3 月 12 日，马克西米利安在拳击训练结束后，在金山中心（金山中心）舔了 iJooz 机器上的吸管。金山中心是新加坡较富裕的社区之一。"
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "A seemingly minor act, amplified by its viral spread, can lead to unexpected and significant consequences. This incident reminds us that even small actions, especially in public spaces, can quickly escalate and cause considerable trouble. It highlights the importance of considering the potential impact of our behavior in an interconnected world.",
+            "zh": "一个看似微不足道的行为，因其在网上的病毒式传播，可能导致意想不到的重大后果。这起事件提醒我们，即使是小小的举动，尤其是在公共场所，也可能迅速升级并造成相当大的麻烦。它强调了在互联世界中考虑我们行为潜在影响的重要性。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "James 3:5",
+            "textEn": "The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark.",
+            "textZh": "舌头在百体里也是最小的，却能说大话。看哪，最小的火能点着最大的树林。",
+            "themeEn": "Small spark, big fire",
+            "themeZh": "星星之火"
           },
-          "translationState": "fallback"
+          "aiVerseId": "jas_3_5",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-articles-cwyjgwg8jddo-at-medium-rss-at-campaign-rss",
@@ -389,28 +461,29 @@
           "publishedAt": "2026-07-30T01:53:25.000Z",
           "title": {
             "en": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-            "zh": "野火威胁南欧部分地区，三名希腊消防员死亡"
+            "zh": "希腊三名消防员在野火中殉职，欧洲南部部分地区受威胁"
           },
           "summary": {
-            "en": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Wildfires, intensified by gale-force winds on Crete, have led to the deaths of three Greek firefighters and prompted the evacuation of several villages. Parts of southern Europe continue to battle these blazes.",
+            "zh": "希腊三名消防员在野火中殉职，大风助长了克里特岛的火势，导致多个村庄被疏散。欧洲南部部分地区仍在努力扑灭大火。"
           },
           "body": {
             "en": "Three Greek firefighters have died tackling wildfires in Crete and in the Peloponnese.\n\nIn Crete, gale-force winds whipped up flames prompting the evacuation of several villages, and two firefighters died after becoming trapped when the blaze swept through the Rethymno region, in the island's west.\n\nAnother firefighter died after being found unconscious near the southern Peloponnese port town of Gytheio.\n\nMeanwhile, a fourth heatwave of the summer has begun in Spain and France, with firefighters trying to prevent a flare-up from major wildfires that have only just been brought under control.\n\nWitnesses said several fires broke out on Crete and spread fast, with the worst fire front extending as far as 15km (9.3 miles).\n\nResidents and tourists have been evacuated from Krya Vrysi, the mountain village where the two firefighters died.\n\n\"The wind is unbelievable – you can't stand sometimes. The flames were huge, it was really scary,\" resident Chrissa Gioukaki told Reuters.\n\nWildfires have also broken out elsewhere in Greece, on the islands of Paros and Lesbos in the Aegean Sea, and the southern town of Trifylia on the Greek mainland.\n\nIn southern Turkey, the main highway connecting Fethiye and Antalya had to be closed and part of a hospital evacuated because of a fire in Muğla province.\n\nIn Spain, Prime Minister Pedro Sánchez has warned the next 12 hours will be \"decisive\" in putting out a wildfire near the capital Madrid. \"Things are progressing favourably, with maximum caution,\" he told reporters, because of higher temperatures, lower humidity and the risk of gusts of wind.\n\nMore than 43,000 hectares (108,000 acres) has already burned at Burgohondo in Ávila province, 150km (93 miles) west of Madrid. It is now considered the largest recorded wildfire in Spanish history. In total this year more than 207,000 hectares of land have been burned by wildfires in Spain.\n\nOne of the team directing firefighting operations, Francisco Bolaños, said that while the fire had not \"moved a centimetre during the night\", there were concerns it could re-ignite because of the higher temperatures, and the focus was on stabilising a perimeter of 180km (112 miles).\n\nAuthorities have allowed thousands of people to return to their homes after restrictions were lifted in the areas of Toledo, Madrid, Ávila, and Castellón.\n\nIn the Madrid region alone, 24,000 people have been told they can return and lockdowns on another 20,000 have been lifted.\n\nAmong those returning to their homes were about 1,000 residents of the towns of Navas del Rey and Chapinería to the west of Madrid who had been staying in Leganés, a town on the south-west fringe of the capital.\n\nThe mayor of Chapinería, Lucía Moya, told Telemadrid that the consequences for the town were very severe and that \"many...",
             "zh": "三名希腊消防员在克里特岛和伯罗奔尼撒半岛的野火扑救中丧生。 在克里特岛，强风掀起火焰，促使几个村庄疏散，大火席卷该岛西部的雷斯蒙地区，两名消防员被困后死亡。 另一名消防员在伯罗奔尼撒半岛南部港口城镇吉泰奥附近被发现失去知觉后死亡。 与此同时，夏季的第四波热浪已经在西班牙和法国开始，消防队员正试图阻止刚刚得到控制的重大野火的爆发。 目击者称，克里特岛发生多起火灾并迅速蔓延，最严重的火线延伸至15公里（9.3英里）。 两名消防员丧生的山村 Krya Vrysi 的居民和游客已被疏散。 居民克里斯萨·吉乌卡基 (Chrissa Gioukaki) 告诉路透社：“风令人难以置信，有时你无法忍受。火焰很大，真的很可怕。” 希腊其他地方也爆发了野火，包括爱琴海的帕罗斯岛和莱斯博斯岛，以及希腊大陆的南部城镇特里菲利亚。 在土耳其南部，由于穆拉省发生火灾，连接费特希耶和安塔利亚的主要高速公路不得不关闭，部分医院也被疏散。 在西班牙，总理佩德罗·桑切斯警告说，接下来的 12 个小时对于扑灭首都马德里附近的山火将是“决定性的”。他告诉记者，由于气温升高、湿度降低以及阵风的风险，“事情进展顺利，但要保持最大限度的谨慎”。 马德里以西 150 公里（93 英里）处的阿维拉省布尔戈洪多 (Burgohondo) 已有超过 43,000 公顷（108,000 英亩）的土地被烧毁。它现在被认为是西班牙历史上有记录的最大野火。今年，西班牙总共有超过 207,000 公顷的土地被野火烧毁。 指挥消防行动的团队之一弗朗西斯科·博拉尼奥斯(Francisco Bolaños)表示，虽然火势“在夜间没有移动一厘米”，但有人担心由于气温较高，火势可能会重新点燃，重点是稳定180公里（112英里）的周边。 托莱多、马德里、阿维拉和卡斯特利翁地区解除限制后，当局允许数千人返回家园。 仅在马德里地区，就有 24,000 人被告知可以返回，另外 20,000 人的封锁也已解除。 返回家园的人中，有大约1000名马德里西部纳瓦斯德尔雷镇和查皮内里亚镇的居民，他们一直住在首都西南边缘的莱加内斯小镇。 查皮内里亚市市长卢西亚·莫亚 (Lucía Moya) 告诉 Telemadrid，该镇受到的影响非常严重，“许多......"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The tragic loss of firefighters and the widespread destruction caused by wildfires remind us of creation's deep vulnerability. In moments when nature's power seems overwhelming, we are called to lament with a world that groans, yet also to find strength in Yahweh.",
+            "zh": "消防员的悲惨殉职和野火造成的广泛破坏，提醒我们受造界的脆弱。在自然力量似乎势不可挡的时刻，我们被呼召与呻吟的世界一同哀叹，同时也在雅伟里找到力量。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
           },
-          "translationState": "fallback"
+          "aiVerseId": "rom_8_22",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-esafety-telegram-lawsuit-terrorist-content-k",
@@ -422,61 +495,28 @@
           "publishedAt": "2026-07-30T01:50:37.000Z",
           "title": {
             "en": "As eSafety takes Telegram to court, Russia moves against the man behind the app",
-            "zh": "eSafety 将 Telegram 告上法庭，俄罗斯对该应用程序背后的人采取行动"
+            "zh": "澳大利亚eSafety将Telegram告上法庭，俄罗斯则对该应用创始人采取行动"
           },
           "summary": {
-            "en": "Australia and Russia both cited terrorism concerns, though for very different reasons.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "Australia and Russia have both cited terrorism concerns in actions against the messaging app Telegram and its founder, despite having distinct underlying motivations for their respective legal and governmental moves.",
+            "zh": "澳大利亚和俄罗斯都以反恐为由对即时通讯应用Telegram及其创始人采取行动，尽管两国各自的法律和政府举措背后有着截然不同的动机。"
           },
           "body": {
             "en": "Australia's eSafety Commissioner has announced legal action against messaging app Telegram for its failure to remove terrorist content, just one day after Russia charged the app's founder with aiding Ukrainian spies to co-ordinate domestic terrorist attacks.\n\neSafety Commissioner Julie Inman Grant told reporters on Thursday that Telegram continued to host videos linked to the Christchurch mosque shootings and executions by the self-proclaimed Islamic State group, both illegal and restricted Class 1 content in Australia.\n\nGrant said the app has \"a fundamental responsibility to take reasonable steps to prevent the hosting, sharing and amplification of this harmful material\".\n\nTelegram, based in the United Arab Emirates, is one of the world's largest messaging platforms with more than one billion active users worldwide. It is not included in Australia's youth social media ban .\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nGrant said her agency first began compliance talks with the digital platform in March 2024. Despite Telegram's engagement, Grant said the platform continued to host harmful content.\n\n\"We allege that this content remained publicly accessible on the service long after Telegram had been put on notice by user reports,\" she said.\n\nThe maximum penalty for non-compliance is $54.4 million; however, Grant told the press that the appropriate penalty was a \"matter for the court\".\n\nIn 2025, Telegram was fined $957,780 by the eSafety Commissioner for delays in reporting the steps the platform has taken to minimise terrorism and child abuse material.\n\nOn Wednesday, Russia said it had charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging the app was being used by Ukrainian spies to organise attacks inside Russia.\n\nIn response, Telegram's official account on X posted an image of the Russian-born billionaire making an obscene gesture with his middle finger.\n\nThe charges, announced by Russia's Federal Security Service (FSB), marked the culmination of a long investigation against Dubai-based Durov and Telegram.\n\nRussia has effectively throttled the service as part of a wider campaign to cut off access to foreign tech platforms and tighten control over the internet.\n\nRussians can now access Telegram only via a virtual private network to encrypt traffic and conceal their location. Yet state bodies including the Kremlin and the defence ministry continue to post to it daily.\n\nThe app has been described as a \"virtual battlefield\" in the war between Russia and Ukraine, where it is used by officials, soldiers and influential bloggers on both sides.\n\nIn statements, the FSB and the state Investigative Committee said a chatbot available on...",
             "zh": "澳大利亚电子安全专员宣布对通讯应用程序 Telegram 采取法律行动，原因是该应用程序未能删除恐怖内容，就在一天前，俄罗斯指控该应用程序的创始人协助乌克兰间谍协调国内恐怖袭击。 电子安全专员朱莉·英曼·格兰特 (Julie Inman Grant) 周四告诉记者，Telegram 继续发布与基督城清真寺枪击事件和自称伊斯兰国组织处决有关的视频，这些视频在澳大利亚都是非法和受限制的 1 类内容。 格兰特表示，该应用程序“负有采取合理措施防止托管、共享和放大这种有害材料的基本责任”。 Telegram 总部位于阿拉伯联合酋长国，是世界上最大的消息平台之一，在全球拥有超过 10 亿活跃用户。它不包括在澳大利亚的青少年社交媒体禁令中。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 格兰特表示，她的机构于 2024 年 3 月首次开始与该数字平台进行合规谈判。尽管有 Telegram 参与，格兰特表示该平台仍继续托管有害内容。 “我们声称，在用户报告注意到 Telegram 很久之后，这些内容仍然可以在该服务上公开访问，”她说。 违规行为的最高罚款为 5,440 万美元；然而，格兰特告诉媒体，适当的处罚是“法庭的事”。 2025 年，Telegram 因延迟报告该平台为尽量减少恐怖主义和虐待儿童材料而采取的措施而被电子安全专员处以 957,780 美元的罚款。 周三，俄罗斯表示已指控 Telegram 创始人帕维尔·杜罗夫 (Pavel Durov) 为恐怖活动提供便利，并指控乌克兰间谍利用该应用在俄罗斯境内组织袭击。 作为回应，Telegram 的 X 官方账户发布了一张这位俄罗斯出生的亿万富翁用中指做出猥亵手势的照片。 俄罗斯联邦安全局 (FSB) 宣布的这些指控标志着针对迪拜 Durov 和 Telegram 的长期调查的高潮。 俄罗斯有效地限制了该服务，作为切断对外国技术平台的访问并加强对互联网控制的更广泛运动的一部分。 俄罗斯人现在只能通过虚拟专用网络访问 Telegram，以加密流量并隐藏其位置。然而，包括克里姆林宫和国防部在内的国家机构仍每天继续向其发布消息。 该应用程序被描述为俄罗斯和乌克兰战争中的“虚拟战场”，双方官员、士兵和有影响力的博主都在使用它。 FSB 和州调查委员会在声明中表示，一个聊天机器人可以在..."
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "When nations cite similar concerns like terrorism but act for \"very different reasons,\" it reminds us that conflicts often run deeper than surface issues. This verse calls us to discern the underlying forces and ideologies at play, rather than just focusing on the visible actors. It encourages a perspective that seeks to understand the true nature of the...",
+            "zh": "当国家以反恐等相似理由采取行动，但其背后却有“截然不同的动机”时，这提醒我们冲突往往比表面问题更深层。这节经文呼吁我们辨明其中潜在的力量和意识形态，而不仅仅关注可见的参与者。它鼓励我们超越单纯的政治或法律纠纷，去理解这场斗争的真正性质。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Ephesians 6:12",
+            "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
+            "textZh": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
+            "themeEn": "Not against flesh and blood",
+            "themeZh": "并非与血气争战"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c20dppq3y90o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg",
-          "publishedAt": "2026-07-30T00:41:28.000Z",
-          "title": {
-            "en": "Trump considering AI controls after OpenAI hacking incidents",
-            "zh": "特朗普在OpenAI黑客事件后考虑人工智能管控"
-          },
-          "summary": {
-            "en": "Former President Trump is now reportedly considering imposing controls on artificial intelligence, a shift from his administration's previous hands-off approach to the technology, following recent hacking incidents involving OpenAI.",
-            "zh": "据报道，前总统特朗普正在考虑对人工智能实施管控，这标志着他的政府此前对该技术采取的放任态度有所转变，此前OpenAI发生了多起黑客事件。"
-          },
-          "body": {
-            "en": "US President Donald Trump said on Wednesday that his administration is considering asserting more power over artificial intelligence (AI) tools after recent cybersecurity incidents.\n\nAsked about OpenAI's tools being responsible for improperly breaching the private technology of other companies, Trump said: \"We're looking at AI, we're looking at controls, we're also making sure that we lead.\"\n\nIt marks a change of tone for his administration, which has taken a more hands-off approach to the technology.\n\nTrump's comments come after an escalation of not only the apparent hacking capabilities of popular AI tools, but White House threats aimed at competing Chinese tech.\n\nTrump added that while some kind of control around AI tools was on the table, such a move would have to be done carefully.\n\n\"We don't want to restrict them where all of the sudden we come in second to China,\" he said.\n\n\"China has virtually no [AI] controls. It's freewheeling a little bit,\" Trump added.\n\nThe White House has been contacted for additional comment. The BBC has also contacted the Chinese embassy in Washington for comment.\n\nIn the last week, OpenAI has taken responsibility for at least two hacking incidents involving its AI tools acting outside of what they were designed and directed to do.\n\nDuring a trip to Washington on Wednesday, OpenAI's chief executive Sam Altman was asked by a reporter if there were more systems that had been breached by the company's tools.\n\nThe US government intervened when Anthropic, OpenAI's main American rival, decided to release to the public a model that it had previously said was too much of a risk to be made widely available.\n\nMeanwhile, in an internal White House memo from April, Trump's senior tech advisor Michael Kratsios accused China's AI firms of \"industrial-scale\" theft of US AI technology. He did so again last week, claiming that the popular Kimi 3 AI model from China's Moonshot AI was developed by stealing information from Anthropic.\n\nUS Treasury Secretary Scott Bessent has also warned that Chinese AI firms could face sanctions for such activity. And the Federal Communications Commission this week banned the importation of new foreign-made humanoid robots .\n\nMost AI models being developed in China are open source, meaning they are built and then made freely available online for anyone with the proper computer equipment to download and use.\n\nRecently, executives from most major US tech companies have signed onto public statements of support for open-source models , external .",
-            "zh": "美国总统唐纳德·特朗普周三表示，在最近的网络安全事件发生后，他的政府正在考虑对人工智能（AI）工具行使更多权力。 当被问及 OpenAI 的工具不当侵犯其他公司的私有技术时，特朗普表示：“我们正在研究人工智能，我们正在研究控制，我们也在确保我们的领先地位。” 这标志着他的政府基调的改变，对这项技术采取了更加不干涉的态度。 特朗普发表此番言论之前，不仅流行人工智能工具的明显黑客能力不断升级，而且白宫还针对中国竞争技术发出了威胁。 特朗普补充说，虽然对人工智能工具的某种控制已经摆在桌面上，但此举必须谨慎行事。 “我们不想限制他们，让我们突然落后于中国，”他说。 “中国几乎没有[人工智能]控制。它有点随心所欲，”特朗普补充道。 已联系白宫征求更多评论。 BBC还联系了中国驻华盛顿大使馆请其置评。 上周，OpenAI 承担了至少两起黑客事件的责任，涉及其人工智能工具的行为超出了其设计和指示的范围。 周三前往华盛顿期间，OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 被记者询问是否还有更多系统被该公司的工具攻破。 当 OpenAI 在美国的主要竞争对手 Anthropic 决定向公众发布一个模型时，美国政府进行了干预，该模型此前曾表示该模型风险太大，无法广泛使用。 与此同时，在 4 月份的一份白宫内部备忘录中，特朗普的高级技术顾问 Michael Kratsios 指责中国的人工智能公司“工业规模”窃取美国人工智能技术。上周他再次这样做，声称中国Moonshot AI流行的Kimi 3人工智能模型是通过窃取Anthropic的信息而开发的。 美国财政部长斯科特·贝森特也警告说，中国人工智能公司可能因此类活动而面临制裁。美国联邦通信委员会本周禁止进口新型外国制造的人形机器人。 中国正在开发的大多数人工智能模型都是开源的，这意味着它们是构建出来的，然后免费在线供任何拥有适当计算机设备的人下载和使用。 最近，美国大多数主要科技公司的高管都签署了支持开源模式的公开声明。"
-          },
-          "reflection": {
-            "en": "The news of considering AI controls after hacking incidents highlights the importance of foresight and prudence in navigating powerful new technologies. As we develop tools with immense potential, wisdom calls us to anticipate dangers and implement safeguards for the common good.",
-            "zh": "在黑客事件之后考虑对人工智能进行管控的消息，突显了在驾驭强大新技术时，预见性和审慎的重要性。当我们开发具有巨大潜力的工具时，智慧呼唤我们预见危险并为共同利益实施保障措施。"
-          },
-          "verse": {
-            "reference": "Proverbs 27:12",
-            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
-            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
-            "themeEn": "Foreseeing danger",
-            "themeZh": "防患未然"
-          },
-          "aiVerseId": "prov_27_12",
+          "aiVerseId": "eph_6_12",
           "translationState": "localized"
         },
         {
@@ -557,28 +597,29 @@
           "publishedAt": "2026-07-29T20:29:50.000Z",
           "title": {
             "en": "US launches 'powerful' strikes on Iran after Trump threat to 'hit them hard'",
-            "zh": "特朗普威胁“严厉打击”伊朗后，美国对伊朗发动“强有力”打击"
+            "zh": "美国在特朗普威胁‘重击’伊朗后发动‘强大’袭击"
           },
           "summary": {
-            "en": "A brief halt in the fighting between the US and Iran appears to be over, as more of the region is drawn into the conflict.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "The United States has launched powerful strikes against Iran, following an earlier threat from former President Trump to retaliate forcefully. This action signals an end to a brief period of calm, with concerns that more countries in the region will become involved in the ongoing conflict.",
+            "zh": "在前总统特朗普威胁要“重击”伊朗之后，美国对伊朗发动了“强大”袭击。此举标志着短暂的停火结束，人们担心该地区会有更多国家卷入这场冲突。"
           },
           "body": {
             "en": "The United States military launched \"powerful\" strikes on Iran on Thursday, in retaliation for Tehran's attacks targeting US bases in Jordan as the Middle East war reignited and again drew in the Islamic republic's proxies.\n\nThe first strikes after a nearly week-long lull in fighting dashed hopes of a return to negotiations.\n\n\"The strikes are a powerful response to yesterday's attempted Iranian attacks on US forces based in the Middle East\", US Central Command said.\n\nOn Wednesday, Saudi Arabia and the US announced strikes on militant bases in Iraq , while US ally Israel accused Iran-backed Hezbollah of a truce violation.\n\nFor two days, the world's biggest oil exporter, Saudi Arabia, has reported drone attacks targeting crude facilities that it blamed on Iraqi armed groups allied with Iran.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIran meanwhile launched missiles at US ally Jordan, with Iranian state media later reporting a US attack near its border with Iraq.\n\n\"We'll be hitting them hard. They're going to get a beating,\" Trump told Fox News' correspondent before strikes, swearing for emphasis: \"We are going to beat the 'effing s' out of them.\"\n\nSaudi security analyst and researcher Hesham Alghannam told the Agence France-Presse (AFP) news agency: \"Tehran is now using its proxy network to sustain leverage while the diplomatic track absorbs international attention.\"\n\nIran's state television, meanwhile, reported a US strike in the Piranshahr border area, after the Fars news agency quoted an official in West Azerbaijan province as saying a missile hit an uninhabited area, leaving no casualties.\n\nEarlier, Jordan's army said it had intercepted five Iranian missiles, with Iran's Revolutionary Guards saying they had targeted US bases there.\n\n\"As long as the threats against the Islamic Republic of Iran continue ... the resistance will continue,\" they added.\n\nOn another front, US ally Israel accused Hezbollah of firing a drone overnight at an Israeli vehicle inside Lebanon, in what the military called \"a blatant violation of the ceasefire\".\n\nIsrael fought alongside the US in the first weeks of war against Iran, while battling Hezbollah in Lebanon, but it has yet to join the latest round of strikes.\n\nIn Iraq, a joint US-Saudi air operation followed attacks by what Saudi Arabia called \"terrorist militias loyal to Iran\" on its oil facilities.\n\nThe US military said logistics and weapons sites belonging to an Iran-aligned group were targeted in the strikes.\n\nAccording to Iraq's Hashed al-Shaabi alliance, the attacks killed at least 20 of its members across seven provinces, including Baghdad.\n\nIt denounced a \"dangerous escalation\" against an \"official security...",
             "zh": "美国军方周四对伊朗发动了“强大”打击，以报复德黑兰在中东战争重新燃起并再次吸引伊斯兰共和国代理人之际袭击美国驻约旦基地。 近一周停战后的首次袭击使恢复谈判的希望破灭。 美国中央司令部表示，“这次袭击是对伊朗昨天试图袭击驻中东美军的有力回应”。 周三，沙特阿拉伯和美国宣布对伊拉克的武装分子基地进行打击，而美国的盟友以色列则指责伊朗支持的真主党违反停战协议。 两天来，全球最大的石油出口国沙特阿拉伯报告了针对原油设施的无人机袭击，并指责与伊朗结盟的伊拉克武装组织所为。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 与此同时，伊朗向美国盟友约旦发射了导弹，伊朗官方媒体随后报道称，美国在其与伊拉克边境附近发动了袭击。 特朗普在罢工前对福克斯新闻记者说：“我们将严厉打击他们。他们将遭到殴打。”他咒骂着强调：“我们将把他们打得‘该死’。” 沙特安全分析师兼研究员赫沙姆·阿尔加纳姆（Hesham Alghannam）告诉法新社（AFP）：“德黑兰现在正在利用其代理网络来维持影响力，同时外交轨道吸引国际关注。” 与此同时，伊朗国家电视台报道了美国对皮兰沙赫边境地区的袭击，此前法尔斯通讯社援引西阿塞拜疆省一名官员的话说，一枚导弹击中了无人居住地区，没有造成人员伤亡。 早些时候，约旦军队表示拦截了五枚伊朗导弹，伊朗革命卫队表示，他们的目标是那里的美国基地。 他们补充说：“只要针对伊朗伊斯兰共和国的威胁继续存在……抵抗就会继续下去。” 另一方面，美国盟友以色列指责真主党连夜向黎巴嫩境内的一辆以色列车辆发射无人机，军方称其“公然违反停火协议”。 以色列在对伊朗战争的头几周与美国并肩作战，同时在黎巴嫩与真主党作战，但尚未加入最新一轮的打击。 在伊拉克，在沙特阿拉伯所谓的“忠于伊朗的恐怖民兵”对其石油设施发动袭击后，美国和沙特展开了联合空中行动。 美国军方表示，袭击的目标是属于伊朗结盟组织的后勤和武器基地。 据伊拉克 Hashed al-Shaabi 联盟称，袭击造成包括巴格达在内的七个省份的至少 20 名成员死亡。 它谴责针对“官方安全……的危险升级”。"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The news of escalating strikes reminds us of the ancient warning that violence often begets more violence, drawing more into its destructive path. In moments when conflict seems to widen, Yahweh's word calls us to reflect on the long-term consequences of resorting to force.",
+            "zh": "升级的袭击消息提醒我们，暴力往往会滋生更多的暴力，将更多人卷入其毁灭性的道路。在冲突似乎扩大的时刻，雅伟的话语呼唤我们反思诉诸武力的长远后果。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Matthew 26:52",
+            "textEn": "All who draw the sword will die by the sword.",
+            "textZh": "凡动刀的，必死在刀下。",
+            "themeEn": "Cycle of violence",
+            "themeZh": "动刀者必亡于刀"
           },
-          "translationState": "fallback"
+          "aiVerseId": "matt_26_52",
+          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-how-well-are-lgbtq-rights-protected-across-europe-a-781662",
@@ -627,25 +668,26 @@
             "zh": "伊朗战争：埃及艰难的平衡之举"
           },
           "summary": {
-            "en": "The US-Iran war has already had a negative economic impact on Egypt. Now new threats from the Houthi group in Yemen are likely to worsen that. At the same time, Egypt is trying to stay on good terms with all parties.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Egypt faces economic hardship due to the US-Iran war and new threats from Yemen's Houthi group, while simultaneously attempting to maintain good relations with all involved parties.",
+            "zh": "美国与伊朗的战争已对埃及经济造成负面影响。现在，也门胡塞组织的新威胁可能使其情况恶化。与此同时，埃及正努力与所有各方保持良好关系。"
           },
           "body": {
             "en": "The US-Iran war has already had a negative economic impact on Egypt. Now new threats from the Houthi group in Yemen are likely to worsen that. At the same time, Egypt is trying to stay on good terms with all parties.\n\nThe Suez Canal boasts an array of impressive statistics. At 193 kilometers (120 miles) long, the Egyptian waterway is located between the Mediterranean and the Red Sea and it saves ships traveling between Europe and Asia approximately 10,700 kilometers. This is why, since it was opened in 1869, the canal has become one of the world's most important trade routes.\n\nHowever unrest in the Middle East has seen shipping companies increasingly avoid the Suez Canal over the past couple of years. The Houthi rebel group in Yemen has targeted shipping in the Bab el-Mandeb Strait, off the coast of Yemen. To get to the Suez Canal, ships must pass the Bab el-Mandeb and the Yemeni coast.\n\nRecently the Houthis have again threatened to block ships passing the Bab el-Mandeb Strait, and there are fears that the trend to avoid the Suez Canal will accelerate.&#160;\n\nThis is a huge problem for Egypt . Fees paid by shipping companies transiting the Suez Canal are an important source of revenue for the country.\n\nAccording to Egyptian President&#160;Abdel-Fattah el-Sissi, Egypt likely lost around $7 billion (€6.15 billion) from a decrease in traffic through the Suez Canal in 2024 alone. The Reuters news agency said that at times, losses could have been as much as $8 million (€7 million) in a month.\n\nThis is why the economic consequence of that loss extends well beyond shipping.&#160;Egypt has not been impacted by the Iran conflict in a major military way, but it is certainly seeing an economic effect.\n\n\"Economically, Egypt is in a very ambivalent situation,\" says Stefan Lukas, director of German think tank&#160;Middle East Minds.\n\nDuring 2025 and 2026, revenues from canal transits actually went up again, mainly because oil from the Gulf states was transported via Saudi pipelines to the Red Sea and then onwards through the Suez Canal. This was to avoid the Strait of Hormuz, which is being blocked by Iran and the US in turns. But the new threats by the Houthis to block the Bab el-Mandeb Strait could interfere with this alternative route.\n\nIt's bad timing for Egypt: Rising energy prices and the International Monetary Fund's reforms are already putting tough limits on Cairo's financial flexibility.\n\n\"Higher energy prices have made imports more expensive and driven up inflation,\" says Hanna Voss, an expert on the region with Germany's Friedrich Ebert Foundation. \"The uncertainty in the Red Sea and potential disruptions to the passage through Bab el-Mandeb are jeopardizing Suez Canal revenues.\"\n\nTourism into Egypt, capital inflows and the exchange rate for the...",
             "zh": "美伊战争已经对埃及经济产生了负面影响。现在，来自也门胡塞组织的新威胁可能会使情况变得更糟。与此同时，埃及正努力与各方保持良好关系。 苏伊士运河拥有一系列令人印象深刻的统计数据。埃及水道长 193 公里（120 英里），位于地中海和红海之间，往返于欧洲和亚洲之间的船舶可节省约 10,700 公里。这就是为什么自 1869 年开通以来，这条运河已成为世界上最重要的贸易路线之一。 然而，由于中东的动荡，过去几年航运公司越来越多地避开苏伊士运河。也门胡塞叛乱组织瞄准了也门沿海曼德海峡的航运。要到达苏伊士运河，船只必须经过曼德海峡和也门海岸。 近期胡塞武装再次威胁封锁曼德海峡船只，有人担心避开苏伊士运河的趋势将加速。 这对埃及来说是一个巨大的问题。通过苏伊士运河的航运公司支付的费用是该国的重要收入来源。 据埃及总统阿卜杜勒-法塔赫·塞西称，仅 2024 年，埃及就可能因苏伊士运河交通量减少而损失约 70 亿美元（61.5 亿欧元）。路透社称，有时一个月内的损失可能高达 800 万美元（700 万欧元）。 这就是为什么这种损失的经济后果远远超出了航运范围。 埃及并未受到伊朗冲突的重大军事影响，但它肯定看到了经济影响。 德国智库中东思想中心主任斯特凡·卢卡斯表示：“从经济角度来看，埃及的处境非常矛盾。” 2025年和2026年期间，运河过境收入实际上再次增加，主要是因为海湾国家的石油通过沙特管道运输到红海，然后通过苏伊士运河继续运输。这是为了避开被伊朗和美国轮番封锁的霍尔木兹海峡。但胡塞武装威胁封锁曼德海峡，可能会干扰这条替代路线。 对埃及来说，时机不佳：能源价格上涨和国际货币基金组织的改革已经对开罗的金融灵活性施加了严格的限制。 德国弗里德里希·艾伯特基金会的该地区专家汉娜·沃斯表示：“能源价格上涨使得进口产品更加昂贵，并推高了通货膨胀。” “红海的不确定性以及曼德海峡通道的潜在中断正在危及苏伊士运河的收入。” 埃及旅游业、资本流入和汇率……"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "Egypt's efforts to maintain good relations with all parties amidst regional conflict reflect a challenging commitment to peace. The biblical call to \"live at peace with everyone, as far as it depends on you,\" acknowledges the complexities of such a balancing act. In a world of escalating tensions, striving for harmony, even when difficult, remains a vital...",
+            "zh": "埃及在区域冲突中努力与各方保持良好关系，体现了对和平的艰巨承诺。圣经呼吁“若是能行，总要尽力与众人和睦”，这承认了这种平衡行为的复杂性。在一个紧张局势不断升级的世界中，即使困难重重，追求和谐仍然是一项至关重要的努力。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
           },
-          "translationState": "fallback"
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-how-a-ugandan-lost-20-years-of-her-life-to-xenophobia-a-78",
@@ -657,61 +699,28 @@
           "publishedAt": "2026-07-29T14:05:00.000Z",
           "title": {
             "en": "How a Ugandan lost 20 years of her life to xenophobia",
-            "zh": "乌干达人如何因仇外心理而失去 20 年生命"
+            "zh": "乌干达人如何因仇外心理失去了20年的人生"
           },
           "summary": {
             "en": "After decades of building lives in South Africa, hundreds of African migrants were forced to leave by renewed anti-immigrant tensions. A Ugandan who spent two decades in South Africa shared with DW how she's coping.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "zh": "在南非生活了几十年后，数百名非洲移民因重新燃起的反移民紧张局势而被迫离开。一位在南非度过了二十年的乌干达人向德国之声讲述了她如何应对。"
           },
           "body": {
             "en": "After decades of building lives in South Africa, hundreds of African migrants were forced to leave by renewed anti-immigrant tensions. A Ugandan who spent two decades in South Africa shared with DW how she's coping.\n\nWhen Winniefred Kabiri boarded a flight from Johannesburg to Kampala, she was leaving behind much more than a country. The Ugandan entrepreneur spent 20 years legally living in South Africa . During that time, she earned two university degrees and a postgraduate qualification, raised her children and established several businesses.\n\n\"Initially everything was very successful. I created a life for myself and educated my children,\" Kabiri told DW.\n\nBut as anti-foreigner campaigns intensified in parts of South Africa this year, she no longer felt safe.\n\nKabiri is among more than 1,100 Ugandans evacuated from South Africa by their government following months of escalating xenophobic tensions, protests and intimidation targeting mostly African migrants. Uganda completed the first phase of its repatriation exercise in July, bringing home 1,102 nationals through six evacuation flights from Johannesburg.\n\nSouth Africa has experienced recurring outbreaks of xenophobic violence since the late 1990s, with migrants often blamed for unemployment, crime and poor public services. Analysts say persistent inequality and economic frustration have continued to fuel anti-immigrant sentiment for a while, despite evidence that migrants contribute significantly to local economies .\n\nGroups demanding tougher action against migrants organized public demonstrations and campaigns, while reports of intimidation, evictions and sporadic violence heightened fears among foreign communities. Many immigrants interviewed by DW said they felt vulnerable regardless of whether they possessed legal documentation.\n\nFor many returnees, like Kabiri, departure meant abandoning years of investment. She left businesses in commodities trading, mining , real estate and perfume manufacturing. She also left behind a professional network built over two decades.\n\n\"Obviously, when you are told to leave and you're unprepared, you leave things behind,\" she said.\n\nAnother Ugandan returnee, Mathias Baguma, said he lost a business he spent years developing in Johannesburg. Baguma moved to South Africa in 2017 and later invested in a guesthouse, restaurant and retail operation. During the unrest, he says the property was attacked and looted.\n\n\"My business was vandalized. The shop was robbed, the restaurant broken into,\" he told DW. \"I had to run for my life.\"\n\nLike many migrants across the continent, Baguma had viewed South Africa as a place where hard work could provide opportunities unavailable at home. Instead, he returned to Uganda with little more than personal belongings and memories of...",
             "zh": "在南非建立了数十年的生活后，数百名非洲移民因新的反移民紧张局势而被迫离开。一位在南非生活了二十年的乌干达人向德国之声讲述了她的应对方式。 当温妮弗雷德·卡比里（Winniefred Kabiri）登上从约翰内斯堡飞往坎帕拉的航班时，她留下的不仅仅是一个国家。这位乌干达企业家在南非合法生活了20年。在此期间，她获得了两个大学学位和一个研究生资格，抚养了孩子并创办了几家企业。 “一开始一切都很成功。我为自己创造了生活并教育了我的孩子，”卡比里告诉德国之声。 但随着今年南非部分地区反外国人运动愈演愈烈，她不再感到安全。 几个月来，主要针对非洲移民的排外紧张局势、抗议和恐吓不断升级，卡比里是南非政府从南非撤离的 1,100 多名乌干达人之一。乌干达于 7 月完成了遣返行动的第一阶段，通过 6 架撤侨航班从约翰内斯堡接回了 1,102 名国民。 自 20 世纪 90 年代末以来，南非频频爆发仇外暴力，移民常常被指责为失业、犯罪和公共服务不良的罪魁祸首。分析人士表示，尽管有证据表明移民对当地经济做出了重大贡献，但持续存在的不平等和经济挫折在一段时间内继续助长反移民情绪。 要求对移民采取更严厉行动的团体组织了公众示威和运动，而有关恐吓、驱逐和零星暴力的报道加剧了外国社区的恐惧。德国之声采访的许多移民表示，无论是否拥有合法文件，他们都感到很脆弱。 对于卡比里这样的许多海归来说，离开就意味着放弃多年的投资。她离开了商品贸易、采矿、房地产和香水制造等行业。她还留下了二十年来建立的专业网络。 “显然，当你被告知离开而你却毫无准备时，你就会把东西抛在脑后，”她说。 另一位乌干达归国者马蒂亚斯·巴古玛 (Mathias Baguma) 表示，他失去了自己在约翰内斯堡多年发展的生意。 Baguma 于 2017 年移居南非，后来投资了一家宾馆、餐厅和零售业务。他说，在骚乱期间，财产遭到袭击和抢劫。 “我的生意遭到破坏。商店被抢劫，餐厅被闯入，”他告诉德国之声。 “我必须逃命。” 与非洲大陆上的许多移民一样，巴古马认为南非是一个努力工作可以提供在家乡无法获得的机会的地方。相反，他回到乌干达时只带了个人物品和回忆……"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The story of a Ugandan woman losing decades of her life due to xenophobia highlights the deep pain caused when communities fail to embrace those who seek a new home. Yahweh's ancient command reminds us to treat the stranger among us as native-born, loving them as ourselves, recognizing our shared humanity.",
+            "zh": "这位乌干达妇女因仇外心理失去了数十年人生的故事，凸显了当社区未能接纳寻求新家园的人时所造成的深切痛苦。雅伟古老的诫命提醒我们，要将寄居在我们中间的陌生人视同本地人，爱他们如同爱自己，认识到我们共同的人性。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Leviticus 19:33-34",
+            "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
+            "textZh": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
+            "themeEn": "Foreigner as native-born",
+            "themeZh": "待寄居者如本族"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-dw-com-en-iran-signals-gas-price-hike-as-fuel-crisis-looms-a-7816020",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/iran-signals-gas-price-hike-as-fuel-crisis-looms/a-78160208?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/74946340_6.jpg",
-          "publishedAt": "2026-07-29T13:11:00.000Z",
-          "title": {
-            "en": "Iran signals gas price hike as fuel crisis looms",
-            "zh": "伊朗预示汽油价格上涨，燃料危机迫在眉睫"
-          },
-          "summary": {
-            "en": "Iranian authorities are considering raising gasoline prices to curb consumption, a move that could lead to social unrest as many households are already struggling under significant economic strain.",
-            "zh": "伊朗当局正考虑提高汽油价格以抑制消费，此举可能引发社会动荡，因为许多伊朗家庭已面临严重的经济压力。"
-          },
-          "body": {
-            "en": "Iranian authorities want to dampen fuel consumption, but a sudden increase in gasoline prices risks social unrest as many Iranian households are already under severe economic pressure.\n\nIran is moving closer to politically sensitive changes in gasoline pricing as the government struggles with a widening gap between domestic fuel production and consumption, exacerbated by the ongoing conflict with the US .\n\nOn July 25, government spokesperson Fatemeh Mohajerani said changes to fuel prices or rationing are \"certain and unavoidable,\" although officials have yet to confirm whether the response will come through new quotas, higher prices or both.\n\nIran uses a tiered subsidized fuel price system with monthly quotas currently ranging from 1,500 tomans ($0.008) per liter at the lowest rung, to 5,000 tomans ($0.026) at the top. Iranian media have reported the new top rung for gasoline could jump to 10,000 tomans ($0.053) per liter, which would be nearly a 100% increase. The figure has not yet been officially confirmed.\n\nCompared to the rest of the world, gasoline in Iran seems very inexpensive. But after years of sanctions and economic malaise , Iranians are also earning a lot less. Fuel may look exceptionally cheap in dollar terms, but the incomes used to pay for it are asi exceptionally low.\n\nFor example, the basic monthly minimum wage in 2026 was set at around 16.6 million tomans, or about $87. Any hike in gas prices comes down hard on households.\n\nThe last major sudden increase in fuel prices in November 2019 triggered nationwide protests and one of the bloodiest crackdowns in the history of the Islamic Republic.\n\nThis time, the government faces another complication. Iran was already consuming more gasoline than it produced before the US launched the war in February. Damage to fuel infrastructure and restrictions on imports have made that imbalance harder and more expensive to manage.\n\nIranian officials argue that they need to suppress demand for gasoline with higher rates. But critics say that gasoline is a necessity and higher costs will not dampen demand.\n\nA resident of Karaj, a small city near Tehran, said that said higher gasoline prices would quickly work their way through the economy, making everything more expensive.\n\n\"It will cause a chain reaction in the prices of goods and services, and the greatest pressure will ultimately fall on middle and lower-income households,\" he told DW anonymously for safety reasons.\n\nA car that consumes roughly 12 liters per 100 kilometers (19 miles per gallon) will not suddenly become more efficient because gasoline costs more, he said. Without better vehicles or effective public transport, motorists have few alternatives.\n\nUmud Shokri, an energy strategist and senior visiting fellow at George Mason University in...",
-            "zh": "伊朗当局希望抑制燃料消耗，但汽油价格突然上涨可能会引发社会动荡，因为许多伊朗家庭已经面临严重的经济压力。 伊朗正在接近政治敏感的汽油定价变化，因为政府正在努力应对国内燃料生产和消费之间不断扩大的差距，而与美国的持续冲突加剧了这种差距。 7 月 25 日，政府发言人 Fatemeh Mohajerani 表示，燃油价格或配给的变化“是肯定且不可避免的”，尽管官员们尚未确认是否会通过新配额、提高价格或两者兼而有之。 伊朗采用分级燃油补贴价格制度，目前每月配额范围从最低每升 1,500 托曼（0.008 美元）到最高每升 5,000 托曼（0.026 美元）。伊朗媒体报道称，新的汽油最高价格可能会跃升至每升 10,000 托曼（0.053 美元），涨幅接近 100%。该数字尚未得到官方证实。 与世界其他地区相比，伊朗的汽油似乎非常便宜。但经过多年的制裁和经济低迷，伊朗人的收入也大幅减少。以美元计算，燃料可能看起来异常便宜，但用于支付燃料的收入却异常低。 例如，2026年的基本月最低工资定为约1660万托曼，约合87美元。天然气价格的任何上涨都会对家庭造成沉重打击。 上一次燃油价格突然大幅上涨是在 2019 年 11 月，引发了全国范围的抗议活动和伊斯兰共和国历史上最血腥的镇压之一。 这一次，政府面临着另一个难题。在美国二月份发动战争之前，伊朗消耗的汽油数量已经超过了其生产的数量。燃料基础设施的破坏和进口限制使得这种不平衡的管理变得更加困难且成本更高。 伊朗官员辩称，他们需要以更高的利率抑制汽油需求。但批评人士表示，汽油是必需品，成本上升不会抑制需求。 德黑兰附近小城市卡拉季的一名居民表示，汽油价格上涨将迅速影响经济，使一切变得更加昂贵。 “这将引起商品和服务价格的连锁反应，最大的压力最终将落在中低收入家庭身上，”出于安全原因，他匿名告诉德国之声。 他说，一辆每 100 公里消耗大约 12 升（每加仑 19 英里）的汽车不会因为汽油成本更高而突然变得更加高效。如果没有更好的车辆或有效的公共交通，驾车者几乎没有其他选择。 乌穆德·肖克里 (Umud Shokri) 是乔治梅森大学能源战略家兼高级访问学者。"
-          },
-          "reflection": {
-            "en": "The prospect of rising fuel prices highlights the severe economic pressure many Iranian households already face. In times when essential provisions are scarce and daily life becomes a struggle, the prophet Habakkuk reminds us that even amidst hardship, we can find joy and strength in Yahweh. This perspective encourages resilience and a deeper trust in...",
-            "zh": "燃油价格上涨的前景凸显了许多伊朗家庭已面临的严峻经济压力。在基本供应稀缺、日常生活举步维艰的时刻，先知哈巴谷提醒我们，即使在困境中，我们也能在雅伟里找到喜乐和力量。这种视角鼓励我们在世俗资源减少时，仍能保持韧性并更深地信靠神的供应。"
-          },
-          "verse": {
-            "reference": "Habakkuk 3:17-18",
-            "textEn": "Though the fig tree does not bud and there are no grapes on the vines... yet I will rejoice in Yahweh.",
-            "textZh": "虽然无花果树不发旺，葡萄树不结果……然而，我要因雅伟欢欣。",
-            "themeEn": "Joy in scarcity",
-            "themeZh": "在缺乏中喜乐"
-          },
-          "aiVerseId": "hab_3_17",
+          "aiVerseId": "lev_19_33",
           "translationState": "localized"
         }
       ]
@@ -743,28 +752,29 @@
           "publishedAt": "2026-07-30T04:10:53.000Z",
           "title": {
             "en": "Anthony Fauci’s diaries take aim at News Corp journalist Sharri Markson’s ‘nonsense’ Covid-19 investigation",
-            "zh": "安东尼·福奇的日记瞄准了新闻集团记者莎莉·马克森的“无稽之谈”的Covid-19调查"
+            "zh": "安东尼·福奇日记抨击新闻集团记者沙里·马克森的“胡说八道”新冠疫情调查"
           },
           "summary": {
-            "en": "US former top health official, who was subpoenaed to appear at a Senate hearing into Covid-19, says Markson’s reporting about virus’s origin ‘does not make any sense’ Get our breaking news email, free app or daily news podcast Dr Anthony Fauci, the US’s chief medical adviser at...",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "Former US top health official Dr. Anthony Fauci's diaries reveal his dismissal of journalist Sharri Markson's COVID-19 origin investigation as 'nonsense.' Fauci, who was subpoenaed to appear at a Senate hearing on the virus, stated that Markson's reporting 'does not make any sense.'",
+            "zh": "美国前首席卫生官员安东尼·福奇的日记显示，他驳斥记者沙里·马克森对新冠病毒起源的调查为“胡说八道”。福奇曾被传唤出席参议院关于该病毒的听证会，他表示马克森的报道“毫无道理”。"
           },
           "body": {
             "en": "US former top health official, who was subpoenaed to appear at a Senate hearing into Covid-19, says Markson’s reporting about virus’s origin ‘does not make any sense’ Get our breaking news email , free app or daily news podcast Dr Anthony Fauci , the US’s chief medical adviser at the start of the pandemic, has described a book by News Corp investigative journalist Sharri Markson backing the “lab leak” theory of Covid-19’s origins as a “bunch of nonsense” in his newly released diaries. This week, Fauci, 85, was subpoenaed by the Republican senator Rand Paul to appear at a Senate hearing into Covid-19 and his handling of the pandemic. Continue reading...",
             "zh": "被传唤出席参议院关于 Covid-19 的听证会的美国前高级卫生官员表示，马克森关于病毒起源的报道“没有任何意义”。 大流行开始时，美国首席医疗顾问安东尼·福奇博士将新闻集团调查记者莎莉·马克森 (Sharri Markson) 的一本支持 Covid-19 起源“实验室泄露”理论的书描述为在他新发表的日记中，“一堆废话”。本周，85 岁的福奇接到共和党参议员兰德·保罗的传票，出席参议院关于 Covid-19 及其处理疫情的听证会。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In public discourse, especially when complex issues like a pandemic's origins are debated, it is wise to consider all perspectives. As Proverbs 18:17 reminds us, the first account often seems right until another view is presented and examined. This encourages us to seek understanding from various sources before forming conclusions.",
+            "zh": "在公共讨论中，尤其当涉及疫情起源等复杂议题时，倾听各方观点是明智之举。正如箴言18:17提醒我们，先陈述案情的人似乎有理，直到另一方前来查问。这鼓励我们在下结论之前，从不同来源寻求理解。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Proverbs 18:17",
+            "textEn": "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.",
+            "textZh": "先诉情由的，似乎有理；但邻舍来到，就察出实情。",
+            "themeEn": "Hearing both sides",
+            "themeZh": "兼听则明"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_18_17",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-articles-c0jl8v23qwgo-at-medium-rss-at-campaign-rss",
@@ -776,28 +786,29 @@
           "publishedAt": "2026-07-29T22:08:29.000Z",
           "title": {
             "en": "The Chinese robot army transforming the UK's retail industry",
-            "zh": "中国机器人大军改变英国零售业"
+            "zh": "改变英国零售业的中国机器人大军"
           },
           "summary": {
-            "en": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及合一、和好与弥合分歧。如需完整细节，请阅读英文原始报道。"
+            "en": "Britain's retail sector is increasingly adopting robotics from Chinese firms to combat low productivity and labor shortages.",
+            "zh": "英国零售业正日益采用中国机器人公司的技术，以应对生产力低下和劳动力短缺的问题。"
           },
           "body": {
             "en": "Every time you click \"buy\" on an online order, the chances are that your purchase starts getting processed within minutes.\n\nIncreasingly, the journey starts with a squat silver floor robot gliding beneath a storage rack, lifting a shelf and carrying it across a warehouse to a waiting worker.\n\nAt Geek+'s factory in the eastern Chinese city of Hefei, which the BBC visited, fleets of the robots are built and tested before being shipped to warehouses around the world.\n\nSome of Britain's biggest retailers - including Tesco, Asda and Next - now use the company's technology.\n\nBy automating these repetitive journeys, Geek+ says retailers can increase picking speeds, store more goods in spaces that are hard to reach for humans, and reduce errors.\n\nUnlike traditional warehouse automation, which relies on fixed conveyor systems and permanent infrastructure, autonomous mobile robots can be deployed simply using QR code floor markers and safety fencing.\n\nGeek+, which listed in Hong Kong last year in one of the biggest robotics share sales of 2025, has become the world's largest supplier of autonomous mobile robots.\n\nThe UK has struggled with weak productivity growth for more than a decade, and economists say wider adoption of robotics will be essential if businesses are to become more efficient.\n\nIn its 2026 report SME Technology Adoption in the United Kingdom, the Organisation for Economic Co-operation and Development (OECD) said technologies like robotics would be key to improving productivity.\n\nAccording to the OECD, Britain's low adoption of robotics is \"surprising\" given its manufacturing heritage, noting that while UK firms have embraced mature digital technologies, they lag behind in robotics and automation.\n\nThat presents an opportunity for companies such as Geek+. The UK has one of Europe's largest e-commerce and logistics sectors, but many warehouses are still in the early stages of automation.\n\nBritain has already become Geek+'s biggest European market, with UK partner MotionTech deploying more than 2,000 robots across 10 warehouse sites.\n\n\"Customers want fast deployable solutions,\" says Barry Pemberton, Account Director at MotionTech. \"They want high volume, high storage, fast picking... ultimately on a smaller footprint with a reduced headcount.\"\n\n\"We seem to have a very big shortage of labour in the UK at the moment. These technologies are really important to keep businesses thriving and meet demand.\"\n\nThe Trades Union Congress (TUC), which represents almost 6 million UK workers, says robotics should be used to raise productivity and improve jobs, rather than simply cut labour costs.\n\nIn its response to the government's consultation on a new AI and innovation strategy, it urged ministers to ensure workers are involved in decisions about automation...",
             "zh": "每次您在在线订单上点击“购买”时，您的购买很可能会在几分钟内开始处理。 越来越多的旅程开始于一个矮胖的银色地板机器人在存储架下滑行，举起一个架子并将其穿过仓库交给等待的工人。 BBC 参观了 Geek+ 位于中国东部城市合肥的工厂，机器人车队在被运往世界各地的仓库之前进行了建造和测试。 英国一些最大的零售商——包括Tesco、Asda和Next——现在都在使用该公司的技术。 Geek+ 表示，通过自动化这些重复的旅程，零售商可以提高拣选速度，在人类难以到达的空间中存储更多商品，并减少错误。 与依赖固定输送系统和永久性基础设施的传统仓库自动化不同，自主移动机器人只需使用二维码地板标记和安全围栏即可部署。 Geek+去年在香港上市，成为2025年机器人股销量最大的公司之一，现已成为全球最大的自主移动机器人供应商。 十多年来，英国一直在与生产率增长疲软作斗争，经济学家表示，如果企业要提高效率，更广泛地采用机器人技术至关重要。 经济合作与发展组织 (OECD) 在其 2026 年英国中小企业技术采用报告中表示，机器人等技术将是提高生产力的关键。 经合组织表示，鉴于其制造业传统，英国机器人技术的采用率较低“令人惊讶”，并指出虽然英国公司已经采用了成熟的数字技术，但它们在机器人技术和自动化方面仍然落后。 这为 Geek+ 等公司提供了机会。英国拥有欧洲最大的电子商务和物流行业之一，但许多仓库仍处于自动化的早期阶段。 英国已经成为 Geek+ 最大的欧洲市场，英国合作伙伴 MotionTech 在 10 个仓库站点部署了 2000 多台机器人。 “客户需要快速部署的解决方案，”MotionTech 客户总监 Barry Pemberton 说道。 “他们想要高产量、高存储量、快速拣选……最终以更小的占地面积和更少的人员数量。” “目前英国的劳动力似乎非常短缺。这些技术对于保持企业繁荣和满足需求非常重要。” 代表近 600 万英国工人的工会大会 (TUC) 表示，机器人技术应该用于提高生产力和改善就业，而不是简单地削减劳动力成本。 在回应政府关于新的人工智能和创新战略的咨询时，它敦促部长们确保工人参与有关自动化的决策......"
           },
           "reflection": {
-            "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到合一、和好与弥合分歧。Ephesians 4:3提醒我们，在快速变化的新闻里，仍要以缔造和平与搭建桥梁来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "As robotics transform industries and redefine human roles, we are invited to consider the deeper purpose of our work. Colossians 3:23 reminds us to approach every task with diligence and integrity, working heartily as for Yahweh. This perspective elevates our labor beyond mere economic output, imbuing it with lasting meaning and dignity.",
+            "zh": "随着机器人技术改变行业并重新定义人类的角色，我们被邀请思考我们工作的更深层目的。歌罗西书3:23提醒我们，要以勤奋和正直的态度对待每一项任务，如同为雅伟而做。这种视角将我们的劳动提升到超越单纯经济产出的层面，赋予其持久的意义和尊严。"
           },
           "verse": {
-            "reference": "Galatians 3:28",
-            "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
-            "textZh": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
-            "themeEn": "One in Christ",
-            "themeZh": "基督里合一"
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
           },
-          "translationState": "fallback"
+          "aiVerseId": "col_3_23",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-business-2026-jul-29-bmw-cut-jobs-germany-pressure-c",
@@ -809,28 +820,29 @@
           "publishedAt": "2026-07-29T12:02:20.000Z",
           "title": {
             "en": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
-            "zh": "宝马迫于中国竞争对手的压力将裁员“多达8000人”"
+            "zh": "宝马因中国竞争对手压力将裁员多达8,000人"
           },
           "summary": {
-            "en": "Layoffs will come in admin and development divisions in Germany, with production operations unaffected BMW is planning to cut as many as 8,000 jobs in Germany, according to reports, in the latest sign of Europe’s largest carmakers reducing costs under pressure from Chinese...",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "BMW is reportedly planning to cut up to 8,000 jobs in its administrative and development divisions in Germany. This move comes as Europe's largest carmakers face increasing cost-reduction pressure from Chinese rivals.",
+            "zh": "据报道，宝马计划在德国的行政和研发部门裁员多达8,000人。此举是欧洲最大汽车制造商在中国竞争对手的压力下削减成本的最新迹象。"
           },
           "body": {
             "en": "Layoffs will come in admin and development divisions in Germany, with production operations unaffected BMW is planning to cut as many as 8,000 jobs in Germany, according to reports, in the latest sign of Europe’s largest carmakers reducing costs under pressure from Chinese rivals. The Munich-headquartered company has started a voluntary redundancy programme agreed with employee representatives, a BMW spokesperson said on Wednesday. Continue reading...",
             "zh": "德国的管理和开发部门将进行裁员，但生产运营不受影响 据报道，宝马计划在德国裁员多达 8,000 人，这是欧洲最大汽车制造商在中国竞争对手压力下削减成本的最新迹象。宝马发言人周三表示，这家总部位于慕尼黑的公司已启动与员工代表商定的自愿裁员计划。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "News of job cuts can bring uncertainty and hardship, marking a significant transition for many individuals and families. Ecclesiastes 3:1 reminds us that there is a season for everything, including times of change in our work and economic circumstances. In these moments, we are called to trust that even through difficult transitions, Yahweh's steadfast...",
+            "zh": "裁员的消息会带来不确定性和困难，对许多个人和家庭来说，这标志着一个重要的转变。《传道书》3:1提醒我们，凡事都有定期，包括我们工作和经济状况的变化。在这些时刻，我们被呼召去相信，即使经历艰难的转变，雅伟的坚定同在依然不变。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Ecclesiastes 3:1",
+            "textEn": "There is a time for everything, and a season for every activity under the heavens.",
+            "textZh": "凡事都有定期，天下万务都有定时。",
+            "themeEn": "A time for everything",
+            "themeZh": "凡事有定时"
           },
-          "translationState": "fallback"
+          "aiVerseId": "ecc_3_1",
+          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-us-bans-chinese-and-foreign-made-humanoid-robots-a-7815442",
@@ -842,28 +854,29 @@
           "publishedAt": "2026-07-29T09:15:00.000Z",
           "title": {
             "en": "US bans Chinese and foreign-made humanoid robots",
-            "zh": "美国禁止中国和外国制造的人形机器人"
+            "zh": "美国禁止中国及外国制造的仿人机器人"
           },
           "summary": {
-            "en": "The Trump administration has banned the import of humanoid and quadruped robots manufactured outside the United States, citing national security concerns. The ban could strain diplomatic tensions with China.",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "The Trump administration has prohibited the import of humanoid and quadruped robots manufactured outside the United States, citing national security concerns. This ban could potentially escalate diplomatic tensions with China.",
+            "zh": "特朗普政府以国家安全为由，禁止进口美国以外制造的仿人机器人和四足机器人。这项禁令可能会加剧与中国的外交紧张关系。"
           },
           "body": {
             "en": "The Trump administration has banned the import of humanoid and quadruped robots manufactured outside the United States, citing national security concerns. The ban could strain diplomatic tensions with China.\n\nThe United States has announced a ban on the import of foreign-made humanoid and quadruped robots in a move which will likely exclude Chinese manufacturers from the US market and could strain tensions between Washington and Beijing .\n\nThe US Federal Communications Commission (FCC) said on Tuesday that \"advanced robotic devices\" produced abroad posed national and cyber security risks to the United States.\n\nThe decision was based on findings from a White House task force which concluded that foreign-built robots could create \"a cybersecurity risk that threatens the security of critical infrastructure\" and \"the safety and security\" of US residents.\n\nThe FCC defines the relevant mobile robots as devices weighing more than two kilograms that use sensors, network connectivity and software to achieve autonomous navigation, including the avoidance of obstacles.\n\nThe market for humanoid and quadruped (also known as four-legged \"robot dogs\") is seen as a major international growth area, with US and Chinese companies competing to develop the technology.\n\nAnd China has a clear lead, with analysts at Barclays estimating that Chinese-made humanoid robots account for around 85% of the global market share. Morgan Stanley experts predict that China's humanoid robot market could be worth $15 billion (€13.2 billion) by 2030.\n\n\"Chinese manufacturers have been scaling production and reducing costs faster than most overseas competitors,\" Morningstar analyst Kangyuxiao Li told the Associated Press .\n\nIn the US, firms such as Figure AI are already deploying humanoid robots on production lines, while tech giant Tesla plans to begin production of its \"Optimus\" robot this year.\n\nCurrently, however, US robot exports remain in their hundreds while Unitree and AGIBOT, two of China's biggest advanced robotics companies, each shipped more than 5,000 humanoid robots in 2025 alone, according to the technology research and advisory group Omdia.\n\nFCC chairman Brendan Carr said the ban was also aimed at \"secur[ing] America's critical supply chains.\"\n\nBut Li said the measures would not \"materially slow China's overall humanoid development, given the size of its domestic manufacturing base and opportunities in other export markets.\"\n\nBeyond the industrial market effects, the FCC ban could also have diplomatic consequences ahead of a meeting between US President Donald Trump and Chinese Premier Xi Jinping in September.\n\nThe US has already banned imports of Chinese-made drones and is considering restrictions on Chinese open-source artificial intelligence (AI) models, citing...",
             "zh": "特朗普政府以国家安全为由，禁止进口在美国境外制造的人形和四足机器人。该禁令可能会加剧与中国的外交紧张关系。 美国已宣布禁止进口外国制造的人形和四足机器人，此举可能会将中国制造商排除在美国市场之外，并可能加剧华盛顿和北京之间的紧张关系。 美国联邦通信委员会（FCC）周二表示，国外生产的“先进机器人设备”对美国构成国家和网络安全风险。 该决定是基于白宫特别工作组的调查结果，该工作组得出的结论是，外国制造的机器人可能会造成“威胁关键基础设施安全的网络安全风险”和美国居民的“安全保障”。 FCC将相关移动机器人定义为重量超过两公斤、使用传感器、网络连接和软件实现自主导航，包括避开障碍物的设备。 人形和四足动物（也称为四足“机器狗”）市场被视为主要的国际增长领域，美国和中国公司竞相开发该技术。 中国明显领先，巴克莱分析师估计，中国制造的人形机器人约占全球市场份额的 85%。摩根士丹利专家预测，到 2030 年，中国的仿人机器人市场价值可能达到 150 亿美元（132 亿欧元）。 晨星公司分析师李康宇告诉美联社：“中国制造商扩大生产和降低成本的速度比大多数海外竞争对手更快。” 在美国，Figure AI 等公司已经在生产线上部署人形机器人，而科技巨头特斯拉计划今年开始生产其“Optimus”机器人。 然而，根据技术研究和咨询集团 Omdia 的数据，目前美国机器人出口量仍为数百台，而中国最大的两家先进机器人公司 Unitree 和 AGIBOT 仅在 2025 年就分别出货了 5,000 多台人形机器人。 FCC 主席布伦丹·卡尔表示，该禁令还旨在“保护美国关键供应链的安全”。 但李表示，鉴于其国内制造基地的规模和其他出口市场的机会，这些措施不会“实质性地减缓中国整体人形机器人的发展”。 除了工业市场影响之外，FCC 禁令还可能在美国总统唐纳德·特朗普与中国总理习近平 9 月会晤之前产生外交后果。 美国已经禁止进口中国制造的无人机，并正在考虑限制中国开源人工智能（AI）模型，理由是……"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The decision to ban certain advanced robots reflects a nation's attempt to foresee potential dangers and protect its security in a rapidly evolving technological landscape. In a world where innovation can bring both progress and unforeseen risks, wisdom calls for careful discernment and prudent action. This reminds us that true foresight involves not just...",
+            "zh": "禁止某些先进机器人的决定，反映了一个国家在快速发展的技术环境中，试图预见潜在危险并保护其安全的努力。在一个创新既能带来进步，也可能带来不可预见风险的世界里，智慧要求我们仔细辨别并采取审慎的行动。这提醒我们，真正的远见不仅包括预见威胁，还包括寻求和平与合作的道路。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_27_12",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-us-news-2026-jul-28-fcc-ban-humanoid-robots-china",
@@ -1092,8 +1105,8 @@
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/f1ff7bf2bc04d5e59c5502c3f93cfc9898ec594f/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5411562d7f88857b0e76a56bae1c38e4",
-          "publishedAt": "2026-07-30T04:34:37.000Z",
+          "image": "https://i.guim.co.uk/img/media/4beede0defdb56a316d34c3cfabe2c611af924f8/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1e80650b8c8eb654dbaeff17ea8b5787",
+          "publishedAt": "2026-07-30T07:18:31.000Z",
           "title": {
             "en": "Australia news live: Taylor ‘definitely wasn’t opposed’ to rightwing Liberal faction’s activities, Icac hears; Neil the seal’s Tasmanian antics cost $36,000",
             "zh": "澳大利亚新闻直播：Icac听证会称泰勒“绝对不反对”右翼自由党派系活动；海豹尼尔在塔斯马尼亚的滑稽行为耗资3.6万澳元"
@@ -1119,6 +1132,174 @@
           },
           "aiVerseId": "prov_16_12",
           "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jul-30-afternoon-update-thursday",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/30/afternoon-update-thursday-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/969db45db46ab60e55ef68b0d5e6ef74ffc64ed4/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0af0bf3367fd46fb6ac22570db877c5a",
+          "publishedAt": "2026-07-30T06:57:48.000Z",
+          "title": {
+            "en": "Afternoon Update: Fauci takes aim at News Corp journalist; Bikram Lama’s body returns home; and what to do about cultural collapse",
+            "zh": "下午更新：福奇抨击新闻集团记者；比克拉姆·拉马遗体归乡；以及如何应对文化崩溃"
+          },
+          "summary": {
+            "en": "Dr. Anthony Fauci, former US chief medical adviser, has criticized a book by News Corp investigative journalist Sharri, while the update also touches on the return of Bikram Lama's body and discussions around cultural collapse.",
+            "zh": "美国疫情时期的首席医疗顾问安东尼·福奇博士批评了新闻集团调查记者莎莉的一本书，同时新闻更新也提及了比克拉姆·拉马遗体归乡以及关于文化崩溃的讨论。"
+          },
+          "body": {
+            "en": "Want to get this in your inbox every weekday? Sign up for the Afternoon Update here , and start your day with our Morning Mail newsletter Good afternoon. Dr Anthony Fauci, the pandemic-era US chief medical adviser, has described a book by News Corp investigative journalist Sharri Markson backing the “lab leak” theory of Covid-19’s origins as a “bunch of nonsense” in his newly released diaries. ‘Warring kingdoms’: cofounder of religious Reformers compares NSW Liberal party factionalism to Braveheart Federal Labor MP Luke Gosling charged with assaulting NT administrator Ben Carroll will not rule out redirecting Suburban Rail Loop funds to other projects Queensland MP pens ‘White Men Can Sprint’ social media post after Lachlan Kennedy takes silver in Glasgow After eight months, Bikram Lama’s body is going home to Nepal. ‘My heart will finally find some peace,’ his mother says Death toll in Japan earthquake rises to 23 as aftershock and heat complicate rescue efforts Gina Rinehart lobbied for controversial plan to move 2032 Olympic rowing to crocodile-inhabited river Continue reading...",
+            "zh": "想每个工作日将其发送到您的收件箱吗？在此处注册下午更新，并通过我们的《晨报》时事通讯开始新的一天。大流行时期的美国首席医疗顾问安东尼·福奇博士在他新发布的日记中将新闻集团调查记者莎莉·马克森的一本支持Covid-19起源“实验室泄漏”理论的书描述为“一堆废话”。 “交战王国”：宗教改革者联合创始人将新南威尔士州自由党派别主义与勇敢的心联邦工党议员卢克·高斯林（Luke Gosling）进行比较，卢克·高斯林被指控袭击北领地管理员本·卡罗尔（Ben Carroll）不排除将郊区铁路环线资金重新用于其他项目拉克兰·肯尼迪（Lachlan Kennedy）在格拉斯哥获得银牌后，昆士兰州议员在社交媒体上发表了“白人可以冲刺”的帖子八个月后，比克拉姆·喇嘛（Bikram Lama）的遗体将运回尼泊尔。他的母亲说，“我的心终于找到了一些平静”，日本地震中的死亡人数上升至 23 人，余震和高温使救援工作变得更加复杂。吉娜·莱因哈特 (Gina Rinehart) 游说有争议的计划，将 2032 年奥运会赛艇比赛移至鳄鱼栖息的河流继续阅读..."
+          },
+          "reflection": {
+            "en": "In a public sphere where accusations and counter-accusations are common, it can be challenging to grasp the full picture. Yahweh's wisdom reminds us that the first to present their case often seems right, until another perspective is heard and examined. This calls us to a patient and discerning approach, seeking to understand all sides before forming...",
+            "zh": "在指控与反指控司空见惯的公共领域，要全面了解情况可能充满挑战。雅伟的智慧提醒我们，先陈述案情的人似乎有理，直到有人前来查问。这呼唤我们采取耐心和辨别的态度，在得出结论之前寻求理解各方观点，尤其当涉及公众人物时。"
+          },
+          "verse": {
+            "reference": "Proverbs 18:17",
+            "textEn": "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.",
+            "textZh": "先诉情由的，似乎有理；但邻舍来到，就察出实情。",
+            "themeEn": "Hearing both sides",
+            "themeZh": "兼听则明"
+          },
+          "aiVerseId": "prov_18_17",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-artanddesign-2026-jul-30-archibald-prize-2026-portra",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/artanddesign/2026/jul/30/archibald-prize-2026-portrait-of-jewish-leader-after-bondi-terror-attack-wins-peoples-choice-award",
+          "image": "https://i.guim.co.uk/img/media/2e8a45fe13d969674a0c5ceacfeb2ca4169aefd5/289_683_2191_1751/master/2191.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a5263f22631679d94f9405a30ed2db5",
+          "publishedAt": "2026-07-30T06:22:20.000Z",
+          "title": {
+            "en": "Archibald prize 2026: portrait of Jewish leader after Bondi terror attack wins people’s choice award",
+            "zh": "邦迪恐袭后犹太领袖肖像画获阿奇博尔德人民选择奖"
+          },
+          "summary": {
+            "en": "An artist's portrait of Jewish leader Alex Ryvchin, created weeks after the Bondi terror attack and inspired by his leadership, has won the Archibald people’s choice award. The artist, Michael Zavros, expressed deep respect for Ryvchin.",
+            "zh": "艺术家迈克尔·扎夫罗斯为犹太领袖亚历克斯·里夫钦创作的肖像画，在邦迪恐怖袭击发生数周后，因其领导力而受到启发，赢得了阿奇博尔德人民选择奖。扎夫罗斯表达了对里夫钦的深切敬意。"
+          },
+          "body": {
+            "en": "Artist Michael Zavros says he was inspired by a deep respect for Alex Ryvchin’s leadership, as well as an uncanny likeness between the two men An artist’s portrayal of a Jewish leader produced just weeks after the Bondi massacre has won the Archibald people’s choice category. Michael Zavros won the $5,000 prize for his portrait of Alex Ryvchin, the co-head of the Executive Council of Australian Jewry, who Zavros called an “unmistakably and unashamedly Jewish” leader. Sign up for a weekly email featuring our best reads Continue reading...",
+            "zh": "艺术家迈克尔·扎夫罗斯 (Michael Zavros) 表示，他受到了对亚历克斯·雷夫钦 (Alex Ryvchin) 领导力的深深敬意，以及两人之间不可思议的相似之处的启发。邦迪大屠杀几周后，艺术家对一位犹太领袖的描绘赢得了阿奇博尔德人民选择奖。迈克尔·扎夫罗斯 (Michael Zavros) 因其为澳大利亚犹太人执行委员会联席主席亚历克斯·里夫钦 (Alex Ryvchin) 创作的肖像画获得了 5,000 美元奖金，扎夫罗斯称他为“毫无疑问且无耻的犹太”领袖。订阅每周一封包含我们最佳读物的电子邮件继续阅读..."
+          },
+          "reflection": {
+            "en": "The portrait of a Jewish leader, honored after a terror attack, highlights the profound impact of steadfast leadership in times of crisis. It reminds us that even in the face of evil, choosing to respond with strength, unity, and compassion can inspire hope and help a community heal. This echoes the biblical call to not be overcome by evil, but to actively...",
+            "zh": "这幅在恐怖袭击后获得殊荣的犹太领袖肖像，彰显了在危机时刻坚定领导力的深远影响。它提醒我们，即使面对邪恶，选择以力量、团结和同情心回应，也能激发希望，帮助社区愈合。这与圣经中“不可为恶所胜，反要以善胜恶”的呼召不谋而合。"
+          },
+          "verse": {
+            "reference": "Romans 12:21",
+            "textEn": "Do not be overcome by evil, but overcome evil with good.",
+            "textZh": "你不可为恶所胜，反要以善胜恶。",
+            "themeEn": "Overcoming evil with good",
+            "themeZh": "以善胜恶"
+          },
+          "aiVerseId": "rom_12_21",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-garma-festival-2026-australia-explained-692x",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/garma-festival-2026-australia-explained/692xvu5au",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-garma-festival-2026-australia-explained-692x.jpg",
+          "publishedAt": "2026-07-30T05:22:28.000Z",
+          "title": {
+            "en": "What is Garma Festival? Australia's biggest Indigenous gathering returns for 2026",
+            "zh": "什么是加尔马节？澳大利亚最大的原住民聚会将于2026年回归"
+          },
+          "summary": {
+            "en": "The annual Garma Festival, Australia's largest Indigenous gathering, is set to return this weekend on Yolŋu Country, celebrating Indigenous culture.",
+            "zh": "澳大利亚最大的原住民聚会——一年一度的加尔马节将于本周末在约尔古地区举行，庆祝原住民文化。"
+          },
+          "body": {
+            "en": "Thousands of people will travel to north-east Arnhem Land this week as the Garma Festival returns to Yol&#x14B;u Country for four days of ceremony, culture and national conversation.\n\nHeld on Gumatj Country in the Northern Territory, Garma remains Australia's largest Indigenous cultural gathering .\n\nThis year marks more than a quarter of a century since it started as a small community gathering, and will run from 31 July until 3 August.\n\nEach year it brings together Yol&#x14B;u Elders, artists, young people, political leaders, academics, business representatives and visitors from across the country.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIt is a place where ancient ceremony sits alongside some of Australia's biggest conversations about First Nations policy.\n\nThis year, those discussions will unfold without Prime Minister Anthony Albanese, despite his commitment last year to attend every Garma while serving as prime minister.\n\nHosted by the Yothu Yindi Foundation since 1999, Garma was established to celebrate and strengthen Yol&#x14B;u culture while creating a place where Aboriginal knowledge, leadership and ideas could be shared with the broader Australian community.\n\nThe word Garma comes from Yol&#x14B;u Matha and refers to a meeting place where different ideas come together through a process of two-way learning.\n\nThat philosophy remains central to the festival today. While Garma is grounded in Yol&#x14B;u ceremony and tradition, it has also become one of Australia's most influential forums for discussion on Aboriginal and Torres Strait Islander affairs.\n\nEach year, governments, community organisations, academics and industry leaders travel to Arnhem Land to listen, learn and engage directly with Yol&#x14B;u leaders on Country.\n\nGarma is held at Gulkula, a sacred ceremonial site on Gumatj Country near Nhulunbuy in north-east Arnhem Land.\n\nSurrounded by stringybark forest and overlooking the Gulf of Carpentaria, Gulkula has been a place of ceremony and renewal for generations.\n\nAccording to Yol&#x14B;u tradition, it is where the ancestor Ganbulapula introduced the yidaki into Yol&#x14B;u life, making it one of the region's most culturally significant places.\n\nUnlike many conferences, Garma is held on Yol&#x14B;u Country and led on Yol&#x14B;u terms.\n\nRather than Aboriginal leaders travelling to Canberra, governments, institutions and organisations travel to Arnhem Land, placing First Nations culture, knowledge and authority at the centre of the national conversation.\n\nVisitors camp on Country throughout the four-day festival and are asked to observe cultural protocols guided by their Yol&#x14B;u hosts.\n\nWhile Garma has become one of Australia's most...",
+            "zh": "本周，数千人将前往阿纳姆地东北部，加尔玛节将返回约鲁县，进行为期四天的仪式、文化和全国对话。 Garma 活动在北领地的 Gumatj 乡村举行，至今仍然是澳大利亚最大的原住民文化聚会。 今年是小型社区聚会开始已有四分之一个世纪，活动时间为 7 月 31 日至 8 月 3 日。 每年，Yolŋu 长者、艺术家、年轻人、政治领袖、学者、企业代表和来自全国各地的游客都会齐聚一堂。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 在这里，古老的仪式与澳大利亚有关原住民政策的一些最大的对话并存。 今年，这些讨论将在没有总理安东尼·阿尔巴内塞的情况下进行，尽管他去年承诺在担任总理期间参加所有加尔马会议。 Garma 自 1999 年起由 Yothu Yindi 基金会主办，成立的目的是庆祝和加强 Yolŋu 文化，同时创建一个可以与更广泛的澳大利亚社区分享原住民知识、领导力和思想的场所。 Garma 这个词来自 Yolŋu Matha，指的是通过双向学习过程将不同想法汇聚在一起的聚会场所。 这种理念至今仍然是这个节日的核心。虽然 Garma 以 Yolŋu 仪式和传统为基础，但它也已成为澳大利亚最有影响力的讨论原住民和托雷斯海峡岛民事务的论坛之一。 每年，政府、社区组织、学术界和行业领袖都会前往阿纳姆地，聆听、学习并直接与 Yolŋu 领导人就乡村问题进行交流。 加尔玛节在古尔库拉举行，古尔库拉是阿纳姆地东北部努伦拜附近古马吉县的一处神圣仪式场所。 古尔库拉周围环绕着弦皮森林，俯瞰着卡奔塔利亚湾，一直是几代人的仪式和复兴之地。 根据约鲁传统，这里是祖先甘布拉普拉 (Ganbulapula) 将 yidaki 引入约鲁生活的地方，使其成为该地区最具文化意义的地方之一。 与许多会议不同，加尔马会议在 Yolŋu 国家举行，并按照 Yolŋu 条款进行领导。 原住民领导人不是前往堪培拉，而是政府、机构和组织前往阿纳姆地，将原住民文化、知识和权威置于全国对话的中心。 在为期四天的节日期间，游客们在 Country 露营，并被要求遵守 Yolŋu 主人指导的文化礼仪。 虽然加尔玛已成为澳大利亚最..."
+          },
+          "reflection": {
+            "en": "The Garma Festival highlights the rich heritage and enduring presence of Australia's Indigenous peoples. Yahweh, who made all nations from one, also appointed their unique times and lands, affirming the distinct value and deep connection of every culture to its ancestral home. This gathering is a powerful reminder of the beauty and importance of celebrating...",
+            "zh": "加尔马节彰显了澳大利亚原住民丰富的遗产和持久的存在。雅伟从一人造出万族，也为他们预定了独特的时期和居住的疆界，肯定了每种文化与其祖传家园的独特价值和深厚联系。这次聚会有力地提醒我们，在人类大家庭中庆祝多元身份是多么美好和重要。"
+          },
+          "verse": {
+            "reference": "Acts 17:26",
+            "textEn": "From one man he made all the nations, that they should inhabit the whole earth.",
+            "textZh": "他从一本造出万族的人，住在全地上。",
+            "themeEn": "All nations from one",
+            "themeZh": "万族同源"
+          },
+          "aiVerseId": "acts_17_26",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jul-30-nsw-to-send-paramedics-no",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/30/nsw-to-send-paramedics-not-police-to-some-mental-health-emergencies-after-multiple-deaths",
+          "image": "https://i.guim.co.uk/img/media/e9a0878b3a9d495498daa5bca9c4af9cf804c5f7/319_185_2271_1817/master/2271.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aec59a618872d29167c4e949440046d1",
+          "publishedAt": "2026-07-30T05:05:16.000Z",
+          "title": {
+            "en": "NSW to send paramedics not police to some mental health emergencies after multiple deaths",
+            "zh": "在多人死亡后，新南威尔士州将派遣护理人员而不是警察前往一些精神卫生紧急情况"
+          },
+          "summary": {
+            "en": "Mental health experts to triage triple zero calls, but not all of the changes will be implemented 24/7 or statewide Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast New South Wales will send specialist nurses...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Mental health experts to triage triple zero calls, but not all of the changes will be implemented 24/7 or statewide Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast New South Wales will send specialist nurses rather than police to some mental health emergencies after the state announced long-fought-for reform in the wake of multiple deaths at the hands of police. Rose Jackson and Yasmin Catley, the mental health and police ministers, announced on Thursday a statewide change to how triple zero calls are triaged, with a new team of mental health experts assessing mental health calls 24/7 in a bid to provide better support. Continue reading...",
+            "zh": "心理健康专家将对三个零电话进行分类，但并非所有变化都将24/7或在全州范围内实施关注我们的澳大利亚新闻直播博客以获取最新更新获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客新南威尔士州将派遣专业护士而不是警察来处理一些心理健康紧急情况，因为警察造成多人死亡，该州宣布了长期争取的改革。心理健康部长和警察部长罗斯·杰克逊 (Rose Jackson) 和警察部长亚斯明·卡特利 (Yasmin Catley) 周四宣布，将在全州范围内改变“三零”电话的分类方式，新的心理健康专家团队将全天候 (24/7) 评估心理健康电话，以提供更好的支持。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-jul-30-robert-assaf-nsw-liberal-",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/30/robert-assaf-nsw-liberal-party-braveheart-icac-hearings-angus-taylor-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/bbee74e529aeb8f0562e05cf9a43fa5c5966a748/0_17_3156_2524/master/3156.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d33232bc45d16622f8b5f325f3617aa",
+          "publishedAt": "2026-07-30T05:03:39.000Z",
+          "title": {
+            "en": "‘Warring kingdoms’: cofounder of religious Reformers compares NSW Liberal party factionalism to Braveheart",
+            "zh": "“战国”：宗教改革者联合创始人将新南威尔士州自由党派别主义与勇敢的心进行比较"
+          },
+          "summary": {
+            "en": "Robert Assaf tells Icac that Angus Taylor wasn’t ‘that involved’ but the federal opposition leader ‘definitely wasn’t opposed’ to work of conservative group Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Robert Assaf tells Icac that Angus Taylor wasn’t ‘that involved’ but the federal opposition leader ‘definitely wasn’t opposed’ to work of conservative group Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A member of a group of young conservative Liberal power brokers being investigated for allegedly soliciting illegal donations has compared their factional work to Mel Gibson’s Braveheart – and said they “didn’t think the law applied to us” when it came to political funding. The Independent Commission Against Corruption (Icac) on Thursday heard from Robert Assaf, the first witness from the conservative right Liberal factional group the Reformers to give evidence. Continue reading...",
+            "zh": "罗伯特·阿萨夫 (Robert Assaf) 告诉 Icac，安格斯·泰勒 (Angus Taylor) 并未“参与其中”，但联邦反对党领袖“绝对不反对”保守派团体的工作 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一群因涉嫌索取非法捐款而接受调查的年轻保守派自由党权力掮客中的一名成员，将他们的派系工作与梅尔·吉布森 (Mel Gibson) 的《勇敢的心》(Braveheart) 进行了比较，并表示，他们“不认为当涉及政治资助时，法律适用于我们”。廉政公署周四听取了罗伯特·阿萨夫的证词，他是保守右翼自由党派系改革者中第一位提供证据的证人。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-sbs-com-au-news-article-neil-the-seal-destruction-bill-tasmania-bo4b",
@@ -1187,39 +1368,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-jul-30-anthony-faucis-diaries-take-aim-",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/us-news/2026/jul/30/anthony-faucis-diaries-take-aim-at-news-corp-journalist-sharri-marksons-nonsense-covid-19-investigation",
-          "image": "https://i.guim.co.uk/img/media/969db45db46ab60e55ef68b0d5e6ef74ffc64ed4/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0af0bf3367fd46fb6ac22570db877c5a",
-          "publishedAt": "2026-07-30T04:10:53.000Z",
-          "title": {
-            "en": "Anthony Fauci’s diaries take aim at News Corp journalist Sharri Markson’s ‘nonsense’ Covid-19 investigation",
-            "zh": "安东尼·福奇的日记瞄准了新闻集团记者莎莉·马克森的“无稽之谈”的Covid-19调查"
-          },
-          "summary": {
-            "en": "US former top health official, who was subpoenaed to appear at a Senate hearing into Covid-19, says Markson’s reporting about virus’s origin ‘does not make any sense’ Get our breaking news email, free app or daily news podcast Dr Anthony Fauci, the US’s chief medical adviser at...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "US former top health official, who was subpoenaed to appear at a Senate hearing into Covid-19, says Markson’s reporting about virus’s origin ‘does not make any sense’ Get our breaking news email , free app or daily news podcast Dr Anthony Fauci , the US’s chief medical adviser at the start of the pandemic, has described a book by News Corp investigative journalist Sharri Markson backing the “lab leak” theory of Covid-19’s origins as a “bunch of nonsense” in his newly released diaries. This week, Fauci, 85, was subpoenaed by the Republican senator Rand Paul to appear at a Senate hearing into Covid-19 and his handling of the pandemic. Continue reading...",
-            "zh": "被传唤出席参议院关于 Covid-19 的听证会的美国前高级卫生官员表示，马克森关于病毒起源的报道“没有任何意义”。 大流行开始时，美国首席医疗顾问安东尼·福奇博士将新闻集团调查记者莎莉·马克森 (Sharri Markson) 的一本支持 Covid-19 起源“实验室泄露”理论的书描述为在他新发表的日记中，“一堆废话”。本周，85 岁的福奇接到共和党参议员兰德·保罗的传票，出席参议院关于 Covid-19 及其处理疫情的听证会。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-acma-sues-optus-over-2025-netword-outage-and",
           "section": "australia",
           "source": "SBS News Australia",
@@ -1229,81 +1377,49 @@
           "publishedAt": "2026-07-30T03:30:59.000Z",
           "title": {
             "en": "ACMA sues Optus over 2025 network outage and failed Triple Zero calls",
-            "zh": "ACMA 因 2025 年网络中断和“三零”呼叫失败而起诉 Optus"
+            "zh": "ACMA就2025年网络中断和三零电话故障起诉Optus"
           },
           "summary": {
-            "en": "The legal action comes weeks after a Telstra outage led to similar issues with Triple Zero calls.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "The Australian Communications and Media Authority (ACMA) has initiated legal proceedings against telecommunications company Optus. This action follows a significant network outage in 2025 that prevented emergency Triple Zero calls from connecting, an issue similar to one experienced weeks prior with another provider,...",
+            "zh": "澳大利亚通信和媒体管理局（ACMA）已对电信公司Optus提起法律诉讼。此前，Optus在2025年发生了一次大规模网络中断，导致紧急三零电话无法接通，这与几周前另一家供应商Telstra也曾出现类似问题。"
           },
           "body": {
             "en": "Australia's second-largest telco is facing legal action over a major network failure that caused a widespread Triple Zero outage.\n\nThe Australian Communications and Media Authority (ACMA) alleges Optus breached two legal obligations more than 1,000 times during the outage on 18 September, 2025.\n\nAccess to emergency call services was essential to protect the public, the regulator's chair Nerida O'Loughlin said.\n\n\"Australians rightly expect that when they call Triple Zero, their call will connect,\" she said in a statement on Thursday.\n\n\"The circumstances of this outage meant that did not reliably occur, leaving people unable to connect to potentially life-saving services.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"Giving access to the emergency call service is not optional; it is a fundamental legal obligation, and the most important public safety responsibility telecommunications providers have.\"\n\nOptus failed to give customers who made Triple Zero calls access to the emergency call service and to ensure those calls were carried appropriately , the regulator alleged.\n\nThe proceedings against the Singaporean-owned company announced on Thursday will be heard in the Federal Court.\n\nThe legal action follows the massive outage which went for almost 14 hours and impacted 600 calls, with 455 failing to connect.\n\nAn independent review, released by Optus in December, found there were at least 10 mistakes by the company and its contractor Nokia during an upgrade.\n\nIt took Optus and Nokia 13 hours to understand the problem, with an Optus call centre not escalating early concerns from five people who said their Triple Zero calls weren't working, the report by experienced executive Kerry Schott found.\n\nThe watchdog has previously taken action against the telco following another Triple Zero outage in November 2023.\n\nThe action resulted in Singtel Optus subsidiaries, including Optus Mobile, paying more than $12 million in infringement notice penalties for breaches relating to emergency calls.\n\n\"The recurrence of a major network outage affecting emergency calls so soon after the November 2023 outage is a significant concern and one of the reasons the ACMA has decided to take this matter to court,\" O'Loughlin said.\n\n\"The ACMA will not hesitate to take strong enforcement action where alleged telco failures have jeopardised public access to the critical emergency call service.\"\n\nOptus acknowledged the Federal Court proceedings, adding it would be inappropriate to comment further.\n\n\"Our focus remains on building a stronger and better Optus,\" the company said in a statement to the Australian Associated Press.\n\n\"We continue to invest in network resilience, strengthen our...",
             "zh": "澳大利亚第二大电信公司因重大网络故障导致大范围的“三零”中断而面临法律诉讼。 澳大利亚通信和媒体管理局 (ACMA) 指控 Optus 在 2025 年 9 月 18 日的停电期间违反了两项法律义务超过 1,000 次。 监管机构主席内里达·奥洛林表示，获得紧急呼叫服务对于保护公众至关重要。 她在周四的一份声明中表示：“澳大利亚人正确地期望，当他们拨打“三个零”时，他们的电话就会接通。” “这次断电的情况意味着这种情况并没有可靠地发生，导致人们无法连接到可能挽救生命的服务。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “提供紧急呼叫服务不是可选的；这是一项基本的法律义务，也是电信提供商所承担的最重要的公共安全责任。” 监管机构称，Optus 未能为拨打“三零”电话的客户提供紧急呼叫服务，也未能确保这些电话得到适当的转接。 周四宣布的针对这家新加坡公司的诉讼将在联邦法院审理。 此次法律行动是在大规模停电发生近 14 小时后采取的，该停电影响了 600 个呼叫，其中 455 个呼叫无法接通。 Optus 去年 12 月发布的一份独立审查发现，该公司及其承包商诺基亚在升级过程中至少犯了 10 个错误。 经验丰富的高管凯里·肖特 (Kerry Schott) 的报告发现，Optus 和诺基亚花了 13 个小时才了解这个问题，Optus 呼叫中心没有升级五名员工的早期担忧，这些人表示他们的三零呼叫不起作用。 在 2023 年 11 月再次发生“三零”中断后，监管机构此前曾对该电信公司采取行动。 该行动导致新加坡电信 Optus 子公司（包括 Optus Mobile）因与紧急呼叫相关的违规行为而支付超过 1200 万美元的侵权通知罚款。 O'Loughlin 表示：“在 2023 年 11 月的中断之后不久，再次发生影响紧急呼叫的重大网络中断是一个重大问题，也是 ACMA 决定将此事告上法庭的原因之一。” “如果涉嫌电信公司故障危及公众使用重要的紧急呼叫服务，ACMA 将毫不犹豫地采取强有力的执法行动。” Optus 承认联邦法院的诉讼程序，并补充说不宜进一步发表评论。 该公司在给澳大利亚美联社的一份声明中表示：“我们的重点仍然是建设一个更强大、更好的Optus。” “我们继续投资于网络弹性，加强我们的......"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "When essential services fail, especially emergency lines, those in crisis are left without a voice. This legal action underscores the vital responsibility of companies to ensure their services reliably protect the most vulnerable. Yahweh calls us to speak up for those who cannot speak for themselves, ensuring that systems serve all, especially in moments of...",
+            "zh": "当基本服务，特别是紧急热线失灵时，处于危机中的人便会失去求助的途径。此次法律行动强调了企业确保其服务可靠地保护最弱势群体的关键责任。雅伟呼召我们为那些无法为自己发声的人说话，确保系统能够服务所有人，尤其是在危急时刻。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Proverbs 31:8-9",
+            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
+            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
+            "themeEn": "Voice for the voiceless",
+            "themeZh": "为弱者发声"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_31_8",
+          "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-jul-30-luke-gosling-labor-mp-arr",
+          "id": "www-theguardian-com-australia-news-audio-2026-jul-30-guardian-essential-",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jul/30/luke-gosling-labor-mp-arrested-northern-territory-nt-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/df6488547114916af5bad7c2360ddbec8d145998/1342_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13e2a9b5efdd5f34e5c31ba126a3d1f5",
-          "publishedAt": "2026-07-30T03:23:04.000Z",
+          "link": "https://www.theguardian.com/australia-news/audio/2026/jul/30/guardian-essential-report-the-labor-health-check-australian-politics-podcast",
+          "image": "https://i.guim.co.uk/img/media/21d57e8c9926b1a6f37d9372bf8b326fd05a8aca/941_516_6235_4988/master/6235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ade88319acc2eb606ffa1ef40e2cf1e9",
+          "publishedAt": "2026-07-30T02:00:49.000Z",
           "title": {
-            "en": "Federal Labor MP Luke Gosling charged with assaulting NT administrator",
-            "zh": "联邦工党议员卢克·高斯林被控袭击北领地行政长官"
+            "en": "Guardian Essential report: the Labor health check - podcast",
+            "zh": "卫报基本报告：工党健康检查 - 播客"
           },
           "summary": {
-            "en": "Member for Solomon previously denied alleged incident with administrator David Connolly and says he will contest charges Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Luke Gosling, the federal Labor member for...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Member for Solomon previously denied alleged incident with administrator David Connolly and says he will contest charges Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Luke Gosling, the federal Labor member for Solomon, has been charged over an alleged assault on the Northern Territory’s administrator earlier this month, NT police have said. “The Northern Territory police force has charged the 54-year-old federal member for Solomon, Luke Gosling, in relation to an alleged assault on the administrator of the Northern Territory,” police said in a statement on Thursday. Continue reading...",
-            "zh": "所罗门议员此前否认与管理员大卫·康诺利发生事件，并表示将对指控提出异议 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 据北领地警方称，所罗门联邦工党议员卢克·高斯林本月早些时候因涉嫌袭击北领地管理员而被指控。警方在周四的一份声明中表示，“北领地警察部队已对 54 岁的所罗门联邦议员卢克·高斯林提出指控，涉嫌袭击北领地行政长官。”继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-jul-30-queensland-mp-llew-obrien",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jul/30/queensland-mp-llew-obrien-white-men-can-sprint-social-media-post-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/81e8b872b90909875c02603a921e2812f2e4480d/1260_0_3362_2690/master/3362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7e8bf0c998bca84e5e6130e5e37ed24",
-          "publishedAt": "2026-07-30T02:28:08.000Z",
-          "title": {
-            "en": "Queensland MP pens ‘White Men Can Sprint’ social media post after Lachlan Kennedy takes silver in Glasgow",
-            "zh": "拉克兰·肯尼迪在格拉斯哥获得银牌后，昆士兰州议员在社交媒体上发表了“白人可以冲刺”的帖子"
-          },
-          "summary": {
-            "en": "LNP member Llew O’Brien says ‘there is nothing wrong with being proud of your heritage’, leading Angus Taylor to state: ‘I congratulate all Australians’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Federal...",
+            "en": "This month’s Guardian Essential poll shows signs that One Nation’s primary vote continues to plateau. But Labor can’t breathe a big sigh of relief just yet. Guardian Australia political reporter Josh Butler speaks with Guardian columnist and executive director of Essential,...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "LNP member Llew O’Brien says ‘there is nothing wrong with being proud of your heritage’, leading Angus Taylor to state: ‘I congratulate all Australians’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Federal Coalition MP Llew O’Brien has declared it’s “encouraging to see a White Australian” win a sprinting medal at the Commonwealth Games, after Lachlan Kennedy took silver when setting a new national record in Glasgow. O’Brien, the member for Wide Bay in Queensland, wrote on social media on Wednesday: “White Men Can Sprint!” Continue reading...",
-            "zh": "自由国家党成员 Llew O’Brien 表示，“为自己的传统感到自豪并没有什么错”，安格斯·泰勒说道：“我祝贺所有澳大利亚人” 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 联邦联盟议员 Llew O’Brien 宣称，在拉克兰·肯尼迪 (Lachlan Kennedy) 在英联邦运动会上赢得短跑奖牌后，“令人鼓舞的是，看到一名澳大利亚白人”在英联邦运动会上赢得了短跑奖牌。格拉斯哥国家纪录。昆士兰宽湾党成员奥布莱恩周三在社交媒体上写道：“白人可以冲刺！”继续阅读..."
+            "en": "This month’s Guardian Essential poll shows signs that One Nation’s primary vote continues to plateau. But Labor can’t breathe a big sigh of relief just yet. Guardian Australia political reporter Josh Butler speaks with Guardian columnist and executive director of Essential, Peter Lewis , about the health of the government at the halfway point of Anthony Albanese’s second term as prime minister • Guardian Essential poll: Angus Taylor’s approval rating crashes and One Nation support plateaus • The (spin) doctor is in: the Albanese government is in good health, but that could all vanish in an instant – Peter Lewis Continue reading...",
+            "zh": "本月的卫报基本民意调查显示，有迹象表明一国党的初选投票继续趋于稳定。但工党目前还不能松一口气。 《卫报》澳大利亚政治记者乔什·巴特勒与《卫报》专栏作家兼《Essential》执行董事彼得·刘易斯 (Peter Lewis) 就安东尼·阿尔巴尼斯 (Anthony Albanese) 第二任总理任期过半时政府的健康状况进行了交谈。"
           },
           "reflection": {
             "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
@@ -1315,39 +1431,6 @@
             "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
             "themeEn": "Mind discipline",
             "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-jul-30-ben-carroll-victoria-subu",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/jul/30/ben-carroll-victoria-suburban-rail-loop-funds-srl-wfh-laws",
-          "image": "https://i.guim.co.uk/img/media/066f584e23b5d927f9b6b94b5beaab6ef0a27bb9/424_0_5912_4731/master/5912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9cbec96158375e826b4b03598dd379e4",
-          "publishedAt": "2026-07-30T02:11:34.000Z",
-          "title": {
-            "en": "Ben Carroll will not rule out redirecting Suburban Rail Loop funds to other projects",
-            "zh": "本·卡罗尔不排除将郊区铁路环线资金转向其他项目"
-          },
-          "summary": {
-            "en": "New Victorian premier also considering ‘sensible changes’ to laws that would enshrine right to work from home two days a week Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Victoria’s new premier has not ruled...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "New Victorian premier also considering ‘sensible changes’ to laws that would enshrine right to work from home two days a week Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Victoria’s new premier has not ruled out redirecting billions of dollars earmarked for the controversial Suburban Rail Loop to other projects, saying he’s seeking to pursue the “greatest value for Victorians”. Ben Carroll also used his second day in the top job to flag “sensible changes” to nation-leading laws that would enshrine the right to work from home two days a week, as he tries to distance himself from predecessors Jacinta Allan and Daniel Andrews. Continue reading...",
-            "zh": "维多利亚州新总理还考虑对法律进行“明智的修改”，规定每周两天在家工作的权利关注我们的澳大利亚新闻直播博客以获取最新动态获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客维多利亚州新总理不排除将专门用于有争议的郊区铁路环线的数十亿美元转移到其他项目，并表示他正在寻求“为维多利亚人带来最大价值”。本·卡罗尔还利用就任最高职位的第二天对国家主导法律进行“明智的改变”，规定每周两天在家工作的权利，同时他试图与前任杰辛塔·艾伦和丹尼尔·安德鲁斯保持距离。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
@@ -1492,8 +1575,8 @@
           "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-insight-article-i-live-with-15-other-people-this-is-.png",
           "publishedAt": "2026-07-29T19:32:33.000Z",
           "title": {
-            "en": "I live with 15 other people. This is what keeps our house running smoothly",
-            "zh": "我和另外 15 个人住在一起。这就是我们的房子运转顺利的原因"
+            "en": "I live in a 16-person share house. This is what might surprise you",
+            "zh": "我住在一个 16 人合住的房子里。这可能会让你感到惊讶"
           },
           "summary": {
             "en": "Alexa, 22, lives in a 16-person share house. She says high expectations of each other are key to successful communal living.",
