@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T21:44:15.489Z",
+  "generatedAt": "2026-08-01T22:44:32.578Z",
   "editionDate": "2026-08-02",
   "sources": [
     {
@@ -105,12 +105,113 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "SBS News World",
         "BBC News World",
+        "DW World",
         "The Guardian World",
-        "DW World"
+        "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-bbc-co-uk-news-articles-c70g132erlko-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e78/live/b07d6b40-8de6-11f1-92c6-e748252fe919.jpg",
+          "publishedAt": "2026-08-01T22:34:20.000Z",
+          "title": {
+            "en": "Tourist plane crashes in Peru, killing 13",
+            "zh": "秘鲁旅游飞机坠毁，13人遇难"
+          },
+          "summary": {
+            "en": "A small tourist plane crashed while flying over the Nazca Lines archaeological site in Peru, resulting in the deaths of 13 people.",
+            "zh": "据当地报道，一架小型旅游飞机在秘鲁纳斯卡线条考古遗址上空飞行时坠毁，造成13人死亡。"
+          },
+          "body": {
+            "en": "A small plane carrying tourists has crashed in Peru, killing all 13 people on board, according to local news reports and Peruvian officials.\n\nThe aircraft had been flying over Nazca Lines ​archaeological site when it went down on Saturday. Eleven passengers and two pilots were on board.\n\nNazca Lines is a popular tourist attraction and UNESCO World Heritage site in southern Peru that features ancient drawings in desert sand.\n\n\"Given the severity of the accident, there are no survivors. We have recovered four bodies so far,\" Police Major Jorge Andrade said, according to AFP.\n\nThe crash happened around 13:00 local time (19:00 BST) in the Pueblo Viejo region after the plane departed from an airport in Pisco, Peru.\n\nItalian tourists are believed to be among the victims, said William Acosta, an inspector at the Civil Aviation Directorate General, according to the Reuters news agency.\n\nVideo from Reuters shows firefighters spraying water at the scene as smoke rises from the wreckage.\n\nIn a statement in Spanish posted online by the Municipalidad Provincial de Nasca, officials expressed \"deep sorrow\" for the accident and extended \"heartfelt condolences to the families of the deceased\".\n\nThis isn't the first plane to crash over the famed site in the last few decades.\n\nIn 2022, another small tourist plane crashed during a flight over the Nazca Lines site, killing seven on board.\n\nAnd in 2010, a tourist plane went down over the site, killing six people on board.",
+            "zh": "据当地新闻报道和秘鲁官员称，一架载有游客的小型飞机在秘鲁坠毁，机上 13 人全部遇难。 周六坠毁时，这架飞机正在飞越纳斯卡线考古遗址。机上有十一名乘客和两名飞行员。 纳斯卡线是秘鲁南部一个受欢迎的旅游景点，也是联合国教科文组织世界遗产，以沙漠中的古代图画为特色。 据法新社报道，警察少校豪尔赫·安德拉德说：“鉴于事故的严重性，没有幸存者。到目前为止，我们已找到四具尸体。” 飞机从秘鲁皮斯科机场起飞后，于当地时间 13:00 左右（英国夏令时 19:00）在普韦布洛维耶霍地区发生坠机事故。 纳斯卡省市政厅在网上发布的一份西班牙语声明中，官员们对这起事故表示“深切哀悼”，并向死者家属表示“衷心哀悼”。 这并不是过去几十年来第一架在这个著名地点坠毁的飞机。 2022 年，另一架小型旅游飞机在飞越纳斯卡线遗址时坠毁，造成机上 7 人死亡。 2010年，一架旅游飞机在该地点上空坠毁，机上六人丧生。"
+          },
+          "reflection": {
+            "en": "The sudden loss of life in this tragic accident brings profound sorrow. In moments of such unexpected grief, we remember that even Yahweh, in the person of Jesus, wept at the death of a friend. This simple act reminds us that it is right to mourn and that our pain is seen.",
+            "zh": "这场悲剧性事故中生命的突然逝去带来了深切的悲痛。在这样意想不到的悲伤时刻，我们记得，即使是雅伟，以耶稣的身份，也曾为朋友的离世而哭泣。这个简单的举动提醒我们，哀悼是恰当的，我们的痛苦是被看见的。"
+          },
+          "verse": {
+            "reference": "John 11:35",
+            "textEn": "Jesus wept.",
+            "textZh": "耶稣哭了。",
+            "themeEn": "Jesus wept",
+            "themeZh": "耶稣哭了"
+          },
+          "aiVerseId": "jn_11_35",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-homemade-bomb-goes-off-outside-upscale-moscow-restaurant-a",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/homemade-bomb-goes-off-outside-upscale-moscow-restaurant/a-78205022?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/78205163_6.jpg",
+          "publishedAt": "2026-08-01T22:21:00.000Z",
+          "title": {
+            "en": "Homemade bomb goes off outside upscale Moscow restaurant",
+            "zh": "自制炸弹在莫斯科高档餐厅外爆炸"
+          },
+          "summary": {
+            "en": "Russian authorities said the blast occurred outside a restaurant on Kudrinskaya Square when a woman allegedly carrying explosives was stopped by a security guard.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Russian authorities said the blast occurred outside a restaurant on Kudrinskaya Square when a woman allegedly carrying explosives was stopped by a security guard.\n\nAn&#160;explosion at a restaurant in central Moscow killed at least three people, including the suspected bomber on Saturday night,&#160;authorities said.\n\nRussia's Anti-Terrorism Committee said a woman carrying&#160;&#160;\"a&#160;homemade explosive device\" tried to enter the restaurant on Kudrinskaya Square but was stopped by a security guard.\n\nThe device exploded at the entrance, killing the woman, the guard and a restaurant patron.\n\nState news agency RIA Novosti reported that at least 21 other people were injured in the blast, which occurred shortly before 8 p.m. local time (5 p,m. UTC).\n\nThe restaurant's website said the venue had been closed on Saturday for a private event.\n\nHeavily armed law enforcement officers sealed off the area and launched an investigation.\n\nAuthorities did not immediately&#160;identify&#160;those they believed to be behind the attack.\n\nRussia has faced several attacks&#160;since the start of the war in Ukraine in 2022. They blamed&#160;a ‌series of assassinations and attempted killings on Kyiv.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google , so you'll always see our verified news first.",
+            "zh": "俄罗斯当局表示，爆炸发生在库德林斯卡亚广场一家餐厅外，一名据称携带爆炸物的妇女被一名保安拦住。 当局称，莫斯科市中心一家餐厅发生爆炸，造成至少三人死亡，其中包括周六晚上的疑似炸弹袭击者。 俄罗斯反恐委员会表示，一名携带“自制爆炸装置”的妇女试图进入库德林斯卡亚广场上的餐厅，但被保安拦住。 该装置在入口处爆炸，导致该名女子、警卫和一名餐厅顾客死亡。 国家通讯社俄新社报道称，爆炸发生在晚上 8 点前不久，另有至少 21 人受伤。当地时间（下午 5 点，UTC）。 该餐厅的网站称，该场地已于周六因私人活动而关闭。 全副武装的执法人员封锁了该地区并展开调查。 当局没有立即确认他们认为的袭击幕后黑手。 自 2022 年乌克兰战争爆发以来，俄罗斯遭遇了多次袭击。他们将一系列暗杀和未遂杀戮归咎于基辅。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间选择我们作为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-aug-01-at-least-13-dead-as-tourist-plane-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+          "image": "https://i.guim.co.uk/img/media/acf80208b663a5d208fe59c64b52d1f3bb071c71/84_0_5602_4480/master/5602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c73339e4a7e07bee92ecfc3c7bb89df",
+          "publishedAt": "2026-08-01T21:47:06.000Z",
+          "title": {
+            "en": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
+            "zh": "秘鲁纳斯卡线条上空观光飞机坠毁，至少13人死亡"
+          },
+          "summary": {
+            "en": "At least 13 people, including foreign tourists, died when a plane crashed into a field near Peru's Nazca Lines. The aircraft had departed from the nearby city of Pisco.",
+            "zh": "一架飞机在秘鲁纳斯卡线条附近坠毁，造成至少13人死亡，其中包括外国游客。据报道，这架飞机从附近的皮斯科市起飞后坠入一片田地。"
+          },
+          "body": {
+            "en": "Aircraft crashes into field after departing from the nearby city of Pisco, according to local authorities At least 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines, police reported on Saturday. Local authorities in Nazca confirmed that 11 tourists and two pilots died when the Cessna Grand Caravan crashed in Pueblo Viejo, approximately 4 miles (6km) from the city of Nazca and roughly 12km from the Nazca Lines site. Continue reading...",
+            "zh": "据地方当局称，飞机从附近的皮斯科市起飞后坠毁在秘鲁南部纳斯卡线附近的一场飞机失事中，至少有 13 人死亡，其中包括外国游客，警方周六报告称。纳斯卡地方当局证实，塞斯纳大篷车在普韦布洛维耶霍坠毁，造成 11 名游客和两名飞行员死亡，该地点距离纳斯卡市约 4 英里（6 公里），距离纳斯卡线遗址约 12 公里。继续阅读..."
+          },
+          "reflection": {
+            "en": "The sudden loss of life in this plane crash brings profound sorrow to many, reminding us of life's fragility and the pain of unexpected goodbyes. In such moments of tragedy, the promise that Yahweh will one day wipe away every tear and abolish death itself offers a deep, enduring hope for a future free from suffering.",
+            "zh": "这次空难中生命的突然逝去给许多人带来了深切的悲痛，提醒我们生命的脆弱和意外离别的痛苦。在这样的悲剧中，雅伟有一天将擦去所有的眼泪，并废除死亡本身的应许，为我们提供了一个摆脱苦难的未来的深刻而持久的希望。"
+          },
+          "verse": {
+            "reference": "Revelation 21:4",
+            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+            "themeEn": "End of suffering",
+            "themeZh": "苦难的终结"
+          },
+          "aiVerseId": "rev_21_4",
+          "translationState": "localized"
+        },
         {
           "id": "www-sbs-com-au-news-article-three-dead-after-woman-detonates-bomb-at-mos",
           "section": "world",
@@ -180,69 +281,35 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-c70g132erlko-at-medium-rss-at-campaign-rss",
+          "id": "www-bbc-co-uk-news-articles-czdmvr984yyo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e78/live/b07d6b40-8de6-11f1-92c6-e748252fe919.jpg",
-          "publishedAt": "2026-08-01T20:51:09.000Z",
+          "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg",
+          "publishedAt": "2026-08-01T21:03:42.000Z",
           "title": {
-            "en": "Tourist plane crashes in Peru, killing 13",
-            "zh": "秘鲁旅游飞机坠毁，13人遇难"
+            "en": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+            "zh": "澳大利亚如何结合现代技术和本土知识来灭火"
           },
           "summary": {
-            "en": "A small tourist plane crashed while flying over the Nazca Lines archaeological site in Peru, resulting in the deaths of 13 people.",
-            "zh": "据当地报道，一架小型旅游飞机在秘鲁纳斯卡线条考古遗址上空飞行时坠毁，造成13人死亡。"
+            "en": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "A small plane carrying tourists has crashed in Peru, killing all 13 people on board, according to local news reports and Peruvian officials.\n\nThe aircraft had been flying over Nazca Lines ​archaeological site when it went down on Saturday. Eleven passengers and two pilots were on board.\n\nNazca Lines is a popular tourist attraction and UNESCO World Heritage site in southern Peru that features ancient drawings in desert sand.\n\n\"Given the severity of the accident, there are no survivors. We have recovered four bodies so far,\" Police Major Jorge Andrade said, according to AFP.\n\nThe crash happened around 13:00 local time (19:00 BST) in the Pueblo Viejo region after the plane departed from an airport in Pisco, Peru.\n\nIn a statement in Spanish posted online by the Municipalidad Provincial de Nasca, officials expressed \"deep sorrow\" for the accident and extended \"heartfelt condolences to the families of the deceased\".\n\nThis isn't the first plane to crash over the famed site in the last few decades.\n\nIn 2022, another small tourist plane crashed during a flight over the Nazca Lines site, killing seven on board.\n\nAnd in 2010, a tourist plane went down over the site, killing six people on board.",
-            "zh": "据当地新闻报道和秘鲁官员称，一架载有游客的小型飞机在秘鲁坠毁，机上 13 人全部遇难。 周六坠毁时，这架飞机正在飞越纳斯卡线考古遗址。机上有十一名乘客和两名飞行员。 纳斯卡线是秘鲁南部一个受欢迎的旅游景点，也是联合国教科文组织世界遗产，以沙漠中的古代图画为特色。 据法新社报道，警察少校豪尔赫·安德拉德说：“鉴于事故的严重性，没有幸存者。到目前为止，我们已找到四具尸体。” 飞机从秘鲁皮斯科机场起飞后，于当地时间 13:00 左右（英国夏令时 19:00）在普韦布洛维耶霍地区发生坠机事故。 纳斯卡省市政厅在网上发布的一份西班牙语声明中，官员们对这起事故表示“深切哀悼”，并向死者家属表示“衷心哀悼”。 这并不是过去几十年来第一架在这个著名地点坠毁的飞机。 2022 年，另一架小型旅游飞机在飞越纳斯卡线遗址时坠毁，造成机上 7 人死亡。 2010年，一架旅游飞机在该地点上空坠毁，机上六人丧生。"
+            "en": "The wildfires currently ravaging Europe feel close to home for Professor Marta Yebra, despite being on the other side of the world.\n\nOriginally from Spain, the Canberra-based bushfire expert has spent years developing ways for Australia - home to some of the most fire-prone landscapes in the world - to battle its own blazes.\n\nShe heads up the Bushfire Research Centre of Excellence, which was set up in the aftermath of Australia's worst fire season on record: the Black Summer fires of 2019-20 , which razed a combined area about the size of the UK.\n\nHer team looks at how technology such as satellites, drones and AI can be used to better detect fires, alongside the knowledge of experienced firefighters.\n\nEqually important, though, is the knowledge and experience that has accrued in Australia over thousands of years, and has been passed down through generations.\n\nThe use of fire has been part of the country's Indigenous culture since long before Europeans arrived in the 18th century - but the value of this ingrained knowledge has only been truly realised in recent years.\n\nYebra has spearheaded an innovative project, bringing together millennia-old knowledge in Australia's Indigenous communities with cutting-edge satellite imagery to help detect where fires are most likely to break out.\n\nThe satellite images pick up the \"fuel moisture content\" in the landscape, which signals where there might be a large amount of fuel, such as dry leaves, grass, shrubs and bark. But such data provides just one part of a bigger picture.\n\nGrowing up on the south coast of New South Wales (NSW), Webster learnt how to read the environment or \"country\" - the term Indigenous Australians use for their ancestral homeland – from his elders.\n\nUsing Indigenous ecological knowledge – a plant's colour and scent, for example, or the shade cover of trees - he can verify information in the satellite images from Yebra's team.\n\n\"She had all this amazing data, but there was no translation to what it meant on the ground, so it was kind of useless,\" he explains.\n\n\"But through an Indigenous perspective, it was not useless. It was a map that could guide you through the country and, if you understood it, take you directly into a place that is ready to burn.\"\n\nFor Webster, assessing the land involves him \"literally digging and going underground,\" he says.\n\n\"We're looking at the subsurface level and then everything from that up beyond the canopy.\"\n\nYebra said there was a \"remarkable agreement\" between Webster's local knowledge and the satellite data, demonstrating the combined value of Indigenous expertise and Western science.\n\nHer team now hopes to get more funding for the project, and work with Indigenous communities to co-design plans to protect the land and manage fires.\n\nFor Webster, it's...",
+            "zh": "尽管身处世界的另一端，但目前正在欧洲肆虐的野火对玛尔塔·耶布拉教授来说却感觉离家很近。 这位来自西班牙的堪培拉丛林火灾专家花了数年时间为澳大利亚寻找应对火灾的方法，澳大利亚是世界上一些最容易发生火灾的地区。 她是丛林火灾卓越研究中心的负责人，该中心是在澳大利亚有记录以来最严重的火灾季节：2019-20年的黑夏火灾之后成立的，这场火灾夷为平地，面积相当于英国的面积。 她的团队研究如何利用卫星、无人机和人工智能等技术以及经验丰富的消防员的知识来更好地探测火灾。 然而，同样重要的是澳大利亚数千年来积累并代代相传的知识和经验。 早在 18 世纪欧洲人到来之前，用火就已经成为该国土著文化的一部分，但这种根深蒂固的知识的价值直到最近几年才真正被认识到。 Yebra 领导了一个创新项目，将澳大利亚原住民社区数千年的知识与尖端卫星图像结合起来，帮助探测最有可能发生火灾的地方。 卫星图像捕捉到景观中的“燃料水分含量”，这表明哪里可能存在大量燃料，例如干树叶、草、灌木和树皮。但这些数据仅提供了更大图景的一部分。 韦伯斯特在新南威尔士州 (NSW) 南海岸长大，从长辈那里学会了如何解读环境或“国家”（澳大利亚原住民用来形容他们祖先家园的术语）。 利用本土生态知识——例如植物的颜色和气味，或者树木的树荫——他可以验证耶布拉团队的卫星图像中的信息。 “她拥有所有这些令人惊叹的数据，但没有翻译出这些数据在地面上的含义，所以它有点无用，”他解释道。 “但从原住民的角度来看，它并非毫无用处。它是一张可以引导你穿越这个国家的地图，如果你理解它，它可以直接带你进入一个即将燃烧的地方。” 对于韦伯斯特来说，评估土地涉及他“真正的挖掘和进入地下”，他说。 “我们正在研究地下层，然后是树冠以外的一切。” 耶布拉表示，韦伯斯特的当地知识和卫星数据之间存在“显着的一致性”，展示了本土专业知识和西方科学的综合价值。 她的团队现在希望为该项目获得更多资金，并与原住民社区合作共同设计保护土地和管理火灾的计划。 对于韦伯斯特来说，这是..."
           },
           "reflection": {
-            "en": "The sudden loss of life in this tragic accident brings profound sorrow. In moments of such unexpected grief, we remember that even Yahweh, in the person of Jesus, wept at the death of a friend. This simple act reminds us that it is right to mourn and that our pain is seen.",
-            "zh": "这场悲剧性事故中生命的突然逝去带来了深切的悲痛。在这样意想不到的悲伤时刻，我们记得，即使是雅伟，以耶稣的身份，也曾为朋友的离世而哭泣。这个简单的举动提醒我们，哀悼是恰当的，我们的痛苦是被看见的。"
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "John 11:35",
-            "textEn": "Jesus wept.",
-            "textZh": "耶稣哭了。",
-            "themeEn": "Jesus wept",
-            "themeZh": "耶稣哭了"
-          },
-          "aiVerseId": "jn_11_35",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-aug-01-at-least-13-dead-as-tourist-plane-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-          "image": "https://i.guim.co.uk/img/media/acf80208b663a5d208fe59c64b52d1f3bb071c71/84_0_5602_4480/master/5602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c73339e4a7e07bee92ecfc3c7bb89df",
-          "publishedAt": "2026-08-01T20:42:06.000Z",
-          "title": {
-            "en": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
-            "zh": "旅游飞机在飞越秘鲁纳斯卡线时坠毁 至少13人死亡"
-          },
-          "summary": {
-            "en": "Aircraft crashes into field after departing from the nearby city of Ica, according to local authorities At least 13 people have died after a plane carrying tourists crashed into a field in Peru, local authorities said. Nazca’s municipal government said the plane was taking...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Aircraft crashes into field after departing from the nearby city of Ica, according to local authorities At least 13 people have died after a plane carrying tourists crashed into a field in Peru, local authorities said. Nazca’s municipal government said the plane was taking tourists on a sightseeing flight of the Nazca Lines, a group of extensive geoglyphs scraped into the desert around Nazca hundreds of years ago by Peru’s Indigenous inhabitants. The lines form images of animals that can only be fully appreciated from planes or viewing towers. Continue reading...",
-            "zh": "据地方当局称，一架载有游客的飞机从附近城市伊卡起飞后坠入田野，当地政府称，一架载有游客的飞机在秘鲁的田野坠毁，造成至少 13 人死亡。纳斯卡市政府表示，这架飞机正在载着游客进行纳斯卡线的观光飞行，纳斯卡线是数百年前秘鲁原住民在纳斯卡周围的沙漠中刮出的一组大面积的地质符号。这些线条形成的动物图像只能从飞机或观景塔上充分欣赏。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
           },
           "translationState": "fallback"
         },
@@ -332,7 +399,7 @@
           },
           "body": {
             "en": "In 2015, the EU designated August 2 as the European Roma Holocaust Memorial Day. In Germany, the day is marked with memorial services, educational activites and public addresses. And in eastern Europe?\n\nIt took decades before Germany recognized the Romani Holocaust&#160;—&#160;the Nazi genocide of 500,000&#160;European Roma and Sinti during World War II . Several more decades passed before the European Holocaust Memorial Day for Sinti and Roma&#160;became an official German and European day of remembrance, celebrated each year on August 2.\n\nBased on initiatives by Polish Roma groups, the Nazi liquidation of the so-called \"Gypsy Family Camp\" in the Auschwitz-Birkenau Concentration and Extermination Camp on the evening of August 2-3, 1944, was first commemorated half a century later, in 1994.&#160;\n\nThousands of deported Roma and Sinti had already been killed as a result of malnutrition and&#160;disease. That evening, thousands more were forced into gas chambers, shot and beaten to death by Nazi henchmen.\n\nIn 2015, the European Parliament declared this date the European Roma Holocaust Memorial Day. In Germany and other European countries, the&#160;genocide is commemorated by officials with the participation of government representatives. In some cases, representatives of European governments travel to the memorial site in Auschwitz.\n\nIn most cases, however, countries&#160;hold their own memorial services — particularly in central and southeastern Europe, where Nazi extermination commonly targeted Romani peoples . These days, such memorial days also take the opportunity to raise awareness for ongoing Antiziganism and the consequences it has.&#160;\n\nPoland , home to an estimated 30,000 Roma, has been observing August 2 since 2011. The ceremony routinely includes a visit by parliamentary and governmental representatives to the Auschwitz Memorial.\n\nAnother important day of remembrance is observed each year in the village of Szczurowa, east of Krakow, on July 3. It honors the memory of Polish Roma massacred by German troops in 1943. In 1956, Szczurowa became the first site of a European memorial for victims of the Romani Holocaust.\n\nOther small towns and villages across southeastern Poland also commemorate the killing of Polish Roma&#160;during Nazi German occupation.&#160;\n\nIn the Czech Republic , where nearly 250,000 Roma live, August 2 has been an official day of remembrance since 2015. The most important ceremony is held in Lety, south of Prague, where Roma organizations have been commemorating the genocide for decades. This is the site where German Nazis established a concentration camp in 1940, and began deporting and imprisoning Romani families from occupied Bohemia from 1942 onward.\n\nAfter the war, the site was used as a pig farm. It was closed in...",
-            "zh": "2015年，欧盟将8月2日定为欧洲罗姆人大屠杀纪念日。在德国，这一天会举行追悼会、教育活动和公共演讲。那么在东欧呢？ 德国花了几十年时间才承认罗姆人大屠杀——二战期间纳粹对 50 万欧洲罗姆人和辛提人进行的种族灭绝。又过了几十年，辛提人和罗姆人的欧洲大屠杀纪念日才成为德国和欧洲的官方纪念日，每年在 8 月 2 日庆祝。 根据波兰罗姆人团体的倡议，纳粹于 1944 年 8 月 2 日至 3 日晚对奥斯威辛-比克瑙集中营和灭绝营所谓的“吉普赛家庭营”进行了清算，半个世纪后的 1994 年首次被纪念。 数千名被驱逐的罗姆人和辛提人已经因营养不良和疾病而被杀害。当天晚上，还有数千人被纳粹党羽逼进毒气室，枪杀或殴打致死。 2015年，欧洲议会宣布这一天为欧洲罗姆人大屠杀纪念日。在德国和其他欧洲国家，官员会在政府代表的参与下纪念种族灭绝。在某些情况下，欧洲政府的代表会前往奥斯维辛集中营的纪念地。 然而，在大多数情况下，各国都会举行自己的追悼会，特别是在中欧和东南欧，纳粹的灭绝行动通常针对罗姆人。如今，此类纪念日也借此机会提高人们对持续存在的反齐根主义及其后果的认识。 波兰大约有 30,000 名罗姆人，自 2011 年以来一直庆祝 8 月 2 日。仪式通常包括议会和政府代表参观奥斯威辛集中营纪念馆。 每年 7 月 3 日，克拉科夫东部的斯祖罗瓦村都会举办另一个重要的纪念日。这一天是为了纪念 1943 年被德国军队屠杀的波兰罗姆人。1956 年，斯祖罗瓦成为欧洲第一个纪念罗姆人大屠杀受害者的纪念碑。 波兰东南部的其他小城镇和村庄也纪念纳粹德国占领期间杀害波兰罗姆人的事件。 在居住着近 25 万罗姆人的捷克共和国，自 2015 年以来，8 月 2 日一直是官方纪念日。最重要的仪式在布拉格南部的莱蒂举行，几十年来罗姆人组织一直在那里纪念种族灭绝。德国纳粹于 1940 年在此建立了集中营，并从 1942 年起开始驱逐和监禁来自被占领波西米亚的罗姆家庭。 战后，该地被用作养猪场。它被关闭于..."
+            "zh": "2015年，欧盟将8月2日定为欧洲罗姆人大屠杀纪念日。在德国，这一天会举行追悼会、教育活动和公共演讲。那么在东欧呢？ 德国花了几十年时间才承认罗姆人大屠杀——二战期间纳粹对 50 万欧洲罗姆人和辛提人进行的种族灭绝。又过了几十年，辛提人和罗姆人的欧洲大屠杀纪念日才成为德国和欧洲的官方纪念日，每年在 8 月 2 日庆祝。 根据波兰罗姆人团体的倡议，纳粹于 1944 年 8 月 2 日至 3 日晚对奥斯威辛-比克瑙集中营和灭绝营所谓的“吉普赛家庭营”进行了清算，半个世纪后的 1994 年首次被纪念。 数千名被驱逐的罗姆人和辛提人已经因营养不良和疾病而被杀害。当天晚上，还有数千人被纳粹党羽逼进毒气室，枪杀或殴打致死。 2015年，欧洲议会宣布这一天为欧洲罗姆人大屠杀纪念日。在德国和其他欧洲国家，官员会在政府代表的参与下纪念种族灭绝。在某些情况下，欧洲各国政府的代表会前往奥斯维辛集中营的纪念地。 然而，在大多数情况下，各国都会举办自己的追悼会，特别是在中欧和东南欧，纳粹的灭绝行动通常针对罗姆人。如今，此类纪念日也借此机会提高人们对持续存在的反齐根主义及其后果的认识。 波兰大约有 30,000 名罗姆人，自 2011 年以来一直庆祝 8 月 2 日。仪式通常包括议会和政府代表参观奥斯威辛集中营纪念馆。 每年 7 月 3 日，克拉科夫东部的斯祖罗瓦村都会举办另一个重要的纪念日。这一天是为了纪念 1943 年被德国军队屠杀的波兰罗姆人。1956 年，斯祖罗瓦成为欧洲第一个纪念罗姆人大屠杀受害者的纪念碑。 波兰东南部的其他小城镇和村庄也纪念纳粹德国占领期间杀害波兰罗姆人的事件。 在居住着近 25 万罗姆人的捷克共和国，自 2015 年以来，8 月 2 日一直是官方纪念日。最重要的仪式在布拉格南部的莱蒂举行，几十年来罗姆人组织一直在那里纪念种族灭绝。德国纳粹于 1940 年在此建立了集中营，并从 1942 年起开始驱逐和监禁来自被占领波西米亚的罗姆家庭。 战后，该地被用作养猪场。它被关闭于..."
           },
           "reflection": {
             "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
@@ -412,40 +479,6 @@
             "themeZh": "基督在至微者中"
           },
           "aiVerseId": "matt_25_40",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cr7k4gdrgljo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f990/live/6272fba0-8dd1-11f1-b8ee-9b3c26ad07bb.jpg",
-          "publishedAt": "2026-08-01T17:51:46.000Z",
-          "title": {
-            "en": "Italy putting nearly all major cities on highest heat alert",
-            "zh": "意大利将几乎所有主要城市置于最高高温警报状态"
-          },
-          "summary": {
-            "en": "Nineteen major Italian cities, including Rome, Milan, and Naples, are currently under a red heat alert, with forecasts indicating that nearly all major cities in Italy will reach this highest alert level by Monday.",
-            "zh": "包括罗马、米兰和那不勒斯在内的19个意大利主要城市已处于高温红色警报状态，预计到周一，几乎所有主要城市都将达到最高警报级别。"
-          },
-          "body": {
-            "en": "Italy is putting nearly all of its major cities on the highest \"red\" alert for high temperatures, as a new heatwave grips the country.\n\nHealth officials say 19 cities from north to south - including the capital Rome, Milan, Venice and Naples - are already at red alert, and by Monday all but two cities will be.\n\nTemperatures hit mid-30s C in many places on Saturday, and authorities are warning warning of risks to even healthy and active people - not just groups including the elderly, very young children and people with chronic illnesses.\n\nThe warnings come as several European nations battle devastating wildfires after a succession of heatwaves that have created favourable conditions for blazes.\n\nIn its latest heatwave bulletin published on Saturday, the Italian health ministry says that by Monday, some 25 of the country's 27 major cities will be on red alert.\n\nIt says it expects only two - Reggio Calabria in the southern tip of Italy's \"boot\" and Messina, facing it across on the island of Sicily - to be on the second-highest \"amber\" alert.\n\nThe ministry urges residents in the affected areas to avoid exposure to heat and direct sunlight during the hottest hours between 11:00 and 18:00, stay indoors and drink plenty of fluids.\n\nThe extreme heat is being caused by a subtropical anticyclone from North Africa that is now strengthening over the Mediterranean.\n\nMeanwhile, firefighters in Greece, France, Portugal and Spain are still tackling blazes spanning thousands of hectares.\n\nIn France, some 2,500 people were evacuated in the south-eastern Var region on Friday evening after a blaze - which had been contained for several days - reignited, local officials said.\n\nBut a massive fire in the south-western Gironde region is now under control, and some 200,000 local evacuated residents have been able to return to their homes.\n\nIn Greece, hundreds of people - mostly tourists - have been evacuated by sea from a coastal town of Viotia hemmed in by one of the many wildfires raging across the country.\n\nAnd in Spain, more than 200,000 hectares of land has burnt in 2026 - roughly five times above the average by this point in the year - while the burnt land in Portugal is also higher than usual, EU data shows.\n\nClimate change is driving up temperatures around the world, and Europe is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus Climate Change Service.\n\nThis is causing increased summer heatwaves, greater pressure on Europe's water supply, and more intense wildfires.",
-            "zh": "随着新一轮热浪席卷意大利，意大利将几乎所有主要城市置于最高高温“红色”警报。 卫生官员表示，从北到南，包括首都罗马、米兰、威尼斯和那不勒斯在内的 19 个城市已经进入红色警戒状态，到周一，除两个城市外，所有城市都将进入红色警戒状态。 周六，许多地方的气温达到 30 多摄氏度，当局警告健康和活跃的人也面临风险，而不仅仅是老年人、幼儿和慢性病患者等群体。 这些警告发出之际，一系列欧洲国家正在与毁灭性的野火作斗争，一系列热浪为火灾创造了有利条件。 意大利卫生部在周六发布的最新热浪公告中表示，到周一，该国 27 个主要城市中的约 25 个将进入红色警报。 它表示，预计只有两个城市——意大利“靴子”南端的雷焦卡拉布里亚和对面的西西里岛的墨西拿——处于第二高的“琥珀”警报。 卫生部敦促受影响地区的居民在11:00至18:00最热时段避免暴露在高温和阳光直射下，呆在室内并多喝水。 极端高温是由来自北非的亚热带反气旋引起的，该反气旋目前正在地中海上空加强。 与此同时，希腊、法国、葡萄牙和西班牙的消防队员仍在扑灭数千公顷的大火。 当地官员称，法国东南部瓦尔地区的大火已被控制数日，但周五晚间重新燃起，约有 2,500 人被疏散。 但吉伦特省西南部的大火现已得到控制，约20万当地疏散居民已能够返回家园。 在希腊，数百人（主要是游客）从沿海小镇维奥蒂亚经海路撤离，该小镇被全国肆虐的众多野火之一所包围。 欧盟数据显示，2026 年西班牙有超过 20 万公顷的土地被烧毁，大约是当年同期平均水平的五倍，而葡萄牙的烧毁土地也高于平常。 根据哥白尼气候变化服务中心的数据，气候变化正在推高世界各地的气温，而欧洲是变暖最快的大陆，升温速度是全球平均水平的两倍。 这导致夏季热浪加剧、欧洲供水压力更大以及野火更加猛烈。"
-          },
-          "reflection": {
-            "en": "The extreme heat alerts across Italy remind us that creation itself groans under the weight of change and distress, impacting human lives. In these moments, we are called to compassion for those most vulnerable to environmental challenges, trusting in Yahweh's ultimate promise of renewal.",
-            "zh": "意大利各地发布的极端高温警报提醒我们，受造界本身因变化和困境而呻吟，影响着人类的生活。在这样的时刻，我们蒙召要对那些最易受环境挑战影响的人心怀怜悯，并信靠雅伟最终更新万物的应许。"
-          },
-          "verse": {
-            "reference": "Romans 8:22",
-            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
-            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
-            "themeEn": "Creation's groan",
-            "themeZh": "受造叹息"
-          },
-          "aiVerseId": "rom_8_22",
           "translationState": "localized"
         },
         {
@@ -652,39 +685,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-sbs-com-au-news-article-fifa-abandons-world-cup-privatisation-plan-a",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/fifa-abandons-world-cup-privatisation-plan-after-fierce-backlash/bgzvz1rid",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-fifa-abandons-world-cup-privatisation-plan-a.jpg",
-          "publishedAt": "2026-08-01T00:07:51.000Z",
-          "title": {
-            "en": "FIFA abandons World Cup privatisation plan after fierce backlash",
-            "zh": "国际足联在强烈反对后放弃世界杯私有化计划"
-          },
-          "summary": {
-            "en": "FIFA had proposed to set up a commercial subsidiary which would sell a 20 per cent stake in the World Cup to private investors.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "FIFA has abandoned plans to sell a stake in the World Cup after fierce backlash, including threats of boycotts.\n\nIn a statement on Saturday morning, FIFA president Gianni Infantino said it had \"become clear that the project has created divisions of a nature that, regardless of the level of support, are no longer in the interest of the objective set out in the first place\".\n\n\"Our purpose has always been &#x2014; and will always be &#x2014; to unite and improve,\" he said.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"Moving forward, my intent is to bring all interested parties back together in the coming days and weeks in the spirit of shared interest in our game, and with the objective to continue growing football everywhere, particularly in those countries that mostly need our support.\"\n\nFIFA on Wednesday announced its plan to create a commercial subsidiary known as the FIFA Forward Enterprise that would run its main events, including the World Cup.\n\nPrivate investors would have been able to buy a minority stake of up to 20 per cent in the subsidiary, which was valued up to US$20 billion ($28.47 billion).\n\nFIFA had promised each of its 211 member countries and territories US$40 million ($56.9 million) in funding for the 2027-2030 cycle if they agreed to the plan.\n\nBut the backlash to the proposal was fierce, with the 55 member states of the European football governing body UEFA voting unanimously to boycott all FIFA tournaments.\n\nOther bodies also opposed the plan, including CONCACAF, the regional federation for North America, Central America and the Caribbean, as did the Asian Football Confederation, of which Australia is a part of.\n\nInfantino's senior adviser Carlos Cordeiro resigned and called the plan a \"bad deal for football\", while FIFA chief operating officer Kevin Lamour said staff had been \"deceived\" by Infantino and the proposal was a \"project of one person\".\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "在遭到包括抵制威胁在内的强烈反对后，国际足联放弃了出售世界杯股份的计划。 国际足联主席詹尼·因凡蒂诺在周六上午的一份声明中表示，“很明显，该项目已经造成了一定程度的分裂，无论支持程度如何，都不再符合最初设定的目标的利益”。 “我们的目标一直是，也将永远是，团结和进步，”他说。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “展望未来，我的目的是本着对我们比赛的共同兴趣的精神，在未来几天和几周内让所有感兴趣的各方重新聚集在一起，目标是继续在世界各地发展足球，特别是在那些最需要我们支持的国家。” 国际足联周三宣布，计划创建一个名为“国际足联前锋企业”的商业子公司，负责运营包括世界杯在内的主要赛事。 私人投资者将能够购买该子公司最多 20% 的少数股权，该子公司的估值高达 200 亿美元（284.7 亿美元）。 国际足联承诺，如果其 211 个成员国和地区同意该计划，将在 2027 年至 2030 年周期中为每个国家和地区提供 4000 万美元（5690 万美元）的资金。 但该提议遭到强烈反对，欧洲足球管理机构欧足联的 55 个成员国一致投票抵制所有国际足联赛事。 其他机构也反对该计划，包括北美、中美洲和加勒比地区联合会，以及澳大利亚所属的亚洲足球联合会。 因凡蒂诺的高级顾问卡洛斯·科代罗辞职，并称该计划“对足球来说是一笔糟糕的交易”，而国际足联首席运营官凯文·拉穆尔则表示，工作人员被因凡蒂诺“欺骗”，该提议是“一个人的项目”。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-dw-com-en-sudan-civil-war-when-drones-strike-the-classroom-a-7808948",
           "section": "world",
           "source": "DW World",
@@ -754,7 +754,7 @@
           },
           "body": {
             "en": "The handles, which were popularised by Elon Musk’s Tesla EVs, have a record of failing and trapping passengers inside burning vehicles during deadly accidents Get our breaking news email , free app or daily news podcast They used to be a novelty in Australia: the futuristic, flush-mounted car door handles favoured by Elon Musk’s Telsas. However while the design – popularised with the Tesla Model S in 2012 and since adopted by other manufacturers – might look sleek, it may not be great in an emergency. Continue reading...",
-            "zh": "这些把手因埃隆·马斯克 (Elon Musk) 的特斯拉电动汽车而广受欢迎，但在致命事故中曾发生过故障，并将乘客困在燃烧的车辆内。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 它们曾经在澳大利亚是一种新奇事物：埃隆·马斯克 (Telsas) 青睐的未来派嵌入式汽车门把手。然而，虽然这种设计在 2012 年随特斯拉 Model S 流行起来，后来被其他制造商采用，但虽然看起来很时尚，但在紧急情况下可能不太好。继续阅读..."
+            "zh": "这些把手因埃隆·马斯克 (Elon Musk) 的特斯拉电动汽车而广受欢迎，但在发生致命事故时，曾出现过故障，并将乘客困在燃烧的车辆内。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 它们曾经在澳大利亚是一件新鲜事：埃隆·马斯克 (Telsas) 青睐的未来派嵌入式汽车门把手。然而，虽然这种设计在 2012 年随特斯拉 Model S 流行起来，后来被其他制造商采用，但虽然看起来很时尚，但在紧急情况下可能不太好。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1110,7 +1110,7 @@
           },
           "body": {
             "en": "Share your feedback and help us improve this feature. Read more about how we use AI at SBS here.\n\nThe approach to North Sullivan's home is a magical journey through winding eucalypt-lined roads, where traffic signs warn of wombats and roaming horses greet passing cars.\n\nThe driveway to the 71-year-old's home &#x2014; aptly named Wombat Gully &#x2014; is situated on the doorstep of Yengo National Park, part of the World Heritage-listed Greater Blue Mountains area, around two hours north-west of Sydney.\n\nHis property is one of 22 clustered in what they call Upper Yango, on the site of a former dairy farm that was subdivided into small hobby farms.\n\nSullivan says the landholders were a \"very disparate community\" prior to the Black Summer fires of 2019-20.\n\nBut friendships were formed as they fought side-by-side to protect their properties.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nFrom the ashes of that traumatic experience emerged an enduring lesson: one of the most valuable assets in an emergency are the people around you.\n\nThe community is now one of many across Australia taking direct action to reduce the risks of fire and flood, as climate change is projected to increase the frequency and severity of such extreme weather events.\n\nSince the fires, the Upper Yango community has developed wide tracks that double as firebreaks in strategic locations, as well as other measures to reduce fire risk to their properties.\n\nHowever, Sullivan says these efforts are not reflected in their insurance premiums.\n\nHe is just one of many landowners SBS News has spoken to in NSW who are either struggling to find insurance cover or facing rising costs.\n\nSome experts warn the pressures could leave some communities unviable, with implications that extend beyond remote and regional Australia.\n\nAs premiums continue to rise and access to cover becomes more challenging, communities are questioning whether efforts to reduce disaster risk will be enough to keep insurance affordable.\n\nProfessor Paula Jarzabkowski, an expert on insurance protection gaps at the University of Queensland, says there's already significant evidence that many Australians are struggling to get adequate cover for their properties &#x2014; either because it's too expensive or because policies exclude specific risks, like certain types of flood or fire.\n\n\"Brisbane is built on a floodplain, parts of Sydney are built on floodplains, so we have seen catastrophic flooding in these major cities as well,\" she tells SBS News.\n\nNewcastle conveyancer Leah Stevens sold her business in April but says insurance costs appear to have risen, particularly over the past five years.\n\nShe says about 30 per cent of the Newcastle...",
-            "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 通往北沙利文家的道路是一段神奇的旅程，穿过蜿蜒的桉树道路，道路上有交通标志警告袋熊和漫游的马迎接过往的车辆。 通往这位 71 岁老人家的车道——恰如其分地命名为袋熊沟 (Wombat Gully)——位于延戈国家公园 (Yengo National Park) 的门口，该公园是列入世界遗产名录的大蓝山 (Greater Blue Mountains) 地区的一部分，距离悉尼 (Sydney) 西北约两小时车程。 他的房产是集中在他们所谓的上仰戈 (Upper Yango) 的 22 处房产之一，该房产以前是一个奶牛场，后来被细分为小型业余农场。 沙利文表示，在 2019-20 年黑夏火灾之前，土地所有者是一个“非常不同的社区”。 但当他们并肩战斗以保护自己的财产时，他们就建立了友谊。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 从那次创伤经历的灰烬中得出了一个持久的教训：紧急情况下最有价值的资产之一就是你周围的人。 该社区目前是澳大利亚各地采取直接行动减少火灾和洪水风险的众多社区之一，因为预计气候变化将增加此类极端天气事件的频率和严重程度。 自火灾发生以来，上仰戈社区开发了宽阔的轨道，在战略位置兼作防火带，并采取其他措施来降低其财产的火灾风险。 然而，沙利文表示，这些努力并没有反映在他们的保险费中。 他只是 SBS 新闻采访过的新南威尔士州众多土地所有者之一，他们要么正在努力寻找保险，要么面临着不断上涨的费用。 一些专家警告说，压力可能会让一些社区无法生存，其影响不仅限于澳大利亚偏远地区。 随着保费持续上涨，获得保险变得更加困难，社区质疑减少灾害风险的努力是否足以让保险负担得起。 昆士兰大学保险保障缺口问题专家保拉·贾扎布科斯基教授表示，已经有大量证据表明，许多澳大利亚人正在努力为其财产获得足够的保险——要么是因为太贵，要么是因为保单排除了特定风险，比如某些类型的洪水或火灾。 她告诉SBS新闻：“布里斯班建在洪泛区上，悉尼的部分地区也建在洪泛区上，所以我们在这些主要城市也看到了灾难性的洪水。” 纽卡斯尔的产权转让师利亚·史蒂文斯 (Leah Stevens) 在四月份卖掉了她的公司，但表示保险成本似乎有所上升，尤其是在过去的五年里。 她说纽卡斯尔大约 30% 的人......"
+            "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 通往北沙利文家的道路是一段神奇的旅程，穿过蜿蜒的桉树道路，道路上有交通标志警告袋熊和漫游的马迎接过往的车辆。 通往这位 71 岁老人家的车道——恰如其分地命名为袋熊沟 (Wombat Gully)——位于延戈国家公园 (Yengo National Park) 的门口，该公园是列入世界遗产名录的大蓝山 (Greater Blue Mountains) 地区的一部分，距离悉尼 (Sydney) 西北约两小时车程。 他的房产是集中在他们所谓的上仰戈 (Upper Yango) 的 22 处房产之一，该房产以前是一个奶牛场，后来被细分为小型业余农场。 沙利文表示，在 2019-20 年黑夏火灾之前，土地所有者是一个“非常不同的社区”。 但当他们并肩战斗以保护自己的财产时，友谊就建立了。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 从那次创伤经历的灰烬中得出了一个持久的教训：紧急情况下最有价值的资产之一就是你周围的人。 该社区目前是澳大利亚各地采取直接行动减少火灾和洪水风险的众多社区之一，因为预计气候变化将增加此类极端天气事件的频率和严重程度。 自火灾发生以来，上仰戈社区开发了宽阔的轨道，在战略位置兼作防火带，并采取其他措施来降低其财产的火灾风险。 然而，沙利文表示，这些努力并没有反映在他们的保险费中。 他只是 SBS 新闻采访过的新南威尔士州众多土地所有者之一，他们要么正在努力寻找保险，要么面临着不断上涨的费用。 一些专家警告说，压力可能会让一些社区无法生存，其影响不仅限于澳大利亚偏远地区。 随着保费持续上涨，获得保险变得更加困难，社区质疑减少灾害风险的努力是否足以让保险负担得起。 昆士兰大学保险保障缺口问题专家保拉·贾扎布科斯基教授表示，已经有大量证据表明，许多澳大利亚人正在努力为其财产获得足够的保险——要么是因为太贵，要么是因为保单排除了特定风险，比如某些类型的洪水或火灾。 她告诉SBS新闻：“布里斯班建在洪泛区上，悉尼的部分地区也建在洪泛区上，所以我们在这些主要城市也看到了灾难性的洪水。” 纽卡斯尔的产权转让师利亚·史蒂文斯 (Leah Stevens) 在四月份卖掉了她的公司，但表示保险成本似乎有所上升，尤其是在过去的五年里。 她说纽卡斯尔大约 30% 的人......"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1143,7 +1143,7 @@
           },
           "body": {
             "en": "People at the Wilks Park encampment were told to leave or be fined $1,100. But their only option is indefinite stay in local motels – and the social housing wait list keeps growing Get our breaking news email , free app or daily news podcast Leigh Swansborough has just pulled into Wilks Park, one of the biggest homeless encampments in regional New South Wales. “You would think that people would be here today,” says Swansborough, an advocate for the people at Wilks Park. “But no one has shown up.” Continue reading...",
-            "zh": "Wilks Park 营地的人们被告知离开，否则将被罚款 1,100 美元。但他们唯一的选择是无限期住在当地汽车旅馆——而社会住房等候名单不断增加 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 Leigh Swansborough 刚刚驶入威尔克斯公园，这是新南威尔士州地区最大的无家可归者营地之一。 “你会认为今天人们会在这里，”威尔克斯公园人民的倡导者斯旺斯伯勒说。 “但是没有人出现。”继续阅读..."
+            "zh": "Wilks Park 营地的人们被告知离开，否则将被罚款 1,100 美元。但他们唯一的选择是无限期住在当地汽车旅馆——而社会住房等候名单不断增加 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 Leigh Swansborough 刚刚进入威尔克斯公园，这是新南威尔士州地区最大的无家可归者营地之一。 “你会认为今天人们会在这里，”威尔克斯公园人民的倡导者斯旺斯伯勒说。 “但是没有人出现。”继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
