@@ -62,10 +62,22 @@
 # canvaskit + img-tag modes alike. Long edge cache because the files
 # never change once a release is mirrored — content is keyed by
 # evidence_id + index.
+#
+# 2026-08-02: Cross-Origin-Resource-Policy added. Access-Control-Allow-Origin
+# alone is NOT enough for a consumer page that sets
+# `Cross-Origin-Embedder-Policy: require-corp` (YsWords does this on its
+# skwasm/wasm builds, which need a crossOriginIsolated context to run the
+# renderer multithreaded). Under require-corp the browser blocks every
+# cross-origin subresource that doesn't explicitly opt in with CORP —
+# and Flutter loads these as no-cors <img> tags, which never consult
+# ACAO. Without this header all 716 evidence images fail to load on
+# such a build. `cross-origin` grants no access that ACAO: * didn't
+# already grant; these are public mirrored images.
 [[headers]]
   for = "/images/evidence/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
+    Cross-Origin-Resource-Policy = "cross-origin"
     Cache-Control = "public, max-age=31536000, immutable"
 
 # Mirrored news-article images (news_insights consumer, added 2026-07-22).
