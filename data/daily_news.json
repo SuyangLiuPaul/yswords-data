@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T20:57:10.086Z",
+  "generatedAt": "2026-08-05T22:07:00.980Z",
   "editionDate": "2026-08-06",
   "sources": [
     {
@@ -106,11 +106,45 @@
       },
       "sourceNotes": [
         "The Guardian World",
-        "SBS News World",
         "BBC News World",
+        "SBS News World",
         "DW World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-australia-news-live-2026-aug-06-australia-news-live-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/0dd8d500bb82d23f4f62b813daf1d506d5751ec9/335_0_2155_1724/master/2155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=964b620398bb5ee04f84e39fe229948d",
+          "publishedAt": "2026-08-05T21:49:50.000Z",
+          "title": {
+            "en": "Australia news live: NSW man charged over alleged threats of violence against female MP",
+            "zh": "澳大利亚新闻直播：新南威尔士州男子因涉嫌威胁女议员暴力而被起诉"
+          },
+          "summary": {
+            "en": "Police in New South Wales have charged a man for allegedly making threats of violence against a female Member of Parliament on social media, stating he intended to find and harm her.",
+            "zh": "新南威尔士州警方指控一名男子在社交媒体上对一名女议员发出暴力威胁，声称要找到并伤害她。"
+          },
+          "body": {
+            "en": "Police allege man issued threats on social media to find woman and hurt her. Follow today’s news live Get our breaking news email , free app or daily news podcast News Corp’s Australian division weighs on robust results News Corp has delivered a strong rise in revenue across its global business, despite weakness in its news division, marked by a slide in digital subscribers at its Australian mastheads. Continue reading...",
+            "zh": "警方称，男子在社交媒体上发出威胁，要找到女子并伤害她。关注今日新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 新闻集团的澳大利亚部门业绩强劲 尽管新闻部门表现疲弱（其澳大利亚报头的数字订户数量下滑），但新闻集团的全球业务收入却强劲增长。继续阅读..."
+          },
+          "reflection": {
+            "en": "The alleged threats of violence against a public servant highlight how words, especially online, can become instruments of harm. Proverbs reminds us that reckless words can pierce like a sword, causing real fear and distress. May we seek to use our speech to build up and bring healing, rather than to tear down or threaten.",
+            "zh": "针对公职人员的暴力威胁指控，凸显了言语，尤其是在网络上，如何成为伤害的工具。雅伟的箴言提醒我们，鲁莽的言语如同刀剑刺人，会造成真实的恐惧和痛苦。愿我们寻求用言语来建造和带来医治，而非拆毁或威胁。"
+          },
+          "verse": {
+            "reference": "Proverbs 12:18",
+            "textEn": "The words of the reckless pierce like swords, but the tongue of the wise brings healing.",
+            "textZh": "说话浮躁的，如刀刺人；智慧人的舌头却为医人的良药。",
+            "themeEn": "Reckless words pierce",
+            "themeZh": "言语如刀"
+          },
+          "aiVerseId": "prov_12_18",
+          "translationState": "localized"
+        },
         {
           "id": "www-theguardian-com-us-news-live-2026-aug-05-michigan-primary-race-democ",
           "section": "world",
@@ -118,7 +152,7 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
           "image": "https://i.guim.co.uk/img/media/499b55e59025427c04716d748b764165442717d2/394_0_3938_3151/master/3938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f83a732363fa54830c850637a5cd3784",
-          "publishedAt": "2026-08-05T20:41:27.000Z",
+          "publishedAt": "2026-08-05T21:47:07.000Z",
           "title": {
             "en": "Abdul El-Sayed’s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats – live",
             "zh": "“我们战胜了机器”：埃尔-赛义德庆祝在密歇根州参议院竞选中战胜外部资金，赢得民主党提名"
@@ -144,6 +178,171 @@
           },
           "aiVerseId": "ps_75_7",
           "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-sport-football-articles-clyq3el5gkqo-at-medium-rss-at-camp",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
+          "publishedAt": "2026-08-05T21:37:08.000Z",
+          "title": {
+            "en": "Fifa admits mistakes but Infantino remains president",
+            "zh": "国际足联承认错误但因凡蒂诺仍任主席"
+          },
+          "summary": {
+            "en": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Gianni Infantino will remain as Fifa president after he received the backing of senior executives in a meeting in Morocco, despite world football's governing body admitting \"mistakes\" have been made.\n\nInfantino summoned members of the management board to Fifa's Africa office in Rabat on Wednesday following mounting criticism of his aborted attempt to sell off stakes in Fifa competitions to private investors, with the organisation releasing a statement of support four hours after the meeting ended.\n\nEuropean football's governing body Uefa said at the weekend that it has lost confidence in Infantino, calling the Fifa Forward Enterprise (FFE) proposal a \"shabby, back room, opaque deal\".\n\nMuch criticism has come from within Fifa, including secretary general Mattias Grofstrom, who was at Wednesday's meeting. In an internal memo sent to Fifa staff on Tuesday, he wrote that the situation is \"a sad and reproachable series of events\".\n\nHowever, in a statement following the meeting, Grofstrom and the managament board \"reaffirmed their full support\" for Infantino as president.\n\nInfantino had offered Fifa's 211 member associations $40m (£30m) if they backed a proposal for private investment in its tournaments, including the men's and women's World Cups, through a new subsidiary, FFE.\n\nFifa said that during Wednesday's meeting \"mistakes\" regarding FFE were \"acknowledged\", saying it was \"not the intention\" for the Fifa council and members association to \"feel excluded from the process and that the process should have been handled differently\".\n\nThe governing body added it \"acknowledged that errors were also made after the proposal was leaked to media\" - with the Times breaking the story of Infantino's plan on 28 July.\n\nFifa said it had written to the council and members association to apologise for these errors \"with a commitment to ensure they do not happen again\", adding it will now conduct a review.\n\nHowever, the statement also said the organisation \"will no longer tolerate any attacks on its integrity, good governance and due process and will take all necessary measures to protect and safeguard its name and reputation\".\n\nEarlier, Fifa denied a story in the Times that Infantino had promised Morocco it will host the 2030 World Cup final in exchange for its support.\n\nFifa said it was a \"false and misleading\" claim and that a decision on where to hold the final, with the tournament also hosted by Spain and Portugal, will be made \"in due course\".",
+            "zh": "詹尼·因凡蒂诺在摩洛哥的一次会议上得到高级管理人员的支持后，将继续担任国际足联主席，尽管世界足球管理机构承认犯了“错误”。 周三，因凡蒂诺将管理委员会成员召集到国际足联位于拉巴特的非洲办事处，此前因凡蒂诺试图向私人投资者出售国际足联赛事股份的行为遭到越来越多的批评，该组织在会议结束四小时后发布了一份支持声明。 欧洲足球管理机构欧足联周末表示，它对因凡蒂诺失去了信心，称国际足联前锋企业（FFE）提案是一项“破旧、幕后、不透明的交易”。 国际足联内部提出了很多批评，其中包括出席周三会议的秘书长马蒂亚斯·格罗夫斯特罗姆。在周二发给国际足联工作人员的一份内部备忘录中，他写道，目前的情况是“一系列悲伤且应受谴责的事件”。 然而，在会后的一份声明中，格罗夫斯特罗姆和管理委员会“重申全力支持”因凡蒂诺担任主席。 因凡蒂诺向国际足联的 211 个会员协会提供了 4000 万美元（3000 万英镑），如果他们支持一项通过新子公司 FFE 对包括男子和女子世界杯在内的国际足联锦标赛进行私人投资的提议。 国际足联表示，在周三的会议上，关于FFE的“错误”得到了“承认”，并表示国际足联理事会和会员协会“无意”“感到被排除在这一过程之外，并且应该以不同的方式处理这一过程”。 该管理机构补充说，它“承认该提案被泄露给媒体后也犯了错误”——《泰晤士报》于 7 月 28 日报道了因凡蒂诺的计划。 国际足联表示，已致函理事会和会员协会，就这些错误道歉，“并承诺确保此类错误不再发生”，并补充说，现在将进行审查。 不过，声明还表示，该组织“将不再容忍任何对其诚信、良好治理和正当程序的攻击，并将采取一切必要措施保护和维护其名称和声誉”。 此前，国际足联否认了《泰晤士报》的报道，称因凡蒂诺曾向摩洛哥承诺主办2030年世界杯决赛以换取摩洛哥的支持。 国际足联表示，这是一个“虚假和误导性”的说法，并且将“在适当的时候”决定在哪里举行决赛，决赛也由西班牙和葡萄牙主办。"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-05-white-house-helipad-marine-one-c",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/05/white-house-helipad-marine-one-chopper",
+          "image": "https://i.guim.co.uk/img/media/a513f625b4c070ec26aac903de175c79b0cb1837/536_0_5695_4557/master/5695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7138fd3c9f3e5edffaa9e17d7f1319b",
+          "publishedAt": "2026-08-05T21:25:05.000Z",
+          "title": {
+            "en": "White House confirms new helipad for supersized Marine One helicopter",
+            "zh": "白宫确认为超大型海军陆战队一号直升机建造新的直升机停机坪"
+          },
+          "summary": {
+            "en": "Changes come after report says Trump unhappy with helipad’s appearance and lawn’s slope The White House has confirmed that contractors are redoing a new helipad built on the South Lawn to accommodate a new supersized Marine One chopper recently added to the presidential...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Changes come after report says Trump unhappy with helipad’s appearance and lawn’s slope The White House has confirmed that contractors are redoing a new helipad built on the South Lawn to accommodate a new supersized Marine One chopper recently added to the presidential transport fleet. A White House official said the changes to the circular concrete landing pad were ordered as “we continue to make improvements as part of the ongoing project to best match the needs of the White House”. Continue reading...",
+            "zh": "有报道称特朗普对直升机停机坪的外观和草坪坡度不满意，白宫已证实，承包商正在重做南草坪上建造的一个新直升机停机坪，以容纳最近添加到总统运输机队中的一架新的超大型海军陆战队一号直升机。一名白宫官员表示，之所以下令对圆形混凝土着陆平台进行改造，是因为“作为正在进行的项目的一部分，我们将继续进行改进，以最好地满足白宫的需求”。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-ckg9d3eyeggo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
+          "publishedAt": "2026-08-05T21:21:51.000Z",
+          "title": {
+            "en": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+            "zh": "伊朗表示已与阿曼就霍尔木兹海峡航线达成一致"
+          },
+          "summary": {
+            "en": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Iran says it has reached an agreement with Oman on a route for shipping through the Strait of Hormuz.\n\nForeign ministry spokesman Esmaeil Baqaei did not give any further details on the agreement, which he said was \"in the final stages\".\n\nBaqaei warned however that a deal with Oman would not guarantee safe navigation through the strait on its own, arguing that security remains impacted by the US blockade of Iran's ports. The US and Oman have not commented on the proposal.\n\nSince the US and Israel attacked Iran in late February, Tehran has largely blocked the Strait of Hormuz through which about a fifth of the world's oil and liquefied natural gas usually passes. Since then, global oil prices have fluctuated wildly.\n\nOn Tuesday, US President Donald Trump warned that Iran would be \"hit very hard\" if the strait did not open \"very soon\".\n\nHis comments came after senior US officials said talks had progressed to allow shipments to potentially to resume later this week, though Iran has maintained that it is not negotiating with the US and has no plans to do so.\n\nReopening of the strait has been a key point in discussions between the two countries and mediators.\n\nIn his statement, the Iranian foreign ministry spokesman said the \"geographical coordinates of the route\" had been agreed with Oman.\n\n\"The factors making the Strait of Hormuz insecure still exist on the part of the United States, particularly the naval blockade and other aggressive and threatening actions against Iran and its interests,\" he said, according to Iran's official Irna news agency.\n\nIran's Deputy Foreign Minister Kazem Gharibabadi later told Irna that the new route would be temporary and could stay open from two to four months. He did not give further details.\n\nSince the beginning of the war, traffic through the strait has dwindled. Iran has said all passage needs to be cleared beforehand - and it has attacked vessels which have ignored the order.\n\nOne of the main points of disagreement between Tehran and Washington has been Iran's threat to impose a fee on vessels wishing to cross the strait.\n\nOn Wednesday, Iranian officials did not say if this issue formed part of the talks with Oman.\n\nIn June, Iran and the US signed a Memorandum of Understanding (MoU), aiming to stop fighting, reopen the Strait of Hormuz, and reach agreement to end the war within 60 days.\n\nThe deal quickly fell through, as did diplomatic talks, with tit-for-tat attacks resuming just days after the MoU was signed.\n\nThe US has maintained a naval blockade of Iranian ports in the region , while another blockade is in place on Saudi Arabia's ports in the Red Sea, imposed by Yemen's Iran-backed Houthis since 20 July.",
+            "zh": "伊朗表示，已与阿曼就穿越霍尔木兹海峡的航运路线达成协议。 外交部发言人埃斯梅尔·巴卡伊(Esmaeil Baqaei)没有透露该协议的任何进一步细节，他表示该协议“处于最后阶段”。 然而巴卡伊警告说，与阿曼达成的协议本身并不能保证通过该海峡的安全航行，他认为安全仍然受到美国封锁伊朗港口的影响。美国和阿曼尚未对该提议发表评论。 自二月底美国和以色列袭击伊朗以来，德黑兰基本上封锁了霍尔木兹海峡，世界上约五分之一的石油和液化天然气通常要经过该海峡。此后，全球石油价格大幅波动。 周二，美国总统唐纳德·特朗普警告称，如果海峡不“很快”开放，伊朗将受到“严重打击”。 在他发表上述言论之前，美国高级官员表示，谈判已取得进展，可能会在本周晚些时候恢复运输，但伊朗坚称不会与美国谈判，也没有计划这样做。 重新开放海峡一直是两国和调解人讨论的重点。 伊朗外交部发言人在声明中表示，“路线的地理坐标”已与阿曼达成一致。 据伊朗官方伊朗通讯社报道，他说：“美国造成霍尔木兹海峡不安全的因素仍然存在，特别是针对伊朗及其利益的海上封锁和其他侵略性和威胁性行动。” 伊朗副外长卡泽姆·加里巴迪后来告诉《伊朗通讯社》，新航线将是临时的，可能会开放两到四个月。他没有提供更多细节。 自战争开始以来，通过海峡的交通量不断减少。伊朗表示，所有通道都需要事先清理干净，并且它袭击了无视该命令的船只。 德黑兰和华盛顿之间的主要分歧之一是伊朗威胁要对希望穿越海峡的船只征收费用。 周三，伊朗官员没有透露这个问题是否是与阿曼会谈的一部分。 6月，伊朗和美国签署谅解备忘录，旨在停止战斗、重新开放霍尔木兹海峡，并达成协议在60天内结束战争。 该协议很快就失败了，外交谈判也是如此，谅解备忘录签署几天后，针锋相对的攻击又重新开始。 美国一直对该地区的伊朗港口实施海上封锁，而伊朗支持的也门胡塞武装自 7 月 20 日以来又对沙特阿拉伯在红海的港口实施了封锁。"
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-05-trump-bbc-lawsuit-financial-reco",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/05/trump-bbc-lawsuit-financial-records",
+          "image": "https://i.guim.co.uk/img/media/c442f29e2226c12f50dd18f9b46aeb2b877bc5c8/162_0_4860_3888/master/4860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac300d0db55d8ab336c47155d2a042e4",
+          "publishedAt": "2026-08-05T21:12:07.000Z",
+          "title": {
+            "en": "Trump team pushes to block court order giving BBC access to financial records",
+            "zh": "特朗普团队极力阻止法院允许 BBC 获取财务记录的命令"
+          },
+          "summary": {
+            "en": "President has sued the broadcaster for $10bn, claiming a documentary on 2021 Capitol attack led to financial harm Donald Trump’s legal team is making an 11th-hour attempt to block a court order that would grant the BBC access to the president’s financial records, as part of his...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "President has sued the broadcaster for $10bn, claiming a documentary on 2021 Capitol attack led to financial harm Donald Trump’s legal team is making an 11th-hour attempt to block a court order that would grant the BBC access to the president’s financial records, as part of his multibillion-dollar lawsuit against the British broadcaster. Trump claims that the BBC’s 2024 documentary on the January 6 attacks have damaged the president’s business interests. In July, a Miami-based judge ruled that the president would have to start handing over detailed financial records to the BBC by 6 August. The records would reveal details into the hundreds of businesses owned by the US president’s family trust. Continue reading...",
+            "zh": "总统已起诉该广播公司，索赔 100 亿美元，声称一部关于 2021 年国会大厦袭击事件的纪录片造成了财务损失。唐纳德·特朗普的法律团队正在第 11 小时试图阻止一项允许 BBC 获取总统财务记录的法院命令，这是他对英国广播公司提起的数十亿美元诉讼的一部分。特朗普声称，BBC 2024 年关于 1 月 6 日袭击事件的纪录片损害了总统的商业利益。 7 月，迈阿密的一名法官裁定，总统必须在 8 月 6 日之前开始向 BBC 移交详细的财务记录。这些记录将揭示美国总统家族信托拥有的数百家企业的详细信息。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-05-new-mexico-sues-doj-epstein-inve",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/05/new-mexico-sues-doj-epstein-investigation",
+          "image": "https://i.guim.co.uk/img/media/7a98dfc5dea29f5b4349895b281f4c2f7213e26e/1_0_2887_2309/master/2887.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c80a194ce575d0a633f186dd05ed3fdc",
+          "publishedAt": "2026-08-05T21:10:43.000Z",
+          "title": {
+            "en": "New Mexico sues justice department for ‘stonewalling’ Epstein investigation",
+            "zh": "新墨西哥州起诉司法部“阻碍”爱泼斯坦调查"
+          },
+          "summary": {
+            "en": "Filing by attorney general Raúl Torrez comes after DoJ appears to have ignored deadline for key Epstein ranch files New Mexico filed a lawsuit against the US Department of Justice and the acting attorney general, Todd Blanche, on Wednesday for “stonewalling” its criminal...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Filing by attorney general Raúl Torrez comes after DoJ appears to have ignored deadline for key Epstein ranch files New Mexico filed a lawsuit against the US Department of Justice and the acting attorney general, Todd Blanche, on Wednesday for “stonewalling” its criminal investigation into the activities of the late financier and sex offender Jeffrey Epstein at a remote ranch in the state. Raúl Torrez, the New Mexico attorney general, had said he was mulling the possibility of legal action if the justice department did not share with him by 31 July information about the alleged historical abuse of girls and young women at Epstein’s Zorro ranch about 30 miles south of Santa Fe. Continue reading...",
+            "zh": "总检察长劳尔·托雷兹 (Raúl Torrez) 提交文件之前，司法部似乎忽视了爱泼斯坦牧场重要文件的最后期限。周三，新墨西哥州对美国司法部和代理总检察长托德·布兰奇 (Todd Blanche) 提起诉讼，指控其“阻碍”对该州已故金融家兼性犯罪者杰弗里·爱泼斯坦 (Jeffrey Epstein) 在该州一个偏远牧场的活动进行刑事调查。新墨西哥州总检察长劳尔·托雷斯表示，如果司法部在 7 月 31 日之前没有向他提供有关爱泼斯坦在圣达菲以南约 30 英里的佐罗牧场涉嫌虐待女孩和年轻女性的信息，他正在考虑采取法律行动的可能性。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-sbs-com-au-news-article-ukraine-pleads-for-interceptors-after-russia",
@@ -177,142 +376,6 @@
             "themeZh": "清晨的怜悯"
           },
           "aiVerseId": "lam_3_22",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-aug-05-erica-schwartz-cdc-director-sena",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation",
-          "image": "https://i.guim.co.uk/img/media/0ffcc82c2b2e025cad363262aca98fa6093d9820/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c9e31784e429789b169019c360cded5",
-          "publishedAt": "2026-08-05T20:27:01.000Z",
-          "title": {
-            "en": "Senate confirms Trump pick Erica Schwartz as new CDC director",
-            "zh": "参议院确认特朗普提名的埃丽卡·施瓦茨为疾控中心新主任"
-          },
-          "summary": {
-            "en": "The US Senate confirmed Dr. Erica Schwartz as the new director of the Centers for Disease Control and Prevention (CDC) in a 51-44 vote, marking a successful appointment for the Trump administration.",
-            "zh": "美国参议院以51票对44票确认埃丽卡·施瓦茨博士为疾病控制与预防中心（CDC）新任主任，这标志着特朗普政府的一次成功任命。"
-          },
-          "body": {
-            "en": "Schwartz, president’s third pick to lead top US public health agency, confirmed in 51-44 Senate vote Dr Erica Schwartz was confirmed by the US Senate as director ‌of the Centers for Disease Control and Prevention (CDC), a rare win for the Trump administration after a string of failed attempts to fill senior health posts. Schwartz was confirmed by a ⁠51-44 vote that broke largely along party lines, with Tim Kaine of Virginia the sole Democrat to support her nomination. Continue reading...",
-            "zh": "施瓦茨是总统第三位领导美国最高公共卫生机构的人选，在参议院以 51 比 44 的投票结果确认埃里卡·施瓦茨博士被美国参议院确认为疾病控制与预防中心 (CDC) 主任，这是特朗普政府在一系列填补高级卫生职位失败的尝试后罕见的胜利。施瓦茨以 51 比 44 的投票结果获得确认，该投票很大程度上打破了党派界限，弗吉尼亚州的蒂姆·凯恩 (Tim Kaine) 是唯一支持她提名的民主党人。继续阅读..."
-          },
-          "reflection": {
-            "en": "The confirmation of a new director for a vital public health agency underscores the importance of wise leadership and expert counsel for a nation's well-being. In times of complex challenges, the collective wisdom of many can guide us toward safety and stability, reflecting Yahweh's provision for governance.",
-            "zh": "确认一位重要公共卫生机构的新主任，突显了明智的领导和专家建议对国家福祉的重要性。在面临复杂挑战时，众多的智慧能指引我们走向安全和稳定，这反映了雅伟对治理的供应。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "aiVerseId": "prov_11_14",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-aug-05-alex-murdaugh-lawsuit-court-cler",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/05/alex-murdaugh-lawsuit-court-clerk-dismissed",
-          "image": "https://i.guim.co.uk/img/media/fd6f56292bf15e75875bb30c92449486613e359d/95_0_950_760/master/950.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e9b0dc1867ea28b83aa299af5808d69",
-          "publishedAt": "2026-08-05T20:18:54.000Z",
-          "title": {
-            "en": "Judge tosses Alex Murdaugh’s $600,000 suit against former court clerk",
-            "zh": "法官驳回亚历克斯·默多夫对前法院书记员提起的60万美元诉讼"
-          },
-          "summary": {
-            "en": "A US federal judge has dismissed a $600,000 lawsuit filed by Alex Murdaugh against a former court clerk. Murdaugh's murder convictions were previously overturned due to the clerk's misconduct, and he is now set to face trial again.",
-            "zh": "一名美国联邦法官驳回了亚历克斯·默多夫对一名前法院书记员提起的60万美元诉讼。默多夫的谋杀罪名此前因该书记员的不当行为而被推翻，他现在将再次面临审判。"
-          },
-          "body": {
-            "en": "Murdaugh, whose murder convictions were overturned due to clerk’s misconduct, will face trial again Sign up for the Breaking News US newsletter email A US federal judge has thrown out a lawsuit by Alex Murdaugh seeking $600,000 in legal fees from the former court clerk whose misconduct led to his murder convictions being overturned on appeal. Murdaugh sued Becky Hill in May, saying she violated his right to a fair trial over the deaths of his wife and son. Continue reading...",
-            "zh": "由于书记员不当行为，默多的谋杀定罪被推翻，他将再次面临审判 美国联邦法官驳回了亚历克斯·默多向这位前法院书记员索要 60 万美元律师费的诉讼，默多的不当行为导致他的谋杀定罪在上诉中被推翻。默多于五月起诉贝基·希尔，称她侵犯了他因妻子和儿子的死亡而受到公平审判的权利。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story reminds us that integrity in seemingly small roles can have profound consequences, impacting the course of justice and individual lives. Yahweh's word teaches that faithfulness in little things reflects a deeper character, essential for trust and accountability in any system.",
-            "zh": "这个故事提醒我们，在看似微小的岗位上保持正直，也可能产生深远的影响，左右着司法进程和个人命运。雅伟的话语教导我们，在小事上忠心反映出更深层的品格，这对于任何系统中的信任和问责都至关重要。"
-          },
-          "verse": {
-            "reference": "Luke 16:10",
-            "textEn": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.",
-            "textZh": "人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。",
-            "themeEn": "Faithful in little",
-            "themeZh": "小事上忠心"
-          },
-          "aiVerseId": "luke_16_10",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-aug-05-republican-trump-rival-michigan-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/05/republican-trump-rival-michigan-primary",
-          "image": "https://i.guim.co.uk/img/media/a1b0771a26bd8912661bc0bb6c111ecd9dc9cae9/410_0_4079_3265/master/4079.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63acdb91045ade19123ec004fb6f7342",
-          "publishedAt": "2026-08-05T20:11:43.000Z",
-          "title": {
-            "en": "Republican who withdrew last month beats Trump-backed rival in Michigan",
-            "zh": "上月退选的共和党人击败特朗普支持的对手，赢得密歇根州初选"
-          },
-          "summary": {
-            "en": "Thomas Smith, a Republican candidate who withdrew from the primary contest for Michigan’s eighth district last month, unexpectedly won the nomination on Tuesday, with his name remaining on the ballot.",
-            "zh": "共和党候选人托马斯·史密斯上月退出了密歇根州第八选区的初选，但由于他的名字仍在选票上，他于周二意外赢得了提名。"
-          },
-          "body": {
-            "en": "Thomas Smith, whose name remained on ballot, beats Republican rivals in primary contest for eighth district Thomas Smith withdrew from the Republican primary contest for Michigan’s eighth district last month. On Tuesday, he won the nomination. Unofficial results show Smith with more than 50% of the vote, according to the Associated Press, defeating the man he endorsed, anti-abortion activist Al Lemmo, and the man Donald Trump endorsed, former federal law enforcement officer Amir Hassan. Continue reading...",
-            "zh": "托马斯·史密斯（Thomas Smith）的名字仍在选票上，他在第八选区的初选中击败了共和党竞争对手。托马斯·史密斯上个月退出了密歇根州第八选区的共和党初选。周二，他赢得了提名。据美联社报道，非官方结果显示，史密斯获得了超过 50% 的选票，击败了他所支持的反堕胎活动人士阿尔·莱莫 (Al Lemmo) 和唐纳德·特朗普 (Donald Trump) 支持的前联邦执法官员阿米尔·哈桑 (Amir Hassan)。继续阅读..."
-          },
-          "reflection": {
-            "en": "The unexpected victory of a candidate who had withdrawn from the race highlights how human plans and endorsements do not always dictate outcomes. This reminds us that ultimate authority and the power to elevate or humble leaders rest with Yahweh.",
-            "zh": "一位已退选的候选人意外获胜，这表明人类的计划和支持并不总是决定结果。这提醒我们，最终的权柄以及提升或贬低领袖的能力，都掌握在雅伟手中。"
-          },
-          "verse": {
-            "reference": "Psalm 75:7",
-            "textEn": "It is God who judges: He brings one down, he exalts another.",
-            "textZh": "惟有神断定；他使这人降卑，使那人升高。",
-            "themeEn": "God lifts and lowers",
-            "themeZh": "神升降"
-          },
-          "aiVerseId": "ps_75_7",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-education-2026-aug-05-cambridge-professor-jason-arda",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/education/2026/aug/05/cambridge-professor-jason-arday-resigns-amid-accusations-of-plagiarism",
-          "image": "https://i.guim.co.uk/img/media/af2627ad3001ae50a43bb29b2d51b845ddd5bc2f/953_857_2973_2379/master/2973.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8503d3488285cd72664cec58186ea6e0",
-          "publishedAt": "2026-08-05T20:08:47.000Z",
-          "title": {
-            "en": "Cambridge professor Jason Arday resigns amid accusations of plagiarism",
-            "zh": "剑桥大学教授贾森·阿戴因抄袭指控辞职"
-          },
-          "summary": {
-            "en": "Sociology professor Jason Arday has resigned from Cambridge University following an investigation into accusations of plagiarism and embellishment of his qualifications and career. The university announced the investigation after claims surfaced regarding his academic integrity.",
-            "zh": "社会学教授贾森·阿戴因被指控抄袭和夸大其资历及职业生涯，在剑桥大学宣布对其进行调查后辞职。此前，关于其学术诚信的指控浮出水面。"
-          },
-          "body": {
-            "en": "Sociology professor to stand down after university announces investigation into his qualifications and career • Playbooks, plagiarism and a pig’s head: the claims surrounding a star Cambridge professor Jason Arday, the Cambridge professor accused of plagiarism and embellishment, has resigned after the university announced he was to face new investigations into his qualifications and career. Arday, who had been dogged by a growing series of questions over his academic work and credentials, issued a statement on Wednesday night, saying the “relentless accusations, speculation and public commentary have taken a profound toll on me and on those I love”. Continue reading...",
-            "zh": "大学宣布对他的资历和职业进行调查后，社会学教授将辞职 • 剧本、抄袭和猪头：围绕剑桥明星教授贾森·阿戴 (Jason Arday) 的指控，这位剑桥教授被指控抄袭和修饰，在大学宣布他将面临对其资历和职业的新调查后，他辞职了。阿代的学术工作和资历受到越来越多的质疑，他于周三晚上发表声明称，“无情的指控、猜测和公众评论对我和我所爱的人造成了深远的影响”。继续阅读..."
-          },
-          "reflection": {
-            "en": "The news of a prominent academic's resignation due to accusations of plagiarism reminds us that integrity is paramount, especially in positions of influence. Yahweh's word warns that pride often precedes a fall, highlighting the importance of humility and truthfulness in all our endeavors.",
-            "zh": "一位知名学者因抄袭指控而辞职的消息提醒我们，诚信至关重要，尤其是在有影响力的人士身上。雅伟的话语警告说，骄傲往往在跌倒之前，这突显了在我们所有的努力中谦逊和诚实的重要性。"
-          },
-          "verse": {
-            "reference": "Proverbs 16:18",
-            "textEn": "Pride goes before destruction, a haughty spirit before a fall.",
-            "textZh": "骄傲在败坏以先；狂心在跌倒之前。",
-            "themeEn": "Pride before fall",
-            "themeZh": "骄傲必败"
-          },
-          "aiVerseId": "prov_16_18",
           "translationState": "localized"
         },
         {
@@ -367,7 +430,7 @@
           },
           "body": {
             "en": "A drone carrying an explosive device has been found at a German airport, police say.\n\nA robot was deployed at Leipzig/Halle Airport after the device was spotted by an employee near Ukrainian cargo planes overnight, according to Saxony police. A second unidentified object also collided with a cargo aircraft near the same airport. It landed in Hanover with minor damage.\n\nGerman airports are on high alert following several unauthorised drone flights in recent months over military bases, airports, energy terminals, seaports and logistics companies. Police have warned of a potential Russian involvement which Moscow has denied.\n\nLeipzig/Halle Airport in eastern Germany is used by the Germany military and Nato allies for the transport of military goods and also serves as a base for Ukraine's Antonov Airlines - which carry most of the country's aerial cargo.\n\nA police spokesman told the BBC that the explosive-laden object had been spotted close to parked Antonov planes.\n\nThe detonator was removed from the explosive device. Police later carried out a controlled explosion. Flights on the northern runway resumed at 01:55 (23:55 GMT on Tuesday). The southern runway remains closed.\n\n\"All of this does not point to an amateurish approach. We are talking about a professional, hybrid threat scenario that we will continue to address,\" German Interior Minister Alexander Dobrindt said.\n\nHe did not name any suspects, but suggested the investigation may point to a possible \"competition\" that \"may also involve foreign powers\".\n\nUkraine's Ambassador to Germany Oleksii Makeiev told Welt TV: \"Who else could it be but Russia?\"\n\nSimilar incidents with suspicious drones in Germany have only happened since Russia's full-scale invasion of Ukraine in February 2022, Peter R Neumann, a professor of Security Studies at King's College London, said on X.\n\n\"Since last night, the drone war has reached Germany. And it exposes a weakness that we've known about for years,\" he said.\n\nIn July 2024 a parcel burst into flames on the ground at Leipzig/Halle Airport before it could be loaded onto a DHL cargo plane, one of a series of parcel fires that targeted the UK and EU countries.\n\nThe parcels had contained explosive devices that were set off by electronic timers hidden in vibrating massage pillows, according to authorities.\n\nLast year a Chinese woman was convicted for passing on information about flight schedules and cargo movements at Leipzig/Halle Airport to a man spying for Beijing.",
-            "zh": "警方称，在德国机场发现了一架携带爆炸装置的无人机。 据萨克森警方称，一名员工夜间在乌克兰货机附近发现了该设备，随后莱比锡/哈勒机场部署了一个机器人。第二个不明物体还与同一机场附近的一架货机相撞。它降落在汉诺威，受到轻微损坏。 近几个月来，在军事基地、机场、能源码头、海港和物流公司上空发生了数起未经授权的无人机飞行事件，德国机场处于高度戒备状态。警方警告称，俄罗斯可能参与其中，但莫斯科方面予以否认。 德国东部的莱比锡/哈勒机场被德国军方和北约盟国用来运输军用物资，也是乌克兰安东诺夫航空公司的基地，该航空公司运输该国大部分航空货物。 警方发言人告诉英国广播公司，在停放的安东诺夫飞机附近发现了这个充满爆炸物的物体。 雷管已从爆炸装置中取出。警方随后进行了受控爆炸。北部跑道的航班于 01:55（周二 23:55 GMT）恢复。南部跑道仍然关闭。 德国内政部长亚历山大·多布林特 (Alexander Dobrindt) 表示：“所有这一切并不意味着采取业余方法。我们正在谈论一种专业的、混合的威胁场景，我们将继续解决这一问题。” 他没有透露任何嫌疑人的名字，但表示调查可能表明可能存在“竞争”，“也可能涉及外国势力”。 乌克兰驻德国大使奥列克西·马基耶夫（Oleksii Makeiev）告诉世界电视台：“除了俄罗斯还能是谁？” 伦敦国王学院安全研究教授彼得·R·诺伊曼 (Peter R Neumann) 表示，自 2022 年 2 月俄罗斯全面入侵乌克兰以来，德国才发生过类似的可疑无人机事件。 “从昨晚开始，无人机战争已经波及德国。它暴露了我们多年来已知的弱点，”他说。 2024 年 7 月，莱比锡/哈勒机场的一个包裹在被装上 DHL 货机之前在地面上起火，这是针对英国和欧盟国家的一系列包裹火灾之一。 据当局称，这些包裹中含有爆炸装置，这些爆炸装置是由隐藏在振动按摩枕头中的电子计时器引发的。 去年，一名中国女子因向一名为北京从事间谍活动的男子传递有关莱比锡/哈勒机场航班时刻表和货物运输的信息而被定罪。"
+            "zh": "警方称，在德国机场发现了一架携带爆炸装置的无人机。 据萨克森警方称，一名员工夜间在乌克兰货机附近发现了该设备，随后莱比锡/哈勒机场部署了一个机器人。第二个不明物体还与同一机场附近的一架货机相撞。它降落在汉诺威，受到轻微损坏。 近几个月来，在军事基地、机场、能源码头、海港和物流公司上空发生了数起未经授权的无人机飞行事件，德国机场处于高度戒备状态。警方警告称，俄罗斯可能参与其中，但莫斯科方面予以否认。 德国东部的莱比锡/哈勒机场被德国军方和北约盟国用来运输军用物资，也是乌克兰安东诺夫航空公司的基地，该航空公司运输该国大部分航空货物。 警方发言人告诉英国广播公司，在停放的安东诺夫飞机附近发现了这个充满爆炸物的物体。 雷管已从爆炸装置中取出。警方随后进行了受控爆炸。北部跑道的航班于 01:55（周二 23:55 GMT）恢复。南部跑道仍然关闭。 德国内政部长亚历山大·多布林特 (Alexander Dobrindt) 表示：“所有这一切并不意味着采取业余方法。我们正在谈论一种专业的、混合的威胁场景，我们将继续解决这一问题。” 他没有透露任何嫌疑人的名字，但表示调查可能表明可能存在“竞争”，“也可能涉及外国势力”。 乌克兰驻德国大使奥列克西·马克耶夫（Oleksii Makeiev）告诉世界电视台：“除了俄罗斯还能是谁？” 伦敦国王学院安全研究教授彼得·R·诺伊曼 (Peter R Neumann) 表示，自 2022 年 2 月俄罗斯全面入侵乌克兰以来，德国才发生过类似的可疑无人机事件。 “从昨晚开始，无人机战争已经波及德国。它暴露了我们多年来已知的弱点，”他说。 2024 年 7 月，莱比锡/哈勒机场的一个包裹在被装上 DHL 货机之前在地面上起火，这是针对英国和欧盟国家的一系列包裹火灾之一。 据当局称，这些包裹中含有爆炸装置，这些爆炸装置是由隐藏在振动按摩枕头中的电子计时器引发的。 去年，一名中国女子因向一名为北京从事间谍活动的男子传递有关莱比锡/哈勒机场航班时刻表和货物运输的信息而被定罪。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -400,7 +463,7 @@
           },
           "body": {
             "en": "Russia is preparing a new mobilization campaign to boost troop numbers, Ukrainian officials and independent Russian media outlets report. The Kremlin denies this.\n\nRussian authorities are planning to&#160;\"expand&#160;mobilization\" in autumn this year, Ukrainian President Volodymyr Zelenskyy has said, citing intelligence services. According to Zelenskyy, Russian President Vladimir Putin is reportedly preparing to recruit additional Russian soldiers to fight in the war against Ukraine .\n\n\"He is concealing his intention behind different words and signals, but he is making preparations,\" Zelenskyy said. \"It is important that we, together with our partners, exert sufficient pressure on Russia so that the idea of ending this aggression — the idea of peace, rather than further Russian mobilization — prevails,\" he added. The Ukrainian president also said Russia's army was losing more fighters at the front than it can recruit, even though Putin wants to intensify the attacks and expand the war.\n\nPutin issued a decree in autumn 2022 launching a \"partial mobilization,\" which remains in effect to this day, as confirmed by the presidential administration in 2023. The document, it said, \"regulates additional measures necessary to ensure that the armed forces fulfill their objectives.\"\n\nIndependent Russian exile media outlet Verstka and Latvia-based Russian-language news portal Vaschnyje Istorii published an investigative report in late June stating that Russia's leadership was secretly \"discussing mobilization\" given the difficulties in recruiting new conscripts. One source quoted by Verstka said figures by Moscow ' s mayoral office show the city sent 1,708 people to the front in April of this year and 1,378 in May — around 1,000 fewer people than during the same period last year. This low recruitment rate reportedly continued in June as well.\n\nVaschnyje Istorii reported that the recruitment rate for soldiers serving on fixed-term contracts more than halved in the last quarter of 2025 compared with the same period the previous year. The outlet said the recruitment rate had dropped even further in early 2026. The news outlet also cited sources from different Russian regions revealing that the number of people applying for army contracts was falling.\n\nMilitary personnel interviewed by Verstka said that contract soldiers being&#160;sent to fight this year were \"unfit for combat,\" with many new arrivals fleeing the front lines. One conscript told the news outlet that \"units are staffed at 30 to 40%, at best.\"\n\nThe US-based Institute for the Study of War (ISW) reported in late July that the Kremlin is laying the groundwork for a fresh mobilization drive. ISW analysts wrote that such a move would be \"a personal decision for Putin &#160;that is contingent on his...",
-            "zh": "乌克兰官员和俄罗斯独立媒体报道称，俄罗斯正在准备一项新的动员活动，以增加部队数量。克里姆林宫否认这一点。 乌克兰总统泽连斯基援引情报部门的话说，俄罗斯当局计划在今年秋季“扩大动员”。据泽连斯基称，俄罗斯总统普京据报道正准备招募更多俄罗斯士兵参加针对乌克兰的战争。 泽伦斯基说：“他用不同的言语和信号隐藏自己的意图，但他正在做好准备。”他补充说：“重要的是，我们与我们的伙伴一起对俄罗斯施加足够的压力，以便结束这种侵略的想法——和平的想法，而不是俄罗斯进一步动员——占上风。”乌克兰总统还表示，尽管普京希望加强攻击并扩大战争规模，但俄罗斯军队在前线损失的战士数量超过了其能够招募的战士数量。 普京于 2022 年秋季发布了一项法令，启动“部分动员”，该法令至今仍然有效，总统政府于 2023 年确认了这一点。该文件称，“规定了确保武装部队实现其目标所需的额外措施”。 俄罗斯独立流亡媒体Verstka和拉脱维亚俄语新闻门户网站Vaschnyje Istorii于6月下旬发表调查报告称，鉴于招募新兵困难，俄罗斯领导层正在秘密“讨论动员问题”。 Verstka 援引一位消息人士的话称，莫斯科市长办公室的数据显示，该市今年 4 月向前线派遣了 1,708 人，5 月则派遣了 1,378 人，比去年同期减少了约 1,000 人。据报道，这种低招聘率在六月也持续存在。 Vaschnyje Istorii 报告称，2025 年最后一个季度，定期合同士兵的招募率与去年同期相比减少了一半以上。该媒体称，2026 年初，征兵率进一步下降。该新闻媒体还援引俄罗斯不同地区的消息人士透露，申请军队合同的人数正在下降。 接受 Verstka 采访的军事人员表示，今年被派往战斗的合同兵“不适合战斗”，许多新兵逃离前线。一名应征入伍者告诉新闻媒体，“部队的人员配备最多只有 30% 到 40%。” 总部位于美国的战争研究所 (ISW) 7 月下旬报告称，克里姆林宫正在为新的动员行动奠定基础。 ISW 分析师写道，此举将是“普京的个人决定，取决于他的......"
+            "zh": "乌克兰官员和俄罗斯独立媒体报道称，俄罗斯正在准备一项新的动员活动，以增加部队数量。克里姆林宫否认这一点。 乌克兰总统泽连斯基援引情报部门的话说，俄罗斯当局计划在今年秋季“扩大动员”。据泽连斯基称，俄罗斯总统普京据报道正准备招募更多俄罗斯士兵参加针对乌克兰的战争。 泽伦斯基说：“他用不同的言语和信号隐藏自己的意图，但他正在做好准备。”他补充说：“重要的是，我们与我们的伙伴一起对俄罗斯施加足够的压力，以便结束这种侵略的想法——和平的想法，而不是俄罗斯进一步动员——占上风。”乌克兰总统还表示，尽管普京希望加强攻击并扩大战争规模，但俄罗斯军队在前线损失的战士数量超过了其能够招募的战士数量。 普京于 2022 年秋季发布了一项法令，启动“部分动员”，该法令至今仍然有效，总统政府于 2023 年确认了这一点。该文件称，“规定了确保武装部队实现其目标所需的额外措施”。 俄罗斯独立流亡媒体Verstka和拉脱维亚俄语新闻门户网站Vaschnyje Istorii于6月下旬发表调查报告称，鉴于招募新兵困难，俄罗斯领导层正在秘密“讨论动员问题”。 Verstka 援引一位消息人士的话称，莫斯科市长办公室的数据显示，该市今年 4 月向前线派遣了 1,708 人，5 月则派遣了 1,378 人，比去年同期减少了约 1,000 人。据报道，这种低招聘率在六月份也持续存在。 Vaschnyje Istorii 报告称，2025 年最后一个季度，定期合同士兵的招募率与去年同期相比减少了一半以上。该媒体称，2026 年初，征兵率进一步下降。该新闻媒体还援引俄罗斯不同地区的消息人士透露，申请军队合同的人数正在下降。 接受 Verstka 采访的军事人员表示，今年被派往战斗的合同兵“不适合战斗”，许多新兵逃离前线。一名应征入伍者告诉新闻媒体，“部队的人员配备最多只有 30% 到 40%。” 总部位于美国的战争研究所 (ISW) 7 月下旬报告称，克里姆林宫正在为新的动员行动奠定基础。 ISW 分析师写道，此举将是“普京的个人决定，取决于他的......"
           },
           "reflection": {
             "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
@@ -425,7 +488,7 @@
           "publishedAt": "2026-08-05T19:36:00.000Z",
           "title": {
             "en": "WHO's Tedros vists DR Congo as Ebola outbreak accelerates",
-            "zh": "埃博拉疫情加速，世卫组织谭德塞访问刚果民主共和国"
+            "zh": "随着埃博拉疫情加速，世卫组织谭德塞访问刚果民主共和国"
           },
           "summary": {
             "en": "The head of the World Health Organization warned that \"we must urgently and massively scale up all our efforts\" against the latest Ebola outbreak, with new cases doubling in some hotspots in the past week alone.",
@@ -449,58 +512,24 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-co-uk-news-videos-clyxdgx7m8no-at-medium-rss-at-campaign-rss",
+          "id": "www-bbc-co-uk-news-articles-cvg9j8820v6o-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2a61/live/d355ecc0-90ff-11f1-b8ee-9b3c26ad07bb.jpg",
-          "publishedAt": "2026-08-05T19:00:32.000Z",
+          "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ba1/live/97572840-90e8-11f1-9d9d-b9b73beaa905.jpg",
+          "publishedAt": "2026-08-05T19:02:06.000Z",
           "title": {
-            "en": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
-            "zh": "观看：乌克兰未能拦截俄罗斯袭击，度过“最可怕的夜晚”"
+            "en": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+            "zh": "前领导人哈西娜不顾死刑仍押注返回孟加拉国"
           },
           "summary": {
-            "en": "Kyiv's depleted air defences meant many of the missiles were not intercepted - like the one that hit Anastasiia's home.",
-            "zh": "基辅防空力量耗尽，导致许多导弹未能被拦截——其中一枚击中了阿纳斯塔西娅的家。"
-          },
-          "body": {
-            "en": "Twenty-one people were killed and dozens have been injured after Russia fired 115 drones and 24 ballistic missiles in Ukraine.\n\nMany of the drones were intercepted, but Kyiv's depleted air defences meant many of the missiles were not.\n\nAnastasiia Dudley's home was significantly damaged in the attack, which she said was the \"scariest night\" of the war.\n\nThe BBC's Dan Johnson visited Anastasiia's home near Kyiv to see the extent of the damage and the emotional toll on residents.",
-            "zh": "俄罗斯向乌克兰发射了115架无人机和24枚弹道导弹，造成21人死亡、数十人受伤。 许多无人机被拦截，但基辅的防空系统已被耗尽，这意味着许多导弹没有被拦截。 阿纳斯塔西娅·达德利 (Anastasiia Dudley) 的家在袭击中严重受损，她说这是战争中“最可怕的夜晚”。 英国广播公司 (BBC) 的丹·约翰逊 (Dan Johnson) 访问了阿纳斯塔西娅 (Anastasiia) 在基辅附近的家，了解受损程度以及居民的情感损失。"
-          },
-          "reflection": {
-            "en": "The \"scariest night\" described in Kyiv reminds us of the profound vulnerability when homes and lives are directly threatened by conflict. In such moments of overwhelming trouble, we are reminded that Yahweh remains our refuge and strength, an ever-present help. Even when human defenses falter, there is a steadfast hope in divine presence.",
-            "zh": "基辅所描述的“最可怕的夜晚”提醒我们，当家园和生命受到冲突直接威胁时，人类是多么脆弱。在这样压倒性的困境中，我们被提醒雅伟仍是我们的避难所和力量，是患难中随时的帮助。即使人类的防御失效，在神的同在中仍有坚定的盼望。"
-          },
-          "verse": {
-            "reference": "Psalm 46:1",
-            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
-            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
-            "themeEn": "Refuge in trouble",
-            "themeZh": "患难中的避难所"
-          },
-          "aiVerseId": "ps_46_1",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cn7nkyr1j7ro-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9ca/live/056db5d0-909c-11f1-b8ee-9b3c26ad07bb.jpg",
-          "publishedAt": "2026-08-05T18:38:46.000Z",
-          "title": {
-            "en": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-            "zh": "绝食抗议的印度活动家告诉BBC，青年抗议活动削弱了莫迪的力量"
-          },
-          "summary": {
-            "en": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
+            "en": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "The recent youth-led protests have weakened Indian Prime Minister Narendra Modi \"terribly\", says leading activist Sonam Wangchuk whose hunger strike galvanised the movement.\n\nWangchuk told the BBC that the atmosphere in the country had changed following mass demonstrations which triggered the resignation of the education minister on 25 July.\n\nYoung people now have more confidence they can \"change things if they want to\" and feel they don't have to \"take everything lying down\", the 59-year-old said.\n\nThe \"cockroach\" movement mounted one of the biggest public displays of dissent against Modi's government, which has been in power since 2014.\n\nThe movement takes its name from a remark by India's chief justice, who drew criticism after comparing sections of unemployed young people to \"cockroaches\" during a court hearing.\n\nWangchuk fasted in scorching heat in the capital, Delhi, for 26 days in June and July, consuming only salt and water. He says he has now regained six of the 11kg he lost.\n\nThe activist was forcibly taken to hospitals which he says were \"more like prisons\" for the final six days of his fast.\n\nBy then, the protests had escalated from public anger about the leak of exam papers into some of the biggest anti-government demonstrations India had seen in years.\n\nEducation Minister Dharmendra Pradhan resigned the day after Wangchuk ended his hunger strike.\n\nSince then, Modi has announced fast-track courts to try those accused in the leaks and appointed a tech billionaire to lead efforts to reform the examination system.\n\nThe government also said it would offer compensation to families of students who took their own lives after exam questions were leaked.\n\nBut India's problems are deeper - with graduate unemployment hovering around 35-40% for the past 25 years.\n\nThe engineer and education specialist says exams currently have little relevance to the job market.\n\nOften based on multiple-choice questions, they are designed to assess millions of students efficiently, with no consideration of how effectively they measure skills and understanding, he says. This, in turn, shapes how schools teach.\n\nIf exams placed greater emphasis on hands-on experience and aptitude, he suggests, schools might adapt their methods and help address India's jobs crisis.\n\n\"There needs to be some planning of what the world and the country are likely to look like in 15 years,\" Wangchuk says.\n\nChanging the way children are taught might help ensure they are \"not left unemployed and sectors that need people are not left underemployed\".\n\nIndia's government has previously defended itself against criticism of its handling of the economy. It argues that claims of an unemployment crisis are overstated and that its macroeconomic policy remains fundamentally robust.\n\nMeanwhile, reports...",
-            "zh": "活动家索南·旺楚克 (Sonam Wangchuk) 表示，最近由年轻人领导的抗议活动“严重”削弱了印度总理纳伦德拉·莫迪的实力。索南·旺楚克的绝食活动激发了这场运动。 旺楚克告诉 BBC，大规模示威导致教育部长于 7 月 25 日辞职，该国的气氛发生了变化。 这位 59 岁的年轻人现在更有信心，他们可以“如果愿意的话可以改变事情”，并且觉得自己不必“放下一切”。 “蟑螂”运动是对莫迪政府自 2014 年执政以来最大规模的公开异议之一。 该运动得名于印度首席大法官的一句话，他在法庭听证会上将部分失业年轻人比作“蟑螂”后招致批评。 6月和7月，旺楚克在首都德里的酷暑中禁食了26天，只吃盐和水。他说他现在已经减掉了 11 公斤，其中 6 公斤又回来了。 这位活动人士被强行送往医院，他说在禁食的最后六天，医院“更像是监狱”。 那时，抗议活动已经从公众对试卷泄露的愤怒升级为印度多年来最大规模的反政府示威活动。 旺楚克结束绝食后第二天，教育部长达门德拉·普拉丹(Dharmendra Pradhan)辞职。 此后，莫迪宣布设立快速法庭来审判那些被指控泄密的人，并任命了一位科技亿万富翁来领导考试制度的改革工作。 政府还表示，将向考试题目泄露后自杀的学生家属提供赔偿。 但印度的问题更为严重——过去 25 年毕业生失业率一直徘徊在 35-40% 左右。 这位工程师兼教育专家表示，目前的考试与就业市场关系不大。 他说，它们通常基于多项选择题，旨在有效地评估数百万学生，而不考虑它们衡量技能和理解力的有效性。这反过来又决定了学校的教学方式。 他建议，如果考试更加注重实践经验和能力，学校可能会调整方法，帮助解决印度的就业危机。 旺楚克说：“需要对 15 年后世界和国家的面貌进行一些规划。” 改变儿童的教育方式可能有助于确保他们“不会失业，需要人才的部门不会失业”。 印度政府此前曾针对对其经济处理方式的批评进行了辩护。它认为，有关失业危机的说法被夸大了，其宏观经济政策从根本上来说仍然强劲。 与此同时，报道..."
+            "en": "Former Bangladeshi prime minister Sheikh Hasina has vowed to return to her country in December, despite facing the death penalty there for crimes against humanity.\n\nHasina, who denies the charges, was tried in absentia after fleeing to India during an anti-government uprising in 2024.\n\nOn the second anniversary of being ousted, Hasina said in an audio broadcast to a crowded press club in Delhi that she \"had to go back\", but wouldn't announce her exact plans or dates yet.\n\nHer Awami League party has been falling apart and Indian officials have been facing pressure to extradite her after a special tribunal in Dhaka sentenced her to death last year for ordering lethal force to be used on protesters.\n\nHasina's virtual meeting with reporters at the Foreign Correspondents' Club in Delhi was her first meeting with the media since she was toppled after 15 years in power.\n\n\"I know that they may put me in jail or they may kill me, anything may happen, but still I have to go back,\" she said.\n\nIn the address she alleged that several organisations had turned the 2024 student protests into a \"violent movement\", without providing any evidence.\n\nShe has always rejected the charges on which she was convicted as politically motivated. But UN investigators found evidence that she and her government tried to cling to power using systematic, deadly violence .\n\nIn audio of one phone call verified by BBC Eye , Hasina was heard authorising the deadly crackdown on demonstrators. Prosecutors used the recording as crucial evidence in convicting her.\n\nThe UN estimates up to 1,400 people were killed, most by gunfire from security forces, during the protests, which started as a student-led movement against quotas in government jobs and turned into a mass uprising.\n\nThe 78-year-old fled Dhaka as tens of thousands of demonstrators held protests and stormed government buildings, including her official residence, plunging the country of more than 170 million into crisis.\n\nSoon after she was toppled, an interim government took charge. The Bangladesh Nationalist Party came to power after elections in February this year, with its leader Tarique Rahman now prime minister.\n\nHis government had already warned local mediase not to publish or broadcast Hasina's comments. After her address, it said it was \"outraged\" India had allowed her to take part in a public meeting with the media.\n\n\"Our people have firmly resolved that our nation will never again go back to the dark days of fascism and that Bangladesh will never be a client state,\" a foreign ministry statement said.\n\nHasina's presence in Delhi has strained relations with Bangladesh, which wants her extradited, a request India says it's examining.\n\nA return by Hasina to Dhaka, if it happens, is likely to have repercussions, including...",
+            "zh": "孟加拉国前总理谢赫·哈西娜 (Sheikh Hasina) 誓言将于 12 月返回孟加拉国，尽管该国因危害人类罪而面临死刑。 哈西娜否认这些指控，她在 2024 年的反政府起义中逃往印度后受到缺席审判。 在被赶下台两周年之际，哈西娜在德里一个拥挤的新闻俱乐部的音频广播中表示，她“必须回去”，但尚未宣布她的确切计划或日期。 她领导的人民联盟党一直在分崩离析，去年达卡特别法庭因下令对抗议者使用致命武力而判处她死刑后，印度官员一直面临着引渡她的压力。 哈西娜在德里外国记者俱乐部与记者进行虚拟会面，这是她执政15年后被推翻以来首次与媒体会面。 “我知道他们可能会把我关进监狱，或者杀了我，任何事情都可能发生，但我仍然必须回去，”她说。 她在讲话中声称，多个组织将2024年的学生抗议活动变成了“暴力运动”，但没有提供任何证据。 她一直否认因政治动机而被定罪的指控。但联合国调查人员发现的证据表明，她和她的政府试图通过系统性的致命暴力来保住权力。 在 BBC Eye 核实的一通电话音频中，哈西娜授权对示威者进行致命镇压。检察官使用录音作为对她定罪的关键证据。 联合国估计，抗议活动期间有多达 1,400 人死亡，其中大部分是安全部队开枪打死的。抗议活动最初是学生领导的反对政府工作配额的运动，后来演变成大规模起义。 数万名示威者举行抗议活动并冲进包括她官邸在内的政府大楼，这位 78 岁的女士逃离达卡，使这个拥有 1.7 亿多人口的国家陷入危机。 她被推翻后不久，临时政府接管了政权。孟加拉国民族主义党在今年二月的选举后上台，其领导人塔里克·拉赫曼现任总理。 他的政府已经警告当地媒体不要发表或广播哈西娜的言论。在她发表讲话后，印度表示“愤怒”，允许她参加媒体公开会议。 外交部声明称：“我们的人民坚定地决心，我们的国家永远不会再回到法西斯主义的黑暗日子，孟加拉国永远不会成为附庸国。” 哈西娜在德里的存在导致与孟加拉国的关系紧张，孟加拉国希望将她引渡，印度表示正在审查这一请求。 如果哈西娜返回达卡，可能会产生影响，包括……"
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -682,40 +711,6 @@
             "themeZh": "待寄居者如本族"
           },
           "aiVerseId": "lev_19_33",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-japan-military-expenditure-boost-defence-chi",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/japan-military-expenditure-boost-defence-china-russia-2026/2jzd732gg",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-japan-military-expenditure-boost-defence-chi.jpg",
-          "publishedAt": "2026-08-04T08:50:56.000Z",
-          "title": {
-            "en": "'Urgent' call for military build-up in Australia's backyard amid Chinese, Russian threats",
-            "zh": "澳大利亚后院因中俄威胁而“紧急”呼吁军事集结"
-          },
-          "summary": {
-            "en": "Tensions are escalating in the Pacific region, prompting one nation to significantly increase its military capabilities due to growing distrust among key international actors.",
-            "zh": "太平洋地区紧张局势加剧，主要国际参与者之间的不信任感导致一个国家大幅推动重新武装。"
-          },
-          "body": {
-            "en": "Japan needs to boost its military with a \"sense of urgency and crisis\", its defence minister said on Tuesday, as a new government assessment reiterated growing risks posed by China, North Korea, and Russia.\n\nJapan is already beefing up military spending and security cooperation in Asia, deploying missile launchers to outer islands, moving to acquire \"counter-strike\" capabilities, and easing rules on weapons exports.\n\nBut Shinjiro Koizumi said in a preface to the annual defence white paper that it was \"imperative that Japan further reinforce and transform its defence capabilities with a stronger sense of urgency and crisis than ever before\".\n\nIn the Asia-Pacific, \"not only are China and North Korea further strengthening their military capabilities, China-Russia and Russia-North Korea are also reinforcing their cooperation\", he added.\n\nThe new white paper said China was \"intensifying its activities\" in the region around Japan, \"extending beyond the so-called first island chain to the second island chain\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIt listed a series of incidents in 2025, including activities by Chinese aircraft carriers and the \"unusual close approach\" by Chinese aircraft to Japanese planes in two incidents in June and July.\n\nJapanese jets scrambled 595 times in the year to 31 March 2026, including 366 sorties against Chinese aircraft and 214 for Russian planes.\n\nJapan decided in April to lift its self-imposed ban on weapons exports, but the white paper highlighted problems in the country's production base that could jeopardise procurement and innovation.\n\nKoizumi also said that he and US counterpart Pete Hegseth had \"exchanged candid views\" on the \"unwavering\" US-Japan alliance, while also increasing security cooperation with the Philippines, Australia, and South Korea to realise a \"a free and open Indo-Pacific\".\n\n\"As the security environment becomes increasingly and rapidly severe, what is required now is to strengthen resilience against crises all across the entire Indo-Pacific region,\" Koizumi said.\n\n\"In order to do so Japan will build and expand multilayered networks among allies and like-minded countries, and enhance interconnectivity with like-minded countries and others in every area.\"\n\nThe link between defence and future prosperity comes as Takaichi's administration prepares a new national security strategy.\n\nMilitary experts expect it to call for further spending increases aimed primarily at deterring China from starting a conflict with Taiwan that could also draw Japan into a prolonged war.\n\nChina has expressed alarm at what it sees as a return to \"new militarism\" by Japan, with relations worsening since Japan's hawkish new Prime...",
-            "zh": "日本防卫大臣周二表示，日本需要以“紧迫感和危机感”增强其军事实力，因为新的政府评估重申了中国、朝鲜和俄罗斯构成的日益增长的风险。 日本已经在加强亚洲的军费开支和安全合作，在外岛部署导弹发射器，努力获得“反恐”能力，并放宽武器出口规则。 但小泉进次郎在年度防卫白皮书的序言中表示，“日本必须以前所未有的紧迫感和危机感，进一步强化和转变防卫能力”。 他补充说，在亚太地区，“不仅中国和朝鲜进一步加强军事实力，中俄、俄朝合作也在加强”。 新的白皮书称，中国正在日本周边地区“加强活动”，“范围从所谓的第一岛链延伸到第二岛链”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 它列出了2025年的一系列事件，包括中国航母的活动以及中国飞机在6月和7月的两起事件中“异常接近”日本飞机。 截至 2026 年 3 月 31 日的一年中，日本战机紧急升空 595 次，其中针对中国飞机出动 366 架次，针对俄罗斯飞机出动 214 架次。 日本四月份决定解除自行实施的武器出口禁令，但白皮书强调了该国生产基地可能危及采购和创新的问题。 小泉纯一郎还表示，他和美国外长皮特·赫格斯就“坚定不移”的美日同盟“坦诚交换了意见”，同时还加强了与菲律宾、澳大利亚和韩国的安全合作，以实现“自由开放的印太”。 小泉说：“随着安全环境迅速变得日益严峻，现在需要的是加强整个印太地区应对危机的抵御能力。” 为此，日本将在盟友和志同道合的国家之间建立和扩大多层网络，并在各个领域加强与志同道合的国家和其他国家的互联互通。” 国防与未来繁荣之间的联系正值高市政府准备新的国家安全战略之际。 军事专家预计，它将呼吁进一步增加开支，主要目的是阻止中国与台湾发生冲突，这也可能将日本拖入一场旷日持久的战争。 中国对日本回归“新军国主义”表示震惊，自日本鹰派新首相上台以来，两国关系不断恶化。"
-          },
-          "reflection": {
-            "en": "In a world where rising distrust often leads to military build-ups, the prophet Isaiah offers a vision of a different future. He foresees a time when nations will transform their weapons into tools for peace and productivity, learning war no more. This reminds us to pray for leaders and peoples to seek paths of reconciliation and mutual understanding,...",
-            "zh": "在一个不信任感加剧常导致军事集结的世界里，先知以赛亚提供了一个不同未来的愿景。他预见到一个国家将把武器铸成和平与生产工具，不再学习战争的时代。这提醒我们为领袖和人民祷告，使其寻求和解与相互理解的道路，而非升级军备竞赛。"
-          },
-          "verse": {
-            "reference": "Isaiah 2:4",
-            "textEn": "They will beat their swords into plowshares and their spears into pruning hooks.",
-            "textZh": "他们要将刀打成犁头，把枪打成镰刀。",
-            "themeEn": "Disarmament",
-            "themeZh": "化干戈为玉帛"
-          },
-          "aiVerseId": "isa_2_4",
           "translationState": "localized"
         }
       ]
@@ -1086,10 +1081,43 @@
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
       },
       "sourceNotes": [
-        "SBS News Australia",
-        "The Guardian Australia"
+        "The Guardian Australia",
+        "SBS News Australia"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-australia-news-live-2026-aug-06-australia-news-live-",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/1b39d52321605460807a4ac7f66eb888439f55ab/0_0_3443_2755/master/3443.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f0e69c60971373862e84104495ef54bf",
+          "publishedAt": "2026-08-05T21:49:50.000Z",
+          "title": {
+            "en": "Australia news live: NSW man charged over alleged threats of violence against female MP",
+            "zh": "澳大利亚新闻直播：新南威尔士州男子因涉嫌对女议员进行暴力威胁而被指控"
+          },
+          "summary": {
+            "en": "Police allege man issued threats on social media to find woman and hurt her. Follow today’s news live Get our breaking news email, free app or daily news podcast News Corp’s Australian division weighs on robust results News Corp has delivered a strong rise in revenue across its...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Police allege man issued threats on social media to find woman and hurt her. Follow today’s news live Get our breaking news email , free app or daily news podcast News Corp’s Australian division weighs on robust results News Corp has delivered a strong rise in revenue across its global business, despite weakness in its news division, marked by a slide in digital subscribers at its Australian mastheads. Continue reading...",
+            "zh": "警方称，男子在社交媒体上发出威胁，要找到女子并伤害她。关注今日新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 新闻集团的澳大利亚部门业绩强劲 尽管新闻部门表现疲弱（其澳大利亚报头的数字订户数量下滑），但新闻集团的全球业务收入却强劲增长。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-sbs-com-au-news-article-high-court-finds-secret-recording-can-be-use",
           "section": "australia",
@@ -1103,7 +1131,7 @@
             "zh": "高庭裁定秘密录音可作为家庭暴力案件证据"
           },
           "summary": {
-            "en": "Recordings of private conversations are usually illegal. The High Court allowed it to be used as evidence in this case.",
+            "en": "Recordings of private conversations are usually illegal, and experts say the ruling is a major milestone for survivors.",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
@@ -1120,6 +1148,39 @@
             "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
             "themeEn": "Justice and mercy",
             "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-06-morning-mail-thursday-ntw",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/06/morning-mail-thursday-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/58052f98281029895f45d6fe00c2acc868bd91dd/213_0_2123_1699/master/2123.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84d92a5829922dc57b0a6b59d1afa080",
+          "publishedAt": "2026-08-05T20:50:05.000Z",
+          "title": {
+            "en": "Morning Mail: First home buyers’ scheme twist; explosive drone scare at German airport; butterflies on the move",
+            "zh": "早间邮报：首次置业者计划的扭曲；德国机场发生爆炸性无人机恐慌；蝴蝶在移动"
+          },
+          "summary": {
+            "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here, and finish your day with our Afternoon Update newsletter Good morning. Nearly 1,500 properties bought using the government’s first home buyers’ 5% deposit scheme have ended up being converted into...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Afternoon Update newsletter Good morning. Nearly 1,500 properties bought using the government’s first home buyers’ 5% deposit scheme have ended up being converted into investments: we dig into the data to find out more. A drone carrying explosives was found at a German airport. Meanwhile, Ukraine is pleading with its allies for more air defences after Russia pounded Kyiv with ballistic missiles. Operation Richmond | A new report has highlighted how – via a “staged” meeting and a secret deal – a union boss exerted “extraordinary influence” on the Daniel Andrews government in Victoria. ‘It shouldn’t benefit the wealthy’ | The government’s 5% deposit scheme for first home buyers has enabled the purchase of almost 1,500 properties that were turned into investments , data shows. ‘Easy cash grab’ | Jetstar’s new carry-on luggage charge means the airline has joined a growing number monetising basic services in the sky . And: what’s one more humiliating ritual for the masses, James Colley asks. Analysis | Ex-NSW premier Dominic Perrottet’s brother Jean-Claude was the star witness at the Icac hearings yesterday. It won’t be the last we hear from his family , Anne Davies writes. Datacentre stoush | The energy minister, Chris Bowen, has vowed to override states opposing national rules that new AI datacentres are to be powered by renewable energy and not fuelled by gas. Continue reading...",
+            "zh": "想每个工作日将其发送到您的收件箱吗？在这里注册《早间邮报》，并通过我们的下午更新时事通讯早上好结束您的一天。通过政府首次购房者 5% 首付计划购买的近 1,500 处房产最终被转化为投资：我们深入研究数据以了解更多信息。德国机场发现一架携带爆炸物的无人机。与此同时，在俄罗斯用弹道导弹袭击基辅后，乌克兰恳求其盟友加强防空。里士满行动|一份新报告强调了工会老板如何通过“分阶段”会议和一项秘密协议对维多利亚州丹尼尔·安德鲁斯政府施加“非凡影响”。 “它不应该让富人受益” |数据显示，政府针对首次购房者的 5% 首付计划已帮助他们购买了近 1,500 套房产，并将其转化为投资。 “轻松抢钱” |捷星航空新推出的随身行李收费意味着该航空公司已加入越来越多的航空基础服务货币化行列。还有：詹姆斯·科利问道，对于大众来说，还有什么更丢脸的仪式呢？分析|新南威尔士州前州长多米尼克·佩罗特 (Dominic Perrottet) 的弟弟让·克洛德 (Jean-Claude) 是昨天廉政公署听证会上的明星证人。安妮·戴维斯写道，这不会是我们最后一次听到他家人的消息。数据中心存储 |能源部长克里斯·鲍文 (Chris Bowen) 发誓要推翻那些反对新人工智能数据中心应由可再生能源而非天然气驱动的国家规定的州。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -1174,7 +1235,7 @@
           },
           "body": {
             "en": "Getting the help you need for a winter illness could be simpler than spending hours waiting to be seen in a busy hospital emergency room.\n\nThat's the message the government is sending this flu season, a time when experts say hospitals tend to be the busiest, and wait times blow out.\n\nWhile managing cold and flu cases is a national health concern, one state is taking a particularly strong stance, urging people to avoid the emergency room unless their lives are at risk.\n\nOn Monday, just under 10,000 people presented to emergency departments in Sydney, which the NSW health minister has described as the \"biggest ever recorded winter day in history\".\n\nProfessor Paul Griffin from the University of Queensland School of Medicine told SBS News that while numbers will vary between states, this time of year is often busy nationwide.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nAcross Australia, Griffin said healthcare services were seeing presentations of flu and RSV (respiratory syncytial virus), as well as an increase in COVID-19 cases.\n\nWhile these can be concerning conditions, an emergency room will always prioritise the most severe health conditions first, Griffin explained.\n\n\"If you don't need to go to your emergency department, it does free up valuable resources for them to be able to deal with more emerging cases,\" he said.\n\n\"There are a number of viable options for people that have conditions that are a little bit less urgent, and that's why we want people to make sure that they understand where the best place for them to go really is.\"\n\nThe Australian government has outlined three broad categories of care &#x2014; routine, urgent and emergency &#x2014; each with varying symptom severity, encompassing flu symptoms as well as broader conditions.\n\nMost health issues can be addressed through routine care, which for many people means their GP.\n\nGriffin said GPs are not only a good touchpoint for receiving care when sick but can also help you prepare a plan ahead of potential illness.\n\nThey can provide health checks, vaccinations and offer family and individual health advice.\n\n\"If it's something that you're not feeling needs urgent attention, then your GP is often the best place to start to get the care that you need,\" Griffin said.\n\nIf you start experiencing symptoms like chest pain or feel like a respiratory illness is worsening, you may want to consider going to an urgent care clinic (UCC) or the hospital.\n\n\"If you're breathing okay, even drinking okay, not systemically unwell, your GP is a really good place to start. If any of those things aren't the case, then I'd have a very low threshold for presenting to hospital,\" Griffin said.\n\n\"Whereas those urgent care...",
-            "zh": "获得冬季疾病所需的帮助可能比在繁忙的医院急诊室等待几个小时更简单。 这就是政府在这个流感季节发出的信息，专家表示，在这个时期，医院往往是最繁忙的，等待时间会大大缩短。 虽然管理感冒和流感病例是一个全国性的健康问题，但有一个州采取了特别强硬的立场，敦促人们避免去急诊室，除非生命受到威胁。 周一，近 10,000 人被送往悉尼急救部门，新南威尔士州卫生部长称这是“历史上有记录以来最大规模的冬日”。 昆士兰大学医学院的保罗·格里芬教授告诉 SBS 新闻，虽然各州的人数有所不同，但每年的这个时候全国范围内通常都很繁忙。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 格里芬表示，在澳大利亚各地，医疗保健服务部门都出现了流感和 RSV（呼吸道合胞病毒）的情况，并且 COVID-19 病例有所增加。 格里芬解释说，虽然这些情况可能令人担忧，但急诊室总是会首先优先考虑最严重的健康状况。 “如果你不需要去急诊室，这确实可以为他们释放宝贵的资源，使其能够处理更多新出现的病例，”他说。 “对于那些病情不那么紧急的人来说，有很多可行的选择，这就是为什么我们希望人们确保他们了解最适合他们去的地方到底在哪里。” 澳大利亚政府概述了三大类护理——常规护理、紧急护理和紧急护理——每种护理的症状严重程度各不相同，包括流感症状以及更广泛的病症。 大多数健康问题都可以通过常规护理来解决，这对许多人来说意味着他们的全科医生。 格里芬说，全科医生不仅是生病时接受护理的良好接触点，还可以帮助您在潜在疾病发生之前制定计划。 他们可以提供健康检查、疫苗接种并提供家庭和个人健康建议。 格里芬说：“如果您觉得不需要紧急关注，那么您的全科医生通常是获得所需护理的最佳起点。” 如果您开始出现胸痛等症状或感觉呼吸道疾病正在恶化，您可能需要考虑去紧急护理诊所 (UCC) 或医院。 “如果你呼吸正常，甚至饮酒正常，没有全身不适，那么你的全科医生是一个非常好的起点。如果这些情况不是这样，那么我去医院就诊的门槛非常低，”格里芬说。 “而那些紧急护理......"
+            "zh": "获得冬季疾病所需的帮助可能比在繁忙的医院急诊室等待数小时更简单。 这就是政府在这个流感季节发出的信息，专家表示，在这个时期，医院往往是最繁忙的，等待时间会大大缩短。 虽然管理感冒和流感病例是一个全国性的健康问题，但有一个州采取了特别强硬的立场，敦促人们避免去急诊室，除非生命受到威胁。 周一，近 10,000 人被送往悉尼急救部门，新南威尔士州卫生部长称这是“历史上有记录以来最大规模的冬日”。 昆士兰大学医学院的保罗·格里芬教授告诉 SBS 新闻，虽然各州的人数有所不同，但每年的这个时候全国范围内通常都很繁忙。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 格里芬表示，在澳大利亚各地，医疗保健服务部门都出现了流感和 RSV（呼吸道合胞病毒）的情况，并且 COVID-19 病例有所增加。 格里芬解释说，虽然这些情况可能令人担忧，但急诊室总是会首先优先考虑最严重的健康状况。 “如果你不需要去急诊室，这确实可以为他们释放宝贵的资源，使其能够处理更多新出现的病例，”他说。 “对于那些病情不那么紧急的人来说，有很多可行的选择，这就是为什么我们希望人们确保他们了解最适合他们去的地方到底在哪里。” 澳大利亚政府概述了三大类护理——常规护理、紧急护理和紧急护理——每种护理的症状严重程度各不相同，包括流感症状以及更广泛的病症。 大多数健康问题都可以通过常规护理来解决，这对许多人来说意味着他们的全科医生。 格里芬说，全科医生不仅是生病时接受护理的良好接触点，还可以帮助您在潜在疾病发生之前制定计划。 他们可以提供健康检查、疫苗接种并提供家庭和个人健康建议。 格里芬说：“如果您觉得不需要紧急关注，那么您的全科医生通常是获得所需护理的最佳起点。” 如果您开始出现胸痛等症状或感觉呼吸道疾病正在恶化，您可能需要考虑去紧急护理诊所 (UCC) 或医院。 “如果你呼吸正常，甚至饮酒正常，没有全身不适，那么你的全科医生是一个非常好的起点。如果这些情况不是这样，那么我去医院就诊的门槛非常低，”格里芬说。 “而那些紧急护理......"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1202,12 +1263,12 @@
             "zh": "使用澳大利亚首次购房者 5% 首付计划购买的近 1,500 处房产已转化为投资"
           },
           "summary": {
-            "en": "New data shows the federal government scheme has been used by high-income borrowers, including one couple earning an annual $674,000 Get our breaking news email, free app or daily news podcast The government’s 5% deposit scheme for first home buyers has enabled the purchase of...",
+            "en": "New data shows the federal government scheme has been used by high-income borrowers, including one couple earning an annual $674,000 Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The government’s 5% deposit...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "New data shows the federal government scheme has been used by high-income borrowers, including one couple earning an annual $674,000 Get our breaking news email , free app or daily news podcast The government’s 5% deposit scheme for first home buyers has enabled the purchase of nearly 1,500 properties that were turned into investments, new data shows. The scheme is also helping hundreds of Australians earning more than $300,000 a year, after Labor stopped excluding high-income borrowers. Continue reading...",
-            "zh": "新数据显示，联邦政府计划已被高收入借款人使用，其中包括一对年收入 674,000 美元的夫妇 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 新数据显示，政府针对首次置业者的 5% 首付计划已使人们能够购买近 1,500 套房产，并将其转化为投资。在工党停止排除高收入借款人后，该计划还帮助数百名年收入超过 30 万澳元的澳大利亚人。继续阅读..."
+            "en": "New data shows the federal government scheme has been used by high-income borrowers, including one couple earning an annual $674,000 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The government’s 5% deposit scheme for first home buyers has enabled the purchase of nearly 1,500 properties that were turned into investments, new data shows. The scheme is also helping hundreds of Australians earning more than $300,000 a year, after Labor stopped excluding high-income borrowers. Continue reading...",
+            "zh": "新数据显示，联邦政府计划已被高收入借款人使用，其中包括一对年收入 674,000 澳元的夫妇 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 新数据显示，政府针对首次置业者的 5% 首付计划已使人们能够购买近 1,500 套房产，并将其转化为投资。在工党停止排除高收入借款人后，该计划还帮助数百名年收入超过 30 万澳元的澳大利亚人。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
@@ -1219,6 +1280,39 @@
             "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
             "themeEn": "Work for the Lord",
             "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-06-a-staged-meeting-and-a-se",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/06/a-staged-meeting-and-a-secret-deal-how-a-union-boss-exerted-extraordinary-influence-on-the-andrews-government",
+          "image": "https://i.guim.co.uk/img/media/ebe61e63b6ed9c0d90be76b50c52a5250da4f837/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c11627acf6ea42f95ad66c820eb7cda",
+          "publishedAt": "2026-08-05T15:00:23.000Z",
+          "title": {
+            "en": "A ‘staged’ meeting and a secret deal: how a union boss exerted ‘extraordinary influence’ on the Andrews government",
+            "zh": "一场“精心策划”的会议和一项秘密协议：工会老板如何对安德鲁斯政府施加“非凡影响”"
+          },
+          "summary": {
+            "en": "Integrity experts say Ibac’s report exposes a deeper problem with Victoria’s anti-corruption laws Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast In April 2016, the firefighters’ union leader, Peter Marshall,...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Integrity experts say Ibac’s report exposes a deeper problem with Victoria’s anti-corruption laws Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In April 2016, the firefighters’ union leader, Peter Marshall, walked into the Victorian premier’s office at 1 Treasury Place carrying what appeared to be a breakthrough: a union “proposal” that promised to end one of the state’s most bitter industrial disputes. When questioned years later by Victoria’s anti-corruption watchdog, the then premier, Daniel Andrews, said the duo did not discuss its substance. Continue reading...",
+            "zh": "诚信专家表示，伊巴克的报告暴露了维多利亚州反腐败法的更深层次问题 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 2016 年 4 月，消防员工会领袖彼得·马歇尔 (Peter Marshall) 走进位于 1 Treasury Place 的维多利亚州州长办公室，提出了一项看似突破性的成果：一项工会“提案”，承诺结束该州最激烈的劳资纠纷之一。几年后，当维多利亚州反腐败监管机构询问时，时任总理丹尼尔安德鲁斯表示，两人没有讨论其实质内容。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
           },
           "translationState": "fallback"
         },
@@ -1235,12 +1329,12 @@
             "zh": "廉政公署的关注焦点集中在多米尼克·佩罗特的弟弟身上——这不会是我们最后一次听到他家人的消息"
           },
           "summary": {
-            "en": "Jean-Claude Perrottet was questioned at the Operation Rosny hearings about the actions of the NSW Liberals’ hard-right Reformers faction Get our breaking news email, free app or daily news podcast It’s perhaps inevitable that in a large family there might be one member who is a...",
+            "en": "Jean-Claude Perrottet was questioned at the Operation Rosny hearings about the actions of the NSW Liberals’ hard-right Reformers faction Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast It’s perhaps inevitable...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "It’s perhaps inevitable that in a large family there might be one member who is a bit of a wild card.\n\nIt’s more problematic when that family has a distinctive surname and one is a public figure.\n\nDominic Perrottet has 12 siblings – and his younger brother Jean-Claude Perrottet has an uncanny ability to attract headlines.\n\nOn Wednesday, Jean-Claude was the star witness at the Independent Commission against Corruption . It is investigating allegations that illegal donations were used to fund branch stacking within the NSW Liberal party by a shadowy organisation known as the Reformers, of which Jean-Claude was a key figure.\n\nIn 2017 Jean-Claude, then aged 20, was found not guilty of rape in the NSW district court.\n\nThe charges stemmed from an alcohol-charged incident with a 19-year old woman following an end-of-year formal at St John’s College, Sydney University in 2015. The jury took less than two hours to find Perrottet not guilty.\n\nRape cases sometimes get reported in the normal course, but because Dominic was then the youthful NSW treasurer in the Berejiklian government and the safety of women on campus was a subject of live public debate, it was regarded as highly newsworthy.\n\nBy 2018, Jean-Claude Perrottet was doing a commerce degree at the University of NSW and had found employment with conservative Catholic parliamentarians. First it was in Damien Tudehope’s electorate office, then with upper house MP David Clarke, then in 2019, back to Tudehope in his ministerial office.\n\nHe might have been a mere 21-year-old staffer, but Jean-Claude still made headlines.\n\nIn 2019, the Sydney Morning Herald published articles about an alleged concerted effort by facets of the Liberal party’s hard right to undermine sitting members in several safe state and federal seats in Sydney’s north-west.\n\nThe stories named Jean-Claude and fellow staffer Christian Ellis who were both employed at the time by Tudehope, then the minister for small business.\n\nThat was the first time we heard of the NSW Reformers, a conservative group of Catholics alleged to be behind the stacking.\n\nDespite trying to operate covertly, the Reformers have refused to fade into obscurity.\n\nIn 2022 Liberal state MP Ray Williams, one of the Reformers’ targets, used a late night speech in parliament to raise allegations about the Reformers’ activities.\n\nThis must have been challenging for Dominic Perrottet. He would have known that, at the very least, Icac would likely question his little brother.\n\nBut these were serious allegations raised by one of his own team, involving attempts to dislodge the Hills shire council and a developer, Jean Nassif, giving the Reformers “significant funds”.\n\nThe matter ended up in a parliamentary inquiry, just months before the 2023 election.\n\nAs the inquiry ran,...",
-            "zh": "在一个大家庭中，可能不可避免地会有一个成员有点不确定。 当这个家庭有一个独特的姓氏并且其中一个人是公众人物时，问题就更大了。 多米尼克·佩罗泰 (Dominic Perrottet) 有 12 个兄弟姐妹，他的弟弟让-克洛德·佩罗泰 (Jean-Claude Perrottet) 拥有吸引新闻头条的不可思议的能力。 周三，让-克洛德成为反腐败独立委员会的明星证人。该委员会正在调查有关一个名为“改革者”的影子组织利用非法捐款资助新南威尔士州自由党内部分支机构的指控，让-克洛德是该组织的关键人物。 2017 年，新南威尔士州地区法院判定当时 20 岁的让-克洛德犯有强奸罪不成立。 这些指控源于 2015 年悉尼大学圣约翰学院年终正式典礼后，一名 19 岁女性因酗酒而被控的事件。陪审团花了不到两个小时就裁定佩罗特无罪。 强奸案件有时会在正常情况下被报道，但由于多米尼克当时是贝姬莲政府年轻的新南威尔士州财务主管，而且校园内女性的安全是公众现场辩论的话题，因此被认为具有很高的新闻价值。 2018 年，Jean-Claude Perrottet 在新南威尔士大学攻读商业学位，并在保守派天主教议员那里找到了工作。首先是在达米安·图德霍普 (Damien Tudehope) 的选民办公室，然后是上议院议员戴维·克拉克 (David Clarke)，然后在 2019 年又回到图德霍普的部长办公室。 让-克洛德可能只是一名 21 岁的员工，但他仍然成为头条新闻。 2019年，《悉尼先驱晨报》发表文章称，自由党的强硬权利各方面共同努力削弱悉尼西北部几个安全州和联邦席位的现任议员。 这些故事的主角是让-克洛德和同事克里斯蒂安·埃利斯，他们当时都受雇于当时的小企业部长图德霍普。 这是我们第一次听说新南威尔士州改革者，一个由天主教徒组成的保守派团体，据称是这次堆积事件的幕后黑手。 尽管试图秘密运作，改革派却拒绝消失。 2022 年，改革派的目标之一、自由党议员雷·威廉姆斯 (Ray Williams) 在议会深夜发表讲话，对改革派的活动提出指控。 这对多米尼克·佩罗特来说肯定是一个挑战。他会知道，至少伊卡可能会质疑他的弟弟。 但这些都是他自己的团队提出的严重指控，涉及试图驱逐希尔斯郡议会和开发商让·纳西夫(Jean Nassif)，为改革者提供“大量资金”。 距离 2023 年大选仅几个月，此事最终进入了议会调查。 随着调查的进行，..."
+            "en": "Jean-Claude Perrottet was questioned at the Operation Rosny hearings about the actions of the NSW Liberals’ hard-right Reformers faction Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast It’s perhaps inevitable that in a large family there might be one member who is a bit of a wild card. It’s more problematic when that family has a distinctive surname and one is a public figure. Continue reading...",
+            "zh": "让-克洛德·佩罗特 (Jean-Claude Perrottet) 在“罗斯尼行动”听证会上就新南威尔士州自由党极右改革派的行动接受质询 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 在一个大家庭中，可能不可避免地会有一位成员有点不确定。当这个家庭有一个独特的姓氏并且其中一个人是公众人物时，问题就更大了。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1254,106 +1348,6 @@
             "themeZh": "和睦"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-business-2026-aug-06-why-is-jetstar-charging-custome",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/business/2026/aug/06/why-is-jetstar-charging-customers-for-carry-on-luggage",
-          "image": "https://i.guim.co.uk/img/media/c1bbd057f0eb1624dfedf660f9f9b74171205efe/1273_0_6463_5173/master/6463.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a53d400c914fe09f5cf796bb76290386",
-          "publishedAt": "2026-08-05T15:00:21.000Z",
-          "title": {
-            "en": "‘Just an easy cash grab’: why Jetstar is charging customers for carry-on luggage",
-            "zh": "“轻松抢钱”：捷星为何向乘客收取随身行李费用"
-          },
-          "summary": {
-            "en": "Add-on fees such as the new overhead locker baggage charge can make it more difficult to compare air fares, experts say Get our breaking news email, free app or daily news podcast Cut-price fares may now be merely a facade for seemingly endless add-on fees after Jetstar’s new...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Add-on fees such as the new overhead locker baggage charge can make it more difficult to compare air fares, experts say Get our breaking news email , free app or daily news podcast Cut-price fares may now be merely a facade for seemingly endless add-on fees after Jetstar’s new carry-on luggage charge meant the airline joined a growing number monetising basic services in the sky. The new structure, announced by Qantas’s low-cost carrier on Wednesday, will mean from next year tickets will only include one “under seat bag”, such as a backpack, handbag or laptop bag. Continue reading...",
-            "zh": "专家表示，新的头顶储物柜行李收费等附加费用可能会使比较机票价格变得更加困难。在捷星航空推出新的随身行李收费意味着该航空公司加入了越来越多的航空基础服务货币化行列之后，降价票价现在可能只是看似无穷无尽的附加费用的一个幌子。澳洲航空周三宣布的新结构意味着，从明年开始，机票将只包含一个“座下包”，例如背包、手提包或笔记本电脑包。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-news-2026-aug-05-bell-rejects-suggestion-palestinian",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/news/2026/aug/05/bell-rejects-suggestion-palestinian-groups-counsel-hijacked-commission-and-condemns-abusive-emails-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/50bb8753d03c828d5a70badea7f18edd70e3052e/354_0_4160_3328/master/4160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26e19b90297cc7f8577e9651776717f1",
-          "publishedAt": "2026-08-05T08:54:41.000Z",
-          "title": {
-            "en": "Virginia Bell rejects suggestion Palestinian group’s counsel ‘hijacked’ commission, inquiry hears",
-            "zh": "调查获悉，弗吉尼亚·贝尔否认巴勒斯坦组织的律师“劫持”委员会的说法"
-          },
-          "summary": {
-            "en": "Antisemitism royal commission also hears from former neo-Nazi who discovered ‘brotherhood’ was a ‘load of lies’ Get our breaking news email, free app or daily news podcast Life in multi-ethnic Australia helped decouple a former skinhead from neo-Nazi groups as he discovered the...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Antisemitism royal commission also hears from former neo-Nazi who discovered ‘brotherhood’ was a ‘load of lies’ Get our breaking news email , free app or daily news podcast Life in multi-ethnic Australia helped decouple a former skinhead from neo-Nazi groups as he discovered the brotherhood was “a load of lies”. The unnamed witness offered his experience to the royal commission into antisemitism and social cohesion on Wednesday, on the same day the commissioner Virginia Bell rejected an assertion proceedings had been hijacked. Continue reading...",
-            "zh": "反犹太主义皇家委员会还听取了前新纳粹分子的意见，他们发现“兄弟情谊”是“一堆谎言” 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 多民族澳大利亚的生活帮助一位前光头党与新纳粹团体脱钩，因为他发现兄弟情谊是“一堆谎言”。周三，这位不愿透露姓名的证人向皇家反犹太主义和社会凝聚力委员会提供了他的经历，同一天，专员维吉尼亚·贝尔驳回了诉讼程序被劫持的说法。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-aug-05-chris-bowen-vows-to-overr",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/05/chris-bowen-vows-to-override-queensland-and-nt-to-force-renewables-powered-ai-datacentres",
-          "image": "https://i.guim.co.uk/img/media/26f6b90d4e77222730f3e5867f11f184ca19fee1/1368_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e0d50b9d7efda8f4f11036e48dd533b",
-          "publishedAt": "2026-08-05T08:09:25.000Z",
-          "title": {
-            "en": "Chris Bowen vows to override Queensland and NT to force renewables-powered AI datacentres",
-            "zh": "克里斯·鲍文誓言凌驾昆士兰州和北领地，强制推行可再生能源驱动的AI数据中心"
-          },
-          "summary": {
-            "en": "The Australian Energy Minister, Chris Bowen, has announced plans for new federal legislation to override state governments in Queensland and the Northern Territory to mandate renewables-powered AI datacentres, citing the protection of households and energy reliability.",
-            "zh": "澳大利亚能源部长克里斯·鲍文宣布，联邦政府计划通过新立法，以凌驾昆士兰州和北领地政府，强制推行由可再生能源供电的人工智能数据中心，并表示此举旨在保护家庭和能源可靠性。"
-          },
-          "body": {
-            "en": "Energy minister says Australian households and energy reliability will be protected by new federal legislation Get our breaking news email , free app or daily news podcast The energy minister, Chris Bowen, says the federal government will override state governments that oppose new national rules on datacentres, with commonwealth legislation forcing new AI datacentres to be powered by renewable energy and banning those fuelled by gas. Bowen said he expected his counterparts in Queensland and the Northern Territory – who had protested against the new federal rules at a meeting last week – to be unhappy with the move, but said the Albanese government was committed to powering the AI revolution with renewable energy. Continue reading...",
-            "zh": "能源部长表示，澳大利亚家庭和能源可靠性将受到新联邦立法的保护 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 能源部长 Chris Bowen 表示，联邦政府将推翻反对数据中心新国家规定的州政府，联邦立法强制新的人工智能数据中心由可再生能源供电，并禁止使用天然气作为燃料。鲍文表示，他预计昆士兰州和北领地的同行（他们在上周的一次会议上抗议新的联邦规则）会对此举感到不满，但表示阿尔巴尼亚政府致力于利用可再生能源推动人工智能革命。继续阅读..."
-          },
-          "reflection": {
-            "en": "Major national decisions, especially those overriding local governance, highlight the importance of broad counsel. Proverbs 11:14 reminds us that “where there is no guidance, a people falls, but in an abundance of counselors there is safety.” As Australia navigates its energy future, seeking diverse perspectives and fostering collaboration can strengthen...",
-            "zh": "重大的国家决策，尤其是在凌驾地方政府的情况下，凸显了广泛咨询的重要性。箴言11:14提醒我们：“没有智谋，民就败落；谋士众多，就必得胜。” 澳大利亚在规划能源未来时，寻求多元视角并促进合作，能为所有人带来更稳固的成果。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "aiVerseId": "prov_11_14",
-          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-kmarts-89-glasses-can-record-what-you-see-bu",
