@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T06:05:09.342Z",
+  "generatedAt": "2026-08-07T08:06:35.136Z",
   "editionDate": "2026-08-07",
   "sources": [
     {
@@ -112,28 +112,62 @@
       ],
       "items": [
         {
+          "id": "www-theguardian-com-world-2026-aug-07-thailand-school-shooting-debsirin-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
+          "image": "https://i.guim.co.uk/img/media/a4b16518d4a50643ce550d44fd657d3d5d583cee/1281_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60f8b1df273cf4172a1de38beb9418d3",
+          "publishedAt": "2026-08-07T07:51:24.000Z",
+          "title": {
+            "en": "Thailand school shooting: seven killed including suspected attacker, police say",
+            "zh": "泰国校园枪击案：警方称包括嫌疑枪手在内七人死亡"
+          },
+          "summary": {
+            "en": "A school shooting north of Bangkok, Thailand, resulted in seven deaths, including the suspected teenage attacker, and at least 15 injuries. The incident, which also involved the prior killing of the attacker's grandparents, marks the country's worst mass shooting in recent memory.",
+            "zh": "泰国曼谷北部一所学校发生枪击事件，造成包括一名青少年嫌疑枪手在内的七人死亡，至少15人受伤。这起事件还涉及枪手此前杀害其祖父母，是该国近期最严重的大规模枪击事件。"
+          },
+          "body": {
+            "en": "A Thai teenager killed at least six people and himself at a school outside Bangkok, after fatally shooting his grandparents, in the country’s worst mass shooting since 2022.\n\nSeven people ⁠were ⁠killed in the attack and 15 were wounded, ‌Thai police ⁠said on Friday.\n\nThey also confirmed the ⁠suspected shooter had killed his grandparents before the attack.\n\nThe shooting ‌took place at the prestigious Debsirin Nonthaburi school in the Bang Kruai district of Nonthaburi province.\n\nThe suspected shooter, a student, remained inside the school after reports of the attack emerged, Arsit Sampantharat, the permanent secretary of the interior ministry, told PPTV.\n\nImages from the scene about an hour after the shooting showed people standing outside the school comforting one another while police and first responders were inside the building. It appeared to have been secured, although officials had not publicly confirmed the shooter’s status.\n\nA witness told reporters that students hid in a classroom after hearing gunshots from another building before police officers knocked on the door and escorted them safely from the building.\n\nIn the 2025 academic year, the school had about 3,100 students and 147 teachers, according to district authorities.\n\nThe school is part of the Debsirin network, founded by the Thai royal family. Its alumni include prime ministers, scholars and writers.",
+            "zh": "一名泰国青少年在曼谷郊外的一所学校开枪打死了他的祖父母，造成至少六人死亡，这是该国自 2022 年以来最严重的大规模枪击事件。 泰国警方周五表示，袭击造成 7 人死亡、15 人受伤。 他们还证实，嫌疑枪手在袭击前杀死了他的祖父母。 枪击事件发生在暖武里府 Bang Kruai 区著名的 Debsirin Nonthaburi 学校。 内政部常务秘书阿西特·桑潘塔拉特 (Arsit Sampantharat) 告诉 PPTV，枪击事件嫌疑人是一名学生，在袭击事件报道曝光后，他仍留在学校内。 枪击事件发生大约一个小时后现场的图像显示，人们站在学校外互相安慰，而警察和急救人员则在大楼内。尽管官员尚未公开证实枪手的身份，但它似乎已经得到保护。 一名目击者告诉记者，学生们听到另一栋大楼传来枪声后躲进教室，随后警察敲门并护送他们安全离开大楼。 据学区当局称，2025 学年，该校约有 3,100 名学生和 147 名教师。 该学校是由泰国王室创办的 Debsirin 网络的一部分。其校友包括总理、学者和作家。"
+          },
+          "reflection": {
+            "en": "In the face of such senseless violence and tragic loss of life, especially among the young, our hearts are heavy with sorrow. The briefest verse in the Bible, \"Jesus wept,\" reminds us that even Yahweh Himself shares in our profound grief and pain. We hold in prayer all those affected, trusting in His compassion during this time of immense suffering.",
+            "zh": "面对如此毫无意义的暴力和生命的悲惨逝去，尤其是在年轻人中，我们的心充满了悲伤。圣经中最短的经文“雅伟哭了”，提醒我们，即使雅伟自己也分担我们深切的悲痛和痛苦。我们为所有受影响的人祷告，在这巨大的苦难时刻信靠祂的怜悯。"
+          },
+          "verse": {
+            "reference": "John 11:35",
+            "textEn": "Jesus wept.",
+            "textZh": "耶稣哭了。",
+            "themeEn": "Jesus wept",
+            "themeZh": "耶稣哭了"
+          },
+          "aiVerseId": "jn_11_35",
+          "translationState": "localized"
+        },
+        {
           "id": "www-theguardian-com-australia-news-live-2026-aug-07-royal-commission-ant",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
           "image": "https://i.guim.co.uk/img/media/b41c4f59d68651701883bac3fa375dc47f2a4bae/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a800b91da960f6605674000c6c988c05",
-          "publishedAt": "2026-08-07T05:46:44.000Z",
+          "publishedAt": "2026-08-07T07:12:11.000Z",
           "title": {
-            "en": "Australia news live: Attorney General warns women and children at risk of ‘harmful conduct’ from smartglasses users; major delays at Sydney airport",
-            "zh": "澳大利亚新闻直播：总检察长警告女性和儿童面临智能眼镜用户‘有害行为’的风险；悉尼机场出现严重延误"
+            "en": "Attorney general warns women and children at risk of ‘harmful conduct’ from smartglasses users – as it happened",
+            "zh": "司法部长警告智能眼镜用户可能对妇女和儿童造成“有害行为”"
           },
           "summary": {
-            "en": "Australia's Attorney General has issued a warning that women and children are at risk of 'harmful conduct' from users of smartglasses, raising concerns about privacy and safety. Meanwhile, Sydney airport is experiencing major delays.",
-            "zh": "澳大利亚总检察长警告称，女性和儿童面临智能眼镜用户‘有害行为’的风险，引发了对隐私和安全的担忧。与此同时，悉尼机场出现严重延误。"
+            "en": "The Attorney General has issued a warning regarding the potential for smartglasses users to engage in harmful conduct towards women and children.",
+            "zh": "司法部长发出警告，指出智能眼镜用户可能对妇女和儿童实施有害行为。"
           },
           "body": {
             "en": "The attorney general, Michelle Rowland , has written to the privacy commissioner over potential concerns surrounding smartglasses.\n\nRowland said the products, which are growing in popularity, had significant implications, especially for women and children who could be disproportionately affected by “inappropriate recording, harassment, surveillance or other harmful conduct”.\n\nPrivacy is an essential part of all our lives; it allows us to be who we are with dignity and without fear.\n\nUnlike other forms of technology, smart glasses may be used more discreetly, making it harder to know when you are being recorded.\n\nThe government is continuing to work on the next phase of privacy reforms to ensure our privacy laws are fit for purpose in the digital age.",
             "zh": "司法部长米歇尔·罗兰 (Michelle Rowland) 已就智能眼镜的潜在担忧致信隐私专员。 罗兰表示，这些产品越来越受欢迎，具有重大影响，特别是对于妇女和儿童来说，他们可能会受到“不当录音、骚扰、监视或其他有害行为”的严重影响。 隐私是我们生活的重要组成部分；它让我们能够有尊严、毫无恐惧地做自己。 与其他形式的技术不同，智能眼镜的使用可能会更加谨慎，因此更难知道您何时被录音。 政府正在继续致力于下一阶段的隐私改革，以确保我们的隐私法适合数字时代的目的。"
           },
           "reflection": {
-            "en": "The Attorney General's warning highlights the need to protect vulnerable individuals, especially women and children, from potential harm enabled by new technologies like smartglasses. This echoes the biblical call to speak up for those who cannot defend themselves, ensuring their dignity and safety are upheld. Yahweh's heart is for the voiceless, urging us...",
-            "zh": "总检察长发出的警告，凸显了保护弱势群体（特别是妇女和儿童）免受智能眼镜等新技术可能带来的伤害的必要性。这与圣经中为无法自卫之人发声的呼召相呼应，确保他们的尊严和安全得到维护。雅伟的心系无声者，敦促我们在不断变化的世界中倡导公义和保护。"
+            "en": "The Attorney General's warning reminds us of the ongoing need to protect the vulnerable in society, especially as new technologies emerge. Proverbs 31:8 calls us to speak up for those who cannot speak for themselves, ensuring their safety and dignity are upheld. This principle guides us to advocate for the well-being of women and children against potential...",
+            "zh": "司法部长的警告提醒我们，在社会中，尤其是在新兴技术出现时，持续保护弱势群体是多么重要。箴言31:8呼吁我们为那些不能为自己说话的人发声，确保他们的安全和尊严得到维护。这一原则指引我们为妇女和儿童的福祉发声，以防范潜在的伤害。"
           },
           "verse": {
             "reference": "Proverbs 31:8-9",
@@ -143,6 +177,142 @@
             "themeZh": "为弱者发声"
           },
           "aiVerseId": "prov_31_8",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-uk-news-2026-aug-07-rail-passengers-trains-power-fai",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/aug/07/rail-passengers-trains-power-failure-second-day-disruption-north-west-england",
+          "image": "https://i.guim.co.uk/img/media/03812664b6936e35a66cc139e6922453fc96efe6/509_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=382e7957755dbc8122f5f056166d90db",
+          "publishedAt": "2026-08-07T07:02:35.000Z",
+          "title": {
+            "en": "Rail passengers face second day of chaos across north-west England",
+            "zh": "英格兰西北部铁路乘客面临第二天的交通混乱"
+          },
+          "summary": {
+            "en": "Rail passengers in north-west England are experiencing a second day of significant travel disruption following a power failure at a regional signalling centre. The chaos is expected to continue until noon, with many train crews and services displaced.",
+            "zh": "英格兰西北部的铁路乘客正面临第二天的严重出行中断，此前一个区域信号中心发生电力故障。预计混乱将持续到中午，许多列车工作人员和列车都处于错误位置。"
+          },
+          "body": {
+            "en": "Disruption after power failure at regional signalling centre likely to continue until noon with many crews and trains in wrong locations Business live – latest updates Rail passengers are facing a second day of travel disruption across parts of north-west England, after a power failure hit the signalling centre controlling the railway in the region. The power failure, which occurred shortly before 2pm on Thursday, triggered widespread cancellations and delays to services including CrossCountry and London Northwestern Railway. Continue reading...",
+            "zh": "地区信号中心停电后的中断可能会持续到中午，许多工作人员和火车都停在了错误的位置。 商业直播——最新动态在控制该地区铁路的信号中心发生停电后，铁路乘客将面临英格兰西北部部分地区连续第二天的旅行中断。周四下午 2 点左右发生的停电导致 CrossCountry 和伦敦西北铁路等服务大范围取消和延误。继续阅读..."
+          },
+          "reflection": {
+            "en": "The widespread disruption caused by a power failure in a critical rail system underscores the importance of robust guidance and foresight in managing complex infrastructure. When systems falter, it reminds us that \"where there is no guidance, a people falls,\" highlighting the need for diligent planning and expert counsel to ensure public services operate...",
+            "zh": "关键铁路系统电力故障造成的广泛中断，强调了在管理复杂基础设施方面，健全的指导和远见的重要性。当系统出现故障时，这提醒我们“没有智谋，民就败落”，突显了需要勤勉的规划和专家建议，以确保公共服务安全可靠地运行。愿那些负责这些重要网络的人寻求智慧，以防止混乱，并确保所有依赖它们的人的福祉。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "aiVerseId": "prov_11_14",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-ng-interactive-2026-aug-07-colombia-on-the-bri",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+          "image": "https://i.guim.co.uk/img/media/17daec3a063bfb18f9e3f7b656db205ba96b1529/679_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71586742a9820f0d4922ed3f08f5550e",
+          "publishedAt": "2026-08-07T07:00:11.000Z",
+          "title": {
+            "en": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+            "zh": "哥伦比亚濒临边缘：民族解放军游击队准备重返战争"
+          },
+          "summary": {
+            "en": "As Colombia's new president vows a military offensive, the country's last leftwing rebel group, the ELN, is reportedly preparing to resume hostilities, signaling a potential return to armed conflict.",
+            "zh": "随着哥伦比亚新总统誓言发动军事攻势，该国最后一个左翼反叛组织——民族解放军（ELN）据报正准备恢复敌对行动，预示着武装冲突可能再次爆发。"
+          },
+          "body": {
+            "en": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight back As the boat approached the riverbank, camouflaged figures watched from the tree line. Behind them, in the dim understory of the jungle, a commander of the National Liberation Army (ELN) sat with his rifle on his lap, amid the buzz and whine of insects and the thwacks of machetes on bamboo as his troops set up camp, hidden from enemy drones. Continue reading...",
+            "zh": "当阿韦拉多·德拉埃斯普里埃拉就任总统并发誓要发动新的军事进攻时，该国最后的左翼叛军正准备反击。当船接近河岸时，伪装的人物从林线处观看。在他们身后，在丛林昏暗的林下，一名民族解放军（ELN）指挥官坐在腿上，步枪放在腿上，周围是昆虫的嗡嗡声和哀鸣声，以及砍刀砍在竹子上的重击声，他的部队正在扎营，躲避敌方无人机的袭击。继续阅读..."
+          },
+          "reflection": {
+            "en": "The news of renewed conflict in Colombia reminds us of the tragic cycle where violence often begets more violence. Yahweh's word warns that those who live by the sword often perish by it, urging us to seek paths that break this destructive pattern.",
+            "zh": "哥伦比亚冲突可能再次爆发的消息提醒我们，暴力往往会带来更多暴力的悲剧循环。雅伟的话语警告说，凡动刀的，必死在刀下，敦促我们寻求打破这种破坏性模式的道路。"
+          },
+          "verse": {
+            "reference": "Matthew 26:52",
+            "textEn": "All who draw the sword will die by the sword.",
+            "textZh": "凡动刀的，必死在刀下。",
+            "themeEn": "Cycle of violence",
+            "themeZh": "动刀者必亡于刀"
+          },
+          "aiVerseId": "matt_26_52",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-videos-c1j1eg31y6no-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d08b/live/4e4c48e0-922a-11f1-b2ab-0dd01740f9f6.jpg",
+          "publishedAt": "2026-08-07T06:46:34.000Z",
+          "title": {
+            "en": "Moment earthquake shakes hospital operating room in Japan",
+            "zh": "地震瞬间日本医院手术室摇晃"
+          },
+          "summary": {
+            "en": "Security camera footage from Kumamoto General Hospital in Japan captured the moment a magnitude 6.8 earthquake struck an operating room last month. The video shows medical staff quickly shielding a patient on the operating table from the shaking.",
+            "zh": "日本熊本综合医院的监控录像捕捉到上个月一场6.8级地震袭击手术室的瞬间。视频显示，医护人员迅速遮挡手术台上的病人，以保护其免受震动。"
+          },
+          "body": {
+            "en": "Newly-released security camera footage shows the moment last month's magnitude 6.8 quake shook Kumamoto General Hospital in Japan.\n\nFour surgeries were under way at the time. Footage from a camera in an operating room where an abdominal surgery was being performed shows medical staff shielding the patient with their bodies as equipment swayed violently, and a nurse opening a door to secure an evacuation route.\n\nKumamoto General Hospital resumed normal outpatient services on 5 August , after suspending them following the earthquake on 28 July.",
+            "zh": "新发布的监控录像显示了上个月发生的 6.8 级地震震撼日本熊本综合医院的瞬间。 当时正在进行四次手术。正在进行腹部手术的手术室中的摄像机拍摄的视频显示，当设备剧烈摇晃时，医护人员用身体保护病人，护士打开门以确保疏散路线。 熊本综合医院在 7 月 28 日地震后暂停门诊服务，并于 8 月 5 日恢复正常门诊服务。"
+          },
+          "reflection": {
+            "en": "In moments of sudden crisis, like the earthquake shaking an operating room, our deepest instincts to protect the vulnerable emerge. The doctors' swift action to shield their patient reflects a profound commitment to care, embodying a human refuge and strength in the midst of trouble. Yahweh is indeed our refuge and strength, a constant help when the world...",
+            "zh": "在突如其来的危机时刻，例如地震摇晃手术室时，我们保护弱者的最深层本能就会显现出来。医生们迅速遮挡病人的举动，体现了对护理的深刻承诺，在困境中成为人性的避难所和力量。雅伟确实是我们的避难所和力量，在周围世界颤抖时，祂是永恒的帮助。"
+          },
+          "verse": {
+            "reference": "Psalm 46:1",
+            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
+            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
+            "themeEn": "Refuge in trouble",
+            "themeZh": "患难中的避难所"
+          },
+          "aiVerseId": "ps_46_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-society-2026-aug-07-english-primary-schools-to-be-to",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
+          "image": "https://i.guim.co.uk/img/media/c55a61dbb9c44a34e7e75072f4a97938f1fdbdea/516_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b6968a825641aa06242c24290b7f5c1",
+          "publishedAt": "2026-08-07T06:00:11.000Z",
+          "title": {
+            "en": "Primary schools to be told to identify children at risk of future unemployment",
+            "zh": "小学将被告知识别未来有失业风险的儿童"
+          },
+          "summary": {
+            "en": "Primary schools in England are expected to be mandated to identify children at risk of leaving education at 16 without employment, as part of a review addressing the crisis of young people not in education, employment, or training (NEET).",
+            "zh": "作为一项旨在解决年轻人未接受教育、就业或培训（NEET）危机的审查的一部分，英格兰的小学预计将被要求识别那些在16岁时面临失业风险的儿童。"
+          },
+          "body": {
+            "en": "Exclusive: Neet crisis review to call for teachers to be asked to spot those at risk of leaving education jobless at 16 What can Dublin teach us? Milburn goes on quest to learn Primary schools in England should be required to identify children at risk of leaving education at 16 without finding a job, a government review is to recommend. Alan Milburn, who is leading a review into Britain’s crisis in youth worklessness , said he would call for sweeping changes in education policy alongside a shake-up of the benefits system to address the problem. Continue reading...",
+            "zh": "独家：尼特危机审查呼吁教师发现那些有可能在 16 岁就离开教育界失业的人，都柏林能教给我们什么？米尔本继续探索学习政府的一项审查建议，英国的小学应该被要求识别出有可能在 16 岁就辍学而找不到工作的儿童。正在领导对英国青年失业危机进行审查的艾伦·米尔伯恩表示，他将呼吁彻底改变教育政策，同时重组福利制度，以解决这一问题。继续阅读..."
+          },
+          "reflection": {
+            "en": "This news highlights society's concern for the future of its youngest members, recognizing the profound impact early guidance can have. Proverbs 22:6 reminds us of the lasting importance of forming children in the right way, suggesting that intentional effort in their youth can shape their entire trajectory. It calls us to consider how we, as a community,...",
+            "zh": "这则新闻凸显了社会对其最年轻成员未来的关注，认识到早期引导可能产生的深远影响。箴言22:6提醒我们，以正确的方式塑造儿童具有持久的重要性，暗示在他们年幼时有意识的努力可以塑造他们的人生轨迹。它呼吁我们思考，作为一个社区，我们如何才能最好地装备下一代，让他们拥有一个有意义的未来，并将他们的道路交托给雅伟。"
+          },
+          "verse": {
+            "reference": "Proverbs 22:6",
+            "textEn": "Start children off on the way they should go, and even when they are old they will not turn from it.",
+            "textZh": "教养孩童，使他走当行的道，就是到老他也不偏离。",
+            "themeEn": "Forming the young",
+            "themeZh": "塑造下一代"
+          },
+          "aiVerseId": "prov_22_6",
           "translationState": "localized"
         },
         {
@@ -162,7 +332,7 @@
             "zh": "一支澳大利亚航空团队成功地从南极麦克默多站撤离了一名病人。这次救援行动是在隆冬时节，完全黑暗、零下43摄氏度的极端条件下着陆飞机完成的。"
           },
           "body": {
-            "en": "An Australian aviation crew has carried out a daring midwinter mission to rescue a US expedition member from a station in Antarctica in freezing temperatures and total darkness.\n\nSkytraders said the \"extraordinary\" mission took place last Friday after a request for urgent help with a medical evacuation from McMurdo Station.\n\nAfter an initial delay due to the weather, the aviation company said it was able to land its Airbus A319 in \"extremely challenging conditions\" including temperatures of -43C (-45.4F).\n\nThe patient was then safely transferred onto the plane, known as Snowbird 1, which carried on to Christchurch in New Zealand, where the patient was treated. He is now recovering well.\n\nCaptain Louise Robertson, one of four pilots on the flight which took off from the Tasmanian city of Hobart, told the BBC it was the first ever to have taken place in July and to be completed in total darkness.\n\n\"We completed it on the 31 July, and the first day of any sort of sunlight, which was very minimal, would be on the 1 August,\" she said.\n\nHer husband of 18 years, Rod Robertson, was the pilot who landed the plane at the US research station on Ross Island.\n\n\"He was in the left seat and I was in the right seat,\" she said, adding that it was the most complex operation she had ever been involved in during her seven years at Skytraders and 25 as a pilot.\n\nSkytraders had received the evacuation request from the US Antarctic Program via the Australian Antarctic Division on Wednesday afternoon, Robertson said.\n\nIt was a \"major operation\" for the plane to be correctly configured in time by engineers and a design team, who fitted a stretcher in the back.\n\nThe configuration took 24 hours, Robertson said, but takeoff was then delayed for another 12 hours while the crew waited for a suitable window in the weather.\n\n\"We had quite a narrow time frame that we could actually fly down to Antarctica because there was a snowstorm on the first day that we were intending to go down which stopped the operation.\"\n\nThe storm prevented crew at the station from getting to the runway, made of compacted snow, which had to be graded and groomed to make it smooth, a six-hour job.\n\nThe ground crew \"did a phenomenal job to make a 3-km-long runway available for us given the conditions they were also facing, -45C and strong wind,\" Robertson said.\n\nThe flight crew spent exactly one hour on the ground at Phoenix Airfield before taking off again for Christchurch.\n\nAnother pilot on the mission, Captain Al Wallach, said the success reflected the specialist expertise of the team, which included the flight crews, meteorologists, operational planners, runway teams and medical personnel.\n\n\"Every Antarctic mission demands absolute precision, but winter operations raise the complexity significantly,\" he...",
+            "en": "An Australian aviation crew has carried out a daring midwinter mission to rescue a US expedition member from a station in Antarctica in freezing temperatures and total darkness.\n\nSkytraders said the \"extraordinary\" mission took place last Friday after a request for urgent help with a medical evacuation from McMurdo Station.\n\nAfter an initial delay due to the weather, the aviation company said it was able to land its Airbus A319 in \"extremely challenging conditions\" including temperatures of -43C (-45.4F).\n\nThe patient was then safely transferred onto the plane, known as Snowbird 1, which carried on to Christchurch in New Zealand, where the patient was treated. He is now recovering well.\n\nCaptain Louise Robertson, one of four pilots on the flight which took off from the Tasmanian city of Hobart, told the BBC it was the first ever to have taken place in July and to be completed in total darkness.\n\n\"We completed it on the 31 July, and the first day of any sort of sunlight, which was very minimal, would be on the 1 August,\" she said.\n\nHer husband of 18 years, Rod Robertson, was the pilot who landed the plane at the US research station on Ross Island.\n\n\"He was in the left seat and I was in the right seat,\" she said, adding that it was the most complex operation she had ever been involved in during her seven years at Skytraders and 25 as a pilot.\n\nSkytraders had received the evacuation request from the US Antarctic Program via the Australian Antarctic Division on Wednesday afternoon, Robertson said.\n\nIt was a \"major operation\" for the plane to be correctly configured in time by engineers and a design team, who fitted a stretcher in the back.\n\nThe configuration took 24 hours, Robertson said, but takeoff was then delayed for another 12 hours while the crew waited for a suitable window in the weather.\n\n\"We had quite a narrow time frame that we could actually fly down to Antarctica because there was a snowstorm on the first day that we were intending to go down which stopped the operation.\"\n\nThe storm prevented crew at the station from getting to the runway, made of compacted snow, which had to be graded and groomed to make it smooth - a six-hour job.\n\nThe ground crew \"did a phenomenal job to make a 3-km-long runway available for us given the conditions they were also facing, -45C and strong wind,\" Robertson said.\n\nThe flight crew spent exactly one hour on the ground at Phoenix Airfield before taking off again for Christchurch.\n\nAnother pilot on the mission, Captain Al Wallach, said the success reflected the specialist expertise of the team, which included the flight crews, meteorologists, operational planners, runway teams and medical personnel.\n\n\"Every Antarctic mission demands absolute precision, but winter operations raise the complexity significantly,\"...",
             "zh": "一名澳大利亚机组人员在寒冷的气温和完全黑暗的情况下执行了一项大胆的仲冬任务，从南极洲的一个站营救一名美国探险队成员。 Skytraders 表示，这一“非同寻常”的任务是在上周五接到麦克默多站医疗疏散请求紧急帮助后执行的。 在最初因天气原因延误后，该航空公司表示，其空客 A319 能够在“极具挑战性的条件”（包括 -43C（-45.4F）的温度）下着陆。 随后，患者被安全转移到名为“雪鸟 1”的飞机上，飞机继续飞往新西兰基督城，患者在那里接受治疗。他现在恢复得很好。 机长路易丝·罗伯逊 (Louise Robertson) 是从塔斯马尼亚霍巴特市起飞的航班上的四名飞行员之一，她告诉 BBC，这是有史以来第一次在 7 月份进行的飞行，并且是在完全黑暗的情况下完成的。 “我们在 7 月 31 日完成了它，而第一天的阳光（非常少）将在 8 月 1 日，”她说。 她与她结婚 18 年的丈夫罗德·罗伯逊 (Rod Robertson) 是将飞机降落在美国罗斯岛研究站的飞行员。 “他坐在左边座位，我坐在右边座位，”她说，并补充说，这是她在 Skytraders 工作 7 年、25 岁担任飞行员期间参与过的最复杂的行动。 罗伯逊说，Skytraders 于周三下午通过澳大利亚南极部门收到了美国南极项目的撤离请求。 工程师和设计团队及时正确配置了飞机，并在后部安装了担架，这是对飞机的一次“重大手术”。 罗伯逊说，配置花了 24 小时，但起飞又推迟了 12 小时，因为机组人员正在等待合适的天气窗口。 “我们实际上可以飞到南极洲的时间很短，因为我们打算降落的第一天遇到了暴风雪，导致行动停止。” 暴风雨使空间站的工作人员无法到达由压实的雪制成的跑道，必须对跑道进行平整和清理，以使其平稳，这项工作需要六个小时。 罗伯逊说，地勤人员“做了出色的工作，为我们提供了一条 3 公里长的跑道，因为他们也面临着 -45 摄氏度和强风的条件”。 机组人员在凤凰城机场地面停留了整整一个小时，然后再次起飞飞往基督城。 执行任务的另一名飞行员阿尔·瓦拉赫机长表示，这次成功反映了团队的专业知识，其中包括机组人员、气象学家、运营规划人员、跑道团队和医务人员。 “每项南极任务都要求绝对精确，但冬季行动显着增加了复杂性，”他..."
           },
           "reflection": {
@@ -180,39 +350,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-aug-07-alan-jones-trial-defence-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/7ccb6ff268ce337ed3475e4ca6c7944aad6ccdcb/482_0_7660_6129/master/7660.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80702b5da21ed77feb3203cf12f9ed5a",
-          "publishedAt": "2026-08-07T05:30:51.000Z",
-          "title": {
-            "en": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
-            "zh": "艾伦·琼斯审判：辩方告诉法庭，申诉人希望通过披露涉嫌袭击的私密细节来“羞辱”广播公司"
-          },
-          "summary": {
-            "en": "Barrister alleges ‘account of penis wiggling is an attempt to humiliate’ broadcaster who has pleaded not guilty to 22 charges of indecent assault and sexual touching Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Barrister alleges ‘account of penis wiggling is an attempt to humiliate’ broadcaster who has pleaded not guilty to 22 charges of indecent assault and sexual touching Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Alan Jones’s defence barrister has told a Sydney court one of the broadcaster’s alleged victims invented details of alleged indecent assaults at a Fitzroy Falls farm to “humiliate” and “smear” the former media titan. Complainant J told the court during evidence-in-chief earlier this week that during one alleged incident in the property’s bedroom, Jones’s penis was not fully erect and “not very big”. Continue reading...",
-            "zh": "大律师指控“阴茎摆动的说法是一种企图羞辱”的广播公司，该广播公司已对 22 项非礼和性接触指控表示不认罪 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 艾伦·琼斯的辩护律师告诉悉尼法院，该广播公司的一名据称受害者捏造了菲茨罗伊瀑布农场涉嫌非礼的细节，以“羞辱”和“抹黑”这位前媒体巨头。申诉人 J 在本周早些时候的主要证据中告诉法庭，在该物业卧室发生的一起涉嫌事件中，琼斯的阴茎没有完全勃起，而且“不是很大”。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-norfolk-island-debate-about-census-nvato9214",
           "section": "world",
           "source": "SBS News World",
@@ -222,19 +359,19 @@
           "publishedAt": "2026-08-07T05:19:41.000Z",
           "title": {
             "en": "Why one tiny island's Census is about much more than numbers",
-            "zh": "为什么一个小小岛屿的人口普查远不止是数字"
+            "zh": "为什么一个小小岛屿的人口普查远不止数字那么简单"
           },
           "summary": {
-            "en": "Norfolk Island recently marked a decade since its inclusion in the national Census. This milestone, however, is met with mixed feelings among its residents.",
-            "zh": "诺福克岛最近迎来了其被纳入全国人口普查十周年的里程碑。然而，岛上居民对此却褒贬不一。"
+            "en": "It's been a decade since Norfolk Island was first counted in the Census. The milestone may not be celebrated by everyone.",
+            "zh": "诺福克岛首次被纳入人口普查已十年。这一里程碑可能并非人人都会庆祝。"
           },
           "body": {
             "en": "In the middle of the South Pacific Ocean, a tiny island spanning just 35 square kilometres will be included in this year's Census .\n\nHome to about 2,100 residents, Norfolk Island has earned a reputation as \"one of the most beautiful places on Earth\", according to acting general manager of the Norfolk Island Regional Council (NIRC), Nicholas Mostardo.\n\nHe moved to the subtropical island early this year and says its natural beauty and close-knit community make it unlike anywhere else.\n\n\"It's got a rich environment, it's got very warm and kind people. It's probably one of the most unique places in the world that I've had personally the pleasure of being involved with,\" Mostardo told SBS News.\n\nNIRC is currently under administration until 31 December 2026, as Norfolk Island transitions to what the Australian government has described as a \"new bespoke governance model\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIn the interim, Mostardo has been liaising with the Australian Bureau of Statistics (ABS) to help ensure Norfolk Island's population is recorded during the Census of Population and Housing on 11 August.\n\n\"We've had several visits from the ABS zone manager and the assistant director of Census Mainstream and Enumeration. They've been coming out to ensure the community is well engaged and consulted on completing the form.\"\n\nThe Census has been conducted in Australia for more than a century , but this will be the third time Norfolk Island has ever participated in the survey. It also marks a decade since the Australian government passed reforms that led to the island being included in the Census.\n\nIn 1914, Norfolk became an Australian territory, but the \"precise constitutional arrangement was not clear at the time\", according to an online statement by legal advisory firm Norfolk Advisory.\n\nAround 65 years later, the Australian parliament allowed Norfolk Islanders to form a limited self-government. Following governance reforms passed in 2015 and implemented in 2016, the Australian government assumed responsibility for the island's governance.\n\nIn 2023, Norfolk Island regained some involvement in its affairs through the establishment of a new advisory body, the Norfolk Island Governance Committee. The island is now considered an external territory of Australia.\n\nThis complex history has divided some people &#x2014; including those of Pitcairn descent &#x2014; about whether Norfolk Island should be counted during Australia's Census.\n\nPitcairn Islanders were a genetic mix of Tahitian and English, the English part being direct descendants from the mutineers on the HMS Bounty &#x2014; a bloodline that still runs strong today. In 1856, 194 people arrived on Norfolk...",
             "zh": "在南太平洋中部，一个面积仅35平方公里的小岛将被纳入今年的人口普查范围。 诺福克岛地区议会 (NIRC) 代理总经理尼古拉斯·莫斯塔多表示，诺福克岛拥有约 2,100 名居民，被誉为“地球上最美丽的地方之一”。 他今年年初搬到了这个亚热带岛屿，并表示这里的自然美景和紧密的社区使其与众不同。 莫斯塔尔多告诉 SBS 新闻：“这里有丰富的环境，有非常热情和善良的人们。这可能是世界上最独特的地方之一，我个人很高兴能参与其中。” 随着诺福克岛向澳大利亚政府所说的“新的定制治理模式”过渡，NIRC 目前的管理期限将持续到 2026 年 12 月 31 日。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 在此期间，莫斯塔多一直与澳大利亚统计局 (ABS) 联络，以帮助确保诺福克岛的人口在 8 月 11 日的人口和住房普查期间得到记录。 “ABS 区域经理以及人口普查主流和普查部助理主任多次来访我们。他们一直在确保社区充分参与并在填写表格时征求意见。” 人口普查在澳大利亚已经进行了一个多世纪，但这将是诺福克岛第三次参与调查。这也标志着澳大利亚政府通过改革将该岛纳入人口普查已有十年。 1914年，诺福克成为澳大利亚领土，但根据法律咨询公司诺福克咨询的在线声明，“当时具体的宪法安排尚不清楚”。 大约 65 年后，澳大利亚议会允许诺福克岛民组建有限自治政府。继2015年通过并于2016年实施治理改革后，澳大利亚政府承担了该岛的治理责任。 2023年，诺福克岛通过成立一个新的咨询机构——诺福克岛治理委员会，重新重新参与其事务。该岛现在被视为澳大利亚的外部领土。 这段复杂的历史使一些人——包括皮特凯恩后裔——对于诺福克岛是否应该被纳入澳大利亚人口普查的问题上产生了分歧。 皮特凯恩岛民是塔希提人和英国人的基因混合体，其中英国人是英国皇家海军“邦蒂号”叛变者的直系后裔——这一血统至今依然强大。 1856 年，194 人抵达诺福克......"
           },
           "reflection": {
-            "en": "For a small island community, a census can be more than just a count; it can touch on questions of identity, belonging, and recognition. Revelation 7:9 reminds us that in Yahweh's eternal plan, every tribe and nation, no matter how small, holds a unique and valued place. This perspective encourages us to honor the distinctiveness of all communities,...",
-            "zh": "对于一个小型岛屿社区而言，人口普查不仅仅是数字统计，更触及身份、归属感和认同的问题。启示录7:9提醒我们，在雅伟永恒的计划中，每一个支派、民族，无论多么微小，都拥有独特而宝贵的地位。这一视角鼓励我们尊重所有社区的独特性，认识到它们超越单纯统计数字的内在价值。"
+            "en": "A census counts people, but for a tiny island, it can also touch on deep questions of identity and belonging. Revelation 7:9 reminds us that Yahweh's ultimate vision includes a multitude from every nation, tribe, people, and language, affirming the inherent worth and unique place of every distinct community. This perspective offers comfort and dignity,...",
+            "zh": "人口普查统计人数，但对于一个小小岛屿而言，它也触及到身份认同和归属感的深层问题。启示录7:9提醒我们，雅伟的终极异象包括来自各国、各支派、各民族、各方言的无数人，肯定了每个独特群体固有的价值和独特地位。这种视角带来安慰和尊严，让我们知道每个群体，无论多么微小，都被雅伟看见并珍视。"
           },
           "verse": {
             "reference": "Revelation 7:9",
@@ -256,95 +393,29 @@
           "publishedAt": "2026-08-07T05:18:37.000Z",
           "title": {
             "en": "'We had no intention': Israeli ambassador defends rare move on Labor platform",
-            "zh": "“我们无意”：以色列大使为工党平台上罕见的举动辩护"
+            "zh": "“我们无意冒犯”：以色列大使为在工党平台上的罕见举动辩护"
           },
           "summary": {
-            "en": "Following backlash, Israel's ambassador to Australia has argued: \"All we did was we put forth facts for the decision-makers\".",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Following public criticism, Israel's ambassador to Australia defended a recent diplomatic action, stating that their intention was simply to provide factual information to decision-makers.",
+            "zh": "在公众批评之后，以色列驻澳大利亚大使为其最近的外交行动进行了辩护，称其目的只是向决策者提供事实信息。"
           },
           "body": {
             "en": "Israel's ambassador to Australia has defended his embassy's unusual public intervention ahead of Labor's national conference last month, rejecting suggestions it sought to influence the party's platform and insisting it was merely providing information to decision-makers.\n\nIn a rare step, the Israeli embassy issued a lengthy statement ahead of the conference in Adelaide, taking issue with Labor's proposed position on the Israeli-Palestinian conflict.\n\nThe embassy argued Labor's draft national platform placed responsibility for the conflict on Israel while overlooking the role of Hamas and Palestinian leadership.\n\nIt sparked criticism from pro-Palestinian advocates that Israel was inappropriately interfering in Australian politics.\n\nSpeaking to SBS Hebrew on Thursday, Israeli ambassador Hillel Newman said \"we had no intention and no actual intervention\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"All we did was we put forth facts for the decision-makers to have before them in making educated decisions,\" he said.\n\n\"We are just a resource of some kind in giving the information. We did not intervene in the convention itself. We do not intervene in the process. We just brought information to the knowledge of the decision-makers.\n\n\"The Palestinian envoys here also had some things to say about the ALP platform and convention, and no-one said it's foreign intervention,\" he said.\n\nAt the time, the Australia Palestine Advocacy Network (APAN), an advocacy group, condemned what it called an \"extraordinary intervention\" by the Israeli embassy and described it as \"an unacceptable attempt by a foreign government to influence Australia&#x2019;s domestic political processes\".\n\n\"If the Israeli regime believes Labor's platform is too critical while Gaza is being destroyed, perhaps it should reflect on its own conduct rather than attempting to pressure an Australian political party,\" APAN president Nasser Mashni said.\n\nMashni said the draft platform fell \"far short of taking appropriate action to recognise the Palestinian genocide\".\n\nIsrael has been accused of genocide by a United Nations inquiry, an allegation it denies. Its prime minister, Benjamin Netanyahu, is the subject of an International Criminal Court (ICC) arrest warrant over alleged war crimes and crimes against humanity, which Israel rejects.\n\nThe Labor platform is debated at its national conference to determine the party's positions on a broad range of issues. Its 2026 draft reflected shifts and an expanded position on Israel and Palestine since its last iteration in 2023.\n\nThe government decided to recognise Palestinian statehood in September last year.\n\nThe proposed platform condemned Israeli settler violence...",
             "zh": "以色列驻澳大利亚大使在上个月工党全国会议之前为其大使馆不同寻常的公开干预进行了辩护，否认其试图影响该党政纲的说法，并坚称其只是向决策者提供信息。 以色列大使馆在阿德莱德会议之前罕见地发表了一份长篇声明，对工党在以色列-巴勒斯坦冲突问题上提出的立场提出质疑。 大使馆辩称，工党的国家纲领草案将冲突的责任归咎于以色列，同时忽视了哈马斯和巴勒斯坦领导人的作用。 这引发了亲巴勒斯坦支持者的批评，称以色列不适当地干涉澳大利亚政治。 以色列大使希勒尔·纽曼周四在接受 SBS 希伯来语采访时表示，“我们无意，也没有实际干预”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “我们所做的只是向决策者提供事实，以便他们做出明智的决定，”他说。 “我们只是提供信息的某种资源。我们不干预大会本身。我们不干预整个过程。我们只是让决策者了解信息。” 他说：“这里的巴勒斯坦特使也对工党平台和大会发表了一些看法，但没有人说这是外国干预。” 当时，倡导组织澳大利亚巴勒斯坦倡导网络（APAN）谴责以色列大使馆所谓的“非常规干预”，并将其描述为“外国政府影响澳大利亚国内政治进程的不可接受的尝试”。 APAN 主席纳赛尔·马什尼 (Nasser Mashni) 表示：“如果以色列政权认为工党的平台在加沙遭到摧毁时过于关键，那么也许它应该反思自己的行为，而不是试图向澳大利亚政党施压。” 马什尼表示，该纲领草案“远远没有采取适当行动承认巴勒斯坦种族灭绝”。 联合国调查指控以色列犯有种族灭绝罪，但以色列否认了这一指控。以色列总理本杰明·内塔尼亚胡因涉嫌战争罪和反人类罪而受到国际刑事法院（ICC）逮捕令的追捕，但以色列拒绝了这一逮捕令。 工党的纲领在全国会议上进行辩论，以确定该党在广泛问题上的立场。其 2026 年草案反映了自 2023 年上次版本以来对以色列和巴勒斯坦立场的转变和扩大。 去年9月，政府决定承认巴勒斯坦建国。 拟议的平台谴责以色列定居者的暴力行为......"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In diplomatic exchanges, initial reactions can often be strong, leading to backlash before all perspectives are fully understood. This situation reminds us of the importance of hearing every side of a story, allowing for a complete picture to emerge. Yahweh's wisdom encourages us to listen carefully to a defense, even when an initial accusation seems...",
+            "zh": "在外交交流中，最初的反应往往很强烈，可能在所有观点都被充分理解之前就引发反弹。这种情况提醒我们，倾听故事的每一方至关重要，以便形成一个完整的画面。雅伟的智慧鼓励我们，即使最初的指控看似确凿，也要仔细聆听辩护。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Proverbs 18:17",
+            "textEn": "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.",
+            "textZh": "先诉情由的，似乎有理；但邻舍来到，就察出实情。",
+            "themeEn": "Hearing both sides",
+            "themeZh": "兼听则明"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-aug-07-extreme-heat-breaks-temperature-re",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
-          "image": "https://i.guim.co.uk/img/media/2cae9ec1b237745ffc31ede73867c9b785d456f0/691_0_3999_3201/master/3999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cbea877b1eadb3fec0343c7b3b03e915",
-          "publishedAt": "2026-08-07T05:00:08.000Z",
-          "title": {
-            "en": "Extreme heat breaks temperature records in central and eastern Europe",
-            "zh": "中欧和东欧极端高温打破气温纪录"
-          },
-          "summary": {
-            "en": "Central and eastern Europe are experiencing extreme heat, with Slovakia reaching a new high of 42C. Authorities in Poland were forced to shut down two power plants as temperature records were broken in several countries, leading to wildfires and droughts.",
-            "zh": "中欧和东欧正在经历极端高温，斯洛伐克气温达到42摄氏度的新高。由于气温打破多国纪录，导致野火和干旱，波兰当局被迫关闭了两座发电厂。"
-          },
-          "body": {
-            "en": "Slovakia reaches new high of 42C as authorities in Poland forced to shut down Kozienice and Połaniec power plants Temperature records have been broken in several countries across central and eastern Europe as the extreme weather that has caused wildfires and droughts across the continent continues. Countries including Slovakia, Austria and Hungary registered record temperatures. On Thursday, the Slovakian hydrometeorological agency said a new high of 42C (108F) had been reached in Dolné Plachtince. Continue reading...",
-            "zh": "由于波兰当局被迫关闭 Kozienice 和 Połaniec 发电厂，斯洛伐克气温创下 42 摄氏度的新高。由于导致整个大陆发生野火和干旱的极端天气持续存在，中欧和东欧多个国家的气温记录已被打破。斯洛伐克、奥地利和匈牙利等国的气温创下历史新高。周四，斯洛伐克水文气象机构表示，Dolné Plachtince 气温达到 42 摄氏度（108 华氏度）的新高。继续阅读..."
-          },
-          "reflection": {
-            "en": "The record-breaking heat and its consequences across Europe remind us of creation's deep vulnerability. As the apostle Paul wrote, the whole creation groans, longing for renewal and relief from the burdens it carries. This news calls us to consider our role in stewarding the world Yahweh has entrusted to us.",
-            "zh": "欧洲各地创纪录的高温及其后果，提醒我们受造界的脆弱。正如使徒保罗所写，整个受造界都在叹息，渴望更新并从其所承受的重担中解脱。这则新闻呼吁我们思考自己在管理雅伟所托付的世界中的角色。"
-          },
-          "verse": {
-            "reference": "Romans 8:22",
-            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
-            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
-            "themeEn": "Creation's groan",
-            "themeZh": "受造叹息"
-          },
-          "aiVerseId": "rom_8_22",
+          "aiVerseId": "prov_18_17",
           "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-business-2026-aug-07-july-heatwaves-uk-shoppers-stay",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/business/2026/aug/07/july-heatwaves-uk-shoppers-stay-away-from-high-street",
-          "image": "https://i.guim.co.uk/img/media/42bf80506f59f9b5332d9e6e6f40d010bb829552/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e655833a49dfa13090eb676eb4454ea",
-          "publishedAt": "2026-08-07T05:00:07.000Z",
-          "title": {
-            "en": "July’s heatwaves kept UK shoppers away from high street",
-            "zh": "七月的热浪使英国购物者远离商业街"
-          },
-          "summary": {
-            "en": "Visits down 3.8% after 6.2% fall in June, with many choosing to buy online instead, research for retail body finds Shoppers stayed away from UK high streets during last month’s heatwave temperatures, with many choosing to buy online instead as the mercury in some areas rose into...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Visits down 3.8% after 6.2% fall in June, with many choosing to buy online instead, research for retail body finds Shoppers stayed away from UK high streets during last month’s heatwave temperatures , with many choosing to buy online instead as the mercury in some areas rose into the mid-30Cs. Trips to high streets were down by 3.8% year on year in July after a 6.2% fall in June, according to research from the monitoring firm Sensormatic for the British Retail Consortium (BRC). Continue reading...",
-            "zh": "继 6 月份下降 6.2% 之后，访问量下降了 3.8%，许多人选择在网上购物，零售机构的研究发现，在上个月的热浪气温期间，购物者远离了英国的大街，许多人选择在网上购物，因为某些地区的气温升至 30 摄氏度左右。英国零售商协会 (BRC) 监测公司 Sensormatic 的研究显示，继 6 月份下降 6.2% 后，7 月份商业街出行量同比下降 3.8%。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "James 1:5",
-            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
-            "themeEn": "Ask God for wisdom",
-            "themeZh": "求神赐智慧"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-bbc-co-uk-news-videos-cly83vm923go-at-medium-rss-at-campaign-rss",
@@ -356,61 +427,28 @@
           "publishedAt": "2026-08-07T04:52:19.000Z",
           "title": {
             "en": "Why was Taiwan’s president evacuated in the middle of the night?",
-            "zh": "台湾总统为何半夜撤离？"
+            "zh": "台湾总统为何在深夜被疏散？"
           },
           "summary": {
-            "en": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "President William Lai participated in an emergency evacuation drill as part of Taiwan's military exercises, which are designed to prepare for a potential Chinese invasion.",
+            "zh": "台湾总统赖清德参加了一场紧急疏散演习，这是台湾军事演习的一部分，旨在为可能发生的中国入侵做准备。"
           },
           "body": {
             "en": "President William Lai took part in an emergency evacuation drill as part of Taiwan's annual Han Kuang military exercises that are running from August 5th to 14th.\n\nThe BBC’s Katy Watson explains what happened and why Taiwan is using the drills to prepare for a potential Chinese invasion.",
             "zh": "总统赖清德参加了紧急疏散演习，这是台湾于8月5日至14日举行的年度汉光军事演习的一部分。 英国广播公司 (BBC) 的凯蒂·沃森 (Katy Watson) 解释了发生的事情以及台湾为何利用这些演习为中国潜在的入侵做准备。"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In times of geopolitical tension and the threat of conflict, it is natural for communities to feel apprehension and prepare for potential dangers. Isaiah 41:10 offers a profound reassurance, reminding us that even amidst such fears, Yahweh promises His strengthening presence and unwavering support. This divine promise can be a source of inner peace and...",
+            "zh": "在地缘政治紧张和冲突威胁的时期，社区感到担忧并为潜在危险做准备是自然的。以赛亚书41:10提供了深刻的安慰，提醒我们即使在这样的恐惧中，雅伟也应许祂会赐予力量并坚定不移地支持我们。这个神圣的应许能成为那些面临不确定性的人内心平安和勇气的源泉。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Isaiah 41:10",
+            "textEn": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+            "textZh": "你不要害怕，因为我与你同在；不要惊惶，因为我是你的神。",
+            "themeEn": "God is with us",
+            "themeZh": "神与你同在"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-politics-audio-2026-aug-07-trump-unbound-the-making-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/politics/audio/2026/aug/07/trump-unbound-the-making-of-an-imperial-presidency-podcast",
-          "image": "https://i.guim.co.uk/img/media/59f6346b963d8b869072f7fb7f0dcaa69f11cc94/205_0_2720_2175/master/2720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=635d0fcb6e7f4d9088020dfd943f7fe5",
-          "publishedAt": "2026-08-07T04:00:06.000Z",
-          "title": {
-            "en": "Trump unbound: the making of an imperial presidency – podcast",
-            "zh": "特朗普不受约束：一个帝国总统的形成——播客"
-          },
-          "summary": {
-            "en": "A podcast discusses how Donald Trump's potential second term could see him operate with significantly fewer internal checks, as challenging politicians are gone and lawyers are more selective in their opposition, leading to an \"imperial president\" using executive power to reshape policy.",
-            "zh": "一档播客讨论了唐纳德·特朗普的第二个任期可能如何让他以显著减少的内部制衡来运作，因为挑战他的政客已经离开，律师们在反对时也更加有选择性，从而形成一个利用行政权力重塑一切的“帝国总统”。"
-          },
-          "body": {
-            "en": "Donald Trump’s second term is unlike his first. The politicians who challenged him are gone. The lawyers who once pushed back now choose their battles. What remains is an imperial president with almost no internal checks, using executive power to reshape everything from the economy, immigration and even the presidency itself. Few journalists have covered Trump as closely as the New York Times journalist Jonathan Swan. Jonathan Freedland speaks to him about how the president has consolidated such power – and what it could mean for the US and the world Watch Jonathan Freedland on our new Politics Weekly YouTube channel You can find Jonathan Swan and Maggie Habermans’ book Regime Change here Send your questions and feedback to politicsweeklyamerica@theguardian.com Continue reading...",
-            "zh": "唐纳德·特朗普的第二个任期与他的第一个任期不同。挑战他的政客们都消失了。曾经反击的律师现在选择了战斗。剩下的是一位几乎没有内部制约的帝国总统，利用行政权力重塑从经济、移民甚至总统职位本身的一切。很少有记者能像《纽约时报》记者乔纳森·斯旺（Jonathan Swan）那样密切报道特朗普。乔纳森·弗里德兰 (Jonathan Freedland) 向他讲述了总统如何巩固这种权力，以及这对美国和世界可能意味着什么 在我们新的《政治周刊》YouTube 频道上观看乔纳森·弗里德兰 (Jonathan Freedland) 您可以在此处找到乔纳森·斯旺 (Jonathan Swan) 和玛吉·哈伯曼斯 (Maggie Habermans) 的著作《政权变革》 将您的问题和反馈发送至politicsweeklyamerica@theguardian.com 继续阅读..."
-          },
-          "reflection": {
-            "en": "The news describes a presidency operating with diminished internal checks, raising questions about accountability and the balance of power. Proverbs 29:2 reminds us that the character of leadership profoundly affects the well-being of a nation. It encourages us to pray for leaders who govern with integrity and wisdom, fostering an environment where all can...",
-            "zh": "这则新闻描述了一个内部制衡减弱的总统任期，引发了对问责制和权力平衡的疑问。箴言29:2提醒我们，领导者的品格深刻影响着国家的福祉。它鼓励我们为那些以正直和智慧治理的领导者祷告，以营造一个让所有人都能繁荣发展的环境。"
-          },
-          "verse": {
-            "reference": "Proverbs 29:2",
-            "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
-            "textZh": "义人增多，民就喜乐；恶人掌权，民就叹息。",
-            "themeEn": "Righteous vs wicked rulers",
-            "themeZh": "义人执政与恶人当道"
-          },
-          "aiVerseId": "prov_29_2",
+          "aiVerseId": "isa_41_10",
           "translationState": "localized"
         },
         {
@@ -491,61 +529,29 @@
           "publishedAt": "2026-08-07T01:10:58.000Z",
           "title": {
             "en": "‘Wiped out’ - BBC reports from Spokane neighbourhood devastated by fires",
-            "zh": "“被消灭”——英国广播公司报道斯波坎社区被大火摧毁"
+            "zh": "“被夷为平地”——BBC报道斯波坎被大火摧毁的社区"
           },
           "summary": {
-            "en": "Officials are still working to contain the blazes that have burned down at least 860 buildings, including hundreds of homes.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "Officials are still working to contain the blazes that have burned down at least 860 buildings, including hundreds of homes, in the Spokane area.",
+            "zh": "官员们仍在努力控制斯波坎地区的大火，这些大火已烧毁至少860座建筑物，其中包括数百户住宅。"
           },
           "body": {
             "en": "Thousands of residents are still under mandatory evacuation orders in Spokane, Washington, where wildfires have burned down at least 860 buildings, including hundreds of homes.\n\nOne suspect has been arrested on suspicion of arson in connection to one of the fires burning in the city.",
             "zh": "华盛顿州斯波坎市仍有数千名居民被强制疏散，山火已烧毁至少 860 栋建筑，其中包括数百栋房屋。 一名嫌疑人因涉嫌与该市发生的一场火灾有关纵火而被捕。"
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In the wake of such devastating fires, communities face immense suffering and the daunting task of rebuilding. Yet, even in profound loss, the process of enduring hardship can forge perseverance and character, ultimately leading to a renewed sense of hope for the future.",
+            "zh": "面对如此毁灭性的大火，社区正经历巨大的痛苦和艰巨的重建任务。然而，即使在深切的损失中，忍受苦难的过程也能磨练出毅力和品格，最终带来对未来重生的希望。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Romans 5:3-4",
+            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
+            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
+            "themeEn": "Suffering produces hope",
+            "themeZh": "患难中的盼望"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cdrvn686dljo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg",
-          "publishedAt": "2026-08-07T01:03:35.000Z",
-          "title": {
-            "en": "Trump imposes 15% tariff on key chip material to counter China",
-            "zh": "特朗普对关键芯片材料征收15%关税以对抗中国"
-          },
-          "summary": {
-            "en": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "US President Donald Trump signed an executive order on Thursday that imposes a 15% tariff on imported products made from polysilicon, a crucial material used in semiconductors and solar panels.\n\nThe order also set minimum import prices on polysilicon and related products. It comes after a national security investigation into the production of the material overseas.\n\nThe move is intended to help protect US manufacturers as they face increasing competition from China's chip industry - a key source of friction between the world's two largest economies.\n\nThe Chinese embassy in Washington said the move \"seriously disrupts\" trade between the two countries and Beijing will act to protect its companies.\n\nWashington is \"abusing state power to go after Chinese businesses,\" the embassy said, adding that protectionism will not make the US more competitive.\n\nTrump said in the order , external that he had accepted recommendations by Secretary of Commerce Howard Lutnick to set minimum import prices as well as a 15% tariff on polysilicon and related imports.\n\nFor decades, the US has allowed \"foreign firms to weaken United States producers in the polysilicon sector,\" said Trump, who has long advocated for the use of tariffs to protect American jobs and boost the economy.\n\nThe material is critical in military equipment and electronics, yet imports have led to the US' share of global polysilicon production to fall from 50% in 2005 to less than 2% in 2024, Trump said.\n\nThe order is likely to benefit Hemlock Semiconductor and Wacker Chemie, which are the main producers of the material in the US.\n\nThe production of computer chips is central to the race between the US and China to develop artificial intelligence (AI). Washington and Beijing have also been locked in a tit-for-tat tariffs war , which has been on hold since May 2025.\n\nAnalysts quoted by Chinese state media outlet Global Times said the new tariff marks the latest escalation in Washington's efforts to limit China's role in critical technology supply chains.\n\nThe move follows other US restrictions on the imports of drones, humanoid robots and other tech products from China.\n\nChina announced a range of countermeasures this week, including tighter export controls on drones. Beijing also launched a national security review into imported printers and copiers.",
-            "zh": "美国总统唐纳德·特朗普周四签署了一项行政命令，对多晶硅制成的进口产品征收 15% 的关税，多晶硅是半导体和太阳能电池板中使用的关键材料。 该命令还规定了多晶硅及相关产品的最低进口价格。此前，国家安全部门对该材料的海外生产进行了调查。 此举旨在帮助保护美国制造商，因为它们面临着来自中国芯片行业日益激烈的竞争，而中国芯片行业是世界两大经济体之间摩擦的主要根源。 中国驻华盛顿大使馆表示，此举“严重扰乱”两国之间的贸易，北京将采取行动保护中国企业。 中国大使馆表示，华盛顿正在“滥用国家权力打压中国企业”，并补充说保护主义不会让美国更具竞争力。 特朗普在对外发布的命令中表示，他已接受商务部长霍华德·卢特尼克的建议，设定最低进口价格以及对多晶硅及相关进口产品征收 15% 的关税。 特朗普表示，几十年来，美国一直允许“外国公司削弱美国多晶硅行业的生产商”。他长期以来一直主张利用关税来保护美国就业并提振经济。 特朗普表示，这种材料在军事设备和电子产品中至关重要，但进口已导致美国在全球多晶硅产量中的份额从2005年的50%下降到2024年的不足2%。 该订单可能会使 Hemlock Semiconductor 和 Wacker Chemie 受益，它们是美国该材料的主要生产商。 计算机芯片的生产是中美发展人工智能（AI）竞赛的核心。华盛顿和北京也陷入了一场针锋相对的关税战，这场战争自 2025 年 5 月以来一直处于搁置状态。 中国官方媒体《环球时报》援引分析师的话称，新关税标志着华盛顿限制中国在关键技术供应链中的作用的最新升级。 此前，美国对从中国进口无人机、人形机器人和其他科技产品实施了其他限制。 中国本周宣布了一系列反制措施，包括加强对无人机的出口管制。北京还对进口打印机和复印机启动了国家安全审查。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
+          "aiVerseId": "rom_5_3",
+          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-ebola-africa-cdc-plans-to-use-vaccine-for-different-strain",
@@ -557,28 +563,29 @@
           "publishedAt": "2026-08-06T21:12:00.000Z",
           "title": {
             "en": "Ebola: Africa CDC plans to use vaccine for different strain as outbreak spreads",
-            "zh": "埃博拉：随着疫情蔓延，非洲疾病预防控制中心计划使用针对不同毒株的疫苗"
+            "zh": "埃博拉：非洲疾控中心计划在疫情蔓延之际使用针对不同毒株的疫苗"
           },
           "summary": {
-            "en": "The head of the Africa Centres for Disease Control pledged to deploy a vaccine for a previous Ebola strain in the current DRC outbreak, with test cases indicating a potentially live-saving level of protection.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+            "en": "The head of the Africa Centres for Disease Control announced plans to use a vaccine developed for a different Ebola strain to combat the current outbreak in the Democratic Republic of Congo, following promising test results.",
+            "zh": "非洲疾病控制中心负责人宣布，计划在刚果民主共和国当前的埃博拉疫情中使用针对此前埃博拉毒株开发的疫苗，初步测试显示该疫苗可能提供挽救生命的保护。"
           },
           "body": {
             "en": "The head of the Africa Centres for Disease Control pledged to deploy a vaccine for a previous Ebola strain in the current DRC outbreak, with test cases indicating a potentially live-saving level of protection.\n\nAfrican health authorities say they would start using a vaccine for the prior Zaire ebolavirus strain to treat the current outbreak involving a different, fast spreading strain known as Bundibugyo. The ongoing outbreak is&#160;centered in eastern Democratic Republic of Congo (DRC) .&#160;\n\nThe director general of the African Centres for Disease Control, or Africa CDC, Jean Kaseya, told reporters in a videoconference on Thursday that there was evidence of the vaccine eliminating deaths, if not symptoms, in the test cases conducted so far.&#160;\n\nThe Africa CDC and the World Health Organization also plan to launch research checking for a possible mutation or some other abnormality in the current outbreak, as the virus spreads at a rate six to eight times faster than any past outbreak on record.\n\nThe warnings come amid continued strikes and protests in the hardest-hit regions by some medical staff complaining either of non-payment or of inadequate pay and conditions.&#160;\n\nKaseya was speaking from Brazzaville in the neighboring Republic of Congo,after meeting&#160;with World Health Organization Director-General Tedros Adhanom Ghebreyesus in Kinshasa the previous day .&#160;\n\nThe Africa CDC chief&#160;said authorities estimated 4,000 cases have been confirmed by now, given that 3,973 had been confirmed as of Tuesday in the latest available data. That data also pointed to 1,801 confirmed Ebola deaths. The current oubreak was only declared in mid-May and is already the second-largest on record .&#160;\n\nCompared to the&#160;West Africa outbreak, which took place from 2014 to 2016 and is considered the largest ever, the current strain was causing deaths&#160;6 times faster.\n\n\"As Dr. Tedros shared with me yesterday, it's time for the WHO and Africa CDC to conduct studies to check that there is no issue, additional issue, or maybe if the virus is not mutating, because the level of severity of this Bundibugyo outbreak is unprecedented,\" Kaseya said.\n\nKaseya&#160;said cases had now been logged in 51 health zones, compared to nine in May.\n\nHe also drew attention to the&#160;numbers of cases identified as a share of the contact tracing program's size. During the most virulent and deadly outbreak on record, the Zaire strain outbreak in DRC between 2018 and 2020, one patient was identified from every 57 contacts identified as being at risk.\n\nAcross the border in Uganda, which says it has eradicated the small number of cases it experienced this year,&#160;it had an average of one confirmed case from every&#160;41 contacts in the list.&#160;\n\nIn DRC this...",
             "zh": "非洲疾病控制中心负责人承诺在当前刚果民主共和国疫情中部署针对先前埃博拉病毒株的疫苗，测试病例表明可能达到挽救生命的保护水平。 非洲卫生当局表示，他们将开始使用针对先前扎伊尔埃博拉病毒株的疫苗来治疗当前的疫情，该病毒株涉及另一种快速传播的病毒株，称为 Bundibugyo。目前的疫情集中在刚果民主共和国 (DRC) 东部。 非洲疾病控制中心（非洲疾病预防控制中心）总干事让·卡塞亚（Jean Kaseya）在周四的视频会议上告诉记者，在迄今为止进行的测试病例中，有证据表明该疫苗即使没有消除症状，也可以消除死亡。 非洲疾病预防控制中心和世界卫生组织还计划开展研究，检查当前疫情中可能存在的突变或其他异常情况，因为该病毒的传播速度比以往有记录的任何疫情爆发的速度都要快六到八倍。 这些警告是在受灾最严重的地区持续举行罢工和抗议之际，一些医务人员抱怨没有付款或工资和条件不足。 卡塞亚是在前一天在金沙萨会见世界卫生组织总干事谭德塞后在邻国刚果共和国的布拉柴维尔发表此番言论的。 非洲疾病预防控制中心负责人表示，鉴于最新数据截至周二已确诊 3,973 例，当局估计目前已确诊 4,000 例病例。该数据还表明，有 1,801 人确诊死于埃博拉病毒。目前的爆发是在五月中旬才宣布的，并且已经是有记录以来的第二大爆发。 与 2014 年至 2016 年发生的被认为是有史以来最大规模的西非疫情相比，当前菌株造成的死亡速度快了 6 倍。 卡塞亚说：“正如谭德塞博士昨天与我分享的那样，现在是世界卫生组织和非洲疾病预防控制中心进行研究以检查是否存在问题、是否存在其他问题，或者病毒是否没有变异的时候了，因为本迪布焦疫情的严重程度是前所未有的。” 卡塞亚表示，目前已有 51 个卫生区记录了病例，而 5 月份有 9 个。 他还提请注意确定的病例数量占接触者追踪计划规模的一部分。 2018 年至 2020 年期间，刚果民主共和国爆发了有记录以来毒性最强、致命性最强的扎伊尔菌株疫情，每 57 名被确定为高危接触者中就有一名患者被确诊。 在边境另一边的乌干达，该国表示已消除了今年出现的少量病例，名单上的每 41 名接触者中平均就有 1 例确诊病例。 在刚果民主共和国这..."
           },
           "reflection": {
-            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In the face of a spreading disease, the efforts to deploy a vaccine offer a tangible sign of hope and care for the sick. This reminds us of the biblical call to pray for those afflicted by illness and to seek their healing. Yahweh hears the cries of those who suffer and works through human hands to bring relief.",
+            "zh": "面对蔓延的疾病，部署疫苗的努力为病患带来了切实的希望和关怀。这提醒我们圣经中为受疾病困扰者祷告并寻求他们医治的呼召。雅伟垂听受苦者的呼求，并借着人的手带来缓解。"
           },
           "verse": {
-            "reference": "James 1:5",
-            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
-            "themeEn": "Ask God for wisdom",
-            "themeZh": "求神赐智慧"
+            "reference": "James 5:14",
+            "textEn": "Is anyone among you sick? Let them call the elders of the church to pray over them.",
+            "textZh": "你们中间有病了的呢，他就该请教会的长老来；他们可以奉主的名用油抹他，为他祷告。",
+            "themeEn": "Pray for the sick",
+            "themeZh": "为病人代祷"
           },
-          "translationState": "fallback"
+          "aiVerseId": "jas_5_14",
+          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-how-drought-threatens-electricity-supplies-in-europe-a-782",
@@ -590,28 +597,63 @@
           "publishedAt": "2026-08-06T19:55:00.000Z",
           "title": {
             "en": "How drought threatens electricity supplies in Europe",
-            "zh": "干旱如何威胁欧洲的电力供应"
+            "zh": "旱灾如何威胁欧洲电力供应"
           },
           "summary": {
-            "en": "Droughts, heat and falling water levels in the Danube are hitting central and southeastern Europe hard. Hungary and Romania are experiencing an energy crisis — whereas countries like Bulgaria are better prepared.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+            "en": "Droughts, heatwaves, and critically low water levels in the Danube River are severely impacting central and southeastern Europe, leading to an energy crisis in countries like Hungary and Romania, while others such as Bulgaria have shown better preparedness.",
+            "zh": "欧洲中部和东南部正遭受旱灾、热浪和多瑙河水位下降的严重影响。匈牙利和罗马尼亚面临能源危机，而保加利亚等国则准备得更充分。"
           },
           "body": {
             "en": "Droughts, heat and falling water levels in the Danube are hitting central and southeastern Europe hard. Hungary and Romania are experiencing an energy crisis — whereas countries like Bulgaria are better prepared.\n\nRiverbeds reduced to tiny streams, asphalt melting like butter, dried-up fields — these are currently&#160;the images of drought in Central and Southeastern Europe. The record-breaking lack of rainfall in recent months and this summer's heatwaves have caused severe damage to the region's economy&#160;and infrastructure.&#160;\n\nIn the agriculture&#160;sector, it has been clear for some time that harvests in Southeastern Europe, especially maize&#160;and sunflower crops, will be significantly below average. The&#160;heatwaves are also repeatedly disrupting&#160;road, rail and, above all, shipping transport. But, most importantly, the drought has triggered an unprecedented crisis&#160;in electricity generation in several Central and Southeastern European countries, forcing companies to halt production due to the historically low water level&#160;of the Danube.\n\nHungary and Romania are currently most affected by the energy crisis. Other countries bordering the Danube&#160;—&#160; Austria , Slovakia , Serbia and Bulgaria &#160;— are also suffering from low water levels, although not as severely as Hungary and Romania.\n\nDW outlines the situation in each&#160;country and explains why, despite facing similar weather conditions, some are more severely affected than others.\n\nNo country in the region is currently as severely affected by drought and heat as Hungary. For months, there has been little or no rainfall in large parts of the country. On Wednesday, temperatures reached 43 degrees Celsius (109.4 degrees Fahrenheit) in the capital Budapest , and exceeded 40 degrees&#160;in many places across the country.\n\nDue to the record-low water levels of the Danube, the Paks&#160; nuclear power plant south of Budapest had to largely shut down operations, as there is&#160;no longer sufficent cooling water available and the temperature of the Danube water is too high. The plant is currently operating&#160;at around 12% of its capacity. If Danube water levels continue to drop, the plant will have to be shut down completely.\n\nDue to the energy crisis, the Hungarian government has been urging large energy consumers to conserve electricity. As a result, several car manufacturers, including Audi Gyor, oil and gas company MOL and&#160;other large companies have scaled back production. Hungary's energy crisis —&#160;the worst in decades — is so severe because of the country's unfavorable&#160;energy mix. Paks generates around&#160;50% of the electricity produced in Hungary and about one-third of the electricity consumed. Although Hungary has significant&#160;...",
             "zh": "干旱、高温和多瑙河水位下降正在严重打击中欧和东南欧。匈牙利和罗马尼亚正在经历能源危机，而保加利亚等国家则做好了更充分的准备。 河床变成了细小的溪流，沥青像黄油一样融化，田地干涸——这些都是目前中欧和东南欧干旱的景象。近几个月破纪录的降雨不足和今年夏天的热浪对该地区的经济和基础设施造成了严重破坏。 在农业领域，一段时间以来，东南欧的收成，特别是玉米和向日葵作物的收成，将明显低于平均水平。热浪还一再扰乱公路、铁路，尤其是航运。但最重要的是，干旱在一些中欧和东南欧国家引发了前所未有的发电危机，迫使企业因多瑙河水位处于历史低位而停止生产。 匈牙利和罗马尼亚目前受能源危机影响最严重。多瑙河沿岸的其他国家——奥地利、斯洛伐克、塞尔维亚和保加利亚——也面临着低水位的问题，尽管没有匈牙利和罗马尼亚那么严重。 德国之声概述了每个国家的情况，并解释了为什么尽管面临相似的天气条件，但有些国家比其他国家受到的影响更严重。 该地区目前没有哪个国家像匈牙利一样受到干旱和高温的严重影响。几个月来，该国大部分地区降雨很少或根本没有降雨。周三，首都布达佩斯气温达到 43 摄氏度（109.4 华氏度），全国多地气温超过 40 度。 由于多瑙河水位创历史新低，布达佩斯以南的帕克斯核电站不得不大部分关闭，因为不再有足够的冷却水，而且多瑙河水温过高。该工厂目前的产能利用率约为 12%。如果多瑙河水位继续下降，该工厂将不得不完全关闭。 由于能源危机，匈牙利政府一直敦促能源大户节约用电。因此，包括奥迪杰尔 (Audi Gyor)、石油天然气公司 MOL 和其他大公司在内的多家汽车制造商都缩减了产量。匈牙利的能源危机——几十年来最严重的一次——之所以如此严重，是因为该国的能源结构不利。 Paks 生产的电力约占匈牙利发电量的 50% 以及消耗电力的三分之一。尽管匈牙利有重要..."
           },
           "reflection": {
-            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "Romans 8:22 reminds us that creation itself groans under the weight of change, a truth echoed in Europe's energy crisis caused by drought and heat. As natural systems face strain, communities experience the ripple effects, highlighting our interconnectedness with the environment. This situation calls for both wise stewardship and compassionate responses to...",
+            "zh": "罗马书8:22提醒我们，受造之物都在劳苦叹息，这在欧洲因干旱和高温引发的能源危机中得到了印证。当自然系统面临压力时，社区也感受到连锁反应，突显了我们与环境的相互关联。这种情况呼唤着明智的管理和对受这些挑战影响的人们作出富有同情心的回应。"
           },
           "verse": {
-            "reference": "Genesis 2:15",
-            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
-            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
-            "themeEn": "Creation care",
-            "themeZh": "看守受造界"
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
           },
-          "translationState": "fallback"
+          "aiVerseId": "rom_8_22",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-the-mata-hari-affair-courtesan-spy-legend-a-78263857-maca-",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/the-mata-hari-affair-courtesan-spy-legend/a-78263857?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/78186235_6.jpg",
+          "publishedAt": "2026-08-06T14:35:00.000Z",
+          "title": {
+            "en": "The Mata Hari affair: Courtesan, spy, legend",
+            "zh": "玛塔·哈里事件：交际花、间谍、传奇"
+          },
+          "summary": {
+            "en": "Dancer Mata Hari, widely considered the most famous female spy in history, captivated many men but was ultimately executed for treason. The question of whether she truly betrayed state secrets remains a subject of historical debate.",
+            "zh": "舞者玛塔·哈里被认为是历史上最著名的女间谍，她曾令无数男人倾倒，但最终因叛国罪被处决。她是否真的出卖了国家机密，至今仍是历史争论的焦点。"
+          },
+          "body": {
+            "en": "Regarded the most famous female spy of all time, dancer Mata Hari had men falling at her feet but was executed for treason. Did she really betray state secrets?\n\nMata Hari was already a legend in her own lifetime. When she stepped into the Parisian limelight in 1905, she swept high society off its feet.&#160;\n\n\"She danced with veils and jewel-encrusted bustiers and almost nothing else,\" the Parisian press reported. \"Never had anyone dared to appear unveiled before the gods with such trembling ecstasy. And what wonderful movements she made — both daring and demure at the same time.\"&#160;\n\nMata Hari had convinced audiences and the press that she was an exotic temple dancer — but the dark-haired performer was actually Dutch.\n\nOne of the hallmarks of the Belle Epoque era was a heightened fascination with cultures the Parisians deemed to be exotic. Driven by financial desperation, she exploited this demand by pretending to be Indian . To make her act more credible, she fabricated a backstory claiming to be the daughter of a highly esteemed Brahmin.&#160;\n\n\"My mother, first bayadere [dancer] of the Ranganathaswamy Temple, died at the age of fourteen, on the day I was born. After the temple priests cremated her body, they adopted me and named me Mata Hari, which means 'Eye of the Day [a Malay word, Hari means sun].\"\n\nShe claimed to have learned the sacred temple dances from a young age. During her performances, one veil after another would fall away.&#160; Later, she said, \"I never danced well. The only reason people came to see me was that I was the first to dare to present myself naked to the public.\"&#160;\n\nHigh society couldn't get enough of Mata Hari, unaware that her real name was Margaretha Geertruida Zelle and that she came from the small Dutch town of Leeuwarden.&#160;\n\nBorn on August 7, 1876, Mata Hari was the daughter of a hatmaker who had become wealthy through stock market speculation. He often spoiled his daughter with lavish gifts. For her sixth birthday, he gave her a carriage drawn by goats.\n\nAt the age of 13, Mata Hari's life of luxury ended abruptly. Her father went bankrupt and abandoned the family. Two years later, when her mother passed away, she moved in with relatives. Eventually, she met her husband through a newspaper ad: \"An officer from the Dutch East Indies [now Indonesia] , currently on home leave, seeks the company of a nice young woman with potential for future marriage. Financial circumstances irrelevant.\"&#160;\n\nMata Hari and John Rudolf MacLeod, a Dutch nobleman of Scottish descent who was 20 years her senior, quickly became a couple. In 1897, she accompanied her husband to the Dutch East Indies. But her dream of a happy life never materialized. Frequent arguments strained their relationship. Then, their two-year-old son...",
+            "zh": "舞者玛塔·哈里被认为是有史以来最著名的女间谍，她让男人拜倒在她的脚下，但最终因叛国罪被处决。她真的泄露了国家机密吗？ 玛塔·哈里 (Mata Hari) 在她一生中就已经是一个传奇人物了。 1905 年，当她走进巴黎的聚光灯下时，她令上流社会为之倾倒。 巴黎媒体报道说：“她跳舞时只戴着面纱和镶满珠宝的紧身胸衣，几乎没有别的东西。” “从来没有人敢在如此颤抖的狂喜中赤身露面地出现在众神面前。她做出了多么美妙的动作——既大胆又端庄。” 玛塔·哈里让观众和媒体相信她是一位充满异国情调的寺庙舞者，但这位黑发表演者实际上是荷兰人。 美好时代的标志之一是巴黎人对异国文化的高度迷恋。在财务困境的驱使下，她通过假装印度人来利用这一需求。为了让自己的行为更加可信，她编造了一个背景故事，自称是一位德高望重的婆罗门的女儿。 “我的母亲是 Ranganathaswamy 寺庙的第一位舞者，她在我出生的那天十四岁那年去世。寺庙的祭司火化了她的尸体后，他们收养了我，并给我起名叫 Mata Hari，意思是‘白昼之眼’（马来语单词，Hari 的意思是太阳）。” 她声称从小就学习神圣的寺庙舞蹈。在她的表演过程中，面纱一层又一层地脱落。 后来她说：“我跳得不好，人们来看我的唯一原因是我是第一个敢于在公众面前裸露自己的人。” 上流社会对玛塔·哈里 (Mata Hari) 爱不释手，不知道她的真名是玛格丽特·吉尔特鲁伊达·泽勒 (Margaretha Geertruida Zelle)，而且她来自荷兰小镇吕伐登 (Leeuwarden)。 玛塔·哈里出生于 1876 年 8 月 7 日，是一位制帽匠的女儿，她通过股市投机致富。他经常用丰盛的礼物来宠爱他的女儿。在她六岁生日时，他送给她一辆山羊拉的马车。 13岁时，玛塔·哈里的奢华生活戛然而止。她的父亲破产并抛弃了家庭。两年后，母亲去世，她搬去亲戚家住。最终，她通过报纸广告认识了她的丈夫：“一名来自荷属东印度群岛（现为印度尼西亚）的军官，目前正在回籍假，寻求一位未来有结婚潜力的漂亮年轻女子的陪伴。财务状况无关紧要。” 玛塔·哈里 (Mata Hari) 和年长她 20 岁的苏格兰裔荷兰贵族约翰·鲁道夫·麦克劳德 (John Rudolf MacLeod) 很快就成为了情侣。 1897年，她随丈夫前往荷属东印度群岛。但她幸福生活的梦想从未实现。频繁的争吵使他们的关系变得紧张。然后，他们两岁的儿子……"
+          },
+          "reflection": {
+            "en": "The enduring question surrounding Mata Hari's guilt reminds us of the profound responsibility in judging others, especially when the full truth is obscured. Yahweh's call to self-reflection before condemnation encourages humility and compassion, urging us to consider the complexities of human actions and the weight of our verdicts. This perspective fosters...",
+            "zh": "围绕玛塔·哈里是否有罪的持久疑问，提醒我们在评判他人时所肩负的重大责任，尤其当真相模糊不清时。雅伟呼召我们在定罪前先自我反省，这鼓励我们保持谦卑和怜悯，敦促我们思考人类行为的复杂性以及我们判决的分量。这种视角促使我们以更仁慈的态度对待被指控者，承认我们自身的不足。"
+          },
+          "verse": {
+            "reference": "John 8:7",
+            "textEn": "Let any one of you who is without sin be the first to throw a stone at her.",
+            "textZh": "你们中间谁是没有罪的，谁就可以先拿石头打她。",
+            "themeEn": "Without sin, throw first stone",
+            "themeZh": "无罪的先扔石头"
+          },
+          "aiVerseId": "jn_8_7",
+          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-can-un-chief-s-initiative-kickstart-resolution-for-cyprus-",
@@ -626,58 +668,26 @@
             "zh": "联合国秘书长的倡议能否启动塞浦路斯问题的解决方案？"
           },
           "summary": {
-            "en": "UN chief Antonio Guterres considers a resolution to the Cyprus issue to be vital for regional stability and has initiated a new diplomatic effort. What are the prospects for its success?",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "UN Secretary-General Antonio Guterres has launched a new diplomatic effort, believing a resolution to the Cyprus issue is crucial for regional stability. The initiative aims to explore the prospects for success in resolving the long-standing conflict.",
+            "zh": "联合国秘书长安东尼奥·古特雷斯认为解决塞浦路斯问题对地区稳定至关重要，并已启动一项新的外交努力。该倡议旨在探讨其成功的可能性。"
           },
           "body": {
             "en": "UN chief Antonio Guterres considers a resolution to the Cyprus issue to be vital for regional stability and has initiated a new diplomatic effort. What are the prospects for its success?\n\nUN Secretary-General Antonio Guterres last week became the first UN chief to visit Cyprus in 16 years .\n\nWhile there, he met the leaders of the island's two communities: Nikos Christodoulides, president of the Republic of Cyprus, and Tufan Erhurman , Turkish Cypriot leader and president of the self-declared Turkish Republic of Northern Cyprus , which is only recognized by Turkey.\n\nHis aim in doing so was to determine whether the conditions exist for restarting negotiations on the Cyprus issue.\n\nProgress on talks has remained stalled since the collapse of negotiations in Crans-Montana, Switzerland, in 2017, when the United Nations made its most comprehensive effort to broker a reunification agreement for the island.\n\nAccording to diplomatic sources, the answer lies less in developments surrounding the Cyprus issue itself and more in the rapidly changing geopolitical landscape of the wider region.\n\nWar in the Middle East , deteriorating relations between Israel and Turkey , and growing strategic competition in the Eastern Mediterranean have heightened UN concerns that the unresolved Cyprus conflict could undermine the stability of the entire region.\n\nGuterres said as much after the joint meeting on July 29.&#160;\"I do believe that a solution in Cyprus is absolutely crucial, not only to preserve the interests and the peace of the Cyprus people, but also as a factor of stability in what is becoming a dangerously unstable region,\" he said.\n\nSpeaking to DW, Andreas Mavroyiannis, former permanent representative of the Republic of Cyprus to the United Nations and former chief negotiator of the Greek Cypriot side, shared the same concern.\n\n\"The strengthening of relations between the Republic of Cyprus and Israel , combined with the deterioration of Israel–Turkey relations, increases the risk of the Cyprus issue being instrumentalized,\" he told DW.\n\nAccording to Mavroyiannis, the UN secretary-general fears that Cyprus could, instead of serving as a pillar of stability in the Middle East, become increasingly entangled in regional rivalries and emerge as one of the area's most vulnerable flashpoints.\n\nThe UN is not alone in viewing the Cyprus issue through the prism of regional security. The EU has also shown increasing interest in playing a more active political role in efforts to revive the peace process.\n\nA significant step came on July 7, when the European Commission appointed Executive Vice-President Raffaele Fitto as the EU's Special Representative for the Cyprus issue.\n\nHis mandate is to support the UN-led process and strengthen the bloc's involvement in efforts to...",
             "zh": "联合国秘书长安东尼奥·古特雷斯认为塞浦路斯问题的解决对于地区稳定至关重要，并启动了新的外交努力。它的成功前景如何？ 联合国秘书长安东尼奥·古特雷斯上周成为 16 年来第一位访问塞浦路斯的联合国秘书长。 在那里，他会见了岛上两个社区的领导人：塞浦路斯共和国总统尼科斯·赫里斯托杜利德斯和土族塞人领导人兼自称为北塞浦路斯土耳其共和国（仅得到土耳其承认）的总统图凡·埃尔赫曼。 他这样做的目的是确定是否具备重启塞浦路斯问题谈判的条件。 自2017年瑞士克莱恩蒙塔纳谈判破裂以来，谈判进展一直停滞不前，当时联合国为促成该岛的统一协议做出了最全面的努力。 据外交消息人士透露，答案不在于塞浦路斯问题本身的事态发展，而在于更广泛地区迅速变化的地缘政治格局。 中东战争、以色列和土耳其关系恶化以及东地中海日益激烈的战略竞争加剧了联合国的担忧，即未解决的塞浦路斯冲突可能会破坏整个地区的稳定。 古特雷斯在 7 月 29 日的联席会议后说了同样的话。他说：“我确实相信，塞浦路斯问题的解决方案绝对至关重要，不仅可以维护塞浦路斯人民的利益与和平，而且可以作为这个正在变得危险不稳定的地区的稳定因素。” 塞浦路斯共和国前常驻联合国代表、希族塞人方面前首席谈判代表安德烈亚斯·马夫罗伊亚尼斯在接受德国之声采访时也表达了同样的担忧。 他对德国之声表示：“塞浦路斯共和国与以色列关系的加强，加上以色列与土耳其关系的恶化，增加了塞浦路斯问题被利用的风险。” 马夫罗伊亚尼斯表示，联合国秘书长担心塞浦路斯不仅不能成为中东稳定的支柱，反而会越来越多地卷入地区竞争，并成为该地区最脆弱的热点之一。 联合国并不是唯一一个从地区安全角度看待塞浦路斯问题的机构。欧盟也越来越有兴趣在恢复和平进程的努力中发挥更积极的政治作用。 7 月 7 日，欧盟委员会迈出重要一步，任命执行副主席拉斐尔·菲托 (Raffaele Fitto) 为欧盟塞浦路斯问题特别代表。 他的任务是支持联合国主导的进程，并加强欧盟的参与……"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "Diplomatic efforts to resolve long-standing conflicts, like the Cyprus issue, remind us of the persistent human call to seek harmony. Yahweh's word encourages us to live at peace with everyone, as far as it depends on us, highlighting the ongoing responsibility to pursue reconciliation even amidst complex challenges. This pursuit, though often difficult,...",
+            "zh": "解决塞浦路斯问题等长期冲突的外交努力，提醒我们人类持续寻求和谐的呼召。雅伟的话语鼓励我们，只要力所能及，就要与所有人和平相处，这突显了即使在复杂的挑战中，也要持续追求和解的责任。这种追求，尽管常常困难重重，却反映了对地区稳定和人类福祉的承诺。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-dw-com-en-why-iran-is-sending-mixed-signals-on-talks-a-78265595-maca",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/why-iran-is-sending-mixed-signals-on-talks/a-78265595?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/78173990_6.jpg",
-          "publishedAt": "2026-08-06T13:56:00.000Z",
-          "title": {
-            "en": "Why Iran is sending mixed signals on talks",
-            "zh": "为什么伊朗在谈判中发出混合信号"
-          },
-          "summary": {
-            "en": "Trump says talks with Iran are underway. Tehran says it is discussing the Strait of Hormuz with Oman, not Washington. Analysts say the gap reflects competing political pressures.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Trump says talks with Iran are underway. Tehran says it is discussing the Strait of Hormuz with Oman, not Washington. Analysts say the gap reflects competing political pressures.\n\nUS President Donald Trump on Monday said that negotiations with Iran were ongoing over the Strait of Hormuz , adding that the Islamic Republic was facing a \" last chance before decapitation .\"&#160;\n\nTrump told reporters at the White House that he agreed to continue to pursue talks with Iran at the request of Saudi Arabia , the United Arab Emirates , Qatar and other countries.\n\nHis remarks appeared to contradict public statements from Tehran, which has so far denied that negotiations with Washington were taking place.\n\nIranian Foreign Ministry spokesperson Esmaeil Baghaei nevertheless confirmed that Tehran was holding talks with Oman over the strategic waterway.&#160;\n\nThe two sides may therefore be describing the same diplomatic channel in different terms, each using language aimed at its own domestic audience.\n\nWashington describes the Omani mediation as negotiations with Iran. Tehran portrays it as a technical discussion with Oman about shipping through the strait.\n\nCommercial traffic through key waterway remains severely restricted, while ships continue to face attacks near the strait.\n\nAccording to data from maritime analytics company Kpler cited by Reuters news agency, only six commercial vessels crossed the route on Monday, down from seven the previous day.\n\nHopes of diplomatic progress recently pushed oil prices lower and helped stock markets rise. But those movements reflected how sensitive markets remain to any news about the strait, rather than evidence that the crisis had been resolved.\n\nIran wants some measure of control over vessels entering the Persian Gulf to be recognized. The United States wants the strait fully reopened to unrestricted international shipping.\n\nBabak Dorbeiki, a London-based political analyst and former official at Iran's Strategic Research Center, told DW that the disagreement is no longer simply about whether the two sides are talking.\n\n\"The question is what to call those talks and what each side hopes to gain from them,\" he said.\n\nTrump describes the indirect channel as negotiations because he needs to show that military and economic pressure has brought Tehran back to the table, Dorbeiki said.\n\nHe suggested that Iran avoids the same terminology because acknowledging negotiations with Washington could be seen by its domestic opponents as surrender.\n\n\"Iran wants control over vessels entering the strait, while the United States wants completely free passage,\" Dorbeiki said. \"These positions cannot easily be reconciled.\"\n\nThe contradictory messages also reflect divisions between rival political factions inside Iran.\n\n\"The first, which...",
-            "zh": "特朗普表示，与伊朗的谈判正在进行中。德黑兰表示正在与阿曼而非华盛顿讨论霍尔木兹海峡问题。分析人士表示，这种差距反映了相互竞争的政治压力。 美国总统唐纳德·特朗普周一表示，与伊朗就霍尔木兹海峡问题进行的谈判正在进行中，并补充说伊朗伊斯兰共和国正面临“斩首前的最后机会”。 特朗普在白宫对记者表示，他同意应沙特阿拉伯、阿联酋、卡塔尔等国的要求继续与伊朗进行谈判。 他的言论似乎与德黑兰的公开声明相矛盾，德黑兰迄今否认正在与华盛顿进行谈判。 尽管如此，伊朗外交部发言人埃斯梅尔·巴加伊证实，德黑兰正在与阿曼就战略水道问题进行会谈。 因此，双方可能会用不同的术语描述同一个外交渠道，各自使用针对各自国内受众的语言。 华盛顿将阿曼的调解描述为与伊朗的谈判。德黑兰将其描述为与阿曼就该海峡航运问题进行的技术讨论。 主要水道的商业交通仍然受到严重限制，而海峡附近的船只继续面临攻击。 路透社援引海事分析公司 Kpler 的数据显示，周一只有 6 艘商船穿越该航线，低于前一天的 7 艘。 最近，外交进展的希望推低了油价，并帮助股市上涨。但这些走势反映出市场对有关海峡的任何消息仍然非常敏感，而不是表明危机已经解决的证据。 伊朗希望对进入波斯湾的船只采取某种控制措施得到承认。美国希望该海峡完全重新开放，不受限制的国际航运。 驻伦敦的政治分析师、伊朗战略研究中心前官员巴巴克·多尔贝基 (Babak Dorbeiki) 告诉德国之声，分歧不再仅仅在于双方是否在对话。 “问题是如何称呼这些会谈以及双方希望从中获得什么，”他说。 多贝基说，特朗普将间接渠道描述为谈判，因为他需要表明军事和经济压力已使德黑兰回到谈判桌前。 他建议伊朗避免使用同样的术语，因为承认与华盛顿的谈判可能会被其国内反对者视为投降。 多贝基说：“伊朗希望控制进入该海峡的船只，而美国则希望完全自由通行。” “这些立场不容易调和。” 这些相互矛盾的信息也反映出伊朗内部敌对政治派别之间的分歧。 “第一个，哪个..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-who-is-abdul-el-sayed-the-michigan-doctor-wh",
@@ -742,28 +752,29 @@
           "publishedAt": "2026-08-07T04:52:19.000Z",
           "title": {
             "en": "Why was Taiwan’s president evacuated in the middle of the night?",
-            "zh": "台湾总统为何半夜撤离？"
+            "zh": "台湾总统为何在半夜被疏散？"
           },
           "summary": {
-            "en": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "en": "President William Lai participated in an emergency evacuation drill as part of Taiwan's military exercises, which are designed to prepare for a potential Chinese invasion.",
+            "zh": "赖清德总统参加了台湾军事演习中的一次紧急疏散演练，旨在为潜在的中国入侵做准备。"
           },
           "body": {
             "en": "President William Lai took part in an emergency evacuation drill as part of Taiwan's annual Han Kuang military exercises that are running from August 5th to 14th.\n\nThe BBC’s Katy Watson explains what happened and why Taiwan is using the drills to prepare for a potential Chinese invasion.",
             "zh": "总统赖清德参加了紧急疏散演习，这是台湾于8月5日至14日举行的年度汉光军事演习的一部分。 英国广播公司 (BBC) 的凯蒂·沃森 (Katy Watson) 解释了发生的事情以及台湾为何利用这些演习为中国潜在的入侵做准备。"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In the face of looming threats and the need for preparedness, it is natural for nations and individuals to feel fear and dismay. Yet, Yahweh reminds us not to be afraid, promising His presence, strength, and help to uphold us. This divine assurance can bring a deep sense of peace even amidst uncertainty and drills for potential conflict.",
+            "zh": "面对迫在眉睫的威胁和备战的需要，国家和个人感到恐惧和沮丧是自然的。然而，雅伟提醒我们不要害怕，应许祂的同在、力量和帮助来扶持我们。即使在不确定性和潜在冲突的演习中，这种神圣的保证也能带来深刻的平安。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Isaiah 41:10",
+            "textEn": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+            "textZh": "你不要害怕，因为我与你同在；不要惊惶，因为我是你的神。",
+            "themeEn": "God is with us",
+            "themeZh": "神与你同在"
           },
-          "translationState": "fallback"
+          "aiVerseId": "isa_41_10",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-articles-cdrvn686dljo-at-medium-rss-at-campaign-rss",
@@ -778,25 +789,26 @@
             "zh": "特朗普对关键芯片材料征收15%关税以对抗中国"
           },
           "summary": {
-            "en": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "The United States has imposed a 15% tariff on a crucial chip material, a measure aimed at safeguarding American companies from increasing competition within China's semiconductor industry.",
+            "zh": "美国对一种关键芯片材料征收15%的关税，此举旨在保护美国公司免受中国芯片产业日益激烈的竞争。"
           },
           "body": {
             "en": "US President Donald Trump signed an executive order on Thursday that imposes a 15% tariff on imported products made from polysilicon, a crucial material used in semiconductors and solar panels.\n\nThe order also set minimum import prices on polysilicon and related products. It comes after a national security investigation into the production of the material overseas.\n\nThe move is intended to help protect US manufacturers as they face increasing competition from China's chip industry - a key source of friction between the world's two largest economies.\n\nThe Chinese embassy in Washington said the move \"seriously disrupts\" trade between the two countries and Beijing will act to protect its companies.\n\nWashington is \"abusing state power to go after Chinese businesses,\" the embassy said, adding that protectionism will not make the US more competitive.\n\nTrump said in the order , external that he had accepted recommendations by Secretary of Commerce Howard Lutnick to set minimum import prices as well as a 15% tariff on polysilicon and related imports.\n\nFor decades, the US has allowed \"foreign firms to weaken United States producers in the polysilicon sector,\" said Trump, who has long advocated for the use of tariffs to protect American jobs and boost the economy.\n\nThe material is critical in military equipment and electronics, yet imports have led to the US' share of global polysilicon production to fall from 50% in 2005 to less than 2% in 2024, Trump said.\n\nThe order is likely to benefit Hemlock Semiconductor and Wacker Chemie, which are the main producers of the material in the US.\n\nThe production of computer chips is central to the race between the US and China to develop artificial intelligence (AI). Washington and Beijing have also been locked in a tit-for-tat tariffs war , which has been on hold since May 2025.\n\nAnalysts quoted by Chinese state media outlet Global Times said the new tariff marks the latest escalation in Washington's efforts to limit China's role in critical technology supply chains.\n\nThe move follows other US restrictions on the imports of drones, humanoid robots and other tech products from China.\n\nChina announced a range of countermeasures this week, including tighter export controls on drones. Beijing also launched a national security review into imported printers and copiers.",
             "zh": "美国总统唐纳德·特朗普周四签署了一项行政命令，对多晶硅制成的进口产品征收 15% 的关税，多晶硅是半导体和太阳能电池板中使用的关键材料。 该命令还规定了多晶硅及相关产品的最低进口价格。此前，国家安全部门对该材料的海外生产进行了调查。 此举旨在帮助保护美国制造商，因为它们面临着来自中国芯片行业日益激烈的竞争，而中国芯片行业是世界两大经济体之间摩擦的主要根源。 中国驻华盛顿大使馆表示，此举“严重扰乱”两国之间的贸易，北京将采取行动保护中国企业。 中国大使馆表示，华盛顿正在“滥用国家权力打压中国企业”，并补充说保护主义不会让美国更具竞争力。 特朗普在对外发布的命令中表示，他已接受商务部长霍华德·卢特尼克的建议，设定最低进口价格以及对多晶硅及相关进口产品征收 15% 的关税。 特朗普表示，几十年来，美国一直允许“外国公司削弱美国多晶硅行业的生产商”。他长期以来一直主张利用关税来保护美国就业并提振经济。 特朗普表示，这种材料在军事设备和电子产品中至关重要，但进口已导致美国在全球多晶硅产量中的份额从2005年的50%下降到2024年的不足2%。 该订单可能会使 Hemlock Semiconductor 和 Wacker Chemie 受益，它们是美国该材料的主要生产商。 计算机芯片的生产是中美发展人工智能（AI）竞赛的核心。华盛顿和北京也陷入了一场针锋相对的关税战，这场战争自 2025 年 5 月以来一直处于搁置状态。 中国官方媒体《环球时报》援引分析师的话称，新关税标志着华盛顿限制中国在关键技术供应链中的作用的最新升级。 此前，美国对从中国进口无人机、人形机器人和其他科技产品实施了其他限制。 中国本周宣布了一系列反制措施，包括加强对无人机的出口管制。北京还对进口打印机和复印机启动了国家安全审查。"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In the pursuit of national economic advantage, it is easy to focus solely on human strategies and policies. This verse reminds us that true prosperity and the power to create wealth ultimately come from Yahweh. It encourages nations to remember their dependence on divine blessing even amidst global competition.",
+            "zh": "在追求国家经济优势的过程中，我们很容易只关注人类的策略和政策。这节经文提醒我们，真正的繁荣和创造财富的能力最终都来自雅伟。它鼓励各国即使在全球竞争中，也要记住对神圣祝福的依赖。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Deuteronomy 8:18",
+            "textEn": "Remember Yahweh your God, for it is he who gives you the ability to produce wealth.",
+            "textZh": "你要记念雅伟你的神，因为得货财的力量是他给你的。",
+            "themeEn": "Source of wealth",
+            "themeZh": "财富的源头"
           },
-          "translationState": "fallback"
+          "aiVerseId": "deut_8_18",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-us-news-2026-aug-05-us-state-department-consulate-cl",
@@ -1094,31 +1106,134 @@
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
           "image": "https://i.guim.co.uk/img/media/b41c4f59d68651701883bac3fa375dc47f2a4bae/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a800b91da960f6605674000c6c988c05",
-          "publishedAt": "2026-08-07T05:46:44.000Z",
+          "publishedAt": "2026-08-07T07:12:11.000Z",
           "title": {
-            "en": "Australia news live: Attorney General warns women and children at risk of ‘harmful conduct’ from smartglasses users; major delays at Sydney airport",
-            "zh": "澳大利亚新闻直播：总检察长警告妇女和儿童面临智能眼镜用户“有害行为”的风险；悉尼机场严重延误"
+            "en": "Attorney general warns women and children at risk of ‘harmful conduct’ from smartglasses users – as it happened",
+            "zh": "司法部长警告智能眼镜用户可能对妇女和儿童造成‘有害行为’"
           },
           "summary": {
-            "en": "Follow today’s news live Federal parliament is returning from winter break next week. Do you have a question you’d like to ask Guardian Australia’s team of political reporters in Canberra? Our political editor, Tom McIlroy, and the team will be answering readers’ questions on...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Australia's Attorney General has issued a warning regarding the potential for “harmful conduct” against women and children by users of smartglasses. The statement underscores concerns about new technologies and their implications for public safety.",
+            "zh": "澳大利亚司法部长就智能眼镜用户可能对妇女和儿童造成的“有害行为”发出了警告。该声明强调了对新技术及其对公共安全影响的担忧。"
           },
           "body": {
             "en": "The attorney general, Michelle Rowland , has written to the privacy commissioner over potential concerns surrounding smartglasses.\n\nRowland said the products, which are growing in popularity, had significant implications, especially for women and children who could be disproportionately affected by “inappropriate recording, harassment, surveillance or other harmful conduct”.\n\nPrivacy is an essential part of all our lives; it allows us to be who we are with dignity and without fear.\n\nUnlike other forms of technology, smart glasses may be used more discreetly, making it harder to know when you are being recorded.\n\nThe government is continuing to work on the next phase of privacy reforms to ensure our privacy laws are fit for purpose in the digital age.",
             "zh": "司法部长米歇尔·罗兰 (Michelle Rowland) 已就智能眼镜的潜在担忧致信隐私专员。 罗兰表示，这些产品越来越受欢迎，具有重大影响，特别是对于妇女和儿童来说，他们可能会受到“不当录音、骚扰、监视或其他有害行为”的严重影响。 隐私是我们生活的重要组成部分；它让我们能够有尊严、毫无恐惧地做自己。 与其他形式的技术不同，智能眼镜的使用可能会更加谨慎，因此更难知道您何时被录音。 政府正在继续致力于下一阶段的隐私改革，以确保我们的隐私法适合数字时代的目的。"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The Attorney General's warning highlights the need to protect vulnerable individuals, particularly women and children, from emerging technological harms. Proverbs 31:8-9 reminds us of the moral imperative to speak for those who cannot speak for themselves, ensuring justice for all. This principle calls us to advocate for safety and dignity in an evolving...",
+            "zh": "司法部长发出的警告，凸显了保护弱势群体，特别是妇女和儿童免受新兴技术危害的必要性。箴言31:8-9提醒我们，为那些无法为自己发声的人说话是道德上的当务之急，确保人人享有公义。这一原则呼吁我们在不断变化的数字世界中倡导安全和尊严。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Proverbs 31:8-9",
+            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
+            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
+            "themeEn": "Voice for the voiceless",
+            "themeZh": "为弱者发声"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_31_8",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-medicare-unclaimed-benefits-how-to-check-dto",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/medicare-unclaimed-benefits-how-to-check/dtop6vtvc",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-medicare-unclaimed-benefits-how-to-check-dto.jpg",
+          "publishedAt": "2026-08-07T07:07:47.000Z",
+          "title": {
+            "en": "Are you owed a share of $274 million in unclaimed money? Here's how to check",
+            "zh": "你是否应得2.74亿澳元无人认领款项中的一份？这里教你如何查询。"
+          },
+          "summary": {
+            "en": "Nearly one million Australians are reportedly owed a share of $274 million in unclaimed money, with the average amount per person being around $280.",
+            "zh": "据报道，近一百万澳大利亚人有权获得总计2.74亿澳元的无人认领款项，平均每人约280澳元。"
+          },
+          "body": {
+            "en": "Hundreds of millions of dollars are waiting to be claimed by Australians who have not provided their current bank account details to Services Australia.\n\nThe agency says 974,000 Australians are owed a slice of $274.5 million in unpaid Medicare benefits.\n\nIt's urging people to check that their bank details are up to date in their Medicare online account.\n\nYoung Australians account for the largest share, with more than $65 million payable to 255,000 people aged between 18 and 24.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nA Services Australia spokesperson advises Australians to update their personal details with Medicare when they change bank or address.\n\nTo receive Medicare benefits, Services Australia needs your bank account details.\n\nTo check whether you're owed money, log in to your myGov account, or create one if you don't have one.\n\nThen, check that your bank details are up to date. You'll need to provide your BSB, account number, and account name.\n\nOnce you've provided the required information, if you're owed money, any unpaid Medicare benefits will usually be paid into your account within three days.\n\nIf you're not comfortable completing the process online, you can contact the Medicare line on 132 011 or visit a service centre to update your bank details.\n\nThe Australian Taxation Office (ATO) said in October there were seven million Australians who could be owed a share of a $19 billion pool of lost and unclaimed superannuation.\n\nOther sources of unclaimed money include deceased estates, lost share dividends, wages, cheques, overpayments and more.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "尚未向澳大利亚服务局提供活期银行账户详细信息的澳大利亚人正在等待领取数亿澳元的款项。 该机构表示，974,000 名澳大利亚人被拖欠 2.745 亿澳元的未付医疗保险福利。 它敦促人们检查他们的医疗保险在线账户中的银行详细信息是否是最新的。 澳大利亚年轻人占了最大份额，向 255,000 名 18 岁至 24 岁之间的人支付了超过 6500 万澳元。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 澳大利亚服务部发言人建议澳大利亚人在更换银行或地址时向 Medicare 更新个人详细信息。 要获得 Medicare 福利，澳大利亚服务部需要您的银行账户详细信息。 要检查您是否欠款，请登录您的 myGov 帐户；如果您没有帐户，则创建一个帐户。 然后，检查您的银行详细信息是否是最新的。您需要提供您的 BSB、帐号和帐户名。 在您提供所需信息后，如果您欠款，任何未付的 Medicare 福利通常会在三天内存入您的帐户。 如果您不愿意在线完成该流程，您可以拨打 Medicare 热线 132 011 或访问服务中心更新您的银行详细信息。 澳大利亚税务局 (ATO) 10 月份表示，有 700 万澳大利亚人可能被欠下 190 亿澳元的损失和无人认领的退休金。 其他无人认领的资金来源包括已故遗产、损失的股票股息、工资、支票、超额付款等。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+          },
+          "reflection": {
+            "en": "This news reminds us that resources often exist beyond our immediate awareness, highlighting the broader systems that generate and hold wealth. Deuteronomy 8:18 encourages us to remember Yahweh, who gives us the ability to produce wealth, fostering a spirit of gratitude for all provision, whether expected or unexpectedly discovered.",
+            "zh": "这则新闻提醒我们，资源常常存在于我们未曾察觉之处，凸显了产生和持有财富的更广泛系统。申命记8:18鼓励我们记念雅伟，因为祂赐给我们得货财的能力，培养我们对一切供应的感恩之心，无论是预期的还是意外发现的。"
+          },
+          "verse": {
+            "reference": "Deuteronomy 8:18",
+            "textEn": "Remember Yahweh your God, for it is he who gives you the ability to produce wealth.",
+            "textZh": "你要记念雅伟你的神，因为得货财的力量是他给你的。",
+            "themeEn": "Source of wealth",
+            "themeZh": "财富的源头"
+          },
+          "aiVerseId": "deut_8_18",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-07-afternoon-update-friday-n",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/07/afternoon-update-friday-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/8c0db790a710acbe22e3b8244ad47710f276357c/483_0_3187_2550/master/3187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9e6cc9868771bdae836cfa077a10ff8",
+          "publishedAt": "2026-08-07T06:51:28.000Z",
+          "title": {
+            "en": "Afternoon Update: climate protest charges dropped; Hanson’s media attack; and not looking back in anger",
+            "zh": "下午更新：气候抗议指控被撤销；汉森的媒体攻击；不再愤怒回顾"
+          },
+          "summary": {
+            "en": "Police have dropped charges against over 100 climate protesters two years after they blockaded the port of Newcastle.",
+            "zh": "警方撤销了对100多名气候抗议者的指控，此前他们于两年前封锁了纽卡斯尔港。"
+          },
+          "body": {
+            "en": "Want to get this in your inbox every weekday? Sign up for the Afternoon Update here , and start your day with our Morning Mail newsletter . Good afternoon. Police have dropped charges against more than 100 climate protesters two years after they blockaded the port of Newcastle – the largest coal port in the world. Dr Elizabeth Manning, a neuroscientist from Newcastle who faced two charges, including one carrying a $22,000 fine or two years in prison if prosecuted, said the action against the protesters had been “undemocratic”. Pauline Hanson echoes Trump as she lashes out about ‘fake news’ reporting on lavish London hotel Complainant wants to ‘humiliate’ Alan Jones by revealing intimate details of alleged assaults, defence tells court Man dies after suspected dog attack at rural property in Sydney suburb Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks ‘Orange elephant in the room’: Pauline Hanson’s political rise is inspiring racism, inquiry hears Continue reading...",
+            "zh": "想每个工作日将其发送到您的收件箱吗？在此注册下午更新，并通过我们的《晨报》时事通讯开始新的一天。下午好。警方封锁世界上最大的煤炭港口纽卡斯尔港两年后，撤销了对 100 多名气候抗议者的指控。来自纽卡斯尔的神经科学家伊丽莎白·曼宁 (Elizabeth Manning) 博士面临两项指控，其中一项指控是罚款 22,000 美元，如果起诉则可判处两年监禁。她表示，针对抗议者的行动是“不民主的”。保琳·汉森 (Pauline Hanson) 回应特朗普，猛烈抨击有关伦敦豪华酒店的“假新闻”报道 辩方告诉法庭，申诉人希望通过披露涉嫌袭击的私密细节来“羞辱”艾伦·琼斯 官员称，胡塞武装袭击悉尼郊区农村财产，造成也门数十人死亡，男子因涉嫌狗袭击而死亡"
+          },
+          "reflection": {
+            "en": "The decision to drop charges against climate protesters highlights the complex interplay between civic action and legal authority. For those who act on deep conviction, there can be a tension between human laws and a perceived higher calling. Yahweh's word reminds us that when human and divine commands conflict, our ultimate allegiance is to Yahweh.",
+            "zh": "撤销对气候抗议者的指控，凸显了公民行动与法律权威之间复杂的相互作用。对于那些凭着深刻信念行事的人来说，人类法律与更高呼召之间可能存在张力。雅伟的话语提醒我们，当人的命令与神的命令冲突时，我们最终的忠诚是归于雅伟。"
+          },
+          "verse": {
+            "reference": "Acts 5:29",
+            "textEn": "We must obey God rather than human beings!",
+            "textZh": "顺从神，不顺从人，是应当的。",
+            "themeEn": "Obey God first",
+            "themeZh": "顺从神过于顺从人"
+          },
+          "aiVerseId": "acts_5_29",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-commentisfree-picture-2026-aug-07-welcome-to-austral",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/07/welcome-to-australia-the-worlds-casino-a-nation-state-captured-by-global-betting-companies",
+          "image": "https://i.guim.co.uk/img/media/2b44925532967e2a7509399c6a259235ee4c526a/0_0_1439_1151/master/1439.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2b33363e1075e943372477dd1ba9f208",
+          "publishedAt": "2026-08-07T06:18:55.000Z",
+          "title": {
+            "en": "Welcome to Australia, the world’s casino. A nation state captured by global betting companies | First Dog on the Moon",
+            "zh": "欢迎来到澳大利亚，世界赌场。一个被全球博彩公司俘获的国家"
+          },
+          "summary": {
+            "en": "The Guardian Australia reports that the nation is increasingly seen as a global hub for gambling, with the article suggesting that the country has been significantly influenced by \"rapacious amoral betting companies.\"",
+            "zh": "《卫报》澳大利亚版报道称，该国正日益被视为全球赌博中心，文章指出，澳大利亚已受到“贪婪无道德的博彩公司”的显著影响。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "The love of money, when unchecked, can lead to societal harm, as seen in the influence of gambling companies. This story reminds us that prioritizing profit above all else can compromise a nation's moral fabric and well-being. Yahweh calls us to consider the true cost of such pursuits.",
+            "zh": "对金钱的贪爱，若不受约束，可能导致社会危害，正如博彩公司的影响力所展现的。这个故事提醒我们，将利润置于一切之上会损害一个国家的道德结构和福祉。雅伟呼召我们思考这种追求的真正代价。"
+          },
+          "verse": {
+            "reference": "1 Timothy 6:10",
+            "textEn": "For the love of money is a root of all kinds of evil.",
+            "textZh": "贪财是万恶之根。",
+            "themeEn": "Love of money",
+            "themeZh": "贪财"
+          },
+          "aiVerseId": "1tim_6_10",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-australia-news-2026-aug-07-police-drop-charges-again",
@@ -1130,28 +1245,29 @@
           "publishedAt": "2026-08-07T05:39:57.000Z",
           "title": {
             "en": "Police drop charges against 125 Rising Tide protesters two years after Newcastle port blockade",
-            "zh": "纽卡斯尔港口封锁两年后，警方撤销对 125 名涨潮抗议者的指控"
+            "zh": "纽卡斯尔港口封锁两年后，警方撤销了对125名“涨潮”抗议者的指控"
           },
           "summary": {
-            "en": "Climate change activists faced up to two years in prison if convicted over blockade of world’s largest coal port Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Police have dropped charges against more than 100...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "Police have dropped charges against 125 climate change activists who blockaded the world's largest coal port two years ago. The protesters had faced up to two years in prison if convicted.",
+            "zh": "警方撤销了对125名气候变化抗议者的指控，这些抗议者两年前曾封锁全球最大的煤炭港口。如果罪名成立，这些抗议者可能面临长达两年的监禁。"
           },
           "body": {
             "en": "Climate change activists faced up to two years in prison if convicted over blockade of world’s largest coal port Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Police have dropped charges against more than 100 protesters two years after they blockaded the port of Newcastle as part of one of Australia’s largest climate protests. In the Newcastle local court on Friday, the police prosecutor withdrew charges against 125 protesters. Legal group Climate Defenders Australia, which is representing the bulk of the protesters, said it had petitioned police to do so. Continue reading...",
             "zh": "气候变化活动人士如果因封锁世界上最大的煤炭港口而被定罪，将面临最高两年的监禁关注我们的澳大利亚新闻直播博客以获取最新动态获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客作为澳大利亚最大的气候抗议活动之一，警方封锁了纽卡斯尔港两年后，他们撤销了对 100 多名抗议者的指控。周五，在纽卡斯尔地方法院，警方检察官撤回了对 125 名抗议者的指控。代表大部分抗议者的法律组织澳大利亚气候捍卫者组织表示，已向警方请求这样做。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The decision to drop charges against climate activists highlights the ongoing tension between protest and legal systems in the pursuit of justice. Yahweh's call for justice to roll on like a river reminds us that the desire for a more righteous world often drives people to advocate for change. Even when methods are debated, the underlying yearning for...",
+            "zh": "撤销对气候活动家的指控，凸显了在追求公义的过程中，抗议行动与法律体系之间持续存在的张力。雅伟呼吁公义如江河滚滚，提醒我们对一个更公义世界的渴望，常驱使人们为变革而发声。即使行动方式备受争议，对公平和正直的深层渴望仍是人类强大的动力。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Amos 5:24",
+            "textEn": "Let justice roll on like a river, righteousness like a never-failing stream!",
+            "textZh": "惟愿公平如大水滚滚，使公义如江河滔滔。",
+            "themeEn": "Demand for justice",
+            "themeZh": "伸张公义"
           },
-          "translationState": "fallback"
+          "aiVerseId": "amos_5_24",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-australia-news-2026-aug-07-pauline-hanson-fake-news-",
@@ -1163,28 +1279,29 @@
           "publishedAt": "2026-08-07T05:33:22.000Z",
           "title": {
             "en": "Pauline Hanson echoes Trump as she lashes out about ‘fake news’ reporting on lavish London hotel",
-            "zh": "宝琳·汉森 (Pauline Hanson) 呼应特朗普，猛烈抨击有关伦敦豪华酒店的“假新闻”报道"
+            "zh": "宝琳·汉森抨击关于其伦敦豪华酒店的“假新闻”报道，言论呼应特朗普"
           },
           "summary": {
-            "en": "One Nation leader says party covered ‘all travel costs’ for her European trip – aside from those paid by billionaire Gina Rinehart Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Pauline Hanson has lashed out at...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "One Nation leader Pauline Hanson has criticized media reports about her European trip expenses as 'fake news,' stating that her party covered all travel costs except those paid by billionaire Gina Rinehart.",
+            "zh": "一国党领袖宝琳·汉森抨击媒体对其欧洲之行费用的报道为“假新闻”，称除了亿万富翁吉娜·莱因哈特支付的部分外，所有旅行费用均由其政党承担。"
           },
           "body": {
             "en": "One Nation leader says party covered ‘all travel costs’ for her European trip – aside from those paid by billionaire Gina Rinehart Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Pauline Hanson has lashed out at major news outlets for reporting on One Nation, angrily denying that she used donations from supporters to fund a lavish London hotel on her recent holiday – but confirming her party did foot the bill. One Nation has also defended its decision to bar journalists including from the Guardian and ABC from events , denying that the principle of “free speech” applied to journalists asking questions at a press conference. Continue reading...",
             "zh": "一国党领导人表示，除了亿万富翁吉娜·莱因哈特支付的费用外，该党支付了她欧洲之行的“所有旅行费用”。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 波琳·汉森猛烈抨击主要新闻媒体对一国党的报道，她愤怒地否认她利用支持者的捐款为她最近的假期资助了一家豪华的伦敦酒店，但确认她的政党确实买单了。一国党还为其禁止《卫报》和美国广播公司等记者参加活动的决定进行了辩护，否认“言论自由”原则适用于在新闻发布会上提问的记者。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In public life, the call to speak truthfully and put away falsehood remains vital for healthy discourse. When reports are dismissed as 'fake news,' it challenges us to seek clarity and uphold integrity in our communication. Yahweh desires that we build trust by being honest with one another, especially in matters of public accountability.",
+            "zh": "在公共生活中，说真话、摒弃谎言的呼召对于健康的对话至关重要。当报道被斥为“假新闻”时，这促使我们寻求真相，并在沟通中坚持诚信。雅伟希望我们通过彼此诚实来建立信任，尤其是在公共问责方面。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Ephesians 4:25",
+            "textEn": "Therefore each of you must put off falsehood and speak truthfully to your neighbor.",
+            "textZh": "所以你们要弃绝谎言，各人与邻舍说实话。",
+            "themeEn": "Truth-telling",
+            "themeZh": "说诚实话"
           },
-          "translationState": "fallback"
+          "aiVerseId": "eph_4_25",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-australia-news-2026-aug-07-alan-jones-trial-defence-",
@@ -1196,28 +1313,29 @@
           "publishedAt": "2026-08-07T05:30:51.000Z",
           "title": {
             "en": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
-            "zh": "艾伦·琼斯审判：辩方告诉法庭，申诉人希望通过披露涉嫌袭击的私密细节来“羞辱”广播公司"
+            "zh": "艾伦·琼斯案：辩方称原告意图通过披露指控细节羞辱广播员"
           },
           "summary": {
-            "en": "Barrister alleges ‘account of penis wiggling is an attempt to humiliate’ broadcaster who has pleaded not guilty to 22 charges of indecent assault and sexual touching Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "During the trial of broadcaster Alan Jones, who has pleaded not guilty to 22 charges of indecent assault and sexual touching, his defense barrister alleged that the complainant's detailed account was an attempt to humiliate him.",
+            "zh": "在广播员艾伦·琼斯（Alan Jones）的审判中，他否认了22项猥亵和性骚扰指控。其辩护律师称，原告详细的陈述是为了羞辱他。"
           },
           "body": {
             "en": "Barrister alleges ‘account of penis wiggling is an attempt to humiliate’ broadcaster who has pleaded not guilty to 22 charges of indecent assault and sexual touching Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Alan Jones’s defence barrister has told a Sydney court one of the broadcaster’s alleged victims invented details of alleged indecent assaults at a Fitzroy Falls farm to “humiliate” and “smear” the former media titan. Complainant J told the court during evidence-in-chief earlier this week that during one alleged incident in the property’s bedroom, Jones’s penis was not fully erect and “not very big”. Continue reading...",
             "zh": "大律师指控“阴茎摆动的说法是一种企图羞辱”的广播公司，该广播公司已对 22 项非礼和性接触指控表示不认罪 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 艾伦·琼斯的辩护律师告诉悉尼法院，该广播公司的一名据称受害者捏造了菲茨罗伊瀑布农场涉嫌非礼的细节，以“羞辱”和“抹黑”这位前媒体巨头。申诉人 J 在本周早些时候的主要证据中告诉法庭，在该物业卧室发生的一起涉嫌事件中，琼斯的阴茎没有完全勃起，而且“不是很大”。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "In legal proceedings, initial claims can be powerful, but wisdom reminds us that a full understanding requires hearing all perspectives. This trial highlights the complex nature of justice, where motives and facts are rigorously examined by all parties. It calls us to patience and discernment, trusting the process to uncover truth.",
+            "zh": "在法律诉讼中，最初的主张可能很有说服力，但智慧提醒我们，要全面理解事实，需要听取各方的观点。这起审判凸显了司法的复杂性，其中各方对动机和事实都进行了严格审查。它呼吁我们保持耐心和洞察力，相信这个过程会揭示真相。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Proverbs 18:17",
+            "textEn": "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.",
+            "textZh": "先诉情由的，似乎有理；但邻舍来到，就察出实情。",
+            "themeEn": "Hearing both sides",
+            "themeZh": "兼听则明"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_18_17",
+          "translationState": "localized"
         },
         {
           "id": "www-sbs-com-au-news-article-norfolk-island-debate-about-census-nvato9214",
@@ -1420,39 +1538,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-audio-2026-aug-07-alan-jones-on-trial",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/audio/2026/aug/07/alan-jones-on-trial-a-fearful-friend-and-generous-payments-full-story-podcast-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/353d7620d07d010110dc441bf59c383b5c02aca8/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59a301eaf9e6bfac208bbe6fb67b9e60",
-          "publishedAt": "2026-08-07T01:07:13.000Z",
-          "title": {
-            "en": "Alan Jones on Trial: A ‘fearful’ friend and ‘generous’ payments – podcast",
-            "zh": "艾伦·琼斯受审：一个“可怕”的朋友和“慷慨”的付款 – 播客"
-          },
-          "summary": {
-            "en": "The criminal trial of veteran broadcaster Alan Jones has begun almost two years after he was arrested over multiple counts of indecent assault and sexual touching – charges he strongly denies. What did week one reveal about the prosecution’s case, and the way Jones treated his...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The criminal trial of veteran broadcaster Alan Jones has begun almost two years after he was arrested over multiple counts of indecent assault and sexual touching – charges he strongly denies. What did week one reveal about the prosecution’s case, and the way Jones treated his alleged teenage victim? Nour Haydar speaks to Guardian Australia’s media correspondent, Amanda Meade , to unpack opening statements and key evidence from the first week of the trial Continue reading...",
-            "zh": "资深广播员艾伦·琼斯 (Alan Jones) 因多项非礼和性接触罪名被捕近两年后，对他的刑事审判开始了——他强烈否认这些指控。第一周揭示了检方的案件以及琼斯对待他所谓的青少年受害者的方式是什么？努尔·海达尔 (Nour Haydar) 接受澳大利亚卫报媒体记者阿曼达·米德 (Amanda Meade) 采访，解开审判第一周的开庭陈词和关键证据 继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-senator-lidia-thorpe-backs-call-for-standalo",
           "section": "australia",
           "source": "SBS News Australia",
@@ -1552,39 +1637,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-aug-07-australia-parent-visa-pro",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/07/australia-parent-visa-processing-applicants-die-waiting",
-          "image": "https://i.guim.co.uk/img/media/8d2f57251181412859bc1985853835faa1d9c246/0_36_1400_1119/master/1400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f24d8bac036fdf18fd0f916dd2c094e3",
-          "publishedAt": "2026-08-06T15:00:05.000Z",
-          "title": {
-            "en": "Australia’s $50,000 parent visa takes so long to process that applicants die waiting",
-            "zh": "澳大利亚5万澳元的父母签证处理时间太长，导致申请人在等待中死去"
-          },
-          "summary": {
-            "en": "Approvals can take decades – and more than 1,500 people died in a 21-month period as they waited, data shows Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Navjot Singh Kailay is all-too familiar with the...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Approvals can take decades – and more than 1,500 people died in a 21-month period as they waited, data shows Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Navjot Singh Kailay is all-too familiar with the “horror stories” of Australia’s family visa system. The families facing decades-long wait times for an ageing parent to be able to settle with their loved ones. Australians stuck in a visa limbo that causes mental anguish and financial hardships. Continue reading...",
-            "zh": "批准可能需要数十年的时间，数据显示，在 21 个月的等待时间里，有超过 1,500 人死亡。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 Navjot Singh Kailay 对澳大利亚家庭签证制度的“恐怖故事”再熟悉不过了。这些家庭面临着长达数十年的等待，等待年迈的父母能够与亲人安顿下来。澳大利亚人陷入签证困境，导致精神痛苦和经济困难。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-moon-space-junk-tipping-point-spacex-rocket-",
           "section": "australia",
           "source": "SBS News Australia",
@@ -1650,39 +1702,6 @@
           },
           "aiVerseId": "prov_27_12",
           "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-rba-interest-rates-decision-august-2026-infl",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/rba-interest-rates-decision-august-2026-inflation-jobs-spending/1l996wgp0",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-rba-interest-rates-decision-august-2026-infl.jpg",
-          "publishedAt": "2026-08-06T05:46:15.000Z",
-          "title": {
-            "en": "'Don't bank on it': Three factors shaping next week's interest rates decision",
-            "zh": "“不要指望它”：影响下周利率决定的三个因素"
-          },
-          "summary": {
-            "en": "A hold on interest rates is widely expected, but one expert says the RBA's next decision is not a foregone conclusion.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Millions of borrowers will be watching closely when the Reserve Bank of Australia (RBA) announces its latest interest rates decision next week.\n\nA mortgage expert says it will be a close call despite expectations among the 'big four' banks &#x2014; Commonwealth Bank, Westpac, NAB and ANZ &#x2014; that the central bank will leave the cash rate on hold at 4.35 per cent.\n\nThe RBA has already lifted rates three times this year, while governor Michele Bullock has refused to rule out further hikes as inflation remains above its 2-3 per cent target band.\n\n\"They've got a clock ticking in the background, particularly when it comes to inflation,\" said Sally Tindall, the data insights director at Canstar.\n\n\"The RBA board has repeatedly said that time is a factor in this battle with inflation because the longer we take to get back down, the harder it becomes, and the more entrenched inflation becomes\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe board will examine three key economic indicators released in recent weeks before handing down its decision on Tuesday.\n\nInflationary pressures, as measured by both the consumer price index (CPI) and trimmed mean inflation, are frequently cited in the RBA's statements on its decision-making.\n\nIn June, the RBA said inflation was still too high and warned higher fuel and commodity costs are starting to flow into other parts of the economy, including housing and construction.\n\nBullock said Australia already had an inflation problem before disruptions to global oil markets caused by conflict in the Middle East.\n\nThe most recent data from the Australian Bureau of Statistics (ABS) showed a shift in inflation in June.\n\nHeadline inflation fell from 4 per cent to 3.8 per cent while the trimmed mean, which strips out volatile items, remained steady at 3.6 per cent.\n\nTindall said that inflation predictions have shifted over time primarily due to the war in the Middle East, which has added to inflationary pressures.\n\nThe figures for June were \"perhaps better than we were expecting,\" Tindall said, \"but still a long way from target\".\n\nThe RBA aims to bring inflation down to between 2 and 3 per cent, fulfilling one of its mandates to keep it low and stable.\n\nIts other mandate is to support full employment, meaning as many Australians in work as possible without creating excessive inflation.\n\nIn June, the unemployment rate was 4.4 per cent, slightly below the 2026 peak of 4.5 per cent in April.\n\nThese figures have been on the RBA governor's mind. Earlier this month, Bullock said they were higher than expected.\n\nHowever, Tindall said that while elevated, this figure of 4.4 per cent in itself is not going to push the board into \"ringing an...",
-            "zh": "澳大利亚储备银行（RBA）下周宣布最新利率决定时，数百万借款人将密切关注。 一位抵押贷款专家表示，尽管“四大”银行——联邦银行、西太平洋银行、国民银行和澳新银行——预计央行将把现金利率维持在 4.35%，但这将是一次千钧一发的机会。 澳洲联储今年已三次加息，而行长米歇尔·布洛克(Michele Bullock)拒绝排除进一步加息的可能性，因为通胀仍高于2%至3%的目标区间。 Canstar 数据洞察总监 Sally Tindall 表示：“他们在后台滴答作响，尤其是在通胀方面。” “澳洲联储董事会一再表示，时间是这场与通胀斗争的一个因素，因为我们回落的时间越长，就越困难，通胀也就越根深蒂固”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 委员会将审查最近几周发布的三项关键经济指标，然后在周二做出决定。 澳大利亚央行在其决策声明中经常提到通胀压力，以消费者价格指数（CPI）和修正平均通胀来衡量。 六月，澳洲联储表示通胀仍然过高，并警告更高的燃料和大宗商品成本开始流入经济的其他领域，包括住房和建筑业。 布洛克表示，在中东冲突导致全球石油市场中断之前，澳大利亚就已经存在通胀问题。 澳大利亚统计局 (ABS) 的最新数据显示 6 月份通胀发生转变。 总体通胀率从 4% 下降至 3.8%，而剔除波动性项目的修正平均值则保持稳定在 3.6%。 廷德尔表示，通胀预测随着时间的推移而发生变化，主要是由于中东战争加剧了通胀压力。 廷德尔说，六月份的数据“可能比我们预期的要好”，“但距离目标还有很长的路要走”。 澳大利亚央行的目标是将通胀率降至 2% 至 3%，履行其保持通胀低位和稳定的使命之一。 其另一项任务是支持充分就业，这意味着尽可能多的澳大利亚人有工作，而不会造成过度的通货膨胀。 6月份失业率为4.4%，略低于4月份4.5%的2026年峰值。 这些数字一直在澳大利亚央行行长的脑海中。本月早些时候，布洛克表示，这一数字高于预期。 然而，廷德尔表示，虽然有所提高，但 4.4% 的数字本身并不会促使董事会“敲响......"
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
-          },
-          "translationState": "fallback"
         }
       ]
     }
