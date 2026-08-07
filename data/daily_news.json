@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T21:29:34.283Z",
+  "generatedAt": "2026-08-07T22:26:43.392Z",
   "editionDate": "2026-08-08",
   "sources": [
     {
@@ -106,11 +106,211 @@
       },
       "sourceNotes": [
         "SBS News World",
-        "The Guardian World",
         "BBC News World",
+        "The Guardian World",
         "DW World"
       ],
       "items": [
+        {
+          "id": "www-sbs-com-au-news-article-ai-escaped-its-testing-sandbox-hacked-websit",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/ai-escaped-its-testing-sandbox-hacked-website-the-law-still-catching-up/30ajusjrz",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-ai-escaped-its-testing-sandbox-hacked-websit.jpg",
+          "publishedAt": "2026-08-07T22:14:41.000Z",
+          "title": {
+            "en": "AI escaped its testing sandbox and hacked a website. The law is still catching up",
+            "zh": "人工智能逃脱了测试沙箱并入侵了一个网站。法律仍在追赶"
+          },
+          "summary": {
+            "en": "Who should be held accountable when an AI model acts on its own?",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Cyberattacks carried out by two OpenAI artificial intelligence models acting autonomously raise a novel legal question: who is responsible when AI goes rogue?\n\nIn mid-July, two OpenAI models undergoing testing left their confined environment &#x2014; a scenario the developers had not anticipated &#x2014; and ventured out onto the internet, attacking Hugging Face, an AI model-hosting platform.\n\nHugging Face CEO Clement Delangue said Friday his company would not be pursuing legal action at this time.\n\nHe added Sunday that the US legal code has to be amended to address such groundbreaking incursions.\n\n\"We don't want to end up in a world where everyone is facing cyberattacks all the time because of agents and companies that are creating these agents,\" Delangue said on CBS News show \"Face the Nation.\"\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"So I think it's important for regulators, for policymakers to think about the legal framework of this new kind of technology risk,\" he added.\n\nIn his remarks on Friday, he also mentioned Anthropic, which revealed that three of its models had broken into three different websites, also during testing.\n\nUnder US civil and criminal law, unauthorised access to a computer system is an offence.\n\n\"If a human OpenAI employee had broken into Hugging Face's systems ... OpenAI would be liable for the employee's wrongful conduct,\" University of Houston law professor Gabriel Weil wrote in an opinion piece for the Transformer newsletter.\n\n\"When an AI agent does it, the law treats it very differently, at least for now,\" he added.\n\nMatthew Tokson, a University of Utah law professor who focuses on new technologies, had a similar view, saying \"we haven't had to grapple with that being formed in anything that's not human, and I don't think courts are likely to be there yet.\"\n\nThe question remains open, however, when it comes to the company that created the model.\n\n\"Does 'we didn't tell the AI to do that' end the liability question?\" asked Rob T. Lee, head of research at the SANS cybersecurity training institute, in a post on X.\n\nUniversity of Washington law professor Ryan Calo does not believe a criminal case would be likely to succeed.\n\n\"The company or individual would have to be at least reckless,\" he said, explaining they would \"be substantially certain the crime would occur and build or prompt the system anyway.\"\n\nExperts see greater potential for a civil &#x2014; rather than criminal &#x2014; case, where the burden of proof is lower.\n\n\"Some people think that AI companies should be strictly liable if an AI agent that they deploy totally breaks out, causes damages,\" Tokson explained.\n\n\"Others would prefer to do like a negligence...",
+            "zh": "由两个自主运行的 OpenAI 人工智能模型发起的网络攻击引发了一个新的法律问题：当人工智能失控时，谁该负责？ 7 月中旬，两个正在接受测试的 OpenAI 模型离开了有限的环境（这是开发人员没有预料到的情况），冒险进入互联网，攻击 AI 模型托管平台 Hugging Face。 Hugging Face 首席执行官克莱门特·德兰格 (Clement Delangue) 周五表示，他的公司目前不会采取法律行动。 他周日补充说，必须修改美国法律以应对此类突破性的入侵行为。 德兰格在哥伦比亚广播公司新闻节目“面对国家”中表示：“我们不希望最终进入这样一个世界：每个人都因为代理和创建这些代理的公司而一直面临网络攻击。” 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “因此，我认为监管机构和政策制定者必须考虑这种新型技术风险的法律框架，”他补充道。 在周五的讲话中，他还提到了 Anthropic，该公司透露，其三个模型也在测试期间侵入了三个不同的网站。 根据美国民法和刑法，未经授权访问计算机系统属于犯罪行为。 休斯顿大学法学教授加布里埃尔·韦尔 (Gabriel Weil) 在 Transformer 时事通讯的一篇评论文章中写道：“如果一名 OpenAI 人类员工闯入了 Hugging Face 的系统……OpenAI 将为该员工的不当行为承担责任。” “当人工智能代理这样做时，法律会以非常不同的方式对待它，至少目前是这样，”他补充道。 犹他大学法学教授马修·托克森（Matthew Tokson）专注于新技术，他也有类似的观点，他说：“我们还没有必要去解决非人类事物中形成的技术，而且我认为法院还不会出现这种情况。” 然而，当涉及到创建该模型的公司时，问题仍然悬而未决。 “‘我们没有告诉人工智能这样做’就结束了责任问题吗？” SANS 网络安全培训机构的研究主管 Rob T. Lee 在 X 上的一篇帖子中问道。 华盛顿大学法学教授瑞安·卡洛 (Ryan Calo) 认为刑事案件不可能成功。 他说：“公司或个人至少必须鲁莽行事。”他解释说，他们将“基本确定犯罪会发生，并无论如何都会建立或促使该系统发生。” 专家认为民事案件比刑事案件更有潜力，因为民事案件的举证责任较低。 “有些人认为，如果人工智能公司部署的人工智能代理完全崩溃并造成损害，人工智能公司应该承担严格责任，”托克森解释道。 “其他人宁愿像疏忽一样做......"
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c5yv5l6yr5ko-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+          "publishedAt": "2026-08-07T22:13:55.000Z",
+          "title": {
+            "en": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+            "zh": "西班牙因休达移民涌入问题与意大利争执加剧而实施边境管制"
+          },
+          "summary": {
+            "en": "Italy introduced border controls after approximately 78,000 migrants from Morocco entered the Spanish exclave of Ceuta, intensifying a dispute with Spain.",
+            "zh": "约78,000名摩洛哥移民涌入西班牙飞地休达后，意大利实施了边境管制，加剧了与西班牙的争执。"
+          },
+          "body": {
+            "en": "Spain has imposed border controls on all air and sea travel from Italy as a row between the two EU countries intensifies.\n\nThe measures - which started at midnight (22:00 GMT) and will last for a month - come a week after Italy introduced similar restrictions following an influx of about 78,000 migrants from Morocco into the Spanish exclave of Ceuta.\n\nOn Friday, Spain demanded Italy reverse its checks by Sunday. Rome said they would stay until at least 15 August - when, it said, Spain \"expects a new wave of migration\" to hit Ceuta.\n\nThe crisis has pitted Spain's socialist leader Pedro Sanchez against Italy's conservative leader Giorgia Meloni - who has long called for stricter EU migration rules.\n\nItaly does not share a land border with Spain. Its government said last week that decision to temporarily suspend the ​border-free Schengen arrangement was to prevent any of the migrants who had entered Ceuta from travelling on to Italy.\n\nMadrid dismissed this position, saying it was based on \"spurious arguments\" that lacked any basis in fact because the migrants who entered Ceuta had no way of entering the Schengen area.\n\nIn its response to the Spanish threat earlier on Friday, Italy's government said it would not accept \"ultimatums\". It added that it did not intend \"under any circumstances to reconsider the decision to suspend the application of the Schengen Agreement for third-country nationals arriving from Spain, at least until August 15th and in any case until security and terrorist risks for Italy have been completely eliminated\".\n\nItalian officials have said local authorities carrying out checks do \"everything possible\" to ensure maximum comfort for both Spanish and other European citizens arriving in Italy from Spain.\n\nRome has also reiterated that Spanish citizens are exempt from additional checks when arriving in Italy, with these extra steps only for non-EU residents.\n\nHowever, El Pais reported that several airport terminals have seen long queues and waiting times in recent days, with passengers arriving from Spain directed to a specific line for checks.\n\nThe counter-measures Madrid decided to impose on Friday would include passport, nationality and visa checks for Italian passengers and visitors from other countries arriving from Italy \"amid the persistent irregular migratory pressure\" the country was experiencing, a statement from Spain's government said.\n\nChecks would stay in place until 7 September \"unless a change in the circumstances that led to its adoption warrants modifying that period\".\n\nTemporary suspensions of the Schengen agreement are not unprecedented. Italy also maintains controls on its border with Slovenia.\n\nItaly's decision to suspend Schengen for a month was backed by Finland and Denmark, while the Czech Republic called for...",
+            "zh": "随着两个欧盟国家之间的争执加剧，西班牙对来自意大利的所有空中和海上旅行实施了边境管制。 这些措施从午夜（格林威治标准时间 22:00）开始，将持续一个月。一周前，意大利在大约 78,000 名摩洛哥移民涌入西班牙飞地休达后推出了类似的限制措施。 周五，西班牙要求意大利在周日之前撤销其支票。罗马方面表示，他们将至少停留到8月15日——届时，西班牙“预计新一波移民潮”将袭击休达。 这场危机使西班牙社会党领导人佩德罗·桑切斯与意大利保守派领导人乔治亚·梅洛尼展开对立，后者长期以来一直呼吁制定更严格的欧盟移民规则。 意大利与西班牙没有陆地边界。该国政府上周表示，暂时中止无边界申根安排的决定是为了防止任何进入休达的移民继续前往意大利。 马德里驳回了这一立场，称这是基于“虚假论点”，缺乏任何事实依据，因为进入休达的移民无法进入申根区。 周五早些时候，意大利政府在回应西班牙威胁时表示，不会接受“最后通牒”。它补充说，它不打算“在任何情况下重新考虑暂停对来自西班牙的第三国国民适用申根协定的决定，至少在8月15日之前，无论如何，直到意大利的安全和恐怖主义风险完全消除为止”。 意大利官员表示，地方当局进行检查时会“尽一切可能”确保从西班牙抵达意大利的西班牙和其他欧洲公民获得最大的舒适度。 罗马还重申，西班牙公民在抵达意大利时可免于接受额外检查，这些额外步骤仅适用于非欧盟居民。 然而，《国家报》报道称，最近几天，几个机场航站楼出现了排长队和等待时间的情况，从西班牙抵达的乘客被引导到特定的队列进行检查。 西班牙政府的一份声明称，马德里决定在周五实施的反制措施包括对意大利乘客和从意大利抵达的其他国家的游客进行护照、国籍和签证检查，“因为该国正在经历持续的非正常移民压力”。 检查将持续到 9 月 7 日，“除非导致其采用的情况发生变化，需要修改该期限”。 申根协议的暂时中止并非史无前例。意大利还保持对与斯洛文尼亚边境的控制。 意大利暂停申根一个月的决定得到了芬兰和丹麦的支持，而捷克共和国则呼吁......"
+          },
+          "reflection": {
+            "en": "The influx of migrants into Ceuta highlights the complex challenges nations face in managing borders and responding to those seeking new homes. Yahweh's ancient command reminds us to treat foreigners residing among us as native-born, loving them as ourselves, remembering our shared human experience. This principle calls for compassion and justice even...",
+            "zh": "大量移民涌入休达，凸显了各国在管理边境和回应寻求新家园者时所面临的复杂挑战。雅伟古老的诫命提醒我们，要善待居住在我们土地上的外国人，爱他们如同爱自己，并记住我们共同的人类经历。这一原则呼吁我们在制定艰难的政策时，仍要秉持怜悯和公义。"
+          },
+          "verse": {
+            "reference": "Leviticus 19:33-34",
+            "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
+            "textZh": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
+            "themeEn": "Foreigner as native-born",
+            "themeZh": "待寄居者如本族"
+          },
+          "aiVerseId": "lev_19_33",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cy8ey458pv5o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac11/live/b7a89160-929b-11f1-b6aa-e1ff997f01b8.jpg",
+          "publishedAt": "2026-08-07T22:07:00.000Z",
+          "title": {
+            "en": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+            "zh": "亨特·拜登告诉 BBC，他的赦免对美国或他父亲的遗产“不利”"
+          },
+          "summary": {
+            "en": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Hunter Biden has told the BBC he is \"the most privileged person there is\" after receiving a presidential pardon from his father, former US President Joe Biden, acknowledging it was not a good choice for America or his father's legacy.\n\nIn a wide-ranging interview with the BBC's Newsnight, Hunter Biden defended the controversial pardon, revealed his father's \"painful\" cancer has spread, ruled out seeking elected office and spoke about helping others recover from addiction.\n\nAsked about the 2024 pardon, he said he understood the criticism but noted: \"What would you have thought of my dad if he did not do that for me.\"\n\n\"It's not fair… All I know is that I'm grateful that he did it for me,\" he said, acknowledging the pardon was \"not good\" for the American people, the Constitution - or his father's legacy.\n\nHe argued to the BBC that his father ultimately acted out of concern that he would become a target under Donald Trump's incoming administration.\n\n\"I was the only one in the world that could have gotten what I got from the only person in the world who could give it, my father.\"\n\nHunter Biden also insisted he and his father had never discussed the possibility of a pardon before it was granted.\n\n\"There is no way that you can have those kinds of discussions that would not become public,\" he said.\n\nPresident Biden granted his son a full and unconditional pardon in December 2024, despite repeatedly saying beforehand that he would not use the powers of the presidency to intervene in his son's legal cases. In announcing the decision, the former president said his son had been \"selectively and unfairly prosecuted\".\n\nThe pardon covered his son's federal gun conviction, a tax case he'd pled guilty to and any federal offences committed between 2014 and 2024.\n\nAsked about the depths of his addiction, he described drinking almost a gallon of vodka a day while smoking crack cocaine almost every 15 minutes at its worst.\n\nReflecting on why he turned to drugs and alcohol, Hunter Biden rejected the suggestion that he felt untouchable because he was the son of a president.\n\n\"I wasn't reaching for anything except oblivion,\" he said. He noted that his addiction was a way to escape feelings of anxiety and isolation.\n\nThe drugs and alcohol initially felt like a solution before becoming \"the thing that almost killed me\", he noted.\n\nHunter Biden got emotional at times in the interview, notably when discussing his father's health.\n\nCancer is really hard,\" he said, stopping to clear his throat. \"It's really sad to watch.\"\n\nHe revealed that the \"cancer has spread, metastasised into his bones and further. It's very painful\" and \"very debilitating\".\n\n\"My dad is, to this day, the centre of our family,\" he said. \"He's the best father, the best husband, the best grandfather.\"\n\n\"The...",
+            "zh": "亨特·拜登告诉英国广播公司，在获得他父亲、美国前总统乔·拜登的总统赦免后，他是“世界上最有特权的人”，承认这对美国或他父亲的遗产来说不是一个好的选择。 在接受英国广播公司《新闻之夜》采访时，亨特·拜登为备受争议的赦免辩护，透露他父亲的“痛苦”癌症已经扩散，排除了寻求当选公职的可能性，并谈到了帮助其他人戒除毒瘾。 当被问及 2024 年的赦免时，他说他理解这些批评，但指出：“如果我父亲不为我这样做，你会怎么想。” “这不公平……我所知道的是，我很感激他为我做了这件事，”他说，并承认这次赦免对美国人民、宪法或他父亲的遗产“不好”。 他向英国广播公司辩称，他父亲的行为最终是出于担心他会成为唐纳德·特朗普即将上任的政府的目标。 “我是世界上唯一一个能够从世界上唯一一个能够给予我的人那里得到我所得到的东西的人，我的父亲。” 亨特·拜登还坚称，在获得赦免之前，他和他的父亲从未讨论过赦免的可能性。 “你不可能进行那些不公开的讨论，”他说。 拜登总统于 2024 年 12 月给予儿子全面无条件赦免，尽管他事先多次表示不会利用总统权力干预儿子的法律案件。这位前总统在宣布这一决定时表示，他的儿子受到了“选择性和不公平的起诉”。 此次赦免涵盖了他儿子的联邦枪支定罪、他承认有罪的税务案件以及 2014 年至 2024 年间犯下的任何联邦罪行。 当被问及他的毒瘾有多严重时，他描述说每天喝近一加仑的伏特加，最糟糕的时候几乎每 15 分钟就吸食一次强效可卡因。 亨特·拜登在反思自己为何吸毒和酗酒时，拒绝了因为自己是总统之子而感到自己不可触碰的说法。 “除了遗忘之外，我没有追求任何东西，”他说。他指出，他的毒瘾是逃避焦虑和孤立感的一种方式。 他指出，毒品和酒精最初感觉像是一种解决方案，但后来变成“几乎要了我的命”。 亨特·拜登在接受采访时有时会情绪激动，特别是在讨论他父亲的健康状况时。 癌症真的很难受，”他停下来清了清嗓子，说道。“看着真的很难过。” 他透露，“癌症已经扩散，转移到他的骨头甚至更远的地方。这是非常痛苦的”和“非常虚弱的”。 “直到今天，我的父亲仍然是我们家庭的中心，”他说。 “他是最好的父亲、最好的丈夫、最好的祖父。” “那个..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-live-2026-aug-07-donald-trump-ohio-republica",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
+          "image": "https://i.guim.co.uk/img/media/5292ff0766733e690b2b74b35a987c061e302fe0/184_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f9ca7d256dd76a877571af2daa4364fc",
+          "publishedAt": "2026-08-07T21:56:16.000Z",
+          "title": {
+            "en": "Key Republican says he will vote for Todd Blanche to become attorney general after other senators defect – live",
+            "zh": "唐纳德·特朗普拒绝就俄亥俄州共和党人马克斯·米勒是否应在明天前退出发表意见——美国政治直播"
+          },
+          "summary": {
+            "en": "Former President Donald Trump declined to state whether Ohio Republican Max Miller should withdraw from his re-election bid, despite domestic abuse allegations made by Miller's ex-wife. Separately, Republican Senator Lisa Murkowski announced her opposition to Trump's nominee for attorney general, Todd Blanche.",
+            "zh": "前总统唐纳德·特朗普拒绝就是否应让俄亥俄州共和党人马克斯·米勒退出竞选连任发表意见，尽管米勒的前妻对其提出了家庭暴力指控。此外，共和党参议员丽莎·穆尔科斯基宣布她将反对特朗普提名的司法部长人选托德·布兰奇。"
+          },
+          "body": {
+            "en": "Senator Bill Cassidy, who will not be returning to Congress after losing his Louisiana primary to a Trump-backed candidate, said he would support the AG nominee Murkowski won’t support Blanche’s attorney general bid Sign up for the Breaking News US email Following Lisa Murkowski’s announcement that she plans to vote “no” on Todd Blanche’s nomination to lead the Department of Justice, the acting attorney general can’t afford another defection in order to secure the permanent position. So far the only other holdout is Senator Bill Cassidy – a GOP lawmaker from Louisiana. Cassidy, a former physician, said this week he’s concerned about Blanche’s ability to lead the justice department independently, considering he once served as Donald Trump’s personal lawyer. Continue reading...",
+            "zh": "特朗普的前高级顾问正在寻求连任，尽管他的前妻阿拉斯加州共和党参议员丽莎·穆尔科斯基 (Lisa Murkowski) 指控存在家庭暴力，周五表示，她将反对美国总统唐纳德·特朗普 (Donald Trump) 提名的司法部长托德·布兰奇 (Todd Blanche)。 “我与布兰奇先生进行了多次建设性的会面，他给人的印象是正派且有能力，”穆尔科斯基在 X 上的一篇帖子中说道。继续阅读..."
+          },
+          "reflection": {
+            "en": "The integrity of leadership is crucial, as a throne is established by righteousness, not by overlooking serious allegations. When those in power fail to address accusations of wrongdoing, it raises questions about the moral foundation of their authority. Yahweh's word reminds us that justice and ethical conduct are essential for stable and legitimate...",
+            "zh": "领导者的正直至关重要，因为王位是靠公义建立的，而不是靠忽视严重指控。当掌权者未能处理不当行为的指控时，这引发了对其权力道德基础的质疑。雅伟的话语提醒我们，公义和道德行为对于稳定和合法的治理至关重要。"
+          },
+          "verse": {
+            "reference": "Proverbs 16:12",
+            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
+            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
+            "themeEn": "Righteous rule",
+            "themeZh": "以公义治国"
+          },
+          "aiVerseId": "prov_16_12",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-aug-07-spain-to-introduce-temporary-borde",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+          "image": "https://i.guim.co.uk/img/media/75ae6f04a27041388c7906e77e7634094837a21b/0_0_4492_3593/master/4492.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0f15db80fb55784636be11db93779aa",
+          "publishedAt": "2026-08-07T21:44:38.000Z",
+          "title": {
+            "en": "Spain to introduce temporary border checks on visitors from Italy",
+            "zh": "西班牙将对来自意大利的游客实行临时边境检查"
+          },
+          "summary": {
+            "en": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta. The...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta. The checks, which come “amid the persistent irregular migration pressure” facing Italy, will start at midnight on Saturday and last until 7 September, Spain’s interior ministry said in a statement. Continue reading...",
+            "zh": "西班牙宣布将对来自意大利的游客实施临时边境检查，以回应罗马在大批摩洛哥人涌入休达后采取的类似措施。西班牙内政部在一份声明中表示，这些检查是在意大利“持续面临非正常移民压力”的情况下进行的，将于周六午夜开始，一直持续到 9 月 7 日。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-07-idaho-police-shooting-in-n-out-b",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video",
+          "image": "https://i.guim.co.uk/img/media/4b016fc926118f15d2e596e390011ababed253e5/474_0_4743_3794/master/4743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4330cd45bef15d73dd7c16055a1ad4d",
+          "publishedAt": "2026-08-07T21:41:31.000Z",
+          "title": {
+            "en": "Idaho police release video of In-N-Out Burger mass shooting that killed three",
+            "zh": "爱达荷州警方公布了导致三人死亡的 In-N-Out Burger 大规模枪击事件的视频"
+          },
+          "summary": {
+            "en": "Officials praise unarmed employee from nearby store for engaging 24-year-old gunman who later killed himself Police released video on Friday of a mass shooting that killed three people at an Idaho In-N-Out Burger restaurant last weekend, and praised an unarmed employee from a...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Officials praise unarmed employee from nearby store for engaging 24-year-old gunman who later killed himself Police released video on Friday of a mass shooting that killed three people at an Idaho In-N-Out Burger restaurant last weekend, and praised an unarmed employee from a nearby store who engaged the gunman outdoors, slowing him down and possibly preventing more deaths as authorities were catching up. The video released by the police also showed at least three people confronted the gunman with their own weapons during the incident. Continue reading...",
+            "zh": "警方周五发布了一段视频，显示上周末爱达荷州 In-N-Out 汉堡餐厅发生大规模枪击事件，造成三人死亡，官员赞扬附近一家商店的手无寸铁的员工在户外与枪手交锋，减缓了枪手的速度，并可能防止更多人死亡，因为当局正在追赶。警方公布的视频还显示，事件中至少有三人用自己的武器与枪手对峙。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-sbs-com-au-news-article-rights-groups-decry-israeli-killing-of-leban",
           "section": "world",
@@ -247,73 +447,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-cy8ey458pv5o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac11/live/b7a89160-929b-11f1-b6aa-e1ff997f01b8.jpg",
-          "publishedAt": "2026-08-07T21:16:52.000Z",
-          "title": {
-            "en": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-            "zh": "亨特·拜登告诉 BBC，他的赦免对美国或他父亲的遗产“不利”"
-          },
-          "summary": {
-            "en": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declining health.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Hunter Biden has told the BBC he is \"the most privileged person there is\" after receiving a presidential pardon from his father, former US President Joe Biden, acknowledging it was not a good choice for America or his father's legacy.\n\nIn a wide-ranging interview with the BBC's Newsnight, Hunter Biden defended the controversial pardon, reflected on his father's declining health, ruled out seeking elected office and spoke about helping others recover from addiction.\n\nAsked about the 2024 pardon, he said he understood the criticism but noted: \"What would you have thought of my dad if he did not do that for me.\"\n\n\"It's not fair… All I know is that I'm grateful that he did it for me,\" he said, not acknowledging the pardon was \"not good\" for the American people, the Constitution - or his father's legacy.\n\nHe argued to the BBC that his father ultimately acted out of concern that he would become a target under Donald Trump's incoming administration.\n\n\"I was the only one in the world that could have gotten what I got from the only person in the world who could give it, my father.\"\n\nHunter Biden also insisted he and his father had never discussed the possibility of a pardon before it was granted.\n\n\"There is no way that you can have those kinds of discussions that would not become public,\" he said.\n\nPresident Biden granted his son a full and unconditional pardon in December 2024, despite repeatedly saying beforehand that he would not use the powers of the presidency to intervene in his son's legal cases. In announcing the decision, the former president said his son had been \"selectively and unfairly prosecuted\".\n\nThe pardon covered his son's federal gun conviction, a tax case he'd pled guilty to and any federal offences committed between 2014 and 2024.\n\nHunter Biden got emotional at times in the interview, notably when discussing his father's health.\n\nCancer is really hard,\" he said, stopping to clear his throat. \"It's really sad to watch.\"\n\n\"My dad is, to this day, the centre of our family,\" he said. \"He's the best father, the best husband, the best grandfather.\"\n\nHe said Joe Biden's cancer had spread, describing it as \"very painful\" and \"very debilitating\".\n\n\"The only thing that I say about my dad, about his health right now, is I wish he would complain more.\"\n\nHunter Biden also reflected on the presidential debate in June 2024 that ultimately ended his father's re-election campaign. He said he had watched it from his home in California and immediately sensed something was wrong.\n\nHunter Biden has previously argued that his father's poor debate performance reflected physical exhaustion after extensive travel. Following Joe Biden's cancer diagnosis, he has also questioned whether the illness may already have been affecting his father.\n\nHe said his father...",
-            "zh": "亨特·拜登告诉英国广播公司，在获得他父亲、美国前总统乔·拜登的总统赦免后，他是“世界上最有特权的人”，承认这对美国或他父亲的遗产来说不是一个好的选择。 在接受英国广播公司《新闻之夜》的广泛采访时，亨特·拜登为备受争议的赦免辩护，反思了父亲日益恶化的健康状况，排除了寻求当选公职的可能性，并谈到了帮助其他人戒除毒瘾。 当被问及 2024 年的赦免时，他说他理解这些批评，但指出：“如果我父亲不为我这样做，你会怎么想。” “这不公平……我所知道的是，我很感激他为我做了这件事，”他说，但没有承认这次赦免对美国人民、宪法或他父亲的遗产“不好”。 他向英国广播公司辩称，他父亲的行为最终是出于担心他会成为唐纳德·特朗普即将上任的政府的目标。 “我是世界上唯一一个能够从世界上唯一一个能够给予我的人那里得到我所得到的东西的人，我的父亲。” 亨特·拜登还坚称，在获得赦免之前，他和他的父亲从未讨论过赦免的可能性。 “你不可能进行那些不公开的讨论，”他说。 拜登总统于 2024 年 12 月给予儿子全面无条件赦免，尽管他事先多次表示不会利用总统权力干预儿子的法律案件。这位前总统在宣布这一决定时表示，他的儿子受到了“选择性和不公平的起诉”。 此次赦免涵盖了他儿子的联邦枪支定罪、他承认有罪的税务案件以及 2014 年至 2024 年间犯下的任何联邦罪行。 亨特·拜登在接受采访时有时会情绪激动，特别是在讨论他父亲的健康状况时。 癌症真的很难受，”他停下来清了清嗓子，说道。“看着真的很难过。” “直到今天，我的父亲仍然是我们家庭的中心，”他说。 “他是最好的父亲、最好的丈夫、最好的祖父。” 他说乔·拜登的癌症已经扩散，并称其“非常痛苦”和“非常虚弱”。 “关于我父亲，关于他现在的健康状况，我唯一想说的是，我希望他能抱怨更多。” 亨特·拜登还回顾了 2024 年 6 月的总统辩论，这场辩论最终结束了他父亲的连任竞选。他说他在加利福尼亚州的家中观看了这部电影，并立即意识到有些不对劲。 亨特·拜登此前曾辩称，他父亲糟糕的辩论表现反映了长期旅行后的身体疲惫。在乔·拜登被诊断出患有癌症后，他还质疑这种疾病是否可能已经影响了他的父亲。 他说他的父亲..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-live-2026-aug-07-donald-trump-ohio-republica",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-          "image": "https://i.guim.co.uk/img/media/5292ff0766733e690b2b74b35a987c061e302fe0/184_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f9ca7d256dd76a877571af2daa4364fc",
-          "publishedAt": "2026-08-07T21:16:25.000Z",
-          "title": {
-            "en": "Key Republican says he will vote for Todd Blanche to become attorney general after other senators defect – live",
-            "zh": "唐纳德·特朗普拒绝就俄亥俄州共和党人马克斯·米勒是否应在明天前退出发表意见——美国政治直播"
-          },
-          "summary": {
-            "en": "Former President Donald Trump declined to state whether Ohio Republican Max Miller should withdraw from his re-election bid, despite domestic abuse allegations made by Miller's ex-wife. Separately, Republican Senator Lisa Murkowski announced her opposition to Trump's nominee for attorney general, Todd Blanche.",
-            "zh": "前总统唐纳德·特朗普拒绝就是否应让俄亥俄州共和党人马克斯·米勒退出竞选连任发表意见，尽管米勒的前妻对其提出了家庭暴力指控。此外，共和党参议员丽莎·穆尔科斯基宣布她将反对特朗普提名的司法部长人选托德·布兰奇。"
-          },
-          "body": {
-            "en": "Senator Bill Cassidy, who will not be returning to Congress after losing his Louisiana primary to a Trump-backed candidate, said he would support the AG nominee Murkowski won’t support Blanche’s attorney general bid Sign up for the Breaking News US email Following Lisa Murkowski’s announcement that she plans to vote “no” on Todd Blanche’s nomination to lead the Department of Justice, the acting attorney general can’t afford another defection in order to secure the permanent position. So far the only other holdout is Senator Bill Cassidy – a GOP lawmaker from Louisiana. Cassidy, a former physician, said this week he’s concerned about Blanche’s ability to lead the justice department independently, considering he once served as Donald Trump’s personal lawyer. Continue reading...",
-            "zh": "特朗普的前高级顾问正在寻求连任，尽管他的前妻阿拉斯加州共和党参议员丽莎·穆尔科斯基 (Lisa Murkowski) 指控存在家庭暴力，周五表示，她将反对美国总统唐纳德·特朗普 (Donald Trump) 提名的司法部长托德·布兰奇 (Todd Blanche)。 “我与布兰奇先生进行了多次建设性的会面，他给人的印象是正派且有能力，”穆尔科斯基在 X 上的一篇帖子中说道。继续阅读..."
-          },
-          "reflection": {
-            "en": "The integrity of leadership is crucial, as a throne is established by righteousness, not by overlooking serious allegations. When those in power fail to address accusations of wrongdoing, it raises questions about the moral foundation of their authority. Yahweh's word reminds us that justice and ethical conduct are essential for stable and legitimate...",
-            "zh": "领导者的正直至关重要，因为王位是靠公义建立的，而不是靠忽视严重指控。当掌权者未能处理不当行为的指控时，这引发了对其权力道德基础的质疑。雅伟的话语提醒我们，公义和道德行为对于稳定和合法的治理至关重要。"
-          },
-          "verse": {
-            "reference": "Proverbs 16:12",
-            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
-            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
-            "themeEn": "Righteous rule",
-            "themeZh": "以公义治国"
-          },
-          "aiVerseId": "prov_16_12",
-          "translationState": "localized"
-        },
-        {
           "id": "www-bbc-co-uk-news-articles-cn9nz5qwl8jo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
@@ -323,94 +456,29 @@
           "publishedAt": "2026-08-07T21:09:51.000Z",
           "title": {
             "en": "What is birthright citizenship and how common is birth tourism in the US?",
-            "zh": "什么是出生公民权以及生育旅游在美国有多普遍？"
+            "zh": "什么是出生公民权？生育旅游在美国有多普遍？"
           },
           "summary": {
-            "en": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "The Trump administration is seeking to limit access to US citizenship for certain individuals by attempting to end birth tourism and tighten other eligibility requirements.",
+            "zh": "特朗普政府正试图通过终止“生育旅游”和收紧其他标准，限制某些人获得美国公民身份的途径。"
           },
           "body": {
             "en": "US President Donald Trump has announced new executive orders aimed at ending so-called birth tourism in the US and limiting birthright citizenship for certain groups.\n\nIt is part of a renewed effort by his administration to restrict access to US citizenship after the Supreme Court shot down Trump's first attempt in June.\n\nBirthright citizenship refers to the practice of granting citizenship to those born on US soil, with some exceptions, while birth tourism is when foreign nationals come to the US specifically to give birth and get their child citizenship.\n\nTrump signed two executive orders , a written order issued by a president to the federal government which does not require congressional approval, on Thursday.\n\nOne expands the existing definitions of non-citizens whose children are not eligible for birthright citizenship.\n\nIt prevents the automatic citizenship of babies born in the US to two non-citizen parents if one of the parents is a member of a foreign terrorist group, is a foreign government employee, has attempted to gain citizenship through fraudulent means, or is living in US territories where citizenship is not granted by US federal law.\n\nA few of those categories were already excluded under current birthright citizenship rules, but the one relating to membership of a foreign terrorist group could raise issues, according to Colleen Putzel-Kavanaugh, an associate policy analyst at the Migration Policy Institute, an independent nonpartisan research group.\n\nShe said it is difficult to know how, when, and by whom membership would be determined, and it is also not clear \"if the onus for proof falls on the government (to prove they are a member) or the individual (to prove they are not)\".\n\nThe second order, meanwhile, seeks to end the practice of birth tourism by directing the departments of state and homeland security to enhance regulations and expand enforcement against the practice.\n\nAccording to the executive order, operators in the birth tourism industry use deceptive advertising to entice foreign nationals to give birth in the US.\n\n\"They promise citizenship; access to public benefits; and short-term stays in specialised facilities, hotels, or rentals, but often fail to deliver on these promises,\" the order says.\n\nThe principle of birthright citizenship, known in legal terms as \"jus soli\" or \"right of the soil\", is enshrined in the 14th Amendment of the US Constitution.\n\nThe law was originally meant to grant citizenship to American-born, formerly enslaved people following the American Civil War.\n\nCurrently, nearly everyone born in the US, regardless of their parents' citizenship status, is granted US citizenship - with a few exceptions.\n\nThese include children born in the US to foreign diplomats, those born to enemy soldiers during a...",
             "zh": "美国总统唐纳德·特朗普宣布了新的行政命令，旨在结束美国所谓的生育旅游，并限制某些群体的出生公民权。 这是特朗普政府在六月最高法院否决特朗普的首次尝试后重新限制获得美国公民身份的努力的一部分。 出生权公民身份是指向在美国领土上出生的人授予公民身份的做法，但有一些例外，而生育旅游是指外国人专门来美国出生并获得儿童公民身份的情况。 特朗普周四签署了两项行政命令，这是总统向联邦政府发布的书面命令，不需要国会批准。 其中一项扩大了其子女没有资格获得出生公民权的非公民的现有定义。 如果父母中有两名非公民的父母在美国出生，其中一方是外国恐怖组织的成员，是外国政府雇员，试图通过欺诈手段获得公民身份，或者居住在美国联邦法律不授予公民身份的美国领土上，则该法案将阻止婴儿自动获得公民身份。 独立无党派研究机构移民政策研究所的副政策分析师科琳·普策尔-卡瓦诺表示，其中一些类别已经被现行的与生俱来的公民身份规则排除在外，但与外国恐怖组织成员身份相关的类别可能会引发问题。 她说，很难知道如何、何时以及由谁来确定成员资格，也不清楚“举证责任是否落在政府（证明他们是成员）或个人（证明他们不是成员）身上”。 与此同时，第二项命令旨在指示国家和国土安全部门加强监管并扩大针对这种做法的执法力度，以结束生育旅游的做法。 根据该行政命令，生育旅游行业的经营者利用欺骗性广告来吸引外国人来美国生育。 该命令称：“他们承诺公民身份；获得公共福利；以及在专门设施、酒店或出租屋中短期住宿，但往往无法兑现这些承诺。” 与生俱来的公民权原则，在法律术语中被称为“jus soli”或“土地权”，被载入美国宪法第十四修正案。 该法律最初的目的是向美国出生、美国内战后曾被奴役的人授予公民身份。 目前，几乎每个在美国出生的人，无论其父母的公民身份如何，都被授予美国公民身份 - 除少数例外。 其中包括外国外交官在美国出生的孩子，以及敌方士兵在..."
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "Debates over birthright citizenship and immigration policies often challenge us to consider how we treat those who seek a new home among us. Deuteronomy 10:19 reminds us to love foreigners, recalling that Yahweh's people were once strangers in a foreign land. This principle encourages a compassionate approach to those navigating complex pathways to...",
+            "zh": "关于出生公民权和移民政策的辩论，常促使我们思考如何对待那些在我们中间寻求新家园的人。申命记10:19提醒我们要爱寄居的，因为雅伟的子民也曾在他乡作客。这一原则鼓励我们以怜悯之心对待那些在复杂归属之路上前行的人。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Deuteronomy 10:19",
+            "textEn": "And you are to love those who are foreigners, for you yourselves were foreigners in Egypt.",
+            "textZh": "所以你们要怜爱寄居的，因为你们在埃及地也作过寄居的。",
+            "themeEn": "Welcome the foreigner",
+            "themeZh": "善待寄居者"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-aug-07-chad-eberle-arrested-police-kill",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
-          "image": "https://i.guim.co.uk/img/media/80f57699c1cdce1a956371893993abb5c01caea6/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e5ac3d002f80f263d90c35d8865c0e1",
-          "publishedAt": "2026-08-07T20:49:24.000Z",
-          "title": {
-            "en": "US police officer accused of killing three people in Mexico arrested at border",
-            "zh": "被控在墨西哥杀害三人的美国警察在边境被捕"
-          },
-          "summary": {
-            "en": "Chad Eberle of Texas charged over deadly shooting in Saltillo that officials say stemmed from custody dispute A Texas police officer has been arrested in Mexico after authorities there accused him of killing three people and critically injuring the mother of his child in what...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Chad Eberle of Texas charged over deadly shooting in Saltillo that officials say stemmed from custody dispute A Texas police officer has been arrested in Mexico after authorities there accused him of killing three people and critically injuring the mother of his child in what investigators say stemmed from a dispute over the custody of the minor. The Coahuila attorney general’s office said 35-year-old Chad Eberle was arrested on Wednesday at the border on a warrant accusing him of femicide and qualified homicide, according to La Razon de Mexico, a newspaper based in Mexico City. Under Mexican law, femicide refers to the intentional killing of a woman or girl because of her gender. Continue reading...",
-            "zh": "德克萨斯州查德·埃伯勒 (Chad Eberle) 被指控在萨尔蒂约 (Saltillo) 发生致命枪击事件，官员称这起枪击事件源于监护权纠纷。墨西哥当局指控一名德克萨斯州警察杀害三人，并重伤孩子的母亲，调查人员称，这起案件源于未成年人监护权纠纷，该警官已在墨西哥被捕。据墨西哥城报纸 La Razon de Mexico 报道，科阿韦拉州总检察长办公室表示，35 岁的查德·埃伯勒 (Chad Eberle) 于周三在边境被捕，逮捕令指控他犯有杀害女性罪和合格杀人罪。根据墨西哥法律，杀戮女性是指因性别而故意杀害妇女或女孩。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-aug-07-russia-sanctions-senate-passed-p",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum",
-          "image": "https://i.guim.co.uk/img/media/b07ebe52f4de74ae6efbbe234e88b72d2a0fc65c/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c815b5ac7a7964063ce2e0b2a6cccbff",
-          "publishedAt": "2026-08-07T20:22:18.000Z",
-          "title": {
-            "en": "US Senate passes Russia sanctions bill championed by Lindsey Graham",
-            "zh": "美国参议院通过林赛·格雷厄姆倡导的俄罗斯制裁法案"
-          },
-          "summary": {
-            "en": "Late senator spent final days of his life working to advance bill that will now head to the House after 86-11 Senate vote By a large, bipartisan margin, the US Senate on Friday approved a bill intended to punish Russia and countries that buy its petroleum exports over the...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Late senator spent final days of his life working to advance bill that will now head to the House after 86-11 Senate vote By a large, bipartisan margin, the US Senate on Friday approved a bill intended to punish Russia and countries that buy its petroleum exports over the invasion of Ukraine, capping a legislative push that was spurred by the death of its champion, the Republican senator Lindsey Graham. The measure, renamed the Lindsey O Graham Sanctioning Russia Act in honor of the late senator’s work on the issue, was approved by an 86-11 vote. Rand Paul of Kentucky was the sole Republican to oppose the legislation, together with 10 Democrats. Continue reading...",
-            "zh": "已故参议员在生命的最后几天致力于推进一项法案，该法案目前将在参议院以 86 比 11 投票后提交众议院。周五，美国参议院以两党大幅优势批准了一项法案，旨在惩罚俄罗斯和因入侵乌克兰而购买其石油出口的国家，从而结束了因该法案的支持者、共和党参议员林赛·格雷厄姆去世而推动的立法进程。该措施以 86 票对 11 票获得通过，以纪念已故参议员在该问题上所做的工作，更名为《林赛·格雷厄姆制裁俄罗斯法案》。肯塔基州的兰德·保罗 (Rand Paul) 是唯一一位反对这项立法的共和党人，另外还有 10 名民主党人。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
+          "aiVerseId": "deut_10_19",
+          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-iceland-s-eu-vote-a-nation-divided-over-europe-a-78285133-",
@@ -512,58 +580,24 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-aug-07-sierra-nevada-foothills-fire-dea",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/07/sierra-nevada-foothills-fire-death",
-          "image": "https://i.guim.co.uk/img/media/21b860aaccee8880d0b7d8571be517d0b01872f2/422_0_4218_3375/master/4218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d41de8365d50e5aeec2584a46a9f4af6",
-          "publishedAt": "2026-08-07T19:25:09.000Z",
-          "title": {
-            "en": "At least one person dead in California wildfire allegedly sparked by chainsaw",
-            "zh": "加州野火据称由电锯引发，已致至少一人死亡"
-          },
-          "summary": {
-            "en": "A wildfire in California's Sierra Nevada foothills has resulted in at least one fatality and burned over 15 square miles. Authorities have arrested a 65-year-old man in connection with the Gann fire, which officials believe was allegedly sparked by a chainsaw.",
-            "zh": "加利福尼亚州内华达山脉山麓的一场野火已造成至少一人死亡，并烧毁了超过15平方英里。当局已逮捕一名65岁男子，他涉嫌与这场甘恩大火有关，官员认为这场火灾是由电锯火花引发的。"
-          },
-          "body": {
-            "en": "Police arrested Herbert Wayne Smith, 65, in connection with the Gann fire, which has burned more than 15 sq miles in Calaveras county At least one person has died in a wildfire burning in the foothills of California’s Sierra Nevada mountain range that officials believed was sparked by a man using a chainsaw. Police arrested Herbert Wayne Smith, 65, in connection with the Gann fire, which has destroyed seven buildings, scorched more than 15 sq miles in Calaveras county and killed a well-known dog breeder in the town of Angels Camp. Continue reading...",
-            "zh": "警方逮捕了 65 岁的赫伯特·韦恩·史密斯 (Herbert Wayne Smith)，他与江恩大火有关，这场大火在卡拉维拉斯县烧毁了超过 15 平方英里的土地。加州内华达山脉山麓发生的野火已造成至少一人死亡，官员们认为这场野火是由一名男子使用电锯引发的。警方逮捕了 65 岁的赫伯特·韦恩·史密斯 (Herbert Wayne Smith)，罪名是与江恩大火有关。这场大火烧毁了七座建筑物，烧毁了卡拉维拉斯县超过 15 平方英里的土地，并杀死了天使营 (Angels Camp) 镇的一位著名养狗人。继续阅读..."
-          },
-          "reflection": {
-            "en": "The tragic wildfire, allegedly sparked by a chainsaw, reminds us how a seemingly small action can have devastating consequences. Just as a tiny spark can ignite a vast forest, our choices, even unintentional ones, carry significant weight. Yahweh calls us to consider the ripple effects of our deeds, both large and small.",
-            "zh": "这场据称由电锯火花引发的悲剧性野火，提醒我们一个看似微小的举动可能带来毁灭性的后果。正如一点火花能点燃整片森林，我们的选择，即使是无意的，也承载着重要的分量。雅伟呼召我们思考我们行为的连锁反应，无论大小。"
-          },
-          "verse": {
-            "reference": "James 3:5",
-            "textEn": "The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark.",
-            "textZh": "舌头在百体里也是最小的，却能说大话。看哪，最小的火能点着最大的树林。",
-            "themeEn": "Small spark, big fire",
-            "themeZh": "星星之火"
-          },
-          "aiVerseId": "jas_3_5",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-ceuta-spain-warns-italy-it-will-reciprocate-entry-checks-a",
+          "id": "www-dw-com-en-ceuta-spain-sets-up-border-controls-on-travelers-from-ital",
           "section": "world",
           "source": "DW World",
           "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/ceuta-spain-warns-italy-it-will-reciprocate-entry-checks/a-78282840?maca=en-rss-en-world-4025-rdf",
+          "link": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-world-4025-rdf",
           "image": "https://static.dw.com/image/78276448_6.jpg",
           "publishedAt": "2026-08-07T16:12:00.000Z",
           "title": {
-            "en": "Ceuta: Spain warns Italy it will reciprocate entry checks",
-            "zh": "休达：西班牙警告意大利将对其进行入境检查"
+            "en": "Ceuta: Spain sets up border controls on travelers from Italy",
+            "zh": "休达：西班牙对来自意大利的旅客实施边境管制"
           },
           "summary": {
-            "en": "Spain has told Italy it will impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta border rush.",
+            "en": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta border rush.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Spain has told Italy it will impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta border rush.\n\nSpain 's government on Friday threatened to impose reciprocal entry checks on travelers from Italy , unless Prime Minister Giorgia Meloni 's governemnt lifts the measures it has implemented by Sunday.&#160;\n\nItaly's right-wing government announced the checks at the height of the social media panic as tens of thousands of people gained entry to the Spanish exclave of Ceuta bordering Morocco last week.&#160;\n\nThe checks are essentially&#160;symbolic, given that Ceuta is not on the European mainland and&#160;Italy and Spain do not share a land border, meaning that the vast majority of people potentially affected&#160;are tourists on planes.\n\nNevertheless, the issue has turned into a point of dispute between two governments of different ideological persuasions with contrasting messaging priorities on migration policy.&#160;\n\nSpain called Italy's decision to impose checks on people arriving from Spain \"unjustified, contrary to the interests of the European Union and discriminatory against ​the Spanish population.\"&#160;\n\nMadrid had objected to the move on several grounds, saying it was based on \"spurious arguments.\"\n\nIt&#160;said there was no real risk of people who overwhelmed Ceuta's border controls reaching the European mainland, let alone Italy. It pointed to the vast majority of the estimated 72,000 people returning to Morocco within days . Prime Minister&#160; Pedro Sanchez also drew&#160;attention to the higher numbers of irregular migrants reaching Italian than Spanish territory in recent years.&#160;\n\n\"If [Italy] fails to [remove the entry checks] before Sunday, August 9, Spain will be forced to adopt proportionate measures to protect the interests and dignity of its citizens,\" the government said.&#160;\n\nItaly replied later Friday that it would not accept \"ultimatums ⁠or ⁠impositions\" from Madrid, and that it would maintain the suspension of Schengen rules for non-EU nationals arriving from Spain until at least August 15.\n\nDespite Spain's objections, an array of European countries, including Germany, and the European Commission all made comments about the importance of border security to the open-border Schengen Zone amid the public uproar. Italy was among comparatively few to go so far as to frame the issue as \"suspending\" Spain's Schengen status, however.\n\nDetails on precisely what checks, if any, Italy has actually implemented over the past week have been thin on the ground.&#160;\n\nMigration analyst Gerald Knaus told DW earlier this week that the move was \"pure populism\" and a \"completely bizarre\" measure.&#160;\n\n\"They don't have a border,...",
-            "zh": "西班牙已告诉意大利，除非罗马在周日之前停止控制，否则将对游客实施入境检查。尽管两国没有陆地边界，但在休达边境热潮之后，两国陷入了争执。 西班牙政府周五威胁将对来自意大利的旅客实施互惠入境检查，除非首相乔治亚·梅洛尼的政府在周日之前取消已实施的措施。 上周，数万人进入与摩洛哥接壤的西班牙飞地休达，意大利右翼政府在社交媒体恐慌最严重的时候宣布了这些检查。 这些检查本质上是象征性的，因为休达不位于欧洲大陆，而且意大利和西班牙没有陆地边界，这意味着绝大多数可能受影响的人都是乘坐飞机的游客。 然而，这个问题已成为两个意识形态不同、移民政策信息优先级不同的政府之间的争论焦点。 西班牙称意大利对来自西班牙的入境人员实施检查的决定“不合理，违背了欧盟的利益，并且歧视西班牙民众”。 马德里以多种理由反对此举，称其基于“虚假论点”。 报告称，突破休达边境管制的人并没有真正的风险到达欧洲大陆，更不用说意大利了。报告指出，估计有 72,000 人中的绝大多数在几天内返回摩洛哥。总理佩德罗·桑切斯还提请注意，近年来到达意大利境内的非正规移民人数多于西班牙境内。 “如果[意大利]未能在8月9日星期日之前[取消入境检查]，西班牙将被迫采取相应措施来保护其公民的利益和尊严，”政府表示。 意大利周五晚些时候回复称，不会接受马德里的“最后通牒或强制要求”，并将至少在 8 月 15 日之前暂停对来自西班牙的非欧盟国民实施申根规则。 尽管西班牙反对，但在舆论哗然中，包括德国在内的一系列欧洲国家和欧盟委员会都纷纷表态边境安全对于开放边境的申根区的重要性。然而，意大利是少数几个将这一问题描述为“暂停”西班牙申根地位的国家之一。 关于意大利在过去一周实际实施了哪些检查（如果有的话）的细节，目前还知之甚少。 移民分析师杰拉尔德·克瑙斯(Gerald Knaus)本周早些时候告诉德国之声，此举是“纯粹的民粹主义”，也是一项“完全奇怪”的措施。 “他们没有边界，..."
+            "en": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta border rush.\n\nSpain 's government on Friday moved to&#160;impose reciprocal entry checks on people traveling from Italy . The Spanish government had warned that it would do so&#160;unless Prime Minister Giorgia Meloni 's governemnt lifted the border measures it has implemented against Spain.\n\nItaly's right-wing government announced the checks at the height of the social media panic as tens of thousands of people gained entry to the Spanish exclave of Ceuta bordering Morocco last week.&#160;\n\nThe checks are essentially&#160;symbolic, given that Ceuta is not on the European mainland and&#160;Italy and Spain do not share a land border, meaning that the vast majority of people potentially affected&#160;are tourists on planes.\n\nNevertheless, the issue has turned into a point of dispute between two governments of different ideological persuasions with contrasting messaging priorities on migration policy.&#160;\n\nThe border controls on Italy will go into effect from midnight ‌on ⁠Saturday ⁠until September 7, the Spanish government said. Border agents will check passport, nationality and visas for Italian passengers and visitors from other ​countries arriving from Italy.\n\nSpain had called Italy's decision to impose checks on people arriving from Spain \"unjustified, contrary to the interests of the European Union and discriminatory against ​the Spanish population.\"&#160;\n\nMadrid said there was no real risk of people who overwhelmed Ceuta's border controls reaching the European mainland, let alone Italy. It pointed to the vast majority of the estimated 72,000 people returning to Morocco within days . Prime Minister&#160; Pedro Sanchez also drew&#160;attention to the higher numbers of irregular migrants reaching Italian than Spanish territory in recent years.&#160;\n\n\"If [Italy] fails to [remove the entry checks] before Sunday, August 9, Spain will be forced to adopt proportionate measures to protect the interests and dignity of its citizens,\" the government said.&#160;\n\nItaly replied later Friday that it would not accept \"ultimatums ⁠or ⁠impositions\" from Madrid, and that it would maintain the suspension of Schengen rules for non-EU nationals arriving from Spain until at least August 15.\n\nDespite Spain's objections, an array of European countries, including Germany, and the European Commission all made comments about the importance of border security to the open-border Schengen Zone amid the public uproar. Italy was among comparatively few to go so far as to frame the issue as \"suspending\" Spain's Schengen status, however.\n\nDetails on precisely what checks, if any,...",
+            "zh": "西班牙警告意大利，除非罗马在周日之前停止控制，否则将对游客实施入境检查。尽管两国没有陆地边界，但在休达边境热潮之后，两国陷入了争执。 西班牙政府周五对来自意大利的旅客实施互惠入境检查。西班牙政府警告称，除非总理乔治亚·梅洛尼的政府取消对西班牙实施的边境措施，否则它将这样做。 上周，数万人进入与摩洛哥接壤的西班牙飞地休达，意大利右翼政府在社交媒体恐慌最严重的时候宣布了这些检查。 这些检查本质上是象征性的，因为休达不位于欧洲大陆，而且意大利和西班牙没有陆地边界，这意味着绝大多数可能受影响的人都是乘坐飞机的游客。 然而，这个问题已成为两个意识形态不同、移民政策信息优先级不同的政府之间的争论焦点。 西班牙政府表示，对意大利的边境管制将于周六午夜生效，直至 9 月 7 日。边境人员将检查从意大利抵达的意大利乘客和其他国家游客的护照、国籍和签证。 西班牙称意大利对来自西班牙的入境人员实施检查的决定“不合理，违背了欧盟的利益，并且歧视西班牙民众”。 马德里表示，突破休达边境管制的人并没有真正的风险到达欧洲大陆，更不用说意大利了。报告指出，估计有 72,000 人中的绝大多数在几天内返回摩洛哥。总理佩德罗·桑切斯还提请注意，近年来到达意大利境内的非正规移民人数多于西班牙境内。 “如果[意大利]未能在8月9日星期日之前[取消入境检查]，西班牙将被迫采取相应措施来保护其公民的利益和尊严，”政府表示。 意大利周五晚些时候回复称，不会接受马德里的“最后通牒或强制要求”，并将至少在 8 月 15 日之前暂停对来自西班牙的非欧盟国民实施申根规则。 尽管西班牙反对，但在舆论哗然中，包括德国在内的一系列欧洲国家和欧盟委员会都纷纷表态边境安全对于开放边境的申根区的重要性。然而，意大利是少数几个将这一问题描述为“暂停”西班牙申根地位的国家之一。 详细说明具体检查内容（如果有）..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -678,39 +712,6 @@
           },
           "aiVerseId": "eph_4_25",
           "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-the-growing-russian-threat-giving-ukraine-on",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/the-growing-russian-threat-giving-ukraine-only-seconds-to-react/y66ed16ib",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-the-growing-russian-threat-giving-ukraine-on.jpg",
-          "publishedAt": "2026-08-07T02:03:08.000Z",
-          "title": {
-            "en": "The growing Russian threat giving Ukraine only seconds to react",
-            "zh": "俄罗斯日益增长的威胁让乌克兰只有几秒钟的反应时间"
-          },
-          "summary": {
-            "en": "Ukraine's best defence against Russian ballistic missiles is in short supply.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "When Russia fires a ballistic missile at Ukraine, air defence systems have only minutes &#x2014; sometimes seconds &#x2014; to detect and intercept the deadly threat.\n\nThe lack of time has left Kyiv and other Ukrainian cities increasingly exposed to devastating attacks by the missiles that come down so fast and so steeply that Ukraine says only the United States-made Patriot defence system can stop them. But Ukraine says it has too few batteries and interceptors to protect itself.\n\nUnlike cruise missiles, which behave like pilotless planes, ballistic missiles are launched like rockets and then dive steeply toward their targets at several times the speed of sound.\n\nThat sharply reduces the time available to find and destroy a warhead. The result has been repeated attacks like the latest barrage on the Ukrainian capital that targeted a brewery, a warehouse and a mail-sorting office. At least 17 people were killed and dozens more wounded in the attack on Wednesday, Ukrainian President Volodymyr Zelenskyy said.\n\nWhen the warhead is hurled toward its target, \"it&#x2019;s very, very steep and it&#x2019;s going at a ridiculous speed\", according to Thomas Withington, an expert on electronic warfare at the Royal United Services Institute, who compared the physics to playing catch. If the ball is \"going really fast, it's harder to catch\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nRussia's ground-launched Iskander-M missile is its main ballistic missile. Another example is the air-launched Kinzhal missile. Russia has also fired S-300 and S-400 air-defence missiles at ground targets. A model known as the Zircon is technically a hypersonic anti-ship cruise missile, but its high speed resembles that of a ballistic missile and creates a similar interception problem.\n\nHere's a look at the challenge of shielding Ukraine from some of Russia's deadliest projectiles.\n\nThe most capable Patriot system supplied to Ukraine is designed for high-speed missile defence. Instead of exploding near a target, the PAC-3 system uses a manoeuvrable interceptor designed to collide with an incoming warhead. The Patriot technology must track the missile, predict its path and launch within minutes, sometimes leaving seconds for the final engagement.\n\nPatriots are currently the only system in Ukrainian service capable of intercepting the Russian Iskander-M, S-400 and Zircon missiles, according to Ukrainian Air Force spokesperson Yurii Ihnat. The US and its allies operate other anti-ballistic systems, including THAAD and sea-based Aegis defences, but they have not been provided to Ukraine.\n\nEven Patriot protection is not guaranteed. When a Patriot battery is absent, out of position or short of...",
-            "zh": "当俄罗斯向乌克兰发射弹道导弹时，防空系统只有几分钟甚至几秒的时间来检测和拦截致命威胁。 由于缺乏时间，基辅和其他乌克兰城市越来越容易遭受导弹的毁灭性袭击，这些导弹的袭击速度如此之快，袭击的幅度如此之大，以至于乌克兰表示，只有美国制造的爱国者防御系统才能阻止它们。但乌克兰表示，其电池和拦截器太少，无法保护自己。 与无人驾驶飞机的巡航导弹不同，弹道导弹像火箭一样发射，然后以几倍于音速的速度急剧俯冲到目标。 这大大减少了寻找和摧毁弹头的时间。其结果是不断发生袭击，例如最近针对乌克兰首都的一家啤酒厂、一家仓库和一家邮件分拣办公室的袭击。乌克兰总统泽连斯基表示，周三的袭击造成至少 17 人死亡、数十人受伤。 英国皇家联合军种研究所电子战专家托马斯·威辛顿（Thomas Withington）表示，当弹头被抛向目标时，“弹头非常非常陡峭，而且速度快得离谱”，他将这一物理过程比作接球游戏。如果球“跑得非常快，就很难接住”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 俄罗斯陆基发射的伊斯坎德尔-M导弹是其主要弹道导弹。另一个例子是空射的“匕首”导弹。俄罗斯还向地面目标发射了S-300和S-400防空导弹。一种被称为“锆石”的型号从技术上讲是一种高超音速反舰巡航导弹，但其速度类似于弹道导弹，并会产生类似的拦截问题。 以下是保护乌克兰免受俄罗斯一些最致命的射弹袭击的挑战。 提供给乌克兰的最强大的爱国者系统是为高速导弹防御而设计的。 PAC-3系统不会在目标附近爆炸，而是使用一种可操纵的拦截器，旨在与来袭弹头发生碰撞。爱国者技术必须跟踪导弹，预测其路径并在几分钟内发射，有时需要几秒钟的时间进行最终交战。 乌克兰空军发言人尤里·伊纳特表示，“爱国者”系统是乌克兰目前唯一能够拦截俄罗斯“伊斯坎德尔-M”、S-400和“锆石”导弹的系统。美国及其盟国还运行其他反弹道系统，包括萨德和海基宙斯盾防御系统，但尚未向乌克兰提供。 即使爱国者的保护也得不到保证。当爱国者电池缺失、位置不当或电量不足时..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         }
       ]
     },
@@ -726,7 +727,6 @@
       },
       "sourceNotes": [
         "The Guardian China",
-        "BBC News China Focus",
         "SBS News China Focus",
         "DW Asia China Focus"
       ],
@@ -763,40 +763,6 @@
             "themeZh": "心思的操练"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-videos-cly83vm923go-at-medium-rss-at-campaign-rss",
-          "section": "china",
-          "source": "BBC News China Focus",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/790d/live/48a9d250-921a-11f1-af4d-5164294a85c7.jpg",
-          "publishedAt": "2026-08-07T04:52:19.000Z",
-          "title": {
-            "en": "Why was Taiwan’s president evacuated in the middle of the night?",
-            "zh": "台湾总统为何在半夜被疏散？"
-          },
-          "summary": {
-            "en": "President William Lai participated in an emergency evacuation drill as part of Taiwan's military exercises, which are designed to prepare for a potential Chinese invasion.",
-            "zh": "赖清德总统参加了台湾军事演习中的一次紧急疏散演练，旨在为潜在的中国入侵做准备。"
-          },
-          "body": {
-            "en": "President William Lai took part in an emergency evacuation drill as part of Taiwan's annual Han Kuang military exercises that are running from August 5th to 14th.\n\nThe BBC’s Katy Watson explains what happened and why Taiwan is using the drills to prepare for a potential Chinese invasion.",
-            "zh": "总统赖清德参加了紧急疏散演习，这是台湾于8月5日至14日举行的年度汉光军事演习的一部分。 英国广播公司 (BBC) 的凯蒂·沃森 (Katy Watson) 解释了发生的事情以及台湾为何利用这些演习为中国潜在的入侵做准备。"
-          },
-          "reflection": {
-            "en": "In the face of looming threats and the need for preparedness, it is natural for nations and individuals to feel fear and dismay. Yet, Yahweh reminds us not to be afraid, promising His presence, strength, and help to uphold us. This divine assurance can bring a deep sense of peace even amidst uncertainty and drills for potential conflict.",
-            "zh": "面对迫在眉睫的威胁和备战的需要，国家和个人感到恐惧和沮丧是自然的。然而，雅伟提醒我们不要害怕，应许祂的同在、力量和帮助来扶持我们。即使在不确定性和潜在冲突的演习中，这种神圣的保证也能带来深刻的平安。"
-          },
-          "verse": {
-            "reference": "Isaiah 41:10",
-            "textEn": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
-            "textZh": "你不要害怕，因为我与你同在；不要惊惶，因为我是你的神。",
-            "themeEn": "God is with us",
-            "themeZh": "神与你同在"
-          },
-          "aiVerseId": "isa_41_10",
-          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-us-news-2026-aug-05-us-state-department-consulate-cl",
@@ -1032,6 +998,39 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-technology-2026-aug-01-china-silicon-valley-white-ho",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+          "image": "https://i.guim.co.uk/img/media/81fcb075f5eb538d8327f56e2ea009632c7e7e2d/516_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a228984d6b2a6203723837a3f32a0bb4",
+          "publishedAt": "2026-08-01T12:00:53.000Z",
+          "title": {
+            "en": "China’s tech advances are causing chaos from Silicon Valley to the White House",
+            "zh": "中国的科技进步正在引发从​​硅谷到白宫的混乱"
+          },
+          "summary": {
+            "en": "New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industry Over the past month, a series of advancements in China’s artificial intelligence, chip manufacturing and robotics technologies have rattled financial markets, caused...",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industry Over the past month, a series of advancements in China’s artificial intelligence, chip manufacturing and robotics technologies have rattled financial markets, caused divisions among US tech moguls and left the Trump administration scrambling to respond. Silicon Valley has long pointed to China’s tech industry as a competitive threat and used its growth as rationale for why US firms should not face regulatory oversight that could slow them down. In recent weeks, however, China’s progress has pushed US tech CEOs past vague warnings and into open disagreement over how to address Chinese-made products upending their industry. Continue reading...",
+            "zh": "新的人工智能模型、先进机器人和专用计算机芯片令市场和美国科技行业感到不安。过去一个月，中国人工智能、芯片制造和机器人技术的一系列进步震惊了金融市场，引发了美国科技大亨之间的分歧，并让特朗普政府仓促应对。硅谷长期以来一直将中国科技行业视为竞争威胁，并以中国科技行业的增长作为美国企业不应面临可能放慢发展速度的监管监督的理由。然而，最近几周，中国的进步让美国科技公司的首席执行官不再发出含糊的警告，而是在如何解决颠覆其行业的中国制造产品问题上产生了公开分歧。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
           },
           "translationState": "fallback"
         },
