@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T16:20:54.191Z",
+  "generatedAt": "2026-08-08T17:22:35.907Z",
   "editionDate": "2026-08-09",
   "sources": [
     {
@@ -105,12 +105,80 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "BBC News World",
         "The Guardian World",
+        "BBC News World",
         "DW World",
         "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-technology-2026-aug-08-openai-astra-security-concern",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "image": "https://i.guim.co.uk/img/media/75370b7d2e86da8743ca26266a8659d6b1b70393/667_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05e1cdbde453d4a88182bfede90a4b39",
+          "publishedAt": "2026-08-08T17:00:41.000Z",
+          "title": {
+            "en": "OpenAI to pause some work on AI model Astra due to security concerns",
+            "zh": "OpenAI因安全担忧暂停AI模型Astra的部分工作"
+          },
+          "summary": {
+            "en": "OpenAI has announced a pause in some development work on its AI model Astra. This decision follows incidents where the agent demonstrated the ability to autonomously identify and exploit system vulnerabilities and conduct cyber-attacks, raising significant security concerns.",
+            "zh": "OpenAI宣布暂停其人工智能模型Astra的部分开发工作。此举是由于该智能体在没有人类干预的情况下，能够自主发现并利用系统漏洞，并实施网络攻击，引发了重大的安全担忧。"
+          },
+          "body": {
+            "en": "Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks OpenAI will pause some work on an artificial intelligence model because of security concerns, the company stated Friday, following a series of incidents in which AI agents have escaped containment. The company had evaluated the agent, Astra, and found “significant advancements in agentic coding and cybersecurity”, which had moved to a “critical” threshold where it can find and exploit vulnerabilities without human intervention, or devise and execute cyber-attacks when given only a “high level desired goal”. Continue reading...",
+            "zh": "该公司周五表示，在发生一系列人工智能代理逃脱遏制的事件后，由于安全问题，该公司将暂停人工智能模型的部分工作。该公司对代理 Astra 进行了评估，发现“代理编码和网络安全方面取得了重大进展”，该代理已达到“关键”阈值，无需人工干预即可发现和利用漏洞，或者在仅给出“高级期望目标”时设计和执行网络攻击。继续阅读..."
+          },
+          "reflection": {
+            "en": "The decision to pause development on an advanced AI model due to its capacity for autonomous cyber-attacks highlights the critical need for foresight in technological innovation. As Proverbs reminds us, the prudent see danger and take refuge, a wisdom that calls for careful consideration of potential harms before proceeding. This pause reflects a...",
+            "zh": "由于其自主进行网络攻击的能力，暂停先进人工智能模型的开发，凸显了技术创新中预见危险的迫切需要。正如雅伟在箴言中提醒我们的，通达人预见灾祸就藏身，这是一种呼吁在推进之前仔细考虑潜在危害的智慧。这一暂停反映了对强大工具的负责任态度，承认并非所有进步都应在没有健全安全措施的情况下进行。"
+          },
+          "verse": {
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
+          },
+          "aiVerseId": "prov_27_12",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-live-2026-aug-08-todd-blanche-attorney-gener",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/08/todd-blanche-attorney-general-senate-vote-republicans-save-voting-bill-latest-news-updates",
+          "image": "https://i.guim.co.uk/img/media/9929feb6f224df63c95a1032463f390dd8b086fb/680_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=162285f3da56fdefa518ae71b7847bae",
+          "publishedAt": "2026-08-08T16:55:18.000Z",
+          "title": {
+            "en": "Blanche confirmation allows Trump to continue ‘pervasive, breathtaking corruption’, says Schumer – US politics live",
+            "zh": "参议院以微弱优势确认布兰奇为美国司法部长，他表示“荣幸”——美国政治直播"
+          },
+          "summary": {
+            "en": "Todd Blanche, former defense lawyer for Donald Trump, was confirmed as US Attorney General by a narrow Senate vote of 50-49. His confirmation followed criticism regarding the Justice Department's handling of files related to Jeffrey Epstein.",
+            "zh": "唐纳德·特朗普的前辩护律师托德·布兰奇以50票对49票的微弱优势获得参议院确认为美国司法部长。此前，他因司法部在处理杰弗里·爱泼斯坦相关文件时出现疏漏而受到严厉批评。"
+          },
+          "body": {
+            "en": "Senate minority leader condemns Republicans after Donald Trump’s former defense lawyer confirmed by 50 votes to 49 early on Saturday morning Joe Biden ’s prostate cancer has spread throughout his body, causing the former president great pain, his son Hunter Biden said during an interview broadcast Friday. “The cancer has spread, metastasized into his bones and further,” Hunter Biden said in a sit-down with the BBC . “It’s very painful and it’s very debilitating in many respects.” Continue reading...",
+            "zh": "周六凌晨，唐纳德·特朗普的前辩护律师以 50 票对 49 票确认，参议员们推迟对总统投票法案采取行动，直到休会后。托德·布兰奇因司法部草率推出与杰弗里·爱泼斯坦有关的文件而面临严厉批评，这些文件删除了不应该删除的信息，并保留了本应保密的受害者姓名。在确认听证会上，布兰奇拒绝亲自会见爱泼斯坦的受害者，但随后同意这样做。幸存者表示，在会议期间，他们几乎没有收到布兰奇的答复。布兰奇先生并不完美，他会告诉你这一点，但选择不是在完美和布兰奇先生之间。这是布兰奇先生和另一位代理总检察长之间的事，后者可能无法在特朗普总统的领导下有效地管理该部门，而且实际上可能不如布兰奇先生。继续阅读..."
+          },
+          "reflection": {
+            "en": "The confirmation of a new Attorney General, despite criticism over the handling of sensitive files, highlights the critical importance of integrity in public service. Yahweh's Word reminds us that righteous leadership is the foundation upon which authority is truly established. May those entrusted with justice uphold the highest standards, ensuring fairness...",
+            "zh": "新任司法部长在处理敏感文件方面受到批评后获得确认，这突显了公职人员诚信的至关重要性。雅伟的话语提醒我们，公义的领导是权威真正建立的基石。愿那些肩负司法重任的人秉持最高标准，确保对所有人公平和透明。"
+          },
+          "verse": {
+            "reference": "Proverbs 16:12",
+            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
+            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
+            "themeEn": "Righteous rule",
+            "themeZh": "以公义治国"
+          },
+          "aiVerseId": "prov_16_12",
+          "translationState": "localized"
+        },
         {
           "id": "www-bbc-co-uk-news-articles-cy9wy3y0e5wo-at-medium-rss-at-campaign-rss",
           "section": "world",
@@ -118,7 +186,7 @@
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
-          "publishedAt": "2026-08-08T16:19:29.000Z",
+          "publishedAt": "2026-08-08T16:34:18.000Z",
           "title": {
             "en": "US offers $1bn to Colombia on new right-wing president's first day of office",
             "zh": "特朗普支持的总统宣誓就职，美国承诺向哥伦比亚提供10亿美元支持"
@@ -180,38 +248,37 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-us-news-live-2026-aug-08-todd-blanche-attorney-gener",
+          "id": "www-bbc-co-uk-news-videos-cvg8je12xxeo-at-medium-rss-at-campaign-rss",
           "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/aug/08/todd-blanche-attorney-general-senate-vote-republicans-save-voting-bill-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/9929feb6f224df63c95a1032463f390dd8b086fb/680_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=162285f3da56fdefa518ae71b7847bae",
-          "publishedAt": "2026-08-08T15:58:54.000Z",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9e8a/live/f4567c00-933e-11f1-870d-5d08c49babb2.jpg",
+          "publishedAt": "2026-08-08T15:59:37.000Z",
           "title": {
-            "en": "Blanche confirmation allows Trump to continue ‘pervasive, breathtaking corruption’, says Schumer – US politics live",
-            "zh": "参议院以微弱优势确认布兰奇为美国司法部长，他表示“荣幸”——美国政治直播"
+            "en": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+            "zh": "观看：反对派议员向科索沃代理总理扔鸡蛋的时刻"
           },
           "summary": {
-            "en": "Todd Blanche, former defense lawyer for Donald Trump, was confirmed as US Attorney General by a narrow Senate vote of 50-49. His confirmation followed criticism regarding the Justice Department's handling of files related to Jeffrey Epstein.",
-            "zh": "唐纳德·特朗普的前辩护律师托德·布兰奇以50票对49票的微弱优势获得参议院确认为美国司法部长。此前，他因司法部在处理杰弗里·爱泼斯坦相关文件时出现疏漏而受到严厉批评。"
+            "en": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Senate minority leader condemns Republicans after Donald Trump’s former defense lawyer was confirmed by 50 votes to 49 early on Saturday morning Joe Biden ’s prostate cancer has spread throughout his body, causing the former president great pain, his son Hunter Biden said during an interview broadcast Friday. “The cancer has spread, metastasized into his bones and further,” Hunter Biden said in a sit-down with the BBC . “It’s very painful and it’s very debilitating in many respects.” Continue reading...",
-            "zh": "周六凌晨，唐纳德·特朗普的前辩护律师以 50 票对 49 票确认，参议员们推迟对总统投票法案采取行动，直到休会后。托德·布兰奇因司法部草率推出与杰弗里·爱泼斯坦有关的文件而面临严厉批评，这些文件删除了不应该删除的信息，并保留了本应保密的受害者姓名。在确认听证会上，布兰奇拒绝亲自会见爱泼斯坦的受害者，但随后同意这样做。幸存者表示，在会议期间，他们几乎没有收到布兰奇的答复。布兰奇先生并不完美，他会告诉你这一点，但选择不是在完美和布兰奇先生之间。这是布兰奇先生和另一位代理总检察长之间的事，后者可能无法在特朗普总统的领导下有效地管理该部门，而且实际上可能不如布兰奇先生。继续阅读..."
+            "en": "An opposition MP, Time Kadrijaj, threw eggs at Kosovo's acting Prime Minister Albin Kurti during a plenary session on Saturday.\n\nThe Alliance party MP hurled at least four eggs in Kurti's direction before lawmakers and police officers intervened.\n\nChaos unfolded after Kurti told Parliament he needed more time to hold talks with other parties before proposing a candidate for speaker following the June snap election.",
+            "zh": "反对派议员泰姆·卡德里亚伊 (Time Kadrijaj) 在周六的全体会议上向科索沃代理总理阿尔宾·库尔蒂扔鸡蛋。 在立法者和警察介入之前，联盟党议员向库尔蒂的方向投掷了至少四个鸡蛋。 库尔蒂告诉议会，他需要更多时间与其他政党举行会谈，然后在 6 月提前选举后提出议长候选人，随后出现了混乱。"
           },
           "reflection": {
-            "en": "The confirmation of a new Attorney General, despite criticism over the handling of sensitive files, highlights the critical importance of integrity in public service. Yahweh's Word reminds us that righteous leadership is the foundation upon which authority is truly established. May those entrusted with justice uphold the highest standards, ensuring fairness...",
-            "zh": "新任司法部长在处理敏感文件方面受到批评后获得确认，这突显了公职人员诚信的至关重要性。雅伟的话语提醒我们，公义的领导是权威真正建立的基石。愿那些肩负司法重任的人秉持最高标准，确保对所有人公平和透明。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 16:12",
-            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
-            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
-            "themeEn": "Righteous rule",
-            "themeZh": "以公义治国"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
-          "aiVerseId": "prov_16_12",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
           "id": "www-bbc-co-uk-news-articles-cewr898jy8go-at-medium-rss-at-campaign-rss",
@@ -363,7 +430,7 @@
           },
           "body": {
             "en": "A typhoon is lashing Japan's south, causing injuries and blackouts. It is now headed for China, where ports have been closed in preparation.\n\nTyphoon Dolphin raged over Japan 's&#160;southern regions on Saturday, causing some injuries and blackouts.\n\nOkinawa and Amami island in Kagoshima prefecture were the areas expected to be worst affected.\n\nThe storm is expected to move on to China ,&#160;making&#160;landfall along its&#160;eastern and southern ‌coast between late Sunday and early Monday, with Chinese authorities shutting down ports and ferry services ahead of the storm.\n\nThe China National Meteorological Centre&#160;Typhoon Dolphin has said Typhoon Dolphin will probably make landfall between the city of Zhoushan in Zhejiang province and the city of Fuding in Fujian province.\n\nZhejiang has raised its coastal typhoon alert to its highest level, while ceasing&#160;port operations and suspending&#160;162 passenger ferry routes.\n\nThe storm is expected to bring rain and strong winds to eastern China, including parts of Shanghai, through August 12.\n\nSome parts of eastern&#160;Zhejiang could be in for a deluge, forecasters say,&#160;with more than 600 mm&#160;(23.6 inches) of rain possible.\n\nNingbo ⁠Lishe ​International Airport in Zhejiang said it will stop its&#160;operations from 11:30 ​p.m. (1530 GMT) on Saturday and suspend all flights on Sunday.&#160;&#160;\n\nTaiwan , where 63 international flights have been cancelled,&#160;is also expected to experience heavy rain in the north over the weekend.\n\nNew political friction between Taiwan and China has also arisen after Beijing ordered that ships passing through ⁠the Taiwan Strait must heed ​its traffic control instructions amid the typhoon.\n\nTaipei has slammed Beijing's injunctions as \"ridiculous,\"&#160;saying that Beijing has no right to restrict access to international waters.\n\n\"The unreasonable and crude statement ‌by ​the relevant Chinese Communist departments reflects an ignorance, disregard, and trampling of international order and norms. It is utterly ridiculous!\" Taiwan's Mainland Affairs Council said in a statement late ​on Friday.\n\nChina regards the democratically governed island as a breakaway territory of its own and also&#160;claims to own the strategic strait, a stance rejected by both Taipei and Washington.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
-            "zh": "台风袭击日本南部，造成人员伤亡和停电。它现在正前往中国，那里的港口已关闭以进行准备。 周六，台风海豚肆虐日本南部地区，造成一些人受伤和停电。 预计受影响最严重的地区是冲绳岛和鹿儿岛县奄美岛。 预计风暴将移至中国，在周日晚间至周一早间在中国东部和南部海岸登陆，中国当局将在风暴前关闭港口和渡轮服务。 中国国家气象中心台风海豚表示，台风海豚可能会在浙江省舟山市和福建省福鼎市之间登陆。 浙江省已将沿海台风警报提升至最高级别，同时停止港口运营并暂停 162 条客运轮渡航线。 预计到8月12日，这场风暴将给包括上海部分地区在内的中国东部地区带来降雨和强风。 预报员称，浙江东部的部分地区可能会遭遇洪水，降雨量可能超过 600 毫米（23.6 英寸）。 浙江宁波栎社国际机场表示将从晚上 11:30 起停止运营。 （格林威治标准时间 1530），周日暂停所有航班。 台湾已取消 63 趟国际航班，预计周末北部地区也将遭遇大雨。 北京下令在台风期间通过台湾海峡的船只必须遵守交通管制指令后，台湾和中国大陆之间也出现了新的政治摩擦。 台北猛烈抨击北京的禁令“荒谬”，称北京无权限制进入国际水域。 “中共有关部门的无理、粗暴言论，体现了对国际秩序和准则的无知、无视和践踏，简直是荒谬至极！”台湾陆委会在周五晚间的一份声明中表示。 中国将这个民主管理的岛屿视为自己的分离领土，并声称拥有这个战略海峡，但台北和华盛顿都拒绝了这一立场。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，选择我们作为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
+            "zh": "台风袭击日本南部，造成人员伤亡和停电。它现在正前往中国，那里的港口已关闭以进行准备。 周六，台风海豚肆虐日本南部地区，造成一些人受伤和停电。 预计受影响最严重的地区是冲绳岛和鹿儿岛县奄美岛。 预计风暴将移至中国，在周日晚间至周一早间在中国东部和南部海岸登陆，中国当局将在风暴前关闭港口和渡轮服务。 中国国家气象中心台风海豚表示，台风海豚可能会在浙江省舟山市和福建省福鼎市之间登陆。 浙江已将沿海台风警报提升至最高级别，同时停止港口运营并暂停 162 条客运轮渡航线。 预计到8月12日，这场风暴将给包括上海部分地区在内的中国东部地区带来降雨和强风。 预报员称，浙江东部的部分地区可能会遭遇洪水，降雨量可能超过 600 毫米（23.6 英寸）。 浙江宁波栎社国际机场表示将从晚上 11:30 起停止运营。 （格林威治标准时间 1530），周日暂停所有航班。 台湾已取消 63 趟国际航班，预计周末北部地区也将遭遇大雨。 北京下令在台风期间通过台湾海峡的船只必须遵守交通管制指令后，台湾和中国大陆之间也出现了新的政治摩擦。 台北猛烈抨击北京的禁令“荒谬”，称北京无权限制进入国际水域。 “中共有关部门的无理、粗暴言论，体现了对国际秩序和准则的无知、无视和践踏，简直是荒谬至极！”台湾陆委会在周五晚间的一份声明中表示。 中国将这个民主管理的岛屿视为自己的分离领土，并声称拥有这个战略海峡，但台北和华盛顿都拒绝了这一立场。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，选择我们作为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -443,6 +510,40 @@
             "themeZh": "为弱者发声"
           },
           "aiVerseId": "prov_31_8",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-colombia-trump-ally-de-la-espriella-takes-office-a-7828663",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/78286524_6.jpg",
+          "publishedAt": "2026-08-08T00:31:00.000Z",
+          "title": {
+            "en": "Colombia: Trump ally De la Espriella takes office",
+            "zh": "哥伦比亚：特朗普盟友德拉埃斯普列拉就职"
+          },
+          "summary": {
+            "en": "Conservative Abelardo de la Espriella was sworn in as Colombia's president, promising to crack down on armed drug gangs.",
+            "zh": "保守派阿贝拉多·德拉埃斯普列拉宣誓就任哥伦比亚总统，他承诺将严厉打击武装贩毒团伙。"
+          },
+          "body": {
+            "en": "Conservative Abelardo de la Espriella was sworn in as Colombia's president, promising to crack down on armed drug gangs.\n\nAbelardo de la Espriella was sworn in as Colombia's &#160;president on Friday, promising to boost ties with the United States and tackle armed groups linked to the drug trade.\n\nThe 48-year-old ex-lawyer lurches the Andean nation to the right, taking office&#160;after winning a close June 21 runoff against Sen.&#160;Ivan Cepeda, an ally of outgoing President Gustavo Petro.\n\nIn a speech shortly after his swearing-in, De la Espriella vowed once again to wipe out \"narcoterrorism\"&#160;in the South American country.\n\n\"The option of dialogue is completely exhausted,\" he said, referring to his predecessor, who had promoted a peaceful resolution to the crisis.\n\nDe la Espriella then promised to restore \"order, authority and freedom\" to the South American nation.\n\n\"There will be no room for maneuvers that undermine the stability of the nation,\" said the hardline leader, who has spoken of opening mega-prisons to house captured rebels and drug dealers.\n\nInstead of the capital Bogota, the inauguration took place at a university in the southwestern city of Cali.\n\nColombia’s third-largest city&#160;is located near major drug-trafficking corridors and&#160;the Pacific coast, and is a regular scene of violence by rival groups.\n\nAmong the VIP&#160;guests were King Felipe VI of Spain, acting US&#160;Attorney General Todd Blanche, FIFA President Gianni Infantino and Latin American presidents, including Argentina's Javier Milei, Ecuador's Daniel Noboa and Chile's Jose&#160;Antonio Kast.\n\nOutgoing president Petro declined to attend the ceremony and called for mass protests Friday, claiming election fraud without providing evidence.\n\nThe 48-year-old is a former lawyer and businessman who has never held public office.\n\nHe funded his campaign with the profits from his law firm and other business ventures in the agri-food, real estate and fashion sectors.\n\nThe self-styled \"El Tigre\" (The Tiger)&#160;plans to forge a military alliance with the US&#160;and Israel to aid his war on rebel&#160;groups, including remnants of the FARC guerrillas, who&#160;waged an armed conflict that peaked in the 1990s and 2000s.&#160;\n\nDe la Espriella&#160;won the backing of US President Donald Trump after committing Colombia to a US-backed coalition to fight drug trafficking, dubbed the&#160;\"Shield of the Americas.\"\n\nHe has also offered to launch joint military operations with Washington and even host US troops on Colombian soil.\n\nThe millionaire has also announced plans to resume diplomatic relations with Israel and sever them with Cuba and Nicaragua.\n\nDe la Espriella's win is another point for right-wing politics in Latin America, after electoral victories&#160;from Chile...",
+            "zh": "保守党人士阿韦拉多·德拉埃斯普里埃拉宣誓就任哥伦比亚总统，承诺打击武装贩毒团伙。 阿韦拉多·德拉埃斯普里埃拉于周五宣誓就任哥伦比亚总统，承诺加强与美国的关系，并打击与毒品贸易有关的武装组织。 这位 48 岁的前律师在 6 月 21 日与即将卸任总统古斯塔沃·佩特罗 (Gustavo Petro) 的盟友参议员伊万·塞佩达 (Ivan Cepeda) 的决选中获胜后上任，将安第斯国家推向了右翼。 德拉埃斯普里埃拉在宣誓就职后不久发表讲话，再次誓言要消灭这个南美国家的“毒品恐怖主义”。 他说：“对话的选择已经完全用尽了。”他指的是推动和平解决危机的前任。 德拉埃斯普里埃拉随后承诺恢复南美国家的“秩序、权威和自由”。 这位强硬派领导人表示，“不会有任何破坏国家稳定的余地。”他曾谈到开设大型监狱来关押被俘的叛乱分子和毒贩。 落成典礼不是在首都波哥大举行，而是在西南部城市卡利的一所大学举行。 哥伦比亚第三大城市位于主要贩毒走廊和太平洋海岸附近，是敌对团体经常发生暴力事件的地方。 贵宾包括西班牙国王费利佩六世、美国代理司法部长托德·布兰奇、国际足联主席詹尼·因凡蒂诺以及拉丁美洲总统，包括阿根廷总统哈维尔·米莱、厄瓜多尔总统丹尼尔·诺博亚和智利总统何塞·安东尼奥·卡斯特。 即将卸任的总统佩特罗拒绝出席仪式，并呼吁周五举行大规模抗议，在没有提供证据的情况下声称选举舞弊。 48 岁的他曾是一名律师和商人，从未担任过公职。 他用律师事务所以及农业食品、房地产和时尚领域其他商业企业的利润来资助他的竞选活动。 自称“El Tigre”（老虎）的人计划与美国和以色列结成军事联盟，以协助他打击叛乱组织，其中包括哥伦比亚革命武装力量游击队的残余势力，这些组织在 1990 年代和 2000 年代发动了一场武装冲突达到顶峰。 德拉埃斯普里埃拉在承诺哥伦比亚加入美国支持的打击贩毒联盟（被称为“美洲之盾”）后，赢得了美国总统唐纳德·特朗普的支持。 他还提出与华盛顿发起联合军事行动，甚至在哥伦比亚领土上接待美国军队。 这位百万富翁还宣布计划与以色列恢复外交关系，并断绝与古巴和尼加拉瓜的外交关系。 继智利选举胜利之后，德拉埃斯普里埃拉的胜利是拉丁美洲右翼政治的又一里程碑......"
+          },
+          "reflection": {
+            "en": "A new president taking office with a promise to tackle armed drug gangs highlights the critical role of leadership in upholding justice and protecting citizens. Yahweh's word reminds rulers of their mandate to do what is right and deliver the oppressed from those who exploit them. This commitment to justice offers hope for a society seeking peace and...",
+            "zh": "新总统上任，承诺打击武装贩毒团伙，这突显了领导层在维护正义和保护公民方面的关键作用。雅伟的话语提醒统治者，他们的职责是行公义，从欺压者手中解救被抢夺之人。这种对正义的承诺为寻求和平与安全的社会带来了希望。"
+          },
+          "verse": {
+            "reference": "Jeremiah 22:3",
+            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
+            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
+            "themeEn": "Royal justice mandate",
+            "themeZh": "王者的公义责任"
+          },
+          "aiVerseId": "jer_22_3",
           "translationState": "localized"
         },
         {
@@ -537,32 +638,33 @@
           "source": "BBC News China Focus",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e0d/live/cc337040-933c-11f1-a35f-039358cea467.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb41/live/9cac3330-934a-11f1-a35f-039358cea467.jpg",
           "publishedAt": "2026-08-08T15:15:17.000Z",
           "title": {
             "en": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-            "zh": "台风“海豚”袭击了日本冲绳岛，然后袭击了中国"
+            "zh": "台风海豚袭击日本冲绳，随后逼近中国"
           },
           "summary": {
             "en": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "zh": "这场风暴已导致日本岛上至少44,000栋建筑断电，并造成五人受伤。"
           },
           "body": {
             "en": "Typhoon Dolphin has cut power to at least 44,000 buildings and injured at least five people after hitting Japan's Okinawa island on Saturday.\n\nFlights to and from Okinawa's main airport - Naha International Airport - were cancelled as it closed on Friday as the storm arrived.\n\nThe storm had maximum wind speeds of 162km/h (101mph) on Saturday and has been categorised as a \"very strong\" typhoon by the Japan Meteorological Agency, which warned of high waves, storm surges and lightning strikes.\n\nDolphin is expected to make landfall on China's eastern coast late on Sunday or early on Monday. Authorities there have shut ports and schools ahead of its arrival.\n\nThe main areas in Japan affected by the typhoon are the islands of Okinawa and Amami in the far south-west of the country.\n\nFive elderly people suffered non-life-threatening injuries, according to the Okinawan prefectural government. Three of them fell because of the strong winds, it said.\n\nJapan's national broadcaster NHK reports numerous accounts of trees being toppled by strong winds throughout Nago city in Okinawa, while a car was found overturned and leaking oil in a parking lot.\n\nIn China, Zhejiang's Ningbo Lishe International Airport said it would stop its operations from 23:30 local time on Saturday (15:30 GMT) and suspend all flights on Sunday.\n\nA coastal typhoon alert in Zhejiang has been raised to its highest level, and port and ferry services have been halted in the Chinese province.\n\nTyphoon season in the western Pacific typically occurs between May and October, when typhoons are considered more commonplace. This year is a strong El Niño year , which experts say means typhoons can grow to be more intense.\n\nIn an average year of 25 cyclones reaching tropical storm strength in the region, around three usually make landfall in Japan, according to the country's meteorological agency.\n\nSome of these will be strong enough to be classified as typhoons – as was the case with Dolphin.\n\nA typhoon is the term used for storms that form in the north-west Pacific, whereas a hurricane is the term used for storms that form in the Atlantic or eastern Pacific.",
             "zh": "周六，台风“海豚”袭击日本冲绳岛后，已导致至少 44,000 座建筑物断电，并造成至少 5 人受伤。 由于风暴到来，冲绳主要机场那霸国际机场周五关闭，往返航班被取消。 周六，这场风暴的最大风速为 162 公里/小时（101 英里/小时），日本气象厅将其归类为“非常强”台风，并警告称会有巨浪、风暴潮和雷击。 预计海豚将于周日晚些时候或周一早些时候登陆中国东部沿海。那里的当局在其抵达前关闭了港口和学校。 日本受台风影响的主要地区是该国西南部的冲绳岛和奄美岛。 冲绳县政府称，五名老人受伤，没有生命危险。据称，其中三人因强风而倒下。 日本国家广播公司NHK报道称，冲绳名护市多处树木被强风吹倒，停车场内发现一辆汽车翻倒并漏油。 在中国，浙江宁波栎社国际机场表示将从当地时间周六23:30（格林威治标准时间15:30）开始停止运营，并于周日暂停所有航班。 浙江沿海台风警报已提升至最高级别，该省的港口和渡轮服务已停止。 西太平洋的台风季节通常发生在五月至十月之间，此时台风更为常见。今年是厄尔尼诺现象强烈的一年，专家表示，这意味着台风可能会变得更加强烈。 据日本气象厅称，该地区平均每年有 25 个达到热带风暴强度的气旋，其中约 3 个通常会在日本登陆。 其中一些强度足以被归类为台风——就像海豚的情况一样。 台风是在西北太平洋形成的风暴的术语，而飓风是在大西洋或东太平洋形成的风暴的术语。"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "As Typhoon Dolphin brings disruption and injury, communities face the immediate challenges of recovery. In such moments of hardship, Yahweh's word reminds us that suffering, when endured, can forge resilience and a deeper hope within us and our communities.",
+            "zh": "当台风海豚带来破坏和人员受伤时，社区面临着即时的恢复挑战。在这样的艰难时刻，雅伟的话语提醒我们，苦难若能忍受，便能在我们和我们的社区中锻造出韧性与更深的盼望。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Romans 5:3-4",
+            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
+            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
+            "themeEn": "Suffering produces hope",
+            "themeZh": "患难中的盼望"
           },
-          "translationState": "fallback"
+          "aiVerseId": "rom_5_3",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-commentisfree-2026-aug-08-president-xi-jinping-globa",
@@ -905,7 +1007,7 @@
           },
           "body": {
             "en": "A remote Australian town is set to become a \"cornerstone\" of the Western supply of scandium, a rare earth mineral needed for defence, planes, and data centres after local mining company Sunrise Energy Metals secured a US$400 million ($566m) pledge.\n\nThe Pentagon revealed the details of the conditional loan commitment to Sunrise to build the world's first primary mine for scandium, of which China dominates supply and processing, at a meeting between US President Donald Trump and mining executives in Washington.\n\nScandium is usually sourced as a byproduct of other mining and is found throughout the Earth's crust in low concentrations.\n\n\"We aim to establish Syerston as a cornerstone of Western scandium supply,\" Sunrise chairman Robert Friedland said in a statement, referring to the proposed mine in Fifield, New South Wales.\n\nFifield is a remote town in the centre of the state, roughly 450 kilometres west of Sydney. 2016 census data shows just 129 people live in the town that boasts a single pub.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nNSW has some of the highest concentrations of scandium globally, Resources Minister Madeline King said.\n\n\"The Sunrise scandium project hosts the world's largest and highest-grade known scandium resource, which has a range of vital aerospace, defence and clean energy applications,\" she said.\n\n\"No one country alone can create secure, end-to-end supply chains in critical minerals and rare earths.\n\n\"In working together, Australian mining companies can create more jobs and investment opportunities here at home, and more jobs and investment in the United States.\"\n\nKing described the announcement as a \"significant vote of confidence\" in Australia's capacity to supply the US and its allies with the minerals they need.\n\nChina restricted exports of scandium for defence products last year, triggering the US search for new suppliers.\n\nThe Pentagon statement said the scandium project will \"ensure Western alignment from mine to finished product\".\n\n\"Secretary Hegseth and Deputy Secretary Feinberg are mobilizing the Department of War's resources to secure our critical mineral supply chain,\" said Emil Michael, Under Secretary of War for Research and Engineering.\n\nTrump and Australian Prime Minister Anthony Albanese signed a critical minerals agreement aimed at countering China in October, pledging that each would invest $1 billion in projects.\n\nOn Saturday, Trump announced that the US was reclaiming its place as the \"minerals superpower of the world.\"\n\n\"Critical minerals are the raw materials of American strength that power everything from advanced weaponry to automobiles, and we want these essential products to be mined, refined and made...",
-            "zh": "在当地矿业公司 Sunrise Energy Metals 获得 4 亿美元（5.66 亿美元）承诺后，澳大利亚一个偏远小镇将成为西方钪供应的“基石”，钪是一种国防、飞机和数据中心所需的稀土矿物。 在美国总统唐纳德·特朗普与华盛顿矿业高管举行的一次会议上，五角大楼透露了向 Sunrise 提供有条件贷款承诺的细节，以建设世界上第一个钪原生矿，中国在供应和加工方面占据主导地位。 钪通常是其他采矿的副产品，在整个地壳中含量较低。 Sunrise 董事长罗伯特·弗里德兰 (Robert Friedland) 在一份声明中表示：“我们的目标是将 Syerston 打造成西部钪供应的基石。”他指的是拟建的位于新南威尔士州费菲尔德的矿场。 费菲尔德是该州中部的一个偏远小镇，位于悉尼以西约 450 公里处。 2016 年人口普查数据显示，只有 129 人居住在拥有一家酒吧的小镇。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 资源部长马德琳·金 (Madeline King) 表示，新南威尔士州是全球钪浓度最高的州之一。 “Sunrise 钪项目拥有世界上最大、品位最高的已知钪资源，该资源具有一系列重要的航空航天、国防和清洁能源应用，”她说。 “没有任何一个国家能够独自在关键矿产和稀土领域建立安全的端到端供应链。 “通过共同努力，澳大利亚矿业公司可以在国内创造更多就业和投资机会，也可以在美国创造更多就业和投资机会。” 金称这一声明是对澳大利亚向美国及其盟国供应所需矿产的能力投下的“重大信任票”。 去年，中国限制了用于国防产品的钪出口，引发美国寻找新供应商。 五角大楼声明称，钪项目将“确保西方从矿山到成品的协调一致”。 “赫格斯部长和范伯格副部长正在调动战争部的资源，以确保我们关键的矿产供应链的安全，”负责研究和工程的战争部副部长埃米尔·迈克尔说。 特朗普和澳大利亚总理安东尼·阿尔巴内塞于 10 月签署了一项旨在对抗中国的重要矿产协议，承诺双方将在项目上投资 10 亿美元。 周六，特朗普宣布美国将重新夺回“世界矿产超级大国”的地位。 “关键矿物是美国实力的原材料，为从先进武器到汽车的一切产品提供动力，我们希望开采、提炼和制造这些重要产品......"
+            "zh": "在当地矿业公司 Sunrise Energy Metals 获得 4 亿美元（5.66 亿美元）承诺后，澳大利亚一个偏远小镇将成为西方钪供应的“基石”，钪是一种国防、飞机和数据中心所需的稀土矿物。 在美国总统唐纳德·特朗普与华盛顿矿业高管举行的一次会议上，五角大楼透露了向 Sunrise 提供有条件贷款承诺的细节，以建设世界上第一个钪原生矿，中国在供应和加工方面占据主导地位。 钪通常是其他采矿的副产品，在整个地壳中含量较低。 Sunrise 董事长罗伯特·弗里德兰 (Robert Friedland) 在一份声明中表示：“我们的目标是将 Syerston 打造成西部钪供应的基石。”他指的是拟建的位于新南威尔士州费菲尔德的矿场。 费菲尔德是该州中部的一个偏远小镇，位于悉尼以西约 450 公里处。 2016 年人口普查数据显示，只有 129 人居住在拥有一家酒吧的小镇。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 资源部长马德琳·金 (Madeline King) 表示，新南威尔士州是全球钪浓度最高的州之一。 “Sunrise 钪项目拥有世界上最大、品位最高的已知钪资源，该资源具有一系列重要的航空航天、国防和清洁能源应用，”她说。 “没有任何一个国家能够独自在关键矿产和稀土领域建立安全的端到端供应链。 “通过共同努力，澳大利亚矿业公司可以在国内创造更多就业和投资机会，也可以在美国创造更多就业和投资机会。” 金称这一声明是对澳大利亚向美国及其盟国供应所需矿产的能力投下的“重大信任票”。 去年，中国限制了用于国防产品的钪出口，引发美国寻找新供应商。 五角大楼声明称，钪项目将“确保从矿山到成品的西方协调一致”。 “赫格斯部长和范伯格副部长正在调动战争部的资源，以确保我们关键的矿产供应链的安全，”负责研究和工程的战争部副部长埃米尔·迈克尔说。 特朗普和澳大利亚总理安东尼·阿尔巴内塞于 10 月签署了一项旨在对抗中国的重要矿产协议，承诺双方将在项目上投资 10 亿美元。 周六，特朗普宣布美国将重新夺回“世界矿产超级大国”的地位。 “关键矿物是美国实力的原材料，为从先进武器到汽车的一切产品提供动力，我们希望开采、提炼和制造这些重要产品......"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -938,7 +1040,7 @@
           },
           "body": {
             "en": "The deadly bird flu virus has spread to native birds in another state, as the national tally continues its steep rise across the country.\n\nTwo greater crested terns returned positive for the H5 flu strain in NSW, with one found near Narooma on the state's south coast and the other near Wentworth close to Mildura, officials confirmed on Saturday.\n\nThere have now been 215 confirmed or presumed positive detections, although the poultry industry remains clear of the virus so far.\n\nIt's the first time that avian influenza has been detected in an Australian native bird in NSW, with the state now recording four cases.\n\n\"These positive cases are not unexpected. We have been preparing for a situation like this, and we remain well equipped to respond to manage further impacts,\" Environment Minister Penny Sharpe said.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nSurveillance in the impacted areas is continuing to ensure early detection of any further cases, the government added.\n\nTesting at CSIRO's Australian Centre for Disease Preparedness confirmed on Saturday a further 10 detections of bird flu, all from greater crested terns in Victoria's southwest and Melbourne.\n\nThere were 28 positive detections in South Australia among wild seabirds, mostly among greater crested terns, with 15 of those on the state's Limestone Coast and 11 on Kangaroo Island, Australia's Chief Veterinary Officer Beth Cookson said.\n\nSA chief vet Skye Fruean said there was no particular reason why the state had so far encountered most of Australia's confirmed cases.\n\n\"Unfortunately, we were just unlucky to be the first place where this did spread into our resident birds,\" she told ABC.\n\n\"I expect there will be other spread in other states and territories with time but ... I don't know how quickly that will happen.\"\n\nMeanwhile in Victoria's southwest, avid birdwatcher Tracey Gray has been preparing alongside dedicated locals for the arrival of H5, abiding by the key advice: avoid, record, report.\n\nConcerns grew this week when two sick birds were discovered on Port Fairy's Griffiths Island, a sanctuary for plants, birds and animals which also has a large breeding colony of short-tailed shearwaters.\n\nWhile the birds, which included a crested tern and a suspected albatross, are yet to be confirmed to have the virus, the discovery is concerning.\n\n\"The (terns) are a local species that move up and down our coast from Portland, Yambuk to Port Fairy. They move, separate and nest together,\" Ms Gray told the Australian Associated Press news agency.\n\n\"We are concerned about them because that local transmission is potentially the largest issue here.\n\n\"Our crucial species is our short-tailed shearwaters that...",
-            "zh": "随着全国范围内的禽流感病毒数量继续急剧上升，致命的禽流感病毒已传播到另一个州的本地鸟类。 官员周六证实，新南威尔士州两只大凤头燕鸥的 H5 流感病毒呈阳性，其中一只在该州南海岸的纳鲁马附近发现，另一只在米尔杜拉附近的温特沃斯附近发现。 尽管迄今为止家禽业仍未发现该病毒，但目前已有 215 例确诊或推定阳性检测。 这是新南威尔士州首次在澳大利亚本土鸟类中发现禽流感，该州目前已记录四例病例。 “这些积极的案例并不意外。我们一直在为这样的情况做准备，我们仍然有能力应对进一步的影响，”环境部长彭妮·夏普说。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 政府补充说，正在继续对受影响地区进行监测，以确保及早发现任何进一步的病例。 周六，澳大利亚联邦科学与工业研究组织 (CSIRO) 澳大利亚疾病预防中心的检测证实，又检测到 10 例禽流感病毒，全部来自维多利亚州西南部和墨尔本的大凤头燕鸥。 澳大利亚首席兽医官贝丝·库克森 (Beth Cookson) 表示，南澳大利亚州在野生海鸟中检测到 28 例阳性海鸟，其中大部分是大凤头燕鸥，其中 15 例位于该州石灰石海岸，11 例位于袋鼠岛。 南澳州首席兽医斯凯·弗鲁恩表示，到目前为止，该州出现澳大利亚大部分确诊病例的原因并无特殊原因。 她告诉美国广播公司：“不幸的是，我们很不幸成为第一个将这种病毒传播给我们的留鸟的地方。” “我预计随着时间的推移，其他州和地区也会出现其他传播，但是……我不知道这种情况会发生多快。” 与此同时，在维多利亚州西南部，狂热的观鸟者特雷西·格雷（Tracey Gray）一直在与热心的当地人一起为 H5 的到来做准备，并遵守关键建议：避免、记录、报告。 本周，仙女港的格里菲斯岛发现了两只病鸟，引发了人们的担忧。格里菲斯岛是植物、鸟类和动物的保护区，岛上还有大量短尾海鸥繁殖群。 虽然这些鸟类（包括凤头燕鸥和疑似信天翁）尚未被证实感染病毒，但这一发现令人担忧。 “（燕鸥）是一种本地物种，它们在我们的海岸上从波特兰、扬布克到仙女港来回迁徙。它们移动、分开并一起筑巢，”格雷女士告诉澳大利亚美联社。 “我们对它们感到担忧，因为本地传播可能是这里最大的问题。 “我们的重要物种是短尾海鸥，它们......"
+            "zh": "随着全国范围内的禽流感病毒数量继续急剧上升，致命的禽流感病毒已传播到另一个州的本地鸟类。 官员周六证实，新南威尔士州两只大凤头燕鸥的 H5 流感病毒呈阳性，其中一只在该州南海岸的纳鲁马附近发现，另一只在米尔杜拉附近的温特沃斯附近发现。 尽管迄今为止家禽业仍未发现该病毒，但目前已有 215 例确诊或推定阳性检测。 这是新南威尔士州首次在澳大利亚本土鸟类中发现禽流感，该州目前已记录四例病例。 “这些积极的案例并不意外。我们一直在为这样的情况做准备，我们仍然有能力应对进一步的影响，”环境部长彭妮·夏普说。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 政府补充说，正在继续对受影响地区进行监测，以确保及早发现任何进一步的病例。 周六，澳大利亚联邦科学与工业研究组织 (CSIRO) 澳大利亚疾病预防中心的检测证实，又检测到 10 例禽流感病毒，全部来自维多利亚州西南部和墨尔本的大凤头燕鸥。 澳大利亚首席兽医官贝丝·库克森 (Beth Cookson) 表示，南澳大利亚州在野生海鸟中检测到 28 例阳性海鸟，其中大部分是大凤头燕鸥，其中 15 例位于该州石灰石海岸，11 例位于袋鼠岛。 南澳州首席兽医斯凯·弗鲁恩表示，到目前为止，该州出现澳大利亚大部分确诊病例的原因并无特殊原因。 她告诉美国广播公司：“不幸的是，我们很不幸成为第一个将这种病毒传播到我们的留鸟身上的地方。” “我预计随着时间的推移，其他州和地区也会出现其他传播，但是……我不知道这种情况会发生多快。” 与此同时，在维多利亚州西南部，狂热的观鸟者特雷西·格雷（Tracey Gray）一直在与热心的当地人一起为 H5 的到来做准备，并遵守关键建议：避免、记录、报告。 本周，仙女港的格里菲斯岛发现了两只病鸟，引发了人们的担忧。格里菲斯岛是植物、鸟类和动物的保护区，岛上还有大量短尾海鸥繁殖群。 虽然这些鸟类（包括凤头燕鸥和疑似信天翁）尚未被证实感染病毒，但这一发现令人担忧。 “（燕鸥）是一种本地物种，它们在我们的海岸上从波特兰、扬布克到仙女港来回迁徙。它们移动、分开并一起筑巢，”格雷女士告诉澳大利亚美联社。 “我们对它们感到担忧，因为本地传播可能是这里最大的问题。 “我们的重要物种是短尾海鸥，它们......"
           },
           "reflection": {
             "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
