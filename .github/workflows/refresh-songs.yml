@@ -35,6 +35,12 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    # 2026-08-10: a run once took 2h12m — christiandiscipleschurch.org
+    # started refusing the runner and every request sat until its
+    # timeout. The script now aborts verification on a run of timeouts,
+    # but this is the backstop: a weekly catalogue sync has no business
+    # occupying a runner for hours whatever goes wrong upstream.
+    timeout-minutes: 30
 
     # Job-level so the deploy step's `if:` can branch on its presence —
     # neither `secrets.X` nor a step-level `env.X` is readable from
