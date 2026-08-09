@@ -61,11 +61,15 @@
           },
           "source": {
             "type": "string",
-            "enum": ["fydt", "cahaya", "cdc"]
+            "enum": ["fydt", "cahaya", "cdc", "cgdc"]
           },
           "sourceLabel": { "type": ["string", "null"] },
           "code": { "type": ["string", "null"] },
           "url": { "type": "string", "format": "uri" },
+          "album": {
+            "description": "Songbook or release this belongs to, where the source groups its songs that way — cgdc.hk publishes one Easter-camp songbook per year (\"2024 Bravery 刚强奋勇\"). Null for sources with a flat catalogue.",
+            "type": ["string", "null"]
+          },
           "artist": { "type": ["string", "null"] },
           "composer": { "type": ["string", "null"] },
           "lyricist": { "type": ["string", "null"] },

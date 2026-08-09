@@ -65,7 +65,7 @@ test('_meta counts agree with the rows', () => {
 
 test('all three catalogues are present and ids are unique', () => {
 	const sources = new Set(songs.songs.map((s) => s.source));
-	for (const expected of ['fydt', 'cahaya', 'cdc']) {
+	for (const expected of ['fydt', 'cahaya', 'cdc', 'cgdc']) {
 		assert.ok(sources.has(expected), `missing source ${expected}`);
 	}
 	const ids = new Set(songs.songs.map((s) => s.id));
