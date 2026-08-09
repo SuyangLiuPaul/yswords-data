@@ -886,6 +886,79 @@ def fetch_cdc(verify=True):
     return entries
 
 
+
+CDC_HYMNS_INDEX = f'{CDC_ROOT}/content/classic-piano-hymns'
+# The hymn pages are h01…h15 — a two-digit code, NOT the four-digit
+# `[a-z]\d{4}` every other CDC song uses, which is exactly why they
+# were invisible to this sync for so long.
+CDC_HYMN_SLUG = 'h{:02d}'
+CDC_HYMN_MP3_RE = re.compile(
+    r'https?://[^\s"\')]+/files/hymns/mp3/[^\s"\')]+\.mp3', re.I)
+CDC_HYMN_PDF_RE = re.compile(
+    r'https?://[^\s"\')]+/files/hymns/pdf/[^\s"\')]+\.pdf', re.I)
+
+
+def fetch_cdc_hymns():
+    """CDC's "Classic Piano Hymns" — 15 public-domain hymns.
+
+    A separate collection from the 283-song D/E catalogue, and it was
+    missed entirely until a user said songs were still missing. Three
+    things hid it: the pages are numbered `h01`…`h15` rather than the
+    four-digit codes everything else uses, the audio lives under
+    `/files/hymns/mp3/` instead of `/files/music/mp3/`, and none of
+    them appear in `integrated-list-songs`, which is the only index
+    this sync used to read.
+
+    The church's own note says these were downloaded from
+    divinerevelations.info, which places them in the public domain and
+    explicitly invites redistribution; CDC re-edited the audio and
+    produced the PDF lyric sheets. Every one has both an mp3 and a PDF.
+
+    Titles come from the media filename — the pages are titled just
+    "h01" — so `I_Sing_the_Mighty_Power_of_God.mp3` becomes
+    "I Sing the Mighty Power of God".
+    """
+    entries = []
+    for n in range(1, 16):
+        slug = CDC_HYMN_SLUG.format(n)
+        link = f'{CDC_ROOT}/content/{slug}'
+        html = http_get(link)
+        if not html:
+            continue
+        mp3 = CDC_HYMN_MP3_RE.search(html)
+        if not mp3:
+            # No audio means nothing to add: these exist to be heard,
+            # and a lyric PDF on its own is already in the score-only
+            # rows the D/E catalogue provides.
+            print(f'  cdc hymns: {slug} has no mp3', file=sys.stderr)
+            continue
+        pdf = CDC_HYMN_PDF_RE.search(html)
+        audio = normalise_url(mp3.group(0))
+        stem = urllib.parse.unquote(audio.rsplit('/', 1)[-1])
+        title = clean_title(re.sub(r'\.mp3$', '', stem, flags=re.I)
+                            .replace('_', ' '))
+        entries.append(make_entry(
+            'cdc', slug, title, link,
+            code=slug.upper(),
+            language='en',
+            audioUrl=audio,
+            # Marked as the ordinary take rather than `instrumental`.
+            # The church calls them "played beautifully on the piano"
+            # but also mentions stanzas, so whether a voice is present
+            # is genuinely unclear from the page — and `vocal` is the
+            # classification that cannot make a song unplayable, since
+            # an instrumental-only row is skipped under the default
+            # preference.
+            audioTracks=build_tracks([(audio, 'vocal', 'en')]),
+            scoreUrl=normalise_url(pdf.group(0)) if pdf else None,
+            album='Classic Piano Hymns',
+            themes=infer_themes(title),
+            verse=infer_verse(title),
+        ))
+    print(f'  cdc hymns: {len(entries)} classic piano hymns')
+    return entries
+
+
 # ── cgdc.hk ───────────────────────────────────────────────────────
 
 def fetch_cgdc():
@@ -1247,6 +1320,7 @@ def main():
     fresh = (fetch_fydt(taxonomy, wp_index)
              + fetch_cahaya()
              + fetch_cdc(verify=not args.no_prune)
+             + fetch_cdc_hymns()
              + fetch_cgdc())
 
     if not fresh:
