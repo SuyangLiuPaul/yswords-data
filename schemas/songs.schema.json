@@ -74,6 +74,33 @@
           "audioUrl": { "$ref": "#/definitions/mediaUrl" },
           "instrumentalUrl": { "$ref": "#/definitions/mediaUrl" },
           "accompanimentUrl": { "$ref": "#/definitions/mediaUrl" },
+
+          "audioTracks": {
+            "description": "Every audio rendering of this song, uniform across sources. fydt publishes vocal / instrumental / accompaniment mixes; CDC publishes those plus per-language sung takes (D0375_English.mp3 + D0375_Chinese.mp3). audioUrl/instrumentalUrl/accompanimentUrl are conveniences drawn from this list.",
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["url", "kind"],
+              "properties": {
+                "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https://"
+                },
+                "kind": {
+                  "type": "string",
+                  "enum": ["vocal", "instrumental", "accompaniment"]
+                },
+                "lang": {
+                  "description": "Set only when the source publishes a per-language take of the same song; null for mixes and for single-language songs.",
+                  "oneOf": [
+                    { "type": "null" },
+                    { "type": "string", "enum": ["zh", "en", "id"] }
+                  ]
+                }
+              }
+            }
+          },
           "videoUrl": { "$ref": "#/definitions/mediaUrl" },
           "scoreUrl": { "$ref": "#/definitions/mediaUrl" },
           "artworkUrl": { "$ref": "#/definitions/mediaUrl" },
