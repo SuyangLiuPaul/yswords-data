@@ -25,9 +25,15 @@ name: Refresh songs
 on:
   workflow_dispatch:
   schedule:
-    # Sundays 18:00 UTC ≈ Monday 02:00 / 04:00 in HK / Sydney —
-    # off-peak for all three upstream sites.
-    - cron: '0 18 * * 0'
+    # Daily at 18:00 UTC ≈ 02:00 / 04:00 next day in HK / Sydney —
+    # off-peak for all four upstream sites.
+    #
+    # 2026-08-10: was weekly (Sundays only). Daily means a hymn posted
+    # on a Tuesday reaches the app on Wednesday instead of the
+    # following Monday. The sync itself is light — a few hundred
+    # requests — so the extra neighbourliness cost is small. The
+    # expensive part, `--verify`, stays weekly; see the sync step.
+    - cron: '0 18 * * *'
 
 permissions:
   contents: write
@@ -65,8 +71,25 @@ jobs:
 
       # No third-party Python packages — the script is stdlib only, so
       # there is nothing to pip install.
+      # `--verify` HEAD-checks all ~1400 media URLs. It is by far the
+      # heaviest thing we do to the church servers — and the run that
+      # took 2h12m was entirely verification — so it stays weekly even
+      # though the sync itself is now daily. Link rot is slow; a broken
+      # URL found on Sunday rather than Wednesday costs nothing.
+      #
+      # A manual run always verifies: that is exactly when someone is
+      # looking for rot.
       - name: Sync songs catalogue
-        run: python3 scripts/sync_songs.py --verify
+        run: |
+          if [ "$(date -u +%u)" = "7" ] || [ "$EVENT" = "workflow_dispatch" ]; then
+            echo "Sunday / manual run → verifying every media URL"
+            python3 scripts/sync_songs.py --verify
+          else
+            echo "Weekday run → sync only, verification runs Sundays"
+            python3 scripts/sync_songs.py
+          fi
+        env:
+          EVENT: ${{ github.event_name }}
 
       - name: Validate against schema
         run: npm run validate
