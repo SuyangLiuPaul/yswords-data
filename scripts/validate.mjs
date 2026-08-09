@@ -25,6 +25,7 @@ const datasets = [
 	{ data: 'daily_news.json', schema: 'daily_news.schema.json' },
 	{ data: 'daily_verses.json', schema: 'daily_verses.schema.json' },
 	{ data: 'news_verse_corpus.json', schema: 'news_verse_corpus.schema.json' },
+	{ data: 'songs.json', schema: 'songs.schema.json' },
 ];
 
 let failed = 0;

@@ -13,6 +13,7 @@ Bible study app.
 | `data/daily_news.json` | Bilingual world / china / australia headlines + Bible reflections | GitHub Actions, hourly |
 | `data/daily_verses.json` | 3,650 daily Bible verse references (10-year cycle) | Manual edits |
 | `data/news_verse_corpus.json` | 149 curated verses + tags the daily-news AI matches against | Manual edits |
+| `data/songs.json` | 543 church songs from 3 sites — metadata + audio / video / sheet-music links | GitHub Actions, weekly |
 | `data/_manifest.json` | Index with sha256 checksums + sizes | Auto-regenerated on every push |
 | `schemas/*.schema.json` | JSON Schema definitions for each dataset | Hand-maintained |
 
@@ -40,6 +41,41 @@ URL at runtime.
 4. (If applicable) update `index.html` so it shows up in the listing.
 5. `npm run build` locally — runs validate + regenerate manifest.
 6. Open a PR. CI re-runs validate and blocks the merge if anything fails.
+
+## The songs catalogue
+
+`data/songs.json` is generated, not hand-edited. It combines three
+church catalogues, each entry tagged with the `source` it came from:
+
+| `source` | Site | Songs |
+|---|---|---|
+| `fydt` | [fydt.org](https://fydt.org) — 福音电台 | 213 (zh) |
+| `cdc` | [christiandiscipleschurch.org](https://www.christiandiscipleschurch.org) | 283 (en + zh) |
+| `cahaya` | [cahayapengharapan.org](https://cahayapengharapan.org) | 47 (id) |
+
+Only metadata and media URLs live here — the audio, video and PDFs
+stay on each church's own servers. All three are published by the same
+church's pastors, who approved this use.
+
+```sh
+npm run refresh:songs   # re-sync from the three sites
+npm run verify:songs    # HEAD-check every media URL in the catalogue
+npm run build           # validate + manifest
+```
+
+**Link rot is checked, not assumed.** CDC's media URLs are *derived*
+from its catalogue codes rather than published, and ~23 of ~566 files
+were never uploaded — those are HEAD-checked during the sync and
+dropped. `--verify` then re-checks the whole catalogue and exits
+non-zero if anything is dead, which is what the weekly workflow runs.
+This matters: the consuming app's Songs feature was deleted once
+because links rotted silently after fydt.org migrated its backend.
+
+> `fuyindiantai.org` is **not** a fourth source. It is fydt.org under
+> its former domain, its songs are already here under `fydt`, and its
+> DNS delegation is currently broken (SERVFAIL — the NS records still
+> point at `ns1/ns2.fydt.org`, which stopped serving the zone when
+> fydt.org moved to DigiCert DNS).
 
 ## Editing existing data
 

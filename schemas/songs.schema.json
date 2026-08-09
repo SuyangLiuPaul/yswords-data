@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://yswords-data.netlify.app/schemas/songs.schema.json",
+  "title": "Church Songs",
+  "description": "Combined song catalogue from the three church sites — fydt.org (福音电台), cahayapengharapan.org (Indonesian) and christiandiscipleschurch.org. Metadata plus links to audio/video/sheet music that stay on each church's own servers; nothing is rehosted here. Regenerate with scripts/sync_songs.py.",
+  "type": "object",
+  "required": ["_meta", "songs"],
+  "properties": {
+    "_meta": {
+      "type": "object",
+      "required": ["generatedAt", "count", "bySource"],
+      "properties": {
+        "generatedAt": { "type": "string" },
+        "generator": { "type": "string" },
+        "count": { "type": "integer", "minimum": 1 },
+        "bySource": {
+          "type": "object",
+          "additionalProperties": { "type": "integer", "minimum": 0 }
+        },
+        "byLanguage": {
+          "type": "object",
+          "additionalProperties": { "type": "integer", "minimum": 0 }
+        },
+        "withAudio": { "type": "integer", "minimum": 0 },
+        "withVideo": { "type": "integer", "minimum": 0 },
+        "withScore": { "type": "integer", "minimum": 0 },
+        "withLyrics": { "type": "integer", "minimum": 0 },
+        "sources": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "object",
+            "required": ["label", "home"],
+            "properties": {
+              "label": { "type": "string", "minLength": 1 },
+              "home": { "type": "string", "format": "uri" }
+            }
+          }
+        },
+        "notes": {
+          "type": "object",
+          "additionalProperties": { "type": "string" }
+        }
+      }
+    },
+    "songs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "language", "source", "url"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Namespaced as <source>:<slug>.",
+            "pattern": "^[a-z]+:.+"
+          },
+          "title": { "type": "string", "minLength": 1 },
+          "language": {
+            "type": "string",
+            "enum": ["zh", "en", "id"]
+          },
+          "source": {
+            "type": "string",
+            "enum": ["fydt", "cahaya", "cdc"]
+          },
+          "sourceLabel": { "type": ["string", "null"] },
+          "code": { "type": ["string", "null"] },
+          "url": { "type": "string", "format": "uri" },
+          "artist": { "type": ["string", "null"] },
+          "composer": { "type": ["string", "null"] },
+          "lyricist": { "type": ["string", "null"] },
+          "durationSec": { "type": ["integer", "null"], "minimum": 0 },
+
+          "audioUrl": { "$ref": "#/definitions/mediaUrl" },
+          "instrumentalUrl": { "$ref": "#/definitions/mediaUrl" },
+          "accompanimentUrl": { "$ref": "#/definitions/mediaUrl" },
+          "videoUrl": { "$ref": "#/definitions/mediaUrl" },
+          "scoreUrl": { "$ref": "#/definitions/mediaUrl" },
+          "artworkUrl": { "$ref": "#/definitions/mediaUrl" },
+
+          "youtubeId": {
+            "type": ["string", "null"],
+            "pattern": "^[A-Za-z0-9_-]{11}$"
+          },
+          "soundcloudTrackId": {
+            "type": ["string", "null"],
+            "pattern": "^[0-9]+$"
+          },
+
+          "lyrics": { "type": ["string", "null"] },
+          "themes": {
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 }
+          },
+          "verse": { "type": ["string", "null"] },
+          "firstSeenAt": { "type": ["string", "null"] },
+          "updatedAt": { "type": ["string", "null"] }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "mediaUrl": {
+      "description": "Absolute https URL on the publishing church's own server, or null when that medium does not exist for this song. Never http — the app is served over https and a mixed-content media load is blocked by the browser.",
+      "oneOf": [
+        { "type": "null" },
+        { "type": "string", "format": "uri", "pattern": "^https://" }
+      ]
+    }
+  }
+}

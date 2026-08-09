@@ -1,0 +1,139 @@
+name: Refresh songs
+
+# Weekly re-sync of data/songs.json from the three church catalogues:
+#
+#   • fydt.org                        — 福音电台, via its fydt-api/v1 JSON API
+#   • cahayapengharapan.org           — Indonesian, /pujian/ pages
+#   • christiandiscipleschurch.org    — English + Chinese, Drupal index
+#
+# Only metadata and media URLs are captured; the audio/video/PDFs stay
+# on each church's own servers.
+#
+# Weekly rather than the hourly cadence daily-news uses: a church song
+# catalogue gains entries a few times a year, and each run makes ~600
+# HEAD requests against those three servers to check for link rot. No
+# reason to be a heavier neighbour than the data warrants.
+#
+# `--verify` HEAD-checks every media URL after the sync and exits
+# non-zero if any are dead, so the run fails loudly instead of
+# publishing a catalogue full of broken play buttons. That failure mode
+# is not hypothetical — the app's Songs feature was deleted once
+# because links rotted silently after fydt.org migrated its backend.
+#
+# Manual run: Actions → Refresh songs → Run workflow.
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Sundays 18:00 UTC ≈ Monday 02:00 / 04:00 in HK / Sydney —
+    # off-peak for all three upstream sites.
+    - cron: '0 18 * * 0'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    # Job-level so the deploy step's `if:` can branch on its presence —
+    # neither `secrets.X` nor a step-level `env.X` is readable from
+    # `if:`. Same reasoning as refresh.yml.
+    env:
+      NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: npm ci
+
+      # No third-party Python packages — the script is stdlib only, so
+      # there is nothing to pip install.
+      - name: Sync songs catalogue
+        run: python3 scripts/sync_songs.py --verify
+
+      - name: Validate against schema
+        run: npm run validate
+
+      - name: Regenerate manifest
+        run: npm run manifest
+
+      - name: Commit + push
+        id: commit
+        env:
+          GH_PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/songs.json data/_manifest.json
+          if git diff --cached --quiet; then
+            echo "No catalogue changes; skipping commit."
+            echo "did_commit=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore: refresh songs catalogue"
+          # Race-proof push, same strategy as refresh.yml: the hourly
+          # news cron can land between this run's checkout and its push.
+          # These files are generated, so replaying ours on top of a
+          # fresh remote is always the right resolution — but note we
+          # only ever restore OUR files, leaving whatever the news cron
+          # wrote to data/daily_news.json intact.
+          if ! git push 2>&1; then
+            echo "Push rejected — replaying on fresh remote."
+            cp data/songs.json /tmp/songs.json.fresh
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/songs.json.fresh data/songs.json
+            # Rebuild the manifest against the reset tree so it
+            # checksums the OTHER datasets as the remote has them,
+            # not as our stale checkout did.
+            npm run manifest
+            git add data/songs.json data/_manifest.json
+            if git diff --cached --quiet; then
+              echo "Remote already had this exact content; nothing to push."
+              echo "did_commit=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git commit -m "chore: refresh songs catalogue"
+            git remote set-url origin \
+              "https://x-access-token:${GH_PUSH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+            git push origin HEAD:main
+          fi
+          echo "did_commit=true" >> "$GITHUB_OUTPUT"
+
+      # Direct CLI deploy — Netlify's git integration on this site has
+      # been unreliable ("Host key verification failed"), so refresh.yml
+      # deploys the checkout straight to the CDN and this does the same.
+      - name: Deploy yswords-data via Netlify CLI
+        if: steps.commit.outputs.did_commit == 'true' && env.NETLIFY_AUTH_TOKEN != ''
+        run: |
+          npx --yes netlify-cli@latest deploy \
+            --prod \
+            --dir=. \
+            --site="${NETLIFY_SITE_ID_YSWORDS_DATA}" \
+            --auth="${NETLIFY_AUTH_TOKEN}" \
+            --message="songs refresh @ $(date -u +%FT%TZ)"
+        env:
+          NETLIFY_SITE_ID_YSWORDS_DATA: e1252e5a-a37e-4ba4-94ab-046ee9e6da9b
+
+      - name: Trigger Netlify build hook (fallback)
+        if: steps.commit.outputs.did_commit == 'true' && env.NETLIFY_AUTH_TOKEN == ''
+        run: |
+          if [ -n "$NETLIFY_BUILD_HOOK" ]; then
+            curl -fsS -X POST "$NETLIFY_BUILD_HOOK" -d '{}' || true
+            echo "Triggered yswords-data build via hook."
+          else
+            echo "Neither NETLIFY_AUTH_TOKEN nor NETLIFY_BUILD_HOOK set; the new commit will sit unpublished."
+          fi
+        env:
+          NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
