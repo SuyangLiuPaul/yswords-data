@@ -1081,7 +1081,7 @@ def merge(existing, new):
     return normalise(merged)
 
 
-def verify_links(songs, workers=4):
+def verify_links(songs, workers=2, delay=0.25):
     """HEAD every media URL in the catalogue and report the dead ones.
 
     This exists because the Songs feature was pulled in v1.3.126 with
@@ -1089,6 +1089,16 @@ def verify_links(songs, workers=4):
     backend migration had rotted the whole catalogue until users did.
     Run it after a sync (or from the weekly cron) so rot surfaces as a
     diff instead of a bug report.
+
+    DELIBERATELY SLOW. There are ~1400 URLs across four small church
+    servers, and checking them hard gets the checker firewalled: on
+    2026-08-09 this machine was blocked by fydt.org and then by
+    christiandiscipleschurch.org after exactly that. A blocked run
+    reports hundreds of "dead" links that are nothing of the kind, and
+    if it happened to the GitHub Actions runner the weekly sync would
+    break outright. Two workers with a short delay puts the whole pass
+    at roughly three minutes — irrelevant for a weekly job, and gentle
+    enough to stay welcome.
     """
     import concurrent.futures
 
@@ -1114,6 +1124,10 @@ def verify_links(songs, workers=4):
 
     def check(t):
         _id, title, field, url = t
+        # Space the requests out — see the note above on being
+        # firewalled for checking too hard.
+        if delay > 0:
+            time.sleep(delay)
         req = urllib.request.Request(
             url, method='HEAD', headers={'User-Agent': USER_AGENT})
         try:
@@ -1137,7 +1151,17 @@ def verify_links(songs, workers=4):
     if not dead:
         print(f'  ✓ all {len(targets)} media URLs return 200')
         return 0
-    print(f'  ✗ {len(dead)} dead URL(s):')
+
+    # Distinguish "the file is gone" from "we could not reach the
+    # server". Only the first is the catalogue's problem; a wall of
+    # timeouts means we are being throttled and the run is worthless.
+    timeouts = [d for d in dead if d[1] is None]
+    if len(timeouts) > len(dead) * 0.5:
+        print(f'  ! {len(timeouts)}/{len(dead)} failures are network '
+              f'timeouts, not HTTP errors — almost certainly rate '
+              f'limiting, not rot. Re-run later before believing this.',
+              file=sys.stderr)
+    print(f'  ✗ {len(dead)} unreachable URL(s):')
     for (_id, title, field, url), status, err in dead[:40]:
         print(f'    {status or err}  {_id}  {field}  {title[:30]}')
         print(f'      {url}')
@@ -1202,6 +1226,42 @@ def main():
         print('ERROR: every source returned nothing — refusing to write an '
               'empty catalogue.', file=sys.stderr)
         return 1
+
+    # Per-source regression guard.
+    #
+    # The "is `fresh` empty?" check above only catches TOTAL failure. It
+    # does not catch the far more likely case: one site is down, rate-
+    # limiting us, or has changed its markup, while the others answer
+    # fine. That run looks successful and quietly deletes every song
+    # from the failed source — which is exactly what happened on
+    # 2026-08-09, when fydt.org stopped responding mid-sync and a run
+    # produced 393 songs with all 213 fydt entries marked "no longer
+    # upstream".
+    #
+    # A church does not delete 90% of its songbook overnight. Treat a
+    # collapse like that as a failed fetch, not as real news, and exit
+    # non-zero so the weekly workflow fails loudly with the previous
+    # catalogue still in place.
+    if existing:
+        before = {}
+        for s in existing.values():
+            before[s['source']] = before.get(s['source'], 0) + 1
+        after = {}
+        for e in fresh:
+            after[e['source']] = after.get(e['source'], 0) + 1
+
+        collapsed = []
+        for source, was in before.items():
+            now = after.get(source, 0)
+            if was >= 10 and now < was * 0.5:
+                collapsed.append(f'{source}: {was} → {now}')
+        if collapsed:
+            print('ERROR: a source collapsed — almost certainly a failed '
+                  'fetch, not an upstream deletion. Refusing to write.\n'
+                  '       ' + '; '.join(collapsed) +
+                  '\n       Re-run; if the loss is real, delete the '
+                  'stored catalogue to accept it.', file=sys.stderr)
+            return 1
 
     merged = {}
     for entry in fresh:
