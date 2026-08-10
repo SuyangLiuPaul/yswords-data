@@ -1410,6 +1410,43 @@ def main():
                   'stored catalogue to accept it.', file=sys.stderr)
             return 1
 
+        # The count guard is not enough on its own.
+        #
+        # 2026-08-10: a run kept all 283 CDC songs and quietly dropped
+        # the AUDIO from 36 of them — christiandiscipleschurch.org was
+        # refusing the runner ("aborted after 25 consecutive timeouts"),
+        # so those song pages came back without their media and were
+        # recorded as having none. The song count never moved, so this
+        # guard saw nothing, and the app shipped 36 hymns with a dead
+        # play button. Checked afterwards: every one of those pages
+        # still lists its mp3.
+        #
+        # Media coverage is the thing a listener actually notices, so
+        # it gets its own guard.
+        def with_audio(rows):
+            out = {}
+            for r in rows:
+                if r.get('audioUrl') or r.get('audioTracks'):
+                    out[r['source']] = out.get(r['source'], 0) + 1
+            return out
+
+        a_before = with_audio(existing.values())
+        a_after = with_audio(fresh)
+        thinned = []
+        for source, was in a_before.items():
+            now = a_after.get(source, 0)
+            if was >= 20 and now < was * 0.9:
+                thinned.append(f'{source}: {was} → {now} with audio')
+        if thinned:
+            print('ERROR: a source lost a tenth of its AUDIO while keeping '
+                  'its songs — that is what a refused fetch looks like, not '
+                  'an upstream deletion. Refusing to write.\n'
+                  '       ' + '; '.join(thinned) +
+                  '\n       Re-run when the server is answering; if the '
+                  'loss is real, delete the stored catalogue to accept it.',
+                  file=sys.stderr)
+            return 1
+
     merged = {}
     for entry in fresh:
         merged[entry['id']] = merge(existing.get(entry['id']), entry)
