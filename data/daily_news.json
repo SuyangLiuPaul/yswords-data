@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T03:07:44.707Z",
+  "generatedAt": "2026-08-10T05:17:17.854Z",
   "editionDate": "2026-08-10",
   "sources": [
     {
@@ -106,112 +106,211 @@
       },
       "sourceNotes": [
         "The Guardian World",
-        "BBC News World",
         "DW World",
+        "BBC News World",
         "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-10-teenagers-charged-murder-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/10/teenagers-charged-murder-bahrs-scrub-logan-queensland-party-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/8fae3335b5e3af4f9c1bfb011b6dcd2ab1126055/913_0_4796_3837/master/4796.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb1d32879c10418aa3f3ed8cd225d134",
+          "publishedAt": "2026-08-10T05:07:12.000Z",
+          "title": {
+            "en": "Eight teenagers charged with murder over alleged attack after Queensland party",
+            "zh": "八名青少年因昆士兰派对后涉嫌袭击被控谋杀"
+          },
+          "summary": {
+            "en": "A 21-year-old man has died six days after an alleged attack following a party in Bahrs Scrub, Queensland. Police have charged eight teenagers with murder, stating there was a “preconceived plan” to cause harm.",
+            "zh": "一名21岁男子在昆士兰州巴尔斯灌木区的一次派对后，据称遭到袭击，六天后不治身亡。警方已指控八名青少年犯有谋杀罪，称他们有“预谋”伤害他人。"
+          },
+          "body": {
+            "en": "Man, 21, dies six days after being taken to hospital in critical condition after alleged attack in Bahrs Scrub, Logan A “preconceived plan” to do harm at a party has resulted in a young man’s death and murder charges for eight teenagers, police say. The group of teens allegedly attended an Airbnb gathering south of Brisbane armed with various weapons before it erupted into violence and left the 21-year-old man with catastrophic head injuries. Continue reading...",
+            "zh": "警方称，一名 21 岁男子在洛根巴赫斯克鲁布 (Bahr Scrub) 发生袭击事件，被送往医院六天后死亡，情况危急。警方称，一项在派对上实施伤害的“先入为主的计划”导致一名年轻人死亡，并被指控谋杀八名青少年。据称，这群青少年携带各种武器参加了布里斯班南部的 Airbnb 聚会，随后爆发暴力事件，导致这名 21 岁男子头部严重受伤。继续阅读..."
+          },
+          "reflection": {
+            "en": "This tragic incident, involving a \"preconceived plan\" to cause harm, reminds us of the devastating consequences of violence. Yahweh's word warns that those who resort to violence often face its destructive repercussions, highlighting the profound sorrow and loss it brings.",
+            "zh": "这起涉及“预谋”伤害的悲剧事件，提醒我们暴力行为会带来毁灭性的后果。雅伟的话语警示我们，那些诉诸暴力的人往往会面临其破坏性的反噬，这凸显了暴力所带来的深切悲痛和损失。"
+          },
+          "verse": {
+            "reference": "Matthew 26:52",
+            "textEn": "All who draw the sword will die by the sword.",
+            "textZh": "凡动刀的，必死在刀下。",
+            "themeEn": "Cycle of violence",
+            "themeZh": "动刀者必亡于刀"
+          },
+          "aiVerseId": "matt_26_52",
+          "translationState": "localized"
+        },
         {
           "id": "www-theguardian-com-australia-news-live-2026-aug-10-australia-news-live-",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/27b8447812f65dac590ce05beb85c63f5b62d322/786_0_3928_3143/master/3928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3f171f0514bcfaa9160585211e3c369a",
-          "publishedAt": "2026-08-10T02:50:09.000Z",
+          "image": "https://i.guim.co.uk/img/media/8cada91fc66730d41f73d5404006b5d61ba2d2f3/13_0_1033_826/master/1033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6d138380762d2c8a39978d9300a1084b",
+          "publishedAt": "2026-08-10T05:03:43.000Z",
           "title": {
-            "en": "Australia news live: Victorian Liberals pledge to mandate weekly red bin collection; Plibersek defends Albanese over podcast ‘melons’ comment",
-            "zh": "澳大利亚新闻直播：维多利亚州自由党承诺每周收集红色垃圾桶垃圾；普利伯塞克为阿尔巴尼斯播客中的“甜瓜”言论辩护"
+            "en": "Australia news live: Two workers were temporarily stood down over airport near-miss; Icac witness says his wife is having contractions",
+            "zh": "澳大利亚新闻直播：两名工人因机场险情被暂时停职；反腐委员会证人称其妻子即将分娩"
           },
           "summary": {
-            "en": "The news covers a pledge by Victorian Liberals for weekly red bin collection, contrasting with current fortnightly services in many areas. It also notes a defense by Tanya Plibersek of Prime Minister Anthony Albanese regarding a comment he made on a podcast.",
-            "zh": "新闻报道了维多利亚州自由党承诺每周收集红色垃圾桶垃圾，这与目前许多地区每两周收集一次的情况形成对比。新闻还提到塔尼娅·普利伯塞克为总理安东尼·阿尔巴尼斯在播客中发表的言论进行了辩护。"
+            "en": "Two workers were temporarily stood down following an airport near-miss, while an Icac witness reported his wife was having contractions. Police also confirmed that remains found in a suitcase near Goulburn were not human, bringing relief that there was no suspicious death.",
+            "zh": "两名工人因机场险情被暂时停职；一名反腐委员会证人表示其妻子即将分娩。警方还证实，在高尔本附近手提箱中发现的遗骸并非人类，这带来了没有可疑人类死亡的宽慰。"
           },
           "body": {
-            "en": "More than 30 councils across metropolitan Melbourne and regional Victoria collect general rubbish fortnightly. Follow today’s news live Get our breaking news email , free app or daily news podcast Police say the remains found in a suitcase near Goulburn are not human. Supt Linda Bradbury with NSW police said: Some good news here that we don’t have a suspicious death of a human on our hands. … We are still undertaking more forensic work to identify what they are. But we can identify that they’re not human. But we’ve confirmed by other means that they are not. The undersupply of housing combined with population growth is expected to partially offset the impact of higher interest rates and recent federal government policy changes on the housing market. Continue reading...",
-            "zh": "墨尔本大都市和维多利亚地区的 30 多个议会每两周收集一次一般垃圾。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 警方表示，在古尔本附近的一个手提箱中发现的遗骸不是人类。新南威尔士州警方警长琳达·布拉德伯里 (Linda Bradbury) 表示：“这里有一些好消息，我们手上没有发现任何可疑的死亡事件。” ......我们仍在进行更多的法医工作来确定它们是什么。但我们可以确定他们不是人类。但我们通过其他方式证实事实并非如此。住房供应不足加上人口增长预计将部分抵消利率上升和近期联邦政府政策变化对住房市场的影响。继续阅读..."
+            "en": "Follow today’s news live Get our breaking news email , free app or daily news podcast Police say the remains found in a suitcase near Goulburn are not human. Supt Linda Bradbury with NSW police said: Some good news here that we don’t have a suspicious death of a human on our hands. … We are still undertaking more forensic work to identify what they are. But we can identify that they’re not human. But we’ve confirmed by other means that they are not. The undersupply of housing combined with population growth is expected to partially offset the impact of higher interest rates and recent federal government policy changes on the housing market. Continue reading...",
+            "zh": "关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 警方表示，在古尔本附近的一个手提箱中发现的遗骸不是人类。新南威尔士州警方警长琳达·布拉德伯里 (Linda Bradbury) 表示：“这里有一些好消息，我们手上没有发现任何可疑的死亡事件。” ......我们仍在进行更多的法医工作来确定它们是什么。但我们可以确定他们不是人类。但我们通过其他方式证实事实并非如此。住房供应不足加上人口增长预计将部分抵消利率上升和近期联邦政府政策变化对住房市场的影响。继续阅读..."
           },
           "reflection": {
-            "en": "Public discourse often highlights how quickly words can spark wider conversations or controversies. Even seemingly minor comments, especially from public figures, can draw significant attention and require explanation. Yahweh's wisdom reminds us that a small spark can indeed ignite a large fire, urging us to consider the potential impact of our speech.",
-            "zh": "公众言论常常凸显言语能多快引发更广泛的讨论或争议。即使是看似微不足道的评论，尤其是来自公众人物的评论，也可能引起广泛关注并需要解释。雅伟的智慧提醒我们，一点小火星确实能点燃一片大森林，敦促我们思考言语可能带来的影响。"
+            "en": "The news of non-human remains brings a profound sense of relief, echoing the truth that sorrow may endure for a night, but joy comes with the morning. Amidst life's uncertainties, from near-misses to the anticipation of new life, Yahweh's presence offers a steadfast hope that can turn our fears into rejoicing. This reminds us that even in moments of...",
+            "zh": "非人类遗骸的消息带来了深深的宽慰，这与“一宿虽然有哭泣，早晨便必欢呼”的真理不谋而合。在人生的不确定性中，从险些发生的事故到新生命的期待，雅伟的同在提供了一种坚定的盼望，能将我们的恐惧转化为欢呼。这提醒我们，即使在潜在的困境中，也可能突然转向美好。"
           },
           "verse": {
-            "reference": "James 3:5",
-            "textEn": "The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark.",
-            "textZh": "舌头在百体里也是最小的，却能说大话。看哪，最小的火能点着最大的树林。",
-            "themeEn": "Small spark, big fire",
-            "themeZh": "星星之火"
+            "reference": "Psalm 30:5",
+            "textEn": "Weeping may stay for the night, but rejoicing comes in the morning.",
+            "textZh": "一宿虽然有哭泣，早晨便必欢呼。",
+            "themeEn": "Joy after the night",
+            "themeZh": "清晨的喜乐"
           },
-          "aiVerseId": "jas_3_5",
+          "aiVerseId": "ps_30_5",
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-environment-2026-aug-10-global-seas-hottest-temperat",
+          "id": "www-theguardian-com-world-2026-aug-10-british-national-shot-dead-in-kash",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
-          "image": "https://i.guim.co.uk/img/media/87c236446ba2900c4c834b9136187c04abcb7a9a/491_0_2916_2334/master/2916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=774a65376ed1fdb7ec0b04c74a357b5a",
-          "publishedAt": "2026-08-10T02:00:31.000Z",
+          "link": "https://www.theguardian.com/world/2026/aug/10/british-national-shot-dead-in-kashmir-by-pakistani-security-forces",
+          "image": "https://i.guim.co.uk/img/media/6ac70c404227a603441ac0a8df4e88aa815a1ef1/0_0_2475_1980/master/2475.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cbd3ccbc0def0e70e96ff4b63b6a0df8",
+          "publishedAt": "2026-08-10T05:00:36.000Z",
           "title": {
-            "en": "World’s seas have hit hottest temperature on record for July, say scientists",
-            "zh": "科学家称，全球海洋七月份温度创历史新高"
+            "en": "British national shot dead in Kashmir by Pakistani security forces",
+            "zh": "英国国民在克什米尔被巴基斯坦安全部队枪杀"
           },
           "summary": {
-            "en": "Scientists report that the world's seas reached their hottest recorded temperature in July, surpassing the previous high from 2023, coinciding with severe heatwaves in western Europe.",
-            "zh": "科学家表示，上个月全球海洋温度达到有记录以来七月份的最高值，超过了2023年的记录，与此同时，西欧也遭受了毁灭性的热浪袭击。"
+            "en": "Mohammad Akhtar, 50, from Peterborough killed during clashes between authorities and protesters A British national was shot dead in Pakistan-administered Kashmir during clashes between security forces and protesters, the Guardian can reveal. Another Briton has been held in a...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023 The world’s seas were hotter last month than in any July on record, scientists have said, as devastating heat struck western Europe. Sea surface temperatures hit record highs for July on the Atlantic coast and western Mediterranean, the EU’s Copernicus climate change service found, with severe marine heatwaves roiling Europe’s seas. Globally, the average sea surface temperature outside the cold polar regions was the highest on record for the month, beating the previous July record set in 2023. Continue reading...",
-            "zh": "极地地区以外的 7 月份平均海面温度达到有记录以来的最高水平，超过了 2023 年的历史最高点。科学家表示，由于毁灭性的高温袭击了西欧，上个月世界海洋的温度比有记录以来的任何 7 月份都要高。欧盟哥白尼气候变化服务机构发现，7月份大西洋沿岸和地中海西部的海面温度创下历史新高，严重的海洋热浪席卷欧洲海域。全球范围内，寒冷极地地区以外的本月平均海面温度达到有记录以来的最高水平，打破了 2023 年 7 月创下的纪录。继续阅读..."
+            "en": "A British national was shot dead in Pakistan-administered Kashmir during clashes between security forces and protesters, the Guardian can reveal.\n\nAnother Briton has been held in a regional prison for more than two months despite his family’s efforts to secure his release through the Foreign Office.\n\nThe details, which have not been previously reported, shed light on how Britons with familial ties to the region have been affected by the clashes, which have killed dozens in the Himalayan territory and posed the biggest challenge for Pakistani authorities in recent years.\n\nMohammad Akhtar, 50, a resident of Peterborough, was killed on 9 June after his family said Pakistani security forces opened fire on a gathering where protesters were demanding economic and electoral reforms in the disputed region that is also claimed by India.\n\nAkhtar was staying in the city of Kotli, close to the area where the clashes occurred, and his family said he was hit by a stray bullet.\n\n“He wasn’t taking part in protests but the demonstrations were happening close to his house,” said Mohammad Saad, Akhtar’s cousin.\n\n“There was firing by the forces that day and he was hit by a stray bullet. There was a bullet wound on the side of his chest,” said Saad, adding that Akhtar’s children decided not to pursue the matter with British authorities.\n\nThey could not get a police complaint registered in Kashmir and feared that the family could be targeted if the case was highlighted, said Saad.\n\nThe Foreign, Commonwealth & Development Office (FCDO) said: “The UK is deeply concerned by the situation in parts of Pakistan-administered Kashmir.\n\n“FCDO ministers and the UK high commissioner in Islamabad are in touch with their counterparts, and UK travel advice was updated on 7 August and continues to advise against all but essential travel to affected areas.”\n\nIt is understood that MP Hamish Falconer, during his previous role as a Foreign Office minister, raised the situation in Kashmir in talks with his counterparts during a 16-17 June visit to Islamabad. Stephen Doughty, who currently holds the role in the Foreign Office, has also been in touch with his counterparts.\n\nPakistan’s foreign ministry and its high commission in London did not respond to the Guardian’s requests for comment.\n\nIslamabad has been accused of launching a violent crackdown on supporters of the Joint Awami Action Committee (JAAC) , a civil society group that launched protests in Kashmir months ahead of a three-phase vote in the region that began on 27 July and which have been repeatedly disrupted by the unrest.\n\nPakistan declared the JAAC a terrorist organisation and has imposed a communications blackout in the region since 5 June. Its security forces have been accused of fatally shooting at least 30 people during...",
+            "zh": "据《卫报》透露，一名英国国民在巴控克什米尔安全部队与抗议者的冲突中被枪杀。 另一名英国人已在地区监狱被关押了两个多月，尽管他的家人通过外交部努力确保他获释。 这些此前未曾报道过的细节揭示了与该地区有亲属关系的英国人如何受到冲突的影响，这场冲突已造成喜马拉雅地区数十人死亡，并给巴基斯坦当局带来了近年来最大的挑战。 50 岁的彼得伯勒居民穆罕默德·阿赫塔尔 (Mohammad Akhtar) 于 6 月 9 日被杀，他的家人称，巴基斯坦安全部队向一次集会开枪，当时抗议者要求在印度也声称拥有主权的争议地区进行经济和选举改革。 阿赫塔尔住在科特利市，靠近冲突发生地区，他的家人说他被流弹击中。 阿赫塔尔的表弟穆罕默德·萨阿德说：“他没有参加抗议活动，但示威活动发生在他家附近。” 萨阿德说：“那天部队开枪，他被流弹击中。他的胸部一侧有枪伤。”他补充说，阿赫塔尔的孩子们决定不向英国当局追究此事。 萨阿德说，他们无法在克什米尔登记警方投诉，并担心如果案件被曝光，这家人可能会成为攻击目标。 英国外交、联邦与发展办公室（FCDO）表示：“英国对巴控克什米尔部分地区的局势深感担忧。 “FCDO 部长和英国驻伊斯兰堡高级专员正在与同行保持联系，英国旅行建议已于 8 月 7 日更新，并继续建议除必要外，不要前往受影响地区。” 据了解，国会议员哈米什·福尔科纳在担任外交部长期间，在 6 月 16 日至 17 日访问伊斯兰堡期间与外长会谈时提出了克什米尔局势。目前在外交部担任职务的斯蒂芬·道蒂（Stephen Doughty）也与他的同行保持了联系。 巴基斯坦外交部及其驻伦敦高级专员公署没有回应《卫报》的置评请求。 伊斯兰堡被指控对人民联合行动委员会（JAAC）的支持者发起暴力镇压，该民间社会团体在克什米尔地区于 7 月 27 日开始的三阶段投票前几个月发起了抗议活动，但投票多次因骚乱而中断。 巴基斯坦宣布 JAAC 为恐怖组织，并自 6 月 5 日起对该地区实行通讯中断。其安全部队被指控在...期间开枪打死至少 30 人。"
           },
           "reflection": {
-            "en": "The news of record-breaking sea temperatures reminds us of creation's deep distress, as described in Scripture. Even as the natural world groans under the weight of change, we are called to listen and respond with care for the earth Yahweh has entrusted to us.",
-            "zh": "海洋温度创纪录的消息提醒我们，正如圣经所描述的，受造界正经历着深切的痛苦。即便自然界在变化的重压下呻吟，我们仍蒙召倾听并以关爱雅伟所托付给我们的地球来回应。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Romans 8:22",
-            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
-            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
-            "themeEn": "Creation's groan",
-            "themeZh": "受造叹息"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
-          "aiVerseId": "rom_8_22",
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-technology-2026-aug-10-uk-companies-cyber-attack-thi",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr",
+          "image": "https://i.guim.co.uk/img/media/6951203ead30f3218ee1c5b13c35cf57f7ecb4e9/47_0_4562_3650/master/4562.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b612744a30b594d743e07f768c63eb8f",
+          "publishedAt": "2026-08-10T05:00:36.000Z",
+          "title": {
+            "en": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
+            "zh": "调查显示去年30%的英国制造商遭遇网络攻击，面临日益增长的黑客风险"
+          },
+          "summary": {
+            "en": "UK manufacturers are increasingly vulnerable to cyber-attacks, with nearly a third experiencing a hit last year. Despite constant threats, only half of the affected companies have a response plan in place.",
+            "zh": "一项调查显示，英国制造商面临的网络攻击风险日益增加，去年近三分之一的企业或其供应链遭受了攻击。尽管威胁持续存在，但只有一半受影响的公司制定了应对计划。"
+          },
+          "body": {
+            "en": "Big companies describe being under constant threat but only half have a plan in place to respond to an attack Nearly a third of British manufacturers have been hit by a cyber-attack on them or a company in their supply chain, according to a survey that highlighted the growing hacking risk to companies. The findings come almost a year after Britain’s largest automotive employer, JLR, was hit by an attack that forced it to halt production for weeks. Continue reading...",
+            "zh": "大公司称自己不断受到威胁，但只有一半制定了应对攻击的计划。一项调查显示，近三分之一的英国制造商或其供应链中的一家公司遭受过网络攻击，该调查强调了公司面临的黑客风险日益增加。这一调查结果是在英国最大的汽车雇主捷豹路虎遭受攻击并迫使其停产数周之后近一年发布的。继续阅读..."
+          },
+          "reflection": {
+            "en": "This report on cyber-attacks highlights the importance of foresight and preparedness in a world full of unseen threats. Proverbs reminds us that wisdom lies in recognizing danger and taking proactive steps to protect what is entrusted to us, rather than proceeding carelessly. For businesses and individuals alike, vigilance and careful planning are essential...",
+            "zh": "这份关于网络攻击的报道强调了在一个充满隐形威胁的世界中，远见和准备的重要性。箴言提醒我们，智慧在于识别危险并采取积极措施保护所托付的一切，而不是粗心大意。对于企业和个人而言，警惕和周密的计划对于规避潜在的危害至关重要。"
+          },
+          "verse": {
+            "reference": "Proverbs 27:12",
+            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
+            "themeEn": "Foreseeing danger",
+            "themeZh": "防患未然"
+          },
+          "aiVerseId": "prov_27_12",
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-world-2026-aug-10-hong-kong-heat-record-hottest-day-",
+          "id": "www-theguardian-com-world-2026-aug-10-typhoon-dolphin-china-shanghai-flo",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin",
-          "image": "https://i.guim.co.uk/img/media/7f3f1905457238e55fd967408caade46fd2ee195/458_0_4584_3669/master/4584.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40419cb11ac1899020f153ae428a92d2",
-          "publishedAt": "2026-08-10T01:24:13.000Z",
+          "link": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
+          "image": "https://i.guim.co.uk/img/media/289807f15ef228d92904d17ae8389283713377b2/665_645_6220_4978/master/6220.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bcdd3a810925201d4c0328c4a53acad",
+          "publishedAt": "2026-08-10T04:55:18.000Z",
           "title": {
-            "en": "Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave",
-            "zh": "台风“海豚”助长热浪，香港录得有史以来最热一天"
+            "en": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+            "zh": "台风海豚：上海创纪录降雨，中国逾百万人撤离"
           },
           "summary": {
-            "en": "Hong Kong officially recorded its highest-ever temperature of 36.9C on Sunday, marking the city's hottest day since records began 142 years ago, as Typhoon Dolphin brought intense heat to the region.",
-            "zh": "香港周日录得36.9摄氏度，创下该市142年有记录以来的最高气温，台风“海豚”为该地区带来了强烈热浪。"
+            "en": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Observatory says 36.9C posted on Sunday is city’s highest official temperature since its records began 142 years ago, with storm driving intense heat in region Hong Kong has officially recorded its highest ever temperature as Typhoon Dolphin swept warm air over the city, the meteorological service said. The city’s weather observatory posted a temperature of 36.9C on Sunday, the highest recorded since records began in 1884, the Hong Kong Observatory said in the afternoon. Continue reading...",
-            "zh": "天文台称，周日公布的36.9摄氏度是香港自142年前有记录以来的最高官方气温，风暴在该地区带来酷热，气象局称，随着台风海豚席卷香港，香港正式录得有史以来最高气温。香港天文台下午表示，香港气象台周日公布的气温为36.9摄氏度，是自1884年有记录以来的最高记录。继续阅读..."
+            "en": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears torrential rain would cause flooding and landslides. Wenzhou, a coastal city in Zhejiang province, said it relocated more than 900,000 people and opened more than 1,500 emergency shelters. In neighbouring Fujian, 98,900 people were moved from high-risk areas. Continue reading...",
+            "zh": "当局警告称，随着风暴向北并进一步向内陆移动，连日的强降雨可能引发大范围的洪水和山体滑坡。由于担心暴雨会引发洪水和山体滑坡，截至周日晚上，强大的台风“海豚”登陆中国东部，已有超过一百万人被转移到安全地带。浙江省沿海城市温州表示，已转移超过90万人，并开设了1500多个应急避难所。在邻近的福建省，9.89万人从高风险地区转移。继续阅读..."
           },
           "reflection": {
-            "en": "The record-breaking heat in Hong Kong, fueled by Typhoon Dolphin, reminds us of the immense power and scale of the natural world. Psalm 24:1 grounds us in the truth that the earth and all its phenomena ultimately belong to Yahweh. This perspective invites us to acknowledge divine sovereignty even amidst challenging environmental shifts.",
-            "zh": "香港创纪录的高温，由台风“海豚”助长，提醒我们自然界巨大的力量和规模。诗篇24:1使我们扎根于一个真理：大地和其中所充满的，都属于雅伟。这种视角邀请我们在面对充满挑战的环境变化时，仍要承认雅伟的主权。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Psalm 24:1",
-            "textEn": "The earth is Yahweh's, and everything in it, the world, and all who live in it.",
-            "textZh": "地和其中所充满的，世界和住在其间的，都属雅伟。",
-            "themeEn": "Earth belongs to God",
-            "themeZh": "全地属神"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
-          "aiVerseId": "ps_24_1",
-          "translationState": "localized"
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-dw-com-en-western-europe-records-hottest-june-and-july-on-record-a-7",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/western-europe-records-hottest-june-and-july-on-record/a-78298751?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/73207794_6.jpg",
+          "publishedAt": "2026-08-10T03:49:00.000Z",
+          "title": {
+            "en": "Western Europe records hottest June and July on record",
+            "zh": "西欧创下有记录以来最热的六月和七月"
+          },
+          "summary": {
+            "en": "Drought is gripping large parts of Europe, with soils unusually dry and major rivers running low. A strengthening El Nino could push global temperatures even higher later this year.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Drought is gripping large parts of Europe, with soils unusually dry and major rivers running low. A strengthening El Nino could push global temperatures even higher later this year.\n\nWestern Europe experienced its hottest June and July on record , according to data released Monday by the EU's Copernicus Climate Change Service.\n\nThe average temperature across the region for the two-month period reached 21.62 degrees Celsius (70.92 Fahrenheit), breaking the previous record set in 2022.\n\nCopernicus said the figure reflected the \"exceptional persistence of heat\"&#160;in western Europe, where four heatwaves have occurred&#160;since May.\n\nThe extreme temperatures have contributed to prolonged drought, major wildfires and new national temperature records across the region, as well as thousands of projected heat-related deaths.\n\nEurope is the fastest-warming continent in the world, though temperatures varied considerably, with eastern Europe and Scandinavia experiencing much cooler conditions. For Europe as a whole, July was only the 11th warmest on record, with an average temperature of 20.49 degrees Celsius (68.88 Fahrenheit).\n\nConditions were drier than average across large parts of Europe in July, including Spain and other areas of the Iberian Peninsula, France , Germany , Austria , Hungary and the United Kingdom .\n\nIreland and parts of Iceland also experienced unusually dry conditions. Soil moisture in western Europe was significantly lower than in July 2022, when the region last experienced a severe drought.\n\n\"Persistent high-pressure systems trapped heat over western Europe, the extreme temperatures also amplified widespread drought,\"&#160;said Samantha Burgess, strategic lead for climate at the European Centre for Medium-Range Weather Forecasts, which operates Copernicus.\n\n\"As soils dry out, they lose their ability to provide natural cooling, allowing heat to build more readily,\"&#160;she added.\n\n\"This is a clear example of how climate change is intensifying heat extremes, with heat and drought increasingly reinforcing one another.\"\n\nRiver flows were also unusually low , with the Seine, Rhine and Danube among the hardest-hit waterways. Low water levels have disrupted transport, irrigation and energy production in several European countries.\n\nThe hot and dry conditions have also increased the risk of wildfires. France and Spain have battled particularly severe fires this summer, while serious blazes have also hit other parts of Europe, the northwestern United States and Canada .\n\nThe average temperature across oceans outside the polar regions reached 20.96 degrees Celsius (69.73 Fahrenheit), surpassing the previous July record of 20.89 degrees (69.60 Fahrenheit) set in 2023.\n\nRecord temperatures were measured along parts of the Atlantic coast and in...",
+            "zh": "欧洲大部分地区正遭受干旱，土壤异常干燥，主要河流水位下降。厄尔尼诺现象的加强可能会导致今年晚些时候全球气温进一步升高。 根据欧盟哥白尼气候变化服务机构周一发布的数据，西欧经历了有记录以来最热的六月和七月。 该地区两个月的平均气温达到21.62摄氏度（70.92华氏度），打破了2022年创下的纪录。 哥白尼表示，这一数字反映了西欧“异常持续的高温”，自五月份以来，该地区已经发生了四次热浪。 极端气温导致该地区出现长期干旱、重大野火和新的全国气温记录，预计还会造成数千人因高温而死亡。 欧洲是世界上变暖最快的大陆，尽管气温差异很大，东欧和斯堪的纳维亚半岛的气候要凉爽得多。对于整个欧洲来说，7 月只是有记录以来第 11 个最热的月份，平均气温为 20.49 摄氏度（68.88 华氏度）。 7月份欧洲大部分地区的天气状况比平均水平干燥，包括西班牙和伊比利亚半岛的其他地区、法国、德国、奥地利、匈牙利和英国。 爱尔兰和冰岛部分地区也经历了异常干燥的天气。西欧的土壤湿度明显低于该地区上次经历严重干旱的 2022 年 7 月。 欧洲中期天气预报中心气候战略负责人萨曼莎·伯吉斯（Samantha Burgess）表示：“持续的高压系统将热量困在西欧，极端的气温也加剧了大范围的干旱。”该中心运营着哥白尼。 “当土壤变干时，它们就会失去提供自然冷却的能力，从而更容易产生热量，”她补充道。 “这是气候变化如何加剧极端高温的一个明显例子，高温和干旱日益加剧。” 河流流量也异常低，其中塞纳河、莱茵河和多瑙河是受灾最严重的水道。低水位扰乱了几个欧洲国家的交通、灌溉和能源生产。 炎热干燥的环境也增加了发生野火的风险。今年夏天，法国和西班牙遭遇了特别严重的火灾，欧洲其他地区、美国西北部和加拿大也遭遇了严重火灾。 极地地区以外的海洋平均气温达到20.96摄氏度（69.73华氏度），超过了2023年7月创下的20.89度（69.60华氏度）的纪录。 大西洋沿岸部分地区和......测得创纪录的气温"
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-bbc-co-uk-news-articles-cx25dkwk3e3o-at-medium-rss-at-campaign-rss",
@@ -220,7 +319,7 @@
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e672/live/4d3d52c0-934f-11f1-a7ab-8b30adf0800a.jpg",
-          "publishedAt": "2026-08-10T00:17:46.000Z",
+          "publishedAt": "2026-08-10T03:33:51.000Z",
           "title": {
             "en": "Residents warned to brace for the worst as Canada wildfire rages out of control",
             "zh": "加拿大野火失控，居民被警告做好最坏打算"
@@ -230,7 +329,7 @@
             "zh": "不列颠哥伦比亚省的秃岭野火仍处于“失控”状态，已蔓延超过53平方英里（136平方公里）。"
           },
           "body": {
-            "en": "A state of emergency has been declared after thousands of people were forced to flee their homes as a fast-moving wildfire spread rapidly in western Canada, doubling in size since it was first detected on Friday.\n\nThe Bald Range fire now occupies more than 53 sq miles (136 sq km) across Summerland, Peachland and other areas of British Columbia, according to the BC Wildfire Service.\n\n\"We have to brace ourselves for the worst,\" Summerland Mayor Doug Holmes told Reuters. The entire Summerland area has been forced to evacuate along with thousands of others in nearby communities.\n\nOfficials said the flames were so high that they had created their own weather systems , which creates lightning.\n\nKeegan Radomski who lives in Summerland said she evacuated her home just moments before the fire reached her property.\n\nIn a video she shared with the BBC, burning tree tops are seen just over the hill beyond the road where Radomski made her escape.\n\nRadomski said she has been unable to return since she fled with seven others on Friday. Now they're anxiously waiting on word whether they will still have a home to return to. She said some neighbours who stayed behind have reported many homes on their street burned down.\n\n\"There are homes that have been confirmed gone, and a lot are in the area near our home. So, we're pretty scared,\" she said. \"The uncertainty is scary.\"\n\nResidents that spoke to the BBC described the wildfire as one that intensified dramatically with little warning before it reached its current size of 13,618 hectares , external (33,650 acres).\n\nBritish Columbia Premier David Eby told a news conference on Saturday that one fire official had likened the fire to \"a bomb going off\".\n\n\"Homes have been lost, and properties have been destroyed. Some people became trapped as conditions changed very quickly, and needed to be rescued,\" the premier said.\n\nA state of emergency allows the provincial government access to special powers including travel restrictions and supply protections to prevent price gouging, and extra resources to coordinate rescue work.\n\nSummerland, which has a population of about 12,000 people, has been one of the hardest hit areas and forced to evacuate. So were residents in parts of Peachland, which is home to about 6,500 residents.\n\n\"We have been on evacuation alert many times,\" said Earl Kurz, a Peachland resident of 30 years. \"This is the first time we were actually evacuated.\"\n\nKurz was on a boat with his wife in Okanagan Lake on Friday afternoon, when he saw clear blue skies rapidly turn hazy grey. By nightfall, dark clouds of smoke above a raging wildfire came into view. It was headed towards Kurz.\n\nHours later, police knocked on his door and ordered him and his wife to evacuate.\n\nThe Bald Range wildfires triggered the largest...",
+            "en": "A state of emergency has been declared after thousands of people were forced to flee their homes as a fast-moving wildfire spread rapidly in western Canada, doubling in size since it was first detected on Friday.\n\nPolice said one person has died in the Bald Range fire, which is burning across 53 sq miles (136 sq km) in Summerland and other areas of British Columbia, according to the BC Wildfire Service.\n\n\"We have to brace ourselves for the worst,\" Summerland Mayor Doug Holmes told Reuters. The Summerland area has been forced to evacuate along with thousands of others in nearby communities.\n\nOfficials said flames were so high they had created their own weather systems , which creates lightning.\n\nCanadian police said on Sunday an 80-year-old woman from Meadow Valley, north-west of Summerland, had died suddenly while attempting to flee her home along with a member of her family. \"Police believe her death to be a result of the wildfire,\" police said in a statement.\n\nKeegan Radomski who lives in Summerland said she evacuated her home just moments before the fire reached her property.\n\nIn a video she shared with the BBC, burning tree tops are seen just over the hill beyond the road where Radomski made her escape.\n\nRadomski said she has been unable to return since she fled with seven others on Friday. Now they're anxiously waiting on word whether they will still have a home to return to. She said some neighbours who stayed behind have reported many homes on their street burned down.\n\n\"There are homes that have been confirmed gone, and a lot are in the area near our home. So, we're pretty scared,\" she said. \"The uncertainty is scary.\"\n\nResidents that spoke to the BBC described the wildfire as one that intensified dramatically with little warning before it reached its current size of 13,618 hectares , external (33,650 acres).\n\nBritish Columbia Premier David Eby told a news conference on Saturday that one fire official had likened the fire to \"a bomb going off\".\n\n\"Homes have been lost, and properties have been destroyed. Some people became trapped as conditions changed very quickly, and needed to be rescued,\" the premier said.\n\nA state of emergency allows the provincial government access to special powers including travel restrictions and supply protections to prevent price gouging, and extra resources to coordinate rescue work.\n\nSummerland, which has a population of about 12,000 people, has been one of the hardest hit areas and forced to evacuate. So were residents in parts of Peachland, which is home to about 6,500 residents.\n\n\"We have been on evacuation alert many times,\" said Earl Kurz, a Peachland resident of 30 years. \"This is the first time we were actually evacuated.\"\n\nKurz was on a boat with his wife in Okanagan Lake on Friday afternoon, when he saw...",
             "zh": "由于一场快速蔓延的野火在加拿大西部迅速蔓延，自周五首次发现以来，火势扩大了一倍，数千人被迫逃离家园，加拿大宣布进入紧急状态。 据不列颠哥伦比亚省野火服务中心称，Bald Range 大火目前覆盖萨默兰、皮奇兰和不列颠哥伦比亚省其他地区超过 53 平方英里（136 平方公里）。 萨默兰市长道格·霍姆斯对路透社表示：“我们必须做好最坏的打算。”整个萨默兰地区以及附近社区的数千人都被迫撤离。 官员们表示，火势如此之高，以至于他们创建了自己的天气系统，从而产生了闪电。 住在萨默兰的基根·拉多姆斯基 (Keegan Radomski) 表示，就在大火蔓延到她家之前，她撤离了家。 在她与英国广播公司分享的一段视频中，可以看到拉多姆斯基逃跑的道路对面的山上有燃烧的树顶。 拉多姆斯基说，自从周五与其他七人一起逃离以来，她一直无法返回。现在他们正在焦急地等待消息，看看他们是否还有家可回。她说，一些留下来的邻居报告说，他们街上的许多房屋被烧毁。 “已经确认有些房屋已经消失，其中很多都在我们家附近。所以，我们非常害怕，”她说。 “不确定性令人恐惧。” 接受 BBC 采访的居民称，这场野火在没有任何预警的情况下急剧加剧，最终蔓延到目前 13,618 公顷的外部面积（33,650 英亩）。 不列颠哥伦比亚省省长大卫·伊比在周六的新闻发布会上表示，一名消防官员将火灾比作“炸弹爆炸”。 “房屋被毁，财产被毁。由于情况变化很快，一些人被困，需要救援，”总理说。 紧急状态允许省政府获得特殊权力，包括旅行限制和供应保护以防止哄抬物价，以及额外资源来协调救援工作。 人口约1.2万人的萨默兰一直是受灾最严重的地区之一，被迫撤离。皮奇兰部分地区的居民也是如此，该地区约有 6,500 名居民。 “我们已经多次处于疏散警报状态，”在皮奇兰居住了 30 年的厄尔·库兹 (Earl Kurz) 说。 “这是我们第一次真正被疏散。” 周五下午，库尔兹和妻子在奥肯纳根湖乘船，当时他看到清澈的蓝色天空迅速变成朦胧的灰色。夜幕降临时，熊熊大火上空的浓烟映入眼帘。它朝着库尔兹方向驶去。 几个小时后，警察敲开了他的门，命令他和他的妻子撤离。 秃岭野火引发了最大的..."
           },
           "reflection": {
@@ -246,39 +345,6 @@
           },
           "aiVerseId": "ps_46_1",
           "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-aug-09-body-woman-found-suitcase",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/09/body-woman-found-suitcase-regional-nsw-road-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/796f30e61606c049a0c5bd543c05924ad2e8e575/185_0_1099_880/master/1099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ecc5ee11e70cb7e7cf2d2bdbd399146",
-          "publishedAt": "2026-08-10T00:11:05.000Z",
-          "title": {
-            "en": "NSW police say ‘body’ of woman found in suitcase by side of road near Goulburn was not human",
-            "zh": "新南威尔士州警方称在古尔本附近路边手提箱中发现的女性“尸体”不是人"
-          },
-          "summary": {
-            "en": "What was originally reported as a body found in Oallen on Sunday was ‘very realistic in the terms of looking like human remains’, police say Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast What appeared to be a...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "What was originally reported as a body found in Oallen on Sunday was ‘very realistic in the terms of looking like human remains’, police say Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast What appeared to be a woman’s body found in a suitcase by the side of a road near Goulburn in regional New South Wales was not in fact human remains, police say. NSW police said they were called to Wolgon Road in Oallen about 12.50pm on Sunday “following reports a body had been located”. Continue reading...",
-            "zh": "警方表示，周日在欧伦发现的一具尸体最初被报道为“看起来像人类遗骸，非常真实”。 警方表示，在新南威尔士州古尔本附近的路边发现的一个手提箱中，看似是一具女性尸体，但实际上并不是人类遗骸。新南威尔士州警方表示，周日中午 12 点 50 分左右，“接到报告称发现了一具尸体”后，他们被叫到了欧伦 (Oallen) 的沃尔贡路 (Wolgon Road)。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-dw-com-en-netanyahu-rejects-trump-backed-gaza-peace-plan-a-78298282-",
@@ -348,39 +414,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-aug-09-trump-will-scharf-white-house-co",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/09/trump-will-scharf-white-house-counsel",
-          "image": "https://i.guim.co.uk/img/media/9c35e64e0b4daef2926f3caaeadeb3452ebd4f07/351_0_4303_3443/master/4303.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=000e01c1368c3eba103e69d4c3ce9b28",
-          "publishedAt": "2026-08-09T22:28:31.000Z",
-          "title": {
-            "en": "Trump appoints staff secretary Will Scharf as new White House counsel",
-            "zh": "特朗普任命幕僚秘书威尔·沙夫为新任白宫法律顾问"
-          },
-          "summary": {
-            "en": "Scharf, who helped president win approval for $400m ballroom, to replace David Warrington on 1 September Donald Trump announced on Sunday that ⁠Will ​Scharf, the staff secretary who helped secure approval for the $400m White House ballroom project, will become ⁠White House...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Scharf, who helped president win approval for $400m ballroom, to replace David Warrington on 1 September Donald Trump announced on Sunday that ⁠Will ​Scharf, the staff secretary who helped secure approval for the $400m White House ballroom project, will become ⁠White House counsel and assistant to the president. Effective 1 September, Scharf will replace David Warrington, who will be leaving the administration to join the private sector. Warrington ​formerly served ​as a ​personal counsel and a ​lawyer ‌for Trump’s ​2024 campaign. Continue reading...",
-            "zh": "曾帮助总统获得 4 亿美元宴会厅项目批准的沙夫于 9 月 1 日接替大卫·沃灵顿 唐纳德·特朗普周日宣布，帮助获得 4 亿美元白宫宴会厅项目批准的幕僚秘书威尔·沙夫将成为白宫法律顾问和总统助理。自 9 月 1 日起，沙夫将接替即将离开政府、加入私营部门的戴维·沃灵顿 (David Warrington)。沃灵顿曾担任特朗普 2024 年竞选活动的私人顾问和律师。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-worldview-gulf-behind-strained-australia-and",
           "section": "world",
           "source": "SBS News World",
@@ -390,28 +423,29 @@
           "publishedAt": "2026-08-09T21:54:14.000Z",
           "title": {
             "en": "Worldview 'gulf' behind strained Australia-China ties, former Australian ambassador says",
-            "zh": "澳大利亚前大使称澳中关系紧张背后的世界观“鸿沟”"
+            "zh": "世界观“鸿沟”是澳中关系紧张的幕后原因，澳大利亚前大使表示"
           },
           "summary": {
-            "en": "Australia's former ambassador to China listed \"diverging worldviews\" as one of the many barriers to a healthy relationship.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+            "en": "Australia's former ambassador to China identified \"diverging worldviews\" as a key obstacle to a healthy relationship between the two nations.",
+            "zh": "澳大利亚前驻华大使指出，“世界观差异”是澳中两国建立健康关系的主要障碍之一。"
           },
           "body": {
             "en": "Australia is unlikely ever to have a true partnership with China due to a mismatch of worldviews, rendering it pointless to pursue that goal, the nation's former top diplomat to China says.\n\nBut in an analysis piece for the Lowy Institute, Australia's former ambassador to China Graham Fletcher noted several wildcards, such as Chinese military action in Taiwan , could still disrupt the \"modest new normal\" of the relationship.\n\nThe change in government at the 2022 federal election acted as a circuit-breaker in increasingly fraught dealings between the nations, although they had still been marred by intimidatory military encounters involving Chinese forces, he said.\n\nChina sparked widespread international condemnation over its launch of a ballistic missile into the South Pacific in July following the signing of a landmark mutual defence alliance between Australia and Fiji.\n\nThe Albanese government sought to stabilise relations with China after diplomatic tensions peaked during the COVID-19 pandemic under then-prime minister Scott Morrison's leadership.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nChina slapped $20 billion in trade sanctions on Australian exports, measures that have slowly been wound back.\n\nChina is Australia's largest trading partner and is the destination for about a third of the nation's exports.\n\nFletcher said China had not given up hope of drawing Australia closer into its orbit, while Australia was more focused on consolidating its current relationship.\n\n\"But this relationship is unlikely ever to become genuinely close &#x2014; like the relaxed, intimate fellowship Australia enjoys with like-minded partners elsewhere in its region and beyond,\" he said.\n\n\"The gulf in terms of diverging world views and national security agendas is simply too wide.\n\n\"It would be pointless for Canberra to pursue such a goal; it recognises this and is realistic.\"\n\nThe \"mismatch\" of world views made the relationship vulnerable to disruption, with key risks including another round of serious disagreements or the cataclysm of a conflict, including the use of force against Taiwan.\n\n\"An upheaval or conflict is always a possibility, though not in my opinion a strong one at present,\" the former diplomat said.\n\nAustralia would be on firmer ground when facing China if policies had cross-party support and politicians did not \"seek to exploit difficulties for domestic advantage\", Fletcher said.\n\n\"Bipartisanship produces policy consistency and limits China's ability to play games within the Australian system,\" he said.\n\nFletcher was Australia's ambassador to China from 2019 to 2023 and led the negotiating team in 2014 that helped seal a free trade agreement between the two...",
             "zh": "澳大利亚前驻华最高外交官表示，由于世界观不匹配，澳大利亚不太可能与中国建立真正的伙伴关系，因此追求这一目标毫无意义。 但澳大利亚前驻华大使格雷厄姆·弗莱彻在洛伊研究所的一篇分析文章中指出，一些不确定因素，例如中国在台湾的军事行动，仍然可能破坏两国关系的“适度新常态”。 他说，2022 年联邦选举中的政府更迭为两国之间日益令人担忧的交易起到了断路器的作用，尽管它们仍然受到涉及中国军队的恐吓性军事冲突的损害。 在澳大利亚和斐济签署具有里程碑意义的共同防御联盟后，中国于 7 月向南太平洋发射弹道导弹，引发了国际社会的广泛谴责。 在时任总理斯科特·莫里森 (Scott Morrison) 的领导下，新冠肺炎 (COVID-19) 疫情期间外交紧张局势达到顶峰后，阿尔巴尼亚政府寻求稳定与中国的关系。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 中国对澳大利亚出口产品实施了价值 200 亿美元的贸易制裁，但这些措施已慢慢取消。 中国是澳大利亚最大的贸易伙伴，也是该国约三分之一出口的目的地。 弗莱彻表示，中国并未放弃将澳大利亚拉近其轨道的希望，而澳大利亚则更专注于巩固当前的关系。 “但这种关系不太可能变得真正亲密——就像澳大利亚与其地区及其他地方志同道合的伙伴所享有的轻松、亲密的友谊一样，”他说。 “世界观和国家安全议程的分歧实在太大了。 “堪培拉追求这样的目标是毫无意义的；它认识到这一点并且是现实的。” 世界观的“不匹配”使得两国关系容易受到破坏，其主要风险包括新一轮严重分歧或爆发冲突，包括对台湾使用武力。 这位前外交官表示：“动乱或冲突总是有可能发生，尽管我认为目前可能性不大。” 弗莱彻表示，如果政策得到跨党派支持，并且政客们不“寻求利用困难谋取国内利益”，那么澳大利亚在面对中国时将会更加坚定。 “两党合作带来了政策的一致性，并限制了中国在澳大利亚体系内玩弄游戏的能力，”他说。 弗莱彻于 2019 年至 2023 年担任澳大利亚驻中国大使，并于 2014 年领导谈判团队，帮助两国签署了自由贸易协定……"
           },
           "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "International relations often face challenges when \"diverging worldviews\" create tension between nations. Yahweh's word encourages us to pursue peace as much as it depends on us, even when fundamental differences make harmony difficult. This calls for persistent effort and understanding in navigating complex global relationships.",
+            "zh": "当“世界观差异”在国家之间造成紧张时，国际关系常常面临挑战。雅伟的话语鼓励我们，只要力所能及，就与众人和睦相处，即便根本性的分歧使和谐变得困难。这要求我们在复杂的全球关系中，以持续的努力和理解来应对。"
           },
           "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
           },
-          "translationState": "fallback"
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-videos-cly5zpx0ypdo-at-medium-rss-at-campaign-rss",
@@ -423,7 +457,7 @@
           "publishedAt": "2026-08-09T21:26:56.000Z",
           "title": {
             "en": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-            "zh": "基纳汉的听证会如何在都柏林法庭内展开"
+            "zh": "基纳汉的听证会如何在都柏林法庭内进行"
           },
           "summary": {
             "en": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
@@ -463,8 +497,8 @@
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Israeli Prime Minister Benjamin Netanyahu has rejected US President Donald Trump's 15-point plan for Gaza, stating that no military pull-out will happen until Hamas is \"genuinely\" disarmed.\n\nTrump's Board of Peace said last month it had reached an agreement for the \"complete disarmament\" of Hamas and other armed groups in Gaza.\n\nBut Hamas said handing over its heavy weapons was contingent on Israel ending \"all forms of aggression\" and withdrawing its forces from Gaza.\n\nIsrael has continued to carry out strikes on Gaza since agreeing to an initial ceasefire in the territory last October.\n\n\"Israel rejects the 15-point document,\" Netanyahu said at a cabinet meeting on Sunday.\n\nThe Israeli military \"will not carry out any withdrawal until Hamas is genuinely disarmed and will continue to thwart threats against our forces and our citizens\", he added.\n\nA Hamas official told the BBC on Sunday the group \"reaffirms it commitment\" to the agreement and it was ready \"to engage seriously and responsibly in implementing\" the 15-point plan.\n\nThey called on mediators to ensure \"that all parties comply with what has been agreed\".\n\nIsrael's rejection signals another blow for Trump's Gaza peace plan which was announced in September last year.\n\nThe plan included the creation of the Board of Peace to oversee the agreement's implementation, as well as the disarmament of Hamas, withdrawal of Israeli troops and reconstruction of Gaza.\n\nBut he has taken some time to make it, perhaps reflecting the difficult position the Israeli leader is in.\n\nHe clearly is unhappy with Trump's plan but at the same time he will not want to upset his closest ally.\n\nIt's just over a week since Trump announced what he called a \"monumental step toward lasting peace and security\" - that Hamas for the first time had agreed to disarm, on condition that Israel withdraws its forces from Gaza.\n\nOn Sunday, Netanyahu was clear that was not going to happen under his watch. He said Hamas had to disarm first, adding that it couldn't be some \"fictitious disarmament\" - it had to be real.\n\nThe reality is any disarmament and withdrawal of Israeli forces would likely need to be phased.\n\nNetanyahu said he was now in discussion with US officials about how to go forward.\n\n\"They have ideas; some of them are acceptable to us and some are not, and we know how to stand our ground on these matters,\" he said.\n\nBut just months before Israeli elections and under pressure from members of his right-wing coalition to take a tough stance on Gaza, he is unlikely to want to make concessions.\n\nHe has faced calls from far-right parts of the coalition to hold a new cabinet vote and end the Gaza plan, including National Security Minister Itamar Ben Gvir who dismissed the draft as \"not acceptable\".\n\nNickolay Mladenov - a senior...",
-            "zh": "以色列总理本杰明·内塔尼亚胡拒绝了美国总统唐纳德·特朗普针对加沙的15点计划，表示在哈马斯“真正”解除武装之前不会进行军事撤军。 特朗普的和平委员会上个月表示，已就哈马斯和加沙其他武装组织“彻底解除武装”达成协议。 但哈马斯表示，交出重型武器取决于以色列结束“一切形式的侵略”并从加沙撤军。 自去年10月同意在加沙地带初步停火以来，以色列继续对加沙地带进行打击。 “以色列拒绝这份 15 点文件，”内塔尼亚胡在周日的内阁会议上表示。 他补充说，以色列军方“在哈马斯真正解除武装之前不会进行任何撤军，并将继续挫败针对我们军队和公民的威胁”。 一名哈马斯官员周日告诉英国广播公司，该组织“重申其对协议的承诺”，并准备“认真、负责任地实施”15点计划。 他们呼吁调解人确保“各方遵守已达成的协议”。 以色列的拒绝标志着特朗普去年9月宣布的加沙和平计划再次受到打击。 该计划包括成立和平委员会来监督协议的执行，以及哈马斯的解除武装、以色列撤军和加沙的重建。 但他花了一些时间才做到这一点，也许反映了以色列领导人所处的困境。 他显然对特朗普的计划不满意，但同时他也不想让他最亲密的盟友感到不安。 距离特朗普宣布他所称的“迈向持久和平与安全的里程碑式一步”仅一周多时间，哈马斯首次同意解除武装，条件是以色列从加沙撤军。 周日，内塔尼亚胡明确表示，在他的领导下这不会发生。他说哈马斯必须首先解除武装，并补充说这不能是某种“虚构的解除武装”——它必须是真实的。 现实情况是，以色列军队的任何解除武装和撤军可能都需要分阶段进行。 内塔尼亚胡表示，他现在正在与美国官员讨论如何推进。 “他们有想法；其中一些我们可以接受，有些则不能，我们知道如何在这些问题上坚持自己的立场，”他说。 但就在以色列大选前几个月，迫于右翼联盟成员要求对加沙采取强硬立场的压力，他不太可能愿意做出让步。 他面临联盟极右翼人士的呼吁，要求举行新的内阁投票并结束加沙计划，其中包括国家安全部长伊塔马尔·本·格维尔（Itamar Ben Gvir），他认为该草案“不可接受”。 尼古拉·姆拉德诺夫 - 一名高级..."
+            "en": "Israeli Prime Minister Benjamin Netanyahu has rejected US President Donald Trump's 15-point plan for Gaza, stating that no military pull-out will happen until Hamas is \"genuinely\" disarmed.\n\nTrump's Board of Peace said last month it had reached an agreement for the \"complete disarmament\" of Hamas and other armed groups in Gaza.\n\nBut Hamas said handing over its heavy weapons was contingent on Israel ending \"all forms of aggression\" and withdrawing its forces from Gaza.\n\nOn Sunday, a senior Board of Peace official insisted the US-backed peace plan for the territory remained the only way forward.\n\nIsrael has continued to carry out strikes on Gaza since agreeing to an initial ceasefire in the territory last October.\n\n\"Israel rejects the 15-point document,\" Netanyahu said at a cabinet meeting on Sunday.\n\nThe Israeli military \"will not carry out any withdrawal until Hamas is genuinely disarmed and will continue to thwart threats against our forces and our citizens\", he added.\n\nA Hamas official told the BBC on Sunday the group \"reaffirms it commitment\" to the agreement and it was ready \"to engage seriously and responsibly in implementing\" the 15-point plan.\n\nThey called on mediators to ensure \"that all parties comply with what has been agreed\".\n\nIsrael's rejection signals another blow for Trump's Gaza peace plan which was announced in September last year.\n\nThe plan included the creation of the Board of Peace to oversee the agreement's implementation, as well as the disarmament of Hamas, withdrawal of Israeli troops and reconstruction of Gaza.\n\nBut he has taken some time to make it, perhaps reflecting the difficult position the Israeli leader is in.\n\nHe clearly is unhappy with Trump's plan but at the same time he will not want to upset his closest ally.\n\nIt's just over a week since Trump announced what he called a \"monumental step toward lasting peace and security\" - that Hamas for the first time had agreed to disarm, on condition that Israel withdraws its forces from Gaza.\n\nOn Sunday, Netanyahu was clear that was not going to happen under his watch. He said Hamas had to disarm first, adding that it couldn't be some \"fictitious disarmament\" - it had to be real.\n\nThe reality is any disarmament and withdrawal of Israeli forces would likely need to be phased.\n\nNetanyahu said he was now in discussion with US officials about how to go forward.\n\n\"They have ideas; some of them are acceptable to us and some are not, and we know how to stand our ground on these matters,\" he said.\n\nBut just months before Israeli elections and under pressure from members of his right-wing coalition to take a tough stance on Gaza, he is unlikely to want to make concessions.\n\nHe has faced calls from far-right parts of the coalition to hold a new cabinet vote and end the Gaza plan,...",
+            "zh": "以色列总理本杰明·内塔尼亚胡拒绝了美国总统唐纳德·特朗普针对加沙的15点计划，表示在哈马斯“真正”解除武装之前不会进行军事撤军。 特朗普的和平委员会上个月表示，已就哈马斯和加沙其他武装组织“彻底解除武装”达成协议。 但哈马斯表示，交出重型武器取决于以色列结束“一切形式的侵略”并从加沙撤军。 周日，和平委员会的一名高级官员坚称，美国支持的该领土和平计划仍然是唯一的出路。 自去年10月同意在加沙地带初步停火以来，以色列继续对加沙地带进行打击。 “以色列拒绝这份 15 点文件，”内塔尼亚胡在周日的内阁会议上表示。 他补充说，以色列军方“在哈马斯真正解除武装之前不会进行任何撤军，并将继续挫败针对我们军队和公民的威胁”。 一名哈马斯官员周日告诉英国广播公司，该组织“重申其对协议的承诺”，并准备“认真、负责任地实施”15点计划。 他们呼吁调解人确保“各方遵守已达成的协议”。 以色列的拒绝标志着特朗普去年9月宣布的加沙和平计划再次受到打击。 该计划包括成立和平委员会来监督协议的执行，以及哈马斯的解除武装、以色列撤军和加沙的重建。 但他花了一些时间才做到这一点，也许反映了以色列领导人所处的困境。 他显然对特朗普的计划不满意，但同时他也不想让他最亲密的盟友感到不安。 距离特朗普宣布他所称的“迈向持久和平与安全的里程碑式一步”仅一周多时间，哈马斯首次同意解除武装，条件是以色列从加沙撤军。 周日，内塔尼亚胡明确表示，在他的领导下这不会发生。他说哈马斯必须首先解除武装，并补充说这不能是某种“虚构的解除武装”——它必须是真实的。 现实情况是，以色列军队的任何解除武装和撤军可能都需要分阶段进行。 内塔尼亚胡表示，他现在正在与美国官员讨论如何推进。 “他们有想法；其中一些我们可以接受，有些则不能，我们知道如何在这些问题上坚持自己的立场，”他说。 但就在以色列大选前几个月，迫于右翼联盟成员要求对加沙采取强硬立场的压力，他不太可能愿意做出让步。 他面临联盟极右部分的呼吁，要求举行新内阁投票并结束加沙计划，..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -496,8 +530,8 @@
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "The strongest tropical cyclone to hit China this year has slammed into the country&#x2019;s eastern coast on Sunday, unleashing torrential rain and powerful winds.\n\nTyphoon Dolphin had already swept across Japan&#x2019;s southern Okinawa prefecture, injuring six people and cutting power to more than 50,000 buildings.\n\nIt then made landfall near Yuhuan in eastern Zhejiang province on Sunday evening, China's meteorological authorities said.\n\nThe storm packed maximum sustained winds of 151km/h near its centre at landfall, equivalent to a Category 1 hurricane on the Saffir-Simpson scale.\n\nAuthorities had moved offshore workers to safety, ordered vessels back to port and increased checks at reservoirs, mountain streams, landslide-prone areas, construction sites and tourist locations.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nTorrential rain is forecast through 10 August across Zhejiang, Shanghai, northern Fujian, northeastern Jiangxi, central and southern Anhui, and much of Jiangsu. Parts of central and eastern Zhejiang could receive 250-500 mm of rain, according to forecasters.\n\nAfter landfall, Dolphin is forecast to track westward before slowing over central and southwestern China and gradually losing strength, Wang Haiping, chief forecaster at the National Meteorological Centre, told state broadcaster CCTV.\n\nThat could prolong heavy rain and raise the risk of flooding and landslides, especially in mountainous areas and along smaller rivers.\n\nTransport was widely disrupted across the east of the country, and more than one million people were evacuated from their homes.\n\nIn addition to evacuating at least 30,300 people, Shanghai has cancelled about 1,500 flights, according to flight-tracking data provider VariFlight.\n\nA 42-year-old tourist from Guangdong said he was stranded in Shanghai after his family's flight, scheduled to depart on Sunday, was cancelled due to Typhoon Dolphin.\n\nHe said the family had been rebooked on a flight at 10pm on Monday, although they were unsure whether it would be able to take off.\n\n\"To us Guangdong people, this typhoon is as ordinary as having a meal and feeling the wind. It's just part of everyday life,\" he said, adding that the storm did not appear particularly strong by the standards of China's southern coast.\n\nIn neighbouring Zhejiang province, the city of Wenzhou relocated more than 900,000 residents and opened more than 1,000 emergency shelters.\n\nIn Fujian province, authorities evacuated 98,900 people from high-risk areas after raising the typhoon emergency response to Level 3, according to Xinhua. Zhejiang, Shanghai and Jiangsu have also activated Level 3 emergency responses.\n\nFujian maritime authorities said 55 coastal...",
-            "zh": "今年袭击中国的最强热带气旋周日袭击了中国东部沿海，带来暴雨和强风。 台风“海豚”已经横扫日本南部冲绳县，造成六人受伤，5万多栋建筑断电。 中国气象部门表示，周日晚上，它在浙江省东部玉环市附近登陆。 风暴登陆时中心附近的最大持续风速达到 151 公里/小时，相当于萨菲尔-辛普森级 1 级飓风。 当局已将海上工人转移至安全地带，命令船只返回港口，并加强对水库、山涧、山体滑坡易发地区、建筑工地和旅游景点的检查。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 预计到8月10日，浙江、上海、福建北部、江西东北部、安徽中南部以及江苏大部分地区将出现暴雨。据预报，浙江中东部部分地区可能出现250-500毫米降雨。 国家气象中心首席预报员王海平告诉中央电视台，预计“海豚”登陆后将向西移动，然后在中国中部和西南部上空减速并逐渐减弱。 这可能会延长暴雨时间，并增加洪水和山体滑坡的风险，特别是在山区和较小河流沿岸。 该国东部地区的交通大范围中断，超过一百万人被迫撤离家园。 据航班跟踪数据提供商飞常准(VariFlight)称，除了疏散至少30,300人外，上海还取消了约1,500个航班。 一名来自广东的 42 岁游客表示，他家人原定于周日出发的航班因台风海豚而取消，因此他被困在上海。 他说，一家人已经重新预订了周一晚上 10 点的航班，不过他们不确定航班是否能够起飞。 “对于我们广东人来说，这场台风就像吃饭、吹风一样平常，只是日常生活的一部分。”他补充道，以中国南部沿海的标准来看，这场台风并没有显得特别强烈。 在邻近的浙江省，温州市搬迁了超过90万居民，并开设了1000多个紧急避难所。 据新华社报道，福建省将台风应急响应提升至三级后，从高风险地区疏散了98,900人。浙江、上海、江苏也启动三级应急响应。 福建海事部门称，55家沿海..."
+            "en": "Typhoon Dolphin brought heavy rain to eastern China on Monday, causing hundreds of flight cancellations even as the storm weakened and some cities resumed public transport.\n\nThe typhoon had already swept across Japan&#x2019;s southern Okinawa prefecture, injuring six people and cutting power to more than 50,000 buildings.\n\nIt then made landfall near Yuhuan in eastern Zhejiang province on Sunday evening, China's meteorological authorities said.\n\nThe storm packed maximum sustained winds of 151km/h near its centre at landfall, equivalent to a Category 1 hurricane on the Saffir-Simpson scale.\n\nAuthorities had moved offshore workers to safety, ordered vessels back to port and increased checks at reservoirs, mountain streams, landslide-prone areas, construction sites and tourist locations.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe weather system lost power after making landfall, with China's National Meteorological Centre (NMC) issuing its least severe typhoon alert on Monday morning.\n\nHowever, the NMC warned that parts of east and central China would continue to receive heavy rain for the next day.\n\nThe typhoon had triggered a top-level alert over the weekend, prompting over 1,000 flight cancellations and tens of thousands of evacuations.\n\nTransport was widely disrupted across the east of the country, and more than one million people were evacuated from their homes.\n\nNine hundred and forty-three flights from Shanghai's two main passenger airports were cancelled, the airport authority said in an online post.\n\nA 42-year-old tourist from Guangdong said he was stranded in Shanghai after his family's flight, scheduled to depart on Sunday, was cancelled due to Typhoon Dolphin.\n\nHe said the family had been rebooked on a flight at 10pm on Monday, although they were unsure whether it would be able to take off.\n\n\"To us Guangdong people, this typhoon is as ordinary as having a meal and feeling the wind. It's just part of everyday life,\" he said, adding that the storm did not appear particularly strong by the standards of China's southern coast.\n\nIn neighbouring Zhejiang province, the city of Wenzhou relocated more than 900,000 residents and opened more than 1,000 emergency shelters.\n\nIn Fujian province, authorities evacuated 98,900 people from high-risk areas after raising the typhoon emergency response to Level 3, according to Xinhua. Zhejiang, Shanghai and Jiangsu have also activated Level 3 emergency responses.\n\nFujian maritime authorities said 55 coastal passenger ferry routes had been suspended, all 115 offshore construction projects had been halted, and 290 construction vessels had been moved to sheltered waters.\n\nThe water resources ministry said the Qiantang,...",
+            "zh": "台风“海豚”周一给中国东部带来大雨，导致数百架航班取消，尽管风暴减弱，一些城市恢复了公共交通。 台风已经席卷日本南部冲绳县，造成六人受伤，5万多座建筑物断电。 中国气象部门表示，周日晚上，它在浙江省东部玉环市附近登陆。 风暴登陆时中心附近的最大持续风速达到 151 公里/小时，相当于萨菲尔-辛普森级 1 级飓风。 当局已将海上工人转移至安全地带，命令船只返回港口，并加强对水库、山涧、山体滑坡易发地区、建筑工地和旅游景点的检查。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 气象系统在登陆后失去动力，中国国家气象中心（NMC）于周一早上发布了最不严重的台风警报。 不过，国家气象局警告，明天华东、华中部分地区仍将有大到暴雨。 台风在周末引发了最高级别的警报，导致 1000 多个航班取消，数万人疏散。 该国东部地区的交通大范围中断，超过一百万人被迫撤离家园。 机场管理局在网上发帖称，上海两个主要客运机场的 943 个航班被取消。 一名来自广东的 42 岁游客表示，他家人原定于周日出发的航班因台风海豚而取消，因此他被困在上海。 他说，一家人已经重新预订了周一晚上 10 点的航班，不过他们不确定航班是否能够起飞。 “对于我们广东人来说，这场台风就像吃饭、吹风一样平常，只是日常生活的一部分。”他补充道，以中国南部沿海的标准来看，这场台风并没有显得特别强烈。 在邻近的浙江省，温州市搬迁了超过90万居民，并开设了1000多个紧急避难所。 据新华社报道，福建省将台风应急响应提升至三级后，从高风险地区疏散了98,900人。浙江、上海、江苏也启动三级应急响应。 福建海事部门表示，55条沿海客运航线已暂停，115个海上施工项目已全部停止，290艘施工船舶已移至避风水域。 水利部表示，钱塘江..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -509,39 +543,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c62qd5plzp6o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c84/live/2e385c70-9431-11f1-b2ab-0dd01740f9f6.jpg",
-          "publishedAt": "2026-08-09T20:58:18.000Z",
-          "title": {
-            "en": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-            "zh": "犯罪头目嫌疑人丹尼尔·基纳汉引渡后出庭"
-          },
-          "summary": {
-            "en": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has appeared before a Dublin court after being extradited from Dubai.\n\nHe has been charged with directing the activities of a criminal organisation between 18 October 2015 and 6 April 2017.\n\nAn Irish government jet carrying the 49-year-old landed in Dublin after 18:00 local time. He was arrested and charged upon his arrival.\n\nFollowing a 13-minute non-jury hearing at the Special Criminal Court, he was remanded in custody until 5 October.\n\nKinahan was arrested in the United Arab Emirates (UAE) in April. He appealed the extradition order over the past few months but his attempts were unsuccessful.\n\nThe National Crime Agency (NCA) has previously said that the Kinahan cartel has been responsible for importing tonnes of drugs and firearms around the world and has also been linked to more than a dozen gangland murders.\n\nKinahan was not only wanted by the authorities in Ireland - the US Treasury Department once described the Kinahan cartel as one of the most dangerous in the world.\n\nThe US government imposed sanctions on Kinahan in April 2022 after identifying him and other member of his family as leaders of the Kinahan organised crime cartel.\n\nHe fought attempts to extradite him back to his native country, where the Kinahan cartel was involved in a long-running gangland feud that claimed 18 lives.\n\nAhead of the extradition, the Irish Prison Service bought a bulletproof and bombproof van which can be used to escort prisoners who are considered high-risk.\n\nGarda Commissioner Justin Kelly said the arrest shows the force's determination to \"target transnational organised crime groups\" alongside international policing partners such as Dubai police.\n\nHe added it shows the value of the force's relationship with the authorities in the UAE, the Irish ministry of justice at judicial level, and \"on a police-to-police basis\".\n\nKinahan arrived at Baldonnell Casement Aerodrome on Sunday evening, where gardaí arrested and charged him.\n\nHe was directly transported under heavy police guard to the Criminal Courts of Justice in Dublin.\n\nAll the benches were full in a packed courtroom of journalists, a number of solicitors from the Director of Public Prosecutions (DPP), some members of the public and court clerks.\n\nHe appeared before judges Patrick McGrath, Sarah Berkeley and Fiona Lydon, and rose to his feet when the three judges took their places.\n\nKinahan did not have legal representation, and told the court that he did not have time to arrange this.\n\nWhen Judge McGrath suggested that he should be charged today and legal representation arranged later on, Kinahan replied: \"If I have time, yes.\"\n\nJudge McGrath asked Kinahan if he would like to appear at the next court sitting in person or via...",
-            "zh": "犯罪头目嫌疑人丹尼尔·基纳汉是世界头号通缉犯之一，从迪拜引渡回都柏林法院。 他被指控在2015年10月18日至2017年4月6日期间指挥犯罪组织的活动。 当地时间18:00后，一架载有49岁男子的爱尔兰政府飞机降落在都柏林。他一抵达就被捕并受到指控。 在特别刑事法院进行了 13 分钟的无陪审团听证会后，他被还押候审至 10 月 5 日。 基纳汉于四月在阿拉伯联合酋长国（UAE）被捕。他在过去几个月对引渡令提出上诉，但他的尝试没有成功。 国家犯罪局（NCA）此前曾表示，基纳汉贩毒集团在世界各地进口大量毒品和枪支，并与十几起黑帮谋杀案有关。 基纳汉不仅受到爱尔兰当局的通缉，美国财政部还曾将基纳汉贩毒集团描述为世界上最危险的贩毒集团之一。 美国政府在确认基纳汉及其其他家庭成员是基纳汉有组织犯罪卡特尔的领导人后，于 2022 年 4 月对他实施制裁。 他抵制了将他引渡回祖国的企图，当时基纳汉贩毒集团卷入了一场长期的黑帮争斗，导致 18 人丧生。 在引渡之前，爱尔兰监狱管理局购买了一辆防弹防弹面包车，可用于护送被视为高风险的囚犯。 加尔达专员贾斯汀·凯利表示，此次逮捕表明警方决心与迪拜警方等国际警务合作伙伴一起“打击跨国有组织犯罪集团”。 他补充说，这显示了警方与阿联酋当局、爱尔兰司法部在司法层面以及“警察对警察之间”关系的价值。 基纳汉于周日晚上抵达巴尔登内尔凯门特机场，警察在那里逮捕并指控了他。 他在重兵看守下被直接送往都柏林刑事法院。 法庭上挤满了记者、检察长（DPP）的一些律师、一些公众和法庭书记员，所有的长凳都坐满了。 他出现在帕特里克·麦格拉思、莎拉·伯克利和菲奥娜·莱登法官面前，并在三位法官就座时站了起来。 基纳汉没有法律代表，并告诉法庭他没有时间安排此事。 当麦格拉斯法官建议他今天受到指控并稍后安排法律代表时，基纳汉回答说：“如果我有时间，是的。” 麦格拉斯法官询问基纳汉是否愿意亲自出庭或通过......"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
@@ -595,7 +596,7 @@
             "zh": "长崎市市长强烈反对核武器，称其为“绝对邪恶”，此前有报道称东京正在重新考虑其长期坚持的无核原则。"
           },
           "body": {
-            "en": "The Japanese city of Nagasaki has used the 81st anniversary of the atomic bombing to call for the abolition of nuclear weapons while criticising countries that use them as a deterrent.\n\n\"Nuclear weapons are not a necessary evil but an absolute evil, and can never coexist with humanity,\" Mayor Shiro Suzuki said in a speech broadcast by Japanese public television channel NHK.\n\nThe mayor also asked the Japanese government to maintain the \"three non-nuclear principles,\" adopted as a resolution by the Japanese parliament in 1971 but never incorporated into Japanese law: not to possess, not to produce, and not to allow nuclear weapons to be brought into the country.\n\nAt the same ceremony, Japan's new right-wing leader, Sanae Takaichi said her government defended the three principles without clarifying whether the country would continue to respect them in the future.\n\nShe said the government would defend realistic and practical measures to achieve a world free of nuclear weapons.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe anniversary passes as the Japanese government prepares to review its key national security documents, raising questions about whether the nuclear principles will remain intact.\n\nQuestions around Japan's nuclear weapons policy have been raised after Defence Minister Shinjiro Koizumi recently called for a \"taboo-free\" national debate on the subject.\n\nThe long-standing anti-nuclear stance is increasingly under pressure as East Asian neighbours &#x2014; notably China &#x2014; boost their military capabilities, while doubts persist about the reliability of Tokyo's biggest security backer, the United States.\n\nThe prime minister has already lifted Japan's self-imposed ban on weapons exports and expanded defence spending, while pushing to amend the constitution.\n\nThose policies have drawn rebukes from China, which accuses Japan of \"new militarism\" and Takaichi of bending to the whims of the far right.\n\nIn December, an unnamed senior administration official told local media in an off-the-record session suggesting that Japan should possess nuclear weapons.\n\nThe remark was widely reported by major Japanese outlets including national broadcaster NHK and Asahi Shimbun, sparking public criticism.\n\n\"If I look at it cynically, I can't help but think that maybe she really wants to change\" Japan's anti-nuclear commitment, 82-year-old Satoshi Tanaka, a campaigner who survived the 1945 attack on Hiroshima, told the Agence-France Presse news agency.\n\nSunday's ceremony in Nagasaki included a message from United Nations Secretary-General Antonio Guterres, who made a strong anti-war plea and a case for diplomacy.\n\n\"Humanity should not have to live under permanent...",
+            "en": "The Japanese city of Nagasaki has used the 81st anniversary of the atomic bombing to call for the abolition of nuclear weapons while criticising countries that use them as a deterrent.\n\n\"Nuclear weapons are not a necessary evil but an absolute evil, and can never coexist with humanity,\" mayor Shiro Suzuki said in a speech broadcast by Japanese public television channel NHK.\n\nThe mayor also asked the Japanese government to maintain the \"three non-nuclear principles,\" adopted as a resolution by the Japanese parliament in 1971 but never incorporated into Japanese law: not to possess, not to produce, and not to allow nuclear weapons to be brought into the country.\n\nAt the same ceremony, Japan's new right-wing leader, Sanae Takaichi, said her government defended the three principles without clarifying whether the country would continue to respect them in the future.\n\nShe said the government would defend realistic and practical measures to achieve a world free of nuclear weapons.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe anniversary passes as the Japanese government prepares to review its key national security documents, raising questions about whether the nuclear principles will remain intact.\n\nQuestions around Japan's nuclear weapons policy have been raised after defence minister Shinjiro Koizumi recently called for a \"taboo-free\" national debate on the subject.\n\nThe long-standing anti-nuclear stance is increasingly under pressure as East Asian neighbours &#x2014; notably China &#x2014; boost their military capabilities, while doubts persist about the reliability of Tokyo's biggest security backer, the United States.\n\nThe prime minister has already lifted Japan's self-imposed ban on weapons exports and expanded defence spending, while pushing to amend the constitution.\n\nThose policies have drawn rebukes from China, which accuses Japan of \"new militarism\" and Takaichi of bending to the whims of the far right.\n\nIn December, an unnamed senior administration official told local media in an off-the-record session suggesting that Japan should possess nuclear weapons.\n\nThe remark was widely reported by major Japanese outlets including national broadcaster NHK and Asahi Shimbun, sparking public criticism.\n\n\"If I look at it cynically, I can't help but think that maybe she really wants to change\" Japan's anti-nuclear commitment, 82-year-old Satoshi Tanaka, a campaigner who survived the 1945 attack on Hiroshima, told the Agence-France Presse news agency.\n\nSunday's ceremony in Nagasaki included a message from United Nations secretary-general Ant&#xF3;nio Guterres, who made a strong anti-war plea and a case for diplomacy.\n\n\"Humanity should not have to live under...",
             "zh": "日本长崎市利用原子弹爆炸 81 周年呼吁废除核武器，同时批评使用核武器作为威慑力量的国家。 “核武器不是必要的罪恶，而是绝对的罪恶，永远不能与人类共存，”市长铃木四郎在日本公共电视频道NHK播出的讲话中表示。 市长还要求日本政府维持1971年日本国会决议通过但从未纳入日本法律的“无核三原则”：不拥有、不生产、不允许将核武器带入该国。 在同一个仪式上，日本新任右翼领导人高市早苗表示，日本政府捍卫了这三项原则，但没有澄清日本未来是否会继续尊重这些原则。 她表示，政府将捍卫现实可行的措施，以实现无核武器世界。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 周年纪念日过去之际，日本政府正准备审查其重要的国家安全文件，引发了人们对核原则是否会保持不变的疑问。 在防卫大臣小泉进次郎最近呼吁就该主题进行“无禁忌”的全国辩论后，围绕日本核武器政策的问题引发了人们的关注。 随着东亚邻国（尤其是中国）增强军事能力，而人们对东京最大安全支持者美国的可靠性的怀疑持续存在，长期以来的反核立场正面临越来越大的压力。 日本首相已经解除了日本自行实施的武器出口禁令并扩大了国防开支，同时推动修改宪法。 这些政策遭到了中国的谴责，中国指责日本推行“新军国主义”，并指责高市屈从于极右翼的一时兴起。 去年12月，一位不愿透露姓名的高级政府官员在一次非正式会议上对当地媒体表示，日本应该拥有核武器。 该言论被NHK、朝日新闻等日本主要媒体广泛报道，引发舆论批评。 1945 年广岛袭击中幸存者、82 岁的活动家田中聪 (Satoshi Tanaka) 告诉法新社，“如果我以愤世嫉俗的方式看待此事，我不禁会想，也许她真的想改变”日本的反核承诺。 周日在长崎举行的仪式包括联合国秘书长安东尼奥·古特雷斯的致辞，他提出了强烈的反战呼吁和外交主张。 “人类不应该生活在永久的......"
           },
           "reflection": {
@@ -690,28 +691,29 @@
           "publishedAt": "2026-08-08T20:31:00.000Z",
           "title": {
             "en": "Kosovo PM Kurti egged in parliament amid political crisis",
-            "zh": "科索沃总理库尔蒂在政治危机中怂恿议会"
+            "zh": "科索沃总理库尔蒂在议会中被扔鸡蛋，政治危机加剧"
           },
           "summary": {
             "en": "Kosovo has held three elections in over two years. Albin Kurti's ruling Vetevendosje is struggling to garner the two-thirds majority required to elect a president.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+            "zh": "科索沃在两年多内举行了三次选举。阿尔宾·库尔蒂执政的“自决运动”党正努力争取选举总统所需的三分之二多数票。"
           },
           "body": {
             "en": "Kosovo has held three elections in over two years. Albin Kurti's ruling Vetevendosje is struggling to garner the two-thirds majority required to elect a president.\n\nKosovo's parliament was suspended on Saturday after an opposition lawmaker threw eggs at caretaker Prime Minister Albin Kurti .\n\n\"Shame on you!\" Time Kadrijaj of the conservative opposition Alliance for the Future of Kosovo (AAK) party shouted in parliament before hurling eggs at Kurti.\n\nIn response, Kurti said that he was \"happy to pay this price\" if it was the cost of dialogue.\n\nKurti's&#160;left-wing Vetevendosje (VV) party is known for its own parliamentary disruptions, with party representatives launching tear gas in the chamber in 2018 and also on multiple occasions in 2015.\n\nThe incident comes after days of negotiations as Kurti attempts to gain&#160;enough opposition support to elect a new president amid Kosovo's broader political crisis.\n\nKurti achieved his parliamentary majority with ethnic minority MPs in a December election that followed an inconclusive vote in February 2025.\n\nHis VV party's share of the vote fell from 51% to 43% in a snap election in June, but it maintained a parliamentary majority alongside ethnic minority allies.\n\nHowever, Kurti requires a two-thirds majority in parliament to elect a president.\n\nThe current negotiations seem to have ground to another stalemate, with neither side having agreed to a candidate.\n\nA constitutional deadline to elect a speaker of parliament expired on Friday. Opposition lawmakers have threatened legal action over Kurti's request for more time to negotiate.\n\nKosovo declared independence from Serbia in 2008 after the 1998-99 war, which ended with Serbia's withdrawal following a NATO bombing campaign.\n\nKosovo has been recognized by over half of the world's countries , including the United States&#160;and most European Union&#160;countries.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
             "zh": "科索沃在两年多的时间里举行了三次选举。阿尔宾·库尔蒂（Albin Kurti）领导的执政党维特文多斯耶（Vetevendosje）正在努力争取选举总统所需的三分之二多数票。 一名反对派议员向看守总理阿尔宾·库尔蒂扔鸡蛋后，科索沃议会于周六暂停。 “你太无耻了！”保守派反对党科索沃未来联盟（AAK）的卡德里亚吉在议会向库尔蒂扔鸡蛋之前大喊大叫。 库尔蒂回应称，如果这是对话的成本，他“很乐意付出这个代价”。 库尔蒂领导的左翼 Vetevendosje (VV) 党以其扰乱议会而闻名，该党代表曾于 2018 年和 2015 年多次在议会厅内发射催泪瓦斯。 这一事件发生在经过数天的谈判之后，库尔蒂试图获得足够的反对派支持，以便在科索沃更广泛的政治危机中选举新总统。 库尔蒂在 2025 年 2 月投票结果不确定后，在 12 月的选举中与少数族裔议员一起获得了议会多数席位。 在 6 月份的提前选举中，他领导的 VV 党的得票率从 51% 下降至 43%，但与少数族裔盟友一起保持了议会多数席位。 然而，库尔蒂需要议会三分之二多数才能选举总统。 目前的谈判似乎又陷入了僵局，双方都没有就候选人达成一致。 宪法规定的选举议会议长的最后期限已于周五到期。反对派议员威胁对库尔蒂要求更多时间进行谈判的请求采取法律行动。 1998-99 年战争结束后，科索沃于 2008 年宣布从塞尔维亚独立，这场战争以塞尔维亚在北约轰炸后撤军而告终。 科索沃已获得世界上一半以上国家的承认，包括美国和大多数欧盟国家。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，选择我们作为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
           },
           "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "Political crises, like the ongoing struggle in Kosovo to form a stable government, highlight the deep need for shared vision and effective leadership. When a clear path forward is absent, societies can experience unrest and a breakdown of order. Yahweh's wisdom reminds us that a people without guiding principles or a common purpose may struggle to maintain...",
+            "zh": "像科索沃这样持续的政治危机，凸显了社会对共同愿景和有效领导的深切需求。当缺乏明确的前进方向时，社会可能会经历动荡和秩序的瓦解。雅伟的智慧提醒我们，一个没有指导原则或共同目标的民族，可能难以维持稳定与和平。"
           },
           "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
+            "reference": "Proverbs 29:18",
+            "textEn": "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom's instruction.",
+            "textZh": "没有异象，民就放肆；惟遵守律法的，便为有福。",
+            "themeEn": "Need for vision",
+            "themeZh": "国家需要异象"
           },
-          "translationState": "fallback"
+          "aiVerseId": "prov_29_18",
+          "translationState": "localized"
         }
       ]
     },
@@ -726,12 +728,45 @@
         "zh": "聚焦中国内部政策走向、社会变化与国家动态。"
       },
       "sourceNotes": [
-        "SBS News China Focus",
         "The Guardian China",
+        "SBS News China Focus",
         "BBC News China Focus",
         "DW Asia China Focus"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-world-2026-aug-10-typhoon-dolphin-china-shanghai-flo",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
+          "image": "https://i.guim.co.uk/img/media/289807f15ef228d92904d17ae8389283713377b2/665_645_6220_4978/master/6220.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bcdd3a810925201d4c0328c4a53acad",
+          "publishedAt": "2026-08-10T04:55:18.000Z",
+          "title": {
+            "en": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+            "zh": "台风海豚：上海创纪录降雨，中国逾百万人撤离"
+          },
+          "summary": {
+            "en": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears...",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears torrential rain would cause flooding and landslides. Wenzhou, a coastal city in Zhejiang province, said it relocated more than 900,000 people and opened more than 1,500 emergency shelters. In neighbouring Fujian, 98,900 people were moved from high-risk areas. Continue reading...",
+            "zh": "当局警告称，随着风暴向北并进一步向内陆移动，连日的强降雨可能引发大范围的洪水和山体滑坡。由于担心暴雨会引发洪水和山体滑坡，截至周日晚上，强大的台风“海豚”登陆中国东部，已有超过一百万人被转移到安全地带。浙江省沿海城市温州表示，已转移超过90万人，并开设了1500多个应急避难所。在邻近的福建省，9.89万人从高风险地区转移。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-sbs-com-au-news-article-worldview-gulf-behind-strained-australia-and",
           "section": "china",
@@ -782,8 +817,8 @@
             "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "The strongest tropical cyclone to hit China this year has slammed into the country&#x2019;s eastern coast on Sunday, unleashing torrential rain and powerful winds.\n\nTyphoon Dolphin had already swept across Japan&#x2019;s southern Okinawa prefecture, injuring six people and cutting power to more than 50,000 buildings.\n\nIt then made landfall near Yuhuan in eastern Zhejiang province on Sunday evening, China's meteorological authorities said.\n\nThe storm packed maximum sustained winds of 151km/h near its centre at landfall, equivalent to a Category 1 hurricane on the Saffir-Simpson scale.\n\nAuthorities had moved offshore workers to safety, ordered vessels back to port and increased checks at reservoirs, mountain streams, landslide-prone areas, construction sites and tourist locations.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nTorrential rain is forecast through 10 August across Zhejiang, Shanghai, northern Fujian, northeastern Jiangxi, central and southern Anhui, and much of Jiangsu. Parts of central and eastern Zhejiang could receive 250-500 mm of rain, according to forecasters.\n\nAfter landfall, Dolphin is forecast to track westward before slowing over central and southwestern China and gradually losing strength, Wang Haiping, chief forecaster at the National Meteorological Centre, told state broadcaster CCTV.\n\nThat could prolong heavy rain and raise the risk of flooding and landslides, especially in mountainous areas and along smaller rivers.\n\nTransport was widely disrupted across the east of the country, and more than one million people were evacuated from their homes.\n\nIn addition to evacuating at least 30,300 people, Shanghai has cancelled about 1,500 flights, according to flight-tracking data provider VariFlight.\n\nA 42-year-old tourist from Guangdong said he was stranded in Shanghai after his family's flight, scheduled to depart on Sunday, was cancelled due to Typhoon Dolphin.\n\nHe said the family had been rebooked on a flight at 10pm on Monday, although they were unsure whether it would be able to take off.\n\n\"To us Guangdong people, this typhoon is as ordinary as having a meal and feeling the wind. It's just part of everyday life,\" he said, adding that the storm did not appear particularly strong by the standards of China's southern coast.\n\nIn neighbouring Zhejiang province, the city of Wenzhou relocated more than 900,000 residents and opened more than 1,000 emergency shelters.\n\nIn Fujian province, authorities evacuated 98,900 people from high-risk areas after raising the typhoon emergency response to Level 3, according to Xinhua. Zhejiang, Shanghai and Jiangsu have also activated Level 3 emergency responses.\n\nFujian maritime authorities said 55 coastal...",
-            "zh": "今年袭击中国的最强热带气旋周日袭击了中国东部沿海，带来暴雨和强风。 台风“海豚”已经横扫日本南部冲绳县，造成六人受伤，5万多栋建筑断电。 中国气象部门表示，周日晚上，它在浙江省东部玉环市附近登陆。 风暴登陆时中心附近的最大持续风速达到 151 公里/小时，相当于萨菲尔-辛普森级 1 级飓风。 当局已将海上工人转移至安全地带，命令船只返回港口，并加强对水库、山涧、山体滑坡易发地区、建筑工地和旅游景点的检查。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 预计到8月10日，浙江、上海、福建北部、江西东北部、安徽中南部以及江苏大部分地区将出现暴雨。据预报，浙江中东部部分地区可能出现250-500毫米降雨。 国家气象中心首席预报员王海平告诉中央电视台，预计“海豚”登陆后将向西移动，然后在中国中部和西南部上空减速并逐渐减弱。 这可能会延长暴雨时间，并增加洪水和山体滑坡的风险，特别是在山区和较小河流沿岸。 该国东部地区的交通大范围中断，超过一百万人被迫撤离家园。 据航班跟踪数据提供商飞常准(VariFlight)称，除了疏散至少30,300人外，上海还取消了约1,500个航班。 一名来自广东的 42 岁游客表示，他家人原定于周日出发的航班因台风海豚而取消，因此他被困在上海。 他说，一家人已经重新预订了周一晚上 10 点的航班，不过他们不确定航班是否能够起飞。 “对于我们广东人来说，这场台风就像吃饭、吹风一样平常，只是日常生活的一部分。”他补充道，以中国南部沿海的标准来看，这场台风并没有显得特别强烈。 在邻近的浙江省，温州市搬迁了超过90万居民，并开设了1000多个紧急避难所。 据新华社报道，福建省将台风应急响应提升至三级后，从高风险地区疏散了98,900人。浙江、上海、江苏也启动三级应急响应。 福建海事部门称，55家沿海..."
+            "en": "Typhoon Dolphin brought heavy rain to eastern China on Monday, causing hundreds of flight cancellations even as the storm weakened and some cities resumed public transport.\n\nThe typhoon had already swept across Japan&#x2019;s southern Okinawa prefecture, injuring six people and cutting power to more than 50,000 buildings.\n\nIt then made landfall near Yuhuan in eastern Zhejiang province on Sunday evening, China's meteorological authorities said.\n\nThe storm packed maximum sustained winds of 151km/h near its centre at landfall, equivalent to a Category 1 hurricane on the Saffir-Simpson scale.\n\nAuthorities had moved offshore workers to safety, ordered vessels back to port and increased checks at reservoirs, mountain streams, landslide-prone areas, construction sites and tourist locations.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe weather system lost power after making landfall, with China's National Meteorological Centre (NMC) issuing its least severe typhoon alert on Monday morning.\n\nHowever, the NMC warned that parts of east and central China would continue to receive heavy rain for the next day.\n\nThe typhoon had triggered a top-level alert over the weekend, prompting over 1,000 flight cancellations and tens of thousands of evacuations.\n\nTransport was widely disrupted across the east of the country, and more than one million people were evacuated from their homes.\n\nNine hundred and forty-three flights from Shanghai's two main passenger airports were cancelled, the airport authority said in an online post.\n\nA 42-year-old tourist from Guangdong said he was stranded in Shanghai after his family's flight, scheduled to depart on Sunday, was cancelled due to Typhoon Dolphin.\n\nHe said the family had been rebooked on a flight at 10pm on Monday, although they were unsure whether it would be able to take off.\n\n\"To us Guangdong people, this typhoon is as ordinary as having a meal and feeling the wind. It's just part of everyday life,\" he said, adding that the storm did not appear particularly strong by the standards of China's southern coast.\n\nIn neighbouring Zhejiang province, the city of Wenzhou relocated more than 900,000 residents and opened more than 1,000 emergency shelters.\n\nIn Fujian province, authorities evacuated 98,900 people from high-risk areas after raising the typhoon emergency response to Level 3, according to Xinhua. Zhejiang, Shanghai and Jiangsu have also activated Level 3 emergency responses.\n\nFujian maritime authorities said 55 coastal passenger ferry routes had been suspended, all 115 offshore construction projects had been halted, and 290 construction vessels had been moved to sheltered waters.\n\nThe water resources ministry said the Qiantang,...",
+            "zh": "台风“海豚”周一给中国东部带来大雨，导致数百架航班取消，尽管风暴减弱，一些城市恢复了公共交通。 台风已经席卷日本南部冲绳县，造成六人受伤，5万多座建筑物断电。 中国气象部门表示，周日晚上，它在浙江省东部玉环市附近登陆。 风暴登陆时中心附近的最大持续风速达到 151 公里/小时，相当于萨菲尔-辛普森级 1 级飓风。 当局已将海上工人转移至安全地带，命令船只返回港口，并加强对水库、山涧、山体滑坡易发地区、建筑工地和旅游景点的检查。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 气象系统在登陆后失去动力，中国国家气象中心（NMC）于周一早上发布了最不严重的台风警报。 不过，国家气象局警告，明天华东、华中部分地区仍将有大到暴雨。 台风在周末引发了最高级别的警报，导致 1000 多个航班取消，数万人疏散。 该国东部地区的交通大范围中断，超过一百万人被迫撤离家园。 机场管理局在网上发帖称，上海两个主要客运机场的 943 个航班被取消。 一名来自广东的 42 岁游客表示，他家人原定于周日出发的航班因台风海豚而取消，因此他被困在上海。 他说，一家人已经重新预订了周一晚上 10 点的航班，不过他们不确定航班是否能够起飞。 “对于我们广东人来说，这场台风就像吃饭、吹风一样平常，只是日常生活的一部分。”他补充道，以中国南部沿海的标准来看，这场台风并没有显得特别强烈。 在邻近的浙江省，温州市搬迁了超过90万居民，并开设了1000多个紧急避难所。 据新华社报道，福建省将台风应急响应提升至三级后，从高风险地区疏散了98,900人。浙江、上海、江苏也启动三级应急响应。 福建海事部门表示，55条沿海客运航线已暂停，115个海上施工项目已全部停止，290艘施工船舶已移至避风水域。 水利部表示，钱塘江..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -932,40 +967,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-commentisfree-2026-aug-08-president-xi-jinping-globa",
-          "section": "china",
-          "source": "The Guardian China",
-          "sourceUrl": "https://www.theguardian.com/world/china/rss",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china",
-          "image": "https://i.guim.co.uk/img/media/5a76e26f5af14c84a3300c543f5c83643ca0e48b/457_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f7550daa793ce1a7e31317edf1fa7b35",
-          "publishedAt": "2026-08-08T11:00:44.000Z",
-          "title": {
-            "en": "President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip | Simon Tisdall",
-            "zh": "习近平主席从不浪费一场好危机。当伊朗、乌克兰和巴勒斯坦分散世界注意力时，他正在收紧控制 | 西蒙·蒂斯代尔"
-          },
-          "summary": {
-            "en": "The article suggests that Chinese President Xi Jinping is leveraging global distractions, such as conflicts in Iran, Ukraine, and Palestine, to consolidate power both domestically and internationally. This strategy is seen as detrimental to global order and particularly impacts minority groups within China.",
-            "zh": "文章指出，中国国家主席习近平正利用伊朗、乌克兰和巴勒斯坦等全球冲突分散注意力的时机，在国内和国际上巩固权力。这种策略被认为对全球秩序有害，并特别影响到中国境内的少数民族群体。"
-          },
-          "body": {
-            "en": "Ever the strategist, the Chinese leader is taking the offensive, both abroad and at home. That’s bad news for global order, and minorities in his country Imagine what would happen if a British prime minister in London told the Scots they could not have their own parliament, national football team or fly the saltire. Or if the Welsh were told their language and poetry were banned and must no longer be taught in schools. The ensuing uproar would probably destroy the United Kingdom. Yet that’s exactly what Xi Jinping, China’s communist emperor, is telling the roughly 125 million members of the 55 ethnic and religious minorities who together comprise about 9% of the country’s (majority Han Chinese) population. Xi claims his sinicisation policy, embodied in a new “ethnic unity” law, will boost national identity and integration and, by expanding compulsory use of the Mandarin language, improve life and work prospects. Minorities should “hug tightly like pomegranate seeds” to build a strong, united China, he says. But Tibetans, Mongolians, Uyghurs and others who value their separate language and customs fiercely object to what they see as forced assimilation into a conformist, intolerant monoculture dominated by the Communist party’s tunnel vision. For them, it’s ethnic cleansing by another name. Simon Tisdall is a Guardian foreign affairs commentator Continue reading...",
-            "zh": "作为战略家，中国领导人正在国内外发起攻势。这对全球秩序和他的国家的少数族裔来说都是个坏消息想象一下，如果英国首相在伦敦告诉苏格兰人他们不能拥有自己的议会、国家足球队或飘扬国旗，会发生什么。或者，如果威尔士人被告知他们的语言和诗歌被禁止，并且不得再在学校教授。随之而来的骚动可能会摧毁英国。然而，这正是中国共产党皇帝习近平对 55 个少数民族和宗教少数群体约 1.25 亿成员所说的话，这些少数民族加起来约占中国人口（占多数的汉族）的 9%。习近平声称，他的汉化政策体现在新的《民族团结法》中，将增强民族认同和融合，并通过扩大普通话的强制使用，改善生活和工作前景。他说，少数民族应该“像石榴籽一样紧紧拥抱”，以建设一个强大、团结的中国。但藏族、蒙古族、维吾尔族和其他重视自己独特语言和习俗的人强烈反对他们认为被迫同化为共产党狭隘视野主导的墨守成规、不宽容的单一文化。对他们来说，这是另一个名字的种族清洗。西蒙·蒂斯达尔是卫报外交事务评论员继续阅读..."
-          },
-          "reflection": {
-            "en": "The news highlights the profound impact of leadership on a nation and its people. When rulers tighten their grip, especially during times of global distraction, it can lead to increased hardship for vulnerable populations. Yahweh's word reminds us that a wicked ruler can be like a dangerous predator over a helpless people, underscoring the deep need for...",
-            "zh": "这则新闻突显了领导力对一个国家及其人民的深远影响。当统治者在世界分心之际加强控制时，这可能给弱势群体带来更大的苦难。雅伟的话语提醒我们，邪恶的统治者对无助的人民来说，就像危险的捕食者，这强调了对公正和富有同情心的治理的深切需求。"
-          },
-          "verse": {
-            "reference": "Proverbs 28:15",
-            "textEn": "Like a roaring lion or a charging bear is a wicked ruler over a helpless people.",
-            "textZh": "暴虐的君王辖制贫民，好像吼叫的狮子、觅食的熊。",
-            "themeEn": "Tyranny",
-            "themeZh": "暴政"
-          },
-          "aiVerseId": "prov_28_15",
-          "translationState": "localized"
-        },
-        {
           "id": "www-dw-com-en-typhoon-dolphin-hits-japan-as-china-braces-for-coming-stor",
           "section": "china",
           "source": "DW Asia China Focus",
@@ -1090,19 +1091,19 @@
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/27b8447812f65dac590ce05beb85c63f5b62d322/786_0_3928_3143/master/3928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3f171f0514bcfaa9160585211e3c369a",
-          "publishedAt": "2026-08-10T02:56:14.000Z",
+          "image": "https://i.guim.co.uk/img/media/8cada91fc66730d41f73d5404006b5d61ba2d2f3/13_0_1033_826/master/1033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6d138380762d2c8a39978d9300a1084b",
+          "publishedAt": "2026-08-10T04:54:36.000Z",
           "title": {
-            "en": "Australia news live: Victorian Liberals pledge to mandate weekly red bin collection; Plibersek defends Albanese over podcast ‘melons’ comment",
-            "zh": "澳大利亚新闻直播：维多利亚州自由党承诺强制每周收集红色垃圾箱；普利伯塞克为播客“瓜”的评论辩护阿尔巴尼斯"
+            "en": "Australia news live: Two workers were temporarily stood down over airport near-miss; Icac witness says his wife is having contractions",
+            "zh": "澳大利亚新闻直播：两名工人因机场险些发生事故而被暂时停职；廉政公署目击者称其妻子出现宫缩"
           },
           "summary": {
-            "en": "More than 30 councils across metropolitan Melbourne and regional Victoria collect general rubbish fortnightly. Follow today’s news live Get our breaking news email, free app or daily news podcast Police say the remains found in a suitcase near Goulburn are not human. Supt Linda...",
+            "en": "Follow today’s news live Get our breaking news email, free app or daily news podcast Police say the remains found in a suitcase near Goulburn are not human. Supt Linda Bradbury with NSW police said: Some good news here that we don’t have a suspicious death of a human on our...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "More than 30 councils across metropolitan Melbourne and regional Victoria collect general rubbish fortnightly. Follow today’s news live Get our breaking news email , free app or daily news podcast Police say the remains found in a suitcase near Goulburn are not human. Supt Linda Bradbury with NSW police said: Some good news here that we don’t have a suspicious death of a human on our hands. … We are still undertaking more forensic work to identify what they are. But we can identify that they’re not human. But we’ve confirmed by other means that they are not. The undersupply of housing combined with population growth is expected to partially offset the impact of higher interest rates and recent federal government policy changes on the housing market. Continue reading...",
-            "zh": "墨尔本大都市和维多利亚地区的 30 多个议会每两周收集一次一般垃圾。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 警方表示，在古尔本附近的一个手提箱中发现的遗骸不是人类。新南威尔士州警方警长琳达·布拉德伯里 (Linda Bradbury) 表示：“这里有一些好消息，我们手上没有发现任何可疑的死亡事件。” ......我们仍在进行更多的法医工作来确定它们是什么。但我们可以确定他们不是人类。但我们通过其他方式证实事实并非如此。住房供应不足加上人口增长预计将部分抵消利率上升和近期联邦政府政策变化对住房市场的影响。继续阅读..."
+            "en": "Follow today’s news live Get our breaking news email , free app or daily news podcast Police say the remains found in a suitcase near Goulburn are not human. Supt Linda Bradbury with NSW police said: Some good news here that we don’t have a suspicious death of a human on our hands. … We are still undertaking more forensic work to identify what they are. But we can identify that they’re not human. But we’ve confirmed by other means that they are not. The undersupply of housing combined with population growth is expected to partially offset the impact of higher interest rates and recent federal government policy changes on the housing market. Continue reading...",
+            "zh": "关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 警方表示，在古尔本附近的一个手提箱中发现的遗骸不是人类。新南威尔士州警方警长琳达·布拉德伯里 (Linda Bradbury) 表示：“这里有一些好消息，我们手上没有发现任何可疑的死亡事件。” ......我们仍在进行更多的法医工作来确定它们是什么。但我们可以确定他们不是人类。但我们通过其他方式证实事实并非如此。住房供应不足加上人口增长预计将部分抵消利率上升和近期联邦政府政策变化对住房市场的影响。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -1118,6 +1119,72 @@
           "translationState": "fallback"
         },
         {
+          "id": "www-theguardian-com-australia-news-2026-aug-09-body-woman-found-suitcase",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/09/body-woman-found-suitcase-regional-nsw-road-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/796f30e61606c049a0c5bd543c05924ad2e8e575/185_0_1099_880/master/1099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ecc5ee11e70cb7e7cf2d2bdbd399146",
+          "publishedAt": "2026-08-10T04:50:06.000Z",
+          "title": {
+            "en": "‘Body’ of woman found in suitcase near Goulburn was actually lifelike doll with ‘bruises and grazes’",
+            "zh": "古尔本附近手提箱中发现的女性“尸体”实际上是栩栩如生的娃娃，有“瘀伤和擦伤”"
+          },
+          "summary": {
+            "en": "What was originally reported as a body found in Oallen on Sunday was ‘very realistic in the terms of looking like human remains’, NSW police say Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast What appeared to be...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "What was originally reported as a body found in Oallen on Sunday was ‘very realistic in the terms of looking like human remains’, NSW police say Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast What appeared to be a woman’s body found in a suitcase by the side of a road near Goulburn in regional New South Wales was in fact a lifelike doll with markings resembling bruises and grazes, police say. NSW police said they were called to Wolgon Road in Oallen about 12.50pm on Sunday “following reports a body had been located”. Continue reading...",
+            "zh": "新南威尔士州警方表示，周日在欧伦发现的一具尸体最初被报道为“看起来像人类遗骸，非常真实”。 警方表示，在新南威尔士州古尔本附近的路边一个手提箱中发现的看似女性尸体的尸体，实际上是一个栩栩如生的娃娃，上面有类似擦伤和擦伤的痕迹。新南威尔士州警方表示，周日中午 12 点 50 分左右，“接到报告称发现了一具尸体”后，他们被叫到了欧伦 (Oallen) 的沃尔贡路 (Wolgon Road)。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-10-lobbyist-jeremy-greenwood",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/10/lobbyist-jeremy-greenwood-icac-operation-rosny-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/63c52299ddb8aa0ce293a5df48175fa4c5a83bbd/1251_337_2421_1937/master/2421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=088555b14e7531488e555e775876c8b5",
+          "publishedAt": "2026-08-10T04:04:45.000Z",
+          "title": {
+            "en": "Lobbyist tells Icac there’s not a ‘shred of evidence’ he was involved with conservative Liberal group",
+            "zh": "游说者告诉廉政公署，没有“一丝证据”表明他与保守的自由党团体有牵连"
+          },
+          "summary": {
+            "en": "Jeremy Greenwood tells inquiry he instructed the factional group ‘not to keep going’ because ‘it became so toxic’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A Liberal figure under investigation for allegedly...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Jeremy Greenwood tells inquiry he instructed the factional group ‘not to keep going’ because ‘it became so toxic’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A Liberal figure under investigation for allegedly accepting illegal donations has told the corruption watchdog that it does not have a “shred of evidence” that he was part of a conservative factional group , saying he told members “not to keep going” after it became “toxic”. Consultant and lobbyist, Jeremy Greenwood, 37, who is named in two of the Independent Commission Against Corruption’s (Icac) allegations as part of Operation Rosny, gave evidence on Monday. Continue reading...",
+            "zh": "杰里米·格林伍德（Jeremy Greenwood）告诉调查，他指示该派系组织“不要继续下去”，因为“它变得如此有毒”。 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 一名因涉嫌接受非法捐款而接受调查的自由党人士告诉腐败监管机构，他们没有“一丝证据”表明他是保守派系组织的一部分，并表示，在该派系组织变得“有毒”后，他告诉成员“不要继续下去”。 37 岁的顾问兼游说者杰里米·格林伍德 (Jeremy Greenwood) 周一提供了证据，他在廉政公署 (Icac) 的两项指控中被点名，这是“罗斯尼行动”的一部分。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
           "id": "www-theguardian-com-technology-video-2026-aug-10-sheep-herding-robot-dog",
           "section": "australia",
           "source": "The Guardian Australia",
@@ -1126,27 +1193,27 @@
           "image": "https://i.guim.co.uk/img/media/50dfda0ced4d6b1fbf6a964ec67233eb202686bd/0_655_1080_863/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a340e67020744827680e8ef6407a886e",
           "publishedAt": "2026-08-10T01:51:35.000Z",
           "title": {
-            "en": "Sheep-herding robot dogs put to the test at the Ekka Royal Queensland show — video",
-            "zh": "放羊机器狗在昆士兰皇家艾卡展上接受测试 — 视频"
+            "en": "Sheep-herding robot dogs put to the test at Royal Queensland Show – video",
+            "zh": "放羊机器狗在皇家昆士兰展上接受测试 - 视频"
           },
           "summary": {
-            "en": "The University of the Sunshine Coast student project is trialling the use of robotic dogs to herd sheep, with public demonstrations of the units at the Brisbane Showgrounds. Dr David Alonso-Caneiro, a senior lecturer in mechatronics, says the long-term view is to establish the...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+            "en": "A project by the University of the Sunshine Coast is trialling the use of robotic dogs to herd sheep, with public demonstrations at the Ekka at the Brisbane Showgrounds. Dr David Alonso-Caneiro, a senior lecturer in mechatronics, says the long-term goal is to establish whether...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "The University of the Sunshine Coast student project is trialling the use of robotic dogs to herd sheep, with public demonstrations of the units at the Brisbane Showgrounds. Dr David Alonso-Caneiro, a senior lecturer in mechatronics, says the long-term view is to establish the feasibility of one day using similar machines as fully autonomous tools on farms",
-            "zh": "阳光海岸大学的学生项目正在尝试使用机器狗来放羊，并在布里斯班展览场公开演示这些装置。机电一体化高级讲师 David Alonso-Caneiro 博士表示，长期目标是确定有一天在农场使用类似机器作为全自动工具的可行性"
+            "en": "A project by the University of the Sunshine Coast is trialling the use of robotic dogs to herd sheep, with public demonstrations at the Ekka at the Brisbane Showgrounds. Dr David Alonso-Caneiro, a senior lecturer in mechatronics, says the long-term goal is to establish whether such machines could be used as autonomous tools on farms",
+            "zh": "阳光海岸大学的一个项目正在尝试使用机器狗放羊，并在布里斯班展览场的 Ekka 进行公开演示。机电一体化高级讲师 David Alonso-Caneiro 博士表示，长期目标是确定此类机器是否可以用作农场的自主工具"
           },
           "reflection": {
-            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "James 1:5",
-            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
-            "themeEn": "Ask God for wisdom",
-            "themeZh": "求神赐智慧"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
@@ -1184,72 +1251,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-aug-09-body-woman-found-suitcase",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/09/body-woman-found-suitcase-regional-nsw-road-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/796f30e61606c049a0c5bd543c05924ad2e8e575/185_0_1099_880/master/1099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ecc5ee11e70cb7e7cf2d2bdbd399146",
-          "publishedAt": "2026-08-10T00:11:05.000Z",
-          "title": {
-            "en": "NSW police say ‘body’ of woman found in suitcase by side of road near Goulburn was not human",
-            "zh": "新南威尔士州警方称在古尔本附近路边手提箱中发现的女性“尸体”不是人"
-          },
-          "summary": {
-            "en": "What was originally reported as a body found in Oallen on Sunday was ‘very realistic in the terms of looking like human remains’, police say Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast What appeared to be a...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "What was originally reported as a body found in Oallen on Sunday was ‘very realistic in the terms of looking like human remains’, police say Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast What appeared to be a woman’s body found in a suitcase by the side of a road near Goulburn in regional New South Wales was not in fact human remains, police say. NSW police said they were called to Wolgon Road in Oallen about 12.50pm on Sunday “following reports a body had been located”. Continue reading...",
-            "zh": "警方表示，周日在欧伦发现的一具尸体最初被报道为“看起来像人类遗骸，非常真实”。 警方表示，在新南威尔士州古尔本附近的路边发现的一个手提箱中，看似是一具女性尸体，但实际上并不是人类遗骸。新南威尔士州警方表示，周日中午 12 点 50 分左右，“接到报告称发现了一具尸体”后，他们被叫到了欧伦 (Oallen) 的沃尔贡路 (Wolgon Road)。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-aug-10-morning-mail-monday-ntwnf",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/10/morning-mail-monday-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/1973a5287021ccfbafbc1b23db194cc7406da582/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ed3b6a05fa795950f05ef042e2ef71c",
-          "publishedAt": "2026-08-09T20:59:47.000Z",
-          "title": {
-            "en": "Morning Mail: inside the political ‘meme factories’; China questions detainee’s death; Netanyahu rejects Trump’s Gaza plan",
-            "zh": "早间邮报：政治“模因工厂”内部；中国对被拘留者的死亡提出质疑；内塔尼亚胡拒绝特朗普的加沙计划"
-          },
-          "summary": {
-            "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here, and finish your day with our Afternoon Update newsletter Good morning. Today we speak to a member of a “meme factory” in Indonesia who is busy trading outrage about Australian politics online as...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Afternoon Update newsletter Good morning. Today we speak to a member of a “meme factory” in Indonesia who is busy trading outrage about Australian politics online as Facebook’s owner, Meta, pays for her efforts. Another exclusive story reveals that Chinese officials have raised serious questions about whether a Chinese citizen was properly monitored before she died in a Melbourne detention centre run by a US prison giant. Exclusive | Chinese officials have expressed “grave concern” as documents reveal a suicide warning before a woman’s death in a Melbourne immigration detention centre run by a US private firm. Cash for clicks | Workers in Indonesia’s “buzzer” economy are propagating outrage on social media – including about Pauline Hanson’s One Nation party – not for any political motive, but because Meta pays for engagement. Clearing out | Recent falls in auction clearance rates are resulting in dramatic headlines featuring words like “horror”, “failure” and “wipe out”. Is Australia’s love affair with auctions coming to an end ? The Agenda | As the spring parliamentary session begins, Labor’s gambling reforms face pressure from all sides. Will they hold ’em, fold ’em or walk away ? Body discovered | The body of a woman was found in a suitcase by the side of a road at Oallen, south of Goulburn, in regional New South Wales. Continue reading...",
-            "zh": "想每个工作日将其发送到您的收件箱吗？在这里注册《早间邮报》，并通过我们的下午更新时事通讯早上好结束您的一天。今天，我们采访了印度尼西亚一家“模因工厂”的一名成员，她正忙着在网上表达对澳大利亚政治的愤怒，Facebook 的所有者 Meta 为她的努力付出了代价。另一篇独家报道透露，中国官员对一名中国公民在美国监狱巨头管理的墨尔本拘留中心死亡前是否受到适当监控提出了严重质疑。独家|中国官员表示“严重关切”，因为文件显示一名妇女在一家美国私人公司经营的墨尔本移民拘留中心死亡前曾发出自杀警告。点击现金 |印度尼西亚“蜂鸣器”经济中的工人在社交媒体上散布愤怒情绪，包括对宝琳·汉森 (Pauline Hanson) 的一国党 (One Nation party) 的不满，这并不是出于任何政治动机，而是因为 Meta 为参与付费。清仓|最近拍卖清空率的下降导致出现了一些引人注目的头条新闻，其中包括“恐怖”、“失败”和“消灭”等词语。澳大利亚对拍卖的热爱即将结束吗？议程|随着春季议会会议的开始，工党的赌博改革面临着来自各方的压力。他们会握住它们、折叠它们还是走开？尸体被发现|在新南威尔士州古尔本以南的奥伦的路边，人们在一个手提箱中发现了一名妇女的尸体。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-how-we-can-avoid-interest-rate-rises-and-boo",
           "section": "australia",
           "source": "SBS News Australia",
@@ -1267,7 +1268,7 @@
           },
           "body": {
             "en": "Share your feedback and help us improve this feature. Read more about how we use AI at SBS here.\n\nEvery time the Reserve Bank of Australia (RBA) meets to discuss the cash rate, millions of Australians hold their breath, knowing the outcome could affect their mortgage repayments , savings and household budgets.\n\nSome economists say there's another way to cool spending &#x2014; one that builds your retirement savings instead of handing more money to the bank through higher interest rates.\n\nThe Reserve Bank of Australia (RBA) is due to hand down its next cash rate decision on Tuesday. Financial markets and most economists expect the RBA to leave the cash rate unchanged as inflation continues to ease, although the board has indicated it remains focused on returning inflation to its 2 to 3 per cent target.\n\nCooling inflation means squeezing demand somewhere. While governments can also influence demand through fiscal policy, such as changing taxes or government spending, it's now largely the RBA's job to adjust the cash rate to make borrowing more expensive. Higher interest rates can also strengthen the Australian dollar , making imports cheaper and reducing the demand for exports.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nBut this design hits homeowners in Australia harder than it does in many other countries, economist Chris Richardson says.\n\n\"Because we haven't built enough homes, Australia has really high housing prices and a lot of debt around that. And our interest rates are tied to short-term interest rates. So when we fight inflation, it tends to fall more on the shoulders of mortgage holders than you see in most other nations,\" he tells SBS News.\n\nRichardson believes there's another lever that could be used instead of or alongside the cash rate: superannuation. Lift compulsory super contributions temporarily, and households would have less money to spend, helping cool demand, he says.\n\nThe difference is where the money goes &#x2014; not interest to a bank, but savings for your own retirement.\n\nSupporters say it could spread the burden of fighting inflation beyond borrowers. Critics argue it would simply shift the costs elsewhere. Here's how the idea stacks up.\n\nThe super guarantee (SG) is the compulsory minimum share of wages employers pay into eligible workers' superannuation. It's climbed steadily for over a decade &#x2014; from 9 per cent in 2014 to its legislated final rate of 12 per cent on 1 July 2025 &#x2014; with the aim of giving Australians a more comfortable retirement.\n\nRight now, that 12 per cent is fixed. But under this theory, it wouldn't have to be &#x2014; the super guarantee could become a temporary economic lever instead, raised when...",
-            "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 每次澳大利亚储备银行（RBA）开会讨论现金利率时，数百万澳大利亚人都会屏住呼吸，因为他们知道结果可能会影响他们的抵押贷款还款、储蓄和家庭预算。 一些经济学家表示，还有另一种方法可以冷却支出——增加退休储蓄，而不是通过提高利率向银行存更多钱。 澳大利亚储备银行（RBA）将于周二公布下一次现金利率决定。金融市场和大多数经济学家预计，随着通胀继续放缓，澳洲联储将维持现金利率不变，尽管董事会表示仍致力于将通胀率恢复到 2% 至 3% 的目标。 通胀降温意味着某些地方的需求受到挤压。虽然政府还可以通过财政政策（例如改变税收或政府支出）影响需求，但现在主要是澳大利亚央行的工作是调整现金利率以提高借贷成本。较高的利率还可以使澳元走强，从而使进口产品更便宜并减少出口需求。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 但经济学家克里斯·理查森表示，这种设计对澳大利亚房主的打击比许多其他国家更大。 他告诉SBS新闻：“由于我们没有建造足够的房屋，澳大利亚的房价确实很高，而且还存在大量债务。而且我们的利率与短期利率挂钩。因此，当我们对抗通货膨胀时，抵押贷款持有人的负担往往比大多数其他国家更多。” 理查森认为，还有另一种杠杆可以代替现金利率或与现金利率一起使用：养老金。他表示，暂时取消强制性养老金缴款，家庭可花的钱就会减少，从而有助于冷却需求。 区别在于钱的去向——不是银行的利息，而是你自己的退休储蓄。 支持者表示，这可能会将对抗通胀的负担分散到借款人之外。批评者认为，这只会将成本转移到其他地方。以下是这个想法的具体实现方式。 超级保障（SG）是雇主支付给符合资格的工人退休金的强制性最低工资份额。十多年来，该税率稳步攀升——从 2014 年的 9% 到 2025 年 7 月 1 日法定的最终税率 12%——目的是让澳大利亚人过上更舒适的退休生活。 目前，12% 是固定的。但根据这个理论，情况不一定如此——超级担保可能会成为一个临时的经济杠杆，在……时提出。"
+            "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 每次澳大利亚储备银行（RBA）开会讨论现金利率时，数百万澳大利亚人都会屏住呼吸，因为他们知道结果可能会影响他们的抵押贷款还款、储蓄和家庭预算。 一些经济学家表示，还有另一种方法可以冷却支出——增加退休储蓄，而不是通过提高利率向银行存更多钱。 澳大利亚储备银行（RBA）将于周二公布下一次现金利率决定。金融市场和大多数经济学家预计，随着通胀继续放缓，澳洲联储将维持现金利率不变，尽管董事会表示仍致力于将通胀率恢复到 2% 至 3% 的目标。 通胀降温意味着某些地方的需求受到挤压。虽然政府还可以通过财政政策（例如改变税收或政府支出）影响需求，但现在主要是澳大利亚央行的工作是调整现金利率以提高借贷成本。较高的利率还可以使澳元走强，从而使进口产品更便宜并减少出口需求。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 但经济学家克里斯·理查森表示，与许多其他国家相比，这种设计对澳大利亚房主的打击更大。 他告诉SBS新闻：“由于我们没有建造足够的房屋，澳大利亚的房价确实很高，而且还存在大量债务。而且我们的利率与短期利率挂钩。因此，当我们对抗通货膨胀时，抵押贷款持有人的负担往往比大多数其他国家更多。” 理查森认为，还有另一种杠杆可以代替现金利率或与现金利率一起使用：养老金。他表示，暂时取消强制性养老金缴款，家庭可花的钱就会减少，从而有助于冷却需求。 区别在于钱的去向——不是银行的利息，而是你自己的退休储蓄。 支持者表示，这可能会将对抗通胀的负担分散到借款人之外。批评者认为，这只会将成本转移到其他地方。以下是这个想法的具体实现方式。 超级保障（SG）是雇主支付给符合资格的工人退休金的强制性最低工资份额。十多年来，该税率稳步攀升——从 2014 年的 9% 到 2025 年 7 月 1 日法定的最终税率 12%——目的是让澳大利亚人过上更舒适的退休生活。 目前，12% 是固定的。但根据这个理论，情况不一定如此——超级担保可能会成为一个临时的经济杠杆，在……时提出。"
           },
           "reflection": {
             "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
@@ -1325,7 +1326,7 @@
           "publishedAt": "2026-08-09T19:31:10.000Z",
           "title": {
             "en": "Glenn started new treatment for Parkinson's. Then came the obsessive sexual thoughts",
-            "zh": "格伦开始治疗帕金森氏症。然后是强迫性的性想法"
+            "zh": "格伦开始治疗帕金森病。然后是强迫性的性想法"
           },
           "summary": {
             "en": "Experts say the neurotransmitter dopamine plays a role in more of our habits and behaviours than we might realise.",
@@ -1333,7 +1334,7 @@
           },
           "body": {
             "en": "Share your feedback and help us improve this feature. Read more about how we use AI at SBS here.\n\nWhat do extreme sports, doomscrolling,&#xA0;addiction, Parkinson's disease, and ADHD all have in common? Dopamine.&#xA0;This crucial neurotransmitter&#xA0;helps&#xA0;facilitate reward, motivation,&#xA0;memory&#xA0;and movement within the&#xA0;body, but&#xA0;are its&#xA0;effects always beneficial? Watch Insight&#xA0;episode&#xA0;Chasing Dopamine Tuesday&#xA0;11 August 8.30pm on SBS or SBS On Demand.\n\nWhen Glenn Peterson started on a higher dosage of medication to treat his Parkinson's disease symptoms, he didn't expect the consequences it would have.\n\n\"I'd see a horse race, and I'd want the thrill of it winning, and betting on it. I had constant thoughts of sex as well, which never entered my mind prior to that. I couldn't get rid of it.\"\n\nThe 73-year-old was diagnosed with Parkinson&#x2019;s disease eight years ago. He was taking a dopamine precursor medication &#x2014; a drug the body converts to dopamine when it reaches the brain &#x2014; to treat his symptoms. He was later prescribed a dopamine agonist as well to make treatment more effective.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nWhile the brain converts dopamine precursors directly into dopamine, dopamine-agonist medications mimic dopamine by activating dopamine receptors in the brain.\n\nWhen combined, these drugs help treat the motor symptoms of Parkinson's, a progressive brain disorder that damages dopamine-producing neurons, but research shows agonist drugs can cause the development of compulsive and addictive behaviours.\n\nGlenn says when the dopamine-agonist medication was increased, he developed these behaviours.\n\nGlenn's wife, Robyn, also noticed the change when he started getting up in the middle of the night for hours at a time.\n\n\"And it started to come out that he was playing games ... or he'd gamble on the poker machines on his iPad through the night or go onto porn sites.\"\n\nGlenn couldn&#x2019;t understand why his mind seemed to turn against him. But when he revealed the extent of his newly developed compulsive behaviours to Robyn, she remembered the doctors had warned them that taking dopamine-agonist medication could bring on these side-effects.\n\nThey spoke to Glenn's neurologist and decreased his dose, which put an end to the compulsive behaviours.\n\nDopamine is a neurotransmitter in the brain that is involved in several of the body's functions, including movement &#x2014; and contributes to our motivation and reward systems.\n\nAs it reinforces behaviours linked with reward or survival-based outcomes (such as eating food), it contributes to habit development &#x2014; but is also why it...",
-            "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 极限运动、末日卷轴、成瘾、帕金森病和多动症有什么共同点？多巴胺。 这种重要的神经递质有助于促进体内的奖励、动机、记忆和运动，但它的作用总是有益的吗？在 SBS 或 SBS On Demand 观看 8 月 11 日星期二晚上 8 点半观看《洞察》剧集《追逐多巴胺》。 当格伦·彼得森开始服用更高剂量的药物来治疗帕金森病症状时，他没有预料到会产生这样的后果。 “我会看一场赛马，我想要它获胜的快感，并投注它。我也一直有性的想法，在那之前它从未进入过我的脑海。我无法摆脱它。” 这位73岁的老人八年前被诊断出患有帕金森病。他正在服用多巴胺前体药物（一种到达大脑后身体会转化为多巴胺的药物）来治疗他的症状。后来他还服用了多巴胺激动剂，以使治疗更有效。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 虽然大脑将多巴胺前体直接转化为多巴胺，但多巴胺激动剂药物通过激活大脑中的多巴胺受体来模拟多巴胺。 当这些药物结合使用时，有助于治疗帕金森氏症的运动症状，帕金森氏症是一种进行性脑部疾病，会损害产生多巴胺的神经元，但研究表明激动剂药物可能会导致强迫和成瘾行为的发展。 格伦说，当多巴胺激动剂药物增加时，他出现了这些行为。 格伦的妻子罗宾也注意到了他开始半夜起床几个小时的变化。 “后来人们开始发现他在玩游戏……或者他会整夜在 iPad 上的扑克机上赌博，或者浏览色情网站。” 格伦不明白为什么他的思想似乎与他作对。但当他向罗宾透露他新近出现的强迫行为的严重程度时，她记得医生警告过他们服用多巴胺激动剂药物可能会带来这些副作用。 他们与格伦的神经科医生交谈并减少了他的剂量，从而结束了强迫行为。 多巴胺是大脑中的一种神经递质，参与身体的多种功能，包括运动，并有助于我们的动机和奖励系统。 由于它强化了与奖励或基于生存的结果（例如吃食物）相关的行为，因此有助于习惯的养成 - 但这也是为什么......"
+            "zh": "分享您的反馈并帮助我们改进此功能。请在此处详细了解我们如何在 SBS 使用人工智能。 极限运动、末日卷轴、成瘾、帕金森病和多动症有什么共同点？多巴胺。 这种重要的神经递质有助于促进体内的奖励、动机、记忆和运动，但它的作用总是有益的吗？ 8 月 11 日星期二晚上 8 点半在 SBS 或 SBS On Demand 观看《洞察》剧集《追逐多巴胺》。 当格伦·彼得森开始服用更高剂量的药物来治疗帕金森病症状时，他没有预料到会产生这样的后果。 “我会看一场赛马，我想要它获胜的快感，并投注它。我也一直有性的想法，在那之前它从未进入过我的脑海。我无法摆脱它。” 这位73岁的老人八年前被诊断出患有帕金森病。他正在服用多巴胺前体药物（一种到达大脑后身体会转化为多巴胺的药物）来治疗他的症状。后来他还服用了多巴胺激动剂，以使治疗更有效。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 虽然大脑将多巴胺前体直接转化为多巴胺，但多巴胺激动剂药物通过激活大脑中的多巴胺受体来模拟多巴胺。 当这些药物结合使用时，有助于治疗帕金森氏症的运动症状，帕金森氏症是一种进行性脑部疾病，会损害产生多巴胺的神经元，但研究表明激动剂药物可能会导致强迫和成瘾行为的发展。 格伦说，当多巴胺激动剂药物增加时，他就出现了这些行为。 格伦的妻子罗宾也注意到了他开始半夜起床几个小时的变化。 “后来人们开始发现他在玩游戏……或者他会整夜在 iPad 上的扑克机上赌博，或者浏览色情网站。” 格伦不明白为什么他的思想似乎与他作对。但当他向罗宾透露他新近出现的强迫行为的严重程度时，她记得医生警告过他们服用多巴胺激动剂药物可能会带来这些副作用。 他们与格伦的神经科医生交谈并减少了他的剂量，从而结束了强迫行为。 多巴胺是大脑中的一种神经递质，参与身体的多种功能，包括运动，并有助于我们的动机和奖励系统。 由于它强化了与奖励或基于生存的结果（例如吃食物）相关的行为，因此有助于习惯的养成 - 但这也是为什么......"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
