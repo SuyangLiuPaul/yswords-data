@@ -485,6 +485,39 @@ def fetch_fydt_wp_index():
     return index
 
 
+FYDT_MEDIA_RE = re.compile(
+    r'https?://[^\s"\'()<>]+\.(?:mp3|m4a|pdf)', re.IGNORECASE)
+
+
+def fydt_media_from_page(url):
+    """Media links scraped from a song's own page on fydt.org.
+
+    The custom API is the source of truth and covers 212 of 213 songs.
+    The exception is a legacy row — 你们是世上的光 (S01_038) — that the
+    API returns with every media field empty and that `wp/v2/song`
+    does not list at all, while its PAGE links a score PDF. Trusting
+    the API alone therefore published a song with no audio, no score
+    and nothing to tap, next to a website that clearly offers the
+    sheet music. A user noticed and asked why.
+
+    Only called when the API gave nothing, so this costs one extra
+    request for the handful of rows that need it rather than 213.
+
+    Returns (audio, score), either of which may be None.
+    """
+    html_text = http_get(url)
+    if not html_text:
+        return None, None
+    audio = score = None
+    for raw in FYDT_MEDIA_RE.findall(html_text):
+        low = raw.lower()
+        if low.endswith('.pdf'):
+            score = score or normalise_url(raw)
+        elif audio is None:
+            audio = normalise_url(raw)
+    return audio, score
+
+
 def fetch_fydt(taxonomy, wp_index):
     """Enumerate the custom API over pinyin A–Z (that is the only
     listing endpoint it exposes), then diff against `wp/v2/song` and
@@ -518,9 +551,26 @@ def fetch_fydt(taxonomy, wp_index):
         themes = [taxonomy[t] for t in (wp.get('song_category') or [])
                   if t in taxonomy]
 
+        page_url = api.get('webSiteUrl') or wp.get('link')
+        audio_url = first_url(api.get('songFiles'), 'songUrl')
+        instrumental = first_url(api.get('songInstrumentalFiles'), 'songUrl')
+        accompaniment = first_url(api.get('songAccompanyFiles'), 'songUrl')
+        score_url = first_url(api.get('scoresUrl'), 'url')
+
+        # Nothing at all from the API → look at the page itself before
+        # publishing a row with no media. See fydt_media_from_page.
+        if not any((audio_url, instrumental, accompaniment, score_url)) \
+                and page_url:
+            page_audio, page_score = fydt_media_from_page(page_url)
+            audio_url = audio_url or page_audio
+            score_url = score_url or page_score
+            if page_audio or page_score:
+                print(f'  fydt: recovered media from the page for {title}',
+                      file=sys.stderr)
+
         entries.append(make_entry(
             'fydt', str(post_id), title,
-            api.get('webSiteUrl') or wp.get('link'),
+            page_url,
             code=acf.get('song_id_number') or None,
             artist=api.get('artist') or None,
             composer=api.get('composer') or None,
@@ -528,22 +578,18 @@ def fetch_fydt(taxonomy, wp_index):
             durationSec=(duration_to_seconds(api.get('duration'))
                          or duration_to_seconds(
                              acf.get('time_length_of_song'))),
-            audioUrl=first_url(api.get('songFiles'), 'songUrl'),
-            instrumentalUrl=first_url(api.get('songInstrumentalFiles'),
-                                      'songUrl'),
-            accompanimentUrl=first_url(api.get('songAccompanyFiles'),
-                                       'songUrl'),
+            audioUrl=audio_url,
+            instrumentalUrl=instrumental,
+            accompanimentUrl=accompaniment,
             # Same uniform track list CDC now produces, so a consumer
             # can render every mix from one field regardless of source.
             audioTracks=build_tracks([
-                (first_url(api.get('songFiles'), 'songUrl'), 'vocal', None),
-                (first_url(api.get('songInstrumentalFiles'), 'songUrl'),
-                 'instrumental', None),
-                (first_url(api.get('songAccompanyFiles'), 'songUrl'),
-                 'accompaniment', None),
+                (audio_url, 'vocal', None),
+                (instrumental, 'instrumental', None),
+                (accompaniment, 'accompaniment', None),
             ]),
             videoUrl=first_url(api.get('mvUrls'), 'url'),
-            scoreUrl=first_url(api.get('scoresUrl'), 'url'),
+            scoreUrl=score_url,
             artworkUrl=api.get('artworkUrl') or None,
             lyrics=(strip_lyrics(api.get('lyrics'))
                     or strip_lyrics(acf.get('body_lyrics_display'))),
