@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T04:00:11.695Z",
+  "generatedAt": "2026-08-13T05:40:40.688Z",
   "editionDate": "2026-08-13",
   "sources": [
     {
@@ -105,12 +105,46 @@
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
       "sourceNotes": [
-        "The Guardian World",
         "BBC News World",
+        "The Guardian World",
         "SBS News World",
         "DW World"
       ],
       "items": [
+        {
+          "id": "www-bbc-co-uk-news-articles-cqx7ple0nxxo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9eea/live/2530ea50-96d1-11f1-bb55-dd2c6c96a19d.jpg",
+          "publishedAt": "2026-08-13T05:34:04.000Z",
+          "title": {
+            "en": "Japan protests against Putin visit to disputed islands",
+            "zh": "日本抗议普京访问争议岛屿"
+          },
+          "summary": {
+            "en": "Japan has formally protested Russia's President Vladimir Putin's visit to the Kuril Islands, a territory disputed by both nations, marking his first visit there according to Russian state media.",
+            "zh": "据俄罗斯官方媒体报道，日本已就俄罗斯总统弗拉基米尔·普京首次访问两国存在争议的千岛群岛（日本称北方四岛）一事提出抗议。"
+          },
+          "body": {
+            "en": "Japan said it \"strongly protests\" Russian President Vladimir Putin's visit to a disputed island chain.\n\nRussian state media reported on Thursday that Putin visited Iturup - known in Japan as Etorofu - one of four islands in the Kuril chain that are claimed by both Russia and Japan.\n\nJapan's foreign minister Toshimitsu Motegi said the islands are \"inherently Japanese territory both historically and under international law, and the Government of Japan strongly protests this visit\".\n\nThe two countries have been locked in a dispute over the Kuril islands for decades.\n\nThis dispute was the main reason Moscow and Tokyo did not sign a peace treaty after World War Two.\n\nThe Kuril islands sit between Hokkaido in northern Japan and Russia's Kamchatka Peninsula. Four of the southernmost islands are claimed by Japan, which calls them the Northern Territories.\n\nThey are administered by Russia. At the end of World War Two, the Soviet Union annexed the island chain and deported around 17,000 Japanese residents.\n\nDuring his visit on Thursday, Putin sampled fish roe and spoke to island locals, Russian state media reported.\n\nThe islands are strategic spots for Russia's military operations, with Iturup being used as its primary military air base in the region.\n\nLast month, Chinese and Russian naval warships sailed through a strait in the Kuril islands during a joint patrol.\n\nRussia also held military drills near the islands last year, drawing condemnation from Japan.",
+            "zh": "日本表示“强烈抗议”俄罗斯总统普京访问有争议的岛链。 俄罗斯官方媒体周四报道称，普京访问了伊图鲁普岛——在日本被称为择捉岛——俄罗斯和日本均声称拥有主权的千岛链上的四个岛屿之一。 日本外务大臣茂木敏充表示，这些岛屿“无论在历史上还是在国际法上都是日本固有领土，日本政府强烈抗议这次访问”。 几十年来，两国围绕千岛群岛一直存在争议。 这一争端是莫斯科和东京在第二次世界大战后未能签署和平条约的主要原因。 千岛群岛位于日本北部的北海道和俄罗斯堪察加半岛之间。日本声称对最南端的四个岛屿拥有主权，称其为北方四岛。 它们由俄罗斯管理。第二次世界大战结束时，苏联吞并了该岛链并驱逐了约 17,000 名日本居民。 据俄罗斯官方媒体报道，普京在周四访问期间品尝了鱼子，并与岛上当地人进行了交谈。 这些岛屿是俄罗斯军事行动的战略要地，伊图鲁普被用作俄罗斯在该地区的主要军事空军基地。 上个月，中国和俄罗斯海军军舰在联合巡逻中穿过千岛群岛的一个海峡。 俄罗斯去年也在这些岛屿附近举行了军事演习，引起了日本的谴责。"
+          },
+          "reflection": {
+            "en": "International relations often involve complex historical claims and territorial disputes, making the pursuit of peace a continuous challenge. Yahweh's word encourages us to live peaceably with all, as far as it depends on us, even when complete agreement seems distant. This calls for wisdom and perseverance in diplomatic efforts to de-escalate tensions and...",
+            "zh": "国际关系常涉及复杂的历史主张和领土争议，使和平的追求成为一项持续的挑战。雅伟的话语鼓励我们，只要力所能及，就与众人和睦相处，即便完全达成一致看似遥远。这要求我们在外交努力中运用智慧和毅力，以缓和紧张局势并寻求共同点。"
+          },
+          "verse": {
+            "reference": "Romans 12:18",
+            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+            "textZh": "若是能行，总要尽力与众人和睦。",
+            "themeEn": "Pursuit of peace",
+            "themeZh": "追求和睦"
+          },
+          "aiVerseId": "rom_12_18",
+          "translationState": "localized"
+        },
         {
           "id": "www-theguardian-com-australia-news-live-2026-aug-13-australia-politics-l",
           "section": "world",
@@ -118,32 +152,231 @@
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
           "image": "https://i.guim.co.uk/img/media/ff9fbf4f443c163677a7b472f25f29b9efd19554/420_0_4195_3356/master/4195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bd383114551955dc9d9c0bd1b68878b8",
-          "publishedAt": "2026-08-13T03:43:46.000Z",
+          "publishedAt": "2026-08-13T05:24:52.000Z",
           "title": {
-            "en": "Australia politics live: Icac hears evidence on ‘shake down Angus’ message as opposition leader’s staffer berates journalist for asking about it",
-            "zh": "澳大利亚政治直播：反腐委员会听取“敲诈安格斯”信息的证据，反对党领袖工作人员斥责提问记者"
+            "en": "Australia politics live: Taylor’s staffer berates journalist for asking about Icac; Coalition again targets Albanese over melon comments in question time",
+            "zh": "澳大利亚政治直播：泰勒的幕僚因记者提问Icac而斥责记者；联盟党在质询时间再次就瓜类言论攻击阿尔巴尼斯"
           },
           "summary": {
-            "en": "An Australian anti-corruption commission is hearing evidence related to a message about “shaking down” a politician, while a staffer for the opposition leader reportedly confronted a journalist asking about the matter. The opposition leader stated that his staffer’s role is to represent the Coalition’s views.",
-            "zh": "澳大利亚反腐委员会正在听取与一条关于“敲诈安格斯”的信息相关的证据，而反对党领袖的一名工作人员据报道因记者提问此事而斥责记者。反对党领袖表示，他已向布拉格明确指出，他的职责是表达联盟党的观点。"
+            "en": "A staffer for Australian politician Angus Taylor reportedly berated a journalist for asking about the Independent Commission Against Corruption (Icac). Separately, the opposition leader clarified expectations for his team, while the Coalition continued to target the Prime Minister over past comments. Legislation...",
+            "zh": "据报道，澳大利亚政治家安格斯·泰勒的一名幕僚因记者提问独立反腐委员会（Icac）而斥责记者。此外，反对党领袖明确了对其团队的期望，而联盟党则继续就总理过去的言论进行攻击。一项要求科技公司为澳大利亚新闻业付费的立法也将被引入。"
           },
           "body": {
             "en": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email , free app or daily news podcast Legislation forcing tech companies to pay for Australian journalism to be introduced The government will today introduce its legislation forcing tech companies to pay for journalism in Australia after making a series of 11th-hour changes and reaching an agreement with the Coalition. That obligation to enter into at least eight deals is if they want to fully acquit. So it still will be open to tech companies to only partially offset their obligation. But if they want to fully offset their obligation, there have to be at least eight deals. In addition to that obligation, there’s a 200% offset for small and medium players. So that’s also a very strong incentive for them to enter into agreements with regional media, with CALD media and LGBTQI and other smaller players. Andrew was sharing his personal views in his speech, the National Press Club. We are going through our policy development process. We’re doing it carefully. We’re doing it deliberately. Continue reading...",
             "zh": "反对党领袖表示，他已向布拉格“明确表示”，他的工作是表达联盟党的观点。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 强制科技公司为澳大利亚新闻付费的立法即将出台 政府在做出一系列 11 小时的改变并与联盟党达成协议后，今天将推出立法，迫使科技公司为澳大利亚的新闻付费。如果他们想完全无罪，就必须达成至少八项交易。因此，科技公司仍然可以仅部分抵消其义务。但如果他们想完全抵消其义务，则必须至少有八笔交易。除了这项义务之外，中小型企业还可以享受 200% 的补偿。因此，这也是他们与地区媒体、CALD 媒体、LGBTQI 和其他较小参与者签订协议的强烈动机。安德鲁在国家新闻俱乐部的演讲中分享了他的个人观点。我们正在经历我们的政策制定过程。我们正在认真地做。我们是故意这样做的。继续阅读..."
           },
           "reflection": {
-            "en": "Allegations of impropriety and attempts to silence inquiry remind us that public office carries a profound responsibility for integrity. Yahweh declares that righteous leadership is the true foundation of authority, not power or manipulation. When those in leadership uphold justice and truth, they establish a stable and trustworthy governance for all.",
-            "zh": "有关不当行为的指控和试图压制调查的行为提醒我们，公职承载着深刻的诚信责任。雅伟宣告，公义的领导是权力的真正基础，而非权势或操纵。当领导者秉持公义和真理时，他们就为所有人建立了稳定和值得信赖的治理。"
+            "en": "In the heat of political exchange, words can easily become reckless, piercing like sword thrusts as this story illustrates. Yahweh's wisdom reminds us that while some words wound, the tongue of the wise brings healing, calling us to consider the impact of our public discourse. May leaders and their teams strive for communication that builds rather than...",
+            "zh": "在激烈的政治交锋中，言语很容易变得鲁莽，如本报道所示，像刀剑刺人。雅伟的智慧提醒我们，虽然有些言语会造成伤害，但智慧人的舌头却能带来医治，呼吁我们思考公共言论的影响。愿领袖及其团队努力进行建设而非破坏的沟通，即使面对审查也是如此。"
           },
           "verse": {
-            "reference": "Proverbs 16:12",
-            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
-            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
-            "themeEn": "Righteous rule",
-            "themeZh": "以公义治国"
+            "reference": "Proverbs 12:18",
+            "textEn": "The words of the reckless pierce like swords, but the tongue of the wise brings healing.",
+            "textZh": "说话浮躁的，如刀刺人；智慧人的舌头却为医人的良药。",
+            "themeEn": "Reckless words pierce",
+            "themeZh": "言语如刀"
           },
-          "aiVerseId": "prov_16_12",
+          "aiVerseId": "prov_12_18",
           "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-media-2026-aug-13-alan-jones-lawyers-accused-in-cour",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/media/2026/aug/13/alan-jones-lawyers-accused-in-court-of-intimidating-witness-in-indecent-assault-case-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/1e7092c3a3aa8dcdcb0f7b92c548cb685064ed1a/307_36_4063_3252/master/4063.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dda9eba49929264d9bd5edd39fe8088e",
+          "publishedAt": "2026-08-13T05:19:43.000Z",
+          "title": {
+            "en": "Alan Jones’ lawyers accused by defence of ‘intimidating’ witness in indecent assault case",
+            "zh": "艾伦·琼斯的律师被指控在非礼案中“恐吓”证人"
+          },
+          "summary": {
+            "en": "Judge rejects intimidation claim as high profile trial continues with complainant J’s ex-girlfriend cross-examined by shock jock’s defence team The prosecutor in the Alan Jones trial has accused the defence team in court of “intimidating” an alleged victim’s former girlfriend...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Judge rejects intimidation claim as high profile trial continues with complainant J’s ex-girlfriend cross-examined by shock jock’s defence team The prosecutor in the Alan Jones trial has accused the defence team in court of “intimidating” an alleged victim’s former girlfriend after she asserted she wasn’t financially motivated to provide evidence supporting her ex’s allegations. On Thursday, complainant J’s ex-girlfriend was cross-examined by Jones’s defence team, during which she maintained she had a conversation with J more than 20 years ago in which he alleged Jones touched him. Continue reading...",
+            "zh": "法官驳回恐吓指控，原告 J 的前女友正在接受震惊运动员辩护团队的交叉盘问，原告 J 的前女友在受害人声称自己没有经济动机提供支持其前女友指控的证据后，在法庭上指控辩护团队“恐吓”受害者的前女友。周四，申诉人 J 的前女友接受了琼斯辩护团队的盘问，期间她坚称自己在 20 多年前与 J 进行过一次谈话，J 声称琼斯在谈话中触摸了他。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-13-icac-corruption-inquiry-o",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/97c7657748f408b1a3ea905e830f9ea2abadde0a/475_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd4e3933e228055be9f974f8419915ee",
+          "publishedAt": "2026-08-13T05:07:53.000Z",
+          "title": {
+            "en": "Reformers associate may have ‘lied’ about a $15,000 commitment from Angus Taylor, Icac hears",
+            "zh": "廉政公署听证会：改革派盟友可能就安格斯·泰勒的1.5万澳元承诺“撒谎”"
+          },
+          "summary": {
+            "en": "During an inquiry, Catholic Schools NSW chief executive Dallas McInerney testified that a message claiming support from the opposition leader for a $15,000 commitment might have been a \"boast.\" The Independent Commission Against Corruption (Icac) is investigating the matter.",
+            "zh": "在一次调查中，新南威尔士州天主教学校首席执行官达拉斯·麦金纳尼作证称，一条声称反对党领袖支持1.5万澳元承诺的信息可能只是“吹嘘”。廉政公署（Icac）正在对此事进行调查。"
+          },
+          "body": {
+            "en": "Catholic Schools NSW chief executive Dallas McInerney tells inquiry a message claiming opposition leader’s support could have been a ‘boast’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A factional ally of Angus Taylor has denied ever asking the federal opposition leader for money for a group of Christian Liberal power brokers who allegedly solicited illegal donations, suggesting a Reformers associate may have “lied” about a $15,000 commitment. The Catholic Schools NSW chief executive, Dallas McInerney, gave evidence at the NSW Independent Commission Against Corruption (Icac) on Thursday. Icac is investigating whether McInerney arranged and approved donations from the governing body for 600 Catholic schools to support alleged branch stacking efforts of the conservative Christian group the Reformers. Continue reading...",
+            "zh": "新南威尔士州天主教学校首席执行官达拉斯·麦金纳尼 (Dallas McInerney) 告诉调查，一条消息称反对党领袖的支持可能是一种“吹嘘” 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 安格斯·泰勒 (Angus Taylor) 的一名派系盟友否认曾向联邦反对党领袖向一群涉嫌非法募捐的基督教自由党权力掮客索要资金，暗示一名改革者同事可能在 15,000 澳元的问题上“撒谎”承诺。新南威尔士州天主教学校首席执行官达拉斯·麦金纳尼 (Dallas McInerney) 周四在新南威尔士州反腐败独立委员会 (Icac) 上提供了证据。 ICAC 正在调查麦金纳尼是否安排并批准了管理机构向 600 所天主教学校捐款，以支持保守派基督教团体改革者所谓的分支堆叠活动。继续阅读..."
+          },
+          "reflection": {
+            "en": "This report highlights the importance of truthfulness in public life, where trust is easily eroded by misrepresentation. Yahweh's word reminds us to put away falsehood and speak the truth, recognizing that our words impact the fabric of our shared community. Upholding integrity, even in seemingly small commitments, builds a foundation of reliability.",
+            "zh": "这篇报道强调了在公共生活中诚实的重要性，因为谎言很容易侵蚀信任。雅伟的话语提醒我们，要弃绝谎言，说实话，认识到我们的话语影响着我们共同的社会结构。即使在看似微小的承诺上，坚守正直也能建立可靠的基础。"
+          },
+          "verse": {
+            "reference": "Ephesians 4:25",
+            "textEn": "Therefore each of you must put off falsehood and speak truthfully to your neighbor.",
+            "textZh": "所以你们要弃绝谎言，各人与邻舍说实话。",
+            "themeEn": "Truth-telling",
+            "themeZh": "说诚实话"
+          },
+          "aiVerseId": "eph_4_25",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-society-2026-aug-13-category-c-and-womens-prisons-co",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/society/2026/aug/13/category-c-and-womens-prisons-could-be-upgraded",
+          "image": "https://i.guim.co.uk/img/media/7c21237b45db08568888d6c3525d9bd09898c561/0_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca5578d858b0fc85230e550f272f0d4e",
+          "publishedAt": "2026-08-13T05:00:50.000Z",
+          "title": {
+            "en": "Category C and women’s prisons could be upgraded to ease overcrowding",
+            "zh": "C 类监狱和女子监狱可以升级以缓解过度拥挤"
+          },
+          "summary": {
+            "en": "Exclusive: Ministers explore diverting male prisoners serving short terms or on remand away from tougher jails Ministers are examining a possible upgrade of security at men’s category C and women’s prisons to deal with an overcrowding crisis across the England and Wales estate,...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Exclusive: Ministers explore diverting male prisoners serving short terms or on remand away from tougher jails Ministers are examining a possible upgrade of security at men’s category C and women’s prisons to deal with an overcrowding crisis across the England and Wales estate, the Guardian understands. Officials have explored diverting prisoners on remand or serving short sentences away from category B “reception” prisons such as HMPs Liverpool, Manchester and Pentonville in north London. Continue reading...",
+            "zh": "独家：部长们正在考虑将短期服刑或还押候审的男性囚犯从更严厉的监狱转移出去 据《卫报》报道，部长们正在研究是否可能升级男子 C 级监狱和女子监狱的安全措施，以应对英格兰和威尔士地区过度拥挤的危机。官员们已经探索将还押候审或短期服刑的囚犯从利物浦、曼彻斯特和伦敦北部彭顿维尔等 B 类“接收”监狱转移出去。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-business-2026-aug-13-rio-tinto-australia-tomago-alum",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/business/2026/aug/13/rio-tinto-australia-tomago-aluminium-2bn-bailout-deal-renewable-energy",
+          "image": "https://i.guim.co.uk/img/media/2445f677ae7a33a52e1028197eff744ba4a8808f/377_0_4405_3523/master/4405.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=359fb2cdb085c8099d5627c5993ce28a",
+          "publishedAt": "2026-08-13T05:00:25.000Z",
+          "title": {
+            "en": "Australia’s largest aluminium smelter to run on renewables by 2033 after Rio Tinto strikes $2.5bn taxpayer bailout deal",
+            "zh": "力拓达成 25 亿美元纳税人救助协议后，澳大利亚最大铝冶炼厂将于 2033 年采用可再生能源运营"
+          },
+          "summary": {
+            "en": "Rio Tinto makes power supply deal with federal and NSW government to cut emissions and decarbonise, preventing potential closure Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Resources giant Rio Tinto says...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Rio Tinto makes power supply deal with federal and NSW government to cut emissions and decarbonise, preventing potential closure Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Resources giant Rio Tinto says Australia’s largest aluminium smelter will run entirely on renewable energy by 2033 after it struck a $2.5bn subsidy deal with the federal and New South Wales governments to prevent a potential closure. The deal – announced by Anthony Albanese and the NSW premier, Chris Minns, at the Tomago smelter near Newcastle on Thursday – is for a 10-year below-market power supply guarantee that begins after the facility’s existing coal-focused electricity contract with AGL ends in December 2028. Continue reading...",
+            "zh": "力拓与联邦和新南威尔士州政府达成电力供应协议，以减少排放和脱碳，防止可能的关闭 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 资源巨头力拓表示，澳大利亚最大的铝冶炼厂将在 2033 年之前完全依靠可再生能源运行，此前该公司与联邦和新南威尔士州政府达成了 25 亿澳元的补贴协议，以防止可能的关闭。周四，安东尼·阿尔巴尼斯 (Anthony Albanese) 和新南威尔士州州长克里斯·明斯 (Chris Minns) 在纽卡斯尔附近的 Tomago 冶炼厂宣布了这项协议，该协议旨在提供低于市场水平 10 年的电力供应保证，该保证自该工厂与 AGL 现有的以煤炭为主的电力合同于 2028 年 12 月结束后开始。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c74grmy2v7ko-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg",
+          "publishedAt": "2026-08-13T04:55:58.000Z",
+          "title": {
+            "en": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+            "zh": "诺贝尔和平奖获得者告诉BBC，普京不能再宣称在乌克兰获胜"
+          },
+          "summary": {
+            "en": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Mr Muratov co-founded Novaya Gazeta more than thirty years ago. It became the flagship for hard-hitting independent journalism in Russia, shining a light on human rights abuses and high-level corruption.\n\nIn 2021 Mr Muratov was joint winner of the Nobel Peace Prize for his efforts \"to safeguard freedom of expression.\" The Nobel Committee noted that \"six of [Novaya Gazeta's] journalists have been killed, including Anna Politkovskaya who wrote revealing articles on the war in Chechnya.\"\n\n\"Putin issued a decree and the newspaper's printing presses were nationalised,\" Mr Muratov explains. \"Its registration was revoked.\"\n\nNovaya Gazeta does retain a presence online. But only just: the authorities have blocked access to its website. It can only be accessed from abroad, or with the help of VPNs – virtual private networks used to circumvent restrictions.\n\nThe newspaper's difficulties reflect the broader crackdown on free speech in Russia which has accelerated since the Kremlin's full-scale invasion of Ukraine in 2022.\n\n\"Most opinion leaders have been declared 'foreign agents', 'extremists' or 'terrorists'. Several hundred,\" says Dmitry Muratov.\n\n\"Figures vary, but at a conservative estimate, since the start of Russia's 'special military operation' [in Ukraine] at least 1,500 people are now in prison having spoken out against current state policy. That's three times more than during the savage days of the KGB in the USSR.\"\n\nIn his 1975 Nobel Peace Prize lecture dissident Andrei Sakharov listed the names of more than 120 political prisoners he was aware of in the Soviet Union. A decade later Amnesty International estimated more than 600 prisoners of conscience in the USSR.\n\nWhat the Kremlin had assumed in 2022 would be a short, successful \"military operation\" has become the bloodiest conflict in Europe since the Second World War.\n\n\"There will never be 'victory',\" counters Dmitry Muratov. \"Because what has been going on for nearly five years – no matter how it ends – can no longer be considered a victory.\n\n\"It cannot be a victory when two Slavic nations have ripped a million people to shreds. Or more than a million.\"\n\n\"It seems to me that the situation with Ukraine now is this: you can destroy it, but you cannot conquer it. What do I mean by destroy? Continued escalation all the way to the use of a nuclear weapon.\"\n\nDoes he really believe the Kremlin leader would use nuclear weapons in this war?\n\n\"All those political experts who say 'Putin thinks this' or 'Putin is scared of that'…they're all charlatans,\" claims Dmitry Muratov. \"It's in the same league as astrology. Nobody knows what's going on in Vladimir Putin's head. And I don't know.\n\n\"I see things only as a journalist. I study big data. And since the beginning of the year the need to use nuclear weapons...",
+            "zh": "三十多年前，穆拉托夫先生与他人共同创办了《新报》。它成为俄罗斯严厉打击独立新闻业的旗舰，揭露侵犯人权和高层腐败行为。 2021 年，穆拉托夫先生因其“维护言论自由”的努力而共同获得诺贝尔和平奖。诺贝尔委员会指出，“《新报》的六名记者被杀，其中包括撰写揭露车臣战争的文章的安娜·波利特科夫斯卡娅。” “普京颁布了一项法令，报纸的印刷机被国有化，”穆拉托夫先生解释道。 “其注册已被撤销。” 《新报》确实保留了在线版面。但仅此而已：当局已阻止对其网站的访问。它只能从国外访问，或者借助VPN（用于规避限制的虚拟专用网络）的帮助。 该报面临的困难反映出，自克里姆林宫 2022 年全面入侵乌克兰以来，俄罗斯对言论自由的打压力度不断加大。 “大多数意见领袖都被宣布为‘外国特工’、‘极端分子’或‘恐怖分子’。有数百人，”德米特里·穆拉托夫说。 “数字有所不同，但保守估计，自俄罗斯[在乌克兰]开始‘特别军事行动’以来，至少有 1,500 人因公开反对现行国家政策而入狱。这一数字是苏联克格勃野蛮时期的三倍。” 持不同政见者安德烈·萨哈罗夫 (Andrei Sakharov) 在 1975 年诺贝尔和平奖演讲中列出了他所知道的 120 多名苏联政治犯的名字。十年后，国际特赦组织估计苏联境内有超过 600 名良心犯。 克里姆林宫原以为 2022 年将是一次短暂而成功的“军事行动”，但如今却成为了二战以来欧洲最血腥的冲突。 “永远不会有‘胜利’，”德米特里·穆拉托夫反驳道。 “因为近五年来发生的事情——无论结果如何——都不能再被视为胜利。 “当两个斯拉夫国家将一百万人撕成碎片时，这不可能是一场胜利。或者说超过一百万。” “在我看来，乌克兰现在的情况是这样的：你可以摧毁它，但你无法征服它。我所说的破坏是什么意思？事态持续升级直至使用核武器。” 他真的相信克里姆林宫领导人会在这场战争中使用核武器吗？ “所有那些说‘普京认为这个’或‘普京害怕那个’的政治专家……他们都是江湖骗子，”德米特里·穆拉托夫声称。 “它与占星学处于同一水平。没有人知道弗拉基米尔·普京的脑子里在想什么。我不知道。 “我只是以记者的身份看待事物。我研究大数据。从今年年初开始，使用核武器的必要性......"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cx2v1893n3eo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0298/live/61c58c60-96cb-11f1-9bc6-975e8edc7c6e.jpg",
+          "publishedAt": "2026-08-13T04:09:12.000Z",
+          "title": {
+            "en": "BTS star V reveals hearing loss battle during livestream",
+            "zh": "BTS 明星 V 在直播中透露听力损失之战"
+          },
+          "summary": {
+            "en": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "V, a member of pop sensation BTS, says he has been receiving treatment for hearing loss in one ear, an announcement that comes midway through the band's highly-anticipated world tour.\n\nIn a livestream on Wednesday, the 30-year-old said that he has dealt with the problem for about two and a half years. This was the first time he was revealing it to the band's fans, he said.\n\n\"If the hearing in my left ear is at 100, it's only about 30 in my right,\" said V, whose real name is Kim Tae-hyung.\n\nThe band is currently on its first world tour in years, marking the reunion of all seven members since they went on a hiatus for mandatory military service.\n\nDuring the livestream, V said his hearing became worse when he was serving in the military.\n\nBut he said he did not take it seriously at first, believing it to be \"a matter of mental strength\".\n\nWith rare exceptions, all able-bodied men are required to serve 18 months of military service in South Korea.\n\nThis included BTS members, who were at the height of their fame in 2022 when they started taking career breaks to enlist in the military.\n\nThe Arirang World Tour, which kicked off in April in South Korea, marked the highly-anticipated reunion of the band's seven members.\n\nThe livestream on Wednesday came after the band wrapped its concerts in Baltimore, Maryland.\n\nV was joined by his bandmate Jungkook, who talked about a shin injury he has been dealing with during the tour, saying he was \"on the verge of developing a stress fracture\".\n\nJungkook added that he would have to manage his injury well in order to keep performing.\n\nIn the coming months, the concert tour will take BTS to cities around the world, including Los Angeles, Buenos Aires, Bangkok, Sydney and Hong Kong.",
+            "zh": "V 是流行歌手 BTS 的成员，他表示自己一直在接受一只耳朵听力损失的治疗，这一消息是在乐队备受期待的世界巡演中途宣布的。 在周三的直播中，这位 30 岁的年轻人表示，他已经处理这个问题大约两年半了。他说，这是他第一次向乐队的粉丝透露这一点。 “如果我左耳的听力是 100，那么我的右耳只有 30 左右，”真名金泰亨的 V 说道。 该乐队目前正在进行多年来的首次世界巡演，标志着所有七名成员在服完兵役后重聚。 V在直播中表示，当他服兵役时，他的听力变得更差。 但他表示，一开始他并没有认真对待这件事，认为这是“精神力量的问题”。 除极少数例外，所有身体健全的男子都必须在韩国服 18 个月的兵役。 其中包括 BTS 成员，他们在 2022 年开始休假参军，当时正值名气的顶峰。 阿里郎世界巡演于四月在韩国拉开帷幕，标志着乐队七名成员备受期待的重聚。 周三，乐队在马里兰州巴尔的摩结束演唱会后进行了直播。 V 的乐队成员 Jungkook 也加入其中，他谈到了巡演期间他一直在处理的胫骨受伤问题，称他“处于应力性骨折的边缘”。 田柾国补充说，他必须妥善处理伤病才能继续比赛。 在接下来的几个月中，防弹少年团的巡回演唱会将前往世界各地的城市，包括洛杉矶、布宜诺斯艾利斯、曼谷、悉尼和香港。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-bbc-co-uk-news-articles-c5y49xp2wrno-at-medium-rss-at-campaign-rss",
@@ -214,205 +447,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-aug-13-ibac-victoria-police-offi",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/13/ibac-victoria-police-officers-charged-indigenous-man-taser-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/dfaeec39b6c3460bd13df5201b7631ba7daa9228/921_0_6438_5153/master/6438.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a188cb5a7d79868414760db09d84928a",
-          "publishedAt": "2026-08-13T02:40:40.000Z",
-          "title": {
-            "en": "Ibac charges police officer accused of repeatedly hitting Indigenous man with Taser during Melbourne arrest",
-            "zh": "伊巴克指控警察在墨尔本逮捕期间多次用泰瑟枪殴打原住民"
-          },
-          "summary": {
-            "en": "Victorian corruption watchdog alleges weapon was used to hit man’s head, with another officer accused of kneeing him in same incident last year Two Victorian police officers have been charged with assault after allegedly using a Taser and knee to repeatedly strike a man in the...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Two Victorian police officers have been charged with assault after allegedly using a Taser and knee to repeatedly strike a man in the head during an arrest last year.\n\nIn a statement, the Independent Broad-based Anti-corruption Commission said it had charged the two officers after an investigation into the force used during an arrest of an Indigenous man in Melbourne’s east last August.\n\n“During the arrest, it is alleged [a] Senior Constable unlawfully struck the man to the head with a taser multiple times,” Ibac said.\n\n“In addition, it is alleged the Sergeant unlawfully struck the man to the head with their knee. They have been charged with unlawful assault.”\n\nBoth officers are expected to appear before the Ringwood magistrates court on 11 September.\n\nVictoria police said in a statement that the officers were charged on Wednesday and that all further enquiries should be directed to IBAC.\n\nThe Ibac investigation, codenamed Operation Ginkgo, was conducted by the focused police complaints team (FPCT).\n\n“IBAC’s FPCT assesses and investigates serious, single-incident allegations of Victoria Police misconduct against people from communities at a higher risk of experiencing police misconduct, including First Nations people,” Ibac said.\n\nIbac says the team is responsible for an increase in the number of complaints it investigates involving police.\n\nBut data released in March showed the commission investigated just 2% of all complaints it received regarding police last year.",
-            "zh": "两名维州警察因涉嫌在去年逮捕期间使用泰瑟枪和膝盖多次击打一名男子头部而被指控袭击罪。 独立广泛反腐败委员会在一份声明中表示，在对去年八月在墨尔本东部逮捕一名原住民时使用的武力进行调查后，对这两名警官提出了指控。 “在逮捕过程中，据称一名高级警员多次用泰瑟枪非法击中该男子的头部，”伊巴克说。 “此外，据称警官用膝盖非法击打该男子的头部。他们被指控非法袭击。” 预计这两名警官将于 9 月 11 日在灵伍德地方法院出庭。 维多利亚警方在一份声明中表示，这些警官于周三受到指控，所有进一步的调查均应提交给 IBAC。 Ibac 的调查代号为“银杏行动”，由警察投诉重点小组 (FPCT) 进行。 伊巴克说：“IBAC 的 FPCT 评估和调查严重的单一事件指控，涉及维多利亚州警察对来自警察不当行为高风险社区的人们（包括原住民）的不当行为。” 伊巴克表示，该团队调查的涉及警方的投诉数量增加应负有责任。 但 3 月份公布的数据显示，该委员会仅调查了去年收到的有关警察的所有投诉的 2%。"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c5yw7vdwjxyo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/605d/live/71de6600-96ba-11f1-977f-49a574135f6a.jpg",
-          "publishedAt": "2026-08-13T02:23:39.000Z",
-          "title": {
-            "en": "Australian army whistleblower released on parole after more than two years in jail",
-            "zh": "澳大利亚军队举报人入狱两年多后获假释"
-          },
-          "summary": {
-            "en": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "A whistleblower jailed for leaking military secrets about Australia's involvement in Afghanistan has been released on parole after serving 27 months.\n\nIn 2024, David McBride was sentenced to five years and eight months after pleading guilty to stealing top secret defence documents and giving it to the media.\n\nHis actions later led to a landmark inquiry that found evidence that Australian forces had unlawfully killed 39 Afghans during the war.\n\nOn Thursday, a spokesperson for the Attorney-General Michelle Rowland said McBride's \"parole was considered and granted\". The ex-military lawyer, who is being treated for lung cancer, will serve the rest of his sentence in the community under supervision.\n\nShortly after the decision, advocacy group The Information Rights Project released a statement on McBride's behalf, according to national broadcaster ABC.\n\nHe thanked his family \"who never gave up on me and whose fighting spirit, love and humour inspired me every day\" and praised \"all my amazing supporters from around both Australia and the world who sent me such inspirational messages\".\n\nMcBride also revealed that he had been diagnosed with treatable lung cancer and would be having surgery to remove part of his lung.\n\nHis lawyer Edwina Lloyd described the decision to grant his parole as \"the right one\", in a statement according to the ABC.\n\nShe said McBride's life has been \"defined by service to Australia\", both as a legal officer for the Australian Defence Forces (ADF) and having served time for his crimes.\n\nDuring his court case , prosecutors argued that McBride's actions had been motivated by \"personal vindication\", and that the way he gathered, stored and then leaked the documents endangered Australia's national security and foreign policy.\n\nBut McBride's lawyers asked for leniency, saying he shared the information with \"honourable\" intentions and out of a sense of personal duty.\n\nIn sentencing McBride, the judge said while he was of \"good character\", sharing military secrets was a \"gross breach of trust\" and he had shown \"no contrition\" for his actions.\n\nThe material he leaked to the ABC underpinned a series of reports in 2017 called The Afghan Files which provided unprecedented insight into Australia's elite special forces in Afghanistan, including allegations of war crimes.\n\nIn 2020, the Brereton Report found \"credible evidence\" that elite soldiers have unlawfully killed 39 people.\n\nA special watchdog - the Office of the Special Investigator - was set up to look into the actions of 19 ADF members. Of its 53 cases, 39 have been finalised and two former Special Air Service (SAS) soldiers have been charged.\n\nBen Roberts-Smith , Australia's most decorated living soldier, is facing five counts of the war crime of murder after he was charged earlier this...",
-            "zh": "一名因泄露澳大利亚参与阿富汗军事机密而入狱的举报人在服刑 27 个月后获假释。 2024 年，大卫·麦克布莱德 (David McBride) 承认窃取绝密国防文件并将其提供给媒体，后被判处五年零八个月徒刑。 他的行为后来引发了一场具有里程碑意义的调查，调查发现有证据表明澳大利亚军队在战争期间非法杀害了 39 名阿富汗人。 周四，司法部长米歇尔·罗兰的发言人表示，麦克布莱德的假释“已被考虑并获得批准”。这名前军事律师正在接受肺癌治疗，他将在社区监督下服完剩余的刑期。 据国家广播公司 ABC 报道，做出这一决定后不久，倡导组织“信息权项目”代表麦克布莱德发表了一份声明。 他感谢他的家人“他们从未放弃我，他们的斗志、爱和幽默每天都激励着我”，并赞扬“来自澳大利亚和世界各地的所有出色的支持者，他们给我发送了如此鼓舞人心的信息”。 麦克布莱德还透露，他已被诊断出患有可治疗的肺癌，并将接受手术切除部分肺部。 据美国广播公司报道，他的律师埃德温娜·劳埃德在一份声明中称，给予他假释的决定是“正确的”。 她说，麦克布莱德的生活“就是为澳大利亚服务”，既是澳大利亚国防军（ADF）的法律官员，又因犯罪而服刑。 在法庭审理过程中，检察官辩称麦克布莱德的行为是出于“个人辩护”，他收集、存储然后泄露文件的方式危及澳大利亚的国家安全和外交政策。 但麦克布莱德的律师要求宽大处理，称他出于“光荣”的意图和个人责任感分享了这些信息。 在宣判麦克布莱德时，法官表示，虽然他“品格良好”，但分享军事机密是“严重违反信任”，而且他对自己的行为“没有任何悔意”。 他向 ABC 泄露的材料为 2017 年一系列名为《阿富汗档案》的报告奠定了基础，该报告对澳大利亚在阿富汗的精锐特种部队提供了前所未有的洞察，包括对战争罪的指控。 2020年，《布雷顿报告》发现了“可信证据”，表明精锐士兵非法杀害了39人。 成立了一个特别监督机构——特别调查员办公室——来调查 19 名 ADF 成员的行为。在 53 起案件中，有 39 起已结案，两名前特种空勤队 (SAS) 士兵已受到指控。 本·罗伯茨-史密斯是澳大利亚获得勋章最多的在世士兵，今年早些时候被指控后，他面临五项战争罪谋杀罪……"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-business-2026-aug-13-telstra-ceo-pay-rise-vicki-brad",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/business/2026/aug/13/telstra-ceo-pay-rise-vicki-brady",
-          "image": "https://i.guim.co.uk/img/media/b61c05a4d57d31999a4407cf6b498dceb891a303/502_0_5023_4019/master/5023.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c4626291ee1a2f073c46e136bcc1f03",
-          "publishedAt": "2026-08-13T02:16:47.000Z",
-          "title": {
-            "en": "Telstra CEO gets $700,000 pay rise to $6.8m despite Australia-wide outage",
-            "zh": "尽管澳大利亚全境停电，Telstra 首席执行官仍加薪 70 万澳元至 680 万澳元"
-          },
-          "summary": {
-            "en": "Telco board cuts senior executive bonuses by total $1.3m after tech fail that affected millions Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Telstra has paid its chief executive, Vicki Brady, $6.8m for the...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Telco board cuts senior executive bonuses by total $1.3m after tech fail that affected millions Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Telstra has paid its chief executive, Vicki Brady, $6.8m for the year ending in June, after docking 20% of her bonus in response to the network’s nationwide outage in July. The company reported financial results on Thursday. Its board met on Monday and decided to cut Brady’s bonus by $607,000 – but she still took home a $700,000 pay rise as she was awarded a total of $6.1m the year before. Continue reading...",
-            "zh": "因技术故障影响了数百万人，电信公司董事会将高级管理人员奖金削减了 130 万美元 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 Telstra 已向其首席执行官 Vicki Brady 在截至 6 月的年度支付了 680 万美元，此前该公司因 7 月份全国范围内的网络中断而削减了 20% 的奖金。该公司周四公布了财务业绩。董事会于周一召开会议，决定将 Brady 的奖金削减 607,000 美元，但她仍获得 700,000 美元的加薪，因为她前一年总共获得了 610 万美元的奖金。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-aug-12-surrogate-mother-texas-gives-bir",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/12/surrogate-mother-texas-gives-birth",
-          "image": "https://i.guim.co.uk/img/media/a3d22557b1eeb42aac7afaefdd6f06c644b3a1f9/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be09f5971c1d5bc914ea54d4ca12d082",
-          "publishedAt": "2026-08-13T02:12:10.000Z",
-          "title": {
-            "en": "Surrogate mother who fled to Texas gives birth to baby with severe heart defect",
-            "zh": "逃往德克萨斯州的代孕母亲生下患有严重心脏缺陷的婴儿"
-          },
-          "summary": {
-            "en": "McKenna West initially agreed to an abortion after diagnosis, but then fled to state where abortion is illegal and broke contact with biological parents, attorney alleges A surrogate mother who traveled to Texas, where abortion is illegal, claiming she was pressured to end the...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "McKenna West initially agreed to an abortion after diagnosis, but then fled to state where abortion is illegal and broke contact with biological parents, attorney alleges A surrogate mother who traveled to Texas, where abortion is illegal, claiming she was pressured to end the pregnancy after the discovery of a severe heart defect, gave birth on Wednesday to a baby boy. The child’s biological parents, Nausheen Gilkar and Omar Ahmed of California, confirmed the birth through their lawyer, while denying they forced McKenna West, who is from Alaska, to undergo an abortion, the Texas Tribune reported . Continue reading...",
-            "zh": "律师称，麦肯纳·韦斯特在诊断后最初同意堕胎，但后来逃到堕胎非法的州，并与亲生父母断绝了联系。一名前往堕胎非法的德克萨斯州的代孕母亲声称，在发现严重的心脏缺陷后，她被迫终止妊娠，周三生下了一名男婴。据《德克萨斯论坛报》报道，孩子的亲生父母来自加利福尼亚州的瑙辛·吉尔卡和奥马尔·艾哈迈德通过律师证实了孩子的出生，但否认他们强迫来自阿拉斯加的麦肯纳·韦斯特堕胎。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-live-2026-aug-12-donald-trump-air-force-one-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
-          "image": "https://i.guim.co.uk/img/media/e72190fa6c6cbe2ef36856c6905d0f5d7dff6f8f/451_0_4521_3616/master/4521.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1f5a93cc4bdf6b619ea04cebe9b9f502",
-          "publishedAt": "2026-08-13T02:11:27.000Z",
-          "title": {
-            "en": "Trump’s press secretary Karoline Leavitt leaving role, president says – as it happened",
-            "zh": "特朗普淡化空军一号换机事件，因“诱饵”乘客引来更多批评——美国政治直播"
-          },
-          "summary": {
-            "en": "President Trump stated that the Secret Service requested a plane switch due to a threat, leading to criticism and calls for a congressional briefing from Democrats regarding the use of “decoy” passengers.",
-            "zh": "特朗普总统表示，特勤局因受到威胁而要求更换飞机，此举引发民主党人的批评，并要求国会就“诱饵”乘客一事进行简报。"
-          },
-          "body": {
-            "en": "This live blog is now closed. Karoline Leavitt will step down as White House press secretary Sign up for the Breaking News US email Core inflation, which measures price changes without volatile goods like food and gas, rose by 0.2% in July , after not really changing in June compared to the month prior. While the latest data shows there has been a 2.9% drop in gas prices from June to July, there has been a 25% hike compared to this time last year . Continue reading...",
-            "zh": "总统表示，由于民主党要求向国会通报情况，特勤局希望他“在不同的飞机上”。参议员达林·格雷厄姆被任命完成其已故兄弟、南卡罗来纳州林赛·格雷厄姆的参议员任期，她将在共和党提名的决选中面对国会议员拉尔夫·诺曼。周二，格雷厄姆在民意调查中以微弱优势进入简短的特别初选，预计第二名的争夺将非常激烈。在特拉法加集团的最新调查中，诺曼、国会议员拉塞尔·弗莱和前州长马克·桑福德的民意调查结果相差一个百分点。继续阅读..."
-          },
-          "reflection": {
-            "en": "In moments of crisis and public scrutiny, leaders face immense pressure to balance security with transparency. The call for humility reminds us that true leadership prioritizes the well-being and dignity of all, rather than acting from selfish ambition or conceit. Yahweh calls leaders to serve with a heart that values others above themselves, especially...",
-            "zh": "在危机和公众监督的时刻，领导者面临着平衡安全与透明度的巨大压力。谦卑的呼召提醒我们，真正的领导力是优先考虑所有人的福祉和尊严，而不是出于自私的野心或自负。雅伟呼召领导者以一颗看重他人胜过自己的心来服务，尤其是在决策影响到许多人生命的时候。"
-          },
-          "verse": {
-            "reference": "Philippians 2:3",
-            "textEn": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.",
-            "textZh": "凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。",
-            "themeEn": "Selfless humility",
-            "themeZh": "无私的谦卑"
-          },
-          "aiVerseId": "phil_2_3",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cgk4pex4mn8o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45e0/live/2fd6c2d0-96a5-11f1-b2ab-0dd01740f9f6.jpg",
-          "publishedAt": "2026-08-13T01:31:21.000Z",
-          "title": {
-            "en": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-            "zh": "世卫组织总干事称埃博拉疫情可能是有史以来最致命的"
-          },
-          "summary": {
-            "en": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The current outbreak of Ebola in the Democratic Republic of Congo is on track to surpass the deadliest outbreak of the disease ever, the director-general of the World Health Organization (WHO) has said.\n\nTedros Adhanom Ghebreyesus told reporters that the 2026 outbreak, \"at its current pace\", would \"eclipse\" that of the 2014-2016 occurrence, which killed at least 11,000 people.\n\nThe outbreak this year, declared on 15 May, has seen at least 4,300 cases and caused more than 2,000 deaths.\n\nThe WHO said on Wednesday it hoped to reverse the spread of the disease within three months but warned that this meant bringing transmission under control - not ending the outbreak entirely.\n\nThe epidemic was only officially declared in May, but it is believed the outbreak began at least three months before then, health officials said this week.\n\n\"We are chasing the virus, the virus is ahead of us,\" WHO Africa director Dr Mohamed Janabi said at a news conference in the city of Bunia, near the centre of the outbreak.\n\nHe cited research showing that the virus started spreading in February and was initially misdiagnosed as malaria or typhoid.\n\nThe 2026 outbreak is caused by the rare Bundibugyo species of Ebola, which has previously caused only two known outbreaks - in 2007 and 2012.\n\nNo approved vaccine or recognised therapeutic drugs can treat this species of the virus.\n\nOngoing regional instability near the location of the outbreak, in the east of DR Congo, has added to challenges in controlling the spread of the disease. As a result, health workers are only reaching about 30% of cases, according to Janabi.\n\nEbola is a rare but deadly viral disease, with symptoms appearing within two to 21 days of infection.\n\nSymptoms similar to the flu or malaria, including fever, headache and tiredness, can begin suddenly. As the disease progresses, vomiting and diarrhoea can develop, leading to organ failure.\n\nThe virus spreads from one person to another by contact with infected bodily fluids such as blood or vomit.\n\nThe UK's medicines regulator, the MHRA, has given permission for the first human trials of a vaccine for Bundibugyo to go ahead.\n\nThe jab is being created by a team from the University of Oxford based on the same technology used in the Oxford-AstraZeneca Covid vaccine. Three other groups are also developing different vaccines for Bundibugyo although they have not yet entered clinical trials.\n\nThe WHO is also sponsoring a separate clinical trial in DR Congo to see whether two existing antiviral therapies can improve survival rates.",
-            "zh": "世界卫生组织（WHO）总干事表示，目前刚果民主共和国爆发的埃博拉疫情有望超越该病有史以来最致命的疫情。 谭德塞告诉记者，2026 年的疫情“按照目前的速度”将“超越”2014-2016 年爆发的疫情，当时的疫情导致至少 11,000 人死亡。 5 月 15 日宣布，今年的疫情已出现至少 4,300 例病例，并造成 2,000 多人死亡。 世界卫生组织周三表示，希望在三个月内扭转疾病的传播，但警告说，这意味着控制传播，而不是完全结束疫情。 卫生官员本周表示，5月份才正式宣布疫情，但据信疫情至少在此之前三个月就开始了。 世卫组织非洲主任穆罕默德·贾纳比博士在疫情中心附近的布尼亚市举行的新闻发布会上说：“我们正在追逐病毒，病毒就在我们前面。” 他引用的研究表明，该病毒从二月份开始传播，最初被误诊为疟疾或伤寒。 2026 年的疫情是由罕见的本迪布焦埃博拉病毒引起的，此前该病毒仅在 2007 年和 2012 年两次引发过已知的疫情。 没有批准的疫苗或公认的治疗药物可以治疗这种病毒。 刚果民主共和国东部疫情爆发地点附近持续的区域不稳定增加了控制疾病传播的挑战。贾纳比表示，因此，卫生工作者只能处理大约 30% 的病例。 埃博拉病毒是一种罕见但致命的病毒性疾病，感染后 2 至 21 天内会出现症状。 类似于流感或疟疾的症状，包括发烧、头痛和疲倦，可能会突然出现。随着疾病的进展，可能会出现呕吐和腹泻，导致器官衰竭。 病毒通过接触血液或呕吐物等受感染的体液从一个人传播到另一个人。 英国药品监管机构 MHRA 已批准开展 Bundibugyo 疫苗的首次人体试验。 该疫苗是由牛津大学的一个团队基于牛津-阿斯利康新冠疫苗中使用的相同技术研制的。其他三个小组也在为 Bundibugyo 开发不同的疫苗，尽管尚未进入临床试验。 世界卫生组织还在刚果民主共和国赞助一项单独的临床试验，看看两种现有的抗病毒疗法是否可以提高生存率。"
-          },
-          "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-sbs-com-au-news-article-karoline-leavitt-leaving-white-house-press-s",
           "section": "world",
           "source": "SBS News World",
@@ -479,40 +513,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-cx2r179e232o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30aa/live/19728ca0-969f-11f1-aabf-cfc1e2784bc6.jpg",
-          "publishedAt": "2026-08-13T01:19:23.000Z",
-          "title": {
-            "en": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-            "zh": "特拉维斯·凯尔西分享与泰勒·斯威夫特婚礼细节——“我一生中最美好的夜晚”"
-          },
-          "summary": {
-            "en": "Travis Kelce publicly referred to Taylor Swift as his \"wife\" for the first time, sharing details of their wedding. He described the event as a \"childhood dream\" fulfilled by marrying at Madison Square Garden.",
-            "zh": "特拉维斯·凯尔西首次公开称泰勒·斯威夫特为“妻子”，并分享了他们婚礼的细节。他表示能在麦迪逊广场花园结婚是“童年梦想”的实现。"
-          },
-          "body": {
-            "en": "American football player Travis Kelce has reflected on his wedding to Taylor Swift, telling US media that their nuptials were \"the best night of my life\".\n\nKelce and Swift tied the knot on 3 July at New York's Madison Square Garden in a star-studded event that was largely kept private.\n\nFew details from the ceremony have been shared publicly and Kelce's comments on Wednesday mark the first he's shared since the couple were wed by comedic actor Adam Sandler.\n\n\"It was kind of cool to live out my childhood dream of being in that venue, the mecca of all sports venues, being able to get married there,\" Kelce told reporters at the Kansas City Chiefs' training camp in Missouri.\n\nKelce called the wedding \"the best night of my life\", thanking guests who attended and calling it \"a crazy night\".\n\nThe NFL star and the award-winning singer have kept much of the details of the wedding private and there have been no official photos released of the ceremony held inside the stadium. A litany of Hollywood A-list stars, such as actors Hugh Grant and Jason Sudeikis, singer Benson Boone and model Gigi Hadid were in attendance.\n\nKelce said he had wanted to attend a game when the New York Knicks basketball team were having a good playoff run last year, but had other commitments. The team ended up winning the NBA championships for the first time in nearly six decades.\n\n\"My wife went when I was stuck in a mini camp so I didn't get my opportunity to go then,\" he said referring to Swift as his wife publicly for the first time. She sat courtside at Game 4 of the NBA Finals, when the Knicks pulled off a stunning upset against the San Antonio Spurs in a 107-106 finish.\n\n\"I can't thank the owners of MSG enough for allowing us to get the opportunity to do that, knowing that we wanted a private event and everything, and it was perfect,\" he added.\n\nLater, he joked that the \"AC was cooking\" inside the venue, an apparent reference to the heatwave that swept over the country over the Independence Day weekend.\n\nThe couple's nuptials were shrouded in secrecy despite the event shutting down a part of New York City - the most populous city in the US. Much of the event still was wrapped in uncertainty as to whether the couple had already wed in days prior or whether the event might just be a party.\n\nBut hours after a lengthy list of celebrities were seen entering the venue in gowns and suits, large screens attached to the arena announced publicly that the famous couple were officially wed.\n\nKelce noted \"it was a fun off-season\" but said he was now excited to return to training and American football.\n\nKelce, who turns 37 in October, has won three Super Bowl championships with the Chiefs.\n\nThe team did not make the NFL playoffs last year for the first time in 10 seasons. Many believe the...",
-            "zh": "美国橄榄球运动员特拉维斯·凯尔斯回顾了他与泰勒·斯威夫特的婚礼，他告诉美国媒体，他们的婚礼是“我一生中最美好的夜晚”。 凯尔斯和斯威夫特于 7 月 3 日在纽约麦迪逊广场花园喜结连理，这场婚礼众星云集，但基本上保密。 仪式上的细节很少被公开分享，凯尔斯周三的评论是自这对夫妇与喜剧演员亚当·桑德勒结婚以来他首次分享的评论。 凯尔斯在密苏里州堪萨斯城酋长队训练营对记者说：“能够实现我儿时的梦想，在那个体育场馆——所有体育场馆的圣地，在那里结婚，真是太酷了。” 凯尔斯称这场婚礼是“我一生中最美好的夜晚”，感谢出席的宾客，并称这是“一个疯狂的夜晚”。 这位 NFL 球星和这位获奖歌手对婚礼的大部分细节都保密，目前还没有发布在体育场内举行的仪式的官方照片。演员休·格兰特和杰森·苏戴奇斯、歌手本森·布恩和模特吉吉·哈迪德等好莱坞一线明星出席了活动。 凯尔斯表示，去年纽约尼克斯队季后赛表现出色时，他本来想观看一场比赛，但他还有其他安排。球队最终赢得了近六十年来的第一次NBA总冠军。 “当我被困在一个迷你营地时，我的妻子去了，所以当时我没有机会去，”他首次公开提及斯威夫特作为他的妻子。 NBA 总决赛第四场，尼克斯队以 107-106 击败圣安东尼奥马刺队，她坐在场边。 “我无法感谢 MSG 的老板让我们有机会这样做，因为他们知道我们想要一场私人活动和一切，而且这是完美的，”他补充道。 后来，他开玩笑说会场内“空调正在做饭”，这显然是指独立日周末席卷全国的热浪。 尽管美国人口最多的城市纽约市的部分地区被封锁，但这对夫妇的婚礼仍然处于保密状态。活动的大部分内容仍然存在不确定性，不知道这对夫妇是否在几天前就已经结婚了，或者活动是否只是一场聚会。 但在一长串穿着礼服和西装的名人进入会场几个小时后，会场上的大屏幕公开宣布这对著名夫妇正式结婚。 凯尔斯表示“这是一个有趣的休赛期”，但他表示现在很高兴能够重返训练和美式足球。 凯尔斯今年 10 月就年满 37 岁了，他曾随酋长队三次赢得超级碗冠军。 去年，球队10个赛季以来首次未能进入NFL季后赛。许多人相信即将到来的..."
-          },
-          "reflection": {
-            "en": "The news of a public wedding, where two individuals declare their commitment, echoes the profound truth of marriage as a union ordained by Yahweh. Genesis 2:24 reminds us that in marriage, a man and woman leave their families to become one flesh, establishing a new household built on deep connection and shared life. This ancient principle highlights the...",
-            "zh": "两人公开宣布结合的喜讯，呼应了雅伟所设立婚姻的深刻真理。创世记2:24提醒我们，在婚姻中，一男一女离开原生家庭，二人成为一体，建立一个基于深厚连结和共同生活的新家庭。这一古老原则突显了这种结合的神圣和变革性。"
-          },
-          "verse": {
-            "reference": "Genesis 2:24",
-            "textEn": "That is why a man leaves his father and mother and is united to his wife, and they become one flesh.",
-            "textZh": "因此，人要离开父母，与妻子连合，二人成为一体。",
-            "themeEn": "Marriage's foundation",
-            "themeZh": "婚姻的根基"
-          },
-          "aiVerseId": "gen_2_24",
-          "translationState": "localized"
-        },
-        {
           "id": "www-sbs-com-au-news-article-settlers-seige-palestinian-homes-in-west-ban",
           "section": "world",
           "source": "SBS News World",
@@ -562,7 +562,7 @@
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "White House press secretary Karoline Leavitt, who earned a reputation for acid putdowns of journalists, is to step down, United States President Donald Trump announced on Thursday AEST, adding she would remain a senior adviser.\n\nLeavitt, 28, the youngest-ever US presidential spokesperson, has been a fiercely loyal Trump defender, delivering fluent and aggressive performances at often combative press briefings.\n\n\"Our wonderful White House Press Secretary, and one of my most trusted aides, Karoline Leavitt, will be departing her role at the end of the month so she can spend more time with her beautiful young children and family,\" Trump said on social media.\n\n\"Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party.\"\n\nIn May, Leavitt announced the birth of her second child &#x2014; a girl named Viviana &#x2014; just days after delaying her maternity leave following an alleged assassination attempt on Trump when a gunman tried to storm the White House Correspondents' Dinner .\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nHer departure comes as Trump faces steadily sinking poll numbers and the Republican Party risks defeat in the November midterm congressional elections.\n\n\"I am thankful to the President for entrusting me with the distinct privilege of speaking on his behalf at the White House podium,\" Leavitt said on social media as her departure was announced.\n\n\"I have relished holding the liberal media accountable and ensuring the American people hear the truth about President Trump&#x2019;s successes.\"\n\nLeavitt wrote that, after returning to the White House following the birth of her daughter, \"I have felt in my heart that I cannot be the best mom my two young children deserve\" while devoting the attention needed as press secretary.\n\nLeavitt is a Trump veteran who served in his press office during his first term that ended in 2021 and then as his spokesperson during his 2024 election campaign.\n\nLeavitt's tenure as press secretary saw a revival of regular briefings that had petered out during the first term, but she presided over a sea change in White House interactions with journalists.\n\nIn February 2025, she stunned the press corps when she announced that the White House itself &#x2014; and not an independent association of correspondents &#x2014; would choose which reporters got to cover Trump up close in the Oval Office and on Air Force One.\n\nShe also facilitated press credentials from right-wing, pro-Trump media outlets, diluting the presence of traditional news media that tend to ask more challenging questions in the briefing room.\n\nRaised in New Hampshire, where her family ran an ice cream shop, Leavitt...",
+            "en": "White House press secretary Karoline Leavitt, who earned a reputation for acid putdowns of journalists, is to step down, United States President Donald Trump announced on Thursday AEST, adding she would remain a senior adviser.\n\nLeavitt, 28, the youngest-ever US presidential spokesperson, has been a fiercely loyal Trump defender, delivering fluent and aggressive performances at often combative press briefings.\n\n\"Our wonderful White House Press Secretary, and one of my most trusted aides , Karoline Leavitt, will be departing her role at the end of the month so she can spend more time with her beautiful young children and family,\" Trump said on social media.\n\n\"Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party.\"\n\nIn May, Leavitt announced the birth of her second child &#x2014; a girl named Viviana &#x2014; just days after delaying her maternity leave following an alleged assassination attempt on Trump when a gunman tried to storm the White House Correspondents' Dinner .\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nHer departure comes as Trump faces steadily sinking poll numbers and the Republican Party risks defeat in the November midterm congressional elections.\n\n\"I am thankful to the President for entrusting me with the distinct privilege of speaking on his behalf at the White House podium,\" Leavitt said on social media as her departure was announced.\n\n\"I have relished holding the liberal media accountable and ensuring the American people hear the truth about President Trump&#x2019;s successes.\"\n\nLeavitt wrote that, after returning to the White House following the birth of her daughter, \"I have felt in my heart that I cannot be the best mom my two young children deserve\" while devoting the attention needed as press secretary.\n\nLeavitt is a Trump veteran who served in his press office during his first term that ended in 2021 and then as his spokesperson during his 2024 election campaign.\n\nLeavitt's tenure as press secretary saw a revival of regular briefings that had petered out during the first term, but she presided over a sea change in White House interactions with journalists.\n\nIn February 2025, she stunned the press corps when she announced that the White House itself &#x2014; and not an independent association of correspondents &#x2014; would choose which reporters got to cover Trump up close in the Oval Office and on Air Force One.\n\nShe also facilitated press credentials from right-wing, pro-Trump media outlets, diluting the presence of traditional news media that tend to ask more challenging questions in the briefing room.\n\nRaised in New Hampshire, where her family ran an ice cream shop, Leavitt...",
             "zh": "美国总统唐纳德·特朗普 (Donald Trump) 周四宣布，以严厉镇压记者而闻名的白宫新闻秘书卡罗琳·莱维特 (Karoline Leavitt) 将辞职，并补充说她将继续担任高级顾问。 28 岁的莱维特是美国历史上最年轻的总统发言人，一直是特朗普的忠实拥护者，在经常充满争议的新闻发布会上发表流畅而咄咄逼人的表演。 特朗普在社交媒体上表示：“我们出色的白宫新闻秘书和我最信任的助手之一卡罗琳·莱维特将于本月底卸任，以便她可以花更多时间陪伴美丽的孩子和家人。” “卡罗琳现在将成为我的高级外部顾问之一，也是共和党内有影响力的声音。” 今年五月，莱维特宣布了她的第二个孩子的出生——一个名叫维维安娜的女孩——几天前，一名枪手试图冲进白宫记者晚宴，据称特朗普遭到暗杀，导致她推迟了产假。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 她离职之际，特朗普的民调支持率不断下降，共和党也面临着在 11 月国会中期选举中失败的风险。 “我感谢总统赋予我在白宫讲台上代表他发言的特殊特权，”莱维特在宣布离职时在社交媒体上说道。 “我很高兴让自由派媒体承担责任，并确保美国人民听到特朗普总统成功的真相。” 莱维特写道，在女儿出生后回到白宫后，“我内心感到，我无法成为我的两个年幼的孩子应得的最好的妈妈”，同时投入作为新闻秘书所需的注意力。 莱维特是特朗普的资深人士，曾在特朗普的第一个任期（于 2021 年结束）期间在他的新闻办公室任职，然后在他 2024 年的竞选期间担任特朗普的发言人。 莱维特在担任新闻秘书期间，恢复了在第一任期内逐渐消失的定期简报会，但在她主持下，白宫与记者的互动发生了巨大变化。 2025 年 2 月，当她宣布白宫本身（而不是独立的记者协会）将选择哪些记者在椭圆形办公室和空军一号上近距离报道特朗普时，震惊了记者团。 她还为右翼亲特朗普媒体提供新闻凭证，削弱了传统新闻媒体的影响力，因为传统新闻媒体往往会在简报室提出更具挑战性的问题。 莱维特在新罕布什尔州长大，她的家人在那里经营一家冰淇淋店……"
           },
           "reflection": {
@@ -596,7 +596,7 @@
           },
           "body": {
             "en": "Russia's supreme court has banned the anti-war opposition party Yabloko from September's parliamentary elections. What does this mean for the election campaign, opponents of the war and for the political mood in Russia?\n\nOn Monday&#160;Russia's supreme court upheld a lawsuit against the anti-war opposition party Yabloko. Its candidates will now be barred from taking part in the parliamentary elections on&#160;September 18 to 20.\n\nThe case against Yabloko was brought by the pro-Kremlin party Rodina, which accused it of infringing copyright with its election campaign materials. Rodina also made the claim that Yabloko had engaged in extremist activities&#160;and had received illegal financing from abroad.\n\nThe verdict was pronounced by presiding judge Vyacheslav Kirillov. This was the same judge who, in April, banned the Russian human rights organization Memorial &#160;and designated it an extremist organization. Kirillov also previously dismissed legal complaints against the Russian prison service filed by the prominent opposition politician Alexei Navalny . Navalny spent many years in Russian prisons prior to his death in jail in 2024.\n\nAt least 500 people gathered in front of the Supreme Court to show their support for Yabloko. They distributed apples and sang songs. The name Yabloko – \"apple\" in English – derives from the initials of the party's three founders, Grigory Yavlinsky, Yury Boldyrev and Vladimir Lukin (YaBL). The apple is now well-known as a symbol of the party.\n\nAt the end of the nine-hour court session, security services threatened the people gathered outside the courthouse with arrest, also warning young men that they could be taken to an army enlistment office.\n\n\"You are mistaken if you believe that, with a stroke of a pen, you can write off millions of people who want peace, freedom&#160;and a normal future for their country,\" Nikolai Rybakov, the leader of Yabloko, wrote on Telegram that evening.\n\nHe insisted that the party had not broken any Russian laws, and announced that he would appeal the judgement.\n\nGrigory Yavlinsky, one of the founders of Yabloko, said those in power were afraid of Yabloko's program, which calls for an election \"for peace, freedom&#160;and a life without fear\" – because, he said, \"removing a party with a platform like this from the election, without any real grounds, is the political system exposing itself.\"\n\nThe lawsuit came at the same time as an appeal by Russian opposition and cultural leaders living abroad for people to support Yabloko.\n\nThey include the politician Yulia Navalnaya , Alexei Navalny's widow, as well as Lyubov Sobol, Ilya Yashin and Andrei Pivovarov. The writer Dmitry Bykov, human rights activist Oleg Orlov&#160;and other prominent people also voiced their support for...",
-            "zh": "俄罗斯最高法院禁止反战反对党Yabloko参加9月份的议会选举。这对竞选活动、战争反对者和俄罗斯的政治情绪意味着什么？ 周一，俄罗斯最高法院维持了针对反战反对党 Yabloko 的诉讼。现在，其候选人将被禁止参加 9 月 18 日至 20 日的议会选举。 针对亚布洛科的诉讼是由亲克里姆林宫的政党罗迪纳 (Rodina) 提起的，该党指控其竞选材料侵犯版权。罗迪纳还声称亚布洛科从事极端主义活动并从国外接受非法融资。 审判长维亚切斯拉夫·基里洛夫宣布了这一判决。正是这位法官在四月份禁止了俄罗斯人权组织纪念组织，并将其指定为极端主义组织。基里洛夫此前还驳回了著名反对派政治家阿列克谢·纳瓦尔尼针对俄罗斯监狱部门提出的法律申诉。纳瓦尔尼在俄罗斯监狱度过了多年，直至 2024 年在监狱中去世。 至少500人聚集在最高法院前表达对亚布洛科的支持。他们分发苹果并唱歌。 Yabloko 这个名字在英语中意为“苹果”，源自该党三位创始人 Grigory Yavlinsky、Yury Boldyrev 和 Vladimir Lukin (YaBL) 的名字首字母。苹果如今已成为众所周知的党的象征。 在九个小时的法庭审理结束时，安全部门威胁要逮捕聚集在法院外的人们，还警告年轻人，他们可能会被带到征兵办公室。 亚布洛科领导人尼古拉·雷巴科夫当晚在 Telegram 上写道：“如果你相信大笔一挥就可以抹杀数百万渴望国家和平、自由和正常未来的人，那你就错了。” 他坚称该党没有违反任何俄罗斯法律，并宣布将对判决提出上诉。 亚布洛科创始人之一格里戈里·亚夫林斯基表示，当权者害怕亚布洛科的计划，该计划呼吁“为了和平、自由和无恐惧的生活”举行选举，因为他说，“在没有任何真正理由的情况下，将一个拥有这样纲领的政党从选举中剔除，就是政治制度的暴露。” 在这起诉讼发生的同时，居住在国外的俄罗斯反对派和文化领袖呼吁人们支持亚布洛科。 他们包括政治家尤利娅·纳瓦尔纳亚、阿列克谢·纳瓦尔尼的遗孀，以及柳博夫·索博尔、伊利亚·雅辛和安德烈·皮沃瓦罗夫。作家德米特里·贝科夫、人权活动家奥列格·奥尔洛夫和其他知名人士也表达了他们的支持……"
+            "zh": "俄罗斯最高法院禁止反战反对党Yabloko参加9月份的议会选举。这对竞选活动、战争反对者和俄罗斯的政治情绪意味着什么？ 周一，俄罗斯最高法院维持了针对反战反对党 Yabloko 的诉讼。现在，其候选人将被禁止参加 9 月 18 日至 20 日的议会选举。 针对亚布洛科的诉讼是由亲克里姆林宫的政党罗迪纳 (Rodina) 提起的，该党指控其竞选材料侵犯版权。罗迪纳还声称亚布洛科从事极端主义活动并从国外接受非法融资。 审判长维亚切斯拉夫·基里洛夫宣布了判决。正是这位法官在四月份禁止了俄罗斯人权组织纪念组织，并将其指定为极端主义组织。基里洛夫此前还驳回了著名反对派政治家阿列克谢·纳瓦尔尼针对俄罗斯监狱部门提出的法律申诉。纳瓦尔尼于 2024 年在监狱中去世之前，在俄罗斯监狱度过了多年。 至少500人聚集在最高法院前表达对亚布洛科的支持。他们分发苹果并唱歌。 Yabloko 这个名字在英语中意为“苹果”，源自该党三位创始人 Grigory Yavlinsky、Yury Boldyrev 和 Vladimir Lukin (YaBL) 的名字首字母。苹果现在已成为众所周知的党的象征。 在九个小时的法庭审理结束时，安全部门威胁要逮捕聚集在法院外的人们，还警告年轻人，他们可能会被带到征兵办公室。 亚布洛科领导人尼古拉·雷巴科夫当晚在 Telegram 上写道：“如果你相信大笔一挥就可以抹杀数百万渴望国家和平、自由和正常未来的人，那你就错了。” 他坚称该党没有违反任何俄罗斯法律，并宣布将对判决提出上诉。 亚布洛科创始人之一格里戈里·亚夫林斯基表示，当权者害怕亚布洛科的计划，该计划呼吁“为了和平、自由和无恐惧的生活”举行选举，因为他说，“在没有任何真正理由的情况下，将一个拥有这样纲领的政党从选举中剔除，就是政治制度的暴露。” 在这起诉讼发生的同时，居住在国外的俄罗斯反对派和文化领袖呼吁人们支持亚布洛科。 他们包括政治家尤利娅·纳瓦尔纳亚、阿列克谢·纳瓦尔尼的遗孀，以及柳博夫·索博尔、伊利亚·雅辛和安德烈·皮沃瓦罗夫。作家德米特里·贝科夫、人权活动家奥列格·奥尔洛夫和其他知名人士也表达了他们的支持……"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -696,7 +696,7 @@
           },
           "body": {
             "en": "A playful tribute to Mozart has turned into a whodunit after 210 gold-colored figures disappeared from one of Austria's busiest tourist spots. The mass theft forced organizers to end the outdoor display early.\n\nMore than 200 gold-colored Mozart figures have vanished from a public art installation in Salzburg, forcing organizers to end part of the exhibition early.\n\nThe theft has disrupted a major public art project marking the 270th anniversary of composer Wolfgang Amadeus Mozart's birth&#160;in his home city.\n\nThe Mozarteum Foundation said 210 of the 320 figures installed in the city's Mirabell Garden had disappeared. The theft forced organizers to end the garden display early.\n\nOrganizers had kept some replacements in reserve, but not enough to offset the scale of the theft.\n\nThe manufacturer is also on summer holiday, leaving no quick way to replace them.\n\nSeveral dozen figures remain on display at the Mozarteum and Mozart 's birthplace until the end of August.\n\nThe figures had been placed in the Mirabell Garden and at several Mozart-related sites around Austria's fourth-largest city.\n\nThe polymer figures show Mozart with his dog Pimperl, a nod to the composer's everyday life in Salzburg.\n\nGerman conceptual artist Ottmar Hörl, who is behind the display, said he wanted to show Mozart not as a monument but \"as a normal human being despite his genius.\"\n\nHörl is known for installations made up of large numbers of identical figures depicting famous personalities.\n\nHörl said he did not believe tourists had simply walked off with the 50-centimeter&#160;(20-inch) figures.\n\n\"This is organized theft,\" he said, suggesting they were probably taken at night after the garden had closed. \"I find it a bit cheeky.\"\n\nHörl had planned to sell the figures after the exhibition for around €90 each, putting the loss at roughly €20,000.\n\nA previous Hörl display in Bayreuth suffered a similar fate when 100 figures of composer Richard Wagner disappeared.\n\n\"That's just the nature of public space,\" Hörl said. \"When you work as an artist in a public space, you mustn't&#160;complain about what is happening there. It ranges from destruction to theft. That’s just how it is.\"\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google , so you'll always see our verified news first.",
-            "zh": "210 个金色雕像从奥地利最繁忙的旅游景点之一消失后，一部向莫扎特致敬的俏皮电影变成了一部侦探小说。大规模盗窃迫使组织者提前结束户外展示。 超过 200 个金色莫​​扎特雕像从萨尔茨堡的公共艺术装置中消失，迫使组织者提前结束部分展览。 这起盗窃事件扰乱了其家乡纪念作曲家沃尔夫冈·阿玛多伊斯·莫扎特诞辰 270 周年的大型公共艺术项目。 莫扎特基金会表示，安装在该市米拉贝尔花园的 320 个雕像中，有 210 个失踪了。这起盗窃事件迫使组织者提前结束花园展示。 组织者保留了一些替代品，但不足以抵消盗窃的规模。 制造商也正在放暑假，没有办法快速更换。 直到八月底，莫扎特博物馆和莫扎特的出生地仍展出数十尊雕像。 这些雕像被放置在米拉贝尔花园和奥地利第四大城市周围的几个与莫扎特相关的地点。 聚合物人物展示了莫扎特和他的狗 Pimperl，向作曲家在萨尔茨堡的日常生活致敬。 展览背后的德国概念艺术家奥特马尔·霍尔表示，他不想把莫扎特展示为一座纪念碑，而是“作为一个普通人，尽管他有天才”。 霍尔以由大量描绘名人的相同人物组成的装置而闻名。 霍尔表示，他不相信游客会直接带着这些 50 厘米（20 英寸）的人物走开。 “这是有组织的盗窃行为，”他说，并暗示这些物品可能是在夜间花园关闭后被偷走的。 “我觉得有点厚脸皮。” 霍尔原计划在展览结束后以每个 90 欧元左右的价格出售这些人物模型，这样一来损失就达到了约 20,000 欧元。 之前在拜罗伊特举行的 Hörl 展览也遭遇了类似的命运，作曲家理查德·瓦格纳 (Richard Wagner) 的 100 个雕像消失了。 “这就是公共空间的本质，”霍尔说。 “当你作为一名艺术家在公共场所工作时，你不能抱怨那里发生的事情。它的范围从破坏到盗窃。事情就是这样。” 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间选择我们作为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
+            "zh": "210 个金色雕像从奥地利最繁忙的旅游景点之一消失后，一部向莫扎特致敬的俏皮电影变成了一部侦探小说。大规模盗窃事件迫使组织者提前结束户外展示。 超过 200 个金色莫​​扎特雕像从萨尔茨堡的公共艺术装置中消失，迫使组织者提前结束部分展览。 这起盗窃事件扰乱了其家乡纪念作曲家沃尔夫冈·阿玛多伊斯·莫扎特诞辰 270 周年的大型公共艺术项目。 莫扎特基金会表示，安装在该市米拉贝尔花园的 320 个雕像中，有 210 个失踪了。这起盗窃事件迫使组织者提前结束花园展示。 组织者保留了一些替代品，但不足以抵消盗窃的规模。 制造商也正在放暑假，没有办法快速更换。 直到八月底，莫扎特博物馆和莫扎特的出生地仍展出数十尊雕像。 这些雕像被放置在米拉贝尔花园和奥地利第四大城市周围的几个与莫扎特相关的地点。 聚合物人物展示了莫扎特和他的狗 Pimperl，向作曲家在萨尔茨堡的日常生活致敬。 展览背后的德国概念艺术家奥特马尔·霍尔表示，他不想把莫扎特展示为一座纪念碑，而是“作为一个普通人，尽管他有天才”。 霍尔以由大量描绘名人的相同人物组成的装置而闻名。 霍尔表示，他不相信游客会直接带着这些 50 厘米（20 英寸）的人物走开。 “这是有组织的盗窃行为，”他说，并暗示这些物品可能是在夜间花园关闭后被偷走的。 “我觉得有点厚脸皮。” 霍尔原计划在展览结束后以每件 90 欧元左右的价格出售这些人物模型，这样一来损失就达到了约 20,000 欧元。 之前在拜罗伊特举行的 Hörl 展览也遭遇了类似的命运，作曲家理查德·瓦格纳 (Richard Wagner) 的 100 个雕像消失了。 “这就是公共空间的本质，”霍尔说。 “当你作为一名艺术家在公共场所工作时，你不能抱怨那里发生的事情。它的范围从破坏到盗窃。事情就是这样。” 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间选择我们作为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -729,6 +729,39 @@
         "SBS News China Focus"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-technology-2026-aug-13-taiwan-ai-assisted-cyber-atta",
+          "section": "china",
+          "source": "The Guardian China",
+          "sourceUrl": "https://www.theguardian.com/world/china/rss",
+          "link": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
+          "image": "https://i.guim.co.uk/img/media/b517ded4f3a84af437f693705269b31c7e89c1eb/54_0_3337_2670/master/3337.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1a6eede99db924eddefbf0e23925969",
+          "publishedAt": "2026-08-13T05:02:28.000Z",
+          "title": {
+            "en": "Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack",
+            "zh": "台湾称其遭受“异常”人工智能辅助网络攻击"
+          },
+          "summary": {
+            "en": "Taiwan’s statement comes a day after reports that suspected China-linked hackers had carried out a first-of-a-kind breach Taiwan says it detected AI-assisted cyber-attacks on government agencies that came from overseas last month, a new kind of threat that has been reported as...",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Taiwan’s statement comes a day after reports that suspected China-linked hackers had carried out a first-of-a-kind breach Taiwan says it detected AI-assisted cyber-attacks on government agencies that came from overseas last month, a new kind of threat that has been reported as “first-of-a-kind breach”. The Ministry of Digital Affairs (MDA) said its cybersecurity monitoring units ‌detected the “abnormal attack” targeting government agencies, which began on 20 July. The National Institute of Cyber Security issued a series of warning alerts while it investigated. Continue reading...",
+            "zh": "台湾发表声明的前一天，有报道称疑似与中国有关的黑客实施了史无前例的违规行为。台湾表示，上个月检测到来自海外的针对政府机构的人工智能辅助网络攻击，这是一种新的威胁，被报道为“史无前例的违规行为”。数字事务部 (MDA) 表示，其网络安全监控单位检测到 7 月 20 日开始的针对政府机构的“异常攻击”。美国国家网络安全研究所在调查过程中发布了一系列警告。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-film-2026-aug-13-hollywood-struggling-in-china-the-o",
           "section": "china",
@@ -772,28 +805,29 @@
           "publishedAt": "2026-08-12T16:42:38.000Z",
           "title": {
             "en": "Zhu Rongji obituary",
-            "zh": "朱镕基逝世讣告"
+            "zh": "朱镕基讣告"
           },
           "summary": {
-            "en": "Premier of the People’s Republic of China regarded as an economic reformer who declared that the country had become ‘the factory of the world’ Zhu Rongji, who has died aged 97, was the fifth premier of the People’s Republic of China and one of its most effective administrators...",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Zhu Rongji, the fifth premier of the People’s Republic of China, has passed away at 97. He was widely recognized as an economic reformer who famously declared China 'the factory of the world' and was regarded as one of the country's most effective administrators.",
+            "zh": "中华人民共和国第五任总理朱镕基逝世，享年97岁。他被广泛认为是经济改革家，曾宣布中国成为‘世界工厂’，并被视为该国最有效的管理者之一。"
           },
           "body": {
             "en": "Premier of the People’s Republic of China regarded as an economic reformer who declared that the country had become ‘the factory of the world’ Zhu Rongji, who has died aged 97, was the fifth premier of the People’s Republic of China and one of its most effective administrators and economic reformers following its foundation in 1949. In 1991, Zhu was summoned to Beijing, in the footsteps of the then president and party secretary Jiang Zemin , and in the aftermath of the 1989 uprisings in Beijing and the collapse of the Soviet Union. Continue reading...",
             "zh": "中华人民共和国总理被誉为经济改革家，宣称中国已成为“世界工厂”。 朱镕基去世，享年 97 岁。朱镕基是中华人民共和国第五任总理，也是自 1949 年建国以来最有效的管理者和经济改革家之一。1991 年，朱镕基追随时任国家主席兼党委书记江泽民的脚步，在改革开放之后被召唤到北京。 1989年北京起义和苏联解体。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The passing of a leader like Zhu Rongji marks the end of a significant chapter, reflecting a life dedicated to public service and economic reform. His legacy reminds us that every life is a race run, with efforts and impacts that shape the world around us. Yahweh invites us to consider how we too might finish our own race with integrity and purpose.",
+            "zh": "朱镕基这样一位领导人的逝世，标志着一个重要篇章的结束，反映了他一生致力于公共服务和经济改革。他的遗产提醒我们，每个人的一生都是一场赛跑，其努力和影响塑造着我们周围的世界。雅伟邀请我们思考，我们又将如何以正直和目标跑完自己的赛程。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "2 Timothy 4:7",
+            "textEn": "I have fought the good fight, I have finished the race, I have kept the faith.",
+            "textZh": "那美好的仗我已经打过了，当跑的路我已经跑尽了，所信的道我已经守住了。",
+            "themeEn": "Race finished",
+            "themeZh": "跑尽当跑的路"
           },
-          "translationState": "fallback"
+          "aiVerseId": "2tim_4_7",
+          "translationState": "localized"
         },
         {
           "id": "www-bbc-co-uk-news-articles-c75g9777wwxo-at-medium-rss-at-campaign-rss",
@@ -813,7 +847,7 @@
           },
           "body": {
             "en": "Former Chinese Premier Zhu Rongji, who spearheaded China's entry into global trade and laid the foundation for its explosive growth, has died at the age of 97.\n\nHe served in the country's second-highest office from 1998-2003 and played a leading role in securing its entry into the World Trade Organization, opening Chinese factories to the international market and drawing foreign investment.\n\nHe was one of the most important economic reformers who moved local tax powers to the central government, closed or privatised failing state firms and promoted home ownership.\n\nMany in China remember him as a tough and pragmatic leader who delivered double-digit growth and was rarely afraid to speak his mind.\n\nIn 1998, he said China was facing \"many potential crises that could erupt at any time...\n\n\"Ordinary people are discontent about us in many ways. Especially, there is corruption among officials, the gulf between rich and poor and the way some local officials act like tyrants.\"\n\nHe labelled rogue bankers as \"half-wits\" and said the dams and flood dykes lining the Yangtze River were as \"flimsy and porous as tofu dregs\".\n\nUnder his leadership, which helped stabilise the economy and tackle corruption, China began transforming into a manufacturing powerhouse, leaving behind its status as a Communist outsider.\n\nThough he faced criticism because those reforms also led to 30 million lay-offs over five years, and with huge growth came more inequality.\n\nChinese state media describe Zhu Rongji's life as one of \"revolution, struggle and brilliance\".\n\nHe was born in the central province of Hunan in 1928 and earned a degree in electrical engineering before joining the civil service.\n\nHe joined the Communist Party in 1949, but was purged twice - first after criticising Mao Zedong's economic policies as \"irrational\" and being labelled a \"rightist\", and again during the Cultural Revolution.\n\nZhu was brought back into the fold after Mao's death, and by 1991 had risen to the role of vice-premier in charge of China's economy.\n\nZhu led China through difficult negotiations to enter the World Trade Organization in 2002.\n\nIn state media his obituary described him as an \"outstanding member of the Communist Party of China and loyal Commnist fighter... an outstanding leader of the Party and state\".",
-            "zh": "中国前总理朱镕基去世，享年97岁。朱镕基是中国进入全球贸易的带头人，为中国的爆炸性增长奠定了基础。 1998年至2003年，他在中国第二高职位任职，在确保中国加入世界贸易组织、中国工厂向国际市场开放和吸引外国投资方面发挥了主导作用。 他是最重要的经济改革家之一，他将地方税收权力移交给中央政府，关闭或私有化破产的国有企业，并促进住房所有权。 许多中国人都记得他是一位强硬而务实的领导人，实现了两位数的增长，而且从不害怕说出自己的想法。 1998年，他表示中国面临“许多随时可能爆发的潜在危机…… “普通人在很多方面对我们不满。特别是官员腐败、贫富差距和一些地方官员的暴君行为。” 他将流氓银行家称为“笨蛋”，并称长江沿岸的水坝和防洪堤“像豆腐渣一样脆弱、多孔”。 在他的领导下，中国稳定了经济并解决了腐败问题，开始转变为制造业强国，摆脱了共产主义局外人的地位。 但他也面临批评，因为这些改革也导致五年内 3000 万人失业，而且巨大的增长带来了更多的不平等。 中国官方媒体将朱镕基的一生描述为“革命、奋斗、辉煌”的一生。 他 1928 年出生于中部湖南省，在加入公务员队伍之前获得了电气工程学位。 他于1949年加入共产党，但两次遭到清洗——第一次是在批评毛泽东的经济政策“非理性”并被贴上“右派”标签之后，第二次是在文化大革命期间。 毛泽东去世后，朱重回国门，并于 1991 年升任副总理，主管中国经济。 2002年，朱镕基带领中国通过艰难的谈判加入世界贸易组织。 官方媒体的讣告将他描述为“优秀的中国共产党党员、忠诚的共产主义战士……党和国家的杰出领导人”。"
+            "zh": "中国前总理朱镕基去世，享年97岁。朱镕基是中国进入全球贸易的带头人，为中国的爆炸性增长奠定了基础。 1998年至2003年，他在中国第二高职位任职，在确保中国加入世界贸易组织、中国工厂向国际市场开放和吸引外国投资方面发挥了主导作用。 他是最重要的经济改革家之一，他将地方税收权力移交给中央政府，关闭或私有化破产的国有企业，并促进住房所有权。 许多中国人都记得他是一位强硬而务实的领导人，实现了两位数的增长，并且从不害怕说出自己的想法。 1998年，他表示中国面临“许多随时可能爆发的潜在危机…… “普通人在很多方面对我们不满。特别是官员腐败、贫富差距和一些地方官员的暴君行为。” 他将流氓银行家称为“笨蛋”，并称长江沿岸的水坝和防洪堤“像豆腐渣一样脆弱、多孔”。 在他的领导下，中国稳定了经济并解决了腐败问题，开始转变为制造业强国，摆脱了共产主义局外人的地位。 但他也面临批评，因为这些改革也导致五年内 3000 万人失业，而且巨大的增长带来了更多的不平等。 中国官方媒体将朱镕基的一生描述为“革命、奋斗、辉煌”的一生。 他 1928 年出生于中部湖南省，在加入公务员队伍之前获得了电气工程学位。 他于1949年加入共产党，但两次遭到清洗——第一次是在批评毛泽东的经济政策“非理性”并被贴上“右派”标签之后，第二次是在文化大革命期间。 毛泽东去世后，朱重回国门，并于 1991 年升任副总理，主管中国经济。 2002年，朱镕基带领中国通过艰难的谈判加入世界贸易组织。 官方媒体的讣告将他描述为“优秀的中国共产党党员、忠诚的共产主义战士……党和国家的杰出领导人”。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -928,40 +962,6 @@
             "themeZh": "受造叹息"
           },
           "aiVerseId": "rom_8_22",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-aug-12-cook-islands-election-mark-brown-p",
-          "section": "china",
-          "source": "The Guardian China",
-          "sourceUrl": "https://www.theguardian.com/world/china/rss",
-          "link": "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister",
-          "image": "https://i.guim.co.uk/img/media/5ddd1921ced4c1db389588ed807f2b882e7e02f4/512_0_5120_4096/master/5120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb62006f7638815b99d93b799fde1f7e",
-          "publishedAt": "2026-08-12T00:24:55.000Z",
-          "title": {
-            "en": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
-            "zh": "库克群岛大选：总理马克·布朗谈论定义其任期一年的外交危机"
-          },
-          "summary": {
-            "en": "The prime minister tells the Guardian that last year’s diplomatic rift with ally New Zealand could be on voters’ minds as they head to the polls.",
-            "zh": "库克群岛总理告诉《卫报》，去年与盟友新西兰的外交裂痕可能会在大选投票时影响选民。"
-          },
-          "body": {
-            "en": "The prime minister tells the Guardian that last year’s diplomatic rift with ally New Zealand could be on voters’ minds as they head to the polls As voters in the Cook Islands prepare to head to the polls in a high-stakes general election, they will have much to reflect on. Over recent years, politics in this small island nation has been defined by fierce debates about deep-sea mining , diplomatic rifts with ally New Zealand and a major reshaping of the country’s foreign partnerships. In an exclusive interview with the Guardian, days before Wednesday’s poll, Cook Islands prime minister Mark Brown defended his four-year term and the decisions he made that have seen this South Pacific nation of 17,000 people pushed into the international limelight, turning it into a battleground for influence between Beijing and western powers . Continue reading...",
-            "zh": "总理告诉《卫报》，去年与盟友新西兰的外交分歧可能会成为选民在前往投票站时考虑的问题。当库克群岛的选民准备在一场高风险的大选中投票时，他们将有很多事情需要反思。近年来，这个小岛国的政治一直围绕深海采矿、与盟友新西兰的外交分歧以及该国对外伙伴关系的重大重塑展开激烈辩论。在周三投票前几天，库克群岛总理马克·布朗在接受《卫报》独家采访时为他的四年任期和他做出的决定进行了辩护，这些决定使这个拥有 17,000 人口的南太平洋国家成为国际关注的焦点，使其成为北京与西方列强之间争夺影响力的战场。继续阅读..."
-          },
-          "reflection": {
-            "en": "Diplomatic rifts between nations, even allies, can weigh heavily on public sentiment and political decisions. Romans 12:18 reminds us of the enduring call to live peaceably with all, as far as it depends on us. This principle encourages leaders and citizens alike to seek reconciliation and maintain harmonious relationships, even amidst past tensions.",
-            "zh": "国家之间，即使是盟友，外交上的裂痕也会严重影响公众情绪和政治决策。罗马书12:18提醒我们，要尽力与众人和睦相处，这是持久的呼召。这一原则鼓励领导人和公民在过去的紧张局势中，仍要寻求和解并维持和谐关系。"
-          },
-          "verse": {
-            "reference": "Romans 12:18",
-            "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
-            "textZh": "若是能行，总要尽力与众人和睦。",
-            "themeEn": "Pursuit of peace",
-            "themeZh": "追求和睦"
-          },
-          "aiVerseId": "rom_12_18",
           "translationState": "localized"
         },
         {
@@ -1084,57 +1084,24 @@
       ],
       "items": [
         {
-          "id": "www-theguardian-com-australia-news-live-2026-aug-13-australia-politics-l",
+          "id": "www-theguardian-com-media-2026-aug-13-alan-jones-lawyers-accused-in-cour",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/ff9fbf4f443c163677a7b472f25f29b9efd19554/420_0_4195_3356/master/4195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bd383114551955dc9d9c0bd1b68878b8",
-          "publishedAt": "2026-08-13T03:46:00.000Z",
+          "link": "https://www.theguardian.com/media/2026/aug/13/alan-jones-lawyers-accused-in-court-of-intimidating-witness-in-indecent-assault-case-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/1e7092c3a3aa8dcdcb0f7b92c548cb685064ed1a/307_36_4063_3252/master/4063.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dda9eba49929264d9bd5edd39fe8088e",
+          "publishedAt": "2026-08-13T05:19:43.000Z",
           "title": {
-            "en": "Australia politics live: Icac hears evidence on ‘shake down Angus’ message as opposition leader’s staffer berates journalist for asking about it",
-            "zh": "澳大利亚政治直播：廉政公署听取了有关“撼动安格斯”信息的证据，反对党领袖的工作人员斥责记者询问此事"
+            "en": "Alan Jones’ lawyers accused in court of ‘intimidating’ witness in indecent assault case",
+            "zh": "艾伦·琼斯的律师在法庭上被指控在非礼案中“恐吓”证人"
           },
           "summary": {
-            "en": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email, free app or daily news podcast Legislation forcing tech companies to pay for Australian journalism to be introduced...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email , free app or daily news podcast Legislation forcing tech companies to pay for Australian journalism to be introduced The government will today introduce its legislation forcing tech companies to pay for journalism in Australia after making a series of 11th-hour changes and reaching an agreement with the Coalition. That obligation to enter into at least eight deals is if they want to fully acquit. So it still will be open to tech companies to only partially offset their obligation. But if they want to fully offset their obligation, there have to be at least eight deals. In addition to that obligation, there’s a 200% offset for small and medium players. So that’s also a very strong incentive for them to enter into agreements with regional media, with CALD media and LGBTQI and other smaller players. Andrew was sharing his personal views in his speech, the National Press Club. We are going through our policy development process. We’re doing it carefully. We’re doing it deliberately. Continue reading...",
-            "zh": "反对党领袖表示，他已向布拉格“明确表示”，他的工作是表达联盟党的观点。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 强制科技公司为澳大利亚新闻付费的立法即将出台 政府在做出一系列 11 小时的改变并与联盟党达成协议后，今天将推出立法，迫使科技公司为澳大利亚的新闻付费。如果他们想完全无罪，就必须达成至少八项交易。因此，科技公司仍然可以仅部分抵消其义务。但如果他们想完全抵消其义务，则必须至少有八笔交易。除了这项义务之外，中小型企业还可以享受 200% 的补偿。因此，这也是他们与地区媒体、CALD 媒体、LGBTQI 和其他较小参与者签订协议的强烈动机。安德鲁在国家新闻俱乐部的演讲中分享了他的个人观点。我们正在经历我们的政策制定过程。我们正在认真地做。我们是故意这样做的。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-aug-13-ibac-victoria-police-offi",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/13/ibac-victoria-police-officers-charged-indigenous-man-taser-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/dfaeec39b6c3460bd13df5201b7631ba7daa9228/921_0_6438_5153/master/6438.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a188cb5a7d79868414760db09d84928a",
-          "publishedAt": "2026-08-13T02:40:40.000Z",
-          "title": {
-            "en": "Ibac charges police officer accused of repeatedly hitting Indigenous man with Taser during Melbourne arrest",
-            "zh": "伊巴克指控警察在墨尔本逮捕期间多次用泰瑟枪殴打原住民"
-          },
-          "summary": {
-            "en": "Victorian corruption watchdog alleges weapon was used to hit man’s head, with another officer accused of kneeing him in same incident last year Two Victorian police officers have been charged with assault after allegedly using a Taser and knee to repeatedly strike a man in the...",
+            "en": "Judge denies intimidation as high profile trial continues with complainant J’s ex-girlfriend cross-examined by shock jock’s defence team The prosecutor in the Alan Jones trial has accused the defence team in court of “intimidating” an alleged victim’s former girlfriend after she...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Two Victorian police officers have been charged with assault after allegedly using a Taser and knee to repeatedly strike a man in the head during an arrest last year.\n\nIn a statement, the Independent Broad-based Anti-corruption Commission said it had charged the two officers after an investigation into the force used during an arrest of an Indigenous man in Melbourne’s east last August.\n\n“During the arrest, it is alleged [a] Senior Constable unlawfully struck the man to the head with a taser multiple times,” Ibac said.\n\n“In addition, it is alleged the Sergeant unlawfully struck the man to the head with their knee. They have been charged with unlawful assault.”\n\nBoth officers are expected to appear before the Ringwood magistrates court on 11 September.\n\nVictoria police said in a statement that the officers were charged on Wednesday and that all further enquiries should be directed to IBAC.\n\nThe Ibac investigation, codenamed Operation Ginkgo, was conducted by the focused police complaints team (FPCT).\n\n“IBAC’s FPCT assesses and investigates serious, single-incident allegations of Victoria Police misconduct against people from communities at a higher risk of experiencing police misconduct, including First Nations people,” Ibac said.\n\nIbac says the team is responsible for an increase in the number of complaints it investigates involving police.\n\nBut data released in March showed the commission investigated just 2% of all complaints it received regarding police last year.",
-            "zh": "两名维州警察因涉嫌在去年逮捕期间使用泰瑟枪和膝盖多次击打一名男子头部而被指控袭击罪。 独立广泛反腐败委员会在一份声明中表示，在对去年八月在墨尔本东部逮捕一名原住民时使用的武力进行调查后，对这两名警官提出了指控。 “在逮捕过程中，据称一名高级警员多次用泰瑟枪非法击中该男子的头部，”伊巴克说。 “此外，据称警官用膝盖非法击打该男子的头部。他们被指控非法袭击。” 预计这两名警官将于 9 月 11 日在灵伍德地方法院出庭。 维多利亚警方在一份声明中表示，这些警官于周三受到指控，所有进一步的调查均应提交给 IBAC。 Ibac 的调查代号为“银杏行动”，由警察投诉重点小组 (FPCT) 进行。 伊巴克说：“IBAC 的 FPCT 评估和调查严重的单一事件指控，涉及维多利亚州警察对来自警察不当行为高风险社区的人们（包括原住民）的不当行为。” 伊巴克表示，该团队调查的涉及警方的投诉数量增加应负有责任。 但 3 月份公布的数据显示，该委员会仅调查了去年收到的有关警察的所有投诉的 2%。"
+            "en": "Judge denies intimidation as high profile trial continues with complainant J’s ex-girlfriend cross-examined by shock jock’s defence team The prosecutor in the Alan Jones trial has accused the defence team in court of “intimidating” an alleged victim’s former girlfriend after she asserted she wasn’t financially motivated to provide evidence supporting her ex’s allegations. On Thursday, complainant J’s ex-girlfriend was cross-examined by Jones’s defence team, during which she maintained she had a conversation with J more than 20 years ago in which he alleged Jones touched him. Continue reading...",
+            "zh": "法官否认恐吓行为，高调审判继续进行，原告 J 的前女友接受了震惊运动员辩护团队的盘问。艾伦·琼斯审判中的检察官在法庭上指控辩护团队“恐吓”一名所谓受害者的前女友，因为她声称自己没有经济动机提供支持前男友指控的证据。周四，申诉人 J 的前女友接受了琼斯辩护团队的盘问，期间她坚称自己在 20 多年前与 J 进行过一次谈话，J 声称琼斯在谈话中触摸了他。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -1150,24 +1117,189 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-business-2026-aug-13-telstra-ceo-pay-rise-vicki-brad",
+          "id": "www-theguardian-com-australia-news-video-2026-aug-13-whats-the-point-ask",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/business/2026/aug/13/telstra-ceo-pay-rise-vicki-brady",
-          "image": "https://i.guim.co.uk/img/media/b61c05a4d57d31999a4407cf6b498dceb891a303/502_0_5023_4019/master/5023.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c4626291ee1a2f073c46e136bcc1f03",
-          "publishedAt": "2026-08-13T02:16:47.000Z",
+          "link": "https://www.theguardian.com/australia-news/video/2026/aug/13/whats-the-point-asks-nationals-mp-during-fiery-speech-on-gambling-reforms-video",
+          "image": "https://i.guim.co.uk/img/media/cef8bde9c6b0315a083ec8d14525dad12619e184/285_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f669e0fa76ca452f893266607bce748",
+          "publishedAt": "2026-08-13T05:19:07.000Z",
           "title": {
-            "en": "Telstra CEO gets $700,000 pay rise to $6.8m despite Australia-wide outage",
-            "zh": "尽管澳大利亚全境停电，Telstra 首席执行官仍加薪 70 万澳元至 680 万澳元"
+            "en": "'What's the point?' asks Nationals MP during fiery speech on gambling reforms – video",
+            "zh": "“有什么意义？”国民党议员在关于赌博改革的激烈演讲中问道 – 视频"
           },
           "summary": {
-            "en": "Telco board cuts senior executive bonuses by total $1.3m after tech fail that affected millions Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Telstra has paid its chief executive, Vicki Brady, $6.8m for the...",
+            "en": "Nationals MP Pat Conaghan has made a fiery speech in the House of Representatives about gambling reforms. He referred to parliamentary inquiry findings earlier in the month, where the former rugby league star Luke Bateman alleged that gambling company promoters supplied him with...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Nationals MP Pat Conaghan has made a fiery speech in the House of Representatives about gambling reforms. He referred to parliamentary inquiry findings earlier in the month, where the former rugby league star Luke Bateman alleged that gambling company promoters supplied him with cocaine and alcohol and the betting industry exercised no duty of care Coalition divided over tougher gambling laws – with MPs warning Angus Taylor against overreach Continue reading...",
+            "zh": "国家党议员帕特·科纳汉在众议院发表了关于赌博改革的激烈演讲。他提到了本月早些时候的议会调查结果，前橄榄球联盟明星卢克·贝特曼声称赌博公司发起人向他提供可卡因和酒精，而博彩业没有履行谨慎义务联盟在更严格的赌博法上存在分歧 - 议员警告安格斯·泰勒不要越权继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-live-2026-aug-13-australia-politics-l",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/ff9fbf4f443c163677a7b472f25f29b9efd19554/420_0_4195_3356/master/4195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bd383114551955dc9d9c0bd1b68878b8",
+          "publishedAt": "2026-08-13T05:17:25.000Z",
+          "title": {
+            "en": "Australia politics live: Taylor’s staffer berates journalist for asking about Icac; Coalition again targets Albanese over melon comments in question time",
+            "zh": "澳大利亚政治直播：泰勒的工作人员斥责记者询问廉政公署的情况；联盟再次针对阿尔巴尼斯在质询时间对甜瓜的评论"
+          },
+          "summary": {
+            "en": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email, free app or daily news podcast Legislation forcing tech companies to pay for Australian journalism to be introduced...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及合一、和好与弥合分歧。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email , free app or daily news podcast Legislation forcing tech companies to pay for Australian journalism to be introduced The government will today introduce its legislation forcing tech companies to pay for journalism in Australia after making a series of 11th-hour changes and reaching an agreement with the Coalition. That obligation to enter into at least eight deals is if they want to fully acquit. So it still will be open to tech companies to only partially offset their obligation. But if they want to fully offset their obligation, there have to be at least eight deals. In addition to that obligation, there’s a 200% offset for small and medium players. So that’s also a very strong incentive for them to enter into agreements with regional media, with CALD media and LGBTQI and other smaller players. Andrew was sharing his personal views in his speech, the National Press Club. We are going through our policy development process. We’re doing it carefully. We’re doing it deliberately. Continue reading...",
+            "zh": "反对党领袖表示，他已向布拉格“明确表示”，他的工作是表达联盟党的观点。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 强制科技公司为澳大利亚新闻付费的立法即将出台 政府在做出一系列 11 小时的改变并与联盟党达成协议后，今天将推出立法，迫使科技公司为澳大利亚的新闻付费。如果他们想完全无罪，就必须达成至少八项交易。因此，科技公司仍然可以仅部分抵消其义务。但如果他们想完全抵消其义务，则必须至少有八笔交易。除了这项义务之外，中小型企业还可以享受 200% 的补偿。因此，这也是他们与地区媒体、CALD 媒体、LGBTQI 和其他较小参与者签订协议的强烈动机。安德鲁在国家新闻俱乐部的演讲中分享了他的个人观点。我们正在经历我们的政策制定过程。我们正在认真地做。我们是故意这样做的。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到合一、和好与弥合分歧。Ephesians 4:3提醒我们，在快速变化的新闻里，仍要以缔造和平与搭建桥梁来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Galatians 3:28",
+            "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
+            "textZh": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
+            "themeEn": "One in Christ",
+            "themeZh": "基督里合一"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-13-icac-corruption-inquiry-o",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/97c7657748f408b1a3ea905e830f9ea2abadde0a/475_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd4e3933e228055be9f974f8419915ee",
+          "publishedAt": "2026-08-13T05:07:53.000Z",
+          "title": {
+            "en": "Reformers associate may have ‘lied’ about a $15,000 commitment from Angus Taylor, Icac hears",
+            "zh": "Icac 获悉，改革者助理可能对 Angus Taylor 的 15,000 美元承诺“撒谎”"
+          },
+          "summary": {
+            "en": "Catholic Schools NSW chief executive Dallas McInerney tells inquiry a message claiming opposition leader’s support could have been a ‘boast’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A factional ally of...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及盼望、忍耐与重建。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Catholic Schools NSW chief executive Dallas McInerney tells inquiry a message claiming opposition leader’s support could have been a ‘boast’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A factional ally of Angus Taylor has denied ever asking the federal opposition leader for money for a group of Christian Liberal power brokers who allegedly solicited illegal donations, suggesting a Reformers associate may have “lied” about a $15,000 commitment. The Catholic Schools NSW chief executive, Dallas McInerney, gave evidence at the NSW Independent Commission Against Corruption (Icac) on Thursday. Icac is investigating whether McInerney arranged and approved donations from the governing body for 600 Catholic schools to support alleged branch stacking efforts of the conservative Christian group the Reformers. Continue reading...",
+            "zh": "新南威尔士州天主教学校首席执行官达拉斯·麦金纳尼 (Dallas McInerney) 告诉调查，一条消息称反对党领袖的支持可能是一种“吹嘘” 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 安格斯·泰勒 (Angus Taylor) 的一名派系盟友否认曾向联邦反对党领袖向一群涉嫌非法募捐的基督教自由党权力掮客索要资金，暗示一名改革者同事可能在 15,000 澳元的问题上“撒谎”承诺。新南威尔士州天主教学校首席执行官达拉斯·麦金纳尼 (Dallas McInerney) 周四在新南威尔士州反腐败独立委员会 (Icac) 上提供了证据。 ICAC 正在调查麦金纳尼是否安排并批准了管理机构向 600 所天主教学校捐款，以支持保守派基督教团体改革者所谓的分支堆叠活动。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to hope, endurance, and faithful rebuilding. Romans 12:12 reminds us to meet sharp headlines with steady hope and perseverance, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到盼望、忍耐与重建。Romans 12:12提醒我们，在快速变化的新闻里，仍要以坚定盼望与忍耐来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Romans 5:3-4",
+            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
+            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
+            "themeEn": "Suffering produces hope",
+            "themeZh": "患难中的盼望"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-business-2026-aug-13-rio-tinto-australia-tomago-alum",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/business/2026/aug/13/rio-tinto-australia-tomago-aluminium-2bn-bailout-deal-renewable-energy",
+          "image": "https://i.guim.co.uk/img/media/2445f677ae7a33a52e1028197eff744ba4a8808f/377_0_4405_3523/master/4405.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=359fb2cdb085c8099d5627c5993ce28a",
+          "publishedAt": "2026-08-13T05:00:25.000Z",
+          "title": {
+            "en": "Australia’s largest aluminium smelter to run on renewables by 2023 after Rio Tinto strikes $2.5bn taxpayer bailout deal",
+            "zh": "力拓达成 25 亿美元纳税人救助协议后，澳大利亚最大铝冶炼厂将于 2023 年采用可再生能源运营"
+          },
+          "summary": {
+            "en": "Rio Tinto makes power supply deal with federal and NSW government to cut emissions and decarbonise, preventing potential closure Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Resources giant Rio Tinto says...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Rio Tinto makes power supply deal with federal and NSW government to cut emissions and decarbonise, preventing potential closure Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Resources giant Rio Tinto says Australia’s largest aluminium smelter will run entirely on renewable energy by 2033 after it struck a $2.5bn subsidy deal with the federal and New South Wales governments to prevent a potential closure. The deal – announced by Anthony Albanese and the NSW premier, Chris Minns, at the Tomago smelter near Newcastle on Thursday – is for a 10-year below-market power supply guarantee that begins after the facility’s existing coal-focused electricity contract with AGL ends in December 2028. Continue reading...",
+            "zh": "力拓与联邦和新南威尔士州政府达成电力供应协议，以减少排放和脱碳，防止可能的关闭 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 资源巨头力拓表示，澳大利亚最大的铝冶炼厂将在 2033 年之前完全依靠可再生能源运行，此前该公司与联邦和新南威尔士州政府达成了 25 亿澳元的补贴协议，以防止可能的关闭。周四，安东尼·阿尔巴尼斯 (Anthony Albanese) 和新南威尔士州州长克里斯·明斯 (Chris Minns) 在纽卡斯尔附近的 Tomago 冶炼厂宣布了这项协议，该协议旨在提供低于市场水平 10 年的电力供应保证，该保证自该工厂与 AGL 现有的以煤炭为主的电力合同于 2028 年 12 月结束后开始。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-13-australia-student-rally-a",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/13/australia-student-rally-anti-hanson-protests-sydney-brisbane-melbourne-ntwnfb",
+          "image": "https://i.guim.co.uk/img/media/99e3db605b667ca90c276986277717e999696b27/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee5f0a6199876a553c6756879e43b430",
+          "publishedAt": "2026-08-13T04:52:25.000Z",
+          "title": {
+            "en": "Students shun calls to stay in school as anti-Hanson protesters gather across Australia",
+            "zh": "反汉森抗议者在澳大利亚各地聚集，学生们拒绝留在学校的呼吁"
+          },
+          "summary": {
+            "en": "High schoolers join university walkouts in major cities and several smaller locations amid urge to ‘stand up against the far right’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Calls for striking students to...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "High schoolers join university walkouts in major cities and several smaller locations amid urge to ‘stand up against the far right’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Calls for striking students to stay in school are unlikely to deter thousands across the country preparing to take part in a major walkout in protest against Pauline Hanson. High schoolers have begun joining the coordinated university union protests taking place in every major city and several smaller locations across the country on Thursday afternoon. Continue reading...",
+            "zh": "高中生在主要城市和几个较小地点参加大学罢工，渴望“站起来反对极右翼”关注我们的澳大利亚新闻直播博客以获取最新动态获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客呼吁罢工学生留在学校不太可能阻止全国各地成千上万准备参加大规模罢工以抗议宝琳·汉森的活动。高中生已开始参加周四下午在全国各大城市和几个较小地点举行的协调一致的大学工会抗议活动。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-13-andrew-bragg-lower-income",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/13/andrew-bragg-lower-income-earners-should-accept-substandard-housing-migration-liberal",
+          "image": "https://i.guim.co.uk/img/media/66f79362b804e2ae838b16ba89412523a643080b/590_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9116452f75bae0a57d571028ad6af7c4",
+          "publishedAt": "2026-08-13T04:43:13.000Z",
+          "title": {
+            "en": "Bragg says lower-income earners should accept substandard housing as colleagues rebuke his migration target",
+            "zh": "布拉格表示，低收入者应该接受不合格的住房，因为同事们斥责他的移民目标"
+          },
+          "summary": {
+            "en": "Angus Taylor publicly cautions NSW senator for diverging from opposition policy in National Press Club speech as Nationals warn against any changes to working holiday visas Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news...",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Telco board cuts senior executive bonuses by total $1.3m after tech fail that affected millions Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Telstra has paid its chief executive, Vicki Brady, $6.8m for the year ending in June, after docking 20% of her bonus in response to the network’s nationwide outage in July. The company reported financial results on Thursday. Its board met on Monday and decided to cut Brady’s bonus by $607,000 – but she still took home a $700,000 pay rise as she was awarded a total of $6.1m the year before. Continue reading...",
-            "zh": "因技术故障影响了数百万人，电信公司董事会将高级管理人员奖金削减了 130 万美元 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 Telstra 已向其首席执行官 Vicki Brady 在截至 6 月的年度支付了 680 万美元，此前该公司因 7 月份全国范围内的网络中断而削减了 20% 的奖金。该公司周四公布了财务业绩。董事会于周一召开会议，决定将 Brady 的奖金削减 607,000 美元，但她仍获得 700,000 美元的加薪，因为她前一年总共获得了 610 万美元的奖金。继续阅读..."
+            "en": "Angus Taylor publicly cautions NSW senator for diverging from opposition policy in National Press Club speech as Nationals warn against any changes to working holiday visas Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Andrew Bragg has agreed that lower-income Australians should accept poorly built housing in a bid to boost the number of dwellings built nationally, amid growing internal fallout continues over his proposal to cap net migration to modern historic lows . The opposition leader, Angus Taylor, and several of Bragg’s colleagues publicly cautioned the NSW Liberal moderate for going off script in his speech on Wednesday as the Nationals warned against any changes to working holiday visas. Continue reading...",
+            "zh": "安格斯·泰勒在国家新闻俱乐部的演讲中公开警告新南威尔士州参议员，不要在国家新闻俱乐部的演讲中背离反对派政策，因为国家党警告不要对打工度假签证做出任何改变。 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 安德鲁·布拉格（Andrew Bragg）同意，低收入澳大利亚人应该接受质量较差的住房，以增加全国范围内建造的住宅数量，而他关于将净移民限制在现代历史低点的提议的内部影响仍在不断增加。反对党领袖安格斯·泰勒和布拉格的几位同事公开警告新南威尔士州自由党温和派在周三的演讲中不符合剧本，而国民党则警告不要对打工度假签证进行任何改变。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
@@ -1183,35 +1315,68 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-aug-13-icac-corruption-inquiry-o",
+          "id": "www-sbs-com-au-news-article-one-nation-migration-policy-130000-net-migra",
           "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/97c7657748f408b1a3ea905e830f9ea2abadde0a/475_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd4e3933e228055be9f974f8419915ee",
-          "publishedAt": "2026-08-13T02:08:57.000Z",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/one-nation-migration-policy-130000-net-migration/zm6jbf83d",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-one-nation-migration-policy-130000-net-migra.jpg",
+          "publishedAt": "2026-08-13T04:42:32.000Z",
           "title": {
-            "en": "Reformers were ‘spectacularly unsuccessful’ in taking over NSW Liberals, Catholic schools boss says",
-            "zh": "天主教学校老板表示，改革者在接管新南威尔士州自由党方面“非常不成功”"
+            "en": "130,000 people: One Nation clarifies plan for major migration cut",
+            "zh": "13万人：一国党澄清大规模移民削减计划"
           },
           "summary": {
-            "en": "Catholic Schools NSW chief executive Dallas McInerney tells Icac corruption inquiry that Christain factional group driven by ‘a calling … a duty’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A factional ally...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及盼望、忍耐与重建。如需完整细节，请阅读英文原始报道。"
+            "en": "A key detail behind One Nation's headline migration pledge has now come into focus.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Catholic Schools NSW chief executive Dallas McInerney tells Icac corruption inquiry that Christain factional group driven by ‘a calling … a duty’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A factional ally of the federal opposition leader, Angus Taylor, has told a corruption inquiry that a group of Christian Liberal power brokers who allegedly solicited illegal political donations were “spectacularly unsuccessful in their ambitions”. The Catholic Schools NSW chief executive, Dallas McInerney, told the Independent Commission Against Corruption on Thursday that the Reformers’ model was never correct. Continue reading...",
-            "zh": "新南威尔士州天主教学校首席执行官达拉斯·麦金纳尼 (Dallas McInerney) 告诉廉政公署腐败调查，基督教派系是由“召唤……责任”驱动的 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 联邦反对党领袖安格斯·泰勒 (Angus Taylor) 的一个派系盟友在腐败调查中表示，一群据称索取非法政治捐款的基督教自由党权力掮客“其野心极其不成功”。新南威尔士州天主教学校首席执行官达拉斯·麦金纳尼周四告诉反腐败独立委员会，改革者的模式从来都不正确。继续阅读..."
+            "en": "One Nation has confirmed its plan to significantly limit migration to Australia to 130,000 people a year will be based on the net overseas migration forecast.\n\nAustralia's migration level has become one of the most combustible debates in federal politics, as the nation faces a housing shortage and pressure on services, particularly in suburban areas.\n\nMigration experts have warned of the dangers of political parties attempting to blame migrants for a lack of homes , arguing that migrant workforces will be essential to building the required housing stock .\n\nThe net overseas migration measure is forecast by projecting how many people will enter and depart the country; it includes returning Australians.\n\nThis measure includes visitor and tourist options, family and partner visas, working holidaymakers, skilled migration, plus refugee and humanitarian programs.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nUnder Labor, net overseas migration reached a record high of 556,000 in 2023, following the COVID-19 pandemic.\n\nBut Labor has moved to tighten restrictions, projecting net overseas migration to fall to 225,000 people by the 2027-2028 financial year.\n\nThe government is preparing to unveil a plan to wind back migration settings to ensure the net overseas migration forecast is met.\n\nHome Affairs Minister Tony Burke was set to unveil that plan at the National Press Club last week &#x2014; but it was put on hold after cabinet jitters about the political implications of cuts to certain programs.\n\nAccording to its website, One Nation's policy is \"capping visas at 130,000 per year to ease pressure on housing, wages, and infrastructure\".\n\nA One Nation spokesperson has confirmed to SBS World News that the cap of 130,000 will be on net overseas migration.\n\nThat is a dramatic reduction from the current numbers, which the government maintains would affect a range of visa categories and impede productivity nationwide.\n\nBut One Nation leader Pauline Hanson maintains the government has been too reliant on migration to keep the economy going.\n\nMeanwhile, Nationals and senior Liberals have distanced themselves from a figure the Opposition's housing minister suggested cutting immigration to.\n\nAndrew Bragg used a National Press Club speech on Wednesday to argue for a Coalition policy of capping net overseas migration at 180,000.\n\nBut Nationals leader Matt Canavan has already cautioned against any moves that would reduce the workforce in regional areas.\n\nOn Thursday, Opposition leader Angus Taylor said Bragg was expressing personal views and didn't run the speech by him before he delivered it.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "One Nation 已确认，其计划将根据海外净移民预测，大幅限制每年向澳大利亚移民 13 万人。 澳大利亚的移民水平已成为联邦政治中最激烈的争论之一，因为该国面临住房短缺和服务压力，特别是在郊区。 移民专家警告说，政党试图将缺乏住房归咎于移民的危险，认为移民劳动力对于建造所需的住房至关重要。 通过预测将有多少人进入和离开该国来预测净海外移民措施；其中包括回国的澳大利亚人。 该措施包括游客和游客选择、家庭和伴侣签证、工作度假者、技术移民以及难民和人道主义计划。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 在工党领导下，2023 年新冠肺炎 (COVID-19) 大流行之后，海外净移民人数达到创纪录的 556,000 人。 但工党已采取收紧限制措施，预计到 2027-2028 财年海外净移民人数将降至 225,000 人。 政府正准备公布一项缩减移民设置的计划，以确保实现净海外移民预测。 内政部长托尼·伯克原定于上周在国家新闻俱乐部公布该计划，但由于内阁对削减某些项目的政治影响感到不安，该计划被搁置。 根据其网站，一国党的政策是“每年将签证数量限制在 13 万个，以缓解住房、工资和基础设施方面的压力”。 一国党发言人向 SBS World News 证实，净海外移民人数上限为 13 万。 这比目前的数字大幅减少，政府认为这将影响一系列签证类别并阻碍全国的生产力。 但一国党领导人保琳·汉森坚称，政府过于依赖移民来维持经济发展。 与此同时，国家党和高级自由党人士与反对党住房部长建议的削减移民的数字保持了距离。 安德鲁·布拉格 (Andrew Bragg) 周三在全国新闻俱乐部发表演讲，主张联盟党将海外净移民人数限制在 18 万的政策。 但国家党领袖马特·卡纳万(Matt Canavan)已经警告不要采取任何会减少偏远地区劳动力的举措。 周四，反对党领袖安格斯·泰勒表示，布拉格只是表达个人观点，并没有在他发表演讲之前进行演讲。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
           },
           "reflection": {
-            "en": "This story draws attention to hope, endurance, and faithful rebuilding. Romans 12:12 reminds us to meet sharp headlines with steady hope and perseverance, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到盼望、忍耐与重建。Romans 12:12提醒我们，在快速变化的新闻里，仍要以坚定盼望与忍耐来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Romans 5:3-4",
-            "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
-            "textZh": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
-            "themeEn": "Suffering produces hope",
-            "themeZh": "患难中的盼望"
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-next-total-solar-eclipse-australia-2028-vict",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/next-total-solar-eclipse-australia-2028/victu0f39",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-next-total-solar-eclipse-australia-2028-vict.jpg",
+          "publishedAt": "2026-08-13T04:41:54.000Z",
+          "title": {
+            "en": "Australia's next total solar eclipse is coming. Here's when and where to see it",
+            "zh": "澳大利亚的下一次日全食即将到来。以下是观看时间和地点"
+          },
+          "summary": {
+            "en": "Australia's next total solar eclipse will deliver a rare spectacle across parts of the country.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "As millions turned out to see the total solar eclipse over Europe, some Australians may be wondering when it will be our turn to enjoy such a spectacle.\n\nIf you're among them, there's some good news: Australia's next total solar eclipse is on the horizon, and it will bring a rare celestial spectacle to parts of the country.\n\nA total solar eclipse is when the moon's orbit passes between the Earth and the sun. For a few moments, the three planetary bodies align. The moon almost perfectly blocks the sun from view, plunging the planet below into a brief darkness.\n\nThat's quite different to the partial solar eclipse. In a partial solar eclipse, the orbits of the Earth, moon, and sun align, but the moon only obscures part of the sun.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIt's rare for total solar eclipses to happen anywhere. It's rarer still for them to happen in Australia. There have been just five total solar eclipses visible from Australia in the last 50 years &#x2014; two close together in 1974 and 1976, then long gaps between eclipses in 2002, 2013 and 2023.\n\nEven then, the word \"visible\" has done some heavy lifting. Most total eclipses only graze the Australian continent, passing over a northern or southern tip. The 2023 total eclipse, for instance, passed just off the North West Cape region of Western Australia and then transited northeast over Indonesia and Papua New Guinea.\n\nThe 2028 total solar eclipse, also referred to as the Great Australasian Eclipse in some quarters, will start on Saturday 22 July 2028. As the name suggests, the moon will completely obscure the sun for those on the ground.\n\nIt will pass south-west across the Australian continent from the Kimberley in northern Western Australia. The eclipse path will then move across the Northern Territory, south-western Queensland and rural NSW, and finally arrive directly over Sydney.\n\nFor those in the Kimberley, the total eclipse will begin at around 11am AWST. In Sydney, the total eclipse will start at 2pm AEST. It will last for around four minutes as the moon passes in front of the sun.\n\nTo put the rarity of an eclipse path of this kind into context, 2028 will be the first time Sydney has experienced a total solar eclipse since 1857. According to NASA, it won't happen again for another 800 years &#x2014; 3 June 2858.\n\nWhen the 2028 eclipse passes over Dunedin in New Zealand later that afternoon, it will be the first to do so since 1163.\n\nBut what about Australian cities other than Sydney? Will you be able to see the eclipse?\n\nViewers in Melbourne, Brisbane, Adelaide, Perth, Darwin, Hobart, and Canberra will all be able to see the partial eclipse. The moon will block part of the sun, but...",
+            "zh": "随着数百万人前来观看欧洲上空的日全食，一些澳大利亚人可能想知道什么时候才能轮到我们欣赏这样的奇观。 如果您是其中之一，这里有一些好消息：澳大利亚的下一次日全食即将到来，它将给该国部分地区带来罕见的天文奇观。 日全食是当月球的轨道经过地球和太阳之间时发生的。有一会儿，三个行星体对齐。月亮几乎完全挡住了太阳，让下面的星球陷入短暂的黑暗。 这与日偏食有很大不同。在日偏食中，地球、月球和太阳的轨道对齐，但月球仅遮挡了部分太阳。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 日全食在任何地方都很少发生。这种情况在澳大利亚发生更为罕见。过去 50 年里，澳大利亚只发生过 5 次日全食——两次间隔很近，发生在 1974 年和 1976 年，而日全食间隔很长，发生在 2002 年、2013 年和 2023 年。 即便如此，“可见”这个词还是起到了一些重要作用。大多数日全食只掠过澳大利亚大陆，掠过北端或南端。例如，2023 年的日全食刚刚经过西澳大利亚西北角地区，然后向东北方向经过印度尼西亚和巴布亚新几内亚。 2028 年日全食（在某些方面也称为大澳大拉西亚日食）将于 2028 年 7 月 22 日星期六开始。顾名思义，对于地面上的人来说，月亮将完全遮住太阳。 它将从西澳大利亚北部的金伯利向西南穿过澳大利亚大陆。然后，日食路径将穿过北领地、昆士兰州西南部和新南威尔士州农村，最后直接到达悉尼上空。 对于金伯利地区的人们来说，日全食将于 AWST 上午 11 点左右开始。在悉尼，日全食将于澳大利亚东部标准时间下午 2 点开始。当月亮从太阳前面经过时，它将持续大约四分钟。 考虑到这种日食路径的罕见性，2028 年将是悉尼自 1857 年以来首次经历日全食。根据 NASA 的数据，这种情况在接下来的 800 年（即 2858 年 6 月 3 日）内不会再次发生。 当天下午晚些时候，当 2028 年的日食经过新西兰但尼丁时，这将是自 1163 年以来的第一次日食。 那么除了悉尼以外的澳大利亚城市呢？你能看到日食吗？ 墨尔本、布里斯班、阿德莱德、珀斯、达尔文、霍巴特和堪培拉的观众都可以看到日偏食。月亮会挡住部分太阳，但是……"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -1233,7 +1398,7 @@
           },
           "body": {
             "en": "The Coalition's plan to boost housing stock will involve \"trade-offs\", a Liberal frontbencher has said, after suggesting low-income households should accept living in substandard homes.\n\nOpposition housing and homelessness spokesperson Andrew Bragg announced on Wednesday that the Opposition would reduce the national housing code from 2,000 pages to 80 if elected.\n\nWhen asked by ABC Radio National on Thursday morning whether his policy means low-income earners should just accept living in substandard housing, he replied: \"Yes, definitely.\"\n\nHe went on to say that building more homes under a streamlined code would come with \"trade-offs\".\n\n\"It's more important to have a house than to not have a house. And so, given the affordability crisis we have in the housing system, we need to just build more houses,\" he told the ABC.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nBragg's comments follow remarks made by his Liberal colleague and treasury spokesman Tim Wilson, who suggested in some cases people could put \"a jumper on in winter rather than spending huge amounts of money\" on improving housing quality.\n\nHe told ABC RN on Wednesday there should not be a one-size-fits-all policy &#x2014; such as mandated energy efficiency &#x2014; for construction.\n\n\"There are some places in the country where you will get cold spells or hot spells for a very small amount of the year, whereas for the rest of the year, it's not necessary,\" he said.\n\n\"We have a risk that Australians can't afford to rent or to buy their own home by the government's own budget design. We need housing stock that meets different needs in different environmental conditions. Queensland is not the same as Tasmania or Victoria. Western Australia is different again.\"\n\nAffordable housing advocates told SBS News that stripping back construction regulations is a way for developers to profit from \"unliveable\" homes.\n\n\"Too many renters are already living in homes that are freezing in winter, stifling in summer, riddled with mould and damp, and expensive to heat and cool,\" Everybody's Home spokesperson Maiy Azize said in a statement.\n\n\"Older people and people with disability already struggle to find homes they can safely and comfortably live in.\"\n\nAzize added that the government should focus on social housing that is \"built to last\".\n\n\"We have a housing crisis because people cannot afford a home. Building more poor-quality homes does nothing to fix that crisis. It simply gives developers another way to profit from it,\" Azize said.\n\nAustralian Council of Social Services CEO Dr Cassandra Goldie agreed, adding that construction of social housing should \"drastically scale up\".\n\n\"The changes to the building code proposed...",
-            "zh": "一位自由党前座议员在建议低收入家庭应该接受居住在不合格的房屋中后表示，联盟党增加住房存量的计划将涉及“权衡”。 反对党住房和无家可归问题发言人安德鲁·布拉格 (Andrew Bragg) 周三宣布，如果反对党当选，将把国家住房法规从 2,000 页减少到 80 页。 周四上午，当美国广播公司国家广播电台询问他的政策是否意味着低收入者应该接受居住在不合格的住房中时，他回答说：“是的，当然。” 他接着说，根据简化的规范建造更多房屋将需要“权衡”。 “有房子比没有房子更重要。因此，考虑到住房系统中的负担能力危机，我们需要建造更多的房子，”他告诉澳大利亚广播公司。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 布拉格发表此番言论之前，他的自由党同事兼财政部发言人蒂姆·威尔逊(Tim Wilson)也发表了言论，后者建议，在某些情况下，人们可以“在冬天穿上毛衣，而不是花大量的钱”来改善住房质量。 他周三告诉美国广播公司 RN，不应该对建筑业制定一刀切的政策，例如强制提高能源效率。 他说：“在这个国家的一些地方，一年中只有一小部分时间会出现寒流或热流，而在一年中的其余时间里，则没有必要。” “我们面临的风险是，根据政府自己的预算设计，澳大利亚人无力租房或购买自己的房屋。我们需要能够满足不同环境条件下不同需求的住房存量。昆士兰州与塔斯马尼亚州或维多利亚州不一样。西澳大利亚州又不同了。” 经济适用房倡导者告诉 SBS 新闻，取消建筑法规是开发商从“不适宜居住”的房屋中获利的一种方式。 “太多的租房者已经住在冬天寒冷、夏天令人窒息、霉菌和潮湿、取暖和制冷费用昂贵的房屋中，”每个人之家发言人梅伊·阿齐兹在一份声明中说。 “老年人和残疾人已经很难找到可以安全舒适居住的房屋。” 阿齐兹补充说，政府应重点关注“经久耐用”的社会住房。 阿齐兹说：“我们面临住房危机，因为人们买不起房。建造更多劣质住房并不能解决这场危机。它只是为开发商提供了另一种从中获利的方式。” 澳大利亚社会服务委员会首席执行官卡桑德拉·戈尔迪博士对此表示同意，并补充说社会住房的建设应该“大幅扩大”。 “提议对建筑规范进行修改......"
+            "zh": "一位自由党前座议员在建议低收入家庭应该接受居住在不合格的房屋中后表示，联盟党增加住房存量的计划将涉及“权衡”。 反对党住房和无家可归问题发言人安德鲁·布拉格 (Andrew Bragg) 周三宣布，如果反对党当选，将把国家住房法规从 2,000 页减少到 80 页。 周四上午，当美国广播公司国家广播电台询问他的政策是否意味着低收入者应该接受居住在不合格的住房中时，他回答说：“是的，当然。” 他接着表示，根据简化的法规建造更多房屋将需要“权衡”。 “有房子比没有房子更重要。因此，考虑到住房系统中的负担能力危机，我们需要建造更多的房子，”他告诉澳大利亚广播公司。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 布拉格发表此番言论之前，他的自由党同事兼财政部发言人蒂姆·威尔逊(Tim Wilson)也发表了言论，后者建议，在某些情况下，人们可以“在冬天穿上毛衣，而不是花大量的钱”来改善住房质量。 他周三告诉美国广播公司 RN，不应该对建筑业制定一刀切的政策，例如强制提高能源效率。 他说：“在这个国家的一些地方，一年中只有一小部分时间会出现寒流或热流，而在一年中的其余时间里，则没有必要。” “我们面临的风险是，根据政府自己的预算设计，澳大利亚人无力租房或购买自己的房屋。我们需要能够满足不同环境条件下不同需求的住房存量。昆士兰州与塔斯马尼亚州或维多利亚州不一样。西澳大利亚州又不同了。” 经济适用房倡导者告诉 SBS 新闻，取消建筑法规是开发商从“不适宜居住”的房屋中获利的一种方式。 “太多的租房者已经住在冬天寒冷、夏天令人窒息、霉菌和潮湿、取暖和制冷费用昂贵的房屋中，”每个人之家发言人梅伊·阿齐兹在一份声明中说。 “老年人和残疾人已经很难找到可以安全舒适居住的房屋。” 阿齐兹补充说，政府应重点关注“经久耐用”的社会住房。 阿齐兹说：“我们面临住房危机，因为人们买不起房。建造更多劣质住房并不能解决这场危机。它只是为开发商提供了另一种从中获利的方式。” 澳大利亚社会服务委员会首席执行官卡桑德拉·戈尔迪博士对此表示同意，并补充说社会住房的建设应该“大幅扩大”。 “提议对建筑规范进行修改......"
           },
           "reflection": {
             "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
@@ -1245,39 +1410,6 @@
             "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
             "themeEn": "Christ in the least",
             "themeZh": "基督在至微者中"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-aug-13-david-mcbride-released-ja",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/13/david-mcbride-released-jail-prison-parole",
-          "image": "https://i.guim.co.uk/img/media/edac2151ac9b6647828642b8e2874ee405bd3d8f/507_317_2705_2164/master/2705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef1b75a439f1a5d8f244b2faa55e0646",
-          "publishedAt": "2026-08-13T01:08:05.000Z",
-          "title": {
-            "en": "David McBride leaves prison on parole after being jailed for leaking Afghanistan war documents",
-            "zh": "大卫·麦克布莱德因泄露阿富汗战争文件而入狱后假释出狱"
-          },
-          "summary": {
-            "en": "Attorney general grants former army lawyer’s release after 27 months in jail Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast David McBride, the former army lawyer jailed for his role in stealing secret defence...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Attorney general grants former army lawyer’s release after 27 months in jail Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast David McBride, the former army lawyer jailed for his role in stealing secret defence documents about the Afghanistan war and leaking them to the media, has been released from prison in Canberra on Thursday. McBride was sentenced to a maximum five years and eight months in jail in May 2024, but is being released on parole after serving his full non-parole period of 27 months. Continue reading...",
-            "zh": "总检察长批准前军队律师在入狱 27 个月后获释 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 因窃取有关阿富汗战争的秘密国防文件并将其泄露给媒体而入狱的前军队律师戴维·麦克布莱德 (David McBride) 已于周四从堪培拉的监狱释放。麦克布莱德于 2024 年 5 月被判处最高五年零八个月的监禁，但在服满 27 个月的非假释期后，将获得假释。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -1323,16 +1455,16 @@
           "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-david-mcbride-to-be-released-from-prison-znd.jpg",
           "publishedAt": "2026-08-13T00:15:43.000Z",
           "title": {
-            "en": "Whistleblower David McBride released from prison after successful parole bid",
-            "zh": "举报人大卫·麦克布莱德假释成功后出狱"
+            "en": "'Beautiful day': Whistleblower David McBride released from prison after successful parole bid",
+            "zh": "“美好的一天”：举报人大卫·麦克布莱德假释成功后出狱"
           },
           "summary": {
             "en": "The former Australian Army lawyer was sentenced to a maximum of five years and eight months in jail in May 2024.",
             "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Whistleblower David McBride has been released from a Canberra prison after more than two years behind bars following a successful parole bid.\n\nHis parole was considered and granted on Thursday morning, a spokesperson for Attorney-General Michelle Rowland said.\n\n\"The government does not provide specific commentary or details about individual parole matters,\" the spokesperson said.\n\nThe former army lawyer was sentenced to a maximum of five years and eight months in jail in May 2024 after he helped steal secret defence documents about the Afghanistan war. He then leaked them to the press.\n\nMcBride served his full non-parole period of 27 months and was granted release on the same morning he became eligible.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nHe left the Alexander Maconochie Centre in Canberra early on Thursday morning and is expected to spend private time with his family.\n\nMcBride had been \"brave\" in blowing the whistle on war crimes, Whistleblower Justice Fund founder and former senator Rex Patrick said.\n\n\"It's so good to see the end of an awful saga that should never have happened. I salute David, who walks away from prison with his head held high,\" he said.\n\nMcBride aimed to expose an intense investigation into Australian soldiers in Afghanistan, but it was revealed soon after that soldiers had been involved in illegal killings while on the front lines.\n\nThe ACT Supreme Court upheld a Commonwealth intervention to withhold evidence that the government argued had the potential to jeopardise Australia's security.\n\nMcBride will be allowed to serve the last three years of his sentence in the community under supervision and strict conditions.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "举报人大卫·麦克布莱德在成功假释后已被关押两年多，现已从堪培拉监狱释放。 司法部长米歇尔·罗兰的发言人表示，他的假释已于周四上午得到考虑并获得批准。 “政府没有提供有关个人假释事宜的具体评论或细节，”发言人说。 这位前军队律师因帮助窃取有关阿富汗战争的秘密国防文件而于 2024 年 5 月被判处最高五年零八个月的监禁。然后他将这些内容泄露给了媒体。 麦克布莱德已服满 27 个月的非假释期，并在符合资格的同一天早上获准假释。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 他于周四清晨离开堪培拉的亚历山大麦科诺奇中心，预计将与家人共度私人时光。 举报人正义基金创始人、前参议员雷克斯·帕特里克表示，麦克布莱德“勇敢”地举报了战争罪行。 “很高兴看到一个不应该发生的可怕传奇故事的结局。我向大卫致敬，他昂首挺胸地走出监狱，”他说。 麦克布莱德的目的是揭露对驻阿富汗澳大利亚士兵的深入调查，但不久之后就发现士兵在前线参与了非法杀戮。 澳大利亚首都地区最高法院支持联邦干预，扣留政府认为可能危及澳大利亚安全的证据。 麦克布莱德将被允许在监督和严格的条件下在社区服刑最后三年。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+            "en": "Whistleblower David McBride has avoided political questions on the day of his release from prison, instead making a quick getaway to see his beloved dog.\n\nThe 62-year-old was released after more than two years behind bars following a successful parole bid.\n\n\"I'm very happy to be out. It's a beautiful day to be free,\" he said, speaking to media from a car on his way out of Canberra's Alexander Maconochie Centre on Thursday.\n\nThe former army lawyer was sentenced to a maximum of five years and eight months in jail in May 2024 after he helped steal secret defence documents about the Afghanistan war. He then leaked them to the media.\n\nHis parole was considered and granted on Thursday morning, a spokesperson for Attorney-General Michelle Rowland said.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"The government does not provide specific commentary or details about individual parole matters,\" the spokesperson said.\n\nThe former army lawyer was sentenced to a maximum of five years and eight months in jail in May 2024 after he helped steal secret defence documents about the Afghanistan war. He then leaked them to the press.\n\nMcBride served his full non-parole period of 27 months and was granted release on the same morning he became eligible.\n\nMcBride had been \"brave\" in blowing the whistle on war crimes, Whistleblower Justice Fund founder and former senator Rex Patrick said.\n\n\"It's so good to see the end of an awful saga that should never have happened. I salute David, who walks away from prison with his head held high,\" he said.\n\nMcBride had aimed to expose excessive investigation of Australian soldiers in Afghanistan, but it was revealed soon after that defence personnel had been involved in illegal killings while on the front lines. He pleaded guilty to three charges, including theft.\n\n\"I'm looking forward to seeing my dog and my daughters ... hopefully my dog will remember who I am,\" he said upon release.\n\nHe declined to answer questions about Australia's whistleblower laws, saying he wanted to be fair to Rowland, who had just approved his parole.\n\nMcBride will be allowed to serve the last three years of his sentence in the community under supervision and strict conditions.\n\nThe news was celebrated by Greens senator David Shoebridge, who said McBride should have walked free long ago.\n\n\"My friend David McBride has paid a terrible price for saying the truth. It's a price no whistleblower should ever be made to pay again,\" Shoebridge said in a statement.\n\nAn ACT government spokesperson said the territory's corrective services would continue to perform its statutory functions, which included monitoring McBride when he was in community.\n\nThe father of two also...",
+            "zh": "举报人大卫·麦克布莱德在出狱当天回避了政治问题，而是迅速离开监狱去看望他心爱的狗。 这位 62 岁的男子在入狱两年多后，假释成功，获释。 “我很高兴能出去。这是自由的美好一天，”周四，他在离开堪培拉亚历山大麦科诺奇中心的车上对媒体说。 这位前军队律师因帮助窃取有关阿富汗战争的秘密国防文件而于 2024 年 5 月被判处最高五年零八个月的监禁。然后他将这些内容泄露给媒体。 司法部长米歇尔·罗兰的发言人表示，他的假释已于周四上午得到考虑并获得批准。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “政府没有提供有关个人假释事宜的具体评论或细节，”发言人说。 这位前军队律师因帮助窃取有关阿富汗战争的秘密国防文件而于 2024 年 5 月被判处最高五年零八个月的监禁。然后他将这些内容泄露给了媒体。 麦克布莱德已服满 27 个月的非假释期，并在符合资格的同一天早上获准假释。 举报人正义基金创始人、前参议员雷克斯·帕特里克表示，麦克布莱德“勇敢”地举报了战争罪行。 “很高兴看到一个不应该发生的可怕传奇故事的结局。我向大卫致敬，他昂首挺胸地走出监狱，”他说。 麦克布莱德的目的是揭露对驻阿富汗澳大利亚士兵的过度调查，但不久之后就被揭露，国防人员在前线参与了非法杀戮。他承认了三项指控，包括盗窃。 “我期待着见到我的狗和我的女儿们……希望我的狗能记住我是谁，”他在获释后说道。 他拒绝回答有关澳大利亚举报人法的问题，称他想对刚刚批准假释的罗兰公平。 麦克布莱德将被允许在监督和严格的条件下在社区服刑最后三年。 绿党参议员戴维·舒布里奇(David Shoebridge)庆祝了这一消息，他表示麦克布莱德早就应该自由了。 舒布里奇在一份声明中表示：“我的朋友大卫·麦克布莱德因为说出真相而付出了惨重的代价。这是任何举报人都不应该再付出的代价。” 首都领地政府发言人表示，该地区的惩教机构将继续履行其法定职能，其中包括在麦克布莱德在社区时对其进行监控。 两个孩子的父亲也..."
           },
           "reflection": {
             "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
@@ -1348,35 +1480,35 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-australia-news-2026-aug-13-pay-with-a-glance-at-a-sc",
+          "id": "www-theguardian-com-australia-news-2026-aug-13-property-investors-austra",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/13/pay-with-a-glance-at-a-screen-as-biometric-technology-company-begins-push-into-australian-retail",
-          "image": "https://i.guim.co.uk/img/media/3d2fa781513d48de0e0d879e40142e45565c96b7/767_581_1974_1579/master/1974.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3997d8e141413305a3ec7c61443f86f3",
-          "publishedAt": "2026-08-12T22:30:41.000Z",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/13/property-investors-australia-tax-negative-gearing-rba-interest-rates",
+          "image": "https://i.guim.co.uk/img/media/c2d3ecbeb843c85491f6c0b0596e13bb4e5f165e/677_0_6771_5417/master/6771.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d569a1a5ee6faf36fb415bd7499e348",
+          "publishedAt": "2026-08-12T22:24:28.000Z",
           "title": {
-            "en": "Pay with a glance at a screen as biometric technology company begins push into Australian retail",
-            "zh": "生物识别技术公司开始进军澳大利亚零售业，只需扫一眼屏幕即可付款"
+            "en": "Ignore the doomsdayers – property investing in Australia is far from broken",
+            "zh": "忽略世界末日论者——澳大利亚的房地产投资远未破裂"
           },
           "summary": {
-            "en": "Customers will be able to pay using face and palm scans, potentially speeding up transactions – but rollout of the technology is likely to be slow Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The company...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+            "en": "Investor loan applications may have fallen since the start of the year, but the slump already appears to be turning around Get our breaking news email, free app or daily news podcast Ignore the doomsday warnings about the government’s tax changes – property investing in...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Customers will be able to pay using face and palm scans, potentially speeding up transactions – but rollout of the technology is likely to be slow Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The company behind 300,000 Eftpos terminals across Australia is hoping shoppers will want to make payments by simply glancing at a screen, as biometric technology pushes further into retailing. Verifone is selling the innovation as “pay for your coffee with a smile”, promising faster checkouts for people who opt in to having their face or palm-vein – the veins in people’s hands – biometrics used for Eftpos transactions in Australia. Continue reading...",
-            "zh": "客户将能够使用面部和手掌扫描进行支付，这可能会加快交易速度，但该技术的推出可能会很缓慢 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 随着生物识别技术进一步深入零售业，该公司在澳大利亚拥有 300,000 个 Eftpos 终端，希望购物者只需看一眼屏幕即可付款。 Verifone 将这项创新宣传为“微笑支付咖啡费用”，并承诺为那些选择使用面部或手掌静脉（人们手中的静脉）生物识别技术进行澳大利亚 Eftpos 交易的人们提供更快的结账速度。继续阅读..."
+            "en": "Investor loan applications may have fallen since the start of the year, but the slump already appears to be turning around Get our breaking news email , free app or daily news podcast Ignore the doomsday warnings about the government’s tax changes – property investing in Australia is a little bruised, but it’s far from broken. The country’s biggest mortgage lender, Commonwealth Bank, reported a bumper $11bn full-year cash profit on Wednesday, backed by robust demand for its lending products, especially mortgages. Continue reading...",
+            "zh": "自今年年初以来，投资者贷款申请可能有所下降，但这种颓势似乎已经开始扭转。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 忽略有关政府税收变化的世界末日警告 - 澳大利亚的房地产投资受到了一些打击，但还远未崩溃。该国最大的抵押贷款机构联邦银行 (Commonwealth Bank) 周三报告称，由于对其贷款产品（尤其是抵押贷款）的强劲需求，全年现金利润高达 110 亿美元。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -1431,7 +1563,7 @@
           },
           "body": {
             "en": "As Anthony Albanese's weeks-old comments about melons continue to fuel political drama , the fruit at the centre of the controversy has largely been overlooked.\n\nYet the crown melons gifted to the prime minister by Japanese Prime Minister Sanae Takaichi are no ordinary fruit.\n\nDuring an appearance on Nikki Osborne's Deep Bush podcast last month, Albanese described the melons as a \"pretty strange\" gift before praising their quality.\n\nHand gestures he made while discussing the fruit have since drawn criticism, an interpretation his office has rejected.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nWaka Ikeda, writing in the Japan Times, describes a crown melon as \"perfection, based on the Japanese artisan spirit of takumi\" &#x2014; something you bring when you wish to honour someone. Her op-ed highlighting Albanese's comments on the podcast kickstarted the furore that has spilled over onto the international stage\n\nGwyn McClelland, senior lecturer in Japanese studies and president of the Japanese Studies Association of Australia, told SBS News that he shared the Japan Times story with his students to express how \"incensed\" he was by the prime minister's gesture.\n\n\"I was just really annoyed that he didn't realise the giving of fruit could be really lovely and important,\" he said.\n\n\"In an Australian context, that doesn't look like an amazing gift, necessarily ... [but] I was upset that Albanese hadn't thought about gift-giving culture because it is very central in Japan.\n\nHowever, even for Japanese people, social etiquette around giving and receiving gifts is not straightforward. Eri Dennis, former officer at the Australian embassy in Tokyo and current cultural consultant at manufacturing consultancy Shinka Management, told SBS News the practice is deeply ingrained and \"definitely an important part of our culture\".\n\n\"Whenever we visit someone, even a family member or your friend, for some significant occasion, or if you haven't met them for some time, it's just a natural part of our culture that we bring along gifts,\" she said. \"It doesn't have to be an expensive gift, but it's a gesture that we care about you.\"\n\nShizuoka Crown Melons are considered by some in Japan as closer to an art form than a fruit. Much like champagne, the \"king of fruit\" can only be produced in the Shizuoka prefecture on the south coast, grown in raised beds, hand-pollinated, and massaged to improve their look and sweetness.\n\nDennis notes that melons &#x2014; grown throughout Japan with varieties tied to each prefecture &#x2014; are associated with wealth and considered a \"very expensive fruit\". Typically, a valuable melon would be presented as a gift with ornate wrapping and placed in a...",
-            "zh": "随着安东尼·阿尔巴内斯（Anthony Albanese）几周前关于甜瓜的评论继续引发政治戏剧，作为争议中心的水果在很大程度上被忽视了。 然而，日本首相高市早苗赠送给首相的皇冠瓜可不是普通的水果。 上个月，在妮基·奥斯本 (Nikki Osborne) 的 Deep Bush 播客上露面时，阿尔巴尼斯 (Albanese) 形容这些甜瓜是一种“相当奇怪”的礼物，然后赞扬了它们的品质。 此后，他在讨论水果时做出的手势招致了批评，但他的办公室拒绝了这种解释。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 Waka Ikeda 在《日本时报》上撰文，将皇冠甜瓜描述为“基于日本工匠精神的完美”——当你想要向某人致敬时，你可以带上它。她的专栏文章强调了阿尔巴尼斯在播客上的评论，引发了波及国际舞台的愤怒 日本研究高级讲师、澳大利亚日本研究协会主席格温·麦克莱兰 (Gwyn McClelland) 告诉 SBS 新闻，他与学生分享了《日本时报》的故事，以表达他对首相的举动感到多么“愤怒”。 “我真的很生气，因为他没有意识到赠送水果是非常可爱和重要的，”他说。 “在澳大利亚的背景下，这看起来不一定是一件了不起的礼物......[但是]我很沮丧阿尔巴尼斯人没有考虑过送礼文化，因为它在日本非常重要。 然而，即使对于日本人来说，赠送和接受礼物的社交礼仪也并不简单。前澳大利亚驻东京大使馆官员、现任制造咨询公司 Shinka Management 的文化顾问埃里·丹尼斯 (Eri Dennis) 告诉 SBS 新闻，这种做法根深蒂固，“绝对是我们文化的重要组成部分”。 她说：“每当我们在某些重要场合拜访某人，甚至是家人或朋友时，或者如果您已经有一段时间没有见到他们了，带礼物是我们文化的自然组成部分。” “这不一定是一件昂贵的礼物，但这表明我们关心你。” 日本一些人认为静冈皇冠瓜更接近于一种艺术形式，而不是一种水果。就像香槟一样，这种“水果之王”只能在南部海岸的静冈县生产，在高高的床上种植，手工授粉，并进行按摩以改善其外观和甜味。 丹尼斯指出，瓜类在日本各地种植，每个县都有不同的品种，与财富联系在一起，被认为是“非常昂贵的水果”。通常，一个有价值的瓜会被作为礼物赠送给华丽的包装，并放置在..."
+            "zh": "随着安东尼·阿尔巴内斯（Anthony Albanese）几周前关于甜瓜的评论继续引发政治戏剧，作为争议中心的水果在很大程度上被忽视了。 然而，日本首相高市早苗赠送给首相的皇冠瓜并不是普通的水果。 上个月，在妮基·奥斯本 (Nikki Osborne) 的 Deep Bush 播客上露面时，阿尔巴尼斯 (Albanese) 形容这些甜瓜是一种“相当奇怪”的礼物，然后赞扬了它们的品质。 此后，他在讨论水果时做出的手势招致了批评，但他的办公室拒绝了这种解释。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 Waka Ikeda 在《日本时报》上撰文，将皇冠甜瓜描述为“基于日本工匠精神的完美”——当你想要向某人致敬时，你可以带上它。她的专栏文章强调了阿尔巴尼斯在播客上的评论，引发了轩然大波，并蔓延到了国际舞台 日本研究高级讲师、澳大利亚日本研究协会主席格温·麦克莱兰 (Gwyn McClelland) 告诉 SBS 新闻，他与学生分享了《日本时报》的故事，以表达他对首相的举动感到多么“愤怒”。 “我真的很生气，因为他没有意识到赠送水果是非常可爱和重要的，”他说。 “在澳大利亚的背景下，这看起来不一定是一件了不起的礼物......[但是]我很沮丧阿尔巴尼斯人没有考虑过送礼文化，因为它在日本非常重要。 然而，即使对于日本人来说，赠送和接受礼物的社交礼仪也并不简单。前澳大利亚驻东京大使馆官员、现任制造咨询公司 Shinka Management 的文化顾问埃里·丹尼斯 (Eri Dennis) 告诉 SBS 新闻，这种做法根深蒂固，“绝对是我们文化的重要组成部分”。 她说：“每当我们在某些重要场合拜访某人，甚至是家人或朋友时，或者如果您已经有一段时间没有见到他们了，带礼物是我们文化的自然组成部分。” “这不一定是一件昂贵的礼物，但这表明我们关心你。” 日本一些人认为静冈皇冠瓜更接近于一种艺术形式，而不是一种水果。就像香槟一样，这种“水果之王”只能在南部海岸的静冈县生产，在高高的床上种植，手工授粉，并进行按摩以改善其外观和甜味。 丹尼斯指出，瓜类在日本各地种植，每个县都有不同的品种，与财富联系在一起，被认为是“非常昂贵的水果”。通常，一个有价值的瓜会被作为礼物赠送给华丽的包装，并放置在..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -1443,39 +1575,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-business-grogonomics-2026-aug-12-isnt-it-amazing-wha",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/business/grogonomics/2026/aug/12/isnt-it-amazing-what-a-policy-that-actually-tackles-the-cause-of-outrageous-house-prices-can-do",
-          "image": "https://i.guim.co.uk/img/media/5d4dfd9405f5779ad4e6153e0c2e4d42646e4d45/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=687b101ad47f8b07a378aead5f155bb1",
-          "publishedAt": "2026-08-12T15:00:35.000Z",
-          "title": {
-            "en": "Isn’t it amazing what a policy that actually tackles the cause of outrageous house prices can do? | Grogonomics",
-            "zh": "真正解决房价过高问题的政策能起到多大作用，这难道不令人惊奇吗？ |农艺经济学"
-          },
-          "summary": {
-            "en": "Labor has shown what a government can do to improve housing affordability, exposing how pathetic previous attempts had been Get our breaking news email, free app or daily news podcast For the first time in 25 years, an Australian government actually did something about housing...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Labor has shown what a government can do to improve housing affordability, exposing how pathetic previous attempts had been Get our breaking news email , free app or daily news podcast For the first time in 25 years, an Australian government actually did something about housing based on the idea that the only way to make houses more affordable is for house prices to fall. They stopped pretending there was another way. For years, politicians liked to talk about how, if incomes rise faster than house prices, housing becomes more “affordable”. Continue reading...",
-            "zh": "工党已经展示了政府可以采取哪些措施来提高住房负担能力，揭露了之前的尝试是多么可悲。 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 25 年来，澳大利亚政府首次在住房问题上采取了实际行动，其理念是让住房更容易负担的唯一方法是房价下跌。他们不再假装还有另一种方法。多年来，政客们喜欢谈论如果收入增长快于房价增长，住房将如何变得更加“负担得起”。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
           },
           "translationState": "fallback"
         },
@@ -1497,7 +1596,7 @@
           },
           "body": {
             "en": "Scientists have warned that Australia's H5N1 outbreak could take a new turn if the virus mixes with local bird flu strains.\n\nCSIRO scientists analysing bird flu virus samples are watching for signs the deadly H5N1 strain has swapped genetic material with influenza viruses already circulating in Australian birds.\n\nThe process could produce new strains capable of infecting a broader range of bird species, though scientists stress this has not yet been detected in Australia and the potential impacts of any new strain cannot be predicted.\n\nThey have also warned the virus could have an \"extinction-level impact\" on some of Australia's most vulnerable species, while acknowledging there are limits to how many wild animals can be protected through vaccination.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nWhen different influenza strains infect the same host, those segments can be exchanged through a process known as reassortment, creating a virus with a new combination of genes.\n\nCSIRO senior research scientist Dr Frank Wong said this process had occurred as H5N1 spread around the world, with the virus picking up genetic material from local bird flu viruses.\n\n\"When a virus goes to a new area and it picks up gene segments from local viruses, it could provide the new genotype or new strain with better host fitness for host species in that new area,\" he said.\n\nThat could mean the virus becomes better suited to infecting new bird species or a broader range of birds.\n\nWong said reassortment could occur in Australia, which is why scientists are continuing to track the virus, but its potential impact would be difficult to predict.\n\nCSIRO's Australian Centre for Disease Preparedness is using whole genome sequencing to monitor the virus and identify changes as more samples are collected.\n\nSequencing team leader Dr Matthew Nieve said scientists were specifically looking for signs the H5N1 virus introduced to Australia, known as genotype B3.2, had \"switched up one of its genes with a local low path Australian virus\".\n\nScientists are also looking for mutations that could indicate changes in the virus which allow it to infect mammals more readily.\n\nSo far, sequencing suggests the virus has entered mainland Australia multiple times, with CSIRO detecting at least six or seven separate introduction events believed to have originated from Heard Island, which is about 4,100km south-west of Perth.\n\nNieve said that figure was likely an underestimate because it only included incursions that had been detected and sampled.\n\nBut the sequencing shows a different pattern among some Australian resident birds.\n\nIn South Australia and Victoria, highly similar genomes from crested terns and...",
-            "zh": "科学家警告说，如果澳大利亚的 H5N1 病毒与当地禽流感毒株混合，澳大利亚的 H5N1 疫情可能会出现新的转变。 CSIRO 的科学家分析禽流感病毒样本，正在观察致命的 H5N1 病毒株与已经在澳大利亚鸟类中传播的流感病毒交换遗传物质的迹象。 这一过程可能会产生能够感染更广泛鸟类的新菌株，但科学家强调，澳大利亚尚未发现这种情况，并且无法预测任何新菌株的潜在影响。 他们还警告说，这种病毒可能会对澳大利亚一些最脆弱的物种产生“灭绝级别的影响”，同时承认通过疫苗接种可以保护的野生动物数量有限。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 当不同的流感毒株感染同一宿主时，这些片段可以通过称为重配的过程进行交换，从而产生具有新基因组合的病毒。 CSIRO 高级研究科学家 Frank Wong 博士表示，这一过程是在 H5N1 病毒在世界各地传播时发生的，该病毒吸收了当地禽流感病毒的遗传物质。 他说：“当病毒进入一个新地区并从当地病毒中获取基因片段时，它可以为该新地区的宿主物种提供具有更好宿主适应性的新基因型或新毒株。” 这可能意味着该病毒变得更适合感染新的鸟类或更广泛的鸟类。 黄说，重组可能会在澳大利亚发生，这就是科学家们继续追踪该病毒的原因，但其潜在影响很难预测。 CSIRO 的澳大利亚疾病预防中心正在使用全基因组测序来监测病毒并随着收集更多样本来识别变化。 测序小组负责人 Matthew Nieve 博士表示，科学家们正在专门寻找引入澳大利亚的 H5N1 病毒（基因型 B3.2）的迹象，该病毒“将其基因之一与澳大利亚当地的低路径病毒进行了交换”。 科学家们还在寻找可能表明病毒发生变化的突变，从而使其更容易感染哺乳动物。 到目前为止，测序表明该病毒已多次进入澳大利亚大陆，CSIRO 检测到至少六到七个独立的传入事件，据信源自赫德岛，该岛位于珀斯西南约 4,100 公里处。 尼夫表示，这个数字可能被低估了，因为它只包括已检测到和采样的入侵。 但测序显示一些澳大利亚留鸟存在不同的模式。 在南澳大利亚和维多利亚州，凤头燕鸥和……的基因组高度相似。"
+            "zh": "科学家警告说，如果澳大利亚的 H5N1 禽流感病毒与当地禽流感毒株混合，该病毒的爆发可能会出现新的转折。 CSIRO 的科学家分析禽流感病毒样本，正在观察致命的 H5N1 病毒株与已经在澳大利亚鸟类中传播的流感病毒交换遗传物质的迹象。 这一过程可能会产生能够感染更广泛鸟类的新菌株，但科学家强调，澳大利亚尚未发现这种情况，并且无法预测任何新菌株的潜在影响。 他们还警告说，这种病毒可能会对澳大利亚一些最脆弱的物种产生“灭绝级别的影响”，同时承认通过疫苗接种可以保护的野生动物数量有限。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 当不同的流感毒株感染同一宿主时，这些片段可以通过称为重配的过程进行交换，从而产生具有新基因组合的病毒。 CSIRO 高级研究科学家 Frank Wong 博士表示，这一过程是在 H5N1 病毒在世界各地传播时发生的，该病毒吸收了当地禽流感病毒的遗传物质。 他说：“当病毒进入一个新地区并从当地病毒中获取基因片段时，它可以为该新地区的宿主物种提供具有更好宿主适应性的新基因型或新毒株。” 这可能意味着该病毒变得更适合感染新的鸟类或更广泛的鸟类。 黄说，重组可能会在澳大利亚发生，这就是科学家们继续追踪该病毒的原因，但其潜在影响很难预测。 CSIRO 的澳大利亚疾病预防中心正在使用全基因组测序来监测病毒并随着收集更多样本来识别变化。 测序小组负责人 Matthew Nieve 博士表示，科学家们正在专门寻找引入澳大利亚的 H5N1 病毒（基因型 B3.2）的迹象，该病毒“将其基因之一与澳大利亚当地的低路径病毒进行了交换”。 科学家们还在寻找可能表明病毒发生变化的突变，从而使其更容易感染哺乳动物。 到目前为止，测序表明该病毒已多次进入澳大利亚大陆，CSIRO 检测到至少六到七个独立的传入事件，据信源自赫德岛，该岛位于珀斯西南约 4,100 公里处。 尼夫表示，这个数字可能被低估了，因为它只包括已检测到和采样的入侵。 但测序结果显示，澳大利亚的一些留鸟存在不同的模式。 在南澳大利亚和维多利亚，凤头燕鸥和……的基因组高度相似。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
