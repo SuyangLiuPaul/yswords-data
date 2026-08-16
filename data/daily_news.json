@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T10:14:09.470Z",
+  "generatedAt": "2026-08-16T11:11:50.345Z",
   "editionDate": "2026-08-16",
   "sources": [
     {
@@ -112,13 +112,47 @@
       ],
       "items": [
         {
+          "id": "www-bbc-co-uk-news-articles-ckg4424zd7go-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d06/live/d689cf40-995d-11f1-9712-2936f8c80214.jpg",
+          "publishedAt": "2026-08-16T10:53:50.000Z",
+          "title": {
+            "en": "Twelve killed as Polish bus veers off Hungarian motorway",
+            "zh": "波兰巴士在匈牙利高速公路翻车，十二人死亡"
+          },
+          "summary": {
+            "en": "A tourist bus overturned on a Hungarian motorway in the early hours of Sunday morning, killing twelve people and seriously injuring dozens more.",
+            "zh": "周日凌晨，一辆旅游巴士在匈牙利高速公路上翻车，造成十二人死亡，另有数十人受重伤。"
+          },
+          "body": {
+            "en": "Twelve people were killed and dozens more injured when a bus carrying Polish pilgrims veered off a Hungarian motorway and into a ditch.\n\nPolice said the bus overturned after coming off the M3 motorway, which connects Hungary's capital Budapest with the north-eastern city of Nyíregyháza, at around 01:00 local time on Sunday (23:00 GMT on Saturday).\n\nOfficers believe the driver fell asleep at the wheel. He has been taken into custody.\n\nThirty-five out of the 57 passengers and two drivers onboard have been rescued by firefighters so far, state media reports.\n\nEmergency services had been attempting to lift the rear axle of the 24-tonne bus to remove the people trapped underneath before cranes arrived to lift the whole vehicle, according to Hungarian news agency MTI.\n\nHungary's ambulance service said it had treated one person with life-threatening injuries, nine people with serious injuries and a further 37 people with minor injuries.\n\nThe country's Prime Minister Péter Magyar offered his \"sincere condolences\" to the families of the victims and wished those injured a speedy recovery.\n\nPolish Prime Minister Donald Tusk echoed his sentiments, adding he had decided to send a \"special\" Polish aircraft with foreign ministry officials and medical services.\n\nThe bus had been returning from Bosnia and Herzegovina, and had been carrying pilgrims from Poland's southernmost region of Podkarpacie, according to Polish news agency PAP.\n\nPoland's Foreign Minister Radosław Sikorski said his Hungarian counterpart had told him police had already begun questioning the bus driver.",
+            "zh": "一辆波兰旅游巴士冲出匈牙利高速公路并驶入沟渠，造成十二人死亡、数十人受伤。 警方表示，这辆巴士于当地时间周日 01:00 左右（格林威治标准时间周六 23:00）驶出连接匈牙利首都布达佩斯和东北部城市尼赖吉哈佐的 M3 高速公路后翻车。 警方认为司机在方向盘上睡着了。他已被拘留。 据官方媒体报道，目前机上 57 名乘客和两名司机中的 35 人已被消防员救出。 据 MTI 通讯社报道，紧急服务部门一直在尝试抬起这辆 24 吨巴士的后轴，以将被困在车底下的人转移出去，然后起重机才到达，将整个车辆吊起。 匈牙利救护车服务部门表示，已救治一名危及生命的伤者、九名重伤者和另外 37 名轻伤者。 该国总理彼得·马扎尔向遇难者家属表示“诚挚的哀悼”，并祝愿伤者早日康复。"
+          },
+          "reflection": {
+            "en": "The sudden loss of life and severe injuries in this tragic accident bring profound sorrow to many. In moments of such deep pain, we hold onto the promise that Yahweh will one day wipe away every tear, and death, mourning, crying, and pain will be no more. This hope reminds us that even in the darkest times, there is a future where suffering is ultimately...",
+            "zh": "这场悲惨事故中生命的骤然逝去和严重的伤势给许多人带来了深切的悲痛。在如此深重的痛苦时刻，我们紧紧抓住雅伟的应许，他将有一天擦去我们所有的眼泪，不再有死亡、悲哀、哭号和疼痛。这个盼望提醒我们，即使在最黑暗的时刻，也有一个最终战胜苦难的未来。"
+          },
+          "verse": {
+            "reference": "Revelation 21:4",
+            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+            "themeEn": "End of suffering",
+            "themeZh": "苦难的终结"
+          },
+          "aiVerseId": "rev_21_4",
+          "translationState": "localized"
+        },
+        {
           "id": "www-bbc-co-uk-news-articles-c1411pgje8xo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
-          "publishedAt": "2026-08-16T10:09:10.000Z",
+          "publishedAt": "2026-08-16T10:52:08.000Z",
           "title": {
             "en": "Five killed as Russia launches fresh aerial attacks across Ukraine",
             "zh": "俄罗斯对乌克兰发动新一轮空袭，造成五人死亡"
@@ -128,7 +162,7 @@
             "zh": "乌克兰总统泽连斯基指责俄罗斯在造成五人死亡的新一轮空袭中，瞄准了民用基础设施，而莫斯科则报告称击中了一个仓库。"
           },
           "body": {
-            "en": "At least five people have been killed and more than 10 injured in Ukraine in the latest wave of Russian strikes, officials have said.\n\nEmergency services are working at sites hit in the capital, Kyiv, including a book market, Ukrainian President Volodymyr Zelensky said, accusing Russia of targeting civilian infrastructure.\n\nMeanwhile, Moscow's mayor said about 600 Ukrainian drones were launched towards the city overnight. A warehouse belonging to Russian online retailer Wildberries was hit.\n\nRussia has intensified aerial attacks across Ukraine in recent weeks, while Kyiv has stepped up its targeting of Russian logistics hubs, with the aim of disrupting military supplies.\n\nAir-raid sirens have sounded four times since Saturday night in Kyiv. At least six people, including a child, were reportedly injured, Mayor Vitali Klitschko said.\n\nThe mayor of Kryvyi Rih said a 44-year-old man earlier reported missing had been found dead in rubble. Another person was killed and 14 workers of a steel plant were wounded there.\n\nTwo people in their 60s were killed when a house was destroyed in Zaporizhzhia, while a person was also killed in Sumy, according to the Ukrainian president.\n\nZelensky said the cities of Kremenchuk and Kryvyi Rih were hit by ballistic missiles, adding: \"Wherever the Russians can reach with their ballistic missiles, they strike civilian infrastructure.\"\n\nRussia said its attacks on Kyiv on Saturday night targeted a FirePoint facility producing parts for Ukrainian Flamingo missiles and a factory making components for drones.\n\nA book market in the city's Pochayna district was damaged in the strikes. Burnt books could be seen lying on the ground, while firefighters continue to douse the flames.\n\nLooking through the rubble, she told the BBC: \"All these books in the street were from my husband's stall in the market - I recognise them on the floor.\"\n\nVinyl store owner Luba, 42, said she has lost 500,000 hryvnias (£8,262) worth of stock.\n\n\"This business was my baby - many of the vinyls destroyed were rare and irreplaceable,\" she told the BBC. \"I want Russia to disappear from this Earth.\"\n\nThe country's defence ministry also said it hit the Kremenchuk oil refinery in Poltava region, which it said supplied fuel to the Ukrainian military.\n\nMoscow said it struck a steelworks in Kryvyi Rih it said had been making weapons components.\n\nRussia also said it hit a dry cargo vessel near Odesa, claiming it had been carrying military equipment.\n\nZelensky said 13 regions had come under attack this week, with Russia launching more than 1,550 attack drones, nearly 1,560 guided aerial bombs and 62 missiles.\n\nIn Russia, air defences intercepted and destroyed 822 Ukrainian drones, according to its defence ministry.\n\nThree people were injured in an overnight Ukrainian...",
+            "en": "At least five people have been killed and more than 10 injured in Ukraine in the latest wave of Russian strikes, officials have said.\n\nThe attacks caused fires across the capital, Kyiv, including at a book market, Ukrainian President Volodymyr Zelensky said, accusing Russia of targeting civilian infrastructure.\n\nMeanwhile, Moscow's mayor said about 600 Ukrainian drones were launched towards the city overnight. A warehouse belonging to Russian online retailer Wildberries was hit. Seven people have died across Russia, officials said.\n\nRussia has intensified aerial attacks across Ukraine in recent weeks, while Kyiv has stepped up attacks on Russian logistics hubs, aiming to disrupt military supplies.\n\nAir-raid sirens have sounded four times since Saturday night in Kyiv. At least six people, including a child, were reportedly injured, Mayor Vitali Klitschko said.\n\nThe mayor of Kryvyi Rih said a 44-year-old man earlier reported missing had been found dead in rubble. Another person was killed and 14 workers of a steel plant were wounded there.\n\nTwo people in their 60s were killed when a house was destroyed in Zaporizhzhia, while a person was also killed in Sumy, according to the Ukrainian president.\n\nZelensky said the cities of Kremenchuk and Kryvyi Rih were hit by ballistic missiles, adding: \"Wherever the Russians can reach with their ballistic missiles, they strike civilian infrastructure.\"\n\nRussia said its attacks on Kyiv on Saturday night targeted a FirePoint facility producing parts for Ukrainian Flamingo missiles and a factory making components for drones.\n\nA book market in the city's Pochayna district was damaged in the strikes. Burnt books could be seen lying on the ground, while firefighters continue to douse the flames.\n\nLooking through the rubble, she told the BBC: \"All these books in the street were from my husband's stall in the market - I recognise them on the floor.\"\n\nVinyl store owner Luba, 42, said she has lost 500,000 hryvnias (£8,262) worth of stock.\n\n\"This business was my baby - many of the vinyls destroyed were rare and irreplaceable,\" she told the BBC. \"I want Russia to disappear from this Earth.\"\n\nThe country's defence ministry also said it hit the Kremenchuk oil refinery in Poltava region, which it said supplied fuel to the Ukrainian military.\n\nMoscow said it struck a steelworks in Kryvyi Rih it said had been making weapons components.\n\nRussia also said it hit a dry cargo vessel near Odesa, claiming it had been carrying military equipment.\n\nZelensky said 13 regions had come under attack this week, with Russia launching more than 1,550 attack drones, nearly 1,560 guided aerial bombs and 62 missiles.\n\nIn Russia, air defences intercepted and destroyed 822 Ukrainian drones, according to its defence ministry.\n\nThe governor of Rostov in...",
             "zh": "官员称，在俄罗斯最新一轮袭击中，乌克兰已造成至少 5 人死亡、10 多人受伤。 乌克兰总统泽连斯基表示，紧急服务部门正在基辅遭受袭击的地点开展工作，并指责俄罗斯针对民用基础设施。 与此同时，莫斯科市长表示，约 600 架乌克兰无人机连夜向该市发射。俄罗斯在线零售商 Wildberry 的一个仓库遭到袭击。 最近几周，俄罗斯加强了对乌克兰各地的空袭，而基辅则加大了对俄罗斯后勤中心的攻击力度，目的是中断军事供应。 自周六晚上以来，基辅的空袭警报已拉响四次。市长维塔利·克里琴科表示，据报道，至少有六人受伤，其中包括一名儿童。 克里沃罗格市市长表示，一名早些时候报告失踪的 44 岁男子被发现死在废墟中。另有1人死亡，14名钢铁厂工人受伤。 泽连斯基表示，克列缅丘克市和克里沃罗格市遭到弹道导弹袭击，并补充说：“俄罗斯人的弹道导弹可以到达任何地方，他们就会攻击民用基础设施。” 俄罗斯表示，周六晚间对基辅的袭击目标是一家生产乌克兰火烈鸟导弹零部件的 FirePoint 设施和一家生产无人机零部件的工厂。 该国国防部还表示，它袭击了波尔塔瓦地区的克列缅丘克炼油厂，据称该炼油厂为乌克兰军方提供燃料。 莫斯科表示，它袭击了克里沃罗格的一家钢铁厂，据称该钢铁厂一直在生产武器部件。 俄罗斯还表示，它在敖德萨附近击中了一艘干货船，声称该船载有军事装备。 泽连斯基表示，本周有 13 个地区受到攻击，俄罗斯发射了超过 1,550 架攻击无人机、近 1,560 枚制导航空炸弹和 62 枚导弹。 据俄罗斯国防部称，俄罗斯防空系统拦截并摧毁了 822 架乌克兰无人机。 莫斯科市长谢尔盖·索比亚宁表示，乌克兰夜间罢工造成三人受伤。他补充说，乌克兰在首都发射的无人机中约有三分之一已被摧毁。 索比亚宁说，距离莫斯科市中心 25 公里（15.5 英里）的 Koledino 的一个 Wildberry 仓库在袭击中遭到袭击。视频显示仓库上空着火并冒出大量浓烟。 被称为俄罗斯版亚马逊的 Wildberry 自 7 月以来多次成为攻击目标。基辅当时表示，它的目标是俄罗斯人用来购买军事装备的后勤中心，并中断对俄罗斯军队的供应。 与此同时，罗马尼亚国防部表示，一架西班牙战斗机击落了一架侵犯罗马尼亚与乌克兰和摩尔多瓦边境附近领空的无人机。 这架无人机从摩尔多瓦入境，..."
           },
           "reflection": {
@@ -146,6 +180,40 @@
           "translationState": "localized"
         },
         {
+          "id": "www-theguardian-com-news-ng-interactive-2026-aug-16-danube-drought-destr",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+          "image": "https://i.guim.co.uk/img/media/c5811e7551d0d46e43490e866bcb5ffab45826d3/530_0_6017_4817/master/6017.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a018d7f6dd50921f450e68b4dea32680",
+          "publishedAt": "2026-08-16T10:37:30.000Z",
+          "title": {
+            "en": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
+            "zh": "农作物被毁、河床裸露和“饥饿之石”：干旱如何摧毁多瑙河"
+          },
+          "summary": {
+            "en": "The Danube River is experiencing a severe drought, causing widespread devastation. Crops have been destroyed, riverbeds are exposed, and some residents are struggling to find drinking water, with a historic “Rock of Starvation” now visible.",
+            "zh": "多瑙河正经历严重干旱，造成大范围破坏。农作物被毁，河床裸露，一些居民难以获得饮用水，一块历史性的“饥饿之石”也已显现。"
+          },
+          "body": {
+            "en": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking water For centuries, the rock was seen as a warning. When it began to emerge from the Danube, beneath Gellért Hill in Budapest, it meant the river had fallen so low that floating mills could no longer operate, crops were probably failing, and hunger would almost certainly follow. That is why, in the Hungarian capital, where over time the boulder became little more than a legend, it was named Ínség-szikla – the Rock of Starvation. Today, amid record-low water levels on the Danube, the rock has not only emerged from the water, but surfaced almost in its entirety, along with the sandy riverbed on which it rests, astonishing geologists and government scientists sent to examine it. And, much as the rock was said to warn, Hungary is now facing an unprecedented energy crisis that has forced the country to shut down all but one of its Danube-cooled nuclear reactors for the first time in 44 years. Continue reading...",
+            "zh": "《卫报》沿着欧盟最长的河流行驶了 100 英里，那里的一些居民正在努力获取饮用水。几个世纪以来，这块岩石被视为一种警告。当它开始从布达佩斯盖勒特山下的多瑙河中涌出时，这意味着河流水位已经下降到浮动磨坊无法再运转，庄稼可能歉收，饥饿几乎肯定会随之而来。这就是为什么在匈牙利首都，随着时间的推移，这块巨石已成为一个传奇，它被命名为Ínség-szikla——饥饿之石。如今，在多瑙河水位创历史新低的情况下，这块岩石不仅从水中露出来，而且几乎整个连同它所在的沙质河床一起浮出水面，令派去检查它的地质学家和政府科学家感到惊讶。而且，正如据说这块岩石所警告的那样，匈牙利现在正面临着一场前所未有的能源危机，迫使该国 44 年来首次关闭了多瑙河冷却核反应堆，只保留了一座。继续阅读..."
+          },
+          "reflection": {
+            "en": "The devastating drought along the Danube reminds us of life's fragility when essential resources dwindle. Even when fields yield no food and supplies are scarce, the prophet Habakkuk teaches us to find joy in Yahweh. This perspective encourages a deep trust that sustains hope even in the face of profound hardship.",
+            "zh": "多瑙河沿岸毁灭性的干旱提醒我们，当基本资源枯竭时，生命是多么脆弱。即使田地不产粮食，供应稀缺，先知哈巴谷也教导我们要在雅伟里喜乐。这种视角鼓励我们建立一种深刻的信靠，即使面对巨大的困境，也能维系希望。"
+          },
+          "verse": {
+            "reference": "Habakkuk 3:17-18",
+            "textEn": "Though the fig tree does not bud and there are no grapes on the vines... yet I will rejoice in Yahweh.",
+            "textZh": "虽然无花果树不发旺，葡萄树不结果……然而，我要因雅伟欢欣。",
+            "themeEn": "Joy in scarcity",
+            "themeZh": "在缺乏中喜乐"
+          },
+          "aiVerseId": "hab_3_17",
+          "translationState": "localized"
+        },
+        {
           "id": "www-theguardian-com-politics-2026-aug-16-angela-rayner-pubs-developers-h",
           "section": "world",
           "source": "The Guardian World",
@@ -155,28 +223,29 @@
           "publishedAt": "2026-08-16T10:09:09.000Z",
           "title": {
             "en": "Angela Rayner moves to protect pubs from being turned into houses or offices",
-            "zh": "安吉拉·雷纳采取行动，防止酒吧变成房屋或办公室"
+            "zh": "安吉拉·雷纳采取行动保护酒吧免遭改建为住宅或办公室"
           },
           "summary": {
-            "en": "Housing secretary says developers will have to prove there’s no way to save pub, as she prepares planning shakeup All pubs will get protection from being turned into housing or offices under a shakeup of planning laws in England to be presented by Angela Rayner this week. The...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "Angela Rayner, the housing secretary, is introducing new planning laws in England to protect pubs from being converted into housing or offices. Developers will now be required to demonstrate that there is no viable alternative to save a pub before any such conversion can proceed.",
+            "zh": "住房大臣安吉拉·雷纳正准备在英格兰推出新的规划法，以保护酒吧免遭改建为住宅或办公室。根据新规定，开发商必须证明没有其他办法可以保留酒吧，才能进行此类改建。"
           },
           "body": {
             "en": "Housing secretary says developers will have to prove there’s no way to save pub, as she prepares planning shakeup All pubs will get protection from being turned into housing or offices under a shakeup of planning laws in England to be presented by Angela Rayner this week. The housing secretary will publish a new national planning policy framework aimed at loosening planning laws even further to help build 3m homes by the end of the parliament. Continue reading...",
             "zh": "住房大臣表示，开发商必须证明没有办法拯救酒吧，因为她正在准备规划重组。根据安吉拉·雷纳本周将提出的英格兰规划法重组计划，所有酒吧都将得到保护，不被改造成住房或办公室。住房部长将发布一项新的国家规划政策框架，旨在进一步放宽规划法律，以帮助在议会结束前建造 300 万套住房。继续阅读..."
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The government's initiative to protect local pubs underscores the value of preserving community spaces where people can gather and connect. This policy reflects a commitment to the well-being of neighbors, recognizing that shared places are vital for fostering social bonds and a sense of belonging. Such efforts can be seen as an expression of loving one's...",
+            "zh": "政府保护当地酒吧的举措，突显了维护人们可以聚集和联系的社区空间的重要性。这项政策体现了对邻里福祉的承诺，认识到共享场所对于培养社会联系和归属感至关重要。这样的努力可以被视为爱邻如己的体现，有助于当地生活的活力与连接。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Matthew 22:39",
+            "textEn": "Love your neighbor as yourself.",
+            "textZh": "要爱人如己。",
+            "themeEn": "Love neighbor",
+            "themeZh": "爱人如己"
           },
-          "translationState": "fallback"
+          "aiVerseId": "matt_22_39",
+          "translationState": "localized"
         },
         {
           "id": "www-dw-com-en-bus-crash-in-hungary-kills-at-least-12-a-78387230-maca-en-",
@@ -195,7 +264,7 @@
             "zh": "警方表示，一辆在匈牙利坠毁的巴士司机已被逮捕，事故造成至少12人死亡。据报道，该巴士载有波兰朝圣者。"
           },
           "body": {
-            "en": "The driver of a bus that has crashed in Hungary, killing at least 12 people, has been arrested, police say. The bus was carrying Polish pilgrims, reports said.\n\nAt least 12 people have died after a Polish coach crashed into a ditch and overturned in eastern Hungary , Hungarian&#160;police said&#160;on Sunday.\n\nAccording to emergency services, 47 other people were injured in the incident, 10 seriously.\n\nThe accident occurred on the M3 motorway near Mezokeresztes, around 140 kilometers (87 miles) east of Budapest, according to police in the district capital, Miskolc.&#160;\n\nPolice said they believe the driver fell&#160;asleep at the wheel during the overnight journey into Sunday. He was subsequently arrested.\n\nPoland's PAP news agency reported that the bus had been carrying a group of pilgrims from Podkarpackie province in the far southeast of Poland .\n\nThe group, said to number 59 people, including two drivers,&#160;had been returning from Bosnia-Herzegovina , PAP said.&#160;\n\nHungary's National Directorate for Disaster Management said that&#160;several of the passengers had been trapped under the vehicle when it overturned.\n\n&#160; Hungarian Prime Minister Peter Magyar has voiced his condolences to the families of the crash victims in a Facebook message and thanked emergency and rescue services.\n\n&#160;Polish President Karol Nawrocki said he was deeply shaken. \"In the face of this unimaginable tragedy, which affects us all, my thoughts and prayers go out to the families and loved ones of the victims,\" the 43-year-old wrote on X.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google &#160; so you'll always see our verified news first.",
+            "en": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report.\n\nAt least 12 people have died after a Polish coach crashed into a ditch and overturned in eastern Hungary , police said&#160;on Sunday.\n\nAccording to emergency services, 47 people were injured in the incident, 10 seriously.\n\nThe accident occurred on the M3 motorway near Mezokeresztes, around 140 kilometers (87 miles) east of Budapest, according to police in the district capital, Miskolc.&#160;\n\nPolice said they believe the driver fell&#160;asleep at the wheel during the overnight journey into Sunday. He was subsequently arrested.\n\nPoland's PAP news agency reported that the bus had been carrying a group of pilgrims from Podkarpackie province in the far southeast of Poland .\n\nThe group, said to number 59 people, including two drivers,&#160;had been returning from Bosnia-Herzegovina , PAP said.&#160;\n\nHungary's National Directorate for Disaster Management said that&#160;several of the passengers had been trapped under the vehicle when it overturned.\n\n&#160; Hungarian Prime Minister Peter Magyar has voiced his condolences to the families of the crash victims in a Facebook message and thanked emergency and rescue services.\n\n&#160;Polish President Karol Nawrocki said he was deeply shaken. \"In the face of this unimaginable tragedy, which affects us all, my thoughts and prayers go out to the families and loved ones of the victims,\" the 43-year-old wrote on X.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google &#160; so you'll always see our verified news first.",
             "zh": "匈牙利警方称，一辆巴士发生车祸，造成至少 12 人死亡，司机已被捕。报道称，这辆巴士载有波兰朝圣者。 匈牙利警方周日表示，一辆波兰客车在匈牙利东部坠入沟渠翻车，已造成至少 12 人死亡。 据紧急服务部门称，事件中另有47人受伤，其中10人伤势严重。 据该地区首府米什科尔茨警方称，事故发生在布达佩斯以东约 140 公里（87 英里）处的 Mezokeresztes 附近的 M3 高速公路上。 警方表示，他们相信司机在周日的通宵旅程中在方向盘上睡着了。他随后被捕。 波兰人民通讯社报道称，这辆巴士载着一群来自波兰东南部喀尔巴阡山省的朝圣者。 人民行动党称，这群人据说有 59 人，其中包括两名司机，是从波斯尼亚和黑塞哥维那返回的。 匈牙利国家灾害管理局表示，车辆翻倒时，数名乘客被困在车下。 匈牙利总理彼得·马扎尔在脸书消息中向坠机遇难者家属表示哀悼，并对紧急救援服务表示感谢。 波兰总统卡罗尔·纳罗基表示，他深感震惊。这位 43 岁的人在 X 上写道：“面对这场影响我们所有人的难以想象的悲剧，我向受害者的家人和亲人致以思念和祈祷。” 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间选择我们作为您在 Google 上的首选来源，以便您始终能够首先看到我们经过验证的新闻。"
           },
           "reflection": {
@@ -380,40 +449,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-business-2026-aug-16-new-uk-cost-of-living-crisis-lo",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
-          "image": "https://i.guim.co.uk/img/media/40e2709d6ab1818cac0173dac8116cdbf673d354/398_0_2703_2162/master/2703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae32a68caca8d4fc27af6be39db5f61e",
-          "publishedAt": "2026-08-16T08:42:16.000Z",
-          "title": {
-            "en": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
-            "zh": "英国生活成本危机迫近，能源账单飙升预计将推高通胀"
-          },
-          "summary": {
-            "en": "British households are bracing for a renewed cost of living crisis, with official figures expected to confirm soaring energy bills and inflation. This presents a significant challenge for the new Prime Minister to alleviate financial pressures on families, exacerbated by the fallout from the Iran war.",
-            "zh": "英国民众正面临新一轮生活成本危机，官方数据预计将证实能源账单飙升和通货膨胀。伊朗战争的余波加剧了这一局面，对新首相而言，如何缓解家庭财政压力将是一个重大挑战。"
-          },
-          "body": {
-            "en": "Latest reading on Wednesday likely to frame scale of challenge for new PM to ease pressures on households amid Iran war fallout British households are facing a renewed cost of living squeeze, with official figures expected to show this week that soaring energy bills drove up inflation in July to close to 3%. As the Iran war continues to send shock waves through global energy markets, economists predict the surge in UK gas and electricity bills last month will push Britain’s headline inflation rate to 2.9%. Continue reading...",
-            "zh": "周三的最新数据可能会确定新首相在伊朗战争余波中缓解家庭压力的挑战规模 英国家庭正面临新一轮的生活成本紧缩，官方数据预计本周将显示飙升的能源费用推高 7 月份通胀率至接近 3%。随着伊朗战争继续给全球能源市场带来冲击，经济学家预测上个月英国天然气和电费的飙升将把英国的总体通胀率推至2.9%。继续阅读..."
-          },
-          "reflection": {
-            "en": "As households face mounting financial strain, the call for leaders to administer justice and righteousness becomes ever more urgent. Yahweh's word reminds those in authority of their mandate to protect the vulnerable and ease the burdens on their people. This is a time for compassionate governance that actively seeks to alleviate the pressures on families.",
-            "zh": "当家庭面临日益增长的财政压力时，对领导者施行公义和正直的呼吁变得更加紧迫。雅伟的话语提醒掌权者，他们的职责是保护弱势群体，减轻人民的负担。这是一个需要富有同情心的治理的时刻，积极寻求缓解家庭所承受的压力。"
-          },
-          "verse": {
-            "reference": "Jeremiah 22:3",
-            "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
-            "textZh": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
-            "themeEn": "Royal justice mandate",
-            "themeZh": "王者的公义责任"
-          },
-          "aiVerseId": "jer_22_3",
-          "translationState": "localized"
-        },
-        {
           "id": "www-bbc-co-uk-news-articles-c3v00w5ylw9o-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
@@ -445,40 +480,6 @@
             "themeZh": "受造叹息"
           },
           "aiVerseId": "rom_8_22",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-ckg4424zd7go-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/972b/live/dabb8db0-993f-11f1-9d32-93c6539c1530.jpg",
-          "publishedAt": "2026-08-16T07:04:17.000Z",
-          "title": {
-            "en": "Twelve killed as Polish bus veers off Hungarian motorway",
-            "zh": "波兰巴士在匈牙利高速公路翻车，十二人死亡"
-          },
-          "summary": {
-            "en": "A tourist bus overturned on a Hungarian motorway in the early hours of Sunday morning, killing twelve people and seriously injuring dozens more.",
-            "zh": "周日凌晨，一辆旅游巴士在匈牙利高速公路上翻车，造成十二人死亡，另有数十人受重伤。"
-          },
-          "body": {
-            "en": "Twelve people were killed and dozens more injured when a Polish tourist bus veered off a Hungarian motorway and into a ditch.\n\nPolice said the bus overturned after coming off the M3 motorway, which connects Hungary's capital Budapest with the north-eastern city of Nyíregyháza, at around 01:00 local time on Sunday (23:00 GMT on Saturday).\n\nOfficers believe the driver fell asleep at the wheel. He has been taken into custody.\n\nThirty-five out of the 57 passengers and two drivers onboard have been rescued by firefighters so far, state media reports.\n\nEmergency services had been attempting to lift the rear axle of the 24-tonne bus to remove the people trapped underneath before cranes arrived to lift the whole vehicle, according to news agency MTI.\n\nHungary's ambulance service said it had treated one person with life-threatening injuries, nine people with serious injuries and a further 37 people with minor injuries.\n\nThe country's Prime Minister Péter Magyar offered his \"sincere condolences\" to the families of the victims and wished those injured a speedy recovery.",
-            "zh": "一辆波兰旅游巴士冲出匈牙利高速公路并驶入沟渠，造成十二人死亡、数十人受伤。 警方表示，这辆巴士于当地时间周日 01:00 左右（格林威治标准时间周六 23:00）驶出连接匈牙利首都布达佩斯和东北部城市尼赖吉哈佐的 M3 高速公路后翻车。 警方认为司机在方向盘上睡着了。他已被拘留。 据官方媒体报道，目前机上 57 名乘客和两名司机中的 35 人已被消防员救出。 据 MTI 通讯社报道，紧急服务部门一直在尝试抬起这辆 24 吨巴士的后轴，以将被困在车底下的人转移出去，然后起重机才到达，将整个车辆吊起。 匈牙利救护车服务部门表示，已救治一名危及生命的伤者、九名重伤者和另外 37 名轻伤者。 该国总理彼得·马扎尔向遇难者家属表示“诚挚的哀悼”，并祝愿伤者早日康复。"
-          },
-          "reflection": {
-            "en": "The sudden loss of life and severe injuries in this tragic accident bring profound sorrow to many. In moments of such deep pain, we hold onto the promise that Yahweh will one day wipe away every tear, and death, mourning, crying, and pain will be no more. This hope reminds us that even in the darkest times, there is a future where suffering is ultimately...",
-            "zh": "这场悲惨事故中生命的骤然逝去和严重的伤势给许多人带来了深切的悲痛。在如此深重的痛苦时刻，我们紧紧抓住雅伟的应许，他将有一天擦去我们所有的眼泪，不再有死亡、悲哀、哭号和疼痛。这个盼望提醒我们，即使在最黑暗的时刻，也有一个最终战胜苦难的未来。"
-          },
-          "verse": {
-            "reference": "Revelation 21:4",
-            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
-            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
-            "themeEn": "End of suffering",
-            "themeZh": "苦难的终结"
-          },
-          "aiVerseId": "rev_21_4",
           "translationState": "localized"
         },
         {
