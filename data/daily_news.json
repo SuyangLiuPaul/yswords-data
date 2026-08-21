@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:22:49.878Z",
+  "generatedAt": "2026-08-21T17:20:12.998Z",
   "editionDate": "2026-08-22",
   "sources": [
     {
@@ -106,30 +106,296 @@
       },
       "sourceNotes": [
         "The Guardian World",
-        "BBC News World",
         "DW World",
+        "BBC News World",
         "SBS News World"
       ],
       "items": [
         {
-          "id": "www-theguardian-com-us-news-2026-aug-21-navy-carrier-black-war-hero-trum",
+          "id": "www-theguardian-com-us-news-2026-aug-21-migrant-deaths-arizona",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/21/navy-carrier-black-war-hero-trump-report",
-          "image": "https://i.guim.co.uk/img/media/5b8d9132af55955e74691e6bdfc6562717e575c7/0_132_4865_3890/master/4865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a66e64ccacefcc460b53a267f34ce568",
-          "publishedAt": "2026-08-21T16:14:08.000Z",
+          "link": "https://www.theguardian.com/us-news/2026/aug/21/migrant-deaths-arizona",
+          "image": "https://i.guim.co.uk/img/media/cfde96a03ad6c43f6595f0dacfb7d25dc7c91c52/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=766a6b4ff2532be9b5f089a29e993b50",
+          "publishedAt": "2026-08-21T17:14:29.000Z",
           "title": {
-            "en": "US navy carrier set to honor Black war hero may reportedly be renamed after Trump",
-            "zh": "据报道，美国海军航母可能会以特朗普的名字命名，以纪念黑人战争英雄"
+            "en": "Rise in migrant deaths as 19 bodies found along Arizona border last month",
+            "zh": "上个月在亚利桑那州边境发现 19 具尸体，导致移民死亡人数上升"
           },
           "summary": {
-            "en": "Reports of US navy working to rename carrier planned to honor second world war sailor Doris Miller sparks backlash The Trump administration has been accused of delivering a “slap in the face” to US military veterans after reports that a navy aircraft carrier set to honor a Black...",
+            "en": "Pima county figures show highest number of monthly migrant deaths in two years as critics condemn US policy According to newly released data from the medical examiner’s office in Pima county, Arizona, the remains of 19 migrants, including children, were recovered along the...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Pima county figures show highest number of monthly migrant deaths in two years as critics condemn US policy According to newly released data from the medical examiner’s office in Pima county, Arizona, the remains of 19 migrants, including children, were recovered along the Arizona-Mexico border last month. The figure accounts for the highest number of monthly deaths in that area since 2024 and brings the number of total remains found to 73 this year, 14 more than the same time period last year. This article was updated on 21 August 2026 to correct the name of Octavio Fuentes. Continue reading...",
+            "zh": "皮马县数据显示，每月移民死亡人数为两年来最高，批评者谴责美国政策 根据亚利桑那州皮马县法医办公室最新公布的数据，上个月在亚利桑那州和墨西哥边境沿线发现了包括儿童在内的 19 具移民遗体。这一数字是该地区自 2024 年以来每月死亡人数最高的，使今年发现的遗骸总数达到 73 具，比去年同期增加了 14 具。本文于 2026 年 8 月 21 日更新，更正了 Octavio Fuentes 的名字。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-live-2026-aug-21-democrats-progressive-elect",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
+          "image": "https://i.guim.co.uk/img/media/5b8d9132af55955e74691e6bdfc6562717e575c7/0_0_4865_3888/master/4865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e06bc26679bf76eb553d3309a726d35f",
+          "publishedAt": "2026-08-21T16:53:26.000Z",
+          "title": {
+            "en": "‘Shouldn’t be renamed at all’: senator attacks Navy’s reported consideration of honoring Trump instead of Black war hero – live",
+            "zh": "参议员抨击海军考虑以特朗普而非黑人战争英雄命名航母的报道"
+          },
+          "summary": {
+            "en": "A senator and retired Navy officer criticized reports that the Navy is considering naming an aircraft carrier after former President Trump, potentially replacing plans to honor World War II hero Doris Miller, a Black sailor who distinguished himself during the attack on Pearl Harbor.",
+            "zh": "一位参议员兼退役海军军官批评了海军考虑将一艘航空母舰以美国前总统特朗普的名字命名，这可能会取代原计划以二战英雄、在珍珠港袭击中表现英勇的黑人水兵多里斯·米勒的名字命名该舰的报道。"
+          },
+          "body": {
+            "en": "Mark Kelly, an Arizona Democrat and retired Navy officer, slams Navy’s mulling of naming a carrier for Trump instead of WWII hero Doris Miller US navy carrier set to honor Black war hero may reportedly be renamed after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. ”I’ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,” Sheehy wrote on X. “The President’s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our herd and bring prices down for the American people. And most importantly, this will harm our ranching families who feed the nation.” Trump announced a plan on Truth Social to allow 300,000 metric tonnes of beef to be imported without tariffs over the next 90 days, to be sold for hamburger at a 25 percent discount to current prices. Trump offered this agreement with an unnamed source as measure to lower prices while “as we work to rebuild this herd and help our ranchers.” The US beef cattle herd is near historic lows, and beef prices have skyrocketed over the last year. The average price of ground beef in American cities is around $7.12 a pound, an increase of 9.4 percent year-over-year according to the Bureau of Labor Statistics. This is a slap in the face to every war hero and every service member who has worn the uniform. It’s beyond comprehension for a president to want his own name on a Navy ship while our armed forces are living in deteriorating conditions aboard the USS Abraham Lincoln. For generations, millions of Black women and men have proudly served in the United States military, defending freedoms that too often were not even afforded to them, their families, or their communities. Donald Trump is making a mockery of that legacy by treating military service as another opportunity for personal branding. Our brave service members signed up to defend the nation, not the fragile ego of one man. America deserves better than this. Continue reading...",
+            "zh": "亚利桑那州民主党人、退役海军军官马克·凯利猛烈抨击海军考虑以特朗普而非二战英雄多丽丝·米勒命名一艘航母。 据路透社报道，在美国上诉法院周五维持下级法院针对调查的禁令后，司法部针对纽约总检察长利蒂西亚·詹姆斯办公室的传票仍被封锁。詹姆斯对唐纳德·特朗普及其家族企业以及全国步枪协会提起民事诉讼，这两家公司在随后的审判中都被认定负有责任。据路透社当时报道，特朗普于 2025 年上任后，司法部开始轮流调查詹姆斯，对与这些案件相关的潜在侵犯公民权利的行为启动刑事调查。继续阅读..."
+          },
+          "reflection": {
+            "en": "Decisions about who to honor reflect the values a society upholds. This situation prompts us to consider whether public recognition is driven by selfless humility, valuing the significant contributions of others, or by ambition. Yahweh calls us to prioritize the dignity and service of all, especially those whose sacrifices have shaped our history.",
+            "zh": "关于纪念谁的决定反映了一个社会所秉持的价值观。这种情况促使我们思考，公共表彰是由无私的谦卑驱动，重视他人的重大贡献，还是由野心驱动。雅伟呼召我们优先考虑所有人的尊严和贡献，特别是那些塑造了我们历史的牺牲者。"
+          },
+          "verse": {
+            "reference": "Philippians 2:3",
+            "textEn": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.",
+            "textZh": "凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。",
+            "themeEn": "Selfless humility",
+            "themeZh": "无私的谦卑"
+          },
+          "aiVerseId": "phil_2_3",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-21-haiti-deportation-tps",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/21/haiti-deportation-tps",
+          "image": "https://i.guim.co.uk/img/media/1b08acb9d84c5eb65ead27227d50614d06afa4cb/471_0_2685_2148/master/2685.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=660c1a91906f2545d9f4a180cc1c86b8",
+          "publishedAt": "2026-08-21T16:53:18.000Z",
+          "title": {
+            "en": "First deportation flight lands in Haiti after TPS suspension",
+            "zh": "首架遣返航班在临时保护身份暂停后抵达海地"
+          },
+          "summary": {
+            "en": "A deportation flight carrying over 160 Haitian nationals landed in Cap-Haïtien, marking the first such flight since the US Supreme Court upheld the revocation of Temporary Protected Status (TPS) for 350,000 Haitians and others. This action follows the suspension of a key legal protection.",
+            "zh": "一架载有160多名海地国民的遣返航班在海地角着陆，这是自美国最高法院维持撤销35万海地人及其他人的临时保护身份（TPS）以来，首次有此类遣返航班。此举是在一项关键法律保护被暂停后进行的。"
+          },
+          "body": {
+            "en": "ICE charter carrying more than 160 Haitian nationals landed in Cap-Haïtien, after temporary protection status was revoked The first deportation flight to Haiti since the US supreme court upheld Donald Trump’s power to strip 350,000 Haitians – and others – of a key type of legal status in the US landed in the troubled nation on Thursday. The flight was carrying more that 160 Haitian nationals and landed in Cap-Haïtien, Haiti’s second-largest city, aboard an Immigration and Customs Enforcement ( ICE ) charter. Continue reading...",
+            "zh": "临时保护身份被撤销后，载有 160 多名海地国民的 ICE 包机降落在海地角 自美国最高法院维持唐纳德·特朗普有权剥夺 35 万海地人和其他人在美国的一种关键合法身份以来，第一架飞往海地的驱逐航班于周四降落在这个陷入困境的国家。这架航班载有超过 160 名海地公民，搭乘移民和海关执法局 (ICE) 包机降落在海地第二大城市海地角。继续阅读..."
+          },
+          "reflection": {
+            "en": "The news of a deportation flight to Haiti reminds us of the biblical call to remember the stranger among us. Yahweh's command to love the foreigner, rooted in the experience of His people as sojourners, challenges us to consider compassion and empathy in matters of migration. This principle encourages us to reflect on how we treat those seeking safety and a...",
+            "zh": "海地遣返航班的消息提醒我们，圣经呼吁我们记念寄居在我们中间的人。雅伟命令我们爱护寄居者，这根植于祂的子民曾是客旅的经历，挑战我们在移民问题上思考怜悯和同情。这一原则鼓励我们反思如何对待那些寻求安全和新家园的人。"
+          },
+          "verse": {
+            "reference": "Deuteronomy 10:19",
+            "textEn": "And you are to love those who are foreigners, for you yourselves were foreigners in Egypt.",
+            "textZh": "所以你们要怜爱寄居的，因为你们在埃及地也作过寄居的。",
+            "themeEn": "Welcome the foreigner",
+            "themeZh": "善待寄居者"
+          },
+          "aiVerseId": "deut_10_19",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-dw-com-en-france-issues-warning-over-thousands-of-substandard-condom",
+          "section": "world",
+          "source": "DW World",
+          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
+          "link": "https://www.dw.com/en/france-issues-warning-over-thousands-of-substandard-condoms/a-78462877?maca=en-rss-en-world-4025-rdf",
+          "image": "https://static.dw.com/image/78462971_6.jpg",
+          "publishedAt": "2026-08-21T16:35:00.000Z",
+          "title": {
+            "en": "France issues warning over thousands of substandard condoms",
+            "zh": "法国对数千个不合格安全套发出警告"
+          },
+          "summary": {
+            "en": "French anti-fraud and health agencies have issued a recall order for roughly 260,000 condoms. They advised users to consider sexually transmitted infection and pregnancy tests amid risks of bursting or perforations.",
             "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Reports of US navy working to rename carrier planned to honor second world war sailor Doris Miller sparks backlash The Trump administration has been accused of delivering a “slap in the face” to US military veterans after reports that a navy aircraft carrier set to honor a Black war hero may, instead, be named after Donald Trump. The US navy had previously announced that the carrier under construction would be called the USS Doris Miller, in tribute to a sailor celebrated for his heroism during the attack on Pearl Harbor in the second world war. Continue reading...",
-            "zh": "有报道称，美国海军计划为纪念二战水手多丽丝·米勒(Doris Miller)的航母重新命名，此举引发强烈反对。此前有报道称，一艘旨在纪念黑人战争英雄的海军航空母舰可能会以唐纳德·特朗普(Donald Trump)的名字命名，因此特朗普政府被指责给美国退伍军人“一记耳光”。美国海军此前宣布，正在建造的航母将被命名为“多丽丝·米勒”号航空母舰，以纪念一位在第二次世界大战珍珠港袭击中表现出英雄主义的水手。继续阅读..."
+            "en": "French anti-fraud and health agencies have issued a recall order for roughly 260,000 condoms. They advised users to consider sexually transmitted infection and pregnancy tests amid risks of bursting or perforations.\n\nFrance 's anti-fraud and health agencies issued a joint statement on Friday saying they were recalling more than a quarter of a million condoms that could be defective.&#160;\n\nIt said that the majority&#160;were sold online via major marketplaces by Asian vendors.&#160;\n\nOf the roughly 260,000 contraceptives being recalled, authorities said around 1,000 boxes, or 40,000 individual condoms, had already been sold.&#160;\n\n\"Laboratory analyses identified two non-compliant products, characterized by a risk of bursting&#160;and, in one case, the presence of perforations,\" authorities said.&#160;\n\nThe anti-fraud agency, the DGCCRF, and the DGS health agency said in a joint statement that the condoms lacked the required CE marking that designates a product conforms with the standards of the European Economic Area trading zone.&#160;\n\n\"The identified condoms lack a CE marking, third-party conformity assessment, and — in most cases — packaging in French,\" the government agencies said. \"Consequently, they are deemed non-compliant and potentially pose serious risks to user health and safety (such as sexually transmitted infections and unintended pregnancies).\"&#160;\n\nThe statement advised people who had used the condoms to get screened for sexually transmitted infections and to take a pregnancy test if they had any reason to be suspicious such as a missed or late period.&#160;\n\nThe government said the online vendors had agreed to remove the affected listings and to send in the recalled products.&#160;\n\nThe statement listed two brands of condoms made by a Japanese company, Okamoto Industries, and the brands MyLubie and Friday Bae by Passage du Desir.\n\nFrance offers people aged up to 25 free condoms via pharmacies without a prescription in a bid to prevent STIs and unwanted pregnancies.&#160;\n\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google &#160;so you'll always see our verified news first.",
+            "zh": "法国反欺诈和卫生机构已发布约 26 万个安全套的召回令。他们建议用户考虑性传播感染和妊娠测试，以防破裂或穿孔的风险。 法国反欺诈和卫生机构周五发表联合声明称，他们正在召回一百万个可能有缺陷的安全套中超过四分之一。 该公司表示，大部分产品是由亚洲供应商通过主要市场在线销售的。 当局表示，在被召回的约 26 万件避孕药具中，约有 1,000 盒或 40,000 个单独的避孕套已经售出。 当局表示：“实验室分析发现了两种不合规产品，其特点是存在破裂风险，其中一种还存在穿孔。” 反欺诈机构 DGCCRF 和 DGS 卫生机构在一份联合声明中表示，这些避孕套缺乏所需的 CE 标志，该标志表明该产品符合欧洲经济区贸易区的标准。 政府机构表示：“所发现的安全套缺乏 CE 标志、第三方合格评估，并且在大多数情况下没有法语包装。” “因此，它们被认为不合规，并可能对用户的健康和安全构成严重风险（例如性传播感染和意外怀孕）。” 声明建议使用避孕套的人接受性传播感染筛查，如果有任何怀疑的理由（例如月经推迟或推迟），请进行妊娠测试。 政府表示，在线供应商已同意删除受影响的商品并寄回召回的产品。 声明列出了日本冈本工业公司生产的两个品牌的安全套，以及 Passage du Desir 的 MyLubie 和 Friday Bae 品牌。 法国通过药店向 25 岁以下的人提供免费避孕套，无需处方，以预防性传播感染和意外怀孕。 如果您信赖我们团队的可信报道，请花点时间选择我们作为您在 Google 上的首选来源，这样您就可以始终首先看到我们经过验证的新闻。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c3r0g7gj2n3o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
+          "publishedAt": "2026-08-21T16:32:37.000Z",
+          "title": {
+            "en": "Two teenagers seriously injured after sword attack at Swedish school",
+            "zh": "瑞典学校两名青少年遭剑袭击身受重伤"
+          },
+          "summary": {
+            "en": "Police say one man has been arrested, while several other local schools were locked down.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Two teenagers have been seriously injured after a sword attack on a high school in Sweden, authorities have said.\n\nPolice were called to the Brinell School in Fagersta shortly after 14:00 local time (13:00 BST) on Friday, where officers arrested one man.\n\nA third person was wounded in the attack but the extent of their injuries has not been confirmed, while reports in local media say the suspect was shot in the leg by police.\n\nEight other schools in the area were placed under lockdown measures - which have now been lifted - while a state of high alert was declared in the Vastmanland region following the attack.\n\nIn a post on X, Sweden's Prime Minsiter Ulf Kristersson described the attack as a \"serious incident,\" and said \"we do not know what lies behind the act, but we know that police are working very intensively\".\n\nStudents at Brinell School had only just returned to the classroom following the summer break, with the new term beginning either on Monday or Wednesday this week, depending on the academic year.\n\nThe school has just under 500 students on its roster, according to Sweden's public broadcaster SVT, and is located 170km (105 miles) north-west of the capital, Stockholm.\n\nSweden has experienced a number of attacks on educational institutions in recent years.\n\nThe country experienced it's worst-ever mass shooting in 2025 , where 11 people, including the gunman, died at an adult education centre in Orebro.\n\nThis led to the government tightening the country's gun laws after it was found that the suspect legally owned four rifles, three of which were found in the school where attack took place.\n\nTwo teachers were killed in a violent attack on a secondary school in Malmo in 2022 - an 18-year-old student later confessed to the attack.\n\nIn 2015, a teacher and a pupil were killed in a sword attack at a school in Trollhattan .",
+            "zh": "当局称，瑞典一所高中发生持刀袭击事件，两名青少年受重伤。 当地时间周五 14:00（英国夏令时 13:00）后不久，警方接到电话前往法格斯塔的布内尔学校，在那里逮捕了一名男子。 第三人在袭击中受伤，但受伤程度尚未得到证实，而当地媒体报道称，嫌疑人的腿部被警方开枪射中。 该地区的其他八所学校也受到封锁措施（现已解除），袭击发生后，西曼兰地区宣布进入高度戒备状态。 瑞典总理乌尔夫·克里斯特森 (Ulf Kristersson) 在 X 上的一篇帖子中将此次袭击描述为“严重事件”，并表示“我们不知道该行为背后的原因，但我们知道警方正在非常紧张地开展工作”。 布内尔学校的学生暑假结束后才刚刚回到教室，新学期根据学年的不同，将于本周周一或周三开始。 据瑞典公共广播公司 SVT 报道，该学校名册上有不到 500 名学生，位于首都斯德哥尔摩西北 170 公里（105 英里）处。 近年来，瑞典经历了多起针对教育机构的袭击。 2025 年，该国经历了有史以来最严重的大规模枪击事件，包括枪手在内的 11 人在厄勒布鲁的一个成人教育中心死亡。 这导致政府在发现嫌疑人合法拥有四支步枪后收紧了该国的枪支法，其中三支是在袭击发生的学校中发现的。 2022 年，马尔默一所中学发生暴力袭击，造成两名教师死亡，一名 18 岁学生后来承认了这起袭击事件。 2015年，特罗尔海坦一所学校的一名教师和一名学生在持刀袭击中丧生。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-21-alex-jones-texas-court-sandy-hoo",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/21/alex-jones-texas-court-sandy-hook-school-shooting-hoax",
+          "image": "https://i.guim.co.uk/img/media/f6a3d36851aec5e551685ead8806dad79bacdb01/577_0_6372_5096/master/6372.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=14239a5735796ec5371bca75db3cd658",
+          "publishedAt": "2026-08-21T16:27:32.000Z",
+          "title": {
+            "en": "Texas slashes $50m judgment against Alex Jones over false claim Sandy Hook shooting was hoax",
+            "zh": "得克萨斯州削减了对亚历克斯·琼斯 (Alex Jones) 5000 万美元的判决，理由是桑迪·胡克 (Sandy Hook) 枪击事件是骗局的虚假指控"
+          },
+          "summary": {
+            "en": "Appeals court slashes judgment to $1.5m in a significant legal victory for the rightwing Infowars founder A Texas appeals court has slashed the $50m judgment to $1.5m against Alex Jones, founder of the rightwing platform Infowars, over falsely calling the 2012 Sandy Hook school...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Appeals court slashes judgment to $1.5m in a significant legal victory for the rightwing Infowars founder A Texas appeals court has slashed the $50m judgment to $1.5m against Alex Jones, founder of the rightwing platform Infowars , over falsely calling the 2012 Sandy Hook school shooting in Newtown, Connecticut a hoax. The ruling does not affect a $1.4bn judgment against Jones in Connecticut, but is a significant legal victory for Jones after he and his company, Free Speech Systems, were found liable for damages for claiming the mass shooting didn’t happen. Continue reading...",
+            "zh": "上诉法院将右翼 Infowars 创始人的判决削减至 150 万美元，这是右翼 Infowars 创始人的重大法律胜利 得克萨斯州上诉法院将右翼平台 Infowars 创始人亚历克斯·琼斯 (Alex Jones) 的 5000 万美元判决削减至 150 万美元，原因是他错误地称 2012 年康涅狄格州纽敦桑迪胡克学校枪击事件为骗局。该裁决不会影响康涅狄格州针对琼斯的 14 亿美元判决，但对于琼斯来说，这是一次重大的法律胜利，因为他和他的公司 Free Speech Systems 因声称大规模枪击事件并未发生而被判承担损害赔偿责任。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cp9edjpvplpo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3237/live/ba89ed70-9d72-11f1-a291-b542ee92de7c.jpg",
+          "publishedAt": "2026-08-21T16:26:53.000Z",
+          "title": {
+            "en": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+            "zh": "报道称，德国正在调查俄罗斯与在树林中发现的武器储藏室的联系"
+          },
+          "summary": {
+            "en": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "German intelligence believes a cache of guns found in the woods near Berlin last year was for carrying out assassinations on behalf of Russia, reports say.\n\nGermany's Interior Minister Alexander Dobrindt said federal prosecutors were investigating a suspect in Romania over suspicions of espionage and \"the preparation of a serious act of violence threatening the state\".\n\nWhile refusing to confirm reports of Russian links to the cache, Dobrindt said he could not rule out \"the involvement of foreign powers\".\n\nFor months security agencies have warned that Russian intelligence services are planning assassinations in Germany, possibly targeting defence industry executives or opposition figures in exile.\n\nDobrindt said that last October Germany's domestic intelligence agency became aware of a possible weapons cache in the woods on the outskirts of Berlin.\n\nOfficials located the stash with the help of the Berlin State police, and found two handguns and ammunition.\n\nThe German security authorities suspect the weapons and ammunition found were intended for use in attacks.\n\nReports in German daily newspaper Süddeutsche Zeitung and the public broadcasters NDR and WDR say the cache was to facilitate targeted killings on behalf of Moscow.\n\nDobrindt said after the guns were rendered inoperable, the weapons cache was placed under surveillance for months but nobody was seen approaching it.\n\n\"This case demonstrates that we are operating under a high threat level,\" Dobrindt said.\n\nThe minister said prosecutors were investigating a suspect in Romania, who is being held in connection with planned parcel bomb attacks there. He said this would be taken into account when it came to a possible extradition.\n\nHe described the suspect as a \"low-level agent\", and declined to disclose his nationality.\n\nSeveral similar operatives had been detained so far this year, he said, including one person from Kazakhstan.\n\nThe investigation follows previous accusations of Russian attacks on German soil.\n\nIn 2024, German political figures reacted angrily to a CNN report that Russia had plotted to kill the head of Germany's biggest arms company Rheinmetall, Armin Papperger.\n\nIn 2021 a German court jailed Russian national Vadim Krasikov for life for a murder in a Berlin park and said it had been ordered by Moscow . Krasikov was later freed in a prisoner swap.",
+            "zh": "报道称，德国情报部门认为，去年在柏林附近的树林中发现的一批枪支是为了代表俄罗斯进行暗杀。 德国内政部长亚历山大·多布林特表示，联邦检察官正在罗马尼亚调查一名涉嫌间谍活动和“准备实施威胁国家的严重暴力行为”的嫌疑人。 多布林特虽然拒绝证实俄罗斯与该储藏室有联系的报道，但表示他不能排除“外国势力的参与”。 几个月来，安全机构一直警告称，俄罗斯情报部门正计划在德国实施暗杀行动，目标可能是国防工业高管或流亡的反对派人士。 多布林特说，去年十月，德国国内情报机构意识到柏林郊区的树林里可能藏有武器。 官员们在柏林州警察的帮助下找到了藏匿处，发现了两把手枪和弹药。 德国安全当局怀疑发现的武器和弹药是用于袭击。 德国日报《南德意志报》以及公共广播公司 NDR 和 WDR 的报道称，这个藏匿处是为了代表莫斯科促进定点清除。 多布林特说，在枪支无法使用后，武器储藏室受到了长达数月的监视，但没有人靠近。 多布林特说：“这起案件表明我们正在面临高度威胁。” 这位部长表示，检察官正在调查罗马尼亚的一名嫌疑人，该嫌疑人因计划在罗马尼亚实施包裹炸弹袭击而被拘留。他表示，在可能的引渡问题上将考虑这一点。 他将嫌疑人描述为“低级特工”，并拒绝透露他的国籍。 他说，今年到目前为止，已有几名类似的特工被拘留，其中包括一名来自哈萨克斯坦的人。 此次调查是在此前指控俄罗斯袭击德国领土之后进行的。 2024 年，德国政界人士对美国有线电视新闻网 (CNN) 报道俄罗斯密谋刺杀德国最大军火公司莱茵金属公司负责人阿明·帕珀格 (Armin Papperger) 表示愤怒。 2021 年，德国一家法院因在柏林公园谋杀案而判处俄罗斯公民瓦迪姆·克拉西科夫 (Vadim Krasikov) 终身监禁，并表示这是莫斯科下令的。克拉西科夫后来在囚犯交换中获释。"
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c24me64n31qo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d199/live/3b807760-9d77-11f1-b109-879e35c24276.jpg",
+          "publishedAt": "2026-08-21T16:20:55.000Z",
+          "title": {
+            "en": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+            "zh": "埃塞俄比亚提格雷圣母玛利亚节因担心无人机袭击而取消"
+          },
+          "summary": {
+            "en": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A major cultural and religious festival celebrating women and the Virgin Mary in northern Ethiopia has been cancelled in Mekelle, the main city in the Tigray region, over fears it may be targeted in drone attacks.\n\nThe focal point of Ashenda festival, which traditionally draws thousands of young women dressed in their finery, was to be a mass gathering at a stadium in Mekelle on Saturday.\n\nTigray is still recovering from a brutal two-year civil war that ended in 2022. There are concerns the conflict might reignite with the regional authorities blaming a recent series of deadly drone strikes on federal armed forces.\n\nThe government has not responded to a BBC request for comment on the accusations.\n\nThe three-day festival of Ashenda takes places as Orthodox Christians commemorate the Virgin Mary. Its name means \"the tall green grass\" in Tigrinya and has grown into a wider cultural event that celebrates women.\n\nIt is eagerly anticipated by girls and young women in Tigray and other parts of northern Ethiopia.\n\nThey dress up, braid their hair in a special way and are free to dance and play together outside, something which is traditionally frowned upon at other times of the year.\n\nThe latest drone strike hit Mekelle on Thursday, injuring 13 civilians and damaging homes, Tigray's communications affairs bureau said.\n\nRegional officials also reported two drone strikes near Dandera, 15km (nine miles) from Mekelle, on 18 August, saying that one person died and another was injured. They also said that a strike in Raya-Alamata district on 10 August left three dead .\n\nAnnouncing the cancellation of Saturday's stadium gathering Dori Asgedom, head of Tigray's culture and tourism bureau, said it would not be going ahead because of \"ongoing drone strikes and the threat of war\".\n\n\"The drone attack on innocent citizens in Mekelle city is an act that history will not forgive and should be condemned,\" he added.\n\nReflecting on Thursday's attack, the Tigray regional administration called for the \"international community to break their silence\" and condemn what had happened and \"take urgent diplomatic action to prevent further escalation\".\n\nIn 2022, the Tigray People's Liberation Front (TPLF) and the federal government signed a deal ending two years of fighting that its estimated left hundreds of thousands dead.\n\nBut political tensions this year have raised fears the conflict could start again. This comes after the TPLF removed the interim administration set up under the peace deal and reinstated its pre-war council.",
+            "zh": "由于担心可能成为无人机袭击的目标，提格雷地区主要城市梅克莱取消了埃塞俄比亚北部庆祝妇女和圣母玛利亚的主要文化和宗教节日。 阿什达节传统上会吸引​​数千名身着华丽服饰的年轻女性，其焦点是周六在默克莱的一个体育场举行的群众集会。 提格雷仍在从 2022 年结束的两年残酷内战中恢复过来。人们担心冲突可能会重新爆发，地区当局将最近一系列致命的无人机袭击归咎于联邦武装部队。 政府尚未回应英国广播公司对这些指控发表评论的请求。 为期三天的阿什达节是东正教基督徒纪念圣母玛利亚的节日。它的名字在提格里尼亚语中意为“高高的绿草”，并已发展成为一项更广泛的庆祝女性的文化活动。 提格雷和埃塞俄比亚北部其他地区的女孩和年轻妇女热切期待着这一天。 他们盛装打扮，以特殊的方式编辫子，并可以在外面自由地跳舞和玩耍，而这在一年中的其他时间传统上是不被允许的。 提格雷通讯事务局表示，最新的无人机袭击于周四袭击了梅克莱，造成 13 名平民受伤，房屋受损。 地区官员还报告称，8 月 18 日，距离默克莱 15 公里（9 英里）的丹德拉附近发生了两起无人机袭击事件，造成 1 人死亡、1 人受伤。他们还表示，8 月 10 日拉亚-阿拉马塔地区的一次罢工造成三人死亡。 提格雷文化和旅游局局长多里·阿斯吉多姆(Dori Asgedom)在宣布取消周六的体育场聚会时表示，由于“持续的无人机袭击和战争威胁”，该活动不会继续进行。 他补充说：“无人机袭击默克莱市无辜公民的行为是历史不会原谅的行为，应该受到谴责。” 提格雷地区政府针对周四的袭击事件，呼吁“国际社会打破沉默”，谴责所发生的事情，并“采取紧急外交行动，防止事态进一步升级”。 2022 年，提格雷人民解放阵线 (TPLF) 和联邦政府签署了一项协议，结束了两年的战斗，估计造成数十万人死亡。 但今年的政治紧张局势引发了人们对冲突可能再次爆发的担忧。在此之前，蒂格雷人阵撤销了根据和平协议设立的临时政府，并恢复了其战前委员会。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-21-tornado-new-york-long-island-del",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/21/tornado-new-york-long-island-delaware",
+          "image": "https://i.guim.co.uk/img/media/f72d24cffb4b4d712d986e3a03a881a23c390967/0_970_1268_1013/master/1268.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85dc522b5e55336984e2d4afe968ade7",
+          "publishedAt": "2026-08-21T16:15:11.000Z",
+          "title": {
+            "en": "Tornadoes pummel New York’s Long Island and Delaware capital",
+            "zh": "龙卷风袭击纽约长岛和特拉华州首府"
+          },
+          "summary": {
+            "en": "First responders also rescued flood-stranded people after storms unleashed heavy rains in the US north-east Residents in Delaware’s capital and on Long Island, New York, were picking up the pieces on Friday after tornadoes touched down during sudden storms that battered the...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "First responders also rescued flood-stranded people after storms unleashed heavy rains in the US north-east Residents in Delaware ’s capital and on Long Island, New York , were picking up the pieces on Friday after tornadoes touched down during sudden storms that battered the north-eastern US with heavy rains and left dozens of people stranded in their cars during flash flooding. In Atlantic Beach on Long Island, the long peninsula that stretches out into the ocean to the east of New York City, images posted on social media showed a large funnel cloud over the water and small buildings torn apart at a beach club. Continue reading...",
+            "zh": "暴风雨在美国东北部带来大雨后，急救人员还营救了被洪水困住的人们周五，龙卷风袭击了美国东北部，暴雨袭击了美国东北部，导致洪水泛滥，导致数十人被困在车里，特拉华州首府和纽约长岛的居民正在收拾残局。在长岛的大西洋海滩，长岛延伸到纽约市东部的海洋，社交媒体上发布的图像显示，水面上空有一个巨大的漏斗云，海滩俱乐部的小建筑被撕毁。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -154,7 +420,7 @@
           "publishedAt": "2026-08-21T16:05:09.000Z",
           "title": {
             "en": "Eight killed in plane crash at remote Alaskan military site, air force says",
-            "zh": "空军称，阿拉斯加偏远军事基地的飞机失事造成八人死亡"
+            "zh": "空军称阿拉斯加偏远军事基地坠机事故造成八人死亡"
           },
           "summary": {
             "en": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
@@ -162,73 +428,7 @@
           },
           "body": {
             "en": "A plane crash at a remote US Air Force site in Alaska has killed all eight people on board, the US military has said.\n\nThe civilian-contracted aircraft crashed shortly after midday local time (20:00 GMT) on Thursday near Cape Newenham, which hosts the airport of a long-range radar site.\n\nIt is unclear who the other passengers were or why they were there, but the US Air Force Alaskan Command chief said they had been \"dedicated professionals carrying out a vital mission in a demanding environment\".\n\n\"This is a devastating loss for our military family and the communities we serve,\" Lt Gen Robert Davis added.\n\n\"Our absolute priority right now is providing unwavering support to their families, friends and teammates during this devastating time,\" he said in a statement.\n\n\"We are profoundly grateful for the swift and tireless response of our search and recovery professionals.\"\n\nThe plane originally took off from Anchorage International Airport and was bound for Cape Newenham - 450 miles (725 km) to the west by air - the US Air Force Alaskan Command said.\n\nRescuers who landed near the crash site \"confirmed there were no survivors\", it added. An investigation is under way and the deceased will be named once their next of kin had been informed.\n\nThe plane was chartered by the USACE, which said on Friday it had confirmed two its employees were aboard. The vast majority of the USACE's workforce are civilians and not enlisted soldiers.\n\nClint Johnson, the chief for the National Transportation Safety Board's Alaska region, said there had been two pilots and six passengers on board, CBS News, the BBC's US partner, reported.\n\nThe Cape Newenham site on Alaska's south-west coast is part of the Alaska Radar System, a network of remote sites that monitor aircraft approaching or operating in Alaskan airspace.",
-            "zh": "美国军方表示，阿拉斯加美国空军一处偏远基地发生的飞机失事已造成机上八人全部遇难。 这架民用飞机于当地时间周四中午（格林威治标准时间 20:00）后不久在纽恩纳姆角附近坠毁，该角设有一个远程雷达站点。 目前尚不清楚其他乘客是谁，也不清楚他们为何在那里，但美国空军阿拉斯加司令部司令表示，他们是“在严苛环境中执行重要任务的敬业专业人员”。 罗伯特·戴维斯中将补充说：“这对我们的军人家庭和我们服务的社区来说是毁灭性的损失。” 他在一份声明中说：“我们现在的绝对首要任务是在这个毁灭性的时刻为他们的家人、朋友和队友提供坚定不移的支持。” “我们对搜索和救援专业人员的迅速而不懈的反应深表感谢。” 美国空军阿拉斯加司令部表示，这架飞机最初从安克雷奇国际机场起飞，飞往纽恩纳姆角——距西边 450 英里（725 公里）。 声明补充说，降落在坠机地点附近的救援人员“确认没有幸存者”。调查正在进行中，一旦通知死者的近亲，将公布死者的姓名。 这架飞机是由美国陆军工程兵团包租的，该公司周五表示已确认机上有两名员工。美国陆军工程兵团的绝大多数员工都是平民，而不是现役士兵。 据英国广播公司美国合作伙伴哥伦比亚广播公司新闻报道，国家运输安全委员会阿拉斯加地区负责人克林特·约翰逊表示，机上有两名飞行员和六名乘客。 阿拉斯加西南海岸的纽恩纳角站点是阿拉斯加雷达系统的一部分，该系统是一个远程站点网络，用于监视接近或在阿拉斯加领空运行的飞机。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-politics-live-2026-aug-21-andy-burnham-growth-labour",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
-          "image": "https://i.guim.co.uk/img/media/2d3882f8a388b5dfde275937d947d3d2d0f82174/1290_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=09f9b7aa33cde0b70620efcfd4929031",
-          "publishedAt": "2026-08-21T15:54:48.000Z",
-          "title": {
-            "en": "Labour stalling on Jackdaw and Rosebank because ‘heart’s not really in it’, says Badenoch – as it happened",
-            "zh": "巴德诺克说，寒鸦号和罗斯班克号的工期停滞是因为“心不在其中”——事实确实如此"
-          },
-          "summary": {
-            "en": "This blog is now closed. See all our UK politics coverage here After Emily Thornberry’s call for the government to ban goods from the occupied West Bank (see post at 11:05), Peter Beaumont and Quique Kierszenbaum report on how Israeli settler attacks in areas designated for a...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "This blog is now closed. See all our UK politics coverage here After Emily Thornberry’s call for the government to ban goods from the occupied West Bank (see post at 11:05 ), Peter Beaumont and Quique Kierszenbaum report on how Israeli settler attacks in areas designated for a future Palestinian state and currently under direct Palestinian control have almost doubled since 2025. They wrote: According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B – placed under Palestinian Authority governance in the 1995 Oslo accords. The report, The Next Frontier, Violence by Israeli Civilians in Areas A and B, describes the “rapid shift” in “violence and pressure exerted by the government, military and settlers on Palestinians … from Area C into Areas B and even A”. No 10 North is putting more power into every postcode across the country so communities can unleash and unlock their own potential. I’m bringing together mayors from different political parties to work on these challenges, because people deserve problem-solving rather than point-scoring. The days of Westminster hoarding power are over. This government has kickstarted the biggest transition of power and resources in a generation, taking it from Whitehall and putting it back in the hands of local communities. Continue reading...",
-            "zh": "该博客现已关闭。在艾米丽·索恩伯里 (Emily Thornberry) 呼吁政府禁止来自被占领的约旦河西岸的货物（见 11:05 发布的帖子）之后，彼得·博蒙特 (Peter Beaumont) 和奎克·基尔森鲍姆 (Quique Kierszenbaum) 报告了自 2025 年以来，以色列定居者对指定为未来巴勒斯坦国和目前由巴勒斯坦直接控制的地区的袭击几乎增加了一倍。他们写道：根据以色列人权组织 Yesh Din 与《卫报》分享的一份报告，数据显示，近三分之二的2026 年迄今为止，定居者暴力事件发生在所谓的 A 区和 B 区——根据 1995 年《奥斯陆协议》，这些地区由巴勒斯坦权力机构管辖。这份名为《下一个前沿：A区和B区以色列平民的暴力》的报告描述了“政府、军队和定居者对巴勒斯坦人施加的暴力和压力……从C区到B区甚至A区的“迅速转变”。 No 10 North 正在为全国每个邮政编码注入更多力量，以便社区能够释放和释放自己的潜力。我正在召集来自不同政党的市长来共同应对这些挑战，因为人们应该解决问题而不是得分。威斯敏斯特囤积权力的时代已经结束。本届政府启动了一代人以来最大的权力和资源过渡，将其从白厅手中夺回当地社区手中。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c3r0g7gj2n3o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7891/live/e2465b10-9d67-11f1-a291-b542ee92de7c.jpg",
-          "publishedAt": "2026-08-21T15:42:47.000Z",
-          "title": {
-            "en": "Several injured after sword attack at Swedish school",
-            "zh": "瑞典学校持刀袭击多人受伤"
-          },
-          "summary": {
-            "en": "Police say one man has been arrested, while several other local schools have been locked down.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Several people have been injured after a sword attack at a high school in Sweden, local authorities say.\n\nPolice said they had arrested one man after the incident at Brinell School in Fagersta, central Sweden.\n\nOfficers were called to the scene just after 14:00 local time (13:00 BST) on Friday, with some reports in Swedish media saying the suspect was shot in the leg by police.\n\nFagersta council did not specify the number of wounded, but said police were searching the building and that eight other schools had been placed under lockdown measures.\n\nThe Vastmanland region, where Fagersta is located, has declared a state of high alert following the attack.\n\nIn a post on X, Sweden's Prime Minsiter Ulf Kristersson described the attack as a \"serious incident,\" and said \"we do not know what lies behind the act, but we know that police are working very intensively\".\n\nStudents at Brinell School had only just returned to the classroom following the summer break, with the new term beginning either on Monday or Wednesday this week, depending on the academic year.\n\nThe school has just under 500 students on its roster, according to Sweden's public broadcaster SVT, and is located 170km (105 miles) north-west of the capital, Stockholm.\n\nSweden has experienced a number of attacks on educational institutions in recent years.\n\nThe country experienced it's worst-ever mass shooting in 2025 , where 11 people, including the gunman, died at an adult education centre in Orebro.\n\nThis led to the government tightening the country's gun laws after it was found that the suspect legally owned four rifles, three of which were found in the school where attack took place.\n\nTwo teachers were killed in a violent attack on a secondary school in Malmo in 2022 - an 18-year-old student later confessed to the attack.\n\nIn 2015, a teacher and a pupil were killed in a sword attack at a school in Trollhattan .",
-            "zh": "地方当局称，瑞典一所高中发生持剑袭击事件，造成多人受伤。 警方表示，在瑞典中部法格斯塔的布内尔学校发生事件后，他们逮捕了一名男子。 当地时间周五 14:00（英国夏令时 13:00）刚过，警方接到报警赶到现场，瑞典媒体的一些报道称，嫌疑人的腿部被警方开枪射中。 法格斯塔议会没有具体说明受伤人数，但表示警方正在搜查该建筑，另外八所学校已采取封锁措施。 法格斯塔所在的西曼兰地区在袭击发生后已宣布进入高度戒备状态。 瑞典总理乌尔夫·克里斯特森 (Ulf Kristersson) 在 X 上的一篇帖子中将此次袭击描述为“严重事件”，并表示“我们不知道该行为背后的原因，但我们知道警方正在非常紧张地开展工作”。 布内尔学校的学生暑假结束后才刚刚回到教室，新学期根据学年的不同，将于本周周一或周三开始。 据瑞典公共广播公司 SVT 报道，该学校名册上有不到 500 名学生，位于首都斯德哥尔摩西北 170 公里（105 英里）处。 近年来，瑞典经历了多起针对教育机构的袭击。 2025 年，该国经历了有史以来最严重的大规模枪击事件，包括枪手在内的 11 人在厄勒布鲁的一个成人教育中心死亡。 这导致政府在发现嫌疑人合法拥有四支步枪后收紧了该国的枪支法，其中三支是在袭击发生的学校中发现的。 2022 年，马尔默一所中学发生暴力袭击，造成两名教师死亡，一名 18 岁学生后来承认了这起袭击事件。 2015年，特罗尔海坦一所学校的一名教师和一名学生在持刀袭击中丧生。"
+            "zh": "美国军方表示，阿拉斯加美国空军一处偏远基地发生的飞机失事已造成机上八人全部遇难。 这架民用飞机于当地时间周四中午（格林威治标准时间 20:00）后不久在纽恩纳姆角附近坠毁，该角设有一个远程雷达站点。 目前尚不清楚其他乘客是谁，也不清楚他们为何在那里，但美国空军阿拉斯加司令部司令表示，他们是“在严苛环境中执行重要任务的敬业专业人员”。 罗伯特·戴维斯中将补充说：“这对我们的军人家庭和我们服务的社区来说是毁灭性的损失。” 他在一份声明中说：“我们现在的绝对首要任务是在这个毁灭性的时刻为他们的家人、朋友和队友提供坚定不移的支持。” “我们非常感谢我们的搜索和救援专业人员的迅速和不知疲倦的反应。” 美国空军阿拉斯加司令部表示，这架飞机最初从安克雷奇国际机场起飞，飞往纽恩纳姆角——距西边 450 英里（725 公里）。 声明补充说，降落在坠机地点附近的救援人员“确认没有幸存者”。调查正在进行中，一旦通知死者的近亲，将公布死者的姓名。 这架飞机是由美国陆军工程兵团包租的，该公司周五表示已确认机上有两名员工。美国陆军工程兵团的绝大多数员工都是平民，而不是现役士兵。 据英国广播公司美国合作伙伴哥伦比亚广播公司新闻报道，国家运输安全委员会阿拉斯加地区负责人克林特·约翰逊表示，机上有两名飞行员和六名乘客。 阿拉斯加西南海岸的纽恩纳角站点是阿拉斯加雷达系统的一部分，该系统是一个远程站点网络，用于监视接近或在阿拉斯加领空运行的飞机。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
@@ -278,205 +478,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-aug-21-alex-jones-texas-court-sandy-hoo",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/21/alex-jones-texas-court-sandy-hook-school-shooting-hoax",
-          "image": "https://i.guim.co.uk/img/media/f6a3d36851aec5e551685ead8806dad79bacdb01/577_0_6372_5096/master/6372.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=14239a5735796ec5371bca75db3cd658",
-          "publishedAt": "2026-08-21T15:32:23.000Z",
-          "title": {
-            "en": "Texas slashes $50m judgment against Alex Jones over false claim Sandy Hook shooting was hoax",
-            "zh": "得克萨斯州削减了对亚历克斯·琼斯 (Alex Jones) 5000 万美元的判决，理由是桑迪·胡克 (Sandy Hook) 枪击事件是骗局的虚假指控"
-          },
-          "summary": {
-            "en": "Appeals court slashes judgment to $1.5m in a significant legal victory for the rightwing Infowars founder A Texas appeals court has slashed the $50m judgment to $1.5m against Alex Jones, founder of the rightwing platform Infowars, over falsely calling the 2012 Sandy Hook school...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Appeals court slashes judgment to $1.5m in a significant legal victory for the rightwing Infowars founder A Texas appeals court has slashed the $50m judgment to $1.5m against Alex Jones, founder of the rightwing platform Infowars , over falsely calling the 2012 Sandy Hook school shooting in Newtown, Connecticut a hoax. The ruling does not affect a $1.4bn judgment against Jones in Connecticut, but is a significant legal victory for Jones after he and his company, Free Speech Systems, were found liable for damages for claiming the mass shooting didn’t happen. Continue reading...",
-            "zh": "上诉法院将右翼 Infowars 创始人的判决削减至 150 万美元，这是右翼 Infowars 创始人的重大法律胜利 得克萨斯州上诉法院将右翼平台 Infowars 创始人亚历克斯·琼斯 (Alex Jones) 的 5000 万美元判决削减至 150 万美元，原因是他错误地称 2012 年康涅狄格州纽敦桑迪胡克学校枪击事件为骗局。该裁决不会影响康涅狄格州针对琼斯的 14 亿美元判决，但对于琼斯来说，这是一次重大的法律胜利，因为他和他的公司 Free Speech Systems 因声称大规模枪击事件并未发生而被判承担损害赔偿责任。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-aug-21-jd-vance-mark-carney-out-tough-t",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-          "image": "https://i.guim.co.uk/img/media/e60c561c88a26ce167735ef91210ae4cc78dd494/0_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=863849e9af427d61bbceab9a3c4482d6",
-          "publishedAt": "2026-08-21T15:22:48.000Z",
-          "title": {
-            "en": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
-            "zh": "据报道，JD万斯嘲笑卡尼试图在贸易问题上“强硬”特朗普"
-          },
-          "summary": {
-            "en": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to “out-tough” Donald Trump. The recording, which was reportedly made at a fundraiser and shared with the Canadian Press , comes in the last stretch of a difficult negotiation in which the US president has threatened to impose 50% tariffs on Canada. Continue reading...",
-            "zh": "美国副总统的录音显然是在纽约筹款活动上录制的，并与加拿大媒体分享 据报道，在一次私人活动中泄露的音频记录了美国副总统 JD 万斯嘲笑加拿大在贸易协议中明显投降，并嘲笑加拿大总理马克·卡尼试图“强硬”唐纳德·特朗普。据报道，这段录音是在一次筹款活动中录制的，并与加拿大媒体分享，该录音是在一场艰难谈判的最后阶段进行的，美国总统在谈判中威胁要对加拿大征收 50% 的关税。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-live-2026-aug-21-democrats-progressive-elect",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
-          "image": "https://i.guim.co.uk/img/media/5b8d9132af55955e74691e6bdfc6562717e575c7/0_0_4865_3888/master/4865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e06bc26679bf76eb553d3309a726d35f",
-          "publishedAt": "2026-08-21T15:15:05.000Z",
-          "title": {
-            "en": "‘Shouldn’t be renamed at all’: senator attacks Navy’s reported consideration of honoring Trump instead of Black war hero – live",
-            "zh": "参议员抨击海军考虑以特朗普而非黑人战争英雄命名航母的报道"
-          },
-          "summary": {
-            "en": "A senator and retired Navy officer criticized reports that the Navy is considering naming an aircraft carrier after former President Trump, potentially replacing plans to honor World War II hero Doris Miller, a Black sailor who distinguished himself during the attack on Pearl Harbor.",
-            "zh": "一位参议员兼退役海军军官批评了海军考虑将一艘航空母舰以美国前总统特朗普的名字命名，这可能会取代原计划以二战英雄、在珍珠港袭击中表现英勇的黑人水兵多里斯·米勒的名字命名该舰的报道。"
-          },
-          "body": {
-            "en": "Mark Kelly, an Arizona Democrat and retired Navy officer, slams Navy’s mulling of naming a carrier for Trump instead of WWII hero Doris Miller US navy carrier set to honor Black war hero may reportedly be renamed after Trump Sign up for the US Breaking News email The NAACP has weighed in on efforts by the Trump administration to strip the name of a Black WWII hero from a carrier under construction. “Doris Miller earned his place in American history through courage, sacrifice, and service. Donald Trump only wants to serve himself,” said NAACP president Derrick Johnson . This is a slap in the face to every war hero and every service member who has worn the uniform. It’s beyond comprehension for a president to want his own name on a Navy ship while our armed forces are living in deteriorating conditions aboard the USS Abraham Lincoln. For generations, millions of Black women and men have proudly served in the United States military, defending freedoms that too often were not even afforded to them, their families, or their communities. Donald Trump is making a mockery of that legacy by treating military service as another opportunity for personal branding. Our brave service members signed up to defend the nation, not the fragile ego of one man. America deserves better than this. Continue reading...",
-            "zh": "亚利桑那州民主党人、退役海军军官马克·凯利猛烈抨击海军考虑以特朗普而非二战英雄多丽丝·米勒命名一艘航母。 据路透社报道，在美国上诉法院周五维持下级法院针对调查的禁令后，司法部针对纽约总检察长利蒂西亚·詹姆斯办公室的传票仍被封锁。詹姆斯对唐纳德·特朗普及其家族企业以及全国步枪协会提起民事诉讼，这两家公司在随后的审判中都被认定负有责任。据路透社当时报道，特朗普于 2025 年上任后，司法部开始轮流调查詹姆斯，对与这些案件相关的潜在侵犯公民权利的行为启动刑事调查。继续阅读..."
-          },
-          "reflection": {
-            "en": "Decisions about who to honor reflect the values a society upholds. This situation prompts us to consider whether public recognition is driven by selfless humility, valuing the significant contributions of others, or by ambition. Yahweh calls us to prioritize the dignity and service of all, especially those whose sacrifices have shaped our history.",
-            "zh": "关于纪念谁的决定反映了一个社会所秉持的价值观。这种情况促使我们思考，公共表彰是由无私的谦卑驱动，重视他人的重大贡献，还是由野心驱动。雅伟呼召我们优先考虑所有人的尊严和贡献，特别是那些塑造了我们历史的牺牲者。"
-          },
-          "verse": {
-            "reference": "Philippians 2:3",
-            "textEn": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.",
-            "textZh": "凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。",
-            "themeEn": "Selfless humility",
-            "themeZh": "无私的谦卑"
-          },
-          "aiVerseId": "phil_2_3",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c0rd1pkdky8o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efe3/live/988becf0-8a80-11f1-83c5-cf36fe4b083e.jpg",
-          "publishedAt": "2026-08-21T14:38:05.000Z",
-          "title": {
-            "en": "Corruption charges dropped against South Africa's police intelligence boss",
-            "zh": "对南非警察情报部门负责人的腐败指控被撤销"
-          },
-          "summary": {
-            "en": "Officials had faced charges over the appointment of a civilian to a top post within crime intelligence.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "South African prosecutors have withdrawn fraud and corruption charges brought against criminal intelligence chief Lt-Gen Dumisani Khumalo and six other police officers.\n\nHe and his colleagues were arrested in June 2025 over the allegedly unlawful appointment of a civilian to a key post within the intelligence unit. They denied the charges and were not suspended.\n\nThe case against them was now been formally dropped at a court in the capital, Pretoria, after a review last month by the country's chief prosecutor.\n\nSouth Africa's police force has long been plagued by issues of political interference, alleged corruption and a seeming inability to effectively tackle high levels of crime.\n\nA major judicial inquiry into alleged police corruption, known as the Madlanga Commission, is currently under way.\n\nIt was established last year by President Cyril Ramaphosa after a senior police officer alleged that organised crime groups had infiltrated the government.\n\nSpeaking outside court in Pretoria after the withdrawal of the charges, Gen Khumalo expressed relief that the \"truth at least is out\".\n\nProsecutors had claimed that Dineo Mokwele was unqualified for the senior technical support services position she held within crime intelligence and labelled her a \"token appointment\".\n\nIt heard that Mokwele was more than qualified for the post and had about a dozen certificates to her name.\n\nIn July, Andrea Johnson - the former head of a specialised unit within the National Prosecuting Authority (NPA) tasked with investigating high level and complex corruption cases - appeared before the commission.\n\nShe admitted that she was unaware of Mokwele's qualifications and apologised for remarks made about her.\n\nGen Khumalo became the head of Crime Intelligence in 2022. Up until then, he had served in different police units for more than two decades.",
-            "zh": "南非检察官撤回了对刑事情报局长杜米萨尼·库马洛中将和其他六名警察提出的欺诈和腐败指控。 他和他的同事于 2025 年 6 月因涉嫌非法任命一名平民担任情报部门的关键职位而被捕。他们否认了这些指控，也没有被停职。 经过该国首席检察官上个月的审查后，针对他们的案件现已在首都比勒陀利亚的一家法院正式撤销。 南非警察部队长期以来一直受到政治干预、涉嫌腐败以及似乎无力有效应对高发犯罪率等问题的困扰。 一项名为“马德兰加委员会”的针对警察腐败指控的重大司法调查目前正在进行中。 去年，在一名高级警官指控有组织犯罪团伙渗透到政府后，总统西里尔·拉马福萨成立了该机构。 撤销指控后，库马洛将军在比勒陀利亚法庭外发表讲话，表示“至少真相大白了”，这让他松了口气。 检察官声称迪内奥·莫克韦勒不具备担任犯罪情报部门高级技术支持服务职位的资格，并给她贴上“象征性任命”的标签。 听说莫克韦勒完全有资格担任这个职位，并且拥有大约十几张证书。 7 月，国家检察机关 (NPA) 内负责调查高级别和复杂腐败案件的专门部门前负责人安德里亚·约翰逊 (Andrea Johnson) 出现在委员会面前。 她承认她不知道莫克韦勒的资格，并为针对她的言论道歉。 库马洛将军于 2022 年成为犯罪情报部门负责人。在此之前，他已在不同的警察部门服务了二十多年。"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-videos-cy07x9ne871o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/905b/live/e3cfe470-9d6b-11f1-a2d1-59489fee904d.jpg",
-          "publishedAt": "2026-08-21T14:35:50.000Z",
-          "title": {
-            "en": "Tornadoes touch down in New York and Delaware",
-            "zh": "龙卷风登陆纽约和特拉华州"
-          },
-          "summary": {
-            "en": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Tornadoes, heavy rain and powerful winds battered the Northeast, through Atlantic Beach in Long Island, New York and knocked out power across parts of Delaware’s capital. Police say there are no reports of serious injuries in Atlantic Beach.",
-            "zh": "龙卷风、暴雨和强风袭击了东北部，穿过纽约长岛的大西洋海滩，导致特拉华州首府部分地区停电。警方表示，大西洋海滩没有严重受伤的报告。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cdx81edn9g4o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cdx81edn9g4o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c722/live/1d98d7d0-9d70-11f1-bdcc-8926c4a74c43.jpg",
-          "publishedAt": "2026-08-21T14:23:22.000Z",
-          "title": {
-            "en": "Ex-Abercrombie & Fitch chief fit to stand trial in sex trafficking case, judge says",
-            "zh": "法官称前 Abercrombie & Fitch 首席执行官适合在性交易案件中受审"
-          },
-          "summary": {
-            "en": "Jeffries was declared \"mentally incompetent\" by a court last year and said to be suffering with dementia and late onset of Alzheimer's disease.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Former CEO of Abercrombie & Fitch Mike Jeffries is competent to stand trial on sex trafficking and prostitution charges, a federal court has ruled, reversing an earlier decision.\n\nJeffries was declared \"mentally incompetent\" by a court last year and said to be suffering with dementia and late onset of Alzheimer's disease.\n\nBased on an examination of his medical records and more than 21 hours of audio recordings across 109 calls, Judge Nusrat Choudhury has now ruled that there was \"ample evidence\" to show that he was fit to stand trial.\n\nJeffries faces over a dozen charges related to sex trafficking in violation of interstate prostitution. His trial is scheduled to begin on 26 October.\n\nJudge Choudhury said in the 150-plus page ruling that the audio recordings of phone calls were \"particularly illuminating\".\n\n\"On the calls, Jeffries is a fluent conversational partner and shows that he has the ability to learn new information auditorily,\" Judge Choudhury said. \"Jeffries clearly possesses a rational and factual understanding of the proceedings to adjudicate his criminal charges.\"\n\nThe judge said the court would still make certain accommodations, in light of Jeffries 81 years of age and cognitive impairments.\n\nThe court will be held from 13:00-17:00, so that Jeffries may use the morning to review transcripts and discuss developments from the previous day.\n\nTrial will also include \"at least two or three 15-minute breaks\" and both parties will be required to provide full transcripts each day for Jeffries' review.\n\n\"To be clear, Jeffries is competent to proceed regardless of these accommodations,\" Judge Choudhury said.\n\nIn October 2024, Jeffries, his partner Matthew Smith, 62, and their alleged middleman James Jacobson, 73, were charged with running a global sex trafficking and prostitution business.\n\nThey have pleaded not guilty to the charges. A guilty verdict would carry a maximum sentence of life in prison.\n\nTheir arrests followed an October 2023 BBC investigation and ongoing podcast series that revealed the trio had been at the centre of a sophisticated operation scouting young men for sex around the world while Jeffries was CEO of Abercrombie & Fitch.",
-            "zh": "联邦法院推翻了先前的裁决，裁定 Abercrombie & Fitch 前首席执行官迈克·杰弗里斯 (Mike Jeffries) 有能力接受性交易和卖淫指控的审判。 去年，杰弗里斯被法院宣布为“精神上无行为能力”，并据称患有痴呆症和迟发性阿尔茨海默病。 根据对他的医疗记录和 109 个电话中超过 21 小时的录音的检查，努斯拉特·乔杜里 (Nusrat Choudhury) 法官现已裁定，有“充分的证据”表明他适合接受审判。 杰弗里斯面临十多项与违反州际卖淫行为的性贩运相关的指控。他的审判定于 10 月 26 日开始。 乔杜里法官在 150 多页的裁决中表示，电话录音“特别有启发性”。 乔杜里法官说：“在电话中，杰弗里斯是一位流利的对话伙伴，并表明他有能力通过听觉学习新信息。” “杰弗里斯显然对裁决他的刑事指控的程序有理性和事实的理解。” 法官表示，鉴于杰弗里斯已经 81 岁了，并且有认知障碍，法院仍会做出一定的调整。 法庭将于 13:00-17:00 开庭，以便杰弗里斯可以利用上午的时间查看笔录并讨论前一天的进展情况。 审判还将包括“至少两到三个 15 分钟的休息时间”，双方都必须每天提供完整的笔录供杰弗里斯审查。 乔杜里法官说：“需要明确的是，无论这些安排如何，杰弗里斯都有能力继续进行。” 2024 年 10 月，杰弗里斯、他 62 岁的伴侣马修·史密斯 (Matthew Smith) 以及他们所谓的中间人 73 岁的詹姆斯·雅各布森 (James Jacobson) 被指控经营全球性贩运和卖淫业务。 他们对这些指控表示不认罪。有罪判决最高可判处终身监禁。 他们被捕之前，BBC 于 2023 年 10 月进行了一项调查，并且正在进行的播客系列节目显示，在杰弗里斯担任 Abercrombie & Fitch 首席执行官期间，这三人一直处于在世界各地寻找年轻男性进行性行为的复杂行动的中心。"
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-dw-com-en-40-years-after-the-lake-nyos-disaster-in-cameroon-a-784596",
           "section": "world",
           "source": "DW World",
@@ -494,7 +495,7 @@
           },
           "body": {
             "en": "On August 21, 1986, a silent cloud of carbon dioxide swept through villages around Lake Nyos in Cameroon, killing nearly 2,000 people in their sleep. Four decades later, survivors are still living with the trauma.\n\n\"The Lake Nyos disaster took everybody by surprise. We had no warning signals before it ever took place,\" said&#160;Isaac Konfor Njilah, a Cameroonian geologist and head of a laboratory in the department of Earth Sciences at the University of Yaounde.\n\nOn the night of August 21, 1986, Lake Nyos suddenly released a massive cloud of carbon dioxide that spread through nearby valleys and villages. The gas replaced oxygen, suffocating people and animals as they slept.\n\nLocated in Cameroon's Northwest Region, about 315 kilometers (196 miles) northwest of Yaounde, Lake Nyos sits inside an ancient volcanic crater in the Oku volcanic field. At the time of the incident, the area's population exceeded 3,000, with many families relying on farming and cattle ranching.\n\nThe disaster claimed the lives of about 1,700 people and some 3,500 head of livestock, making it one of the deadliest natural disasters in Cameroon's history.\n\nFollowing the disaster, scientists from Cameroon and abroad launched extensive investigations to determine what had happened.\n\nThey concluded that carbon dioxide from deep underground had been accumulating at the bottom of the lake for years, trapped beneath more than 200 meters (656 feet) of water.\n\nBefore the disaster, the upper layers of the lake contained oxygen-rich water, while the deeper layers were saturated with dissolved carbon dioxide. Njilah explains that water has an insatiable appetite for carbon dioxide.\n\n\"So when carbon dioxide comes from the [Earth's]&#160;mantle, it is being dissolved continuously in the lake,\"&#160;Njilah told DW.\n\nScientists often compare Lake Nyos to a giant bottle of carbonated water. For decades, carbon dioxide built up in the lake's depths. When that balance was disturbed, the gas escaped in a rapid chain reaction, releasing a deadly cloud that rolled through nearby communities.\n\nResearchers believe a landslide may have triggered the release by disturbing the gas-rich waters at the bottom of the lake.\n\nCarbon dioxide is harmless at normal atmospheric levels. But in high concentrations, it acts as an asphyxiant, displacing oxygen in the air. Because the gas is heavier than air, it flowed downhill into villages, where many residents died in their sleep before realizing anything was wrong.\n\nThe Nyos tragedy was not a first in Cameroon. Two years earlier, on August 15, 1984, a similar event occurred at nearby Lake Monoun, about 100 kilometers southeast of Nyos. A sudden release of carbon dioxide killed 37 people.\n\nScientists were still investigating the Monoun disaster when the far deadlier...",
-            "zh": "1986年8月21日，一股二氧化碳云无声无息地席卷了喀麦隆尼奥斯湖周围的村庄，导致近2000人在睡梦中丧生。四十年过去了，幸存者仍然承受着创伤。 喀麦隆地质学家、雅温得大学地球科学系实验室主任艾萨克·康福尔·恩吉拉 (Isaac Konfor Njilah) 表示：“尼奥斯湖灾难让所有人都大吃一惊。灾难发生之前我们没有任何预警信号。” 1986年8月21日晚上，尼奥斯湖突然释放出大量二氧化碳云，扩散到附近的山谷和村庄。这些气体取代了氧气，使熟睡的人和动物窒息而死。 尼奥斯湖位于喀麦隆西北地区，雅温得西北约 315 公里（196 英里）处，坐落在奥库火山场的一个古老火山口内。事发时，该地区人口超过3000人，许多家庭以务农和放牧为生。 这场灾难夺去了约1,700人的生命和约3,500头牲畜的生命，使其成为喀麦隆历史上最致命的自然灾害之一。 灾难发生后，来自喀麦隆和国外的科学家展开了广泛的调查，以确定发生了什么。 他们得出的结论是，来自地下深处的二氧化碳多年来一直在湖底积聚，被困在 200 多米（656 英尺）深的水下。 灾难发生前，湖的上层含有富氧水，而深层则充满了溶解的二氧化碳。尼吉拉解释说，水对二氧化碳有着无法满足的胃口。 恩吉拉告诉德国之声：“因此，当二氧化碳来自（地幔）时，它会不断溶解在湖中。” 科学家经常将尼奥斯湖比作一大瓶碳酸水。几十年来，二氧化碳在湖的深处不断积累。当这种平衡被打破时，气体会发生快速的连锁反应，释放出致命的云，席卷附近的社区。 研究人员认为，山体滑坡可能通过扰乱湖底富含气体的水域而引发释放。 二氧化碳在正常大气水平下是无害的。但在高浓度下，它会起到窒息剂的作用，取代空气中的氧气。由于气体比空气重，它顺着山坡流入村庄，许多居民在意识到问题之前就在睡梦中死去。 尼奥斯悲剧在喀麦隆并不是第一次发生。两年前，即 1984 年 8 月 15 日，尼奥斯东南约 100 公里处的莫努恩湖附近也发生了类似的事件。突然释放的二氧化碳导致 37 人死亡。 科学家们仍在调查莫农灾难，当时更致命的......"
+            "zh": "1986年8月21日，一股二氧化碳云无声无息地席卷了喀麦隆尼奥斯湖周围的村庄，导致近2000人在睡梦中丧生。四十年过去了，幸存者仍然承受着创伤。 喀麦隆地质学家、雅温得大学地球科学系实验室主任艾萨克·康福尔·恩吉拉 (Isaac Konfor Njilah) 表示：“尼奥斯湖灾难让所有人都大吃一惊。灾难发生之前我们没有任何预警信号。” 1986年8月21日晚上，尼奥斯湖突然释放出大量二氧化碳云，扩散到附近的山谷和村庄。这些气体取代了氧气，使熟睡的人和动物窒息而死。 尼奥斯湖位于喀麦隆西北地区，雅温得西北约 315 公里（196 英里）处，坐落在奥库火山场的一个古老火山口内。事发时，该地区人口超过3000人，许多家庭以务农和放牧为生。 这场灾难夺去了约1,700人的生命和约3,500头牲畜的生命，使其成为喀麦隆历史上最致命的自然灾害之一。 灾难发生后，来自喀麦隆和国外的科学家开展了广泛的调查，以确定发生了什么。 他们得出的结论是，来自地下深处的二氧化碳多年来一直在湖底积聚，被困在 200 多米（656 英尺）深的水下。 灾难发生前，湖的上层含有富氧水，而深层则充满了溶解的二氧化碳。尼吉拉解释说，水对二氧化碳有着无法满足的胃口。 恩吉拉告诉德国之声：“因此，当二氧化碳来自（地幔）时，它会不断溶解在湖中。” 科学家经常将尼奥斯湖比作一大瓶碳酸水。几十年来，二氧化碳在湖的深处不断积累。当这种平衡被打破时，气体会通过快速的连锁反应逸出，释放出致命的云，席卷附近的社区。 研究人员认为，山体滑坡可能通过扰乱湖底富含气体的水域而引发释放。 二氧化碳在正常大气水平下是无害的。但在高浓度下，它会起到窒息剂的作用，取代空气中的氧气。由于气体比空气重，它顺着山坡流入村庄，许多居民在意识到问题之前就在睡梦中死去。 尼奥斯悲剧在喀麦隆并不是第一次发生。两年前，即 1984 年 8 月 15 日，尼奥斯东南约 100 公里处的莫努恩湖附近也发生了类似的事件。突然释放的二氧化碳导致 37 人死亡。 科学家们仍在调查莫农灾难，当时更致命的......"
           },
           "reflection": {
             "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
