@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:12:17.935Z",
+  "generatedAt": "2026-08-22T17:12:57.974Z",
   "editionDate": "2026-08-23",
   "sources": [
     {
@@ -112,13 +112,81 @@
       ],
       "items": [
         {
+          "id": "www-bbc-co-uk-news-videos-cgljl9zp47xo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dee7/live/c783fb00-9e4a-11f1-8871-ff7211da55c9.jpg",
+          "publishedAt": "2026-08-22T17:02:06.000Z",
+          "title": {
+            "en": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+            "zh": "观看：人形机器人打破博尔特百米纪录的瞬间"
+          },
+          "summary": {
+            "en": "A humanoid robot has set a new 100-meter dash record, completing the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing, surpassing Usain Bolt's human record.",
+            "zh": "在北京举行的世界人形机器人大赛中，一台人形机器人以9.39秒的成绩跑完100米，打破了尤塞恩·博尔特保持的人类百米纪录。"
+          },
+          "body": {
+            "en": "A humanoid robot has outperformed humans by running faster than Usain Bolt's 100m sprint world record at the World Humanoid Robot Games in Beijing.\n\nTianzhuo, the robot developed by China's Beijing Innovation Centre of Humanoid Robotics, ran the distance in 9.39 seconds at the event.\n\nEight-time Olympic gold medallist Bolt set the world record for humans in 2009, running 100m in 9.58 seconds.\n\nThe robot beat two others including one made by Chinese smartphone maker Honor - which the manufacturer says ran the distance in 9.32 seconds in a test run.\n\nOther events at the robot games, which started on Saturday, include boxing and football, but also household tasks such as folding laundry.",
+            "zh": "在北京举行的世界人形机器人运动会上，一款人形机器人跑得比尤塞恩·博尔特 (Usain Bolt) 所保持的 1 亿米短跑世界纪录还要快，从而超越了人类。 由中国北京仿人机器人创新中心研发的机器人天卓在比赛中跑出了9.39秒的成绩。 八届奥运会金牌得主博尔特在 2009 年以 9.58 秒跑完 100m 的成绩创下了人类世界纪录。 该机器人击败了另外两个机器人，其中包括中国智能手机制造商荣耀制造的一个机器人，该制造商表示，该机器人在测试运行中仅用了 9.32 秒就跑完了距离。 周六开始的机器人比赛的其他项目包括拳击和足球，还有叠衣服等家务活。"
+          },
+          "reflection": {
+            "en": "As technology advances and robots achieve feats once thought exclusively human, we are prompted to reflect on what truly defines our humanity. Genesis 1:27 reminds us that Yahweh created us in his own image, imbuing us with unique dignity and purpose beyond physical capabilities. This divine imprint is our enduring value, regardless of what machines can...",
+            "zh": "随着科技进步，机器人实现了曾被认为是人类专属的壮举，这促使我们反思究竟是什么定义了我们的人性。创世记1:27提醒我们，雅伟照着自己的形象创造了我们，赋予我们超越身体能力之外的独特尊严和目的。无论机器能完成什么，这神圣的印记才是我们永恒的价值。"
+          },
+          "verse": {
+            "reference": "Genesis 1:27",
+            "textEn": "So God created mankind in his own image, in the image of God he created them; male and female he created them.",
+            "textZh": "神就照着自己的形象造人，乃是照着他的形象造男造女。",
+            "themeEn": "Image of God",
+            "themeZh": "神的形象"
+          },
+          "aiVerseId": "gen_1_27",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cm2g23ng8p4o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8464/live/2b4c9540-9e44-11f1-a291-b542ee92de7c.jpg",
+          "publishedAt": "2026-08-22T16:57:19.000Z",
+          "title": {
+            "en": "US military newspaper editor voices censorship fears after being fired",
+            "zh": "美国军事报纸编辑因表达审查担忧而被解雇"
+          },
+          "summary": {
+            "en": "Erik Slavin, an editor at a US military newspaper, believes he was dismissed from his position. He attributes his firing to a comment he made in an interview, where he stated that \"in a hypothetical situation, censorship would be a red line.\"",
+            "zh": "美国一份军事报纸的编辑埃里克·斯拉文认为自己被解雇了。他将解雇归因于他在一次采访中发表的评论，当时他说“在假设情况下，审查制度将是一条红线”。"
+          },
+          "body": {
+            "en": "The editor-in-chief of US military newspaper Stars and Stripes has told the BBC of his concern over censorship a day after being dismissed by the US Department of Defense (DoD) for \"insubordination\".\n\n\"This is a time when we really need to hear what's happening,\" Erik Slavin said, adding that Pentagon officials appeared to be \"less and less inclined to speak on the record\".\n\nSlavin says he believes he was fired for having stated in an interview that \"in a hypothetical situation, censorship would be a red line\". A reporter and the paper's publisher were also sacked.\n\nThe Pentagon told the BBC it would not comment. But the sackings come amid tension between the Trump administration and the US media.\n\nEven though partially funded by the Pentagon, Stars and Stripes has been editorially independent - through a congressional mandate and DoD rules.\n\nThe newspaper's Middle East reporter Lara Korte said she had also been told she was fired.\n\nBoth Slavin and Korte say their dismissals - both for insubordination - relate to an interview they gave to CBS's Sunday Morning programme last month, according to the BBC's US partner CBS News.\n\nHe had announced his retirement on Tuesday, saying his understanding of the paper's value and mission differed in \"fundamental ways\" from the Pentagon's plans for the publication.\n\nSlavin, who has worked for the paper for 21 years, told the PM programme that he had not been given an official explanation for his dismissal - and was considering his response even though he was not allowed to appeal.\n\nHe said he did not know if it had to do with his paper's original reporting of conditions aboard USS Abraham Lincoln - the warship which has been deployed in the Gulf for months as the US-Israeli war with Iran continues.\n\nThe vessel has spent a record-setting uninterrupted time at sea of more than 240 days and family members of sailors aboard have expressed concern about their mental health, with some sailors having reportedly attempted to jump overboard.\n\nBut Slavin said his dismissal came in a climate where the Pentagon had not had a press conference since May, and where journalists had refused attempts to interfere with their reporting.\n\nFor her part, Korte wrote on X: \"It's a shame for the institution and service members, who swore to defend the Constitution and deserve the right to a free and independent press.\"\n\nThe president of the National Press Club, Mark Schoeff Jr, described Slavin's firing as \"another brazen attempt by the Pentagon to dictate coverage of the military and should be immediately reversed\".\n\nAn average of 1.4 million people consume Stars and Stripes's content daily, mostly online, according to CBS.\n\nThe paper is still printed outside the US for members of the military in places with unreliable internet...",
+            "zh": "美国军事报纸《星条旗报》的主编在因“不服从命令”而被美国国防部解雇的一天后，向 BBC 表达了他对审查制度的担忧。 埃里克·斯拉文说：“现在我们确实需要了解正在发生的事情。”他补充说，五角大楼官员似乎“越来越不愿意公开发言”。 斯莱文表示，他相信自己被解雇是因为在接受采访时表示“在假设的情况下，审查制度将是一条红线”。一名记者和该报的出版商也被解雇。 五角大楼告诉 BBC，不会发表评论。但此次解雇是在特朗普政府与美国媒体之间关系紧张之际进行的。 尽管部分资金来自五角大楼，星条旗报仍是根据国会授权和国防部规定在编辑上独立的。 该报的中东记者 Lara Korte 表示，她也被告知自己被解雇了。 据英国广播公司美国合作伙伴哥伦比亚广播公司新闻报道，斯莱文和科特均表示，他们的解雇（均因不服从命令）与他们上个月接受哥伦比亚广播公司周日早间节目的采访有关。 他于周二宣布退休，称他对这份报纸价值和使命的理解与五角大楼的出版计划存在“根本性差异”。 为该报工作了 21 年的斯拉文告诉 PM 节目，他没有得到关于他被解雇的正式解释，并且正在考虑他的回应，尽管他不被允许上诉。 他说，他不知道这是否与他的报纸最初报道亚伯拉罕·林肯号航空母舰的情况有关。随着美以与伊朗的战争继续，这艘军舰已在海湾部署了数月。 该船已在海上连续航行了创纪录的超过240天，船上水手的家人对他们的心理健康表示担忧，据报道，一些水手曾试图跳海。 但斯拉文表示，他被解职的背景是五角大楼自五月以来就没有举行过新闻发布会，而且记者们也拒绝干涉他们的报道。 科特在 X 上写道：“这对发誓捍卫宪法并应享有自由和独立新闻权利的机构和军人来说是一种耻辱。” 国家新闻俱乐部主席小马克·肖夫 (Mark Schoeff Jr) 将斯莱文的解雇描述为“五角大楼再次明目张胆地试图控制军队报道，应立即予以扭转”。 据哥伦比亚广播公司 (CBS) 报道，平均每天有 140 万人观看星条旗的内容，其中大部分是在线观看。 该报纸仍在美国境外为互联网不可靠地区的军人印刷......"
+          },
+          "reflection": {
+            "en": "This incident highlights the tension between institutional control and the pursuit of transparent information. Yahweh's word reminds us that knowing the truth is essential for genuine freedom. May we always value and defend the open sharing of truth, even when it comes at a personal cost.",
+            "zh": "这一事件凸显了机构控制与追求透明信息之间的张力。雅伟的话语提醒我们，认识真理对于真正的自由至关重要。愿我们永远珍视并捍卫真理的公开分享，即使这需要付出个人代价。"
+          },
+          "verse": {
+            "reference": "John 8:32",
+            "textEn": "Then you will know the truth, and the truth will set you free.",
+            "textZh": "你们必晓得真理，真理必叫你们得以自由。",
+            "themeEn": "Liberating truth",
+            "themeZh": "真理使人自由"
+          },
+          "aiVerseId": "john_8_32",
+          "translationState": "localized"
+        },
+        {
           "id": "www-bbc-co-uk-news-articles-cx272np7vgyo-at-medium-rss-at-campaign-rss",
           "section": "world",
           "source": "BBC News World",
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
-          "publishedAt": "2026-08-22T16:05:04.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae91/live/dc71e910-9e49-11f1-8871-ff7211da55c9.jpg",
+          "publishedAt": "2026-08-22T16:45:02.000Z",
           "title": {
             "en": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
             "zh": "特朗普新关税导致贸易谈判破裂，卡尼称之为“误判”"
@@ -128,7 +196,7 @@
             "zh": "加拿大总理马克·卡尼表示，在美国总统特朗普征收新关税后，加拿大退出贸易谈判以保护其主权，卡尼称此举为“误判”。"
           },
           "body": {
-            "en": "Canada's Prime Minister Mark Carney has said a fresh wave of US tariffs on Canada is a \"miscalculation\" designed to \"hurt and divide us\", after trade talks broke down late on Friday.\n\nCarney said he walked away from a deal because he was not prepared to \"compromise Canada's sovereignty\".\n\n\"They asked too much and they offered too little,\" Carney said in a speech to Canadians on Saturday morning.\n\nThe prime minister added that Canada will match US tariffs \"dollar-for-dollar\" from 8 September, including levies on steel, dairy, appliances and electronics. Donald Trump has yet to comment.\n\nBoth countries were optimistic of a deal earlier in the week, but talks collapsed on Friday night after both sides accused the other of making last-minute changes.\n\nNow that talks have broken down, Canada will be hit with new 50% US tariffs on a range of Canadian goods, in addition to existing US tariffs on Canadian steel, aluminium, automobiles and lumber.\n\nThe prime minister said Canada was retaliating \"reluctantly\" to protect its interests. Details of the counter-measures will be released in the coming days, he said.\n\nCarney's speech on Saturday is his first address to Canadians after he announced late on Friday night that a deal would not be reached, accusing the Americans of making \"last-minute changes\" that were \"unfair\" and \"uneconomic\".\n\nUS negotiators, meanwhile, accused Canada of making \"new demands and walk backs\" on terms which had been agreed earlier in the week.\n\nThe collapse comes after more than a year of on-again, off-again trade talks, which intensified in recent weeks after a US-imposed deadline to strike a deal or face further tariffs.\n\nThe two countries were also engaged in a mandatory review of an existing North American free trade agreement, known as USMCA, with Mexico.\n\nEarlier this summer, Canada and Mexico had formally requested for USMCA to be renewed for another 16 years. The US, however, declined to renew it in its current form.\n\nAsked how Friday's trade talk collapse would impact the North American free trade pact, Carney said it was \"certainly not good news\".\n\nTariffs - a tax placed on imports from other countries - have been a key component of Trump's trade policy, with the US president arguing they will boost American manufacturing and create jobs at home.\n\nCritics, however, say tariffs have raised prices for American consumers and have disrupted and damaged the global economy.",
+            "en": "Canada's Prime Minister Mark Carney has said a fresh wave of US tariffs on Canada is a \"miscalculation\" designed to \"hurt and divide us\", after trade talks broke down late on Friday.\n\nCarney said he walked away from a deal because he was not prepared to \"compromise Canada's sovereignty\", adding he felt the country was being \"attacked\" by the US.\n\n\"They asked too much and they offered too little,\" Carney said in a speech to Canadians on Saturday morning.\n\nThe prime minister said that Canada will match US tariffs \"dollar-for-dollar\" from 8 September, including levies on steel, dairy, appliances and electronics. Donald Trump has yet to comment.\n\nBoth countries were optimistic of a deal earlier in the week, but talks collapsed on Friday night after both sides accused the other of making last-minute changes.\n\nNow that talks have broken down, Canada has been hit with new 50% US tariffs on a range of Canadian goods, in addition to existing US tariffs on Canadian steel, aluminium, automobiles and lumber.\n\nThe prime minister said Canada was retaliating \"reluctantly\" to protect its interests. Details of the counter-measures will be released in the coming days, he said.\n\nCarney's speech on Saturday was his first address to Canadians after he announced late on Friday night that a deal would not be reached, accusing the Americans of making \"last-minute changes\" that were \"unfair\" and \"uneconomic\".\n\nUS negotiators, meanwhile, accused Canada of making \"new demands and walk backs\" on terms which had been agreed earlier in the week.\n\nOn Saturday, US trade representative Jamieson Greer told Fox News there were no plans to resume talks.\n\nHe added that the US had been prepared to cut some of its tariffs on Canada as part of the deal that fell apart.\n\n\"They've always had the best deal, and they still would have an even better deal, but they didn't want that,\" said Greer.\n\nCarney, however, said the US presented \"unacceptable\" terms that were too restrictive, including curbing Canada's ability to strike new trade deals with other countries.\n\nThe prime minister also rejected the assertion that Canada had made last-minute requests: \"We clarified what was on offer and were continually disappointed by the answers.\"\n\nThe collapse comes after more than a year of on-again, off-again trade talks, which intensified in recent weeks after a US-imposed deadline to strike a deal or face further tariffs.\n\nThe two countries were also engaged in a mandatory review of an existing North American free trade agreement, known as USMCA, with Mexico.\n\nThe pact was signed by Trump during his first term to replace the 1994 North American Free Trade Agreement. It underpins $1.6tn (£1.2tn) in annual trilateral trade across Canada, the US and Mexico.\n\nEarlier this summer, Canada and Mexico had...",
             "zh": "周五晚间贸易谈判破裂后，加拿大总理马克·卡尼表示，美国对加拿大新一轮关税是“误算”，旨在“伤害和分裂我们”。 卡尼表示，他放弃了一项协议，因为他不准备“损害加拿大的主权”。 卡尼在周六上午向加拿大人发表讲话时表示：“他们要求太多，而提供的太少。” 总理补充说，加拿大将从 9 月 8 日起“一刀切”地追平美国的关税，包括对钢铁、乳制品、家电和电子产品征税。唐纳德·特朗普尚未发表评论。 本周早些时候，两国都对达成协议持乐观态度，但在双方指责对方在最后一刻做出改变后，谈判于周五晚上破裂。 现在谈判破裂，除了美国对加拿大钢铁、铝、汽车和木材征收的现有关税外，加拿大还将对一系列加拿大商品征收新的 50% 关税。 总理表示，加拿大“不情愿”地进行报复，以保护其利益。他表示，反制措施的细节将在未来几天公布。 卡尼周六的讲话是他在周五深夜宣布不会达成协议后首次向加拿大人发表讲话，并指责美国人做出了“不公平”和“不经济”的“最后一刻的改变”。 与此同时，美国谈判代表指责加拿大对本周早些时候达成的条款提出“新要求并后退”。 此次崩溃是在一年多断断续续的贸易谈判之后发生的，近几周来，在美国规定了达成协议或面临进一步关税的最后期限后，贸易谈判愈演愈烈。 两国还对现有的北美自由贸易协定（即 USMCA）与墨西哥进行了强制审查。 今年夏天早些时候，加拿大和墨西哥正式请求将USMCA再续签16年。然而，美国拒绝以目前的形式续签该协议。 当被问及周五贸易谈判破裂将如何影响北美自由贸易协定时，卡尼表示这“当然不是好消息”。 关税——对来自其他国家的进口产品征收的税——一直是特朗普贸易政策的关键组成部分，美国总统认为关税将促进美国制造业并在国内创造就业机会。 然而批评者表示，关税提高了美国消费者的价格，扰乱和损害了全球经济。"
           },
           "reflection": {
@@ -144,6 +212,139 @@
           },
           "aiVerseId": "rom_12_18",
           "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c3040pn8lmmo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa28/live/becb6d00-9e49-11f1-8871-ff7211da55c9.jpg",
+          "publishedAt": "2026-08-22T16:20:51.000Z",
+          "title": {
+            "en": "Carney faces crucial test after walking away from Trump's deal",
+            "zh": "卡尼退出特朗普协议后面临严峻考验"
+          },
+          "summary": {
+            "en": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The longtime allies and economic partners, who have enjoyed free trade for decades, are now in an escalating trade war with no clear off ramp.\n\nAnd for Prime Minister Mark Carney, the late night decision to suspend talks with President Donald Trump and to retaliate instead of agreeing to a deal that seemed in reach, will be a significant political test.\n\nHe is one of the first world leaders to walk away from the negotiating table with the White House - and the outcome will be closely watched.\n\nBoth sides have have blamed last-minute changes for torpedoing the tentative deal, with Carney saying the US \"asked too much and they offered too little\".\n\nCarney's decision will challenge the appetite among Canadians to accept some economic pain as Ottawa pushes for more US concessions.\n\nAfter rejecting Trump's high pressure tactics, and in choosing to hit back against the latest duties, Carney will need to convince Canadians that the economic pain is worth the cost of standing up to the Trump administration in search of a better agreement in the long run.\n\nIn remarks on Saturday, he said \"we take this step confident this is in the best interest of Canada\" and accused the US of a \"power play\" by seeking eleventh-hour changes.\n\nAsked by a reporter whether the US and Canada were locked in a trade war, he replied: \"You're at war when you're attacked - we got attacked.\"\n\nSwitching to French, he said the spiralling trade dispute \"wasn't our choice\", adding: \"Canada is strong, Canada is ready, Canada is united.\"\n\nThere is no doubt this will cause pain on both sides of the border, with business facing more pressure from US duties and Canadian counter-tariffs.\n\nCanada sends about 70% of its exports to the US, and the country is the top trading partner for a number of US states, with Michigan, Kentucky, Indiana and Ohio among the most exposed.\n\nCarney came to power with a call for \"elbows up\" - an ice-hockey term for an aggressive approach - vowing to fight for Canada in the face of a Trump administration keen to exert economic pressure for its America First agenda.\n\nA recent survey by Abacus Data suggested that around 36% of Canadians would support retaliating to US tariffs, while a Leger poll indicated that 56% of Canadians want the federal government to take a hard line and make no more concessions.\n\nCanadians frustrated with the US tariffs have already chosen to avoid travelling there. The boycott has meant a loss of about C$3.3bn ($2.35bn; £1.75bn) in travel revenue for the US last year.\n\nA decision by most provinces to remove US alcohol from store shelves has hammered that sector.\n\nBased on US government trade data, US wine exports to Canada fell 78% year over year, a $357m loss in export value. The US distillers association reported similar numbers - saying...",
+            "zh": "这两个几十年来享受自由贸易的长期盟友和经济伙伴现在正处于一场不断升级的贸易战之中，而且没有明确的退路。 对于英国首相马克·卡尼来说，深夜决定暂停与唐纳德·特朗普总统的谈判并进行报复，而不是同意一项看似有望达成的协议，这将是一次重大的政治考验。 他是首批退出与白宫谈判桌的世界领导人之一，其结果将受到密切关注。 双方都指责最后一刻的变化破坏了暂定协议，卡尼表示美国“要求太多，而他们提供的太少”。 随着渥太华推动美国做出更多让步，卡尼的决定将挑战加拿大人接受一些经济痛苦的胃口。 在拒绝特朗普的高压策略并选择反击最新关税后，卡尼需要让加拿大人相信，从长远来看，为寻求更好的协议而对抗特朗普政府所付出的经济痛苦是值得的。 他在周六的讲话中表示，“我们采取这一步骤，相信这符合加拿大的最佳利益”，并指责美国寻求最后一刻的改变，这是一场“权力游戏”。 当被记者问及美国和加拿大是否陷入贸易战时，他回答说：“当你们受到攻击时，你们就处于战争状态——我们也受到了攻击。” 他用法语表示，不断升级的贸易争端“不是我们的选择”，并补充道：“加拿大很强大，加拿大已经准备好了，加拿大很团结。” 毫无疑问，这将给边境两边带来痛苦，企业将面临来自美国关税和加拿大反关税的更大压力。 加拿大约 70% 的出口产品销往美国，该国是美国许多州的最大贸易伙伴，其中密歇根州、肯塔基州、印第安纳州和俄亥俄州是受影响最大的州。 卡尼上台时呼吁“举起手肘”（冰球术语，意为激进的做法），并发誓要为加拿大而战，面对特朗普政府热衷于为其“美国优先”议程施加经济压力。 Abacus Data最近的一项调查显示，约36%的加拿大人支持对美国关税进行报复，而Leger民意调查显示，56%的加拿大人希望联邦政府采取强硬路线，不再做出让步。 对美国关税感到沮丧的加拿大人已经选择避免前往那里。此次抵制意味着美国去年的旅游收入损失约 33 亿加元（23.5 亿美元；17.5 亿英镑）。 大多数省份决定将美国酒类从商店货架上撤下，这对该行业造成了重创。 根据美国政府贸易数据，美国对加拿大的葡萄酒出口同比下降78%，出口额损失3.57亿美元。美国酿酒商协会报告了类似的数字 - 说......"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-uk-news-2026-aug-22-people-die-in-crash-involving-po",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
+          "image": "https://i.guim.co.uk/img/media/7d0cb854dab87bce5653e5c682006025c87a120e/402_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f26026d5b02bfcbd285cd552fa6c1e3a",
+          "publishedAt": "2026-08-22T16:09:07.000Z",
+          "title": {
+            "en": "Two police officers killed in North Yorkshire crash named as Matthew Blades and Tom Clough",
+            "zh": "北约克郡车祸中丧生的两名警官被确认为马修·布莱兹和汤姆·克拉夫"
+          },
+          "summary": {
+            "en": "A collision involving a police car and another vehicle in North Yorkshire resulted in seven fatalities, including two police officers, Matthew Blades and Tom Clough. A watchdog has launched an inquiry into the incident.",
+            "zh": "在北约克郡发生的一起涉及警车和另一辆车的碰撞事故中，包括两名警官马修·布莱兹和汤姆·克拉夫在内的七人死亡。一个监督机构已对此事件展开调查。"
+          },
+          "body": {
+            "en": "Watchdog launches inquiry into collision in which seven people died involving police car and another vehicle Two police officers who died in a car crash near Middlesbrough in the early hours of Saturday have been named. Police constables Matthew Blades and Tom Clough were among seven people killed after their marked police car collided with a Volkswagen Passat travelling the wrong way along the A66 in North Yorkshire. Continue reading...",
+            "zh": "看门狗对警车和另一辆车造成七人死亡的碰撞事件展开调查，周六凌晨米德尔斯堡附近发生车祸，两名警察死亡。警员马修·布莱兹 (Matthew Blades) 和汤姆·克拉夫 (Tom Clough) 在北约克郡的 A66 高速公路上与一辆逆行的大众帕萨特相撞，造成七人死亡。继续阅读..."
+          },
+          "reflection": {
+            "en": "The sudden loss of life in this tragic accident brings profound sorrow to many, especially the families of the two police officers and all who perished. In moments of such deep grief, Yahweh promises a future where every tear will be wiped away, and death, mourning, crying, and pain will be no more. This hope reminds us that even in the darkest times, there...",
+            "zh": "这起悲惨事故中生命的突然逝去给许多人带来了深切的悲痛，特别是两名警官和所有遇难者的家人。在如此深重的悲痛时刻，雅伟应许一个未来，在那里祂将擦去所有的眼泪，不再有死亡、悲哀、哭号和疼痛。这个盼望提醒我们，即使在最黑暗的时刻，也有一个神圣的应许，带来最终的安慰与平安。"
+          },
+          "verse": {
+            "reference": "Revelation 21:4",
+            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+            "themeEn": "End of suffering",
+            "themeZh": "苦难的终结"
+          },
+          "aiVerseId": "rev_21_4",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-uk-news-2026-aug-22-chemical-suppression-why-the-uk-",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/aug/22/chemical-suppression-why-the-uk-is-exploring-libido-control-drugs-to-treat-sex-offenders",
+          "image": "https://i.guim.co.uk/img/media/fe4c794d5f08739193b46d8a72db3255e91ef4d9/568_0_1863_1491/master/1863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ffb48cc7fca119a98f013b523d428da1",
+          "publishedAt": "2026-08-22T16:00:07.000Z",
+          "title": {
+            "en": "Chemical suppression: why the UK is exploring libido control drugs to treat sex offenders",
+            "zh": "化学抑制：为什么英国正在探索性欲控制药物来治疗性犯罪者"
+          },
+          "summary": {
+            "en": "Treatment is already required by parole boards in several countries, but some feel the practice is unethical Thousands of sex offenders in England and Wales could get libido-suppressing drugs For some prisoners with problematic sexual arousal (PSA), “images of sex flood their...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Treatment is already required by parole boards in several countries, but some feel the practice is unethical Thousands of sex offenders in England and Wales could get libido-suppressing drugs For some prisoners with problematic sexual arousal (PSA), “images of sex flood their minds” all of their waking hours, according to Prof Belinda Winder, a leading forensic psychologist who has evaluated the use of drugs to control libidos. “I remember talking to one guy a few weeks after he started taking the medication. He said: ‘It’s amazing. I followed a film plot. I wasn’t just looking for when I could see bra straps, when I could see nipples, when someone’s going to bend over so I could see their bum.” Continue reading...",
+            "zh": "一些国家的假释委员会已经要求进行治疗，但有些人认为这种做法不道德。英格兰和威尔士的数千名性犯罪者可以获得抑制性欲的药物。对于一些性唤起有问题的囚犯来说，在他们醒着的时候，“性的画面充斥在他们的脑海中”，一位著名的法医心理学家贝琳达·温德教授表示，他曾对控制性欲的药物的使用进行了评估。 “我记得在一个人开始服药几周后与他交谈。他说：‘这太神奇了。我跟着电影情节走。我不只是在寻找什么时候我可以看到胸罩带子，什么时候我可以看到乳头，什么时候有人会弯腰让我看到他们的屁股。”继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-society-2026-aug-22-sex-offenders-libido-control-dru",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/society/2026/aug/22/sex-offenders-libido-control-drugs-prisons-england-wales",
+          "image": "https://i.guim.co.uk/img/media/fd6953a3ec0be507cb1893f834eed1c23d470e5b/484_0_4856_3885/master/4856.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3139c51cc0eb6f7545c5b5780c0430aa",
+          "publishedAt": "2026-08-22T16:00:07.000Z",
+          "title": {
+            "en": "Thousands of sex offenders in England and Wales could get libido-suppressing drugs",
+            "zh": "英格兰和威尔士的数千名性犯罪者可以获得抑制性欲的药物"
+          },
+          "summary": {
+            "en": "Exclusive: Voluntary use of sex drive-suppressing medication to expand to 20 prisons and expert says it could be rolled out widely by late 2028 Chemical suppression: why the UK is exploring libido control drugs to treat sex offenders Drugs that help control the libidos of people...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Exclusive: Voluntary use of sex drive-suppressing medication to expand to 20 prisons and expert says it could be rolled out widely by late 2028 Chemical suppression: why the UK is exploring libido control drugs to treat sex offenders Drugs that help control the libidos of people who have committed sexual offences could be rolled out for thousands of male prisoners in England and Wales from December 2028, an expert has said. Prof Belinda Winder, who has evaluated the use of sex drive-suppressing medication in prisons, said about one in four sex offenders – equating to 3,750 current prisoners – would be considered for the treatment. Continue reading...",
+            "zh": "独家：自愿使用性欲抑制药物的范围扩大到 20 所监狱，专家表示，到 2028 年末可能会广泛推广化学抑制：为什么英国正在探索性欲控制药物来治疗性犯罪者一位专家表示，从 2028 年 12 月起，可能会为英格兰和威尔士的数千名男性囚犯推出有助于控制性犯罪者性欲的药物。贝琳达·温德教授对监狱中性欲抑制药物的使用情况进行了评估，她表示，大约四分之一的性犯罪者（相当于 3,750 名现任囚犯）将被考虑接受治疗。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
         },
         {
           "id": "www-theguardian-com-us-news-2026-aug-22-eyedrop-recall-clear-eyes",
@@ -179,106 +380,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-uk-news-2026-aug-22-people-die-in-crash-involving-po",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
-          "image": "https://i.guim.co.uk/img/media/7d0cb854dab87bce5653e5c682006025c87a120e/402_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f26026d5b02bfcbd285cd552fa6c1e3a",
-          "publishedAt": "2026-08-22T15:40:43.000Z",
-          "title": {
-            "en": "Two police officers killed in North Yorkshire crash named as Matthew Blades and Tom Clough",
-            "zh": "北约克郡车祸中丧生的两名警官被确认为马修·布莱兹和汤姆·克拉夫"
-          },
-          "summary": {
-            "en": "A collision involving a police car and another vehicle in North Yorkshire resulted in seven fatalities, including two police officers, Matthew Blades and Tom Clough. A watchdog has launched an inquiry into the incident.",
-            "zh": "在北约克郡发生的一起涉及警车和另一辆车的碰撞事故中，包括两名警官马修·布莱兹和汤姆·克拉夫在内的七人死亡。一个监督机构已对此事件展开调查。"
-          },
-          "body": {
-            "en": "Watchdog launches inquiry into collision in which seven people died involving police car and another vehicle Two police officers who died in a car crash near Middlesbrough in the early hours of Saturday have been named. Police constables Matthew Blades and Tom Clough were among seven people killed after their marked police car collided with a Volkswagen Passat travelling the wrong way along the A66 in North Yorkshire. Continue reading...",
-            "zh": "看门狗对警车和另一辆车造成七人死亡的碰撞事件展开调查，周六凌晨米德尔斯堡附近发生车祸，两名警察死亡。警员马修·布莱兹 (Matthew Blades) 和汤姆·克拉夫 (Tom Clough) 在北约克郡的 A66 高速公路上与一辆逆行的大众帕萨特相撞，造成七人死亡。继续阅读..."
-          },
-          "reflection": {
-            "en": "The sudden loss of life in this tragic accident brings profound sorrow to many, especially the families of the two police officers and all who perished. In moments of such deep grief, Yahweh promises a future where every tear will be wiped away, and death, mourning, crying, and pain will be no more. This hope reminds us that even in the darkest times, there...",
-            "zh": "这起悲惨事故中生命的突然逝去给许多人带来了深切的悲痛，特别是两名警官和所有遇难者的家人。在如此深重的悲痛时刻，雅伟应许一个未来，在那里祂将擦去所有的眼泪，不再有死亡、悲哀、哭号和疼痛。这个盼望提醒我们，即使在最黑暗的时刻，也有一个神圣的应许，带来最终的安慰与平安。"
-          },
-          "verse": {
-            "reference": "Revelation 21:4",
-            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
-            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
-            "themeEn": "End of suffering",
-            "themeZh": "苦难的终结"
-          },
-          "aiVerseId": "rev_21_4",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-aug-22-indiana-residents-11th-day-witho",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power",
-          "image": "https://i.guim.co.uk/img/media/d7094952c1c7eebabb825d5731e36f545b17d225/741_0_5415_4333/master/5415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf0154d426c0c7975c8d523aa86fbc8e",
-          "publishedAt": "2026-08-22T15:08:38.000Z",
-          "title": {
-            "en": "Indiana residents endure 11th day without power after storms topple power lines",
-            "zh": "暴风雨导致电线倒塌，印第安纳州居民已连续第 11 天停电"
-          },
-          "summary": {
-            "en": "33,124 residents still in the dark as utility company says it is working to restore power in north-west of state Thousands of residents of north-west Indiana on Saturday were headed for their 11th day without electric power after storms swept through the state, toppling trees...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "33,124 residents still in the dark as utility company says it is working to restore power in north-west of state Thousands of residents of north-west Indiana on Saturday were headed for their 11th day without electric power after storms swept through the state, toppling trees and power lines, earlier in August. The powerless conditions have led to food lines, closed businesses, dead phones, no schools, spoiled food, dirty clothes, dry gas pumps and a multitude of other deleterious effects on life without energy. Continue reading...",
-            "zh": "公用事业公司表示正在努力恢复该州西北部的电力，仍有 33,124 名居民蒙在鼓里 8 月初，印第安纳州西北部遭遇暴风雨，树木和电线倒塌，数千名居民周六迎来停电第 11 天。无电的条件导致了食品排队、企业倒闭、电话瘫痪、学校停课、食物变质、衣服肮脏、气泵干涸以及对没有能源的生活造成的许多其他有害影响。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c3040pn8lmmo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7965/live/5fe534d0-9e38-11f1-aed2-8d6da8d75094.jpg",
-          "publishedAt": "2026-08-22T15:00:27.000Z",
-          "title": {
-            "en": "Carney faces crucial test after walking away from Trump's deal",
-            "zh": "卡尼退出特朗普协议后面临严峻考验"
-          },
-          "summary": {
-            "en": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The longtime allies and economic partners, who have enjoyed free trade for decades, are now in an escalating trade war with no clear off ramp.\n\nAnd for Prime Minister Mark Carney, the late night decision to suspend talks with President Donald Trump and to retaliate instead of agreeing to a deal that seemed in reach, will be a significant political test.\n\nHe is one of the first world leaders to walk away from the negotiating table with the White House - and the outcome will be closely watched.\n\nBoth sides have have blamed last-minute changes for torpedoing the tentative deal.\n\nCarney's decision will also challenge the appetite among Canadians to accept some economic pain as Ottawa pushes for more US concessions.\n\nAfter rejecting Trump's high pressure tactics, and in choosing to hit back against the latest duties, Carney will need to convince Canadians that the economic pain is worth the cost of standing up to the Trump administration in search of a better agreement in the long run.\n\nThere is no doubt this will cause pain on both sides of the border, with business facing more pressure from US duties and Canadian counter-tariffs.\n\nCanada sends about 70% of its exports to the US, and the country is the top trading partner for a number of US states, with Michigan, Kentucky, Indiana and Ohio among the most exposed.\n\nCarney came to power with a call for \"elbows up\" - an ice-hockey term for an aggressive approach - vowing to fight for Canada in the face of a Trump administration keen to exert economic pressure for its America First agenda.\n\nA recent survey by Abacus Data suggested that around 36% of Canadians would support retaliating to US tariffs, while a Leger poll indicated that 56% of Canadians want the federal government to take a hard line and make no more concessions.\n\nCanadians frustrated with the US tariffs have already chosen to avoid travelling there. The boycott has meant a loss of about C$3.3bn ($2.35bn; £1.75bn) in travel revenue for the US last year.\n\nA decision by most provinces to remove US alcohol from store shelves has hammered that sector.\n\nBased on US government trade data, US wine exports to Canada fell 78% year over year, a $357m loss in export value. The US distillers association reported similar numbers - saying provincial bans have caused exports of American spirits to drop by more than 70%.\n\nCanada’s prime minister will also need to convince the provinces who have been less affected by the US trade dispute so far that walking away is a risk worth taking.\n\nHe will be meeting them on Saturday to brief them on the current state of affairs.\n\nCarney said that late US proposed terms \"were unfair, uneconomic, and called into question the reliability of any deal\".\n\nUS trade representative Jamieson Greer pointed to \"new demands and walk...",
-            "zh": "这两个几十年来享受自由贸易的长期盟友和经济伙伴现在正处于一场不断升级的贸易战之中，而且没有明确的退路。 对于英国首相马克·卡尼来说，深夜决定暂停与唐纳德·特朗普总统的谈判并进行报复，而不是同意一项看似有望达成的协议，这将是一次重大的政治考验。 他是首批退出与白宫谈判桌的世界领导人之一，其结果将受到密切关注。 双方都指责最后一刻的改变破坏了暂定协议。 随着渥太华推动美国做出更多让步，卡尼的决定也将挑战加拿大人接受一些经济痛苦的意愿。 在拒绝特朗普的高压策略并选择反击最新关税后，卡尼需要让加拿大人相信，从长远来看，为寻求更好的协议而对抗特朗普政府所付出的经济痛苦是值得的。 毫无疑问，这将给边境两边带来痛苦，企业将面临来自美国关税和加拿大反关税的更大压力。 加拿大约 70% 的出口产品销往美国，该国是美国许多州的最大贸易伙伴，其中密歇根州、肯塔基州、印第安纳州和俄亥俄州是受影响最大的州。 卡尼上台时呼吁“举起手肘”（冰球术语，意为激进的做法），并发誓要为加拿大而战，面对特朗普政府热衷于为其“美国优先”议程施加经济压力。 Abacus Data最近的一项调查显示，约36%的加拿大人支持对美国关税进行报复，而Leger民意调查显示，56%的加拿大人希望联邦政府采取强硬路线，不再做出让步。 对美国关税感到沮丧的加拿大人已经选择避免前往那里。此次抵制意味着美国去年的旅游收入损失约 33 亿加元（23.5 亿美元；17.5 亿英镑）。 大多数省份决定将美国酒类从商店货架上撤下，这对该行业造成了重创。 根据美国政府贸易数据，美国对加拿大的葡萄酒出口同比下降78%，出口额损失3.57亿美元。美国酿酒商协会也报告了类似的数据——称省级禁令导致美国烈酒出口下降70%以上。 加拿大总理还需要说服迄今为止受美国贸易争端影响较小的省份，放弃是值得冒的风险。 他将于周六与他们会面，向他们介绍目前的事态。 卡尼表示，美国后来提出的条款“不公平、不经济，并且使任何协议的可靠性受到质疑”。 美国贸易代表杰米森·格里尔指出“新的要求和步行......"
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-dw-com-en-kazakhstan-s-future-after-the-elections-russia-eu-or-china",
           "section": "world",
           "source": "DW World",
@@ -296,7 +397,7 @@
           },
           "body": {
             "en": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Russia and China following the parliamentary elections this Sunday.\n\nOn August 23, Kazakhstan , a former Soviet country&#160;that has recently adopted a new constitution,&#160;will hold elections to its parliament.\n\nThe legislative body will be transformed from a two-chamber to a single-chamber system. Citizens will elect 145 members of parliament via party lists. All seven registered parties have been admitted to the election, including the ruling party, Adilet&#160;(which translates to \"Justice\").\n\nBut the election result is the least of the campaign's intrigues. Experts DW interviewed agree that no party other than President Kassym-Jomart Tokayev's Adilet stands a chance of winning.\n\nLuca Anceschi, Professor of Eurasian Studies at the University of Glasgow, Scotland, suggests that the new parliament will do the same as the previous one, \"which is pretty much to represent whatever the regime wants them to do.\"\n\nIn his view, one should not expect representatives of the genuine opposition to be elected to parliament.\n\nStefan Meister,&#160;Head of the Center&#160;for Order and Governance in Eastern Europe, Russia and Central Asia at the German Council on Foreign Relations (DGAP), shares this assessment. He says the ruling party is likely to win the election, a scenario also reflected in recent opinion polls.&#160;\n\nBoth experts agree that&#160;these elections are intended to consolidate Tokayev's power and further weaken the bloc led by&#160;&#160; Nursultan Nazarbayev , the country's president from 1991-2019.&#160;\n\nConstitutional amendments approved earlier allow Tokayev to seek another seven-year presidential term in 2029 and replace the two-chamber parliament with a single-chamber&#160;assembly called the Kurultai.\n\nAccording to former Kazakhstani senator Zauresh Battalova, who now heads the NGO Foundation for the Development of Parliamentarism in Kazakhstan,&#160;what matters is not the number of chambers in parliament, but \"the scope of its powers, its autonomy and its ability to oversee the executive branch of government.\"\n\nThe new constitution has changed not only the structure of parliament but also the way its members are elected. Independent candidates are no longer allowed to run under the current electoral system. Zauresh Battalova sees this as one of the factors limiting voters' political choice.\n\n\"The election will be held exclusively on the basis of party lists, in the absence of a political opposition&#160;and with limited party competition. The scope for genuine political choice remains extremely narrow,\" she told DW.\n\nMeister and Anceschi both say that one should not expect any reaction...",
-            "zh": "权力不断巩固在总统手中的哈萨克斯坦，在周日的议会选举后将不得不继续在欧盟、俄罗斯和中国之间采取强硬的平衡行动。 8月23日，最近通过新宪法的前苏联国家哈萨克斯坦将举行议会选举。 立法机构将从两院制改为单院制。公民将通过政党名单选举 145 名议会成员。所有七个登记政党均已获准参加选举，其中包括执政党 Adilet（意为“正义”）。 但选举结果只是竞选活动中最不重要的一个。德国之声采访的专家一致认为，除了总统托卡耶夫领导的阿迪莱特党之外，没有任何政党有获胜的机会。 苏格兰格拉斯哥大学欧亚研究教授卢卡·安塞斯基表示，新议会将采取与前一届议会相同的做法，“这几乎代表了该政权希望他们做的任何事情。” 他认为，人们不应该指望真正反对派的代表会当选为议会议员。 德国外交关系委员会 (DGAP) 东欧、俄罗斯和中亚秩序与治理中心主任斯特凡·梅斯特 (Stefan Meister) 也同意这一评估。他表示，执政党很可能赢得选举，最近的民意调查也反映了这一情况。 两位专家一致认为，这些选举旨在巩固托卡耶夫的权力，并进一步削弱 1991 年至 2019 年担任该国总统的努尔苏丹·纳扎尔巴耶夫领导的集团。 早些时候批准的宪法修正案允许托卡耶夫在 2029 年寻求另一个七年的总统任期，并用名为“库鲁尔泰”的单院议会取代两院议会。 哈萨克斯坦前参议员、哈萨克斯坦议会制发展非政府组织基金会现任负责人扎乌雷什·巴塔洛娃表示，重要的不是议会的议院数量，而是“议会的权力范围、自治权以及监督政府行政部门的能力”。 新宪法不仅改变了议会的结构，还改变了议员的选举方式。在现行选举制度下，独立候选人不再被允许参选。扎雷什·巴塔洛娃认为这是限制选民政治选择的因素之一。 她告诉德国之声：“选举将完全根据政党名单进行，没有政治反对派，政党竞争也有限。真正的政治选择的范围仍然极其狭窄。” 梅斯特和安塞斯基都表示，不应期待任何反应……"
+            "zh": "权力不断巩固在总统手中的哈萨克斯坦，在周日的议会选举后将不得不继续在欧盟、俄罗斯和中国之间采取强硬的平衡行动。 8月23日，最近通过新宪法的前苏联国家哈萨克斯坦将举行议会选举。 立法机构将从两院制改为单院制。公民将通过政党名单选举 145 名议会成员。所有七个登记政党均已获准参加选举，其中包括执政党 Adilet（意为“正义”）。 但选举结果只是竞选活动中最不重要的一个。德国之声采访的专家一致认为，除了总统托卡耶夫领导的阿迪莱特党之外，没有任何政党有获胜的机会。 苏格兰格拉斯哥大学欧亚研究教授卢卡·安塞斯基表示，新议会将采取与前一届议会相同的做法，“这几乎代表了该政权希望他们做的任何事情。” 他认为，人们不应该指望真正反对派的代表会当选为议会议员。 德国外交关系委员会 (DGAP) 东欧、俄罗斯和中亚秩序与治理中心主任斯特凡·梅斯特 (Stefan Meister) 也同意这一评估。他表示，执政党很可能赢得选举，最近的民意调查也反映了这一情况。 两位专家一致认为，这些选举旨在巩固托卡耶夫的权力，并进一步削弱 1991 年至 2019 年担任该国总统的努尔苏丹·纳扎尔巴耶夫领导的集团。 早些时候批准的宪法修正案允许托卡耶夫在 2029 年寻求另一个七年的总统任期，并用名为“库鲁尔泰”的单院议会取代两院议会。 哈萨克斯坦前参议员、哈萨克斯坦议会制发展非政府组织基金会现任负责人扎乌雷什·巴塔洛娃表示，重要的不是议会的议院数量，而是“议会的权力范围、自治权以及监督政府行政部门的能力”。 新宪法不仅改变了议会的结构，还改变了议员的选举方式。在现行选举制度下，不再允许独立候选人参选。扎雷什·巴塔洛娃认为这是限制选民政治选择的因素之一。 她告诉德国之声：“选举将完全根据政党名单进行，没有政治反对派，政党竞争也有限。真正的政治选择的范围仍然极其狭窄。” 梅斯特和安塞斯基都表示，不应期待任何反应……"
           },
           "reflection": {
             "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
@@ -308,39 +409,6 @@
             "textZh": "无智谋，民就败落；谋士多，人便安居。",
             "themeEn": "Wise counsel",
             "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c93403wg288o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
-          "publishedAt": "2026-08-22T14:35:11.000Z",
-          "title": {
-            "en": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-            "zh": "父亲将7岁儿子独自留在富士山继续徒步"
-          },
-          "summary": {
-            "en": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "A father has been reprimanded by police after leaving his son on Japan's highest mountain for several hours with just a soft drink and snack.\n\nThe seven-year-old was spotted sitting on a bench on Mount Fuji in foggy and rainy conditions, at a point situated at over 2,000m (6,500ft).\n\nHis father, 48, reportedly told him to \"wait here\" after the boy complained he was tired - and continued the climb with his elder son.\n\nStaff at a mountain hut found the child near the sixth station of a hiking route towards the summit and alerted police. His father was tracked down between the route's seventh and eighth stations - said to be a three-hour hike away.\n\nOfficers castigated his father when he returned from the higher station and reunited with his son, who is said to have been \"tired and fussy\" after eight hours of waiting.\n\n\"Even if it means having to give up on climbing the mountain together, leaving a child behind is unacceptable,\" one told him, according to Japan Today. He is said to have apologised for the \"rash\" decision.\n\nThe family was reported to have been on the Fujinomiya route, which starts from the fifth station on the mountain, a spot which is accessible by public transport.\n\nFrom there it takes around five hours to reach the peak and a further three hours to get down, climbing guides suggest.\n\nMount Fuji, which stands at a height of 3,776m (12,389ft), has been the site of a number of climbing mishaps in recent years.\n\nIn July, a 99-year-old woman had to be rescued attempting the route after falling and hurting her hip and back.\n\nAnd last year, a 27-year-old university student who went outside of official climbing season had to be rescued twice in four days - after he went back to look for his lost mobile phone.\n\nMount Fuji, an active volcano located south-west of Tokyo, was granted World Heritage status in 2013.\n\nIt is also one of three traditional \"Holy Mountains\" together with Mount Tate and Mount Haku.\n\nAround 200,000 people climb it each year, but there are daily caps on some routes to avoid overcrowding.",
-            "zh": "一名父亲将儿子留在日本最高的山上几个小时，只给他喝了一杯软饮料和零食，结果遭到警方的训斥。 这名 7 岁的孩子被发现在多雾多雨的情况下坐在富士山的长凳上，海拔超过 2,000 m（6,500 英尺）。 据报道，在男孩抱怨自己累了之后，他 48 岁的父亲告诉他“在这里等”，然后和大儿子一起继续攀登。 山间小屋的工作人员在通往山顶的徒步路线第六站附近发现了这名儿童，并向警方报警。他的父亲在该路线的第七站和第八站之间被找到——据说距离该站有三个小时的徒步路程。 当他的父亲从上级车站返回并与儿子团聚时，警察对他进行了严厉的斥责。据说，经过八个小时的等待，儿子已经“又累又烦躁”。 据《今日日本》报道，一位人士告诉他，“即使这意味着不得不放弃一起爬山，留下一个孩子也是不可接受的”。据说他已为这一“草率”决定道歉。 据报道，这家人乘坐的是富士宫路线，这条路线从山上的第五站出发，可以乘坐公共交通工具到达。 登山指南建议，从那里到达山顶大约需要五个小时，下山还需要三个小时。 富士山海拔 3,776m（12,389ft），近年来发生了多起登山事故。 7月，一名99岁的妇女在尝试这条路线时摔倒，臀部和背部受伤，不得不获救。 去年，一名 27 岁的大学生在官方登山季节之外外出寻找丢失的手机，在四天内两次获救。 富士山是一座位于东京西南部的活火山，于 2013 年被授予世界遗产地位。 与立山、白山并列为传统三大“圣山”之一。 每年约有 200,000 人攀登这座山，但某些路线每日设有上限，以避免过度拥挤。"
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
           },
           "translationState": "fallback"
         },
@@ -479,6 +547,39 @@
           },
           "aiVerseId": "lam_3_22",
           "translationState": "localized"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-myanmar-military-strike-kills-14-attending-m",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/myanmar-military-strike-kills-14-attending-monastery-retreat/6r4ecppz4",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-myanmar-military-strike-kills-14-attending-m.jpg",
+          "publishedAt": "2026-08-22T00:21:58.000Z",
+          "title": {
+            "en": "Myanmar military strike kills 14 attending monastery retreat",
+            "zh": "缅甸军事袭击造成14名参加寺院闭关的人死亡"
+          },
+          "summary": {
+            "en": "The Myanmar military has dropped more bombs after a new UN report said it has increasingly used low-cost aircraft to kill civilians.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "An air strike by Myanmar's military on a Buddhist monastery in the central Sagaing region has killed 14 people who were taking part in a week-long meditation retreat, an opposition group and a resident say.\n\nThe attack is the latest in a series of frequent and deadly aerial strikes targeting armed anti-government forces and ethnic armed groups in the country.\n\nTwo weeks ago, an United Nations report said Myanmar&#x2019;s military has increasingly used low-cost aircraft such as motorized paragliders and gyrocopters in escalating aerial attacks that kill civilians in its conflict with armed, anti-government groups.\n\nThe report by the UN-established Independent Investigative Mechanism for Myanmar, or IIMM, details a yearlong investigation into alleged war crimes and crimes against humanity committed by Myanmar&#x2019;s military and affiliated militias, as well as the opposition armed groups.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nMyanmar&#x2019;s military government did not immediately respond to either the UN probe. In the past, the military has said it only attacks legitimate targets of war, accusing the resistance forces of being terrorists.\n\nThe monastery attack occurred on Friday in Swel Le Oh village in Myaung township, about 75km west of Mandalay, the country's second largest city, according to Nway Oo, a spokesman for the Civil Defence and Security Organisation of Myaung Township, or CDSOM.\n\nNway Oo said 14 people, including three women, were killed and 20 others were wounded when a jet fighter dropped a bomb in the compound of the village's monastery.\n\nA villager who spoke on condition of anonymity also confirmed the death toll to the Associated Press.\n\nThe villager said the jet fighter dropped two bombs 15 minutes apart, with the second bomb damaging a house near the monastery where more than 100 people were on a week-long retreat.\n\nThe villager, whose mother-in-law was killed in the air strike, said that people fled to a nearby community after cremating bodies of the victims.\n\nThe BBC's Burmese-language service and Myanmar's media outlets, including Myanmar Now, reported the death toll at between 10 and 14.\n\nThey also posted photos and videos showing what they said was the aftermath of the strike, with images of bodies.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
+            "zh": "反对派组织和一名居民称，缅甸军方对实皆中部地区的一座佛教寺院进行了空袭，导致 14 名正在参加为期一周的冥想静修的人死亡。 这次袭击是针对该国武装反政府部队和少数民族武装团体的一系列频繁而致命的空袭中的最新一起。 两周前，联合国的一份报告称，缅甸军方越来越多地使用机动滑翔伞和旋翼机等低成本飞机来升级空中袭击，在与武装反政府团体的冲突中造成平民死亡。 联合国设立的缅甸独立调查机制（IIMM）的报告详细介绍了对缅甸军队及其附属民兵以及反对派武装团体涉嫌犯下战争罪和反人类罪的为期一年的调查。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 缅甸军政府没有立即对联合国的调查做出回应。过去，军方曾表示只攻击合法的战争目标，并指责抵抗力量是恐怖分子。 妙镇民防与安全组织 (CDSOM) 发言人 Nway Oo 表示，周五，寺院袭击发生在该国第二大城市曼德勒以西约 75 公里处的妙镇 Swel Le Oh 村。 Nway Oo说，一架喷气式战斗机在该村修道院院落投下一枚炸弹，造成14人死亡，其中包括3名妇女，另有20人受伤。 一位不愿透露姓名的村民也向美联社证实了死亡人数。 该村民称，这架喷气式战斗机每隔 15 分钟投下两枚炸弹，第二枚炸弹损坏了修道院附近的一所房屋，那里有 100 多人正在避难，为期一周。 这位婆婆在空袭中丧生的村民说，人们火化遇难者尸体后逃到附近的社区。 BBC 缅甸语服务和缅甸媒体（包括“Myanmar Now”）报道的死亡人数为 10 至 14 人。 他们还发布了照片和视频，展示了他们所说的罢工后果，并附有尸体图像。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
         }
       ]
     },
@@ -493,12 +594,45 @@
         "zh": "聚焦中国内部政策走向、社会变化与国家动态。"
       },
       "sourceNotes": [
-        "DW Asia China Focus",
         "BBC News China Focus",
+        "DW Asia China Focus",
         "The Guardian China",
         "SBS News China Focus"
       ],
       "items": [
+        {
+          "id": "www-bbc-co-uk-news-videos-cgljl9zp47xo-at-medium-rss-at-campaign-rss",
+          "section": "china",
+          "source": "BBC News China Focus",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dee7/live/c783fb00-9e4a-11f1-8871-ff7211da55c9.jpg",
+          "publishedAt": "2026-08-22T17:02:06.000Z",
+          "title": {
+            "en": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+            "zh": "观看：人形机器人打破尤塞恩·博尔特 100 米纪录的时刻"
+          },
+          "summary": {
+            "en": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
+            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A humanoid robot has outperformed humans by running faster than Usain Bolt's 100m sprint world record at the World Humanoid Robot Games in Beijing.\n\nTianzhuo, the robot developed by China's Beijing Innovation Centre of Humanoid Robotics, ran the distance in 9.39 seconds at the event.\n\nEight-time Olympic gold medallist Bolt set the world record for humans in 2009, running 100m in 9.58 seconds.\n\nThe robot beat two others including one made by Chinese smartphone maker Honor - which the manufacturer says ran the distance in 9.32 seconds in a test run.\n\nOther events at the robot games, which started on Saturday, include boxing and football, but also household tasks such as folding laundry.",
+            "zh": "在北京举行的世界人形机器人运动会上，一款人形机器人跑得比尤塞恩·博尔特 (Usain Bolt) 所保持的 1 亿米短跑世界纪录还要快，从而超越了人类。 由中国北京仿人机器人创新中心研发的机器人天卓在比赛中跑出了9.39秒的成绩。 八届奥运会金牌得主博尔特在 2009 年以 9.58 秒跑完 100m 的成绩创下了人类世界纪录。 该机器人击败了另外两个机器人，其中包括中国智能手机制造商荣耀制造的一个机器人，该制造商表示，该机器人在测试运行中仅用了 9.32 秒就跑完了距离。 周六开始的机器人比赛的其他项目包括拳击和足球，还有叠衣服等家务活。"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-dw-com-en-kazakhstan-s-future-after-the-elections-russia-eu-or-china",
           "section": "china",
@@ -534,39 +668,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-co-uk-news-videos-cgljl9zp47xo-at-medium-rss-at-campaign-rss",
-          "section": "china",
-          "source": "BBC News China Focus",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg",
-          "publishedAt": "2026-08-22T14:10:05.000Z",
-          "title": {
-            "en": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-            "zh": "观看：瞬间机器人试图打破 Usain Bolt 的 100m 纪录"
-          },
-          "summary": {
-            "en": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
-            "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "A humanoid robot has outperformed humans by breaking Usain Bolt's world record for the 100m sprint, according to its manufacturer.\n\nChinese smartphone maker Honor said Lightning - a thin black and red robot - ran the distance in 9.32 seconds at the World Humanoid Robot Games in Beijing.\n\nEight-time Olympic gold medallist Bolt set the world record for humans in 2009, running 100m in 9.58 seconds.\n\nOther events at the robot games, which started on Saturday, include boxing and football, but also household tasks like folding laundry.\n\nMore than 2,000 robots from 16 countries are expected to compete in the games. The event comes as China showcases its heavy investment in robotics.",
-            "zh": "据其制造商称，一款人形机器人打破了尤塞恩·博尔特 (Usain Bolt) 的 100m 短跑世界纪录，超越了人类。 中国智能手机制造商荣耀表示，闪电——一款瘦长的黑红机器人——在北京举行的世界人形机器人运动会上以 9.32 秒的成绩跑完了比赛。 八届奥运会金牌得主博尔特在 2009 年以 9.58 秒跑完 100m 的成绩创造了人类世界纪录。 周六开始的机器人比赛的其他项目包括拳击和足球，还有叠衣服等家务活。 预计将有来自16个国家的2000多台机器人参加比赛。此次活动恰逢中国展示其对机器人技术的巨额投资。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-theguardian-com-sport-2026-aug-22-chinese-robot-runs-100m-sprint-qui",
           "section": "china",
           "source": "The Guardian China",
@@ -583,7 +684,7 @@
             "zh": "这是一则来自中国栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Lightning the humanoid ⁠robot clocks 9.32sec in Beijing Quicker than ​9.58sec men’s world record set 17 years ago A ⁠robot named Lightning ⁠has run ​the 100m in 9.32 seconds, ⁠beating the human world ⁠record, China’s ​state broadcaster ‌has reported. The humanoid, developed by Chinese smartphone manufacturer Honor, ‌reached a peak speed of 14.5 metres per second during ‌a test event for ​the second World Humanoid Robot Games, which ⁠begin on Saturday. The ​performance surpassed ​the ​9.58sec men’s ​100m world record ​set ​by Usain Bolt 17 years ago at the World Athletics Championships in Berlin. Continue reading...",
+            "en": "Lightning the humanoid ⁠robot clocks 9.32sec in Beijing Quicker than ​9.58sec men’s world record set 17 years ago A ⁠robot named Lightning ⁠has run ​the 100m in 9.32 seconds, ⁠beating the human world ⁠record, China’s ​state broadcaster ‌has reported. The humanoid, developed by the Chinese smartphone manufacturer Honor, ‌reached a peak speed of 14.5 metres per second during ‌a test event for ​the second World Humanoid Robot Games, which ⁠began on Saturday. The ​performance surpassed ​the ​9.58sec men’s ​100m world record ​set ​by Usain Bolt 17 years ago at the World Athletics Championships in Berlin. Continue reading...",
             "zh": "仿人机器人“闪电”在北京以 9.32 秒的速度跑完，比 17 年前创下的 9.58 秒男子世界纪录还要快据中国国家广播公司报道，一款名为“闪电”的机器人在 9.32 秒内跑完了 100 米，打破了人类世界纪录。这款由中国智能手机制造商荣耀开发的人形机器人在周六开始的第二届世界人形机器人运动会测试赛中达到了每秒 14.5 米的峰值速度。这一成绩超过了尤塞恩·博尔特 17 年前在柏林世界田径锦标赛上创下的 9.58 秒男子 100 米世界纪录。继续阅读..."
           },
           "reflection": {
@@ -617,7 +718,7 @@
           },
           "body": {
             "en": "A robot horse and dancing humanoids are among the machines that have been showcased by Chinese manufacturers at a conference in Beijing.\n\nThe five-day 2026 World Robot Conference, which started on Wednesday, comes as the country continues to expand its robotics industry.\n\nOn the day the conference kicked off, the world's biggest humanoid robot maker Unitree Robotics made its stock market debut in Shanghai.\n\nThe Chinese firm's machines are competing in the 2026 World Humanoid Robot Games, which started on Saturday in the capital. The event involves more than 2,000 robots from 16 countries.",
-            "zh": "中国制造商在北京举行的一次会议上展示了机器马和跳舞的人形机器人等机器。 为期五天的 2026 年世界机器人大会于周三开幕，正值中国继续扩大机器人产业之际。 大会开幕当天，全球最大的仿人机器人制造商优树机器人在上海上市。 这家中国公司的机器将参加周六在首都开幕的 2026 年世界人形机器人运动会。此次活动有来自16个国家的2000多台机器人参加。"
+            "zh": "中国制造商在北京举行的一次会议上展示了机器马和跳舞的人形机器人等机器。 为期五天的 2026 年世界机器人大会于周三开幕，正值中国继续扩大机器人产业之际。 大会开幕当天，全球最大的仿人机器人制造商优树机器人在上海上市。 这家中国公司的机器正在参加周六在首都开幕的 2026 年世界人形机器人运动会。此次活动有来自16个国家的2000多台机器人参加。"
           },
           "reflection": {
             "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
