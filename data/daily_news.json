@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T13:26:17.050Z",
-  "editionDate": "2026-08-22",
+  "generatedAt": "2026-08-22T14:12:24.925Z",
+  "editionDate": "2026-08-23",
   "sources": [
     {
       "name": "The Guardian World",
@@ -111,6 +111,39 @@
         "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-bbc-co-uk-news-articles-cqlxlvz01z1o-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg",
+          "publishedAt": "2026-08-22T13:48:06.000Z",
+          "title": {
+            "en": "Fourteen killed in strike on Myanmar monastery",
+            "zh": "缅甸寺院遭袭击 14人死亡"
+          },
+          "summary": {
+            "en": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Fourteen people were killed in military air strikes at a monastery in Myanmar early on Friday, opposition fighters and a local rescue worker have said.\n\nAll of those killed were elderly and a number of monks were also injured, the rescue worker told BBC Burmese, adding that the site was struck twice.\n\nThe attack happened at around 09:00 local time (02:30 GMT) in Myaung township in the central Sagaing region, some 70km (47 miles) west of Mandalay, the news agency AFP reported.\n\nCivilians had reportedly gathered at the site for a meditation retreat to mark Buddhist Lent. Myanmar's military has not commented.\n\nNway Oo Myaung, a pro-democracy rebel, told AFP that the victims included 11 men and three women. Five of the victims were said to be from one village, while the remaining nine were from a neighbouring township.\n\n\"Older people had entered the meditation centres,\" Myaung added, saying the dead were aged between 50 and 70.\n\nA second, unnamed opposition fighter said he had been among those searching for survivors of the attacks.\n\n\"While we were trying to rescue people, the aircraft came to bomb a second time,\" he said.\n\nMyanmar has been locked in civil war since the military staged a 2021 coup ousting Aung San Suu Kyi, and has been under martial rule since. The military, which is frequently accused of carrying out strikes on public buildings, has previously said it only strikes legitimate targets.\n\nAung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+            "zh": "反对派武装人员和当地救援人员表示，周五早些时候，缅甸一座寺庙遭到军事空袭，造成 14 人死亡。 救援人员告诉 BBC 缅甸语，所有遇难者都是老人，一些僧人也受伤，并补充说该地点遭到两次袭击。 据法新社报道，袭击发生在当地时间 09:00 左右（格林尼治标准时间 02:30），地点位于曼德勒以西约 70 公里（47 英里）处的实皆地区中部的 Myaung 镇。 据报道，平民聚集在现场进行冥想静修，以纪念佛教大斋节。缅甸军方尚未发表评论。 亲民主叛军 Nway Oo Myaung 告诉法新社，受害者包括 11 名男性和 3 名女性。据称，其中五名受害者来自一个村庄，其余九名来自邻近的一个乡镇。 “进入冥想中心的都是老年人，”Myaung 补充说，死者年龄在 50 岁到 70 岁之间。 另一位不愿透露姓名的反对派战士表示，他一直在寻找袭击幸存者。 “当我们试图营救人员时，飞机第二次来袭，”他说。 自2021年军方发动政变推翻昂山素季以来，缅甸一直陷入内战，并一直处于军事统治之下。经常被指控对公共建筑进行袭击的军方此前曾表示，只袭击合法目标。 昂山素季 2.5 年来首次确认的外部接触看起来很健康"
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-bbc-co-uk-news-articles-c39egw7nmk2o-at-medium-rss-at-campaign-rss",
           "section": "world",
@@ -281,40 +314,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-theguardian-com-politics-2026-aug-22-andy-burnham-uk-host-mens-world",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/politics/2026/aug/22/andy-burnham-uk-host-mens-world-cup-football-2042",
-          "image": "https://i.guim.co.uk/img/media/0cd35690714d1312ba2f7b0bf00e0fc57538a6d4/228_0_4161_3331/master/4161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9154f906af5496c6044fc9a72859fae1",
-          "publishedAt": "2026-08-22T12:13:28.000Z",
-          "title": {
-            "en": "Andy Burnham says he wants to bring men’s World Cup back to UK in 2042",
-            "zh": "安迪·伯纳姆表示希望在2042年将男足世界杯带回英国"
-          },
-          "summary": {
-            "en": "Andy Burnham, a regional mayor, has expressed his desire to bring the men’s World Cup back to the UK in 2042. This initiative would mark the first time the tournament is hosted in the UK in nearly eight decades, following discussions with the Prime Minister who also supports the idea.",
-            "zh": "地区市长安迪·伯纳姆表示，他希望在2042年将男足世界杯带回英国。此举将是该赛事近八十年来首次重返英国，此前他已与首相讨论过此事，首相也对此表示支持。"
-          },
-          "body": {
-            "en": "PM tells regional mayors he is keen for tournament to be played in British Isles for first time since 1966 Andy Burnham has said he wants to bring the men’s World Cup to the UK in 2042, returning the tournament to Britain for the first time in almost eight decades. At a meeting in No 10 North in Manchester on Friday, the prime minister told regional mayors he was keen for the tournament to be played in the British Isles. Continue reading...",
-            "zh": "英国首相告诉地区市长，他渴望看到赛事在近八十年后首次在英国举办。安迪·伯纳姆 (Andy Burnham) 表示，他希望在 2042 年将男子世界杯带到英国，此举将使赛事近八十年来首次重返英国。周五在曼彻斯特北十号举行的一次会议上，首相告诉地区市长，他热衷于在不列颠群岛举行比赛。继续阅读..."
-          },
-          "reflection": {
-            "en": "Planning for a major national event like the World Cup involves immense vision and effort, spanning decades. As leaders and communities set their sights on such ambitious goals, committing these plans to Yahweh can bring a deeper sense of purpose and trust. This reminds us that even grand human endeavors can be offered in faith, seeking divine guidance for...",
-            "zh": "规划像世界杯这样的大型国家盛事，需要巨大的远见和长期的努力。当领导者和社区着眼于如此宏伟的目标时，将这些计划交托给雅伟能带来更深层的目的感和信靠。这提醒我们，即使是宏大的人类事业，也可以凭信心献上，寻求神圣的指引以取得成功。"
-          },
-          "verse": {
-            "reference": "Proverbs 16:3",
-            "textEn": "Commit to Yahweh whatever you do, and he will establish your plans.",
-            "textZh": "你所做的，要交托雅伟，你所谋的，就必成立。",
-            "themeEn": "Committing work to God",
-            "themeZh": "将工作交托"
-          },
-          "aiVerseId": "prov_16_3",
-          "translationState": "localized"
-        },
-        {
           "id": "www-dw-com-en-myanmar-military-airstrike-kills-14-at-buddhist-monastery-",
           "section": "world",
           "source": "DW World",
@@ -346,40 +345,6 @@
             "themeZh": "对不公的哀诉"
           },
           "aiVerseId": "hab_1_4",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-society-2026-aug-22-kindergarten-mmr-vaccination-rat",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip",
-          "image": "https://i.guim.co.uk/img/media/46a05a7c5abbdad1de23446537f1ad216e553d86/183_0_4561_3648/master/4561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e79ef9756294d885be5e2d34384433c",
-          "publishedAt": "2026-08-22T11:00:02.000Z",
-          "title": {
-            "en": "US kindergarten vaccination rates dip as exemptions hit record high",
-            "zh": "美国幼儿园疫苗接种率下降，豁免率创历史新高"
-          },
-          "summary": {
-            "en": "New CDC data shows MMR vaccination among kindergarteners in the US declining slightly. This dip coincides with non-medical exemptions climbing to a record high of 4.2%, following a period where misleading claims about vaccines were made.",
-            "zh": "美国疾病控制与预防中心（CDC）的最新数据显示，美国幼儿园儿童的麻疹、腮腺炎和风疹（MMR）疫苗接种率略有下降。与此同时，非医疗豁免率升至创纪录的4.2%，此前曾有人散布关于疫苗的误导性言论。"
-          },
-          "body": {
-            "en": "New CDC data shows MMR vaccination among kindergarteners declining slightly as non-medical exemptions climb to 4.2% A week after Donald Trump made a series of misleading claims about vaccines – including that some injections look “like the size of a soda bottle” – the Centers for Disease Control and Prevention (CDC) released the latest data on national kindergarten vaccination rates. CDC communications downplayed the changes – a three-sentence announcement said, “overall vaccination rates among kindergarteners remained high” – but medical experts immediately saw cause for concern in the trends. Continue reading...",
-            "zh": "CDC 的新数据显示，幼儿园儿童 MMR 疫苗接种略有下降，非医疗豁免攀升至 4.2% 在唐纳德·特朗普对疫苗做出一系列误导性声明（包括某些注射剂看起来“像汽水瓶大小”）一周后，疾病控制与预防中心 (CDC) 发布了全国幼儿园疫苗接种率的最新数据。疾病预防控制中心的通讯淡化了这些变化——一份三句话的公告称，“幼儿园儿童的总体疫苗接种率仍然很高”——但医学专家立即发现了这一趋势令人担忧的原因。继续阅读..."
-          },
-          "reflection": {
-            "en": "In an age of abundant information, it is crucial to exercise discernment, especially when decisions impact public health and the well-being of the vulnerable. Proverbs 14:15 reminds us that while the naive may believe everything, the prudent carefully consider their steps. May we seek wisdom to navigate complex claims and make choices that reflect care for...",
-            "zh": "在信息爆炸的时代，尤其当决策影响公共健康和弱势群体的福祉时，辨别力至关重要。箴言14:15提醒我们，愚蒙人凡话都信，通达人步步谨慎。愿我们寻求智慧，以应对复杂的言论，并做出体现对邻舍关爱的选择。"
-          },
-          "verse": {
-            "reference": "Proverbs 14:15",
-            "textEn": "The simple believe anything, but the prudent give thought to their steps.",
-            "textZh": "愚蒙人是话都信；通达人步步谨慎。",
-            "themeEn": "Discernment",
-            "themeZh": "分辨与谨慎"
-          },
-          "aiVerseId": "prov_14_15",
           "translationState": "localized"
         },
         {
@@ -417,39 +382,6 @@
           "translationState": "localized"
         },
         {
-          "id": "www-bbc-co-uk-news-videos-c0qvqzzdd02o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6806/live/4e83d770-9e0e-11f1-95e0-53a570c83624.jpg",
-          "publishedAt": "2026-08-22T10:01:18.000Z",
-          "title": {
-            "en": "Robot horse and rider steal the spotlight at Chinese conference",
-            "zh": "机器马和骑手在中国会议上抢尽风头"
-          },
-          "summary": {
-            "en": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "A robot horse and dancing humanoids are among the machines that have been showcased by Chinese manufacturers at a conference in Beijing.\n\nThe five-day 2026 World Robot Conference, which started on Wednesday, comes as the country continues to expand its robotics industry.\n\nOn the day the conference kicked off, the world's biggest humanoid robot maker Unitree Robotics made its stock market debut in Shanghai.\n\nThe Chinese firm's machines are competing in the 2026 World Humanoid Robot Games, which started on Saturday in the capital. The event involves more than 2,000 robots from 16 countries.",
-            "zh": "中国制造商在北京举行的一次会议上展示了机器马和跳舞的人形机器人等机器。 为期五天的 2026 年世界机器人大会于周三开幕，正值中国继续扩大机器人产业之际。 大会开幕当天，全球最大的仿人机器人制造商优树机器人在上海上市。 这家中国公司的机器正在参加周六在首都开幕的 2026 年世界人形机器人运动会。此次活动有来自16个国家的2000多台机器人参加。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-dw-com-en-small-german-airplane-crashes-in-croatia-killing-2-a-78467",
           "section": "world",
           "source": "DW World",
@@ -459,95 +391,29 @@
           "publishedAt": "2026-08-22T09:34:00.000Z",
           "title": {
             "en": "Small German airplane crashes in Croatia, killing 2",
-            "zh": "德国小型飞机在克罗地亚坠毁 造成2人死亡"
+            "zh": "小型德国飞机在克罗地亚坠毁，造成2人死亡"
           },
           "summary": {
-            "en": "The two-seater motor glider went down in the Velebit mountains, near Zadar, killing both passengers.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "A small two-seater motor glider crashed in the Velebit mountains near Zadar, Croatia, resulting in the deaths of both passengers on board.",
+            "zh": "一架小型双座动力滑翔机在克罗地亚扎达尔附近的韦莱比特山脉坠毁，机上两名乘客全部遇难。"
           },
           "body": {
             "en": "The two-seater motor glider went down in the Velebit mountains, near Zadar, killing both passengers.\n\nTwo people were killed when a small aircraft registered in Germany crashed near Croatia's &#160;coastal city of Zadar, local media reported on Saturday.\n\nCroatian police said the two-seater motor glider, which can fly with a small engine&#160;or glide&#160;without one, went down in the Velebit mountains on Friday.\n\nAuthorities said the&#160;Diamond HK36 Super Dimona was en route from the Czech Republic to Zadar when it crashed.\n\nAccording to media reports, contact with the aircraft was lost just after 4 p.m. local time (1400 GMT/UTC).&#160;\n\nPolice said the wreckage, along with the bodies of two passengers, was&#160;found after a lengthy search.\n\nChallenging terrain, along with heavy rain, wind and fog, meant it took nearly six&#160;hours to reach the location.\n\nCroatian media outlet Jutarnji list cited the&#160;mountain rescue agency as describing the conditions as \"extremely difficult.\"\n\nThe fog, which reduced visibility to around 2 meters,&#160;also prevented the deployment of search drones, Jutarnji list reported.\n\nGerman news agency DPA cited the Czech Foreign Ministry as saying the victims were not Czech citizens.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by&#160; clicking here &#160;and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
-            "zh": "这架双座机动滑翔机在扎达尔附近的韦莱比特山脉坠落，造成两名乘客死亡。 据当地媒体周六报道，一架在德国注册的小型飞机在克罗地亚沿海城市扎达尔附近坠毁，造成两人死亡。 克罗地亚警方表示，这架两座机动滑翔机周五在韦莱比特山坠落，该滑翔机可以使用小型发动机飞行，也可以在没有发动机的情况下滑翔。 当局表示，这架钻石 HK36 Super Dimona 坠毁时正在从捷克共和国飞往扎达尔的途中。 据媒体报道，下午 4 点刚过，与飞机失去联系。当地时间（1400 GMT/UTC）。 警方表示，经过长时间的搜寻，发现了飞机残骸以及两名乘客的尸体。 地形充满挑战，加上大雨、狂风和大雾，意味着需要近六个小时才能到达目的地。 克罗地亚媒体 Jutarnji list 援引山地救援机构的话说，情况“极其困难”。 据 Jutarnji list 报道，大雾导致能见度降低至 2 米左右，也阻碍了搜索无人机的部署。 德国新闻社德新社援引捷克外交部的话说，遇难者不是捷克公民。 不要让算法隐藏新闻。如果您信赖我们团队的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，这样您始终会首先看到我们经过验证的新闻。"
+            "zh": "这架双座机动滑翔机在扎达尔附近的韦莱比特山脉坠落，造成两名乘客死亡。 据当地媒体周六报道，一架在德国注册的小型飞机在克罗地亚沿海城市扎达尔附近坠毁，造成两人死亡。 克罗地亚警方表示，这架两座机动滑翔机周五在韦莱比特山坠落，该滑翔机可以使用小型发动机飞行，也可以在没有发动机的情况下滑翔。 当局表示，这架钻石 HK36 Super Dimona 坠毁时正在从捷克共和国飞往扎达尔的途中。 据媒体报道，下午 4 点刚过，与飞机失去联系。当地时间（1400 GMT/UTC）。 警方表示，经过长时间的搜寻，发现了飞机残骸以及两名乘客的尸体。 地形具有挑战性，加上大雨、大风和大雾，意味着需要近六个小时才能到达目的地。 克罗地亚媒体 Jutarnji list 援引山地救援机构的话说，情况“极其困难”。 据 Jutarnji list 报道，大雾导致能见度降低至 2 米左右，也阻碍了搜索无人机的部署。 德国新闻社德新社援引捷克外交部的话说，遇难者不是捷克公民。 不要让算法隐藏新闻。如果您信赖我们团队提供的可信报道，请花点时间点击此处并点击“星标”或“首选”按钮，将我们选为您在 Google 上的首选来源，以便您始终能够首先看到我们经过验证的新闻。"
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The sudden loss of life in this accident reminds us of the fragility of our days. In moments of such profound sorrow, we remember that even Yahweh, in human form, wept at the tomb of a friend, showing us that grief is a natural and sacred response to loss. This shared humanity in sorrow connects us all.",
+            "zh": "这起事故中生命的突然逝去，提醒我们生命的脆弱。在如此深切的悲痛时刻，我们记得即使是道成肉身的雅伟，也在朋友的墓前哭泣，这向我们表明悲伤是对逝去之人的自然而神圣的回应。这种在悲伤中的共同人性将我们所有人联系在一起。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "John 11:35",
+            "textEn": "Jesus wept.",
+            "textZh": "耶稣哭了。",
+            "themeEn": "Jesus wept",
+            "themeZh": "耶稣哭了"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-c93403wg288o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
-          "publishedAt": "2026-08-22T08:40:49.000Z",
-          "title": {
-            "en": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-            "zh": "父亲据报将7岁儿子独自留在富士山继续徒步"
-          },
-          "summary": {
-            "en": "Reports indicate that a father left his seven-year-old son alone on Mount Fuji after taking his two boys on a hike. The man reportedly continued his ascent after the child became tired.",
-            "zh": "据报道，一名父亲带着两个儿子徒步旅行，在其中一个七岁儿子感到疲倦后，将其独自留在富士山上，自己继续登山。"
-          },
-          "body": {
-            "en": "A father has been reprimanded by police after leaving his son on Japan's highest mountain for several hours with just a soft drink and snack, local media report.\n\nThe seven-year-old was spotted sitting on a bench on Mount Fuji in foggy and rainy conditions, at a point situated at over 2,000m (6,500ft).\n\nHis father, 48, reportedly told him to \"wait here\" after the boy complained he was tired - and continued the climb with his elder son.\n\nStaff at a mountain hut found the child near the sixth station of a hiking route towards the summit and alerted police. His father was tracked down at the route's eighth station - said to be a three-hour hike away.\n\nAccording to reports, the boy was found on his own at 07:30 local time on Thursday (22:30 GMT).\n\nOfficers castigated his father when he returned from the higher station and reunited with his son.\n\n\"Even if it means having to give up on climbing the mountain together, leaving a child behind is unacceptable,\" one told him, according to Japan Today. He is said to have apologised for the \"rash\" decision.\n\nThe family was reported to have been on the Fujinomiya route, which starts from the fifth station on the mountain, a spot which is accessible by public transport.\n\nFrom there it takes around five hours to reach the peak and a further three hours to get down, climbing guides suggest.\n\nMount Fuji, which stands at a height of 3,776m (12,389ft), has been the site of a number of climbing mishaps in recent years.\n\nIn July, a 99-year-old woman had to be rescued attempting the route after falling and hurting her hip and back.\n\nAnd last year, a 27-year-old university student who went outside of official climbing season had to be rescued twice in four days - after he went back to look for his lost mobile phone.\n\nMount Fuji, an active volcano located south-west of Tokyo, was granted World Heritage status in 2013.\n\nIt is also one of three traditional \"Holy Mountains\" together with Mount Tate and Mount Haku.\n\nAround 200,000 people climb it each year, but there are daily caps on some routes to avoid overcrowding.",
-            "zh": "据当地媒体报道，一名父亲将儿子留在日本最高的山上几个小时，只给了他一杯软饮料和零食，结果遭到了警方的训斥。 这名 7 岁的孩子被发现在多雾多雨的情况下坐在富士山的长凳上，海拔超过 2,000 m（6,500 英尺）。 据报道，在男孩抱怨自己累了之后，他 48 岁的父亲告诉他“在这里等”，然后和大儿子一起继续攀登。 山间小屋的工作人员在通往山顶的徒步路线第六站附近发现了这名儿童，并向警方报警。他的父亲在这条路线的第八站被找到——据说距离这里要徒步三个小时。 据报道，这名男孩于当地时间周四07:30（格林尼治标准时间22:30）独自被发现。 当他的父亲从上级车站回来并与儿子团聚时，警察对他进行了严厉的斥责。 据《今日日本》报道，一位人士告诉他，“即使这意味着不得不放弃一起爬山，留下一个孩子也是不可接受的”。据说他已为这一“草率”决定道歉。 据报道，这家人乘坐的是富士宫路线，这条路线从山上的第五站出发，可以乘坐公共交通工具到达。 登山指南建议，从那里到达山顶大约需要五个小时，下山还需要三个小时。 富士山海拔 3,776m（12,389ft），近年来发生了多起登山事故。 7月，一名99岁的妇女在尝试这条路线时摔倒，臀部和背部受伤，不得不获救。 去年，一名 27 岁的大学生在官方登山季节之外外出寻找丢失的手机，在四天内两次获救。 富士山是一座位于东京西南部的活火山，于 2013 年被授予世界遗产地位。 与立山、白山并列为传统三大“圣山”之一。 每年约有 200,000 人攀登这座山，但某些路线每日设有上限，以避免过度拥挤。"
-          },
-          "reflection": {
-            "en": "This heartbreaking story of a father leaving his young son alone on a mountain highlights the profound vulnerability of children when parental care is absent. Psalm 27:10 reminds us that even when human parents fail, Yahweh's steadfast love offers ultimate refuge and care for the forsaken. It underscores the sacred trust involved in raising and protecting...",
-            "zh": "父亲将年幼的儿子独自留在山上的这个令人心碎的故事，凸显了当父母的照护缺失时，孩子们的极度脆弱。诗篇27:10提醒我们，即使人类的父母离弃，雅伟的坚定之爱也为被遗弃者提供了最终的庇护和关怀。这强调了抚养和保护儿童所涉及的神圣信任。"
-          },
-          "verse": {
-            "reference": "Psalm 27:10",
-            "textEn": "Though my father and mother forsake me, Yahweh will receive me.",
-            "textZh": "我父母离弃我，雅伟必收留我。",
-            "themeEn": "When parents forsake",
-            "themeZh": "父母离弃我"
-          },
-          "aiVerseId": "ps_27_10",
+          "aiVerseId": "jn_11_35",
           "translationState": "localized"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cvg92y1wzn8o-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
-          "publishedAt": "2026-08-22T07:53:57.000Z",
-          "title": {
-            "en": "Sydney Marathon medal mistakenly depicts Munich stadium",
-            "zh": "悉尼马拉松奖牌错误地描绘了慕尼黑体育场"
-          },
-          "summary": {
-            "en": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "One week out from the world-renowned Sydney Marathon, organisers face questions about whether designers etched the wrong city's stadium on the participation medal.\n\nThe medal appears to feature a stadium carved in the likeness of Allianz Arena in the German city of Munich, rather than Allianz Stadium in Sydney – which the 42.2km (26.2 mile) course runs past.\n\nSome 40,000 runners will be taking part in the event on 30 August, after more than 120,000 ballot entries.\n\nSpeculation about a possible mix-up began after Sydney Marathon's official social media account unveiled its design for the 2026 medal, inviting users to \"look closely and you'll find the story of the course in the details\".\n\nThey continued: \"A beautiful Sydney skyline brings the course to life, featuring the landmarks runners will experience along the way - starting with the Sydney Harbour Bridge and finishing at the world-famous Sydney Opera House.\"\n\nMunich's Allianz Arena is sculpted by thousands of diamond-shaped inflatable cushions, while Sydney's similarly-named Allianz Stadium has a flatter façade smoothed with long bronze fins.\n\nThe other face of the double-sided medal features a gold and indigo pattern designed by First Nations artist Ambrose Killian. Forty-two half-round markings lining the circular edge \"represent each kilometre of the course\", organisers explained.\n\nThe blunder follows a similar incident at last year's Great North Run in Newcastle, where medals mistakenly featured the Sunderland and Wear River – which is not part of the event.\n\nSydney was announced as the seventh city added to the Abbott majors series in 2024, joining London, Berlin, Boston, Chicago, New York, and Tokyo. Cape Town is set to become the eighth city when it hosts its first marathon major next year.",
-            "zh": "世界著名的悉尼马拉松比赛结束一周后，组织者面临着设计师是否在参赛奖牌上蚀刻了错误的城市体育场的问题。 奖牌上的体育场似乎是按照德国慕尼黑市安联体育场的形状雕刻的，而不是悉尼的安联体育场——42.2公里（26.2英里）的赛道经过悉尼的安联体育场。 经过超过 120,000 份投票报名后，约 40,000 名跑步者将参加 8 月 30 日的活动。 悉尼马拉松官方社交媒体账户公布了 2026 年奖牌的设计，邀请用户“仔细观察，你会在细节中发现赛道的故事”，之后，关于可能出现混淆的猜测开始出现。 他们继续说道：“美丽的悉尼天际线让赛道变得栩栩如生，其中包括跑步者沿途将体验到的地标建筑——从悉尼海港大桥开始，到世界著名的悉尼歌剧院结束。” 慕尼黑的安联体育场由数千个菱形充气垫雕刻而成，而悉尼同名的安联体育场则拥有更平坦的外墙，并配有长长的青铜鳍。 双面奖牌的另一面饰有原住民艺术家安布罗斯·基利安 (Ambrose Killian) 设计的金色和靛蓝色图案。组织者解释说，圆形边缘排列的四十二个半圆形标记“代表了赛道的每一公里”。 这一失误是在去年纽卡斯尔大北跑比赛中发生的类似事件之后发生的，当时奖牌上错误地出现了桑德兰和威尔河，而这并不是该赛事的一部分。 悉尼被宣布成为 2024 年加入雅培大满贯系列赛的第七个城市，加入伦敦、柏林、波士顿、芝加哥、纽约和东京之后。明年开普敦将成为第八个举办首届马拉松赛事的城市。"
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         },
         {
           "id": "www-sbs-com-au-news-article-russian-drones-hit-ukraine-mall-killing-16-a",
@@ -581,142 +447,6 @@
             "themeZh": "清晨的怜悯"
           },
           "aiVerseId": "lam_3_22",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-myanmar-military-strike-kills-14-attending-m",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/myanmar-military-strike-kills-14-attending-monastery-retreat/6r4ecppz4",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-myanmar-military-strike-kills-14-attending-m.jpg",
-          "publishedAt": "2026-08-22T00:21:58.000Z",
-          "title": {
-            "en": "Myanmar military strike kills 14 attending monastery retreat",
-            "zh": "缅甸军事打击致14名参加寺院静修者死亡"
-          },
-          "summary": {
-            "en": "The Myanmar military conducted an airstrike on a monastery retreat, killing 14 civilians. This incident follows a UN report indicating the military's increased use of low-cost aircraft for civilian casualties.",
-            "zh": "缅甸军方对一处寺院静修地发动空袭，造成14名平民死亡。此前联合国一份报告指出，缅甸军方越来越多地使用低成本飞机杀害平民。"
-          },
-          "body": {
-            "en": "An air strike by Myanmar's military on a Buddhist monastery in the central Sagaing region has killed 14 people who were taking part in a week-long meditation retreat, an opposition group and a resident say.\n\nThe attack is the latest in a series of frequent and deadly aerial strikes targeting armed anti-government forces and ethnic armed groups in the country.\n\nTwo weeks ago, an United Nations report said Myanmar&#x2019;s military has increasingly used low-cost aircraft such as motorized paragliders and gyrocopters in escalating aerial attacks that kill civilians in its conflict with armed, anti-government groups.\n\nThe report by the UN-established Independent Investigative Mechanism for Myanmar, or IIMM, details a yearlong investigation into alleged war crimes and crimes against humanity committed by Myanmar&#x2019;s military and affiliated militias, as well as the opposition armed groups.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nMyanmar&#x2019;s military government did not immediately respond to either the UN probe. In the past, the military has said it only attacks legitimate targets of war, accusing the resistance forces of being terrorists.\n\nThe monastery attack occurred on Friday in Swel Le Oh village in Myaung township, about 75km west of Mandalay, the country's second largest city, according to Nway Oo, a spokesman for the Civil Defence and Security Organisation of Myaung Township, or CDSOM.\n\nNway Oo said 14 people, including three women, were killed and 20 others were wounded when a jet fighter dropped a bomb in the compound of the village's monastery.\n\nA villager who spoke on condition of anonymity also confirmed the death toll to the Associated Press.\n\nThe villager said the jet fighter dropped two bombs 15 minutes apart, with the second bomb damaging a house near the monastery where more than 100 people were on a week-long retreat.\n\nThe villager, whose mother-in-law was killed in the air strike, said that people fled to a nearby community after cremating bodies of the victims.\n\nThe BBC's Burmese-language service and Myanmar's media outlets, including Myanmar Now, reported the death toll at between 10 and 14.\n\nThey also posted photos and videos showing what they said was the aftermath of the strike, with images of bodies.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "反对派组织和一名居民称，缅甸军方对实皆中部地区的一座佛教寺院进行了空袭，导致 14 名正在参加为期一周的冥想静修的人死亡。 这次袭击是针对该国武装反政府部队和少数民族武装团体的一系列频繁而致命的空袭中的最新一起。 两周前，联合国的一份报告称，缅甸军方越来越多地使用机动滑翔伞和旋翼机等低成本飞机来升级空中袭击，在与武装反政府团体的冲突中造成平民死亡。 联合国设立的缅甸独立调查机制（IIMM）的报告详细介绍了对缅甸军队及其附属民兵以及反对派武装团体涉嫌犯下战争罪和反人类罪的为期一年的调查。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 缅甸军政府没有立即对联合国的调查做出回应。过去，军方曾表示只攻击合法的战争目标，并指责抵抗力量是恐怖分子。 妙镇民防与安全组织 (CDSOM) 发言人 Nway Oo 表示，周五，寺院袭击发生在该国第二大城市曼德勒以西约 75 公里处的妙镇 Swel Le Oh 村。 Nway Oo说，一架喷气式战斗机在该村修道院院落投下一枚炸弹，造成14人死亡，其中包括3名妇女，另有20人受伤。 一位不愿透露姓名的村民也向美联社证实了死亡人数。 该村民称，这架喷气式战斗机每隔 15 分钟投下两枚炸弹，第二枚炸弹损坏了修道院附近的一所房屋，那里有 100 多人正在避难，为期一周。 这位婆婆在空袭中丧生的村民说，人们火化遇难者尸体后逃到附近的社区。 BBC 缅甸语服务和缅甸媒体（包括“Myanmar Now”）报道的死亡人数为 10 至 14 人。 他们还发布了照片和视频，展示了他们所说的罢工后果，并附有尸体图像。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "The tragic loss of life at a monastery retreat underscores the profound vulnerability of civilians when those in power act with unchecked force. Yahweh's word reminds us that a wicked ruler preying on a helpless people is like a roaring lion or a charging bear, bringing terror and devastation. In such times, we pray for protection for the innocent and for...",
-            "zh": "寺院静修地发生的悲剧性生命损失，凸显了当掌权者肆无忌惮地使用武力时，平民的极度脆弱。雅伟的话语提醒我们，一个残暴的统治者欺压无助的百姓，如同咆哮的狮子或冲锋的熊，带来恐惧和毁灭。在这样的时刻，我们为无辜者祈求保护，并愿公义战胜压迫。"
-          },
-          "verse": {
-            "reference": "Proverbs 28:15",
-            "textEn": "Like a roaring lion or a charging bear is a wicked ruler over a helpless people.",
-            "textZh": "暴虐的君王辖制贫民，好像吼叫的狮子、觅食的熊。",
-            "themeEn": "Tyranny",
-            "themeZh": "暴政"
-          },
-          "aiVerseId": "prov_28_15",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-sword-attack-at-swedish-school-kills-one-inj",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/sword-attack-at-swedish-school-kills-one-injures-three/yx1sa2pxt",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-sword-attack-at-swedish-school-kills-one-inj.jpg",
-          "publishedAt": "2026-08-21T22:33:55.000Z",
-          "title": {
-            "en": "Sword attack at Swedish school kills one, injures three",
-            "zh": "瑞典学校发生持剑袭击，造成一人死亡，三人受伤"
-          },
-          "summary": {
-            "en": "A sword attack occurred at a school in Fagersta, central Sweden, resulting in one fatality and three injuries. The incident has deeply affected the small town of 13,000 residents as schools reopened.",
-            "zh": "在瑞典中部城镇法格斯塔的一所学校发生持剑袭击事件，造成一人死亡，三人受伤。随着学校重新开学，这起事件震惊了这个拥有1.3万人口的小镇。"
-          },
-          "body": {
-            "en": "A man armed with a sword has attacked students at a Swedish secondary school, killing one person and injuring three, and police shot and detained him, local authorities say.\n\nThe incident occurred on Friday afternoon at the Brinell high school in the central Swedish town of Fagersta, which has about 13,000 &#x200C;residents.\n\nThe school had just reopened after summer recess and it was the first day back for some of its students.\n\nPolice told a press conference that the suspect was an 18-year-old man whom they shot and took into custody on suspicion of murder.\n\nLocal police chief Tommy Alriksson said officers responded quickly to the school, which has 450 students ages 16 to 20.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"The first patrol entered and let us know that the perpetrator was subdued with gunfire,\" he said.\n\nPublic broadcaster SVT, citing unnamed sources, reported the attacker, wearing a helmet and &#x200C;carrying a sword, was &#x200C;a former student at the &#x2060;school with a previous conviction for assault.\n\nThe local health authority said two victims were teenage boys who were severely injured.\n\n\"First it was just a regular day really. But then ... I saw a guy all covered in blood, at least down his back anyway. Then I saw the police and they flooded in,\" one Brinell student, Nellie, told Reuters alongside her mother Agnes Strandberg after a five-hour lockdown at the school.\n\nAnother student, Abdulrahem Salmo, said he had seen a victim with a bloody stab wound in the arm.\n\n\"Then people called the police and we &#x2060;just all ran from there because we were afraid,\" he told SVT.\n\nSeveral other schools and &#x200C;public buildings in Fagersta were also initially locked down.\n\n\"Our and the school's main focus right now is to take care of our students and our employees,\" &#x200C;she told reporters.\n\n\"We are working together ... to create safety and provide support to those who need it.\"\n\nSwedish Prime Minister Ulf Kristersson cancelled a speech he was due to hold on Saturday, news agency TT reported.\n\n\"Our thoughts are with all those affected,\" he wrote in a post on social media platform X.\n\nSweden's King Carl XVI Gustaf said in a statement released by the royal household that he received news of the attack \"with dismay and sadness\".\n\nSocial Democrat leader Magdalena Andersson, whose coalition leads opinion polls for next month's parliamentary election, said: \"All of Sweden stands together with Fagersta at this difficult time.\"\n\nAccording to the Aftonbladet daily, police &#x200C;were investigating a TikTok account in connection with Friday's violence that posted a picture of a sword 20 minutes before the attack.\n\nDagens Nyheter newspaper said...",
-            "zh": "地方当局称，一名持剑男子袭击了瑞典一所中学的学生，造成一人死亡、三人受伤，警方开枪射击并拘留了他。 这起事件于周五下午发生在瑞典中部小镇法格斯塔的布内尔高中，该高中约有 13,000 名居民。 学校暑假结束后刚刚重新开学，这是一些学生返校的第一天。 警方在新闻发布会上表示，嫌疑人是一名 18 岁男子，他们因涉嫌谋杀而开枪并将其拘留。 当地警察局长汤米·阿尔里克森 (Tommy Alriksson) 表示，警方迅速对学校做出反应，该校有 450 名 16 至 20 岁的学生。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “第一支巡逻队进入并让我们知道肇事者已被枪击制服，”他说。 公共广播公司 SVT 援引未透露姓名的消息来源报道称，戴着头盔、手持剑的袭击者是该学校的一名前学生，曾因袭击罪被定罪。 当地卫生部门表示，两名受害者是受重伤的十几岁男孩。 “一开始这只是平常的一天。但后来……我看到一个人浑身是血，至少是背部沾满了血。然后我看到了警察，他们蜂拥而至，”布内尔大学的一名学生内莉(Nellie)和她的母亲阿格尼丝·斯特兰德伯格(Agnes Strandberg)在学校被封锁了五个小时后告诉路透社。 另一名学生阿卜杜拉赫姆·萨尔莫(Abdulrahem Salmo)说，他看到一名受害者手臂上有血淋淋的刺伤。 “然后人们报了警，我们都因为害怕而逃离了那里，”他告诉 SVT。 法格斯塔的其他几所学校和公共建筑最初也被封锁。 “我们和学校现在的主要重点是照顾我们的学生和员工，”她告诉记者。 “我们正在共同努力……创造安全并为需要的人提供支持。” 据TT通讯社报道，瑞典首相乌尔夫·克里斯特森取消了原定于周六举行的演讲。 他在社交媒体平台 X 上的一篇帖子中写道：“我们的心与所有受影响的人同在。” 瑞典国王卡尔十六世·古斯塔夫在王室发布的一份声明中表示，他“非常沮丧和悲伤”地收到了袭击的消息。 社会民主党领袖玛格达莱娜·安德森（Magdalena Andersson）所在的联盟在下个月议会选举的民意调查中领先，她表示：“在这个困难时刻，整个瑞典都与法格斯塔站在一起。” 据《Aftonbladet 日报》报道，警方正在调查一个与周五暴力事件有关的 TikTok 账户，该账户在袭击发生前 20 分钟发布了一张剑的照片。 《每日新闻报》称……"
-          },
-          "reflection": {
-            "en": "The sudden violence at a school brings profound grief and pain to the community, reminding us of the fragility of peace. In moments of such tragedy, we long for a world where tears, mourning, and pain are no more. Yahweh promises a future where all former things of suffering will pass away, offering solace even amidst present sorrow.",
-            "zh": "学校突发的暴力事件给社区带来了深切的悲痛和痛苦，提醒我们和平的脆弱。在这样的悲剧时刻，我们渴望一个不再有眼泪、悲伤和痛苦的世界。雅伟应许了一个未来，所有过去的苦难都将过去，即使在当前的悲伤中也提供了慰藉。"
-          },
-          "verse": {
-            "reference": "Revelation 21:4",
-            "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
-            "textZh": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
-            "themeEn": "End of suffering",
-            "themeZh": "苦难的终结"
-          },
-          "aiVerseId": "rev_21_4",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-masha-and-the-bear-ukraine-sanctions-russian-cartoon-a-784",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/78465252_6.jpg",
-          "publishedAt": "2026-08-21T18:59:00.000Z",
-          "title": {
-            "en": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-            "zh": "《玛莎与熊》：乌克兰制裁俄罗斯动画片"
-          },
-          "summary": {
-            "en": "Ukraine has imposed sanctions on the popular Russian children's cartoon \"Masha and the Bear,\" moving towards a ban. Ukraine's culture minister labeled the show as propaganda, while Russia criticized the action as revealing Kyiv's \"ugly nature.\"",
-            "zh": "乌克兰已对热门俄罗斯儿童动画片《玛莎与熊》实施制裁，此举旨在将其禁用。乌克兰文化部长称该节目为宣传，而俄罗斯则表示此举暴露了基辅“丑陋的本质”。"
-          },
-          "body": {
-            "en": "Ukraine has imposed sanctions on the hit Russian children's cartoon \"Masha and the Bear,\" a step towards banning it. The culture minister called the show propaganda. Russia said the move showed Kyiv's \"ugly nature.\"\n\nUkrainian &#160;Culture Minister Tetyana Berezhna on Friday said Kyiv had imposed sanctions on the \"producers and distributors\" of the Russian children's cartoon series \"Masha and the Bear,\" or&#160;\"Masha i Medved\" in the original language.&#160;\n\nThe step will enable Kyiv to seek to remove and demonentize the series on websites like YouTube or streaming services like Netflix in the country.&#160;\n\nThe cartoon about a mischievous young girl's unlikely friendship and adventures with a retired circus bear, loosely based on a Russian oral fairytale of the same name, launched in 2009 and quickly became one of Russia 's most successful televisual exports.&#160;\n\n\"Ukraine has imposed sanctions against the producers and distributors of the Russian animated series Masha and the Bear,\" Berezhna said on social media.&#160;\"This creates legal grounds to block the content in Ukraine and engage international platforms to restrict its monetization and distribution.\"\n\nThe show has also faced criticism from allies of Ukraine like Estonia and the UK for allegedly painting Russia in a positive light or for military or Soviet symbols sometimes appearing in the show.&#160;\n\n\"Russian propaganda has no place on children's screens — in Ukraine or anywhere in the world,\" Berezhna said.&#160;\n\nIn further comments on Facebook, Berezhna said the Ukrainian language channel for the show had 800 million views in 2025 alone. The Ukrainian language channel currently has roughly 18 million subscribers.\n\nWorldwide, as of June 2026, the show had more than 54 billion combined views on YouTube, making it one of the 50 most popular feeds on the entire site.&#160;\n\nUkrainian President Volodymyr Zelenskyy signed a decree imposing sanctions on the creators of the show for spreading \"pro-Russia narratives\" and for posing a threat to Ukrainian national security. They target the studio, the show's founder, and the series' scriptwriter and director.\n\nUkraine said it would seek to have its sanctions mirrored by international partners, potentially widening the restrictions.\n\nThe company behind the show, Animaccord Animation Studios, has called past allegations that the show contains Russian propaganda \"false and defamatory,\" saying that it operates independently and receives no funding from the government in Moscow.&#160;\n\nKremlin spokesman Dmitry Peskov was asked about the sanctions on Friday and said that the cartoon series had \"conquered the world\" by promoting \"the finest human qualities.\"&#160;\n\n\"The fact that Ukraine has launched a war against cartoons, too, likely serves as...",
-            "zh": "乌克兰对俄罗斯热门儿童动画片《玛莎和熊》实施了制裁，这是向禁止该动画片迈出的一步。文化部长称该节目为宣传。俄罗斯称此举暴露了基辅的“丑陋本性”。 乌克兰文化部长泰季扬娜·别列日纳 (Tetyana Berezhna) 周五表示，基辅已对俄罗斯儿童动画片《玛莎与熊》（原语言为《玛莎·梅德韦德》）的“制作人和发行商”实施制裁。 此举将使基辅能够在 YouTube 等网站或 Netflix 等流媒体服务上寻求删除和妖魔化该剧。 这部动画片讲述了一个顽皮的年轻女孩与一只退休马戏团熊之间不可思议的友谊和冒险故事，大致改编自俄罗斯同名口头童话故事，于 2009 年推出，并迅速成为俄罗斯最成功的电视出口之一。 别列日纳在社交媒体上表示：“乌克兰已对俄罗斯动画连续剧《玛莎和熊》的制片人和发行商实施制裁。” “这为在乌克兰屏蔽内容并让国际平台限制其货币化和发行创造了法律依据。” 该节目还面临爱沙尼亚和英国等乌克兰盟友的批评，因为据称节目中有时出现俄罗斯的正面形象或军事或苏联符号。 别列日纳说：“无论是在乌克兰还是世界任何地方，儿童屏幕上都没有俄罗斯的宣传内容。” 别列日纳在 Facebook 上进一步发表评论称，该节目的乌克兰语频道仅 2025 年就有 8 亿次观看。乌克兰语频道目前拥有大约 1800 万订阅者。 截至 2026 年 6 月，该节目在 YouTube 上的全球总观看次数超过 540 亿次，使其成为整个网站上最受欢迎的 50 个源之一。 乌克兰总统泽连斯基签署了一项法令，对该节目的创作者实施制裁，理由是散布“亲俄言论”并对乌克兰国家安全构成威胁。他们的目标是工作室、节目的创始人以及剧集的编剧和导演。 乌克兰表示，它将寻求国际合作伙伴效仿其制裁措施，这可能会扩大限制。 该剧的幕后公司 Animaccord 动画工作室称，过去有关该剧包含俄罗斯宣传的指控是“虚假和诽谤性的”，并表示该剧独立运营，没有接受莫斯科政府的资助。 克里姆林宫发言人德米特里·佩斯科夫周五被问及制裁问题时表示，这部动画片通过宣扬“人类最优秀的品质”而“征服了世界”。 “乌克兰也发起了针对漫画的战争，这一事实很可能是......"
-          },
-          "reflection": {
-            "en": "In times of conflict, even cultural expressions like children's cartoons can become points of contention, with accusations of propaganda and counter-accusations. Yahweh's call for us to speak truth with our neighbors reminds us of the importance of integrity in all communication, especially when trust is fragile. It challenges us to seek honesty and reject...",
-            "zh": "在冲突时期，即使是儿童动画片等文化表达也可能成为争议焦点，伴随着宣传指控和反驳。雅伟呼吁我们对邻舍说实话，这提醒我们在所有交流中保持正直的重要性，尤其是在信任脆弱之时。它挑战我们即使在深刻分歧中也要寻求诚实，拒绝虚假。"
-          },
-          "verse": {
-            "reference": "Ephesians 4:25",
-            "textEn": "Therefore each of you must put off falsehood and speak truthfully to your neighbor.",
-            "textZh": "所以你们要弃绝谎言，各人与邻舍说实话。",
-            "themeEn": "Truth-telling",
-            "themeZh": "说诚实话"
-          },
-          "aiVerseId": "eph_4_25",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-german-army-helps-poland-construct-a-defensive-barrier-aga",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/78439558_6.jpg",
-          "publishedAt": "2026-08-21T18:44:00.000Z",
-          "title": {
-            "en": "German army helps Poland construct a defensive barrier against Russia",
-            "zh": "德国军队协助波兰修建针对俄罗斯的防御屏障"
-          },
-          "summary": {
-            "en": "Poland is constructing a defense system, known as the East Shield, along its northern and eastern borders to protect itself from Russia, with German army engineers assisting in the construction since June.",
-            "zh": "波兰正在其北部和东部边境修建一个名为“东方之盾”的防御系统，以保护自己免受俄罗斯的威胁。自六月以来，德国工兵一直在协助其北约盟友进行建设。"
-          },
-          "body": {
-            "en": "Poland is building a defense system along its northern and eastern borders to protect itself from Russia. Since June, German sappers have been assisting their NATO ally with the construction of the East Shield.\n\nPoland started to construct a defensive barrier along its border with Russia and Belarus in 2024. The East Shield defense system will eventually be around 800 kilometers long, and is intended to protect this&#160;country on NATO's eastern flank against attack from the east.\n\nWhen the Polish prime minister, Donald Tusk , inspected&#160;the first completed section in November 2024, he declared that the project was meant to \"deter and discourage a potential aggressor\" and was \"truly an investment in peace.\"\n\nThe Russian invasion of Ukraine in February 2022 was a profound shock to Poland's sense of security. The Tusk government has increased defense spending in 2026 to 200 billion zlotys (around 46 billion euros, or 54 billion dollars) ―&#160;almost 5% of Poland's GDP. This means that, in relative terms, Poland has the highest defense spending of all the members of NATO . The government has also bought the most advanced weapons available, particularly from the US, and is proceeding with the construction of the East Shield, a complex defense system along its eastern border.\n\nSince June, around 40 German sappers, or combat engineers, have been helping to establish the defenses. The German army's combat engineer unit is specially trained in blocking the movement of enemy troops. The sappers are currently deployed near Budry in Masuria, close to the border with Russia. The fence marking the border is visible from where they are working, partially obscured by a row of trees on the Polish side.\n\nThe German soldiers are installing anti-tank obstacles to impede battle tanks in the event of an attack. A yellow backhoe loader lifts the spiky concrete blocks, known as Czech hedgehogs, off a truck and places them on the muddy ground.\n\nThis installation, around 200 meters back from the border, consists of three rows of these concrete blocks. A deep ditch and another line of hedgehogs run along the border itself. A Polish officer explains that mines can quickly be laid in the zone between the two lines of Czech hedgehogs.\n\n\"The German sappers have done an excellent job,\" the Polish general Stanislaw Czosnek said when he inspected the works on Thursday. He added that he was \"very impressed\" by his German colleagues' performance.\n\nIn the six weeks since their deployment, the German engineers have laid more than a kilometer of blocks.\n\n\"We stand ready to fight for democracy and freedom,\" stressed the German general Tito Gante, who accompanied Czosnek on the inspection. He praised the comradely atmosphere between the German and the Polish soldiers.\n\nThe...",
-            "zh": "波兰正在其北部和东部边境建立防御系统，以保护自己免受俄罗斯的侵害。自六月以来，德国工兵一直在协助其北约盟友建造东盾。 波兰于2024年开始沿着与俄罗斯和白俄罗斯的边境修建防御屏障。东盾防御系统最终将长约800公里，旨在保护这个位于北约东翼的国家免受来自东面的攻击。 当波兰总理唐纳德·图斯克于 2024 年 11 月视察第一个已完工的路段时，他宣称该项目的目的是“威慑和阻止潜在的侵略者”，并且是“真正的和平投资”。 2022年2月俄罗斯入侵乌克兰对波兰的安全感造成了深刻的冲击。图斯克政府已将 2026 年的国防开支增加至 2000 亿兹罗提（约 460 亿欧元，即 540 亿美元），几乎相当于波兰 GDP 的 5%。这意味着，相对而言，波兰的国防开支是北约所有成员国中最高的。政府还购买了最先进的武器，特别是从美国购买的武器，并正在建设东盾，这是一个沿着其东部边境的复杂防御系统。 自 6 月以来，大约 40 名德国工兵或战斗工程师一直在帮助建立防御工事。德国陆军的战斗工兵部队经过专门训练，可以拦截敌军的行动。这些工兵目前部署在马祖里省巴德里附近，靠近俄罗斯边境。从他们工作的地方可以看到标记边界的栅栏，部分被波兰一侧的一排树木遮挡。 德国士兵正在安装反坦克障碍物，以在发生攻击时阻碍主战坦克。一台黄色反铲装载机将这些被称为“捷克刺猬”的尖刺混凝土块从卡车上抬起，放在泥泞的地面上。 该装置位于边境后方约 200 米处，由三排混凝土块组成。一条深沟和另一排刺猬沿着边界延伸。一名波兰军官解释说，可以在捷克刺猬的两条线之间的区域很快布设地雷。 “德国工兵的工作非常出色，”波兰将军斯坦尼斯瓦夫·佐斯内克周四视察工程时说道。他补充说，他对德国同事的表现“印象深刻”。 在部署后的六周内，德国工程师已经铺设了超过一公里的路段。 陪同佐斯涅克视察的德国将军蒂托·甘特强调说：“我们随时准备为民主和自由而战。”他赞扬了德国和波兰士兵之间的同志气氛。 这..."
-          },
-          "reflection": {
-            "en": "In a world where potential threats can emerge, the wisdom of foresight and preparedness, as described in Proverbs, guides nations in safeguarding their people. Poland's construction of a defensive barrier, aided by Germany, reflects a prudent response to perceived dangers, aiming to secure peace through vigilance. This reminds us that while we hope for...",
-            "zh": "在一个可能出现威胁的世界里，箴言所描述的远见和准备的智慧，引导着国家保护其人民。波兰在德国的协助下修建防御屏障，反映了对感知到的危险的审慎回应，旨在通过警惕来维护和平。这提醒我们，虽然我们渴望和平，但智慧也要求我们进行周密的规划和保护。"
-          },
-          "verse": {
-            "reference": "Proverbs 27:12",
-            "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
-            "textZh": "通达人见祸藏躲；愚蒙人前往受害。",
-            "themeEn": "Foreseeing danger",
-            "themeZh": "防患未然"
-          },
-          "aiVerseId": "prov_27_12",
           "translationState": "localized"
         }
       ]
