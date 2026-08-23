@@ -122,6 +122,10 @@ const sectionMeta = {
 	},
 	science: {
 		title: { en: 'Science & Nature Desk', zh: '自然科学' },
+		// The desk pulls from weekly journals (Nature) alongside daily
+		// outlets; a higher cap keeps the weekly material from being
+		// crowded out by same-day wire stories.
+		maxItems: 26,
 		strap: {
 			en: 'Discoveries in nature, climate, health, and the wider cosmos.',
 			zh: '自然、气候、健康与宇宙万象的新发现。',
@@ -235,6 +239,16 @@ const sourceCatalog = [
 	{
 		name: 'ScienceDaily Top Science',
 		url: 'https://www.sciencedaily.com/rss/top/science.xml',
+		section: 'science',
+	},
+	{
+		name: 'Phys.org',
+		url: 'https://phys.org/rss-feed/',
+		section: 'science',
+	},
+	{
+		name: 'The Guardian Wildlife',
+		url: 'https://www.theguardian.com/environment/wildlife/rss',
 		section: 'science',
 	},
 	{
@@ -1106,7 +1120,9 @@ async function main() {
 			.sort((left, right) => new Date(right.publishedAt) - new Date(left.publishedAt));
 
 		const uniqueItems = dedupeStories(sectionItems);
-		const targetCount = determineTargetCount(uniqueItems, editionDate);
+		const targetCount = determineTargetCount(uniqueItems, editionDate, {
+			maxItems: sectionMeta[sectionId].maxItems,
+		});
 		const selectedItems = selectBalancedItems(uniqueItems, targetCount);
 		const fallbackSection = existingData?.sections?.[sectionId];
 		const shouldUseCache = selectedItems.length === 0 && fallbackSection?.items?.length;
