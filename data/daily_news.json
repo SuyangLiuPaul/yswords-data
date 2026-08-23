@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:18:47.288Z",
+  "generatedAt": "2026-08-23T12:48:01.493Z",
   "editionDate": "2026-08-23",
   "sources": [
     {
@@ -91,6 +91,114 @@
         "en": "Australia",
         "zh": "澳洲"
       }
+    },
+    {
+      "name": "SCMP Hong Kong",
+      "url": "https://www.scmp.com/rss/2/feed",
+      "category": "hongkong",
+      "categoryLabel": {
+        "en": "Hong Kong",
+        "zh": "香港"
+      }
+    },
+    {
+      "name": "Hong Kong Free Press",
+      "url": "https://hongkongfp.com/feed/",
+      "category": "hongkong",
+      "categoryLabel": {
+        "en": "Hong Kong",
+        "zh": "香港"
+      }
+    },
+    {
+      "name": "RTHK English News",
+      "url": "https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
+      "category": "hongkong",
+      "categoryLabel": {
+        "en": "Hong Kong",
+        "zh": "香港"
+      }
+    },
+    {
+      "name": "The Guardian Hong Kong",
+      "url": "https://www.theguardian.com/world/hong-kong/rss",
+      "category": "hongkong",
+      "categoryLabel": {
+        "en": "Hong Kong",
+        "zh": "香港"
+      }
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/nature.rss",
+      "category": "science",
+      "categoryLabel": {
+        "en": "Science",
+        "zh": "科学"
+      }
+    },
+    {
+      "name": "BBC Science & Environment",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "category": "science",
+      "categoryLabel": {
+        "en": "Science",
+        "zh": "科学"
+      }
+    },
+    {
+      "name": "The Guardian Science",
+      "url": "https://www.theguardian.com/science/rss",
+      "category": "science",
+      "categoryLabel": {
+        "en": "Science",
+        "zh": "科学"
+      }
+    },
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/environment/rss",
+      "category": "science",
+      "categoryLabel": {
+        "en": "Science",
+        "zh": "科学"
+      }
+    },
+    {
+      "name": "ScienceDaily Top Science",
+      "url": "https://www.sciencedaily.com/rss/top/science.xml",
+      "category": "science",
+      "categoryLabel": {
+        "en": "Science",
+        "zh": "科学"
+      }
+    },
+    {
+      "name": "BBC Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "category": "technology",
+      "categoryLabel": {
+        "en": "Tech",
+        "zh": "科技"
+      }
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/rss",
+      "category": "technology",
+      "categoryLabel": {
+        "en": "Tech",
+        "zh": "科技"
+      }
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "category": "technology",
+      "categoryLabel": {
+        "en": "Tech",
+        "zh": "科技"
+      }
     }
   ],
   "sections": {
@@ -104,13 +212,50 @@
         "en": "A fast view of global affairs, conflict, diplomacy, and human need.",
         "zh": "快速掌握国际局势、冲突、外交与人类处境。"
       },
+      "categoryLabel": {
+        "en": "World",
+        "zh": "全球"
+      },
       "sourceNotes": [
-        "The Guardian World",
         "BBC News World",
+        "The Guardian World",
         "DW World",
         "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-bbc-co-uk-news-videos-c7vgvj6e1emo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
+          "publishedAt": "2026-08-23T12:47:06.000Z",
+          "title": {
+            "en": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+            "zh": null
+          },
+          "summary": {
+            "en": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The competition, which kicked off on Saturday, will run for five days and has already included a robot running faster than Usain Bolt's 100m sprint world record.\n\nElsewhere at the event in Beijing, a robot performed Cristiano Ronaldo's iconic 'Siuuu' celebration on the football pitch and droids took part in synchronised marching at its opening ceremony.\n\nRobots have also been competing in events including boxing, high jump, Tai Chi and table tennis.\n\nThe BBC's China correspondent Stephen McDonell reports from the country's capital.",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-us-news-2026-aug-23-luigi-mangione-state-case-brian-",
           "section": "world",
@@ -188,28 +333,29 @@
           "publishedAt": "2026-08-23T11:50:36.000Z",
           "title": {
             "en": "Iran’s president says country faces ‘many problems’ as US ramps up sanctions",
-            "zh": null
+            "zh": "伊朗总统称国家面临“诸多问题”，美国加大制裁力度"
           },
           "summary": {
-            "en": "Tehran’s acknowledgment of economic hardships comes a day before US expected to announce further measures Authorities in Tehran have acknowledged that the Iranian people are facing “many problems” as the US intensifies its efforts to isolate the country’s economy with a range of...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "en": "Tehran has acknowledged that the Iranian people are facing “many problems” as the US intensifies efforts to isolate the country’s economy with sanctions, which President Masoud Pezeshkian described as “a full-scale economic, military and security war.”",
+            "zh": "德黑兰承认伊朗人民正面临“诸多问题”，因为美国正加大力度通过制裁孤立该国经济，伊朗总统马苏德·佩泽什基安称之为“一场全面的经济、军事和安全战争”。"
           },
           "body": {
-            "en": "Tehran’s acknowledgment of economic hardships comes a day before US expected to announce further measures Authorities in Tehran have acknowledged that the Iranian people are facing “many problems” as the US intensifies its efforts to isolate the country’s economy with a range of sanctions that Donald Trump has called “the most crushing economic operation ever taken against any country”. Speaking on Sunday, Iran’s president, Masoud Pezeshkian, said Trump had thrust his country into “a full-scale economic, military and security war”. Continue reading...",
+            "en": "Tehran’s acknowledgment of economic hardships comes a day before US expected to announce further measures Authorities in Tehran have acknowledged that the Iranian people are facing “many problems” as the US intensifies its efforts to isolate the country’s economy with a range of sanctions that Donald Trump has called “the most crushing economic operation ever taken against any country”. Speaking on Sunday, Iran’s president, Masoud Pezeshkian, said Trump had thrust his country into “a full-scale economic, military and security war”. “I understand we have many problems in society right now. We are trying to prevent these as much as we can,” he said in a speech broadcast on state television. Continue reading...",
             "zh": null
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "The Iranian president's acknowledgment that his country faces “many problems” due to intensified sanctions highlights the profound economic hardship impacting ordinary people. In times when resources are scarce and the future uncertain, as described by President Pezeshkian as “a full-scale economic, military and security war,” the prophet Habakkuk reminds...",
+            "zh": "伊朗总统承认该国因制裁加剧而面临“诸多问题”，这突显了经济困境对普通民众的深远影响。在资源匮乏、未来不确定之时，正如佩泽什基安总统所描述的“一场全面的经济、军事和安全战争”，先知哈巴谷提醒我们，真正的盼望不在于物质的丰盛，而在于雅伟。即使“田地不产粮食”，信心也能成为我们的锚，使我们在匮乏中仍能在我们的救主雅伟里喜乐。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Habakkuk 3:17-18",
+            "textEn": "Though the fig tree does not bud and there are no grapes on the vines... yet I will rejoice in Yahweh.",
+            "textZh": "虽然无花果树不发旺，葡萄树不结果……然而，我要因雅伟欢欣。",
+            "themeEn": "Joy in scarcity",
+            "themeZh": "在缺乏中喜乐"
           },
-          "translationState": "fallback"
+          "aiVerseId": "hab_3_17",
+          "translationState": "localized"
         },
         {
           "id": "www-theguardian-com-world-2026-aug-23-ukraine-election-wartime-risk-russ",
@@ -257,11 +403,11 @@
             "zh": null
           },
           "summary": {
-            "en": "Grassroots groups preparing to put pressure on PM to break with Starmer policy and impose full arms embargo on Israel Grassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek to force the prime minister to...",
+            "en": "Grassroots groups to urge PM to break with Starmer policy and impose full arms embargo on Israel Grassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek to force the prime minister to recognise Israel’s actions...",
             "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Grassroots groups preparing to put pressure on PM to break with Starmer policy and impose full arms embargo on Israel Grassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek to force the prime minister to recognise Israel’s actions as a genocide, and impose a full arms embargo. Momentum, Labour & Palestine, the Campaign for Labour Party Democracy and Palestine Solidarity Campaign (PSC) will ramp up pressure on Burnham before his first Labour conference as prime minister next month. Continue reading...",
+            "en": "Grassroots groups to urge PM to break with Starmer policy and impose full arms embargo on Israel Grassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek to force the prime minister to recognise Israel’s actions as a genocide and impose a full arms embargo. Momentum, Labour & Palestine, the Campaign for Labour Party Democracy and Palestine Solidarity Campaign (PSC) plan to ramp up pressure on Burnham before his first Labour conference as prime minister next month. Continue reading...",
             "zh": null
           },
           "reflection": {
@@ -373,39 +519,6 @@
             "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
             "themeEn": "Mind discipline",
             "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-videos-c7vgvj6e1emo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
-          "publishedAt": "2026-08-23T09:42:05.000Z",
-          "title": {
-            "en": "Robots compete in boxing, football and sprinting at World Humanoid Games",
-            "zh": null
-          },
-          "summary": {
-            "en": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The second edition of the World Humanoid Robot Games kicked off in China on Saturday.\n\nThe competition will run for five days and has already included a robot running faster than Usain Bolt's 100m sprint world record.\n\nElsewhere at the event in Beijing, a robot performed Cristiano Ronaldo's iconic 'Siuuu' celebration on the football pitch and droids took part in synchronised marching at its opening ceremony.\n\nRobots have also been competing in events including boxing, high jump and table tennis.",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -725,6 +838,10 @@
         "en": "Policy signals, social change, and national developments inside China.",
         "zh": "聚焦中国内部政策走向、社会变化与国家动态。"
       },
+      "categoryLabel": {
+        "en": "China",
+        "zh": "中国"
+      },
       "sourceNotes": [
         "BBC News China Focus",
         "DW Asia China Focus",
@@ -739,7 +856,7 @@
           "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
-          "publishedAt": "2026-08-23T09:42:05.000Z",
+          "publishedAt": "2026-08-23T12:47:06.000Z",
           "title": {
             "en": "Robots compete in boxing, football and sprinting at World Humanoid Games",
             "zh": null
@@ -749,7 +866,7 @@
             "zh": "这是一则来自中国栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "The second edition of the World Humanoid Robot Games kicked off in China on Saturday.\n\nThe competition will run for five days and has already included a robot running faster than Usain Bolt's 100m sprint world record.\n\nElsewhere at the event in Beijing, a robot performed Cristiano Ronaldo's iconic 'Siuuu' celebration on the football pitch and droids took part in synchronised marching at its opening ceremony.\n\nRobots have also been competing in events including boxing, high jump and table tennis.",
+            "en": "The competition, which kicked off on Saturday, will run for five days and has already included a robot running faster than Usain Bolt's 100m sprint world record.\n\nElsewhere at the event in Beijing, a robot performed Cristiano Ronaldo's iconic 'Siuuu' celebration on the football pitch and droids took part in synchronised marching at its opening ceremony.\n\nRobots have also been competing in events including boxing, high jump, Tai Chi and table tennis.\n\nThe BBC's China correspondent Stephen McDonell reports from the country's capital.",
             "zh": null
           },
           "reflection": {
@@ -1082,6 +1199,10 @@
       "strap": {
         "en": "Public life, policy, and community stories shaping Australia now.",
         "zh": "关注正在影响澳洲公共生活、政策与社区的新闻。"
+      },
+      "categoryLabel": {
+        "en": "Australia",
+        "zh": "澳洲"
       },
       "sourceNotes": [
         "SBS News Australia",
@@ -1590,6 +1711,1363 @@
           },
           "aiVerseId": "matt_18_6",
           "translationState": "localized"
+        }
+      ]
+    },
+    "hongkong": {
+      "id": "hongkong",
+      "title": {
+        "en": "Hong Kong Desk",
+        "zh": "香港快讯"
+      },
+      "strap": {
+        "en": "News, policy, and public life in Hong Kong.",
+        "zh": "聚焦香港时事、政策与社会动态。"
+      },
+      "categoryLabel": {
+        "en": "Hong Kong",
+        "zh": "香港"
+      },
+      "sourceNotes": [
+        "RTHK English News",
+        "SCMP Hong Kong",
+        "Hong Kong Free Press",
+        "The Guardian Hong Kong"
+      ],
+      "items": [
+        {
+          "id": "news-rthk-hk-rthk-en-component-k2-1867214-20260823-htm",
+          "section": "hongkong",
+          "source": "RTHK English News",
+          "sourceUrl": "https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
+          "link": "https://news.rthk.hk/rthk/en/component/k2/1867214-20260823.htm",
+          "image": "https://newsstatic.rthk.hk/images/mfile_1867214_1_M_20260823202544.jpg",
+          "publishedAt": "2026-08-23T12:25:44.000Z",
+          "title": {
+            "en": "Evening News on TV32 - Aug 23",
+            "zh": null
+          },
+          "summary": {
+            "en": "- The government says the deadline for its Wang Fuk Court buy-back offer won't be extended. - Paul Chan unveils an AI upskilling plan for Hong Kong workers. - The chief secretary says care teams have now helped 18,000 ethnic minority households.",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-scmp-com-news-hong-kong-article-3364981-elderly-man-hospitalised-2-o",
+          "section": "hongkong",
+          "source": "SCMP Hong Kong",
+          "sourceUrl": "https://www.scmp.com/rss/2/feed",
+          "link": "https://www.scmp.com/news/hong-kong/article/3364981/elderly-man-hospitalised-2-others-hurt-after-escalator-fall-hong-kong-mall?utm_source=rss_feed",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/23/015ed43d-adfa-483a-9296-5277e6aae48f_a417e3a1.jpg?itok=MdZYE0Ny&v=1787487638",
+          "publishedAt": "2026-08-23T12:20:50.000Z",
+          "title": {
+            "en": "3 elderly people injured after escalator fall at Hong Kong shopping centre",
+            "zh": null
+          },
+          "summary": {
+            "en": "A 76-year-old man has been sent to hospital after falling on an escalator at a Hong Kong shopping centre, while two other elderly people sustained minor injuries, according to police. The force received a report at 4.19pm on Sunday that three people had fallen on an escalator in...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A 76-year-old man has been sent to hospital after falling on an escalator at a Hong Kong shopping centre, while two other elderly people sustained minor injuries, according to police. The force received a report at 4.19pm on Sunday that three people had fallen on an escalator in phase one of Shek Lei Shopping Centre, leaving the man trapped. He sustained injuries to his arms and legs and was taken to Princess Margaret Hospital. Photos circulating online show fire services and paramedics at the...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "news-rthk-hk-rthk-en-component-k2-1867207-20260823-htm",
+          "section": "hongkong",
+          "source": "RTHK English News",
+          "sourceUrl": "https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
+          "link": "https://news.rthk.hk/rthk/en/component/k2/1867207-20260823.htm",
+          "image": "https://newsstatic.rthk.hk/images/mfile_1867207_1_M_20260823181948.jpg",
+          "publishedAt": "2026-08-23T11:21:52.000Z",
+          "title": {
+            "en": "Govt help for ethnic minorities has 'real impact': CS",
+            "zh": null
+          },
+          "summary": {
+            "en": "Chief Secretary Eric Chan said efforts by the current-term government in helping ethnic minorities, such as the setting up of dedicated care teams, have brought \"real impact\". Speaking at the Carnival of Care and Harmony on Sunday, Chan said two more support service centres were...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Chief Secretary Eric Chan said efforts by the current-term government in helping ethnic minorities, such as the setting up of dedicated care teams, have brought \"real impact\". Speaking at the Carnival of Care and Harmony on Sunday, Chan said two more support service centres were established in 2024, raising the total to 10, with ethnic minority care teams operating at each centre. \"Each team is led by a social worker, supported by programme workers and volunteers who are familiar with the languages and cultures of the communities they serve,\" he said. \"Through proactive outreach – including home visits and community activities – they connect with ethnic minorities in need, assisting with everyday challenges and providing timely support during emergencies or unexpected incidents. \"In just over two years, these teams have reached some 18,000 ethnic minority households. That is real impact.\" Looking ahead, the chief secretary said the government will continue its efforts in helping ethnic minorities better integrate into society. Edited by Edmond Fong",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-scmp-com-news-hong-kong-society-article-3364915-divorcing-devices-ho",
+          "section": "hongkong",
+          "source": "SCMP Hong Kong",
+          "sourceUrl": "https://www.scmp.com/rss/2/feed",
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3364915/divorcing-devices-how-digital-detox-helps-hongkongers-carve-out-moments?utm_source=rss_feed",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/23/00135f60-410d-4ced-9000-25f61fa979d5_cc805415.jpg?itok=uuVhEz42&v=1787463799",
+          "publishedAt": "2026-08-23T11:01:50.000Z",
+          "title": {
+            "en": "Divorcing devices: how digital detox helps Hongkongers ‘carve out moments’",
+            "zh": null
+          },
+          "summary": {
+            "en": "In the second instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Fiona Sun looks into how residents are embracing digital detox, as experts warn that excessive screen use is linked to anxiety, depression and sleep disorders. For...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "In the second instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Fiona Sun looks into how residents are embracing digital detox, as experts warn that excessive screen use is linked to anxiety, depression and sleep disorders. For Robert Broad, stepping away from electronic devices has become part of a self-care routine he developed after the Covid-19 pandemic. The 56-year-old recalled how spending long hours in front of screens while working remotely...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "news-rthk-hk-rthk-en-component-k2-1867202-20260823-htm",
+          "section": "hongkong",
+          "source": "RTHK English News",
+          "sourceUrl": "https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
+          "link": "https://news.rthk.hk/rthk/en/component/k2/1867202-20260823.htm",
+          "image": "https://newsstatic.rthk.hk/images/mfile_1867202_2_M_20260823182821.jpg",
+          "publishedAt": "2026-08-23T10:10:18.000Z",
+          "title": {
+            "en": "Robocon draws crowds as local universities shine",
+            "zh": null
+          },
+          "summary": {
+            "en": "Excitement filled Queen Elizabeth Stadium on Sunday as crowds gathered to cheer on two local university teams competing in the ABU Robocon 2026. The Asia-Pacific Broadcasting Union’s flagship robotics contest and the region’s largest competition of its kind for university...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Excitement filled Queen Elizabeth Stadium on Sunday as crowds gathered to cheer on two local university teams competing in the ABU Robocon 2026. The Asia-Pacific Broadcasting Union’s flagship robotics contest and the region’s largest competition of its kind for university students brought together 16 teams from 15 countries and regions, including representatives from the University of Hong Kong and the Chinese University of Hong Kong. Both local universities made it to the final, with the University of Hong Kong capturing the championship. With the competition being held in the SAR again after 14 years, local supporters turned out in full force. Family and friends of the contestants packed the stands, alongside tech professionals eager to witness the high-octane action firsthand. \"I work in a field somewhat related to science. I've heard about similar competitions at Science Park, but this is my first time watching in person. It's really exciting and thrilling,\" said one spectator. \"I support both local universities – they are outstanding and scored very highly. I was cheering excitedly when they competed.\" A former competitor who had taken part in the event a decade ago as a student at Hong Kong University of Science and Technology (HKUST) was also in the audience. This time, he returned with his children to share the experience and encourage the next generation. \"I want my kids to soak up the atmosphere. Computing power is much higher now – there wasn't that much you could do before,\" he said. \"The chips are better now, so there's more to see. Winning the championship would naturally be the best, but the most important thing about this project is that everyone enjoys the process.\" This year’s competition carried the theme \"Kung Fu Quest\", drawing inspiration from the spirit of Chinese martial arts. Each team deployed two robots that had to work in tandem to perform a series of symbolic tasks – forging traditional Chinese weapons, collecting martial arts manuals and engaging in strategic duels that demanded both precision and tactical thinking. The result was a captivating fusion of martial arts philosophy and cutting-edge robotics and automation technology. Edited by Edmond Fong",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "hongkongfp-com-2026-08-23-chinese-comedian-guo-degang-investigated-after",
+          "section": "hongkong",
+          "source": "Hong Kong Free Press",
+          "sourceUrl": "https://hongkongfp.com/feed/",
+          "link": "https://hongkongfp.com/2026/08/23/chinese-comedian-guo-degang-investigated-after-patriotic-song-gag/",
+          "image": "https://hongkongfp.com/wp-content/uploads/2026/08/Chinese-comedian-1024x576.jpg",
+          "publishedAt": "2026-08-23T08:55:11.000Z",
+          "title": {
+            "en": "Chinese comedian Guo Degang investigated after patriotic song gag",
+            "zh": null
+          },
+          "summary": {
+            "en": "A famous Chinese comedian is under investigation, local authorities told AFP on Sunday, after he reportedly poked fun at a patriotic song during a performance. The ruling Communist Party maintains tight control over China’s arts scene, and the government has enacted laws in...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A famous Chinese comedian is under investigation, local authorities told AFP on Sunday, after he reportedly poked fun at a patriotic song during a performance. Chinese comedian Guo Degang. Photo: Kai Tak Sports Park. The ruling Communist Party maintains tight control over China&#8217;s arts scene, and the government has enacted laws in recent years to protect national heroes and symbols from purported slander. Guo Degang, 53, allegedly improvised part of a 1956 tune about Chinese fighters defeating Japanese soldiers in World War II during a performance in the central city of Wuhan in July, according to local media reports. The Wuhan culture and tourism bureau confirmed by phone to AFP on Sunday that an investigation into Guo was ongoing, but it was not clear what stage it had reached. Guo, from the northern city of Tianjin, is known for reviving a style of rapid comic dialogue called crosstalk &#8212; &#8220;xiangsheng&#8221; in Chinese &#8212; during the 2000s and 2010s. He has performed on state broadcaster CCTV&#8217;s annual Spring Festival Gala and at the Great Hall of the People, a grand government building in Beijing that hosts major state events. Guo was unable to be reached on social media, and his Weibo account seems to have been inactive since August 9. The Great Hall of People in China. Photo: Mirko Kuzmanovic, via Shutterstock. Venues in other Chinese cities have postponed perfomances featuring Guo this month and have been offering refunds. The song, &#8220;Playing My Beloved Pipa&#8221;, was recognised in 2019 as an &#8220;outstanding&#8221; song celebrating the founding of The People&#8217;s Republic of China, online outlet The Paper reported this month. In one instance, Guo allegedly changed the lyric, &#8220;quiet on Weishan Lake&#8221;, to &#8220;quiet in the Forbidden City&#8221; &#8212; China&#8217;s former seat of imperial power &#8212; and performed the lines with a &#8220;comedic&#8221; touch, the report said. Authorities had not approved his riff before the performance, The Paper said, citing Wuhan&#8217;s culture bureau. It reported that local authorities were investigating Guo for &#8220;suspected violations&#8221; of rules on commercial performances. Under President Xi Jinping, authorities have tightened their oversight of arts performances, including comedy shows. In 2023, authorities fined a performing group the equivalent of millions of dollars and suspended their shows indefinitely after a comic made an oblique joke about the armed forces. Li Haoshi referenced a well-known army slogan while joking about watching his dogs chase a squirrel &#8212; which officials said had &#8220;caused a bad social impact&#8221; and broken the law.",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "news-rthk-hk-rthk-en-component-k2-1867198-20260823-htm",
+          "section": "hongkong",
+          "source": "RTHK English News",
+          "sourceUrl": "https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
+          "link": "https://news.rthk.hk/rthk/en/component/k2/1867198-20260823.htm",
+          "image": "https://newsstatic.rthk.hk/images/mfile_1867198_1_M_20260823162031.jpg",
+          "publishedAt": "2026-08-23T08:46:00.000Z",
+          "title": {
+            "en": "HK hosts regional robotics contest",
+            "zh": null
+          },
+          "summary": {
+            "en": "Artificial intelligence is moving beyond digital interfaces and into the physical world of robotics. The ABU (Asia-Pacific Broadcasting Union) Robocon 2026, jointly organised by Radio Television Hong Kong (RTHK) and the Hong Kong Science and Technology Parks Corporation (HKSTP),...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Artificial intelligence is moving beyond digital interfaces and into the physical world of robotics. The ABU (Asia-Pacific Broadcasting Union) Robocon 2026, jointly organised by Radio Television Hong Kong (RTHK) and the Hong Kong Science and Technology Parks Corporation (HKSTP), drew 16 university teams from 15 countries and regions to compete in the Asia-Pacific region’s largest university-level robotics contest. Speaking at the opening ceremony on Sunday, Financial Secretary Paul Chan framed the competition as more than a race for the fastest or steadiest machine. \"Every attempt you make today... is part of how this technology finds its way forward,\" he said. \"That is what makes Robocon so valuable. It is not really about whose robot is fastest or steadiest. It is about the leap from thinking to doing.\" Chan highlighted the challenges that define real-world engineering – tight deadlines, budget constraints, equipment failures on the eve of competition, and team disagreements. \"No textbooks can really teach you that. This will also count for something later,\" he said. Turning to the broader trajectory of AI, Chan observed that its next frontier lies in embodiment. \"Once an algorithm can see, hear and understand, it still needs a body – something to move with, reach with, and grip with. That body is the robot.\" Beyond the arena, Chan encouraged the competitors to keep imagining, keep getting their hands dirty and keep learning. Also in attendance at the opening ceremony were Director of Broadcasting Angelina Kwan, HKSTP Chairman Cordelia Chung and ABU Secretary-General Ahmed Nadeem. Edited by Edmond Fong",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-scmp-com-business-article-3364547-huge-influx-expat-retirees-project",
+          "section": "hongkong",
+          "source": "SCMP Hong Kong",
+          "sourceUrl": "https://www.scmp.com/rss/2/feed",
+          "link": "https://www.scmp.com/business/article/3364547/huge-influx-expat-retirees-projected-drive-hong-kongs-premium-home-demand?utm_source=rss_feed",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/0e1eacd3-46fe-40a2-92ee-989837f76c74_bcd1c8b0.jpg?itok=PhGD1jEX&v=1787125605",
+          "publishedAt": "2026-08-23T08:00:09.000Z",
+          "title": {
+            "en": "‘Huge influx’: expat retirees projected to drive Hong Kong’s premium home demand",
+            "zh": null
+          },
+          "summary": {
+            "en": "Hong Kong is tipped to see more luxury home sales with expatriates increasingly choosing the city as their retirement base, drawn to its low-tax environment as well as business opportunities, according to analysts. “A huge influx of expats who used to live in Hong Kong are...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Hong Kong is tipped to see more luxury home sales with expatriates increasingly choosing the city as their retirement base, drawn to its low-tax environment as well as business opportunities, according to analysts. “A huge influx of expats who used to live in Hong Kong are moving back with a long-term view to retirement,” said Victoria Allan, founder and CEO of Habitat Property. “Many expats who previously would have left to retire are staying and purchasing [property] for the first...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-scmp-com-news-hong-kong-transport-article-3364967-chinese-southeast-",
+          "section": "hongkong",
+          "source": "SCMP Hong Kong",
+          "sourceUrl": "https://www.scmp.com/rss/2/feed",
+          "link": "https://www.scmp.com/news/hong-kong/transport/article/3364967/chinese-southeast-asian-ride-hailing-firms-eye-hong-kong-amid-licensing-roll-out?utm_source=rss_feed",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/23/feceafe3-2216-4c73-964b-2e936f57f9ec_6b6d2894.jpg?itok=pCspYVGl&v=1787470851",
+          "publishedAt": "2026-08-23T07:51:32.000Z",
+          "title": {
+            "en": "Chinese, Southeast Asian ride-hailing firms eye Hong Kong amid licensing roll-out",
+            "zh": null
+          },
+          "summary": {
+            "en": "More ride-hailing platform operators from mainland China and Southeast Asia have approached the Hong Kong government about entering the city’s market ahead of the launch of licensed operations, the transport minister has revealed. Secretary for Transport and Logistics Mable Chan...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "More ride-hailing platform operators from mainland China and Southeast Asia have approached the Hong Kong government about entering the city’s market ahead of the launch of licensed operations, the transport minister has revealed. Secretary for Transport and Logistics Mable Chan also said on Sunday that more than 7,500 people had applied for the new combined taxi and ride-hailing vehicle written test, calling the number a “very good and positive” sign. “We hope there will be more competition and...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-scmp-com-news-hong-kong-hong-kong-economy-article-3364965-major-tech",
+          "section": "hongkong",
+          "source": "SCMP Hong Kong",
+          "sourceUrl": "https://www.scmp.com/rss/2/feed",
+          "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364965/major-tech-firms-help-upskill-hong-kong-workers-under-ai-all-paul-chan?utm_source=rss_feed",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/23/28df56fb-ce92-4cc2-b401-0bd2ecb551a1_a3332026.jpg?itok=fc7DdSyc&v=1787477110",
+          "publishedAt": "2026-08-23T07:19:04.000Z",
+          "title": {
+            "en": "Hong Kong to launch AI training for workers in November with big tech firms",
+            "zh": null
+          },
+          "summary": {
+            "en": "Hong Kong will partner with major technology firms to launch an AI training programme for the labour force in November as part of a government drive to equip workers with new skills, the city’s finance chief has said. Financial Secretary Paul Chan Mo-po also said on Sunday the...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Hong Kong will partner with major technology firms to launch an AI training programme for the labour force in November as part of a government drive to equip workers with new skills, the city’s finance chief has said. Financial Secretary Paul Chan Mo-po also said on Sunday the separate HK$50 million (US$6.4 million) “AI for All” push announced in February would feature more than 200 activities and was expected to benefit 50,000 people within two years. Writing in his weekly blog, Chan noted the...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "news-rthk-hk-rthk-en-component-k2-1867181-20260823-htm",
+          "section": "hongkong",
+          "source": "RTHK English News",
+          "sourceUrl": "https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
+          "link": "https://news.rthk.hk/rthk/en/component/k2/1867181-20260823.htm",
+          "image": "https://newsstatic.rthk.hk/images/mfile_1867181_1_M_20260823124003.jpg",
+          "publishedAt": "2026-08-23T05:11:12.000Z",
+          "title": {
+            "en": "'Positive' tenders made for Kai Tak transit project",
+            "zh": null
+          },
+          "summary": {
+            "en": "Secretary for Transport and Logistics Mable Chan on Sunday said the submission of two tenders for the Kai Tak Smart and Green Mass Transit System was a positive outcome that met government expectations. Spanning about 3.5 kilometres, the transit system will feature six elevated...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Secretary for Transport and Logistics Mable Chan on Sunday said the submission of two tenders for the Kai Tak Smart and Green Mass Transit System was a positive outcome that met government expectations. Spanning about 3.5 kilometres, the transit system will feature six elevated stations linking Kai Tak MTR Station to the Kai Tak Cruise Terminal. While the project had previously drawn dozens of expressions of interest, Chan noted that the two bids received were well-rounded and came from strong partnerships. “Both tenders were backed by very strong consortia, each bringing together engineers, consultants, and are experienced in operations and business development. They are formed by partnerships,” she spoke on a TV programme. On updating efforts to legalise ride-hailing services in the city, the transport minister noted that more than 7,500 drivers had signed up for a combined written test covering taxis and ride-hailing vehicles since registration opened earlier this month. The first batch of applicants is scheduled to take the exam in mid-September, she added. Chan also said authorities would begin inviting ride-hailing platforms to apply for operating licences in the coming weeks. She said several platforms commonly used by Hong Kong residents while travelling in the mainland and Southeast Asia have expressed interest. Edited by Tony Sabine",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "hongkongfp-com-2026-08-22-china-mulls-bid-to-host-2028-un-climate-talks-",
+          "section": "hongkong",
+          "source": "Hong Kong Free Press",
+          "sourceUrl": "https://hongkongfp.com/feed/",
+          "link": "https://hongkongfp.com/2026/08/22/china-mulls-bid-to-host-2028-un-climate-talks-sources/",
+          "image": "https://hongkongfp.com/wp-content/uploads/2026/08/China-UN-climate-1024x576.jpg",
+          "publishedAt": "2026-08-22T10:47:58.000Z",
+          "title": {
+            "en": "China mulls bid to host 2028 UN climate talks: sources",
+            "zh": null
+          },
+          "summary": {
+            "en": "China is mulling a bid to host UN climate talks in 2028, two sources familiar with the matter told AFP Friday, as it seeks to burnish its reputation as a leader in the fight against global warming. Beijing has not yet made a final decision regarding the proposal for the COP33...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "China is mulling a bid to host UN climate talks in 2028, two sources familiar with the matter told AFP Friday, as it seeks to burnish its reputation as a leader in the fight against global warming. The United Nations in Geneva, Switzerland. Photo: Wikicommons. Beijing has not yet made a final decision regarding the proposal for the COP33 summit, both sources said, nor is there a clear timeline for doing so. The host does not have to be decided this year. China&#8217;s interest was first reported by Bloomberg News. The UN&#8217;s annual climate gatherings rotate among regional blocs. This year&#8217;s COP31 is scheduled to take place in Turkey, followed by COP32 in Ethiopia in 2027. The 2028 summit falls to the Asia-Pacific. In April, India withdrew its offer to host COP33 without specifying a reason. South Korea has previously expressed interest. The Chinese embassy in Washington did not immediately respond to a query for comment. The UN Framework Convention on Climate Change (UNFCCC) secretariat told AFP: &#8220;We have not been informed by the Asia-Pacific Regional Group on the nomination of the host country for COP33. &#8220;Regional groups hold consultations first to determine which country from their respective regions will offer to host on behalf of the group. Once agreed, the chair of that regional group formally sends an official nomination to the secretariat.&#8221; China has in recent years positioned itself as a counterweight to the United States. The White House. Photo: White House, via Flickr. Under President Donald Trump, the US left the landmark Paris climate agreement twice while the administration seeks to boost fossil fuels. Hosting UN climate talks could thus be an opportunity for China to boost its credentials as a climate leader. The world&#8217;s second-largest economy also has an economic interest as the leading exporter of green technologies, including solar panels, electric vehicles, wind turbines and batteries. US-China dynamics But hosting the gathering could also cast an unwelcome spotlight on China, which, with its population of 1.4 billion and massive manufacturing industry, is the world&#8217;s biggest greenhouse emitter, followed by the United States, India and the European Union. Although it has pledged to achieve carbon neutrality before 2060, it is targeting only a modest 7-10 percent reduction in economy-wide greenhouse gas emissions by 2035, compared to peak levels. Another piece that China is considering is the US-China dynamic, one source said. Climate cooperation had been a key feature of the bilateral relationship under former presidents Joe Biden and Barack Obama, and COP33 could spur renewed collaboration if a Democrat is elected in 2028. The summit would likely fall days after the US presidential election...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "hongkongfp-com-2026-08-22-so-bad-its-good-rough-animated-film-niu-lai-be",
+          "section": "hongkong",
+          "source": "Hong Kong Free Press",
+          "sourceUrl": "https://hongkongfp.com/feed/",
+          "link": "https://hongkongfp.com/2026/08/22/so-bad-its-good-rough-animated-film-niu-lai-becomes-surprise-chinese-hit/",
+          "image": "https://hongkongfp.com/wp-content/uploads/2026/08/RENAME-before-upload-8-1024x576.jpg",
+          "publishedAt": "2026-08-22T01:30:00.000Z",
+          "title": {
+            "en": "‘So bad it’s good’: Rough animated film Niu Lai becomes surprise Chinese hit",
+            "zh": null
+          },
+          "summary": {
+            "en": "A low-budget Chinese animated film that was widely mocked for its crude visuals became a viral hit, with people packing cinemas to see just how bad it is. “Niu Lai”, which translates to “Here Comes the Cow”, earned around 7,000 yuan ($1,000) in its opening week from August 5,...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A low-budget Chinese animated film that was widely mocked for its crude visuals became a viral hit, with people packing cinemas to see just how bad it is. A screenshot from Niu Lai. Photo: Niu Lai. &#8220;Niu Lai&#8221;, which translates to &#8220;Here Comes the Cow&#8221;, earned around 7,000 yuan ($1,000) in its opening week from August 5, before surging to 33.06 million yuan ($4.92 million) at the Chinese box office, according to ticketing platform Maoyan. The film, made by a mother and son, follows the journey of a calf named Niu Lai and was crafted frame by frame over five years, local media reported, with the duo also composing original scores for the end credits. Caelan Moriarty, an American musician working in China, told AFP the film is &#8220;so bad that it&#8217;s so good&#8221;. &#8220;I appreciate how bad it is, but there&#8217;s some heart (put) into it, so you can&#8217;t hate that,&#8221; the 25-year-old said. Artificial intelligence could make the movie in &#8220;like ten seconds or even faster&#8221;, Moriarty said, but &#8220;the fact that they didn&#8217;t use AI, they took time&#8221; was impressive. &#8220;It&#8217;s not perfect. But because it&#8217;s not perfect, it&#8217;s good, it shows how human it is&#8230; and I think that&#8217;s why this is trending.&#8221; With its stiff 3D characters and awkward dialogue, the movie traces Niu Lai&#8217;s relationship with his mother. The film&#8217;s unpolished style quickly went viral on social media, with fans embracing its imperfections as part of its charm. Student Stella Xing, who watched the film in Beijing after seeing memes online, told AFP: &#8220;Even though it&#8217;s pretty rough around the edges, there are so many funny details &#8212; like the way (Niu Lai) walks, for instance&#8221;. &#8220;It&#8217;s hilarious and really makes people want to come see it,&#8221; she added. &#8216;Part of its appeal&#8217; At cinemas in Beijing, hand-drawn banners of human-like cows with eyebrows stood in stark contrast to the glossy posters promoting Christopher Nolan&#8217;s latest film &#8220;The Odyssey&#8221;. Barely any conventional marketing had been done to promote the film. As &#8220;Niu Lai&#8221; took China&#8217;s internet by storm, online retailers on platforms such as Taobao rushed to produce merchandise featuring the yellow cow, including T-shirts, figurines and even boxer shorts. A screenshot from Niu Lai. Photo: Niu Lai. One online merchant told AFP he started selling &#8220;Niu Lai&#8221; keychains as the movie became a hit. The film offers &#8220;something different from the polished, sophisticated productions we are used to&#8221;, Pan Wang, an associate professor at Australia&#8217;s University of New South Wales, said. &#8220;It is a bit like eating refined grains...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "hongkongfp-com-2026-08-22-conviction-of-hong-kong-tiananmen-vigil-activi",
+          "section": "hongkong",
+          "source": "Hong Kong Free Press",
+          "sourceUrl": "https://hongkongfp.com/feed/",
+          "link": "https://hongkongfp.com/2026/08/22/conviction-of-hong-kong-tiananmen-vigil-activists-draws-approval-from-govt-concern-from-overseas-human-rights-groups/",
+          "image": "https://hongkongfp.com/wp-content/uploads/2026/08/Alliance-reactions-1024x576.jpg",
+          "publishedAt": "2026-08-22T00:50:00.000Z",
+          "title": {
+            "en": "Conviction of Hong Kong Tiananmen vigil activists draws approval from gov’t, concern from overseas human rights groups",
+            "zh": null
+          },
+          "summary": {
+            "en": "The conviction of two pro-democracy figures who organised Hong Kong’s Tiananmen vigils has prompted wide approval from government officials. Activists and overseas human rights groups, however, have expressed concern about what they see as declining freedoms in the city. Chow...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The conviction of two pro-democracy figures who organised Hong Kong&#8217;s Tiananmen vigils has prompted wide approval from government officials. Activists and overseas human rights groups, however, have expressed concern about what they see as declining freedoms in the city. The 2018 candlelight vigil commemorating the 1989 Tiananmen crackdown in Beijing. File photo: Kris Cheng/HKFP. Chow Hang-tung and Lee Cheuk-yan, both former leaders of the now-defunct Hong Kong Alliance in Support of Patriotic Democratic Movements of China, were found guilty on Friday of inciting subversion. A third defendant, former lawmaker Albert Ho, pleaded guilty when the trial opened in January. The group itself &#8211; which organised mass vigils to remember those killed in China&#8217;s 1989 Tiananmen crackdown &#8211; was also found guilty. Lee and Chow have already been on remand for nearly five years following their September 2021 arrests. Ho has been behind bars since May 2021 aside from a seven-month period of bail. HKFP rounds up reactions to the convictions, which could see defendants jailed for up to 10 years. Local reactions: Hong Kong leader John Lee &#8220;The Alliance had long been deliberately planting seeds of hatred against the CPC and the Central Government in the Hong Kong society, attempting to incite disaffection, hatred and other sentiments among members of the public against the CPC and the Central Government through various means, and inciting people to subvert state power. The acts of the defendants over a long period of time endangered national security; their conspiracy was abundantly clear, which must be brought to justice.&#8221; Chief Superintendent Steve Li of the police&#8217;s National Security Department Chief Superintendent Steve Li of the police&#8217;s National Security Department speaking to reporters at the West Kowloon Law Courts Building on August 21, 2026. Photo: Kyle Lam/HKFP. &#8220;It is an indisputable fact that the Hong Kong Alliance in Support of Patriotic Democratic Movements of China has, year after year over a prolonged period, sown countless seeds of hatred against the Central Government and the Chinese Communist Party among the public. Today, the court&#8217;s conviction of the Alliance&#8217;s chairman and vice-chairmen rightly exposes their true colours as having deliberately incited others to subvert state power and endanger national security.&#8221; Secretary for Security Chris Tang &#8220;Since The Alliance&#8217;s founding, it has promoted its agenda with the aim of overthrowing the Chinese Communist Party&#8217;s leadership and constitution&#8230; after the national security law was enacted, the defendants still held public activities, including attempting to hold illegal assemblies, using slogans to incite the...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-aug-22-chow-hang-tung-tiananmen-prison-wr",
+          "section": "hongkong",
+          "source": "The Guardian Hong Kong",
+          "sourceUrl": "https://www.theguardian.com/world/hong-kong/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong",
+          "image": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/958_199_4751_3801/master/4751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c61f9ec1e5066ce864e8f5939182cc2",
+          "publishedAt": "2026-08-21T23:50:48.000Z",
+          "title": {
+            "en": "‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists",
+            "zh": "“她无所畏惧”：香港最后一位直言不讳的民主活动家之一的狱中手稿"
+          },
+          "summary": {
+            "en": "Chow Hang-tung, a prominent Hong Kong democracy activist, has been detained since 2021. From prison, she continues to write on various topics, including the meaning of freedom and the Tiananmen Square events, despite being found guilty of “inciting subversion.”",
+            "zh": "香港著名民主活动家邹幸彤自2021年起被拘留。尽管被判“煽动颠覆罪”，她仍在狱中笔耕不辍，撰写关于自由的意义和天安门事件等各种主题的文章。"
+          },
+          "body": {
+            "en": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’ In one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell. “In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "The unwavering spirit of activists like Chow Hang-tung, who continue to speak truth from confinement, reminds us of the biblical call to advocate for the vulnerable. Yahweh's word encourages us to be a voice for those who cannot speak for themselves, especially the destitute and those whose rights are denied. Her writings from prison embody a profound...",
+            "zh": "邹幸彤等活动家在囚禁中仍坚定不移地发出真理之声，这提醒我们圣经呼召我们要为弱势群体发声。雅伟的话语鼓励我们为那些不能为自己说话的人，特别是贫困和权利被剥夺的人，开口辩护。她在狱中的文字体现了对正义和自由的深刻承诺，即使为此付出个人代价。"
+          },
+          "verse": {
+            "reference": "Proverbs 31:8-9",
+            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
+            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
+            "themeEn": "Voice for the voiceless",
+            "themeZh": "为弱者发声"
+          },
+          "aiVerseId": "prov_31_8",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-aug-21-tiananmen-square-vigil-hong-kong-a",
+          "section": "hongkong",
+          "source": "The Guardian Hong Kong",
+          "sourceUrl": "https://www.theguardian.com/world/hong-kong/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+          "image": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6251578ffb46541c61b952812dcfcbbc",
+          "publishedAt": "2026-08-21T10:43:59.000Z",
+          "title": {
+            "en": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’",
+            "zh": null
+          },
+          "summary": {
+            "en": "UK Foreign Office condemns use of national security law to convict activists Lee Cheuk-yan and Chow Hang-tung Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 have been found guilty of “incitement to subversion” in one of the...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "UK Foreign Office condemns use of national security law to convict activists Lee Cheuk-yan and Chow Hang-tung Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 have been found guilty of “incitement to subversion” in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41, “incited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power”, a press summary handed out to reporters said. The defendants each face a maximum penalty of 10 years in jail, with sentencing expected at a later date. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-aug-13-asia-heatwave-south-korea-potatoes",
+          "section": "hongkong",
+          "source": "The Guardian Hong Kong",
+          "sourceUrl": "https://www.theguardian.com/world/hong-kong/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/13/asia-heatwave-south-korea-potatoes-boil-ground-record-heat-hong-kong-japan",
+          "image": "https://i.guim.co.uk/img/media/77037a655afb5ad40039ea9c3759fdb6c48b4e85/579_0_4740_3791/master/4740.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6df59331ebb50c8da19b36e3ffdabb6a",
+          "publishedAt": "2026-08-12T23:34:13.000Z",
+          "title": {
+            "en": "Potatoes ‘boil’ in the ground as record heatwave sweeps across swathes of Asia",
+            "zh": null
+          },
+          "summary": {
+            "en": "South Korean farmers are suffering in record heat, as Hong Kong reports its highest ever temperature and Japan swelters through newly designated ‘cruelly hot’ days In a potato field in Yanggu county, 80 miles (130km) north-east of Seoul, Lee Sang-hyuk dug into the soil and found...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "South Korean farmers are suffering in record heat, as Hong Kong reports its highest ever temperature and Japan swelters through newly designated ‘cruelly hot’ days In a potato field in Yanggu county, 80 miles (130km) north-east of Seoul, Lee Sang-hyuk dug into the soil and found nothing worth saving. A week earlier the crop, located in Gangwon province, had looked fine. Now the potatoes came up soft and collapsing, “like boiled potatoes”, spoiled by heat that had turned the ground into something closer to an oven. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-aug-10-typhoon-dolphin-china-shanghai-flo",
+          "section": "hongkong",
+          "source": "The Guardian Hong Kong",
+          "sourceUrl": "https://www.theguardian.com/world/hong-kong/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
+          "image": "https://i.guim.co.uk/img/media/289807f15ef228d92904d17ae8389283713377b2/665_645_6220_4978/master/6220.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bcdd3a810925201d4c0328c4a53acad",
+          "publishedAt": "2026-08-10T04:55:18.000Z",
+          "title": {
+            "en": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+            "zh": null
+          },
+          "summary": {
+            "en": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears...",
+            "zh": "这是一则来自香港栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears torrential rain would cause flooding and landslides. Wenzhou, a coastal city in Zhejiang province, said it relocated more than 900,000 people and opened more than 1,500 emergency shelters. In neighbouring Fujian, 98,900 people were moved from high-risk areas. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        }
+      ]
+    },
+    "science": {
+      "id": "science",
+      "title": {
+        "en": "Science & Nature Desk",
+        "zh": "自然科学"
+      },
+      "strap": {
+        "en": "Discoveries in nature, climate, health, and the wider cosmos.",
+        "zh": "自然、气候、健康与宇宙万象的新发现。"
+      },
+      "categoryLabel": {
+        "en": "Science",
+        "zh": "科学"
+      },
+      "sourceNotes": [
+        "The Guardian Environment",
+        "The Guardian Science",
+        "ScienceDaily Top Science",
+        "BBC Science & Environment",
+        "Nature"
+      ],
+      "items": [
+        {
+          "id": "www-theguardian-com-commentisfree-2026-aug-23-halloween-capitalism-clima",
+          "section": "science",
+          "source": "The Guardian Environment",
+          "sourceUrl": "https://www.theguardian.com/environment/rss",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/23/halloween-capitalism-climate-change",
+          "image": "https://i.guim.co.uk/img/media/da9c7786873e7bfbcaa9d07af23daee9515fc3d4/0_0_3000_2399/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e48e34541e142981612f99da68084e1c",
+          "publishedAt": "2026-08-23T11:00:33.000Z",
+          "title": {
+            "en": "Stores are selling Halloween stuff in August. Time has lost all meaning | Dave Schilling",
+            "zh": null
+          },
+          "summary": {
+            "en": "Capitalism and the climate crisis are conspiring to destroy the concept of seasons. I’ll take solace in my pumpkin spice Happy spooky season, everyone! Get those jack-o’-lanterns out, because Halloween is just around the corner! Just kidding, no, it’s not. Continue reading...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Capitalism and the climate crisis are conspiring to destroy the concept of seasons. I’ll take solace in my pumpkin spice\n\nHappy spooky season, everyone! Get those jack-o’-lanterns out, because Halloween is just around the corner!\n\nIt’s August, for God’s sake. Every day, I wake up to 90F weather – my skin moist with sweat and my eyelids stuck together. I can’t drink coffee on my porch without being consumed by an army of voracious mosquitoes that seem to find my blood to be the most delicious of all.\n\nAnd it’s not just Los Angeles that’s withering under a summer of discontent. The east coast heatwaves are piling up, sending millions of young people to the absolute last place they want to be: an air-conditioned movie theater . But you want to tell me it’s fine to be putting out Halloween decorations? If I don’t store my giant bag of fun-size Twix in a standup freezer, the whole damn thing will melt into chocolate soup. (Don’t even get me started on recent claims you should eat soup when it’s hot outside. It’d rather slurp up my own sweat from a bowl.)\n\nWhy am I fuming about this? Even though I love Halloween, I’m mad because our glorious big-box overlords have declared, via careful inventory selection, that Halloween season has begun. In August. I find all of that unacceptable. It feels like a violation of the natural order, a realignment of one of the few glorious constants left in the world. I yearn to go back to the tidy order of holidays, where no two ever cross paths. At most, Halloween celebrations should start in late September. Not a month after Independence Day. I fear those days are done, that our world has irrevocably changed and I need to start getting ready to give in to the new normal.\n\nI first became aware of Halloween’s creep into the summer during a recent sundries run at Target. There are costumes, life-size skeletons, treats and various decorations on offer in-store. I’ve seen massive candy bags positioned to move at CVS. There’s even a smattering of greeting cards, which I find doubly frustrating, as I’ve never in my life considered buying someone a card for Halloween, a holiday that most adults spend binge drinking or squeezing into provocative outfits. What does a Halloween greeting card even say? “I Boo-lieve You Should Get an Uber Home”? “Have a Spooktacular One-Night Stand With Your Marginally Attractive Co-Worker”?\n\nOn that Target outing, my friend Halle (an admitted Halloween pervert) bought a miniature cauldron from the growing, metastasizing spooky section. I asked what she expected to do with such a trivial piece of merchandise. “Maybe I can put my keys or some change in here.” For two months? Then what? Do you say Back to the closet with you and wait another nine months before getting your coin cauldron out again?\n\nI...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-aug-23-french-fires-150-years-in-the-maki",
+          "section": "science",
+          "source": "The Guardian Environment",
+          "sourceUrl": "https://www.theguardian.com/environment/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
+          "image": "https://i.guim.co.uk/img/media/de0eebbd7e69e52f32ac7d863895c935845f2435/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76d8f89a320cbd04f816e72cb24b2f5d",
+          "publishedAt": "2026-08-23T11:00:32.000Z",
+          "title": {
+            "en": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
+            "zh": null
+          },
+          "summary": {
+            "en": "An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno The ruinous fires that overran parts of France this summer have burned more land than ever recorded, forced more people...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno The ruinous fires that overran parts of France this summer have burned more land than ever recorded, forced more people from their homes than at any point since the second world war and caused what scientists suspect is the country’s first firestorm thundercloud. The smoke from France’s biggest inferno in nearly 80 years choked Limoges, a city 125 miles (200km) from the flames, with more toxic dust than Delhi residents inhaled on the city’s worst day of smog last year. The blaze that tore through forests outside Bordeaux in late July took just a few weeks to reforge France’s relationship with fire, but the conditions behind it were centuries in the making. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-video-2026-aug-23-ebola-day-100-why-this-outbr",
+          "section": "science",
+          "source": "The Guardian Science",
+          "sourceUrl": "https://www.theguardian.com/science/rss",
+          "link": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
+          "image": "https://i.guim.co.uk/img/media/53743bfe70e7d0212a7daae5a50111e26b0da385/299_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ff8847dd85c9c5235f940eabae28414",
+          "publishedAt": "2026-08-23T10:50:36.000Z",
+          "title": {
+            "en": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
+            "zh": null
+          },
+          "summary": {
+            "en": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's Yap Boum II to understand why health teams on the ground are...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's Yap Boum II to understand why health teams on the ground are struggling and what is being put in place to try to contain the spread Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-science-2026-aug-23-artemis-ii-crew-top-us-space-med",
+          "section": "science",
+          "source": "The Guardian Science",
+          "sourceUrl": "https://www.theguardian.com/science/rss",
+          "link": "https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal",
+          "image": "https://i.guim.co.uk/img/media/204f54fe96b9a20b5ff2ec283d776a874493da9e/490_0_4892_3915/master/4892.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36d1b73c621e19c6e91146abcaada9bc",
+          "publishedAt": "2026-08-23T10:00:30.000Z",
+          "title": {
+            "en": "Artemis II crew to receive top US space medal for historic lunar journey",
+            "zh": null
+          },
+          "summary": {
+            "en": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen broke record for farthest distance traveled from Earth The crew of the historic Artemis II lunar flyby mission have earned the US’s top space medal, officials have announced. Cmdr Reid Wiseman, pilot Victor Glover,...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen broke record for farthest distance traveled from Earth The crew of the historic Artemis II lunar flyby mission have earned the US’s top space medal, officials have announced. Cmdr Reid Wiseman, pilot Victor Glover, and mission specialists Christina Koch and Jeremy Hansen are set to receive the Congressional Space Medal of Honor on 28 August, the US space agency Nasa said . Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-23-wind-energy-unions-trump",
+          "section": "science",
+          "source": "The Guardian Environment",
+          "sourceUrl": "https://www.theguardian.com/environment/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
+          "image": "https://i.guim.co.uk/img/media/9a6f8fa4a0f7dbfac1448d1bddefca433188a2e4/900_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b2351dd4c623f582cc0c4744dcf9eac",
+          "publishedAt": "2026-08-23T10:00:30.000Z",
+          "title": {
+            "en": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
+            "zh": null
+          },
+          "summary": {
+            "en": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean. “I had no views other...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "About this content Dharna Noor Sun 23 Aug 2026 06.00 EDT Last modified on Sun 23 Aug 2026 06.02 EDT Share Prefer the Guardian on Google Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean.\n\n“I had no views other than the darkness at work,” he said. “Then I went polar opposite.”\n\nTwo years ago, McElroen began being trained by his union, the International Brotherhood of Electrical Workers (IBEW) Local 3, for a job in the emerging offshore wind industry. Since then, he has completed six one-month-long rotations constructing New York’s first large-scale offshore wind projects: four on Sunrise Wind, roughly 30 miles (48km) east of Montauk Point, and two on Empire Wind in the New York Bight, 30 miles south of Long Island.\n\nIt was a “welcome change”, McElroen said. Instead of seeing rats, he has watched seals and dolphins swim past his Sunrise work vessel. And on the Empire project, his shifts would often end with sweeping sunsets over the open ocean.\n\n“I would love to continue doing this for the rest of my career,” he said in an interview at his union’s Electrical Industry Training Center in Long Island City, Queens, days after his most recent Empire Wind stint.\n\nLabor leaders convened by the Climate Jobs National Resource Center (CJNRC) have spent years working to ensure that workers like McElroen have the opportunity to develop lifelong, unionized careers in clean energy. Their goals received a major boost from Joe Biden’s Inflation Reduction Act, they say.\n\nNow, the Trump administration is trying to dismantle some of those gains by slowing the clean energy transition, attacking offshore wind and attempting to revive the old idea that workers have to choose between good jobs and climate action. But the labor leaders say they are ready to fight back.\n\nThe CJNRC has origins in New York after Hurricane Sandy. The superstorm was a wake-up call for the labor movement, said Mike Fishman, president and executive director of the organization.\n\n“We came to the realization, as you can imagine, that climate change is real and it’s only getting worse, and that workers are getting hit first and worst,” Fishman said. At the time, he was the secretary‑treasurer for the Service Employees International Union (SEIU).\n\nIn that moment in 2012, however, unions didn’t have much of a voice in climate policy discussions.\n\n“The climate groups were really all about emissions,” said Fishman. “It was really about, we’re going to reduce emissions at any cost.”\n\nLara Skinner, founding executive director of Cornell’s Climate Jobs Institute, had seen a similar dynamic, where climate groups would tout potential jobs created by the green energy transition but not focus on whether they would be...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sciencedaily-com-releases-2026-08-260822015119-htm",
+          "section": "science",
+          "source": "ScienceDaily Top Science",
+          "sourceUrl": "https://www.sciencedaily.com/rss/top/science.xml",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
+          "image": "https://www.sciencedaily.com/images/1920/star-ripped-apart-by-tidal-forces-of-supermassive-black-hole.webp",
+          "publishedAt": "2026-08-23T04:08:52.000Z",
+          "title": {
+            "en": "Black holes keep tearing these stars apart, but they survive",
+            "zh": null
+          },
+          "summary": {
+            "en": "Astronomers have found stars that repeatedly skim past supermassive black holes, surviving each encounter while producing a new burst of light. In some systems, those flares mysteriously fade with every return. Researchers now think the key may be stars that were already...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Astronomers have found stars that repeatedly skim past supermassive black holes, surviving each encounter while producing a new burst of light. In some systems, those flares mysteriously fade with every return. Researchers now think the key may be stars that were already spinning extremely fast before being captured. That rapid rotation could explain both the fading flares and how the stars ended up in such extraordinarily tight black hole orbits.",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sciencedaily-com-releases-2026-08-260821012232-htm",
+          "section": "science",
+          "source": "ScienceDaily Top Science",
+          "sourceUrl": "https://www.sciencedaily.com/rss/top/science.xml",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260821012232.htm",
+          "image": "https://www.sciencedaily.com/images/1920/greenland-shark-eye-parasite.webp",
+          "publishedAt": "2026-08-23T03:14:26.000Z",
+          "title": {
+            "en": "This shark can live 400 years. Its eyes barely seem to age",
+            "zh": null
+          },
+          "summary": {
+            "en": "Greenland sharks may live for 400 years without suffering the kind of retinal decline normally associated with aging. Researchers found healthy eye tissue and active proteins specially adapted for seeing blue light in the dim Arctic depths. DNA repair mechanisms may help keep...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Dorota Skowronska-Krawczyk watches a Greenland shark glide slowly through the dark waters of the Arctic on her computer screen.\n\n\"You see it move its eye,\" says the University of California, Irvine associate professor of physiology and biophysics, pointing to the footage. \"The shark is tracking the light -- it's fascinating.\"\n\nGreenland sharks are the longest-living vertebrates known to science, with some individuals surviving for as long as 400 years. They have thick gray bodies, small heads and short, rounded snouts. Their cloudy-looking eyes can appear almost lifeless, and parasites are often found attached directly to the eyeballs.\n\nBecause of those parasites and the extremely dark, murky environment in which the sharks live, scientists have long suspected that Greenland sharks may be functionally blind.\n\nNew research led by Skowronska-Krawczyk, however, suggests a very different picture.\n\nThe study, co-authored by researchers from the University of Basel, Switzerland, Walter Salzburger and Lily G. Fogg, who examined the evolutionary aspects of the work, is challenging assumptions about Greenland shark vision while offering new clues about aging and longevity.\n\nPublished in Nature Communications , the findings suggest that a DNA repair mechanism may allow Greenland sharks to preserve their eyesight for centuries without showing signs of retinal degeneration. Their visual systems also appear specially adapted to the extremely low light levels of their Arctic habitat.\n\nSkowronska-Krawczyk studies the molecular processes involved in age-related eye diseases to better understand how aging affects vision. Her interest in Greenland sharks began after reading a 2016 research paper by John Fleng Steffensen published in the journal Science .\n\n\"One of my takeaway conclusions from the Science paper was that many Greenland sharks have parasites attached to their eyes -- which could impair their vision,\" she says. \"Evolutionarily speaking, you don't keep the organ that you don't need. After watching many videos, I realized this animal is moving its eyeball toward the light.\"\n\nThat observation prompted her to investigate the sharks' visual system more closely.\n\nThe Greenland sharks examined in the study were caught between 2020 and 2024 with scientific long lines near the University of Copenhagen's Arctic Station on Disko Island, Greenland.\n\nSteffensen, a professor of marine biology at the University of Copenhagen, worked with Peter G. Bushnell, who teaches at Indiana University South Bend, and Richard W. Brill of the Virginia Institute of Marine Science. The researchers dissected the sharks' eyes and preserved them in a fixative solution so they could later be studied.\n\nEmily Tom, a UC Irvine Ph.D. student and physician-scientist in training in...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cp872m0grgyo-at-medium-rss-at-campaign-rss",
+          "section": "science",
+          "source": "BBC Science & Environment",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8be5/live/d972b6c0-9c70-11f1-b109-879e35c24276.jpg",
+          "publishedAt": "2026-08-22T23:16:43.000Z",
+          "title": {
+            "en": "How a new era of heatwaves could shake up the school calendar",
+            "zh": null
+          },
+          "summary": {
+            "en": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Over the past two weeks, the sound of children has returned to Scotland's school playgrounds. Their summer breaks began in late June or early July and ended in mid-August.\n\nIn England, Wales and Northern Ireland, however, children will not return until early September. Their holidays are a similar length to Scotland's but England and Wales schools did not break up until late July, something that meant pupils were in school during the peak of the early summer heat.\n\nOr at least they were meant to be in school. While it was 30C or more outside, inside many classrooms it felt far hotter. With no air conditioning and limited ventilation, the heat became stifling and more than 1,000 schools across the UK either closed or sent pupils home early before the hottest part of the afternoon. Conditions were particularly challenging for GCSE and A‑level students sitting exams during extreme heat.\n\nBaroness Brown, chair of the UK's Climate Change Adaptation committee, has warned that \"we know high temperatures can significantly impair concentration and performance\" of children in schools.\n\nBack in February 2026, Ofsted's chief inspector Sir Martyn Oliver said the timing of the school holidays should be reconsidered: \"It's pretty hot usually in May, June and July, just at the point you're asking children to sit down and take an exam… so I think there is a need to have a good old look at it [the school year].\"\n\nThe recent hot weather has seen some parents join his call. Andrea Bigger, a parent in London, is \"absolutely aware of the dangers\" of extreme heat in classrooms. She says her daughter has previously suffered from heat exhaustion and was hospitalised after overheating at her primary school. She is \"really concerned that the UK is not ready or prepared for this\".\n\nAnd this summer was not a one off. BBC analysis of temperature data shows a clear shift. In the 1960s, the first 30C day was occurring on average on 13 July. In the 2020s that figure has been 19 June.\n\nSo, is it going to be increasingly difficult for schools to operate in the summer months? And is moving the school summer holidays the solution to ensuring pupils are able to be taught for as much of the year as possible?\n\nThis summer is likely to become the hottest on record, according to the Met Office. Multiple temperature records have been broken with five widespread heatwaves and four consecutive months where the temperature has exceeded 35C. This has never happened before.\n\nJune saw one of the UK's most intense heatwaves, with up to seven consecutive days where temperatures were well above the official heatwave thresholds of 25-28C - just as the exam period was in full swing. Temperature records were broken too: 38C was recorded in Lingwood, Norfolk on 26 June, the hottest June day ever measured...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cp9e9rg255vo-at-medium-rss-at-campaign-rss",
+          "section": "science",
+          "source": "BBC Science & Environment",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93b6/live/b1859b10-9e0e-11f1-95e0-53a570c83624.jpg",
+          "publishedAt": "2026-08-22T11:31:09.000Z",
+          "title": {
+            "en": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+            "zh": null
+          },
+          "summary": {
+            "en": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A county in Wales had one of the world's highest carbon emissions per square kilometre due to wildfires in July, according to a charity.\n\nThe fire above Blaenavon, Torfaen was described as \"one of the largest and most challenging\" in south Wales in recent years by the fire service.\n\nSave the Children said it was concerned about possible health consequences after data , external published by the European Union's earth observation programme, Copernicus, showed Torfaen behind Malanje in Angola, Spain's Ávila and Annaba in Algeria in terms of wildfire emissions in July.\n\nTorfaen council said it was unaware of the EU data but its own air quality monitoring showed \"elevated particulate concentrations\".\n\nA blaze the size of about 300 football pitches broke out on Mynydd Garnclochdy, between Abersychan and Blaenavon, with people reporting smelling smoke about 30 (48km) miles away in Cardiff.\n\nCombined with others across the region it contributed to a major incident being declared , which eventually required assistance from the military .\n\nBlaenavon councillor Janet Jones said the smoke had been \"particularly bad\" on 13 August - about three weeks after the fire first ignited.\n\n\"There was great concern about air quality and the impact on elderly people and those suffering with respiratory issues such as emphysema and COPD.\"\n\nJones said she had spoken with GP practice nurses two weeks ago and was not aware of any increase in patients complaining about respiratory problems, but added this \"could change in the months ahead\".\n\nMelanie Simmonds, head of Save the Children Wales, said: \"In Wales and across the world, children are breathing in smoke from wildfires, coping with extreme heat and losing the freedom to play outdoors because the air is no longer safe.\n\n\"These conditions are not only frightening - they carry serious health consequences for children whose bodies and lungs are still developing.\"\n\nTorfaen council said it was not aware of the research and \"it is not clear what data or evidence was used in the assessment to arrive at the reported conclusion\".\n\nIt said it \"recognises that prolonged wildfire incidents have the potential to adversely affect local air quality, particularly through increased levels of smoke and particulate matter\".\n\nIt added it \"continuously monitors\" air quality through a monitoring station in Croesyceiliog Cwmbran.\n\n\"While elevated particulate concentrations have been observed during the wildfire period, the council's monitoring station is intended to provide information on general background air quality rather than conditions at specific locations immediately adjacent to the fires,\" it said.\n\nThe Copernicus Atmosphere Monitoring Service (CAMS) website , external said it was part of European Union's Space programme, and provided...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-nature-com-articles-d41586-026-02626-x",
+          "section": "science",
+          "source": "Nature",
+          "sourceUrl": "https://www.nature.com/nature.rss",
+          "link": "https://www.nature.com/articles/d41586-026-02626-x",
+          "image": null,
+          "publishedAt": "2026-08-21T00:00:00.000Z",
+          "title": {
+            "en": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+            "zh": null
+          },
+          "summary": {
+            "en": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet.",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-nature-com-articles-d41586-026-02596-0",
+          "section": "science",
+          "source": "Nature",
+          "sourceUrl": "https://www.nature.com/nature.rss",
+          "link": "https://www.nature.com/articles/d41586-026-02596-0",
+          "image": null,
+          "publishedAt": "2026-08-21T00:00:00.000Z",
+          "title": {
+            "en": "Earth-shaking thunder probes underground geology",
+            "zh": null
+          },
+          "summary": {
+            "en": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity.",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        }
+      ]
+    },
+    "technology": {
+      "id": "technology",
+      "title": {
+        "en": "Technology Desk",
+        "zh": "科技前沿"
+      },
+      "strap": {
+        "en": "Technology shaping how we live, work, and think.",
+        "zh": "正在改变生活、工作与思考方式的科技动态。"
+      },
+      "categoryLabel": {
+        "en": "Tech",
+        "zh": "科技"
+      },
+      "sourceNotes": [
+        "Ars Technica",
+        "The Guardian Technology",
+        "BBC Technology"
+      ],
+      "items": [
+        {
+          "id": "arstechnica-com-science-2026-08-volcanoes-that-made-history",
+          "section": "technology",
+          "source": "Ars Technica",
+          "sourceUrl": "https://feeds.arstechnica.com/arstechnica/index",
+          "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg",
+          "publishedAt": "2026-08-23T11:02:54.000Z",
+          "title": {
+            "en": "Volcanoes that made history",
+            "zh": null
+          },
+          "summary": {
+            "en": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+            "zh": "这是一则来自科技栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The first telegram arrived in Singapore on a Monday, sent from the city of Batavia in the Dutch East Indies (now Jakarta, Indonesia). “Terrific detonations from Krakatau (volcanic island),” it reported. Soon afterward: “Stones falling. Village near Anjer washed away.” The wires continued clattering out news of bridges destroyed, boats smashed, lighthouses “disappeared.” By noon on Tuesday, the scope of the natural disaster was clear: “Where once Mount Krakatau stood the sea now plays.” Within days, the source of the destruction was known worldwide. On the morning of August 27, 1883, a volcanic eruption had obliterated two islands in the strait between Java and Sumatra, and most of a third. More than 36,000 people perished, the majority in devastating tsunamis that raced outward from the colossal explosion. Thanks to Victorian-era telecommunications, it was the first time in history that people around the globe could begin to document, in near real time, the immediate and long-term effects of a catastrophic volcanic eruption. What they learned over the next few years laid the foundations for the modern science of volcanology. And it was an especially eye-opening lesson in how the biggest eruptions can influence climate, agriculture, and even the course of human history. Read full article Comments",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-technology-2026-aug-23-openai-cyber-attacks-threat-c",
+          "section": "technology",
+          "source": "The Guardian Technology",
+          "sourceUrl": "https://www.theguardian.com/technology/rss",
+          "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+          "image": "https://i.guim.co.uk/img/media/5580ff8262ca418fc1145725debe914855547075/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2bf99c405619203c4887891d6f3c423b",
+          "publishedAt": "2026-08-23T08:00:27.000Z",
+          "title": {
+            "en": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
+            "zh": null
+          },
+          "summary": {
+            "en": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’ A senior leader at OpenAI has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as cutting-edge artificial intelligence...",
+            "zh": "这是一则来自科技栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’ A senior leader at OpenAI has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as cutting-edge artificial intelligence models gain advanced capabilities to plan and launch offensives. The leading AI company this week announced a pause in development of its most advanced internal models amid rising safety fears, and Chris Lehane, its chief global affairs officer, said: “We are hitting a different chapter, a different moment within AI, in terms of what the capabilities of this technology can do.” Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-videos-cy4k4d3lj21o-at-medium-rss-at-campaign-rss",
+          "section": "technology",
+          "source": "BBC Technology",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+          "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8751/live/8f4be4d0-9e1a-11f1-a291-b542ee92de7c.jpg",
+          "publishedAt": "2026-08-22T12:47:28.000Z",
+          "title": {
+            "en": "Robot horse and rider steal the spotlight at Chinese conference",
+            "zh": null
+          },
+          "summary": {
+            "en": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+            "zh": "这是一则来自科技栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-technology-2026-aug-22-tiktok-auctions-lab-grown-dia",
+          "section": "technology",
+          "source": "The Guardian Technology",
+          "sourceUrl": "https://www.theguardian.com/technology/rss",
+          "link": "https://www.theguardian.com/technology/2026/aug/22/tiktok-auctions-lab-grown-diamonds",
+          "image": "https://i.guim.co.uk/img/media/bd1e7d2c1a88efaa0778163a0385bae1d03c98c7/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b2c8b668e71f8ca4bae052cae27703f",
+          "publishedAt": "2026-08-22T12:00:02.000Z",
+          "title": {
+            "en": "Diamonds for sale: lab-grown gem auctions are all over TikTok right now, but some aren’t happy about it",
+            "zh": null
+          },
+          "summary": {
+            "en": "Streamed auctions offer a cheap way to buy the precious gems, but experts warn that quality is not guaranteed The first time Andrea Greenhill came across a livestream auction for lab-grown diamonds while scrolling on TikTok, she was stunned. While the diamond engagement ring her...",
+            "zh": "这是一则来自科技栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Streamed auctions offer a cheap way to buy the precious gems, but experts warn that quality is not guaranteed The first time Andrea Greenhill came across a livestream auction for lab-grown diamonds while scrolling on TikTok, she was stunned. While the diamond engagement ring her husband proposed with years ago had cost thousands of dollars, these loose lab-grown diamonds were selling in seconds at a fraction of the price. “I have two rings that are both natural diamonds and cost a fortune,” she said. I saw the prices they were going for in the auctions, and I was like, “This is insanity.’” Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "arstechnica-com-science-2026-08-memories-stick-around-even-after-half-th",
+          "section": "technology",
+          "source": "Ars Technica",
+          "sourceUrl": "https://feeds.arstechnica.com/arstechnica/index",
+          "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267-1152x648.jpg",
+          "publishedAt": "2026-08-22T11:22:32.000Z",
+          "title": {
+            "en": "Putting mice into hibernation causes a major loss of synapses",
+            "zh": null
+          },
+          "summary": {
+            "en": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+            "zh": "这是一则来自科技栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Our leading hypothesis for how our memories are stored is that when you learn something, the connections among neurons involved get stronger and physically larger, and that constitutes the memory. The trouble is that these connections significantly change over time—they’re plastic. “If you compare the arrangement of these connections on day one with the same on day four or five, it's very, very different,\" says Kazumasa Tanaka, a neuroscientist at the Okinawa Institute of Science and Technology Graduate University in Japan. To learn how a memory that can last for years can sit on hardware that shifts every few days, Tanaka’s team made the shift a bit more dramatic. In a recent Science study, they induced a hibernation-like state in mice, which basically erased the state of more than half of their synapses. And yet the mice apparently have kept their memories. Hibernation on demand Hibernation is a specialty of squirrels, hamsters, and bears, but the neural circuit that triggers it is conserved across mammals, and is present in species that never hibernate in the wild—like mice. In June 2020, a team of researchers led by Takeshi Sakurai, a neuroscientist at the University of Tsukuba and a collaborator on Tanaka’s study, developed a technique to artificially activate this hibernation circuit. This can be done by activating a population called Q neurons in a region of the hypothalamus. Read full article Comments",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "arstechnica-com-science-2026-08-dismantling-the-roadless-rule-threatens-",
+          "section": "technology",
+          "source": "Ars Technica",
+          "sourceUrl": "https://feeds.arstechnica.com/arstechnica/index",
+          "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-626466246-2560x1440.jpg",
+          "publishedAt": "2026-08-22T11:08:53.000Z",
+          "title": {
+            "en": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+            "zh": null
+          },
+          "summary": {
+            "en": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
+            "zh": "这是一则来自科技栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Pause for a moment and listen. What do you hear? Chances are, somewhere in the background, is the ever-present hum of a road. More than 4.2 million miles of public roads crisscross the lower 48 states—enough to reach the Moon and back almost nine times. This vast network of roads spiderwebs its way across the contiguous US, leaving only about 5 percent as an inventoried roadless area or wilderness . Now, some of those last remaining lands free of roads are under threat from the Trump administration’s proposed rollback of the 2001 Roadless Rule . That includes southeast Alaska’s Tongass National Forest , where eagles, bears, salmon, and many other species thrive in old-growth coastal forest along the Inside Passage. Read full article Comments",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-technology-2026-aug-22-meta-trial-children-privacy",
+          "section": "technology",
+          "source": "The Guardian Technology",
+          "sourceUrl": "https://www.theguardian.com/technology/rss",
+          "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+          "image": "https://i.guim.co.uk/img/media/5fe3c6e2663c1940dc067dd6bc16c1117ac663b4/955_0_4016_3213/master/4016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d230dbeb5c6c85168c698cf5d9542f3f",
+          "publishedAt": "2026-08-22T08:00:58.000Z",
+          "title": {
+            "en": "Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
+            "zh": null
+          },
+          "summary": {
+            "en": "In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boiled down to four words that begin with the letter H: hook, hold, harvest, hide, according...",
+            "zh": "这是一则来自科技栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boiled down to four words that begin with the letter H: hook, hold, harvest, hide, according to a lawyer who is prosecuting the world’s largest social media company. The owner of Facebook and Instagram “hooks” in users, “holds” them on its platforms for as long as possible, “harvests” their data and then “hides” the truth from the public, she argued. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "arstechnica-com-space-2026-08-trump-admin-calls-for-more-spaceports-to-h",
+          "section": "technology",
+          "source": "Ars Technica",
+          "sourceUrl": "https://feeds.arstechnica.com/arstechnica/index",
+          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg",
+          "publishedAt": "2026-08-21T23:32:17.000Z",
+          "title": {
+            "en": "Trump's space transportation policy calls for new spaceport on federal land",
+            "zh": null
+          },
+          "summary": {
+            "en": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
+            "zh": "这是一则来自科技栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A new national space transportation policy signed by President Donald Trump on Thursday calls for the development of more spaceports to support more than 1,000 launches and reentries per year by 2030. The presidential memorandum replaces a 2013 policy signed by former President Barack Obama. Both policies share an emphasis on supporting the commercial space industry and underscore the importance of assured access to space. But the launch sector has changed immensely since then. There were 176 orbital launch attempts from US soil last year, nearly 10 times the number in 2013. SpaceX led the pack last year with 165 orbital launches of its Falcon 9 rocket, plus five suborbital test flights of the much larger Starship. \"By 2030, our space transportation ranges must grow to support more than 1,000 launches and reentries every year,\" the policy says. \"The policies set forth in this memorandum will secure America's continued superiority in space.\" Read full article Comments",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cwyr0l45xjro-at-medium-rss-at-campaign-rss",
+          "section": "technology",
+          "source": "BBC Technology",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f31/live/0a64ce80-9e10-11f1-b109-879e35c24276.jpg",
+          "publishedAt": "2026-08-21T22:36:12.000Z",
+          "title": {
+            "en": "TikTok to pay $400m to US in one of largest child privacy settlements",
+            "zh": null
+          },
+          "summary": {
+            "en": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+            "zh": "这是一则来自科技栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "TikTok has agreed to pay $400m (£293m) to the US to end a lawsuit alleging its platform violated children‘s privacy, marking one of the largest ever settlements over the issue.\n\nThe deal stems from a 2024 suit by the Department of Justice under former President Joe Biden alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.\n\nDoing so was against the Children's Online Privacy Protection Act (COPPA), a federal law enacted in 2000. It is the same law that dozens of US states are now suing Meta over .\n\n\"Children and parents are better protected today than they were when this case began,\" assistant Attorney General Brett Shumate said.\n\nOther companies to have paid penalties to the US government for COPPA violations include Google's YouTube, which in 2019 paid $170m, and Epic Games, which in 2022 paid $275m.\n\nMeta is also now facing penalties that could exceed hundreds of billions of dollars stemming from COPPA violations alleged by attorneys general of 29 US states. A jury trial in the lawsuit started this week , with the Instagram and Facebook owner accused of targeting child users and profiting from them.\n\nWhile the TikTok lawsuit predates last year's split of TikTok's US business and operations from its original base of China, the settlement only involves TikTok's operations in China.\n\nByteDance, which is a privately held company, was most recently valued by investors at $550bn , external .\n\nUnder the terms of the deal, TikTok and ByteDance will immediately pay the DOJ $300m. It will pay another $100m when the government vacates a 2019 consent decree , external with the Federal Trade Commission.\n\nAs part of the agreement, the predecessor to ByteDance, Musical.ly, was required to pay a $5.7m fine for COPPA violations and ensure it sought parental consent for any user aged under 13.\n\nThe justice department did not detail on Friday any action against TikTok beyond the fine. But the department noted that since it sued the platform, TikTok has \"undergone significant changes,\" including to its ownership, privacy practices and platform controls for young users.\n\nWhen the lawsuit was filed, attorneys for the US said there were more than 170 million teenagers using TikTok and that the app was \"directed to children.\" Yet, it did not effectively gauge the age of users or get parental consent for use from those underage.\n\nIn 2024, former President Biden pushed for TikTok to be either banned, or have the company divest its US operations. President Donald Trump went on to support divestment of the app, which occurred last year.\n\nIts US operations are now 81% owned by a consortium of investors, while Bytedance maintains a 19% stake.",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cpq3w3v19veo-at-medium-rss-at-campaign-rss",
+          "section": "technology",
+          "source": "BBC Technology",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
+          "publishedAt": "2026-08-20T23:12:38.000Z",
+          "title": {
+            "en": "How landscape gardening is being electrified",
+            "zh": null
+          },
+          "summary": {
+            "en": "The switch to quieter electric equipment is not going as fast as some would like.",
+            "zh": "这是一则来自科技栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Part of the soundtrack to a day in southern California is the drone of petrol-powered gardening equipment.\n\nNoise is one of the main reasons that cities around the US , external are banning petrol landscaping tools or encouraging electric alternatives.\n\nThese alternatives have the additional benefits of reducing carbon emissions, vibrations and the exposure of landscapers to pollution.\n\nIn addition they can mean longer working hours, as they can be used at times when residents demand quiet.\n\nToday, I'm taking part in training run by the American Green Zone Alliance (AGZA), an organisation supporting the transition towards electric landscaping equipment.\n\nTo my surprise, the electric backpack leaf blower I strap on is not much heavier than my normal rucksack. Using the blower to herd balls around the park feels fairly intuitive, though naturally I'm much clumsier and slower than the pro landscapers.\n\nAs for noise, there's still a buzz, but the sound is higher-pitched and not quite so loud as the familiar petrol-powered machines.\n\nThe move to electric power is attracting new companies to the market for gardening kit.\n\nUS aerospace start-up Whisper Aero is one of those firms. Its main business is electric propulsion systems for aircraft.\n\nBut in 2022, after the Covid-19 pandemic made many people more sensitive to noise, and following a couple of years of research and development, the company realised that its aerospace-grade fans would work well in leaf blowers.\n\n\"Our technology is cleaner, quieter and more efficient than other air-moving technologies that exist today,\" according to Andrew Terajewicz, Whisper Aero's director of air management. \"And the leaf blower is the perfect mix of this.\"\n\nThe company has had to scale up its manufacturing volume in its expansion to consumer technology.\n\nOnline pre-orders of Whisper Aero's handheld leaf blower started this year. It's priced at the high-end of electric leaf blowers, which are often more expensive than traditional petrol versions.\n\n\"It is so ultra quiet yet powerful, that the brain has a hard time understanding what's happening,\" says Dan Mabe, the former landscaper who founded AGZA.\n\nWhisper Aero aims to further develop its products, including a backpack leaf blower that would be better suited to professional landscapers.\n\nEven with innovation like that, petrol-powered machines are unlikely to disappear anytime soon, particularly for professional landscapers.\n\nFor a start, petrol machines are much more powerful, which makes for quicker work, so less time is spent lugging around heavy equipment.\n\nTerajewicz says that heavy-duty petrol backpack blowers can reach a maximum blowing force of about 50 newtons.\n\nThe handheld Whisper Aero blower typically runs at about half that, though it can go...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
         }
       ]
     }
