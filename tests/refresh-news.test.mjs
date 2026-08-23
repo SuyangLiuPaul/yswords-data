@@ -18,6 +18,8 @@ import {
 	applyPreferredDivineName,
 	mergeArchiveDates,
 	partitionArchiveDates,
+	extractClients5Text,
+	chunkForTranslation,
 } from '../scripts/refresh-news.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -298,4 +300,28 @@ test('partitionArchiveDates prunes nothing when every date is within retention',
 	const { kept, pruned } = partitionArchiveDates(['2026-07-22', '2026-07-21'], '2026-01-01');
 	assert.deepEqual(kept, ['2026-07-22', '2026-07-21']);
 	assert.deepEqual(pruned, []);
+});
+
+test('extractClients5Text joins both shapes the dict-chrome-ex endpoint returns', () => {
+	// Single-string form.
+	assert.equal(extractClients5Text(['科学家发现新珊瑚。']), '科学家发现新珊瑚。');
+	// Segmented form — must join, not drop the tail.
+	assert.equal(extractClients5Text([['第一段。'], ['第二段。']]), '第一段。第二段。');
+	// Bare string, and nothing usable.
+	assert.equal(extractClients5Text('直接字符串'), '直接字符串');
+	assert.equal(extractClients5Text(null), null);
+	assert.equal(extractClients5Text([]), null);
+});
+
+test('chunkForTranslation splits on sentence ends and never exceeds the limit', () => {
+	assert.deepEqual(chunkForTranslation('Short text.', 100), ['Short text.']);
+	const chunks = chunkForTranslation('One two. Three four. Five six.', 14);
+	for (const chunk of chunks) {
+		assert.ok(chunk.length <= 14, `chunk too long: ${chunk}`);
+	}
+	// Every word survives the split — a chunker that drops text would
+	// silently truncate an article body.
+	assert.equal(chunks.join(' '), 'One two. Three four. Five six.');
+	// A single sentence longer than the limit still gets bounded.
+	assert.ok(chunkForTranslation('a'.repeat(50), 20).every((c) => c.length <= 20));
 });

@@ -2068,40 +2068,142 @@ async function maybeTranslateTitleToChinese(value) {
 /// are capped at 2800 chars upstream so a single call covers them.
 /// On failure (rate-limited, network, malformed response) we return
 /// null and the caller falls back gracefully.
+// Free-translation providers, tried in order. No API key, no quota.
+//
+// 2026-08-24: `translate.googleapis.com` with client=gtx started
+// answering 429 to everything — from GitHub Actions AND from a plain
+// residential IP — which silently cost ~90% of stories their Chinese
+// body (only 3 of 72 had body.zh). The Chrome-extension endpoint on
+// clients5 still serves the same translations, handles the full
+// 2800-char body in one call, and tolerates back-to-back requests;
+// MyMemory is a slower, differently-hosted last resort so a single
+// provider outage can't blank the Chinese again.
+const FREE_TRANSLATE_PROVIDERS = [
+	{
+		name: 'clients5',
+		async translate(text) {
+			const url = new URL('https://clients5.google.com/translate_a/t');
+			url.searchParams.set('client', 'dict-chrome-ex');
+			url.searchParams.set('sl', 'en');
+			url.searchParams.set('tl', 'zh-CN');
+			url.searchParams.set('q', text);
+			const response = await fetch(url, {
+				headers: {
+					'User-Agent':
+						'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
+					Accept: 'application/json, text/plain, */*',
+				},
+				signal: AbortSignal.timeout(45000),
+			});
+			if (!response.ok) throw new Error(`HTTP ${response.status}`);
+			return extractClients5Text(await response.json());
+		},
+	},
+	{
+		name: 'googleapis-gtx',
+		async translate(text) {
+			const url = new URL('https://translate.googleapis.com/translate_a/single');
+			url.searchParams.set('client', 'gtx');
+			url.searchParams.set('sl', 'en');
+			url.searchParams.set('tl', 'zh-CN');
+			url.searchParams.set('dt', 't');
+			url.searchParams.set('q', text);
+			const response = await fetch(url, {
+				headers: {
+					'User-Agent': 'DailyMannaDispatchBot/1.0',
+					Accept: 'application/json, text/plain, */*',
+				},
+				signal: AbortSignal.timeout(45000),
+			});
+			if (!response.ok) throw new Error(`HTTP ${response.status}`);
+			return extractTranslatedText(await response.json());
+		},
+	},
+	{
+		name: 'mymemory',
+		// Caps at 500 chars per call for anonymous use, so long bodies
+		// go through in chunks split on sentence boundaries.
+		maxChunk: 480,
+		async translate(text) {
+			const url = new URL('https://api.mymemory.translated.net/get');
+			url.searchParams.set('q', text);
+			url.searchParams.set('langpair', 'en|zh-CN');
+			const response = await fetch(url, { signal: AbortSignal.timeout(45000) });
+			if (!response.ok) throw new Error(`HTTP ${response.status}`);
+			const payload = await response.json();
+			const out = payload?.responseData?.translatedText;
+			return typeof out === 'string' && out.trim() ? out : null;
+		},
+	},
+];
+
+export function extractClients5Text(payload) {
+	// dict-chrome-ex answers either ["text"] or [["seg"],["seg"]].
+	if (typeof payload === 'string') return payload;
+	if (!Array.isArray(payload)) return null;
+	const parts = payload
+		.map((entry) => (Array.isArray(entry) ? entry[0] : entry))
+		.filter((entry) => typeof entry === 'string');
+	return parts.length ? parts.join('') : null;
+}
+
+export function chunkForTranslation(text, limit) {
+	if (text.length <= limit) return [text];
+	const chunks = [];
+	let current = '';
+	// Split on sentence ends first so a chunk boundary doesn't land
+	// mid-clause and produce two half-translated fragments.
+	for (const piece of text.split(/(?<=[.!?])\s+/)) {
+		if ((current + ' ' + piece).trim().length > limit) {
+			if (current) chunks.push(current.trim());
+			current = piece.length > limit ? piece.slice(0, limit) : piece;
+		} else {
+			current = current ? `${current} ${piece}` : piece;
+		}
+	}
+	if (current.trim()) chunks.push(current.trim());
+	return chunks;
+}
+
 async function freeTranslateToZh(text, label = 'text') {
 	if (!text) return null;
 	const trimmed = String(text).trim();
 	if (!trimmed) return null;
 	if (containsCjk(trimmed)) return cleanText(trimmed) || null;
 
-	try {
-		const url = new URL('https://translate.googleapis.com/translate_a/single');
-		url.searchParams.set('client', 'gtx');
-		url.searchParams.set('sl', 'en');
-		url.searchParams.set('tl', 'zh-CN');
-		url.searchParams.set('dt', 't');
-		url.searchParams.set('q', trimmed.slice(0, 4900));
+	const source = trimmed.slice(0, 4900);
+	const failures = [];
 
-		const response = await fetch(url, {
-			headers: {
-				'User-Agent': 'DailyMannaDispatchBot/1.0',
-				Accept: 'application/json, text/plain, */*',
-			},
-			signal: AbortSignal.timeout(45000),
-		});
-
-		if (!response.ok) {
-			throw new Error(`HTTP ${response.status}`);
+	for (const provider of FREE_TRANSLATE_PROVIDERS) {
+		// One retry per provider: these endpoints fail transiently far
+		// more often than they fail for good.
+		for (let attempt = 0; attempt < 2; attempt++) {
+			try {
+				const chunks = provider.maxChunk
+					? chunkForTranslation(source, provider.maxChunk)
+					: [source];
+				const out = [];
+				for (const chunk of chunks) {
+					const piece = await provider.translate(chunk);
+					if (!piece) throw new Error('empty response');
+					out.push(piece);
+					if (chunks.length > 1) await delay(400);
+				}
+				const joined = cleanText(out.join('')) || null;
+				if (!joined) throw new Error('empty after clean');
+				if (provider !== FREE_TRANSLATE_PROVIDERS[0]) {
+					console.log(`Free translate for ${label} via fallback provider ${provider.name}.`);
+				}
+				return joined;
+			} catch (error) {
+				failures.push(`${provider.name}${attempt ? '(retry)' : ''}: ${error.message}`);
+				if (attempt === 0) await delay(1200);
+			}
 		}
-
-		const payload = await response.json();
-		const translated = extractTranslatedText(payload);
-		if (!translated) return null;
-		return cleanText(translated) || null;
-	} catch (error) {
-		console.warn(`Free translate skipped for ${label}: ${error.message}`);
-		return null;
 	}
+
+	console.warn(`Free translate failed for ${label} — ${failures.join('; ')}`);
+	return null;
 }
 
 export function extractTranslatedText(payload) {
