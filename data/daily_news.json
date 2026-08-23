@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T00:40:01.749Z",
+  "generatedAt": "2026-08-23T02:19:05.840Z",
   "editionDate": "2026-08-23",
   "sources": [
     {
@@ -106,43 +106,211 @@
       },
       "sourceNotes": [
         "The Guardian World",
-        "SBS News World",
         "BBC News World",
+        "SBS News World",
         "DW World"
       ],
       "items": [
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-23-sydney-marathon-medal-all",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
+          "image": "https://i.guim.co.uk/img/media/bcb5be27066d591f5b99283bdb63f22018974ba1/0_0_1975_1580/master/1975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7acfa25ea0cee64d78a633427d176dee",
+          "publishedAt": "2026-08-23T02:14:52.000Z",
+          "title": {
+            "en": "Sydney Marathon admits ‘unfortunate error’ as finishers medal depicts Munich stadium as race highlight",
+            "zh": "悉尼马拉松承认“不幸错误”，完赛奖牌将慕尼黑体育场描绘为赛事亮点"
+          },
+          "summary": {
+            "en": "Organizers of the Sydney Marathon have admitted an \"unfortunate error\" after finishers' medals were found to depict the Allianz Arena in Munich, Germany, instead of Sydney's Allianz Stadium, which was a highlight of the race.",
+            "zh": "悉尼马拉松的组织者承认了一个“不幸的错误”，因为完赛奖牌上描绘的是德国慕尼黑的安联竞技场，而非作为赛事亮点的悉尼安联体育场。"
+          },
+          "body": {
+            "en": "‘Landmarks’ side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week’s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past – plus one they definitely didn’t. In what organisers have admitted was an “unfortunate error”, a stadium in Munich, Germany, was erroneously etched on to the event’s participation medal instead of a local Sydney landmark. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "For marathon runners, a finisher's medal is a cherished symbol of their dedication and achievement, a 'perishable wreath' representing their hard work. This unfortunate error reminds us that even our most carefully crafted earthly symbols can be imperfect or misdirected.",
+            "zh": "对于马拉松跑者而言，完赛奖牌是他们奉献与成就的珍贵象征，是代表他们辛勤付出的“必朽坏的冠冕”。这个不幸的错误提醒我们，即使是我们精心制作的世俗象征，也可能是不完美的或被误导的。"
+          },
+          "verse": {
+            "reference": "1 Corinthians 9:25",
+            "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
+            "textZh": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
+            "themeEn": "Perishable vs eternal crown",
+            "themeZh": "能坏与不能坏的冠冕"
+          },
+          "aiVerseId": "1cor_9_25",
+          "translationState": "localized"
+        },
         {
           "id": "www-theguardian-com-australia-news-live-2026-aug-23-australia-news-live-",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/78e802a1a6c1173709e4b8e2806b9636eb77d9ff/830_404_2746_2197/master/2746.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=49f3148a970c0f9fbb514d639495ccaa",
-          "publishedAt": "2026-08-23T00:29:20.000Z",
+          "image": "https://i.guim.co.uk/img/media/bcb5be27066d591f5b99283bdb63f22018974ba1/0_0_1975_1580/master/1975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b2990433229c744002b40872a9945388",
+          "publishedAt": "2026-08-23T02:10:50.000Z",
           "title": {
-            "en": "Australia news live: Dead fur seal the first mainland mammal victim of H5 bird flu; Liberals plan radical redesign of Victorian appeals court",
-            "zh": "澳大利亚新闻直播：死去的毛皮海豹是H5禽流感首个大陆哺乳动物受害者；自由党计划彻底改革维多利亚州上诉法院"
+            "en": "Australia news live: Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as highlight of course",
+            "zh": "悉尼马拉松承认“不幸错误”，完赛奖牌误将慕尼黑体育场描绘成赛道亮点"
           },
           "summary": {
-            "en": "Parliament is debating changes to Australia's National Disability Insurance Scheme (NDIS), raising concerns that thousands of children with autism, including Ali Kuylaars' two children, could be removed from the federal support program by January 2028.",
-            "zh": "澳大利亚议会正在辩论国家残疾保险计划（NDIS）的未来，这引发了担忧，即包括阿里·奎拉尔斯（Ali Kuylaars）的两个孩子在内的数千名自闭症儿童可能在2028年1月前被排除在联邦支持计划之外。"
+            "en": "The Sydney Marathon organizers have acknowledged an “unfortunate error” after finisher's medals were found to depict Munich's Olympic Stadium instead of a landmark from the Sydney course. The mistake has caused disappointment among participants.",
+            "zh": "悉尼马拉松赛事组织者承认犯下“不幸错误”，因为完赛奖牌上描绘的竟是慕尼黑的奥林匹克体育场，而非悉尼赛道上的地标。这一失误令参赛者感到失望。"
           },
           "body": {
-            "en": "A long-nosed fur seal has died from H5 bird flu in South Australia, marking the first confirmed case in a mammal on the Australian mainland. The fur seal was found dead at Beachport on Wednesday on the state’s Limestone Coast. It marks a fresh escalation in the spread of the virus days after the South Australian premier, Peter Malinauskas, announced three mass mortality events on offshore islands involving more than 1,000 greater crested terns. The highly pathogenic strain of bird flu has killed millions of birds globally and crossed over into mammal species, including elephant seals . Long-nosed fur seals and the endangered Australian sea lion are among the mammal species the federal government has assessed as facing very high risk from the virus. The SA government has also confirmed a little penguin found at Kangaroo Island this week also tested positive for H5 bird flu.",
+            "en": "Follow live Victorian Labor expands on free dental care election promise The Victorian premier, Ben Carroll , and health minister, Ingrid Stitt , have held a press conference this morning off the back of their announcement yesterday that the Labor government would open 10 free public dental clinics if re-elected in November . You can’t use a Medicare card for dental unless you’ve got a healthcare card or you are a category of a particular citizen, it is very difficult ... I’ve been visiting a lot of dentists over the past few weeks. There [are] waiting lists. People are in enormous, unbearable pain. This will be a cost of living measure but it will also make sure that we deal with the healthcare of some of the most vulnerable Victorians. This is really going to fill the gap that’s been there for decades. The markings around the edge represent each kilometre of the course, while the eight circles on the back represent the Abbott World Marathon Majors. A beautiful Sydney skyline brings the course to life, featuring the landmarks runners will experience along the way – starting with the Sydney Harbour Bridge and finishing at the world-famous Sydney Opera House. Continue reading...",
             "zh": null
           },
           "reflection": {
-            "en": "As families worry about the future of support for children with disabilities, this situation reminds us of the biblical call to speak up for those who cannot easily speak for themselves. Yahweh encourages us to advocate for the rights and well-being of the vulnerable in society.",
-            "zh": "当家庭担忧残疾儿童未来所获支持时，这提醒我们圣经呼召我们要为那些无法轻易为自己发声的人说话。雅伟鼓励我们为社会中弱势群体的权利和福祉发声。"
+            "en": "An \"unfortunate error\" on a marathon medal reminds us that even small details matter, especially when they symbolize significant achievements. Yahweh calls us to faithfulness in all things, recognizing that integrity in seemingly minor tasks builds trust and honors the efforts of others. This incident highlights how a lack of diligence in \"a very little\"...",
+            "zh": "马拉松奖牌上的“不幸错误”提醒我们，即使是微小的细节也至关重要，尤其当它们象征着重要的成就时。雅伟呼召我们在一切事上忠心，因为在看似微不足道的任务中保持正直，能建立信任并尊重他人的努力。这起事件凸显了在“极小的事上”缺乏勤勉，仍可能导致失望并影响声誉。"
           },
           "verse": {
-            "reference": "Proverbs 31:8-9",
-            "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
-            "textZh": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
-            "themeEn": "Voice for the voiceless",
-            "themeZh": "为弱者发声"
+            "reference": "Luke 16:10",
+            "textEn": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.",
+            "textZh": "人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。",
+            "themeEn": "Faithful in little",
+            "themeZh": "小事上忠心"
           },
-          "aiVerseId": "prov_31_8",
+          "aiVerseId": "luke_16_10",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-22-hawaii-tropical-storm-moke",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
+          "image": "https://i.guim.co.uk/img/media/3d723808db1facc37b64f967bc238175cc40afb1/46_0_1920_1536/master/1920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e6e555a10433c5baa0dc1fe615222bc",
+          "publishedAt": "2026-08-23T01:49:47.000Z",
+          "title": {
+            "en": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
+            "zh": "热带风暴“莫克”在飓风“拉拉”过后数日即将袭击夏威夷"
+          },
+          "summary": {
+            "en": "Tropical Storm Moke is expected to hit the southern islands of Hawaii with heavy rains and strong winds on Saturday evening. This comes just days after Hurricane Lala affected the same region, raising concerns about potential flooding and mudslides in already vulnerable areas.",
+            "zh": "热带风暴“莫克”预计将于周六晚间袭击夏威夷南部岛屿，带来强降雨和大风。此前，飓风“拉拉”刚在几天前影响了同一地区，引发了人们对已受影响地区可能发生洪水和泥石流的担忧。"
+          },
+          "body": {
+            "en": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii’s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala . As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke’s rain and heavy winds as it passes south of a direct hit late on Saturday and into Sunday. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "The people of Hawaii face the daunting prospect of another tropical storm just days after the last. In such moments of repeated natural threat, it is natural to feel overwhelmed and vulnerable. Psalm 46:1 reminds us that Yahweh is our refuge and strength, an ever-present help in times of trouble, offering a steadfast anchor when the world around us feels...",
+            "zh": "夏威夷人民在上次热带风暴刚过几天后，又面临另一场风暴的严峻挑战。在这样反复的自然威胁面前，感到不知所措和脆弱是人之常情。诗篇46:1提醒我们，雅伟是我们的避难所和力量，是我们在患难中随时的帮助，当周围世界感到不稳定时，祂提供了一个坚定的锚。"
+          },
+          "verse": {
+            "reference": "Psalm 46:1",
+            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
+            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
+            "themeEn": "Refuge in trouble",
+            "themeZh": "患难中的避难所"
+          },
+          "aiVerseId": "ps_46_1",
+          "translationState": "localized"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-c8jnjp0lwlwo-at-medium-rss-at-campaign-rss",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
+          "publishedAt": "2026-08-23T01:34:15.000Z",
+          "title": {
+            "en": "Swedish sword attack victim was 17-year-old girl, police say",
+            "zh": null
+          },
+          "summary": {
+            "en": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The victim of a deadly sword attack at a high school in central Sweden was a 17-year-old girl, police have confirmed.\n\nTwo boys aged 12 and 17 were also seriously injured in the attack at Brinell School in Fagersta on Friday afternoon, according to local authorities, while a third person sustained minor injuries.\n\nAn 18-year-old man, who has not been named, was arrested and police said they were treating the case as murder and attempted murder.\n\nSwedish Prime Minister Ulf Kristersson and opposition leader Magdalena Andersson visited the school, where flower tributes have been laid to honour the victims, on Saturday morning.\n\nStudents at the school had only just returned to the classroom following the summer break when the deadly attack unfolded on Friday afternoon.\n\nThe police later confirmed they fired shots after being called to the scene but did not say whether the alleged attacker was hit before he was detained.\n\nSweden's public broadcaster reported that the suspect was wearing a helmet. Local media also said he was a former student.\n\nThe region went into a state of emergency on Friday, but it had ended by Saturday.\n\nThe school has just under 500 students on its roster, according to SVT, and is located 170km (105 miles) north-west of the capital, Stockholm.\n\nInvestigators have already carried out two house searches in connection with the suspect, police said.\n\nOn Friday, Sweden's Prime Minister Ulf Kristersson described the attack as a \"serious incident,\" and said \"we do not know what lies behind the act, but we know that police are working very intensively\", in a post on X.\n\nSweden's King Carl XVI Gustaf said he received the news \"with dismay and sadness\".",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-trump-iran-sanctions-options-okubc6bmn",
+          "section": "world",
+          "source": "SBS News World",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
+          "link": "https://www.sbs.com.au/news/article/trump-iran-sanctions-options/okubc6bmn",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-trump-iran-sanctions-options-okubc6bmn.jpg",
+          "publishedAt": "2026-08-23T01:25:02.000Z",
+          "title": {
+            "en": "What are Trump's options as US eyes 'never been seen' sanctions on Iran?",
+            "zh": null
+          },
+          "summary": {
+            "en": "Should Trump \"take action, our confrontation will be like an earthquake\", the head of Iran's supreme national security council has warned.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "US President Donald Trump has vowed to hit Iran hard economically, after treasury secretary Scott Bessent said that Washington would impose measures on Tehran that have \"never been seen\" as soon as next week.\n\nThe United States, &#x200C;the United Nations and the European Union have applied sanctions, implemented trade embargoes and frozen Iranian assets since the late 1970s.\n\nSince the US and Israel launched the war on Iran in February, Washington has levied additional maritime, energy and financial sanctions and started a naval blockade.\n\nIran &#x2014; which has withstood decades of punishing sanctions &#x2014; has denounced US plans to announce new sanctions and on Sunday warned countries against participating in the United States' \"economic war\" against the country.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nWashington has pushed its allies to jump aboard Trump's new campaign to isolate the Iranian economy, as the US president's unpopular war drags toward the six-month mark.\n\n\"We declare to all countries ... do not join the economic war waged by the United States,\" said Mohsen Rezai, the head of Iran's supreme national security council, on Iranian television.\n\n\"Any country participating in the imposition of economic restrictions against us is considered an enemy.\"\n\nData from the US treasury department's Office of Foreign Assets Control (OFAC) shows the agency has imposed sanctions on more than 1,000 people, vessels and aircraft since Trump began his second term.\n\nRecent measures have targeted Iran's shadow oil fleet; shipping insurers; entities and people enabling Iran's acquisition of weapons; and digital exchanges, freezing an estimated US$500 billion ($697 billion) in Iran-linked cryptocurrency.\n\nOil shipments are at a virtual standstill in the Strait of Hormuz, with Tehran threatening to strike any unauthorised oil tankers that try to transit the vital waterway.\n\nChinese independent refineries known as \"teapots\" account for a quarter of Chinese refinery capacity. They operate with narrow and sometimes negative profit margins.\n\nChina buys more than 80 per cent of Iran's shipped oil, according to 2025 data from analytics firm Kpler. Independent refiners absorb much of this trade, exposing them to so-called secondary measures that penalise entities helping a primary sanctions target.\n\nPast US sanctions have deterred larger independent refiners from buying Iranian oil. But the independent refineries are somewhat immune since they have little exposure to the US financial system, sanctions experts say.\n\nOFAC has imposed secondary sanctions on smaller China- and Hong Kong-based entities accused of processing billions of dollars in Iranian oil and helping...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-aug-23-fur-seal-death-first-australian-ma",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
+          "image": "https://i.guim.co.uk/img/media/477e4b57e8708325995c483a09c9726c05d11095/2304_1636_2647_2118/master/2647.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bccdeb47faeedb3f48a02360bb5c3f7b",
+          "publishedAt": "2026-08-23T00:42:49.000Z",
+          "title": {
+            "en": "Fur seal’s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
+            "zh": "海豹死亡标志着H5禽流感首次在澳大利亚大陆造成哺乳动物死亡"
+          },
+          "summary": {
+            "en": "A long-nosed fur seal found dead in South Australia has been confirmed as the first mainland mammal fatality in Australia due to the H5 bird flu strain. Officials have warned that this incident presages \"significant losses\" for wildlife.",
+            "zh": "在南澳大利亚发现的一只长鼻海豹被证实死于H5禽流感，这是澳大利亚大陆首例哺乳动物死于该病毒株的病例。官员警告称，这一事件预示着野生动物将面临“重大损失”。"
+          },
+          "body": {
+            "en": "Seal found dead at Beachport in South Australia presages ‘significant losses’, minister warns Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A long-nosed fur seal has died from H5 bird flu in South Australia, marking the first confirmed case in a mammal on the Australian mainland. The seal was found dead at Beachport on Wednesday on the state’s Limestone Coast. It marks a fresh escalation in the spread of the virus days after the South Australian premier, Peter Malinauskas, announced three mass mortality events on offshore islands involving more than 1,000 greater crested terns. The federal agriculture minister, Julie Collins, said the seal death was “not unexpected” as the virus begins to spread through the country. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "The news of a fur seal's death from bird flu, and the warning of further losses, reminds us that the natural world is not immune to suffering. Romans 8:22 speaks to this reality, noting that \"the whole creation has been groaning as in the pains of childbirth right up to the present time.\" This event invites us to reflect on the interconnectedness of life...",
+            "zh": "海豹死于禽流感，以及对更多损失的警告，提醒我们自然界并非免于苦难。罗马书8:22谈到这一现实，指出“受造之物一同叹息，一同受生产之苦，直到如今”。这一事件邀请我们反思生命的相互关联性和受造物的脆弱性，促使我们更深地关爱雅伟所创造的世界。"
+          },
+          "verse": {
+            "reference": "Romans 8:22",
+            "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+            "textZh": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+            "themeEn": "Creation's groan",
+            "themeZh": "受造叹息"
+          },
+          "aiVerseId": "rom_8_22",
           "translationState": "localized"
         },
         {
@@ -189,61 +357,28 @@
           "publishedAt": "2026-08-22T23:48:00.000Z",
           "title": {
             "en": "Canada's Carney stands up to Trump in an escalating trade war. Could his gamble pay off?",
-            "zh": null
+            "zh": "加拿大卡尼在不断升级的贸易战中对抗特朗普。他的赌注能成功吗？"
           },
           "summary": {
             "en": "Mark Carney was elected last year on a promise to be a tough negotiator with Trump, and remains broadly popular in Canada.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+            "zh": "马克·卡尼去年当选时承诺将成为与特朗普的强硬谈判者，他在加拿大仍然广受欢迎。"
           },
           "body": {
             "en": "Canadian Prime Minister Mark Carney announced retaliatory tariffs on the United States on Sunday, after walking away from a \"bad deal\" on trade in a deepening rift between the longtime allies.\n\nNegotiations between the neighbouring countries broke down on Saturday in Washington, triggering new 50 per cent US tariffs that will affect about US$20 billion ($27.9 billion) worth of goods, or 5.5 per cent of Canadian exports to the United States.\n\nCarney then announced retaliatory duties on US goods, notably steel and dairy products, to take effect on 8 September.\n\nAlthough Carney stood up to US President Donald Trump by rejecting what he called an \"unfair\" trade deal, this gamble could prove economically risky.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nCanada has been seeking relief from Trump's tariffs on autos, steel and aluminium, which have battered the country's economy, forced job losses and strained what was once an iron-clad trade relationship.\n\nThe White House had alleged \"discriminatory treatment\" by Canada against US alcohol, automobile and dairy products in introducing the duties.\n\nTrump had said Washington \"should be able to have a deal with Canada,\" citing his \"good relationship\" with Carney.\n\nBut on Saturday, Canada's prime minister said Trump set conditions that were ultimately unacceptable even though earlier talks had been positive.\n\n\"In recent days, the United States proposed new terms that were uneconomic, unfair and undermined the net benefits for Canada, and called into question the reliability of any deal,\" Carney said in Ottawa.\n\n\"We cannot accept what they've offered, and we will not give what they've asked.\"\n\n\"Our government understood before many that America would transform all of its commercial relationships, that it would put a series of tariffs on its closest allies, and use economic integration as a weapon,\" Carney said on Saturday.\n\nHe pledged that his country would match the US tariffs \"dollar for dollar to protect our workers and businesses\".\n\nCarney, the former head of the central banks of Canada and Britain, earned full support across Canada's political spectrum, with opposition leader Pierre Poilievre calling on citizens to \"stand united to defend our country against these unfair attacks on our jobs and businesses.\"\n\nThe Globe and Mail, in an editorial, said: \"In the end, Prime Minister Mark Carney took the hint from the Canadian public rather than the bait from the US president.\"\n\nA poll published earlier in the week revealed that 56 per cent of Canadians surveyed wanted their government to take a \"hard line\" and make no more concessions to the US on trade.\n\nSince Trump's return to the White House in January 2025, Canada...",
             "zh": null
           },
           "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "Navigating complex international trade disputes requires leaders to make difficult strategic decisions. Proverbs 11:14 reminds us that a nation thrives when its leaders seek and receive abundant wise counsel. In high-stakes negotiations, the well-being of a people depends on thoughtful guidance and collective wisdom.",
+            "zh": "应对复杂的国际贸易争端，领导者需要做出艰难的战略决策。箴言11:14提醒我们，一个国家若有众多谋士，就能安稳兴盛。在高风险的谈判中，一个民族的福祉取决于深思熟虑的指导和集体的智慧。"
           },
           "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
           },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-aug-22-hawaii-tropical-storm-moke",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
-          "image": "https://i.guim.co.uk/img/media/3d723808db1facc37b64f967bc238175cc40afb1/46_0_1920_1536/master/1920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e6e555a10433c5baa0dc1fe615222bc",
-          "publishedAt": "2026-08-22T21:52:05.000Z",
-          "title": {
-            "en": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
-            "zh": "热带风暴“莫克”在飓风“拉拉”过后数日即将袭击夏威夷"
-          },
-          "summary": {
-            "en": "Tropical Storm Moke is expected to hit the southern islands of Hawaii with heavy rains and strong winds on Saturday evening. This comes just days after Hurricane Lala affected the same region, raising concerns about potential flooding and mudslides in already vulnerable areas.",
-            "zh": "热带风暴“莫克”预计将于周六晚间袭击夏威夷南部岛屿，带来强降雨和大风。此前，飓风“拉拉”刚在几天前影响了同一地区，引发了人们对已受影响地区可能发生洪水和泥石流的担忧。"
-          },
-          "body": {
-            "en": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii’s islands with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was devastated by Hurricane Lala . The tropical storm is gathering strength as it advances west, according to the National Weather Service (NWS). Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "The people of Hawaii face the daunting prospect of another tropical storm just days after the last. In such moments of repeated natural threat, it is natural to feel overwhelmed and vulnerable. Psalm 46:1 reminds us that Yahweh is our refuge and strength, an ever-present help in times of trouble, offering a steadfast anchor when the world around us feels...",
-            "zh": "夏威夷人民在上次热带风暴刚过几天后，又面临另一场风暴的严峻挑战。在这样反复的自然威胁面前，感到不知所措和脆弱是人之常情。诗篇46:1提醒我们，雅伟是我们的避难所和力量，是我们在患难中随时的帮助，当周围世界感到不稳定时，祂提供了一个坚定的锚。"
-          },
-          "verse": {
-            "reference": "Psalm 46:1",
-            "textEn": "God is our refuge and strength, an ever-present help in trouble.",
-            "textZh": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
-            "themeEn": "Refuge in trouble",
-            "themeZh": "患难中的避难所"
-          },
-          "aiVerseId": "ps_46_1",
+          "aiVerseId": "prov_11_14",
           "translationState": "localized"
         },
         {
@@ -280,74 +415,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-film-2026-aug-22-meghan-markles-casting-in-the-gentl",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/film/2026/aug/22/meghan-markles-casting-in-the-gentlemen-reportedly-withdrawn-after-uk-backlash",
-          "image": "https://i.guim.co.uk/img/media/fd136b2eb6658a31f7a1c748a417b02be611fca4/208_81_2605_2084/master/2605.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f73dd2121afffb75845aefbe4c0b6ac5",
-          "publishedAt": "2026-08-22T21:23:18.000Z",
-          "title": {
-            "en": "Meghan’s casting in The Gentlemen reportedly withdrawn",
-            "zh": "梅根据报被撤回《绅士们》的选角"
-          },
-          "summary": {
-            "en": "The Duchess of Sussex was reportedly considered for a role in the third season of Guy Ritchie’s crime series, The Gentlemen, but her casting has since been withdrawn.",
-            "zh": "据报道，苏塞克斯公爵夫人曾被考虑出演盖·里奇犯罪剧《绅士们》第三季的一个角色，但她的选角现已被撤回。"
-          },
-          "body": {
-            "en": "Duchess of Sussex was believed to have been under consideration for season three of Guy Ritchie’s crime caper The Duchess of Sussex’s reported casting in Guy Ritchie’s The Gentlemen has been withdrawn, it was reported. Tina Brown, the former editor-in-chief of Vanity Fair and the New Yorker, wrote on Saturday: “I learned this morning that the casting of Meghan Markle in season 3 of Guy Ritchie’s Netflix series The Gentlemen has been withdrawn. The backlash in the UK was so intense, it became untenable to go forward.” Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This news reminds us that human plans and opportunities, especially in the public eye, are often subject to forces beyond our control. Psalm 75:7 offers a perspective that Yahweh ultimately determines who is lifted up and who is brought down, inviting us to find our stability not in fleeting recognition but in His unchanging character. In moments of...",
-            "zh": "这则新闻提醒我们，人类的计划和机会，尤其是在公众视野中，常常受制于我们无法控制的力量。诗篇75:7提供了一个视角，即雅伟最终决定谁被高举，谁被降卑，邀请我们不要在转瞬即逝的认可中寻找稳定，而是在祂永恒不变的品格中。在遭遇挫折时，这一真理能带来更深层的平安和信靠。"
-          },
-          "verse": {
-            "reference": "Psalm 75:7",
-            "textEn": "It is God who judges: He brings one down, he exalts another.",
-            "textZh": "惟有神断定；他使这人降卑，使那人升高。",
-            "themeEn": "God lifts and lowers",
-            "themeZh": "神升降"
-          },
-          "aiVerseId": "ps_75_7",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-news-ng-interactive-2026-aug-22-prince-harry-meghan-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
-          "image": "https://i.guim.co.uk/img/media/31ead7211ce19532d42e165c485eb0cb3d6691c2/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d1b528424c12928d84d1b0f3a7239c0",
-          "publishedAt": "2026-08-22T20:42:12.000Z",
-          "title": {
-            "en": "Is this the end of Harry and Meghan’s American dream?",
-            "zh": "这会是哈里和梅根的美国梦的终结吗？"
-          },
-          "summary": {
-            "en": "The Duke and Duchess of Sussex are reportedly returning to the UK after their media deals in the US were significantly reduced. Their move to California in 2020 followed their departure from the royal family, but their celebrity status alone is no longer sufficient to guarantee success in the entertainment industry.",
-            "zh": "据报道，萨塞克斯公爵和公爵夫人哈里和梅根在他们的媒体交易大幅缩减后，正返回英国。他们于2020年脱离王室后定居加利福尼亚，但他们的名人身份已不足以保证在娱乐业的成功。"
-          },
-          "body": {
-            "en": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the aftermath of their dramatic decoupling from the royal family in 2020, the Duke and Duchess of Sussex announced a partnership that appeared to set a clear destination for their new lives outside the House of Windsor. With every global media stable clamouring for their signature, the couple revealed a deal with Netflix reportedly worth $100m . The ambitions were lofty and broad, including scripted and unscripted projects, shows for all ages and documentaries. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This news reminds us that worldly achievements, even great fame and lucrative deals, are often fleeting. Like an athlete's perishable crown, the allure of celebrity can fade, prompting us to consider what truly endures beyond temporary successes. Yahweh invites us to invest in what has eternal value, rather than chasing what is ultimately temporary.",
-            "zh": "这则新闻提醒我们，世俗的成就，即使是巨大的名声和丰厚的交易，也常常是短暂的。就像运动员那会朽坏的冠冕一样，名人的魅力也会消逝，促使我们思考除了暂时的成功之外，什么才是真正持久的。雅伟邀请我们投资于具有永恒价值的事物，而不是追逐最终会消逝的。"
-          },
-          "verse": {
-            "reference": "1 Corinthians 9:25",
-            "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
-            "textZh": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
-            "themeEn": "Perishable vs eternal crown",
-            "themeZh": "能坏与不能坏的冠冕"
-          },
-          "aiVerseId": "1cor_9_25",
-          "translationState": "localized"
-        },
-        {
           "id": "www-sbs-com-au-news-dateline-article-sam-was-sent-to-prison-during-china",
           "section": "world",
           "source": "SBS News World",
@@ -357,29 +424,28 @@
           "publishedAt": "2026-08-22T20:40:51.000Z",
           "title": {
             "en": "Sam was sent to prison during China's crackdown in Hong Kong. He returned to a city in silence",
-            "zh": "山姆在中国镇压香港期间被送进监狱。他回到了一个沉默的城市"
+            "zh": null
           },
           "summary": {
-            "en": "Six years after China imposed the National Security Law, Hong Kong's crackdown on dissent has spread beyond its borders, leading to a profound silencing of public life.",
-            "zh": "中国实施《国家安全法》六年之后，香港对异见的镇压已蔓延至境外，导致公共生活陷入深刻的沉寂。"
+            "en": "Six years after China imposed the National Security Law, Hong Kong's crackdown on dissent has spread beyond its borders",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
             "en": "Watch Dateline&#x2019;s latest episode, Hong Kong: A City Silenced, on 25 August at 9.30pm AEST on SBS or SBS On Demand.\n\nAt 21, Sam Chan Chi-sum was preparing to leave Hong Kong to continue his studies overseas.\n\nHe'd been involved with a student activist group that collected sweets and toiletries to send to people jailed after Hong Kong&#x2019;s 2019 anti-government protests.\n\nAuthorities accused the group of using the supplies to build support among prisoners and incite opposition to the government.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIn September 2021, Sam was arrested under Hong Kong&#x2019;s sweeping National Security Law, which had been passed a year earlier, and was convicted of \"subversion with the intent of overthrowing the government\".\n\n\"Prison was awful. I shared a cell with around twenty people. At its most crowded, there could be forty of us,\" he said.\n\nHe alleged some prison officers purposely mistreated inmates associated with the protest movement.\n\n\"I don't know whether they were acting out of personal conviction or following orders. But they certainly made life difficult for us.\"\n\nTwo years after his release from prison, Sam is trying to rebuild a normal life.\n\nHe had dreamt of becoming a teacher or a nurse, but his criminal record prevents him from pursuing either career.\n\n\"Since being released from prison, I feel as though I've entered a much larger cell,\" he said.\n\nInstead, he is training to become a documentary filmmaker, determined, he says, to capture the transformation of Hong Kong.\n\n\"Whatever the outcome for Hong Kong, whether the future is good or bad, I want to stay here and witness the changes that lie ahead.\"\n\nSam&#x2019;s story is like many other young Hongkongers whose lives have been upended by China&#x2019;s crackdown on freedoms in Hong Kong, a city once known for its outspoken press, independent judiciary and political opposition.\n\nIn 1997, after more than 150 years of British rule, Hong Kong was handed back to China under the \"one country, two systems\" arrangement that promised Hong Kong would keep a high degree of autonomy.\n\nLike Sam, Carmen Lau was from a generation that came of age after this handover to China: neither British, nor truly Chinese.\n\nAs a teenager, Carmen led a student movement in her secondary school against the Chinese Communist Party's (CCP) attempt to introduce 'patriotism' lessons in Hong Kong schools.\n\nMany Hongkongers feared it would promote the CCP&#x2019;s version of patriotism in their city.\n\n\"That time was the first time that I was really involved in a social event,\" said Lau, who&#x2019;s now 30 and lives in exile in London.\n\nFollowing large demonstrations, the CCP abandoned its plans...",
             "zh": null
           },
           "reflection": {
-            "en": "The return of Sam to a city in silence after imprisonment highlights the profound impact of authoritarian rule on a society. When wicked rulers govern, the people often groan, even if that lament is expressed through a chilling quietness rather than open protest. Yahweh calls for leaders who bring joy and freedom, not fear and suppression.",
-            "zh": "山姆在被囚禁后回到一个沉寂的城市，这突显了威权统治对社会产生的深远影响。当邪恶的统治者掌权时，百姓常常发出呻吟，即便这种哀叹是通过令人心寒的寂静而非公开抗议来表达。雅伟呼召那些带来喜乐和自由，而非恐惧和压制的领袖。"
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Proverbs 29:2",
-            "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
-            "textZh": "义人增多，民就喜乐；恶人掌权，民就叹息。",
-            "themeEn": "Righteous vs wicked rulers",
-            "themeZh": "义人执政与恶人当道"
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
           },
-          "aiVerseId": "prov_29_2",
-          "translationState": "localized"
+          "translationState": "fallback"
         },
         {
           "id": "www-bbc-co-uk-news-articles-cx272np7vgyo-at-medium-rss-at-campaign-rss",
@@ -650,73 +716,6 @@
           },
           "aiVerseId": "heb_9_27",
           "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-russian-drones-hit-ukraine-mall-killing-16-a",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/russian-drones-hit-ukraine-mall-killing-16-and-wounding-13-including-children/xa46prquo",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-russian-drones-hit-ukraine-mall-killing-16-a.jpg",
-          "publishedAt": "2026-08-22T02:41:46.000Z",
-          "title": {
-            "en": "Russian drones hit Ukraine mall, killing 16 and wounding 13 including children",
-            "zh": "俄罗斯无人机袭击乌克兰购物中心，造成16人死亡，包括儿童在内的13人受伤"
-          },
-          "summary": {
-            "en": "Russian drones struck a mall in Ukraine, resulting in 16 deaths and 13 injuries, including children. This attack marks an escalation in Russia's air war as the conflict approaches its four-and-a-half-year mark.",
-            "zh": "俄罗斯无人机袭击了乌克兰一家购物中心，造成16人死亡，包括儿童在内的13人受伤。此次袭击标志着俄罗斯空战的升级，两国冲突已持续近四年半。"
-          },
-          "body": {
-            "en": "At least 16 people have been killed and more than 130 wounded &#x200C;when Russian drones struck an Ukraine shopping centre, an attack President Volodymyr Zelenskyy described as an \"act of barbarism\".\n\nRegional &#x200C;governor Oleksandr Hanzha said that 22 children were among the wounded in the daytime attack on the city of Kryvyi Rih, which is Zelenskyy's hometown.\n\n\"There are 29 people in serious condition, including five children,\" Hanzha said. He posted a photo of &#x200C;black smoke billowing &#x200C;from a &#x2060;large industrial building.\n\nIn an update early on Saturday, Hanzha said nine people were preliminarily considered missing, including two children, and that rescuers were continuing to clear the rubble of the shopping centre.\n\nZelenskyy called the attack \"absolutely cynical and despicable\", saying that a second Russian drone hit the shopping centre half an hour after the first &#x2060;in what he said was a deliberate &#x200C;attempt to target emergency services.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"Attacks like these are nothing less than terrorist acts,\" Zelenskky said on Telegram, urging &#x200C;the world to hold Russia to account. \"We will definitely respond.\"\n\nIn a separate attack on Friday, at least four people, including three children, were killed and a woman was wounded after a Russian drone strike in Ukraine's southern region of Mykolaiv, Ukrainian state media said on Telegram.\n\nRussia is escalating its air &#x200C;war on Ukraine as fighting on the battlefield grinds toward the 4-1/2-year mark. On Thursday, 17 people were killed in a Russian ballistic missile attack on the Ukrainian capital Kyiv.\n\nUkraine has also stepped up its own attacks on Russia, targeting oil facilities and logistics infrastructure to try to undermine Moscow's ability to wage war.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "俄罗斯无人机袭击了乌克兰一家购物中心，造成至少 16 人死亡、130 多人受伤，总统弗拉基米尔·泽连斯基 (Volodymyr Zelenskyy) 称此次袭击为“野蛮行径”。 地区州长亚历山大·汉扎 (Oleksandr Hanzha) 表示，泽连斯基的家乡克里沃罗格市 (Kryvyi Rih) 白天遭受袭击，有 22 名儿童受伤。 韩扎说：“有29人伤势严重，其中包括5名儿童。”他发布了一张大型工业建筑冒出滚滚黑烟的照片。 汉扎在周六早些时候发布的最新消息中表示，初步认为有九人失踪，其中包括两名儿童，救援人员正在继续清理购物中心的废墟。 泽连斯基称这次袭击“绝对是愤世嫉俗和卑鄙的”，他说第二架俄罗斯无人机在第一架无人机袭击购物中心半小时后袭击了购物中心，他说这是故意针对紧急服务部门的攻击。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 泽连斯基在 Telegram 上表示：“此类袭击无异于恐怖行为。”他敦促世界追究俄罗斯的责任。 “我们一定会回应。” 乌克兰官方媒体 Telegram 称，俄罗斯无人机袭击乌克兰南部尼古拉耶夫地区后，周五发生另一次袭击，造成至少四人死亡，其中包括三名儿童，一名妇女受伤。 随着战场战斗接近 4-1/2 年大关，俄罗斯正在升级对乌克兰的空战。周四，俄罗斯弹道导弹袭击乌克兰首都基辅，造成 17 人死亡。 乌克兰也加大了对俄罗斯的攻击力度，以石油设施和后勤基础设施为目标，试图削弱莫斯科发动战争的能力。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "As the conflict in Ukraine endures and escalates, bringing fresh devastation to civilian lives, the human spirit can feel overwhelmed by the relentless suffering. Yet, even in the face of prolonged hardship, the ancient words remind us that Yahweh's mercies are new every morning, offering a steadfast hope that sustains us through the darkest times. This...",
-            "zh": "随着乌克兰冲突的持续和升级，给平民生活带来新的破坏，人类精神可能会被无情的苦难所压倒。然而，即使面对长期的艰难，古老的经文提醒我们，雅伟的怜悯每天早晨都是新的，提供了一种坚定的希望，在最黑暗的时刻支撑着我们。这种持久的信实为那些哀悼者和那些继续面临难以想象挑战的人提供了安静的力量。"
-          },
-          "verse": {
-            "reference": "Lamentations 3:22-23",
-            "textEn": "Because of Yahweh's great love we are not consumed, for his compassions never fail. They are new every morning.",
-            "textZh": "我们不至消灭，是出于雅伟诸般的慈爱；是因他的怜悯不至断绝。每早晨这都是新的。",
-            "themeEn": "Mercy every morning",
-            "themeZh": "清晨的怜悯"
-          },
-          "aiVerseId": "lam_3_22",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-myanmar-military-strike-kills-14-attending-m",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/myanmar-military-strike-kills-14-attending-monastery-retreat/6r4ecppz4",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-myanmar-military-strike-kills-14-attending-m.jpg",
-          "publishedAt": "2026-08-22T00:21:58.000Z",
-          "title": {
-            "en": "Myanmar military strike kills 14 attending monastery retreat",
-            "zh": null
-          },
-          "summary": {
-            "en": "The Myanmar military has dropped more bombs after a new UN report said it has increasingly used low-cost aircraft to kill civilians.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "An air strike by Myanmar's military on a Buddhist monastery in the central Sagaing region has killed 14 people who were taking part in a week-long meditation retreat, an opposition group and a resident say.\n\nThe attack is the latest in a series of frequent and deadly aerial strikes targeting armed anti-government forces and ethnic armed groups in the country.\n\nTwo weeks ago, an United Nations report said Myanmar&#x2019;s military has increasingly used low-cost aircraft such as motorized paragliders and gyrocopters in escalating aerial attacks that kill civilians in its conflict with armed, anti-government groups.\n\nThe report by the UN-established Independent Investigative Mechanism for Myanmar, or IIMM, details a yearlong investigation into alleged war crimes and crimes against humanity committed by Myanmar&#x2019;s military and affiliated militias, as well as the opposition armed groups.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nMyanmar&#x2019;s military government did not immediately respond to either the UN probe. In the past, the military has said it only attacks legitimate targets of war, accusing the resistance forces of being terrorists.\n\nThe monastery attack occurred on Friday in Swel Le Oh village in Myaung township, about 75km west of Mandalay, the country's second largest city, according to Nway Oo, a spokesman for the Civil Defence and Security Organisation of Myaung Township, or CDSOM.\n\nNway Oo said 14 people, including three women, were killed and 20 others were wounded when a jet fighter dropped a bomb in the compound of the village's monastery.\n\nA villager who spoke on condition of anonymity also confirmed the death toll to the Associated Press.\n\nThe villager said the jet fighter dropped two bombs 15 minutes apart, with the second bomb damaging a house near the monastery where more than 100 people were on a week-long retreat.\n\nThe villager, whose mother-in-law was killed in the air strike, said that people fled to a nearby community after cremating bodies of the victims.\n\nThe BBC's Burmese-language service and Myanmar's media outlets, including Myanmar Now, reported the death toll at between 10 and 14.\n\nThey also posted photos and videos showing what they said was the aftermath of the strike, with images of bodies.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         }
       ]
     },
@@ -1096,30 +1095,96 @@
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
-          "image": "https://i.guim.co.uk/img/media/78e802a1a6c1173709e4b8e2806b9636eb77d9ff/830_404_2746_2197/master/2746.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=49f3148a970c0f9fbb514d639495ccaa",
-          "publishedAt": "2026-08-23T00:16:59.000Z",
+          "image": "https://i.guim.co.uk/img/media/bcb5be27066d591f5b99283bdb63f22018974ba1/0_0_1975_1580/master/1975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b2990433229c744002b40872a9945388",
+          "publishedAt": "2026-08-23T02:09:54.000Z",
           "title": {
-            "en": "Australia news live: Dead fur seal the first mainland mammal victim of H5 bird flu; Liberals plan radical redesign of Victorian appeals court",
+            "en": "Australia news live: Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as highlight of course",
             "zh": null
           },
           "summary": {
-            "en": "Follow live A long-nosed fur seal has died from H5 bird flu in South Australia, marking the first confirmed case in a mammal on the Australian mainland. The New Zealand fur seal was found dead at Beachport on Wednesday on the state’s Limestone Coast. It marks a fresh escalation...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "Follow live Victorian Labor expands on free dental care election promise The Victorian premier, Ben Carroll, and health minister, Ingrid Stitt, have held a press conference this morning off the back of their announcement yesterday that the Labor government would open 10 free...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Follow live A long-nosed fur seal has died from H5 bird flu in South Australia, marking the first confirmed case in a mammal on the Australian mainland. The New Zealand fur seal was found dead at Beachport on Wednesday on the state’s Limestone Coast. It marks a fresh escalation in the spread of the virus days after the South Australian premier, Peter Malinauskas, announced three mass mortality events on offshore islands involving more than 1,000 greater crested terns. The highly pathogenic strain of bird flu has killed millions of birds globally and crossed over into mammal species, including elephant seals . Long-nosed fur seals and the endangered Australian sea lion are among the mammal species the federal government has assessed as facing very high risk from the virus. The SA government has also confirmed a little penguin found at Kangaroo Island this week also tested positive for H5 bird flu. Farley ‘impressed’ with PM after rice factory help promise I was impressed how Albanese at the Governor-General’s event the other night came straight up to me and said, ‘Look, I’m aware of it. I’m working on it. We’ll get it done’ ... even after, as we left the chamber the other day, we spoke all the way across to the Senate talking about it. How could it be done and put together? So you know, I tilt my hat to them. Continue reading...",
+            "en": "Follow live Victorian Labor expands on free dental care election promise The Victorian premier, Ben Carroll , and health minister, Ingrid Stitt , have held a press conference this morning off the back of their announcement yesterday that the Labor government would open 10 free public dental clinics if re-elected in November . You can’t use a Medicare card for dental unless you’ve got a healthcare card or you are a category of a particular citizen, it is very difficult ... I’ve been visiting a lot of dentists over the past few weeks. There [are] waiting lists. People are in enormous, unbearable pain. This will be a cost of living measure but it will also make sure that we deal with the healthcare of some of the most vulnerable Victorians. This is really going to fill the gap that’s been there for decades. The markings around the edge represent each kilometre of the course, while the eight circles on the back represent the Abbott World Marathon Majors. A beautiful Sydney skyline brings the course to life, featuring the landmarks runners will experience along the way – starting with the Sydney Harbour Bridge and finishing at the world-famous Sydney Opera House. Continue reading...",
             "zh": null
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sbs-com-au-news-article-how-each-state-and-territory-is-preparing-fo",
+          "section": "australia",
+          "source": "SBS News Australia",
+          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
+          "link": "https://www.sbs.com.au/news/article/how-each-state-and-territory-is-preparing-for-spring-weather/lzigtwtwt",
+          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-how-each-state-and-territory-is-preparing-fo.jpg",
+          "publishedAt": "2026-08-23T01:25:26.000Z",
+          "title": {
+            "en": "'Elevated bushfire danger': How each state and territory is preparing for spring weather",
+            "zh": null
+          },
+          "summary": {
+            "en": "Australians are being urged to prepare for a potentially challenging spring.",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Fire authorities across Australia are preparing for a spring fire season that could bring sharply different risks depending on the region, with some areas facing an early bushfire threat while others contend with delayed wet seasons and severe weather.\n\nThe Bureau of Meteorology's Michael Egan said a strengthening El Ni&#xF1;o is influencing the outlook, but it is not the only climate driver at play.\n\n\"I will just remind everyone that the bureau's long-range forecast does incorporate all of the influences from our surrounding oceans and the atmosphere as well as other long-term climate trends.\n\n\"I mention that because I'm sure most people are aware an El Ni&#xF1;o event is underway, it is strengthening, and it is going to be a very strong one,\" Egan said.\n\nAuthorities say conditions vary significantly from region to region, with dry weather, warmer temperatures and increased fuel loads contributing to the risk.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nVictoria is among the states preparing for an early start to the bushfire season, with hotter, drier conditions expected in spring.\n\nEmergency Management Commissioner Tim Wiebusch said significant fire danger could emerge from October.\n\n\"Victoria can expect a hotter and drier spring, which means that we could see significant bushfire risk commencing from as early as October this year, and our emergency services in Victoria are now starting to prepare for that scenario that could mean that we could see campaign fires start as early as October and take us right through the summer months,\" Wiebusch said.\n\nParts of southern inland Queensland and the southeast are also expected to experience above-average fire danger.\n\nActing Deputy Chief Officer Aaron Howard said crews are already conducting hazard-reduction burns and other mitigation work in high-risk areas.\n\n\"At Queensland fire department we continue to prepare, our crews continue to take hazard reduction burns and mitigation activities in high-risk localities across the state where conditions allow,\" Howard said.\n\nIn the Northern Territory, authorities are preparing for the possibility of heightened fire danger across several regions at the same time.\n\nFire and Emergency Commissioner Andrew Warton said a delayed Top End wet season could extend the period of elevated risk in the north, while other parts of the territory enter their own high-risk periods.\n\n\"This year the forecast later onset of the Top End wet season meets an elevated fire danger in the north, could extend into November, and at the same time the Barkley, Tanami and Central Australia regions move into their high-risk period. That creates the potential for significant fire risk across multiple...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-aug-23-fur-seal-death-first-australian-ma",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
+          "image": "https://i.guim.co.uk/img/media/477e4b57e8708325995c483a09c9726c05d11095/2304_1636_2647_2118/master/2647.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bccdeb47faeedb3f48a02360bb5c3f7b",
+          "publishedAt": "2026-08-23T00:42:49.000Z",
+          "title": {
+            "en": "Fur seal‘s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
+            "zh": null
+          },
+          "summary": {
+            "en": "Seal found dead at Beachport in South Australia presages ‘significant losses’, minister warns Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A long-nosed fur seal has died from H5 bird flu in South Australia,...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Seal found dead at Beachport in South Australia presages ‘significant losses’, minister warns Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A long-nosed fur seal has died from H5 bird flu in South Australia, marking the first confirmed case in a mammal on the Australian mainland. The seal was found dead at Beachport on Wednesday on the state’s Limestone Coast. It marks a fresh escalation in the spread of the virus days after the South Australian premier, Peter Malinauskas, announced three mass mortality events on offshore islands involving more than 1,000 greater crested terns. The federal agriculture minister, Julie Collins, said the seal death was “not unexpected” as the virus begins to spread through the country. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -1165,7 +1230,7 @@
           "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-the-pitt-made-shabana-azeez-famous-she-think.png",
           "publishedAt": "2026-08-22T20:41:03.000Z",
           "title": {
-            "en": "The Pitt is one of the biggest shows on TV. Its Australian star isn't sure fame is worth it",
+            "en": "The Pitt made her a breakout star overnight. She thinks that's the problem",
             "zh": null
           },
           "summary": {
@@ -1261,7 +1326,7 @@
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/2026/aug/23/ndis-reforms-autism-funding-thriving-kids-queensland",
-          "image": "https://i.guim.co.uk/img/media/a4f3ad2e54ec4161e3a13ff7d611357008ba3cbe/0_177_1000_800/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d5fd2a4f36c6ab15b7cc4cd19f11ae1",
+          "image": "https://i.guim.co.uk/img/media/a4f3ad2e54ec4161e3a13ff7d611357008ba3cbe/0_300_1000_800/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=980c1325bb535370a76216fa8fabcb2e",
           "publishedAt": "2026-08-22T20:00:13.000Z",
           "title": {
             "en": "A new scheme is about to replace the NDIS for children with autism. Why has Queensland refused to sign up?",
@@ -1387,40 +1452,6 @@
             "themeZh": "追求和睦"
           },
           "aiVerseId": "rom_12_18",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-act-signs-on-to-federal-firearms-buyback-sch",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/act-signs-on-to-federal-firearms-buyback-scheme/v2n652qz0",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-act-signs-on-to-federal-firearms-buyback-sch.jpg",
-          "publishedAt": "2026-08-21T22:10:32.000Z",
-          "title": {
-            "en": "ACT signs on to federal firearms buyback scheme",
-            "zh": "首都领地签署联邦枪支回购计划"
-          },
-          "summary": {
-            "en": "The Australian Capital Territory has joined New South Wales in adopting the federal government's gun buyback scheme, which was established after a mass shooting occurred in Bondi in December.",
-            "zh": "澳大利亚首都领地已加入新南威尔士州的行列，参与联邦政府的枪支回购计划。该计划是在去年12月邦迪发生大规模枪击事件后设立的。"
-          },
-          "body": {
-            "en": "The ACT has become the latest jurisdiction to sign on to a federal gun buyback scheme.\n\nThe territory has reached an agreement with the federal government for the scheme to remove firearms, which was set up following the Bondi mass shooting in December.\n\nIt is just the second jurisdiction to join the scheme after NSW announced on Sunday it would be part of the buyback.\n\nIt's estimated 14 per cent of the ACT's 7000 firearms licence holders will be affected by a proposed cap on guns.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nUnder the scheme, 75 per cent of the cost of compensation to firearm holders, administration and gun destruction will be paid for by the federal government.\n\nPrime Minister Anthony Albanese said the government would work closely with the ACT to keep more guns off the streets.\n\n\"We're taking action to strengthen Australia's gun laws and keep our communities safe,\" he said in a statement.\n\n\"National gun reform is an important part of making sure an anti-Semitic terrorist attack like we saw at Bondi can't happen again.\"\n\nACT Chief Minister Andrew Barr said while the majority of gun owners were responsible, further safety measures were needed.\n\n\"The buyback scheme will provide compensation while helping deliver further community safety outcomes,\" he said.\n\n\"The ACT has some of the strongest firearms laws in the country, and this agreement supports our ongoing efforts to further reduce the risk of firearms falling into the wrong hands.\"\n\nNational cabinet agreed to strengthen firearm restrictions across Australia following the Bondi attack, where 15 people died after two gunmen opened fire at a Hanukkah festival.\n\nBut the scheme faces opposition from some jurisdictions, with conservative governments in the Northern Territory, Tasmania and Queensland declining to sign up.\n\nWestern Australia had already operated its own gun buyback and does not have plans to be part of a second one linked to the federal government.\n\nFor the latest from SBS News, download our app and subscribe to our newsletter .",
-            "zh": "首都领地已成为最新签署联邦枪支回购计划的司法管辖区。 该地区已与联邦政府就移走枪支计划达成协议，该计划是在去年 12 月邦迪大规模枪击事件后制定的。 这是继新南威尔士州周日宣布将成为回购计划的一部分之后，第二个加入该计划的司法管辖区。 据估计，首都领地 7000 名枪支许可证持有者中，有 14% 将受到拟议枪支上限的影响。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 根据该计划，枪支持有者赔偿、管理和枪支销毁费用的75%将由联邦政府支付。 总理安东尼·阿尔巴内塞表示，政府将与首都领地密切合作，阻止更多枪支出现在街头。 “我们正在采取行动加强澳大利亚的枪支法并确保我们社区的安全，”他在一份声明中说。 “国家枪支改革是确保像我们在邦迪看到的那样的反犹太恐怖袭击不会再次发生的重要组成部分。” 首都领地首席部长安德鲁·巴尔表示，虽然大多数枪支拥有者都有责任，但仍需要采取进一步的安全措施。 “回购计划将提供补偿，同时帮助实现进一步的社区安全成果，”他说。 “首都领地拥有全国最严格的枪支法，这项协议支持我们为进一步降低枪支落入坏人之手的风险而不断做出的努力。” 邦迪袭击案发生后，两名枪手在光明节开枪，造成 15 人死亡，国家内阁同意在澳大利亚各地加强枪支限制。 但该计划面临一些司法管辖区的反对，北领地、塔斯马尼亚和昆士兰的保守派政府拒绝签署。 西澳大利亚州已经开展了自己的枪支回购活动，并且没有计划参与与联邦政府相关的第二次回购活动。 如需了解 SBS 新闻的最新动态，请下载我们的应用程序并订阅我们的时事通讯。"
-          },
-          "reflection": {
-            "en": "The tragic aftermath of violence often prompts communities to seek ways to break cycles of harm. This scheme reflects a societal effort to reduce the availability of instruments that can perpetuate such devastation. Yahweh's words remind us that violence often begets more violence, urging us to consider paths that lead away from such destructive patterns.",
-            "zh": "暴力事件的悲剧性后果常常促使社区寻求打破伤害循环的方法。这项计划反映了社会为减少可能导致此类破坏的工具而做出的努力。雅伟的话语提醒我们，暴力往往会滋生更多的暴力，敦使我们思考远离这种破坏性模式的道路。"
-          },
-          "verse": {
-            "reference": "Matthew 26:52",
-            "textEn": "All who draw the sword will die by the sword.",
-            "textZh": "凡动刀的，必死在刀下。",
-            "themeEn": "Cycle of violence",
-            "themeZh": "动刀者必亡于刀"
-          },
-          "aiVerseId": "matt_26_52",
           "translationState": "localized"
         }
       ]
