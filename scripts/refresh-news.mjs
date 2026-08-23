@@ -112,6 +112,30 @@ const sectionMeta = {
 		},
 		categoryLabel: { en: 'Australia', zh: '澳洲' },
 	},
+	hongkong: {
+		title: { en: 'Hong Kong Desk', zh: '香港快讯' },
+		strap: {
+			en: 'News, policy, and public life in Hong Kong.',
+			zh: '聚焦香港时事、政策与社会动态。',
+		},
+		categoryLabel: { en: 'Hong Kong', zh: '香港' },
+	},
+	science: {
+		title: { en: 'Science & Nature Desk', zh: '自然科学' },
+		strap: {
+			en: 'Discoveries in nature, climate, health, and the wider cosmos.',
+			zh: '自然、气候、健康与宇宙万象的新发现。',
+		},
+		categoryLabel: { en: 'Science', zh: '科学' },
+	},
+	technology: {
+		title: { en: 'Technology Desk', zh: '科技前沿' },
+		strap: {
+			en: 'Technology shaping how we live, work, and think.',
+			zh: '正在改变生活、工作与思考方式的科技动态。',
+		},
+		categoryLabel: { en: 'Tech', zh: '科技' },
+	},
 };
 
 const sourceCatalog = [
@@ -144,19 +168,19 @@ const sourceCatalog = [
 		name: 'BBC News China Focus',
 		url: 'https://feeds.bbci.co.uk/news/world/rss.xml',
 		section: 'china',
-		matchKeywords: ['china', 'beijing', 'hong kong', 'taiwan', 'xi jinping', 'xinjiang', 'tibet'],
+		matchKeywords: ['china', 'beijing', 'taiwan', 'xi jinping', 'xinjiang', 'tibet'],
 	},
 	{
 		name: 'SBS News China Focus',
 		url: 'https://www.sbs.com.au/news/topic/world/feed',
 		section: 'china',
-		matchKeywords: ['china', 'beijing', 'hong kong', 'taiwan', 'xi jinping', 'xinjiang', 'tibet'],
+		matchKeywords: ['china', 'beijing', 'taiwan', 'xi jinping', 'xinjiang', 'tibet'],
 	},
 	{
 		name: 'DW Asia China Focus',
 		url: 'https://rss.dw.com/rdf/rss-en-asia',
 		section: 'china',
-		matchKeywords: ['china', 'beijing', 'hong kong', 'taiwan', 'xi jinping', 'xinjiang', 'tibet'],
+		matchKeywords: ['china', 'beijing', 'taiwan', 'xi jinping', 'xinjiang', 'tibet'],
 	},
 	{
 		name: 'The Guardian Australia',
@@ -167,6 +191,66 @@ const sourceCatalog = [
 		name: 'SBS News Australia',
 		url: 'https://www.sbs.com.au/news/topic/australia/feed',
 		section: 'australia',
+	},
+	{
+		name: 'SCMP Hong Kong',
+		url: 'https://www.scmp.com/rss/2/feed',
+		section: 'hongkong',
+	},
+	{
+		name: 'Hong Kong Free Press',
+		url: 'https://hongkongfp.com/feed/',
+		section: 'hongkong',
+	},
+	{
+		name: 'RTHK English News',
+		url: 'https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml',
+		section: 'hongkong',
+	},
+	{
+		name: 'The Guardian Hong Kong',
+		url: 'https://www.theguardian.com/world/hong-kong/rss',
+		section: 'hongkong',
+	},
+	{
+		name: 'Nature',
+		url: 'https://www.nature.com/nature.rss',
+		section: 'science',
+	},
+	{
+		name: 'BBC Science & Environment',
+		url: 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml',
+		section: 'science',
+	},
+	{
+		name: 'The Guardian Science',
+		url: 'https://www.theguardian.com/science/rss',
+		section: 'science',
+	},
+	{
+		name: 'The Guardian Environment',
+		url: 'https://www.theguardian.com/environment/rss',
+		section: 'science',
+	},
+	{
+		name: 'ScienceDaily Top Science',
+		url: 'https://www.sciencedaily.com/rss/top/science.xml',
+		section: 'science',
+	},
+	{
+		name: 'BBC Technology',
+		url: 'https://feeds.bbci.co.uk/news/technology/rss.xml',
+		section: 'technology',
+	},
+	{
+		name: 'The Guardian Technology',
+		url: 'https://www.theguardian.com/technology/rss',
+		section: 'technology',
+	},
+	{
+		name: 'Ars Technica',
+		url: 'https://feeds.arstechnica.com/arstechnica/index',
+		section: 'technology',
 	},
 ];
 
@@ -689,6 +773,8 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 		'',
 		'Output rules:',
 		'- verseId MUST come exactly from the catalog (case-sensitive).',
+		'- whyRelated: ONE English sentence naming the specific fact in THIS story and the verse principle it connects to. If you cannot write that sentence without being vague, you picked the wrong verse — choose again before answering.',
+		'- The reflection must anchor to at least one concrete detail from the story (a person, place, event, or number). A reflection that could be pasted under any other headline is a failure.',
 		'- Reflection: 2-3 sentences each in English and Simplified Chinese.',
 		'- Summary: 1 short paragraph each in English and Simplified Chinese, factual, no opinion.',
 		'- titleZh: a faithful Simplified-Chinese rendering of the headline.',
@@ -711,12 +797,17 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 		`source: ${item.source}`,
 		`title: ${item.title}`,
 		`summary: ${item.summary}`,
+		// Body excerpt (when we have one) — the single biggest lever for
+		// verse relevance. Without it the model matches on a headline.
+		...(item.body && item.body.length >= 120
+			? [`body excerpt: ${item.body.slice(0, 700)}`]
+			: []),
 		'',
 		...(diversityNote ? ['EDITORIAL CONSTRAINT', diversityNote, ''] : []),
 		'VERSE CATALOG (verseId | reference | themeEn | tags | applies)',
 		catalogText,
 		'',
-		'Reason carefully, then return JSON: { verseId, titleZh, summaryEn, summaryZh, reflectionEn, reflectionZh }.',
+		'Reason carefully, then return JSON: { verseId, whyRelated, titleZh, summaryEn, summaryZh, reflectionEn, reflectionZh }.',
 	];
 	// Body translation is handled by a separate free Google Translate
 	// call after this — Gemini doesn't need to see the long body for
@@ -734,6 +825,7 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 					type: 'object',
 					properties: {
 						verseId: { type: 'string' },
+						whyRelated: { type: 'string' },
 						titleZh: { type: 'string' },
 						summaryEn: { type: 'string' },
 						summaryZh: { type: 'string' },
@@ -742,6 +834,7 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 					},
 					required: [
 						'verseId',
+						'whyRelated',
 						'titleZh',
 						'summaryEn',
 						'summaryZh',
@@ -800,7 +893,10 @@ async function aiDeepMatch(item, verseCorpus, recentlyUsedVerseIds = []) {
 			return null;
 		}
 
-		console.log(`Deep-match for "${item.title.slice(0, 60)}": ${verse.id} (${verse.reference})`);
+		console.log(
+			`Deep-match for "${item.title.slice(0, 60)}": ${verse.id} (${verse.reference})` +
+				(parsed.whyRelated ? ` — ${String(parsed.whyRelated).slice(0, 140)}` : ''),
+		);
 
 		return {
 			verseId: verse.id,
@@ -1016,7 +1112,12 @@ async function main() {
 		const shouldUseCache = selectedItems.length === 0 && fallbackSection?.items?.length;
 
 		if (!shouldUseCache && selectedItems.length === 0) {
-			throw new Error(`Section "${sectionId}" ended up empty and no cached content was available.`);
+			// A brand-new section (no cache yet) whose feeds all failed this
+			// run should not take down the whole refresh — skip it and let
+			// the next cron try again. Established sections keep the loud
+			// failure via the cache branch above.
+			console.error(`Section "${sectionId}" ended up empty and no cached content was available — skipping this run.`);
+			continue;
 		}
 
 		const freshStories = shouldUseCache ? [] : await buildStories(selectedItems, buildCtx);
@@ -1029,6 +1130,7 @@ async function main() {
 			id: sectionId,
 			title: sectionMeta[sectionId].title,
 			strap: sectionMeta[sectionId].strap,
+			categoryLabel: sectionMeta[sectionId].categoryLabel,
 			sourceNotes,
 			items: mergedStories,
 		};
@@ -1646,21 +1748,18 @@ async function buildStory(item, index, ctx = {}) {
 		}
 	}
 
-	// 2. No cache → run the deep-think AI call. Pass the verses already
-	//    used by previous stories in this same section as a soft-diversity
-	//    hint so a section doesn't end up with five "Romans 12:21" entries.
-	if (!deep) {
-		const used = sectionUsedVerseIds?.get(item.section) || [];
-		deep = await aiDeepMatch(item, verseCorpus, used);
-		await delay(AI_CALL_DELAY_MS);
-	}
-
-	// 2a. Body backfill from article HTML.  Many feeds (BBC, DW, SBS
+	// 2. Body backfill from article HTML.  Many feeds (BBC, DW, SBS
 	//     headline tickers) ship a short summary in their RSS but no
 	//     <content:encoded> long form. For those we hit the article
 	//     URL and extract paragraphs via fetchArticleBody. Only runs
 	//     when the RSS body is absent — Guardian feeds already carry
 	//     the long form so we don't waste a request on them.
+	//
+	//     2026-08-23: moved ABOVE the deep-match call. Previously the
+	//     verse pick ran first and only ever saw the title + a one-line
+	//     RSS summary, which produced loosely-related verse choices.
+	//     Fetching the body first lets aiDeepMatch quote an excerpt of
+	//     the actual article to the model.
 	if (
 		(!item.body || item.body.length < 60) &&
 		item.link &&
@@ -1673,6 +1772,15 @@ async function buildStory(item, index, ctx = {}) {
 				`Fetched body for "${item.title.slice(0, 60)}" (${fetched.length} chars)`,
 			);
 		}
+	}
+
+	// 2a. No cache → run the deep-think AI call. Pass the verses already
+	//    used by previous stories in this same section as a soft-diversity
+	//    hint so a section doesn't end up with five "Romans 12:21" entries.
+	if (!deep) {
+		const used = sectionUsedVerseIds?.get(item.section) || [];
+		deep = await aiDeepMatch(item, verseCorpus, used);
+		await delay(AI_CALL_DELAY_MS);
 	}
 
 	// 2b. Body translation via the free Google Translate web endpoint

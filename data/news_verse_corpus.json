@@ -1,199 +1,2641 @@
 {
-  "_meta": {
-    "version": 1,
-    "description": "Curated verse corpus for the daily-news AI matcher. Each entry is tagged with topical applicability so a thinking-capable model (gemini-2.5-pro) can reason its way from a news story to the single verse that speaks most directly to its underlying spiritual / human question. Texts are public-domain or fair-use Christian-resource translations; YHWH is rendered as 'Yahweh' / '雅伟' / '雅偉' in line with the YsWords editorial preference applied at runtime.",
-    "totalVerses": 149,
-    "categories": [
-      "war_and_peace", "justice_and_oppression", "leadership_and_authority",
-      "compassion_and_the_poor", "economy_and_work", "truth_and_media",
-      "hope_and_endurance", "persecution_and_faith", "family_and_marriage",
-      "speech_and_words", "creation_and_environment", "death_and_mortality",
-      "healing_and_mental_health", "forgiveness_and_reconciliation",
-      "pride_and_humility", "idolatry_and_consumerism", "identity_and_dignity",
-      "race_and_unity", "wisdom_and_discernment", "anxiety_and_fear",
-      "science_and_technology", "aging_and_elder_care",
-      "sports_and_competition", "child_protection"
-    ]
-  },
-  "verses": [
-    {"id":"matt_5_9","reference":"Matthew 5:9","textEn":"Blessed are the peacemakers, for they will be called children of God.","textZh-Hans":"使人和睦的人有福了，因为他们必称为神的儿子。","textZh-Hant":"使人和睦的人有福了，因為他們必稱為神的兒子。","themeEn":"Peacemaking","themeZh":"和睦","tags":["war","ceasefire","peacemaking","mediation","conflict"],"applies":"Stories about active peace-making, ceasefires, or someone refusing to escalate."},
-    {"id":"isa_2_4","reference":"Isaiah 2:4","textEn":"They will beat their swords into plowshares and their spears into pruning hooks.","textZh-Hans":"他们要将刀打成犁头，把枪打成镰刀。","textZh-Hant":"他們要將刀打成犁頭，把槍打成鐮刀。","themeEn":"Disarmament","themeZh":"化干戈为玉帛","tags":["war","disarmament","weapons","arms_race","military"],"applies":"Arms control, military spending, weapons treaties — the prophetic vision of swords becoming tools."},
-    {"id":"rom_12_21","reference":"Romans 12:21","textEn":"Do not be overcome by evil, but overcome evil with good.","textZh-Hans":"你不可为恶所胜，反要以善胜恶。","textZh-Hant":"你不可為惡所勝，反要以善勝惡。","themeEn":"Overcoming evil with good","themeZh":"以善胜恶","tags":["evil","retaliation","cycle_of_violence","revenge","terrorism"],"applies":"Cycles of retaliation, terrorism, the temptation to mirror evil with evil."},
-    {"id":"rom_12_18","reference":"Romans 12:18","textEn":"If it is possible, as far as it depends on you, live at peace with everyone.","textZh-Hans":"若是能行，总要尽力与众人和睦。","textZh-Hant":"若是能行，總要盡力與眾人和睦。","themeEn":"Pursuit of peace","themeZh":"追求和睦","tags":["diplomacy","peace_talks","disagreement","tension"],"applies":"Diplomatic crises, broken negotiations, neighbor disputes."},
-    {"id":"ps_46_9","reference":"Psalm 46:9","textEn":"He makes wars cease to the ends of the earth; he breaks the bow and shatters the spear.","textZh-Hans":"他止息刀兵，直到地极；他折弓断枪。","textZh-Hant":"他止息刀兵，直到地極；他折弓斷槍。","themeEn":"God ends wars","themeZh":"神止息刀兵","tags":["war","weapons","global_conflict","despair"],"applies":"Global wars, persistent conflicts where peace seems impossible."},
-    {"id":"matt_26_52","reference":"Matthew 26:52","textEn":"All who draw the sword will die by the sword.","textZh-Hans":"凡动刀的，必死在刀下。","textZh-Hant":"凡動刀的，必死在刀下。","themeEn":"Cycle of violence","themeZh":"动刀者必亡于刀","tags":["violence","retaliation","cycle","gun_violence"],"applies":"Gun violence, escalating force, vigilante revenge."},
-
-    {"id":"micah_6_8","reference":"Micah 6:8","textEn":"What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.","textZh-Hans":"雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。","textZh-Hant":"雅偉向你所要的是什麼呢？只要你行公義，好憐憫，存謙卑的心，與你的神同行。","themeEn":"Justice and mercy","themeZh":"公义与怜悯","tags":["justice","mercy","corruption","accountability","ethics"],"applies":"Anti-corruption, ethical leadership stories where justice and compassion meet."},
-    {"id":"amos_5_24","reference":"Amos 5:24","textEn":"Let justice roll on like a river, righteousness like a never-failing stream!","textZh-Hans":"惟愿公平如大水滚滚，使公义如江河滔滔。","textZh-Hant":"惟願公平如大水滾滾，使公義如江河滔滔。","themeEn":"Demand for justice","themeZh":"伸张公义","tags":["protest","systemic_injustice","civil_rights","movement","reform"],"applies":"Civil rights movements, mass protests, calls for systemic justice."},
-    {"id":"prov_31_8","reference":"Proverbs 31:8-9","textEn":"Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.","textZh-Hans":"你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。","textZh-Hant":"你當為不能自辯的開口，為孤獨的伸冤。你當開口按公義判斷，為困苦和窮乏的辨屈。","themeEn":"Voice for the voiceless","themeZh":"为弱者发声","tags":["advocacy","voiceless","disability","children","slavery"],"applies":"Advocacy for those with no voice — children, disabled, trafficked, refugees."},
-    {"id":"isa_1_17","reference":"Isaiah 1:17","textEn":"Learn to do right; seek justice. Defend the oppressed. Take up the cause of the fatherless; plead the case of the widow.","textZh-Hans":"学习行善，寻求公平，解救受欺压的；给孤儿伸冤，为寡妇辨屈。","textZh-Hant":"學習行善，尋求公平，解救受欺壓的；給孤兒伸冤，為寡婦辨屈。","themeEn":"Defending the oppressed","themeZh":"为受欺压者伸冤","tags":["oppression","widows","orphans","domestic_violence","abuse"],"applies":"Stories of the oppressed, abuse victims, fatherless, broken families."},
-    {"id":"prov_29_2","reference":"Proverbs 29:2","textEn":"When the righteous thrive, the people rejoice; when the wicked rule, the people groan.","textZh-Hans":"义人增多，民就喜乐；恶人掌权，民就叹息。","textZh-Hant":"義人增多，民就喜樂；惡人掌權，民就嘆息。","themeEn":"Righteous vs wicked rulers","themeZh":"义人执政与恶人当道","tags":["corruption","authoritarianism","elections","government_failure"],"applies":"Authoritarian regimes, corrupt governments, election crises."},
-    {"id":"prov_14_34","reference":"Proverbs 14:34","textEn":"Righteousness exalts a nation, but sin condemns any people.","textZh-Hans":"公义使邦国高举；罪恶是人民的羞辱。","textZh-Hant":"公義使邦國高舉；罪惡是人民的羞辱。","themeEn":"National righteousness","themeZh":"国家公义","tags":["nation","decline","moral_collapse","national_identity"],"applies":"National decline, scandals at the highest level, debates about national values."},
-    {"id":"hab_1_4","reference":"Habakkuk 1:4","textEn":"The law is paralyzed, and justice never prevails. The wicked hem in the righteous, so that justice is perverted.","textZh-Hans":"因此律法放松，公理也不显明；恶人围困义人，所以公理显然颠倒。","textZh-Hant":"因此律法放鬆，公理也不顯明；惡人圍困義人，所以公理顯然顛倒。","themeEn":"Lament for broken justice","themeZh":"对不公的哀诉","tags":["broken_courts","impunity","systemic_failure","legal_corruption"],"applies":"Stories of impunity, courts failing, systemic corruption — when justice itself seems broken."},
-
-    {"id":"prov_11_14","reference":"Proverbs 11:14","textEn":"For lack of guidance a nation falls, but victory is won through many advisers.","textZh-Hans":"无智谋，民就败落；谋士多，人便安居。","textZh-Hant":"無智謀，民就敗落；謀士多，人便安居。","themeEn":"Wise counsel","themeZh":"智谋的价值","tags":["leadership","advice","experts","policy","decision"],"applies":"Major policy decisions, leaders ignoring expert advice."},
-    {"id":"prov_16_12","reference":"Proverbs 16:12","textEn":"Kings detest wrongdoing, for a throne is established through righteousness.","textZh-Hans":"作恶为王所憎恶，因国位是靠公义坚立。","textZh-Hant":"作惡為王所憎惡，因國位是靠公義堅立。","themeEn":"Righteous rule","themeZh":"以公义治国","tags":["leadership","integrity","cabinet","scandal","resignation"],"applies":"Leadership ethics, scandal-driven resignations."},
-    {"id":"rom_13_1","reference":"Romans 13:1","textEn":"Let everyone be subject to the governing authorities, for there is no authority except that which God has established.","textZh-Hans":"在上有权柄的，人人当顺服他，因为没有权柄不是出于神的。","textZh-Hant":"在上有權柄的，人人當順服他，因為沒有權柄不是出於神的。","themeEn":"God-given authority","themeZh":"神所立的权柄","tags":["government","authority","civic_duty","rule_of_law"],"applies":"Civic responsibility, debates about state authority."},
-    {"id":"prov_29_18","reference":"Proverbs 29:18","textEn":"Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom's instruction.","textZh-Hans":"没有异象，民就放肆；惟遵守律法的，便为有福。","textZh-Hant":"沒有異象，民就放肆；惟遵守律法的，便為有福。","themeEn":"Need for vision","themeZh":"国家需要异象","tags":["chaos","social_breakdown","moral_compass","vision"],"applies":"Stories of social breakdown, generational drift, leadership voids."},
-    {"id":"prov_28_15","reference":"Proverbs 28:15","textEn":"Like a roaring lion or a charging bear is a wicked ruler over a helpless people.","textZh-Hans":"暴虐的君王辖制贫民，好像吼叫的狮子、觅食的熊。","textZh-Hant":"暴虐的君王轄制貧民，好像吼叫的獅子、覓食的熊。","themeEn":"Tyranny","themeZh":"暴政","tags":["tyranny","dictator","authoritarian","oppression"],"applies":"Tyrants, dictators, abuse of state power."},
-    {"id":"jer_22_3","reference":"Jeremiah 22:3","textEn":"Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.","textZh-Hans":"你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。","textZh-Hant":"你們要施行公平和公義，拯救被搶奪的脫離欺壓人的手。","themeEn":"Royal justice mandate","themeZh":"王者的公义责任","tags":["royal_duty","government_accountability","public_service"],"applies":"What governments owe their people; the moral mandate of public office."},
-
-    {"id":"matt_25_40","reference":"Matthew 25:40","textEn":"Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.","textZh-Hans":"我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。","textZh-Hant":"我實在告訴你們，這些事你們既做在我這弟兄中一個最小的身上，就是做在我身上了。","themeEn":"Christ in the least","themeZh":"基督在至微者中","tags":["poverty","homeless","hungry","prisoner","sick","stranger","refugee"],"applies":"Care for the marginalized — homeless, hungry, prisoners, sick, refugees."},
-    {"id":"luke_10_36","reference":"Luke 10:36-37","textEn":"Which of these three do you think was a neighbor to the man who fell into the hands of robbers? ... 'Go and do likewise.'","textZh-Hans":"你想这三个人哪一个是落在强盗手中的邻舍呢？……「你去照样行吧。」","textZh-Hant":"你想這三個人哪一個是落在強盜手中的鄰舍呢？……「你去照樣行吧。」","themeEn":"Good Samaritan","themeZh":"好撒玛利亚人","tags":["bystander","crisis","helping","ethnic_division"],"applies":"Stories that test who counts as 'neighbor' across social/ethnic lines."},
-    {"id":"jas_2_15","reference":"James 2:15-16","textEn":"Suppose a brother or a sister is without clothes and daily food. If one of you says to them, 'Go in peace; keep warm and well fed,' but does nothing about their physical needs, what good is it?","textZh-Hans":"若是弟兄或是姊妹，赤身露体，又缺了日用的饮食，你们中间有人对他们说：「平平安安地去吧，愿你们穿得暖、吃得饱」，却不给他们身体所需用的，这有什么益处呢？","textZh-Hant":"若是弟兄或是姊妹，赤身露體，又缺了日用的飲食，你們中間有人對他們說：「平平安安地去吧，願你們穿得暖、吃得飽」，卻不給他們身體所需用的，這有什麼益處呢？","themeEn":"Faith with action","themeZh":"信心与行动","tags":["empty_words","welfare","performative","slacktivism"],"applies":"Performative compassion, social-media activism without action."},
-    {"id":"prov_19_17","reference":"Proverbs 19:17","textEn":"Whoever is kind to the poor lends to Yahweh, and he will reward them for what they have done.","textZh-Hans":"怜悯贫穷的，就是借给雅伟；他的善行，雅伟必偿还。","textZh-Hant":"憐憫貧窮的，就是借給雅偉；他的善行，雅偉必償還。","themeEn":"Lending to God","themeZh":"善待贫穷","tags":["charity","poor","generosity","aid"],"applies":"Stories about charitable giving, aid programs."},
-    {"id":"isa_58_7","reference":"Isaiah 58:7","textEn":"Is it not to share your food with the hungry and to provide the poor wanderer with shelter — when you see the naked, to clothe them?","textZh-Hans":"不是要把你的饼分给饥饿的人，将飘流的穷人接到你家中，见赤身的给他衣服遮体？","textZh-Hant":"不是要把你的餅分給飢餓的人，將飄流的窮人接到你家中，見赤身的給他衣服遮體？","themeEn":"True fasting","themeZh":"真禁食","tags":["hunger","homelessness","refugee","welcome","practical_compassion"],"applies":"Hunger, homelessness, displacement crises."},
-    {"id":"deut_10_19","reference":"Deuteronomy 10:19","textEn":"And you are to love those who are foreigners, for you yourselves were foreigners in Egypt.","textZh-Hans":"所以你们要怜爱寄居的，因为你们在埃及地也作过寄居的。","textZh-Hant":"所以你們要憐愛寄居的，因為你們在埃及地也作過寄居的。","themeEn":"Welcome the foreigner","themeZh":"善待寄居者","tags":["immigration","refugees","strangers","border","migration"],"applies":"Immigration debates, refugee crises, deportation stories."},
-    {"id":"luke_4_18","reference":"Luke 4:18","textEn":"The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor.","textZh-Hans":"主的灵在我身上，因为他用膏膏我，叫我传福音给贫穷的人。","textZh-Hant":"主的靈在我身上，因為他用膏膏我，叫我傳福音給貧窮的人。","themeEn":"Good news to the poor","themeZh":"传福音给贫穷人","tags":["poverty","liberation","captivity","oppressed"],"applies":"Anti-poverty work, prison ministry, addiction recovery."},
-
-    {"id":"prov_16_3","reference":"Proverbs 16:3","textEn":"Commit to Yahweh whatever you do, and he will establish your plans.","textZh-Hans":"你所做的，要交托雅伟，你所谋的，就必成立。","textZh-Hant":"你所做的，要交託雅偉，你所謀的，就必成立。","themeEn":"Committing work to God","themeZh":"将工作交托","tags":["business","planning","entrepreneurship","startup"],"applies":"Major business ventures, entrepreneurial stories, project launches."},
-    {"id":"col_3_23","reference":"Colossians 3:23","textEn":"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.","textZh-Hans":"无论做什么，都要从心里做，像是给主做的，不是给人做的。","textZh-Hant":"無論做什麼，都要從心裡做，像是給主做的，不是給人做的。","themeEn":"Work for the Lord","themeZh":"为主而做","tags":["work","employment","labor","craftsmanship"],"applies":"Labor stories, craftsmanship, dignity of work."},
-    {"id":"1tim_6_10","reference":"1 Timothy 6:10","textEn":"For the love of money is a root of all kinds of evil.","textZh-Hans":"贪财是万恶之根。","textZh-Hant":"貪財是萬惡之根。","themeEn":"Love of money","themeZh":"贪财","tags":["greed","fraud","corruption","ponzi","financial_crime"],"applies":"Financial fraud, corporate greed, Ponzi schemes."},
-    {"id":"prov_22_7","reference":"Proverbs 22:7","textEn":"The rich rule over the poor, and the borrower is slave to the lender.","textZh-Hans":"富户管辖穷人；欠债的是债主的仆人。","textZh-Hant":"富戶管轄窮人；欠債的是債主的僕人。","themeEn":"Debt's burden","themeZh":"债务的重轭","tags":["debt","credit","interest_rates","predatory_lending"],"applies":"Debt crises, payday loans, sovereign debt, household debt."},
-    {"id":"matt_6_24","reference":"Matthew 6:24","textEn":"No one can serve two masters... You cannot serve both God and Mammon.","textZh-Hans":"一个人不能事奉两个主……你们不能又事奉神，又事奉玛门。","textZh-Hant":"一個人不能事奉兩個主……你們不能又事奉神，又事奉瑪門。","themeEn":"God or Mammon","themeZh":"神或玛门","tags":["materialism","wealth","priorities","consumerism"],"applies":"Stories where wealth-pursuit collides with deeper values."},
-    {"id":"jer_22_13","reference":"Jeremiah 22:13","textEn":"Woe to him who builds his palace by unrighteousness, who makes his own people work for nothing.","textZh-Hans":"那行不义盖房、行不公造楼、白白使用人的手工不给工价的有祸了！","textZh-Hant":"那行不義蓋房、行不公造樓、白白使用人的手工不給工價的有禍了！","themeEn":"Wage theft","themeZh":"克扣工资","tags":["wage_theft","exploitation","sweatshop","unpaid"],"applies":"Wage exploitation, sweatshops, unpaid workers."},
-    {"id":"prov_13_22","reference":"Proverbs 13:22","textEn":"A good person leaves an inheritance for their children's children, but a sinner's wealth is stored up for the righteous.","textZh-Hans":"善人给子孙遗留产业；罪人为义人积存资财。","textZh-Hant":"善人給子孫遺留產業；罪人為義人積存資財。","themeEn":"Generational wealth","themeZh":"世代承传产业","tags":["inheritance","generational","family_wealth","retirement"],"applies":"Inheritance disputes, generational wealth, retirement crises."},
-    {"id":"deut_8_18","reference":"Deuteronomy 8:18","textEn":"Remember Yahweh your God, for it is he who gives you the ability to produce wealth.","textZh-Hans":"你要记念雅伟你的神，因为得货财的力量是他给你的。","textZh-Hant":"你要記念雅偉你的神，因為得貨財的力量是他給你的。","themeEn":"Source of wealth","themeZh":"财富的源头","tags":["prosperity","economy","gdp","gratitude"],"applies":"Economic boom, prosperity reports — what we forget when things go well."},
-
-    {"id":"phil_4_8","reference":"Philippians 4:8","textEn":"Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.","textZh-Hans":"凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。","textZh-Hant":"凡是真實的、可敬的、公義的、清潔的、可愛的、有美名的，這些事你們都要思念。","themeEn":"Mind discipline","themeZh":"心思的操练","tags":["media_diet","information_overload","negativity"],"applies":"Information overload, doomscrolling, media diet questions."},
-    {"id":"prov_18_17","reference":"Proverbs 18:17","textEn":"In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.","textZh-Hans":"先诉情由的，似乎有理；但邻舍来到，就察出实情。","textZh-Hant":"先訴情由的，似乎有理；但鄰舍來到，就察出實情。","themeEn":"Hearing both sides","themeZh":"兼听则明","tags":["one-sided_reporting","both_sides","viral","rush_to_judge"],"applies":"Viral allegations, rushed verdicts in the court of social media."},
-    {"id":"eph_4_25","reference":"Ephesians 4:25","textEn":"Therefore each of you must put off falsehood and speak truthfully to your neighbor.","textZh-Hans":"所以你们要弃绝谎言，各人与邻舍说实话。","textZh-Hant":"所以你們要棄絕謊言，各人與鄰舍說實話。","themeEn":"Truth-telling","themeZh":"说诚实话","tags":["lies","misinformation","disinformation","fake_news"],"applies":"Disinformation, deepfakes, propaganda."},
-    {"id":"prov_12_19","reference":"Proverbs 12:19","textEn":"Truthful lips endure forever, but a lying tongue lasts only a moment.","textZh-Hans":"口吐真言，永远坚立；舌说谎话，只存片时。","textZh-Hant":"口吐真言，永遠堅立；舌說謊話，只存片時。","themeEn":"Truth's longevity","themeZh":"真理永存","tags":["lies_exposed","truth_wins","reputation"],"applies":"Lies eventually exposed, fact-check victories."},
-    {"id":"john_8_32","reference":"John 8:32","textEn":"Then you will know the truth, and the truth will set you free.","textZh-Hans":"你们必晓得真理，真理必叫你们得以自由。","textZh-Hant":"你們必曉得真理，真理必叫你們得以自由。","themeEn":"Liberating truth","themeZh":"真理使人自由","tags":["transparency","whistleblower","journalism","investigation"],"applies":"Transparency campaigns, whistleblowers, investigative journalism."},
-    {"id":"prov_14_15","reference":"Proverbs 14:15","textEn":"The simple believe anything, but the prudent give thought to their steps.","textZh-Hans":"愚蒙人是话都信；通达人步步谨慎。","textZh-Hant":"愚蒙人是話都信；通達人步步謹慎。","themeEn":"Discernment","themeZh":"分辨与谨慎","tags":["gullibility","conspiracy","discernment","critical_thinking"],"applies":"Conspiracy theories, viral misinformation, gullible audiences."},
-
-    {"id":"rom_5_3","reference":"Romans 5:3-4","textEn":"We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.","textZh-Hans":"就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。","textZh-Hant":"就是在患難中也是歡歡喜喜的；因為知道患難生忍耐，忍耐生老練，老練生盼望。","themeEn":"Suffering produces hope","themeZh":"患难中的盼望","tags":["recovery","resilience","disaster","aftermath"],"applies":"Recovery from disaster, communities rebuilding."},
-    {"id":"jer_29_11","reference":"Jeremiah 29:11","textEn":"For I know the plans I have for you, declares Yahweh, plans to prosper you and not to harm you, plans to give you hope and a future.","textZh-Hans":"我知道我向你们所怀的意念，是赐平安的意念，不是降灾祸的意念，要叫你们末后有指望。这是雅伟说的。","textZh-Hant":"我知道我向你們所懷的意念，是賜平安的意念，不是降災禍的意念，要叫你們末後有指望。這是雅偉說的。","themeEn":"God's plans","themeZh":"神的计划","tags":["future","hope","exile","despair"],"applies":"National despair, exile narratives, generational pessimism."},
-    {"id":"isa_40_31","reference":"Isaiah 40:31","textEn":"Those who hope in Yahweh will renew their strength. They will soar on wings like eagles; they will run and not grow weary.","textZh-Hans":"但那等候雅伟的，必从新得力。他们必如鹰展翅上腾。","textZh-Hant":"但那等候雅偉的，必從新得力。他們必如鷹展翅上騰。","themeEn":"Renewed strength","themeZh":"重新得力","tags":["exhaustion","burnout","endurance","second_wind"],"applies":"Burnout, exhaustion, finding second wind."},
-    {"id":"hab_3_17","reference":"Habakkuk 3:17-18","textEn":"Though the fig tree does not bud and there are no grapes on the vines... yet I will rejoice in Yahweh.","textZh-Hans":"虽然无花果树不发旺，葡萄树不结果……然而，我要因雅伟欢欣。","textZh-Hant":"雖然無花果樹不發旺，葡萄樹不結果……然而，我要因雅偉歡欣。","themeEn":"Joy in scarcity","themeZh":"在缺乏中喜乐","tags":["famine","drought","crop_failure","economic_hardship"],"applies":"Famine, crop failure, severe economic hardship."},
-    {"id":"rev_21_4","reference":"Revelation 21:4","textEn":"He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.","textZh-Hans":"神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。","textZh-Hant":"神要擦去他們一切的眼淚；不再有死亡，也不再有悲哀、哭號、疼痛。","themeEn":"End of suffering","themeZh":"苦难的终结","tags":["grief","death","tragedy","mass_casualty"],"applies":"Tragedies, mass casualty events, profound grief."},
-    {"id":"ps_30_5","reference":"Psalm 30:5","textEn":"Weeping may stay for the night, but rejoicing comes in the morning.","textZh-Hans":"一宿虽然有哭泣，早晨便必欢呼。","textZh-Hant":"一宿雖然有哭泣，早晨便必歡呼。","themeEn":"Joy after the night","themeZh":"清晨的喜乐","tags":["overnight_grief","reversal","mourning_to_joy"],"applies":"Sudden reversals — grief turning to relief."},
-    {"id":"lam_3_22","reference":"Lamentations 3:22-23","textEn":"Because of Yahweh's great love we are not consumed, for his compassions never fail. They are new every morning.","textZh-Hans":"我们不至消灭，是出于雅伟诸般的慈爱；是因他的怜悯不至断绝。每早晨这都是新的。","textZh-Hant":"我們不至消滅，是出於雅偉諸般的慈愛；是因他的憐憫不至斷絕。每早晨這都是新的。","themeEn":"Mercy every morning","themeZh":"清晨的怜悯","tags":["devastation","sustained_loss","attrition"],"applies":"Sustained crises — wars, occupations, prolonged disasters."},
-
-    {"id":"matt_5_10","reference":"Matthew 5:10","textEn":"Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.","textZh-Hans":"为义受逼迫的人有福了，因为天国是他们的。","textZh-Hant":"為義受逼迫的人有福了，因為天國是他們的。","themeEn":"Blessed persecution","themeZh":"为义受迫","tags":["religious_persecution","martyr","christian_persecution"],"applies":"Religious persecution, Christians under pressure."},
-    {"id":"2tim_3_12","reference":"2 Timothy 3:12","textEn":"In fact, everyone who wants to live a godly life in Christ Jesus will be persecuted.","textZh-Hans":"凡立志在基督耶稣里敬虔度日的，也都要受逼迫。","textZh-Hant":"凡立志在基督耶穌裡敬虔度日的，也都要受逼迫。","themeEn":"Persecution expected","themeZh":"敬虔必受逼迫","tags":["persecution","discrimination","faith_under_pressure"],"applies":"Faith-based discrimination, social hostility to believers."},
-    {"id":"acts_5_29","reference":"Acts 5:29","textEn":"We must obey God rather than human beings!","textZh-Hans":"顺从神，不顺从人，是应当的。","textZh-Hant":"順從神，不順從人，是應當的。","themeEn":"Obey God first","themeZh":"顺从神过于顺从人","tags":["civil_disobedience","conscience","conscientious_objection"],"applies":"Conscientious objection, civil disobedience for moral reasons."},
-    {"id":"rom_8_18","reference":"Romans 8:18","textEn":"I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.","textZh-Hans":"我想，现在的苦楚若比起将来要显于我们的荣耀，就不足介意了。","textZh-Hant":"我想，現在的苦楚若比起將來要顯於我們的榮耀，就不足介意了。","themeEn":"Sufferings vs glory","themeZh":"苦楚与荣耀","tags":["chronic_suffering","long_suffering","perspective"],"applies":"Chronic suffering, long-running injustice."},
-
-    {"id":"gen_2_24","reference":"Genesis 2:24","textEn":"That is why a man leaves his father and mother and is united to his wife, and they become one flesh.","textZh-Hans":"因此，人要离开父母，与妻子连合，二人成为一体。","textZh-Hant":"因此，人要離開父母，與妻子連合，二人成為一體。","themeEn":"Marriage's foundation","themeZh":"婚姻的根基","tags":["marriage","wedding","commitment","union"],"applies":"Marriage stories, wedding-related news."},
-    {"id":"mal_2_16","reference":"Malachi 2:16","textEn":"'The man who hates and divorces his wife,' says Yahweh, 'does violence to the one he should protect.'","textZh-Hans":"雅伟说：「休妻的事，是我所恨恶的。」","textZh-Hant":"雅偉說：「休妻的事，是我所恨惡的。」","themeEn":"God hates broken faith","themeZh":"神恨弃约","tags":["divorce","family_breakdown","abandonment"],"applies":"High-profile divorces, marriage statistics, family breakdown."},
-    {"id":"ps_127_3","reference":"Psalm 127:3","textEn":"Children are a heritage from Yahweh, offspring a reward from him.","textZh-Hans":"儿女是雅伟所赐的产业。","textZh-Hant":"兒女是雅偉所賜的產業。","themeEn":"Children as gift","themeZh":"儿女是产业","tags":["birth","children","fertility","family_planning"],"applies":"Birth rate stories, IVF, fertility, parenting."},
-    {"id":"eph_6_4","reference":"Ephesians 6:4","textEn":"Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.","textZh-Hans":"你们作父亲的，不要惹儿女的气，只要照着主的教训和警戒养育他们。","textZh-Hant":"你們作父親的，不要惹兒女的氣，只要照著主的教訓和警戒養育他們。","themeEn":"Parental responsibility","themeZh":"父母的责任","tags":["parenting","fatherhood","child_welfare","education"],"applies":"Parenting, education debates, fatherhood."},
-    {"id":"prov_22_6","reference":"Proverbs 22:6","textEn":"Start children off on the way they should go, and even when they are old they will not turn from it.","textZh-Hans":"教养孩童，使他走当行的道，就是到老他也不偏离。","textZh-Hant":"教養孩童，使他走當行的道，就是到老他也不偏離。","themeEn":"Forming the young","themeZh":"塑造下一代","tags":["education","schools","curriculum","formation"],"applies":"Education policy, curriculum debates, generational character."},
-
-    {"id":"prov_18_21","reference":"Proverbs 18:21","textEn":"The tongue has the power of life and death, and those who love it will eat its fruit.","textZh-Hans":"生死在舌头的权下；喜爱它的，必吃它所结的果子。","textZh-Hant":"生死在舌頭的權下；喜愛它的，必吃它所結的果子。","themeEn":"Power of words","themeZh":"言语的能力","tags":["hate_speech","online_speech","cancel_culture","words_matter"],"applies":"Hate speech, online vitriol, cancel culture."},
-    {"id":"jas_3_5","reference":"James 3:5","textEn":"The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark.","textZh-Hans":"舌头在百体里也是最小的，却能说大话。看哪，最小的火能点着最大的树林。","textZh-Hant":"舌頭在百體裡也是最小的，卻能說大話。看哪，最小的火能點著最大的樹林。","themeEn":"Small spark, big fire","themeZh":"星星之火","tags":["viral","tweet","public_relations","scandal"],"applies":"Viral tweets, off-the-cuff comments igniting scandals."},
-    {"id":"prov_15_1","reference":"Proverbs 15:1","textEn":"A gentle answer turns away wrath, but a harsh word stirs up anger.","textZh-Hans":"回答柔和，使怒消退；言语暴戾，触动怒气。","textZh-Hant":"回答柔和，使怒消退；言語暴戾，觸動怒氣。","themeEn":"Gentle answer","themeZh":"柔和的回答","tags":["de_escalation","apology","mediation","tone"],"applies":"Public apologies, de-escalation, mediation."},
-    {"id":"col_4_6","reference":"Colossians 4:6","textEn":"Let your conversation be always full of grace, seasoned with salt.","textZh-Hans":"你们的言语要常常带着和气，好像用盐调和。","textZh-Hant":"你們的言語要常常帶著和氣，好像用鹽調和。","themeEn":"Speech with grace","themeZh":"言语调和","tags":["public_speaking","christian_witness","testimony"],"applies":"Christian leaders speaking publicly, testimony in hostile spaces."},
-
-    {"id":"gen_1_27","reference":"Genesis 1:27","textEn":"So God created mankind in his own image, in the image of God he created them; male and female he created them.","textZh-Hans":"神就照着自己的形象造人，乃是照着他的形象造男造女。","textZh-Hant":"神就照著自己的形象造人，乃是照著他的形象造男造女。","themeEn":"Image of God","themeZh":"神的形象","tags":["dignity","image_bearer","ai","personhood"],"applies":"Human dignity questions, AI vs human, personhood debates."},
-    {"id":"ps_8_4","reference":"Psalm 8:4","textEn":"What is mankind that you are mindful of them, human beings that you care for them?","textZh-Hans":"人算什么，你竟顾念他？","textZh-Hant":"人算什麼，你竟顧念他？","themeEn":"Human worth","themeZh":"人的价值","tags":["dignity","cosmic_perspective","value"],"applies":"Big-picture stories about human worth, space exploration, cosmic context."},
-    {"id":"ps_24_1","reference":"Psalm 24:1","textEn":"The earth is Yahweh's, and everything in it, the world, and all who live in it.","textZh-Hans":"地和其中所充满的，世界和住在其间的，都属雅伟。","textZh-Hant":"地和其中所充滿的，世界和住在其間的，都屬雅偉。","themeEn":"Earth belongs to God","themeZh":"全地属神","tags":["climate","environment","ecology","conservation","stewardship"],"applies":"Climate, environment, ecology, conservation."},
-    {"id":"gen_2_15","reference":"Genesis 2:15","textEn":"Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.","textZh-Hans":"雅伟神将那人安置在伊甸园，使他修理看守。","textZh-Hant":"雅偉神將那人安置在伊甸園，使他修理看守。","themeEn":"Creation care","themeZh":"看守受造界","tags":["climate_change","pollution","sustainability","biodiversity"],"applies":"Climate change, pollution, biodiversity loss."},
-    {"id":"rom_8_22","reference":"Romans 8:22","textEn":"We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.","textZh-Hans":"我们知道，一切受造之物一同叹息、劳苦，直到如今。","textZh-Hant":"我們知道，一切受造之物一同嘆息、勞苦，直到如今。","themeEn":"Creation's groan","themeZh":"受造叹息","tags":["natural_disaster","earthquake","flood","ecosystem"],"applies":"Natural disasters, ecosystem collapse, environmental tragedies."},
-
-    {"id":"heb_9_27","reference":"Hebrews 9:27","textEn":"Just as people are destined to die once, and after that to face judgment.","textZh-Hans":"按着定命，人人都有一死，死后且有审判。","textZh-Hant":"按著定命，人人都有一死，死後且有審判。","themeEn":"Mortality","themeZh":"必有一死","tags":["death","obituary","aging","mortality"],"applies":"Notable deaths, end-of-life stories, aging populations."},
-    {"id":"ps_90_12","reference":"Psalm 90:12","textEn":"Teach us to number our days, that we may gain a heart of wisdom.","textZh-Hans":"求你指教我们怎样数算自己的日子，好叫我们得着智慧的心。","textZh-Hant":"求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。","themeEn":"Numbering our days","themeZh":"数算日子","tags":["aging","time","life_span","health"],"applies":"Aging societies, life-expectancy data, time-pressure stories."},
-    {"id":"ecc_3_1","reference":"Ecclesiastes 3:1","textEn":"There is a time for everything, and a season for every activity under the heavens.","textZh-Hans":"凡事都有定期，天下万务都有定时。","textZh-Hant":"凡事都有定期，天下萬務都有定時。","themeEn":"A time for everything","themeZh":"凡事有定时","tags":["transition","season","cycles","change"],"applies":"Major transitions, retirements, end-of-an-era moments."},
-    {"id":"jn_11_25","reference":"John 11:25","textEn":"I am the resurrection and the life. The one who believes in me will live, even though they die.","textZh-Hans":"复活在我，生命也在我。信我的人虽然死了，也必复活。","textZh-Hant":"復活在我，生命也在我。信我的人雖然死了，也必復活。","themeEn":"Resurrection","themeZh":"复活","tags":["funeral","grief","memorial","ressurection_hope"],"applies":"Funerals of believers, hope beyond death."},
-
-    {"id":"ps_147_3","reference":"Psalm 147:3","textEn":"He heals the brokenhearted and binds up their wounds.","textZh-Hans":"他医好伤心的人，裹好他们的伤处。","textZh-Hant":"他醫好傷心的人，裹好他們的傷處。","themeEn":"Healing the broken","themeZh":"医治伤心","tags":["mental_health","depression","anxiety","trauma"],"applies":"Mental health crises, trauma recovery."},
-    {"id":"matt_11_28","reference":"Matthew 11:28","textEn":"Come to me, all you who are weary and burdened, and I will give you rest.","textZh-Hans":"凡劳苦担重担的人，可以到我这里来，我就使你们得安息。","textZh-Hant":"凡勞苦擔重擔的人，可以到我這裡來，我就使你們得安息。","themeEn":"Rest in Christ","themeZh":"得安息","tags":["burnout","stress","overwork","exhaustion"],"applies":"Burnout, overwork, stress epidemics."},
-    {"id":"ps_34_18","reference":"Psalm 34:18","textEn":"Yahweh is close to the brokenhearted and saves those who are crushed in spirit.","textZh-Hans":"雅伟靠近伤心的人，拯救灵性痛悔的人。","textZh-Hant":"雅偉靠近傷心的人，拯救靈性痛悔的人。","themeEn":"Near to the broken","themeZh":"靠近伤心人","tags":["depression","suicide","despair","mental_anguish"],"applies":"Suicide, deep depression, mental anguish stories."},
-    {"id":"jas_5_14","reference":"James 5:14","textEn":"Is anyone among you sick? Let them call the elders of the church to pray over them.","textZh-Hans":"你们中间有病了的呢，他就该请教会的长老来；他们可以奉主的名用油抹他，为他祷告。","textZh-Hant":"你們中間有病了的呢，他就該請教會的長老來；他們可以奉主的名用油抹他，為他禱告。","themeEn":"Pray for the sick","themeZh":"为病人代祷","tags":["illness","disease","epidemic","cancer","chronic_illness"],"applies":"Illness, disease outbreaks, healthcare stories."},
-
-    {"id":"matt_6_14","reference":"Matthew 6:14","textEn":"For if you forgive other people when they sin against you, your heavenly Father will also forgive you.","textZh-Hans":"你们饶恕人的过犯，你们的天父也必饶恕你们的过犯。","textZh-Hant":"你們饒恕人的過犯，你們的天父也必饒恕你們的過犯。","themeEn":"Forgiveness","themeZh":"饶恕","tags":["forgiveness","reconciliation","truth_commission"],"applies":"Truth commissions, public apologies, reconciliation efforts."},
-    {"id":"col_3_13","reference":"Colossians 3:13","textEn":"Bear with each other and forgive one another if any of you has a grievance against someone.","textZh-Hans":"倘若这人与那人有嫌隙，总要彼此包容，彼此饶恕。","textZh-Hant":"倘若這人與那人有嫌隙，總要彼此包容，彼此饒恕。","themeEn":"Bearing with one another","themeZh":"彼此包容","tags":["workplace","family_dispute","grudge"],"applies":"Workplace conflicts, family disputes, lingering grievances."},
-    {"id":"2cor_5_18","reference":"2 Corinthians 5:18","textEn":"All this is from God, who reconciled us to himself through Christ and gave us the ministry of reconciliation.","textZh-Hans":"这一切都是出于神；他借着基督使我们与他和好，又将劝人与他和好的职分赐给我们。","textZh-Hant":"這一切都是出於神；他藉著基督使我們與他和好，又將勸人與他和好的職分賜給我們。","themeEn":"Ministry of reconciliation","themeZh":"和好的职分","tags":["peacebuilding","mediation","ngo","peace_process"],"applies":"Peace processes, mediation, NGO reconciliation work."},
-    {"id":"prov_25_21","reference":"Proverbs 25:21","textEn":"If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink.","textZh-Hans":"你的仇敌若饿了，就给他饭吃；若渴了，就给他水喝。","textZh-Hant":"你的仇敵若餓了，就給他飯吃；若渴了，就給他水喝。","themeEn":"Kindness to enemies","themeZh":"善待仇敌","tags":["enemy","prisoner_of_war","humanitarian"],"applies":"Humanitarian aid to opponents, prisoner-of-war stories."},
-
-    {"id":"prov_16_18","reference":"Proverbs 16:18","textEn":"Pride goes before destruction, a haughty spirit before a fall.","textZh-Hans":"骄傲在败坏以先；狂心在跌倒之前。","textZh-Hant":"驕傲在敗壞以先；狂心在跌倒之前。","themeEn":"Pride before fall","themeZh":"骄傲必败","tags":["downfall","ceo_resignation","dictator_fall","empire_decline"],"applies":"Downfalls — celebrity, corporate, political."},
-    {"id":"ps_75_7","reference":"Psalm 75:7","textEn":"It is God who judges: He brings one down, he exalts another.","textZh-Hans":"惟有神断定；他使这人降卑，使那人升高。","textZh-Hant":"惟有神斷定；他使這人降卑，使那人升高。","themeEn":"God lifts and lowers","themeZh":"神升降","tags":["promotion","demotion","unexpected_rise","dramatic_fall"],"applies":"Surprise promotions, dramatic falls, election upsets."},
-    {"id":"jas_4_6","reference":"James 4:6","textEn":"God opposes the proud but shows favor to the humble.","textZh-Hans":"神阻挡骄傲的人，赐恩给谦卑的人。","textZh-Hant":"神阻擋驕傲的人，賜恩給謙卑的人。","themeEn":"Grace to the humble","themeZh":"赐恩谦卑人","tags":["humility","arrogance","servant_leader"],"applies":"Stories of servant leadership vs ego-driven leaders."},
-    {"id":"phil_2_3","reference":"Philippians 2:3","textEn":"Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.","textZh-Hans":"凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。","textZh-Hant":"凡事不可結黨，不可貪圖虛浮的榮耀；只要存心謙卑，各人看別人比自己強。","themeEn":"Selfless humility","themeZh":"无私的谦卑","tags":["partisanship","tribalism","ego","fame"],"applies":"Partisan politics, celebrity culture, ego clashes."},
-
-    {"id":"1jn_5_21","reference":"1 John 5:21","textEn":"Dear children, keep yourselves from idols.","textZh-Hans":"小子们哪，你们要自守，远避偶像。","textZh-Hant":"小子們哪，你們要自守，遠避偶像。","themeEn":"Beware idols","themeZh":"远避偶像","tags":["consumerism","celebrity_worship","tech_addiction","fan_culture"],"applies":"Celebrity worship, tech addiction, consumerism."},
-    {"id":"ex_20_3","reference":"Exodus 20:3","textEn":"You shall have no other gods before me.","textZh-Hans":"除了我以外，你不可有别的神。","textZh-Hant":"除了我以外，你不可有別的神。","themeEn":"No other gods","themeZh":"独一真神","tags":["ideology","cult","extremism","nationalism"],"applies":"Ideological cults, extremist movements, nationalism elevated to religion."},
-    {"id":"matt_6_19","reference":"Matthew 6:19","textEn":"Do not store up for yourselves treasures on earth, where moths and vermin destroy.","textZh-Hans":"不要为自己积攒财宝在地上；地上有虫子咬，能锈坏。","textZh-Hant":"不要為自己積攢財寶在地上；地上有蟲子咬，能銹壞。","themeEn":"Earthly treasures","themeZh":"地上财宝","tags":["materialism","crypto_collapse","stock_crash","luxury"],"applies":"Wealth-loss stories, crypto crashes, market crashes."},
-
-    {"id":"gal_3_28","reference":"Galatians 3:28","textEn":"There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.","textZh-Hans":"并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。","textZh-Hant":"並不分猶太人、希利尼人，自主的、為奴的，或男或女，因為你們在基督耶穌裡都成為一了。","themeEn":"One in Christ","themeZh":"基督里合一","tags":["race","ethnic_unity","class","gender"],"applies":"Racial unity, class divisions, identity-based conflict."},
-    {"id":"acts_17_26","reference":"Acts 17:26","textEn":"From one man he made all the nations, that they should inhabit the whole earth.","textZh-Hans":"他从一本造出万族的人，住在全地上。","textZh-Hant":"他從一本造出萬族的人，住在全地上。","themeEn":"All nations from one","themeZh":"万族同源","tags":["race","nationalism","tribalism","ethnocentrism"],"applies":"Ethnic nationalism, tribalism, white-supremacist movements."},
-    {"id":"rev_7_9","reference":"Revelation 7:9","textEn":"A great multitude that no one could count, from every nation, tribe, people and language, standing before the throne.","textZh-Hans":"许多的人，没有人能数过来，是从各国、各族、各民、各方来的，站在宝座……前。","textZh-Hant":"許多的人，沒有人能數過來，是從各國、各族、各民、各方來的，站在寶座……前。","themeEn":"Every tribe before the throne","themeZh":"万民立王前","tags":["multicultural","global_church","unity","worship"],"applies":"Global worship, multicultural celebrations, mission stories."},
-
-    {"id":"jas_1_5","reference":"James 1:5","textEn":"If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.","textZh-Hans":"你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。","textZh-Hant":"你們中間若有缺少智慧的，應當求那厚賜與眾人、也不斥責人的神，主就必賜給他。","themeEn":"Ask God for wisdom","themeZh":"求神赐智慧","tags":["decisions","leadership","judgement","crisis"],"applies":"Major decisions, leaders facing impossible choices."},
-    {"id":"prov_3_5","reference":"Proverbs 3:5","textEn":"Trust in Yahweh with all your heart and lean not on your own understanding.","textZh-Hans":"你要专心仰赖雅伟，不可倚靠自己的聪明。","textZh-Hant":"你要專心仰賴雅偉，不可倚靠自己的聰明。","themeEn":"Trust over understanding","themeZh":"信靠胜过聪明","tags":["uncertainty","ai","human_judgment","futurism"],"applies":"Big-tech futurism, AI confidence, human limits."},
-    {"id":"prov_9_10","reference":"Proverbs 9:10","textEn":"The fear of Yahweh is the beginning of wisdom, and knowledge of the Holy One is understanding.","textZh-Hans":"敬畏雅伟是智慧的开端；认识至圣者便是聪明。","textZh-Hant":"敬畏雅偉是智慧的開端；認識至聖者便是聰明。","themeEn":"Fear of God = wisdom","themeZh":"敬畏神是智慧","tags":["secularism","education_collapse","moral_compass"],"applies":"Educated foolishness — credentials without wisdom."},
-
-    {"id":"phil_4_6","reference":"Philippians 4:6","textEn":"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.","textZh-Hans":"应当一无挂虑，只要凡事藉着祷告、祈求和感谢，将你们所要的告诉神。","textZh-Hant":"應當一無掛慮，只要凡事藉著禱告、祈求和感謝，將你們所要的告訴神。","themeEn":"Anxiety to prayer","themeZh":"忧虑化祷告","tags":["anxiety","panic","mental_health","uncertainty"],"applies":"Anxiety stories, panic responses, mental-health awareness."},
-    {"id":"isa_41_10","reference":"Isaiah 41:10","textEn":"So do not fear, for I am with you; do not be dismayed, for I am your God.","textZh-Hans":"你不要害怕，因为我与你同在；不要惊惶，因为我是你的神。","textZh-Hant":"你不要害怕，因為我與你同在；不要驚惶，因為我是你的神。","themeEn":"God is with us","themeZh":"神与你同在","tags":["fear","threat","invasion","existential"],"applies":"Fearful headlines — existential threats, looming dangers."},
-    {"id":"2tim_1_7","reference":"2 Timothy 1:7","textEn":"For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.","textZh-Hans":"神赐给我们，不是胆怯的心，乃是刚强、仁爱、谨守的心。","textZh-Hant":"神賜給我們，不是膽怯的心，乃是剛強、仁愛、謹守的心。","themeEn":"Power, love, self-control","themeZh":"刚强、仁爱、谨守","tags":["fear","panic","public_speaking","courage"],"applies":"Mass-panic responses, fear-driven politics, calls for courage."},
-    {"id":"ps_23_4","reference":"Psalm 23:4","textEn":"Even though I walk through the darkest valley, I will fear no evil, for you are with me.","textZh-Hans":"我虽然行过死荫的幽谷，也不怕遭害，因为你与我同在。","textZh-Hant":"我雖然行過死蔭的幽谷，也不怕遭害，因為你與我同在。","themeEn":"Through the valley","themeZh":"穿越死荫幽谷","tags":["death","cancer","war_zone","life_threatening"],"applies":"Life-threatening situations, war zones, terminal diagnoses."},
-    {"id":"ps_46_1","reference":"Psalm 46:1","textEn":"God is our refuge and strength, an ever-present help in trouble.","textZh-Hans":"神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。","textZh-Hant":"神是我們的避難所，是我們的力量，是我們在患難中隨時的幫助。","themeEn":"Refuge in trouble","themeZh":"患难中的避难所","tags":["disaster","emergency","crisis","shelter"],"applies":"Natural disasters, emergencies, crisis points."},
-
-    {"id":"deut_6_5","reference":"Deuteronomy 6:5","textEn":"Love Yahweh your God with all your heart and with all your soul and with all your strength.","textZh-Hans":"你要尽心、尽性、尽力爱雅伟你的神。","textZh-Hant":"你要盡心、盡性、盡力愛雅偉你的神。","themeEn":"Whole-hearted love","themeZh":"全心爱神","tags":["worship","devotion","lukewarm","spiritual_drift"],"applies":"Spiritual drift, lukewarm faith, recovery of devotion."},
-    {"id":"matt_22_39","reference":"Matthew 22:39","textEn":"Love your neighbor as yourself.","textZh-Hans":"要爱人如己。","textZh-Hant":"要愛人如己。","themeEn":"Love neighbor","themeZh":"爱人如己","tags":["neighbor","community","kindness","social_fabric"],"applies":"Community-building stories, acts of kindness, social-fabric repair."},
-    {"id":"jn_13_35","reference":"John 13:35","textEn":"By this everyone will know that you are my disciples, if you love one another.","textZh-Hans":"你们若有彼此相爱的心，众人因此就认出你们是我的门徒了。","textZh-Hant":"你們若有彼此相愛的心，眾人因此就認出你們是我的門徒了。","themeEn":"Mark of disciples","themeZh":"门徒的记号","tags":["church_unity","christian_witness","reputation"],"applies":"Christian witness, church-public-image stories."},
-    {"id":"1cor_13_13","reference":"1 Corinthians 13:13","textEn":"And now these three remain: faith, hope and love. But the greatest of these is love.","textZh-Hans":"如今常存的有信，有望，有爱这三样，其中最大的是爱。","textZh-Hant":"如今常存的有信，有望，有愛這三樣，其中最大的是愛。","themeEn":"Faith, hope, love","themeZh":"信望爱","tags":["enduring_values","transcendent","heart"],"applies":"Stories that transcend the news cycle and call us back to enduring values."},
-
-    {"id":"job_12_7","reference":"Job 12:7-9","textEn":"But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you.","textZh-Hans":"你且问走兽，走兽必指教你；又问空中的飞鸟，飞鸟必告诉你。或与地说话，地必指教你；海中的鱼也必向你说明。","textZh-Hant":"你且問走獸，走獸必指教你；又問空中的飛鳥，飛鳥必告訴你。或與地說話，地必指教你；海中的魚也必向你說明。","themeEn":"Wisdom from creation","themeZh":"受造之物的教导","tags":["science","research","discovery","creation","biology"],"applies":"Scientific discovery, research breakthroughs — knowledge mediated through observation of creation."},
-    {"id":"dan_12_4","reference":"Daniel 12:4","textEn":"But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.","textZh-Hans":"但以理啊，你要隐藏这话，封闭这书，直到末时。必有多人来往奔跑，知识就必增长。","textZh-Hant":"但以理啊，你要隱藏這話，封閉這書，直到末時。必有多人來往奔跑，知識就必增長。","themeEn":"Knowledge increasing","themeZh":"知识增长","tags":["technology","knowledge_explosion","ai","internet","information_age"],"applies":"AI breakthroughs, information explosion, the rapid acceleration of human knowledge."},
-    {"id":"1cor_8_1","reference":"1 Corinthians 8:1","textEn":"Knowledge puffs up while love builds up.","textZh-Hans":"知识是叫人自高自大，惟有爱心能造就人。","textZh-Hant":"知識是叫人自高自大，惟有愛心能造就人。","themeEn":"Knowledge vs love","themeZh":"知识与爱","tags":["ai_ethics","expertise","arrogance","tech_hubris","credentialism"],"applies":"AI hype, expert arrogance, technology disconnected from love of neighbor."},
-    {"id":"prov_27_12","reference":"Proverbs 27:12","textEn":"The prudent see danger and take refuge, but the simple keep going and pay the penalty.","textZh-Hans":"通达人见祸藏躲；愚蒙人前往受害。","textZh-Hant":"通達人見禍藏躲；愚蒙人前往受害。","themeEn":"Foreseeing danger","themeZh":"防患未然","tags":["ai_safety","risk","precaution","tech_regulation","foresight"],"applies":"AI safety debates, technology regulation, foreseeable harms ignored by the rush forward."},
-    {"id":"gen_11_6","reference":"Genesis 11:6","textEn":"Yahweh said, 'If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them.'","textZh-Hans":"雅伟说：「看哪，他们成为一样的人民，都是一样的言语，如今既做起这事来，以后他们所要做的事就没有不成就的了。」","textZh-Hant":"雅偉說：「看哪，他們成為一樣的人民，都是一樣的言語，如今既做起這事來，以後他們所要做的事就沒有不成就的了。」","themeEn":"Babel's ambition","themeZh":"巴别的雄心","tags":["babel","ai","agi","biotech","hubris","limitless_tech"],"applies":"Tower-of-Babel-style technology — AGI ambitions, biotech overreach, limitless-engineering dreams."},
-    {"id":"ps_139_14","reference":"Psalm 139:14","textEn":"I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.","textZh-Hans":"我要称谢你，因我受造奇妙可畏；你的作为奇妙，这是我心深知道的。","textZh-Hant":"我要稱謝你，因我受造奇妙可畏；你的作為奇妙，這是我心深知道的。","themeEn":"Wonderfully made","themeZh":"奇妙可畏的受造","tags":["biotech","genome","human_body","wonder","personhood","gene_editing"],"applies":"Genome editing, human enhancement, biotech debates — the body as wonder, not a draft to rewrite."},
-
-    {"id":"1kgs_19_4","reference":"1 Kings 19:4","textEn":"He came to a broom bush, sat down under it and prayed that he might die. 'I have had enough, Yahweh,' he said. 'Take my life; I am no better than my ancestors.'","textZh-Hans":"他自己在旷野走了一日的路程，来到一棵罗腾树下，就坐在那里求死，说：「雅伟啊，罢了！求你取我的性命，因为我不胜于我的列祖。」","textZh-Hant":"他自己在曠野走了一日的路程，來到一棵羅騰樹下，就坐在那裡求死，說：「雅偉啊，罷了！求你取我的性命，因為我不勝於我的列祖。」","themeEn":"Elijah's despair","themeZh":"以利亚的绝望","tags":["suicide","burnout","exhaustion","depression","spiritual_crisis"],"applies":"Suicide, suicidal ideation, severe burnout — even Elijah said 'I've had enough.'"},
-    {"id":"ps_42_11","reference":"Psalm 42:11","textEn":"Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.","textZh-Hans":"我的心哪，你为何忧闷？为何在我里面烦躁？应当仰望神，因我还要称赞他。他是我脸上的光荣，是我的神。","textZh-Hant":"我的心哪，你為何憂悶？為何在我裡面煩躁？應當仰望神，因我還要稱讚他。他是我臉上的光榮，是我的神。","themeEn":"Talking to your soul","themeZh":"向自己的心说话","tags":["depression","mental_health","despair","self_talk","hope"],"applies":"Depression, dark seasons, anchoring hope when feelings sink."},
-    {"id":"2cor_1_8","reference":"2 Corinthians 1:8","textEn":"We were under great pressure, far beyond our ability to endure, so that we despaired of life itself.","textZh-Hans":"我们被压太重，力不能胜，甚至连活命的指望都绝了。","textZh-Hant":"我們被壓太重，力不能勝，甚至連活命的指望都絕了。","themeEn":"Beyond endurance","themeZh":"力不能胜","tags":["despair","crisis","overwhelm","mental_health","ptsd"],"applies":"Stories of overwhelming pressure where life itself feels too heavy — even Paul named this."},
-    {"id":"mark_5_15","reference":"Mark 5:15","textEn":"When they came to Jesus, they saw the man who had been possessed by the legion of demons, sitting there, dressed and in his right mind; and they were afraid.","textZh-Hans":"他们来到耶稣那里，看见那被鬼附着的人，就是从前被群鬼所附的，坐着，穿上衣服，心里明白过来，他们就害怕。","textZh-Hant":"他們來到耶穌那裡，看見那被鬼附著的人，就是從前被群鬼所附的，坐著，穿上衣服，心裡明白過來，他們就害怕。","themeEn":"Restored to right mind","themeZh":"恢复清醒","tags":["mental_illness","recovery","psychiatric","stigma","healing"],"applies":"Mental health recovery, anti-stigma stories, psychiatric restoration."},
-
-    {"id":"1pet_3_7","reference":"1 Peter 3:7","textEn":"Husbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life.","textZh-Hans":"你们作丈夫的，也要按情理和妻子同住；因她比你软弱，与你一同承受生命之恩的，所以要敬重她，这样便叫你们的祷告没有阻碍。","textZh-Hant":"你們作丈夫的，也要按情理和妻子同住；因她比你軟弱，與你一同承受生命之恩的，所以要敬重她，這樣便叫你們的禱告沒有阻礙。","themeEn":"Honor in marriage","themeZh":"婚姻中的尊重","tags":["domestic_violence","marriage","respect","abuse","spousal_abuse"],"applies":"Domestic violence, spousal abuse, marriages where one partner is dishonored."},
-    {"id":"prov_15_17","reference":"Proverbs 15:17","textEn":"Better a small serving of vegetables with love than a fattened calf with hatred.","textZh-Hans":"吃素菜，彼此相爱，强如吃肥牛，彼此相恨。","textZh-Hant":"吃素菜，彼此相愛，強如吃肥牛，彼此相恨。","themeEn":"Love over plenty","themeZh":"爱胜过丰盛","tags":["family","household","love","wealth","tension"],"applies":"Wealthy-but-broken homes, family dysfunction, the hidden cost of conflict."},
-    {"id":"ps_68_5","reference":"Psalm 68:5-6","textEn":"A father to the fatherless, a defender of widows, is God in his holy dwelling. God sets the lonely in families.","textZh-Hans":"神在他的圣所作孤儿的父，作寡妇的伸冤者。神叫孤独的有家。","textZh-Hant":"神在他的聖所作孤兒的父，作寡婦的伸冤者。神叫孤獨的有家。","themeEn":"Family for the lonely","themeZh":"为孤独者立家","tags":["adoption","fatherless","orphan","foster_care","single_parent"],"applies":"Adoption, foster care, orphan crises, single-parent families."},
-    {"id":"josh_24_15","reference":"Joshua 24:15","textEn":"But as for me and my household, we will serve Yahweh.","textZh-Hans":"至于我和我家，我们必定事奉雅伟。","textZh-Hant":"至於我和我家，我們必定事奉雅偉。","themeEn":"My household will serve","themeZh":"我家事奉雅伟","tags":["family","household","faith","commitment","parenting"],"applies":"Family faith decisions, parenting in a hostile culture, household integrity."},
-    {"id":"mal_4_6","reference":"Malachi 4:6","textEn":"He will turn the hearts of the parents to their children, and the hearts of the children to their parents.","textZh-Hans":"他必使父亲的心转向儿女，儿女的心转向父亲。","textZh-Hant":"他必使父親的心轉向兒女，兒女的心轉向父親。","themeEn":"Hearts turning home","themeZh":"父子彼此回转","tags":["estrangement","reconciliation","father","children","family_repair"],"applies":"Estranged parents and children, generational reconciliation, family repair."},
-
-    {"id":"lev_19_33","reference":"Leviticus 19:33-34","textEn":"When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.","textZh-Hans":"若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。","textZh-Hant":"若有外人在你們國中和你同居，就不可欺負他。和你們同居的外人，你們要看他如本地人一樣，並要愛他如己，因為你們在埃及地也作過寄居的。","themeEn":"Foreigner as native-born","themeZh":"待寄居者如本族","tags":["xenophobia","immigration","racism","foreigner","equal_treatment"],"applies":"Xenophobic attacks, anti-immigrant policy, ethnic hostility."},
-    {"id":"eph_2_14","reference":"Ephesians 2:14","textEn":"For he himself is our peace, who has made the two groups one and has destroyed the barrier, the dividing wall of hostility.","textZh-Hans":"因他使我们和睦，将两下合而为一，拆毁了中间隔断的墙。","textZh-Hant":"因他使我們和睦，將兩下合而為一，拆毀了中間隔斷的牆。","themeEn":"Wall of hostility down","themeZh":"拆毁敌意的墙","tags":["racial_reconciliation","division","wall","hostility","ethnic_peace"],"applies":"Racial reconciliation, breaking ethnic walls, divided communities."},
-    {"id":"jn_4_9","reference":"John 4:9","textEn":"The Samaritan woman said to him, 'You are a Jew and I am a Samaritan woman. How can you ask me for a drink?' (For Jews do not associate with Samaritans.)","textZh-Hans":"撒玛利亚的妇人对他说：「你既是犹太人，怎么向我一个撒玛利亚妇人要水喝呢？」原来犹太人和撒玛利亚人没有来往。","textZh-Hant":"撒瑪利亞的婦人對他說：「你既是猶太人，怎麼向我一個撒瑪利亞婦人要水喝呢？」原來猶太人和撒瑪利亞人沒有來往。","themeEn":"Across ethnic lines","themeZh":"跨越族群","tags":["ethnic_division","cross_cultural","prejudice","conversation"],"applies":"Cross-cultural moments, breaking long-held ethnic taboos, unexpected friendship."},
-
-    {"id":"jn_11_35","reference":"John 11:35","textEn":"Jesus wept.","textZh-Hans":"耶稣哭了。","textZh-Hant":"耶穌哭了。","themeEn":"Jesus wept","themeZh":"耶稣哭了","tags":["grief","mourning","loss","tears","death"],"applies":"Profound grief — the proper response to death is tears, not platitudes."},
-    {"id":"2cor_4_16","reference":"2 Corinthians 4:16","textEn":"Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day.","textZh-Hans":"所以，我们不丧胆。外体虽然毁坏，内心却一天新似一天。","textZh-Hant":"所以，我們不喪膽。外體雖然毀壞，內心卻一天新似一天。","themeEn":"Wasting yet renewed","themeZh":"外体毁坏内心更新","tags":["terminal_illness","chronic_decline","aging_body","hope","cancer"],"applies":"Terminal illness, chronic decline, body wearing out — inner renewal alongside outer loss."},
-    {"id":"phil_1_21","reference":"Philippians 1:21","textEn":"For to me, to live is Christ and to die is gain.","textZh-Hans":"因我活着就是基督，我死了就有益处。","textZh-Hant":"因我活著就是基督，我死了就有益處。","themeEn":"Living and dying","themeZh":"或生或死","tags":["death","martyr","mortality","faithful_death","gain"],"applies":"Notable Christian deaths, martyrs, holy dying — the believer's view of death."},
-
-    {"id":"ps_71_9","reference":"Psalm 71:9","textEn":"Do not cast me away when I am old; do not forsake me when my strength is gone.","textZh-Hans":"我年老的时候，求你不要丢弃我；我力气衰弱的时候，求你不要离弃我。","textZh-Hant":"我年老的時候，求你不要丟棄我；我力氣衰弱的時候，求你不要離棄我。","themeEn":"Don't forsake the old","themeZh":"年老不被丢弃","tags":["aging","elder_care","abandonment","dementia","loneliness"],"applies":"Elder abandonment, aging crises, dementia care, lonely deaths."},
-    {"id":"prov_16_31","reference":"Proverbs 16:31","textEn":"Gray hair is a crown of splendor; it is attained in the way of righteousness.","textZh-Hans":"白发是荣耀的冠冕，在公义的道上必能得着。","textZh-Hant":"白髮是榮耀的冠冕，在公義的道上必能得著。","themeEn":"Crown of gray hair","themeZh":"白发的荣耀","tags":["aging","elderly","wisdom","honor","longevity"],"applies":"Honoring elders, longevity, late-life wisdom in a youth-obsessed culture."},
-    {"id":"lev_19_32","reference":"Leviticus 19:32","textEn":"Stand up in the presence of the aged, show respect for the elderly and revere your God.","textZh-Hans":"在白发的人面前，你要站起来；也要尊敬老人，又要敬畏你的神。","textZh-Hant":"在白髮的人面前，你要站起來；也要尊敬老人，又要敬畏你的神。","themeEn":"Honor the aged","themeZh":"尊敬长者","tags":["elder_care","respect","ageism","nursing_home"],"applies":"Ageism, elder neglect, nursing-home scandals."},
-    {"id":"isa_46_4","reference":"Isaiah 46:4","textEn":"Even to your old age and gray hairs I am he, I am he who will sustain you. I have made you and I will carry you; I will sustain you and I will rescue you.","textZh-Hans":"直到你们年老，我仍这样；直到你们发白，我仍怀搋。我已造作，也必保抱；我必怀抱，也必拯救。","textZh-Hant":"直到你們年老，我仍這樣；直到你們髮白，我仍懷搋。我已造作，也必保抱；我必懷抱，也必拯救。","themeEn":"Carried into old age","themeZh":"年老仍被怀抱","tags":["aging","dementia","end_of_life","sustained","carried"],"applies":"End-of-life care, dementia, fears of growing old alone."},
-    {"id":"ecc_12_1","reference":"Ecclesiastes 12:1","textEn":"Remember your Creator in the days of your youth, before the days of trouble come and the years approach when you will say, 'I find no pleasure in them.'","textZh-Hans":"你趁着年幼，衰败的日子尚未来到，就是你所说，我毫无喜乐的那些年日未曾临近之先，当记念造你的主。","textZh-Hant":"你趁著年幼，衰敗的日子尚未來到，就是你所說，我毫無喜樂的那些年日未曾臨近之先，當記念造你的主。","themeEn":"Remember in youth","themeZh":"趁年幼记念造主","tags":["aging","youth","decline","memory","finitude"],"applies":"Aging societies, youth-aging contrasts, finitude — life remembered before it ends."},
-
-    {"id":"2cor_5_17","reference":"2 Corinthians 5:17","textEn":"Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!","textZh-Hans":"若有人在基督里，他就是新造的人，旧事已过，都变成新的了。","textZh-Hant":"若有人在基督裡，他就是新造的人，舊事已過，都變成新的了。","themeEn":"New creation in Christ","themeZh":"在基督里成新造","tags":["identity","new_creation","change","transformation","sexuality"],"applies":"Identity-rooted controversies — the deeper truth that selfhood is reshaped in Christ."},
-    {"id":"gal_2_20","reference":"Galatians 2:20","textEn":"I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God.","textZh-Hans":"我已经与基督同钉十字架，现在活着的不再是我，乃是基督在我里面活着；并且我如今在肉身活着，是因信神的儿子而活。","textZh-Hant":"我已經與基督同釘十字架，現在活著的不再是我，乃是基督在我裡面活著；並且我如今在肉身活著，是因信神的兒子而活。","themeEn":"Christ lives in me","themeZh":"基督活在我里面","tags":["identity","self","ego","christ_in_us","gender"],"applies":"Identity questions where the answer lies beyond self-definition."},
-    {"id":"eph_2_10","reference":"Ephesians 2:10","textEn":"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.","textZh-Hans":"我们原是他的工作，在基督耶稣里造成的，为要叫我们行善，就是神所预备叫我们行的。","textZh-Hant":"我們原是他的工作，在基督耶穌裡造成的，為要叫我們行善，就是神所預備叫我們行的。","themeEn":"God's handiwork","themeZh":"神的工作","tags":["identity","worth","purpose","handiwork","calling"],"applies":"Identity, worth, and purpose stories — the dignity of being made by God."},
-    {"id":"1cor_6_19","reference":"1 Corinthians 6:19","textEn":"Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own.","textZh-Hans":"岂不知你们的身子就是圣灵的殿吗？这圣灵是从神而来，住在你们里面的。并且你们不是自己的人。","textZh-Hant":"豈不知你們的身子就是聖靈的殿嗎？這聖靈是從神而來，住在你們裡面的。並且你們不是自己的人。","themeEn":"Body as temple","themeZh":"身子是圣灵的殿","tags":["body","sexuality","identity","temple","not_your_own"],"applies":"Body-and-self questions where the body is treated as gift, not commodity."},
-
-    {"id":"lev_19_35","reference":"Leviticus 19:35-36","textEn":"Do not use dishonest standards when measuring length, weight or quantity. Use honest scales and honest weights, an honest ephah and an honest hin.","textZh-Hans":"你们施行审判，不可行不义；在尺、秤、升、斗上也是如此。要用公道天平、公道法码、公道升斗、公道秤。","textZh-Hant":"你們施行審判，不可行不義；在尺、秤、升、斗上也是如此。要用公道天平、公道法碼、公道升斗、公道秤。","themeEn":"Honest measures","themeZh":"公道的尺秤","tags":["fraud","accounting_fraud","measurement","honesty","corporate_scandal"],"applies":"Accounting fraud, fake metrics, corporate measurement scandals."},
-    {"id":"prov_11_1","reference":"Proverbs 11:1","textEn":"Yahweh detests dishonest scales, but accurate weights find favor with him.","textZh-Hans":"诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。","textZh-Hant":"詭詐的天平為雅偉所憎惡；公平的法碼為他所喜悅。","themeEn":"Yahweh hates fraud","themeZh":"雅伟厌恶诡诈","tags":["fraud","fair_trade","corruption","commerce","price_gouging"],"applies":"Trade fraud, market manipulation, false advertising, price gouging."},
-    {"id":"luke_16_10","reference":"Luke 16:10","textEn":"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.","textZh-Hans":"人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。","textZh-Hant":"人在最小的事上忠心，在大事上也忠心；在最小的事上不義，在大事上也不義。","themeEn":"Faithful in little","themeZh":"小事上忠心","tags":["integrity","small_things","trust","embezzlement","compliance"],"applies":"Embezzlement, compliance failures, small lies that scale into scandals."},
-    {"id":"jas_5_4","reference":"James 5:4","textEn":"Look! The wages you failed to pay the workers who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of the Lord Almighty.","textZh-Hans":"工人给你们收割庄稼，你们亏欠他们的工钱，这工钱有声音呼叫，并且那收割之人的冤声已经入了万军之主的耳了。","textZh-Hant":"工人給你們收割莊稼，你們虧欠他們的工錢，這工錢有聲音呼叫，並且那收割之人的冤聲已經入了萬軍之主的耳了。","themeEn":"Cries of unpaid workers","themeZh":"工人的冤声","tags":["wage_theft","exploitation","gig_economy","labor","sweatshop"],"applies":"Gig-economy abuses, wage theft, sweatshop scandals — wages that cry out to heaven."},
-
-    {"id":"deut_6_6","reference":"Deuteronomy 6:6-7","textEn":"These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up.","textZh-Hans":"我今日所吩咐你的话都要记在心上，也要殷勤教训你的儿女。无论你坐在家里，行在路上，躺下，起来，都要谈论。","textZh-Hant":"我今日所吩咐你的話都要記在心上，也要殷勤教訓你的兒女。無論你坐在家裡，行在路上，躺下，起來，都要談論。","themeEn":"Pass it to children","themeZh":"传给儿女","tags":["parenting","formation","faith_transmission","education","screens"],"applies":"Faith and values education, parenting in a screen-first age."},
-    {"id":"mark_10_14","reference":"Mark 10:14","textEn":"Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.","textZh-Hans":"让小孩子到我这里来，不要禁止他们；因为在神国的，正是这样的人。","textZh-Hant":"讓小孩子到我這裡來，不要禁止他們；因為在神國的，正是這樣的人。","themeEn":"Children welcome","themeZh":"让小孩到我这来","tags":["children","child_protection","kingdom","welcome","child_safety"],"applies":"Child welfare, protecting children, child-friendly policies and ministries."},
-    {"id":"ps_78_4","reference":"Psalm 78:4","textEn":"We will not hide them from their descendants; we will tell the next generation the praiseworthy deeds of Yahweh, his power, and the wonders he has done.","textZh-Hans":"我们不将这些事向他们的子孙隐瞒，要将雅伟的美德和他的能力，并他奇妙的作为，述说给后代听。","textZh-Hant":"我們不將這些事向他們的子孫隱瞞，要將雅偉的美德和他的能力，並他奇妙的作為，述說給後代聽。","themeEn":"Telling the next generation","themeZh":"传给后代","tags":["generational","memory","history","education","heritage"],"applies":"History education debates, generational memory, what we owe the young."},
-    {"id":"prov_1_7","reference":"Proverbs 1:7","textEn":"The fear of Yahweh is the beginning of knowledge, but fools despise wisdom and instruction.","textZh-Hans":"敬畏雅伟是知识的开端；愚妄人藐视智慧和训诲。","textZh-Hant":"敬畏雅偉是知識的開端；愚妄人藐視智慧和訓誨。","themeEn":"Beginning of knowledge","themeZh":"知识的开端","tags":["education","knowledge","schools","university","credentials"],"applies":"University crises, anti-intellectualism, credentialed foolishness."},
-
-    {"id":"1cor_9_24","reference":"1 Corinthians 9:24","textEn":"Do you not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize.","textZh-Hans":"岂不知在场上赛跑的都跑，但得奖赏的只有一人？你们也当这样跑，好叫你们得着奖赏。","textZh-Hant":"豈不知在場上賽跑的都跑，但得獎賞的只有一人？你們也當這樣跑，好叫你們得著獎賞。","themeEn":"Run for the prize","themeZh":"为奖赏而跑","tags":["sports","race","competition","training","olympics"],"applies":"Major sporting events, athletic excellence, championship moments."},
-    {"id":"1cor_9_25","reference":"1 Corinthians 9:25","textEn":"Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.","textZh-Hans":"凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。","textZh-Hant":"凡較力爭勝的，諸事都有節制，他們不過是要得能壞的冠冕；我們卻是要得不能壞的冠冕。","themeEn":"Perishable vs eternal crown","themeZh":"能坏与不能坏的冠冕","tags":["athlete","discipline","fame","perishable","trophy"],"applies":"Olympics, championships, athletic discipline meeting fading glory."},
-    {"id":"2tim_4_7","reference":"2 Timothy 4:7","textEn":"I have fought the good fight, I have finished the race, I have kept the faith.","textZh-Hans":"那美好的仗我已经打过了，当跑的路我已经跑尽了，所信的道我已经守住了。","textZh-Hant":"那美好的仗我已經打過了，當跑的路我已經跑盡了，所信的道我已經守住了。","themeEn":"Race finished","themeZh":"跑尽当跑的路","tags":["retirement","legacy","finish","career","farewell"],"applies":"Athlete or career retirements, end-of-career tributes, capstone moments."},
-    {"id":"heb_12_1","reference":"Hebrews 12:1","textEn":"Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us.","textZh-Hans":"我们既有这许多的见证人，如同云彩围着我们，就当放下各样的重担，脱去容易缠累我们的罪，存心忍耐，奔那摆在我们前头的路程。","textZh-Hant":"我們既有這許多的見證人，如同雲彩圍著我們，就當放下各樣的重擔，脫去容易纏累我們的罪，存心忍耐，奔那擺在我們前頭的路程。","themeEn":"Run with perseverance","themeZh":"存心忍耐奔跑","tags":["endurance","race","perseverance","witnesses","comeback"],"applies":"Long careers, perseverance stories, comebacks against the odds."},
-    {"id":"prov_27_21","reference":"Proverbs 27:21","textEn":"The crucible for silver and the furnace for gold, but people are tested by their praise.","textZh-Hans":"鼎为炼银，炉为炼金，人的称赞也试炼人。","textZh-Hant":"鼎為煉銀，爐為煉金，人的稱讚也試煉人。","themeEn":"Tested by praise","themeZh":"称赞试炼人","tags":["fame","celebrity","praise","character","viral_fame"],"applies":"Celebrity scandals — how fame tests character, fan worship, viral fame."},
-
-    {"id":"matt_18_6","reference":"Matthew 18:6","textEn":"If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.","textZh-Hans":"凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。","textZh-Hant":"凡使這信我的一個小子跌倒的，倒不如把大磨石拴在這人的頸項上，沉在深海裡。","themeEn":"Woe to those who harm children","themeZh":"使小子跌倒的祸","tags":["child_abuse","predator","child_safety","accountability","cover_up"],"applies":"Child abuse, predator scandals, institutional cover-ups."},
-    {"id":"eph_4_32","reference":"Ephesians 4:32","textEn":"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.","textZh-Hans":"并要以恩慈相待，存怜悯的心，彼此饶恕，正如神在基督里饶恕了你们一样。","textZh-Hant":"並要以恩慈相待，存憐憫的心，彼此饒恕，正如神在基督裡饒恕了你們一樣。","themeEn":"Kind and compassionate","themeZh":"恩慈相待","tags":["kindness","online_kindness","compassion","empathy"],"applies":"Online cruelty, lack of empathy, calls for kindness in public discourse."},
-    {"id":"prov_12_18","reference":"Proverbs 12:18","textEn":"The words of the reckless pierce like swords, but the tongue of the wise brings healing.","textZh-Hans":"说话浮躁的，如刀刺人；智慧人的舌头却为医人的良药。","textZh-Hant":"說話浮躁的，如刀刺人；智慧人的舌頭卻為醫人的良藥。","themeEn":"Reckless words pierce","themeZh":"言语如刀","tags":["online_speech","cyberbullying","healing_words","social_media"],"applies":"Cyberbullying, reckless words online, healing speech needed."},
-    {"id":"ps_27_10","reference":"Psalm 27:10","textEn":"Though my father and mother forsake me, Yahweh will receive me.","textZh-Hans":"我父母离弃我，雅伟必收留我。","textZh-Hant":"我父母離棄我，雅偉必收留我。","themeEn":"When parents forsake","themeZh":"父母离弃我","tags":["abandonment","orphan","foster","rejection","unloved"],"applies":"Parental abandonment, orphans, foster-care stories, the unloved."},
-    {"id":"jn_8_7","reference":"John 8:7","textEn":"Let any one of you who is without sin be the first to throw a stone at her.","textZh-Hans":"你们中间谁是没有罪的，谁就可以先拿石头打她。","textZh-Hant":"你們中間誰是沒有罪的，誰就可以先拿石頭打她。","themeEn":"Without sin, throw first stone","themeZh":"无罪的先扔石头","tags":["mob","cancel_culture","public_shaming","mercy","pile_on"],"applies":"Public shaming, cancel culture, mob justice, social-media pile-ons."},
-    {"id":"eph_6_12","reference":"Ephesians 6:12","textEn":"For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.","textZh-Hans":"因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。","textZh-Hant":"因我們並不是與屬血氣的爭戰，乃是與那些執政的、掌權的、管轄這幽暗世界的，以及天空屬靈氣的惡魔爭戰。","themeEn":"Not against flesh and blood","themeZh":"并非与血气争战","tags":["spiritual_warfare","tribalism","ideology","unseen_battles","polarization"],"applies":"Stories framed as people-vs-people that are really about deeper forces — polarized politics, ideological wars."},
-    {"id":"matt_5_44","reference":"Matthew 5:44","textEn":"Love your enemies and pray for those who persecute you.","textZh-Hans":"要爱你们的仇敌，为那逼迫你们的祷告。","textZh-Hant":"要愛你們的仇敵，為那逼迫你們的禱告。","themeEn":"Love your enemies","themeZh":"爱仇敌","tags":["enemies","persecutor","love","prayer","political_enemy"],"applies":"Stories about loving political opponents, praying for persecutors, breaking enmity cycles."}
+ "_meta": {
+  "version": 1,
+  "description": "Curated verse corpus for the daily-news AI matcher. Each entry is tagged with topical applicability so a thinking-capable model (gemini-2.5-pro) can reason its way from a news story to the single verse that speaks most directly to its underlying spiritual / human question. Texts are public-domain or fair-use Christian-resource translations; YHWH is rendered as 'Yahweh' / '雅伟' / '雅偉' in line with the YsWords editorial preference applied at runtime.",
+  "totalVerses": 149,
+  "categories": [
+   "war_and_peace",
+   "justice_and_oppression",
+   "leadership_and_authority",
+   "compassion_and_the_poor",
+   "economy_and_work",
+   "truth_and_media",
+   "hope_and_endurance",
+   "persecution_and_faith",
+   "family_and_marriage",
+   "speech_and_words",
+   "creation_and_environment",
+   "death_and_mortality",
+   "healing_and_mental_health",
+   "forgiveness_and_reconciliation",
+   "pride_and_humility",
+   "idolatry_and_consumerism",
+   "identity_and_dignity",
+   "race_and_unity",
+   "wisdom_and_discernment",
+   "anxiety_and_fear",
+   "science_and_technology",
+   "aging_and_elder_care",
+   "sports_and_competition",
+   "child_protection"
   ]
+ },
+ "verses": [
+  {
+   "id": "matt_5_9",
+   "reference": "Matthew 5:9",
+   "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+   "textZh-Hans": "使人和睦的人有福了，因为他们必称为神的儿子。",
+   "textZh-Hant": "使人和睦的人有福了，因為他們必稱為神的兒子。",
+   "themeEn": "Peacemaking",
+   "themeZh": "和睦",
+   "tags": [
+    "war",
+    "ceasefire",
+    "peacemaking",
+    "mediation",
+    "conflict"
+   ],
+   "applies": "Stories about active peace-making, ceasefires, or someone refusing to escalate."
+  },
+  {
+   "id": "isa_2_4",
+   "reference": "Isaiah 2:4",
+   "textEn": "They will beat their swords into plowshares and their spears into pruning hooks.",
+   "textZh-Hans": "他们要将刀打成犁头，把枪打成镰刀。",
+   "textZh-Hant": "他們要將刀打成犁頭，把槍打成鐮刀。",
+   "themeEn": "Disarmament",
+   "themeZh": "化干戈为玉帛",
+   "tags": [
+    "war",
+    "disarmament",
+    "weapons",
+    "arms_race",
+    "military"
+   ],
+   "applies": "Arms control, military spending, weapons treaties — the prophetic vision of swords becoming tools."
+  },
+  {
+   "id": "rom_12_21",
+   "reference": "Romans 12:21",
+   "textEn": "Do not be overcome by evil, but overcome evil with good.",
+   "textZh-Hans": "你不可为恶所胜，反要以善胜恶。",
+   "textZh-Hant": "你不可為惡所勝，反要以善勝惡。",
+   "themeEn": "Overcoming evil with good",
+   "themeZh": "以善胜恶",
+   "tags": [
+    "evil",
+    "retaliation",
+    "cycle_of_violence",
+    "revenge",
+    "terrorism"
+   ],
+   "applies": "Cycles of retaliation, terrorism, the temptation to mirror evil with evil."
+  },
+  {
+   "id": "rom_12_18",
+   "reference": "Romans 12:18",
+   "textEn": "If it is possible, as far as it depends on you, live at peace with everyone.",
+   "textZh-Hans": "若是能行，总要尽力与众人和睦。",
+   "textZh-Hant": "若是能行，總要盡力與眾人和睦。",
+   "themeEn": "Pursuit of peace",
+   "themeZh": "追求和睦",
+   "tags": [
+    "diplomacy",
+    "peace_talks",
+    "disagreement",
+    "tension"
+   ],
+   "applies": "Diplomatic crises, broken negotiations, neighbor disputes."
+  },
+  {
+   "id": "ps_46_9",
+   "reference": "Psalm 46:9",
+   "textEn": "He makes wars cease to the ends of the earth; he breaks the bow and shatters the spear.",
+   "textZh-Hans": "他止息刀兵，直到地极；他折弓断枪。",
+   "textZh-Hant": "他止息刀兵，直到地極；他折弓斷槍。",
+   "themeEn": "God ends wars",
+   "themeZh": "神止息刀兵",
+   "tags": [
+    "war",
+    "weapons",
+    "global_conflict",
+    "despair"
+   ],
+   "applies": "Global wars, persistent conflicts where peace seems impossible."
+  },
+  {
+   "id": "matt_26_52",
+   "reference": "Matthew 26:52",
+   "textEn": "All who draw the sword will die by the sword.",
+   "textZh-Hans": "凡动刀的，必死在刀下。",
+   "textZh-Hant": "凡動刀的，必死在刀下。",
+   "themeEn": "Cycle of violence",
+   "themeZh": "动刀者必亡于刀",
+   "tags": [
+    "violence",
+    "retaliation",
+    "cycle",
+    "gun_violence"
+   ],
+   "applies": "Gun violence, escalating force, vigilante revenge."
+  },
+  {
+   "id": "micah_6_8",
+   "reference": "Micah 6:8",
+   "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+   "textZh-Hans": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+   "textZh-Hant": "雅偉向你所要的是什麼呢？只要你行公義，好憐憫，存謙卑的心，與你的神同行。",
+   "themeEn": "Justice and mercy",
+   "themeZh": "公义与怜悯",
+   "tags": [
+    "justice",
+    "mercy",
+    "corruption",
+    "accountability",
+    "ethics"
+   ],
+   "applies": "Anti-corruption, ethical leadership stories where justice and compassion meet."
+  },
+  {
+   "id": "amos_5_24",
+   "reference": "Amos 5:24",
+   "textEn": "Let justice roll on like a river, righteousness like a never-failing stream!",
+   "textZh-Hans": "惟愿公平如大水滚滚，使公义如江河滔滔。",
+   "textZh-Hant": "惟願公平如大水滾滾，使公義如江河滔滔。",
+   "themeEn": "Demand for justice",
+   "themeZh": "伸张公义",
+   "tags": [
+    "protest",
+    "systemic_injustice",
+    "civil_rights",
+    "movement",
+    "reform"
+   ],
+   "applies": "Civil rights movements, mass protests, calls for systemic justice."
+  },
+  {
+   "id": "prov_31_8",
+   "reference": "Proverbs 31:8-9",
+   "textEn": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
+   "textZh-Hans": "你当为不能自辩的开口，为孤独的伸冤。你当开口按公义判断，为困苦和穷乏的辨屈。",
+   "textZh-Hant": "你當為不能自辯的開口，為孤獨的伸冤。你當開口按公義判斷，為困苦和窮乏的辨屈。",
+   "themeEn": "Voice for the voiceless",
+   "themeZh": "为弱者发声",
+   "tags": [
+    "advocacy",
+    "voiceless",
+    "disability",
+    "children",
+    "slavery"
+   ],
+   "applies": "Advocacy for those with no voice — children, disabled, trafficked, refugees."
+  },
+  {
+   "id": "isa_1_17",
+   "reference": "Isaiah 1:17",
+   "textEn": "Learn to do right; seek justice. Defend the oppressed. Take up the cause of the fatherless; plead the case of the widow.",
+   "textZh-Hans": "学习行善，寻求公平，解救受欺压的；给孤儿伸冤，为寡妇辨屈。",
+   "textZh-Hant": "學習行善，尋求公平，解救受欺壓的；給孤兒伸冤，為寡婦辨屈。",
+   "themeEn": "Defending the oppressed",
+   "themeZh": "为受欺压者伸冤",
+   "tags": [
+    "oppression",
+    "widows",
+    "orphans",
+    "domestic_violence",
+    "abuse"
+   ],
+   "applies": "Stories of the oppressed, abuse victims, fatherless, broken families."
+  },
+  {
+   "id": "prov_29_2",
+   "reference": "Proverbs 29:2",
+   "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
+   "textZh-Hans": "义人增多，民就喜乐；恶人掌权，民就叹息。",
+   "textZh-Hant": "義人增多，民就喜樂；惡人掌權，民就嘆息。",
+   "themeEn": "Righteous vs wicked rulers",
+   "themeZh": "义人执政与恶人当道",
+   "tags": [
+    "corruption",
+    "authoritarianism",
+    "elections",
+    "government_failure"
+   ],
+   "applies": "Authoritarian regimes, corrupt governments, election crises."
+  },
+  {
+   "id": "prov_14_34",
+   "reference": "Proverbs 14:34",
+   "textEn": "Righteousness exalts a nation, but sin condemns any people.",
+   "textZh-Hans": "公义使邦国高举；罪恶是人民的羞辱。",
+   "textZh-Hant": "公義使邦國高舉；罪惡是人民的羞辱。",
+   "themeEn": "National righteousness",
+   "themeZh": "国家公义",
+   "tags": [
+    "nation",
+    "decline",
+    "moral_collapse",
+    "national_identity"
+   ],
+   "applies": "National decline, scandals at the highest level, debates about national values."
+  },
+  {
+   "id": "hab_1_4",
+   "reference": "Habakkuk 1:4",
+   "textEn": "The law is paralyzed, and justice never prevails. The wicked hem in the righteous, so that justice is perverted.",
+   "textZh-Hans": "因此律法放松，公理也不显明；恶人围困义人，所以公理显然颠倒。",
+   "textZh-Hant": "因此律法放鬆，公理也不顯明；惡人圍困義人，所以公理顯然顛倒。",
+   "themeEn": "Lament for broken justice",
+   "themeZh": "对不公的哀诉",
+   "tags": [
+    "broken_courts",
+    "impunity",
+    "systemic_failure",
+    "legal_corruption"
+   ],
+   "applies": "Stories of impunity, courts failing, systemic corruption — when justice itself seems broken."
+  },
+  {
+   "id": "prov_11_14",
+   "reference": "Proverbs 11:14",
+   "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+   "textZh-Hans": "无智谋，民就败落；谋士多，人便安居。",
+   "textZh-Hant": "無智謀，民就敗落；謀士多，人便安居。",
+   "themeEn": "Wise counsel",
+   "themeZh": "智谋的价值",
+   "tags": [
+    "leadership",
+    "advice",
+    "experts",
+    "policy",
+    "decision"
+   ],
+   "applies": "Major policy decisions, leaders ignoring expert advice."
+  },
+  {
+   "id": "prov_16_12",
+   "reference": "Proverbs 16:12",
+   "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
+   "textZh-Hans": "作恶为王所憎恶，因国位是靠公义坚立。",
+   "textZh-Hant": "作惡為王所憎惡，因國位是靠公義堅立。",
+   "themeEn": "Righteous rule",
+   "themeZh": "以公义治国",
+   "tags": [
+    "leadership",
+    "integrity",
+    "cabinet",
+    "scandal",
+    "resignation"
+   ],
+   "applies": "Leadership ethics, scandal-driven resignations."
+  },
+  {
+   "id": "rom_13_1",
+   "reference": "Romans 13:1",
+   "textEn": "Let everyone be subject to the governing authorities, for there is no authority except that which God has established.",
+   "textZh-Hans": "在上有权柄的，人人当顺服他，因为没有权柄不是出于神的。",
+   "textZh-Hant": "在上有權柄的，人人當順服他，因為沒有權柄不是出於神的。",
+   "themeEn": "God-given authority",
+   "themeZh": "神所立的权柄",
+   "tags": [
+    "government",
+    "authority",
+    "civic_duty",
+    "rule_of_law"
+   ],
+   "applies": "Civic responsibility, debates about state authority."
+  },
+  {
+   "id": "prov_29_18",
+   "reference": "Proverbs 29:18",
+   "textEn": "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom's instruction.",
+   "textZh-Hans": "没有异象，民就放肆；惟遵守律法的，便为有福。",
+   "textZh-Hant": "沒有異象，民就放肆；惟遵守律法的，便為有福。",
+   "themeEn": "Need for vision",
+   "themeZh": "国家需要异象",
+   "tags": [
+    "chaos",
+    "social_breakdown",
+    "moral_compass",
+    "vision"
+   ],
+   "applies": "Stories of social breakdown, generational drift, leadership voids."
+  },
+  {
+   "id": "prov_28_15",
+   "reference": "Proverbs 28:15",
+   "textEn": "Like a roaring lion or a charging bear is a wicked ruler over a helpless people.",
+   "textZh-Hans": "暴虐的君王辖制贫民，好像吼叫的狮子、觅食的熊。",
+   "textZh-Hant": "暴虐的君王轄制貧民，好像吼叫的獅子、覓食的熊。",
+   "themeEn": "Tyranny",
+   "themeZh": "暴政",
+   "tags": [
+    "tyranny",
+    "dictator",
+    "authoritarian",
+    "oppression"
+   ],
+   "applies": "Tyrants, dictators, abuse of state power."
+  },
+  {
+   "id": "jer_22_3",
+   "reference": "Jeremiah 22:3",
+   "textEn": "Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.",
+   "textZh-Hans": "你们要施行公平和公义，拯救被抢夺的脱离欺压人的手。",
+   "textZh-Hant": "你們要施行公平和公義，拯救被搶奪的脫離欺壓人的手。",
+   "themeEn": "Royal justice mandate",
+   "themeZh": "王者的公义责任",
+   "tags": [
+    "royal_duty",
+    "government_accountability",
+    "public_service"
+   ],
+   "applies": "What governments owe their people; the moral mandate of public office."
+  },
+  {
+   "id": "matt_25_40",
+   "reference": "Matthew 25:40",
+   "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+   "textZh-Hans": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+   "textZh-Hant": "我實在告訴你們，這些事你們既做在我這弟兄中一個最小的身上，就是做在我身上了。",
+   "themeEn": "Christ in the least",
+   "themeZh": "基督在至微者中",
+   "tags": [
+    "poverty",
+    "homeless",
+    "hungry",
+    "prisoner",
+    "sick",
+    "stranger",
+    "refugee"
+   ],
+   "applies": "Care for the marginalized — homeless, hungry, prisoners, sick, refugees."
+  },
+  {
+   "id": "luke_10_36",
+   "reference": "Luke 10:36-37",
+   "textEn": "Which of these three do you think was a neighbor to the man who fell into the hands of robbers? ... 'Go and do likewise.'",
+   "textZh-Hans": "你想这三个人哪一个是落在强盗手中的邻舍呢？……「你去照样行吧。」",
+   "textZh-Hant": "你想這三個人哪一個是落在強盜手中的鄰舍呢？……「你去照樣行吧。」",
+   "themeEn": "Good Samaritan",
+   "themeZh": "好撒玛利亚人",
+   "tags": [
+    "bystander",
+    "crisis",
+    "helping",
+    "ethnic_division"
+   ],
+   "applies": "Stories that test who counts as 'neighbor' across social/ethnic lines."
+  },
+  {
+   "id": "jas_2_15",
+   "reference": "James 2:15-16",
+   "textEn": "Suppose a brother or a sister is without clothes and daily food. If one of you says to them, 'Go in peace; keep warm and well fed,' but does nothing about their physical needs, what good is it?",
+   "textZh-Hans": "若是弟兄或是姊妹，赤身露体，又缺了日用的饮食，你们中间有人对他们说：「平平安安地去吧，愿你们穿得暖、吃得饱」，却不给他们身体所需用的，这有什么益处呢？",
+   "textZh-Hant": "若是弟兄或是姊妹，赤身露體，又缺了日用的飲食，你們中間有人對他們說：「平平安安地去吧，願你們穿得暖、吃得飽」，卻不給他們身體所需用的，這有什麼益處呢？",
+   "themeEn": "Faith with action",
+   "themeZh": "信心与行动",
+   "tags": [
+    "empty_words",
+    "welfare",
+    "performative",
+    "slacktivism"
+   ],
+   "applies": "Performative compassion, social-media activism without action."
+  },
+  {
+   "id": "prov_19_17",
+   "reference": "Proverbs 19:17",
+   "textEn": "Whoever is kind to the poor lends to Yahweh, and he will reward them for what they have done.",
+   "textZh-Hans": "怜悯贫穷的，就是借给雅伟；他的善行，雅伟必偿还。",
+   "textZh-Hant": "憐憫貧窮的，就是借給雅偉；他的善行，雅偉必償還。",
+   "themeEn": "Lending to God",
+   "themeZh": "善待贫穷",
+   "tags": [
+    "charity",
+    "poor",
+    "generosity",
+    "aid"
+   ],
+   "applies": "Stories about charitable giving, aid programs."
+  },
+  {
+   "id": "isa_58_7",
+   "reference": "Isaiah 58:7",
+   "textEn": "Is it not to share your food with the hungry and to provide the poor wanderer with shelter — when you see the naked, to clothe them?",
+   "textZh-Hans": "不是要把你的饼分给饥饿的人，将飘流的穷人接到你家中，见赤身的给他衣服遮体？",
+   "textZh-Hant": "不是要把你的餅分給飢餓的人，將飄流的窮人接到你家中，見赤身的給他衣服遮體？",
+   "themeEn": "True fasting",
+   "themeZh": "真禁食",
+   "tags": [
+    "hunger",
+    "homelessness",
+    "refugee",
+    "welcome",
+    "practical_compassion"
+   ],
+   "applies": "Hunger, homelessness, displacement crises."
+  },
+  {
+   "id": "deut_10_19",
+   "reference": "Deuteronomy 10:19",
+   "textEn": "And you are to love those who are foreigners, for you yourselves were foreigners in Egypt.",
+   "textZh-Hans": "所以你们要怜爱寄居的，因为你们在埃及地也作过寄居的。",
+   "textZh-Hant": "所以你們要憐愛寄居的，因為你們在埃及地也作過寄居的。",
+   "themeEn": "Welcome the foreigner",
+   "themeZh": "善待寄居者",
+   "tags": [
+    "immigration",
+    "refugees",
+    "strangers",
+    "border",
+    "migration"
+   ],
+   "applies": "Immigration debates, refugee crises, deportation stories."
+  },
+  {
+   "id": "luke_4_18",
+   "reference": "Luke 4:18",
+   "textEn": "The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor.",
+   "textZh-Hans": "主的灵在我身上，因为他用膏膏我，叫我传福音给贫穷的人。",
+   "textZh-Hant": "主的靈在我身上，因為他用膏膏我，叫我傳福音給貧窮的人。",
+   "themeEn": "Good news to the poor",
+   "themeZh": "传福音给贫穷人",
+   "tags": [
+    "poverty",
+    "liberation",
+    "captivity",
+    "oppressed"
+   ],
+   "applies": "Anti-poverty work, prison ministry, addiction recovery."
+  },
+  {
+   "id": "prov_16_3",
+   "reference": "Proverbs 16:3",
+   "textEn": "Commit to Yahweh whatever you do, and he will establish your plans.",
+   "textZh-Hans": "你所做的，要交托雅伟，你所谋的，就必成立。",
+   "textZh-Hant": "你所做的，要交託雅偉，你所謀的，就必成立。",
+   "themeEn": "Committing work to God",
+   "themeZh": "将工作交托",
+   "tags": [
+    "business",
+    "planning",
+    "entrepreneurship",
+    "startup"
+   ],
+   "applies": "Major business ventures, entrepreneurial stories, project launches."
+  },
+  {
+   "id": "col_3_23",
+   "reference": "Colossians 3:23",
+   "textEn": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
+   "textZh-Hans": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+   "textZh-Hant": "無論做什麼，都要從心裡做，像是給主做的，不是給人做的。",
+   "themeEn": "Work for the Lord",
+   "themeZh": "为主而做",
+   "tags": [
+    "work",
+    "employment",
+    "labor",
+    "craftsmanship"
+   ],
+   "applies": "Labor stories, craftsmanship, dignity of work."
+  },
+  {
+   "id": "1tim_6_10",
+   "reference": "1 Timothy 6:10",
+   "textEn": "For the love of money is a root of all kinds of evil.",
+   "textZh-Hans": "贪财是万恶之根。",
+   "textZh-Hant": "貪財是萬惡之根。",
+   "themeEn": "Love of money",
+   "themeZh": "贪财",
+   "tags": [
+    "greed",
+    "fraud",
+    "corruption",
+    "ponzi",
+    "financial_crime"
+   ],
+   "applies": "Financial fraud, corporate greed, Ponzi schemes."
+  },
+  {
+   "id": "prov_22_7",
+   "reference": "Proverbs 22:7",
+   "textEn": "The rich rule over the poor, and the borrower is slave to the lender.",
+   "textZh-Hans": "富户管辖穷人；欠债的是债主的仆人。",
+   "textZh-Hant": "富戶管轄窮人；欠債的是債主的僕人。",
+   "themeEn": "Debt's burden",
+   "themeZh": "债务的重轭",
+   "tags": [
+    "debt",
+    "credit",
+    "interest_rates",
+    "predatory_lending"
+   ],
+   "applies": "Debt crises, payday loans, sovereign debt, household debt."
+  },
+  {
+   "id": "matt_6_24",
+   "reference": "Matthew 6:24",
+   "textEn": "No one can serve two masters... You cannot serve both God and Mammon.",
+   "textZh-Hans": "一个人不能事奉两个主……你们不能又事奉神，又事奉玛门。",
+   "textZh-Hant": "一個人不能事奉兩個主……你們不能又事奉神，又事奉瑪門。",
+   "themeEn": "God or Mammon",
+   "themeZh": "神或玛门",
+   "tags": [
+    "materialism",
+    "wealth",
+    "priorities",
+    "consumerism"
+   ],
+   "applies": "Stories where wealth-pursuit collides with deeper values."
+  },
+  {
+   "id": "jer_22_13",
+   "reference": "Jeremiah 22:13",
+   "textEn": "Woe to him who builds his palace by unrighteousness, who makes his own people work for nothing.",
+   "textZh-Hans": "那行不义盖房、行不公造楼、白白使用人的手工不给工价的有祸了！",
+   "textZh-Hant": "那行不義蓋房、行不公造樓、白白使用人的手工不給工價的有禍了！",
+   "themeEn": "Wage theft",
+   "themeZh": "克扣工资",
+   "tags": [
+    "wage_theft",
+    "exploitation",
+    "sweatshop",
+    "unpaid"
+   ],
+   "applies": "Wage exploitation, sweatshops, unpaid workers."
+  },
+  {
+   "id": "prov_13_22",
+   "reference": "Proverbs 13:22",
+   "textEn": "A good person leaves an inheritance for their children's children, but a sinner's wealth is stored up for the righteous.",
+   "textZh-Hans": "善人给子孙遗留产业；罪人为义人积存资财。",
+   "textZh-Hant": "善人給子孫遺留產業；罪人為義人積存資財。",
+   "themeEn": "Generational wealth",
+   "themeZh": "世代承传产业",
+   "tags": [
+    "inheritance",
+    "generational",
+    "family_wealth",
+    "retirement"
+   ],
+   "applies": "Inheritance disputes, generational wealth, retirement crises."
+  },
+  {
+   "id": "deut_8_18",
+   "reference": "Deuteronomy 8:18",
+   "textEn": "Remember Yahweh your God, for it is he who gives you the ability to produce wealth.",
+   "textZh-Hans": "你要记念雅伟你的神，因为得货财的力量是他给你的。",
+   "textZh-Hant": "你要記念雅偉你的神，因為得貨財的力量是他給你的。",
+   "themeEn": "Source of wealth",
+   "themeZh": "财富的源头",
+   "tags": [
+    "prosperity",
+    "economy",
+    "gdp",
+    "gratitude"
+   ],
+   "applies": "Economic boom, prosperity reports — what we forget when things go well."
+  },
+  {
+   "id": "phil_4_8",
+   "reference": "Philippians 4:8",
+   "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+   "textZh-Hans": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+   "textZh-Hant": "凡是真實的、可敬的、公義的、清潔的、可愛的、有美名的，這些事你們都要思念。",
+   "themeEn": "Mind discipline",
+   "themeZh": "心思的操练",
+   "tags": [
+    "media_diet",
+    "information_overload",
+    "negativity"
+   ],
+   "applies": "Information overload, doomscrolling, media diet questions."
+  },
+  {
+   "id": "prov_18_17",
+   "reference": "Proverbs 18:17",
+   "textEn": "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.",
+   "textZh-Hans": "先诉情由的，似乎有理；但邻舍来到，就察出实情。",
+   "textZh-Hant": "先訴情由的，似乎有理；但鄰舍來到，就察出實情。",
+   "themeEn": "Hearing both sides",
+   "themeZh": "兼听则明",
+   "tags": [
+    "one-sided_reporting",
+    "both_sides",
+    "viral",
+    "rush_to_judge"
+   ],
+   "applies": "Viral allegations, rushed verdicts in the court of social media."
+  },
+  {
+   "id": "eph_4_25",
+   "reference": "Ephesians 4:25",
+   "textEn": "Therefore each of you must put off falsehood and speak truthfully to your neighbor.",
+   "textZh-Hans": "所以你们要弃绝谎言，各人与邻舍说实话。",
+   "textZh-Hant": "所以你們要棄絕謊言，各人與鄰舍說實話。",
+   "themeEn": "Truth-telling",
+   "themeZh": "说诚实话",
+   "tags": [
+    "lies",
+    "misinformation",
+    "disinformation",
+    "fake_news"
+   ],
+   "applies": "Disinformation, deepfakes, propaganda."
+  },
+  {
+   "id": "prov_12_19",
+   "reference": "Proverbs 12:19",
+   "textEn": "Truthful lips endure forever, but a lying tongue lasts only a moment.",
+   "textZh-Hans": "口吐真言，永远坚立；舌说谎话，只存片时。",
+   "textZh-Hant": "口吐真言，永遠堅立；舌說謊話，只存片時。",
+   "themeEn": "Truth's longevity",
+   "themeZh": "真理永存",
+   "tags": [
+    "lies_exposed",
+    "truth_wins",
+    "reputation"
+   ],
+   "applies": "Lies eventually exposed, fact-check victories."
+  },
+  {
+   "id": "john_8_32",
+   "reference": "John 8:32",
+   "textEn": "Then you will know the truth, and the truth will set you free.",
+   "textZh-Hans": "你们必晓得真理，真理必叫你们得以自由。",
+   "textZh-Hant": "你們必曉得真理，真理必叫你們得以自由。",
+   "themeEn": "Liberating truth",
+   "themeZh": "真理使人自由",
+   "tags": [
+    "transparency",
+    "whistleblower",
+    "journalism",
+    "investigation"
+   ],
+   "applies": "Transparency campaigns, whistleblowers, investigative journalism."
+  },
+  {
+   "id": "prov_14_15",
+   "reference": "Proverbs 14:15",
+   "textEn": "The simple believe anything, but the prudent give thought to their steps.",
+   "textZh-Hans": "愚蒙人是话都信；通达人步步谨慎。",
+   "textZh-Hant": "愚蒙人是話都信；通達人步步謹慎。",
+   "themeEn": "Discernment",
+   "themeZh": "分辨与谨慎",
+   "tags": [
+    "gullibility",
+    "conspiracy",
+    "discernment",
+    "critical_thinking"
+   ],
+   "applies": "Conspiracy theories, viral misinformation, gullible audiences."
+  },
+  {
+   "id": "rom_5_3",
+   "reference": "Romans 5:3-4",
+   "textEn": "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.",
+   "textZh-Hans": "就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望。",
+   "textZh-Hant": "就是在患難中也是歡歡喜喜的；因為知道患難生忍耐，忍耐生老練，老練生盼望。",
+   "themeEn": "Suffering produces hope",
+   "themeZh": "患难中的盼望",
+   "tags": [
+    "recovery",
+    "resilience",
+    "disaster",
+    "aftermath"
+   ],
+   "applies": "Recovery from disaster, communities rebuilding."
+  },
+  {
+   "id": "jer_29_11",
+   "reference": "Jeremiah 29:11",
+   "textEn": "For I know the plans I have for you, declares Yahweh, plans to prosper you and not to harm you, plans to give you hope and a future.",
+   "textZh-Hans": "我知道我向你们所怀的意念，是赐平安的意念，不是降灾祸的意念，要叫你们末后有指望。这是雅伟说的。",
+   "textZh-Hant": "我知道我向你們所懷的意念，是賜平安的意念，不是降災禍的意念，要叫你們末後有指望。這是雅偉說的。",
+   "themeEn": "God's plans",
+   "themeZh": "神的计划",
+   "tags": [
+    "future",
+    "hope",
+    "exile",
+    "despair"
+   ],
+   "applies": "National despair, exile narratives, generational pessimism."
+  },
+  {
+   "id": "isa_40_31",
+   "reference": "Isaiah 40:31",
+   "textEn": "Those who hope in Yahweh will renew their strength. They will soar on wings like eagles; they will run and not grow weary.",
+   "textZh-Hans": "但那等候雅伟的，必从新得力。他们必如鹰展翅上腾。",
+   "textZh-Hant": "但那等候雅偉的，必從新得力。他們必如鷹展翅上騰。",
+   "themeEn": "Renewed strength",
+   "themeZh": "重新得力",
+   "tags": [
+    "exhaustion",
+    "burnout",
+    "endurance",
+    "second_wind"
+   ],
+   "applies": "Burnout, exhaustion, finding second wind."
+  },
+  {
+   "id": "hab_3_17",
+   "reference": "Habakkuk 3:17-18",
+   "textEn": "Though the fig tree does not bud and there are no grapes on the vines... yet I will rejoice in Yahweh.",
+   "textZh-Hans": "虽然无花果树不发旺，葡萄树不结果……然而，我要因雅伟欢欣。",
+   "textZh-Hant": "雖然無花果樹不發旺，葡萄樹不結果……然而，我要因雅偉歡欣。",
+   "themeEn": "Joy in scarcity",
+   "themeZh": "在缺乏中喜乐",
+   "tags": [
+    "famine",
+    "drought",
+    "crop_failure",
+    "economic_hardship"
+   ],
+   "applies": "Famine, crop failure, severe economic hardship."
+  },
+  {
+   "id": "rev_21_4",
+   "reference": "Revelation 21:4",
+   "textEn": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+   "textZh-Hans": "神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛。",
+   "textZh-Hant": "神要擦去他們一切的眼淚；不再有死亡，也不再有悲哀、哭號、疼痛。",
+   "themeEn": "End of suffering",
+   "themeZh": "苦难的终结",
+   "tags": [
+    "grief",
+    "death",
+    "tragedy",
+    "mass_casualty"
+   ],
+   "applies": "Tragedies, mass casualty events, profound grief."
+  },
+  {
+   "id": "ps_30_5",
+   "reference": "Psalm 30:5",
+   "textEn": "Weeping may stay for the night, but rejoicing comes in the morning.",
+   "textZh-Hans": "一宿虽然有哭泣，早晨便必欢呼。",
+   "textZh-Hant": "一宿雖然有哭泣，早晨便必歡呼。",
+   "themeEn": "Joy after the night",
+   "themeZh": "清晨的喜乐",
+   "tags": [
+    "overnight_grief",
+    "reversal",
+    "mourning_to_joy"
+   ],
+   "applies": "Sudden reversals — grief turning to relief."
+  },
+  {
+   "id": "lam_3_22",
+   "reference": "Lamentations 3:22-23",
+   "textEn": "Because of Yahweh's great love we are not consumed, for his compassions never fail. They are new every morning.",
+   "textZh-Hans": "我们不至消灭，是出于雅伟诸般的慈爱；是因他的怜悯不至断绝。每早晨这都是新的。",
+   "textZh-Hant": "我們不至消滅，是出於雅偉諸般的慈愛；是因他的憐憫不至斷絕。每早晨這都是新的。",
+   "themeEn": "Mercy every morning",
+   "themeZh": "清晨的怜悯",
+   "tags": [
+    "devastation",
+    "sustained_loss",
+    "attrition"
+   ],
+   "applies": "Sustained crises — wars, occupations, prolonged disasters."
+  },
+  {
+   "id": "matt_5_10",
+   "reference": "Matthew 5:10",
+   "textEn": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+   "textZh-Hans": "为义受逼迫的人有福了，因为天国是他们的。",
+   "textZh-Hant": "為義受逼迫的人有福了，因為天國是他們的。",
+   "themeEn": "Blessed persecution",
+   "themeZh": "为义受迫",
+   "tags": [
+    "religious_persecution",
+    "martyr",
+    "christian_persecution"
+   ],
+   "applies": "Religious persecution, Christians under pressure."
+  },
+  {
+   "id": "2tim_3_12",
+   "reference": "2 Timothy 3:12",
+   "textEn": "In fact, everyone who wants to live a godly life in Christ Jesus will be persecuted.",
+   "textZh-Hans": "凡立志在基督耶稣里敬虔度日的，也都要受逼迫。",
+   "textZh-Hant": "凡立志在基督耶穌裡敬虔度日的，也都要受逼迫。",
+   "themeEn": "Persecution expected",
+   "themeZh": "敬虔必受逼迫",
+   "tags": [
+    "persecution",
+    "discrimination",
+    "faith_under_pressure"
+   ],
+   "applies": "Faith-based discrimination, social hostility to believers."
+  },
+  {
+   "id": "acts_5_29",
+   "reference": "Acts 5:29",
+   "textEn": "We must obey God rather than human beings!",
+   "textZh-Hans": "顺从神，不顺从人，是应当的。",
+   "textZh-Hant": "順從神，不順從人，是應當的。",
+   "themeEn": "Obey God first",
+   "themeZh": "顺从神过于顺从人",
+   "tags": [
+    "civil_disobedience",
+    "conscience",
+    "conscientious_objection"
+   ],
+   "applies": "Conscientious objection, civil disobedience for moral reasons."
+  },
+  {
+   "id": "rom_8_18",
+   "reference": "Romans 8:18",
+   "textEn": "I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.",
+   "textZh-Hans": "我想，现在的苦楚若比起将来要显于我们的荣耀，就不足介意了。",
+   "textZh-Hant": "我想，現在的苦楚若比起將來要顯於我們的榮耀，就不足介意了。",
+   "themeEn": "Sufferings vs glory",
+   "themeZh": "苦楚与荣耀",
+   "tags": [
+    "chronic_suffering",
+    "long_suffering",
+    "perspective"
+   ],
+   "applies": "Chronic suffering, long-running injustice."
+  },
+  {
+   "id": "gen_2_24",
+   "reference": "Genesis 2:24",
+   "textEn": "That is why a man leaves his father and mother and is united to his wife, and they become one flesh.",
+   "textZh-Hans": "因此，人要离开父母，与妻子连合，二人成为一体。",
+   "textZh-Hant": "因此，人要離開父母，與妻子連合，二人成為一體。",
+   "themeEn": "Marriage's foundation",
+   "themeZh": "婚姻的根基",
+   "tags": [
+    "marriage",
+    "wedding",
+    "commitment",
+    "union"
+   ],
+   "applies": "Marriage stories, wedding-related news."
+  },
+  {
+   "id": "mal_2_16",
+   "reference": "Malachi 2:16",
+   "textEn": "'The man who hates and divorces his wife,' says Yahweh, 'does violence to the one he should protect.'",
+   "textZh-Hans": "雅伟说：「休妻的事，是我所恨恶的。」",
+   "textZh-Hant": "雅偉說：「休妻的事，是我所恨惡的。」",
+   "themeEn": "God hates broken faith",
+   "themeZh": "神恨弃约",
+   "tags": [
+    "divorce",
+    "family_breakdown",
+    "abandonment"
+   ],
+   "applies": "High-profile divorces, marriage statistics, family breakdown."
+  },
+  {
+   "id": "ps_127_3",
+   "reference": "Psalm 127:3",
+   "textEn": "Children are a heritage from Yahweh, offspring a reward from him.",
+   "textZh-Hans": "儿女是雅伟所赐的产业。",
+   "textZh-Hant": "兒女是雅偉所賜的產業。",
+   "themeEn": "Children as gift",
+   "themeZh": "儿女是产业",
+   "tags": [
+    "birth",
+    "children",
+    "fertility",
+    "family_planning"
+   ],
+   "applies": "Birth rate stories, IVF, fertility, parenting."
+  },
+  {
+   "id": "eph_6_4",
+   "reference": "Ephesians 6:4",
+   "textEn": "Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.",
+   "textZh-Hans": "你们作父亲的，不要惹儿女的气，只要照着主的教训和警戒养育他们。",
+   "textZh-Hant": "你們作父親的，不要惹兒女的氣，只要照著主的教訓和警戒養育他們。",
+   "themeEn": "Parental responsibility",
+   "themeZh": "父母的责任",
+   "tags": [
+    "parenting",
+    "fatherhood",
+    "child_welfare",
+    "education"
+   ],
+   "applies": "Parenting, education debates, fatherhood."
+  },
+  {
+   "id": "prov_22_6",
+   "reference": "Proverbs 22:6",
+   "textEn": "Start children off on the way they should go, and even when they are old they will not turn from it.",
+   "textZh-Hans": "教养孩童，使他走当行的道，就是到老他也不偏离。",
+   "textZh-Hant": "教養孩童，使他走當行的道，就是到老他也不偏離。",
+   "themeEn": "Forming the young",
+   "themeZh": "塑造下一代",
+   "tags": [
+    "education",
+    "schools",
+    "curriculum",
+    "formation"
+   ],
+   "applies": "Education policy, curriculum debates, generational character."
+  },
+  {
+   "id": "prov_18_21",
+   "reference": "Proverbs 18:21",
+   "textEn": "The tongue has the power of life and death, and those who love it will eat its fruit.",
+   "textZh-Hans": "生死在舌头的权下；喜爱它的，必吃它所结的果子。",
+   "textZh-Hant": "生死在舌頭的權下；喜愛它的，必吃它所結的果子。",
+   "themeEn": "Power of words",
+   "themeZh": "言语的能力",
+   "tags": [
+    "hate_speech",
+    "online_speech",
+    "cancel_culture",
+    "words_matter"
+   ],
+   "applies": "Hate speech, online vitriol, cancel culture."
+  },
+  {
+   "id": "jas_3_5",
+   "reference": "James 3:5",
+   "textEn": "The tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark.",
+   "textZh-Hans": "舌头在百体里也是最小的，却能说大话。看哪，最小的火能点着最大的树林。",
+   "textZh-Hant": "舌頭在百體裡也是最小的，卻能說大話。看哪，最小的火能點著最大的樹林。",
+   "themeEn": "Small spark, big fire",
+   "themeZh": "星星之火",
+   "tags": [
+    "viral",
+    "tweet",
+    "public_relations",
+    "scandal"
+   ],
+   "applies": "Viral tweets, off-the-cuff comments igniting scandals."
+  },
+  {
+   "id": "prov_15_1",
+   "reference": "Proverbs 15:1",
+   "textEn": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+   "textZh-Hans": "回答柔和，使怒消退；言语暴戾，触动怒气。",
+   "textZh-Hant": "回答柔和，使怒消退；言語暴戾，觸動怒氣。",
+   "themeEn": "Gentle answer",
+   "themeZh": "柔和的回答",
+   "tags": [
+    "de_escalation",
+    "apology",
+    "mediation",
+    "tone"
+   ],
+   "applies": "Public apologies, de-escalation, mediation."
+  },
+  {
+   "id": "col_4_6",
+   "reference": "Colossians 4:6",
+   "textEn": "Let your conversation be always full of grace, seasoned with salt.",
+   "textZh-Hans": "你们的言语要常常带着和气，好像用盐调和。",
+   "textZh-Hant": "你們的言語要常常帶著和氣，好像用鹽調和。",
+   "themeEn": "Speech with grace",
+   "themeZh": "言语调和",
+   "tags": [
+    "public_speaking",
+    "christian_witness",
+    "testimony"
+   ],
+   "applies": "Christian leaders speaking publicly, testimony in hostile spaces."
+  },
+  {
+   "id": "gen_1_27",
+   "reference": "Genesis 1:27",
+   "textEn": "So God created mankind in his own image, in the image of God he created them; male and female he created them.",
+   "textZh-Hans": "神就照着自己的形象造人，乃是照着他的形象造男造女。",
+   "textZh-Hant": "神就照著自己的形象造人，乃是照著他的形象造男造女。",
+   "themeEn": "Image of God",
+   "themeZh": "神的形象",
+   "tags": [
+    "dignity",
+    "image_bearer",
+    "ai",
+    "personhood"
+   ],
+   "applies": "Human dignity questions, AI vs human, personhood debates."
+  },
+  {
+   "id": "ps_8_4",
+   "reference": "Psalm 8:4",
+   "textEn": "What is mankind that you are mindful of them, human beings that you care for them?",
+   "textZh-Hans": "人算什么，你竟顾念他？",
+   "textZh-Hant": "人算什麼，你竟顧念他？",
+   "themeEn": "Human worth",
+   "themeZh": "人的价值",
+   "tags": [
+    "dignity",
+    "cosmic_perspective",
+    "value"
+   ],
+   "applies": "Big-picture stories about human worth, space exploration, cosmic context."
+  },
+  {
+   "id": "ps_24_1",
+   "reference": "Psalm 24:1",
+   "textEn": "The earth is Yahweh's, and everything in it, the world, and all who live in it.",
+   "textZh-Hans": "地和其中所充满的，世界和住在其间的，都属雅伟。",
+   "textZh-Hant": "地和其中所充滿的，世界和住在其間的，都屬雅偉。",
+   "themeEn": "Earth belongs to God",
+   "themeZh": "全地属神",
+   "tags": [
+    "climate",
+    "environment",
+    "ecology",
+    "conservation",
+    "stewardship"
+   ],
+   "applies": "Climate, environment, ecology, conservation."
+  },
+  {
+   "id": "gen_2_15",
+   "reference": "Genesis 2:15",
+   "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+   "textZh-Hans": "雅伟神将那人安置在伊甸园，使他修理看守。",
+   "textZh-Hant": "雅偉神將那人安置在伊甸園，使他修理看守。",
+   "themeEn": "Creation care",
+   "themeZh": "看守受造界",
+   "tags": [
+    "climate_change",
+    "pollution",
+    "sustainability",
+    "biodiversity"
+   ],
+   "applies": "Climate change, pollution, biodiversity loss."
+  },
+  {
+   "id": "rom_8_22",
+   "reference": "Romans 8:22",
+   "textEn": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+   "textZh-Hans": "我们知道，一切受造之物一同叹息、劳苦，直到如今。",
+   "textZh-Hant": "我們知道，一切受造之物一同嘆息、勞苦，直到如今。",
+   "themeEn": "Creation's groan",
+   "themeZh": "受造叹息",
+   "tags": [
+    "natural_disaster",
+    "earthquake",
+    "flood",
+    "ecosystem"
+   ],
+   "applies": "Natural disasters, ecosystem collapse, environmental tragedies."
+  },
+  {
+   "id": "heb_9_27",
+   "reference": "Hebrews 9:27",
+   "textEn": "Just as people are destined to die once, and after that to face judgment.",
+   "textZh-Hans": "按着定命，人人都有一死，死后且有审判。",
+   "textZh-Hant": "按著定命，人人都有一死，死後且有審判。",
+   "themeEn": "Mortality",
+   "themeZh": "必有一死",
+   "tags": [
+    "death",
+    "obituary",
+    "aging",
+    "mortality"
+   ],
+   "applies": "Notable deaths, end-of-life stories, aging populations."
+  },
+  {
+   "id": "ps_90_12",
+   "reference": "Psalm 90:12",
+   "textEn": "Teach us to number our days, that we may gain a heart of wisdom.",
+   "textZh-Hans": "求你指教我们怎样数算自己的日子，好叫我们得着智慧的心。",
+   "textZh-Hant": "求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。",
+   "themeEn": "Numbering our days",
+   "themeZh": "数算日子",
+   "tags": [
+    "aging",
+    "time",
+    "life_span",
+    "health"
+   ],
+   "applies": "Aging societies, life-expectancy data, time-pressure stories."
+  },
+  {
+   "id": "ecc_3_1",
+   "reference": "Ecclesiastes 3:1",
+   "textEn": "There is a time for everything, and a season for every activity under the heavens.",
+   "textZh-Hans": "凡事都有定期，天下万务都有定时。",
+   "textZh-Hant": "凡事都有定期，天下萬務都有定時。",
+   "themeEn": "A time for everything",
+   "themeZh": "凡事有定时",
+   "tags": [
+    "transition",
+    "season",
+    "cycles",
+    "change"
+   ],
+   "applies": "Major transitions, retirements, end-of-an-era moments."
+  },
+  {
+   "id": "jn_11_25",
+   "reference": "John 11:25",
+   "textEn": "I am the resurrection and the life. The one who believes in me will live, even though they die.",
+   "textZh-Hans": "复活在我，生命也在我。信我的人虽然死了，也必复活。",
+   "textZh-Hant": "復活在我，生命也在我。信我的人雖然死了，也必復活。",
+   "themeEn": "Resurrection",
+   "themeZh": "复活",
+   "tags": [
+    "funeral",
+    "grief",
+    "memorial",
+    "ressurection_hope"
+   ],
+   "applies": "Funerals of believers, hope beyond death."
+  },
+  {
+   "id": "ps_147_3",
+   "reference": "Psalm 147:3",
+   "textEn": "He heals the brokenhearted and binds up their wounds.",
+   "textZh-Hans": "他医好伤心的人，裹好他们的伤处。",
+   "textZh-Hant": "他醫好傷心的人，裹好他們的傷處。",
+   "themeEn": "Healing the broken",
+   "themeZh": "医治伤心",
+   "tags": [
+    "mental_health",
+    "depression",
+    "anxiety",
+    "trauma"
+   ],
+   "applies": "Mental health crises, trauma recovery."
+  },
+  {
+   "id": "matt_11_28",
+   "reference": "Matthew 11:28",
+   "textEn": "Come to me, all you who are weary and burdened, and I will give you rest.",
+   "textZh-Hans": "凡劳苦担重担的人，可以到我这里来，我就使你们得安息。",
+   "textZh-Hant": "凡勞苦擔重擔的人，可以到我這裡來，我就使你們得安息。",
+   "themeEn": "Rest in Christ",
+   "themeZh": "得安息",
+   "tags": [
+    "burnout",
+    "stress",
+    "overwork",
+    "exhaustion"
+   ],
+   "applies": "Burnout, overwork, stress epidemics."
+  },
+  {
+   "id": "ps_34_18",
+   "reference": "Psalm 34:18",
+   "textEn": "Yahweh is close to the brokenhearted and saves those who are crushed in spirit.",
+   "textZh-Hans": "雅伟靠近伤心的人，拯救灵性痛悔的人。",
+   "textZh-Hant": "雅偉靠近傷心的人，拯救靈性痛悔的人。",
+   "themeEn": "Near to the broken",
+   "themeZh": "靠近伤心人",
+   "tags": [
+    "depression",
+    "suicide",
+    "despair",
+    "mental_anguish"
+   ],
+   "applies": "Suicide, deep depression, mental anguish stories."
+  },
+  {
+   "id": "jas_5_14",
+   "reference": "James 5:14",
+   "textEn": "Is anyone among you sick? Let them call the elders of the church to pray over them.",
+   "textZh-Hans": "你们中间有病了的呢，他就该请教会的长老来；他们可以奉主的名用油抹他，为他祷告。",
+   "textZh-Hant": "你們中間有病了的呢，他就該請教會的長老來；他們可以奉主的名用油抹他，為他禱告。",
+   "themeEn": "Pray for the sick",
+   "themeZh": "为病人代祷",
+   "tags": [
+    "illness",
+    "disease",
+    "epidemic",
+    "cancer",
+    "chronic_illness"
+   ],
+   "applies": "Illness, disease outbreaks, healthcare stories."
+  },
+  {
+   "id": "matt_6_14",
+   "reference": "Matthew 6:14",
+   "textEn": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you.",
+   "textZh-Hans": "你们饶恕人的过犯，你们的天父也必饶恕你们的过犯。",
+   "textZh-Hant": "你們饒恕人的過犯，你們的天父也必饒恕你們的過犯。",
+   "themeEn": "Forgiveness",
+   "themeZh": "饶恕",
+   "tags": [
+    "forgiveness",
+    "reconciliation",
+    "truth_commission"
+   ],
+   "applies": "Truth commissions, public apologies, reconciliation efforts."
+  },
+  {
+   "id": "col_3_13",
+   "reference": "Colossians 3:13",
+   "textEn": "Bear with each other and forgive one another if any of you has a grievance against someone.",
+   "textZh-Hans": "倘若这人与那人有嫌隙，总要彼此包容，彼此饶恕。",
+   "textZh-Hant": "倘若這人與那人有嫌隙，總要彼此包容，彼此饒恕。",
+   "themeEn": "Bearing with one another",
+   "themeZh": "彼此包容",
+   "tags": [
+    "workplace",
+    "family_dispute",
+    "grudge"
+   ],
+   "applies": "Workplace conflicts, family disputes, lingering grievances."
+  },
+  {
+   "id": "2cor_5_18",
+   "reference": "2 Corinthians 5:18",
+   "textEn": "All this is from God, who reconciled us to himself through Christ and gave us the ministry of reconciliation.",
+   "textZh-Hans": "这一切都是出于神；他借着基督使我们与他和好，又将劝人与他和好的职分赐给我们。",
+   "textZh-Hant": "這一切都是出於神；他藉著基督使我們與他和好，又將勸人與他和好的職分賜給我們。",
+   "themeEn": "Ministry of reconciliation",
+   "themeZh": "和好的职分",
+   "tags": [
+    "peacebuilding",
+    "mediation",
+    "ngo",
+    "peace_process"
+   ],
+   "applies": "Peace processes, mediation, NGO reconciliation work."
+  },
+  {
+   "id": "prov_25_21",
+   "reference": "Proverbs 25:21",
+   "textEn": "If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink.",
+   "textZh-Hans": "你的仇敌若饿了，就给他饭吃；若渴了，就给他水喝。",
+   "textZh-Hant": "你的仇敵若餓了，就給他飯吃；若渴了，就給他水喝。",
+   "themeEn": "Kindness to enemies",
+   "themeZh": "善待仇敌",
+   "tags": [
+    "enemy",
+    "prisoner_of_war",
+    "humanitarian"
+   ],
+   "applies": "Humanitarian aid to opponents, prisoner-of-war stories."
+  },
+  {
+   "id": "prov_16_18",
+   "reference": "Proverbs 16:18",
+   "textEn": "Pride goes before destruction, a haughty spirit before a fall.",
+   "textZh-Hans": "骄傲在败坏以先；狂心在跌倒之前。",
+   "textZh-Hant": "驕傲在敗壞以先；狂心在跌倒之前。",
+   "themeEn": "Pride before fall",
+   "themeZh": "骄傲必败",
+   "tags": [
+    "downfall",
+    "ceo_resignation",
+    "dictator_fall",
+    "empire_decline"
+   ],
+   "applies": "Downfalls — celebrity, corporate, political."
+  },
+  {
+   "id": "ps_75_7",
+   "reference": "Psalm 75:7",
+   "textEn": "It is God who judges: He brings one down, he exalts another.",
+   "textZh-Hans": "惟有神断定；他使这人降卑，使那人升高。",
+   "textZh-Hant": "惟有神斷定；他使這人降卑，使那人升高。",
+   "themeEn": "God lifts and lowers",
+   "themeZh": "神升降",
+   "tags": [
+    "promotion",
+    "demotion",
+    "unexpected_rise",
+    "dramatic_fall"
+   ],
+   "applies": "Surprise promotions, dramatic falls, election upsets."
+  },
+  {
+   "id": "jas_4_6",
+   "reference": "James 4:6",
+   "textEn": "God opposes the proud but shows favor to the humble.",
+   "textZh-Hans": "神阻挡骄傲的人，赐恩给谦卑的人。",
+   "textZh-Hant": "神阻擋驕傲的人，賜恩給謙卑的人。",
+   "themeEn": "Grace to the humble",
+   "themeZh": "赐恩谦卑人",
+   "tags": [
+    "humility",
+    "arrogance",
+    "servant_leader"
+   ],
+   "applies": "Stories of servant leadership vs ego-driven leaders."
+  },
+  {
+   "id": "phil_2_3",
+   "reference": "Philippians 2:3",
+   "textEn": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.",
+   "textZh-Hans": "凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。",
+   "textZh-Hant": "凡事不可結黨，不可貪圖虛浮的榮耀；只要存心謙卑，各人看別人比自己強。",
+   "themeEn": "Selfless humility",
+   "themeZh": "无私的谦卑",
+   "tags": [
+    "partisanship",
+    "tribalism",
+    "ego",
+    "fame"
+   ],
+   "applies": "Partisan politics, celebrity culture, ego clashes."
+  },
+  {
+   "id": "1jn_5_21",
+   "reference": "1 John 5:21",
+   "textEn": "Dear children, keep yourselves from idols.",
+   "textZh-Hans": "小子们哪，你们要自守，远避偶像。",
+   "textZh-Hant": "小子們哪，你們要自守，遠避偶像。",
+   "themeEn": "Beware idols",
+   "themeZh": "远避偶像",
+   "tags": [
+    "consumerism",
+    "celebrity_worship",
+    "tech_addiction",
+    "fan_culture"
+   ],
+   "applies": "Celebrity worship, tech addiction, consumerism."
+  },
+  {
+   "id": "ex_20_3",
+   "reference": "Exodus 20:3",
+   "textEn": "You shall have no other gods before me.",
+   "textZh-Hans": "除了我以外，你不可有别的神。",
+   "textZh-Hant": "除了我以外，你不可有別的神。",
+   "themeEn": "No other gods",
+   "themeZh": "独一真神",
+   "tags": [
+    "ideology",
+    "cult",
+    "extremism",
+    "nationalism"
+   ],
+   "applies": "Ideological cults, extremist movements, nationalism elevated to religion."
+  },
+  {
+   "id": "matt_6_19",
+   "reference": "Matthew 6:19",
+   "textEn": "Do not store up for yourselves treasures on earth, where moths and vermin destroy.",
+   "textZh-Hans": "不要为自己积攒财宝在地上；地上有虫子咬，能锈坏。",
+   "textZh-Hant": "不要為自己積攢財寶在地上；地上有蟲子咬，能銹壞。",
+   "themeEn": "Earthly treasures",
+   "themeZh": "地上财宝",
+   "tags": [
+    "materialism",
+    "crypto_collapse",
+    "stock_crash",
+    "luxury"
+   ],
+   "applies": "Wealth-loss stories, crypto crashes, market crashes."
+  },
+  {
+   "id": "gal_3_28",
+   "reference": "Galatians 3:28",
+   "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
+   "textZh-Hans": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
+   "textZh-Hant": "並不分猶太人、希利尼人，自主的、為奴的，或男或女，因為你們在基督耶穌裡都成為一了。",
+   "themeEn": "One in Christ",
+   "themeZh": "基督里合一",
+   "tags": [
+    "race",
+    "ethnic_unity",
+    "class",
+    "gender"
+   ],
+   "applies": "Racial unity, class divisions, identity-based conflict."
+  },
+  {
+   "id": "acts_17_26",
+   "reference": "Acts 17:26",
+   "textEn": "From one man he made all the nations, that they should inhabit the whole earth.",
+   "textZh-Hans": "他从一本造出万族的人，住在全地上。",
+   "textZh-Hant": "他從一本造出萬族的人，住在全地上。",
+   "themeEn": "All nations from one",
+   "themeZh": "万族同源",
+   "tags": [
+    "race",
+    "nationalism",
+    "tribalism",
+    "ethnocentrism"
+   ],
+   "applies": "Ethnic nationalism, tribalism, white-supremacist movements."
+  },
+  {
+   "id": "rev_7_9",
+   "reference": "Revelation 7:9",
+   "textEn": "A great multitude that no one could count, from every nation, tribe, people and language, standing before the throne.",
+   "textZh-Hans": "许多的人，没有人能数过来，是从各国、各族、各民、各方来的，站在宝座……前。",
+   "textZh-Hant": "許多的人，沒有人能數過來，是從各國、各族、各民、各方來的，站在寶座……前。",
+   "themeEn": "Every tribe before the throne",
+   "themeZh": "万民立王前",
+   "tags": [
+    "multicultural",
+    "global_church",
+    "unity",
+    "worship"
+   ],
+   "applies": "Global worship, multicultural celebrations, mission stories."
+  },
+  {
+   "id": "jas_1_5",
+   "reference": "James 1:5",
+   "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+   "textZh-Hans": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+   "textZh-Hant": "你們中間若有缺少智慧的，應當求那厚賜與眾人、也不斥責人的神，主就必賜給他。",
+   "themeEn": "Ask God for wisdom",
+   "themeZh": "求神赐智慧",
+   "tags": [
+    "decisions",
+    "leadership",
+    "judgement",
+    "crisis"
+   ],
+   "applies": "Major decisions, leaders facing impossible choices."
+  },
+  {
+   "id": "prov_3_5",
+   "reference": "Proverbs 3:5",
+   "textEn": "Trust in Yahweh with all your heart and lean not on your own understanding.",
+   "textZh-Hans": "你要专心仰赖雅伟，不可倚靠自己的聪明。",
+   "textZh-Hant": "你要專心仰賴雅偉，不可倚靠自己的聰明。",
+   "themeEn": "Trust over understanding",
+   "themeZh": "信靠胜过聪明",
+   "tags": [
+    "uncertainty",
+    "ai",
+    "human_judgment",
+    "futurism"
+   ],
+   "applies": "Big-tech futurism, AI confidence, human limits."
+  },
+  {
+   "id": "prov_9_10",
+   "reference": "Proverbs 9:10",
+   "textEn": "The fear of Yahweh is the beginning of wisdom, and knowledge of the Holy One is understanding.",
+   "textZh-Hans": "敬畏雅伟是智慧的开端；认识至圣者便是聪明。",
+   "textZh-Hant": "敬畏雅偉是智慧的開端；認識至聖者便是聰明。",
+   "themeEn": "Fear of God = wisdom",
+   "themeZh": "敬畏神是智慧",
+   "tags": [
+    "secularism",
+    "education_collapse",
+    "moral_compass"
+   ],
+   "applies": "Educated foolishness — credentials without wisdom."
+  },
+  {
+   "id": "phil_4_6",
+   "reference": "Philippians 4:6",
+   "textEn": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+   "textZh-Hans": "应当一无挂虑，只要凡事藉着祷告、祈求和感谢，将你们所要的告诉神。",
+   "textZh-Hant": "應當一無掛慮，只要凡事藉著禱告、祈求和感謝，將你們所要的告訴神。",
+   "themeEn": "Anxiety to prayer",
+   "themeZh": "忧虑化祷告",
+   "tags": [
+    "anxiety",
+    "panic",
+    "mental_health",
+    "uncertainty"
+   ],
+   "applies": "Anxiety stories, panic responses, mental-health awareness."
+  },
+  {
+   "id": "isa_41_10",
+   "reference": "Isaiah 41:10",
+   "textEn": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+   "textZh-Hans": "你不要害怕，因为我与你同在；不要惊惶，因为我是你的神。",
+   "textZh-Hant": "你不要害怕，因為我與你同在；不要驚惶，因為我是你的神。",
+   "themeEn": "God is with us",
+   "themeZh": "神与你同在",
+   "tags": [
+    "fear",
+    "threat",
+    "invasion",
+    "existential"
+   ],
+   "applies": "Fearful headlines — existential threats, looming dangers."
+  },
+  {
+   "id": "2tim_1_7",
+   "reference": "2 Timothy 1:7",
+   "textEn": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
+   "textZh-Hans": "神赐给我们，不是胆怯的心，乃是刚强、仁爱、谨守的心。",
+   "textZh-Hant": "神賜給我們，不是膽怯的心，乃是剛強、仁愛、謹守的心。",
+   "themeEn": "Power, love, self-control",
+   "themeZh": "刚强、仁爱、谨守",
+   "tags": [
+    "fear",
+    "panic",
+    "public_speaking",
+    "courage"
+   ],
+   "applies": "Mass-panic responses, fear-driven politics, calls for courage."
+  },
+  {
+   "id": "ps_23_4",
+   "reference": "Psalm 23:4",
+   "textEn": "Even though I walk through the darkest valley, I will fear no evil, for you are with me.",
+   "textZh-Hans": "我虽然行过死荫的幽谷，也不怕遭害，因为你与我同在。",
+   "textZh-Hant": "我雖然行過死蔭的幽谷，也不怕遭害，因為你與我同在。",
+   "themeEn": "Through the valley",
+   "themeZh": "穿越死荫幽谷",
+   "tags": [
+    "death",
+    "cancer",
+    "war_zone",
+    "life_threatening"
+   ],
+   "applies": "Life-threatening situations, war zones, terminal diagnoses."
+  },
+  {
+   "id": "ps_46_1",
+   "reference": "Psalm 46:1",
+   "textEn": "God is our refuge and strength, an ever-present help in trouble.",
+   "textZh-Hans": "神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。",
+   "textZh-Hant": "神是我們的避難所，是我們的力量，是我們在患難中隨時的幫助。",
+   "themeEn": "Refuge in trouble",
+   "themeZh": "患难中的避难所",
+   "tags": [
+    "disaster",
+    "emergency",
+    "crisis",
+    "shelter"
+   ],
+   "applies": "Natural disasters, emergencies, crisis points."
+  },
+  {
+   "id": "deut_6_5",
+   "reference": "Deuteronomy 6:5",
+   "textEn": "Love Yahweh your God with all your heart and with all your soul and with all your strength.",
+   "textZh-Hans": "你要尽心、尽性、尽力爱雅伟你的神。",
+   "textZh-Hant": "你要盡心、盡性、盡力愛雅偉你的神。",
+   "themeEn": "Whole-hearted love",
+   "themeZh": "全心爱神",
+   "tags": [
+    "worship",
+    "devotion",
+    "lukewarm",
+    "spiritual_drift"
+   ],
+   "applies": "Spiritual drift, lukewarm faith, recovery of devotion."
+  },
+  {
+   "id": "matt_22_39",
+   "reference": "Matthew 22:39",
+   "textEn": "Love your neighbor as yourself.",
+   "textZh-Hans": "要爱人如己。",
+   "textZh-Hant": "要愛人如己。",
+   "themeEn": "Love neighbor",
+   "themeZh": "爱人如己",
+   "tags": [
+    "neighbor",
+    "community",
+    "kindness",
+    "social_fabric"
+   ],
+   "applies": "Community-building stories, acts of kindness, social-fabric repair."
+  },
+  {
+   "id": "jn_13_35",
+   "reference": "John 13:35",
+   "textEn": "By this everyone will know that you are my disciples, if you love one another.",
+   "textZh-Hans": "你们若有彼此相爱的心，众人因此就认出你们是我的门徒了。",
+   "textZh-Hant": "你們若有彼此相愛的心，眾人因此就認出你們是我的門徒了。",
+   "themeEn": "Mark of disciples",
+   "themeZh": "门徒的记号",
+   "tags": [
+    "church_unity",
+    "christian_witness",
+    "reputation"
+   ],
+   "applies": "Christian witness, church-public-image stories."
+  },
+  {
+   "id": "1cor_13_13",
+   "reference": "1 Corinthians 13:13",
+   "textEn": "And now these three remain: faith, hope and love. But the greatest of these is love.",
+   "textZh-Hans": "如今常存的有信，有望，有爱这三样，其中最大的是爱。",
+   "textZh-Hant": "如今常存的有信，有望，有愛這三樣，其中最大的是愛。",
+   "themeEn": "Faith, hope, love",
+   "themeZh": "信望爱",
+   "tags": [
+    "enduring_values",
+    "transcendent",
+    "heart"
+   ],
+   "applies": "Stories that transcend the news cycle and call us back to enduring values."
+  },
+  {
+   "id": "job_12_7",
+   "reference": "Job 12:7-9",
+   "textEn": "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you.",
+   "textZh-Hans": "你且问走兽，走兽必指教你；又问空中的飞鸟，飞鸟必告诉你。或与地说话，地必指教你；海中的鱼也必向你说明。",
+   "textZh-Hant": "你且問走獸，走獸必指教你；又問空中的飛鳥，飛鳥必告訴你。或與地說話，地必指教你；海中的魚也必向你說明。",
+   "themeEn": "Wisdom from creation",
+   "themeZh": "受造之物的教导",
+   "tags": [
+    "science",
+    "research",
+    "discovery",
+    "creation",
+    "biology"
+   ],
+   "applies": "Scientific discovery, research breakthroughs — knowledge mediated through observation of creation."
+  },
+  {
+   "id": "dan_12_4",
+   "reference": "Daniel 12:4",
+   "textEn": "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.",
+   "textZh-Hans": "但以理啊，你要隐藏这话，封闭这书，直到末时。必有多人来往奔跑，知识就必增长。",
+   "textZh-Hant": "但以理啊，你要隱藏這話，封閉這書，直到末時。必有多人來往奔跑，知識就必增長。",
+   "themeEn": "Knowledge increasing",
+   "themeZh": "知识增长",
+   "tags": [
+    "technology",
+    "knowledge_explosion",
+    "ai",
+    "internet",
+    "information_age"
+   ],
+   "applies": "AI breakthroughs, information explosion, the rapid acceleration of human knowledge."
+  },
+  {
+   "id": "1cor_8_1",
+   "reference": "1 Corinthians 8:1",
+   "textEn": "Knowledge puffs up while love builds up.",
+   "textZh-Hans": "知识是叫人自高自大，惟有爱心能造就人。",
+   "textZh-Hant": "知識是叫人自高自大，惟有愛心能造就人。",
+   "themeEn": "Knowledge vs love",
+   "themeZh": "知识与爱",
+   "tags": [
+    "ai_ethics",
+    "expertise",
+    "arrogance",
+    "tech_hubris",
+    "credentialism"
+   ],
+   "applies": "AI hype, expert arrogance, technology disconnected from love of neighbor."
+  },
+  {
+   "id": "prov_27_12",
+   "reference": "Proverbs 27:12",
+   "textEn": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+   "textZh-Hans": "通达人见祸藏躲；愚蒙人前往受害。",
+   "textZh-Hant": "通達人見禍藏躲；愚蒙人前往受害。",
+   "themeEn": "Foreseeing danger",
+   "themeZh": "防患未然",
+   "tags": [
+    "ai_safety",
+    "risk",
+    "precaution",
+    "tech_regulation",
+    "foresight"
+   ],
+   "applies": "AI safety debates, technology regulation, foreseeable harms ignored by the rush forward."
+  },
+  {
+   "id": "gen_11_6",
+   "reference": "Genesis 11:6",
+   "textEn": "Yahweh said, 'If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them.'",
+   "textZh-Hans": "雅伟说：「看哪，他们成为一样的人民，都是一样的言语，如今既做起这事来，以后他们所要做的事就没有不成就的了。」",
+   "textZh-Hant": "雅偉說：「看哪，他們成為一樣的人民，都是一樣的言語，如今既做起這事來，以後他們所要做的事就沒有不成就的了。」",
+   "themeEn": "Babel's ambition",
+   "themeZh": "巴别的雄心",
+   "tags": [
+    "babel",
+    "ai",
+    "agi",
+    "biotech",
+    "hubris",
+    "limitless_tech"
+   ],
+   "applies": "Tower-of-Babel-style technology — AGI ambitions, biotech overreach, limitless-engineering dreams."
+  },
+  {
+   "id": "ps_139_14",
+   "reference": "Psalm 139:14",
+   "textEn": "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.",
+   "textZh-Hans": "我要称谢你，因我受造奇妙可畏；你的作为奇妙，这是我心深知道的。",
+   "textZh-Hant": "我要稱謝你，因我受造奇妙可畏；你的作為奇妙，這是我心深知道的。",
+   "themeEn": "Wonderfully made",
+   "themeZh": "奇妙可畏的受造",
+   "tags": [
+    "biotech",
+    "genome",
+    "human_body",
+    "wonder",
+    "personhood",
+    "gene_editing"
+   ],
+   "applies": "Genome editing, human enhancement, biotech debates — the body as wonder, not a draft to rewrite."
+  },
+  {
+   "id": "1kgs_19_4",
+   "reference": "1 Kings 19:4",
+   "textEn": "He came to a broom bush, sat down under it and prayed that he might die. 'I have had enough, Yahweh,' he said. 'Take my life; I am no better than my ancestors.'",
+   "textZh-Hans": "他自己在旷野走了一日的路程，来到一棵罗腾树下，就坐在那里求死，说：「雅伟啊，罢了！求你取我的性命，因为我不胜于我的列祖。」",
+   "textZh-Hant": "他自己在曠野走了一日的路程，來到一棵羅騰樹下，就坐在那裡求死，說：「雅偉啊，罷了！求你取我的性命，因為我不勝於我的列祖。」",
+   "themeEn": "Elijah's despair",
+   "themeZh": "以利亚的绝望",
+   "tags": [
+    "suicide",
+    "burnout",
+    "exhaustion",
+    "depression",
+    "spiritual_crisis"
+   ],
+   "applies": "Suicide, suicidal ideation, severe burnout — even Elijah said 'I've had enough.'"
+  },
+  {
+   "id": "ps_42_11",
+   "reference": "Psalm 42:11",
+   "textEn": "Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.",
+   "textZh-Hans": "我的心哪，你为何忧闷？为何在我里面烦躁？应当仰望神，因我还要称赞他。他是我脸上的光荣，是我的神。",
+   "textZh-Hant": "我的心哪，你為何憂悶？為何在我裡面煩躁？應當仰望神，因我還要稱讚他。他是我臉上的光榮，是我的神。",
+   "themeEn": "Talking to your soul",
+   "themeZh": "向自己的心说话",
+   "tags": [
+    "depression",
+    "mental_health",
+    "despair",
+    "self_talk",
+    "hope"
+   ],
+   "applies": "Depression, dark seasons, anchoring hope when feelings sink."
+  },
+  {
+   "id": "2cor_1_8",
+   "reference": "2 Corinthians 1:8",
+   "textEn": "We were under great pressure, far beyond our ability to endure, so that we despaired of life itself.",
+   "textZh-Hans": "我们被压太重，力不能胜，甚至连活命的指望都绝了。",
+   "textZh-Hant": "我們被壓太重，力不能勝，甚至連活命的指望都絕了。",
+   "themeEn": "Beyond endurance",
+   "themeZh": "力不能胜",
+   "tags": [
+    "despair",
+    "crisis",
+    "overwhelm",
+    "mental_health",
+    "ptsd"
+   ],
+   "applies": "Stories of overwhelming pressure where life itself feels too heavy — even Paul named this."
+  },
+  {
+   "id": "mark_5_15",
+   "reference": "Mark 5:15",
+   "textEn": "When they came to Jesus, they saw the man who had been possessed by the legion of demons, sitting there, dressed and in his right mind; and they were afraid.",
+   "textZh-Hans": "他们来到耶稣那里，看见那被鬼附着的人，就是从前被群鬼所附的，坐着，穿上衣服，心里明白过来，他们就害怕。",
+   "textZh-Hant": "他們來到耶穌那裡，看見那被鬼附著的人，就是從前被群鬼所附的，坐著，穿上衣服，心裡明白過來，他們就害怕。",
+   "themeEn": "Restored to right mind",
+   "themeZh": "恢复清醒",
+   "tags": [
+    "mental_illness",
+    "recovery",
+    "psychiatric",
+    "stigma",
+    "healing"
+   ],
+   "applies": "Mental health recovery, anti-stigma stories, psychiatric restoration."
+  },
+  {
+   "id": "1pet_3_7",
+   "reference": "1 Peter 3:7",
+   "textEn": "Husbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life.",
+   "textZh-Hans": "你们作丈夫的，也要按情理和妻子同住；因她比你软弱，与你一同承受生命之恩的，所以要敬重她，这样便叫你们的祷告没有阻碍。",
+   "textZh-Hant": "你們作丈夫的，也要按情理和妻子同住；因她比你軟弱，與你一同承受生命之恩的，所以要敬重她，這樣便叫你們的禱告沒有阻礙。",
+   "themeEn": "Honor in marriage",
+   "themeZh": "婚姻中的尊重",
+   "tags": [
+    "domestic_violence",
+    "marriage",
+    "respect",
+    "abuse",
+    "spousal_abuse"
+   ],
+   "applies": "Domestic violence, spousal abuse, marriages where one partner is dishonored."
+  },
+  {
+   "id": "prov_15_17",
+   "reference": "Proverbs 15:17",
+   "textEn": "Better a small serving of vegetables with love than a fattened calf with hatred.",
+   "textZh-Hans": "吃素菜，彼此相爱，强如吃肥牛，彼此相恨。",
+   "textZh-Hant": "吃素菜，彼此相愛，強如吃肥牛，彼此相恨。",
+   "themeEn": "Love over plenty",
+   "themeZh": "爱胜过丰盛",
+   "tags": [
+    "family",
+    "household",
+    "love",
+    "wealth",
+    "tension"
+   ],
+   "applies": "Wealthy-but-broken homes, family dysfunction, the hidden cost of conflict."
+  },
+  {
+   "id": "ps_68_5",
+   "reference": "Psalm 68:5-6",
+   "textEn": "A father to the fatherless, a defender of widows, is God in his holy dwelling. God sets the lonely in families.",
+   "textZh-Hans": "神在他的圣所作孤儿的父，作寡妇的伸冤者。神叫孤独的有家。",
+   "textZh-Hant": "神在他的聖所作孤兒的父，作寡婦的伸冤者。神叫孤獨的有家。",
+   "themeEn": "Family for the lonely",
+   "themeZh": "为孤独者立家",
+   "tags": [
+    "adoption",
+    "fatherless",
+    "orphan",
+    "foster_care",
+    "single_parent"
+   ],
+   "applies": "Adoption, foster care, orphan crises, single-parent families."
+  },
+  {
+   "id": "josh_24_15",
+   "reference": "Joshua 24:15",
+   "textEn": "But as for me and my household, we will serve Yahweh.",
+   "textZh-Hans": "至于我和我家，我们必定事奉雅伟。",
+   "textZh-Hant": "至於我和我家，我們必定事奉雅偉。",
+   "themeEn": "My household will serve",
+   "themeZh": "我家事奉雅伟",
+   "tags": [
+    "family",
+    "household",
+    "faith",
+    "commitment",
+    "parenting"
+   ],
+   "applies": "Family faith decisions, parenting in a hostile culture, household integrity."
+  },
+  {
+   "id": "mal_4_6",
+   "reference": "Malachi 4:6",
+   "textEn": "He will turn the hearts of the parents to their children, and the hearts of the children to their parents.",
+   "textZh-Hans": "他必使父亲的心转向儿女，儿女的心转向父亲。",
+   "textZh-Hant": "他必使父親的心轉向兒女，兒女的心轉向父親。",
+   "themeEn": "Hearts turning home",
+   "themeZh": "父子彼此回转",
+   "tags": [
+    "estrangement",
+    "reconciliation",
+    "father",
+    "children",
+    "family_repair"
+   ],
+   "applies": "Estranged parents and children, generational reconciliation, family repair."
+  },
+  {
+   "id": "lev_19_33",
+   "reference": "Leviticus 19:33-34",
+   "textEn": "When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt.",
+   "textZh-Hans": "若有外人在你们国中和你同居，就不可欺负他。和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。",
+   "textZh-Hant": "若有外人在你們國中和你同居，就不可欺負他。和你們同居的外人，你們要看他如本地人一樣，並要愛他如己，因為你們在埃及地也作過寄居的。",
+   "themeEn": "Foreigner as native-born",
+   "themeZh": "待寄居者如本族",
+   "tags": [
+    "xenophobia",
+    "immigration",
+    "racism",
+    "foreigner",
+    "equal_treatment"
+   ],
+   "applies": "Xenophobic attacks, anti-immigrant policy, ethnic hostility."
+  },
+  {
+   "id": "eph_2_14",
+   "reference": "Ephesians 2:14",
+   "textEn": "For he himself is our peace, who has made the two groups one and has destroyed the barrier, the dividing wall of hostility.",
+   "textZh-Hans": "因他使我们和睦，将两下合而为一，拆毁了中间隔断的墙。",
+   "textZh-Hant": "因他使我們和睦，將兩下合而為一，拆毀了中間隔斷的牆。",
+   "themeEn": "Wall of hostility down",
+   "themeZh": "拆毁敌意的墙",
+   "tags": [
+    "racial_reconciliation",
+    "division",
+    "wall",
+    "hostility",
+    "ethnic_peace"
+   ],
+   "applies": "Racial reconciliation, breaking ethnic walls, divided communities."
+  },
+  {
+   "id": "jn_4_9",
+   "reference": "John 4:9",
+   "textEn": "The Samaritan woman said to him, 'You are a Jew and I am a Samaritan woman. How can you ask me for a drink?' (For Jews do not associate with Samaritans.)",
+   "textZh-Hans": "撒玛利亚的妇人对他说：「你既是犹太人，怎么向我一个撒玛利亚妇人要水喝呢？」原来犹太人和撒玛利亚人没有来往。",
+   "textZh-Hant": "撒瑪利亞的婦人對他說：「你既是猶太人，怎麼向我一個撒瑪利亞婦人要水喝呢？」原來猶太人和撒瑪利亞人沒有來往。",
+   "themeEn": "Across ethnic lines",
+   "themeZh": "跨越族群",
+   "tags": [
+    "ethnic_division",
+    "cross_cultural",
+    "prejudice",
+    "conversation"
+   ],
+   "applies": "Cross-cultural moments, breaking long-held ethnic taboos, unexpected friendship."
+  },
+  {
+   "id": "jn_11_35",
+   "reference": "John 11:35",
+   "textEn": "Jesus wept.",
+   "textZh-Hans": "耶稣哭了。",
+   "textZh-Hant": "耶穌哭了。",
+   "themeEn": "Jesus wept",
+   "themeZh": "耶稣哭了",
+   "tags": [
+    "grief",
+    "mourning",
+    "loss",
+    "tears",
+    "death"
+   ],
+   "applies": "Profound grief — the proper response to death is tears, not platitudes."
+  },
+  {
+   "id": "2cor_4_16",
+   "reference": "2 Corinthians 4:16",
+   "textEn": "Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day.",
+   "textZh-Hans": "所以，我们不丧胆。外体虽然毁坏，内心却一天新似一天。",
+   "textZh-Hant": "所以，我們不喪膽。外體雖然毀壞，內心卻一天新似一天。",
+   "themeEn": "Wasting yet renewed",
+   "themeZh": "外体毁坏内心更新",
+   "tags": [
+    "terminal_illness",
+    "chronic_decline",
+    "aging_body",
+    "hope",
+    "cancer"
+   ],
+   "applies": "Terminal illness, chronic decline, body wearing out — inner renewal alongside outer loss."
+  },
+  {
+   "id": "phil_1_21",
+   "reference": "Philippians 1:21",
+   "textEn": "For to me, to live is Christ and to die is gain.",
+   "textZh-Hans": "因我活着就是基督，我死了就有益处。",
+   "textZh-Hant": "因我活著就是基督，我死了就有益處。",
+   "themeEn": "Living and dying",
+   "themeZh": "或生或死",
+   "tags": [
+    "death",
+    "martyr",
+    "mortality",
+    "faithful_death",
+    "gain"
+   ],
+   "applies": "Notable Christian deaths, martyrs, holy dying — the believer's view of death."
+  },
+  {
+   "id": "ps_71_9",
+   "reference": "Psalm 71:9",
+   "textEn": "Do not cast me away when I am old; do not forsake me when my strength is gone.",
+   "textZh-Hans": "我年老的时候，求你不要丢弃我；我力气衰弱的时候，求你不要离弃我。",
+   "textZh-Hant": "我年老的時候，求你不要丟棄我；我力氣衰弱的時候，求你不要離棄我。",
+   "themeEn": "Don't forsake the old",
+   "themeZh": "年老不被丢弃",
+   "tags": [
+    "aging",
+    "elder_care",
+    "abandonment",
+    "dementia",
+    "loneliness"
+   ],
+   "applies": "Elder abandonment, aging crises, dementia care, lonely deaths."
+  },
+  {
+   "id": "prov_16_31",
+   "reference": "Proverbs 16:31",
+   "textEn": "Gray hair is a crown of splendor; it is attained in the way of righteousness.",
+   "textZh-Hans": "白发是荣耀的冠冕，在公义的道上必能得着。",
+   "textZh-Hant": "白髮是榮耀的冠冕，在公義的道上必能得著。",
+   "themeEn": "Crown of gray hair",
+   "themeZh": "白发的荣耀",
+   "tags": [
+    "aging",
+    "elderly",
+    "wisdom",
+    "honor",
+    "longevity"
+   ],
+   "applies": "Honoring elders, longevity, late-life wisdom in a youth-obsessed culture."
+  },
+  {
+   "id": "lev_19_32",
+   "reference": "Leviticus 19:32",
+   "textEn": "Stand up in the presence of the aged, show respect for the elderly and revere your God.",
+   "textZh-Hans": "在白发的人面前，你要站起来；也要尊敬老人，又要敬畏你的神。",
+   "textZh-Hant": "在白髮的人面前，你要站起來；也要尊敬老人，又要敬畏你的神。",
+   "themeEn": "Honor the aged",
+   "themeZh": "尊敬长者",
+   "tags": [
+    "elder_care",
+    "respect",
+    "ageism",
+    "nursing_home"
+   ],
+   "applies": "Ageism, elder neglect, nursing-home scandals."
+  },
+  {
+   "id": "isa_46_4",
+   "reference": "Isaiah 46:4",
+   "textEn": "Even to your old age and gray hairs I am he, I am he who will sustain you. I have made you and I will carry you; I will sustain you and I will rescue you.",
+   "textZh-Hans": "直到你们年老，我仍这样；直到你们发白，我仍怀搋。我已造作，也必保抱；我必怀抱，也必拯救。",
+   "textZh-Hant": "直到你們年老，我仍這樣；直到你們髮白，我仍懷搋。我已造作，也必保抱；我必懷抱，也必拯救。",
+   "themeEn": "Carried into old age",
+   "themeZh": "年老仍被怀抱",
+   "tags": [
+    "aging",
+    "dementia",
+    "end_of_life",
+    "sustained",
+    "carried"
+   ],
+   "applies": "End-of-life care, dementia, fears of growing old alone."
+  },
+  {
+   "id": "ecc_12_1",
+   "reference": "Ecclesiastes 12:1",
+   "textEn": "Remember your Creator in the days of your youth, before the days of trouble come and the years approach when you will say, 'I find no pleasure in them.'",
+   "textZh-Hans": "你趁着年幼，衰败的日子尚未来到，就是你所说，我毫无喜乐的那些年日未曾临近之先，当记念造你的主。",
+   "textZh-Hant": "你趁著年幼，衰敗的日子尚未來到，就是你所說，我毫無喜樂的那些年日未曾臨近之先，當記念造你的主。",
+   "themeEn": "Remember in youth",
+   "themeZh": "趁年幼记念造主",
+   "tags": [
+    "aging",
+    "youth",
+    "decline",
+    "memory",
+    "finitude"
+   ],
+   "applies": "Aging societies, youth-aging contrasts, finitude — life remembered before it ends."
+  },
+  {
+   "id": "2cor_5_17",
+   "reference": "2 Corinthians 5:17",
+   "textEn": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+   "textZh-Hans": "若有人在基督里，他就是新造的人，旧事已过，都变成新的了。",
+   "textZh-Hant": "若有人在基督裡，他就是新造的人，舊事已過，都變成新的了。",
+   "themeEn": "New creation in Christ",
+   "themeZh": "在基督里成新造",
+   "tags": [
+    "identity",
+    "new_creation",
+    "change",
+    "transformation",
+    "sexuality"
+   ],
+   "applies": "Identity-rooted controversies — the deeper truth that selfhood is reshaped in Christ."
+  },
+  {
+   "id": "gal_2_20",
+   "reference": "Galatians 2:20",
+   "textEn": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God.",
+   "textZh-Hans": "我已经与基督同钉十字架，现在活着的不再是我，乃是基督在我里面活着；并且我如今在肉身活着，是因信神的儿子而活。",
+   "textZh-Hant": "我已經與基督同釘十字架，現在活著的不再是我，乃是基督在我裡面活著；並且我如今在肉身活著，是因信神的兒子而活。",
+   "themeEn": "Christ lives in me",
+   "themeZh": "基督活在我里面",
+   "tags": [
+    "identity",
+    "self",
+    "ego",
+    "christ_in_us",
+    "gender"
+   ],
+   "applies": "Identity questions where the answer lies beyond self-definition."
+  },
+  {
+   "id": "eph_2_10",
+   "reference": "Ephesians 2:10",
+   "textEn": "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.",
+   "textZh-Hans": "我们原是他的工作，在基督耶稣里造成的，为要叫我们行善，就是神所预备叫我们行的。",
+   "textZh-Hant": "我們原是他的工作，在基督耶穌裡造成的，為要叫我們行善，就是神所預備叫我們行的。",
+   "themeEn": "God's handiwork",
+   "themeZh": "神的工作",
+   "tags": [
+    "identity",
+    "worth",
+    "purpose",
+    "handiwork",
+    "calling"
+   ],
+   "applies": "Identity, worth, and purpose stories — the dignity of being made by God."
+  },
+  {
+   "id": "1cor_6_19",
+   "reference": "1 Corinthians 6:19",
+   "textEn": "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own.",
+   "textZh-Hans": "岂不知你们的身子就是圣灵的殿吗？这圣灵是从神而来，住在你们里面的。并且你们不是自己的人。",
+   "textZh-Hant": "豈不知你們的身子就是聖靈的殿嗎？這聖靈是從神而來，住在你們裡面的。並且你們不是自己的人。",
+   "themeEn": "Body as temple",
+   "themeZh": "身子是圣灵的殿",
+   "tags": [
+    "body",
+    "sexuality",
+    "identity",
+    "temple",
+    "not_your_own"
+   ],
+   "applies": "Body-and-self questions where the body is treated as gift, not commodity."
+  },
+  {
+   "id": "lev_19_35",
+   "reference": "Leviticus 19:35-36",
+   "textEn": "Do not use dishonest standards when measuring length, weight or quantity. Use honest scales and honest weights, an honest ephah and an honest hin.",
+   "textZh-Hans": "你们施行审判，不可行不义；在尺、秤、升、斗上也是如此。要用公道天平、公道法码、公道升斗、公道秤。",
+   "textZh-Hant": "你們施行審判，不可行不義；在尺、秤、升、斗上也是如此。要用公道天平、公道法碼、公道升斗、公道秤。",
+   "themeEn": "Honest measures",
+   "themeZh": "公道的尺秤",
+   "tags": [
+    "fraud",
+    "accounting_fraud",
+    "measurement",
+    "honesty",
+    "corporate_scandal"
+   ],
+   "applies": "Accounting fraud, fake metrics, corporate measurement scandals."
+  },
+  {
+   "id": "prov_11_1",
+   "reference": "Proverbs 11:1",
+   "textEn": "Yahweh detests dishonest scales, but accurate weights find favor with him.",
+   "textZh-Hans": "诡诈的天平为雅伟所憎恶；公平的法码为他所喜悦。",
+   "textZh-Hant": "詭詐的天平為雅偉所憎惡；公平的法碼為他所喜悅。",
+   "themeEn": "Yahweh hates fraud",
+   "themeZh": "雅伟厌恶诡诈",
+   "tags": [
+    "fraud",
+    "fair_trade",
+    "corruption",
+    "commerce",
+    "price_gouging"
+   ],
+   "applies": "Trade fraud, market manipulation, false advertising, price gouging."
+  },
+  {
+   "id": "luke_16_10",
+   "reference": "Luke 16:10",
+   "textEn": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.",
+   "textZh-Hans": "人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。",
+   "textZh-Hant": "人在最小的事上忠心，在大事上也忠心；在最小的事上不義，在大事上也不義。",
+   "themeEn": "Faithful in little",
+   "themeZh": "小事上忠心",
+   "tags": [
+    "integrity",
+    "small_things",
+    "trust",
+    "embezzlement",
+    "compliance"
+   ],
+   "applies": "Embezzlement, compliance failures, small lies that scale into scandals."
+  },
+  {
+   "id": "jas_5_4",
+   "reference": "James 5:4",
+   "textEn": "Look! The wages you failed to pay the workers who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of the Lord Almighty.",
+   "textZh-Hans": "工人给你们收割庄稼，你们亏欠他们的工钱，这工钱有声音呼叫，并且那收割之人的冤声已经入了万军之主的耳了。",
+   "textZh-Hant": "工人給你們收割莊稼，你們虧欠他們的工錢，這工錢有聲音呼叫，並且那收割之人的冤聲已經入了萬軍之主的耳了。",
+   "themeEn": "Cries of unpaid workers",
+   "themeZh": "工人的冤声",
+   "tags": [
+    "wage_theft",
+    "exploitation",
+    "gig_economy",
+    "labor",
+    "sweatshop"
+   ],
+   "applies": "Gig-economy abuses, wage theft, sweatshop scandals — wages that cry out to heaven."
+  },
+  {
+   "id": "deut_6_6",
+   "reference": "Deuteronomy 6:6-7",
+   "textEn": "These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up.",
+   "textZh-Hans": "我今日所吩咐你的话都要记在心上，也要殷勤教训你的儿女。无论你坐在家里，行在路上，躺下，起来，都要谈论。",
+   "textZh-Hant": "我今日所吩咐你的話都要記在心上，也要殷勤教訓你的兒女。無論你坐在家裡，行在路上，躺下，起來，都要談論。",
+   "themeEn": "Pass it to children",
+   "themeZh": "传给儿女",
+   "tags": [
+    "parenting",
+    "formation",
+    "faith_transmission",
+    "education",
+    "screens"
+   ],
+   "applies": "Faith and values education, parenting in a screen-first age."
+  },
+  {
+   "id": "mark_10_14",
+   "reference": "Mark 10:14",
+   "textEn": "Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.",
+   "textZh-Hans": "让小孩子到我这里来，不要禁止他们；因为在神国的，正是这样的人。",
+   "textZh-Hant": "讓小孩子到我這裡來，不要禁止他們；因為在神國的，正是這樣的人。",
+   "themeEn": "Children welcome",
+   "themeZh": "让小孩到我这来",
+   "tags": [
+    "children",
+    "child_protection",
+    "kingdom",
+    "welcome",
+    "child_safety"
+   ],
+   "applies": "Child welfare, protecting children, child-friendly policies and ministries."
+  },
+  {
+   "id": "ps_78_4",
+   "reference": "Psalm 78:4",
+   "textEn": "We will not hide them from their descendants; we will tell the next generation the praiseworthy deeds of Yahweh, his power, and the wonders he has done.",
+   "textZh-Hans": "我们不将这些事向他们的子孙隐瞒，要将雅伟的美德和他的能力，并他奇妙的作为，述说给后代听。",
+   "textZh-Hant": "我們不將這些事向他們的子孫隱瞞，要將雅偉的美德和他的能力，並他奇妙的作為，述說給後代聽。",
+   "themeEn": "Telling the next generation",
+   "themeZh": "传给后代",
+   "tags": [
+    "generational",
+    "memory",
+    "history",
+    "education",
+    "heritage"
+   ],
+   "applies": "History education debates, generational memory, what we owe the young."
+  },
+  {
+   "id": "prov_1_7",
+   "reference": "Proverbs 1:7",
+   "textEn": "The fear of Yahweh is the beginning of knowledge, but fools despise wisdom and instruction.",
+   "textZh-Hans": "敬畏雅伟是知识的开端；愚妄人藐视智慧和训诲。",
+   "textZh-Hant": "敬畏雅偉是知識的開端；愚妄人藐視智慧和訓誨。",
+   "themeEn": "Beginning of knowledge",
+   "themeZh": "知识的开端",
+   "tags": [
+    "education",
+    "knowledge",
+    "schools",
+    "university",
+    "credentials"
+   ],
+   "applies": "University crises, anti-intellectualism, credentialed foolishness."
+  },
+  {
+   "id": "1cor_9_24",
+   "reference": "1 Corinthians 9:24",
+   "textEn": "Do you not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize.",
+   "textZh-Hans": "岂不知在场上赛跑的都跑，但得奖赏的只有一人？你们也当这样跑，好叫你们得着奖赏。",
+   "textZh-Hant": "豈不知在場上賽跑的都跑，但得獎賞的只有一人？你們也當這樣跑，好叫你們得著獎賞。",
+   "themeEn": "Run for the prize",
+   "themeZh": "为奖赏而跑",
+   "tags": [
+    "sports",
+    "race",
+    "competition",
+    "training",
+    "olympics"
+   ],
+   "applies": "Major sporting events, athletic excellence, championship moments."
+  },
+  {
+   "id": "1cor_9_25",
+   "reference": "1 Corinthians 9:25",
+   "textEn": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.",
+   "textZh-Hans": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
+   "textZh-Hant": "凡較力爭勝的，諸事都有節制，他們不過是要得能壞的冠冕；我們卻是要得不能壞的冠冕。",
+   "themeEn": "Perishable vs eternal crown",
+   "themeZh": "能坏与不能坏的冠冕",
+   "tags": [
+    "athlete",
+    "discipline",
+    "fame",
+    "perishable",
+    "trophy"
+   ],
+   "applies": "Olympics, championships, athletic discipline meeting fading glory."
+  },
+  {
+   "id": "2tim_4_7",
+   "reference": "2 Timothy 4:7",
+   "textEn": "I have fought the good fight, I have finished the race, I have kept the faith.",
+   "textZh-Hans": "那美好的仗我已经打过了，当跑的路我已经跑尽了，所信的道我已经守住了。",
+   "textZh-Hant": "那美好的仗我已經打過了，當跑的路我已經跑盡了，所信的道我已經守住了。",
+   "themeEn": "Race finished",
+   "themeZh": "跑尽当跑的路",
+   "tags": [
+    "retirement",
+    "legacy",
+    "finish",
+    "career",
+    "farewell"
+   ],
+   "applies": "Athlete or career retirements, end-of-career tributes, capstone moments."
+  },
+  {
+   "id": "heb_12_1",
+   "reference": "Hebrews 12:1",
+   "textEn": "Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us.",
+   "textZh-Hans": "我们既有这许多的见证人，如同云彩围着我们，就当放下各样的重担，脱去容易缠累我们的罪，存心忍耐，奔那摆在我们前头的路程。",
+   "textZh-Hant": "我們既有這許多的見證人，如同雲彩圍著我們，就當放下各樣的重擔，脫去容易纏累我們的罪，存心忍耐，奔那擺在我們前頭的路程。",
+   "themeEn": "Run with perseverance",
+   "themeZh": "存心忍耐奔跑",
+   "tags": [
+    "endurance",
+    "race",
+    "perseverance",
+    "witnesses",
+    "comeback"
+   ],
+   "applies": "Long careers, perseverance stories, comebacks against the odds."
+  },
+  {
+   "id": "prov_27_21",
+   "reference": "Proverbs 27:21",
+   "textEn": "The crucible for silver and the furnace for gold, but people are tested by their praise.",
+   "textZh-Hans": "鼎为炼银，炉为炼金，人的称赞也试炼人。",
+   "textZh-Hant": "鼎為煉銀，爐為煉金，人的稱讚也試煉人。",
+   "themeEn": "Tested by praise",
+   "themeZh": "称赞试炼人",
+   "tags": [
+    "fame",
+    "celebrity",
+    "praise",
+    "character",
+    "viral_fame"
+   ],
+   "applies": "Celebrity scandals — how fame tests character, fan worship, viral fame."
+  },
+  {
+   "id": "matt_18_6",
+   "reference": "Matthew 18:6",
+   "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
+   "textZh-Hans": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
+   "textZh-Hant": "凡使這信我的一個小子跌倒的，倒不如把大磨石拴在這人的頸項上，沉在深海裡。",
+   "themeEn": "Woe to those who harm children",
+   "themeZh": "使小子跌倒的祸",
+   "tags": [
+    "child_abuse",
+    "predator",
+    "child_safety",
+    "accountability",
+    "cover_up"
+   ],
+   "applies": "Child abuse, predator scandals, institutional cover-ups."
+  },
+  {
+   "id": "eph_4_32",
+   "reference": "Ephesians 4:32",
+   "textEn": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+   "textZh-Hans": "并要以恩慈相待，存怜悯的心，彼此饶恕，正如神在基督里饶恕了你们一样。",
+   "textZh-Hant": "並要以恩慈相待，存憐憫的心，彼此饒恕，正如神在基督裡饒恕了你們一樣。",
+   "themeEn": "Kind and compassionate",
+   "themeZh": "恩慈相待",
+   "tags": [
+    "kindness",
+    "online_kindness",
+    "compassion",
+    "empathy"
+   ],
+   "applies": "Online cruelty, lack of empathy, calls for kindness in public discourse."
+  },
+  {
+   "id": "prov_12_18",
+   "reference": "Proverbs 12:18",
+   "textEn": "The words of the reckless pierce like swords, but the tongue of the wise brings healing.",
+   "textZh-Hans": "说话浮躁的，如刀刺人；智慧人的舌头却为医人的良药。",
+   "textZh-Hant": "說話浮躁的，如刀刺人；智慧人的舌頭卻為醫人的良藥。",
+   "themeEn": "Reckless words pierce",
+   "themeZh": "言语如刀",
+   "tags": [
+    "online_speech",
+    "cyberbullying",
+    "healing_words",
+    "social_media"
+   ],
+   "applies": "Cyberbullying, reckless words online, healing speech needed."
+  },
+  {
+   "id": "ps_27_10",
+   "reference": "Psalm 27:10",
+   "textEn": "Though my father and mother forsake me, Yahweh will receive me.",
+   "textZh-Hans": "我父母离弃我，雅伟必收留我。",
+   "textZh-Hant": "我父母離棄我，雅偉必收留我。",
+   "themeEn": "When parents forsake",
+   "themeZh": "父母离弃我",
+   "tags": [
+    "abandonment",
+    "orphan",
+    "foster",
+    "rejection",
+    "unloved"
+   ],
+   "applies": "Parental abandonment, orphans, foster-care stories, the unloved."
+  },
+  {
+   "id": "jn_8_7",
+   "reference": "John 8:7",
+   "textEn": "Let any one of you who is without sin be the first to throw a stone at her.",
+   "textZh-Hans": "你们中间谁是没有罪的，谁就可以先拿石头打她。",
+   "textZh-Hant": "你們中間誰是沒有罪的，誰就可以先拿石頭打她。",
+   "themeEn": "Without sin, throw first stone",
+   "themeZh": "无罪的先扔石头",
+   "tags": [
+    "mob",
+    "cancel_culture",
+    "public_shaming",
+    "mercy",
+    "pile_on"
+   ],
+   "applies": "Public shaming, cancel culture, mob justice, social-media pile-ons."
+  },
+  {
+   "id": "eph_6_12",
+   "reference": "Ephesians 6:12",
+   "textEn": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
+   "textZh-Hans": "因我们并不是与属血气的争战，乃是与那些执政的、掌权的、管辖这幽暗世界的，以及天空属灵气的恶魔争战。",
+   "textZh-Hant": "因我們並不是與屬血氣的爭戰，乃是與那些執政的、掌權的、管轄這幽暗世界的，以及天空屬靈氣的惡魔爭戰。",
+   "themeEn": "Not against flesh and blood",
+   "themeZh": "并非与血气争战",
+   "tags": [
+    "spiritual_warfare",
+    "tribalism",
+    "ideology",
+    "unseen_battles",
+    "polarization"
+   ],
+   "applies": "Stories framed as people-vs-people that are really about deeper forces — polarized politics, ideological wars."
+  },
+  {
+   "id": "matt_5_44",
+   "reference": "Matthew 5:44",
+   "textEn": "Love your enemies and pray for those who persecute you.",
+   "textZh-Hans": "要爱你们的仇敌，为那逼迫你们的祷告。",
+   "textZh-Hant": "要愛你們的仇敵，為那逼迫你們的禱告。",
+   "themeEn": "Love your enemies",
+   "themeZh": "爱仇敌",
+   "tags": [
+    "enemies",
+    "persecutor",
+    "love",
+    "prayer",
+    "political_enemy"
+   ],
+   "applies": "Stories about loving political opponents, praying for persecutors, breaking enmity cycles."
+  },
+  {
+   "id": "ps_19_1",
+   "reference": "Psalm 19:1",
+   "textEn": "The heavens declare the glory of God; the skies proclaim the work of his hands.",
+   "textZh-Hans": "诸天述说神的荣耀，穹苍传扬他的手段。",
+   "textZh-Hant": "諸天述說神的榮耀，穹蒼傳揚他的手段。",
+   "themeEn": "Heavens declare",
+   "themeZh": "诸天述说",
+   "tags": [
+    "astronomy",
+    "space",
+    "stars",
+    "cosmos",
+    "telescope",
+    "wonder"
+   ],
+   "applies": "Astronomy and space stories — new images, missions, discoveries that evoke awe at the scale of the cosmos."
+  },
+  {
+   "id": "job_38_4",
+   "reference": "Job 38:4",
+   "textEn": "Where were you when I laid the earth's foundation? Tell me, if you understand.",
+   "textZh-Hans": "我立大地根基的时候，你在哪里呢？你若有聪明，只管说吧。",
+   "textZh-Hant": "我立大地根基的時候，你在哪裡呢？你若有聰明，只管說吧。",
+   "themeEn": "Limits of knowledge",
+   "themeZh": "知识的界限",
+   "tags": [
+    "origins",
+    "geology",
+    "deep-time",
+    "humility",
+    "mystery",
+    "research"
+   ],
+   "applies": "Research that humbles human certainty — origins of life, deep time, findings that overturn what we thought we knew."
+  },
+  {
+   "id": "prov_25_2",
+   "reference": "Proverbs 25:2",
+   "textEn": "It is the glory of God to conceal a matter; to search out a matter is the glory of kings.",
+   "textZh-Hans": "将事隐秘乃神的荣耀；将事察清乃君王的荣耀。",
+   "textZh-Hant": "將事隱祕乃神的榮耀；將事察清乃君王的榮耀。",
+   "themeEn": "Glory of discovery",
+   "themeZh": "探索的荣耀",
+   "tags": [
+    "discovery",
+    "research",
+    "breakthrough",
+    "science",
+    "curiosity"
+   ],
+   "applies": "Scientific breakthroughs and research milestones — the dignity and joy of finding out what was hidden."
+  },
+  {
+   "id": "rom_1_20",
+   "reference": "Romans 1:20",
+   "textEn": "Since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made.",
+   "textZh-Hans": "自从造天地以来，神的永能和神性是明明可知的，虽是眼不能见，但借着所造之物就可以晓得。",
+   "textZh-Hant": "自從造天地以來，神的永能和神性是明明可知的，雖是眼不能見，但藉著所造之物就可以曉得。",
+   "themeEn": "Creation reveals",
+   "themeZh": "造物启示",
+   "tags": [
+    "nature",
+    "biology",
+    "design",
+    "wonder",
+    "wildlife",
+    "ecosystem"
+   ],
+   "applies": "Stories of natural wonder — intricate animal behaviour, ecosystems, the astonishing machinery of life."
+  },
+  {
+   "id": "ps_104_24",
+   "reference": "Psalm 104:24",
+   "textEn": "How many are your works, Yahweh! In wisdom you made them all; the earth is full of your creatures.",
+   "textZh-Hans": "雅伟啊，你所造的何其多！都是你用智慧造成的；遍地满了你的丰富。",
+   "textZh-Hant": "雅偉啊，你所造的何其多！都是你用智慧造成的；遍地滿了你的豐富。",
+   "themeEn": "Wisdom in creation",
+   "themeZh": "智慧的创造",
+   "tags": [
+    "biodiversity",
+    "species",
+    "ocean",
+    "wildlife",
+    "ecology",
+    "nature"
+   ],
+   "applies": "Biodiversity, newly described species, ocean and wildlife reporting."
+  },
+  {
+   "id": "isa_40_26",
+   "reference": "Isaiah 40:26",
+   "textEn": "Lift up your eyes and look to the heavens: Who created all these? He who brings out the starry host one by one and calls forth each of them by name.",
+   "textZh-Hans": "你们向上举目，看谁创造这万象，按数目领出，他一一称其名。",
+   "textZh-Hant": "你們向上舉目，看誰創造這萬象，按數目領出，他一一稱其名。",
+   "themeEn": "He names the stars",
+   "themeZh": "举目望天",
+   "tags": [
+    "stars",
+    "space",
+    "astronomy",
+    "scale",
+    "universe"
+   ],
+   "applies": "Star catalogues, cosmic surveys, stories dwelling on the sheer number and order of things in the sky."
+  },
+  {
+   "id": "col_1_17",
+   "reference": "Colossians 1:17",
+   "textEn": "He is before all things, and in him all things hold together.",
+   "textZh-Hans": "他在万有之先；万有也靠他而立。",
+   "textZh-Hant": "他在萬有之先；萬有也靠他而立。",
+   "themeEn": "All things hold together",
+   "themeZh": "万有靠他而立",
+   "tags": [
+    "physics",
+    "laws",
+    "order",
+    "cosmos",
+    "mathematics",
+    "constants"
+   ],
+   "applies": "Physics and fundamental-law stories — the deep order and constancy underlying nature."
+  },
+  {
+   "id": "gen_1_31",
+   "reference": "Genesis 1:31",
+   "textEn": "God saw all that he had made, and it was very good.",
+   "textZh-Hans": "神看着一切所造的都甚好。",
+   "textZh-Hant": "神看著一切所造的都甚好。",
+   "themeEn": "Very good creation",
+   "themeZh": "甚好的创造",
+   "tags": [
+    "conservation",
+    "restoration",
+    "recovery",
+    "environment",
+    "rewilding"
+   ],
+   "applies": "Conservation wins — species recovering, habitats restored, creation flourishing again."
+  },
+  {
+   "id": "prov_18_15",
+   "reference": "Proverbs 18:15",
+   "textEn": "The heart of the discerning acquires knowledge, for the ears of the wise seek it out.",
+   "textZh-Hans": "聪明人的心得知识；智慧人的耳求知识。",
+   "textZh-Hant": "聰明人的心得知識；智慧人的耳求知識。",
+   "themeEn": "Seeking knowledge",
+   "themeZh": "求知识的心",
+   "tags": [
+    "education",
+    "learning",
+    "research",
+    "study",
+    "innovation"
+   ],
+   "applies": "Education and research-culture stories — societies and people investing in learning."
+  },
+  {
+   "id": "1cor_10_23",
+   "reference": "1 Corinthians 10:23",
+   "textEn": "\"I have the right to do anything,\" you say — but not everything is beneficial. \"I have the right to do anything\" — but not everything is constructive.",
+   "textZh-Hans": "凡事都可行，但不都有益处；凡事都可行，但不都造就人。",
+   "textZh-Hant": "凡事都可行，但不都有益處；凡事都可行，但不都造就人。",
+   "themeEn": "Not all beneficial",
+   "themeZh": "未必都有益",
+   "tags": [
+    "ai",
+    "ethics",
+    "technology",
+    "regulation",
+    "biotech",
+    "surveillance"
+   ],
+   "applies": "New technology raising ethical questions — AI, biotech, surveillance: capability outrunning wisdom."
+  }
+ ]
 }
