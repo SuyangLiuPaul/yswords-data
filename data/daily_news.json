@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T13:26:08.090Z",
-  "editionDate": "2026-08-23",
+  "generatedAt": "2026-08-23T14:00:18.169Z",
+  "editionDate": "2026-08-24",
   "sources": [
     {
       "name": "The Guardian World",
@@ -174,6 +174,24 @@
       }
     },
     {
+      "name": "Phys.org",
+      "url": "https://phys.org/rss-feed/",
+      "category": "science",
+      "categoryLabel": {
+        "en": "Science",
+        "zh": "科学"
+      }
+    },
+    {
+      "name": "The Guardian Wildlife",
+      "url": "https://www.theguardian.com/environment/wildlife/rss",
+      "category": "science",
+      "categoryLabel": {
+        "en": "Science",
+        "zh": "科学"
+      }
+    },
+    {
       "name": "BBC Technology",
       "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
       "category": "technology",
@@ -217,12 +235,111 @@
         "zh": "全球"
       },
       "sourceNotes": [
-        "The Guardian World",
         "BBC News World",
+        "The Guardian World",
         "DW World",
         "SBS News World"
       ],
       "items": [
+        {
+          "id": "www-bbc-co-uk-sport-athletics-articles-c9989lm0vkro-at-medium-rss-at-cam",
+          "section": "world",
+          "source": "BBC News World",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/59e8/live/c52553d0-9ef5-11f1-aed4-af6fe65bfcd6.jpg",
+          "publishedAt": "2026-08-23T13:35:06.000Z",
+          "title": {
+            "en": "Kejelcha breaks men's half marathon world record by 29 seconds",
+            "zh": null
+          },
+          "summary": {
+            "en": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Ethiopia's Yomif Kejelcha has broken the men's half marathon world record, winning a World Athletics road race in Buenos Aires on Sunday in 56 minutes 51 seconds.\n\nThe 29-year-old previously held the record with a time of 57:30, set in Valencia in October 2024, but lost that to Uganda's Jacob Kiplimo in March .\n\nKiplimo ran 57:20 in Lisbon earlier this year but Kejelcha has now knocked 29 seconds off that time to regain the record, subject to official ratification.\n\nThe world track silver medallist in the 10,000m also holds the world record for a men's 10,000m road race.\n\nHe also became one of the first men to run a sub-two hour marathon in record-eligible conditions earlier this year when finishing second behind Kenya's Sebastian Sawe in the London Marathon.\n\nSawe won the record-breaking race in 1:59:30 , beating Kejelcha by just 11 seconds.",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-23-massachusetts-officer-death-home",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant",
+          "image": "https://i.guim.co.uk/img/media/2b4a48951f37b3c7ff5030ab3244672ef31ccca4/88_0_876_701/master/876.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1035c0647e18d99fa271827fd7c658f2",
+          "publishedAt": "2026-08-23T13:25:20.000Z",
+          "title": {
+            "en": "Arrest warrant issued for wife of Massachusetts officer found dead at home",
+            "zh": null
+          },
+          "summary": {
+            "en": "Woman remains missing more than five days after police found officer she was married to dead in their home An arrest warrant has been issued for a mental health advocate who remained missing on Sunday, more than five days after police found the Massachusetts officer she had been...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Woman remains missing more than five days after police found officer she was married to dead in their home An arrest warrant has been issued for a mental health advocate who remained missing on Sunday, more than five days after police found the Massachusetts officer she had been married to dead in their home. Karen Solomon, 58, was last spotted in a doorbell camera video, walking down a street in a T-shirt, shorts and flip-flops early Tuesday morning, just minutes after Worcester police officers responded to a call from the home where Kurt Solomon was found dead. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-uk-news-2026-aug-23-tributes-paid-cleveland-police-k",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
+          "image": "https://i.guim.co.uk/img/media/731e798cf0c4e3b64e84258000d65129e0667e8c/128_280_3154_2523/master/3154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60fcd07995c1c2b48588cc2b0b8d02a1",
+          "publishedAt": "2026-08-23T13:15:04.000Z",
+          "title": {
+            "en": "Tributes paid to officers killed in A66 crash as police name five in other car",
+            "zh": null
+          },
+          "summary": {
+            "en": "Redcar MP says Teesside community is ‘reeling’ after head-on collision involving vehicle being driven wrong way Tributes are being paid to two police officers who died on Teesside when a car travelling the wrong way along the A66 crashed head-on into their vehicle, also killing...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Redcar MP says Teesside community is ‘reeling’ after head-on collision involving vehicle being driven wrong way Tributes are being paid to two police officers who died on Teesside when a car travelling the wrong way along the A66 crashed head-on into their vehicle, also killing five young men. PC Matthew Blades, 37, and PC Tom Clough, 38, were killed when the marked armed response vehicle they were in was struck by a Volkswagen Passat in the early hours of Saturday morning. Continue reading...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-world-2026-aug-23-russia-withdraws-ambassador-uk-kre",
           "section": "world",
@@ -232,7 +349,7 @@
           "image": "https://i.guim.co.uk/img/media/3cc98ed45264c41995eb0d07bc84e2fcc0aa9201/234_0_2694_2155/master/2694.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef4676e7bae882432a5b49ac1ded2f99",
           "publishedAt": "2026-08-23T13:01:11.000Z",
           "title": {
-            "en": "Russia withdraws ambassador to UK as Kremlin ratchets pressure over Ukraine support",
+            "en": "Russia withdraws ambassador to UK as Kremlin raises pressure over Ukraine support",
             "zh": null
           },
           "summary": {
@@ -240,7 +357,7 @@
             "zh": "这是一则来自全球栏目的新闻，重点涉及盼望、忍耐与重建。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Russia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressure on Britain over its support for Ukraine .\n\nAndrey Kelin left last month after seven years in the diplomatic post, according to the Russian embassy in London.\n\nTensions have since ratcheted up, with a warning by the embassy last week of “consequences” after it emerged Britain was supplying attack drones to Kyiv.\n\nRussia’s online list of “senior diplomatic staff” in the UK now includes only Vasily A Tsyganov, chargé d’affaires at the embassy.\n\nA gap between ambassadors was not unprecedented, said John Foreman, a former British defence attache in Moscow and Kyiv. But he said in a post on X: “The embassy’s strident ‘consequences’ statement this week and the huge deterioration of bilateral relations since 2018 and especially since the start of the war make me wonder if Moscow will permanently downgrade the relationship this time, by default by not replacing him.”\n\nA spokesperson for the embassy said the Kremlin had concluded Kelin’s diplomatic mission on 21 July.\n\n“As for the state of Russia-UK relations across all areas, they have deteriorated to an unprecedentedly low level entirely on London’s initiative,” they added.\n\nA spokesperson told the Sunday Times Kelin had made efforts to preserve channels of communication with the UK and accused the government of choosing a “path of confrontation” with Russia.\n\n“He left Britain in the hope that a more constructive and respectful dialogue could eventually be restored, should the UK reconsider its policies towards our country,” they said, adding the Kremlin had not yet put forward a replacement candidate.\n\nThe embassy later issued a statement saying there was nothing in the comments to imply that Russia intended to downgrade diplomatic relations with the UK.\n\n​A spokesperson for Britain’s Foreign Office said: “This is a matter for the Russian ministry of foreign affairs. We have an ambassador and embassy in Moscow to engage and raise concerns with the Russian government.\n\n“We continue to stand shoulder to shoulder with Ukraine, which has the right to defend itself against Russia’s illegal and unprovoked invasion.”\n\nShaun Pinner, a former British soldier who later fought alongside Ukrainian marines before he was captured and held for a time by Russian forces, said there would be arguments that Kelin’s exit had been a “dangerous erosion” of communication between Britain and Russia but he added that this had not been the case for some time in reality.\n\nHe said: “If Moscow refuses to meaningfully engage, rebuffs attempts at communication and uses its diplomatic presence primarily to repeat Kremlin narratives, then we shouldn’t pretend we’re witnessing some functioning diplomatic relationship.”\n\nKelin has...",
+            "en": "Russia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressure on Britain over its support for Ukraine .\n\nAndrey Kelin left last month after seven years in the diplomatic post, according to the Russian embassy in London.\n\nTensions have since ratcheted up, with a warning by the embassy last week of “consequences” after it emerged Britain was supplying attack drones to Kyiv.\n\nRussia’s online list of “senior diplomatic staff” in the UK now includes only Vasily A Tsyganov, chargé d’affaires at the embassy.\n\nA gap between ambassadors was not unprecedented, said John Foreman, a former British defence attache in Moscow and Kyiv. But he said in a post on X: “The embassy’s strident ‘consequences’ statement this week and the huge deterioration of bilateral relations since 2018 and especially since the start of the war make me wonder if Moscow will permanently downgrade the relationship this time, by default by not replacing him.”\n\nA spokesperson for the embassy said the Kremlin had concluded Kelin’s diplomatic mission on 21 July. “As for the state of Russia-UK relations across all areas, they have deteriorated to an unprecedentedly low level entirely on London’s initiative,” they added.\n\nA spokesperson told the Sunday Times Kelin had made efforts to preserve channels of communication with the UK and accused the government of choosing a “path of confrontation” with Russia.\n\n“He left Britain in the hope that a more constructive and respectful dialogue could eventually be restored, should the UK reconsider its policies towards our country,” they said, adding that the Kremlin had not yet put forward a replacement candidate.\n\nThe embassy later issued a statement saying there was nothing in the comments to imply that Russia intended to downgrade diplomatic relations with the UK.\n\n​A spokesperson for Britain’s Foreign Office said: “This is a matter for the Russian ministry of foreign affairs. We have an ambassador and embassy in Moscow to engage and raise concerns with the Russian government.\n\n“We continue to stand shoulder to shoulder with Ukraine, which has the right to defend itself against Russia’s illegal and unprovoked invasion.”\n\nShaun Pinner, a former British soldier who later fought alongside Ukrainian marines before he was captured and held for a time by Russian forces, said there would be arguments that Kelin’s exit had been a “dangerous erosion” of communication between Britain and Russia but he added that this had not been the case for some time in reality.\n\nHe said: “If Moscow refuses to meaningfully engage, rebuffs attempts at communication and uses its diplomatic presence primarily to repeat Kremlin narratives, then we shouldn’t pretend we’re witnessing some functioning diplomatic relationship.”\n\nKelin...",
             "zh": null
           },
           "reflection": {
@@ -320,238 +437,6 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-articles-cj36kv62g7yo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/158f/live/ed9a2d40-9ef0-11f1-aed4-af6fe65bfcd6.jpg",
-          "publishedAt": "2026-08-23T12:51:15.000Z",
-          "title": {
-            "en": "Wicker Man director's sons complete their late father's film trilogy",
-            "zh": null
-          },
-          "summary": {
-            "en": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Robin Hardy always envisaged his iconic 1973 folk horror film The Wicker Man as the first part of a trilogy.\n\nThe Wicker Tree, released in 2011, brought him closer to that ambition, but his death in 2016 at the age of 86 left the project incomplete.\n\nNow his sons, Justin and Dominic, have been able to complete their father's trilogy, after finding a script for the final film.\n\nWrath of the Gods has its premiere at the FrightFest horror festival in London , external on Friday, a family dream made possible thanks to the surprise discovery of some long-lost family archive.\n\n\"The person who bought Justin's old family home said they'd discovered six sacks of letters, scripts and other material pertaining to Robin Hardy and The Wicker Man in the attic,\" says Dominic, an art historian at the University of Quebec in Montreal.\n\n\"Justin's first instinct was to burn them, but we couldn't ignore this original source material. Although we left it unopened for six months or more.\"\n\nThe archive haul included papers, scripts and storyboards, but it also shed light on the long shadow cast by The Wicker Man.\n\nThe film holds a unique place in British cinema history. It was shot at a time when the UK industry was in crisis. Its financial backers were struggling and its stars - including horror legend Christopher Lee - had to go without being paid to get it finished.\n\nIt was set on a Hebridean island in spring but was shot in Galloway in the autumn and early winter. On its release, it was largely buried as a second feature. There were competing edits and tales of missing material, some of which was said to be literally buried in the supporting columns of a motorway.\n\nBut the film's reputation grew. Lee considered it one of his finest films, featuring one of his finest performances. Its off-kilter tone and genuinely disturbing climax made it a favourite for horror fans.\n\nBy the time the BBC launched the cult cinema series Moviedrome in 1988 , external , there was only one choice for opening night - the premiere of a previously unseen edit of The Wicker Man.\n\nThe film's troubled production was mirrored by the troubles it brought Robin Hardy and his family.\n\nIt bankrupted the director, and he abandoned Justin's mother Caroline, leaving her with all his debts.\n\nJustin and Dominic talk about their complicated relationship with the film in the 2024 book and documentary Children Of The Wicker Man.\n\nThe recently unearthed archive included a script for that proposed third and final film, Wrath of the Gods, as well as details of how their father had come up with the idea.\n\n\"He had had been in an airplane and had a turn because his heart medication wasn't working,\" says Dominic.\n\n\"He had to land in Reykjavik and spend a week recuperating, and he came back with this idea of a theme...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-news-videos-c7vgvj6e1emo-at-medium-rss-at-campaign-rss",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
-          "publishedAt": "2026-08-23T12:47:06.000Z",
-          "title": {
-            "en": "Robot boxing, football and sprinting at World Humanoid Games",
-            "zh": null
-          },
-          "summary": {
-            "en": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The competition, which kicked off on Saturday, will run for five days and has already included a robot running faster than Usain Bolt's 100m sprint world record.\n\nElsewhere at the event in Beijing, a robot performed Cristiano Ronaldo's iconic 'Siuuu' celebration on the football pitch and droids took part in synchronised marching at its opening ceremony.\n\nRobots have also been competing in events including boxing, high jump, Tai Chi and table tennis.\n\nThe BBC's China correspondent Stephen McDonell reports from the country's capital.",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-bbc-co-uk-sport-football-articles-cr4941zkgevo-at-medium-rss-at-camp",
-          "section": "world",
-          "source": "BBC News World",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0010/live/8943d720-9ee5-11f1-b109-879e35c24276.png",
-          "publishedAt": "2026-08-23T12:36:54.000Z",
-          "title": {
-            "en": "'New season, new trim' - Haaland reveals buzzcut",
-            "zh": null
-          },
-          "summary": {
-            "en": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Whether it be Zlatan Ibrahimovic, Gareth Bale or Erling Haaland, football has witnessed some iconic man buns over the years.\n\nHowever, Haaland has decided to begin the new Premier League season with a new - and very different - look.\n\nThe Manchester City striker revealed on social media that he had shed his famous blonde locks, posting the caption: \"New season, new trim.\"\n\nHaaland will be hoping his new look brings even more goals as he aims to get off the mark when Enzo Maresca's side face Bournemouth at 14:00 BST on Sunday.\n\nBefore cutting his hair, Haaland joked around by showing off some images of his previous hairstyles during his career, and some questionable ideas of how his new hair should look.\n\nLooking nervous as the hairdresser cut the first piece, it didn't take long for Haaland to start smiling about his new appearance.\n\nThere were mixed reactions when the 26‑year‑old made video calls to City team-mate Jack Grealish, Oasis' Noel Gallagher and former City manager Pep Guardiola.\n\n\"You look about 10 years old. That is hilarious. I can't stop looking at the front of your hair. I love it,\" said Grealish.\n\n\"No way. You're lucky you have hair. I would love to have it. I love it,\" said Guardiola.\n\nBefore calling Ibrahimovic, Haaland joked that the former Sweden international told him never to cut his long hair.\n\n\"Zlatan told me, never cut your hair, because your strength is in your hair. I'm a bit nervous. I want a buzz cut, like in the military.\"\n\nIt turned out Ibrahimovic was not impressed that Haaland didn't follow his advice.\n\n\"What did you do? You lost a bet or what? Block me and erase my number,\" Ibrahimovic said.",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-us-news-2026-aug-23-luigi-mangione-state-case-brian-",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson",
-          "image": "https://i.guim.co.uk/img/media/478b5740417490d2f3f53db350ed47d6120d4612/150_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd3d6aab40a7f252eff43128e55340c7",
-          "publishedAt": "2026-08-23T12:00:32.000Z",
-          "title": {
-            "en": "Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say",
-            "zh": null
-          },
-          "summary": {
-            "en": "Defense files motion to dismiss state case after federal guilty plea but prosecutors say they are prepared to litigate After Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most experts believe that the state murder case...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Defense files motion to dismiss state case after federal guilty plea but prosecutors say they are prepared to litigate After Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most experts believe that the state murder case against is highly unlikely to proceed – though some still see a slim possibility that it may yet happen. Mangione, who pleaded guilty on 14 August to two federal stalking counts, was scheduled for a New York state trial on 8 September for murder and weapons charges in the December 2024 killing. In the wake of Mangione’s surprise plea, legal experts said New York’s state-level double jeopardy law – which means someone cannot be tried twice for the same crime – could derail his local prosecution. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-aug-23-iran-new-security-chief-trump-econ",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-          "image": "https://i.guim.co.uk/img/media/12b06c48e7e64060343fb59c63ad213067e6e1a8/487_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aebda9562711236a2647754b6c9013db",
-          "publishedAt": "2026-08-23T11:50:36.000Z",
-          "title": {
-            "en": "Iran’s president says country faces ‘many problems’ as US ramps up sanctions",
-            "zh": "伊朗总统称国家面临“诸多问题”，美国加大制裁力度"
-          },
-          "summary": {
-            "en": "Tehran has acknowledged that the Iranian people are facing “many problems” as the US intensifies efforts to isolate the country’s economy with sanctions, which President Masoud Pezeshkian described as “a full-scale economic, military and security war.”",
-            "zh": "德黑兰承认伊朗人民正面临“诸多问题”，因为美国正加大力度通过制裁孤立该国经济，伊朗总统马苏德·佩泽什基安称之为“一场全面的经济、军事和安全战争”。"
-          },
-          "body": {
-            "en": "Tehran’s acknowledgment of economic hardships comes a day before US expected to announce further measures Authorities in Tehran have acknowledged that the Iranian people are facing “many problems” as the US intensifies its efforts to isolate the country’s economy with a range of sanctions that Donald Trump has called “the most crushing economic operation ever taken against any country”. Speaking on Sunday, Iran’s president, Masoud Pezeshkian, said Trump had thrust his country into “a full-scale economic, military and security war”. “I understand we have many problems in society right now. We are trying to prevent these as much as we can,” he said in a speech broadcast on state television. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "The Iranian president's acknowledgment that his country faces “many problems” due to intensified sanctions highlights the profound economic hardship impacting ordinary people. In times when resources are scarce and the future uncertain, as described by President Pezeshkian as “a full-scale economic, military and security war,” the prophet Habakkuk reminds...",
-            "zh": "伊朗总统承认该国因制裁加剧而面临“诸多问题”，这突显了经济困境对普通民众的深远影响。在资源匮乏、未来不确定之时，正如佩泽什基安总统所描述的“一场全面的经济、军事和安全战争”，先知哈巴谷提醒我们，真正的盼望不在于物质的丰盛，而在于雅伟。即使“田地不产粮食”，信心也能成为我们的锚，使我们在匮乏中仍能在我们的救主雅伟里喜乐。"
-          },
-          "verse": {
-            "reference": "Habakkuk 3:17-18",
-            "textEn": "Though the fig tree does not bud and there are no grapes on the vines... yet I will rejoice in Yahweh.",
-            "textZh": "虽然无花果树不发旺，葡萄树不结果……然而，我要因雅伟欢欣。",
-            "themeEn": "Joy in scarcity",
-            "themeZh": "在缺乏中喜乐"
-          },
-          "aiVerseId": "hab_3_17",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-aug-23-ukraine-election-wartime-risk-russ",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-          "image": "https://i.guim.co.uk/img/media/125d91e786f9cb71270d91c213096e4a92d6289b/638_0_3065_2451/master/3065.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47d5161939490c6e33dca66d94a2d39c",
-          "publishedAt": "2026-08-23T11:50:12.000Z",
-          "title": {
-            "en": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-            "zh": null
-          },
-          "summary": {
-            "en": "President sharply criticises proposal, saying ‘elections right now are a tsunami for the state that will split Ukraine’ Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "President sharply criticises proposal, saying ‘elections right now are a tsunami for the state that will split Ukraine’ Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers. The Ukrainian president, responding for the first time to a demand made by the sacked former defence minister Mykhailo Fedorov, sharply criticised an idea that he said was impractical given Russia appeared to have no interest in a ceasefire. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-politics-2026-aug-23-andy-burnham-pressure-labour-co",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-          "image": "https://i.guim.co.uk/img/media/ec0744852a17ac2bbbae27142080744bd3f9b1e2/889_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c548c2403a661ca36e7297684dcfe568",
-          "publishedAt": "2026-08-23T11:26:40.000Z",
-          "title": {
-            "en": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
-            "zh": null
-          },
-          "summary": {
-            "en": "Grassroots groups to urge PM to break with Starmer policy and impose full arms embargo on Israel Grassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek to force the prime minister to recognise Israel’s actions...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Grassroots groups to urge PM to break with Starmer policy and impose full arms embargo on Israel Grassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek to force the prime minister to recognise Israel’s actions as a genocide and impose a full arms embargo. Momentum, Labour & Palestine, the Campaign for Labour Party Democracy and Palestine Solidarity Campaign (PSC) plan to ramp up pressure on Burnham before his first Labour conference as prime minister next month. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
           },
           "translationState": "fallback"
         },
@@ -655,74 +540,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-dw-com-en-ukraine-could-ex-defense-minister-challenge-zelenskyy-a-78",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/78423301_6.jpg",
-          "publishedAt": "2026-08-23T05:46:00.000Z",
-          "title": {
-            "en": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
-            "zh": "乌克兰：前国防部长能否挑战泽连斯基？"
-          },
-          "summary": {
-            "en": "Former Ukrainian defense minister Mykhailo Fedorov recently released a video criticizing corruption, leadership issues, and the state of elections in Ukraine. His comments have initiated a broad public discussion.",
-            "zh": "乌克兰前国防部长米哈伊洛·费多罗夫最近发布了一段视频，批评了乌克兰的腐败、领导力危机和选举状况。他的言论引发了广泛的公众辩论。"
-          },
-          "body": {
-            "en": "Last week, former Ukrainian defense minister Mykhailo Fedorov released a video in which he spoke of corruption, a crisis of leadership and elections. His explosive remarks have sparked widespread public debate.\n\nThis week, Ukraine was rocked by a series of political scandals. A month after stepping down as defense minister, Mykhailo Fedorov addressed the Ukrainian people in a nine-minute speech posted on his YouTube channel.\n\nIn his video message, he declares that Ukraine \"cannot remain without a fully appointed minister of defense.\" But, he continues, \"the main problem goes much deeper than one position or one ministry.\"\n\nHe says Ukraine's greatest challenge is a \"systemic crisis of governance,\" of which corruption is only a symptom. Fedorov also criticized the fact that no national elections have been held in Ukraine since 2019.\n\nA few hours earlier, the Ukrainian president, Volodymyr Zelenskyy , had proposed Yevhenii Khmara to parliament as the new defense minister. Khmara had been made acting minister of defense on July 20, and parliament confirmed him in the position on August 19.\n\nWhen Fedorov spoke of corruption in government authorities, he may not have known about the scandal that would break the very day after he published his speech. On August 19, Ukrainian anti-corruption investigators searched the premises of several high-ranking officials, including a presidential deputy chief of staff, Iryna Mudra, and a member of parliament, Vadym Stolar.\n\nUkraine's National Anti-Corruption Bureau (NABU) stated that it was \"conducting a special operation to expose a criminal organization\" in conjunction with the Specialized Anti-Corruption Prosecutor's Office.\n\nAccording to the investigating authorities, this organization was led by a current and a former Ukrainian lawmaker, and involved senior officials from the president's office. Volodymyr Zelenskyy dismissed Mudra from her post as presidential deputy chief of staff the same day.\n\nIn his video, Mykhailo Fedorov warns that \"it is especially dangerous when society feels that the main criterion for appointing a person is not their professionalism, results, or ability […] but their personal loyalty to the system.\" He says that a \"legal, safe, and realistic mechanism\" needs to be found to make it possible to hold elections, even if Russia's war against Ukraine &#160;continues&#160;for a long time.\n\nThe president dismissed Fedorov from his post as defense minister on July 15. Protests calling for his reinstatement began the following day in Kyiv, Lviv, Dnipro, Kharkiv, Zaporizhzhia, and other cities. According to polls conducted by the Rating opinion research institute on July 20 and 21, trust in the ex-minister rose from 35% to 65% in the first week of the protests. Of&#160;the respondents, 72% thought...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "The former minister's remarks highlight the deep public concern over leadership and governance. Proverbs 29:2 reminds us that the character of those in authority profoundly impacts the well-being of a nation, leading either to public joy or widespread distress. It underscores the spiritual truth that righteous leadership is foundational for a flourishing...",
-            "zh": "前国防部长的言论凸显了公众对领导力和治理的深切关注。箴言29:2提醒我们，掌权者的品格深刻影响着国家的福祉，或带来民众的喜乐，或导致普遍的痛苦。这强调了公义的领导是社会繁荣的基石这一属灵真理。"
-          },
-          "verse": {
-            "reference": "Proverbs 29:2",
-            "textEn": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
-            "textZh": "义人增多，民就喜乐；恶人掌权，民就叹息。",
-            "themeEn": "Righteous vs wicked rulers",
-            "themeZh": "义人执政与恶人当道"
-          },
-          "aiVerseId": "prov_29_2",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-dw-com-en-mexican-governor-facing-us-drug-charges-says-leaving-offic",
-          "section": "world",
-          "source": "DW World",
-          "sourceUrl": "https://rss.dw.com/rdf/rss-en-world",
-          "link": "https://www.dw.com/en/mexican-governor-facing-us-drug-charges-says-leaving-office/a-78473557?maca=en-rss-en-world-4025-rdf",
-          "image": "https://static.dw.com/image/76989882_6.jpg",
-          "publishedAt": "2026-08-23T04:47:00.000Z",
-          "title": {
-            "en": "Mexican governor facing US drug charges says leaving office",
-            "zh": "墨西哥州长面临美国毒品指控，称将离职"
-          },
-          "summary": {
-            "en": "Ruben Rocha Moya, the governor of Sinaloa state, has requested another leave of absence shortly after resuming his duties, following his entanglement in drug trafficking charges.",
-            "zh": "锡那罗亚州州长鲁本·罗查·莫亚在因贩毒指控而卷入争议后，于重返岗位几天后再次申请休假。"
-          },
-          "body": {
-            "en": "Embroiled in drug trafficking charges, Ruben Rocha Moya has asked for another leave of absence just days after returning to his position as Sinaloa state governor.\n\nA Mexican state govenor, who is wanted by the US for conspiracy to smuggle drugs, says he&#160;sought a temporary but indefinite leave of absence just days after his controversial return to office.\n\n\"Sinaloa, the nation, and the movement of transformation are above everything,\" Sinaloa Governor Ruben Rocha Moya said in a post on X while sharing a document asking the state congress to authortize a \"temporary leave of absence of indefinite duration, exceeding 30 days.\"&#160;\n\nJust one&#160;day earlier, the politician had announced on X that he was resuming state leadership of Sinaloa. The 77-year-old had stepped away from his position in May to face an investigation by Mexican prosecutors.\n\nIn April, US prosecutors alleged that Rocha and nine other current or former officials of the ruling Morena Party conspired with a faction of the Sinaloa Cartel to traffic drugs into the US in exchange for bribes and political support. It was the first time the US publicly charged a sitting Mexican politician.\n\nRocha has consistently denied the charges and implied that accusations against him are an attempt to harm the left-leaning Morena party.\n\nRocha's return announcement was not well received in the government or within his own Morena Party. Mexican President Claudia Sheinbaum on said \"no personal interest can ever be placed above the interest of the people and the nation.\"\n\n\"Power without principles becomes arrogance; power without limits, abuse; and power that forgets the people ends up confronting history,\" she said, adding that Mexico deserved public servants who were not there to \"feed personal ambitions.\"\n\nRocha was considered an&#160;ally of Sheinbaum and is very close to her mentor, former president Andres Manuel Lopez Obrador.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
-            "zh": null
-          },
-          "reflection": {
-            "en": "The news of a governor stepping down amidst drug charges reminds us that leadership carries a profound responsibility to uphold justice. Proverbs 16:12 highlights that a ruler's authority is sustained by righteousness, and evil actions are an abomination to Yahweh. This situation underscores the importance of integrity for all who serve in public office, as...",
-            "zh": "一位州长因毒品指控而辞职的消息提醒我们，领导者肩负着维护正义的重大责任。箴言16:12指出，统治者的权柄是靠公义建立的，邪恶的行为对雅伟而言是可憎的。这起事件强调了所有公职人员廉正的重要性，因为他们的行为塑造着政府的稳定和公信力。"
-          },
-          "verse": {
-            "reference": "Proverbs 16:12",
-            "textEn": "Kings detest wrongdoing, for a throne is established through righteousness.",
-            "textZh": "作恶为王所憎恶，因国位是靠公义坚立。",
-            "themeEn": "Righteous rule",
-            "themeZh": "以公义治国"
-          },
-          "aiVerseId": "prov_16_12",
-          "translationState": "localized"
-        },
-        {
           "id": "www-sbs-com-au-news-article-trump-iran-sanctions-options-okubc6bmn",
           "section": "world",
           "source": "SBS News World",
@@ -754,74 +571,6 @@
             "themeZh": "刚强、仁爱、谨守"
           },
           "aiVerseId": "2tim_1_7",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-mark-carney-us-canada-trump-tariff-trade-war",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/article/mark-carney-us-canada-trump-tariff-trade-war/6p0twor5s",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-mark-carney-us-canada-trump-tariff-trade-war.jpg",
-          "publishedAt": "2026-08-22T23:48:00.000Z",
-          "title": {
-            "en": "Canada's Carney stands up to Trump in an escalating trade war. Could his gamble pay off?",
-            "zh": "加拿大卡尼在不断升级的贸易战中对抗特朗普。他的赌注能成功吗？"
-          },
-          "summary": {
-            "en": "Mark Carney was elected last year on a promise to be a tough negotiator with Trump, and remains broadly popular in Canada.",
-            "zh": "马克·卡尼去年当选时承诺将成为与特朗普的强硬谈判者，他在加拿大仍然广受欢迎。"
-          },
-          "body": {
-            "en": "Canadian Prime Minister Mark Carney announced retaliatory tariffs on the United States on Sunday, after walking away from a \"bad deal\" on trade in a deepening rift between the longtime allies.\n\nNegotiations between the neighbouring countries broke down on Saturday in Washington, triggering new 50 per cent US tariffs that will affect about US$20 billion ($27.9 billion) worth of goods, or 5.5 per cent of Canadian exports to the United States.\n\nCarney then announced retaliatory duties on US goods, notably steel and dairy products, to take effect on 8 September.\n\nAlthough Carney stood up to US President Donald Trump by rejecting what he called an \"unfair\" trade deal, this gamble could prove economically risky.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nCanada has been seeking relief from Trump's tariffs on autos, steel and aluminium, which have battered the country's economy, forced job losses and strained what was once an iron-clad trade relationship.\n\nThe White House had alleged \"discriminatory treatment\" by Canada against US alcohol, automobile and dairy products in introducing the duties.\n\nTrump had said Washington \"should be able to have a deal with Canada,\" citing his \"good relationship\" with Carney.\n\nBut on Saturday, Canada's prime minister said Trump set conditions that were ultimately unacceptable even though earlier talks had been positive.\n\n\"In recent days, the United States proposed new terms that were uneconomic, unfair and undermined the net benefits for Canada, and called into question the reliability of any deal,\" Carney said in Ottawa.\n\n\"We cannot accept what they've offered, and we will not give what they've asked.\"\n\n\"Our government understood before many that America would transform all of its commercial relationships, that it would put a series of tariffs on its closest allies, and use economic integration as a weapon,\" Carney said on Saturday.\n\nHe pledged that his country would match the US tariffs \"dollar for dollar to protect our workers and businesses\".\n\nCarney, the former head of the central banks of Canada and Britain, earned full support across Canada's political spectrum, with opposition leader Pierre Poilievre calling on citizens to \"stand united to defend our country against these unfair attacks on our jobs and businesses.\"\n\nThe Globe and Mail, in an editorial, said: \"In the end, Prime Minister Mark Carney took the hint from the Canadian public rather than the bait from the US president.\"\n\nA poll published earlier in the week revealed that 56 per cent of Canadians surveyed wanted their government to take a \"hard line\" and make no more concessions to the US on trade.\n\nSince Trump's return to the White House in January 2025, Canada...",
-            "zh": "加拿大总理马克·卡尼周日宣布对美国征收报复性关税，此前这两个长期盟友之间的裂痕不断加深，他放弃了一项“糟糕的贸易协议”。 邻国之间的谈判周六在华盛顿破裂，引发美国征收新的 50% 关税，这将影响价值约 200 亿美元（合 279 亿美元）的商品，即加拿大对美国出口的 5.5%。 卡尼随后宣布对美国商品（特别是钢铁和乳制品）征收报复性关税，将于 9 月 8 日生效。 尽管卡尼勇敢地面对美国总统唐纳德·特朗普，拒绝了他所谓的“不公平”贸易协议，但这场赌博可能会带来经济风险。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 加拿大一直在寻求缓解特朗普对汽车、钢铁和铝征收的关税，这些关税重创了该国经济，迫使人们失业，并使曾经坚如磐石的贸易关系变得紧张。 白宫指控加拿大在征收关税时对美国酒类、汽车和乳制品实行“歧视性待遇”。 特朗普曾表示华盛顿“应该能够与加拿大达成协议”，并援引他与卡尼的“良好关系”。 但周六，加拿大总理表示，尽管早些时候的谈判是积极的，但特朗普设定的条件最终是不可接受的。 卡尼在渥太华表示：“最近几天，美国提出了不经济、不公平的新条款，损害了加拿大的净利益，并使任何协议的可靠性受到质疑。” “我们不能接受他们所提供的东西，我们也不会给予他们所要求的东西。” 卡尼周六表示：“我们的政府在许多人之前就明白，美国将改变其所有商业关系，将对其最亲密的盟友征收一系列关税，并利用经济一体化作为武器。” 他承诺，他的国家将“以美元对美元”追平美国的关税，以保护我们的工人和企业。 加拿大和英国前央行行长卡尼赢得了加拿大政界的全力支持，反对党领袖皮埃尔·波利耶夫呼吁公民“团结起来，保卫我们的国家，免受这些对我们工作和企业的不公平攻击”。 《环球邮报》在社论中称：“最终，马克·卡尼总理接受了加拿大公众的暗示，而不是美国总统的诱饵。” 本周早些时候公布的一项民意调查显示，56%的受访加拿大人希望他们的政府采取“强硬路线”，不再在贸易问题上向美国做出更多让步。 自特朗普于2025年1月重返白宫以来，加拿大..."
-          },
-          "reflection": {
-            "en": "Navigating complex international trade disputes requires leaders to make difficult strategic decisions. Proverbs 11:14 reminds us that a nation thrives when its leaders seek and receive abundant wise counsel. In high-stakes negotiations, the well-being of a people depends on thoughtful guidance and collective wisdom.",
-            "zh": "应对复杂的国际贸易争端，领导者需要做出艰难的战略决策。箴言11:14提醒我们，一个国家若有众多谋士，就能安稳兴盛。在高风险的谈判中，一个民族的福祉取决于深思熟虑的指导和集体的智慧。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "aiVerseId": "prov_11_14",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-sbs-com-au-news-dateline-article-sam-was-sent-to-prison-during-china",
-          "section": "world",
-          "source": "SBS News World",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/world/feed",
-          "link": "https://www.sbs.com.au/news/dateline/article/sam-was-sent-to-prison-during-chinas-crackdown-in-hong-kong-he-returned-to-a-city-in-silence/cub2afki9",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-dateline-article-sam-was-sent-to-prison-during-china.png",
-          "publishedAt": "2026-08-22T20:40:51.000Z",
-          "title": {
-            "en": "Sam was sent to prison during China's crackdown in Hong Kong. He returned to a city in silence",
-            "zh": "香港镇压异见，山姆出狱后发现城市一片寂静"
-          },
-          "summary": {
-            "en": "Six years after China imposed the National Security Law, Hong Kong's crackdown on dissent has spread beyond its borders.",
-            "zh": "中国实施《国家安全法》六年之后，香港对异见的镇压已蔓延至境外。"
-          },
-          "body": {
-            "en": "Watch Dateline&#x2019;s latest episode, Hong Kong: A City Silenced, on 25 August at 9.30pm AEST on SBS or SBS On Demand.\n\nAt 21, Sam Chan Chi-sum was preparing to leave Hong Kong to continue his studies overseas.\n\nHe'd been involved with a student activist group that collected sweets and toiletries to send to people jailed after Hong Kong&#x2019;s 2019 anti-government protests.\n\nAuthorities accused the group of using the supplies to build support among prisoners and incite opposition to the government.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nIn September 2021, Sam was arrested under Hong Kong&#x2019;s sweeping National Security Law, which had been passed a year earlier, and was convicted of \"subversion with the intent of overthrowing the government\".\n\n\"Prison was awful. I shared a cell with around twenty people. At its most crowded, there could be forty of us,\" he said.\n\nHe alleged some prison officers purposely mistreated inmates associated with the protest movement.\n\n\"I don't know whether they were acting out of personal conviction or following orders. But they certainly made life difficult for us.\"\n\nTwo years after his release from prison, Sam is trying to rebuild a normal life.\n\nHe had dreamt of becoming a teacher or a nurse, but his criminal record prevents him from pursuing either career.\n\n\"Since being released from prison, I feel as though I've entered a much larger cell,\" he said.\n\nInstead, he is training to become a documentary filmmaker, determined, he says, to capture the transformation of Hong Kong.\n\n\"Whatever the outcome for Hong Kong, whether the future is good or bad, I want to stay here and witness the changes that lie ahead.\"\n\nSam&#x2019;s story is like many other young Hongkongers whose lives have been upended by China&#x2019;s crackdown on freedoms in Hong Kong, a city once known for its outspoken press, independent judiciary and political opposition.\n\nIn 1997, after more than 150 years of British rule, Hong Kong was handed back to China under the \"one country, two systems\" arrangement that promised Hong Kong would keep a high degree of autonomy.\n\nLike Sam, Carmen Lau was from a generation that came of age after this handover to China: neither British, nor truly Chinese.\n\nAs a teenager, Carmen led a student movement in her secondary school against the Chinese Communist Party's (CCP) attempt to introduce 'patriotism' lessons in Hong Kong schools.\n\nMany Hongkongers feared it would promote the CCP&#x2019;s version of patriotism in their city.\n\n\"That time was the first time that I was really involved in a social event,\" said Lau, who&#x2019;s now 30 and lives in exile in London.\n\nFollowing large demonstrations, the CCP abandoned its plans...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "The story of Sam returning to a silenced city after imprisonment highlights the profound impact of oppressive rule on a community. Yahweh's word reminds us that a wicked ruler can be like a roaring lion, bringing fear and helplessness to the people. In such times, we are called to remember the dignity of every individual and pray for justice and peace.",
-            "zh": "山姆在被囚禁后回到一个寂静的城市，这个故事凸显了压迫性统治对一个社区的深远影响。雅伟的话语提醒我们，邪恶的统治者如同咆哮的狮子，给人民带来恐惧和无助。在这样的时刻，我们被呼召要记住每个人的尊严，并为公义与和平祷告。"
-          },
-          "verse": {
-            "reference": "Proverbs 28:15",
-            "textEn": "Like a roaring lion or a charging bear is a wicked ruler over a helpless people.",
-            "textZh": "暴虐的君王辖制贫民，好像吼叫的狮子、觅食的熊。",
-            "themeEn": "Tyranny",
-            "themeZh": "暴政"
-          },
-          "aiVerseId": "prov_28_15",
           "translationState": "localized"
         }
       ]
@@ -1542,173 +1291,6 @@
             "themeZh": "和睦"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-complex-reality-of-tiny-house-living-926rh62",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/complex-reality-of-tiny-house-living/926rh62ei",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-complex-reality-of-tiny-house-living-926rh62.png",
-          "publishedAt": "2026-08-22T20:41:10.000Z",
-          "title": {
-            "en": "They rejected the Aussie dream. What they bought instead cost $130,000",
-            "zh": null
-          },
-          "summary": {
-            "en": "Some people are choosing tiny homes over the traditional Australian dream. Could smaller mean smarter?",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "A sprawling property with a white picket fence was once a symbol of success, but for Lizzie Villestas this version of home ownership is a trap, not a triumph.\n\n\"For many, success is measured by the square footage of your property and for us, we began to see large homes as a different kind of trap; one that comes with massive debt and endless maintenance,\" Villestas told SBS Chinese.\n\nFor more than three years, she has lived in a tiny house measuring just eight metres long and 2.5 metres wide, or 20 square metres. The average floor area of a new house in Australia was 232.3 square metres in 2021/22, according to the Australian Bureau of Statistics.\n\nVillestas' space may be small, but it's been thoughtfully designed, featuring a deep green and timber colour palette, akin to the surrounding bushland. It's even fitted with a study loft, bathtub and an indoor fireplace.\n\nA labour of love, the property was constructed by Villestas and David Menhennett over 18 months and cost about $130,000. The couple now live in north-east Victoria and can relocate their tiny house on wheels across Australia, as desired.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"It was a virtual no-brainer ... most Australians are looking down the barrel of now ... a 30-year mortgage of up to a million dollars to own an average home,\" said Menhennett, who previously lived in Hong Kong for around 20 years.\n\nCompounded by Australia's housing crisis , experts believe demand for tiny houses is surging. But while these properties promise big savings, they're often associated with regulatory red tape and financing complexities .\n\nDriven by a desire to achieve financial freedom , Danielle Lester decided to adopt tiny house living two years ago.\n\nShe now serves as president of the volunteer-run Australian Tiny Homes Association (ATHA) but admits it's difficult to gather robust data about the number of tiny homes in Australia.\n\n\"Our membership base doesn't fully represent the amount of people who are living in tiny homes around Australia, and we find because of the regulatory complexity, a lot of people are choosing to do it under the radar, at their own risk,\" Lester told SBS News.\n\n\"Obviously, people have got no other option at the moment but to find a roof to put over their heads.\"\n\nIn part, that's because there's no official national definition for what constitutes a tiny house in Australia. Instead, they are regulated by federal, state and local government authorities &#x2014; whose planning policies can often overlap and contradict each other.\n\nGriffith University emeritus professor Paul Burton said tiny homes are also classified differently depending on their design.\n\nThat includes tiny houses...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-the-pitt-made-shabana-azeez-famous-she-think",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/the-pitt-made-shabana-azeez-famous-she-thinks-its-bad-for-your-health/gmg4c9wzv",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-the-pitt-made-shabana-azeez-famous-she-think.png",
-          "publishedAt": "2026-08-22T20:41:03.000Z",
-          "title": {
-            "en": "The Pitt made her a breakout star overnight. She thinks that's the problem",
-            "zh": null
-          },
-          "summary": {
-            "en": "Shabana Azeez landed in Hollywood by accident. She's still figuring out what to make of it.",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Share your feedback and help us improve this feature. Read more about how we use AI at SBS here.\n\nBut since landing the role of medical student Victoria Javadi on HBO Max's The Pitt &#x2014; a show that swept last year's awards season, taking home five Emmys and two Golden Globes &#x2014; the 29-year-old Adelaidian has had a front-row seat to what being a rising star actually does to a person.\n\nFor Azeez, the experience has brought an expected lesson about success: even as her career takes off in Hollywood, home &#x2014; and the ordinariness that comes with it &#x2014; remains her way of keeping perspective.\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n\"It's not that I'm famous or anything &#x2014; thank God &#x2014; but there is that kind of thing starting and happening in these small ways. It's bad for you.\"\n\n\"I think it's really good for your soul to get off the chessboard a little bit,\" she says.\n\nIt's a grounded way to talk about a career that, by any measure, is having a moment.\n\nThe Pitt turned Azeez into one of the more closely watched Australian acting newcomers in recent years &#x2014; a stardom made stranger by the fact that she remained largely incognito at home even as the show became an international hit.\n\nThe series has since been renewed for a third season, giving Azeez another opportunity to build on the role that brought her to a global audience.\n\nWhen she flew to Los Angeles to shoot the medical drama, she wasn't chasing a long-held plan, and she certainly wasn't arriving fresh out of drama school &#x2014; she'd actually been rejected from one years earlier.\n\nShe got there through a mix of good luck and bad: a safer arts admin job after drama school rejection, then a boss who, sensing her heart wasn't in the work, booked her an audition for a short film without asking (thankfully, she landed it).\n\nThat opportunity pulled her into Adelaide's indie filmmaking scene, eventually leading to her feature debut in 2023's Birdeater and, after the film screened internationally, to US representation and an audition for The Pitt.\n\nGrowing up in Adelaide, the daughter of Indo-Fijian migrants, Azeez never really considered acting an option.\n\n\"The narrative was: do not become an actor, so help me, God,\" she says of her parents' position.\n\n\"It's not unreasonable for migrant parents &#x2014; who've given up their culture and their home to give you financial stability, security and safety &#x2014; it's not unreasonable for them to say, 'I gave up everything to give you safety. Please don't mess this up.'\"\n\nEven now, as her profile continues to rise, Azeez talks about the industry as if she's still waiting for her luck to run out.\n\n\"It works out for very few...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-2026-aug-23-tinnitus-ringing-in-the-e",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/23/tinnitus-ringing-in-the-ears-didnt-stop",
-          "image": "https://i.guim.co.uk/img/media/1ce14e70e0aa1e2ff9a2b96bc58f59f46d3a7262/0_746_2200_1759/master/2200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd662252fd94442a4f5c7b88a9a635ce",
-          "publishedAt": "2026-08-22T20:00:14.000Z",
-          "title": {
-            "en": "I’d heard ringing in my ears before. This time, it didn’t stop",
-            "zh": "我以前也听过耳鸣，但这次它没有停止"
-          },
-          "summary": {
-            "en": "Miranda Luby, 36, experienced the sudden onset of persistent tinnitus two years ago, characterized by a high-pitched electronic hum that appeared without warning and for no clear reason.",
-            "zh": "36岁的米兰达·卢比两年前突然出现持续性耳鸣，这种高频电子嗡鸣声毫无预兆地出现，且原因不明。"
-          },
-          "body": {
-            "en": "Miranda Luby was only 36 years old when her tinnitus arrived in the middle of the night, without warning and for no clear reason One night two years ago, I was lying in bed when I began to hear a high-pitched, electronic hum. The scene that followed would be comical if it wasn’t so traumatic. I roamed around the house in my PJs, frantically pressing my ears against various electrical appliances. It took half an hour to realise the sound was coming from inside my own head. I’d heard ringing in my ears before, rising then falling, like a one-note crescendo of an orchestra. As a kid, I used to believe the myth it was the sound of dying ear cells, playing a swan song for a frequency I’d never hear again. This was different. This time, it didn’t stop. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "Living with a chronic condition like tinnitus can be profoundly challenging, as the body experiences an unwelcome change that doesn't cease. Yet, even when our outer circumstances or physical selves are afflicted, Yahweh offers a profound inner renewal that strengthens our spirit day by day. This hope allows us to find resilience and purpose even amidst...",
-            "zh": "患上耳鸣等慢性疾病可能极具挑战性，因为身体会经历一种不请自来的持续性变化。然而，即使我们的外在环境或身体受到困扰，雅伟仍能赐予我们深刻的内在更新，日复一日地坚固我们的灵。这份盼望使我们即使在持续的困境中也能找到韧性和意义。"
-          },
-          "verse": {
-            "reference": "2 Corinthians 4:16",
-            "textEn": "Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day.",
-            "textZh": "所以，我们不丧胆。外体虽然毁坏，内心却一天新似一天。",
-            "themeEn": "Wasting yet renewed",
-            "themeZh": "外体毁坏内心更新"
-          },
-          "aiVerseId": "2cor_4_16",
-          "translationState": "localized"
-        },
-        {
-          "id": "www-theguardian-com-australia-news-audio-2026-aug-23-david-pocock-on-the",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/audio/2026/aug/23/david-pocock-on-the-real-betrayal-of-labors-deal-on-gambling-reforms-full-story-podcast",
-          "image": "https://i.guim.co.uk/img/media/7bba5a18238a2d88c0a824196dc722726567c441/313_0_1875_1500/master/1875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e18aed644729bf4b56fd783f0ea36b26",
-          "publishedAt": "2026-08-22T20:00:13.000Z",
-          "title": {
-            "en": "David Pocock on the ‘real betrayal’ of Labor’s deal on gambling reforms - podcast",
-            "zh": null
-          },
-          "summary": {
-            "en": "This week, the Albanese government passed major reforms to online gambling advertising and deep cuts to rein in NDIS spending – all with the Coalition’s support. David Pocock has long been a vocal critic of the government’s approach to both of these issues, saying Labor and the...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "This week, the Albanese government passed major reforms to online gambling advertising and deep cuts to rein in NDIS spending – all with the Coalition’s support. David Pocock has long been a vocal critic of the government’s approach to both of these issues, saying Labor and the opposition have failed to stand up to vested interests on gambling reforms. And while he agrees NDIS cuts are needed, he says major parties have ignored expert evidence on the value of community participation and are handing over important decisions to algorithms with little scrutiny. Political editor Tom McIlroy speaks to the independent senator about what he thinks this notable week of deal-making means for the nation’s political future – while both major parties continue to be spooked by One Nation’s rise Read more: I have seen the raw grief of a family who lost a son to gambling. Labor’s stitch-up shows politics is broken | David Pocock Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-sbs-com-au-news-article-template-zmgwy8jxq",
-          "section": "australia",
-          "source": "SBS News Australia",
-          "sourceUrl": "https://www.sbs.com.au/news/topic/australia/feed",
-          "link": "https://www.sbs.com.au/news/article/template/zmgwy8jxq",
-          "image": "https://yswords-data.netlify.app/images/news/www-sbs-com-au-news-article-template-zmgwy8jxq.jpg",
-          "publishedAt": "2026-08-22T07:09:19.000Z",
-          "title": {
-            "en": "'Incredibly traumatic experience': Third woman eyes legal action over Swans hotel ordeal",
-            "zh": "“极其痛苦的经历”：第三名女性就天鹅队酒店事件考虑采取法律行动"
-          },
-          "summary": {
-            "en": "A third woman has come forward, joining two others in alleging they were sexually assaulted by Sydney Swans players in a hotel, and is now considering legal action.",
-            "zh": "第三名女性加入另外两名女性的行列，声称她们在一家酒店遭到悉尼天鹅队球员的性侵，目前正考虑采取法律行动。"
-          },
-          "body": {
-            "en": "Lawyers for a third woman who allegedly endured sexual assault during a hotel gathering of Sydney Swans players say she is suffering an \"incredibly traumatic experience\".\n\nPersonal injury specialist Slater and Gordon has been engaged by one of now three women allegedly hired as adult entertainers to party with five Swans players at the Pullman Hotel in East Melbourne on Monday morning.\n\nThe firm has been asked to determine whether the woman \"involved in the alleged sexual assaults\" has grounds to file a civil claim, says senior lawyer Jackson Pannam.\n\n''Everyone deserves to be safe going about their life, at home, at work and in public spaces without risk of being assaulted or harmed,'' he said in a statement on Saturday.\n\nAccording to Mr Pannam, the woman, who contacted police immediately after the alleged assault, has had her world turned upside down and is navigating an \"incredibly traumatic experience\".\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\n''We will be putting all of the relevant parties on notice in due course,'' he earlier told reporters.\n\n''We're standing with our client to give her support at this difficult time and to help her get the justice she deserves.''\n\nTwo other women at the centre of an investigation involving the five players were subjected to \"abhorrent\" actions, the women's lawyer had alleged.\n\nThe Sydney Swans have \"categorically confirmed\" no members of the AFL club's staff were involved in police investigations into the alleged sexual assault at Melbourne's Pullman Hotel.\n\nFive players - Isaac Heeney, Chad Warner, Nick Blakey, Riley Bice and James Jordon - have been suspended for the rest of the season for \"breaching club standards\".\n\nThe sanctions on the five men are separate to the police investigations into sexual assault allegations and the events at East Melbourne's Pullman Hotel in the early hours of Monday morning.\n\nVictoria Police and Sydney released separate statements on Saturday, with the Swans repeating a previous statement that no club representatives other than the five suspended players were in the hotel room in question.\n\n\"The Sydney Swans supports the action taken by Victoria Police in releasing today's statement regarding the investigation,\" the Swans said in their statement.\n\n\"The Sydney Swans categorically confirms that no member of staff is involved in the investigation. This includes being in the hotel room central to the police investigation.\n\n\"The club reiterates that no player has been interviewed by police at this stage.\"\n\nVictoria Police said their investigation was ongoing and no charges have been laid.\n\n\"Detectives from the Sexual Crimes Squad continue to investigate a report of a sexual assault in...",
-            "zh": "第三名据称在悉尼天鹅队球员酒店聚会期间遭受性侵犯的女性的律师表示，她正在遭受“令人难以置信的创伤经历”。 周一早上，人身伤害专家斯莱特和戈登被一名据称被聘为成人艺人的三名女性聘用，与五名天鹅队球员在东墨尔本的铂尔曼酒店举行派对。 高级律师杰克逊·帕纳姆 (Jackson Pannam) 表示，该公司已被要求确定这名“涉嫌性侵犯”的妇女是否有理由提出民事索赔。 他在周六的一份声明中表示，“每个人都应该在家里、工作中和公共场所安全地生活，而不会受到攻击或伤害。” 帕纳姆表示，这名女子在涉嫌袭击事件后立即联系了警方，她的世界发生了翻天覆地的变化，正在经历“令人难以置信的创伤经历”。 您值得信赖的来源，让您了解周围世界的最新动态。直接将免费的每日新闻更新和分析发送到您的收件箱。 “我们将在适当的时候通知所有相关方，”他早些时候告诉记者。 “我们与客户站在一起，在这个困难时刻为她提供支持，并帮助她得到应有的正义。” 这名女性律师声称，参与这五名球员调查的另外两名女性也遭受了“令人憎恶”的行为。 悉尼天鹅队“明确证实”AFL俱乐部的工作人员没有参与警方对墨尔本铂尔曼酒店涉嫌性侵犯的调查。 五名球员——艾萨克·希尼、查德·华纳、尼克·布莱基、莱利·比斯和詹姆斯·乔丹——因“违反俱乐部标准”而被停赛至本赛季剩余比赛。 对这五名男子的制裁与警方对性侵犯指控和周一凌晨东墨尔本铂尔曼酒店事件的调查是分开的。 维多利亚警方和悉尼周六分别发表声明，天鹅队重申了之前的声明，即除了五名被停赛的球员外，没有任何俱乐部代表出现在相关酒店房间内。 天鹅队在声明中表示：“悉尼天鹅队支持维多利亚警方今天发布的有关调查的声明。” “悉尼天鹅队明确证实，没有任何工作人员参与调查。这包括在警方调查的中心酒店房间里。 “俱乐部重申，现阶段没有任何球员接受过警方的询问。” 维多利亚警方表示，他们的调查正在进行中，尚未提出任何指控。 “性犯罪小组的侦探们继续调查有关性侵犯的报告......"
-          },
-          "reflection": {
-            "en": "The allegations of sexual assault highlight the profound harm inflicted upon vulnerable individuals and the deep trauma they endure. Yahweh's word warns of severe consequences for those who cause \"little ones\" to stumble, reminding us of the sacred duty to protect and uphold the dignity of every person. As these women seek legal action, we are reminded of...",
-            "zh": "性侵指控凸显了对弱势个体造成的深重伤害及其所承受的巨大创伤。雅伟的话语警告，使“小子”跌倒的人将面临严厉后果，提醒我们有神圣的责任去保护和维护每个人的尊严。当这些女性寻求法律途径时，我们被提醒要为这种严重的不法行为寻求公义和问责。"
-          },
-          "verse": {
-            "reference": "Matthew 18:6",
-            "textEn": "If anyone causes one of these little ones — those who believe in me — to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.",
-            "textZh": "凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，沉在深海里。",
-            "themeEn": "Woe to those who harm children",
-            "themeZh": "使小子跌倒的祸"
-          },
-          "aiVerseId": "matt_18_6",
-          "translationState": "localized"
         }
       ]
     },
@@ -1932,39 +1514,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "news-rthk-hk-rthk-en-component-k2-1867198-20260823-htm",
-          "section": "hongkong",
-          "source": "RTHK English News",
-          "sourceUrl": "https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
-          "link": "https://news.rthk.hk/rthk/en/component/k2/1867198-20260823.htm",
-          "image": "https://newsstatic.rthk.hk/images/mfile_1867198_1_M_20260823162031.jpg",
-          "publishedAt": "2026-08-23T08:46:00.000Z",
-          "title": {
-            "en": "HK hosts regional robotics contest",
-            "zh": null
-          },
-          "summary": {
-            "en": "Artificial intelligence is moving beyond digital interfaces and into the physical world of robotics. The ABU (Asia-Pacific Broadcasting Union) Robocon 2026, jointly organised by Radio Television Hong Kong (RTHK) and the Hong Kong Science and Technology Parks Corporation (HKSTP),...",
-            "zh": "这是一则来自香港栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Artificial intelligence is moving beyond digital interfaces and into the physical world of robotics. The ABU (Asia-Pacific Broadcasting Union) Robocon 2026, jointly organised by Radio Television Hong Kong (RTHK) and the Hong Kong Science and Technology Parks Corporation (HKSTP), drew 16 university teams from 15 countries and regions to compete in the Asia-Pacific region’s largest university-level robotics contest. Speaking at the opening ceremony on Sunday, Financial Secretary Paul Chan framed the competition as more than a race for the fastest or steadiest machine. \"Every attempt you make today... is part of how this technology finds its way forward,\" he said. \"That is what makes Robocon so valuable. It is not really about whose robot is fastest or steadiest. It is about the leap from thinking to doing.\" Chan highlighted the challenges that define real-world engineering – tight deadlines, budget constraints, equipment failures on the eve of competition, and team disagreements. \"No textbooks can really teach you that. This will also count for something later,\" he said. Turning to the broader trajectory of AI, Chan observed that its next frontier lies in embodiment. \"Once an algorithm can see, hear and understand, it still needs a body – something to move with, reach with, and grip with. That body is the robot.\" Beyond the arena, Chan encouraged the competitors to keep imagining, keep getting their hands dirty and keep learning. Also in attendance at the opening ceremony were Director of Broadcasting Angelina Kwan, HKSTP Chairman Cordelia Chung and ABU Secretary-General Ahmed Nadeem. Edited by Edmond Fong",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-scmp-com-business-article-3364547-huge-influx-expat-retirees-project",
           "section": "hongkong",
           "source": "SCMP Hong Kong",
@@ -1998,105 +1547,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-scmp-com-news-hong-kong-transport-article-3364967-chinese-southeast-",
-          "section": "hongkong",
-          "source": "SCMP Hong Kong",
-          "sourceUrl": "https://www.scmp.com/rss/2/feed",
-          "link": "https://www.scmp.com/news/hong-kong/transport/article/3364967/chinese-southeast-asian-ride-hailing-firms-eye-hong-kong-amid-licensing-roll-out?utm_source=rss_feed",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/23/feceafe3-2216-4c73-964b-2e936f57f9ec_6b6d2894.jpg?itok=pCspYVGl&v=1787470851",
-          "publishedAt": "2026-08-23T07:51:32.000Z",
-          "title": {
-            "en": "Chinese, Southeast Asian ride-hailing firms eye Hong Kong amid licensing roll-out",
-            "zh": null
-          },
-          "summary": {
-            "en": "More ride-hailing platform operators from mainland China and Southeast Asia have approached the Hong Kong government about entering the city’s market ahead of the launch of licensed operations, the transport minister has revealed. Secretary for Transport and Logistics Mable Chan...",
-            "zh": "这是一则来自香港栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "More ride-hailing platform operators from mainland China and Southeast Asia have approached the Hong Kong government about entering the city’s market ahead of the launch of licensed operations, the transport minister has revealed. Secretary for Transport and Logistics Mable Chan also said on Sunday that more than 7,500 people had applied for the new combined taxi and ride-hailing vehicle written test, calling the number a “very good and positive” sign. “We hope there will be more competition and...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-scmp-com-news-hong-kong-hong-kong-economy-article-3364965-major-tech",
-          "section": "hongkong",
-          "source": "SCMP Hong Kong",
-          "sourceUrl": "https://www.scmp.com/rss/2/feed",
-          "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364965/major-tech-firms-help-upskill-hong-kong-workers-under-ai-all-paul-chan?utm_source=rss_feed",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/23/28df56fb-ce92-4cc2-b401-0bd2ecb551a1_a3332026.jpg?itok=fc7DdSyc&v=1787477110",
-          "publishedAt": "2026-08-23T07:19:04.000Z",
-          "title": {
-            "en": "Hong Kong to launch AI training for workers in November with big tech firms",
-            "zh": null
-          },
-          "summary": {
-            "en": "Hong Kong will partner with major technology firms to launch an AI training programme for the labour force in November as part of a government drive to equip workers with new skills, the city’s finance chief has said. Financial Secretary Paul Chan Mo-po also said on Sunday the...",
-            "zh": "这是一则来自香港栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Hong Kong will partner with major technology firms to launch an AI training programme for the labour force in November as part of a government drive to equip workers with new skills, the city’s finance chief has said. Financial Secretary Paul Chan Mo-po also said on Sunday the separate HK$50 million (US$6.4 million) “AI for All” push announced in February would feature more than 200 activities and was expected to benefit 50,000 people within two years. Writing in his weekly blog, Chan noted the...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "news-rthk-hk-rthk-en-component-k2-1867181-20260823-htm",
-          "section": "hongkong",
-          "source": "RTHK English News",
-          "sourceUrl": "https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
-          "link": "https://news.rthk.hk/rthk/en/component/k2/1867181-20260823.htm",
-          "image": "https://newsstatic.rthk.hk/images/mfile_1867181_1_M_20260823124003.jpg",
-          "publishedAt": "2026-08-23T05:11:12.000Z",
-          "title": {
-            "en": "'Positive' tenders made for Kai Tak transit project",
-            "zh": null
-          },
-          "summary": {
-            "en": "Secretary for Transport and Logistics Mable Chan on Sunday said the submission of two tenders for the Kai Tak Smart and Green Mass Transit System was a positive outcome that met government expectations. Spanning about 3.5 kilometres, the transit system will feature six elevated...",
-            "zh": "这是一则来自香港栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Secretary for Transport and Logistics Mable Chan on Sunday said the submission of two tenders for the Kai Tak Smart and Green Mass Transit System was a positive outcome that met government expectations. Spanning about 3.5 kilometres, the transit system will feature six elevated stations linking Kai Tak MTR Station to the Kai Tak Cruise Terminal. While the project had previously drawn dozens of expressions of interest, Chan noted that the two bids received were well-rounded and came from strong partnerships. “Both tenders were backed by very strong consortia, each bringing together engineers, consultants, and are experienced in operations and business development. They are formed by partnerships,” she spoke on a TV programme. On updating efforts to legalise ride-hailing services in the city, the transport minister noted that more than 7,500 drivers had signed up for a combined written test covering taxis and ride-hailing vehicles since registration opened earlier this month. The first batch of applicants is scheduled to take the exam in mid-September, she added. Chan also said authorities would begin inviting ride-hailing platforms to apply for operating licences in the coming weeks. She said several platforms commonly used by Hong Kong residents while travelling in the mainland and Southeast Asia have expressed interest. Edited by Tony Sabine",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Proverbs 11:14",
-            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
-            "textZh": "无智谋，民就败落；谋士多，人便安居。",
-            "themeEn": "Wise counsel",
-            "themeZh": "智谋的价值"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "hongkongfp-com-2026-08-22-china-mulls-bid-to-host-2028-un-climate-talks-",
           "section": "hongkong",
           "source": "Hong Kong Free Press",
@@ -2126,72 +1576,6 @@
             "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
             "themeEn": "Work for the Lord",
             "themeZh": "为主而做"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "hongkongfp-com-2026-08-22-so-bad-its-good-rough-animated-film-niu-lai-be",
-          "section": "hongkong",
-          "source": "Hong Kong Free Press",
-          "sourceUrl": "https://hongkongfp.com/feed/",
-          "link": "https://hongkongfp.com/2026/08/22/so-bad-its-good-rough-animated-film-niu-lai-becomes-surprise-chinese-hit/",
-          "image": "https://hongkongfp.com/wp-content/uploads/2026/08/RENAME-before-upload-8-1024x576.jpg",
-          "publishedAt": "2026-08-22T01:30:00.000Z",
-          "title": {
-            "en": "‘So bad it’s good’: Rough animated film Niu Lai becomes surprise Chinese hit",
-            "zh": null
-          },
-          "summary": {
-            "en": "A low-budget Chinese animated film that was widely mocked for its crude visuals became a viral hit, with people packing cinemas to see just how bad it is. “Niu Lai”, which translates to “Here Comes the Cow”, earned around 7,000 yuan ($1,000) in its opening week from August 5,...",
-            "zh": "这是一则来自香港栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "A low-budget Chinese animated film that was widely mocked for its crude visuals became a viral hit, with people packing cinemas to see just how bad it is. A screenshot from Niu Lai. Photo: Niu Lai. &#8220;Niu Lai&#8221;, which translates to &#8220;Here Comes the Cow&#8221;, earned around 7,000 yuan ($1,000) in its opening week from August 5, before surging to 33.06 million yuan ($4.92 million) at the Chinese box office, according to ticketing platform Maoyan. The film, made by a mother and son, follows the journey of a calf named Niu Lai and was crafted frame by frame over five years, local media reported, with the duo also composing original scores for the end credits. Caelan Moriarty, an American musician working in China, told AFP the film is &#8220;so bad that it&#8217;s so good&#8221;. &#8220;I appreciate how bad it is, but there&#8217;s some heart (put) into it, so you can&#8217;t hate that,&#8221; the 25-year-old said. Artificial intelligence could make the movie in &#8220;like ten seconds or even faster&#8221;, Moriarty said, but &#8220;the fact that they didn&#8217;t use AI, they took time&#8221; was impressive. &#8220;It&#8217;s not perfect. But because it&#8217;s not perfect, it&#8217;s good, it shows how human it is&#8230; and I think that&#8217;s why this is trending.&#8221; With its stiff 3D characters and awkward dialogue, the movie traces Niu Lai&#8217;s relationship with his mother. The film&#8217;s unpolished style quickly went viral on social media, with fans embracing its imperfections as part of its charm. Student Stella Xing, who watched the film in Beijing after seeing memes online, told AFP: &#8220;Even though it&#8217;s pretty rough around the edges, there are so many funny details &#8212; like the way (Niu Lai) walks, for instance&#8221;. &#8220;It&#8217;s hilarious and really makes people want to come see it,&#8221; she added. &#8216;Part of its appeal&#8217; At cinemas in Beijing, hand-drawn banners of human-like cows with eyebrows stood in stark contrast to the glossy posters promoting Christopher Nolan&#8217;s latest film &#8220;The Odyssey&#8221;. Barely any conventional marketing had been done to promote the film. As &#8220;Niu Lai&#8221; took China&#8217;s internet by storm, online retailers on platforms such as Taobao rushed to produce merchandise featuring the yellow cow, including T-shirts, figurines and even boxer shorts. A screenshot from Niu Lai. Photo: Niu Lai. One online merchant told AFP he started selling &#8220;Niu Lai&#8221; keychains as the movie became a hit. The film offers &#8220;something different from the polished, sophisticated productions we are used to&#8221;, Pan Wang, an associate professor at Australia&#8217;s University of New South Wales, said. &#8220;It is a bit like eating refined grains...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "hongkongfp-com-2026-08-22-conviction-of-hong-kong-tiananmen-vigil-activi",
-          "section": "hongkong",
-          "source": "Hong Kong Free Press",
-          "sourceUrl": "https://hongkongfp.com/feed/",
-          "link": "https://hongkongfp.com/2026/08/22/conviction-of-hong-kong-tiananmen-vigil-activists-draws-approval-from-govt-concern-from-overseas-human-rights-groups/",
-          "image": "https://hongkongfp.com/wp-content/uploads/2026/08/Alliance-reactions-1024x576.jpg",
-          "publishedAt": "2026-08-22T00:50:00.000Z",
-          "title": {
-            "en": "Conviction of Hong Kong Tiananmen vigil activists draws approval from gov’t, concern from overseas human rights groups",
-            "zh": null
-          },
-          "summary": {
-            "en": "The conviction of two pro-democracy figures who organised Hong Kong’s Tiananmen vigils has prompted wide approval from government officials. Activists and overseas human rights groups, however, have expressed concern about what they see as declining freedoms in the city. Chow...",
-            "zh": "这是一则来自香港栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The conviction of two pro-democracy figures who organised Hong Kong&#8217;s Tiananmen vigils has prompted wide approval from government officials. Activists and overseas human rights groups, however, have expressed concern about what they see as declining freedoms in the city. The 2018 candlelight vigil commemorating the 1989 Tiananmen crackdown in Beijing. File photo: Kris Cheng/HKFP. Chow Hang-tung and Lee Cheuk-yan, both former leaders of the now-defunct Hong Kong Alliance in Support of Patriotic Democratic Movements of China, were found guilty on Friday of inciting subversion. A third defendant, former lawmaker Albert Ho, pleaded guilty when the trial opened in January. The group itself &#8211; which organised mass vigils to remember those killed in China&#8217;s 1989 Tiananmen crackdown &#8211; was also found guilty. Lee and Chow have already been on remand for nearly five years following their September 2021 arrests. Ho has been behind bars since May 2021 aside from a seven-month period of bail. HKFP rounds up reactions to the convictions, which could see defendants jailed for up to 10 years. Local reactions: Hong Kong leader John Lee &#8220;The Alliance had long been deliberately planting seeds of hatred against the CPC and the Central Government in the Hong Kong society, attempting to incite disaffection, hatred and other sentiments among members of the public against the CPC and the Central Government through various means, and inciting people to subvert state power. The acts of the defendants over a long period of time endangered national security; their conspiracy was abundantly clear, which must be brought to justice.&#8221; Chief Superintendent Steve Li of the police&#8217;s National Security Department Chief Superintendent Steve Li of the police&#8217;s National Security Department speaking to reporters at the West Kowloon Law Courts Building on August 21, 2026. Photo: Kyle Lam/HKFP. &#8220;It is an indisputable fact that the Hong Kong Alliance in Support of Patriotic Democratic Movements of China has, year after year over a prolonged period, sown countless seeds of hatred against the Central Government and the Chinese Communist Party among the public. Today, the court&#8217;s conviction of the Alliance&#8217;s chairman and vice-chairmen rightly exposes their true colours as having deliberately incited others to subvert state power and endanger national security.&#8221; Secretary for Security Chris Tang &#8220;Since The Alliance&#8217;s founding, it has promoted its agenda with the aim of overthrowing the Chinese Communist Party&#8217;s leadership and constitution&#8230; after the national security law was enacted, the defendants still held public activities, including attempting to hold illegal assemblies, using slogans to incite the...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
         },
@@ -2261,72 +1645,6 @@
             "themeZh": "公义与怜悯"
           },
           "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-aug-13-asia-heatwave-south-korea-potatoes",
-          "section": "hongkong",
-          "source": "The Guardian Hong Kong",
-          "sourceUrl": "https://www.theguardian.com/world/hong-kong/rss",
-          "link": "https://www.theguardian.com/world/2026/aug/13/asia-heatwave-south-korea-potatoes-boil-ground-record-heat-hong-kong-japan",
-          "image": "https://i.guim.co.uk/img/media/77037a655afb5ad40039ea9c3759fdb6c48b4e85/579_0_4740_3791/master/4740.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6df59331ebb50c8da19b36e3ffdabb6a",
-          "publishedAt": "2026-08-12T23:34:13.000Z",
-          "title": {
-            "en": "Potatoes ‘boil’ in the ground as record heatwave sweeps across swathes of Asia",
-            "zh": null
-          },
-          "summary": {
-            "en": "South Korean farmers are suffering in record heat, as Hong Kong reports its highest ever temperature and Japan swelters through newly designated ‘cruelly hot’ days In a potato field in Yanggu county, 80 miles (130km) north-east of Seoul, Lee Sang-hyuk dug into the soil and found...",
-            "zh": "这是一则来自香港栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "South Korean farmers are suffering in record heat, as Hong Kong reports its highest ever temperature and Japan swelters through newly designated ‘cruelly hot’ days In a potato field in Yanggu county, 80 miles (130km) north-east of Seoul, Lee Sang-hyuk dug into the soil and found nothing worth saving. A week earlier the crop, located in Gangwon province, had looked fine. Now the potatoes came up soft and collapsing, “like boiled potatoes”, spoiled by heat that had turned the ground into something closer to an oven. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-world-2026-aug-10-typhoon-dolphin-china-shanghai-flo",
-          "section": "hongkong",
-          "source": "The Guardian Hong Kong",
-          "sourceUrl": "https://www.theguardian.com/world/hong-kong/rss",
-          "link": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
-          "image": "https://i.guim.co.uk/img/media/289807f15ef228d92904d17ae8389283713377b2/665_645_6220_4978/master/6220.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bcdd3a810925201d4c0328c4a53acad",
-          "publishedAt": "2026-08-10T04:55:18.000Z",
-          "title": {
-            "en": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
-            "zh": null
-          },
-          "summary": {
-            "en": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears...",
-            "zh": "这是一则来自香港栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears torrential rain would cause flooding and landslides. Wenzhou, a coastal city in Zhejiang province, said it relocated more than 900,000 people and opened more than 1,500 emergency shelters. In neighbouring Fujian, 98,900 people were moved from high-risk areas. Continue reading...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
         }
       ]
     },
@@ -2345,13 +1663,48 @@
         "zh": "科学"
       },
       "sourceNotes": [
+        "Phys.org",
         "The Guardian Environment",
         "The Guardian Science",
         "ScienceDaily Top Science",
         "BBC Science & Environment",
+        "The Guardian Wildlife",
         "Nature"
       ],
       "items": [
+        {
+          "id": "phys-org-news-2026-08-quantum-microscope-significantly-electron-microsco",
+          "section": "science",
+          "source": "Phys.org",
+          "sourceUrl": "https://phys.org/rss-feed/",
+          "link": "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/the-quantum-computer-m.jpg",
+          "publishedAt": "2026-08-23T13:00:01.000Z",
+          "title": {
+            "en": "Quantum computer microscope is set to significantly improve electron microscopy",
+            "zh": null
+          },
+          "summary": {
+            "en": "Electron microscopes are used wherever particularly small details need to be imaged. But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If all you do is count electrons, any additional quantum...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及合一、和好与弥合分歧。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\n\nElectron microscopes are used wherever particularly small details need to be imaged. But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If all you do is count electrons, any additional quantum information they carry remains unused.\n\nA team at TU Wien, together with teams from the University of Vienna, JKU Linz and the University of Innsbruck, has now developed a way to make use of the quantum information carried by electrons in an electron microscope: The electron beam is coupled to a quantum computer, opening up entirely new possibilities for working with the quantum information of the electrons. This is particularly important for sensitive samples that cannot be bombarded with arbitrarily large numbers of electrons.\n\nThe quantum-computer electron microscope is now being built at TU Wien. The paper has been accepted for publication in Physical Review Letters and is currently available on the arXiv preprint server.\n\nThe resolution that can be achieved with modern electron microscopes is remarkable. \"Today, we can image tiny details on the atomic scale,\" says Philipp Haslinger from the Institute of Atomic and Subatomic Physics at TU Wien. \"However, this requires a large number of electrons. And not every sample can be exposed to so many electrons without being damaged. This is often a problem, particularly when imaging biological samples such as individual proteins.\"\n\nIf, however, more information can be extracted from each individual electron than before, a smaller number of electrons is sufficient. The team has now found a method to achieve precisely this: \"Our idea is to combine the electrons with a quantum computer. We let them interact with ions that are held in place along the path of the electron beam,\" explains Elias Pescoller, a doctoral student at the Institute for Theoretical Physics and the Institute of Atomic and Subatomic Physics at TU Wien and first author of the paper. \"This can, for example, create quantum entanglement between the electron and the quantum computer. The electron and the ion then share a joint quantum state.\"\n\nThe ion in the quantum computer now carries information about the electron—and shortly afterward, the next electron passes by and is likewise entangled with the quantum computer. \"If we perform very specific quantum-computing operations each time, we can optimally combine the information from several electrons so that we obtain a signal of maximum strength even though we use only a relatively small number of electrons,\" says Dennis Rätzel from the Institute...",
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to unity, reconciliation, and bridging divides. Ephesians 4:3 reminds us to meet sharp headlines with peacemaking and bridge-building, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到合一、和好与弥合分歧。Ephesians 4:3提醒我们，在快速变化的新闻里，仍要以缔造和平与搭建桥梁来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Galatians 3:28",
+            "textEn": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.",
+            "textZh": "并不分犹太人、希利尼人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
+            "themeEn": "One in Christ",
+            "themeZh": "基督里合一"
+          },
+          "translationState": "fallback"
+        },
         {
           "id": "www-theguardian-com-commentisfree-2026-aug-23-halloween-capitalism-clima",
           "section": "science",
@@ -2485,35 +1838,35 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-aug-23-wind-energy-unions-trump",
+          "id": "phys-org-news-2026-08-humble-balloon-green-makeover-html",
           "section": "science",
-          "source": "The Guardian Environment",
-          "sourceUrl": "https://www.theguardian.com/environment/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
-          "image": "https://i.guim.co.uk/img/media/9a6f8fa4a0f7dbfac1448d1bddefca433188a2e4/900_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b2351dd4c623f582cc0c4744dcf9eac",
-          "publishedAt": "2026-08-23T10:00:30.000Z",
+          "source": "Phys.org",
+          "sourceUrl": "https://phys.org/rss-feed/",
+          "link": "https://phys.org/news/2026-08-humble-balloon-green-makeover.html",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/bioloon-ceo-charlotte.jpg",
+          "publishedAt": "2026-08-23T09:40:03.000Z",
           "title": {
-            "en": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
+            "en": "Blowing in the wind, humble balloon gets green makeover",
             "zh": null
           },
           "summary": {
-            "en": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean. “I had no views other...",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+            "en": "A global symbol of parties and celebrations but an environmental headache, the humble balloon is undergoing a green revolution thanks to U.K. researchers.",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "About this content Dharna Noor Sun 23 Aug 2026 06.00 EDT Last modified on Sun 23 Aug 2026 06.02 EDT Share Prefer the Guardian on Google Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean.\n\n“I had no views other than the darkness at work,” he said. “Then I went polar opposite.”\n\nTwo years ago, McElroen began being trained by his union, the International Brotherhood of Electrical Workers (IBEW) Local 3, for a job in the emerging offshore wind industry. Since then, he has completed six one-month-long rotations constructing New York’s first large-scale offshore wind projects: four on Sunrise Wind, roughly 30 miles (48km) east of Montauk Point, and two on Empire Wind in the New York Bight, 30 miles south of Long Island.\n\nIt was a “welcome change”, McElroen said. Instead of seeing rats, he has watched seals and dolphins swim past his Sunrise work vessel. And on the Empire project, his shifts would often end with sweeping sunsets over the open ocean.\n\n“I would love to continue doing this for the rest of my career,” he said in an interview at his union’s Electrical Industry Training Center in Long Island City, Queens, days after his most recent Empire Wind stint.\n\nLabor leaders convened by the Climate Jobs National Resource Center (CJNRC) have spent years working to ensure that workers like McElroen have the opportunity to develop lifelong, unionized careers in clean energy. Their goals received a major boost from Joe Biden’s Inflation Reduction Act, they say.\n\nNow, the Trump administration is trying to dismantle some of those gains by slowing the clean energy transition, attacking offshore wind and attempting to revive the old idea that workers have to choose between good jobs and climate action. But the labor leaders say they are ready to fight back.\n\nThe CJNRC has origins in New York after Hurricane Sandy. The superstorm was a wake-up call for the labor movement, said Mike Fishman, president and executive director of the organization.\n\n“We came to the realization, as you can imagine, that climate change is real and it’s only getting worse, and that workers are getting hit first and worst,” Fishman said. At the time, he was the secretary‑treasurer for the Service Employees International Union (SEIU).\n\nIn that moment in 2012, however, unions didn’t have much of a voice in climate policy discussions.\n\n“The climate groups were really all about emissions,” said Fishman. “It was really about, we’re going to reduce emissions at any cost.”\n\nLara Skinner, founding executive director of Cornell’s Climate Jobs Institute, had seen a similar dynamic, where climate groups would tout potential jobs created by the green energy transition but not focus on whether they would be...",
+            "en": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\n\nA global symbol of parties and celebrations but an environmental headache, the humble balloon is undergoing a green revolution thanks to U.K. researchers.\n\nResearchers at Imperial College London say they have developed the first fully biodegradable balloon and hope to bring it to market within two years.\n\n\"So there were hundreds of trials. We had many, many failures,\" said Juliana Cumming, a Ph.D. student at the university and co-creator of the \"Bioloon,\" a 100% biodegradable balloon.\n\nIn a university laboratory, the 29-year-old proudly showed AFP a flask containing a precious yellow liquid.\n\nOnce solidified, it becomes a soft, elastic material with a texture comparable to that of a conventional balloon.\n\nBut there is one crucial difference—it breaks down completely within nine months, unlike traditional balloons, Cumming said.\n\nThe Bioloon is the result of a public-private partnership launched by Charlotte Melia, an events entrepreneur who describes herself as environmentally minded.\n\n\"I was a party planner for over 10 years and ... I was very sustainably focused. The final stumbling block for me was the balloon waste,\" she told AFP.\n\n\"We were putting out thousands of party balloons every single week,\" she said, but they were only there \"for a matter of hours simply to be popped and thrown in the trash.\"\n\nThe final straw came when she realized \"balloons were non-biodegradable,\" even though the packaging said they would break up \"at the rate of an oak leaf.\"\n\nConvinced that a sustainable alternative was possible, Melia and an associate decided to put up £30,000 ($41,000) to help fund Cumming's doctoral research.\n\nThe environmental impact of traditional balloons, which despite their advertising do not degrade, is largely unknown to the general public.\n\nBut a number of studies have documented the dangers posed by balloons once they end up in nature, particularly for marine life and birds.\n\nA 2019 study by the University of Tasmania, published in Scientific Reports , found balloons were \"the highest-risk plastic debris item\" for seabirds, carrying a mortality risk 32 times higher than that from ingesting hard plastics.\n\nImperial College's Department of Chemical Engineering estimates that between 20 billion and 25 billion balloons are purchased worldwide every year.\n\nThe starting point is the same as for an ordinary balloon: natural latex derived from the sap of the rubber tree, native to the Amazon. The process has changed little since the balloon was invented in 1824.\n\n\"In order to turn the natural latex into something that we refer to as rubber, it goes through this...",
             "zh": null
           },
           "reflection": {
-            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Colossians 3:23",
-            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
-            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
-            "themeEn": "Work for the Lord",
-            "themeZh": "为主而做"
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
           },
           "translationState": "fallback"
         },
@@ -2551,39 +1904,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-sciencedaily-com-releases-2026-08-260821012232-htm",
-          "section": "science",
-          "source": "ScienceDaily Top Science",
-          "sourceUrl": "https://www.sciencedaily.com/rss/top/science.xml",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260821012232.htm",
-          "image": "https://www.sciencedaily.com/images/1920/greenland-shark-eye-parasite.webp",
-          "publishedAt": "2026-08-23T03:14:26.000Z",
-          "title": {
-            "en": "This shark can live 400 years. Its eyes barely seem to age",
-            "zh": null
-          },
-          "summary": {
-            "en": "Greenland sharks may live for 400 years without suffering the kind of retinal decline normally associated with aging. Researchers found healthy eye tissue and active proteins specially adapted for seeing blue light in the dim Arctic depths. DNA repair mechanisms may help keep...",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Dorota Skowronska-Krawczyk watches a Greenland shark glide slowly through the dark waters of the Arctic on her computer screen.\n\n\"You see it move its eye,\" says the University of California, Irvine associate professor of physiology and biophysics, pointing to the footage. \"The shark is tracking the light -- it's fascinating.\"\n\nGreenland sharks are the longest-living vertebrates known to science, with some individuals surviving for as long as 400 years. They have thick gray bodies, small heads and short, rounded snouts. Their cloudy-looking eyes can appear almost lifeless, and parasites are often found attached directly to the eyeballs.\n\nBecause of those parasites and the extremely dark, murky environment in which the sharks live, scientists have long suspected that Greenland sharks may be functionally blind.\n\nNew research led by Skowronska-Krawczyk, however, suggests a very different picture.\n\nThe study, co-authored by researchers from the University of Basel, Switzerland, Walter Salzburger and Lily G. Fogg, who examined the evolutionary aspects of the work, is challenging assumptions about Greenland shark vision while offering new clues about aging and longevity.\n\nPublished in Nature Communications , the findings suggest that a DNA repair mechanism may allow Greenland sharks to preserve their eyesight for centuries without showing signs of retinal degeneration. Their visual systems also appear specially adapted to the extremely low light levels of their Arctic habitat.\n\nSkowronska-Krawczyk studies the molecular processes involved in age-related eye diseases to better understand how aging affects vision. Her interest in Greenland sharks began after reading a 2016 research paper by John Fleng Steffensen published in the journal Science .\n\n\"One of my takeaway conclusions from the Science paper was that many Greenland sharks have parasites attached to their eyes -- which could impair their vision,\" she says. \"Evolutionarily speaking, you don't keep the organ that you don't need. After watching many videos, I realized this animal is moving its eyeball toward the light.\"\n\nThat observation prompted her to investigate the sharks' visual system more closely.\n\nThe Greenland sharks examined in the study were caught between 2020 and 2024 with scientific long lines near the University of Copenhagen's Arctic Station on Disko Island, Greenland.\n\nSteffensen, a professor of marine biology at the University of Copenhagen, worked with Peter G. Bushnell, who teaches at Indiana University South Bend, and Richard W. Brill of the Virginia Institute of Marine Science. The researchers dissected the sharks' eyes and preserved them in a fixative solution so they could later be studied.\n\nEmily Tom, a UC Irvine Ph.D. student and physician-scientist in training in...",
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-bbc-co-uk-news-articles-cp872m0grgyo-at-medium-rss-at-campaign-rss",
           "section": "science",
           "source": "BBC Science & Environment",
@@ -2617,23 +1937,23 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-bbc-co-uk-news-articles-cp9e9rg255vo-at-medium-rss-at-campaign-rss",
+          "id": "www-theguardian-com-australia-news-2026-aug-23-black-swan-bird-flu-weste",
           "section": "science",
-          "source": "BBC Science & Environment",
-          "sourceUrl": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-          "link": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93b6/live/b1859b10-9e0e-11f1-95e0-53a570c83624.jpg",
-          "publishedAt": "2026-08-22T11:31:09.000Z",
+          "source": "The Guardian Wildlife",
+          "sourceUrl": "https://www.theguardian.com/environment/wildlife/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/23/black-swan-bird-flu-western-australia",
+          "image": "https://i.guim.co.uk/img/media/edaf877cb08a79945a83f39d9dccb17304b8bc2a/585_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83588edca112a9aca67c07ec41ba07e8",
+          "publishedAt": "2026-08-22T20:00:12.000Z",
           "title": {
-            "en": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+            "en": "‘Devastating’: Western Australia fears a black swan moment as bird flu threatens flagship species",
             "zh": null
           },
           "summary": {
-            "en": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+            "en": "The state’s bird emblem is an indicator species for H5N1, with high visibility populations and low survival rates. Experts are warning of ‘significant mortality’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast...",
             "zh": "这是一则来自科学栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "A county in Wales had one of the world's highest carbon emissions per square kilometre due to wildfires in July, according to a charity.\n\nThe fire above Blaenavon, Torfaen was described as \"one of the largest and most challenging\" in south Wales in recent years by the fire service.\n\nSave the Children said it was concerned about possible health consequences after data , external published by the European Union's earth observation programme, Copernicus, showed Torfaen behind Malanje in Angola, Spain's Ávila and Annaba in Algeria in terms of wildfire emissions in July.\n\nTorfaen council said it was unaware of the EU data but its own air quality monitoring showed \"elevated particulate concentrations\".\n\nA blaze the size of about 300 football pitches broke out on Mynydd Garnclochdy, between Abersychan and Blaenavon, with people reporting smelling smoke about 30 (48km) miles away in Cardiff.\n\nCombined with others across the region it contributed to a major incident being declared , which eventually required assistance from the military .\n\nBlaenavon councillor Janet Jones said the smoke had been \"particularly bad\" on 13 August - about three weeks after the fire first ignited.\n\n\"There was great concern about air quality and the impact on elderly people and those suffering with respiratory issues such as emphysema and COPD.\"\n\nJones said she had spoken with GP practice nurses two weeks ago and was not aware of any increase in patients complaining about respiratory problems, but added this \"could change in the months ahead\".\n\nMelanie Simmonds, head of Save the Children Wales, said: \"In Wales and across the world, children are breathing in smoke from wildfires, coping with extreme heat and losing the freedom to play outdoors because the air is no longer safe.\n\n\"These conditions are not only frightening - they carry serious health consequences for children whose bodies and lungs are still developing.\"\n\nTorfaen council said it was not aware of the research and \"it is not clear what data or evidence was used in the assessment to arrive at the reported conclusion\".\n\nIt said it \"recognises that prolonged wildfire incidents have the potential to adversely affect local air quality, particularly through increased levels of smoke and particulate matter\".\n\nIt added it \"continuously monitors\" air quality through a monitoring station in Croesyceiliog Cwmbran.\n\n\"While elevated particulate concentrations have been observed during the wildfire period, the council's monitoring station is intended to provide information on general background air quality rather than conditions at specific locations immediately adjacent to the fires,\" it said.\n\nThe Copernicus Atmosphere Monitoring Service (CAMS) website , external said it was part of European Union's Space programme, and provided...",
+            "en": "The state’s bird emblem is an indicator species for H5N1, with high visibility populations and low survival rates. Experts are warning of ‘significant mortality’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast When the black swans start dying, Western Australians will know that bird flu has truly arrived. The birds are an “indicator species” because once they are infected with the H5N1 virus, they are more likely to die than survive, according to the University of Queensland virologist Kirsty Short. Continue reading...",
             "zh": null
           },
           "reflection": {
@@ -2663,39 +1983,6 @@
           },
           "summary": {
             "en": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet.",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": null,
-            "zh": null
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-nature-com-articles-d41586-026-02596-0",
-          "section": "science",
-          "source": "Nature",
-          "sourceUrl": "https://www.nature.com/nature.rss",
-          "link": "https://www.nature.com/articles/d41586-026-02596-0",
-          "image": null,
-          "publishedAt": "2026-08-21T00:00:00.000Z",
-          "title": {
-            "en": "Earth-shaking thunder probes underground geology",
-            "zh": null
-          },
-          "summary": {
-            "en": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity.",
             "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
