@@ -171,7 +171,7 @@ Body translation still runs because it's quota-independent.
   daily budget — it managed 15 deep-matches before 429ing on
   everything else. Override to `gemini-2.5-pro` only with a paid key.
 - `OPENAI_MODEL_CHAIN` — comma-separated step-down ladder, defaulting
-  to `<OPENAI_MODEL>,gemini-2.5-flash,gemini-3-flash-preview`. A 429
+  to `<OPENAI_MODEL>,gemini-3-flash-preview,gemini-2.5-flash`. A 429
   or 5xx retries on the *next* model rather than the one that just
   refused, since a per-day cap cannot be waited out with backoff.
 - `OPENAI_TRANSLATE_MODEL` — defaults to `gemini-2.5-flash-lite` for

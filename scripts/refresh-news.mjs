@@ -89,9 +89,15 @@ const AI_MODEL = process.env.OPENAI_MODEL || 'gemini-2.5-flash-lite';
 // something backoff can wait out, so retrying the same model is the
 // one strategy guaranteed to fail. Override with a comma-separated
 // OPENAI_MODEL_CHAIN.
+//
+// Order is evidence-based: gemini-3-flash-preview sits ahead of
+// gemini-2.5-flash because in the 2026-08-25 07:55 run it absorbed the
+// step-down traffic successfully while all 192 calls that reached
+// flash came back 429. The starved model goes last, where it costs a
+// wasted attempt only after the two live ones are spent.
 const AI_MODEL_CHAIN = (
 	process.env.OPENAI_MODEL_CHAIN ||
-	[AI_MODEL, 'gemini-2.5-flash', 'gemini-3-flash-preview'].join(',')
+	[AI_MODEL, 'gemini-3-flash-preview', 'gemini-2.5-flash'].join(',')
 )
 	.split(',')
 	.map((m) => m.trim())
