@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:29:50.562Z",
+  "generatedAt": "2026-08-25T04:32:53.735Z",
   "editionDate": "2026-08-25",
   "sources": [
     {
@@ -156,15 +156,6 @@
       }
     },
     {
-      "name": "The Guardian Environment",
-      "url": "https://www.theguardian.com/environment/rss",
-      "category": "science",
-      "categoryLabel": {
-        "en": "Science",
-        "zh": "科学"
-      }
-    },
-    {
       "name": "ScienceDaily Top Science",
       "url": "https://www.sciencedaily.com/rss/top/science.xml",
       "category": "science",
@@ -183,12 +174,75 @@
       }
     },
     {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/environment/rss",
+      "category": "creation",
+      "categoryLabel": {
+        "en": "Creation",
+        "zh": "受造"
+      }
+    },
+    {
       "name": "The Guardian Wildlife",
       "url": "https://www.theguardian.com/environment/wildlife/rss",
-      "category": "science",
+      "category": "creation",
       "categoryLabel": {
-        "en": "Science",
-        "zh": "科学"
+        "en": "Creation",
+        "zh": "受造"
+      }
+    },
+    {
+      "name": "Mongabay",
+      "url": "https://news.mongabay.com/feed/",
+      "category": "creation",
+      "categoryLabel": {
+        "en": "Creation",
+        "zh": "受造"
+      }
+    },
+    {
+      "name": "Yale Environment 360",
+      "url": "https://e360.yale.edu/feed.xml",
+      "category": "creation",
+      "categoryLabel": {
+        "en": "Creation",
+        "zh": "受造"
+      }
+    },
+    {
+      "name": "The Guardian Film",
+      "url": "https://www.theguardian.com/film/rss",
+      "category": "documentary",
+      "categoryLabel": {
+        "en": "Documentary",
+        "zh": "纪录片"
+      }
+    },
+    {
+      "name": "The Guardian TV & Radio",
+      "url": "https://www.theguardian.com/tv-and-radio/rss",
+      "category": "documentary",
+      "categoryLabel": {
+        "en": "Documentary",
+        "zh": "纪录片"
+      }
+    },
+    {
+      "name": "BBC Entertainment & Arts",
+      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "category": "documentary",
+      "categoryLabel": {
+        "en": "Documentary",
+        "zh": "纪录片"
+      }
+    },
+    {
+      "name": "IndieWire",
+      "url": "https://www.indiewire.com/feed/",
+      "category": "documentary",
+      "categoryLabel": {
+        "en": "Documentary",
+        "zh": "纪录片"
       }
     },
     {
@@ -242,46 +296,13 @@
       ],
       "items": [
         {
-          "id": "www-theguardian-com-australia-news-2026-aug-25-coogee-beach-shark-victim",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
-          "image": "https://i.guim.co.uk/img/media/25433135061085fd870b5ac4f2932eefc92102c9/0_0_508_406/master/508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e3d485014c18589fc5af1a9007eaa2a",
-          "publishedAt": "2026-08-25T04:13:05.000Z",
-          "title": {
-            "en": "Coogee shark attack victim describes moment she came to face-to-face with ‘monster’",
-            "zh": "库吉鲨鱼袭击受害者描述了她与“怪物”面对面的那一刻"
-          },
-          "summary": {
-            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came face-to-face with the “monster”. Leah Stewart, a 34-year-old teacher and mother of a one-year-old daughter, was attacked by a large shark while on a morning swim at Coogee beach on 13 June. Continue reading...",
-            "zh": "34 岁的莉亚·斯图尔特 (Leah Stewart) 在 6 月事件发生后首次接受媒体采访时表示，她在被咬时想到的是自己一岁的女儿。 一名在悉尼东郊海滩遭遇鲨鱼袭击后失去手臂的澳大利亚妇女回忆起自己与“怪物”面对面的那一刻。 6 月 13 日，34 岁的教师 Leah Stewart 是一名一岁女儿的母亲，她在库吉海滩晨泳时遭到大鲨鱼袭击。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-theguardian-com-australia-news-live-2026-aug-25-australia-news-live-",
           "section": "world",
           "source": "The Guardian World",
           "sourceUrl": "https://www.theguardian.com/world/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
           "image": "https://i.guim.co.uk/img/media/03d87e9f89dcb94db6c1b97e4d3dab2bce4f3eb6/427_88_2104_1684/master/2104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=81bac30bc4a64c83cff9119565f94e38",
-          "publishedAt": "2026-08-25T04:04:20.000Z",
+          "publishedAt": "2026-08-25T04:29:08.000Z",
           "title": {
             "en": "Australia news live: Major Sydney property developer collapses leaving buyers in limbo; Greens senator opts out for 2028 over partner’s health",
             "zh": "澳大利亚新闻直播：悉尼主要房地产开发商倒闭，买家陷入困境；绿党参议员因伴侣健康问题而选择退出 2028 年"
@@ -304,6 +325,72 @@
             "textZh": "无智谋，民就败落；谋士多，人便安居。",
             "themeEn": "Wise counsel",
             "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-2026-aug-25-indonesia-wildfires-kalimantan-smo",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/world/2026/aug/25/indonesia-wildfires-kalimantan-smoke-super-el-nino",
+          "image": "https://i.guim.co.uk/img/media/a3d2552502e934f46ba885639f8c25da4ddfbd50/614_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=918957d6f81144bb28f0d973cd570256",
+          "publishedAt": "2026-08-25T04:17:06.000Z",
+          "title": {
+            "en": "‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’",
+            "zh": "“就像抽烟一样”：超“厄尔尼诺”现象加剧，印尼因雾霾而窒息"
+          },
+          "summary": {
+            "en": "In Indonesia’s Kalimantan, fires have ravaged tens of thousands of acres, with suffocating smoke reaching Malaysia and putting Singapore on alert Suwadi can barely see five metres in front of him when he steps outside his home in Indonesian Borneo. Each breath, he says, feels...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Natasha May Tue 25 Aug 2026 00.17 EDT Last modified on Tue 25 Aug 2026 00.18 EDT Share Prefer the Guardian on Google Suwadi can barely see five metres in front of him when he steps outside his home in Indonesian Borneo.\n\nIt has been like this for weeks in Kalimantan, the Indonesian side of Borneo island, where fires have raged across tens of thousands of acres of land, including ancient rainforest, triggering a trans-boundary haze now threatening Malaysia and Singapore.\n\nIn West Kalimantan there has been a spike in emergency room visits, with about 5,000 people arriving with respiratory symptoms each week since July, compared with 500 per week in the first half of the year, health ministry data shows.\n\nChildren continue to go to school and adults to work, but many are suffering from the unhealthy effects of breathing in thick smoke, constantly. “What about babies, the elderly, and pregnant women who are exposed to this?” asks Suwadi.\n\nSome classes have been suspended, with parents urging schools to switch to online learning.\n\nFires each year in Kalimantan are often blamed on “slash and burn” techniques used to clear land for plantations that produce palm oil, of which Indonesia is the world’s largest producer.\n\nAuthorities say this year’s “super” El Niño may be intensifying the blazes, with the weather phenomenon expected to peak in September.\n\nExperts have warned the worst could be yet to come as the dry season continues into October, and the rains that could extinguish the fires look unlikely before November.\n\nThe haze is fast becoming a regional issue, with Malaysia and Brunei agreeing to raise it at Asean as thick smoke from forest and peatland fires drifts across the border.\n\nOn Tuesday, the Malaysian capital, Kuala Lumpur, was the most polluted city on earth, followed by Jakarta, according to air quality monitoring company IQAir. Almost 600 schools in the Malaysian state of Sarawak on Borneo island closed due to hot and dry conditions. Singapore went on alert.\n\nOn social media, Indonesians have tried to draw attention to the issue – highlighting the huge blazes in Kalimantan, and also in Sumatra, West Papua, and in Lombok where a fire destroyed a traditional Sade village over the weekend.\n\nForestry ministry data shows that nearly 94,000 hectares (232,000 acres) have burned nationwide this July alone.\n\nOn Monday, the Indonesian president, Prabowo Subianto , ordered authorities to revoke the business permits of corporations suspected of directing the land clearing, state news agency Antara reported. Indonesian police arrested 72 people suspected of starting fires in Borneo and Sumatra, with most accused of deliberately burning land to clear areas for plantations.\n\nThe response comes as regional experts fear this could be another devastating fire...",
+            "zh": "娜塔莎·梅 2026 年 8 月 25 日星期二 00.17 美国东部时间 最后修改时间 2026 年 8 月 25 日星期二 00.18 美国东部时间 分享 更喜欢谷歌上的卫报 当苏瓦迪走出印度尼西亚婆罗洲的家时，他几乎看不到前方五米。 在婆罗洲岛印度尼西亚一侧的加里曼丹，这种情况已经持续了数周，大火席卷了包括古老雨林在内的数万英亩土地，引发了跨界烟雾，目前正威胁着马来西亚和新加坡。 卫生部数据显示，在西加里曼丹，急诊室就诊人数激增，自 7 月以来，每周约有 5,000 人出现呼吸道症状，而今年上半年每周有 500 人。 儿童继续上学，成人继续工作，但许多人却因不断吸入浓烟而遭受不健康影响。 “接触过这种物质的婴儿、老人和孕妇怎么办？”苏瓦迪问道。 一些课程已暂停，家长敦促学校转向在线学习。 加里曼丹每年发生的火灾常常被归咎于“刀耕火种”技术，该技术用于清理土地用于生产棕榈油的种植园，印度尼西亚是世界上最大的棕榈油生产国。 当局表示，今年的“超级”厄尔尼诺现象可能会加剧火灾，预计这种天气现象将在九月达到顶峰。 专家警告说，随着旱季持续到十月，最糟糕的情况可能还没有到来，而在十一月之前似乎不太可能出现能够扑灭大火的降雨。 雾霾正迅速成为一个地区性问题，随着森林和泥炭地火灾产生的浓烟飘过边境，马来西亚和文莱同意在东盟提出雾霾问题。 根据空气质量监测公司 IQAir 的数据，周二，马来西亚首都吉隆坡成为地球上污染最严重的城市，其次是雅加达。由于炎热干燥的天气，马来西亚婆罗洲岛沙捞越州近 600 所学校关闭。新加坡进入戒备状态。 在社交媒体上，印度尼西亚人试图引起人们对这一问题的关注，强调加里曼丹、苏门答腊、西巴布亚和龙目岛的大火，周末大火摧毁了一个传统的萨德村庄。 林业部数据显示，仅今年 7 月，全国就有近 94,000 公顷（232,000 英亩）的土地被烧毁。 据国家通讯社安塔拉报道，印度尼西亚总统普拉博沃·苏比安托 (Prabowo Subianto) 周一下令当局吊销涉嫌指挥土地清理的公司的营业许可证。印度尼西亚警方逮捕了 72 名涉嫌在婆罗洲和苏门答腊岛纵火的人，其中大多数人被指控故意焚烧土地以清理种植园。 做出这一反应之际，地区专家担心这可能是另一场毁灭性的火灾……"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-25-coogee-beach-shark-victim",
+          "section": "world",
+          "source": "The Guardian World",
+          "sourceUrl": "https://www.theguardian.com/world/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
+          "image": "https://i.guim.co.uk/img/media/25433135061085fd870b5ac4f2932eefc92102c9/0_0_508_406/master/508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e3d485014c18589fc5af1a9007eaa2a",
+          "publishedAt": "2026-08-25T04:13:05.000Z",
+          "title": {
+            "en": "Sydney shark attack survivor describes moment she came to face-to-face with ‘monster’",
+            "zh": "悉尼鲨鱼袭击幸存者描述了她与“怪物”面对面的那一刻"
+          },
+          "summary": {
+            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came...",
+            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came face-to-face with the “monster”. Leah Stewart, a 34-year-old teacher and mother of a one-year-old daughter, was attacked by a large shark while on a morning swim at Coogee beach on 13 June. Continue reading...",
+            "zh": "34 岁的莉亚·斯图尔特 (Leah Stewart) 在 6 月事件发生后首次接受媒体采访时表示，她在被咬时想到的是自己一岁的女儿。 一名在悉尼东郊海滩遭遇鲨鱼袭击后失去手臂的澳大利亚妇女回忆起自己与“怪物”面对面的那一刻。 6 月 13 日，34 岁的教师 Leah Stewart 是一名一岁女儿的母亲，她在库吉海滩晨泳时遭到大鲨鱼袭击。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -370,39 +457,6 @@
             "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
             "themeEn": "Christ in the least",
             "themeZh": "基督在至微者中"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-society-2026-aug-25-nhs-england-to-offer-women-gamec",
-          "section": "world",
-          "source": "The Guardian World",
-          "sourceUrl": "https://www.theguardian.com/world/rss",
-          "link": "https://www.theguardian.com/society/2026/aug/25/nhs-england-to-offer-women-gamechanging-free-home-testing-kits-for-cervical-cancer",
-          "image": "https://i.guim.co.uk/img/media/5c942b75819b1fa787e8a9858e921ddb663b3c58/375_0_3774_3020/master/3774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f2449fd303c2c7cff886416fa138b75",
-          "publishedAt": "2026-08-25T04:00:48.000Z",
-          "title": {
-            "en": "NHS England to offer women ‘gamechanging’ free home testing kits for cervical cancer",
-            "zh": "英国国民医疗服务体系将为女性提供“改变游戏规则”的免费家庭宫颈癌检测套件"
-          },
-          "summary": {
-            "en": "NHS has target of eliminating the cancer by 2040, but up to 4 million eligible women are not up to date with screening Millions of women in England who have missed cervical screening appointments will be offered free home testing kits on the NHS. The move comes amid concerns...",
-            "zh": "这是一则来自全球栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "NHS has target of eliminating the cancer by 2040, but up to 4 million eligible women are not up to date with screening Millions of women in England who have missed cervical screening appointments will be offered free home testing kits on the NHS. The move comes amid concerns that only two-thirds of women attend in-person cervical screening appointments when asked to do so, leaving as many as 4 million women not up to date. Continue reading...",
-            "zh": "NHS 的目标是到 2040 年消除癌症，但多达 400 万符合条件的女性没有及时进行筛查。 NHS 将向数百万错过宫颈癌筛查预约的英格兰女性提供免费的家庭检测套件。此举的背景是，人们担心只有三分之二的女性会在被要求时参加现场宫颈筛查预约，从而导致多达 400 万女性未能及时了解最新信息。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -1218,46 +1272,13 @@
       ],
       "items": [
         {
-          "id": "www-theguardian-com-australia-news-2026-aug-25-coogee-beach-shark-victim",
-          "section": "australia",
-          "source": "The Guardian Australia",
-          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
-          "image": "https://i.guim.co.uk/img/media/25433135061085fd870b5ac4f2932eefc92102c9/0_0_508_406/master/508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e3d485014c18589fc5af1a9007eaa2a",
-          "publishedAt": "2026-08-25T04:13:05.000Z",
-          "title": {
-            "en": "Sydney shark attack victim describes moment she came to face-to-face with ‘monster’",
-            "zh": "悉尼鲨鱼袭击受害者描述了她与“怪物”面对面的那一刻"
-          },
-          "summary": {
-            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came...",
-            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came face-to-face with the “monster”. Leah Stewart, a 34-year-old teacher and mother of a one-year-old daughter, was attacked by a large shark while on a morning swim at Coogee beach on 13 June. Continue reading...",
-            "zh": "34 岁的莉亚·斯图尔特 (Leah Stewart) 在 6 月事件发生后首次接受媒体采访时表示，她在被咬时想到的是自己一岁的女儿。 一名在悉尼东郊海滩遭遇鲨鱼袭击后失去手臂的澳大利亚妇女回忆起自己与“怪物”面对面的那一刻。 6 月 13 日，34 岁的教师 Leah Stewart 是一名一岁女儿的母亲，她在库吉海滩晨泳时遭到大鲨鱼袭击。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-theguardian-com-australia-news-live-2026-aug-25-australia-news-live-",
           "section": "australia",
           "source": "The Guardian Australia",
           "sourceUrl": "https://www.theguardian.com/australia-news/rss",
           "link": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
           "image": "https://i.guim.co.uk/img/media/03d87e9f89dcb94db6c1b97e4d3dab2bce4f3eb6/427_88_2104_1684/master/2104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=81bac30bc4a64c83cff9119565f94e38",
-          "publishedAt": "2026-08-25T04:04:20.000Z",
+          "publishedAt": "2026-08-25T04:29:08.000Z",
           "title": {
             "en": "Australia news live: Major Sydney property developer collapses leaving buyers in limbo; Greens senator opts out for 2028 over partner’s health",
             "zh": "澳大利亚新闻直播：悉尼主要房地产开发商倒闭，买家陷入困境；绿党参议员因伴侣健康问题而选择退出 2028 年"
@@ -1280,6 +1301,39 @@
             "textZh": "无智谋，民就败落；谋士多，人便安居。",
             "themeEn": "Wise counsel",
             "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-25-coogee-beach-shark-victim",
+          "section": "australia",
+          "source": "The Guardian Australia",
+          "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
+          "image": "https://i.guim.co.uk/img/media/25433135061085fd870b5ac4f2932eefc92102c9/0_0_508_406/master/508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e3d485014c18589fc5af1a9007eaa2a",
+          "publishedAt": "2026-08-25T04:13:05.000Z",
+          "title": {
+            "en": "Sydney shark attack survivor describes moment she came to face-to-face with ‘monster’",
+            "zh": "悉尼鲨鱼袭击幸存者描述了她与“怪物”面对面的那一刻"
+          },
+          "summary": {
+            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came...",
+            "zh": "这是一则来自澳洲栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came face-to-face with the “monster”. Leah Stewart, a 34-year-old teacher and mother of a one-year-old daughter, was attacked by a large shark while on a morning swim at Coogee beach on 13 June. Continue reading...",
+            "zh": "34 岁的莉亚·斯图尔特 (Leah Stewart) 在 6 月事件发生后首次接受媒体采访时表示，她在被咬时想到的是自己一岁的女儿。 一名在悉尼东郊海滩遭遇鲨鱼袭击后失去手臂的澳大利亚妇女回忆起自己与“怪物”面对面的那一刻。 6 月 13 日，34 岁的教师 Leah Stewart 是一名一岁女儿的母亲，她在库吉海滩晨泳时遭到大鲨鱼袭击。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
@@ -2055,8 +2109,6 @@
         "zh": "科学"
       },
       "sourceNotes": [
-        "The Guardian Wildlife",
-        "The Guardian Environment",
         "Phys.org",
         "BBC Science & Environment",
         "ScienceDaily Top Science",
@@ -2064,105 +2116,6 @@
         "Nature"
       ],
       "items": [
-        {
-          "id": "www-theguardian-com-australia-news-2026-aug-25-coogee-beach-shark-victim",
-          "section": "science",
-          "source": "The Guardian Wildlife",
-          "sourceUrl": "https://www.theguardian.com/environment/wildlife/rss",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
-          "image": "https://i.guim.co.uk/img/media/25433135061085fd870b5ac4f2932eefc92102c9/0_0_508_406/master/508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e3d485014c18589fc5af1a9007eaa2a",
-          "publishedAt": "2026-08-25T04:13:05.000Z",
-          "title": {
-            "en": "Sydney shark attack survivor describes moment she came to face-to-face with ‘monster’",
-            "zh": "悉尼鲨鱼袭击幸存者描述了她与“怪物”面对面的那一刻"
-          },
-          "summary": {
-            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came...",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came face-to-face with the “monster”. Leah Stewart, a 34-year-old teacher and mother of a one-year-old daughter, was attacked by a large shark while on a morning swim at Coogee beach on 13 June. Continue reading...",
-            "zh": "34 岁的莉亚·斯图尔特 (Leah Stewart) 在 6 月事件发生后首次接受媒体采访时表示，她在被咬时想到的是自己一岁的女儿。 一名在悉尼东郊海滩遭遇鲨鱼袭击后失去手臂的澳大利亚妇女回忆起自己与“怪物”面对面的那一刻。 6 月 13 日，34 岁的教师 Leah Stewart 是一名一岁女儿的母亲，她在库吉海滩晨泳时遭到大鲨鱼袭击。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-business-2026-aug-25-europe-heatwaves-insurance-comp",
-          "section": "science",
-          "source": "The Guardian Environment",
-          "sourceUrl": "https://www.theguardian.com/environment/rss",
-          "link": "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
-          "image": "https://i.guim.co.uk/img/media/b09459c467eb2978c2321c31255d9ebddfcb9f26/387_0_3873_3099/master/3873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a292d32d8b3d8f7e984d1effdf1b4905",
-          "publishedAt": "2026-08-25T04:00:48.000Z",
-          "title": {
-            "en": "Europe’s heatwaves threaten insurers’ earnings, rating agency S&P says",
-            "zh": "评级机构标准普尔表示，欧洲热浪威胁保险公司的盈利"
-          },
-          "summary": {
-            "en": "Rise in claims linked to heat-related deaths and illness, especially among older people, could drive up premiums Europe’s intense heatwaves could hit insurers’ earnings as companies face a rise in claims linked to heat-related deaths and worsening health conditions, the rating...",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Rise in claims linked to heat-related deaths and illness, especially among older people, could drive up premiums Europe’s intense heatwaves could hit insurers’ earnings as companies face a rise in claims linked to heat-related deaths and worsening health conditions, the rating agency S&P has said. While a long summer of extreme heat will have increased drought and wildfire-related claims, the rating agency said there would also be fallout for life and health insurers, and for the reinsurers who provide financial protection to insurance companies. Continue reading...",
-            "zh": "评级机构标准普尔表示，与高温相关的死亡和疾病相关的索赔增加，尤其是老年人，可能会推高保费。欧洲的强烈热浪可能会打击保险公司的收益，因为公司面临与高温相关的死亡和健康状况恶化相关的索赔增加。该评级机构表示，虽然漫长的夏季酷热将增加与干旱和野火相关的索赔，但这也会给人寿和健康保险公司以及为保险公司提供财务保护的再保险公司带来影响。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 25:40",
-            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
-            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
-            "themeEn": "Christ in the least",
-            "themeZh": "基督在至微者中"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-environment-2026-aug-25-at-least-35000-excess-deaths",
-          "section": "science",
-          "source": "The Guardian Environment",
-          "sourceUrl": "https://www.theguardian.com/environment/rss",
-          "link": "https://www.theguardian.com/environment/2026/aug/25/at-least-35000-excess-deaths-europe-back-to-back-heatwaves",
-          "image": "https://i.guim.co.uk/img/media/2891e6ab0092b67db39326b3f6d122e2340d62fa/654_0_6015_4814/master/6015.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=183c802c4a15a014ef8240b96134e5e9",
-          "publishedAt": "2026-08-25T04:00:47.000Z",
-          "title": {
-            "en": "At least 35,000 excess deaths recorded in Europe’s back-to-back heatwaves",
-            "zh": "欧洲接连发生的热浪造成至少 35,000 人超额死亡"
-          },
-          "summary": {
-            "en": "True figure likely to be much higher as it only covers about half of continent and does not include August totals At least 35,000 more people died during Europe’s four record-breaking, back-to-back heatwaves this summer than would normally be expected, according to incomplete...",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "True figure likely to be much higher as it only covers about half of continent and does not include August totals At least 35,000 more people died during Europe’s four record-breaking, back-to-back heatwaves this summer than would normally be expected, according to incomplete figures from barely half the continent. Excess mortality in three of the EU’s larger countries – Germany, France and Spain – alone has already exceeded 25,000, according to the provisional national figures, and experts say the toll will rise significantly once August totals are consolidated. Continue reading...",
-            "zh": "真实数字可能要高得多，因为它只覆盖了大约一半的欧洲大陆，而且不包括 8 月份的死亡人数。根据欧洲大陆一半的不完整数据，今年夏天欧洲连续四次破纪录的热浪造成的死亡人数比正常预期多了至少 35,000 人。根据临时国家数据，仅欧盟三个大国——德国、法国和西班牙——的超额死亡率就已经超过 25,000 人，专家表示，一旦 8 月份的总数得到整合，死亡人数将大幅上升。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
         {
           "id": "phys-org-news-2026-08-access-bilingual-lags-andalusia-rural-html",
           "section": "science",
@@ -2263,39 +2216,6 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-aug-24-hawk-fire-reno-nevada-injuries-e",
-          "section": "science",
-          "source": "The Guardian Environment",
-          "sourceUrl": "https://www.theguardian.com/environment/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
-          "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4337bacd8725aa6ace723fb93da00d98",
-          "publishedAt": "2026-08-25T01:28:27.000Z",
-          "title": {
-            "en": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
-            "zh": "官员称，快速移动的 Hawk 野火在内华达州里诺市已得到约 27% 的控制"
-          },
-          "summary": {
-            "en": "Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blaze The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving, wind-driven wildfire sparked near Reno, Nevada. Authorities added...",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blaze The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving , wind-driven wildfire sparked near Reno, Nevada . Authorities added that 23,000 people are under a “go-now” order and 40,000 people are under a “get-set” warning, an improvement from the 90,000 Nevadans under evacuation orders or warnings on Monday morning. Continue reading...",
-            "zh": "当局周一下午表示，在内华达州里诺附近发生快速蔓延的风力野火两天后，当局表示，在“人为”风力驱动的大火中，仍有数万人受到疏散命令或警告。霍克大火已得到约 27% 的控制。当局补充说，有 23,000 人受到“立即撤离”命令，40,000 人受到“准备就绪”警告，这比周一早上 90,000 名内华达人收到疏散命令或警告有所改善。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Matthew 5:9",
-            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
-            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
-            "themeEn": "Peacemaking",
-            "themeZh": "和睦"
-          },
-          "translationState": "fallback"
-        },
-        {
           "id": "www-bbc-co-uk-news-articles-c0m3npvpgdno-at-medium-rss-at-campaign-rss",
           "section": "science",
           "source": "BBC Science & Environment",
@@ -2362,101 +2282,68 @@
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-us-news-2026-aug-24-nevada-federal-lawsuit-colorado-",
+          "id": "phys-org-news-2026-08-blood-clotting-protein-sars-cov-html",
           "section": "science",
-          "source": "The Guardian Environment",
-          "sourceUrl": "https://www.theguardian.com/environment/rss",
-          "link": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
-          "image": "https://i.guim.co.uk/img/media/f8fe947b0a00f1b3d03b455048ff132f2feafcf9/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2982d771be102ebe99256e4e33e9101",
-          "publishedAt": "2026-08-24T20:56:51.000Z",
+          "source": "Phys.org",
+          "sourceUrl": "https://phys.org/rss-feed/",
+          "link": "https://phys.org/news/2026-08-blood-clotting-protein-sars-cov.html",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/blood-clotting-protein.jpg",
+          "publishedAt": "2026-08-25T00:00:01.000Z",
           "title": {
-            "en": "Nevada files lawsuit challenging federal plan for Colorado River revival",
-            "zh": "内华达州提起诉讼质疑联邦科罗拉多河复兴计划"
+            "en": "Blood-clotting protein may be SARS-CoV-2's hidden accomplice, helping it hide from antibodies and reach blood vessels",
+            "zh": "凝血蛋白可能是 SARS-CoV-2 的隐藏同谋，帮助其躲避抗体并到达血管"
           },
           "summary": {
-            "en": "In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two years Nevada filed a federal lawsuit on Monday challenging the Trump administration’s new plan for the imperiled Colorado River, launching what could become the first of...",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "Fibrinogen, the abundant plasma protein best known for forming blood clots, may play a second and far less benign role during SARS-CoV-2 infection: acting as a molecular bridge that simultaneously hides the virus from neutralizing antibodies and delivers it to the cells lining...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two years Nevada filed a federal lawsuit on Monday challenging the Trump administration’s new plan for the imperiled Colorado River, launching what could become the first of many court battles over the waterway that supplies 40 million people, dozens of tribes and 5.5m acres of farm land across the American west. The federal plan, issued Friday, cut roughly 20% from the water supplied to lower basin states – Nevada, Arizona and California – over the next two years, with a potential for harsher cutbacks in the future, based on conditions. Continue reading...",
-            "zh": "在特朗普政府的计划中，加利福尼亚州、亚利桑那州和内华达州将面临两年内约20%的供水削减。内华达州周一提起联邦诉讼，质疑特朗普政府针对危险的科罗拉多河的新计划，这可能成为围绕这条为美国西部4000万人、数十个部落和550万英亩农田供水的水道的众多法庭斗争中的第一场。周五发布的联邦计划将在未来两年内将流域下游各州（内华达州、亚利桑那州和加利福尼亚州）的供水量削减约 20%，未来可能根据具体情况进行更严厉的削减。继续阅读..."
+            "en": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\n\nFibrinogen, the abundant plasma protein best known for forming blood clots, may play a second and far less benign role during SARS-CoV-2 infection: acting as a molecular bridge that simultaneously hides the virus from neutralizing antibodies and delivers it to the cells lining blood vessels.\n\nThat is the hypothesis put forward by Saroj Kumar Panda (Department of Chemistry and Biochemistry, University of Texas at Arlington), Shashi Singh, and Parth Sarthi Sen Gupta (School of Biosciences and Bioengineering, D Y Patil International University, Pune) in a Viewpoint article published in ACS Pharmacology & Translational Science .\n\nThe proposal offers a single mechanistic explanation for two features of COVID-19 that have long been treated as separate problems: the virus's ability to evade immunity and the vascular damage, microclotting and inflammation that characterize severe disease and long COVID.\n\nSARS-CoV-2 is generally described as entering cells through the ACE2 receptor. But the spike protein carries clusters of positively charged lysine and arginine residues in its N-terminal domain (NTD) and receptor-binding domain (RBD). In contrast, human fibrinogen is negatively charged at physiological pH. The authors argue this electrostatic attraction is more than incidental chemistry.\n\nWhen fibrinogen binds the spike NTD, it can mask antigenic sites, providing a molecular shield against antibody detection. At the same time, the other end of the fibrinogen molecule, its gamma chain, engages endothelial receptors including the integrins αvβ3 and α5β1, platelet receptor GPIIb/IIIa and ICAM-1. The result is a tether with the virus on one end and the blood vessel wall on the other.\n\nTo test whether the idea was structurally plausible, the team ran molecular docking studies. In their preliminary results, γ-fibrinogen bound to the spike NTD appeared to open up the RBD and NTD, making the RBD's RGD motif more accessible to integrins: Integrin binding strengthened to a HADDOCK score of −127 ± 6 kcal/mol with fibrinogen present, compared with −109.4 ± 4.9 kcal/mol without it.\n\nBinding to ACE2 moved the opposite way. Spike bound ACE2 more strongly when fibrinogen was absent (−122 ± 4.6 kcal/mol) than when the complex had formed (−98.1 ± 4.8 kcal/mol). Taken together, the simulations suggest fibrinogen may not merely coat the virus but reshape it, nudging SARS-CoV-2 away from the classical ACE2 route and toward integrin-mediated entry into endothelial cells, the pathway most closely tied to inflammation and vascular injury.\n\nThe authors note that fibrinogen's alpha and beta chains are...",
+            "zh": "本文已根据 Science X 的编辑流程和政策进行审阅。编辑在确保内容可信度的同时强调了以下属性： 纤维蛋白原是一种丰富的血浆蛋白，以形成血栓而闻名，它可能在 SARS-CoV-2 感染期间发挥第二个且远不那么良性的作用：充当分子桥梁，同时隐藏病毒免受中和抗体的影响，并将其输送到血管内壁细胞。 这是 Saroj Kumar Panda（德克萨斯大学阿灵顿分校化学与生物化学系）、Shashi Singh 和 Parth Sarthi Sen Gupta（浦那 DY Patil 国际大学生物科学与生物工程学院）在《ACS 药理学与转化科学》上发表的 Viewpoint 文章中提出的假设。 该提案为 COVID-19 的两个特征提供了单一的机制解释，这两个特征长期以来被视为独立的问题：病毒逃避免疫的能力以及血管损伤、微凝血和炎症，这是严重疾病和长期 COVID 的特征。 SARS-CoV-2 通常被描述为通过 ACE2 受体进入细胞。但刺突蛋白在其 N 端结构域 (NTD) 和受体结合结构域 (RBD) 中携带带正电荷的赖氨酸和精氨酸残基簇。相反，人纤维蛋白原在生理pH值下带负电荷。作者认为这种静电吸引力不仅仅是偶然的化学作用。 当纤维蛋白原与刺突 NTD 结合时，它可以掩盖抗原位点，从而提供针对抗体检测的分子屏障。与此同时，纤维蛋白原分子的另一端，即其伽马链，与内皮受体结合，包括整合素 αvβ3 和 α5β1、血小板受体 GPIIb/IIIa 和 ICAM-1。结果是一根绳子，一端是病毒，另一端是血管壁。 为了测试这个想法在结构上是否合理，该团队进行了分子对接研究。在他们的初步结果中，与尖峰 NTD 结合的 γ-纤维蛋白原似乎打开了 RBD 和 NTD，使 RBD 的 RGD 基序更容易接近整合素：存在纤维蛋白原时，整合素结合增强至 HADDOCK 评分为 -127 ± 6 kcal/mol，而没有纤维蛋白原时则为 -109.4 ± 4.9 kcal/mol。 与 ACE2 的结合则以相反的方式进行。当纤维蛋白原不存在时 (-122 ± 4.6 kcal/mol) 比形成复合物时 (-98.1 ± 4.8 kcal/mol) 时尖峰与 ACE2 的结合更强烈。综上所述，模拟结果表明纤维蛋白原可能不仅覆盖病毒，而且重塑病毒，推动 SARS-CoV-2 远离经典的 ACE2 途径，并通过整合素介导进入内皮细胞，这是与炎症和血管损伤关系最密切的途径。 作者指出，纤维蛋白原的 α 链和 β 链是……"
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
           },
           "translationState": "fallback"
         },
         {
-          "id": "www-theguardian-com-uk-news-2026-aug-24-prince-harry-quits-board-wildlif",
+          "id": "phys-org-news-2026-08-mystery-statue-unearthed-sardis-archaeological-htm",
           "section": "science",
-          "source": "The Guardian Wildlife",
-          "sourceUrl": "https://www.theguardian.com/environment/wildlife/rss",
-          "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-          "image": "https://i.guim.co.uk/img/media/77bfd9102a5d3092cc1153ef2655588870e9000a/581_0_2866_2294/master/2866.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01abd1db0242f2476a5c8fec7e294d7d",
-          "publishedAt": "2026-08-24T17:34:50.000Z",
+          "source": "Phys.org",
+          "sourceUrl": "https://phys.org/rss-feed/",
+          "link": "https://phys.org/news/2026-08-mystery-statue-unearthed-sardis-archaeological.html",
+          "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/mystery-statue-unearth.jpg",
+          "publishedAt": "2026-08-24T23:40:01.000Z",
           "title": {
-            "en": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
-            "zh": "哈里王子在护林员侵犯人权后退出野生动物慈善委员会"
+            "en": "Mystery statue unearthed at Sardis archaeological dig",
+            "zh": "萨迪斯考古发掘出土的神秘雕像"
           },
           "summary": {
-            "en": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy. Prince Harry’s spokesperson...",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+            "en": "Researchers with the long-running Harvard–Cornell Archaeological Exploration of Sardis have unearthed a larger-than-life statue estimated to be nearly 2,500 years old.",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
           },
           "body": {
-            "en": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy. Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks , which admitted last year that human rights abuses were committed by its rangers in the Republic of the Congo. Continue reading...",
-            "zh": "苏塞克斯公爵的发言人表示，他仍然是非洲公园使命的“积极和热心支持者”苏塞克斯公爵已辞去非洲一家主要野生动物慈善机构的董事会职务，该慈善机构一直处于人权争议的中心。哈里王子的发言人证实，他不再是非洲公园的受托人，该公园去年承认其护林员在刚果共和国侵犯人权。继续阅读..."
+            "en": "This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:\n\nResearchers with the long-running Harvard–Cornell Archaeological Exploration of Sardis have unearthed a larger-than-life statue estimated to be nearly 2,500 years old.\n\nThe discovery is remarkable for several reasons, said Nicholas Cahill, the field director of the AES team and a professor of Greek and Roman art and archaeology at the University of Wisconsin–Madison.\n\n\"It is very rare to find such monumental sculptures of this period anywhere in the Mediterranean, and this exceptionally well-preserved, unique monument casts important new light on the major arts of Lydia and on the Lydians' ties to their own past,\" he said.\n\nThe excavation is sponsored by the Ministry of Culture and Tourism of the Republic of Türkiye and by Harvard Art Museums. The Turkish site was named a UNESCO World Heritage Site last year, cementing its position as a critical site for understanding the ancient world.\n\nResearchers made the discovery in late May while examining a major Roman colonnaded avenue. The statue had been broken into two main pieces and reused, face down, as paving stones in the ancient thoroughfare.\n\n\"You sort of see these whole worlds opening up in front of you,\" Cahill said of the moment he realized the team had found something extraordinary.\n\nA team of conservators carefully excavated around the statue to gradually reveal its full shape and size in the ground.\n\n\"Then the guesswork started,\" said Susanne Ebbinghaus, the George M.A. Hanfmann Curator of Ancient Art at Harvard Art Museums, who was in Sardis for part of the excavation. \"'Is this archaic? Maybe not, it looks a little later. Is it a guy? Is it a girl?' When they started cleaning the soil around the head, we saw he had sideburns, so that question was settled.\"\n\nThe people of the Lydian Empire, which controlled what is now western Türkiye from about the middle of the 7th century to the middle of the 6th century B.C., left little written record of their civilization. Much of what was known came from what Greeks and Romans wrote about it—and from their point of view, the Lydians were eastern barbarians. But archaeological evidence has revealed that Sardis, the capital of the Lydian Empire, was a center for luxury and culture, particularly perfumes and fine clothing.\n\nJames McCurley '27, a Classics and Physics concentrator who worked on the dig over the summer, said the excavation of the mammoth statue was the highlight of his experience.\n\n\"After all the anticipation, I was worried the statue might be underwhelming, that we'd dig it up and find its front weathered beyond recognition. Discovering that the statue was not...",
+            "zh": "本文已根据 Science X 的编辑流程和政策进行审阅。编辑在确保内容可信度的同时强调了以下属性： 长期进行的哈佛-康奈尔萨迪斯考古探索项目的研究人员发现了一座具有传奇色彩的雕像，估计已有近 2,500 年的历史。 AES 团队的现场主任、威斯康星大学麦迪逊分校希腊罗马艺术与考古学教授尼古拉斯·卡希尔 (Nicholas Cahill) 表示，这一发现之所以引人注目，有几个原因。 他说：“在地中海任何地方都很难找到这一时期的纪念性雕塑，这座保存完好的独特纪念碑为了解吕底亚的主要艺术以及吕底亚人与其过去的联系提供了重要的新线索。” 此次发掘由土耳其共和国文化和旅游部和哈佛艺术博物馆赞助。土耳其遗址去年被联合国教科文组织列为世界遗产，巩固了其作为了解古代世界重要遗址的地位。 研究人员在五月下旬检查一条主要的罗马柱廊大道时发现了这一点。雕像被分成两块，面朝下重新使用，作为古老大道上的铺路石。 当卡希尔意识到团队发现了一些非凡的东西时，卡希尔说道：“你仿佛看到了整个世界在你面前展开。” 一组保护人员在雕像周围仔细挖掘，逐渐揭示了它在地下的完整形状和大小。 “然后猜测工作就开始了，”哈佛艺术博物馆乔治·M·A·汉夫曼古代艺术馆长苏珊娜·艾宾豪斯说，她当时正在萨迪斯参与了部分发掘工作。 “‘这是古老的吗？也许不是，看起来有点晚了。是男生吗？是女生吗？’当他们开始清理头部周围的土壤时，我们看到他有鬓角，所以这个问题就解决了。” 吕底亚帝国的人民大约从公元前七世纪中叶到公元前六世纪中叶控制着现在的突厥西部地区，但他们的文明几乎没有留下任何书面记录。我们所知道的大部分内容都来自希腊人和罗马人的记载——从他们的角度来看，吕底亚人是东方野蛮人。但考古证据表明，吕底亚帝国的首都萨迪斯是奢侈品和文化的中心，尤其是香水和精美服装。 27岁的詹姆斯·麦考利(James McCurley)是一名古典学和物理专业的学生，​​他在整个夏天都参与了挖掘工作，他说猛犸象雕像的挖掘是他经历中的亮点。 “经过这么多的期待，我担心这座雕像可能不会给人留下深刻的印象，我们会把它挖出来，发现它的正面风化得面目全非。发现这座雕像不是......"
           },
           "reflection": {
-            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
           },
           "verse": {
-            "reference": "Micah 6:8",
-            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
-            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
-            "themeEn": "Justice and mercy",
-            "themeZh": "公义与怜悯"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-environment-2026-aug-24-otters-may-be-back-in-the-br",
-          "section": "science",
-          "source": "The Guardian Wildlife",
-          "sourceUrl": "https://www.theguardian.com/environment/wildlife/rss",
-          "link": "https://www.theguardian.com/environment/2026/aug/24/otters-may-be-back-in-the-bronx-river-but-its-still-legal-to-kill-them-in-new-york-state",
-          "image": "https://i.guim.co.uk/img/media/8bfa5db7fe047998eefe16ea54973bface04b980/257_0_4286_3428/master/4286.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc15124879759a52fd529e16e40f6631",
-          "publishedAt": "2026-08-24T17:32:47.000Z",
-          "title": {
-            "en": "Otters may be back in the Bronx River, but it’s still legal to kill them in New York state | Letter",
-            "zh": "水獭可能又回到了布朗克斯河，但在纽约州捕杀它们仍然是合法的 |信"
-          },
-          "summary": {
-            "en": "Peter J McKosky celebrates the return of the river otter after a century to New York, but notes that hundreds are violently killed in traps every year elsewhere in the state Your report on the river otter’s return to New York City’s Bronx River after a century’s absence (19...",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "Peter J McKosky celebrates the return of the river otter after a century to New York, but notes that hundreds are violently killed in traps every year elsewhere in the state Your report on the river otter’s return to New York City’s Bronx River after a century’s absence ( 19 August ) is genuinely wonderful news – proof that patient ecological restoration works. But it sits uneasily alongside a fact rarely mentioned: New York state still permits the trapping and killing of hundreds of river otters every year, purely for recreation. State wildlife data shows an average annual toll of around 900 otters , sometimes over 1,100, killed in body-gripping and leg-hold traps designed to crush, hold, drown or kill by force. Otters are recognised as an indicator species – their presence signals genuine ecosystem health. There is no overpopulation crisis and, with the fur trade in serious decline, barely an economic rationale left. What remains is the recreational interest of a small minority of trappers. Continue reading...",
-            "zh": "彼得·J·麦科斯基 (Peter J McKosky) 庆祝河獭在一个世纪后重返纽约，但他指出，在该州其他地方，每年都有数百只河獭在陷阱中被暴力杀害。您关于河獭在缺席一个世纪后重返纽约市布朗克斯河的报告（8 月 19 日）确实是一个好消息，证明耐心的生态恢复是有效的。但它与一个很少被提及的事实令人不安：纽约州每年仍然允许捕获和杀死数百只水獭，纯粹是为了娱乐。州野生动物数据显示，每年平均有约 900 只水獭（有时超过 1,100 只）死于旨在压碎、抓住、淹死或强行杀死的夹体和夹腿陷阱。水獭被认为是指示物种——它们的存在标志着真正的生态系统健康。不存在人口过剩危机，而且随着毛皮贸易的严重下滑，几乎没有任何经济理由可言。剩下的只是少数捕猎者的娱乐兴趣。继续阅读..."
-          },
-          "reflection": {
-            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Philippians 4:8",
-            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
-            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
-            "themeEn": "Mind discipline",
-            "themeZh": "心思的操练"
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
           },
           "translationState": "fallback"
         },
@@ -2512,39 +2399,6 @@
           "body": {
             "en": "The world's oceans are hotter than ever recorded, new data suggests, as they suffer from human-caused climate change and the growing El Niño weather phenomenon.\n\nThe average surface temperature of the planet's seas outside the polar regions hit 21.1C (70F) on Saturday, according to figures from the European Copernicus climate change service.\n\nThat edges past the 21.09C recorded on three separate days in March 2024, and is far above average for the time of year.\n\nWarmer oceans can have wide-reaching consequences, including supercharging extreme weather, raising sea levels and harming marine life.\n\n\"This record is another clear signal of an ocean under growing stress,\" said Dr Samantha Burgess, deputy director of Copernicus.\n\n\"El Niño is adding heat to the system, but it is doing so on top of decades of human-driven warming,\" she added.\n\nThe data is based on sea temperatures 10m (32ft 10in) below the surface, using measurements from buoys, ships and satellites, which are combined to produce a global estimate.\n\nWhile the margin of record is currently very small and any global estimate comes with uncertainties, scientists say its timing is particularly notable.\n\nAverage worldwide sea temperatures tend to reach their yearly peak in March or April, which corresponds to the end of summer in the southern hemisphere - and not in August.\n\nThe southern hemisphere contains more of the planet's ocean surface than the northern hemisphere and so exerts a bigger influence on average sea temperatures.\n\nWhat is especially concerning to scientists is that the oceans are already so hot when the natural El Niño weather phenomenon is still some way off its expected peak.\n\nEl Niño brings unusually warm waters to the surface of the eastern and central tropical Pacific Ocean. Warmer waters across such a large area means that global average temperatures typically spike too.\n\nEl Niño is expected to keep strengthening until Christmas time, with scientists warning that it is on course to be the strongest in centuries .\n\n\"The fact that we are already breaking records is an early indicator of how strong the El Niño is becoming,\" said Dr Jeremy Grist, senior research fellow at the National Oceanography Centre in Southampton.\n\n\"All things being equal we might expect the ocean temperature record to be broken again in March [or] April 2027,\" he added.\n\nThe waters far away from El Niño's Pacific hunting ground are also extremely warm, including around the UK and Europe.\n\nThe western English Channel has seen almost continuous marine heatwave conditions for more than three years, peaking at 7C above normal in July, according to Prof Tim Smyth, director of science at Plymouth Marine Laboratory.\n\nScientists say such widespread warmth around the planet is a clear sign of the growing effect...",
             "zh": "新数据显示，由于人为气候变化和日益严重的厄尔尼诺天气现象，世界海洋的温度比以往任何时候都要高。 根据欧洲哥白尼气候变化服务机构的数据，周六极地以外的地球海洋表面平均温度达到 21.1 摄氏度（70 华氏度）。 这一气温略高于 2024 年 3 月连续三天记录的 21.09 摄氏度，远高于一年中该时期的平均气温。 海洋变暖可能会产生广泛的影响，包括加剧极端天气、海平面上升和损害海洋生物。 哥白尼副主任萨曼莎·伯吉斯博士说：“这一记录是海洋压力日益增大的又一个明显信号。” 她补充说：“厄尔尼诺现象正在给系统增加热量，但这是在数十年人为导致的变暖的基础上发生的。” 该数据基于海面以下 10 m（32 英尺 10 英寸）的海水温度，使用浮标、船舶和卫星的测量结果，将这些数据结合起来得出全球估计值。 虽然目前的记录差距非常小，而且任何全球估计都存在不确定性，但科学家表示，其时机尤其值得注意。 全球平均海水温度往往在三月或四月达到年度峰值，这对应于南半球的夏末，而不是八月。 南半球比北半球拥有更多的地球海洋表面，因此对平均海洋温度的影响更大。 让科学家们特别担心的是，当自然厄尔尼诺天气现象距离预期峰值还有一段距离时，海洋已经如此炎热。 厄尔尼诺现象给东部和中部热带太平洋表面带来异常温暖的海水。如此大面积的水域变暖意味着全球平均气温通常也会飙升。 厄尔尼诺现象预计将持续加强，直到圣诞节期间，科学家警告称，这将是几个世纪以来最强烈的一次。 南安普敦国家海洋学中心高级研究员杰里米·格里斯特博士说：“我们已经打破记录这一事实是厄尔尼诺现象变得多么强烈的早期指标。” 他补充道：“在所有条件相同的情况下，我们预计海洋温度记录将在 2027 年 3 月或 4 月再次被打破。” 远离厄尔尼诺现象的太平洋狩猎场的水域也非常温暖，包括英国和欧洲周围的水域。 普利茅斯海洋实验室科学主任蒂姆·史密斯教授表示，三年多来，西英吉利海峡几乎持续出现海洋热浪天气，7月份的最高气温比正常水平高出7摄氏度。 科学家表示，地球上如此普遍的变暖现象是这种影响日益增强的明显迹象......"
-          },
-          "reflection": {
-            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
-            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
-          },
-          "verse": {
-            "reference": "Genesis 2:15",
-            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
-            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
-            "themeEn": "Creation care",
-            "themeZh": "看守受造界"
-          },
-          "translationState": "fallback"
-        },
-        {
-          "id": "www-theguardian-com-environment-2026-aug-24-harry-green-obituary",
-          "section": "science",
-          "source": "The Guardian Wildlife",
-          "sourceUrl": "https://www.theguardian.com/environment/wildlife/rss",
-          "link": "https://www.theguardian.com/environment/2026/aug/24/harry-green-obituary",
-          "image": "https://i.guim.co.uk/img/media/a4e2a7a3e731afbeb713cf05c4fa106d74d4d942/0_369_1800_1440/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35da3d8cea9db57c44fafdd7a75f8c3d",
-          "publishedAt": "2026-08-24T16:24:37.000Z",
-          "title": {
-            "en": "Harry Green obituary",
-            "zh": "哈里·格林逝世讣告"
-          },
-          "summary": {
-            "en": "The conservationist Harry Green was a naturalist of the amateur school, with an encyclopedic knowledge of British wildlife based on a lifetime in the field. Though born and brought up in Oxfordshire, he spent the whole of his adult life in his adopted county of Worcestershire....",
-            "zh": "这是一则来自科学栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
-          },
-          "body": {
-            "en": "The conservationist Harry Green was a naturalist of the amateur school, with an encyclopedic knowledge of British wildlife based on a lifetime in the field. Though born and brought up in Oxfordshire, he spent the whole of his adult life in his adopted county of Worcestershire. Harry, who has died aged 92, remembered being kept awake during the second world war by calling corncrakes in the meadows near his home. Later he strove, against the odds, to save Britain’s last colony of marsh warblers near Pershore. These, and the corncrakes, eventually vanished, but other species, such as hobbies, little egrets and Cetti’s warblers, did arrive and thrive. Continue reading...",
-            "zh": "自然资源保护主义者哈里·格林（Harry Green）是一位业余博物学家，凭借在该领域的一生，对英国野生动物有了百科全书式的了解。尽管他在牛津郡出生和长大，但他的整个成年生活都是在他收养的伍斯特郡度过的。已去世 92 岁的哈利记得，在第二次世界大战期间，他因在家附近的草地上叫玉米秧鸡而无法入睡。后来，他克服重重困难，努力拯救英国珀肖尔附近最后的沼泽莺群。这些鸟和玉米秧鸡最终消失了，但其他物种，如白鹭、小白鹭和塞蒂莺，确实出现并繁衍生息。继续阅读..."
           },
           "reflection": {
             "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
@@ -2710,6 +2564,39 @@
           "body": {
             "en": "A new analysis of biological aging across the human body suggests that both sleeping too little and sleeping too much are associated with faster aging in the brain, heart, lungs, immune system, and other organs. These sleep patterns were also linked to a broad range of diseases.\n\n\"Previous studies have found that sleep is largely linked to aging and the pathological burden of the brain. Our study goes further and shows that too little and too much sleep are associated with faster aging in nearly every organ, supporting the idea that sleep is important in maintaining organ health within a coordinated brain-body network, including metabolic balance and a healthy immune system,\" says study leader Junhao Wen, assistant professor of radiology at Columbia University Vagelos College of Physicians and Surgeons.\n\nScientists are increasingly using aging clocks to estimate whether a person is aging biologically faster or slower than their chronological age. These tools rely on machine learning and biological information (e.g., proteins from a minimally invasive blood test) to calculate patterns associated with aging.\n\nMany aging clocks provide a single measure for the entire body. However, different organs can age at different speeds. One familiar example is the decline in ovarian function that contributes to the biological clock associated with female fertility.\n\nWen and his colleagues have been developing aging clocks that focus on individual organs. The goal is to provide more detailed and potentially more personalized information about a person's health.\n\n\"Everyone is excited by these aging clocks and their ability to predict disease and mortality risk,\" Wen says. \"But to me, the more exciting question is, can we link aging clocks to a lifestyle factor that can be modified in time to slow aging?\"\n\nSleep offered researchers an ideal way to explore that question because mounting evidence suggests that sleep plays an important role in health. Wen also had a personal interest in the issue.\n\n\"I'm also a light sleeper and was getting worried about the effects on myself,\" says Wen.\n\nTo create the aging clocks, Wen used information from about half a million participants in the UK Biobank. Machine learning was applied to identify biological signatures associated with aging in different organs.\n\nThe researchers built clocks using several types of information, including structural measurements from medical imaging, proteins associated with specific organs, and molecules detected in the blood.\n\n\"In the liver, for example, we have an aging clock built with protein data, an aging clock of metabolic data, and an aging clock of imaging data,\" Wen says. \"This allows us to see whether sleep is distinctively associated with aging clocks derived from multiple omics and...",
             "zh": "一项对人体生物衰老的新分析表明，睡眠过少和睡眠过多都与大脑、心脏、肺、免疫系统和其他器官的加速衰老有关。这些睡眠模式也与多种疾病有关。 “之前的研究发现，睡眠在很大程度上与衰老和大脑的病理负担有关。我们的研究进一步表明，睡眠太少和太多都与几乎每个器官的衰老速度加快有关，这支持了这样的观点，即睡眠对于维持协调的脑体网络中的器官健康非常重要，包括代谢平衡和健康的免疫系统，”研究负责人、哥伦比亚大学瓦格洛斯内外科医学院放射学助理教授温俊豪说。 科学家越来越多地使用衰老时钟来估计一个人的生物学衰老速度是否比实际年龄快或慢。这些工具依靠机器学习和生物信息（例如，微创血液测试中的蛋白质）来计算与衰老相关的模式。 许多老化时钟为整个身体提供单一测量。然而，不同的器官会以不同的速度老化。一个熟悉的例子是卵巢功能下降，这会影响与女性生育能力相关的生物钟。 温和他的同事们一直在开发关注个体器官的衰老时钟。目标是提供有关个人健康的更详细且可能更个性化的信息。 “每个人都对这些衰老时钟及其预测疾病和死亡风险的能力感到兴奋，”文说。 “但对我来说，更令人兴奋的问题是，我们能否将衰老时钟与可以及时改变以减缓衰老的生活方式因素联系起来？” 睡眠为研究人员提供了探索这个问题的理想方法，因为越来越多的证据表明睡眠在健康中发挥着重要作用。温家宝对这个问题也有个人兴趣。 “我的睡眠质量也很浅，我很担心这对自己造成的影响，”文说。 为了创建衰老时钟，温使用了英国生物银行约 50 万参与者的信息。应用机器学习来识别与不同器官衰老相关的生物特征。 研究人员利用多种类型的信息构建了时钟，包括医学成像的结构测量、与特定器官相关的蛋白质以及血液中检测到的分子。 “例如，在肝脏中，我们有一个由蛋白质数据构建的衰老时钟、一个代谢数据的衰老时钟和一个成像数据的衰老时钟，”文说。 “这使我们能够了解睡眠是否与来自多个组学的衰老时钟有明显的相关性，并且......"
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-sciencedaily-com-releases-2026-08-260823094152-htm",
+          "section": "science",
+          "source": "ScienceDaily Top Science",
+          "sourceUrl": "https://www.sciencedaily.com/rss/top/science.xml",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
+          "image": "https://www.sciencedaily.com/images/1920/baby-with-pacifier-using-cell-phone.webp",
+          "publishedAt": "2026-08-24T10:31:15.000Z",
+          "title": {
+            "en": "Screen time at ages 1 and 6 may matter more than parents realize",
+            "zh": "1 岁和 6 岁的屏幕时间可能比父母意识到的更重要"
+          },
+          "summary": {
+            "en": "More screen time during infancy and around the start of school was linked to poorer academic performance and weaker working memory years later. The findings suggest that early childhood may contain particularly sensitive windows when screen habits can have longer-lasting effects.",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Screens are now a routine part of life for many young children, raising growing questions about how early exposure could influence development over time. New longitudinal research that tracked children from age 1 through age 8 found that greater screen viewing, especially during infancy and around the time children begin school, was associated with lower academic performance at age 9 and weaker working memory at age 10.5. The results suggest that when children are exposed to screens could matter just as much as how much time they spend using them.\n\nThe World Health Organization (WHO) and the American Academy of Pediatrics recommend avoiding screen use before 18-24 months and limiting it to less than one hour per day for children ages 2 to 5. Many children, however, spend more time with screens than those guidelines advise. Research into the effects of screen viewing on cognitive development has also produced mixed results. Much of the previous work has relied on snapshots taken at a single point in time, focused mainly on school-age children, or lacked repeated measurements throughout early childhood. Studies that follow children across several developmental stages can help identify periods when screen exposure may be especially important while also accounting more effectively for family and environmental factors.\n\nResearchers from Inserm and the National University of Singapore conducted the study, which was published in the World Journal of Pediatrics . Using information from the Growing Up in Singapore Towards healthy Outcomes (GUSTO) birth cohort, the team examined parent-reported screen viewing at six different ages. They then compared those measurements with children's academic performance and working memory several years later.\n\nThe analysis included 502 children who were followed from infancy into middle childhood. Higher screen viewing during certain stages of development was associated with poorer academic results later on and weaker working memory. The clearest patterns appeared for screen exposure during infancy and near the beginning of formal schooling, indicating that these periods may be particularly sensitive for cognitive development.\n\nChildren who accumulated more screen exposure across childhood also tended to perform less well academically. Together, the findings suggest that total viewing time is only part of the picture. The age at which heavier screen use occurs may also be important, with early childhood potentially representing a period when screen habits have longer-term implications for learning and memory.\n\n\"The effect sizes we saw at age 1 were the largest among all time points we examined,\" the authors said. \"That suggests early infancy may be a window of heightened sensitivity, when the developing brain is...",
+            "zh": "现在，屏幕已成为许多幼儿生活的一部分，这引发了越来越多的问题，即早期接触屏幕会如何影响长期的发育。新的追踪 1 岁至 8 岁儿童的纵向研究发现，更多的屏幕观看时间，尤其是在婴儿期和孩子开始上学前后，与 9 岁时学业成绩较低和 10.5 岁时工作记忆较弱有关。研究结果表明，孩子接触屏幕的时间与他们使用屏幕的时间一样重要。 世界卫生组织 (WHO) 和美国儿科学会建议在 18 至 24 个月大之前避免使用屏幕，并将 2 至 5 岁的儿童每天使用屏幕的时间限制在不到一小时。然而，许多儿童花在屏幕上的时间比指南建议的要多。关于屏幕观看对认知发展影响的研究也产生了不同的结果。之前的大部分工作都依赖于在单个时间点拍摄的快照，主要关注学龄儿童，或者缺乏整个幼儿期的重复测量。对儿童各个发展阶段进行跟踪研究可以帮助确定屏幕暴露可能特别重要的时期，同时还可以更有效地考虑家庭和环境因素。 来自 Inserm 和新加坡国立大学的研究人员进行了这项研究，该研究发表在《世界儿科杂志》上。研究小组利用新加坡成长健康成果 (GUSTO) 出生队列的信息，检查了家长报告的六个不同年龄段的屏幕观看情况。然后，他们将这些测量结果与几年后儿童的学习成绩和工作记忆进行了比较。 该分析涵盖了 502 名从婴儿期到童年中期的儿童。在某些发展阶段，较高的屏幕观看次数与后来较差的学业成绩和较弱的工作记忆有关。最清晰的模式出现在婴儿期和接近正规学校教育开始时的屏幕暴露，这表明这些时期可能对认知发展特别敏感。 童年时期接触屏幕越多的孩子学业成绩也往往较差。总之，研究结果表明，总观看时间只是整体情况的一部分。大量使用屏幕的年龄也可能很重要，幼儿期可能代表屏幕习惯对学习和记忆产生长期影响的时期。 作者说：“我们在 1 岁时看到的效应大小是我们检查的所有时间点中最大的。” “这表明婴儿早期可能是敏感性增强的一个窗口，此时正在发育的大脑......"
           },
           "reflection": {
             "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
@@ -2919,6 +2806,171 @@
             "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
             "themeEn": "Peacemaking",
             "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-nature-com-articles-d41586-026-02616-z",
+          "section": "science",
+          "source": "Nature",
+          "sourceUrl": "https://www.nature.com/nature.rss",
+          "link": "https://www.nature.com/articles/d41586-026-02616-z",
+          "image": null,
+          "publishedAt": "2026-08-24T00:00:00.000Z",
+          "title": {
+            "en": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+            "zh": "将患者自己的线粒体注射到眼睛中以试图恢复视力"
+          },
+          "summary": {
+            "en": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02616-z Injection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-nature-com-articles-d41586-026-02571-9",
+          "section": "science",
+          "source": "Nature",
+          "sourceUrl": "https://www.nature.com/nature.rss",
+          "link": "https://www.nature.com/articles/d41586-026-02571-9",
+          "image": null,
+          "publishedAt": "2026-08-24T00:00:00.000Z",
+          "title": {
+            "en": "Can AI ever be conscious? The question stems from a misconception",
+            "zh": "人工智能可以有意识吗？这个问题源于一个误解"
+          },
+          "summary": {
+            "en": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02571-9 A book outlines how the fields of artificial intelligence, psychology and philosophy have neglected a key aspect of consciousness: the body.",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": null,
+            "zh": null
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-23-child-dies-brain-eating-amoeba-i",
+          "section": "science",
+          "source": "The Guardian Science",
+          "sourceUrl": "https://www.theguardian.com/science/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana",
+          "image": "https://i.guim.co.uk/img/media/66e674c1ab077f100e2ffbe69bd71cd86d328598/0_173_1080_863/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ab7313a1755c3c965b105d2656efc92",
+          "publishedAt": "2026-08-23T22:17:53.000Z",
+          "title": {
+            "en": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
+            "zh": "路易斯安那州八岁儿童感染罕见食脑阿米巴原虫后死亡"
+          },
+          "summary": {
+            "en": "Lillian Smart of Ruston infected with fatal Naegleria fowleri, likely after swimming in Lake Claiborne, health officials say An eight-year-old Louisiana girl has died after contracting a rare, typically fatal brain-eating amoeba after a swim in Lake Claiborne. Lillian Smart, of...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Lillian Smart of Ruston infected with fatal Naegleria fowleri , likely after swimming in Lake Claiborne, health officials say An eight-year-old Louisiana girl has died after contracting a rare, typically fatal brain-eating amoeba after a swim in Lake Claiborne. Lillian Smart, of Ruston, died on Saturday, one day after celebrating her birthday, her family announced in a public Facebook post on the “Love for Lillian” page . Continue reading...",
+            "zh": "卫生官员称，拉斯顿的莉莲·斯马特（Lillian Smart）很可能在克莱伯恩湖游泳后感染了致命的福氏耐格里阿米巴原虫，卫生官员称，路易斯安那州一名八岁女孩在克莱伯恩湖游泳后感染了一种罕见的、通常致命的食脑阿米巴原虫，随后死亡。拉斯顿的莉莲·斯玛特 (Lillian Smart) 于周六庆祝生日一天后去世，她的家人在 Facebook 的“Love for Lillian”页面上发布了公开帖子，宣布去世。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-bbc-co-uk-news-articles-cqlxlp4lx9yo-at-medium-rss-at-campaign-rss",
+          "section": "science",
+          "source": "BBC Science & Environment",
+          "sourceUrl": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46e9/live/b1ac6f30-9f1a-11f1-b2a2-8945a27a2843.jpg",
+          "publishedAt": "2026-08-23T17:39:33.000Z",
+          "title": {
+            "en": "France links sharp rise in drownings to heatwaves",
+            "zh": "法国将溺水人数急剧上升与热浪联系起来"
+          },
+          "summary": {
+            "en": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及领导、智慧与公共责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "France has seen 301 drownings since 19 June, a government minister has said, linking the sharp rise in deaths from last year to a series of prolonged heatwaves.\n\nSports and Youth Minister Marina Ferrari told France Inter radio the number of deaths - a 14% hike on 2025 - was a \"tragic toll\".\n\nFrance, Spain and Italy have all been hit by heatwaves that have triggered massive wildfires that have scorched thousands of hectares of land this summer.\n\nFerrari said people had been taking risks by going into the water, adding: \"Many deadly accidents have occurred in areas that are not authorised or supervised for swimming.\"\n\nShe said a number of the drownings were recorded in \"open water, in canals for example\".\n\nFerrari said the government was working with regional authorities \"to improve swimming areas and make things safer\".\n\nSpeaking on Friday, she added that \"many drownings, particularly among the elderly, occurred in individual pools\".\n\nThe minister said that sudden immersion in cold water on a hot day could cause shock, and that in some cases \"people can also exceed their physical capabilities\".\n\nIn June, Ferrari warned that too many people were trying to cool off in rivers and canals without necessarily taking the risks into account.\n\nClimate change is driving up global average temperatures, making heatwaves more frequent and intense.\n\nThis has been felt acutely in Europe, which is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus climate service. , external\n\nA heatwave in June saw a nuclear power plant in south-west France temporarily shut down because water temperatures in the River Garonne topped 28C. Under French laws, water used to cool the reactors at the Golfech plant must not exceed that temperature.\n\nSome monuments like the Eiffel Tower also decided to close early because of the high temperatures in Paris during the heatwave.\n\nThe dry conditions also saw wildfires spread across France, with Gironde, around the city of Bordeaux in the south-west of the country, being the worse affected area, with more than 200,000 people being forced from their homes in late July.\n\nFrance has logged 7,300 excess deaths between late May and 22 July, according to provisional figures from the public health authorities.",
+            "zh": "一位政府部长表示，自 6 月 19 日以来，法国已发生 301 起溺水事件，将去年死亡人数急剧上升与一系列长期热浪联系起来。 体育和青年部长玛丽娜·法拉利 (Marina Ferrari) 告诉法国国际米兰电台，死亡人数比 2025 年增加 14%，这是一个“悲惨的数字”。 今年夏天，法国、西班牙和意大利都遭受了热浪袭击，引发了大规模野火，烧毁了数千公顷土地。 法拉利表示，人们一直冒险下水，并补充道：“许多致命事故发生在未经授权或监督的游泳区域。” 她说，许多溺水事件是在“开放水域，例如运河”中发生的。 法拉利表示，政府正在与地方当局合作“改善游泳区并使事情变得更安全”。 她在周五发表讲话时补充说，“许多溺水事件，特别是老年人溺水事件，都发生在个别泳池中”。 这位部长表示，在炎热的天气里突然浸入冷水中可能会导致休克，并且在某些情况下“人们也会超出其身体承受能力”。 六月，法拉利警告说，太多人试图在河流和运河中降温，而没有考虑到风险。 气候变化正在推高全球平均气温，使热浪更加频繁和强烈。 根据哥白尼气候服务机构的数据，欧洲对此有着强烈的感受，欧洲是变暖最快的大陆，升温速度是全球平均水平的两倍。 , 外部 6月的热浪导致法国西南部的一座核电站暂时关闭，因为加龙河水温高达28摄氏度。根据法国法律，用于冷却戈尔菲什核电站反应堆的水不得超过该温度。 由于热浪期间巴黎气温较高，埃菲尔铁塔等一些古迹也决定提前关闭。 干燥的气候还导致野火蔓延到法国各地，其中该国西南部波尔多市周围的吉伦特省是受灾最严重的地区，7月下旬已有超过20万人被迫离开家园。 根据公共卫生当局的临时数据，5月下旬至7月22日期间，法国已有7,300人超额死亡。"
+          },
+          "reflection": {
+            "en": "This story draws attention to leadership, wisdom, and public responsibility. Proverbs 11:14 reminds us to meet sharp headlines with wisdom, integrity, and service, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到领导、智慧与公共责任。Proverbs 11:14提醒我们，在快速变化的新闻里，仍要以智慧、正直与服事来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Proverbs 11:14",
+            "textEn": "For lack of guidance a nation falls, but victory is won through many advisers.",
+            "textZh": "无智谋，民就败落；谋士多，人便安居。",
+            "themeEn": "Wise counsel",
+            "themeZh": "智谋的价值"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-world-video-2026-aug-23-ebola-day-100-why-this-outbr",
+          "section": "science",
+          "source": "The Guardian Science",
+          "sourceUrl": "https://www.theguardian.com/science/rss",
+          "link": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
+          "image": "https://i.guim.co.uk/img/media/53743bfe70e7d0212a7daae5a50111e26b0da385/299_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ff8847dd85c9c5235f940eabae28414",
+          "publishedAt": "2026-08-23T10:50:36.000Z",
+          "title": {
+            "en": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
+            "zh": "埃博拉病毒第 100 天：为什么这次疫情可能成为历史上最致命的疫情——视频解说"
+          },
+          "summary": {
+            "en": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's Yap Boum II to understand why health teams on the ground are...",
+            "zh": "这是一则来自科学栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's Yap Boum II to understand why health teams on the ground are struggling and what is being put in place to try to contain the spread Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history Continue reading...",
+            "zh": "自5月记录第一例埃博​​拉疫情以来，刚果民主共和国已有2000多人死于埃博拉病毒。 《卫报》的全球卫生记者 Kat Lay 采访了疾病预防控制中心非洲分部的 Yap Boum II，了解当地卫生团队为何举步维艰，以及正在采取哪些措施来遏制刚果民主共和国埃博拉疫情的蔓延，该疫情目前是该国历史上最致命的疫情 继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
           },
           "translationState": "fallback"
         }
@@ -3370,6 +3422,909 @@
             "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
             "themeEn": "Justice and mercy",
             "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        }
+      ]
+    },
+    "creation": {
+      "id": "creation",
+      "title": {
+        "en": "Creation Desk",
+        "zh": "受造世界"
+      },
+      "strap": {
+        "en": "The world Yahweh made — its wonders, and the toll of a warming, wounded earth.",
+        "zh": "雅伟所造的世界——它的奇妙，以及一个渐暖、渐伤的地球所付的代价。"
+      },
+      "categoryLabel": {
+        "en": "Creation",
+        "zh": "受造"
+      },
+      "sourceNotes": [
+        "The Guardian Wildlife",
+        "The Guardian Environment",
+        "Mongabay",
+        "Yale Environment 360"
+      ],
+      "items": [
+        {
+          "id": "www-theguardian-com-australia-news-2026-aug-25-coogee-beach-shark-victim",
+          "section": "creation",
+          "source": "The Guardian Wildlife",
+          "sourceUrl": "https://www.theguardian.com/environment/wildlife/rss",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
+          "image": "https://i.guim.co.uk/img/media/25433135061085fd870b5ac4f2932eefc92102c9/0_0_508_406/master/508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e3d485014c18589fc5af1a9007eaa2a",
+          "publishedAt": "2026-08-25T04:13:05.000Z",
+          "title": {
+            "en": "Sydney shark attack survivor describes moment she came to face-to-face with ‘monster’",
+            "zh": "悉尼鲨鱼袭击幸存者描述了她与“怪物”面对面的那一刻"
+          },
+          "summary": {
+            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughter An Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came face-to-face with the “monster”. Leah Stewart, a 34-year-old teacher and mother of a one-year-old daughter, was attacked by a large shark while on a morning swim at Coogee beach on 13 June. Continue reading...",
+            "zh": "34 岁的莉亚·斯图尔特 (Leah Stewart) 在 6 月事件发生后首次接受媒体采访时表示，她在被咬时想到的是自己一岁的女儿。 一名在悉尼东郊海滩遭遇鲨鱼袭击后失去手臂的澳大利亚妇女回忆起自己与“怪物”面对面的那一刻。 6 月 13 日，34 岁的教师 Leah Stewart 是一名一岁女儿的母亲，她在库吉海滩晨泳时遭到大鲨鱼袭击。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-business-2026-aug-25-europe-heatwaves-insurance-comp",
+          "section": "creation",
+          "source": "The Guardian Environment",
+          "sourceUrl": "https://www.theguardian.com/environment/rss",
+          "link": "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
+          "image": "https://i.guim.co.uk/img/media/b09459c467eb2978c2321c31255d9ebddfcb9f26/387_0_3873_3099/master/3873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a292d32d8b3d8f7e984d1effdf1b4905",
+          "publishedAt": "2026-08-25T04:00:48.000Z",
+          "title": {
+            "en": "Europe’s heatwaves threaten insurers’ earnings, rating agency S&P says",
+            "zh": "评级机构标准普尔表示，欧洲热浪威胁保险公司的盈利"
+          },
+          "summary": {
+            "en": "Rise in claims linked to heat-related deaths and illness, especially among older people, could drive up premiums Europe’s intense heatwaves could hit insurers’ earnings as companies face a rise in claims linked to heat-related deaths and worsening health conditions, the rating...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Rise in claims linked to heat-related deaths and illness, especially among older people, could drive up premiums Europe’s intense heatwaves could hit insurers’ earnings as companies face a rise in claims linked to heat-related deaths and worsening health conditions, the rating agency S&P has said. While a long summer of extreme heat will have increased drought and wildfire-related claims, the rating agency said there would also be fallout for life and health insurers, and for the reinsurers who provide financial protection to insurance companies. Continue reading...",
+            "zh": "评级机构标准普尔表示，与高温相关的死亡和疾病相关的索赔增加，尤其是老年人，可能会推高保费。欧洲的强烈热浪可能会打击保险公司的收益，因为公司面临与高温相关的死亡和健康状况恶化相关的索赔增加。该评级机构表示，虽然漫长的夏季酷热将增加与干旱和野火相关的索赔，但这也会给人寿和健康保险公司以及为保险公司提供财务保护的再保险公司带来影响。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-environment-2026-aug-25-at-least-35000-excess-deaths",
+          "section": "creation",
+          "source": "The Guardian Environment",
+          "sourceUrl": "https://www.theguardian.com/environment/rss",
+          "link": "https://www.theguardian.com/environment/2026/aug/25/at-least-35000-excess-deaths-europe-back-to-back-heatwaves",
+          "image": "https://i.guim.co.uk/img/media/2891e6ab0092b67db39326b3f6d122e2340d62fa/654_0_6015_4814/master/6015.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=183c802c4a15a014ef8240b96134e5e9",
+          "publishedAt": "2026-08-25T04:00:47.000Z",
+          "title": {
+            "en": "At least 35,000 excess deaths recorded in Europe’s back-to-back heatwaves",
+            "zh": "欧洲接连发生的热浪造成至少 35,000 人超额死亡"
+          },
+          "summary": {
+            "en": "True figure likely to be much higher as it only covers about half of continent and does not include August totals At least 35,000 more people died during Europe’s four record-breaking, back-to-back heatwaves this summer than would normally be expected, according to incomplete...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "True figure likely to be much higher as it only covers about half of continent and does not include August totals At least 35,000 more people died during Europe’s four record-breaking, back-to-back heatwaves this summer than would normally be expected, according to incomplete figures from barely half the continent. Excess mortality in three of the EU’s larger countries – Germany, France and Spain – alone has already exceeded 25,000, according to the provisional national figures, and experts say the toll will rise significantly once August totals are consolidated. Continue reading...",
+            "zh": "真实数字可能要高得多，因为它只覆盖了大约一半的欧洲大陆，而且不包括 8 月份的死亡人数。根据欧洲大陆一半的不完整数据，今年夏天欧洲连续四次破纪录的热浪造成的死亡人数比正常预期多了至少 35,000 人。根据临时国家数据，仅欧盟三个大国——德国、法国和西班牙——的超额死亡率就已经超过 25,000 人，专家表示，一旦 8 月份的总数得到整合，死亡人数将大幅上升。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-24-hawk-fire-reno-nevada-injuries-e",
+          "section": "creation",
+          "source": "The Guardian Environment",
+          "sourceUrl": "https://www.theguardian.com/environment/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+          "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4337bacd8725aa6ace723fb93da00d98",
+          "publishedAt": "2026-08-25T01:28:27.000Z",
+          "title": {
+            "en": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
+            "zh": "官员称，快速移动的 Hawk 野火在内华达州里诺市已得到约 27% 的控制"
+          },
+          "summary": {
+            "en": "Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blaze The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving, wind-driven wildfire sparked near Reno, Nevada. Authorities added...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blaze The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving , wind-driven wildfire sparked near Reno, Nevada . Authorities added that 23,000 people are under a “go-now” order and 40,000 people are under a “get-set” warning, an improvement from the 90,000 Nevadans under evacuation orders or warnings on Monday morning. Continue reading...",
+            "zh": "当局周一下午表示，在内华达州里诺附近发生快速蔓延的风力野火两天后，当局表示，在“人为”风力驱动的大火中，仍有数万人受到疏散命令或警告。霍克大火已得到约 27% 的控制。当局补充说，有 23,000 人受到“立即撤离”命令，40,000 人受到“准备就绪”警告，这比周一早上 90,000 名内华达人收到疏散命令或警告有所改善。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "news-mongabay-com-2026-08-in-raja-ampat-children-learn-that-their-knowle",
+          "section": "creation",
+          "source": "Mongabay",
+          "sourceUrl": "https://news.mongabay.com/feed/",
+          "link": "https://news.mongabay.com/2026/08/in-raja-ampat-children-learn-that-their-knowledge-can-help-protect-their-islands/",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/24232329/IMG_20260825_0810072-768x512.jpg",
+          "publishedAt": "2026-08-24T23:31:29.000Z",
+          "title": {
+            "en": "In Raja Ampat, children learn that their knowledge can help protect their islands",
+            "zh": "在拉贾安帕，孩子们了解到他们的知识可以帮助保护他们的岛屿"
+          },
+          "summary": {
+            "en": "ARBOREK, West Papua, Indonesia — “Rockhead fish, salamander fish, starfish and coral.” That’s what dozens of children from Arborek, a small island in Indonesia’s Raja Ampat archipelago, said when asked what they see in nature that is yellow and orange. The children rattled off...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "ARBOREK, West Papua, Indonesia — “Rockhead fish, salamander fish, starfish and coral.” That’s what dozens of children from Arborek, a small island in Indonesia’s Raja Ampat archipelago, said when asked what they see in nature that is yellow and orange. The children rattled off the fish and other marine life they encounter when they play in the sea, during a reading of a children’s book about Raja Ampat and the threat of nickel mining. A coral reef and marine life in the waters off Raja Ampat in Southwest Papua province, Indonesia. Image courtesy of Econusa. Research suggests that children who grow up closely connected to their surroundings can develop sophisticated understandings of their local environment. A 2014 study of children in 22 villages in Indonesian Borneo, for example, found that they recognized relationships among forests, rivers, wildlife and other environmental changes. So Sekar Bestari, the book’s illustrator, wasn’t surprised by the children’s answers. “Most of the time when we read the books to children, they understand them, so don’t underestimate children’s knowledge,” she said after the reading in Arborek. “We’re not surprised anymore today.” The reading was part of a three-day gathering of Indigenous communities in Arborek that brought together representatives from 20 Indigenous subtribes in Raja Ampat, as well as Indigenous people from other parts of Indonesia and abroad. The gathering, organized by Greenpeace Indonesia and local NGO Institut USBA, was intended to strengthen solidarity among Indigenous communities in protecting their lands, waters and biodiversity. The children’s knowledge of&hellip;This article was originally published on Mongabay",
+            "zh": "印度尼西亚西巴布亚阿博雷克 — “岩头鱼、蝾螈鱼、海星和珊瑚。”当被问及他们在大自然中看到的黄色和橙色是什么时，来自印度尼西亚拉贾安帕群岛小岛阿伯雷克的数十名孩子是这么说的。孩子们一边阅读一本有关拉贾安帕和镍矿开采威胁的儿童读物，一边滔滔不绝地讲述他们在海里玩耍时遇到的鱼类和其他海洋生物。印度尼西亚西南部巴布亚省四王群岛附近海域的珊瑚礁和海洋生物。图片由伊科努萨提供。研究表明，在成长过程中与周围环境密切相关的孩子可以对当地环境有更深入的了解。例如，2014 年对印度尼西亚婆罗洲 22 个村庄的儿童进行的一项研究发现，他们认识到森林、河流、野生动物和其他环境变化之间的关系。因此，这本书的插画家 Sekar Bestari 对孩子们的回答并不感到惊讶。 “大多数时候，当我们给孩子们读书时，他们都能理解，所以不要低估孩子们的知识，”她在 Arborek 读书后说道。 “今天我们不再感到惊讶了。”此次朗读活动是 Arborek 为期三天的原住民社区聚会的一部分，该聚会聚集了来自四王群岛 20 个原住民社区的代表，以及来自印度尼西亚其他地区和国外的原住民。这次聚会由印度尼西亚绿色和平组织和当地非政府组织 USBA 研究所组织，旨在加强原住民社区在保护其土地、水域和生物多样性方面的团结。孩子们的知识……本文最初发表于 Mongabay"
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "news-mongabay-com-2026-08-how-a-rare-bird-sparked-a-wildlife-movement-ac",
+          "section": "creation",
+          "source": "Mongabay",
+          "sourceUrl": "https://news.mongabay.com/feed/",
+          "link": "https://news.mongabay.com/2026/08/how-a-rare-bird-sparked-a-wildlife-movement-across-16-villages-in-guyana/",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/24145023/red-siskin-Spinus-cucullatus-768x512.jpg",
+          "publishedAt": "2026-08-24T23:26:51.000Z",
+          "title": {
+            "en": "How a rare bird sparked a wildlife movement across 16 villages in Guyana",
+            "zh": "一种稀有鸟类如何引发圭亚那 16 个村庄的野生动物运动"
+          },
+          "summary": {
+            "en": "WICHABAI, Guyana — At sunrise in Guyana’s South Rupununi, Leroy Ignacio stops beside a tree scored with large claw marks. The animal responsible was a giant anteater. “They even rub their backs on the trunk to leave a scent behind,” says Ignacio, president of the South Rupununi...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "WICHABAI, Guyana — At sunrise in Guyana’s South Rupununi, Leroy Ignacio stops beside a tree scored with large claw marks. The animal responsible was a giant anteater. “They even rub their backs on the trunk to leave a scent behind,” says Ignacio, president of the South Rupununi Conservation Society (SRCS), as he demonstrates the motion. Indigenous researchers had long observed anteaters (Myrmecophaga tridactyla) climbing and marking trees, behaviors previously documented by scientists only in isolated cases. Working with four Indigenous communities, SRCS placed cameras at trees identified by locals. The resulting 883 recorded visits suggested the solitary animals use the trees to communicate. For nearly a quarter-century, SRCS has built a multi-community approach to conservation grounded in traditional knowledge. Its members are villagers, farmers and teachers who work with participating communities to research wildlife, develop conservation guidelines and teach local ecology. Before SRCS, Indigenous-led conservation in the Rupununi was mostly in the form of scattered projects and traditional stewardship by Makushi and Wapichan communities. But the discovery of an endangered bird, the red siskin (Spinus cucullatus), gave several South Rupununi communities a reason to organize across village boundaries. A flock of red siskins in Upper Takutu-Upper Essequibo, Guyana. Image by Nick Athanas via Flickr (CC BY-NC-SA 2.0). A multi-community movement It all began with a scientific trip, recounts Ignacio. In 2000, researchers from the Smithsonian and the University of Kansas, both in the U.S., came to the South Rupununi to survey birds. Duane De Freitas and other young Indigenous residents&hellip;This article was originally published on Mongabay",
+            "zh": "圭亚那维查拜——日出时分，在圭亚那南鲁普努尼，勒罗伊·伊格纳西奥 (Leroy Ignacio) 在一棵刻有大爪痕的树旁停下来。肇事动物是一只巨型食蚁兽。南鲁普努尼保护协会 (SRCS) 主席伊格纳西奥在演示这一动作时说道：“它们甚至会用背部摩擦树干，留下气味。”土著研究人员长期以来一直观察到食蚁兽（Myrmecophaga tridactyla）攀爬和标记树木的行为，此前科学家仅在个别案例中记录过这种行为。 SRCS 与四个原住民社区合作，在当地人识别的树木上安装了摄像头。由此产生的 883 次访问记录表明，独居动物利用树木进行交流。近四分之一个世纪以来，SRCS 建立了一种以传统知识为基础的多社区保护方法。其成员包括村民、农民和教师，他们与参与社区合作研究野生动物、制定保护指南并教授当地生态学。在 SRCS 之前，鲁普努尼原住民主导的保护主要采取分散项目以及 Makushi 和 Wapichan 社区传统管理的形式。但濒临灭绝的鸟类——红黄雀（Spinus cucullatus）的发现，给南鲁普努尼的几个社区提供了跨越村庄边界组织起来的理由。圭亚那上塔库图-上埃塞奎博的一群红黄雀。图片由 Nick Athanas 通过 Flickr 提供（CC BY-NC-SA 2.0）。多社区运动这一切都始于一次科学旅行，伊格纳西奥回忆道。 2000年，美国史密森尼学会和堪萨斯大学的研究人员来到南鲁普努尼调查鸟类。 Duane De Freitas 和其他年轻的原住民居民……本文最初发表于 Mongabay"
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "news-mongabay-com-short-article-2026-08-xokleng-indigenous-people-plant-",
+          "section": "creation",
+          "source": "Mongabay",
+          "sourceUrl": "https://news.mongabay.com/feed/",
+          "link": "https://news.mongabay.com/short-article/2026/08/xokleng-indigenous-people-plant-thousands-of-critically-endangered-pine-in-brazil/",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/20151307/8C9A8751-768x512.jpg",
+          "publishedAt": "2026-08-24T22:16:03.000Z",
+          "title": {
+            "en": "Xokleng Indigenous people plant thousands of critically endangered pine in Brazil",
+            "zh": "Xokleng 原住民在巴西种植了数千棵极度濒危的松树"
+          },
+          "summary": {
+            "en": "The Xokleng Indigenous people of Santa Catarina state of southern Brazil have planted nearly a 100,000 seedlings of a critically endangered native tree, Mongabay contributor Letícia Klein reported. The Brazilian pine (Araucaria angustifolia), or araucária, can grow more than 50...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The Xokleng Indigenous people of Santa Catarina state of southern Brazil have planted nearly a 100,000 seedlings of a critically endangered native tree, Mongabay contributor Letícia Klein reported. The Brazilian pine (Araucaria angustifolia), or araucária, can grow more than 50 meters (164 feet) tall and has a straight trunk with a broad crown of branches near its top. Araucária pine forests historically covered large swathes of southern Brazil, but their range declined by roughly 97% in the last century. “Just as our pine is endangered, my people are also endangered, and consequently our language and culture are endangered,” Carl Gakran, executive director of the Zág (pronounced zā) Institute, told Klein. The institute was founded in conjunction with Isabel Gakran, his wife, to organize and expand the replanting effort. Carl Gakran began the restoration effort in 2016 after he learned that the Brazilian pine was listed as critically endangered by the IUCN Red List, the global conservation authority. He initially planned to grow just 10 trees on his own property. But the idea gained traction with the community, and they began the project the following year. Araucária pine trees produce edible nuts called pinhão, a staple food in the culinary tradition of southern Brazil. They are also eaten by at least another 22 animal species. Project organizers and volunteers harvest the seeds but leave at least 40% behind for wildlife. “Following our elders’ knowledge, we speak to the seeds, explain what’s happening, and perform harvest rituals. We harvest 60%, no more&hellip;This article was originally published on Mongabay",
+            "zh": "据 Mongabay 撰稿人 Letícia Klein 报道，巴西南部圣卡塔琳娜州的 Xokleng 土著人民已经种植了近 10 万株极度濒危本土树苗。巴西松 (Araucaria angustifolia) 或南洋杉，可长到 50 米（164 英尺）高，树干笔直，顶部附近有宽阔的枝冠。南洋杉森林历史上覆盖了巴西南部的大片地区，但其范围在上个世纪减少了约 97%。 “正如我们的松树濒临灭绝一样，我的人民也面临着危险，因此我们的语言和文化也受到了威胁，”扎格（发音为 zā）研究所执行主任卡尔·加克兰 (Carl Gakran) 告诉克莱因。该研究所是与他的妻子伊莎贝尔·加克兰 (Isabel Gakran) 共同创立的，旨在组织和扩大重新种植工作。卡尔·加克兰 (Carl Gakran) 得知巴西松被全球保护机构 IUCN 红色名录列为极度濒危物种后，于 2016 年开始了修复工作。他最初计划在自己的土地上只种植 10 棵树。但这个想法得到了社区的关注，他们在第二年开始了这个项目。南洋杉树生产称为 pinhão 的可食用坚果，这是巴西南部烹饪传统中的主食。至少另外 22 种动物也吃它们。项目组织者和志愿者收获种子，但至少留下 40% 的种子给野生动物。 “按照我们长辈的知识，我们与种子交谈，解释发生了什么，并进行收获仪式。我们收获了 60%，仅此而已……本文最初发表于 Mongabay"
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "news-mongabay-com-short-article-2026-08-did-you-know-forests-can-save-th",
+          "section": "creation",
+          "source": "Mongabay",
+          "sourceUrl": "https://news.mongabay.com/feed/",
+          "link": "https://news.mongabay.com/short-article/2026/08/did-you-know-forests-can-save-themselves/",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/24215742/NTFPs_Thumbnail.jpg",
+          "publishedAt": "2026-08-24T21:58:15.000Z",
+          "title": {
+            "en": "Did you know forests can save themselves?",
+            "zh": "您知道森林可以自救吗？"
+          },
+          "summary": {
+            "en": "Did you know forests can save themselves? (With a little help from us, of course). Turns out, trees can be super valuable apart from being used for timber. Their seeds, nuts, leaves, bark, and more are natural commodities… and have the potential to prevent logging, support local...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Did you know forests can save themselves? (With a little help from us, of course). Turns out, trees can be super valuable apart from being used for timber. Their seeds, nuts, leaves, bark, and more are natural commodities&#8230; and have the potential to prevent logging, support local communities, and protect the health of our precious ecosystems. These are called non-timber forest products (aka NTFPs). In this 4-part series with @therainforester and Mongabay, we explore the ways that harvesting sustainably from our forests can keep them alive! Follow along for more episodes.This article was originally published on Mongabay",
+            "zh": "您知道森林可以自救吗？ （当然，需要我们的一点帮助）。事实证明，树木除了用作木材之外，还具有极高的价值。它们的种子、坚果、叶子、树皮等都是天然商品……并且有潜力防止伐木、支持当地社区并保护我们宝贵的生态系统的健康。这些被称为非木材林产品（又名 NTFP）。在这个由 @therainforester 和 Mongabay 合作的 4 部分系列中，我们探索了如何从森林中可持续采伐来维持森林的生存！敬请关注更多剧集。本文最初发表于 Mongabay"
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-24-nevada-federal-lawsuit-colorado-",
+          "section": "creation",
+          "source": "The Guardian Environment",
+          "sourceUrl": "https://www.theguardian.com/environment/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
+          "image": "https://i.guim.co.uk/img/media/f8fe947b0a00f1b3d03b455048ff132f2feafcf9/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2982d771be102ebe99256e4e33e9101",
+          "publishedAt": "2026-08-24T20:56:51.000Z",
+          "title": {
+            "en": "Nevada files lawsuit challenging federal plan for Colorado River revival",
+            "zh": "内华达州提起诉讼质疑联邦科罗拉多河复兴计划"
+          },
+          "summary": {
+            "en": "In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two years Nevada filed a federal lawsuit on Monday challenging the Trump administration’s new plan for the imperiled Colorado River, launching what could become the first of...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two years Nevada filed a federal lawsuit on Monday challenging the Trump administration’s new plan for the imperiled Colorado River, launching what could become the first of many court battles over the waterway that supplies 40 million people, dozens of tribes and 5.5m acres of farm land across the American west. The federal plan, issued Friday, cut roughly 20% from the water supplied to lower basin states – Nevada, Arizona and California – over the next two years, with a potential for harsher cutbacks in the future, based on conditions. Continue reading...",
+            "zh": "在特朗普政府的计划中，加利福尼亚州、亚利桑那州和内华达州将面临两年内约20%的供水削减。内华达州周一提起联邦诉讼，质疑特朗普政府针对危险的科罗拉多河的新计划，这可能成为围绕这条为美国西部4000万人、数十个部落和550万英亩农田供水的水道的众多法庭斗争中的第一场。周五发布的联邦计划将在未来两年内将流域下游各州（内华达州、亚利桑那州和加利福尼亚州）的供水量削减约 20%，未来可能根据具体情况进行更严厉的削减。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-us-news-2026-aug-24-french-tourist-death-valley-park",
+          "section": "creation",
+          "source": "The Guardian Environment",
+          "sourceUrl": "https://www.theguardian.com/environment/rss",
+          "link": "https://www.theguardian.com/us-news/2026/aug/24/french-tourist-death-valley-park",
+          "image": "https://i.guim.co.uk/img/media/b76e2cbaab6441e93c769a75e6987cf347ad859f/407_0_4051_3243/master/4051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7834bfda651c7e7da3b5f0032327c765",
+          "publishedAt": "2026-08-24T18:55:22.000Z",
+          "title": {
+            "en": "French tourist dies in California’s Death Valley after being stranded in heat",
+            "zh": "法国游客在加州死亡谷因高温滞留身亡"
+          },
+          "summary": {
+            "en": "Man, 68, was left searching for help in 116F weather after his car became stuck in mud along remote park road A French tourist recently died in Death Valley national park after a car mishap left him stranded in 116F (47C) weather. The visitor, identified as 68-year-old Pierre...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Man, 68, was left searching for help in 116F weather after his car became stuck in mud along remote park road A French tourist recently died in Death Valley national park after a car mishap left him stranded in 116F (47C) weather. The visitor, identified as 68-year-old Pierre Michel Formosa, was traveling with another French man along the park’s remote West Side Road when their vehicle became stuck in mud near Queen of Sheba Mine Road. Continue reading...",
+            "zh": "68 岁的男子在 116 华氏度的天气中寻求帮助，因为他的汽车在偏远的公园道路上陷进泥里。 一名法国游客最近在死亡谷国家公园发生车祸，导致他在 116 华氏度（47 摄氏度）的天气下被困，随后在死亡谷国家公园死亡。这名游客被确认为 68 岁的皮埃尔·米歇尔·福莫萨 (Pierre Michel Formosa)，当时他与另一名法国男子沿着公园偏远的西侧路行驶，他们的车辆在示巴女王矿路 (Queen of Sheba Mine Road) 附近陷入泥泞。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-uk-news-2026-aug-24-prince-harry-quits-board-wildlif",
+          "section": "creation",
+          "source": "The Guardian Wildlife",
+          "sourceUrl": "https://www.theguardian.com/environment/wildlife/rss",
+          "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+          "image": "https://i.guim.co.uk/img/media/77bfd9102a5d3092cc1153ef2655588870e9000a/581_0_2866_2294/master/2866.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01abd1db0242f2476a5c8fec7e294d7d",
+          "publishedAt": "2026-08-24T17:34:50.000Z",
+          "title": {
+            "en": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
+            "zh": "哈里王子在护林员侵犯人权后退出野生动物慈善委员会"
+          },
+          "summary": {
+            "en": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy. Prince Harry’s spokesperson...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy. Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks , which admitted last year that human rights abuses were committed by its rangers in the Republic of the Congo. Continue reading...",
+            "zh": "苏塞克斯公爵的发言人表示，他仍然是非洲公园使命的“积极和热心支持者”苏塞克斯公爵已辞去非洲一家主要野生动物慈善机构的董事会职务，该慈善机构一直处于人权争议的中心。哈里王子的发言人证实，他不再是非洲公园的受托人，该公园去年承认其护林员在刚果共和国侵犯人权。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-environment-2026-aug-24-otters-may-be-back-in-the-br",
+          "section": "creation",
+          "source": "The Guardian Wildlife",
+          "sourceUrl": "https://www.theguardian.com/environment/wildlife/rss",
+          "link": "https://www.theguardian.com/environment/2026/aug/24/otters-may-be-back-in-the-bronx-river-but-its-still-legal-to-kill-them-in-new-york-state",
+          "image": "https://i.guim.co.uk/img/media/8bfa5db7fe047998eefe16ea54973bface04b980/257_0_4286_3428/master/4286.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc15124879759a52fd529e16e40f6631",
+          "publishedAt": "2026-08-24T17:32:47.000Z",
+          "title": {
+            "en": "Otters may be back in the Bronx River, but it’s still legal to kill them in New York state | Letter",
+            "zh": "水獭可能又回到了布朗克斯河，但在纽约州捕杀它们仍然是合法的 |信"
+          },
+          "summary": {
+            "en": "Peter J McKosky celebrates the return of the river otter after a century to New York, but notes that hundreds are violently killed in traps every year elsewhere in the state Your report on the river otter’s return to New York City’s Bronx River after a century’s absence (19...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Peter J McKosky celebrates the return of the river otter after a century to New York, but notes that hundreds are violently killed in traps every year elsewhere in the state Your report on the river otter’s return to New York City’s Bronx River after a century’s absence ( 19 August ) is genuinely wonderful news – proof that patient ecological restoration works. But it sits uneasily alongside a fact rarely mentioned: New York state still permits the trapping and killing of hundreds of river otters every year, purely for recreation. State wildlife data shows an average annual toll of around 900 otters , sometimes over 1,100, killed in body-gripping and leg-hold traps designed to crush, hold, drown or kill by force. Otters are recognised as an indicator species – their presence signals genuine ecosystem health. There is no overpopulation crisis and, with the fur trade in serious decline, barely an economic rationale left. What remains is the recreational interest of a small minority of trappers. Continue reading...",
+            "zh": "彼得·J·麦科斯基 (Peter J McKosky) 庆祝河獭在一个世纪后重返纽约，但他指出，在该州其他地方，每年都有数百只河獭在陷阱中被暴力杀害。您关于河獭在缺席一个世纪后重返纽约市布朗克斯河的报告（8 月 19 日）确实是一个好消息，证明耐心的生态恢复是有效的。但它与一个很少被提及的事实令人不安：纽约州每年仍然允许捕获和杀死数百只水獭，纯粹是为了娱乐。州野生动物数据显示，每年平均有约 900 只水獭（有时超过 1,100 只）死于旨在压碎、抓住、淹死或强行杀死的夹体和夹腿陷阱。水獭被认为是指示物种——它们的存在标志着真正的生态系统健康。不存在人口过剩危机，而且随着毛皮贸易的严重下滑，几乎没有任何经济理由可言。剩下的只是少数捕猎者的娱乐兴趣。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-environment-2026-aug-24-harry-green-obituary",
+          "section": "creation",
+          "source": "The Guardian Wildlife",
+          "sourceUrl": "https://www.theguardian.com/environment/wildlife/rss",
+          "link": "https://www.theguardian.com/environment/2026/aug/24/harry-green-obituary",
+          "image": "https://i.guim.co.uk/img/media/a4e2a7a3e731afbeb713cf05c4fa106d74d4d942/0_369_1800_1440/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35da3d8cea9db57c44fafdd7a75f8c3d",
+          "publishedAt": "2026-08-24T16:24:37.000Z",
+          "title": {
+            "en": "Harry Green obituary",
+            "zh": "哈里·格林逝世讣告"
+          },
+          "summary": {
+            "en": "The conservationist Harry Green was a naturalist of the amateur school, with an encyclopedic knowledge of British wildlife based on a lifetime in the field. Though born and brought up in Oxfordshire, he spent the whole of his adult life in his adopted county of Worcestershire....",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "The conservationist Harry Green was a naturalist of the amateur school, with an encyclopedic knowledge of British wildlife based on a lifetime in the field. Though born and brought up in Oxfordshire, he spent the whole of his adult life in his adopted county of Worcestershire. Harry, who has died aged 92, remembered being kept awake during the second world war by calling corncrakes in the meadows near his home. Later he strove, against the odds, to save Britain’s last colony of marsh warblers near Pershore. These, and the corncrakes, eventually vanished, but other species, such as hobbies, little egrets and Cetti’s warblers, did arrive and thrive. Continue reading...",
+            "zh": "自然资源保护主义者哈里·格林（Harry Green）是一位业余博物学家，凭借在该领域的一生，对英国野生动物有了百科全书式的了解。尽管他在牛津郡出生和长大，但他的整个成年生活都是在他收养的伍斯特郡度过的。已去世 92 岁的哈利记得，在第二次世界大战期间，他因在家附近的草地上叫玉米秧鸡而无法入睡。后来，他克服重重困难，努力拯救英国珀肖尔附近最后的沼泽莺群。这些鸟和玉米秧鸡最终消失了，但其他物种，如白鹭、小白鹭和塞蒂莺，确实出现并繁衍生息。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "e360-yale-edu-digest-spinach-pipefish-rediscovered",
+          "section": "creation",
+          "source": "Yale Environment 360",
+          "sourceUrl": "https://e360.yale.edu/feed.xml",
+          "link": "https://e360.yale.edu/digest/spinach-pipefish-rediscovered",
+          "image": "https://yale-threesixty.transforms.svdcdn.com/production/Spinach-Pipefish_SHOAL.png?w=1200&amp;q=60&amp;auto=format&amp;fit=max&amp;dm=1787571472&amp;s=6e366b6791fc8b0df89a766ba3fc7b73",
+          "publishedAt": "2026-08-24T12:29:00.000Z",
+          "title": {
+            "en": "One of the World's ‘Most Wanted’ Lost Fish Is Rediscovered",
+            "zh": "世界上最想要的一种丢失的鱼被重新发现"
+          },
+          "summary": {
+            "en": "On a vast network of rivers flowing through the jungles of Papua New Guinea, researchers have rediscovered the spinach pipefish, a relative of the seahorse, which had not been recorded in more than 40 years. The fish has long been sought after by conservationists, who feared it...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及智慧、知识与追求真理。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "On a vast network of rivers flowing through the jungles of Papua New Guinea, researchers have rediscovered the spinach pipefish, a relative of the seahorse, which had not been recorded in more than 40 years. The fish has long been sought after by conservationists, who feared it had gone extinct.\n\nOn an expedition that unfolded like a search for a missing person, researchers spent two weeks traversing the Sepik River and its tributaries, scouring villages and markets for evidence of the missing pipefish. They showed its photo to fishers, vendors, and village elders and asked where it might be found.\n\nThe task was daunting. The Sepik River extends across 700 miles of forests, floodplains, and wetlands along the northern coast of Papua New Guinea. “Travel is almost entirely by motorized boat or canoe, often taking many hours between villages,” said Jerrica Agebigo of the New Guinea Binatang Research Centre. The vast scale of the river system meant that scientists were heavily reliant on local knowledge.\n\nIn interviews, villagers consistently reported spotting a long, slender fish in the shallows of the Sepik River. Though they called the fish many names — Karuweng , Inap , Karuwena , Sako — their descriptions matched the profile of the missing species.\n\nIn the final days of the expedition, a fisher named Helen Asu managed to nab two pipefish using the handheld net she relied on to catch prawns. Researchers shared photos of her catch with Australian ichthyologist Gerald Allen, one of the last researchers to document the spinach pipefish in the 1980s. He confirmed the rediscovery.\n\n“It makes my heart sing to hear that the spinach pipefish has been recorded anew,” said marine biologist Amanda Vincent, who chairs an expert group on seahorses, pipefishes, and seadragons for the International Union for Conservation of Nature. “To learn that the spinach pipefish still exists gives us hope that other ‘lost’ species are out there, too.”\n\nThe spinach pipefish had been named one of the 10 “most wanted” lost freshwater fish species by SHOAL, a U.K. conservation group. Its rediscovery highlights the urgency of protecting freshwater fish, the group said.\n\nIn interviews throughout the expedition, villagers reported declines of native fish, which are imperiled by mining, logging, and other threats. Globally, freshwater fish are under growing pressure. A recent U.N. report found that over the last half-century, populations of migratory freshwater fish have declined by 81 percent.",
+            "zh": "在流经巴布亚新几内亚丛林的广阔河流网络中，研究人员重新发现了菠菜尖嘴鱼，它是海马的近亲，这种鱼已有 40 多年没有记录。这种鱼长期以来一直受到自然资源保护者的追捧，他们担心它已经灭绝。 在一次像寻找失踪人员一样展开的探险中，研究人员花了两周时间穿越塞皮克河及其支流，在村庄和市场中搜寻失踪海龙鱼的证据。他们向渔民、商贩和村长展示了它的照片，并询问在哪里可以找到它。 这项任务是艰巨的。塞皮克河沿着巴布亚新几内亚北部海岸绵延 700 英里，穿过森林、洪泛区和湿地。新几内亚比纳唐研究中心的杰里卡·阿格比戈 (Jerrica Agebigo) 说：“旅行几乎完全依靠机动船或独木舟，在村庄之间通常需要花费很多小时。”河流系统规模庞大，意味着科学家严重依赖当地知识。 在采访中，村民们一致表示在塞皮克河的浅滩上发现了一条细长的鱼。尽管他们给这种鱼起了很多名字——Karuweng、Inap、Karuwena、Sako——但他们的描述与失踪物种的概况相符。 在探险的最后几天，一位名叫海伦·阿苏的渔民用她用来捕虾的手持网成功捕获了两条海龙。研究人员与澳大利亚鱼类学家杰拉尔德·艾伦 (Gerald Allen) 分享了她捕获的照片，杰拉尔德·艾伦是 20 世纪 80 年代最后记录菠菜尖嘴鱼的研究人员之一。他证实了这一重新发现。 国际自然保护联盟海马、海龙和海马专家组主席、海洋生物学家阿曼达·文森特 (Amanda Vincent) 表示：“听到菠菜海龙鱼被重新记录下来，我的心在歌唱。” “了解到菠菜尖嘴鱼仍然存在，让我们希望其他‘消失’的物种也在那里。” 菠菜尖嘴鱼被英国保护组织 SHOAL 评为 10 种“最想要”消失的淡水鱼类之一。该组织表示，它的重新发现凸显了保护淡水鱼的紧迫性。 在整个探险过程中的采访中，村民们报告说，由于采矿、伐木和其他威胁，本地鱼类数量减少。在全球范围内，淡水鱼面临着越来越大的压力。联合国最近的一份报告发现，在过去的半个世纪里，洄游淡水鱼的数量减少了 81%。"
+          },
+          "reflection": {
+            "en": "This story draws attention to wisdom, knowledge, and the pursuit of truth. Proverbs 2:6 reminds us to meet sharp headlines with humble learning and wise application, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到智慧、知识与追求真理。Proverbs 2:6提醒我们，在快速变化的新闻里，仍要以谦卑学习与智慧运用来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "James 1:5",
+            "textEn": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+            "textZh": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的神，主就必赐给他。",
+            "themeEn": "Ask God for wisdom",
+            "themeZh": "求神赐智慧"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-environment-2026-aug-24-country-diary-1926-amorous-i",
+          "section": "creation",
+          "source": "The Guardian Wildlife",
+          "sourceUrl": "https://www.theguardian.com/environment/wildlife/rss",
+          "link": "https://www.theguardian.com/environment/2026/aug/24/country-diary-1926-amorous-impulse-sends-insects-on-nuptial-flight",
+          "image": "https://i.guim.co.uk/img/media/4b2adc5159324e10b0283ec2114668704827d605/1414_634_3085_2468/master/3085.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=14b095143141d1fcbbb3a4fde55a1487",
+          "publishedAt": "2026-08-24T05:00:53.000Z",
+          "title": {
+            "en": "Country diary 1926: Amorous impulse sends insects on a nuptial flight",
+            "zh": "乡村日记1926：情欲驱使昆虫飞翔"
+          },
+          "summary": {
+            "en": "27 August 1926: Air-pilots report seeing wasps and small green flies almost a mile-high in the sky The report by experienced air-pilots of a wasp at 6,000 feet and small green flies – probably aphides – at 4,000 should make us realise how little we know of the habits of the...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及真理、分辨与诚实。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "27 August 1926 : Air-pilots report seeing wasps and small green flies almost a mile-high in the sky The report by experienced air-pilots of a wasp at 6,000 feet and small green flies – probably aphides – at 4,000 should make us realise how little we know of the habits of the common creatures which we, boastfully, think we understand. Who would imagine that a wasp could ascend so high! It has proved that it can, but what did it go up for? A certain town-tip that I pass occasionally is a great place for wasps; they swarm over the rags, paper, tins, and rubbish of all kinds, and undoubtedly find much that for their grubs is fattening food in what man has thrown away as useless. Probably the old meat and fruit tins, jam pots too, are mines of treasure for these busy wasps. But surely no wasp expects to find a town-tip up in the sky, nor can it be worth the labour of ascent to that altitude in the hope of finding winged game, though the wasp is an excellent fly-catcher. The mother or queen wasps are busy laying eggs, so that cannot have tempted a drone to seek a mate in the upper air. Nuptial flight may explain the swarm of green flies at a great height; many insects ascend when they are stirred by amorous impulse, and high flight must influence distribution. A strong wind would carry them far from their original home, and doubtless many insect hordes are swept out to sea and trouble us no more. Continue reading...",
+            "zh": "1926 年 8 月 27 日：飞行员报告称在几乎一英里高的天空中看到了黄蜂和小绿蝇。经验丰富的飞行员报告称在 6,000 英尺高空发现了黄蜂，在 4,000 英尺高处发现了小绿蝇（可能是蚜虫），这应该让我们意识到，我们对这些我们自以为了解的常见生物的习性知之甚少。谁能想到黄蜂能飞得这么高！事实证明可以，但是它涨起来是为了什么？我偶尔经过的某个城镇尖端是黄蜂的好地方。它们成群结队地爬过破布、纸张、罐头盒和各种垃圾，毫无疑问，它们在人类丢弃的无用物品中发现了许多让它们的幼虫增肥的食物。对于这些忙碌的黄蜂来说，旧的肉类和水果罐头、果酱罐可能都是宝藏。但毫无疑问，没有黄蜂期望在天空中找到城镇的顶端，也不值得为了寻找有翅膀的猎物而费力爬到那个高度，尽管黄蜂是出色的捕蝇者。黄蜂妈妈或蜂王正忙于产卵，因此不可能诱使雄蜂在高空寻找配偶。婚飞也许可以解释为什么绿蝇会飞到很高的地方。许多昆虫在受到爱情冲动的刺激时就会上升，高飞必然会影响分布。一阵强风会将它们吹离原来的家园，毫无疑问，许多昆虫群会被卷入大海，不再打扰我们。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to truth, discernment, and honest speech. Philippians 4:8 reminds us to meet sharp headlines with discernment and truthful speech, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到真理、分辨与诚实。Philippians 4:8提醒我们，在快速变化的新闻里，仍要以分辨与诚实表达来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Philippians 4:8",
+            "textEn": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — think about such things.",
+            "textZh": "凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，这些事你们都要思念。",
+            "themeEn": "Mind discipline",
+            "themeZh": "心思的操练"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "e360-yale-edu-digest-africa-savanna-grasses-carbon-dioxide",
+          "section": "creation",
+          "source": "Yale Environment 360",
+          "sourceUrl": "https://e360.yale.edu/feed.xml",
+          "link": "https://e360.yale.edu/digest/africa-savanna-grasses-carbon-dioxide",
+          "image": "https://yale-threesixty.transforms.svdcdn.com/production/Krueger_NDLA.jpeg?w=1200&amp;q=60&amp;auto=format&amp;fit=max&amp;dm=1787312748&amp;s=b0520836ef98f8bf66a07ff6b88a224e",
+          "publishedAt": "2026-08-21T12:58:00.000Z",
+          "title": {
+            "en": "Rising CO2 Speeds the Growth of Grasses on the African Savanna",
+            "zh": "二氧化碳浓度上升加速了非洲稀树草原上的草的生长"
+          },
+          "summary": {
+            "en": "On the arid African savanna, grasses are growing faster than they were a generation ago, boosted by rising levels of carbon dioxide from the burning of fossil fuels. That is the finding of a new study that warns that faster growth could fuel larger wildfires and alter the...",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "On the arid African savanna, grasses are growing faster than they were a generation ago, boosted by rising levels of carbon dioxide from the burning of fossil fuels. That is the finding of a new study that warns that faster growth could fuel larger wildfires and alter the distribution of wildlife.\n\nSince the dawn of the industrial age, the amount of carbon dioxide in the atmosphere has grown by half, which is helping to speed photosynthesis and cause many plants to grow faster. The phenomenon, known as “carbon fertilization,” has been well documented in forests , and some experts believe it may be responsible for the greening of drylands around the globe.\n\nIt was long assumed, however, that grasses on the African savanna gain little from the extra carbon dioxide, as they already employ a highly efficient form of photosynthesis. But researchers are now finding otherwise. An analysis of three decades of data gathered from experiments and observations across Kruger National Park in South Africa shows that rising carbon dioxide levels are prompting faster growth.\n\nBetween 1989 and 2021, grass production rose by 28 percent, a shift that could not be explained by changes in rainfall, temperature, grazing, fire, or other drivers, according to the study , which was published in Nature . Researchers say that extra carbon dioxide is allowing grasses to use water more efficiently, which is helping them to grow more quickly, even through dry spells. Modeling suggests that savanna grasses will continue to benefit from the surplus carbon dioxide even as warming intensifies heat and drought.\n\nThe faster growth brings new risks, however. Researchers say more grass means more fuel for wildfires. It also means more forage, which could boost the number of grazing animals. And there is no guarantee that the additional carbon drawn down by grasses will stay locked away.\n\n“The wider impact depends on where the extra grass ends up,” said lead author Kimberley Simpson, an ecologist at the University of Sheffield. “If it is eaten by animals or burned in fires, much of the carbon is quickly released back into the atmosphere.”",
+            "zh": "在干旱的非洲大草原上，由于化石燃料燃烧产生的二氧化碳含量不断上升，草类的生长速度比上一代人更快。这是一项新研究的发现，该研究警告说，更快的生长可能会引发更大的野火并改变野生动物的分布。 自工业时代到来以来，大气中的二氧化碳含量增加了一半，这有助于加速光合作用，使许多植物生长得更快。这种被称为“碳施肥”的现象在森林中已有详细记录，一些专家认为它可能是全球旱地绿化的原因。 然而，长期以来人们一直认为非洲大草原上的草从额外的二氧化碳中获得的很少，因为它们已经采用了高效的光合作用形式。但研究人员现在发现并非如此。对南非克鲁格国家公园三十年来的实验和观察收集的数据的分析表明，二氧化碳水平的上升正在促进更快的生长。 根据发表在《自然》杂志上的这项研究，1989 年至 2021 年间，草产量增加了 28%，这一变化无法用降雨、温度、放牧、火灾或其他驱动因素的变化来解释。研究人员表示，额外的二氧化碳可以让草更有效地利用水，从而帮助它们生长得更快，即使在干旱时期也是如此。模型表明，即使气候变暖加剧了炎热和干旱，稀树草原草仍将继续受益于过剩的二氧化碳。 然而，更快的增长带来了新的风险。研究人员表示，更多的草意味着更多的野火燃料。这也意味着更多的草料，这可能会增加食草动物的数量。并且不能保证草吸收的额外碳会被锁住。 “更广泛的影响取决于多余的草最终去了哪里，”谢菲尔德大学生态学家金伯利·辛普森说。 “如果它被动物吃掉或在火中燃烧，大部分碳会很快释放回大气中。”"
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "e360-yale-edu-features-2026-film-contest-first-place-philippines-chocola",
+          "section": "creation",
+          "source": "Yale Environment 360",
+          "sourceUrl": "https://e360.yale.edu/feed.xml",
+          "link": "https://e360.yale.edu/features/2026-film-contest-first-place-philippines-chocolates",
+          "image": "https://yale-threesixty.transforms.svdcdn.com/production/Cacao-HEADER.jpg?w=1200&amp;q=60&amp;auto=format&amp;fit=max&amp;dm=1786373247&amp;s=d61ffb14465106a5051c073b8a194105",
+          "publishedAt": "2026-08-20T09:16:00.000Z",
+          "title": {
+            "en": "Filipino Cacao Growers Learn to Live With a Hotter Climate",
+            "zh": "菲律宾可可种植者学会如何适应更炎热的气候"
+          },
+          "summary": {
+            "en": "In “Chocolates Melting Away” — the First-Place Winner of the 2026 Yale Environment 360 Film Contest — Breech Asher Harani explores how cacao growers in the Philippines are developing new techniques to protect their crops from increasingly turbulent weather. Read more on E360 →",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "In “Chocolates Melting Away” — the First-Place Winner of the 2026 Yale Environment 360 Film Contest — Breech Asher Harani explores how cacao growers in the Philippines are developing new techniques to protect their crops from increasingly turbulent weather.\n\nIn the Philippines, ideal growing conditions for cacao have fueled an industry with a market value of more than $400 million. In the Davao region, on the island of Mindanao, growers tend trees, harvest fruits, and produce premium chocolates for the domestic market. But climate change, which has brought drought, floods, more humidity, and extreme heat to the region, has presented growers with serious challenges.\n\nBased in Davao, filmmaker Breech Asher Harani set out to document the concerns of cacao farmers at two artisanal operations and speak with agricultural researchers about the industry’s efforts to adapt to changing conditions. Farmers demonstrated how they use intercropping, produce fertilizers from agricultural waste to increase yields and quality, and employ innovative irrigation systems to minimize water loss.\n\nSubscribe to the E360 Newsletter for weekly updates delivered to your inbox. Sign Up .\n\n“These farmers are very well versed when it comes to climate mitigation strategies and sustainable farming techniques,” Harani says, noting that he never sensed a feeling of hopelessness among growers. Not only do the cacao farmers seem “ready to face the battle,” Harani says, “they are also ready to show others what they are doing so their methods can be replicated.”\n\nHarani hopes his film elevates the importance of farmers, “whose hard work sustains our everyday needs,” and that viewers will feel motivated to take action against climate change, “which is already reshaping what we eat.”\n\nAbout the Filmmaker: Breech Asher Harani is a filmmaker and artist whose work spans narrative, documentary, experimental, and animated forms. In 2019, he was named a JCS International Young Creatives awardee at the International Emmy Awards, and was subsequently listed on Forbes Asia&#8217;s 30 Under 30 for the Arts. Harani is the first recipient of a Climate and Labor Film Grant, awarded jointly by the Pulitzer Center, the Financial Times , and One World Media.\n\nAbout the Contest: Now in its 13th season, the Yale Environment 360 Film Contest honors the year’s best environmental documentary shorts from around the world. This year we received 596 submissions from more than 80 countries across six continents, with the winners selected by the editors of Yale Environment 360 .",
+            "zh": "在 2026 年耶鲁环境 360 度电影大赛一等奖《巧克力融化》中，Breech Asher Harani 探讨了菲律宾的可可种植者如何开发新技术来保护作物免受日益动荡的天气影响。 在菲律宾，理想的可可生长条件催生了一个市场价值超过 4 亿美元的产业。在棉兰老岛的达沃地区，种植者照料树木、收获水果，并为国内市场生产优质巧克力。但气候变化给该地区带来了干旱、洪水、湿度增加和极端高温，给种植者带来了严峻的挑战。 总部位于达沃的电影制作人布里奇·阿舍·哈拉尼 (Breech Asher Harani) 着手记录两个手工作业中可可种植者的担忧，并与农业研究人员讨论该行业为适应不断变化的条件所做的努力。农民们展示了如何利用间作、利用农业废弃物生产肥料来提高产量和质量，以及如何采用创新的灌溉系统来最大限度地减少水的流失。 订阅 E360 新闻通讯，每周更新发送到您的收件箱。报名 。 哈拉尼说：“这些农民非常精通气候缓解策略和可持续农业技术。”他指出，他从未在种植者中感受到绝望的感觉。哈拉尼说，可可种植者似乎不仅“准备好面对这场战斗”，“他们还准备向其他人展示他们正在做的事情，以便他们的方法可以被复制。” 哈拉尼希望他的电影能够提升农民的重要性，“他们的辛勤工作维持着我们的日常需求”，并且观众会感到有动力采取行动应对气候变化，“这已经在重塑我们的饮食。” 关于电影制片人：布里奇·阿舍·哈拉尼 (Breech Asher Harani) 是一位电影制片人和艺术家，其作品涵盖叙事、纪录片、实验和动画形式。 2019年，他被评为国际艾美奖JCS国际青年创意奖获得者，随后入选福布斯亚洲30位30岁以下艺术精英。哈拉尼是第一位获得气候与劳工电影奖的获奖者，该奖由普利策中心、英国《金融时报》和同一个世界媒体联合颁发。 关于大赛：耶鲁环境 360 度电影大赛现已进入第 13 季，旨在表彰来自世界各地的年度最佳环境纪录片短片。今年，我们收到了来自六大洲 80 多个国家的 596 份参赛作品，获奖者由耶鲁环境 360 的编辑选出。"
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "e360-yale-edu-digest-ulez-children-lung-growth",
+          "section": "creation",
+          "source": "Yale Environment 360",
+          "sourceUrl": "https://e360.yale.edu/feed.xml",
+          "link": "https://e360.yale.edu/digest/ulez-children-lung-growth",
+          "image": "https://yale-threesixty.transforms.svdcdn.com/production/London-Child_Pexels.jpg?w=1200&amp;q=60&amp;auto=format&amp;fit=max&amp;dm=1787082486&amp;s=6d799f6540b5cecc1f6f018f4bf64d00",
+          "publishedAt": "2026-08-19T09:41:00.000Z",
+          "title": {
+            "en": "A London Scheme to Cut Car Pollution Restored Lung Growth in Children",
+            "zh": "伦敦一项旨在减少汽车污染的计划恢复了儿童肺部的生长"
+          },
+          "summary": {
+            "en": "A controversial scheme aimed at slashing car pollution in Central London was a boon to children in the area, whose lungs grew faster after the program was launched, researchers found. Read more on E360 →",
+            "zh": "这是一则来自受造栏目的新闻，重点涉及受造之物关怀与环保责任。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A controversial scheme aimed at slashing car pollution in Central London was a boon to children in the area, whose lungs grew faster after the program was launched, researchers found.\n\nEstablished in 2019, the Ultra Low Emission Zone initially covered around 8 square miles in Central London. To drive in the zone, owners of older, more polluting cars, buses, and trucks would have to pay a daily fee, equal to around $17 for most drivers, with fines for those who skirted the fee. The scheme led to a steep drop of nitrogen dioxide pollution, which is known to impede lung growth.\n\nTo study the impact on children, researchers followed more than 3,400 students, between the ages of 6 and 9, at schools in Central London and in the town of Luton, roughly 30 miles away. Between 2018 and 2022, they regularly measured the lung volume of each child.\n\nBefore the emissions scheme was introduced, researchers found, children in London had stunted lung growth. But within five years of the program&#8217;s launch, they saw a turnaround. While exposure to pollution fell in both Central London and Luton over that period, in Central London it fell by more than twice as much. And as pollution dropped, the lungs of the children in London grew faster, until they had caught up with children in Luton.\n\nThe findings have significant health implications, as children without fully developed lungs are at greater risk of asthma and other health disorders. As pollution fell in Central London, researchers found, the proportion of children with impaired lung function also dropped, from 14 percent to 9 percent. The research was published in The Lancet Public Health .\n\nU.K. Health Minister Karin Smyth said the study “is a powerful reminder of the impact that air quality has on children&#8217;s lung health, and will help to improve our understanding of how reductions in air pollution can restore normal lung growth among children, reduce the risk of respiratory illnesses in adulthood, and support our goal to give every child the best start in life.”\n\nThe Ultra Low Emission Zone was expanded in 2021 and again in 2023, and now covers all of Greater London. Under the scheme, officials estimate, levels of roadside nitrogen dioxide have fallen by 27 percent across London, while deaths linked to toxic air have dropped by 40 percent .\n\nDespite its effect on pollution, the zone has proved highly controversial, sparking widespread protests over the fees and vandalism. Londoners have damaged or stolen hundreds of the more than 3,700 cameras installed citywide to monitor traffic.",
+            "zh": "研究人员发现，一项旨在减少伦敦市中心汽车污染的有争议的计划对该地区的儿童来说是一个福音，他们的肺部在该计划启动后生长得更快。 超低排放区成立于 2019 年，最初覆盖伦敦市中心约 8 平方英里的区域。要在该区域内开车，旧的、污染更严重的汽车、公共汽车和卡车的车主必须支付每日费用，对于大多数司机来说约为 17 美元，对那些逃避费用的人将处以罚款。该计划导致二氧化氮污染急剧下降，众所周知，二氧化氮污染会阻碍肺部生长。 为了研究对儿童的影响，研究人员跟踪了伦敦市中心和大约 30 英里外卢顿镇学校的 3,400 多名 6 至 9 岁的学生。 2018年至2022年间，他们定期测量每个孩子的肺容量。 研究人员发现，在排放计划推出之前，伦敦儿童的肺部发育受到阻碍。但在该计划启动后的五年内，他们看到了转变。在此期间，伦敦市中心和卢顿的污染暴露程度均有所下降，但伦敦市中心的污染暴露程度下降了两倍多。随着污染的下降，伦敦儿童的肺部生长得更快，直到赶上卢顿的儿童。 这些发现具有重大的健康影响，因为肺部发育不完全的儿童患哮喘和其他健康疾病的风险更大。研究人员发现，随着伦敦市中心污染的减轻，肺功能受损的儿童比例也从 14% 下降到 9%。该研究发表在《柳叶刀公共卫生》上。 英国卫生部长卡琳·史密斯表示，这项研究“有力地提醒我们空气质量对儿童肺部健康的影响，并将有助于加深我们对减少空气污染如何恢复儿童肺部正常生长、降低成年后患呼吸道疾病的风险的理解，并支持我们为每个孩子提供最好的人生开端的目标。” 超低排放区于 2021 年和 2023 年再次扩大，目前已覆盖整个大伦敦地区。官员们估计，根据该计划，伦敦路边二氧化氮浓度下降了 27%，而与有毒空气相关的死亡人数下降了 40%。 尽管该区域对污染产生了影响，但事实证明该区域极具争议性，引发了对收费和破坏行为的广泛抗议。伦敦人损坏或盗窃了全市安装的 3,700 多个监控交通摄像头中的数百个。"
+          },
+          "reflection": {
+            "en": "This story draws attention to creation care and environmental responsibility. Genesis 2:15 reminds us to meet sharp headlines with faithful stewardship of creation, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到受造之物关怀与环保责任。Genesis 2:15提醒我们，在快速变化的新闻里，仍要以对受造之物的忠心管家来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Genesis 2:15",
+            "textEn": "Yahweh God took the man and put him in the Garden of Eden to work it and take care of it.",
+            "textZh": "雅伟神将那人安置在伊甸园，使他修理看守。",
+            "themeEn": "Creation care",
+            "themeZh": "看守受造界"
+          },
+          "translationState": "fallback"
+        }
+      ]
+    },
+    "documentary": {
+      "id": "documentary",
+      "title": {
+        "en": "Documentary Desk",
+        "zh": "纪录片精选"
+      },
+      "strap": {
+        "en": "New and notable documentaries — nature, creation, and the stories worth two hours of attention.",
+        "zh": "值得关注的新纪录片——自然、受造世界，以及值得花两小时细看的故事。"
+      },
+      "categoryLabel": {
+        "en": "Documentary",
+        "zh": "纪录片"
+      },
+      "sourceNotes": [
+        "IndieWire",
+        "The Guardian Film",
+        "The Guardian TV & Radio"
+      ],
+      "items": [
+        {
+          "id": "www-indiewire-com-news-business-sumerian-pictures-buys-butthole-surfers-",
+          "section": "documentary",
+          "source": "IndieWire",
+          "sourceUrl": "https://www.indiewire.com/feed/",
+          "link": "https://www.indiewire.com/news/business/sumerian-pictures-buys-butthole-surfers-documentary-1235212555/",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-3.45.57-PM.png?w=650",
+          "publishedAt": "2026-08-24T22:05:26.000Z",
+          "title": {
+            "en": "Sumerian Pictures Acquires North American Rights to ‘Butthole Surfers: The Hole Truth and Nothing Butt’",
+            "zh": "Sumerian Pictures 获得了《屁眼冲浪者：洞里的真相，没有屁眼》的北美版权"
+          },
+          "summary": {
+            "en": "Exclusive: The documentary about the pioneering rock band won the SXSW “Best in Texas” award.",
+            "zh": "这是一则来自纪录片栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "By providing your information, you agree to our Terms of Use and our Privacy Policy . We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply.\n\nSumerian Pictures has acquired North American rights to &#8220; Butthole Surfers: The Hole Truth and Nothing Butt ,&#8221; a salute to the trailblazing American rock band, The Butthole Surfers.\n\nThe film is directed by Tom Stern and combines archival footage, animation, puppetry, and reenactments featuring the band. In addition, Richard Linklater, Flea, Dave Grohl, John Paul Jones, Henry Rollins, and Ice-T are interviewed about a group that was known for combining psychedelia, punk and grunge with energetic, anti-establishment, often chaotic live shows.\n\n&ldquo;Tom Stern and team are taking us on a wild ride and we are excited to bring audiences to the incredible story of these punk icons,&#8221; Rob Williams, president of Sumerian Pictures, said. Related Stories New York City&#8217;s East Side Will Lose Yet Another Movie Theater with Imminent Closure of AMC Kips Bay Indie Star Joe Swanberg Never Really Left — but He’s Definitely Back Now\n\nSumerian is a newcomer to the indie distribution scene , but it turned heads with its acquisition of the 2026 Sundance Grand Jury Prize and Audience Award winner, &#8220;Josephine,&#8221; starring Channing Tatum and Gemma Chan. The film is seen as a potential awards season player .\n\nThough it only got into the film business last year, its parent company Sumerian has been in the music and publishing game for 20 years. Recent and upcoming Sumerian Pictures films include Louis Paxton&rsquo;s comedy, &#8220;The Incomer&#8221;; the romantic comedy &#8220;Mile End Kicks,&#8221; directed by Chandler Levack; and &#8220;Horsegirls,&#8221; directed by Lauren Meyering.\n\n&#8220;The Butthole Surfers are one of the most mind-blowing stories in rock history. Our goal was to make a film that captured their essence, so the ecstatic reactions of film festival audiences have been deeply gratifying,&#8221; Stern said. &#8220;I&rsquo;m thrilled Sumerian has joined forces with us to bring this experience to an ever wider audience.&rdquo;\n\nWilliams negotiated the deal on behalf of Sumerian with Dan Braun and Matt Burke from Submarine. Winner of the SXSW &ldquo;Best in Texas&rdquo; award, the documentary audience award at the Philadelphia Film Festival, and the grand jury prize for best documentary at the Independent Film Festival Boston, &#8220;Butthole Surfers: The Hole Truth and Nothing Butt&#8221; has been entertaining audiences at festivals around the country prior to its theatrical release this week as part of exclusive event engagements at Drafthouse Cinema....",
+            "zh": "提供您的信息，即表示您同意我们的使用条款和隐私政策。我们使用的供应商也可能处理您的信息以帮助提供我们的服务。本网站受 reCAPTCHA Enterprise 保护，并适用 Google 隐私政策和服务条款。 Sumerian Pictures 已获得《Butthole Surfers: The Hole Truth and Nothing Butt》的北美版权，这是向开拓性的美国摇滚乐队 The Butthole Surfers 致敬。 这部电影由汤姆·斯特恩执导，结合了档案镜头、动画、木偶和乐队的重演。此外，理查德·林克莱特 (Richard Linklater)、Flea、戴夫·格罗尔 (Dave Grohl)、约翰·保罗·琼斯 (John Paul Jones)、亨利·罗林斯 (Henry Rollins) 和 Ice-T 接受了采访，谈论了一个以将迷幻、朋克和垃圾摇滚与充满活力、反体制、常常混乱的现场表演相结合而闻名的乐队。 Sumerian Pictures 总裁罗布·威廉姆斯 (Rob Williams) 表示：“汤姆·斯特恩和他的团队正在带领我们踏上一段疯狂的旅程，我们很高兴能让观众了解这些朋克偶像的令人难以置信的故事。”相关故事随着 AMC Kips Bay 即将关闭，纽约东区将失去另一家电影院 独立明星乔·斯旺伯格 (Joe Swanberg) 从未真正离开过，但他现在肯定回来了 Sumerian 是独立发行领域的新人，但凭借查宁·塔图姆 (Channing Tatum) 和嘉玛·陈 (Gemma Chan) 主演的《约瑟芬》(Josephine) 获得 2026 年圣丹斯评审团大奖和观众奖得主而引起关注。该片被视为颁奖季的潜在选手。 尽管去年才涉足电影业务，但其母公司 Sumerian 已涉足音乐和出版行业 20 年。最近和即将上映的 Sumerian Pictures 电影包括路易斯帕克斯顿的喜剧《收入者》；钱德勒·莱瓦克 (Chandler Levack) 执导的浪漫喜剧《Mile End Kicks》；以及劳伦·迈耶林执导的《女骑士》。 “《屁眼冲浪者》是摇滚史上最令人兴奋的故事之一。我们的目标是制作一部捕捉其精髓的电影，因此电影节观众的欣喜若狂的反应非常令人满意，”斯特恩说。 “我很高兴 Sumerian 与我们联手，将这种体验带给更广泛的受众。” 威廉姆斯代表 Sumerian 与 Submarine 的丹·布劳恩 (Dan Braun) 和马特·伯克 (Matt Burke) 谈判了这笔交易。 《Butthole Surfers: The Hole Truth and Nothing Butt》获得了 SXSW“德克萨斯州最佳”奖、费城电影节观众纪录片奖以及波士顿独立电影节最佳纪录片评审团大奖，在本周影院上映之前，作为 Drafthouse Cinema 独家活动的一部分，《Butthole Surfers: The Hole Truth and Nothing Butt》一直在全国各地的电影节上为观众带来欢乐。"
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-film-2026-aug-24-gaza-documentary-produced-by-the-gu",
+          "section": "documentary",
+          "source": "The Guardian Film",
+          "sourceUrl": "https://www.theguardian.com/film/rss",
+          "link": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
+          "image": "https://i.guim.co.uk/img/media/04832810e4783f06f5fcd7c26ca2b226f325aa61/142_0_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=506e58bcdc749a93cf1c6f0a37d2d7b5",
+          "publishedAt": "2026-08-24T13:16:20.000Z",
+          "title": {
+            "en": "Guardian-produced Gaza documentary from Oscar-winning Israeli directors of No Other Land to screen at Venice film festival",
+            "zh": "由奥斯卡获奖以色列导演《No Other Land》制作的《卫报》加沙纪录片将在威尼斯电影节上放映"
+          },
+          "summary": {
+            "en": "Film directed by Yuval Abraham and Rachel Szor, co-directors of No Other Land along with Basel Adra and Hamdan Ballal , investigates ‘Israel’s calculated mass killing of Palestinian civilians’ during the war A new documentary about Israel’s bombing campaign in Gaza, directed by...",
+            "zh": "这是一则来自纪录片栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Film directed by Yuval Abraham and Rachel Szor, co-directors of No Other Land along with Basel Adra and Hamdan Ballal , investigates ‘Israel’s calculated mass killing of Palestinian civilians’ during the war A new documentary about Israel’s bombing campaign in Gaza, directed by Oscar-winning directors Yuval Abraham and Rachel Szor and produced by the Guardian, is to receive its world premiere at the Venice film festival. The film, called NAZA, has been produced with Jim Wilson and executive produced by Jonathan Glazer, the team behind The Zone of Interest, and is the only documentary that will compete this year for Venice’s prestigious Golden Lion. Continue reading...",
+            "zh": "由尤瓦尔·亚伯拉罕 (Yuval Abraham) 和雷切尔·索尔 (Rachel Szor) 执导的电影，他们与巴塞尔·阿德拉 (Basel Adra) 和哈姆丹·巴拉尔 (Hamdan Ballal) 联合执导了《No Other Land》，调查了“以色列在战争期间有计划地大规模屠杀巴勒斯坦平民”。一部关于以色列在加沙的轰炸行动的新纪录片，由奥斯卡获奖导演尤瓦尔·亚伯拉罕 (Yuval Abraham) 和雷切尔·索尔 (Rachel Szor) 执导，由《卫报》制作，将在威尼斯电影节上进行全球首映。这部名为《NAZA》的影片由吉姆·威尔逊 (Jim Wilson) 制作，并由《兴趣地带》(The Zone of Interest) 背后的团队乔纳森·格雷泽 (Jonathan Glazer) 担任监制，也是今年唯一一部角逐威尼斯著名金狮奖的纪录片。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-film-2026-aug-24-marching-in-the-dark-review",
+          "section": "documentary",
+          "source": "The Guardian Film",
+          "sourceUrl": "https://www.theguardian.com/film/rss",
+          "link": "https://www.theguardian.com/film/2026/aug/24/marching-in-the-dark-review",
+          "image": "https://i.guim.co.uk/img/media/569126f9a3cb2e6ca2983dd7bf13ea1b406edc72/334_0_1295_1036/master/1295.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=c3e4596980d38ebeeefac8319c969a54",
+          "publishedAt": "2026-08-24T10:00:31.000Z",
+          "title": {
+            "en": "Marching in the Dark review – rural Indian widows show stunning resilience as they battle poverty and taboos",
+            "zh": "《在黑暗中行进》评论——印度农村寡妇在与贫困和禁忌作斗争时表现出惊人的韧性"
+          },
+          "summary": {
+            "en": "Kinshuk Surjan’s documentary follows women in dire financial straits whose bereavement compounds their social plight, which they confront together Out in rural India, a crisis casts a dark cloud over the seemingly tranquil vistas of wheat fields and soy farms. Over the past 20...",
+            "zh": "这是一则来自纪录片栏目的新闻，重点涉及对脆弱群体的怜悯。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Kinshuk Surjan’s documentary follows women in dire financial straits whose bereavement compounds their social plight, which they confront together Out in rural India, a crisis casts a dark cloud over the seemingly tranquil vistas of wheat fields and soy farms. Over the past 20 years, more than 400,000 farmers have killed themselves , beset by mounting debts and low market prices for crops. Shot in Maharashtra, the state with the highest rate of farmer suicides in India, Kinshuk Surjan’s documentary sensitively captures another tragedy that lingers after death: left behind by their dead husbands, generations of grieving widows struggle to find their way in a society still burdened by patriarchal values. Sanjivani, a woman in her 30s, is one such case. Eight years after her husband killed himself, she has taken over some of the farming responsibilities, along with other odd jobs, to provide for her two children. The camera rarely finds her at rest; Sanjivani not only works in the fields but also performs domestic labour for her extended family – cooking, cleaning and doing laundry. Her resilience is stunning to witness, but even more impressive is the emotional support provided by a tight-knit network of other widows. Together, the women gather for counselling sessions where they can freely discuss their emotional, physical and financial issues. Continue reading...",
+            "zh": "金舒克·苏尔詹 (Kinshuk Surjan) 的纪录片讲述了陷入严峻经济困境的妇女的故事，她们的丧亲之痛加剧了她们的社会困境，她们共同面对在印度农村，一场危机给看似平静的麦田和大豆农场蒙上了一层乌云。 Over the past 20 years, more than 400,000 farmers have killed themselves , beset by mounting debts and low market prices for crops.金舒克·苏尔詹 (Kinshuk Surjan) 的纪录片在印度农民自杀率最高的马哈拉施特拉邦拍摄，敏感地捕捉到了另一场死后挥之不去的悲剧：一代又一代悲伤的寡妇被死去的丈夫抛在身后，在仍然受到父权价值观负担的社会中挣扎着寻找自己的出路。 30多岁的女性桑吉瓦尼（Sanjivani）就是这样的例子。在她丈夫自杀八年后，她承担了部分农活以及其他零工，以养活两个孩子。镜头很少能拍到她休息的样子。 Sanjivani not only works in the fields but also performs domestic labour for her extended family – cooking, cleaning and doing laundry. Her resilience is stunning to witness, but even more impressive is the emotional support provided by a tight-knit network of other widows. Together, the women gather for counselling sessions where they can freely discuss their emotional, physical and financial issues.继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to compassion for vulnerable people. Galatians 6:2 reminds us to meet sharp headlines with practical compassion and welcome, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到对脆弱群体的怜悯。Galatians 6:2提醒我们，在快速变化的新闻里，仍要以具体的怜悯与接纳来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 25:40",
+            "textEn": "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.",
+            "textZh": "我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。",
+            "themeEn": "Christ in the least",
+            "themeZh": "基督在至微者中"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-film-2026-aug-24-disciples-review-india",
+          "section": "documentary",
+          "source": "The Guardian Film",
+          "sourceUrl": "https://www.theguardian.com/film/rss",
+          "link": "https://www.theguardian.com/film/2026/aug/24/disciples-review-india",
+          "image": "https://i.guim.co.uk/img/media/a5afd6a742bf5a748bbef10c4f66a5801cd705ed/645_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=8d4c92e8bec702da97fa38ff119cb3ab",
+          "publishedAt": "2026-08-24T08:00:56.000Z",
+          "title": {
+            "en": "Disciples review – fresh-faced boys are sucked into a nightmare of extremism in India",
+            "zh": "《弟子规》回顾——印度新鲜面孔男孩被卷入极端主义噩梦"
+          },
+          "summary": {
+            "en": "A prestigious school in the holy city of Varanasi and its controversial, dogmatic teachings are the subject of this shocking documentary The effect of political and religious indoctrination on young minds resembles a slow-release poison. Unfolding in observational vignettes,...",
+            "zh": "这是一则来自纪录片栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "A prestigious school in the holy city of Varanasi and its controversial, dogmatic teachings are the subject of this shocking documentary The effect of political and religious indoctrination on young minds resembles a slow-release poison. Unfolding in observational vignettes, Pankaj Johar and Sunaina Kapoor’s thought-provoking documentary centres on Vidya Mutth, a prestigious Hindu school in the holy city of Varanasi, India, where sectarian beliefs are drilled into its students, all in the name of cultural preservation. The film opens with controversial speeches made by the school’s spiritual leader, Guru Avimuktesh, who advocates the abolition of religious freedom, and for Indian Muslims to either convert to Hinduism or leave for Pakistan. A prominent Hindu figure with a large following, he personally oversees the entrance exam, a sequence captured in dynamic handheld shots. While boys take the test, their parents look on with apprehension and anxiety; to be accepted would be an honour, not only for their child but for the whole family. Continue reading...",
+            "zh": "这部令人震惊的纪录片以圣城瓦拉纳西的一所著名学校及其备受争议的教条主义教义为主题。政治和宗教灌输对年轻人的影响就像一种缓慢释放的毒药。潘卡吉·乔哈尔 (Pankaj Johar) 和苏奈娜·卡普尔 (Sunaina Kapoor) 这部发人深省的纪录片以观察性的小片段展开，以印度圣城瓦拉纳西的一所著名的印度教学校维迪亚·穆特 (Vidya Mutth) 为中心，学校以文化保护的名义向学生灌输宗派信仰。影片以学校精神领袖阿维穆克泰什 (Guru Avimuktesh) 发表的颇具争议的演讲开始，他主张废除宗教自由，并要求印度穆斯林要么皈依印度教，要么前往巴基斯坦。他是一位拥有大量追随者的著名印度教人物，亲自监督入学考试，整个过程由动态手持镜头捕捉。当男孩们参加考试时，他们的父母在一旁忧心忡忡地看着。被录取将是一种荣幸，不仅是他们的孩子，也是整个家庭。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-film-2026-aug-22-anthony-frith-documentary-mockbuste",
+          "section": "documentary",
+          "source": "The Guardian Film",
+          "sourceUrl": "https://www.theguardian.com/film/rss",
+          "link": "https://www.theguardian.com/film/2026/aug/22/anthony-frith-documentary-mockbuster-the-land-that-time-forgot",
+          "image": "https://i.guim.co.uk/img/media/7d5a5d982338b71bfe1ab7ee435e8f0ea7060525/107_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd0310adb55bc3f6ae1e7fcd2ea8f2d4",
+          "publishedAt": "2026-08-21T15:00:37.000Z",
+          "title": {
+            "en": "‘We’re barely above porn’: why would a film-maker choose to make a deliberately bad ‘mockbuster’?",
+            "zh": "“我们勉强高于色情片”：为什么电影制片人会选择故意制作一部糟糕的“搞笑片”？"
+          },
+          "summary": {
+            "en": "With a tiny budget and six days, Anthony Frith directed a film for the studio behind Sharknado – and then made Mockbuster, a documentary about the experience Directors don’t tend to appreciate having their films eviscerated by critics. And us critics, well practised in lobbing...",
+            "zh": "这是一则来自纪录片栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "With a tiny budget and six days, Anthony Frith directed a film for the studio behind Sharknado – and then made Mockbuster, a documentary about the experience Directors don’t tend to appreciate having their films eviscerated by critics. And us critics, well practised in lobbing proverbial grenades from the safety of our pretentiously book-lined, Cahiers du Cinéma-strewn offices, don’t tend to look an artist in the eyes and tell them that their work sucks. This is, however, exactly what I do to the Australian film-maker Anthony Frith. I’ve even prepared a zinger for the occasion. “Your film is a lemon that’s been eaten by a turkey then dumped into a vat of curdled mayonnaise,” I say. Continue reading...",
+            "zh": "安东尼·弗里斯 (Anthony Frith) 用有限的预算和六天的时间为《Sharknado》背后的工作室执导了一部电影，然后制作了《Mockbuster》，这是一部讲述导演们不喜欢自己的电影被评论家挖空的经历的纪录片。而我们的影评人，在我们自命不凡的书籍林立、电影手册散布的办公室里，熟练地投掷众所周知的手榴弹，不会倾向于直视艺术家的眼睛，告诉他们他们的作品很糟糕。然而，这正是我对澳大利亚电影制片人安东尼·弗里斯所做的。我什至还为这个场合准备了一杯辛格酒。 “你的电影是一个被火鸡吃掉的柠檬，然后倒入一桶凝结的蛋黄酱中，”我说。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-tv-and-radio-2026-aug-14-hollywood-crime-story-mob",
+          "section": "documentary",
+          "source": "The Guardian TV & Radio",
+          "sourceUrl": "https://www.theguardian.com/tv-and-radio/rss",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/aug/14/hollywood-crime-story-mob",
+          "image": "https://i.guim.co.uk/img/media/e350f815efc02630e5cbbee22ff11fe3d525b70c/0_0_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=289270784235bdb0f0e767e021846dea",
+          "publishedAt": "2026-08-14T09:00:23.000Z",
+          "title": {
+            "en": "How the mob took Hollywood: the story of organized crime and the movies",
+            "zh": "暴徒如何占领好莱坞：有组织犯罪和电影的故事"
+          },
+          "summary": {
+            "en": "Hollywood Crime Story: The Mob Takes Over the Movies looks back at how criminals insinuated themselves in the film business “From the foundation of Hollywood, organized crime is there.” So claims Tom Patterson, producer and director of new three-part documentary series,...",
+            "zh": "这是一则来自纪录片栏目的新闻，重点涉及公义、尊严与问责。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Hollywood Crime Story: The Mob Takes Over the Movies looks back at how criminals insinuated themselves in the film business “From the foundation of Hollywood, organized crime is there.” So claims Tom Patterson, producer and director of new three-part documentary series, Hollywood Crime Story: The Mob Takes Over the Movies. Organized crime’s connection to the film industry actually predates Tinseltown, being present for the foundation of the medium itself, when inventor Thomas Edison sicced his hired goons on competitors in an attempt to maintain total control over early motion picture technology. As covered in Hollywood Crime Story, this resulted in said competitors – mostly Jewish businessmen from the east coast – fleeing westward and establishing the town and studio system that would become synonymous with movies as we know them. Continue reading...",
+            "zh": "《好莱坞犯罪故事：黑帮接管电影》回顾了犯罪分子如何潜入电影行业“从好莱坞的根基开始，有组织的犯罪就在那里。”新的三集纪录片系列《好莱坞犯罪故事：黑帮接管电影》的制片人兼导演汤姆·帕特森如是说。有组织犯罪与电影业的联系实际上早于好莱坞，当时发明家托马斯·爱迪生（Thomas Edison）为了保持对早期电影技术的完全控制，而雇佣了暴徒来对付竞争对手，这一点就为电影本身奠定了基础。正如《好莱坞犯罪故事》中所报道的那样，这导致上述竞争对手（主要是来自东海岸的犹太商人）向西逃亡，并建立了城镇和制片厂系统，该系统将成为我们所知的电影的代名词。继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to justice, dignity, and accountability. Micah 6:8 reminds us to meet sharp headlines with justice tempered by mercy, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到公义、尊严与问责。Micah 6:8提醒我们，在快速变化的新闻里，仍要以带着怜悯的公义来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Micah 6:8",
+            "textEn": "What does Yahweh require of you? To act justly and to love mercy and to walk humbly with your God.",
+            "textZh": "雅伟向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。",
+            "themeEn": "Justice and mercy",
+            "themeZh": "公义与怜悯"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-tv-and-radio-2026-aug-11-mourinho-review-if-he-didnt",
+          "section": "documentary",
+          "source": "The Guardian TV & Radio",
+          "sourceUrl": "https://www.theguardian.com/tv-and-radio/rss",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/aug/11/mourinho-review-if-he-didnt-want-to-open-up-maybe-he-shouldnt-have-starred-in-a-docuseries",
+          "image": "https://i.guim.co.uk/img/media/28edf41bc7f11a76c0a67c01e801cdaadfe09630/1555_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b27d7518914f898457bc239e6b84e982",
+          "publishedAt": "2026-08-11T07:00:07.000Z",
+          "title": {
+            "en": "Mourinho review – if he didn’t want to open up, maybe he shouldn’t have starred in a docuseries …",
+            "zh": "穆里尼奥评论——如果他不想公开，也许他就不应该出演系列纪录片……"
+          },
+          "summary": {
+            "en": "Football manager José Mourinho stars in a three-parter from the creators of Bros: After the Screaming Stops. Don’t expect it to be quite so entertaining … Among his previous credits, the director of this mini-series Joe Pearlman can count the revelatory and hilarious 2018 film,...",
+            "zh": "这是一则来自纪录片栏目的新闻，重点涉及和平与克制。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Football manager José Mourinho stars in a three-parter from the creators of Bros: After the Screaming Stops. Don’t expect it to be quite so entertaining … Among his previous credits, the director of this mini-series Joe Pearlman can count the revelatory and hilarious 2018 film, Bros: After the Screaming Stops . That documentary worked brilliantly because its subjects seemed so sweetly but devastatingly lacking in discretion or self-awareness that everything they said landed like a line from a Christopher Guest parody. They couldn’t help themselves. In terms of a character study, storied football manager José Mourinho is a very different kettle of cold fish. Like the Goss twins, he takes himself very seriously indeed, but that’s pretty much where the similarities end. He’s something of a closed book. “You are pushing me to speak about myself,” he says, towards the end of the final part of this series. “And I don’t want to.” Which is fair enough but it does beg the question: why then, would you agree to be the subject of an in-depth three part documentary series? Mourinho is on Netflix Continue reading...",
+            "zh": "足球经理何塞·穆里尼奥在《兄弟：尖叫停止之后》创作者制作的三部曲中担任主角。别指望它会这么有趣……在这部迷你剧的导演乔·皮尔曼 (Joe Pearlman) 之前的作品中，可以数 2018 年的一部具有启发性和搞笑性的电影《兄弟：尖叫停止后》。这部纪录片取得了出色的效果，因为它的主题看起来如此甜蜜，但严重缺乏判断力或自我意识，以至于他们所说的一切都像克里斯托弗·盖斯特（Christopher Guest）戏仿中的台词一样。他们无法自拔。就性格研究而言，传奇足球经理何塞·穆里尼奥是一个非常不同的冷鱼。和戈斯双胞胎一样，他确实非常认真地对待自己，但相似之处也仅此而已。他就像一本合上的书。 “你迫使我谈论我自己，”他在本系列最后一部分的结尾说道。 “而我不想。”这很公平，但它确实引出了一个问题：那么，为什么你会同意成为一个深入的三部分纪录片系列的主题呢？穆里尼奥在 Netflix 上继续阅读..."
+          },
+          "reflection": {
+            "en": "This story draws attention to peace-making and restraint. Matthew 5:9 reminds us to meet sharp headlines with mercy, truth, and restraint, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到和平与克制。Matthew 5:9提醒我们，在快速变化的新闻里，仍要以怜悯、真实与节制来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Matthew 5:9",
+            "textEn": "Blessed are the peacemakers, for they will be called children of God.",
+            "textZh": "使人和睦的人有福了，因为他们必称为神的儿子。",
+            "themeEn": "Peacemaking",
+            "themeZh": "和睦"
+          },
+          "translationState": "fallback"
+        },
+        {
+          "id": "www-theguardian-com-tv-and-radio-2026-aug-07-monsters-of-god-review-hbo-",
+          "section": "documentary",
+          "source": "The Guardian TV & Radio",
+          "sourceUrl": "https://www.theguardian.com/tv-and-radio/rss",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/aug/07/monsters-of-god-review-hbo-max-documentary-reptile-smugglers",
+          "image": "https://i.guim.co.uk/img/media/27a19fb0b7a350c68f3a42a1ec0ccada307798ed/235_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=2792b82e84f3b81262ec1118de7cf316",
+          "publishedAt": "2026-08-07T16:00:21.000Z",
+          "title": {
+            "en": "Monsters of God review – a messy feud between rival reptile smugglers gets the Tiger King treatment",
+            "zh": "《上帝的怪物》评论——爬行动物走私者之间的混乱争斗得到了虎王的待遇"
+          },
+          "summary": {
+            "en": "Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld Through the fear and general miasma of the Covid pandemic, TV brought people together like never before. Among the most-watched series of...",
+            "zh": "这是一则来自纪录片栏目的新闻，重点涉及管家责任、供应与公共福祉。如需完整细节，请阅读英文原始报道。"
+          },
+          "body": {
+            "en": "Director Eric Goode has found two enemies to rival Joe Exotic and Carole Baskin in his new documentary about the animal trade’s underworld Through the fear and general miasma of the Covid pandemic, TV brought people together like never before. Among the most-watched series of 2020 was of course Tiger King, Netflix’s hit about an improbably twisty feud between a gay, polyamorous big-cat breeder and convicted felon, and the conservationist rival whom he accused of murder (more specifically, of feeding her missing husband to the tigers in her sanctuary – which she denies). It was the perfect hit for quarantine: bold and ridiculous enough to get everyone talking, and with precisely no bearing on the grief and awfulness that was all around. Producer and co-director Eric Goode has made a smattering of Tiger King follow-ups since then, as well as another series, Chimp Crazy, about the self-described Dolly Parton of the primate world. His latest project – a co-production between his own outfit, Goode Films, HBO, and A24 – continues the theme, focusing this time on the reptile trade and taking its lead from the 2008 book The Lizard King by journalist Bryan Christy. It’s stuffed full of wild stories and even wilder characters: there are canny smugglers, underworld crime gangs, and even legitimate zoos that are said to have turned a blind eye to the provenance of their big, scaly friends. The series is centred on the US – although clearly the supply chain is global – and the two men who kickstarted the illegal trade: Hank Molt and copycat trader Tommy Crutchfield. Like Joe Exotic and Carole Baskin before them, there is no love lost between Crutchfield and Molt, and no odd biographical detail too trivial to skip over. Hank, says Tommy, “will turn anything good into bad”, while Hank reckons that Tommy is “one of the angriest and most bitter people I’ve ever met”. Along the way we learn that Hank used to be a mayonnaise salesman, and that Tommy worked at an extremely on-the-nose Florida establishment named Snake-a-Torium as a teenager, where he would later have his wedding reception. What follows is the story not only of their enduring beef and betrayals, but of other adjacent vendettas in the illicit reptilian market. Despite environmental concerns becoming increasingly en vogue in the late 60s, a “don’t ask, don’t tell” attitude still pervaded the world of wildlife trading, with many zoos happy to acquire what they needed from whoever happened to have it. There were, however, serious consequences for some of the creatures involved. With the police on his back, Molt once buried a stash of animals alive in New Jersey’s Pine Barrens, a location which would later become infamous via The Sopranos. When he was eventually arrested, Crutchfield would become the go-to...",
+            "zh": "导演埃里克·古德（Eric Goode）在他关于动物贸易黑社会的新纪录片中找到了两个可以与乔·异国情调（Joe Exotic）和卡罗尔·巴斯金（Carole Baskin）匹敌的敌人。在新冠疫情的恐惧和普遍的瘴气中，电视以前所未有的方式将人们聚集在一起。 2020 年收视率最高的剧集当然是《虎王》，这部 Netflix 热播剧讲述了一名同性恋、多角恋大型猫科动物饲养员和被定罪的重罪犯，以及他指控谋杀（更具体地说，将她失踪的丈夫喂给她庇护所里的老虎——她否认）的自然资源保护主义竞争对手之间的矛盾。这是隔离期间的完美打击：大胆而荒谬，足以让每个人都议论纷纷，却与周围的悲伤和可怕毫无关系。从那时起，制片人兼联合导演埃里克·古德制作了一些《虎王》的后续作品，以及另一部剧集《疯狂黑猩猩》，讲述了自称灵长类动物世界的多莉·帕顿的故事。他的最新项目——由他自己的公司 Goode Films、HBO 和 A24 联合制作——延续了这一主题，这次重点关注爬行动物贸易，并以记者 Bryan Christy 2008 年出版的《蜥蜴王》一书为主导。它充满了疯狂的故事，甚至更疯狂的人物：有精明的走私者、黑社会犯罪团伙，甚至还有据说对他们的大而有鳞的朋友的出处视而不见的合法动物园。该系列以美国为中心（尽管供应链显然是全球性的）以及发起非法贸易的两个人：汉克·莫尔特（Hank Molt）和模仿商人汤米·克拉奇菲尔德（Tommy Crutchfield）。就像之前的乔·异国情调和卡罗尔·巴斯金一样，克拉奇菲尔德和莫尔特之间没有失去爱情，也没有琐碎而无法跳过的奇怪的传记细节。汤米说，汉克“会把任何好事变成坏事”，而汉克认为汤米是“我见过的最愤怒、最痛苦的人之一”。一路上我们了解到，汉克曾经是一名蛋黄酱推销员，而汤米十几岁时曾在佛罗里达州一家名为 Snake-a-Torium 的非常引人注目的餐厅工作，后来他在那里举办了婚宴。接下来的故事不仅讲述了他们持久的争执和背叛，还讲述了非法爬行动物市场上其他相邻的仇杀。尽管环境问题在 20 世纪 60 年代末变得越来越流行，但“不问、不说”的态度仍然普遍存在于野生动物贸易领域，许多动物园乐于从碰巧拥有它们的人那里获得所需的东西。然而，这对一些涉及的生物造成了严重后果。莫尔特背着警察，曾在新泽西州的松林贫瘠之地活埋了一批动物，这个地方后来因《黑道家族》而臭名昭著。当他最终被捕时，克拉奇菲尔德将成为首选……"
+          },
+          "reflection": {
+            "en": "This story draws attention to stewardship, provision, and the common good. 1 Peter 4:10 reminds us to meet sharp headlines with stewardship that serves neighbours, asking how faithful people can respond with wisdom instead of noise.",
+            "zh": "这则新闻让人想到管家责任、供应与公共福祉。1 Peter 4:10提醒我们，在快速变化的新闻里，仍要以服事邻舍的好管家心态来回应，并学习用祷告与分辨代替情绪化判断。"
+          },
+          "verse": {
+            "reference": "Colossians 3:23",
+            "textEn": "Whatever you do, work at it with all your heart, as working for Yahweh, not for human masters.",
+            "textZh": "无论做什么，都要从心里做，像是给主做的，不是给人做的。",
+            "themeEn": "Work for the Lord",
+            "themeZh": "为主而做"
           },
           "translationState": "fallback"
         }
