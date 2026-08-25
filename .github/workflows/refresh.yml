@@ -16,11 +16,29 @@ name: Refresh daily news
 #
 # Previous setup before that was four Sydney hours (06/11/16/19)
 # gated by scripts/schedule-window.mjs (file still present, unused).
+#
+# 2026-08-25: cron PAUSED. The desk count went 6 -> 8 (creation +
+# documentary) and the story count 82 -> 124, which broke the free
+# tier's arithmetic in a way hourly polling makes worse rather than
+# better. A story whose deep-match got a 429 is written as
+# translationState=fallback, and every later run RETRIES it — so 101
+# poisoned entries cost ~200 calls an hour against a 1500/day budget,
+# re-exhausting the quota within an hour or two of every midnight-PDT
+# reset. Hourly polling is what turns one bad run into a permanent
+# one.
+#
+# Re-enable only alongside one of: a paid key, several keys in
+# GEMINI_API_KEYS (the round-robin in refresh-news.mjs already
+# supports it), or a slower cadence — '0 */4 * * *' costs ~6 runs/day
+# instead of 24 and fits 124 stories comfortably.
+#
+# workflow_dispatch is deliberately left on so a controlled run can
+# still be fired by hand right after a quota reset.
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 * * * *'
+  # schedule:
+  #   - cron: '0 * * * *'
 
 permissions:
   contents: write
