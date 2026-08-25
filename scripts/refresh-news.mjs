@@ -140,6 +140,22 @@ const sectionMeta = {
 		},
 		categoryLabel: { en: 'Tech', zh: '科技' },
 	},
+	creation: {
+		title: { en: 'Creation Desk', zh: '受造世界' },
+		strap: {
+			en: 'The world Yahweh made — its wonders, and the toll of a warming, wounded earth.',
+			zh: '雅伟所造的世界——它的奇妙，以及一个渐暖、渐伤的地球所付的代价。',
+		},
+		categoryLabel: { en: 'Creation', zh: '受造' },
+	},
+	documentary: {
+		title: { en: 'Documentary Desk', zh: '纪录片精选' },
+		strap: {
+			en: 'New and notable documentaries — nature, creation, and the stories worth two hours of attention.',
+			zh: '值得关注的新纪录片——自然、受造世界，以及值得花两小时细看的故事。',
+		},
+		categoryLabel: { en: 'Documentary', zh: '纪录片' },
+	},
 };
 
 const sourceCatalog = [
@@ -232,11 +248,6 @@ const sourceCatalog = [
 		section: 'science',
 	},
 	{
-		name: 'The Guardian Environment',
-		url: 'https://www.theguardian.com/environment/rss',
-		section: 'science',
-	},
-	{
 		name: 'ScienceDaily Top Science',
 		url: 'https://www.sciencedaily.com/rss/top/science.xml',
 		section: 'science',
@@ -247,9 +258,56 @@ const sourceCatalog = [
 		section: 'science',
 	},
 	{
+		// Moved here from `science` 2026-08-25 when the `creation` desk was
+		// added — environment/wildlife coverage belongs with the other
+		// creation-care sources rather than general lab-and-discovery science.
+		name: 'The Guardian Environment',
+		url: 'https://www.theguardian.com/environment/rss',
+		section: 'creation',
+	},
+	{
 		name: 'The Guardian Wildlife',
 		url: 'https://www.theguardian.com/environment/wildlife/rss',
-		section: 'science',
+		section: 'creation',
+	},
+	{
+		name: 'Mongabay',
+		url: 'https://news.mongabay.com/feed/',
+		section: 'creation',
+	},
+	{
+		name: 'Yale Environment 360',
+		url: 'https://e360.yale.edu/feed.xml',
+		section: 'creation',
+	},
+	{
+		// Broad culture feeds, kept narrow with a documentary keyword
+		// filter — same technique as the China desk's BBC/SBS/DW filters
+		// above. There is no reliably-alive dedicated documentary trade
+		// feed left (RealScreen sits behind a bot challenge), so this
+		// reuses outlets already trusted elsewhere in the catalog.
+		name: 'The Guardian Film',
+		url: 'https://www.theguardian.com/film/rss',
+		section: 'documentary',
+		matchKeywords: ['documentary', 'docuseries'],
+	},
+	{
+		name: 'The Guardian TV & Radio',
+		url: 'https://www.theguardian.com/tv-and-radio/rss',
+		section: 'documentary',
+		matchKeywords: ['documentary', 'docuseries'],
+	},
+	{
+		name: 'BBC Entertainment & Arts',
+		url: 'https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml',
+		section: 'documentary',
+		matchKeywords: ['documentary', 'docuseries'],
+	},
+	{
+		name: 'IndieWire',
+		url: 'https://www.indiewire.com/feed/',
+		section: 'documentary',
+		matchKeywords: ['documentary', 'docuseries'],
 	},
 	{
 		name: 'BBC Technology',

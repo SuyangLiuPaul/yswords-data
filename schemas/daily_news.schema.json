@@ -15,14 +15,14 @@
         "properties": {
           "name": { "type": "string" },
           "url": { "type": "string", "format": "uri" },
-          "category": { "type": "string", "enum": ["world", "china", "australia", "hongkong", "science", "technology"] }
+          "category": { "type": "string", "enum": ["world", "china", "australia", "hongkong", "science", "technology", "creation", "documentary"] }
         }
       }
     },
     "sections": {
       "type": "object",
       "patternProperties": {
-        "^(world|china|australia|hongkong|science|technology)$": { "$ref": "#/definitions/section" }
+        "^(world|china|australia|hongkong|science|technology|creation|documentary)$": { "$ref": "#/definitions/section" }
       }
     }
   },
@@ -38,7 +38,7 @@
       "type": "object",
       "required": ["id", "title", "items"],
       "properties": {
-        "id": { "type": "string", "enum": ["world", "china", "australia", "hongkong", "science", "technology"] },
+        "id": { "type": "string", "enum": ["world", "china", "australia", "hongkong", "science", "technology", "creation", "documentary"] },
         "title": { "$ref": "#/definitions/localized" },
         "strap": { "$ref": "#/definitions/localized" },
         "sourceNotes": { "type": "array", "items": { "type": "string" } },
@@ -50,7 +50,7 @@
       "required": ["id", "section", "source", "link", "title", "verse"],
       "properties": {
         "id": { "type": "string", "minLength": 1 },
-        "section": { "type": "string", "enum": ["world", "china", "australia", "hongkong", "science", "technology"] },
+        "section": { "type": "string", "enum": ["world", "china", "australia", "hongkong", "science", "technology", "creation", "documentary"] },
         "source": { "type": "string" },
         "sourceUrl": { "type": "string" },
         "link": { "type": "string", "format": "uri" },

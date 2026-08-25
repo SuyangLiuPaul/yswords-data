@@ -10,7 +10,7 @@ Bible study app.
 | Path | What | Refresh |
 |---|---|---|
 | `data/bible_evidence.json` | Archaeological / manuscript / scientific / historical entries | Manual edits |
-| `data/daily_news.json` | Bilingual world / china / australia headlines + Bible reflections | GitHub Actions, hourly |
+| `data/daily_news.json` | Bilingual news across 8 desks (world / china / hongkong / australia / science / technology / creation / documentary) + Bible reflections | GitHub Actions, hourly |
 | `data/daily_verses.json` | 3,650 daily Bible verse references (10-year cycle) | Manual edits |
 | `data/news_verse_corpus.json` | 149 curated verses + tags the daily-news AI matches against | Manual edits |
 | `data/songs.json` | 543 church songs from 3 sites — metadata + audio / video / sheet-music links | GitHub Actions, weekly |
@@ -109,8 +109,10 @@ Google Translate pass for body text. See `.github/workflows/refresh.yml`.
 
 What each run does:
 
-1. **Pulls 10 RSS feeds** (Guardian / BBC / SBS / DW × world / china /
-   australia desks).
+1. **Pulls 30 RSS feeds** across 8 desks — world / china / hongkong /
+   australia / science / technology / creation / documentary — from
+   Guardian, BBC, SBS, DW, SCMP, HKFP, RTHK, Nature, ScienceDaily,
+   Phys.org, Ars Technica, Mongabay, Yale E360, and IndieWire.
 2. **Dedupes + balances** per section (10–18 items each).
 3. **Body extraction.** RSS gives us a short summary; for the
    long-form body we try in order:
