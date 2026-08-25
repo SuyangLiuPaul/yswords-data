@@ -123,7 +123,7 @@ What each run does:
      in their RSS. Capped at ~2800 chars per story.
 4. **Deep-match (Gemini).** Loads `data/news_verse_corpus.json` (149
    curated verses across 24 topical categories) and asks
-   `gemini-2.5-flash` to:
+   `gemini-2.5-flash-lite` to:
    - reason about the story's underlying spiritual / human question,
    - pick the single best-fitting verse from the catalog,
    - write a bilingual summary + reflection in one structured call.
@@ -164,11 +164,18 @@ Body translation still runs because it's quota-independent.
   picked verses + free-translated body.
 - `OPENAI_BASE_URL` — defaults to
   `https://generativelanguage.googleapis.com/v1beta/openai`.
-- `OPENAI_MODEL` — defaults to `gemini-2.5-flash` (1500 RPD free
-  tier, fast, capable enough for pick-a-verse + reflect). Override
-  to `gemini-2.5-pro` if you have a paid key.
-- `OPENAI_TRANSLATE_MODEL` — defaults to `gemini-2.5-flash` for the
-  paid-AI body-translation path. Only consulted when
+- `OPENAI_MODEL` — defaults to `gemini-2.5-flash-lite`. **Do not set
+  this to `gemini-2.5-flash`**: its free tier is ~20 requests/day, not
+  the 1500 this README claimed until 2026-08-25. Measured on a run
+  started 3 minutes after the midnight-PDT reset — i.e. an untouched
+  daily budget — it managed 15 deep-matches before 429ing on
+  everything else. Override to `gemini-2.5-pro` only with a paid key.
+- `OPENAI_MODEL_CHAIN` — comma-separated step-down ladder, defaulting
+  to `<OPENAI_MODEL>,gemini-2.5-flash,gemini-3-flash-preview`. A 429
+  or 5xx retries on the *next* model rather than the one that just
+  refused, since a per-day cap cannot be waited out with backoff.
+- `OPENAI_TRANSLATE_MODEL` — defaults to `gemini-2.5-flash-lite` for
+  the paid-AI body-translation path. Only consulted when
   `NEWS_TRANSLATE_BODY=ai`.
 - `OPENAI_TEMPERATURE` — defaults to `0.2` for stable verse picks.
 - `NETLIFY_AUTH_TOKEN` — required for the CLI-deploy step. Without

@@ -65,13 +65,46 @@ const AI_BASE_URL = (process.env.OPENAI_BASE_URL || 'https://generativelanguage.
 // 2.5-flash gives us 1500 RPD and is still very capable for the
 // pick-a-verse-and-write-a-reflection task. Override via env when
 // you have a paid pro key.
-const AI_MODEL = process.env.OPENAI_MODEL || 'gemini-2.5-flash';
+// 2026-08-25: default flipped from gemini-2.5-flash to -flash-lite.
+// Measured, not guessed: a run starting 3 minutes after the midnight-PDT
+// quota reset — i.e. on a completely untouched daily budget — landed
+// exactly 15 successful deep-matches before every later call 429'd, and
+// the successes came at ~3/minute. That is not the 1500/day the comment
+// below used to claim; gemini-2.5-flash's free tier is ~20 requests/day,
+// so no cadence, cache, or retry policy could ever have deep-matched a
+// 128-story edition on it. The sister Gemini functions in the yswords
+// Netlify site hit this same wall in June and moved to flash-lite then;
+// this pipeline never got the same treatment.
+//
+// flash-lite carries a far larger free daily allowance and is entirely
+// capable of the pick-a-verse-and-write-a-reflection task. AI_MODEL stays
+// the head of AI_MODEL_CHAIN below, which steps down on 429/5xx so a
+// model-specific cap degrades to the next model rather than to the
+// keyword fallback.
+const AI_MODEL = process.env.OPENAI_MODEL || 'gemini-2.5-flash-lite';
+
+// Ordered step-down chain. A transient failure (429 rate-limit / daily
+// cap, or a 5xx "high demand") retries on the NEXT model rather than
+// hammering the one that just refused — a per-model daily cap is not
+// something backoff can wait out, so retrying the same model is the
+// one strategy guaranteed to fail. Override with a comma-separated
+// OPENAI_MODEL_CHAIN.
+const AI_MODEL_CHAIN = (
+	process.env.OPENAI_MODEL_CHAIN ||
+	[AI_MODEL, 'gemini-2.5-flash', 'gemini-3-flash-preview'].join(',')
+)
+	.split(',')
+	.map((m) => m.trim())
+	.filter(Boolean);
 // Cheaper / higher-quota model for mechanical translation passes.
-// gemini-2.5-flash has 10 RPM and 1500 RPD on the free tier vs
-// 2.5-pro's 5 RPM / 250 RPD, so using flash for body translation
-// stops the deep-match pipeline from starving the quota pool.
+// Also moved off gemini-2.5-flash 2026-08-25: the "1500 RPD" this
+// comment used to cite was wrong (see AI_MODEL above — measured at
+// ~20/day), and pointing translation at the same starved model meant
+// the two paths competed for the same tiny budget. Body translation
+// mostly runs through FREE_TRANSLATE_PROVIDERS anyway; this is the
+// AI backstop for when those fail.
 const AI_TRANSLATE_MODEL =
-	process.env.OPENAI_TRANSLATE_MODEL || 'gemini-2.5-flash';
+	process.env.OPENAI_TRANSLATE_MODEL || 'gemini-2.5-flash-lite';
 // Lower temperature than before (0.3 -> 0.2): we want stable verse picks
 // across runs so a story doesn't bounce between verses on every refresh,
 // while leaving room for natural-sounding reflection prose.
@@ -513,12 +546,12 @@ function delay(ms) {
 // Each retry rotates to the NEXT round-robin key, so a single rate-limited
 // key doesn't block progress when GEMINI_API_KEYS holds multiple.
 //
-// Single retry only. Two retries × 30s backoff per call × 80+ calls
-// per cron meant a quota-exhausted run could stall for an hour;
-// better to fail fast and let the keyword fallback run. The next
-// cron will pick the same stories back up cheaply via cache once
-// quota refills.
-const RETRY_BACKOFF_MS = [10000];
+// One retry per model in AI_MODEL_CHAIN. Each entry is the backoff
+// before the NEXT model is tried, so the chain costs at most
+// (chain length - 1) waits. Backoff is short because the thing being
+// waited out is usually a per-minute limit; a per-DAY cap is waited
+// out by changing model, not by sleeping.
+const RETRY_BACKOFF_MS = AI_MODEL_CHAIN.slice(1).map(() => 4000);
 
 function isTransientHttpStatus(status) {
 	return status === 429 || (status >= 500 && status < 600);
@@ -543,8 +576,12 @@ async function callGeminiChat(systemPrompt, userPrompt, jsonSchema = null, timeo
 		{ role: 'user', content: userPrompt },
 	];
 
+	// An explicit modelOverride pins a single model (the caller asked for
+	// that one specifically); otherwise walk the step-down chain.
+	const modelLadder = modelOverride ? [modelOverride] : AI_MODEL_CHAIN;
+
 	const body = {
-		model: modelOverride || AI_MODEL,
+		model: modelLadder[0],
 		messages,
 		temperature: AI_TEMPERATURE,
 	};
@@ -602,9 +639,16 @@ async function callGeminiChat(systemPrompt, userPrompt, jsonSchema = null, timeo
 				throw error;
 			}
 			const wait = RETRY_BACKOFF_MS[attempt];
+			// Step down to the next model before retrying. Retrying the
+			// same model is pointless when the refusal is a per-day cap.
+			const nextModel = modelLadder[attempt + 1] ?? body.model;
+			const steppedDown = nextModel !== body.model;
 			console.warn(
-				`Gemini call transient failure (attempt ${attempt + 1}/${RETRY_BACKOFF_MS.length + 1}): ${error.message?.slice(0, 120)}. Retrying in ${wait}ms.`,
+				`Gemini call transient failure (attempt ${attempt + 1}/${RETRY_BACKOFF_MS.length + 1}) on ${body.model}: ` +
+					`${error.message?.slice(0, 120)}. ` +
+					`${steppedDown ? `Stepping down to ${nextModel}` : 'Retrying'} in ${wait}ms.`,
 			);
+			body.model = nextModel;
 			await delay(wait);
 		}
 	}
