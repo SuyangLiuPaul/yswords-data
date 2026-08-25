@@ -1222,7 +1222,22 @@ async function main() {
 	const buildCtx = { verseCorpus, existingById, sectionUsedVerseIds };
 	const builtSections = {};
 
-	for (const sectionId of Object.keys(sectionMeta)) {
+	// Sections are built one after another and the AI budget is spent as
+	// we go, so whichever desk sorts last is the one that runs on keyword
+	// fallback. That was measurable on 2026-08-25: coverage tracked
+	// processing position exactly — world/china/australia 100%, then
+	// science 2/26, technology 1/18, creation 3/18. A fixed order doesn't
+	// ration a scarce budget, it just always starves the same desks.
+	//
+	// Rotating the start point spreads the shortfall: each desk leads
+	// every eighth run and no desk is permanently last. The offset
+	// advances once per 4-hour window (matching the cron) rather than
+	// being derived from the hour of day, so it walks through all eight
+	// positions instead of landing on the same two or three.
+	const orderedSectionIds = rotateSectionOrder(Object.keys(sectionMeta), now);
+	console.log(`Section order this run: ${orderedSectionIds.join(' > ')}`);
+
+	for (const sectionId of orderedSectionIds) {
 		const sectionItems = rawItems
 			.filter((item) => item.section === sectionId)
 			.sort((left, right) => new Date(right.publishedAt) - new Date(left.publishedAt));
@@ -1260,6 +1275,20 @@ async function main() {
 		};
 	}
 
+	// Re-key in canonical (sectionMeta) order. The build loop above runs
+	// in rotated order, and without this the JSON's section keys would
+	// reshuffle every run — turning each refresh into a whole-file diff
+	// and making real content changes impossible to spot in git.
+	const canonicalSections = {};
+	for (const sectionId of Object.keys(sectionMeta)) {
+		if (builtSections[sectionId]) {
+			canonicalSections[sectionId] = builtSections[sectionId];
+		}
+	}
+	for (const [sectionId, section] of Object.entries(builtSections)) {
+		if (!canonicalSections[sectionId]) canonicalSections[sectionId] = section;
+	}
+
 	// 2026-05-11: defensive pre-write pass. Even with sanitizeLink()
 	// at scrape time, a downstream transform (deep-match merge with
 	// stale cache, body re-fetch, image scrape, …) could
@@ -1269,9 +1298,9 @@ async function main() {
 	// item kill the whole hourly refresh via downstream schema
 	// validation. Logs the drop so the failure is visible in CI.
 	let prewriteDrops = 0;
-	for (const sectionId of Object.keys(builtSections)) {
-		const before = builtSections[sectionId].items.length;
-		builtSections[sectionId].items = builtSections[sectionId].items.filter(
+	for (const sectionId of Object.keys(canonicalSections)) {
+		const before = canonicalSections[sectionId].items.length;
+		canonicalSections[sectionId].items = canonicalSections[sectionId].items.filter(
 			(story) => {
 				if (sanitizeLink(story.link) != null) return true;
 				console.warn(
@@ -1281,7 +1310,7 @@ async function main() {
 				return false;
 			},
 		);
-		const dropped = before - builtSections[sectionId].items.length;
+		const dropped = before - canonicalSections[sectionId].items.length;
 		prewriteDrops += dropped;
 	}
 	if (prewriteDrops > 0) {
@@ -1299,7 +1328,7 @@ async function main() {
 			category: source.section,
 			categoryLabel: sectionMeta[source.section].categoryLabel,
 		})),
-		sections: builtSections,
+		sections: canonicalSections,
 	};
 
 	await fs.mkdir(path.dirname(outputPath), { recursive: true });
@@ -1604,6 +1633,25 @@ export function dedupeStories(items) {
 	}
 
 	return unique;
+}
+
+/// Rotate the section build order so no desk is permanently last.
+///
+/// The AI budget is consumed as sections are built, so with a fixed
+/// order the trailing desks always fall back to keyword matching. The
+/// offset advances once per 4-hour window — matching the cron cadence —
+/// so consecutive runs lead with different desks and every desk reaches
+/// the front over eight runs.
+///
+/// Deliberately derived from absolute time rather than hour-of-day: with
+/// a 4-hourly cron, `hour % 8` only ever yields two distinct offsets, so
+/// six of the eight desks would never lead.
+export function rotateSectionOrder(sectionIds, now = new Date()) {
+	if (!Array.isArray(sectionIds) || sectionIds.length === 0) return [];
+	const windowsSinceEpoch = Math.floor(now.getTime() / (4 * 60 * 60 * 1000));
+	const len = sectionIds.length;
+	const offset = ((windowsSinceEpoch % len) + len) % len;
+	return [...sectionIds.slice(offset), ...sectionIds.slice(0, offset)];
 }
 
 export function determineTargetCount(items, editionDate, options = {}) {

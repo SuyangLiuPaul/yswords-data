@@ -20,6 +20,7 @@ import {
 	partitionArchiveDates,
 	extractClients5Text,
 	chunkForTranslation,
+	rotateSectionOrder,
 } from '../scripts/refresh-news.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -324,4 +325,43 @@ test('chunkForTranslation splits on sentence ends and never exceeds the limit', 
 	assert.equal(chunks.join(' '), 'One two. Three four. Five six.');
 	// A single sentence longer than the limit still gets bounded.
 	assert.ok(chunkForTranslation('a'.repeat(50), 20).every((c) => c.length <= 20));
+});
+
+
+const DESKS = [
+	'world', 'china', 'australia', 'hongkong',
+	'science', 'technology', 'creation', 'documentary',
+];
+
+test('rotateSectionOrder returns a rotation: same members, same length', () => {
+	const rotated = rotateSectionOrder(DESKS, new Date('2026-08-25T08:00:00Z'));
+	assert.equal(rotated.length, DESKS.length);
+	assert.deepEqual([...rotated].sort(), [...DESKS].sort());
+});
+
+test('rotateSectionOrder advances once per 4-hour window', () => {
+	const a = rotateSectionOrder(DESKS, new Date('2026-08-25T08:00:00Z'));
+	const sameWindow = rotateSectionOrder(DESKS, new Date('2026-08-25T11:59:00Z'));
+	const nextWindow = rotateSectionOrder(DESKS, new Date('2026-08-25T12:00:00Z'));
+	assert.deepEqual(sameWindow, a, 'same 4h window must give the same order');
+	assert.notDeepEqual(nextWindow, a, 'next window must lead with a different desk');
+});
+
+test('rotateSectionOrder lets every desk lead across 8 consecutive windows', () => {
+	// The whole point of the rotation: no desk may be permanently last.
+	// Derived from hour-of-day this would fail — a 4-hourly cron makes
+	// `hour % 8` yield only {0, 4}, so six desks would never lead.
+	const leaders = new Set();
+	const start = new Date('2026-08-25T00:00:00Z').getTime();
+	for (let i = 0; i < DESKS.length; i++) {
+		const at = new Date(start + i * 4 * 60 * 60 * 1000);
+		leaders.add(rotateSectionOrder(DESKS, at)[0]);
+	}
+	assert.equal(leaders.size, DESKS.length, `only ${leaders.size} distinct leaders`);
+});
+
+test('rotateSectionOrder handles empty and single-element input', () => {
+	assert.deepEqual(rotateSectionOrder([], new Date()), []);
+	assert.deepEqual(rotateSectionOrder(['world'], new Date()), ['world']);
+	assert.deepEqual(rotateSectionOrder(null), []);
 });
