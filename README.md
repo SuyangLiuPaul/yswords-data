@@ -98,14 +98,21 @@ TTL on the YsWords side).
 
 ## Refresh pipeline (`scripts/refresh-news.mjs`)
 
-GitHub Actions runs hourly (`0 * * * *`). Each run pulls RSS, hits
-the per-story deep-match cache for headlines already seen, and only
-commits if `data/daily_news.json` actually changed. So ~24 cron
-fires/day, typically ~6–12 commits/day plus one Netlify rebuild per
-commit. The hourly cadence matches how often the source RSS feeds
-update; cold-cache runs take ~10–15 min with the Gemini free-tier
-throttle (~7 s between deep-match calls × 38 stories) plus the free
-Google Translate pass for body text. See `.github/workflows/refresh.yml`.
+GitHub Actions runs every 4 hours (`0 */4 * * *` — 10:00 / 14:00 /
+18:00 / 22:00 / 02:00 / 06:00 Sydney). Each run pulls RSS, hits the
+per-story deep-match cache for headlines already seen, and only commits
+if `data/daily_news.json` actually changed. So 6 cron fires/day plus one
+Netlify rebuild per commit. A full run takes ~37 min with the Gemini
+free-tier throttle (~7 s between deep-match calls × ~130 stories) plus
+the free Google Translate pass for body text.
+
+It was hourly until 2026-08-25. A deep-match that 429s is persisted as
+`translationState=fallback` and retried by every later run, so at 24
+fires/day ~100 poisoned entries re-burned the daily quota within an hour
+or two of each midnight-PDT reset — the cadence turned one bad run into
+a permanent one. **Don't put it back to hourly**; if coverage is short,
+add keys to `GEMINI_API_KEYS` (round-robin already supported) or pay for
+one. See `.github/workflows/refresh.yml`.
 
 What each run does:
 
