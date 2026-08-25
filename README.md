@@ -166,9 +166,22 @@ Body translation still runs because it's quota-independent.
 
 ### Required GitHub secrets
 
-- `OPENAI_API_KEY` (or `GEMINI_API_KEY` / `GEMINI_API_KEYS`) — the
-  Gemini key. Without it the refresh still runs but ships keyword-
-  picked verses + free-translated body.
+- `OPENAI_API_KEY`, `GEMINI_API_KEY`, `GEMINI_API_KEYS` — Gemini keys.
+  All three are read and **combined** (comma-separated values are split,
+  duplicates dropped), then round-robined per call. Without any key the
+  refresh still runs but ships keyword-picked verses + free-translated
+  body.
+
+  Adding a key is the highest-value lever on deep-match coverage: the
+  free tier's binding constraint is a per-key daily request cap, so
+  capacity scales linearly with the number of distinct keys. Measured
+  2026-08-25 on a single key, all models combined gave ~58 successful
+  calls for the day against ~132 stories.
+
+  These were a `||` chain until 2026-08-25, where setting
+  `GEMINI_API_KEYS` silently *disabled* `OPENAI_API_KEY` rather than
+  adding to it — worth knowing because GitHub secrets are write-only, so
+  you cannot read the existing value to merge it by hand.
 - `OPENAI_BASE_URL` — defaults to
   `https://generativelanguage.googleapis.com/v1beta/openai`.
 - `OPENAI_MODEL` — defaults to `gemini-2.5-flash-lite`. **Do not set

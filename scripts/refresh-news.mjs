@@ -29,20 +29,33 @@ const maxItemsPerSection = Math.max(minItemsPerSection, Number(process.env.NEWS_
 //
 // Keys come from environment ONLY. Previously this file embedded four
 // literal Gemini keys as fallbacks — those leaked to anyone who forked
-// the public repo and had to be rotated. Set keys via GitHub Actions
-// secret `OPENAI_API_KEY` (preferred — the workflow already wires it),
-// or `GEMINI_API_KEYS` (comma-separated for round-robin), or
-// `GEMINI_API_KEY` (single key fallback). Without any key the refresh
+// the public repo and had to be rotated. Supply them via any of the
+// GitHub Actions secrets `OPENAI_API_KEY`, `GEMINI_API_KEY`, or
+// `GEMINI_API_KEYS` (comma-separated). Without any key the refresh
 // still runs but skips AI translation/reflection enrichment.
-const GEMINI_KEYS = (
-	process.env.GEMINI_API_KEYS ||
-	process.env.GEMINI_API_KEY ||
-	process.env.OPENAI_API_KEY ||
-	''
-)
-	.split(',')
-	.map((k) => k.trim())
-	.filter(Boolean);
+//
+// 2026-08-25: these three sources are now ADDITIVE. They used to be a
+// `||` chain, so setting GEMINI_API_KEYS silently disabled the key in
+// OPENAI_API_KEY instead of adding to it — the opposite of what someone
+// reaching for a second key wants, and undiagnosable from CI because
+// GitHub secrets are write-only (you cannot read the existing value to
+// merge it by hand). Since the free tier's per-key daily cap is the
+// binding constraint on deep-match coverage, adding a key must actually
+// add capacity. Deduped so the same key set in two vars is not
+// round-robined onto itself.
+const GEMINI_KEYS = [
+	...new Set(
+		[
+			process.env.GEMINI_API_KEYS,
+			process.env.GEMINI_API_KEY,
+			process.env.OPENAI_API_KEY,
+		]
+			.filter(Boolean)
+			.flatMap((value) => value.split(','))
+			.map((k) => k.trim())
+			.filter(Boolean),
+	),
+];
 let currentKeyIndex = 0;
 function getNextApiKey() {
 	if (GEMINI_KEYS.length === 0) return null;
