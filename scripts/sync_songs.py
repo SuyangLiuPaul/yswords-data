@@ -256,16 +256,32 @@ _BAD_TITLE_RE = re.compile(
 
 # ── HTTP ──────────────────────────────────────────────────────────
 
-def http_get(url, timeout=30):
+def http_get(url, timeout=30, attempts=2):
     """GET as text, polite UA. Returns '' on failure (never raises —
-    a single dead page must not abort a 500-song sync)."""
+    a single dead page must not abort a 500-song sync).
+
+    Retries once on a non-HTTP failure (timeout, connection reset) —
+    the kind of blip the 2026-08-29 CDC hymn incident turned out NOT
+    to be (that was fast 200s with no `warn: GET … failed` lines at
+    all), but the main() per-row regression guard now refuses to
+    write over ANY single row losing its media, so an ordinary
+    network blip that used to just cost one row's audio silently can
+    now abort the whole write. A real HTTP error (404 etc.) is
+    definitive and not retried.
+    """
     req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            return r.read().decode('utf-8', errors='replace')
-    except Exception as e:
-        print(f'  warn: GET {url} failed: {e}', file=sys.stderr)
-        return ''
+    for attempt in range(attempts):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read().decode('utf-8', errors='replace')
+        except urllib.error.HTTPError as e:
+            print(f'  warn: GET {url} failed: {e}', file=sys.stderr)
+            return ''
+        except Exception as e:
+            if attempt == attempts - 1:
+                print(f'  warn: GET {url} failed: {e}', file=sys.stderr)
+                return ''
+            time.sleep(1.0)
 
 
 def http_json(url, timeout=40):
@@ -839,63 +855,7 @@ def pick_primary_audio(tracks, language):
     return vocals[0]['url']
 
 
-def head_ok(url, timeout=25, attempts=2):
-    """True when a HEAD on `url` returns 200.
-
-    Retries once on a non-HTTP failure: a pruned URL is *removed* from
-    the catalogue, so a dropped connection must not be able to delete
-    a perfectly good link. A real 404 is definitive and not retried.
-    """
-    req = urllib.request.Request(
-        url, method='HEAD', headers={'User-Agent': USER_AGENT})
-    for attempt in range(attempts):
-        try:
-            with urllib.request.urlopen(req, timeout=timeout) as r:
-                return r.status == 200
-        except urllib.error.HTTPError:
-            return False  # upstream answered; the file really is gone
-        except Exception:
-            if attempt == attempts - 1:
-                return False
-            time.sleep(1.0)
-    return False
-
-
-def prune_derived_urls(entries, workers=4):
-    """Null out CDC media URLs that 404.
-
-    Unlike fydt and Cahaya — where every URL is one the site itself
-    published, and which verify 100% clean — CDC's are *derived* from
-    the catalogue code (`D0180` → `.../mp3/D0180.mp3`). The pattern is
-    right for the great majority, but ~23 of ~566 files were never
-    uploaded, so the guess 404s.
-
-    A play button that 404s is precisely the failure that got the
-    Songs feature deleted in v1.3.126, so the guesses are checked here
-    and dropped rather than shipped on a hope.
-    """
-    import concurrent.futures
-
-    targets = [(e, f) for e in entries
-               for f in ('audioUrl', 'scoreUrl') if e.get(f)]
-    if not targets:
-        return 0
-
-    print(f'  cdc: verifying {len(targets)} derived URLs…')
-    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
-        results = list(pool.map(lambda t: head_ok(t[0][t[1]]), targets))
-
-    pruned = 0
-    for (entry, field), ok in zip(targets, results):
-        if not ok:
-            entry[field] = None
-            pruned += 1
-    if pruned:
-        print(f'  cdc: dropped {pruned} URL(s) that 404 upstream')
-    return pruned
-
-
-def fetch_cdc(verify=True):
+def fetch_cdc():
     """Walk the paginated integrated-list-songs view for (title, code,
     path) rows, then read each song's own page for its real media
     links.
@@ -1008,12 +968,14 @@ def fetch_cdc_hymns():
     "I Sing the Mighty Power of God".
     """
     entries = []
+    pages_read = 0
     for n in range(1, 16):
         slug = CDC_HYMN_SLUG.format(n)
         link = f'{CDC_ROOT}/content/{slug}'
         html = http_get(link)
         if not html:
             continue
+        pages_read += 1
         mp3 = CDC_HYMN_MP3_RE.search(html)
         if not mp3:
             # No audio means nothing to add: these exist to be heard,
@@ -1044,6 +1006,20 @@ def fetch_cdc_hymns():
             themes=infer_themes(title),
             verse=infer_verse(title),
         ))
+    if pages_read and not entries:
+        # 2026-08-29: all 15 pages answered fast (0.73s total, zero
+        # `warn: GET … failed` lines) with 200s that carried no mp3
+        # link in any of them — a partial-content response, not CDC
+        # deleting its whole hymn collection overnight. Treated as a
+        # failed fetch rather than as "0 classic piano hymns", or the
+        # per-source guards below (which bucket hymns under the same
+        # 'cdc' source as the 283-song D/E catalogue) can miss it: the
+        # blended source count and audio ratio can both stay inside
+        # tolerance while these 15 rows are wiped out underneath them.
+        raise RuntimeError(
+            f'cdc hymns: {pages_read} page(s) answered but NONE contained '
+            f'an mp3 — treating as a failed fetch, not an upstream '
+            f'deletion of all 15 hymns')
     print(f'  cdc hymns: {len(entries)} classic piano hymns')
     return entries
 
@@ -1182,14 +1158,38 @@ _REFRESH_FIELDS = (
 )
 
 # Media links, where the fresh value is AUTHORITATIVE — including when
-# it is empty. A URL that has stopped resolving gets pruned upstream
-# (see [prune_derived_urls]) and that pruning has to survive the
-# merge, or the catalogue would keep serving the dead link forever.
-# head_ok retries, so a blip cannot clear a good URL by itself.
+# it is empty. Each song's own page is the only source of truth for
+# what it currently offers, so a re-fetch that finds no mp3 clears the
+# stored one rather than keeping a link the church may have removed.
+#
+# That makes a partial-content response (the page answers 200 but the
+# fetch/parse misses media that IS there) indistinguishable, at this
+# single field, from a real removal. Nothing here defends against
+# that — the defence is the per-row regression guard in main(), which
+# looks at the whole run and refuses to write if any row loses its
+# only audio/video/score with no replacement. Do not resurrect a
+# per-field "retries so a blip can't clear a good URL" comment here:
+# this spot used to carry exactly that claim, about a HEAD-recheck
+# (`prune_derived_urls`) that had quietly stopped being called from
+# anywhere, and the false comment was the only thing still asserting
+# the protection existed (found + fixed 2026-08-30).
 _MEDIA_FIELDS = (
     'audioUrl', 'instrumentalUrl', 'accompanimentUrl', 'audioTracks',
     'videoUrl', 'youtubeId', 'soundcloudTrackId', 'scoreUrl',
 )
+
+
+def has_media(row):
+    """True if a row offers ANY way to hear, watch, or read it.
+
+    Mirrors `pull_songs_snapshot.py`'s `has_media` in the yswords repo
+    (the downstream guard this one is meant to make unnecessary) —
+    keep the two in sync if either grows a field.
+    """
+    return bool(
+        row.get('audioUrl') or row.get('audioTracks')
+        or row.get('soundcloudTrackId') or row.get('videoUrl')
+        or row.get('youtubeId') or row.get('scoreUrl'))
 
 
 def merge(existing, new):
@@ -1387,9 +1387,10 @@ def main():
                          'dead links (exits non-zero if any are dead)')
     ap.add_argument('--verify-only', action='store_true',
                     help='skip the sync; just verify the stored catalogue')
-    ap.add_argument('--no-prune', action='store_true',
-                    help="keep CDC's derived URLs without HEAD-checking "
-                         'them (faster; ships known-dead links)')
+    ap.add_argument('--allow-regression', action='store_true',
+                    help='write even if a row lost its only audio/video/'
+                         'score or vanished outright (see the per-row '
+                         'regression guard below)')
     ap.add_argument('--out', metavar='PATH',
                     help='where to write the catalogue (default: '
                          f'{_default_out()})')
@@ -1411,11 +1412,15 @@ def main():
 
     taxonomy = fetch_fydt_taxonomy()
     wp_index = fetch_fydt_wp_index()
-    fresh = (fetch_fydt(taxonomy, wp_index)
-             + fetch_cahaya()
-             + fetch_cdc(verify=not args.no_prune)
-             + fetch_cdc_hymns()
-             + fetch_cgdc())
+    try:
+        fresh = (fetch_fydt(taxonomy, wp_index)
+                 + fetch_cahaya()
+                 + fetch_cdc()
+                 + fetch_cdc_hymns()
+                 + fetch_cgdc())
+    except RuntimeError as e:
+        print(f'ERROR: {e} — refusing to write.', file=sys.stderr)
+        return 1
 
     if not fresh:
         print('ERROR: every source returned nothing — refusing to write an '
@@ -1501,6 +1506,42 @@ def main():
 
     dropped = sorted(set(existing) - set(merged))
     added = sorted(set(merged) - set(existing))
+
+    # Per-row regression guard.
+    #
+    # The two guards above catch a whole SOURCE collapsing or thinning.
+    # They can both miss a narrower loss: individual rows silently
+    # losing their only way to be heard, or vanishing outright, while
+    # the aggregate stays inside tolerance. That is exactly what
+    # happened on 2026-08-29 — CDC served fast 200s for 15 hymn pages
+    # with no mp3 in any of them (now caught directly in
+    # `fetch_cdc_hymns`), and separately cdc's blended audio coverage
+    # (hymns + the D/E catalogue share the 'cdc' source) went 286 with
+    # audio → 264, a 7.69% drop that missed the 10%-thinning threshold
+    # above by 6.6 rows. Named ids, not just a ratio, so the failure is
+    # legible without re-deriving it —
+    # mirrors `pull_songs_snapshot.py`'s `check_regression` downstream
+    # in the yswords repo, which enforces the same contract on the
+    # published snapshot as a second line of defence.
+    if existing and not args.allow_regression:
+        lost_media = sorted(
+            sid for sid, row in existing.items()
+            if sid in merged and has_media(row) and not has_media(merged[sid]))
+        problems = []
+        if lost_media:
+            problems.append(
+                f'{len(lost_media)} row(s) lost their only audio/video/'
+                f'score and gained no replacement: ' + ', '.join(lost_media))
+        if dropped:
+            problems.append(
+                f'{len(dropped)} row(s) present before this run vanished '
+                f'entirely: ' + ', '.join(dropped))
+        if problems:
+            print('ERROR: per-row regression — refusing to write.\n  '
+                  + '\n  '.join(problems) +
+                  '\n  Re-run when the source is answering fully; if the '
+                  'loss is real, pass --allow-regression.', file=sys.stderr)
+            return 1
 
     songs = sorted(merged.values(),
                    key=lambda s: (s['source'], s['title']))
