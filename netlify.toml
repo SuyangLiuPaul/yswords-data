@@ -80,6 +80,36 @@
     Cross-Origin-Resource-Policy = "cross-origin"
     Cache-Control = "public, max-age=31536000, immutable"
 
+# Brand marks (added 2026-08-30) — the app icon at 128/256/512, meant to
+# be hotlinked from OUTSIDE any of our apps: email signatures first, and
+# anywhere else that needs a stable picture of the mark.
+#
+# Why here and not on the app site: `yswords.netlify.app` (and so
+# `yahwehword.com`) ends its redirect chain in an SPA catch-all, `/*` ->
+# /index.html. Measured on yswords-dev, `/logo` there answered
+# `200 text/html` — a mail client asking for a picture got the whole web
+# app and rendered a broken image. This site has no catch-all, so a real
+# file at a real path is simply served. It is also decoupled from the
+# app's release train, which matters more than it sounds: a signature URL
+# outlives many app releases, and putting it in the app bundle would make
+# every future logo tweak require a full prod app release.
+#
+# Cache is a day, NOT the year+immutable the evidence mirror gets. Those
+# files are content-keyed and never change; a brand mark is exactly the
+# kind of thing that gets revised, and an immutable year would strand
+# every already-sent signature on the old art.
+#
+# CORP mirrors the /images/evidence/* block for the same reason given
+# there — a consumer page under `Cross-Origin-Embedder-Policy:
+# require-corp` blocks cross-origin subresources that don't opt in, and
+# no-cors <img> tags never consult ACAO.
+[[headers]]
+  for = "/images/brand/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cross-Origin-Resource-Policy = "cross-origin"
+    Cache-Control = "public, max-age=86400"
+
 # Mirrored news-article images (news_insights consumer, added 2026-07-22).
 # Some source CDNs (SBS) send Access-Control-Allow-Origin: null on their
 # own images, which blocks Flutter Web's CanvasKit renderer from decoding
