@@ -61,7 +61,7 @@
           },
           "source": {
             "type": "string",
-            "enum": ["fydt", "cahaya", "cdc", "cgdc"]
+            "enum": ["fydt", "cahaya", "cdc", "cgdc", "setapak", "ydh"]
           },
           "sourceLabel": { "type": ["string", "null"] },
           "code": { "type": ["string", "null"] },

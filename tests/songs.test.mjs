@@ -63,7 +63,14 @@ test('_meta counts agree with the rows', () => {
 	}
 });
 
-test('all three catalogues are present and ids are unique', () => {
+test('the established catalogues are present and ids are unique', () => {
+	// Deliberately the four that have always published, not every name
+	// the schema now allows: `setapak` and `ydh` were added to the
+	// fetcher on 2026-09-04 and have not been through a run yet, so
+	// requiring them here would fail on today's data rather than on a
+	// real regression. Add them once the first publish carries them —
+	// until then yswords' own pull_songs_snapshot.py is what refuses a
+	// snapshot that has lost them.
 	const sources = new Set(songs.songs.map((s) => s.source));
 	for (const expected of ['fydt', 'cahaya', 'cdc', 'cgdc']) {
 		assert.ok(sources.has(expected), `missing source ${expected}`);
