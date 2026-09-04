@@ -10,9 +10,9 @@ Bible study app.
 | Path | What | Refresh |
 |---|---|---|
 | `data/bible_evidence.json` | Archaeological / manuscript / scientific / historical entries | Manual edits |
-| `data/daily_news.json` | Bilingual news across 8 desks (world / china / hongkong / australia / science / technology / creation / documentary) + Bible reflections | GitHub Actions, hourly |
+| `data/daily_news.json` | Bilingual news across 8 desks (world / china / hongkong / australia / science / technology / creation / documentary) + Bible reflections | GitHub Actions, every 4h |
 | `data/daily_verses.json` | 3,650 daily Bible verse references (10-year cycle) | Manual edits |
-| `data/news_verse_corpus.json` | 149 curated verses + tags the daily-news AI matches against | Manual edits |
+| `data/news_verse_corpus.json` | 159 curated verses + tags the daily-news AI matches against | Manual edits |
 | `data/songs.json` | 543 church songs from 3 sites — metadata + audio / video / sheet-music links | GitHub Actions, weekly |
 | `data/_manifest.json` | Index with sha256 checksums + sizes | Auto-regenerated on every push |
 | `schemas/*.schema.json` | JSON Schema definitions for each dataset | Hand-maintained |
@@ -102,9 +102,9 @@ GitHub Actions runs every 4 hours (`0 */4 * * *` — 10:00 / 14:00 /
 18:00 / 22:00 / 02:00 / 06:00 Sydney). Each run pulls RSS, hits the
 per-story deep-match cache for headlines already seen, and only commits
 if `data/daily_news.json` actually changed. So 6 cron fires/day plus one
-Netlify rebuild per commit. A full run takes ~37 min with the Gemini
-free-tier throttle (~7 s between deep-match calls × ~130 stories) plus
-the free Google Translate pass for body text.
+Netlify rebuild per commit. Runs took ~37 min while most stories were
+missing a cached match; observed 10-17 min through 2026-09-03, once the
+per-story cache was warm.
 
 It was hourly until 2026-08-25. A deep-match that 429s is persisted as
 `translationState=fallback` and retried by every later run, so at 24
@@ -128,7 +128,7 @@ What each run does:
      page's `<article>` (or `<main>`) container via a readability
      heuristic. Catches BBC / SBS / DW which don't ship full bodies
      in their RSS. Capped at ~2800 chars per story.
-4. **Deep-match (Gemini).** Loads `data/news_verse_corpus.json` (149
+4. **Deep-match (Gemini).** Loads `data/news_verse_corpus.json` (159
    curated verses across 24 topical categories) and asks
    `gemini-2.5-flash-lite` to:
    - reason about the story's underlying spiritual / human question,
@@ -172,11 +172,12 @@ Body translation still runs because it's quota-independent.
   refresh still runs but ships keyword-picked verses + free-translated
   body.
 
-  Adding a key is the highest-value lever on deep-match coverage: the
-  free tier's binding constraint is a per-key daily request cap, so
-  capacity scales linearly with the number of distinct keys. Measured
-  2026-08-25 on a single key, all models combined gave ~58 successful
-  calls for the day against ~132 stories.
+  Adding a key raises capacity linearly, since the free tier's binding
+  constraint is a per-key daily request cap. Worth knowing, but it turned
+  out **not** to be necessary: measured 2026-08-25 mid-debugging, one key
+  gave ~58 successful calls for the day against ~132 stories, yet by
+  2026-09-04 the same single key reached full coverage (111/111) once the
+  model chain and the 4-hourly cadence were in place. Fix those first.
 
   These were a `||` chain until 2026-08-25, where setting
   `GEMINI_API_KEYS` silently *disabled* `OPENAI_API_KEY` rather than
