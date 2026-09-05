@@ -2,7 +2,7 @@
  "_meta": {
   "version": 1,
   "description": "Curated verse corpus for the daily-news AI matcher. Each entry is tagged with topical applicability so a thinking-capable model (gemini-2.5-pro) can reason its way from a news story to the single verse that speaks most directly to its underlying spiritual / human question. Texts are public-domain or fair-use Christian-resource translations; YHWH is rendered as 'Yahweh' / '雅伟' / '雅偉' in line with the YsWords editorial preference applied at runtime.",
-  "totalVerses": 149,
+  "totalVerses": 159,
   "categories": [
    "war_and_peace",
    "justice_and_oppression",

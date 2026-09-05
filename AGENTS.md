@@ -135,8 +135,26 @@ keyword-fallback** — full coverage on every desk, on a single API key.
 On 2026-08-25 the same pipeline was at 72/132 with three desks near
 zero. Runs take 10–17 minutes.
 
-Known stale spots in `README.md`, both cosmetic: it says the corpus has
-149 verses (it has 159), and it calls adding a second API key "the
-highest-value lever on deep-match coverage" — written mid-debugging,
-before a single key turned out to be sufficient once the model chain and
-cadence were right.
+Re-measured 2026-09-05 against the then-live edition: **123 stories,
+123 deep-matched, zero fallback** — still full coverage, on the same
+single key. Per desk: world 18, china 10, australia 11, hongkong 18,
+science 26, technology 18, creation 12, documentary 10. Note the field
+that carries this is `translationState`, whose **`'localized'` value is
+the deep-matched one** (`refresh-news.mjs:2102`,
+`deep ? 'localized' : 'fallback'`) — the schema allows only those two.
+Counting `translationState === 'deep'` returns zero on a perfectly
+healthy edition, which is an easy way to misread full coverage as total
+failure.
+
+Both stale spots this file used to list in `README.md` are gone, checked
+line by line on 2026-09-05: the README now says 159 verses in both the
+dataset table and step 4, and the second-API-key passage now states
+outright that a key "turned out **not** to be necessary", citing the
+2026-08-25 ~58-call measurement against the 111/111 coverage reached on
+that same single key. Nothing in the repo still says "highest-value
+lever".
+
+The 149 did survive in one place the README fix could not reach:
+`data/news_verse_corpus.json`'s `_meta.totalVerses`. No code reads it and
+the schema only types it as a number, so it never failed validation — it
+was simply wrong. It now says 159, matching `len(verses)`.

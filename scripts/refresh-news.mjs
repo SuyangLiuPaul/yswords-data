@@ -350,6 +350,29 @@ const sourceCatalog = [
 		matchKeywords: ['documentary', 'docuseries'],
 	},
 	{
+		// Has never been observed contributing an item. Measured
+		// 2026-09-05: 0 of the documentary desk's 10 items on the only
+		// edition that has the desk, and absent from that desk's
+		// published `sourceNotes`. A direct fetch on the same day with
+		// this pipeline's own UA returned 28 healthy items (no 403, no
+		// challenge page) containing zero `docu*` word forms of any
+		// kind — so it is the keyword filter that never fires, not the
+		// feed that is broken.
+		//
+		// Kept anyway, deliberately. The denominator is ONE edition,
+		// not eighty: the 79 archived editions predate this desk. And a
+		// same-day probe is demonstrably noisy — IndieWire scored 0 on
+		// that same probe while supplying 4 of the 10 live items,
+		// because its 12-item feed had already churned past all four
+		// (each was published 1–8 days earlier and was gone from the
+		// feed by the time it was probed). One zero cannot condemn a
+		// feed whose stated job is periodic long-tail coverage; at a
+		// true match rate of 2%, P(zero across 28 items) is still ~57%.
+		// The feed costs one GET per run and no AI quota, since only
+		// items that reach a desk are ever deep-matched.
+		//
+		// To settle it, measure the base rate over ~30 days of Wayback
+		// snapshots rather than one day. Removal is the owner's call.
 		name: 'BBC Entertainment & Arts',
 		url: 'https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml',
 		section: 'documentary',
