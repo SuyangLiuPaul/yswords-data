@@ -1176,7 +1176,7 @@ def fetch_cdc_hymns(existing=None):
     missing = sorted(expected_ids - got_ids)
     carried = [existing[sid] for sid in missing if existing and sid in existing]
     if missing:
-        print(f'ERROR: cdc hymns: {len(missing)} of 15 page(s) did not '
+        print(f'  warn: cdc hymns: {len(missing)} of 15 page(s) did not '
               f'yield a fresh row this run (no mp3 found, or the fetch '
               f'itself failed) — treating as a failed fetch for those, '
               f'not an upstream deletion. Carrying forward {len(carried)} '
