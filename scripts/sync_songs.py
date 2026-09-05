@@ -56,6 +56,7 @@ import os
 import re
 import string
 import sys
+import threading
 import time
 import urllib.parse
 import urllib.request
@@ -404,6 +405,104 @@ def http_get(url, timeout=30, attempts=2):
                 print(f'  warn: GET {url} failed: {e}', file=sys.stderr)
                 return ''
             time.sleep(1.0)
+
+
+# ── Being a good neighbour to christiandiscipleschurch.org ────────
+#
+# 2026-09-05, measured, not guessed. `fetch_cdc` reads 283 song pages
+# through a 4-worker thread pool with no pacing at all. On a
+# GitHub-hosted runner (Azure eastus2) the round trip to CDC is ~50 ms,
+# so four workers issue on the order of tens of requests a second, and
+# the whole catalogue lands in about half a minute. The server's answer
+# to that is not a 429 and not a timeout — it keeps returning HTTP 200
+# with a full-length page that simply has no media links in it.
+#
+# The forensics that pin it (see the report in the queue): the songs.json
+# a runner committed on 2026-08-29 was diffed against one produced on a
+# residential connection the next day. The rows that had audio locally
+# but not on the runner were index positions 265–282 of the 283-song
+# index order — a perfectly CONTIGUOUS TAIL — plus all 15 classic-piano
+# hymns, which are fetched after those 283. Nothing at the head of the
+# run was affected. Later runs show the same shape with the cut-off
+# drifting (244, 245, 246, 248 of 283), which is what a token bucket
+# looks like, not what a deleted file looks like.
+#
+# From a residential link at roughly one request a second, two
+# consecutive full passes — 568 requests in about ten minutes — showed
+# no degradation at all, and every one of the 283 pages carried its
+# mp3. So the budget is a rate, and we were over it.
+#
+# Hence: a single global gate in front of every CDC request. Request
+# STARTS are spaced by at least CDC_MIN_INTERVAL seconds no matter how
+# many workers are in flight. 283 pages then take ~5 minutes instead of
+# ~30 seconds, against a 30-minute job timeout — and the repo's own
+# AGENTS.md already says this sync is deliberately daily rather than
+# hourly so as not to be a heavier neighbour than the data warrants.
+# Firing 80 requests a second at a small church's Drupal box was never
+# consistent with that.
+#
+# Override with $CDC_MIN_INTERVAL (seconds, 0 disables) — the tests set
+# it to 0 so they do not sleep.
+#
+# HOW TO TELL WHETHER THIS ACTUALLY WORKED, and what to do if it did
+# not. Verified 2026-09-05 only from a residential connection: a full
+# paced dry run read 283/283 song pages and 15/15 hymn pages with no
+# degradation. That is not proof about the runner, because the runner's
+# egress is the one variable that could not be reproduced from here.
+# The test is the workflow log:
+#
+#   working  -> `cdc: 28x/283 have audio` and `cdc hymns: 15 fresh`
+#   still bad -> `cdc: 24x/283` and `DEGRADED cdc`
+#
+# If the first two paced runs are still degraded, the rate hypothesis
+# is falsified and raising this number further is not the answer —
+# stop tuning it. The pre-agreed fallback is to take cdc out of CI
+# scraping entirely: it becomes carry-forward-only here (still
+# DEGRADED, still red every run) and is refreshed from a residential
+# machine instead, which is already how the 2026-08-30 hymn rows got
+# into the published file.
+CDC_MIN_INTERVAL = float(os.environ.get('CDC_MIN_INTERVAL', '1.0'))
+
+# When a CDC page comes back non-empty but with no media link at all,
+# that is the throttle's signature rather than a song with no files.
+# Wait this long and ask once more: if the bucket is refilling, the
+# retry succeeds and the log says so, which is also how we find out
+# whether CDC_MIN_INTERVAL is set high enough.
+CDC_STRIPPED_BACKOFF = float(os.environ.get('CDC_STRIPPED_BACKOFF', '5.0'))
+
+_cdc_gate = threading.Lock()
+_cdc_last_start = [0.0]
+
+# Sources whose fetch was observably incomplete THIS run, keyed by
+# source id → list of one-line reasons.
+#
+# Why it is a fetch-side observation and not a diff of the merged
+# output: the merge carries stored values forward, so by the time the
+# catalogue is assembled a source that answered with nothing looks
+# identical to a source that answered with exactly what it had last
+# time. The only place the difference is visible is at the point of
+# fetching, so that is where it gets recorded. main() turns a non-empty
+# registry into a red run and a `_meta.sourceHealth` entry — it never
+# lets it pass quietly, which is the whole point.
+SOURCE_HEALTH = {}
+
+
+def note_degraded(source, reason):
+    """Record that `source` did not answer fully this run."""
+    SOURCE_HEALTH.setdefault(source, []).append(reason)
+    print(f'DEGRADED {source}: {reason}', file=sys.stderr)
+
+
+def cdc_get(url, timeout=30):
+    """`http_get`, paced so we never exceed one request per
+    CDC_MIN_INTERVAL seconds across every thread in the process."""
+    if CDC_MIN_INTERVAL > 0:
+        with _cdc_gate:
+            wait = _cdc_last_start[0] + CDC_MIN_INTERVAL - time.monotonic()
+            if wait > 0:
+                time.sleep(wait)
+            _cdc_last_start[0] = time.monotonic()
+    return http_get(url, timeout=timeout)
 
 
 def http_json(url, timeout=40):
@@ -1005,7 +1104,7 @@ def fetch_cdc():
     rows = []
     seen = set()
     for page in range(0, 10):
-        page_html = http_get(f'{CDC_INDEX}?page={page}')
+        page_html = cdc_get(f'{CDC_INDEX}?page={page}')
         if not page_html:
             continue
         before = len(seen)
@@ -1023,10 +1122,30 @@ def fetch_cdc():
 
     print(f'  cdc: {len(rows)} songs, reading each page for media…')
 
+    stripped = []
+    recovered = []
+
     def build(row):
         title, code, path = row
         url = f'{CDC_ROOT}{path}'
-        media = parse_cdc_media(http_get(url), code)
+        page = cdc_get(url)
+        media = parse_cdc_media(page, code)
+        # A full-length page that yields no media at all is the
+        # throttle signature described at [cdc_get], not a song CDC
+        # published without files: every one of the 283 pages carries
+        # both an absolute and a root-relative mp3 link when the server
+        # is answering properly. Back off once and ask again — if the
+        # bucket is refilling this recovers, and either way the counts
+        # printed below say which it was.
+        if page and not media['tracks'] and not media['score']:
+            if CDC_STRIPPED_BACKOFF > 0:
+                time.sleep(CDC_STRIPPED_BACKOFF)
+            page = cdc_get(url)
+            media = parse_cdc_media(page, code)
+            if media['tracks'] or media['score']:
+                recovered.append(code)
+            else:
+                stripped.append(code)
         language = detect_language(title, default='en')
         return make_entry(
             'cdc', code.lower(), title, url,
@@ -1048,6 +1167,19 @@ def fetch_cdc():
     extra = sum(len(e['audioTracks'] or []) for e in entries)
     print(f'  cdc: {with_audio}/{len(entries)} have audio, '
           f'{extra} tracks total')
+    if recovered:
+        print(f'  cdc: {len(recovered)} page(s) answered with no media and '
+              f'then served it on a {CDC_STRIPPED_BACKOFF:g}s retry — we '
+              f'are at or near the server\'s rate budget. Raise '
+              f'$CDC_MIN_INTERVAL (currently {CDC_MIN_INTERVAL:g}s).',
+              file=sys.stderr)
+    if stripped:
+        note_degraded(
+            'cdc',
+            f'{len(stripped)} of {len(entries)} song page(s) returned a '
+            f'full 200 with no mp3 and no pdf, twice, {CDC_STRIPPED_BACKOFF:g}s '
+            f'apart: {", ".join(sorted(stripped)[:12])}'
+            + ('…' if len(stripped) > 12 else ''))
     if UNKNOWN_CDC_SUFFIXES:
         # Not a failure — the file IS captured, as a vocal take. But a
         # new suffix means CDC has a convention we do not model yet, so
@@ -1063,10 +1195,40 @@ CDC_HYMNS_INDEX = f'{CDC_ROOT}/content/classic-piano-hymns'
 # `[a-z]\d{4}` every other CDC song uses, which is exactly why they
 # were invisible to this sync for so long.
 CDC_HYMN_SLUG = 'h{:02d}'
+# 2026-09-05: these two used to insist on an ABSOLUTE `https://…` URL,
+# which made them strictly narrower than `parse_cdc_media`'s `_MP3_RE`
+# /`_PDF_RE` + `urljoin` on the very same site. Each hymn page prints
+# its mp3 three times — absolute inside the jPlayer playlist markup,
+# JSON-escaped (`https:\/\/…`) inside the Drupal.settings blob, and
+# ROOT-RELATIVE (`/sites/default/files/hymns/mp3/…`) in the download
+# field — and only the first of those matched. Two extractors reading
+# one site should not disagree about what a link looks like, so these
+# now anchor on the path and let `cdc_hymn_media` resolve the rest.
+#
+# This is hygiene, not the fix for the 2026-08-30 outage: the pages the
+# runner was served had no media link in ANY form, which is why the
+# tolerant song extractor lost its tail too. See [cdc_get].
 CDC_HYMN_MP3_RE = re.compile(
-    r'https?://[^\s"\')]+/files/hymns/mp3/[^\s"\')]+\.mp3', re.I)
+    r'["\'(]([^"\'()\s]*?/files\\?/hymns\\?/mp3\\?/[^"\'()\s]+?\.mp3)["\')]',
+    re.I)
 CDC_HYMN_PDF_RE = re.compile(
-    r'https?://[^\s"\')]+/files/hymns/pdf/[^\s"\')]+\.pdf', re.I)
+    r'["\'(]([^"\'()\s]*?/files\\?/hymns\\?/pdf\\?/[^"\'()\s]+?\.pdf)["\')]',
+    re.I)
+
+
+def cdc_hymn_media(page_html, pattern):
+    """First hymn media URL on the page, absolutised.
+
+    Accepts the absolute, the root-relative and the JSON-escaped forms
+    — `parse_cdc_media` has always unescaped `\\/` and urljoined, and
+    there is no reason for the hymn pages to be read more strictly than
+    the song pages next to them.
+    """
+    m = pattern.search(page_html or '')
+    if not m:
+        return None
+    return normalise_url(
+        urllib.parse.urljoin(CDC_ROOT, m.group(1).replace('\\/', '/')))
 
 
 def fetch_cdc_hymns(existing=None):
@@ -1099,19 +1261,24 @@ def fetch_cdc_hymns(existing=None):
     for n in range(1, 16):
         slug = CDC_HYMN_SLUG.format(n)
         link = f'{CDC_ROOT}/content/{slug}'
-        html = http_get(link)
+        html = cdc_get(link)
+        audio = cdc_hymn_media(html, CDC_HYMN_MP3_RE)
+        if html and not audio and CDC_STRIPPED_BACKOFF > 0:
+            # Same back-off-and-ask-again as the song pages: a hymn page
+            # with a 200 and no mp3 is the rate budget, not a deletion.
+            time.sleep(CDC_STRIPPED_BACKOFF)
+            html = cdc_get(link)
+            audio = cdc_hymn_media(html, CDC_HYMN_MP3_RE)
         if not html:
             continue
         pages_read += 1
-        mp3 = CDC_HYMN_MP3_RE.search(html)
-        if not mp3:
+        if not audio:
             # No audio means nothing to add: these exist to be heard,
             # and a lyric PDF on its own is already in the score-only
             # rows the D/E catalogue provides.
             print(f'  cdc hymns: {slug} has no mp3', file=sys.stderr)
             continue
-        pdf = CDC_HYMN_PDF_RE.search(html)
-        audio = normalise_url(mp3.group(0))
+        pdf = cdc_hymn_media(html, CDC_HYMN_PDF_RE)
         stem = urllib.parse.unquote(audio.rsplit('/', 1)[-1])
         title = clean_title(re.sub(r'\.mp3$', '', stem, flags=re.I)
                             .replace('_', ' '))
@@ -1128,7 +1295,7 @@ def fetch_cdc_hymns(existing=None):
             # an instrumental-only row is skipped under the default
             # preference.
             audioTracks=build_tracks([(audio, 'vocal', 'en')]),
-            scoreUrl=normalise_url(pdf.group(0)) if pdf else None,
+            scoreUrl=pdf,
             album='Classic Piano Hymns',
             themes=infer_themes(title),
             verse=infer_verse(title),
@@ -1176,13 +1343,15 @@ def fetch_cdc_hymns(existing=None):
     missing = sorted(expected_ids - got_ids)
     carried = [existing[sid] for sid in missing if existing and sid in existing]
     if missing:
-        print(f'  warn: cdc hymns: {len(missing)} of 15 page(s) did not '
-              f'yield a fresh row this run (no mp3 found, or the fetch '
-              f'itself failed) — treating as a failed fetch for those, '
-              f'not an upstream deletion. Carrying forward {len(carried)} '
-              f'previously-stored row(s) unchanged so the rest of the '
-              f'sync is not blocked; {len(missing) - len(carried)} have no '
-              f'stored fallback either and stay absent.', file=sys.stderr)
+        note_degraded(
+            'cdc',
+            f'{len(missing)} of 15 classic-piano-hymn page(s) did not yield '
+            f'a fresh row this run (no mp3 found, or the fetch itself '
+            f'failed) — treated as a failed fetch for those, not an '
+            f'upstream deletion. Carrying forward {len(carried)} '
+            f'previously-stored row(s) unchanged so the rest of the sync is '
+            f'not blocked; {len(missing) - len(carried)} have no stored '
+            f'fallback either and stay absent.')
     all_entries = entries + carried
     if pages_read and not all_entries:
         # Genuinely nothing to ship and nothing stored to protect —
@@ -1870,6 +2039,10 @@ def main():
                     help='write even if a row lost its only audio/video/'
                          'score or vanished outright (see the per-row '
                          'regression guard below)')
+    ap.add_argument('--no-carry-forward', action='store_true',
+                    help='refuse to write at all when a source answers '
+                         'incompletely, instead of publishing the other '
+                         'sources and carrying the degraded one forward')
     ap.add_argument('--out', metavar='PATH',
                     help='where to write the catalogue (default: '
                          f'{_default_out()})')
@@ -1972,14 +2145,21 @@ def main():
             if was >= 20 and now < was * 0.9:
                 thinned.append(f'{source}: {was} → {now} with audio')
         if thinned:
-            print('ERROR: a source lost a tenth of its AUDIO while keeping '
-                  'its songs — that is what a refused fetch looks like, not '
-                  'an upstream deletion. Refusing to write.\n'
-                  '       ' + '; '.join(thinned) +
-                  '\n       Re-run when the server is answering; if the '
-                  'loss is real, delete the stored catalogue to accept it.',
-                  file=sys.stderr)
-            return 1
+            for t in thinned:
+                note_degraded(t.split(':', 1)[0].strip(),
+                              f'lost a tenth of its audio this run '
+                              f'({t.strip()}) — that is what a refused fetch '
+                              f'looks like, not an upstream deletion')
+            if args.no_carry_forward:
+                print('ERROR: a source lost a tenth of its AUDIO while '
+                      'keeping its songs — that is what a refused fetch '
+                      'looks like, not an upstream deletion. Refusing to '
+                      'write.\n'
+                      '       ' + '; '.join(thinned) +
+                      '\n       Re-run when the server is answering; if the '
+                      'loss is real, delete the stored catalogue to accept '
+                      'it.', file=sys.stderr)
+                return 1
 
     merged = {}
     for entry in fresh:
@@ -2004,10 +2184,40 @@ def main():
     # mirrors `pull_songs_snapshot.py`'s `check_regression` downstream
     # in the yswords repo, which enforces the same contract on the
     # published snapshot as a second line of defence.
+    # 2026-09-05: this used to `return 1` here, publishing nothing at
+    # all. That is what held setapak and ydh — two brand-new sources
+    # with no published rows yet — out of the app for six days while
+    # ONE upstream (cdc) was being rate-limited. A snapshot in which
+    # the degraded source keeps the rows it had last time and the other
+    # five publish normally is not a "suspect snapshot": every row in
+    # it was either fetched successfully this run or is the last thing
+    # that source is known to have said. So the loss is repaired by
+    # carry-forward, the source is recorded as degraded in the log and
+    # in `_meta.sourceHealth`, and main() still exits NON-ZERO so the
+    # run is red. `--no-carry-forward` restores the old refuse-to-write
+    # behaviour for anyone who wants it.
     if existing and not args.allow_regression:
         lost_media = sorted(
             sid for sid, row in existing.items()
             if sid in merged and has_media(row) and not has_media(merged[sid]))
+        if not args.no_carry_forward and (lost_media or dropped):
+            for sid in lost_media:
+                merged[sid] = dict(existing[sid])
+            for sid in dropped:
+                merged[sid] = dict(existing[sid])
+            carried_by_source = {}
+            for sid in lost_media + dropped:
+                carried_by_source.setdefault(
+                    existing[sid]['source'], []).append(sid)
+            for source, sids in sorted(carried_by_source.items()):
+                note_degraded(
+                    source,
+                    f'{len(sids)} row(s) came back missing or without the '
+                    f'media they had last run; the stored rows were carried '
+                    f'forward unchanged: ' + ', '.join(sorted(sids)[:12])
+                    + ('…' if len(sids) > 12 else ''))
+            dropped = []
+            lost_media = []
         problems = []
         if lost_media:
             problems.append(
@@ -2059,6 +2269,15 @@ def main():
         },
         'songs': songs,
     }
+    # Only present when something went wrong, so its mere presence in
+    # the published file is the signal — `jq '._meta.sourceHealth'`
+    # against https://yswords-data.netlify.app/data/songs.json answers
+    # "is this snapshot whole?" without reading a workflow log.
+    if SOURCE_HEALTH:
+        doc['_meta']['sourceHealth'] = {
+            source: {'status': 'degraded', 'reasons': reasons}
+            for source, reasons in sorted(SOURCE_HEALTH.items())
+        }
 
     print(f'\n  total     {len(songs)}')
     print(f'  by source {by_source}')
@@ -2070,9 +2289,31 @@ def main():
     if dropped:
         print(f'  - {len(dropped)} no longer upstream: {dropped[:8]}')
 
+    # A degraded run publishes, and is still RED.
+    #
+    # Exit 2 rather than 1 so the workflow can tell the two apart: 1
+    # means nothing was written and there is nothing to commit; 2 means
+    # a good-enough catalogue IS on disk and should be committed and
+    # deployed, while the job itself finishes red. The one thing this
+    # must never do is exit 0 — a green run is this pipeline's promise
+    # that what it published is what the churches are serving, and for
+    # a week in August/September 2026 that promise was false while
+    # every run reported success.
+    degraded_rc = 2 if SOURCE_HEALTH else 0
+    if SOURCE_HEALTH:
+        print('\nERROR: this run is DEGRADED — ' +
+              '; '.join(f'{s} ({len(r)} finding(s))'
+                        for s, r in sorted(SOURCE_HEALTH.items())) +
+              '. The catalogue below is safe to publish (the degraded '
+              'source keeps the rows it had last run) but the run is not '
+              'a success and must not be reported as one.',
+              file=sys.stderr)
+
     if args.dry_run:
         print('\n(dry run — nothing written)')
-        return verify_links(songs) and 1 or 0 if args.verify else 0
+        if args.verify:
+            return 1 if verify_links(songs) else degraded_rc
+        return degraded_rc
 
     os.makedirs(os.path.dirname(SONGS_JSON), exist_ok=True)
     with open(SONGS_JSON, 'w', encoding='utf-8') as f:
@@ -2082,8 +2323,8 @@ def main():
     print(f'\n✓ wrote {SONGS_JSON} ({size:,} bytes)')
 
     if args.verify:
-        return 1 if verify_links(songs) else 0
-    return 0
+        return 1 if verify_links(songs) else degraded_rc
+    return degraded_rc
 
 
 if __name__ == '__main__':

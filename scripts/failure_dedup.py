@@ -1,5 +1,32 @@
 #!/usr/bin/env python3
-"""Decide whether a Refresh-songs failure is news or a repeat.
+"""Record a Refresh-songs failure and say whether it is news or a repeat.
+
+2026-09-05 — READ THIS FIRST. This script used to decide the JOB's exit
+code, and that was the wrong thing to give it. Between 2026-08-30 and
+2026-09-04, "Refresh songs" reported SUCCESS on six consecutive days
+while publishing nothing and committing a failure state on each of
+them; the only place the breakage surfaced was in the *other* repo,
+whose "Sync songs" job went red because the snapshot it pulls had gone
+stale. A workflow that is green while its output is a week old teaches
+the reader that green means nothing.
+
+So the workflow no longer runs `exit $?` on this. It calls the script
+to keep the streak state and classify the failure, then a separate
+final step fails the job whenever the sync did not succeed. What this
+script still owns:
+
+  * the reason identity (counts stripped, so a wobble in how many pages
+    answered is not "a new failure"),
+  * the streak in .github/refresh-songs-state.json, which is what tells
+    you at a glance how long this has been going on,
+  * the annotation and job-summary line that put the reason on the run
+    page instead of 300 lines down in a log.
+
+`main()` still RETURNS 1 for "this is news" and 0 for "this is a
+repeat" — that classification is real and worth keeping — but nothing
+now converts a failure into a success on the strength of it.
+
+Historical note on why the suppression existed at all:
 
 2026-08-23, from the yswords queue: the workflow has failed every day
 since 08-12 with the identical guard message (cdc withholding audio on
@@ -26,6 +53,7 @@ a stale state cannot bridge across an intervening good run.
 
 import datetime as dt
 import json
+import os
 import pathlib
 import re
 import subprocess
@@ -53,6 +81,25 @@ def reason_from(stderr_text: str) -> str:
         return ''
     detail = re.sub(r'\d+', 'N', detail)
     return f'{kind} | {detail}'
+
+
+def announce(headline: str, detail: str):
+    """Put the failure where a human looks first: the run page.
+
+    A GitHub annotation shows on the Actions run itself, and the job
+    summary is the panel under it. Both beat "line 327 of the log",
+    which is where this reason has been living.
+    """
+    one_line = ' '.join(detail.split())[:800]
+    print(f'::error title=Refresh songs::{headline} — {one_line}')
+    summary = os.environ.get('GITHUB_STEP_SUMMARY')
+    if not summary:
+        return
+    try:
+        with open(summary, 'a', encoding='utf-8') as f:
+            f.write(f'\n### {headline}\n\n```\n{detail.strip()}\n```\n')
+    except OSError:
+        pass
 
 
 def git(*args):
@@ -84,7 +131,9 @@ def main() -> int:
     today = dt.date.today().isoformat()
 
     if not reason:
-        print('failure is not a guard refusal — always news; failing loudly')
+        announce('sync failed (not a guard refusal)',
+                 stderr_text or 'no stderr captured')
+        print('failure is not a guard refusal — always news')
         return 1
 
     prev = {}
@@ -97,7 +146,8 @@ def main() -> int:
     if prev.get('reason') != reason:
         commit_state({'reason': reason, 'first_seen': today,
                       'last_seen': today})
-        print(f'NEW failure reason — failing loudly:\n  {reason}')
+        announce('NEW failure reason (day 1)', reason)
+        print(f'NEW failure reason:\n  {reason}')
         return 1
 
     first = dt.date.fromisoformat(prev.get('first_seen', today))
@@ -105,16 +155,17 @@ def main() -> int:
     commit_state({'reason': reason, 'first_seen': first.isoformat(),
                   'last_seen': today})
     if days >= PAST_DUE_DAYS:
-        print(f'same reason for {days} days — past due, failing loudly '
-              f'so it reads as news again:\n  {reason}')
+        announce(f'same failure for {days} days', reason)
+        print(f'same reason for {days} days — past due:\n  {reason}')
         # Reset the clock so the NEXT reminder is another week out,
         # not tomorrow.
         commit_state({'reason': reason, 'first_seen': today,
                       'last_seen': today})
         return 1
 
-    print(f'repeat of a known failure (day {days + 1}, reminder at day '
-          f'{PAST_DUE_DAYS}) — suppressing the email:\n  {reason}')
+    announce(f'same failure for {days + 1} day(s) running', reason)
+    print(f'repeat of a known failure (day {days + 1}) — not new news, but '
+          f'the job still fails; see the final step:\n  {reason}')
     return 0
 
 

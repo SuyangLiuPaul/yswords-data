@@ -71,6 +71,16 @@ jobs:
 
       # No third-party Python packages — the script is stdlib only, so
       # there is nothing to pip install.
+
+      # The sync's own tests, offline and ~0.2 s. They exist because
+      # every guard in sync_songs.py was written after an incident and
+      # none of them had a test until 2026-09-05; four guards elsewhere
+      # in these repos turned out that day to be impossible to make
+      # fail. Runs BEFORE the sync so a broken script is caught without
+      # touching a church server.
+      - name: Sync-script tests
+        run: python3 -m unittest discover -s tests -p 'test_*.py'
+
       # `--verify` HEAD-checks all ~1400 media URLs. It is by far the
       # heaviest thing we do to the church servers — and the run that
       # took 2h12m was entirely verification — so it stays weekly even
@@ -79,9 +89,25 @@ jobs:
       #
       # A manual run always verifies: that is exactly when someone is
       # looking for rot.
-      # stderr is teed to a file for the dedup step below; the guard
-      # prints its refusal there. `set +e` so a guard failure reaches
-      # that step instead of killing the job on the spot.
+      # stderr is teed to a file for the record-failure step below; the
+      # guards print their refusals there. `set +e` so a guard failure
+      # reaches that step instead of killing the job on the spot.
+      #
+      # Three outcomes, not two (2026-09-05):
+      #   rc=0  clean run          → publish, job green
+      #   rc=2  DEGRADED run       → publish, job RED
+      #   rc=1  refused to write   → publish nothing, job RED
+      # rc=2 exists because one upstream having a bad day used to
+      # withhold all six sources — including two that had never been
+      # published even once. A snapshot where the degraded source keeps
+      # the rows it had last run is safe to ship; a run that produced
+      # it is still not a success.
+      #
+      # Deliberately NOT setting $CDC_MIN_INTERVAL here. The pacing
+      # that keeps christiandiscipleschurch.org answering lives in the
+      # script, where it can be tested; a workflow `env:` that silently
+      # overrides a script default is the trap AGENTS.md records for
+      # OPENAI_MODEL, and this is the same shape of mistake.
       - name: Sync songs catalogue
         id: sync
         run: |
@@ -99,18 +125,27 @@ jobs:
         env:
           EVENT: ${{ github.event_name }}
 
-      # 2026-08-23: the guard had failed identically every day since
-      # 08-12 — six identical failure emails, teaching the reader to
-      # ignore the seventh. The guard is CORRECT and unchanged; this
-      # step only decides whether its refusal is news. Same reason as
-      # yesterday → suppress the email; new reason, non-guard error, or
-      # the same reason a week old → fail loudly. State is committed to
-      # .github/refresh-songs-state.json and cleared on any success.
-      - name: Suppress repeat failure emails
+      # 2026-08-23 this step decided whether the JOB failed: a repeat of
+      # yesterday's guard refusal exited 0 and the run went green.
+      #
+      # 2026-09-05 that is removed. Between 2026-08-30 and 2026-09-04
+      # "Refresh songs" reported success on six consecutive days while
+      # committing a failure state and publishing nothing, and the app
+      # repo's own "Sync songs" went red instead — the wrong repo
+      # showing the failure of this one. Suppressing an EMAIL is a
+      # defensible call; reporting a run as successful when it did not
+      # do its job is not, because the run status is the only signal
+      # anyone else reads.
+      #
+      # The script still runs, and still does the useful half: it
+      # classifies the failure as news or a repeat, keeps the streak in
+      # .github/refresh-songs-state.json, and now writes both an
+      # annotation and a job-summary line. It just no longer gets a
+      # vote on the exit code.
+      - name: Record failure reason
         if: steps.sync.outputs.rc != '0'
         run: |
-          python3 scripts/failure_dedup.py /tmp/sync.err
-          exit $?
+          python3 scripts/failure_dedup.py /tmp/sync.err || true
 
       # A good run means the previous failure streak is over; clear the
       # state so the NEXT failure alerts immediately as fresh news.
@@ -124,16 +159,18 @@ jobs:
           git commit -m "chore: refresh-songs recovered — clear failure state"
           git push || { git pull --rebase origin main && git push; }
 
+      # rc 0 (clean) and rc 2 (degraded but publishable) both
+      # produced a catalogue on disk; rc 1 did not.
       - name: Validate against schema
-        if: steps.sync.outputs.rc == '0'
+        if: steps.sync.outputs.rc == '0' || steps.sync.outputs.rc == '2'
         run: npm run validate
 
       - name: Regenerate manifest
-        if: steps.sync.outputs.rc == '0'
+        if: steps.sync.outputs.rc == '0' || steps.sync.outputs.rc == '2'
         run: npm run manifest
 
       - name: Commit + push
-        if: steps.sync.outputs.rc == '0'
+        if: steps.sync.outputs.rc == '0' || steps.sync.outputs.rc == '2'
         id: commit
         env:
           GH_PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -202,3 +239,58 @@ jobs:
           fi
         env:
           NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+
+      # The run's status must say what the run actually did.
+      #
+      # This is deliberately the LAST step and `if: always()`: the
+      # publish steps above have already deployed whatever was safe to
+      # deploy, so failing here costs nothing but the truth. It is also
+      # the only step that can fail the job — every earlier step is
+      # either gated on the rc or swallows its own error — which means
+      # there is exactly one place to look for "why is this red".
+      - name: Report the run's real outcome
+        if: always()
+        run: |
+          rc="${{ steps.sync.outputs.rc }}"
+          {
+            echo "## Refresh songs"
+            echo
+            echo "sync exit code: \`${rc}\`"
+          } >> "$GITHUB_STEP_SUMMARY"
+          case "$rc" in
+            0)
+              echo "Clean run." | tee -a "$GITHUB_STEP_SUMMARY"
+              ;;
+            2)
+              echo "::error title=Songs sync degraded::A source did not answer fully. The catalogue WAS published with that source's previous rows carried forward; see _meta.sourceHealth in data/songs.json and the DEGRADED lines above."
+              {
+                echo
+                echo "**DEGRADED** — published, but at least one source did"
+                echo "not answer fully. Grep the log for \`DEGRADED\`, or read"
+                echo "\`_meta.sourceHealth\` in \`data/songs.json\`."
+              } >> "$GITHUB_STEP_SUMMARY"
+              exit 1
+              ;;
+            "")
+              # The sync step never ran — something earlier in the job
+              # failed (the script's own tests, npm ci, the checkout).
+              # Say that, rather than blaming the sync for a refusal it
+              # never made.
+              echo "::error title=Songs job failed before the sync::An earlier step failed; the catalogue was not even attempted."
+              {
+                echo
+                echo "**JOB FAILED BEFORE THE SYNC RAN** — see the first red"
+                echo "step above."
+              } >> "$GITHUB_STEP_SUMMARY"
+              exit 1
+              ;;
+            *)
+              echo "::error title=Songs sync refused to write::Nothing was published this run."
+              {
+                echo
+                echo "**REFUSED TO WRITE** — nothing was published. The"
+                echo "previous catalogue is still live and is now a day older."
+              } >> "$GITHUB_STEP_SUMMARY"
+              exit 1
+              ;;
+          esac
