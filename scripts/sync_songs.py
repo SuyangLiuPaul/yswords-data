@@ -1069,7 +1069,7 @@ CDC_HYMN_PDF_RE = re.compile(
     r'https?://[^\s"\')]+/files/hymns/pdf/[^\s"\')]+\.pdf', re.I)
 
 
-def fetch_cdc_hymns():
+def fetch_cdc_hymns(existing=None):
     """CDC's "Classic Piano Hymns" — 15 public-domain hymns.
 
     A separate collection from the 283-song D/E catalogue, and it was
@@ -1088,6 +1088,11 @@ def fetch_cdc_hymns():
     Titles come from the media filename — the pages are titled just
     "h01" — so `I_Sing_the_Mighty_Power_of_God.mp3` becomes
     "I Sing the Mighty Power of God".
+
+    `existing` (the `{id: row}` map `load_existing()` produces) is the
+    carry-forward source for the all-pages-answered-but-no-mp3 case
+    below — see there for why this single collection used to take the
+    other five sources down with it.
     """
     entries = []
     pages_read = 0
@@ -1128,22 +1133,68 @@ def fetch_cdc_hymns():
             themes=infer_themes(title),
             verse=infer_verse(title),
         ))
-    if pages_read and not entries:
-        # 2026-08-29: all 15 pages answered fast (0.73s total, zero
-        # `warn: GET … failed` lines) with 200s that carried no mp3
-        # link in any of them — a partial-content response, not CDC
-        # deleting its whole hymn collection overnight. Treated as a
-        # failed fetch rather than as "0 classic piano hymns", or the
-        # per-source guards below (which bucket hymns under the same
-        # 'cdc' source as the 283-song D/E catalogue) can miss it: the
-        # blended source count and audio ratio can both stay inside
-        # tolerance while these 15 rows are wiped out underneath them.
+    # 2026-08-29: all 15 pages once answered fast (0.73s total, zero
+    # `warn: GET … failed` lines) with 200s that carried no mp3 link in
+    # any of them — a partial-content response, not CDC deleting its
+    # whole hymn collection overnight. The per-source guards in main()
+    # (which bucket hymns under the same 'cdc' source as the 283-song
+    # D/E catalogue) can miss a loss this size entirely: the blended
+    # source count and audio ratio both stay inside tolerance while
+    # these 15 rows vanish underneath them.
+    #
+    # 2026-09-05: this used to `raise` the moment ALL 15 came back
+    # empty, and that raise aborted `main()`'s entire six-source fetch
+    # expression — cdc/fydt/cgdc/cahaya/setapak/ydh all withheld
+    # because one 15-song collection had a bad day. That ran six days
+    # straight (2026-08-30 onward) and, because setapak/ydh had just
+    # been ported but never had a single successful run to publish
+    # from, held two whole sources out of the shipped app indefinitely.
+    #
+    # Gating on "ALL 15 empty" was itself too narrow a trigger: a
+    # PARTIAL failure (a few pages fetch fine, the rest don't — plenty
+    # plausible for a block whose cause is still unconfirmed) or a
+    # total connection failure (`http_get` returns '' for every page,
+    # so `pages_read` never even reaches 1) both fell through this
+    # check untouched, straight into the per-row regression guard in
+    # main() (`dropped = set(existing) - set(merged)`), which aborts
+    # unconditionally on ANY missing id — reproducing the exact
+    # whole-sync abort this function exists to prevent, just from a
+    # different-shaped failure.
+    #
+    # So this reconciles per ID, not all-or-nothing: whichever of the
+    # 15 expected ids didn't get a fresh row this run — for any reason,
+    # no mp3 found, page fetch failed, or the whole server was down —
+    # gets its previously-stored row carried forward unchanged instead
+    # (merge() sees identical values and leaves updatedAt alone). The
+    # refusal to DELETE a row nobody could re-derive is still correct
+    # and unchanged; only the blast radius was wrong. An id missing
+    # from BOTH this run and the stored catalogue is not a regression —
+    # nothing existed before either — so it is simply left out, same as
+    # any ordinary "this one page has no mp3" case always has been.
+    expected_ids = {f'cdc:{CDC_HYMN_SLUG.format(n)}' for n in range(1, 16)}
+    got_ids = {e['id'] for e in entries}
+    missing = sorted(expected_ids - got_ids)
+    carried = [existing[sid] for sid in missing if existing and sid in existing]
+    if missing:
+        print(f'ERROR: cdc hymns: {len(missing)} of 15 page(s) did not '
+              f'yield a fresh row this run (no mp3 found, or the fetch '
+              f'itself failed) — treating as a failed fetch for those, '
+              f'not an upstream deletion. Carrying forward {len(carried)} '
+              f'previously-stored row(s) unchanged so the rest of the '
+              f'sync is not blocked; {len(missing) - len(carried)} have no '
+              f'stored fallback either and stay absent.', file=sys.stderr)
+    all_entries = entries + carried
+    if pages_read and not all_entries:
+        # Genuinely nothing to ship and nothing stored to protect —
+        # first run, or the rows were already lost. This is the only
+        # case left that still refuses to write.
         raise RuntimeError(
-            f'cdc hymns: {pages_read} page(s) answered but NONE contained '
-            f'an mp3 — treating as a failed fetch, not an upstream '
-            f'deletion of all 15 hymns')
-    print(f'  cdc hymns: {len(entries)} classic piano hymns')
-    return entries
+            f'cdc hymns: {pages_read} page(s) answered but NONE '
+            f'contained an mp3, and nothing stored to carry forward — '
+            f'refusing to write an empty hymn collection')
+    print(f'  cdc hymns: {len(entries)} fresh + {len(carried)} '
+          f'carried-forward = {len(all_entries)} classic piano hymns')
+    return all_entries
 
 
 # ── cgdc.hk ───────────────────────────────────────────────────────
@@ -1844,7 +1895,7 @@ def main():
         fresh = (fetch_fydt(taxonomy, wp_index)
                  + fetch_cahaya()
                  + fetch_cdc()
-                 + fetch_cdc_hymns()
+                 + fetch_cdc_hymns(existing)
                  + fetch_cgdc()
                  + fetch_setapak()
                  + fetch_ydh())
