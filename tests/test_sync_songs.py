@@ -469,5 +469,87 @@ class DegradedRunStillPublishes(unittest.TestCase):
             self.assertEqual(f.read(), before)
 
 
+class RateLimitIsNotRot(unittest.TestCase):
+    """2026-09-06: the run checked 1,400 URLs clean, then fuyindiantai.org
+    started answering 429 and kept it up for the remaining 631. The
+    checker booked all 60 as dead links and refused to publish. Nothing
+    was wrong with the catalogue — the server had said "too fast", which
+    is what a timeout says by silence and the checker already forgave."""
+
+    @staticmethod
+    def songs(n):
+        return [{'id': f's{i}', 'title': f'Song {i}',
+                 'audioUrl': f'https://example.invalid/{i}.mp3'}
+                for i in range(n)]
+
+    def run_verify(self, status_for, n=6, delay=0, **kw):
+        """verify_links over n URLs, with each answered by status_for."""
+        asked = []
+
+        class Resp:
+            def __init__(self, status):
+                self.status = status
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *exc):
+                return False
+
+        def fake_urlopen(req, timeout=None):
+            url = req.full_url
+            asked.append(url)
+            code = status_for(url)
+            if code == 200:
+                return Resp(200)
+            raise ss.urllib.error.HTTPError(url, code, 'no', None, None)
+
+        with mock.patch.object(ss.urllib.request, 'urlopen', fake_urlopen):
+            rc, err = quiet(ss.verify_links, self.songs(n),
+                            workers=1, delay=delay, timeout=1, **kw)
+        return rc, err, asked
+
+    def test_a_wall_of_429s_is_not_a_wall_of_dead_links(self):
+        rc, err, asked = self.run_verify(lambda u: 429)
+        self.assertEqual(rc, 0, f'429s were counted as dead links: {err}')
+        self.assertIn('rate limited', err)
+
+    def test_a_real_404_still_fails_the_run(self):
+        # The discrimination that matters: forgiving 429 must not
+        # forgive a file the church actually deleted.
+        def status(url):
+            return 404 if url.endswith('/3.mp3') else 429
+
+        rc, err, _ = self.run_verify(status)
+        self.assertEqual(rc, 1, f'the 404 was swallowed too: {err}')
+        # The reason has to be on stderr: that is the only stream the
+        # workflow tees into /tmp/sync.err, which failure_dedup.py reads
+        # to name the failure. It used to name whatever progress line
+        # happened to be first in stderr instead.
+        self.assertIn('1 URL(s) returned an HTTP error', err)
+
+    def test_the_run_stops_once_the_server_starts_refusing(self):
+        # Before this, only a timeout advanced the abort counter, so a
+        # 429 wall ran to the end of the catalogue collecting noise.
+        #
+        # The `delay` is load-bearing, not decoration. `pool.map`
+        # submits every future up front; breaking out of the result
+        # loop only helps because dropping the map generator cancels
+        # the ones that have not started yet. With an instant stub and
+        # delay=0 the worker drains all 60 before the main thread has
+        # read its fifth result, and the request count says 60 — which
+        # is a fact about the stub, not about the guard.
+        rc, err, asked = self.run_verify(lambda u: 429, n=60, delay=0.01,
+                                         abort_after_refusals=5)
+        self.assertEqual(rc, 0)
+        self.assertIn('aborted after 5 consecutive refusals', err)
+        self.assertLess(len(asked), 30, 'kept asking a server saying no')
+
+    def test_a_clean_catalogue_is_still_clean(self):
+        rc, err, asked = self.run_verify(lambda u: 200)
+        self.assertEqual(rc, 0)
+        self.assertEqual(len(asked), 6)
+
+
 if __name__ == '__main__':
     unittest.main()

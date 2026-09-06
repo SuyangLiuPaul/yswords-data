@@ -1959,8 +1959,21 @@ def merge(existing, new):
     return normalise(merged)
 
 
+# HTTP codes that mean "not now", not "not here". A 429 is the server
+# saying in words what a timeout says by silence — we asked too fast —
+# and the run that produced this constant proves the difference matters:
+# 2026-09-06 checked 1,400 URLs clean and then took 60 consecutive 429s
+# from fuyindiantai.org, which the checker booked as 60 dead links and
+# refused to publish over. Nothing was wrong with the catalogue.
+#
+# 503 is deliberately NOT here. It also means "not now", but a 503 that
+# never clears is a real outage the catalogue should go red for, and
+# there is no evidence of one to reason from. Add it when a run shows it.
+THROTTLED_STATUSES = frozenset({429})
+
+
 def verify_links(songs, workers=2, delay=0.25, timeout=10,
-                 abort_after_timeouts=25):
+                 abort_after_refusals=25):
     """HEAD every media URL in the catalogue and report the dead ones.
 
     This exists because the Songs feature was pulled in v1.3.126 with
@@ -2021,30 +2034,34 @@ def verify_links(songs, workers=2, delay=0.25, timeout=10,
           f'({workers} workers)…')
     dead = []
     checked = 0
-    consecutive_timeouts = 0
+    consecutive_refusals = 0
     aborted = False
     with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
         for i, (t, status, err) in enumerate(pool.map(check, targets), 1):
             checked = i
             if status != 200:
                 dead.append((t, status, err))
-            # A run of timeouts means we are being throttled, not that
+            # A run of refusals means we are being throttled, not that
             # the church deleted its music. Grinding through the rest
             # costs hours (a blocked run once took 2h12m at 25s a
             # request) and every result after this point is noise.
-            if status is None:
-                consecutive_timeouts += 1
-                if consecutive_timeouts >= abort_after_timeouts:
+            #
+            # This counted only timeouts until 2026-09-07, so a wall of
+            # 429s never tripped it: the 2026-09-06 run kept going for
+            # 631 more requests after the server had started saying no.
+            if status is None or status in THROTTLED_STATUSES:
+                consecutive_refusals += 1
+                if consecutive_refusals >= abort_after_refusals:
                     aborted = True
                     break
             else:
-                consecutive_timeouts = 0
+                consecutive_refusals = 0
             if i % 100 == 0:
                 print(f'  …{i}/{len(targets)} checked, {len(dead)} dead')
 
     if aborted:
-        print(f'  ! aborted after {consecutive_timeouts} consecutive '
-              f'timeouts at {checked}/{len(targets)} — the server is '
+        print(f'  ! aborted after {consecutive_refusals} consecutive '
+              f'refusals at {checked}/{len(targets)} — the server is '
               f'refusing us, not missing files. Not treated as a '
               f'failure.', file=sys.stderr)
         return 0
@@ -2057,15 +2074,31 @@ def verify_links(songs, workers=2, delay=0.25, timeout=10,
     # server". Only the first is the catalogue's problem; a wall of
     # timeouts means we are being throttled and the run is worthless.
     timeouts = [d for d in dead if d[1] is None]
-    http_errors = [d for d in dead if d[1] is not None]
+    throttled = [d for d in dead if d[1] in THROTTLED_STATUSES]
+    http_errors = [d for d in dead if d[1] is not None
+                   and d[1] not in THROTTLED_STATUSES]
     if timeouts:
         print(f'  ! {len(timeouts)} network timeout(s) — could not reach '
               f'the server. NOT counted as dead links: a timeout means '
               f'we were refused, not that the file is gone.',
               file=sys.stderr)
+    if throttled:
+        print(f'  ! {len(throttled)} URL(s) answered '
+              f'{sorted({d[1] for d in throttled})} — rate limited. NOT '
+              f'counted as dead links, for the same reason a timeout is '
+              f'not: the server refused to answer, it did not say the '
+              f'file is gone.', file=sys.stderr)
     if not http_errors:
         return 0
-    print(f'  ✗ {len(http_errors)} URL(s) returned an HTTP error:')
+    # On stderr, not stdout, because that is the only stream the
+    # workflow captures into /tmp/sync.err — and scripts/failure_dedup.py
+    # reads that file to say WHY the run failed. On 2026-09-06 the
+    # headline it produced was "fydt: recovered media from the page for
+    # …", an unrelated progress line that happened to be first in
+    # stderr, while the real reason (60 URLs) was on stdout where
+    # nothing was looking.
+    print(f'  ✗ {len(http_errors)} URL(s) returned an HTTP error:',
+          file=sys.stderr)
     dead = http_errors
     for (_id, title, field, url), status, err in dead[:40]:
         print(f'    {status or err}  {_id}  {field}  {title[:30]}')
