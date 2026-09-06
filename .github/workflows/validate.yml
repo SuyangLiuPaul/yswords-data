@@ -17,6 +17,14 @@ jobs:
           node-version: 22
           cache: npm
 
+      # Pinned to match refresh-songs.yml. The Python tests are about
+      # scripts/sync_songs.py, and running them against a different
+      # interpreter than the job that actually runs that script would
+      # make a green here mean less than it appears to.
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
       - run: npm ci
 
       - name: Validate datasets against schemas
@@ -33,3 +41,11 @@ jobs:
 
       - name: Run unit tests
         run: npm test
+
+      # `npm test` is `node --test tests/*.test.mjs` — it cannot see
+      # tests/test_sync_songs.py, so until 2026-09-07 the 29 tests
+      # guarding scripts/sync_songs.py ran ONLY inside refresh-songs.yml,
+      # once a day on a schedule. A push that broke the songs sync was
+      # green here and stayed green until the next morning's run.
+      - name: Run the Python tests too
+        run: python3 -m unittest discover -s tests -p 'test_*.py'
