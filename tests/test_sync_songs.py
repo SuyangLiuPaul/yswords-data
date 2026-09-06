@@ -277,13 +277,13 @@ class DegradedRunStillPublishes(unittest.TestCase):
         self.out = os.path.join(self.tmp.name, 'songs.json')
 
     @staticmethod
-    def row(source, slug, audio=MP3):
+    def row(source, slug, audio=MP3, video=None):
         return ss.make_entry(
             source, slug, f'{source} {slug}',
             f'https://example.invalid/{slug}', code=slug.upper(),
             language='en', audioUrl=audio,
             audioTracks=ss.build_tracks([(audio, 'vocal', 'en')])
-            if audio else [])
+            if audio else [], videoUrl=video)
 
     def write_stored(self, rows):
         with open(self.out, 'w', encoding='utf-8') as f:
@@ -347,6 +347,31 @@ class DegradedRunStillPublishes(unittest.TestCase):
         self.assertEqual(rc, 1, err)
         with open(self.out, encoding='utf-8') as f:
             self.assertEqual(f.read(), before)
+
+    def test_audio_only_thinning_is_caught_even_when_media_survives(self):
+        """`has_media()` counts video too, so a source that loses ALL its
+        audio while every row keeps a video link looks like zero
+        regression to the per-row lost-media/dropped guard: nothing
+        vanished, nothing lost its only media. Audio-thinning is the
+        only guard watching audio specifically, and this is the case it
+        exists for."""
+        video = 'https://example.invalid/watch'
+        stored = [self.row('fydt', f'f{n}') for n in range(30)]
+        stored += [self.row('cdc', f'd{n:02d}', video=video)
+                   for n in range(25)]
+        self.write_stored(stored)
+
+        fresh_cdc = [self.row('cdc', f'd{n:02d}', audio=None, video=video)
+                     for n in range(25)]
+        rc, err = self.run_main(
+            {'fetch_fydt': [self.row('fydt', f'f{n}') for n in range(30)],
+             'fetch_cahaya': [], 'fetch_cdc': fresh_cdc,
+             'fetch_cdc_hymns': [], 'fetch_cgdc': [],
+             'fetch_setapak': [], 'fetch_ydh': []},
+            ['--out', self.out, '--no-carry-forward'])
+
+        self.assertEqual(rc, 1, err)
+        self.assertIn('AUDIO', err)
 
     def test_a_clean_run_exits_0_and_writes_no_health_block(self):
         stored = [self.row('fydt', f'f{n}') for n in range(30)]
