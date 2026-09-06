@@ -493,16 +493,38 @@ def note_degraded(source, reason):
     print(f'DEGRADED {source}: {reason}', file=sys.stderr)
 
 
-def cdc_get(url, timeout=30):
-    """`http_get`, paced so we never exceed one request per
-    CDC_MIN_INTERVAL seconds across every thread in the process."""
+def _cdc_pace():
+    """Block until at least CDC_MIN_INTERVAL seconds have passed since
+    the last CDC request start, across every thread in the process."""
     if CDC_MIN_INTERVAL > 0:
         with _cdc_gate:
             wait = _cdc_last_start[0] + CDC_MIN_INTERVAL - time.monotonic()
             if wait > 0:
                 time.sleep(wait)
             _cdc_last_start[0] = time.monotonic()
+
+
+def cdc_get(url, timeout=30):
+    """`http_get`, paced so we never exceed one request per
+    CDC_MIN_INTERVAL seconds across every thread in the process."""
+    _cdc_pace()
     return http_get(url, timeout=timeout)
+
+
+def cdc_head_ok(url, timeout=15):
+    """True when a HEAD on `url` returns 200 — paced through the same
+    gate as every other request to this server, so verifying artwork
+    covers never opens a second, unthrottled pool of requests against
+    a small church box (see the note above on being firewalled for
+    checking too hard)."""
+    _cdc_pace()
+    req = urllib.request.Request(
+        url, method='HEAD', headers={'User-Agent': USER_AGENT})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.status == 200
+    except Exception:
+        return False
 
 
 def http_json(url, timeout=40):
@@ -971,6 +993,18 @@ _CDC_SUFFIXES = [
 _MP3_RE = re.compile(r'["\'(]([^"\'()\s\\]+\.mp3)["\')]', re.IGNORECASE)
 _PDF_RE = re.compile(r'["\'(]([^"\'()\s\\]+\.pdf)["\')]', re.IGNORECASE)
 
+# Every CDC song page carries a per-song 600×300 cover (a photograph
+# with the song's title set over it) at
+# `/sites/default/files/music/jpg/<CODE>.jpg`. It still needs
+# verifying before publishing, not trusting: of the 283 pages that
+# carry the <img>, 92 point at a file the church never uploaded, in
+# markup identical to the 191 that resolve — see `cdc_head_ok`'s call
+# site in `fetch_cdc`. (That 92/283 count is YsWords'
+# `tools/add_cdc_artwork.py` 2026-09-03 survey, commit `03dfdeb6` —
+# not re-measured here.)
+CDC_IMG_RE = re.compile(
+    r'<img[^>]+src="(/sites/default/files/music/jpg/[^"]+)"', re.IGNORECASE)
+
 
 #: Suffixes seen in the wild that were not in the original list —
 #: recorded so the sync can report them rather than silently guess.
@@ -1007,7 +1041,7 @@ def classify_cdc_track(filename, code):
 def parse_cdc_media(page_html, code):
     """Pull the real media links out of one CDC song page."""
     if not page_html:
-        return {'tracks': [], 'score': None}
+        return {'tracks': [], 'score': None, 'artwork': None}
 
     # Keyed on the normalised filename stem, NOT on (kind, lang):
     # since unrecognised suffixes all classify as plain vocal, keying
@@ -1033,6 +1067,11 @@ def parse_cdc_media(page_html, code):
             score = urllib.parse.urljoin(CDC_ROOT, raw.replace('\\/', '/'))
             break
 
+    artwork = None
+    m = CDC_IMG_RE.search(page_html)
+    if m:
+        artwork = urllib.parse.urljoin(CDC_ROOT, m.group(1).replace('\\/', '/'))
+
     # Sung takes first (language-tagged before the bare one), then the
     # instrumental, then the minus-one — the order the detail sheet
     # shows them in.
@@ -1040,7 +1079,9 @@ def parse_cdc_media(page_html, code):
         kind_rank = {'vocal': 0, 'instrumental': 1, 'accompaniment': 2}
         return (kind_rank.get(t['kind'], 3), t['lang'] is None, t['url'])
 
-    return {'tracks': sorted(tracks.values(), key=rank), 'score': score}
+    return {'tracks': sorted(tracks.values(), key=rank),
+            'score': score,
+            'artwork': artwork}
 
 
 def build_tracks(candidates):
@@ -1076,10 +1117,15 @@ def pick_primary_audio(tracks, language):
     return vocals[0]['url']
 
 
-def fetch_cdc():
+def fetch_cdc(existing=None):
     """Walk the paginated integrated-list-songs view for (title, code,
     path) rows, then read each song's own page for its real media
     links.
+
+    `existing` (the `{id: row}` map `load_existing()` produces) lets
+    the artwork cover be HEAD-verified only when it is new or has
+    changed — see the comment inside `build` — so a steady-state run
+    pays ~0 extra requests instead of re-checking all ~283 every day.
 
     2026-08-09: this used to DERIVE the URLs from the catalogue code
     (`D0180` → `.../mp3/D0180.mp3`) and HEAD-check the guesses. That
@@ -1147,6 +1193,18 @@ def fetch_cdc():
             else:
                 stripped.append(code)
         language = detect_language(title, default='en')
+
+        artwork = media['artwork']
+        stored_row = (existing or {}).get(f'cdc:{code.lower()}')
+        stored_artwork = stored_row.get('artworkUrl') if stored_row else None
+        if artwork and artwork != stored_artwork:
+            # New or changed since the last run — the one case not
+            # already vouched for by a prior verified publish. A page
+            # that still links the SAME cover it did last time is not
+            # re-checked, which is what keeps a steady-state run cheap.
+            if not cdc_head_ok(artwork):
+                artwork = None
+
         return make_entry(
             'cdc', code.lower(), title, url,
             code=code,
@@ -1156,6 +1214,11 @@ def fetch_cdc():
             accompanimentUrl=_track_url(media['tracks'], 'accompaniment'),
             audioTracks=media['tracks'],
             scoreUrl=media['score'],
+            # Per-song, and the page's own <img> rather than a guess at
+            # the filename — see [CDC_IMG_RE]. Verified above: 92 of
+            # the 283 pages that carry the <img> link a cover that was
+            # never uploaded.
+            artworkUrl=artwork,
             themes=infer_themes(title),
             verse=infer_verse(title),
         )
@@ -1922,7 +1985,7 @@ def verify_links(songs, workers=2, delay=0.25, timeout=10,
     seen = set()
     for s in songs:
         for field in ('audioUrl', 'instrumentalUrl', 'accompanimentUrl',
-                      'videoUrl', 'scoreUrl'):
+                      'videoUrl', 'scoreUrl', 'artworkUrl'):
             if s.get(field):
                 targets.append((s['id'], s['title'], field, s[field]))
                 seen.add(s[field])
@@ -2067,7 +2130,7 @@ def main():
     try:
         fresh = (fetch_fydt(taxonomy, wp_index)
                  + fetch_cahaya()
-                 + fetch_cdc()
+                 + fetch_cdc(existing)
                  + fetch_cdc_hymns(existing)
                  + fetch_cgdc()
                  + fetch_setapak()

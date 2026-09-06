@@ -265,6 +265,66 @@ class CdcStrippedSongPages(unittest.TestCase):
         self.assertNotIn('retry', err)
 
 
+SONG_ARTWORK = ('https://www.christiandiscipleschurch.org/sites/default/'
+                'files/music/jpg/D0001.jpg')
+
+
+class CdcArtwork(unittest.TestCase):
+    """The per-song cover comes from the page's own <img>, not a guess
+    at the filename, and is not published unless it HEAD-verifies."""
+
+    def test_parse_reads_the_img_and_absolutises_it(self):
+        page = f'<img src="/sites/default/files/music/jpg/D0001.jpg" alt="x">'
+        media = ss.parse_cdc_media(page, 'D0001')
+        self.assertEqual(media['artwork'], SONG_ARTWORK)
+
+    def test_parse_with_no_img_returns_none(self):
+        page = f'<a href="{SONG_MP3}">D0001.mp3</a>'
+        media = ss.parse_cdc_media(page, 'D0001')
+        self.assertIsNone(media['artwork'])
+
+    def fetch(self, page_html, existing=None, head_ok=True):
+        heads = []
+
+        def fake_get(url, timeout=30):
+            if 'integrated-list-songs' in url:
+                return cdc_index_html(['D0001']) if url.endswith('page=0') \
+                    else ''
+            return page_html
+
+        def fake_head(url, timeout=15):
+            heads.append(url)
+            return head_ok
+
+        with mock.patch.object(ss, 'cdc_get', fake_get), \
+                mock.patch.object(ss, 'cdc_head_ok', fake_head):
+            rows, _err = quiet(ss.fetch_cdc, existing)
+        return rows, heads
+
+    def test_new_cover_is_verified_before_publishing(self):
+        page = f'<img src="/sites/default/files/music/jpg/D0001.jpg">'
+        rows, heads = self.fetch(page, existing=None, head_ok=True)
+        self.assertEqual(rows[0]['artworkUrl'], SONG_ARTWORK)
+        self.assertEqual(heads, [SONG_ARTWORK])
+
+    def test_a_dead_cover_is_dropped_not_published(self):
+        page = f'<img src="/sites/default/files/music/jpg/D0001.jpg">'
+        rows, heads = self.fetch(page, existing=None, head_ok=False)
+        self.assertIsNone(rows[0]['artworkUrl'])
+        self.assertEqual(heads, [SONG_ARTWORK])
+
+    def test_an_unchanged_cover_is_not_re_verified(self):
+        # Same URL is already stored from a prior verified run — a
+        # steady-state daily sync must pay ~0 extra HEAD requests.
+        page = f'<img src="/sites/default/files/music/jpg/D0001.jpg">'
+        stored = {'cdc:d0001': ss.make_entry(
+            'cdc', 'd0001', 'Song D0001', 'https://example.invalid/d0001',
+            code='D0001', language='en', artworkUrl=SONG_ARTWORK)}
+        rows, heads = self.fetch(page, existing=stored, head_ok=False)
+        self.assertEqual(rows[0]['artworkUrl'], SONG_ARTWORK)
+        self.assertEqual(heads, [])
+
+
 class DegradedRunStillPublishes(unittest.TestCase):
     """The whole point of the 2026-09-05 change: one bad upstream must
     not withhold the other five, and the run must still be red."""
