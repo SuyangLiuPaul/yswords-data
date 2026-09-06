@@ -389,6 +389,48 @@ class DegradedRunStillPublishes(unittest.TestCase):
         self.assertEqual(
             doc['_meta']['sourceHealth']['cdc']['status'], 'degraded')
 
+    def test_a_dead_link_publishes_and_exits_2(self):
+        """Owner's call, 2026-09-07: a dead media link degrades the run,
+        it does not withhold the catalogue.
+
+        Withholding protected nobody. The URL comes off the church's own
+        page, so a link that is dead now is dead in the ALREADY PUBLISHED
+        catalogue too — refusing to publish hands the reader the same
+        broken link, older. It cost eight days and 7 songs once already.
+        """
+        stored = [self.row('fydt', f'f{n}') for n in range(30)]
+        self.write_stored(stored)
+        fresh = [self.row('fydt', f'f{n}') for n in range(30)]
+
+        class Resp:
+            status = 404
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *exc):
+                return False
+
+        def fake_urlopen(req, timeout=None):
+            raise ss.urllib.error.HTTPError(req.full_url, 404, 'gone',
+                                            None, None)
+
+        with mock.patch.object(ss.urllib.request, 'urlopen', fake_urlopen), \
+                mock.patch.object(ss.time, 'sleep', lambda *a, **k: None):
+            rc, err = self.run_main(
+                {'fetch_fydt': fresh, 'fetch_cahaya': [], 'fetch_cdc': [],
+                 'fetch_cdc_hymns': [], 'fetch_cgdc': [],
+                 'fetch_setapak': [], 'fetch_ydh': []},
+                ['--out', self.out, '--verify'])
+
+        self.assertEqual(rc, 2, f'a dead link must degrade, not block: {err}')
+        # The catalogue is on disk, which is the half that matters.
+        with open(self.out, encoding='utf-8') as f:
+            doc = json.load(f)
+        self.assertEqual(len(doc['songs']), 30)
+        # And the run says why it is red.
+        self.assertIn('returned an HTTP error', err)
+
     def test_no_carry_forward_restores_the_refusal(self):
         stored = [self.row('fydt', f'f{n}') for n in range(30)]
         stored.append(self.row('cdc', 'd0001'))

@@ -262,12 +262,25 @@ jobs:
               echo "Clean run." | tee -a "$GITHUB_STEP_SUMMARY"
               ;;
             2)
-              echo "::error title=Songs sync degraded::A source did not answer fully. The catalogue WAS published with that source's previous rows carried forward; see _meta.sourceHealth in data/songs.json and the DEGRADED lines above."
+              # TWO causes reach here, and naming only one of them is how
+              # this job has misreported itself before. A source that did
+              # not answer fully (its previous rows carried forward), or a
+              # media URL that no longer resolves. Both publish; both are
+              # red. Which one it was is in the log.
+              echo "::error title=Songs sync degraded::The catalogue WAS published and the run is still red. Either a source did not answer fully (previous rows carried forward) or a media URL is dead. Grep the log for DEGRADED and for 'returned an HTTP error', and read _meta.sourceHealth in data/songs.json."
               {
                 echo
-                echo "**DEGRADED** — published, but at least one source did"
-                echo "not answer fully. Grep the log for \`DEGRADED\`, or read"
-                echo "\`_meta.sourceHealth\` in \`data/songs.json\`."
+                echo "**DEGRADED** — published, and still red. One of:"
+                echo
+                echo "* a source did not answer fully — its previous rows were"
+                echo "  carried forward. Grep \`DEGRADED\`, read"
+                echo "  \`_meta.sourceHealth\` in \`data/songs.json\`."
+                echo "* a media URL no longer resolves. Grep"
+                echo "  \`returned an HTTP error\`. A dead link degrades the"
+                echo "  run rather than withholding the catalogue: the URL"
+                echo "  comes off the church's own page, so it is dead in the"
+                echo "  previously published catalogue too, and refusing to"
+                echo "  publish would hand readers the same broken link, older."
               } >> "$GITHUB_STEP_SUMMARY"
               exit 1
               ;;

@@ -2408,7 +2408,7 @@ def main():
     if args.dry_run:
         print('\n(dry run — nothing written)')
         if args.verify:
-            return 1 if verify_links(songs) else degraded_rc
+            return 2 if verify_links(songs) else degraded_rc
         return degraded_rc
 
     os.makedirs(os.path.dirname(SONGS_JSON), exist_ok=True)
@@ -2419,7 +2419,25 @@ def main():
     print(f'\n✓ wrote {SONGS_JSON} ({size:,} bytes)')
 
     if args.verify:
-        return 1 if verify_links(songs) else degraded_rc
+        # A dead media link DEGRADES the run; it does not withhold the
+        # catalogue. Owner's call, 2026-09-07, and the reasoning is that
+        # withholding protects nobody:
+        #
+        # These URLs come off the churches' own pages, so a link that is
+        # dead now is dead in the ALREADY PUBLISHED catalogue too — it is
+        # the same file. Refusing to publish does not give a reader a
+        # working button; it gives them the same broken one, older. And
+        # when a page has started advertising a corrected URL, the new
+        # catalogue is the one that WORKS and refusing it is strictly
+        # worse. Meanwhile the staleness is certain: this cost readers
+        # eight days and 7 songs over one link check.
+        #
+        # What still refuses is the FETCH guard — a source that loses its
+        # audio while keeping its songs never reaches this line. That is
+        # the guard that stops a bad fetch shipping dead play buttons,
+        # it is untouched, and it must stay strict.
+        dead = verify_links(songs)
+        return 2 if dead else degraded_rc
     return degraded_rc
 
 
