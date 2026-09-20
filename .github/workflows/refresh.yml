@@ -28,10 +28,33 @@ name: Refresh daily news
 # Previous setup before hourly was four Sydney hours (06/11/16/19)
 # gated by scripts/schedule-window.mjs (file still present, unused).
 
+# ── STOPPED, 2026-09-20 ───────────────────────────────────────────────
+#
+# The owner: 「停了workflow」. The reader this pipeline was built for —
+# News Insight — stopped showing the AI verse and the reflection that
+# day, and the app was delisted from yahwehword.com/about and from the
+# portal the same afternoon. Nothing is waiting on a fresh edition any
+# more.
+#
+# Worth knowing before turning it back on, because it was measured and
+# it is counter-intuitive: cutting only the verse would have saved
+# almost nothing. `aiDeepMatch` makes ONE call per story that returns
+# the verse, the reflection AND the Chinese title/summary — so a
+# news-only feed costs the same quota as a verse-matched one. The
+# saving here is the whole run, not the verse.
+#
+# The schedule is what stopped; `workflow_dispatch` is left so a manual
+# run still works from the Actions tab, and restoring the cadence is
+# uncommenting the two lines below. The last published edition stays
+# served at yswords-data.netlify.app and the apps keep reading it.
+#
+# Still live in this repo: refresh-songs.yml, which feeds Yahweh's
+# Words' hymn catalogue and has nothing to do with the news.
+
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */4 * * *'
+  # schedule:
+  #   - cron: '0 */4 * * *'
 
 permissions:
   contents: write
