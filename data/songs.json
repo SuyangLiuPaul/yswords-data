@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "generatedAt": "2026-10-16T20:27:15Z",
+  "generatedAt": "2026-10-17T20:00:50Z",
   "generator": "scripts/sync_songs.py v2",
   "count": 631,
   "bySource": {
@@ -16,9 +16,9 @@
    "en": 143,
    "zh": 441
   },
-  "withAudio": 586,
+  "withAudio": 602,
   "withVideo": 128,
-  "withScore": 582,
+  "withScore": 598,
   "withLyrics": 221,
   "sources": {
    "fydt": {
@@ -48,14 +48,6 @@
   },
   "notes": {
    "fuyindiantai.org": "fuyindiantai.org is fydt.org under its former domain (it 301-redirected to fydt.org through 2025). Its DNS delegation is currently broken (SERVFAIL — the NS records still point at ns1/ns2.fydt.org, which no longer serve the zone), so it is not fetched. Every song it published is already in this catalogue under source \"fydt\"."
-  },
-  "sourceHealth": {
-   "cahaya": {
-    "status": "degraded",
-    "reasons": [
-     "11 row(s) came back missing or without the media they had last run; the stored rows were carried forward unchanged: cahaya:dengan-cara-mu, cahaya:dunia-ini-bukan-rumahku, cahaya:engkau-yang-maha, cahaya:haleluyah, cahaya:he-is-able, cahaya:ku-mau-memuja-mu, cahaya:love-endures-until-the-end, cahaya:mulia-bapa, cahaya:orang-yang-lemah-lembut-hidup-oleh-kuasa-yahweh, cahaya:tak-berarti-tanpa-kasih, cahaya:the-only-true-god"
-    ]
-   }
   }
  },
  "songs": [
@@ -87,7 +79,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:allah-kehidupanku",
@@ -96,7 +88,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -108,8 +100,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "OzGNED4vl70",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "1018288369",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/allah-kehidupanku.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -119,7 +111,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:bah-ruilah-tali-kasih-kami",
@@ -128,7 +120,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -140,8 +132,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "5uvnveKJfhg",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "797235199",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/bah'ruilah_tali_kasih_kami.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -149,7 +141,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:dengan-cara-mu",
@@ -177,7 +169,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:dengan-caramu",
@@ -205,7 +197,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:dunia-ini-bukan-rumahku",
@@ -233,7 +225,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:engkau-yang-maha",
@@ -261,7 +253,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:hadavar-yahweh",
@@ -291,7 +283,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:haleluyah",
@@ -319,7 +311,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:hanya-kau-kekuatanku",
@@ -328,7 +320,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -340,8 +332,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "CofZTBwNDRY",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "983157253",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/hanya_kau_kekuatanku.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -349,7 +341,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:he-is-able",
@@ -377,7 +369,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:he-is-able-dia-sanggup",
@@ -405,7 +397,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:hiduku-t-lah-kau-ubahkan",
@@ -433,7 +425,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:hidup-dengan-rukun",
@@ -442,7 +434,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -454,8 +446,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "oYxuvyCACc8",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "836717677",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/hidup_dengan_rukun.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -464,7 +456,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:hikmat",
@@ -473,7 +465,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -485,8 +477,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "A0brUY5cGjQ",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "825577555",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/hikmat.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -494,7 +486,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:karena-kasih-allah",
@@ -503,7 +495,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -515,8 +507,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "1jTQ-nIIV78",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "1018287499",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/karena-kasih-allah.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -525,7 +517,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:kasih-allah",
@@ -534,7 +526,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -546,8 +538,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "kPmBgOnQO0c",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "797235145",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/kasih_allah.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -556,7 +548,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:kasih-kekal-selamanya",
@@ -565,7 +557,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -577,8 +569,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "NnZ3QffIaA4",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "797235121",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/kasih_kekal_selamanya.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -586,7 +578,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:kau-harapanku",
@@ -616,7 +608,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:kau-membuatku-indah",
@@ -644,7 +636,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:ku-mau-memuja-mu",
@@ -674,7 +666,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:kuasa-yahweh-jadi-sempurna",
@@ -705,7 +697,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:k-hendak-yahweh-bagi-kita",
@@ -714,7 +706,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -726,8 +718,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "uk-bIIrtsRs",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "867692035",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/kehendak_yahweh_bagi_kita.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -735,7 +727,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:lagu-berkat",
@@ -763,7 +755,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:love-endures-until-the-end",
@@ -793,7 +785,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:melawan-arus",
@@ -802,7 +794,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -814,14 +806,14 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "nk0_CbMiaMc",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "797235052",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/melawan_arus.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:memuja-menyembahmu",
@@ -851,7 +843,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:mendekat-pada-yahweh",
@@ -881,7 +873,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:mulia-bapa",
@@ -911,7 +903,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:mulia-bapa-yahweh",
@@ -942,7 +934,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:orang-yang-lemah-lembut-hidup-oleh-kuasa-roh-yahweh",
@@ -975,7 +967,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:orang-yang-lemah-lembut-hidup-oleh-kuasa-yahweh",
@@ -1007,7 +999,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:pandang-mulianya-yahweh-bersinar",
@@ -1038,7 +1030,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:pengharapan-yang-indah",
@@ -1047,7 +1039,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -1059,8 +1051,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "9Z7FmXVgH7E",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "813221842",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/pengharapan_yang_indah.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -1068,7 +1060,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:setiap-hari",
@@ -1096,7 +1088,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:sukacita-umat-yahweh",
@@ -1105,7 +1097,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -1117,8 +1109,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "qVCr7mkiLS4",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "990299335",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/sukacita_umat_yahweh.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -1126,7 +1118,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:s-luruh-bumi-penuh-pengenalan-akan-yahweh",
@@ -1156,7 +1148,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:tak-berarti-tanpa-kasih",
@@ -1186,7 +1178,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:tak-pernah-berhenti",
@@ -1195,7 +1187,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -1207,14 +1199,14 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "ZNz7yefVW_E",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "1018287184",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/tak-pernah-berhenti.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:tak-satupun",
@@ -1223,7 +1215,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -1235,14 +1227,14 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "7nX8JfOT9Uk",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "797239573",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/tak_satupun.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:tanpamu-segala-tak-berarti",
@@ -1270,7 +1262,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:the-only-true-god",
@@ -1298,7 +1290,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-15T20:52:41Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:tujuanku-adalah-yahweh",
@@ -1328,7 +1320,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:untukmu",
@@ -1337,7 +1329,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -1349,14 +1341,14 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "FGLkuiBxIBc",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "990299836",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/untukmu_all_for_you.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:yahweh-allahku-hanya-kau",
@@ -1386,7 +1378,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:yahweh-yang-kekal",
@@ -1395,7 +1387,7 @@
    "source": "cahaya",
    "sourceLabel": "Cahaya Pengharapan",
    "code": null,
-   "url": "https://cahayapengharapan.org/pujian/video-pujian/",
+   "url": "https://cahayapengharapan.org/pujian/",
    "album": null,
    "artist": null,
    "composer": null,
@@ -1407,8 +1399,8 @@
    "audioTracks": [],
    "videoUrl": null,
    "youtubeId": "6Vh4c18u56s",
-   "soundcloudTrackId": null,
-   "scoreUrl": null,
+   "soundcloudTrackId": "825582601",
+   "scoreUrl": "https://cahayapengharapan.org/wp-content/uploads/song-sheets/yahweh_yang_kekal.pdf",
    "artworkUrl": null,
    "lyrics": null,
    "themes": [
@@ -1416,7 +1408,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cahaya:z-hu-hikmat",
@@ -1446,7 +1438,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cdc:d0180",
@@ -12915,7 +12907,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-04",
@@ -12949,7 +12941,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-05",
@@ -12983,7 +12975,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-01",
@@ -13017,7 +13009,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-02",
@@ -13051,7 +13043,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-13",
@@ -13085,7 +13077,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-14",
@@ -13119,7 +13111,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-01",
@@ -13153,7 +13145,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-15",
@@ -13187,7 +13179,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-02",
@@ -13221,7 +13213,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-03",
@@ -13255,7 +13247,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-16",
@@ -13291,7 +13283,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-06",
@@ -13327,7 +13319,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-13",
@@ -13361,7 +13353,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-12",
@@ -13398,7 +13390,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-12",
@@ -13434,7 +13426,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-09",
@@ -13470,7 +13462,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-03",
@@ -13507,7 +13499,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-10",
@@ -13541,7 +13533,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-01",
@@ -13575,7 +13567,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-04",
@@ -13609,7 +13601,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-04",
@@ -13643,7 +13635,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-13",
@@ -13679,7 +13671,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-09",
@@ -13713,7 +13705,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-06",
@@ -13747,7 +13739,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-01",
@@ -13781,7 +13773,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-09",
@@ -13815,7 +13807,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-08",
@@ -13849,7 +13841,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-08",
@@ -13887,7 +13879,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-14",
@@ -13923,7 +13915,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-06",
@@ -13957,7 +13949,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-16",
@@ -13991,7 +13983,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-07",
@@ -14025,7 +14017,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-17",
@@ -14059,7 +14051,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-02",
@@ -14095,7 +14087,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-12",
@@ -14131,7 +14123,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-09",
@@ -14167,7 +14159,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-17",
@@ -14203,7 +14195,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-13",
@@ -14237,7 +14229,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-11",
@@ -14271,7 +14263,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-06",
@@ -14307,7 +14299,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-14",
@@ -14343,7 +14335,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-14",
@@ -14379,7 +14371,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-11",
@@ -14413,7 +14405,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-12",
@@ -14447,7 +14439,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-15",
@@ -14481,7 +14473,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-05",
@@ -14515,7 +14507,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-08",
@@ -14549,7 +14541,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-10",
@@ -14585,7 +14577,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-10",
@@ -14622,7 +14614,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-05",
@@ -14658,7 +14650,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-07",
@@ -14692,7 +14684,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-04",
@@ -14726,7 +14718,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-08",
@@ -14760,7 +14752,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-02",
@@ -14794,7 +14786,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-18",
@@ -14830,7 +14822,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-05",
@@ -14866,7 +14858,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-11",
@@ -14902,7 +14894,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2023-10",
@@ -14938,7 +14930,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2026-07",
@@ -14972,7 +14964,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-11",
@@ -15006,7 +14998,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2025-03",
@@ -15040,7 +15032,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "cgdc:2024-07",
@@ -15074,7 +15066,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-08-09T10:53:53Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "fydt:299",
@@ -16268,7 +16260,7 @@
    ],
    "verse": "Matthew 5:14-16",
    "firstSeenAt": "2026-08-09T09:15:52Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "fydt:569",
@@ -23835,7 +23827,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-09-07T21:08:31Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "setapak:2902",
@@ -23863,7 +23855,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-09-07T21:08:31Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "ydh:YTp0Z_TYOns",
@@ -23893,7 +23885,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-09-07T21:08:31Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "ydh:4GBO6CWR6go",
@@ -23923,7 +23915,7 @@
    ],
    "verse": "Acts 5:30-31",
    "firstSeenAt": "2026-09-07T21:08:31Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "ydh:4ImxTDU5J0k",
@@ -23954,7 +23946,7 @@
    ],
    "verse": "Luke 9:22-23",
    "firstSeenAt": "2026-09-07T21:08:31Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "ydh:xrHR1ybo1J0",
@@ -23984,7 +23976,7 @@
    ],
    "verse": null,
    "firstSeenAt": "2026-09-07T21:08:31Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   },
   {
    "id": "ydh:s3-qcRZrfZk",
@@ -24012,7 +24004,7 @@
    "themes": [],
    "verse": null,
    "firstSeenAt": "2026-09-07T21:08:31Z",
-   "updatedAt": "2026-10-16T20:27:15Z"
+   "updatedAt": "2026-10-17T20:00:50Z"
   }
  ]
 }
